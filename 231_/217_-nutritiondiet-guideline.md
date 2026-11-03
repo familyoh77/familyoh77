@@ -13,6 +13,7 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 영양 공급 시작·증량 후 새 부종, 심한 위약, 호흡곤란, 부정맥·의식 변화 또는 급격한 인·칼륨·마그네슘 저하 → 재영양증후군 의심; 즉시 전해질·심혈관·호흡 상태 평가  `재영양증후군`
+* 고중성지방혈증 환자에서 새로 발생한 심한 상복부 통증·등으로 뻗치는 통증과 반복 구토 → 급성 췌장염 응급 평가  `급성 췌장염 의심`
 * 지속적 구토·설사와 함께 혈역학적 불안정, 의식 변화 또는 심한 전해질 이상 → 응급 평가·수액 및 전해질 교정  `중증 탈수·전해질 이상`
 * 음식 섭취 후 아나필락시스 의심 → 즉시 아나필락시스 대응  `아나필락시스`
 * 심한 복통·복부팽만, 반복 구토, 대변·가스 배출 중단 → 장폐색 응급 평가; 식이섬유·팽창성 완하제 투여 회피  `장폐색 의심`
@@ -44,15 +45,19 @@
 
 ```mermaid
 graph TD
-    Start([영양 상담을 위한 내원]) ---> Screen{"Red Flags에 해당?"}
-    Screen --->|예| Refer["해당 단계의 조치·평가 시행"]
-    Screen --->|아니오| Chronic{"영양불량 위험·노쇠·수분 섭취 부족 또는 질환별 개별화 필요?"}
+    Start(["영양불량·식사 조절 필요 의심"]) --> Emergency{"즉각 조치가 필요한가?"}
+    Emergency -->|예| Urgent(["응급 처치·이송 또는 응급 의뢰"])
+    Emergency -->|아니오| Screen{"그 밖의 Red Flags에 해당?"}
+    Screen -->|예| Refer["해당 시점에 원인 평가·의뢰"]
+    Screen -->|아니오| Chronic{"영양불량 위험·노쇠·수분 섭취 부족 또는 질환별 개별화 필요?"}
     Chronic --->|예| Individualize["질환·상황별 영양 계획 및 필요시 협진"]
     Chronic --->|아니오| General["2025 KDRI·식생활지침 기반 일반 상담 진행"]
-    General ---> FollowUp["환자와 합의한 시점에 재평가"]
+    General ---> FollowUp(["환자와 합의한 시점에 재평가"])
     Individualize ---> FollowUp
     Refer ---> FollowUp
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style Emergency fill:#fff9c4,stroke:#ffe082
+    style Urgent fill:#f96,stroke:#e65100,stroke-width:2px
     style Screen fill:#fff9c4,stroke:#ffe082
     style Chronic fill:#fff9c4,stroke:#ffe082
     style Refer fill:#f96,stroke:#e65100,stroke-width:2px
@@ -64,7 +69,7 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* 영양불량·탈수 위험, 질환별 치료 목표 및 현재 식사를 먼저 평가하고, 환자가 지속할 수 있는 1~2개의 구체적 목표를 함께 정함.
+* 영양불량·탈수 위험, 질환별 치료 목표 및 현재 식사를 먼저 평가하고, 환자가 지속할 수 있는 1\~2개의 구체적 목표를 함께 정함.
 * 식사 구성·음식 보강·식사 지원을 우선하고, 필요량 미충족 시 ONS와 전문 영양지원을 단계적으로 검토함. 재영양증후군 고위험군은 별도 공급 계획을 적용함.
 * 단순한 영양소 목표 미달이나 보충제 상담은 그 자체로 Red Flag가 아니며 정기 상담에서 다룸. 체중·혈압은 수주 내, HbA1c는 통상 약 3개월, 지질은 치료 변경과 임상 상황에 맞추어 재평가함.
 * 섭취량·체중뿐 아니라 근력·일상생활 기능·내약성 및 실제 실천 가능성을 추적함. 질환별 식이 제한으로 섭취가 더 감소하면 제한의 적응증과 정도를 재평가함.
@@ -73,13 +78,13 @@ graph TD
 
 ### <mark style="color:orange;">2025 한국인 영양소 섭취기준</mark>
 
-2025 한국인 영양소 섭취기준(KDRIs)은 건강한 개인과 인구집단의 영양 상태를 평가하고 식사를 계획하기 위한 기준임. 평균필요량, 권장섭취량, 충분섭취량, 상한섭취량, 에너지적정비율 및 만성질환위험감소섭취량은 의미가 서로 다르므로 단일한 '최소 섭취량'으로 해석하지 않음.
+2025 한국인 영양소 섭취기준(KDRIs)은 건강한 개인과 인구집단의 영양 상태를 평가하고 식사를 계획하기 위한 기준임. 평균필요량, 권장섭취량, 충분섭취량, 상한섭취량, 에너지적정비율 및 만성질환위험감소섭취량은 의미가 서로 다르므로 단일한 '최소 섭취량'으로 해석하지 않음. 특히 충분섭취량(AI)보다 낮다는 사실만으로 개인의 섭취 부족이나 결핍을 진단하지 않음.
 
 #### <mark style="color:$primary;">에너지적정비율과 당류</mark>
 
 아래 에너지적정비율 표는 19세 이상 성인을 중심으로 제시함. 영아·유아·소아의 지방·포화지방 기준 등에는 연령별 차이가 있으므로 별도 KDRI 표를 사용함.
 
-<table><thead><tr><th width="110">항목</th><th width="180">2025 KDRI</th><th>임상적 해석</th></tr></thead><tbody><tr><td>탄수화물</td><td>총 에너지의 50\~65%</td><td>정제곡물·첨가당보다 통곡물, 콩류, 채소 등 질이 좋은 탄수화물을 우선함.</td></tr><tr><td>단백질</td><td>총 에너지의 10\~20%</td><td>필요량은 체중, 연령, 근감소증, 임신·수유 및 신장·간질환에 따라 달라짐.</td></tr><tr><td>지방</td><td>총 에너지의 15\~30%</td><td>포화지방 대신 불포화지방이 풍부한 식품을 선택함.</td></tr><tr><td>포화지방산</td><td>총 에너지의 7% 미만</td><td>지방이 많은 육류, 버터, 팜유·코코넛유 등 주요 급원의 섭취량을 평가함.</td></tr><tr><td>트랜스지방산</td><td>총 에너지의 1% 미만</td><td>부분경화유와 이를 사용한 가공식품을 줄임.</td></tr><tr><td>총당류</td><td>총 에너지의 20% 이내</td><td>식품에 자연적으로 존재하는 당과 첨가당을 모두 포함함.</td></tr><tr><td>첨가당</td><td>총 에너지의 10% 이내로 제한</td><td>설탕, 물엿, 시럽, 꿀 등 조리·가공 과정에서 첨가한 당을 포함함.</td></tr><tr><td>가당음료</td><td>가능한 줄임</td><td>탄산음료, 가당 커피·차, 스포츠·에너지음료 등을 포함함.</td></tr></tbody></table>
+<table><thead><tr><th width="110">항목</th><th width="180">2025 KDRI</th><th>임상적 해석</th></tr></thead><tbody><tr><td>탄수화물</td><td>총 에너지의 50\~65%</td><td>정제곡물·첨가당보다 통곡물, 콩류, 채소 등 질이 좋은 탄수화물을 우선함.</td></tr><tr><td>단백질</td><td>총 에너지의 10\~20%</td><td>필요량은 체중, 연령, 근감소증, 임신·수유 및 신장·간질환에 따라 달라짐.</td></tr><tr><td>지방</td><td>총 에너지의 15\~30%</td><td>포화지방 대신 불포화지방이 풍부한 식품을 선택함.</td></tr><tr><td>포화지방산</td><td>총 에너지의 7% 미만</td><td>지방이 많은 육류, 버터, 팜유·코코넛유 등 주요 급원의 섭취량을 평가함.</td></tr><tr><td>트랜스지방산</td><td>총 에너지의 1% 미만</td><td>부분경화유와 이를 사용한 가공식품을 줄임.</td></tr><tr><td>총당류</td><td>총 에너지의 20% 이내</td><td>식품에 자연적으로 존재하는 당과 첨가당을 모두 포함함.</td></tr><tr><td>첨가당</td><td>총 에너지의 10% 이내로 제한</td><td>설탕, 액상과당, 물엿, 당밀, 시럽, 꿀, 농축과일주스 등 조리·가공 과정에서 첨가한 당을 포함함.</td></tr><tr><td>가당음료</td><td>가능한 줄임</td><td>탄산음료, 가당 커피·차, 스포츠·에너지음료 등을 포함함.</td></tr></tbody></table>
 
 {% hint style="info" %}
 * 위 비율은 일반인용 기준임. 당뇨병의 탄수화물 비율, 중증 고중성지방혈증의 지방 제한, 노쇠·콩팥병의 단백질 목표는 질환별로 정함.
@@ -142,12 +147,12 @@ graph TD
 
 {% hint style="info" %}
 **아래 계수는 대한당뇨병학회에서 안내하는 활동량 기반 임상 간편 추정 범위이며 KDRI의 공식 에너지 필요추정식은 아님.**\
-아래 계수는 유지 필요량의 초기 추정에 활용함. 낮은 목표체중을 적용한 뒤 열량 감량을 기계적으로 중복 적용하지 않으며 실제 유지 섭취량·체중 추세와 대조함. 초기 추정치는 2\~4주간의 체중 변화, 섭취량, 허리둘레, 신체활동 및 치료 반응에 따라 조정함. 체중 감량이 필요하면 유지 필요량에서 통상 300\~500 ㎉/day 감량하는 방법을 참고하되 과도한 제한을 피함. 임신·수유, 성장기, 심한 저체중·비만, 노쇠, 부종·복수, 절단, 화상, 중환자 및 섭식장애에는 그대로 적용하지 않음. 가능하면 검증된 연령·성별 에너지 필요추정량 또는 간접열량측정을 사용함.
+학회 원자료는 표준체중을 사용함. 본 장에서 목표체중·평가용 체중을 개별화하여 적용하는 것은 임상 재구성이며 학회의 공식 계산식을 그대로 옮긴 것은 아님. 아래 계수는 유지 필요량의 초기 추정에 활용함. 낮은 목표체중을 적용한 뒤 열량 감량을 기계적으로 중복 적용하지 않으며 실제 유지 섭취량·체중 추세와 대조함. 초기 추정치는 2\~4주간의 체중 변화, 섭취량, 허리둘레, 신체활동 및 치료 반응에 따라 조정함. 체중 감량이 필요하면 유지 필요량에서 통상 300\~500 ㎉/day 감량하는 방법을 참고하되 과도한 제한을 피함. 임신·수유, 성장기, 심한 저체중·비만, 노쇠, 부종·복수, 절단, 화상, 중환자 및 섭식장애에는 그대로 적용하지 않음. 가능하면 검증된 연령·성별 에너지 필요추정량 또는 간접열량측정을 사용함.
 {% endhint %}
 
 <table><thead><tr><th width="220">활동 수준</th><th width="150">초기 계수</th><th>적용 시 주의</th></tr></thead><tbody><tr><td>육체활동이 거의 없음</td><td>25\~30 ㎉/㎏/day</td><td>사무직이라도 비운동성 활동량과 치료 목표에 따라 필요량 차이가 큼.</td></tr><tr><td>보통의 활동</td><td>30\~35 ㎉/㎏/day</td><td>실제 섭취량과 체중 변화를 함께 평가함.</td></tr><tr><td>심한 육체활동</td><td>35\~40 ㎉/㎏/day</td><td>직업·운동 종류와 훈련량을 확인하고 필요시 임상영양 평가를 시행함.</td></tr></tbody></table>
 
-<mark style="color:$info;">Ref. 대한당뇨병학회. 나의 1일 에너지 필요량은?; 질병관리청 국가건강정보포털. 건강한 체중조절을 위한 식사.</mark>
+<mark style="color:$info;">Ref. 대한당뇨병학회. [나의 1일 에너지 필요량은?](https://www.diabetes.or.kr/general/dietary/dietary_02.php?con=2); 질병관리청 국가건강정보포털. 건강한 체중조절을 위한 식사.</mark>
 
 ***
 
@@ -162,6 +167,14 @@ graph TD
 * 유제품·대체품 : 무가당 제품을 우선하고 칼슘 강화 여부를 확인
 
 > 과일주스는 무가당이라도 통과일보다 식이섬유와 포만감이 적고 빠르게 섭취되므로 일상적인 과일 대체품으로 권하지 않음. 말린 과일은 수분이 적어 당과 에너지 밀도가 높으므로 소량 섭취함.
+
+#### <mark style="color:$primary;">제로 음료·비당류감미료 상담</mark>
+
+* 물·무가당 음료를 우선함. WHO 2023은 비당류감미료를 장기 체중조절·비감염성질환 예방 수단으로 사용하지 않도록 조건부 권고했으며, 이 권고의 대상에서는 기존 당뇨병 환자를 제외함. 개별 감미료의 독성·허용섭취량에 관한 판정과도 구분함.
+* ADA 2026은 당뇨병·당뇨병전단계에서 가당 제품을 대신하여 총탄수화물·에너지를 줄이는 목적으로 비영양감미료를 적당량·단기간 사용할 수 있다고 설명함. 감미료 음료를 무제한 권하거나 장기 건강상 이득이 입증되었다고 설명하지 않음.
+* 무설탕·제로 표시만으로 총탄수화물이 0인 것은 아님. 당알코올 함유 식품은 과량 섭취 시 복통·가스·설사를 유발할 수 있어 성분표와 내약성을 확인함.
+
+<mark style="color:$info;">Ref. WHO. [Use of non-sugar sweeteners](https://www.who.int/publications/i/item/9789240073616). 2023; American Diabetes Association. Standards of Care in Diabetes—2026, section 5; FDA. [Sugar Alcohols](https://www.accessdata.fda.gov/scripts/InteractiveNutritionFactsLabel/assets/InteractiveNFL_SugarAlcohols_October2021.pdf).</mark>
 
 ***
 
@@ -195,10 +208,10 @@ DASH(Dietary Approaches to Stop Hypertension)는 채소, 과일, 통곡물, 무�
 
 {% hint style="danger" %}
 **⚠️ 염화칼륨 함유 소금 대체제 주의**\
-염화칼륨 함유 소금 대체제는 일부 성인의 혈압 관리에 도움이 될 수 있지만, 만성콩팥병, 고칼륨혈증 또는 ACE 억제제·ARB·ARNI·MRA 등 혈중 칼륨을 높일 수 있는 약물 복용 환자에게 임의로 권하지 않음.
+염화칼륨 함유 소금 대체제는 일부 성인의 혈압 관리에 도움이 될 수 있지만, 만성콩팥병, 고칼륨혈증 또는 ACE 억제제·ARB·ARNI·MRA 등 혈중 칼륨을 높일 수 있는 약물 복용 환자에게 임의로 권하지 않음. WHO 2025의 조건부 권고는 칼륨 배설에 문제가 없는 일반 성인이 조리·식탁에서 사용하는 소금을 대체하는 상황을 대상으로 하며 임신부·소아에는 적용하지 않음. 소금 대체제를 사용하더라도 총 소금 섭취량을 늘리지 않음.
 {% endhint %}
 
-<mark style="color:$info;">Ref. National Heart, Lung, and Blood Institute. [DASH Eating Plan](https://www.nhlbi.nih.gov/health/dash-eating-plan).</mark>
+<mark style="color:$info;">Ref. National Heart, Lung, and Blood Institute. [DASH Eating Plan](https://www.nhlbi.nih.gov/health/dash-eating-plan); WHO. [Use of lower-sodium salt substitutes](https://www.who.int/publications/i/item/9789240105591). 2025.</mark>
 
 #### <mark style="color:$primary;">국내 나트륨 기준과 실천</mark>
 
@@ -218,7 +231,7 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 <table><thead><tr><th width="150">권장 식품군</th><th width="130">기준</th><th width="150">제한 식품군</th><th>기준</th></tr></thead><tbody><tr><td>녹색 잎채소</td><td>주 6회 이상</td><td>붉은 고기</td><td>주 4회 미만</td></tr><tr><td>기타 채소</td><td>하루 1회 이상</td><td>버터·마가린</td><td>하루 1큰술 미만</td></tr><tr><td>베리류</td><td>주 2회 이상</td><td>치즈</td><td>주 1회 미만</td></tr><tr><td>견과류</td><td>주 5회 이상</td><td>과자·단 음식</td><td>주 5회 미만</td></tr><tr><td>콩류</td><td>주 3회 초과(통상 ≥4회)</td><td>튀김·패스트푸드</td><td>주 1회 미만</td></tr><tr><td>통곡물</td><td>하루 3회 이상</td><td></td><td></td></tr><tr><td>생선</td><td>주 1회 이상</td><td></td><td></td></tr><tr><td>가금류</td><td>주 2회 이상</td><td></td><td></td></tr><tr><td>올리브유</td><td>주된 식용유</td><td></td><td></td></tr></tbody></table>
 
 * 한식에서는 녹색 잎채소를 시금치·나물류로, 콩류를 두부·콩으로 쉽게 대체할 수 있음.
-* 관찰 연구에서는 준수도가 높을수록 인지 저하 속도가 느리고 알츠하이머병 발생 위험이 낮았으나, 인지 정상 고령자 대상 MIND diet RCT(3년, 양군 모두 경도 열량 제한 병행)에서는 대조 식사와 인지 변화에 유의한 차이가 없었다 [NEJM 2023]. 인지 저하 예방효과가 입증된 식사법으로 설명하지 않고, 심혈관 위험 관리를 겸한 건강한 식사 패턴의 하나로 권함.
+* 관찰 연구에서는 준수도가 높을수록 인지 저하 속도가 느리고 알츠하이머병 발생 위험이 낮았으나, 인지 정상 고령자 대상 MIND diet RCT(3년, 양군 모두 경도 열량 제한 병행)에서는 대조 식사와 인지 변화에 유의한 차이가 없었음.  <mark style="color:$info;">[N Engl J Med 2023]</mark> 인지 저하 예방효과가 입증된 식사법으로 설명하지 않고, 심혈관 위험 관리를 겸한 건강한 식사 패턴의 하나로 권함.
 * 위 표는 원 MIND 점수의 식품 빈도 기준을 참고하되 음주 항목을 제외한 상담용 요약이며, 검증된 점수표를 그대로 재현한 것은 아님. '회'는 연구의 표준 1회 분량 기준이므로 임의의 한 입이나 한 접시로 채점하지 않음.
 * 원 식사법의 와인(하루 1잔) 항목은 권하지 않으며, 인지 보호 목적으로 음주를 시작하도록 권하지 않음.
 
@@ -248,6 +261,17 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 
 ### <mark style="color:orange;">주요 영양소</mark>
 
+#### <mark style="color:$primary;">단백질</mark>
+
+2025 KDRI의 건강한 성인 단백질 **권장섭취량(RNI)**은 아래와 같음. 식품 무게가 아니라 실제 단백질 양이며, 고령자 영양불량·급성질환·투석 등에서의 치료 목표와 구분함.
+
+<table><thead><tr><th>성별·연령</th><th>단백질 권장섭취량</th></tr></thead><tbody><tr><td>남성 19\~49세</td><td>65 g/day</td></tr><tr><td>남성 50세 이상</td><td>60 g/day</td></tr><tr><td>여성 19\~29세</td><td>55 g/day</td></tr><tr><td>여성 30세 이상</td><td>50 g/day</td></tr></tbody></table>
+
+* 콩류·두부, 생선, 달걀, 유제품과 살코기 등 다양한 급원을 끼니마다 배치함. 저열량식에서는 단백질의 에너지비율만 충족해도 절대량이 부족할 수 있어 g/day도 함께 확인함.
+* 고령자·노쇠, 만성콩팥병 및 간경변의 체중당 목표는 아래 「질환·상황별 개별화」를 따름. 부종·복수·심한 비만이 있으면 계산에 사용할 체중을 별도로 정함.
+
+<mark style="color:$info;">Ref. 보건복지부·한국영양학회. 2025 한국인 영양소 섭취기준, 단백질 권장섭취량 표.</mark>
+
 #### <mark style="color:$primary;">식이섬유</mark>
 
 식이섬유는 사람의 소장에서 소화·흡수되지 않는 탄수화물과 리그닌 중 식품에 본래 존재하거나, 분리·합성되어 유익한 생리작용이 확인된 성분을 포함함. 수용성·불용성만으로 생리효과를 단정하지 않고 점성, 발효성, 식품 구조와 섭취량을 함께 고려함.
@@ -275,7 +299,7 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 * 섭취량은 수주에 걸쳐 서서히 늘리고, 수분 제한이 없는 경우 물을 충분히 섭취함.
 * 장폐색·분변매복이 의심되거나 심한 협착이 있는 환자에게 식이섬유 또는 팽창성 완하제를 임의로 늘리지 않는다.
 * 식이섬유 보충제는 약물 흡수에 영향을 줄 수 있으므로 제품 설명과 약물별 상호작용을 확인하여 복용 간격을 정함. 삼키기 어렵거나 충분한 물을 함께 마시기 어려운 환자는 팽창성 제제의 적합성을 먼저 평가함.
-* 변비 치료에서 082장의 20~30 g/day는 증상·기존 섭취량·내약성에 맞춘 임상 목표이며 KDRI 충분섭취량과 목적이 다름. 연구된 섬유 보충제 중 psyllium의 효과 근거가 가장 분명함. IBS-C·팽만 환자에서는 밀기울·inulin 등이 증상을 악화시킬 수 있으며, 정상 수화 상태에서 물만 과량 추가하는 효과는 제한적임. 배변장애·분변매복 등 원인평가를 섬유 증량으로 대신하지 않음.  <mark style="color:$info;">[AGA/ACG 2023; 082장]</mark>
+* 변비 치료에서 082장의 20\~30 g/day는 증상·기존 섭취량·내약성에 맞춘 임상 목표이며 KDRI 충분섭취량과 목적이 다름. 연구된 섬유 보충제 중 psyllium의 효과 근거가 가장 분명함. IBS-C·팽만 환자에서는 밀기울·inulin 등이 증상을 악화시킬 수 있으며, 정상 수화 상태에서 물만 과량 추가하는 효과는 제한적임. 배변장애·분변매복 등 원인평가를 섬유 증량으로 대신하지 않음.  <mark style="color:$info;">[AGA/ACG 2023; 082장]</mark>
 
 ##### <mark style="color:$primary;">국내 식품성분 자료의 사용</mark>
 
@@ -288,8 +312,13 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 
 #### <mark style="color:$primary;">칼슘</mark>
 
-* 2025 KDRI 성인 칼슘 **권장섭취량(RNI)** : 남성 19세 이상 800 ㎎/day, 여성 19~49세 650 ㎎/day·50세 이상 750 ㎎/day. 식사와 보충제를 합한 총 섭취량이며 보충제 처방량이 아님. 임신·수유 중 부가량은 0 ㎎/day이지만 실제 식사로 해당 연령 필요량을 충족하는지 확인함.
-* 식사를 우선하고 부족분에 한해 보충함. 원소칼슘 함량을 기준으로 평가하고 제산제·복합영양제와의 중복을 확인함. 탄산칼슘은 식사와 함께, 위산이 적거나 PPI를 사용하는 환자는 위산 의존도가 낮은 구연산칼슘을 고려할 수 있음. 칼슘 보충제는 변비를 유발할 수 있으며 levothyroxine·철·일부 항생제 등과의 복용 간격을 제품별로 확인함.  <mark style="color:$info;">[NIH ODS; 073·082장]</mark>
+* 2025 KDRI 성인 칼슘 **권장섭취량(RNI)** : 남성 19세 이상 800 ㎎/day, 여성 19\~49세 650 ㎎/day·50세 이상 750 ㎎/day. 식사와 보충제를 합한 총 섭취량이며 보충제 처방량이 아님. 임신·수유 중 부가량은 0 ㎎/day이지만 실제 식사로 해당 연령 필요량을 충족하는지 확인함.
+* 식사를 우선하고 부족분에 한해 보충함. 원소칼슘 함량을 기준으로 평가하고 제산제·복합영양제와의 중복을 확인함. 보충량이 많으면 1회 원소칼슘 약 500 ㎎ 이하로 나누어 복용하는 방법을 고려함. 탄산칼슘은 식사와 함께, 위산이 적거나 PPI를 사용하는 환자는 위산 의존도가 낮은 구연산칼슘을 고려할 수 있음. 칼슘 보충제는 변비를 유발할 수 있으며 levothyroxine·철·일부 항생제 등과의 복용 간격을 제품별로 확인함.  <mark style="color:$info;">[NIH ODS; 073·082장]</mark>
+
+* 혈청 칼슘은 항상성 조절을 받으므로 정상 수치만으로 칼슘 섭취가 충분하다고 판단하지 않음.
+* 2025 KDRI 성인 칼슘 **상한섭취량(UL)**은 아래와 같음. 식사·보충제·칼슘 함유 의약품의 총섭취량에 적용하는 기준이며 목표 섭취량이 아님. 해외 UL을 국내 기준으로 대체하지 않음.
+
+<table><thead><tr><th>성별·연령</th><th>칼슘 상한섭취량</th></tr></thead><tbody><tr><td>남성 19\~29세</td><td>3,000 ㎎/day</td></tr><tr><td>남성 30세 이상</td><td>2,500 ㎎/day</td></tr><tr><td>여성 19\~29세</td><td>2,500 ㎎/day</td></tr><tr><td>여성 30\~74세</td><td>2,000 ㎎/day</td></tr><tr><td>여성 75세 이상</td><td>3,000 ㎎/day</td></tr></tbody></table>
 
 칼슘 함량은 식품의 종류뿐 아니라 가공·강화 여부와 두부 응고제 등에 따라 크게 달라짐. 외국 제품의 100 g당 수치보다 국내 제품의 통상 1회 섭취량과 영양표시를 사용함.
 
@@ -297,21 +326,30 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 
 #### <mark style="color:$primary;">비타민 D</mark>
 
-* 2025 KDRI 성인 비타민 D **충분섭취량(AI)** : 19~64세 10 μg/day(400 IU/day), 65세 이상 15 μg/day(600 IU/day). 임신·수유 중 부가량은 0 μg/day임. 이는 건강한 인구집단의 섭취기준이며 결핍 치료·골다공증 치료의 처방량과 구분함.
+* 2025 KDRI 성인 비타민 D **충분섭취량(AI)** : 19\~64세 10 μg/day(400 IU/day), 65세 이상 15 μg/day(600 IU/day). 임신·수유 중 부가량은 0 μg/day임. 이는 건강한 인구집단의 섭취기준이며 결핍 치료·골다공증 치료의 처방량과 구분함.
 * 식품 함량은 자연 함유량과 강화 여부에 따라 달라짐. `1 μg = 40 IU`임.
 
 <table><thead><tr><th width="170">주요 급원</th><th width="150">통상 섭취 단위 예</th><th>확인할 점</th></tr></thead><tbody><tr><td>등푸른 생선·지방이 많은 생선</td><td>구이 또는 조림 1토막</td><td>어종·양식 여부·조리법에 따라 함량 차이가 큼.</td></tr><tr><td>달걀</td><td>1\~2개</td><td>주로 노른자에 들어 있으나 단독으로 충분량을 충족하기 어려움.</td></tr><tr><td>비타민 D 강화 우유·식물성 음료·시리얼</td><td>제품 표시상의 1회 제공량</td><td>모든 제품이 강화된 것은 아니므로 영양표시를 확인함.</td></tr><tr><td>버섯류</td><td>반찬 1회분</td><td>자외선 조사 여부에 따라 비타민 D<sub>2</sub> 함량 차이가 큼.</td></tr></tbody></table>
 
-식사만으로 충분한 섭취가 어려울 수 있으나, 모든 사람에게 혈중 25(OH)D 검사나 고용량 보충제를 일률적으로 권하지 않음. 결핍 위험, 골다공증, 흡수장애, 약물, 임신·수유 및 신장·간질환을 고려하여 검사와 보충 여부를 결정함. Endocrine Society 2024는 75세 이상·임신부 등 일부 집단에서 경험적 보충을 조건부로 제안하며, 이런 집단에서도 건강한 사람의 정기 혈중 검사와 고용량 간헐 투여를 일률적으로 권하는 것은 아님.
+식사만으로 충분한 섭취가 어려울 수 있으나, 모든 사람에게 혈중 25(OH)D 검사나 고용량 보충제를 일률적으로 권하지 않음. 결핍 위험, 골다공증, 흡수장애, 약물, 임신·수유 및 신장·간질환을 고려하여 검사와 보충 여부를 결정함. Endocrine Society 2024는 75세 이상·임신부 및 고위험 당뇨병전단계 등 일부 집단에서 경험적 보충을 조건부로 제안함. 당뇨병전단계에서는 생활습관 중재에 추가하는 선택이며, 모든 당뇨병·당뇨병전단계 환자에게 일률적으로 처방한다는 뜻은 아님. 이런 집단에서도 건강한 사람의 정기 혈중 검사를 권하지 않으며, 특히 50세 이상에서 보충·치료 적응증이 있으면 간헐적 고용량보다 매일 낮은 용량을 선호함. 성인의 KDRI 상한섭취량은 100 ㎍/day(4,000 IU/day)이며 이는 권장량이 아님. 결핍 치료로 일시적으로 이 양을 초과할 때는 별도 진료·추적 계획을 적용함.
 
 <mark style="color:$info;">Ref. [Endocrine Society. Vitamin D for the Prevention of Disease. 2024](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease).</mark>
 
+#### <mark style="color:$primary;">콜린: 2025 KDRI 신규 기준</mark>
+
+* 성인 **충분섭취량(AI)** : 남성 480 ㎎/day, 여성 390 ㎎/day. 임신부는 해당 연령 여성 기준에 80 ㎎/day, 수유부는 110 ㎎/day를 부가함(성인 임신부 총 470 ㎎/day, 수유부 총 500 ㎎/day).
+* 성인 **상한섭취량(UL)** : 남성 3,000 ㎎/day, 여성 2,500 ㎎/day. 임신·수유 중에도 총량 2,500 ㎎/day이며 부가량이 아님.
+* 달걀·콩류·육류·생선·유제품 등 다양한 식품에서 섭취함. 임신·수유, 제한식 또는 식사량 감소가 있으면 실제 섭취를 확인하되, 신규 기준이 제정되었다는 이유만으로 모든 성인에게 콜린 보충제를 처방하지 않음.
+
+<mark style="color:$info;">Ref. 보건복지부·한국영양학회. 2025 한국인 영양소 섭취기준, 콜린 충분섭취량 표.</mark>
+
 #### <mark style="color:$primary;">오메가-3 지방산</mark>
 
+* 2025 KDRI 성인 EPA+DHA **충분섭취량(AI)**은 합계 250 ㎎/day임. 식품 등을 통한 섭취기준이며 고중성지방혈증의 치료 용량이나 보충제 처방량이 아님. 어유 총량과 EPA+DHA 함량도 구분함.
 * 일반 인구의 심혈관질환 일차예방을 위한 오메가-3 보충제의 일률적 사용은 권고하지 않음.
 * 생선 등 식품 섭취를 우선함.
-* 고중성지방혈증 치료에서는 처방용 omega-3 제제의 허가 적응증과 실제 EPA·DHA 함량을 확인함. 건강기능식품을 처방약과 동일하게 취급하지 않으며, 선택된 고위험군에서 EPA 단독 icosapent ethyl의 심혈관사건 감소 근거를 일반 EPA+DHA 보충제에 확대하지 않음(104장 참조).
-* 고용량 사용 시 심방세동과 출혈 위험, 항혈전제 병용 여부를 고려함.
+* 고중성지방혈증 치료에서는 처방용 omega-3 제제의 허가 적응증과 실제 EPA·DHA 함량을 확인함. 건강기능식품을 처방약과 동일하게 취급하지 않으며, 선택된 고위험군에서 EPA 단독 icosapent ethyl의 심혈관사건 감소 근거를 일반 EPA+DHA 보충제에 확대하지 않음(097·104장 참조).
+* 특히 고용량 사용에서 심방세동 발생 증가가 보고됨. 출혈 위험요인과 항혈전제 병용 여부를 확인하고 제품별 주의사항을 적용함.
 * 아마씨·호두 등의 α-linolenic acid(ALA)는 유익한 식품 성분이지만 어유의 EPA·DHA를 동일 용량으로 대체하는 것으로 간주하지 않음.
 * 옥수수유·콩기름·해바라기유 등 종자유를 ω-6 지방산이라는 이유만으로 일률적으로 제한하지 않음. 포화지방을 불포화지방으로 대체하는 전체 식사 패턴이 중요하다.
 
@@ -321,7 +359,7 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 
 ### <mark style="color:orange;">질환·상황별 개별화</mark>
 
-<table><thead><tr><th width="150">상황</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>고령자·노쇠</td><td>비의도적 체중 감소, 식욕저하, 근감소증, 저작·연하곤란, 우울, 인지기능과 식품 접근성을 평가함. 단백질 식품을 끼니마다 배치하고 가능한 경우 근력운동을 병행함. 단백질은 대체로 최소 1.0 g/㎏/day, 건강한 고령자는 1.0\~1.2 g/㎏/day를 참고하고, 1.2\~1.5 g/㎏/day는 급·만성질환, 영양불량 또는 회복기에서 신기능·질환·내약성을 고려하여 개별적으로 적용함. 식사 지원·영양 보강·수분 관리는 아래 「고령자의 영양과 수분 관리」를 참조함.</td></tr><tr><td>당뇨병</td><td>탄수화물의 총량과 식사별 분배, 첨가당, 식이섬유 및 저혈당 위험을 함께 고려함. 특정 탄수화물 비율을 모든 환자에게 일률적으로 적용하지 않으며 KDRI 50~65%를 모든 당뇨병 환자의 고정 목표로 사용하지 않음. 식사량·탄수화물을 줄일 때 인슐린·SU 등의 용량 조정과 혈당 추적을 함께 계획함. SGLT2 억제제 사용 중에는 케톤산증 위험 때문에 극저탄수화물식·케톤식을 피하고, 장시간 금식·급성질환·섭취 저하 시 약물 관리 계획을 확인함(100장 참조).  <mark style="color:$info;">[ADA 2026]</mark></td></tr><tr><td>만성콩팥병</td><td>대사적으로 안정된 비투석 CKD G3~G5 성인은 단백질 약 0.8 g/㎏/day를 참고하며, 진행 위험이 있는 CKD에서는 ＞1.3 g/㎏/day의 고단백 섭취를 피함. 투석·급성질환·노쇠·영양불량에는 이를 일률적으로 적용하지 않고 신장·영양 전문진료로 목표를 정함. 고령자 단백질 권고와 충돌하면 신기능·대사 상태·영양 위험을 함께 평가함.  <mark style="color:$info;">[KDIGO 2024]</mark> 단백질, 나트륨, 칼륨, 인과 수분은 병기, 투석 여부, 검사 결과와 영양 상태에 따라 개별화함. 건강식품·소금 대체제의 칼륨도 확인함. 고칼륨혈증 등으로 실제 칼륨 제한이 필요한 경우에는 식품을 잘게 썰어 물에 담그거나 삶은 뒤 물을 버리는 방법을 활용할 수 있음. 모든 CKD 환자에게 채소·과일 제한이나 이런 조리를 일률적으로 지시하지 않고, 칼륨 첨가물·소금 대체제와 검사 결과를 함께 평가함.</td></tr><tr><td>고혈압·대사증후군·고중성지방혈증</td><td>과체중·비만에서는 지속 가능한 열량 조절과 DASH·지중해식 등을 적용함. TG 500~999 ㎎/㎗에서는 금주·첨가당/정제 탄수화물 제한·저지방식을 개별화하고, TG ≥1,000 ㎎/㎗에서는 매우 저지방식(총에너지의 약 10~15%, 대개 지방 ≤20~30 g/day)을 전문 영양상담과 함께 적용함. 이때 견과류·식물성 기름 등 불포화지방도 무제한 늘리지 않음. 상세 치료는 104장 참조.  <mark style="color:$info;">[ACC 2021]</mark></td></tr><tr><td>심부전·간경변</td><td>나트륨과 수분 제한은 울혈·복수·저나트륨혈증, 약물 및 영양 상태를 고려함. 지나친 제한으로 섭취량이 감소하지 않도록 함.</td></tr><tr><td>항응고제 복용</td><td>Warfarin 복용 중에는 비타민 K 함유 채소를 금지하지 않고 섭취량을 일관되게 유지함. DOAC에는 같은 비타민 K 제한을 적용하지 않음.</td></tr><tr><td>장기 약물 복용</td><td>Metformin 복용자는 장기 사용·고용량·섭취 부족 등 위험요인에 따라 비타민 B12를 주기적으로 평가하고, 빈혈·신경병증이 있으면 특히 확인함. PPI/H2RA 장기 사용자의 위험 기반 선택 검사와 metformin의 주기적 평가 권고를 구분함(073·100장 참조). PPI·H2RA는 장기 처방의 적응증을 재평가하고, 결핍 증상이나 위험요인이 있을 때 비타민 B12 평가를 고려함. PPI 사용자는 저마그네슘혈증 증상, 장기간 사용 또는 관련 약물 병용 등 위험요인이 있을 때 마그네슘 평가를 고려함.</td></tr><tr><td>임신·수유</td><td>에너지·단백질·철·엽산·요오드·콜린 등 필요량 변화와 식품 안전을 고려함. 임신 중에는 금주함.</td></tr><tr><td>저작·연하곤란</td><td>단순히 부드러운 음식으로 제한하지 말고 연하 평가에 따른 음식의 질감·점도 조절과 영양 밀도 보강을 시행함.</td></tr></tbody></table>
+<table><thead><tr><th width="150">상황</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>고령자·노쇠</td><td>비의도적 체중 감소, 식욕저하, 근감소증, 저작·연하곤란, 우울, 인지기능과 식품 접근성을 평가함. 단백질 식품을 끼니마다 배치하고 가능한 경우 근력운동을 병행함. 단백질은 대체로 최소 1.0 g/㎏/day, 건강한 고령자는 1.0\~1.2 g/㎏/day를 참고하고, 1.2\~1.5 g/㎏/day는 급·만성질환, 영양불량 또는 회복기에서 신기능·질환·내약성을 고려하여 개별적으로 적용함. 식사 지원·영양 보강·수분 관리는 아래 「고령자의 영양과 수분 관리」를 참조함.</td></tr><tr><td>당뇨병</td><td>탄수화물의 총량과 식사별 분배, 첨가당, 식이섬유 및 저혈당 위험을 함께 고려함. ADA 2026의 식이섬유 목표는 ≥14 g/1,000 ㎉로, 일반인용 KDRI 충분섭취량과 출처·목적을 구분함. 특정 탄수화물 비율을 모든 환자에게 일률적으로 적용하지 않으며 KDRI 50\~65%를 모든 당뇨병 환자의 고정 목표로 사용하지 않음. 식사량·탄수화물을 줄일 때 인슐린·SU 등의 용량 조정과 혈당 추적을 함께 계획함. SGLT2 억제제 사용 중에는 케톤산증 위험 때문에 극저탄수화물식·케톤식을 피하고, 장시간 금식·급성질환·섭취 저하 시 약물 관리 계획을 확인함(100장 참조).  <mark style="color:$info;">[ADA 2026]</mark></td></tr><tr><td>만성콩팥병</td><td>대사적으로 안정된 비투석 CKD G3~G5 성인은 단백질 약 0.8 g/㎏/day를 참고하며, 진행 위험이 있는 CKD에서는 ＞1.3 g/㎏/day의 고단백 섭취를 피함. 투석·급성질환·노쇠·영양불량에는 이를 일률적으로 적용하지 않고 신장·영양 전문진료로 목표를 정함. 고령자 단백질 권고와 충돌하면 신기능·대사 상태·영양 위험을 함께 평가함.  <mark style="color:$info;">[KDIGO 2024]</mark> 단백질, 나트륨, 칼륨, 인과 수분은 병기, 투석 여부, 검사 결과와 영양 상태에 따라 개별화함. 건강식품·소금 대체제의 칼륨도 확인함. 고칼륨혈증 등으로 실제 칼륨 제한이 필요한 경우에는 식품을 잘게 썰어 물에 담그거나 삶은 뒤 물을 버리는 방법을 활용할 수 있음. 모든 CKD 환자에게 채소·과일 제한이나 이런 조리를 일률적으로 지시하지 않고, 칼륨 첨가물·소금 대체제와 검사 결과를 함께 평가함.</td></tr><tr><td>고혈압·대사증후군</td><td>과체중·비만에서는 지속 가능한 열량 조절과 DASH·지중해식 등을 적용함. 나트륨 목표는 위 「국내 나트륨 기준과 실천」 및 095·104장을 참조함.</td></tr><tr><td>고중성지방혈증</td><td>TG 500\~999 ㎎/㎗에서는 금주, 첨가당·정제 탄수화물 제한 및 총지방 제한 정도를 개별화함. TG ≥1,000 ㎎/㎗에서는 금주·첨가당 배제와 매우 저지방식(총에너지의 약 10\~15%)을 전문 영양상담과 함께 적용하며, 췌장염 예방을 위한 약물 치료 필요성도 평가함. 이때 견과류·식물성 기름 등 불포화지방도 무제한 늘리지 않음. TG가 호전되면 제한 정도와 영양 적절성을 재평가함. 상세 치료는 097·104장 참조.  <mark style="color:$info;">[ACC/AHA 2026]</mark></td></tr><tr><td>심부전</td><td>나트륨과 수분 제한은 울혈·저나트륨혈증, 이뇨제, 신기능과 영양 상태를 고려하여 정함. 모든 환자에게 동일한 수분량을 적용하거나 지나친 제한으로 섭취량이 감소하지 않도록 함.</td></tr><tr><td>간경변</td><td>복수·부종과 영양 상태를 함께 평가함. 안정된 성인에서는 단백질 1.2\~1.5 g/㎏/day(이상체중 기준)를 참고함. ACG 2026도 간성뇌증 외래 환자에서 1.2\~1.5 g/㎏/day를 권고하며 일률적인 단백질 제한을 피하고 늦은 저녁 간식을 제안함. 식사만으로 단백질 필요량을 충족하기 어려운 간성뇌증 환자는 전문진료에서 BCAA 보충을 검토함. 의식 저하·연하 불안전이 있으면 억지로 경구 섭취시키지 않고 기도·흡인 위험을 먼저 평가함. 나트륨·수분 제한은 복수·저나트륨혈증 등 적응증에 맞추고, 식사량이 감소하면 제한 정도를 재평가함.  <mark style="color:$info;">[AASLD 2021; ACG 2026]</mark></td></tr><tr><td>항응고제 복용</td><td>Warfarin 복용 중에는 비타민 K 함유 채소를 금지하지 않고 섭취량을 일관되게 유지함. DOAC에는 같은 비타민 K 제한을 적용하지 않음.</td></tr><tr><td>장기 약물 복용</td><td>Metformin 복용자는 장기 사용·고용량·섭취 부족 등 위험요인에 따라 비타민 B12를 주기적으로 평가하고, 빈혈·신경병증이 있으면 특히 확인함. PPI/H2RA 장기 사용자의 위험 기반 선택 검사와 metformin의 주기적 평가 권고를 구분함(073·100장 참조). PPI·H2RA는 장기 처방의 적응증을 재평가하고, 결핍 증상이나 위험요인이 있을 때 비타민 B12 평가를 고려함. PPI 사용자는 저마그네슘혈증 증상, 장기간 사용 또는 관련 약물 병용 등 위험요인이 있을 때 마그네슘 평가를 고려함.</td></tr><tr><td>의도적 체중감량·GLP-1 계열 치료</td><td>식욕 감소·오심·구토·조기 포만으로 에너지·단백질·미량영양소와 수분이 부족해지는지 확인함. 체중 감소만 추적하지 말고 실제 식사량, 근력·기능과 가능한 경우 체성분을 함께 평가함. 충분한 단백질 식품과 근력운동을 병행함. 단백질 보충만으로 근육 보존이 보장되는 것은 아님. 지속 구토·탈수·심한 섭취 저하는 약물 용량·증량 계획을 재평가함. 보충제는 실제 부족분과 위험요인에 따라 선택함.  <mark style="color:$info;">[Obes Pillars 2025]</mark></td></tr><tr><td>채식·동물성 식품 제한</td><td>단백질, 철, 비타민 B12, 칼슘, 비타민 D와 요오드의 급원을 확인함. 특히 비건은 비타민 B12 강화식품 또는 보충제로 신뢰할 수 있는 공급원을 확보해야 함. 해조류·발효식품만으로 B12 필요량이 충족된다고 설명하지 않음.  <mark style="color:$info;">[NIH ODS]</mark></td></tr><tr><td>임신·수유</td><td>에너지·단백질·철·엽산·요오드·콜린 등 필요량 변화와 식품 안전을 고려함. 임신 중에는 금주함.</td></tr><tr><td>저작·연하곤란</td><td>단순히 부드러운 음식으로 제한하지 말고 연하 평가에 따른 음식의 질감·점도 조절과 영양 밀도 보강을 시행함. 점도 조절 후 실제 음료·식사 섭취량이 줄지 않는지 추적함.</td></tr></tbody></table>
 
 <mark style="color:$info;">Ref. Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989; American Diabetes Association. Standards of Care in Diabetes-2026.</mark>
 
@@ -343,18 +381,31 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 * 일반 식사·음식 보강·식사 지원으로 필요량을 충족하지 못하면 경구영양보충식(oral nutritional supplements, ONS)을 고려함. 기존 식사와 실제 부족분을 기준으로 선택하며, 식간·식후 등에 제공하여 주된 식사를 방해하지 않도록 함.
 * ONS의 양, 단백질 함량, 맛·질감·용량과 섭취 시간을 개인화함. 만성콩팥병·당뇨병·수분 제한·연하곤란이 있으면 해당 질환과 필요량에 맞는 제품인지 확인함. 제품별 영양표시와 실제 섭취량을 확인하며, 단순 간식이나 에너지바를 영양적으로 균형 잡힌 ONS와 동일하게 취급하지 않음.
 * 수치의 출처를 구분함. ESPEN 2022는 영양불량 또는 위험이 있는 고령자에게 ONS로 하루 최소 400 ㎉·단백질 30 g을 제공하도록 권고함. DGEM S3 2025는 개인별 처방을 우선하면서 하루 최소 300 ㎉·단백질 에너지비 ≥20%를 제시함. 두 지침의 수치를 혼합하지 않으며, 고정된 양만으로 모든 환자의 부족분이 충족된다고 판단하지 않음.
-* 섭취율·내약성·식사량·체중·기능을 정기적으로 재평가하고 용량·제품·섭취 방법을 조정함. ONS의 구체적인 시행과 추적은 「체중감소」 챕터를 참조함.
+* 섭취율·내약성·식사량·체중·기능을 재평가하고 용량·제품·섭취 방법을 조정함. ESPEN 2022는 최소 1개월 사용 및 월 1회 효과·지속 이득 평가를 권고하지만, 초기 내약성·섭취량 감소·체액 이상은 더 일찍 확인함. DGEM S3 2025는 임상 상황에 맞는 충분한 기간과 섭취 순응도의 촉진·감시를 강조함. ONS의 구체적인 시행과 추적은 「체중감소」 챕터를 참조함.
 * 경구 섭취가 3일을 초과하여 불가능하거나, 충분한 경구중재에도 에너지 필요량의 절반 미만인 상태가 1주를 초과할 것으로 예상되면 경장영양 평가·의뢰를 고려함. 이는 기다려야 하는 기간이 아니라 영양지원 필요성을 판단하는 참고 기준이며, 급성 위험이 있으면 즉시 평가함.
 * 경장영양은 위장관 기능, 예상 이득·위해, 예후와 환자의 의사를 종합하여 결정함. 경구·경장영양이 불가능·금기이거나 충분하지 않으면 정맥영양을 전문진료와 함께 검토함. 고령 자체는 영양지원의 금기가 아님.
-* 시작 전 재영양증후군 위험을 확인함. NICE 고위험 기준은 다음 중 **1개 이상**: BMI ＜16 ㎏/m², 최근 3~6개월 비의도적 체중감소 ＞15%, ＞10일간 거의 또는 전혀 섭취하지 못함, 공급 전 저인·저칼륨·저마그네슘혈증임.
-* 또는 다음 중 **2개 이상**이면 고위험: BMI ＜18.5 ㎏/m², 최근 3~6개월 비의도적 체중감소 ＞10%, ＞5일간 거의 또는 전혀 섭취하지 못함, 알코올 남용력 또는 insulin·항암제·제산제·이뇨제 등 사용력임.
-* 고위험군은 경구 식사·ONS를 포함한 영양 공급 **직전부터 thiamine을 보충**하고 초기 공급량·증량 및 전해질·체액 감시 계획을 적용함. 포도당 함유 수액도 공급량 평가에 포함함. 구체적인 NICE 시작 열량·thiamine 용량·전해질 보충은 013장 및 [NICE CG32](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations)를 참조함. 경장·정맥영양의 지속 필요성과 경구 전환 가능성도 재평가함.
 * 생애 말기에는 편안함과 환자의 선호에 맞는 경구 섭취(comfort feeding)를 우선하는 돌봄을 논의함. 상세 의사결정은 「고령 환자 진료」 챕터를 참조함.
+
+#### <mark style="color:$primary;">재영양증후군 예방과 감시</mark>
+
+* 이 절의 재영양 위험 평가는 고령자에 한정하지 않고 영양 공급을 시작·증량하는 성인에게 적용함.
+* 시작 전 재영양증후군 위험을 확인함. 다음은 **NICE CG32의 고위험 기준**이며, 모든 학회의 위험·진단 기준이 동일한 것은 아님. 다음 중 **1개 이상**: BMI ＜16 ㎏/m², 최근 3\~6개월 비의도적 체중감소 ＞15%, ＞10일간 거의 또는 전혀 섭취하지 못함, 공급 전 저인·저칼륨·저마그네슘혈증임.
+* 또는 다음 중 **2개 이상**이면 고위험: BMI ＜18.5 ㎏/m², 최근 3\~6개월 비의도적 체중감소 ＞10%, ＞5일간 거의 또는 전혀 섭취하지 못함, 알코올 남용력 또는 insulin·항암제·제산제·이뇨제 등 사용력임.
+* 위 고위험 기준에 해당하지 않더라도 ＞5일간 거의 또는 전혀 섭취하지 못한 성인에게 NICE 경로를 적용할 때는 초기 2일간 필요량의 50% 이하로 시작하고, 임상·생화학적 감시에서 재영양 문제가 없으면 증량함. 고위험군에는 아래의 별도 경로를 적용함.
+* 고위험군은 경구 식사·ONS를 포함한 영양 공급 **직전부터 thiamine을 보충**하고 초기 공급량·증량 및 전해질·체액 감시 계획을 적용함. 포도당 함유 수액도 공급량 평가에 포함함. NICE 경로를 적용하면 최대 10 ㎉/㎏/day로 시작하여 4\~7일에 걸쳐 증량하며, 극고위험 예(BMI ＜14 ㎏/m² 또는 ＞15일간 거의 무섭취)는 5 ㎉/㎏/day와 지속 심전도 감시를 고려함. Thiamine 경구 200\~300 ㎎/day를 공급 직전부터 초기 10일간 제공하며, 경구 투여 불가·흡수 문제 등에서는 정주 경로를 포함한 기관별 프로토콜을 적용함. 종합비타민·미량원소와 전해질 보충도 함께 계획함.
+* 인·마그네슘은 공급 전 및 위험 기간에 매일, 칼륨·신기능은 안정될 때까지 매일 확인하는 NICE 감시 계획을 참고함. 혈당·체액 균형과 증상도 함께 추적하며 심한 전해질 이상·장기기능 변화가 생기면 즉시 공급량·증량 계획을 재평가함. 이런 감시가 어려운 고위험 환자는 입원 또는 전문 영양팀 의뢰를 검토함. 전해질의 실제 보충량은 검사값·신기능·투여 경로에 따라 정함.
+
+{% hint style="info" %}
+**초기 공급량에 관한 최신 권고 차이**\
+AuSPEN 2025 합의문은 긴밀한 전해질·임상 감시와 동시 보충이 가능한 환경에서 필요 에너지의 ≥50%로 시작하여 24\~72시간 안에 목표량에 도달하는 경로를 제안함. 이는 위에서 제시한 NICE의 보수적인 초기 공급 경로와 다르며 서로 다른 경로의 수치를 혼합하지 않음. 근거의 확실성과 대상군에 한계가 있으며, 심한 전해질 이상이 생기면 안정될 때까지 증량을 보류함. 이 수치를 감시 없는 외래 자가 증량에 적용하지 않고, 극심한 저체중·장기 무섭취 등에서는 전문팀이 적절한 경로를 정함. 초기 공급량을 무조건 낮게 유지하여 장기간 영양 부족을 지속시키는 것도 피함.
+{% endhint %}
+
+<mark style="color:$info;">Ref. NICE. [Nutrition support for adults (CG32)](https://www.nice.org.uk/guidance/cg32/chapter/recommendations), sections 1.4.5–1.4.8 및 table 2; Matthews-Rensch K, et al. [AuSPEN consensus statements on refeeding syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC11973624/). Nutr Diet. 2025;82:128–142. [doi:10.1111/1747-0080.70003](https://doi.org/10.1111/1747-0080.70003).</mark>
 
 #### <mark style="color:$primary;">수분 섭취와 고장성 탈수 예방</mark>
 
 * 고령자는 갈증 감각과 신장의 소변 농축 능력이 감소할 수 있어 갈증만으로 수분 섭취의 충분함을 판단하지 않음. 이뇨제 사용, 발열·폭염·구토·설사, 인지저하, 연하곤란, 이동 제한과 요실금 때문에 음료를 줄이는지 확인함.
-* DGEM S3 2025가 인용한 D-A-CH 총수분 섭취 참고치는 30 ㎖/㎏/day임. **음식 속 수분과 마시는 물·음료를 합한 총량**의 체중 기반 초기 추정치임. 이 양을 전부 물로 추가 섭취하라는 의미가 아님. 체격·평소 식사·손실량·임상 상태에 따라 조정하고 심부전·신부전 등에서는 수분 제한 필요성을 별도로 판단함.
+* DGEM S3 2025는 총수분 30 ㎖/㎏/day를 출발점으로 삼고 손실량·임상 상황에 맞추어 조정하도록 권고함. **음식 속 수분과 마시는 물·음료를 합한 총량**의 체중 기반 초기 추정치임. 이 양을 전부 물로 추가 섭취하라는 의미가 아님. 체격·평소 식사·손실량·임상 상태에 따라 조정하고 심부전·신부전 등에서는 수분 제한 필요성을 별도로 판단함.
 * ESPEN 2022의 여성 ≥1.6 L/day·남성 ≥2.0 L/day는 **음료 제공량** 기준임. 총수분 30 ㎖/㎏/day와 같은 종류의 수치로 취급하거나 서로 더하지 않음.
 * 하루 목표 음료량, 제공 시간과 선호 음료를 정하고 손이 닿는 곳에 둠. 인지·기능 저하가 있으면 반복적인 권유, 마시는 데 필요한 도움과 화장실 이용 지원을 계획함. 기록할 때는 제공량과 실제 마신 양을 구분함.
 * 물 외에도 차·우유 등은 수분 공급에 기여함. 영양불량에서는 에너지·단백질을 함께 공급하는 음료를 활용할 수 있으나, 주스·가당음료를 모든 고령자에게 일률적으로 권하지 않음. 당뇨병·비만, 카페인 민감성, 요실금과 나트륨 제한 등을 고려함.
@@ -375,12 +426,13 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 ***
 
 
-
 ## <mark style="color:red;">질병코드</mark>
 
-Z71.3 식사 상담 및 감시
+Z71.3 식사 상담 및 감시를 위해 보건서비스와 접하고 있는 사람
 
-> 비만, 당뇨병, 이상지질혈증, 만성콩팥병 등 기저질환이 있는 경우에는 해당 질환 코드를 우선 또는 함께 적용하고, Z71.3은 식사 상담 및 감시를 위해 진료한 상황에 맞추어 사용함.
+Persons encountering health services for dietary counselling and surveillance
+
+> 비만, 당뇨병, 이상지질혈증, 만성콩팥병 등 기저질환이 있으면 진료 목적과 실제 평가·치료 내용에 따라 해당 질환 코드를 함께 적용할 수 있음. Z71.3의 사용 및 주·부상병 선정은 실제 진료 내용에 맞추며, 이 코드 자체가 영양상담료 급여 인정을 의미하지 않음.
 
 ***
 
@@ -399,6 +451,38 @@ Z71.3 식사 상담 및 감시
 > * 의료진과 정한 재평가 시점에도 목표에 도달하지 못했거나 식사 실천이 어려운 경우
 > * 의도치 않은 체중 감소나 식욕 저하가 지속되는 경우
 > * 보충제(오메가-3, 칼슘, 비타민 D 등) 복용을 고려 중이나 복용 중인 약물과의 상호작용이 확인되지 않은 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* 보건복지부·한국영양학회. [2025 한국인 영양소 섭취기준](https://www.kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167). 2025. 정오표 적용본 및 공식 요약표.
+* 보건복지부·한국영양학회. [2020 한국인 영양소 섭취기준 활용 연구: 식품구성자전거 개정](https://www.kns.or.kr/FileRoom/FileRoom_view.asp?BoardID=Kdr&idx=123). 2021; 이미지 공개 2022.
+* 보건복지부·농림축산식품부·식품의약품안전처. 한국인을 위한 식생활지침. 2021.
+* Committee of Korean Society of Hypertension Guidelines for the Management of Hypertension. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension: what's new and what has changed. Clin Hypertens. 2026;32:e31. [doi:10.5646/ch.2026.32.e31](https://doi.org/10.5646/ch.2026.32.e31).
+* Lichtenstein AH, et al. 2026 Dietary Guidance to Improve Cardiovascular Health. Circulation. 2026;153:e1285-e1295. [doi:10.1161/CIR.0000000000001435](https://doi.org/10.1161/CIR.0000000000001435).
+* American Diabetes Association. [Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC12690188/). Diabetes Care. 2026.
+* KDIGO. [2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease](https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf). Kidney Int. 2024;105(4S):S117-S314.
+* AGA/ACG. [Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/). Gastroenterology. 2023;164:1086-1106.
+* ACC/AHA. 2026 Guideline on the Management of Dyslipidemia. [doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423). 고중성지방혈증 식사 중재 권고.
+* WHO. [Use of lower-sodium salt substitutes](https://www.who.int/publications/i/item/9789240105591). 2025; [Use of non-sugar sweeteners](https://www.who.int/publications/i/item/9789240073616). 2023.
+* Mozaffarian D, et al. [Nutritional priorities to support GLP-1 therapy for obesity: A joint advisory](https://pmc.ncbi.nlm.nih.gov/articles/PMC12264624/). Obes Pillars. 2025;15:100181. [doi:10.1016/j.obpill.2025.100181](https://doi.org/10.1016/j.obpill.2025.100181).
+* Lai JC, et al. Malnutrition, Frailty, and Sarcopenia in Patients With Cirrhosis: 2021 AASLD Practice Guidance. [doi:10.1002/hep.32049](https://doi.org/10.1002/hep.32049).
+* Bajaj JS, et al. ACG Clinical Guideline: Hepatic Encephalopathy. Am J Gastroenterol. 2026;121:588–618. [doi:10.14309/ajg.0000000000003899](https://doi.org/10.14309/ajg.0000000000003899). [학회 공식 요약](https://webfiles.gi.org/GuidelineHighlights/ACGHepaticEncephGH.pdf).
+* Matthews-Rensch K, et al. [The AuSPEN consensus statements on refeeding syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC11973624/). Nutr Diet. 2025;82:128–142. [doi:10.1111/1747-0080.70003](https://doi.org/10.1111/1747-0080.70003).
+* Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989. [doi:10.1016/j.clnu.2022.01.024](https://doi.org/10.1016/j.clnu.2022.01.024).
+* Volkert D, et al. S3 guideline Clinical nutrition and hydration in older persons. Aktuel Ernahrungsmed. 2025;50:220-283. [doi:10.1055/a-2548-7209](https://doi.org/10.1055/a-2548-7209). [AWMF 공개본, v2.1](https://register.awmf.org/assets/guidelines/073-019l_S3_Klinische-Ernaehrung-Hydrierung-im-Alter_2025-09.pdf).
+* NICE. [Nutrition support for adults (CG32)](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations). 고위험 분류 및 재영양 예방 권고.
+* Endocrine Society. [Vitamin D for the Prevention of Disease](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease). 2024.
+* NIH Office of Dietary Supplements. [Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/); [Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/); [Omega-3 Fatty Acids](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/). Health Professional Fact Sheets.
+* NHLBI. [DASH Eating Plan](https://www.nhlbi.nih.gov/health/dash-eating-plan); Morris MC, et al. [MIND diet slows cognitive decline with aging](https://doi.org/10.1016/j.jalz.2015.04.011). 2015; Barnes LL, et al. [Trial of the MIND Diet](https://doi.org/10.1056/NEJMoa2302368). 2023.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 처방용 omega-3 및 영양소 의약품의 제품별 적응증·함량·용법·주의사항 확인. 건강기능식품·ONS와 의약품의 허가를 구분함.
+* 처방 시 최신 품목정보/급여기준 조회. 의약품의 급여 여부는 허가와 별도로 최신 [건강보험심사평가원](https://www.hira.or.kr/) 고시·약제별 기준에서 확인함. 이 장의 영양소 섭취기준과 ONS 공급량 자체를 급여 인정 기준으로 해석하지 않음.
 
 ***
 
@@ -429,41 +513,21 @@ Z71.3 식사 상담 및 감시
 
 #### <mark style="color:$primary;">보충제는 꼭 필요한가요?</mark>
 
-* 생선 섭취가 적다면 먼저 식사 구성을 조정하십시오. 오메가-3 보충제는 고중성지방혈증 등 명확한 적응증이나 의료진의 판단이 있을 때 고려합니다.
+* 생선 섭취가 적다면 먼저 식사 구성을 조정하십시오. 고중성지방혈증 치료용 오메가-3 의약품과 일반 건강기능식품은 다릅니다. 처방약을 임의로 건강기능식품으로 바꾸지 마십시오.
 * 햇빛 노출 부족·흡수장애 등은 비타민 D 결핍 위험을, 유제품·칼슘 강화식품 섭취 부족은 칼슘 섭취 부족을 각각 평가하는 항목입니다. 75세 이상이거나 임신 중인 경우에는 결핍 위험이 없어도 비타민 D 보충을 고려할 수 있으므로 의료진과 상의하십시오. 임신 중이거나 임신을 계획하는 경우에는 엽산·철분 등 필요한 보충제도 확인하십시오.
 * **건강한 일반 성인에서 일률적 보충은 불필요** : 균형 잡힌 식사를 하고 있고 특별한 결핍 위험이나 별도 보충 적응증이 없다면 오메가-3·비타민 D·칼슘 등을 일률적으로 추가할 필요는 없습니다. 프로바이오틱스는 균주·제품·질환별 효과가 다르므로 막연히 복용하기보다 필요한 이유를 먼저 확인하십시오.
-* 칼슘·비타민 D는 제품마다 함량 차이가 크므로 영양표시를 확인하십시오.
+* 칼슘·비타민 D는 제품마다 함량 차이가 크므로 영양표시를 확인하십시오. 종합비타민·뼈 건강 보충제·제산제 등에 같은 성분이 겹치는지 확인하고, 상한섭취량을 목표량으로 생각하여 고용량을 추가하지 마십시오.
 
 #### <mark style="color:$primary;">이런 경우에는 미리 의료진과 상의하세요</mark>
 
 * 만성콩팥병, 심부전, 간질환, 임신·수유 또는 항응고제 복용 중에는 일반적인 식이 원칙을 그대로 따르기 전에 의료진과 상의하십시오.
+* 채식을 하면서 동물성 식품을 먹지 않는다면 비타민 B12 강화식품이나 보충제의 섭취 계획을 확인하십시오.
+* 비만 치료약으로 식욕이 줄어도 단백질 식품과 필요한 영양을 챙기고, 가능한 근력운동을 함께 하십시오. 지속적인 구토·심한 섭취 감소가 생기면 처방 의료진에게 알려주십시오.
 * Metformin을 장기간 복용한다면 비타민 B12 검사 계획을 확인하고, 빈혈·손발 저림 등이 생기면 알려주십시오. 위산 억제제는 장기 사용의 필요성과 결핍 증상·위험요인에 따라 검사 여부를 상의하십시오.
 * 당뇨병 약을 사용하는 동안 식사를 크게 줄이거나 거르려면 약 조정과 혈당 확인 방법을 먼저 상의하십시오. SGLT2 억제제 사용 중에는 극저탄수화물식·케톤식을 피하십시오.
 * 의도치 않은 체중 감소나 식욕 저하가 계속되는 경우에도 미리 알려주십시오.
 
-***
+#### <mark style="color:$primary;">언제 바로 진료를 받아야 하나요?</mark>
 
-## <mark style="color:green;">참고문헌</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* 보건복지부·한국영양학회. [2025 한국인 영양소 섭취기준](https://www.kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167). 2025. 정오표 적용본 및 공식 요약표.
-* 보건복지부·한국영양학회. [2020 한국인 영양소 섭취기준 활용 연구: 식품구성자전거 개정](https://www.kns.or.kr/FileRoom/FileRoom_view.asp?BoardID=Kdr&idx=123). 2021; 이미지 공개 2022.
-* 보건복지부·농림축산식품부·식품의약품안전처. 한국인을 위한 식생활지침. 2021.
-* Committee of Korean Society of Hypertension Guidelines for the Management of Hypertension. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension: what's new and what has changed. Clin Hypertens. 2026;32:e31. [doi:10.5646/ch.2026.32.e31](https://doi.org/10.5646/ch.2026.32.e31).
-* Lichtenstein AH, et al. 2026 Dietary Guidance to Improve Cardiovascular Health. Circulation. 2026;153:e1285-e1295. [doi:10.1161/CIR.0000000000001435](https://doi.org/10.1161/CIR.0000000000001435).
-* American Diabetes Association. [Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC12690188/). Diabetes Care. 2026.
-* KDIGO. [2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease](https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf). Kidney Int. 2024;105(4S):S117-S314.
-* AGA/ACG. [Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/). Gastroenterology. 2023;164:1086-1106.
-* Virani SS, et al. 2021 ACC Expert Consensus Decision Pathway on the Management of ASCVD Risk Reduction in Patients With Persistent Hypertriglyceridemia. J Am Coll Cardiol. 2021;78:960-993. [doi:10.1016/j.jacc.2021.06.011](https://doi.org/10.1016/j.jacc.2021.06.011).
-* Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989. [doi:10.1016/j.clnu.2022.01.024](https://doi.org/10.1016/j.clnu.2022.01.024).
-* Volkert D, et al. S3 guideline Clinical nutrition and hydration in older persons. Aktuel Ernahrungsmed. 2025;50:220-283. [doi:10.1055/a-2548-7209](https://doi.org/10.1055/a-2548-7209).
-* NICE. [Nutrition support for adults (CG32)](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations). 고위험 분류 및 재영양 예방 권고.
-* Endocrine Society. [Vitamin D for the Prevention of Disease](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease). 2024.
-* NIH Office of Dietary Supplements. [Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/); [Omega-3 Fatty Acids](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/). Health Professional Fact Sheets.
-* NHLBI. [DASH Eating Plan](https://www.nhlbi.nih.gov/health/dash-eating-plan); Morris MC, et al. [MIND diet slows cognitive decline with aging](https://doi.org/10.1016/j.jalz.2015.04.011). 2015; Barnes LL, et al. [Trial of the MIND Diet](https://doi.org/10.1056/NEJMoa2302368). 2023.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 처방용 omega-3 및 영양소 의약품의 제품별 적응증·함량·용법·주의사항 확인. 건강기능식품·ONS와 의약품의 허가를 구분함.
-* 의약품의 급여 여부는 허가와 별도로 최신 건강보험심사평가원 고시·약제별 기준에서 확인함. 이 장의 영양소 섭취기준과 ONS 공급량 자체를 급여 인정 기준으로 해석하지 않음.
+* **즉시 응급 진료** : 의식이 흐려지거나 경련이 생기는 경우, 심한 호흡곤란·실신, 음식 섭취 후 심한 알레르기 반응, 심한 복통과 반복 구토가 있는 경우에는 응급 진료를 받으십시오. 오래 거의 먹지 못한 뒤 식사량을 늘리면서 새 부종·심한 위약·두근거림이 생긴 경우에도 즉시 평가받으십시오. 의식이 나쁘거나 삼키지 못하면 음식·음료를 억지로 먹이지 마십시오.
+* **당일 진료** : 새로 삼키기 어렵거나 자주 사레가 들고, 음식·물을 먹기 어렵거나 소변이 현저히 줄면 당일 평가를 받으십시오. 호흡곤란·의식 변화가 함께 있으면 즉시 응급 진료를 받으십시오.
