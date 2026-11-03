@@ -35,6 +35,7 @@ _\*전신 요로감염에는 신우신염 외에 급성 전립선염·요로패�
 
 ### <mark style="color:orange;">내성균 위험 인자</mark>
 
+* 이전 요배양·감수성 결과를 확인하고, 과거 내성이 확인된 항균제는 경험적 선택에서 피함. 최근 결과를 우선 참고하며, IDSA 근거 연구의 배양 간격 중앙값은 3\~6개월이었으나 이를 과거 결과의 유효기간으로 해석하지 않음
 * 6개월 이내 항생제 투여력 또는 입원력
 * 요양시설 거주자
 * 최근 ESBL 생성균 분리력
@@ -54,21 +55,21 @@ _\*전신 요로감염에는 신우신염 외에 급성 전립선염·요로패�
 
 **즉각 조치**
 
-* 저혈압·말초 관류 저하, 새로 발생한 의식 변화, 호흡곤란·저산소증, 뚜렷한 소변량 감소 등 패혈증·급성 장기 기능 장애 의심 징후. 쇼크의 정식 진단 기준을 모두 확인할 때까지 응급 조치를 지연하지 않음 <mark style="color:$danger;">즉각 조치</mark>
-* 감염성 요로 폐쇄 의심 또는 확인(결석에 의한 폐쇄·수신증 등): 항생제 투여와 함께 응급 배액이 필요함 <mark style="color:$danger;">즉각 조치</mark>
+* 저혈압·말초 관류 저하, 새로 발생한 의식 변화, 호흡곤란·저산소증, 뚜렷한 소변량 감소 등 패혈증·급성 장기 기능 장애 의심 징후. 쇼크의 정식 진단 기준을 모두 확인할 때까지 응급 조치를 지연하지 않음  <mark style="color:$danger;">즉각 조치</mark>
+* 감염성 요로 폐쇄 의심 또는 확인(결석에 의한 폐쇄·수신증 등): 항생제 투여와 함께 응급 배액이 필요함  <mark style="color:$danger;">즉각 조치</mark>
 
 **당일\~수일 내 평가**
 
-* 심한 구토·탈수로 경구 섭취나 항생제 복용이 곤란: **(당일)** 수액·정주 항생제 및 입원 평가 <mark style="color:$warning;">당일\~수일 내 평가</mark>
-* 임신, 면역 저하, 요로 구조·기능 이상, 유치 도뇨관, 최근 요로 시술 등 고위험 상황: **(당일)** 평가; 폐쇄·패혈증 의심 시 즉각 조치로 상향 <mark style="color:$warning;">당일\~수일 내 평가</mark>
-* 남성의 신우신염: **(당일)** 전립선 침범·요로 폐쇄·중증도 평가 후 외래·입원 결정 <mark style="color:$warning;">당일\~수일 내 평가</mark>
-* 항생제 시작 후 48시간 내 호전이 시작되지 않거나 48~~72시간에도 발열·통증 등 전반적인 증상이 지속: **(당일)** 재평가; 악화 시 즉각 조치 <mark style="color:$warning;">당일</mark>~~수일 내 평가
+* 심한 구토·탈수로 경구 섭취나 항생제 복용이 곤란: **(당일)** 수액·정주 항생제 및 입원 평가  <mark style="color:$warning;">당일\~수일 내 평가</mark>
+* 임신, 면역 저하, 요로 구조·기능 이상, 유치 도뇨관, 최근 요로 시술 등 고위험 상황: **(당일)** 평가; 폐쇄·패혈증 의심 시 즉각 조치로 상향  <mark style="color:$warning;">당일\~수일 내 평가</mark>
+* 남성의 신우신염: **(당일)** 전립선 침범·요로 폐쇄·중증도 평가 후 외래·입원 결정  <mark style="color:$warning;">당일\~수일 내 평가</mark>
+* 항생제 시작 후 48시간 내 호전이 시작되지 않거나 48\~72시간에도 발열·통증 등 전반적인 증상이 지속: **(당일)** 재평가; 악화 시 즉각 조치  <mark style="color:$warning;">당일\~수일 내 평가</mark>
 
 **조기 평가 및 추적**
 
-* 임상적으로 호전되었으나 요로결석·잔뇨 등 해부학적·기능적 원인 확인이 필요한 경우 <mark style="color:$info;">조기 평가 및 추적</mark>
-* 반복되는 신우신염 또는 치료 후 수주 이내 재발: 횟수 기준 충족을 기다리지 않고 원인 평가 <mark style="color:$info;">조기 평가 및 추적</mark>
-* 치료 후 수주에도 혈뇨가 지속되는 경우: 요검사 재확인 및 혈뇨 평가 경로 적용 <mark style="color:$info;">조기 평가 및 추적</mark>
+* 임상적으로 호전되었으나 요로결석·잔뇨 등 해부학적·기능적 원인 확인이 필요한 경우  <mark style="color:$info;">조기 평가 및 추적</mark>
+* 반복되는 신우신염 또는 치료 후 수주 이내 재발: 횟수 기준 충족을 기다리지 않고 원인 평가  <mark style="color:$info;">조기 평가 및 추적</mark>
+* 치료 후 수주에도 혈뇨가 지속되는 경우: 요검사 재확인 및 혈뇨 평가 경로 적용  <mark style="color:$info;">조기 평가 및 추적</mark>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -146,8 +147,9 @@ _\*단기요법은 효과적인 항생제 투여, 임상적 호전, 해부학적
 * 항생제를 지체 없이 시작하고 수분·해열·진통 등 보조 치료를 병행
   * 대부분 48\~72시간 내 임상적으로 호전함; 단독 발열이 남아 있어도 전반적인 호전 추세를 함께 평가하고, 악화되면 기다리지 않고 즉시 재평가
 * 입원·정주 치료 평가 대상 : 감염성 요로 폐쇄, 패혈증/패혈성 쇼크, 외래 치료 실패, 경구 섭취·유효 경구 항생제 사용 불가; 면역 저하·다제내성 위험은 중증도와 외래 추적 가능성을 함께 고려. 임신부는 아래 별도 원칙 적용
-* 남성의 발열성 UTI/신우신염 : 전립선 침범·요로 폐쇄 여부를 평가하고 배양 결과와 임상 반응에 따라 기간을 결정. 국내 2026 실무지침·IDSA 2025는 전립선염이 의심되는 일부 발열성 UTI에서 10~~14일을 고려하며, EAU는 남성 발열성 UTI에 최소 2주를 권고함. 명확한 급성 세균성 전립선염은 EAU에서 총 2~~4주를 제시하므로 전립선염 챕터에 따라 개별화; 10\~14일을 모든 확진 전립선염의 표준 종료 시점으로 적용하지 않음
+* 남성의 발열성 UTI/신우신염 : 전립선 침범·요로 폐쇄 여부를 평가하고 배양 결과와 임상 반응에 따라 기간을 결정. 국내 2026 실무지침·IDSA 2025는 전립선염이 의심되는 일부 발열성 UTI에서 10\~14일을 고려하며, EAU는 남성 발열성 UTI에 최소 2주를 권고함. 명확한 급성 세균성 전립선염은 EAU에서 총 2\~4주를 제시하므로 전립선염 챕터에 따라 개별화; 10\~14일을 모든 확진 전립선염의 표준 종료 시점으로 적용하지 않음
 * 경구 전환 기준(모두 충족 시) : ① 임상적 호전(해열제 없이 발열 호전, 혈역학적 안정), ② 경구 복용 가능, ③ 효과적인 경구 항생제 존재, ④ 요로 폐쇄가 있었다면 해결됨
+  * 균혈증 동반 시에도 해열·혈역학적 안정 및 폐쇄 등 감염원 조절을 확인한 뒤 경구 전환을 고려할 수 있음. 경구약은 원인균 감수성뿐 아니라 흡수·용량을 검토하여 **혈액·소변·감염 조직에서 유효 농도를 확보**할 수 있어야 함; 요중 농도만으로 선택하지 않음
 * 임신부 신우신염은 **초기 입원·정주 항생제 치료**를 원칙으로 산과와 협진함(ACOG). ACOG는 총 14일 치료를 권고하므로 본 챕터의 비임신 성인 단기요법을 그대로 적용하지 않음
 
 ### <mark style="color:orange;">비-약물 치료 및 예방</mark>
@@ -194,7 +196,7 @@ _✽본 챕터의 7일 요법은 국내 2026 지침에 따른 선택임. 모든 
 
 ✽표는 정상 신기능 성인 기준임. Cefepime, cefotaxime, piperacillin/tazobactam, fluoroquinolone, TMP/SMX, aminoglycoside, 대부분의 carbapenem·경구 β-lactam은 신기능에 따라 용량/간격 조정이 필요함; cefepime 신경독성과 aminoglycoside 신·이독성에 유의. Ceftriaxone은 신장애 단독 시 보통 감량하지 않으나 중증 간장애 동반 시 별도 평가
 
-* 경험적 정주 항생제는 중증도(특히 패혈증·쇼크), 이전 요배양·항생제 사용력, 기관별 감수성을 종합하여 선택. 최근 ESBL 생성균 분리력이 있으면 ceftriaxone을 고정 예시로 사용하지 않으며, 패혈증/쇼크에서 기관 감수성 자료가 없다면 fluoroquinolone 또는 3세대 cephalosporin 단독 경험 요법을 피함. Amikacin 등 기존 aminoglycoside는 대안으로 제한하고 신기능·이독성을 고려
+* 경험적 정주 항생제는 중증도(특히 패혈증·쇼크), 이전 요배양·항생제 사용력, 기관별 감수성을 종합하여 선택. 최근 ESBL 생성균 분리력이 있으면 ceftriaxone을 고정 예시로 사용하지 않음. 기관 감수성 자료가 없다는 이유만으로 특정 계열을 일률적으로 제외하지 않으며, 이전 배양·항생제 노출·내성 위험과 중증도를 종합하여 초기 유효 치료를 확보함. 감수성 자료 확인 때문에 패혈증/쇼크의 항생제 투여를 지연하지 않음. Amikacin 등 기존 aminoglycoside는 대안으로 제한하고 신기능·이독성을 고려
 * 배양 검사 결과에 따라 조정, 치료 중 악화되거나 48\~72시간 내 반응하지 않으면 재평가
 * 감염성 폐쇄는 **즉시 배액**이 우선이며, 항생제 기간 연장으로 이를 대신하지 않음. 제거 불가능한 결석 등 감염원이 남거나 농양이 있으면 배액·감염원 조절과 기간 개별화를 위해 비뇨의학과/감염내과 협진
 * ESBL 생성균이 확인되면 감수성이 있는 TMP/SMX·ciprofloxacin·levofloxacin으로 표적치료/경구 전환을 고려; 사용할 수 없거나 중증이면 carbapenem 등을 선택. **Cefepime 단독은 감수성으로 보고되어도 ESBL 신우신염에 사용을 피함**. Cefepime/enmetazobactam은 별도 복합제로 cefepime 단독과 혼동하지 않음(IDSA AMR 2026)
@@ -296,6 +298,7 @@ _✽최근 ESBL 생성균 분리력이나 패혈증 등 내성·중증 위험이
 
 * 질병관리청·대한항균요법학회. 2026 요로감염 항생제 적정사용을 위한 실무지침. — 국내 국소형/전신형 분류, 약제 선택 및 기간. [공식 지침](https://www.kdca.go.kr/bbs/kdca/263/307010/download.do)
 * IDSA. 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections. — 단기요법·경구 전환과 적용 제외군. [공식 지침](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
+* Nagarajan PV, Davis AM, Bell EF. Therapy for Adults With Complicated Urinary Tract Infection. JAMA. Published online October 19, 2026. doi:10.1001/jama.2026.17754. — IDSA 2025 지침 요약; 세부 약제 선택과 적용 범위는 IDSA 원문을 우선함. [논문](https://doi.org/10.1001/jama.2026.17754)
 * European Association of Urology. EAU Guidelines on Urological Infections. 2026. [공식 지침](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline)
 * Yu SH, et al. Antimicrobial Resistance of Escherichia coli for Uncomplicated Cystitis: Korean Antimicrobial Resistance Monitoring System. Antibiotics. 2024;13(11):1075. — 2023년 E. coli 감수성 자료; 전체 원인균 분석 논문(Investig Clin Urol 2025)과 구분. [https://doi.org/10.3390/antibiotics13111075](https://doi.org/10.3390/antibiotics13111075)
 * IDSA. 2026 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections. — ESBL 신우신염 표적치료, piperacillin/tazobactam의 제한적 대안 위치, cefepime 단독 회피 및 경구 fosfomycin 전환 예외. [공식 지침](https://www.idsociety.org/practice-guideline/amr-guidance/)
@@ -309,7 +312,7 @@ _✽최근 ESBL 생성균 분리력이나 패혈증 등 내성·중증 위험이
 * 질병관리청 2026 실무지침의 국내 항생제 급여 관련 설명 — 국소 요로감염에서 ciprofloxacin 1차 사용 제한을 신우신염에 동일하게 적용하는 것으로 오해하지 않음.
 * 건강보험심사평가원 상병마스터. 한국표준질병·사인분류 제9차 개정 반영 자료(2026년 시행) — 제공된 KCD9\_251216(1).xlsx의 N10·N12 항목 확인.
 
-_임상 근거·주요 제품 허가사항 확인일: 2026-10-28._
+_임상 근거·주요 제품 허가사항 확인일: 2026-10-28. JAMA cUTI 요약 및 IDSA 2025 치료 원칙 추가 검토·보완일: 2026-11-03._
 
 ***
 

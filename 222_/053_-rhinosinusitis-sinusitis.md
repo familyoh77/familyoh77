@@ -88,6 +88,7 @@
   1. 농성 콧물·코막힘·안면 압통 등 ARS 증상이 호전 없이 ≥10일 지속
   2. 발병 초기부터 최소 3\~4일 연속 심한 증상 지속 : 발열(≥39℃) + (농성 비루 또는 안면통)
   3. 초기 증상 호전 후 다시 악화('double worsening') - 새 발열·두통 또는 비루 증가 등이 나타나는 이봉성(二峯性) 양상
+* 10일 이상 호전 없음과 double worsening은 세균성 가능성을 판단하는 임상 기준이며 세균 감염을 확정하는 소견은 아님. 발열이나 농성 비루만으로 바이러스성과 세균성을 구분할 수 없으며, ABRS 기준을 충족하더라도 합병증·중증도·추적 가능성을 고려하여 항생제 투여 여부 결정 <mark style="color:$info;">\[AAO-HNSF 2025; JAMA 2026]</mark>
 
 {% hint style="info" %}
 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 **초기 호전 후 재악화**임. 발병 초기 ≥39℃ 고열과 **농성 비루 또는 안면통**이 3\~4일 연속 지속되는 severe onset은 <mark style="color:$info;">\[IDSA 2012]</mark> 기준으로 함께 평가하며, 중증 감염이면 즉시 항생제 치료 고려
@@ -98,7 +99,7 @@
 <table><thead><tr><th width="127">질문 항목</th><th>상태 확인</th><th>권고 사항</th></tr></thead><tbody><tr><td><strong>증상 기간</strong></td><td>10일 미만이며 호전 중</td><td>항생제 불필요; 대증 치료</td></tr><tr><td><strong>ABRS,</strong> <br><strong>합병증 없음</strong></td><td>10일 이상 호전 없음 또는 double worsening</td><td>추적이 보장되면 진단 후 보통 3~5일 주의 관찰; 경과에 따라 조정</td></tr><tr><td><strong>중증/고위험</strong></td><td>≥39℃ 고열 + (농성 비루 또는 안면통)이 3~4일 연속 지속, 면역 저하 등</td><td>즉시 항생제 치료를 개별적으로 고려</td></tr><tr><td><strong>관찰 중 실패</strong></td><td>보통 3~5일 관찰 후 호전 없음 또는 관찰 중 악화</td><td>항생제 시작</td></tr><tr><td><strong>Red Flags</strong></td><td>안와 부종, 안구 운동 장애, 시력 변화, 의식 변화</td><td>즉각 조치</td></tr></tbody></table>
 
 > _합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 주의 관찰함._ \
-> _AAO-HNSF 2025의 권고문은 관찰 기간을 고정하지 않으나, 같은 지침의 흐름도는 '진단 후 3\~5일 내 호전 없음' 또는 '언제든 악화'를 재평가 기준으로 제시하므로 보통 3\~5일 관찰하고 진단 시점과 증상 기간에 따라 조정함. 항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용함._
+> _주의 관찰은 **ABRS 진단 후** 보통 3\~5일이며, 증상 발생 후 3\~5일을 의미하지 않음. AAO-HNSF 2025는 진단 시점과 증상 경과에 따라 관찰 기간을 조정하도록 하며, 관찰 중 언제든 악화하면 재평가함. 항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용함._
 
 #### <mark style="color:$primary;">소아 ABRS 진단 기준</mark>
 
@@ -325,6 +326,10 @@
 
 * **폐렴구균 내성 고위험군의 고용량 요법 :** 국외 지침의 amoxicillin/clav. 고용량은 2,000/125 ㎎ bid (amoxicillin 4 g/d)임. 국내 속방형 복합제와 국외 고용량 제형은 투여간격·제형을 포함하여 구분해야 하며, 단순히 투여 약제 수를 늘리면 clav. 과량 위험이 있음. 고용량이 필요한 환자는 중증도·감수성·가용 제형을 고려하여 전문적으로 치료 요법 결정 <mark style="color:$info;">\[AAO-HNSF 2025; IDSA 2012]</mark>
 * <mark style="color:$info;">**\[AAO-HNSF 2025]**</mark> : amoxicillin 단독 또는 amoxicillin/clav.를 1차로 5\~7일 사용. 건강한 경증\~중등도 저위험군에서는 amoxicillin 단독을 고려하고, β-lactamase 생성균·중증·고위험군에서는 amoxicillin/clav.를 우선 고려
+* **Amoxicillin 단독요법의 최신 근거 :** 미국 외래 급성 부비동염 환자 18\~64세를 대상으로 한 후향적 코호트 연구(전체 521,244명, 성향점수 매칭 후 234,608명)에서 amoxicillin/clav.와 amoxicillin의 치료 시작 후 14일 이내 치료 실패율은 각각 3.0%와 3.1%로 유의한 차이가 없었음(RR 0.96; 95% CI 0.92–1.01). 항생제가 필요한 합병증 없는 저위험 성인에서 amoxicillin 단독을 1차로 선택하는 근거를 보완함 <mark style="color:$info;">\[Savage 등, JAMA 2026]</mark>
+  * 90일 이내 이차 감염은 복합제에서 더 흔했음 : 효모균 감염 1.1% vs 0.8%, C. difficile 감염 0.04% vs 0.02%. C. difficile 감염의 절대위험 차이는 작았음. 14일 이내 항생제 관련 이상반응 전체 및 위장관 증상에는 유의한 차이가 없었음
+  * 무작위시험이 아니며 세균학적 확진 자료가 없고, 최근 항생제 사용·입원 환자는 제외됨. ≥65세·중증·내성 고위험군 또는 소아에 일괄 적용하지 않으며, 지역 내성 양상·치성 감염·치료 실패 등을 고려하여 clav. 포함 여부 결정
+  * 연구의 복합제 용량은 875/125 ㎎ bid였음. 국내 처방 시에는 위 표의 용량과 가용 제형·품목허가를 확인
 * <mark style="color:$info;">**\[대한감염학회 2017]**</mark> : amoxicillin 단독도 1차 선택에 포함
 * <mark style="color:$info;">**\[NICE 2017]**</mark> : ≤10일 증상에는 항생제 미사용 원칙. ＞10일 호전 없는 경우 세균 감염 가능성에 따라 처방
   * 1차 : phenoxymethylpenicillin (Pc VK) 500 ㎎ qid ×5d
@@ -616,6 +621,8 @@
 ### <mark style="color:orange;">임상 근거</mark>
 
 * Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025;173(Suppl 1):S1-S56. - 성인 ABRS 진단·주의 관찰·항생제 및 CRS 관리 [https://doi.org/10.1002/ohn.1344](https://doi.org/10.1002/ohn.1344)
+* Fan J, Alexander JT. Diagnosis and Management of Acute Rhinosinusitis in Adults. JAMA. Published online October 28, 2026. - AAO-HNSF 2025 성인 급성 비부비동염 지침 요약·해설; 세부 권고는 원 지침과 대조 [https://doi.org/10.1001/jama.2026.16552](https://doi.org/10.1001/jama.2026.16552)
+* Savage TJ, et al. Amoxicillin-Clavulanate vs Amoxicillin for Acute Sinusitis in Adults. JAMA. 2026;335(19):1694-1705. - 미국 18\~64세 외래 급성 부비동염 환자의 amoxicillin 단독·복합제 비교 후향적 코호트 연구 [https://doi.org/10.1001/jama.2025.26902](https://doi.org/10.1001/jama.2025.26902)
 * Shin JJ, et al. Clinical Practice Guideline: Surgical Management of Chronic Rhinosinusitis. Otolaryngol Head Neck Surg. 2025;172(Suppl 2):S1-S47. - 수술 의뢰·수술 전 치료의 개별화 [https://doi.org/10.1002/ohn.1287](https://doi.org/10.1002/ohn.1287)
 * Fokkens WJ, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020). Rhinology. 2020;58(Suppl S29):1-464. - CRS 정의·표현형·치료 경로 [https://www.epos2020.eu/Documents/supplement\_29.pdf](https://www.epos2020.eu/Documents/supplement_29.pdf)
 * Fokkens WJ, et al. EPOS/EUFOREA update on indication and evaluation of Biologics in Chronic Rhinosinusitis with Nasal Polyps 2023. Rhinology. 2023;61(3):194-202. - 생물학적 제제 선정·반응 평가 [https://doi.org/10.4193/Rhin22.489](https://doi.org/10.4193/Rhin22.489)
