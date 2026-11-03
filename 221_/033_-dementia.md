@@ -585,7 +585,11 @@ flowchart TD
 * 효과 : 중등도·중증 AD에서 인지·일상기능·행동 또는 전반적 상태의 악화를 소폭 지연할 수 있음. 경증 AD에 일률적으로 사용하지 않으며 전두측두치매에는 권고하지 않음
 * 부작용 : 어지럼, 두통, 시야 흐림, 부종, 체중 증가, 과민, 혼돈 (✽심각한 부작용은 매우 드묾)
 * memantine : 5 ㎎/d로 시작하여 1주마다 5 ㎎씩 증량, 넷째 주부터 20 ㎎ qd 유지(필요시 10 ㎎ bid) <mark style="color:blue;">\[에빅사]</mark>
-* 중증 신장애(Cockcroft-Gault CrCl 5\~29 ㎖/min) : 1일 최대 10 ㎎; 중증 간장애에서는 주의
+* 신기능별 용량 조절(Cockcroft-Gault CrCl)
+  * 30\~49 ㎖/min : 1일 용량을 10 ㎎으로 감량; 최소 7일 후 내약성이 좋으면 표준 증량법에 따라 20 ㎎/d까지 증량 가능
+  * 5\~29 ㎖/min : 1일 최대 10 ㎎
+  * ＜5 ㎖/min : 국내 에빅사 허가상 투여 금기
+* 간장애 : 경증·중등증(Child-Pugh A·B)은 용량 조절 불필요; 중증 간장애는 국내 에빅사 허가상 투여 금기. 통증에 대한 제한적 허가 외 사용과도 같은 안전성 기준을 적용(001 참조)
 
 #### <mark style="color:$primary;">항아밀로이드 단클론항체 (Anti-amyloid monoclonal antibodies)</mark>
 
@@ -727,7 +731,8 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 > ※ 급여 대상: 알츠하이머형(뇌혈관 질환 동반 포함) 중등도~중증 치매로 MMSE ≤20점이면서 전반 CDR 2~3 또는 GDS 4~7 (최신 고시 및 병용 약제별 급여기준 확인)
 > ※ ChEI 단독 효과가 불충분하여 병용하더라도 급여기준을 충족하지 않으면 약값 전액을 환자가 부담할 수 있음을 설명
 > ※ 부작용 (어지럼, 혼돈) 모니터링
-> ※ 중증 신장애(CrCl 5~29 ㎖/min) 시 1일 최대 10 ㎎
+> ※ CrCl 30~49 ㎖/min: 10 ㎎/d로 감량하고 최소 7일 후 내약성이 좋으면 표준 증량법에 따라 20 ㎎/d까지 고려; CrCl 5~29 ㎖/min: 최대 10 ㎎/d
+> ※ CrCl ＜5 ㎖/min 및 중증 간장애는 에빅사 투여 금기
 > ```
 
 > **처방례 3.** 치매 - 행동심리증상(BPSD) 동반 시 (초조/공격성)
@@ -824,7 +829,7 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성; memantine의 CrCl별 용량과 중증 간장애·CrCl ＜5 투여 금기를 구분
 * [건강보험심사평가원. Donepezil 경구제·패취제 급여기준. 고시 제2025-73호 (2025-05-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501&mtgMtrRegSno=0003&sno=2) - donepezil의 진단·평가 점수·추적 및 병용 급여 조건; 다른 치매 약제는 각각의 현행 기준 확인 (확인일 2026-10-11)
 * [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer's disease taking Leqembi (lecanemab). Drug Safety Communication. August 28, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab) - ARIA 관련 MRI 감시의 해외 안전성 자료; 국내 처방에는 국내 허가사항·감시 기준 우선 적용

@@ -459,7 +459,8 @@ graph TD
 * duloxetine : 적응을 위해 30 ㎎ qd로 1주간 시작 가능, 통상 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark>, <mark style="color:blue;">\[듀로셉톨]</mark>
   * 최대 120 ㎎/d까지 연구되었으나 60 ㎎/d 초과 용량의 추가 이익 근거는 없음
   * neuropathic pain 적응
-  * 과음·만성 간질환 환자에서 회피
+  * 국내 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min)·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·협우각 녹내장 및 MAOI 관련 병용·휴약기간 금기(001 참조). 과음 환자에서도 간독성 위험을 고려하여 회피
+  * 정신질환 치료용 MAOI 중단 후 14일 이내 duloxetine을 시작하지 않으며, duloxetine 중단 후 5일 이내 MAOI를 시작하지 않음. Linezolid·정맥주사용 methylene blue 등 MAOI 작용 약물도 제품별 금기 확인
 * venlafaxine XR : 37.5 ㎎/d, 최대 225 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
 * desvenlafaxine : 50\~100 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
 * milnacipran : 우울증은 25 ㎎/d로 시작하여 점차 증량, 유지 50 ㎎ bid(100 ㎎/d), 아침·저녁 식사 중 복용 <mark style="color:blue;">\[익셀]</mark>
@@ -469,10 +470,12 @@ graph TD
 #### <mark style="color:$primary;">TCA</mark>
 
 * 부작용 및 과용 시 치명적 손상 위험을 고려하여 2차 선택
-* 주의 : 고령(부작용 증가), 녹내장, BPH, 갑상선항진증, 심혈관 질환, 부정맥, 간질환, 당뇨병(혈당 상승), MAOI 투여
+* 주의 : 고령(부작용 증가), 갑상선항진증, 심혈관 질환, 간질환, 당뇨병(혈당 상승) 등. 약제별 금기를 먼저 확인하고 투여 가능한 환자에서 신중히 사용
+* 국내 amitriptyline(에트라빌) 금기 : 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, 부정맥, 급성 섬망, 중추신경억제제·알코올 급성 중독, 대뇌손상·무과립구증, MAOI 투여 중인 환자 등. TCA 과민증 및 첨가제 관련 금기도 확인하며, 다른 TCA에는 해당 제품의 허가사항을 각각 적용(001 참조)
 * 부작용 : 입마름, 시야 흐림, 변비, 요 정체, 빈맥, 혼돈
 * 과량 복용 시 치명적이므로 자살 위험 환자에서는 처방량을 제한 (예: 1주분)
 * amitriptyline : 30\~75 ㎎/d를 2\~3회 분할 투여, 필요시 150 ㎎/d까지 점차 증량, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">\[에트라빌]</mark>
+  * 위 용량은 국내 우울증 허가 용법이며, 고용량은 전문진료에서 독성·심혈관 위험을 평가하여 결정. 001장의 저용량 허가 외 통증 용법과 구분
 * imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
 * nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
 
@@ -877,7 +880,7 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성; duloxetine의 간·신장애 등 금기와 MAOI 휴약기간, amitriptyline의 제품별 금기를 확인
 * [건강보험심사평가원. SSRI 등 항우울제 급여기준 관련 질의 및 응답. 고시 제2022-268호 관련 (2022-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201&mtgMtrRegSno=0011&sno=8) - 타 진료과의 우울증상에 대한 반복 처방·의뢰 조건; 개별 약제의 현행 급여 기준은 별도 확인 (확인일 2026-10-11)
 
 

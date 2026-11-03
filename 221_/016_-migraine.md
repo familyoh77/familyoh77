@@ -263,12 +263,15 @@ flowchart TD
 
 ### <mark style="color:orange;">진통제</mark>
 
-* ibuprofen : 400\~800 ㎎ <mark style="color:blue;">\[부루펜]</mark>
+* ibuprofen : 400 ㎎부터 시작 <mark style="color:blue;">\[부루펜]</mark>. 문헌에서 제시되는 400\~800 ㎎ 범위와 국내 부루펜의 경증–중등도 통증 허가 용법(200\~400 ㎎, 1일 3\~4회)을 구분하며, 800 ㎎은 해당 국내 허가 1회량 범위와 다르므로 별도 근거·위험 평가가 필요함. 초기 치료에 반응이 불충분하면 triptan 등 다른 계열 전환 필요성을 재평가
 * naproxen : 500 ㎎ <mark style="color:blue;">\[낙센]</mark>
+  * NSAID는 위장관 궤양·출혈/과거력, 천식/과거력, 신장애·탈수·심혈관 위험 및 병용약을 확인하고 제품별 금기를 우선 적용(001 참조); PPI 병용으로 투여 금기가 해소되지는 않음
 * naproxen sodium : 국내 편두통 허가 용법은 초회 825 ㎎, 필요시 275\~550 ㎎ 추가, 1일 최대 1,375 ㎎ <mark style="color:blue;">\[아나프록스]</mark>
 * aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[바이엘아스피린]</mark>
 * dexketoprofen : 25 ㎎
-* acetaminophen : 650\~1,300 ㎎ <mark style="color:blue;">\[타이레놀]</mark> (NSAID보다 효과가 적다는 보고가 있음)
+* acetaminophen 속방형 : 두통 시작 시 1,000 ㎎ 필요시 <mark style="color:blue;">\[타이레놀정500㎎]</mark>; 반복 시 최소 6시간 간격. 모든 공급원의 합산 최대 4 g/d, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장하며 위험요인별 감량(001 참조). NSAID보다 효과가 적다는 보고가 있음
+  * 서방형 650 ㎎ 2정(1,300 ㎎) q8h·최대 6정/24시간의 용법과 구분하며, 이를 속방형의 급성 편두통 1회량으로 적용하지 않음
+  * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 실제 사용할 제품의 금기를 먼저 확인. Amitriptyline·nortriptyline 예방요법 중에는 TCA 복용 환자 투여 금기가 있는 acetaminophen 품목을 병용하지 않음
 
 ### <mark style="color:orange;">Triptan</mark>
 
@@ -501,8 +504,8 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 #### <mark style="color:$primary;">기타</mark>
 
 * 아래 약제는 편두통 예방에 대한 근거가 제한적이고 대부분 국내 허가 외 사용이므로 routine으로 권고하지 않음
-* tizanidine(근이완) : 4\~24 ㎎/d <mark style="color:blue;">\[티자리드]</mark> (편두통 예방은 허가 외 사용; 국내 근연축 허가 용량과 다름)
-* memantine(신경 보호) : 5\~20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>
+* tizanidine(근이완) : 문헌의 편두통 예방 연구 용량 4\~24 ㎎/d <mark style="color:blue;">\[티자리드]</mark> (허가 외 사용; 국내 근연축 허가 용량 1\~2 ㎎ tid와 구분). 일반 처방의 증량 목표로 일률 적용하지 않으며 전문진료에서 판단; ciprofloxacin·fluvoxamine 병용 금기 및 저혈압·진정·간기능 이상에 주의(001·019·025 참조)
+* memantine(NMDA 수용체 길항제) : 5\~20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>; 편두통 예방은 국내 허가 외이며 근거가 제한적임. 5 ㎎/d부터 통상 1주 간격으로 5 ㎎/d씩 점진 증량하는 안전성 원칙을 참고하되 전문의가 개별화하고, CrCl별 감량을 적용(001 참조)
 * cyproheptadine(항히스타민) : 4\~8 ㎎ tid
 * zonisamide(항전간) : 50\~100 ㎎/d <mark style="color:blue;">\[엑세그란]</mark>
 * 대체 요법(근거 제한적) : Mg 600 ㎎/d, riboflavin 400 ㎎/d, feverfew(MIG-99) 6.25 ㎎ tid, coenzyme Q10 100 ㎎ tid
@@ -527,7 +530,8 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * 아래 비경구 치료 근거의 상당 부분은 status migrainosus만을 대상으로 한 연구가 아니라, 응급실에서 비경구 치료가 필요한 급성 편두통 전반의 연구에서 도출됨 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * IV 수액 : 탈수·경구 섭취 불량·저혈압이 있는 경우 0.9% 생리식염주사액 또는 하트만액 등 등장성 결정질액으로 교정; 모든 환자에게 일률적으로 투여하지 않음
 * IV/IM 항구토제 : metoclopramide <mark style="color:blue;">\[맥페란주]</mark>; IV prochlorperazine은 원 지침에서 제공해야 하는(Level A) 우선 권고 약제이나, 국내에서는 상용 주사제 유통 여부를 확인해야 함 <mark style="color:$info;">\[AHS ED 2025]</mark>
-* IV ketorolac 15\~30 ㎎ <mark style="color:blue;">\[케토신주]</mark> 또는 IV dexketoprofen : 적절한 경우 사용
+* IV ketorolac : 응급실 편두통 연구·지침에서 15\~30 ㎎이 사용되며, 국내 품목의 허가 용법과 구분 <mark style="color:blue;">\[케토란주]</mark>. 국내 허가상 성인 초회 10 ㎎, 유지 10\~30 ㎎ q4\~6h, 주사 투여기간 최대 2일; 일반 성인 최대 90 ㎎/d, 고령자·체중 50 ㎏ 이하·금기에 해당하지 않는 신장애 환자는 최대 60 ㎎/d. IV dexketoprofen도 적절한 경우 고려
+  * 중등도·중증 신부전, 탈수·저혈량증, 소화성궤양·위장관 출혈 또는 그 병력, 다른 NSAID·항응고제 병용 등에서는 ketorolac 투여 금기를 우선 적용. Status migrainosus에서 동반될 수 있는 탈수를 먼저 평가하고, 금기에 해당하면 감량 주사로 대체하지 않음(001·003 참조)
 * IV valproate 500\~1,000 ㎎ : 난치성 또는 다른 1차 응급치료가 적절하지 않은 경우 대안으로 고려 <mark style="color:blue;">\[데파킨주]</mark>
   * 근거 수준은 prochlorperazine·metoclopramide·ketorolac보다 낮음
   * 제품 허가사항에 따라 서서히 정맥 투여(국내 데파킨정맥주사 허가 용법 확인)
@@ -560,7 +564,7 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 > 맥페란 10 ㎎/T 1T (구역 동반 시)
 > ```
 >
-> _✽경증\~중등도에서 1차 선택; 두통 시작 초기에 복용하고 반응이 불충분하며 금기가 없으면 1회 800 ㎎까지 고려. 단일 진통제는 월 15일 미만으로 사용(약물과용두통 예방)_
+> _✽경증\~중등도에서 400 ㎎으로 시작하는 예시임. 반응이 불충분하면 다른 계열로의 전환을 재평가하고, 문헌의 800 ㎎ 용량은 국내 부루펜의 경증–중등도 통증 허가 1회량과 구분하여 판단함. 제품별 금기·병용약과 위장관·신장·심혈관 위험을 확인. 단일 진통제는 월 15일 미만으로 사용(약물과용두통 예방)_
 
 > **처방례 2. 급성 편두통 (중등증\~중증, triptan)**
 >
@@ -593,7 +597,7 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 > 에트라빌 10 ㎎/T 1T hs (보험주의; 우울증 동반 시 급여)
 > ```
 >
-> _✽저용량 취침 전 투여로 시작하며 졸림·입마름·변비·소변 저류 등 항콜린성 부작용에 주의. 고령자, BPH, 녹내장, 심장 전도장애 환자에서는 신중 사용; 우울증 동반 시 특히 유용할 수 있음._
+> _✽저용량 취침 전 투여로 시작하며 졸림·입마름·변비·소변 저류 등 항콜린성 부작용에 주의. 고령자, BPH, 녹내장, 심장 전도장애 환자에서는 신중 사용; 우울증 동반 시 특히 유용할 수 있음. TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않고 돌발 두통의 급성기 약제를 별도로 선택(001 참조)._
 
 ***
 

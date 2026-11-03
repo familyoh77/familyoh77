@@ -400,7 +400,8 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각
-* 금기/주의 : meperidine, tramadol, methadone, dextromethorphan(기침약), 다른 MAO 억제제 병용
+* Tramadol 병용 금기 : selegiline·rasagiline·safinamide와 병용하지 않음. 진통 목적으로도 예외가 아니며, 중단·전환 시 제품별 휴약기간 확인(001 참조)
+* 기타 병용 금기/주의 : meperidine, methadone, dextromethorphan(기침약), 다른 MAO 억제제(성분별 허가사항 확인)
   * SSRI/SNRI/TCA 병용 시 세로토닌 증후군 위험(각 제품의 병용금기·휴약기간을 확인)
   * 심한 불면(특히 selegiline)
 * selegiline : 5 ㎎ qd\~bid, 최대 총 10 ㎎/d(아침·점심) <mark style="color:blue;">\[마오비]</mark>
@@ -477,6 +478,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 통증 : 발생 시간 먼저 확인
   * 통증이 약효가 떨어지는 시간(OFF 상태, 예: 이른 아침 첫 복용 전이나 다음 복용 직전)에 나타나거나 심해지면 levodopa 투여 간격·용량 조정 등 도파민 치료를 우선 최적화
   * 복용 시간과 무관하면 근골격계·신경병성 등 다른 원인을 평가하며, duloxetine 등은 통증 유형과 동반 우울에 따라 고려할 수 있으나 파킨슨병 특이 근거는 제한적
+  * 진통제·항우울제 선택 전 MAO-B 억제제 복용 여부를 확인. Tramadol 병용은 금기이며, duloxetine·TCA 등도 세로토닌 증후군 및 제품별 병용금기·휴약기간을 확인(001·027 및 위 MAO-B 억제제 항목 참조)
 * 침 흘림 : 연하 평가와 자세·행동요법을 먼저 고려
   * 침샘 botulinum toxin 주사 또는 경구 glycopyrrolate를 고려
   * 설하 atropine·ipratropium은 근거와 허가 범위가 제한적이며, 다른 약제를 포함한 총 항콜린 부담과 인지 저하·변비·요폐 악화에 주의
@@ -625,7 +627,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용; MAO-B 억제제–tramadol 병용 금기와 항우울제 전환 시 휴약기간 확인
 * [건강보험심사평가원. 「일반원칙」 항파킨슨 약제. 고시 제2024-235호 (2024-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0002&sno=3) - 병용 약제 수·복합제 성분 산정 등 급여 원칙; 개별 약제의 조건은 별도 확인 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA Is Requiring Warning about Vitamin B6 Deficiency and Associated Seizures for Drug Products Containing Carbidopa/Levodopa. Drug Safety Communication. March 20, 2026.](https://www.fda.gov/media/191605/download) - carbidopa/levodopa의 비타민 B6 결핍·관련 경련 경고와 모니터링; 국내 허가사항과 함께 확인
 

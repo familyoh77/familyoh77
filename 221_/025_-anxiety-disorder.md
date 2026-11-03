@@ -411,7 +411,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * 폐쇄각 녹내장 : SSRI/SNRI 공통으로 산동(mydriasis) 효과에 의해 안압이 상승할 수 있음
   * 대책 : 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
 * 고령자 : SSRI/SNRI 투여 시 저나트륨혈증(SIADH) 위험을 고려하여 고위험군에서 기저 및 투약 초기 전해질 확인
-  * Duloxetine은 모든 고령자에서 회피하는 약물이 아니라 CrCl ＜30 ㎖/min에서 위장관 이상반응과 대사산물 축적 우려로 회피
+  * Duloxetine은 고령이라는 이유만으로 일률적으로 회피하는 약물은 아님. 다만 국내 제품은 간질환, CrCl ＜30 ㎖/min의 중증 신장애·투석이 필요한 말기 신질환에서 투여 금기이며, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 및 MAOI 관련 금기도 구분하여 적용(001 참조)
 * Fluvoxamine : CYP1A2·CYP2C19·CYP3A4 억제 작용이 있어 diazepam 등 이 경로로 대사되는 benzodiazepine과 병용 시 혈중농도 상승 위험
   * tizanidine(근이완제) 병용 금기, ramelteon·pimozide·thioridazine 병용 회피
 * 임신·수유 : 임신 후기 노출 시 신생아 적응증후군과 PPHN 가능성을 고려하되 절대위험, 치료하지 않은 중증 불안·우울의 위험, 기존 치료반응과 수유 계획을 함께 평가
@@ -507,7 +507,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 #### <mark style="color:$primary;">환자 유형별 약제 선택</mark>
 
-<table><thead><tr><th width="135">환자 유형</th><th>고려할 약제와 주의사항</th></tr></thead><tbody><tr><td>불면 심함</td><td>mirtazapine 또는 진정성이 있는 약제를 고려하되 체중 증가·주간 졸림 평가</td></tr><tr><td>통증 동반</td><td>duloxetine 고려; CrCl ＜30 ㎖/min, 만성 간질환 또는 상당한 음주가 있는 환자에서는 회피; 60 ㎎/d 초과 시 GAD에서 추가 이득이 뚜렷하지 않으면서 이상반응 부담이 증가할 수 있음</td></tr><tr><td>성기능 중요</td><td>pregabalin 또는 buspirone 등을 고려하되 GAD 허가·근거와 신기능·남용 위험 확인; vortioxetine은 GAD 미승인</td></tr><tr><td>고령</td><td>sertraline, escitalopram을 저용량으로 시작할 수 있음. Hydroxyzine·BZD는 Beers Criteria상 회피; pregabalin은 신기능에 따라 감량하고 opioid 병용 회피; duloxetine은 CrCl ＜30 ㎖/min에서 회피</td></tr><tr><td>급성 불안</td><td>원인·응급상황을 먼저 평가하고, 비약물적 안정화와 함께 환자별 QT·항콜린·의존 위험을 비교하여 단기 약제 선택</td></tr><tr><td>BZD 의존 위험</td><td>SSRI/SNRI, buspirone 또는 정신치료를 우선 고려</td></tr></tbody></table>
+<table><thead><tr><th width="135">환자 유형</th><th>고려할 약제와 주의사항</th></tr></thead><tbody><tr><td>불면 심함</td><td>mirtazapine 또는 진정성이 있는 약제를 고려하되 체중 증가·주간 졸림 평가</td></tr><tr><td>통증 동반</td><td>duloxetine 고려; 간질환·CrCl ＜30 ㎖/min·투석이 필요한 말기 신질환은 국내 제품 투여 금기. 상당한 음주가 있는 환자에서도 회피를 고려; 60 ㎎/d 초과 시 GAD에서 추가 이득이 뚜렷하지 않으면서 이상반응 부담이 증가할 수 있음</td></tr><tr><td>성기능 중요</td><td>pregabalin 또는 buspirone 등을 고려하되 GAD 허가·근거와 신기능·남용 위험 확인; vortioxetine은 GAD 미승인</td></tr><tr><td>고령</td><td>sertraline, escitalopram을 저용량으로 시작할 수 있음. Hydroxyzine·BZD는 Beers Criteria상 회피; pregabalin은 신기능에 따라 감량하고 opioid 병용 회피; duloxetine은 CrCl ＜30 ㎖/min·간질환 등 국내 제품 투여 금기 적용</td></tr><tr><td>급성 불안</td><td>원인·응급상황을 먼저 평가하고, 비약물적 안정화와 함께 환자별 QT·항콜린·의존 위험을 비교하여 단기 약제 선택</td></tr><tr><td>BZD 의존 위험</td><td>SSRI/SNRI, buspirone 또는 정신치료를 우선 고려</td></tr></tbody></table>
 
 ***
 

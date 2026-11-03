@@ -214,7 +214,8 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 1차 치료 : indomethacin - 진단 기준(criterion D)에 포함될 만큼 완전 반응이 중요함(진단적 치료). 실제 임상에서는 25 ㎎ tid부터 시작하여 내약성을 확인하며 증량하되, 진단적 충분 용량에 도달하기 전에 무반응으로 판단하지 않음 <mark style="color:blue;">\[인도메타캡슐]</mark>
 * 투여 전후 위장관 출혈·궤양, 신기능, 혈압·심혈관 위험 및 병용약을 평가. PPI는 위장관 위험을 줄이지만 신장·심혈관 위험을 예방하지 않음
 * indomethacin 불내성 시 대안(모두 근거가 제한된 허가 외 사용)
-  * celecoxib : 200 ㎎ bid <mark style="color:blue;">\[쎄레브렉스]</mark> - 심혈관·신장 위험 평가
+  * celecoxib : 200 ㎎ bid <mark style="color:blue;">\[쎄레브렉스]</mark> - 지속반두통에 대한 근거 제한적 허가 외 용량으로, 일반 골관절염 용량과 구분
+    * 국내 제품은 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II–IV 심부전, CrCl ＜30 ㎖/min, 활동성 궤양·출혈 등에서 투여 금기. 단순 위험인자 평가와 금기를 구분하고 PPI 병용으로 금기가 해소되는 것으로 설명하지 않음(001 참조)
   * topiramate : 50\~100 ㎎/d <mark style="color:blue;">\[토파맥스]</mark>
   * melatonin : 3\~10 ㎎ 취침 전 - 국내 처방용 제품은 주로 2 ㎎ 서방형이므로 문헌의 용량·제형과 직접 대응하지 않음
 * 후두신경차단술(Occipital nerve block) : indomethacin 반응은 있으나 장기 복용이 어려운 경우 보조적 선택지로 고려 가능 (근거 제한적)
@@ -254,6 +255,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 편두통형 : topiramate, valproate, amitriptyline 등
   * 임신 가능성이 있는 환자에서는 valproate·topiramate의 태아 위해를 고려
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
+* Amitriptyline·nortriptyline 등 TCA를 예방약으로 선택할 때 급성기 약제도 함께 검토. 타이레놀정500㎎ 등 TCA 복용 환자 투여 금기가 있는 acetaminophen 품목은 병용하지 않으며, 대체 진통제도 자체 금기와 MOH 위험을 확인함(001 참조)
 * 만성 편두통 동반 시 OnabotulinumtoxinA(PREEMPT protocol 기반, 155\~195 units), CGRP 단클론항체, atogepant 또는 topiramate를 우선 고려할 수 있으며 국내 허가·급여 기준 확인 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 
 <mark style="color:cyan;">**추적 관찰**</mark>
@@ -314,7 +316,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 > ※ 고용량 증량이 필요하거나 진단이 불확실하면 신경과 협진 권장
 > ```
 >
-> _✽indomethacin 불내성 시 celecoxib 등 대안을 고려할 수 있으나, 대체약 반응은 hemicrania continua의 진단 기준을 대신하지 않음_
+> _✽indomethacin 불내성 시 celecoxib 등 대안을 고려할 수 있으나, 대체약 반응은 hemicrania continua의 진단 기준을 대신하지 않음. Celecoxib도 국내 제품의 심혈관질환·NYHA II–IV 심부전·중증 신장애·활동성 궤양/출혈 등 금기를 먼저 확인하며, indomethacin을 사용할 수 없다는 이유만으로 자동 대체하지 않음(001 참조)_
 
 > **처방례 3. 수면두통 (Hypnic headache)**
 >
