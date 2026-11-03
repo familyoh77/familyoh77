@@ -259,6 +259,7 @@ class T orange
 * BMS 자체에 대한 근거는 불충분하며 통증·수면장애를 고려해 선택적으로 사용
 * amitriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark> 또는 nortriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[센시발]</mark>
 * 항콜린성 입마름·변비·요폐·인지저하와 기립저혈압이 기존 증상 및 낙상 위험을 악화시킬 수 있어 고령자에서 특히 주의
+* Amitriptyline(에트라빌)은 국내 허가상 녹내장, 전립선비대 등 배뇨장애, 부정맥, 심근경색 회복 초기, 급성 섬망, MAOI 투여 중인 환자 등에서 금기. TCA 과민증·기타 제품 금기도 확인하며, nortriptyline 등 다른 TCA에는 각 제품의 허가사항을 적용(001·027 참조). 입마름에 대한 단순 주의와 투여 금기를 구분
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
@@ -427,7 +428,7 @@ class T orange
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; amitriptyline의 제품별 금기와 국소 clonazepam을 포함한 허가 외 사용의 안전성 확인
 
 ***
 
