@@ -5,7 +5,7 @@
 * 열, 화학물질, 전기, 방사선, 마찰 등에 의한 피부 또는 심부조직 손상
 * 열손상 정도는 온도와 접촉시간, 피부 두께, 압력 및 열원의 성질에 따라 달라짐. 비교적 낮은 온도도 장시간 접촉하면 저온화상을 일으킬 수 있음.
 * 화상은 초기 48\~72시간 동안 깊이가 진행하거나 재평가 결과가 달라질 수 있는 동적 손상임.
-* 화상센터 또는 응급실로 바로 이송하는 경우에는 저체온증을 예방하면서 깨끗하고 마른 비점착성 거즈나 천으로 느슨하게 덮음. 국소제 도포나 습윤 드레싱 때문에 이송을 지연하지 않음.
+* 화상센터 또는 응급실로 바로 이송하는 경우에는 저체온증을 예방하면서 깨끗하고 마른 비점착성 거즈나 천으로 느슨하게 덮음. 국소제 도포나 습윤 드레싱 때문에 이송을 지연하지 않음. 단, 백린 화상은 재발화를 막기 위해 젖은 덮개를 유지하며, 화학물질 제독·안구 세척 등 필요한 특수 처치를 우선함.
 
 ### <mark style="color:orange;">화상 면적 측정</mark>
 
@@ -32,13 +32,16 @@
 
 ### <mark style="color:orange;">깊이에 따른 분류 및 특징</mark>
 
-| 분류                                                                                          | 이환 조직                   | 외형·감각                                    | 일반적인 경과                                                   |
-| ------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- | --------------------------------------------------------- |
-| <p><strong>표재성 화상</strong><br><strong>Superficial(1도)</strong></p>                          | 표피                      | 건조하고 붉으며 압박 시 창백해짐; 물집 없음; 통증 있음         | <p>대개 3~7일 이내 치유; 반흔 없음<br><strong>TBSA에서 제외</strong></p> |
-| <p><strong>표재성 부분층 화상</strong><br><strong>Superficial partial-thickness(얕은 2도)</strong></p> | 표피와 진피 상층               | 습윤하고 붉으며 압박 시 창백해짐; 물집과 심한 통증            | 대개 1\~3주 이내 재상피화; 2주 이내 치유되면 뚜렷한 반흔 위험은 낮으나 색소 변화 가능    |
-| <p><strong>심부 부분층 화상</strong><br><strong>Deep partial-thickness(깊은 2도)</strong></p>         | 진피 심층                   | 창백하거나 얼룩진 적색·백색; 창백반응 감소 또는 소실; 통증·감각 감소 | 대개 3주 이상; 비후성 반흔과 구축 위험이 높아 조기 화상 전문진료 및 피부이식 고려          |
-| <p><strong>전층 화상</strong><br><strong>Full-thickness(3도)</strong></p>                        | 표피와 진피 전층, 피하조직까지 침범 가능 | 건조하고 가죽 같으며 흰색·갈색·검은색; 창백반응과 통각 소실       | 자발적 재상피화가 어렵고 대부분 절제·피부이식 필요                              |
-| **4도 화상**                                                                                   | 피부 전층을 넘어 근막·근육·힘줄·뼈    | 탄화, 깊은 조직 노출 또는 괴사                       | 응급 수술·재건 치료 필요                                            |
+<table>
+<thead><tr><th>분류</th><th>이환 조직</th><th>외형·감각</th><th>일반적인 경과</th></tr></thead>
+<tbody>
+<tr><td><p><strong>표재성 화상</strong><br><strong>Superficial(1도)</strong></p></td><td>표피</td><td>건조하고 붉으며 압박 시 창백해짐; 물집 없음; 통증 있음</td><td><p>대개 3~7일 이내 치유; 반흔 없음<br><strong>TBSA에서 제외</strong></p></td></tr>
+<tr><td><p><strong>표재성 부분층 화상</strong><br><strong>Superficial partial-thickness(얕은 2도)</strong></p></td><td>표피와 진피 상층</td><td>습윤하고 붉으며 압박 시 창백해짐; 물집과 심한 통증</td><td>대개 1~3주 이내 재상피화; 2주 이내 치유되면 뚜렷한 반흔 위험은 낮으나 색소 변화 가능</td></tr>
+<tr><td><p><strong>심부 부분층 화상</strong><br><strong>Deep partial-thickness(깊은 2도)</strong></p></td><td>진피 심층</td><td>창백하거나 얼룩진 적색·백색; 창백반응 감소 또는 소실; 통증·감각 감소</td><td>대개 3주 이상; 비후성 반흔과 구축 위험이 높아 조기 화상 전문진료 및 피부이식 고려</td></tr>
+<tr><td><p><strong>전층 화상</strong><br><strong>Full-thickness(3도)</strong></p></td><td>표피와 진피 전층, 피하조직까지 침범 가능</td><td>건조하고 가죽 같으며 흰색·갈색·검은색; 창백반응과 통각 소실</td><td>자발적 재상피화가 어렵고 대부분 절제·피부이식 필요</td></tr>
+<tr><td><strong>4도 화상</strong></td><td>피부 전층을 넘어 근막·근육·힘줄·뼈</td><td>탄화, 깊은 조직 노출 또는 괴사</td><td>응급 수술·재건 치료 필요</td></tr>
+</tbody>
+</table>
 
 {% hint style="info" %}
 화상의 깊이는 초기 외형만으로 확정하기 어려우며 특히 처음 48\~72시간 동안 반복 평가함. 피부색이 짙은 환자는 홍반보다 온도, 습윤도, 모세혈관 재충혈과 감각을 함께 평가함.
@@ -63,22 +66,22 @@
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 화상 면적과 관계없이 깊이가 불확실하거나 잠재적 심부 화상이 의심되는 경우  `전문 평가`
-* 흡입손상 가능성: 안면 섬광화상, 코털이 그을림, 밀폐공간 연기 노출 등  `기도·호흡`
-* 저전압(＜1,000 V) 전기 화상  `전기 손상`
+* 호흡기 증상 없이 안면 섬광화상·코털 그을림·연기 노출 등 잠재적 흡입손상 소견이 있는 경우에도 당일 평가·상담함. 호흡곤란·stridor·쉰 목소리·구강 내 부종·의식 변화가 생기면 즉각 조치 단계로 전환함  `기도·호흡`
+* 저전압(＜1,000 V) 전기 화상도 당일 임상평가·ECG와 화상센터 상담을 시행함  `전기 손상`
 * 진행하는 발적·열감·부종, 새로 심해지는 통증, 농성 분비물·악취 또는 치유 정체 등 감염 의심 소견  `감염`
-* 새로 발생하거나 지속되는 감각·운동 이상  `전문 평가`
+* 새로 발생하거나 지속되는 감각·운동 이상은 당일 평가함. 손발이 차갑거나 창백해짐, 재충혈 지연 또는 심한 긴장성 부종을 동반하면 즉각 조치 단계로 전환함  `전문 평가`
 * 24\~72시간 재평가에서 화상 깊이 또는 범위가 증가함  `전문 평가`
-* 소아(≤14세 또는 ＜30 ㎏)는 통증 조절, 드레싱, 재활, 보호자의 관리 능력 및 비우발성 손상 가능성을 고려하여 필요에 따라 화상센터와 조기 상담하고 이송 필요성을 판단함. 영아, 특수 부위 화상, 광범위 수포 또는 가정 관리가 어려운 경우에는 당일 상담을 우선함. 모든 소아 화상이 자동 이송 대상이라는 의미는 아님.  `소아`
+* 소아(≤14세 또는 ＜30 ㎏)는 통증 조절, 드레싱, 재활, 보호자의 관리 능력 및 비우발성 손상 가능성을 고려하여 필요에 따라 화상센터와 조기 상담하고 이송 필요성을 판단함. 영아(특히 1세 미만), 특수 부위 화상, 광범위 수포 또는 가정 관리가 어려운 경우에는 당일 상담을 우선함. 성인의 10% TBSA 기준에 미달하더라도 소아의 상담·의뢰 필요성을 별도로 판단함. 모든 소아 화상이 자동 이송 대상이라는 의미는 아님.  `소아`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* Tier 1·2에 해당하지 않는 소범위 표재성·표재성 부분층 화상  `외래 추적`
+* 상위 두 단계에 해당하지 않는 소범위 표재성·표재성 부분층 화상  `외래 추적`
 * 전신상태가 안정적이고 당일 의뢰 기준에는 해당하지 않지만 고령·쇠약 또는 자가관리 어려움 등으로 면밀한 관찰이 필요한 경우  `전문 평가`
 * 10\~14일에도 재상피화가 충분하지 않거나 2\~3주 이상 치유가 지연될 것으로 예상됨  `치유 지연`
 * 치유 후 관절 운동 제한, 비후성 반흔 또는 구축 발생  `반흔·기능 장애`
 
 {% hint style="info" %}
-Tier 1은 응급 이송 또는 화상센터와의 즉시 상담이 필요한 상태임. 즉시 상담이 자동 이송을 뜻하지는 않음. Tier 2의 감염 의심·새 신경학적 이상·진행 소견과 저전압 전기 손상은 당일 평가를 우선하며 수일 뒤로 미루지 않음. 잠재적 심부 화상도 조기 상담함. ABA는 소범위 부분층 화상에도 상담을 권고하므로, 외래 치료 여부와 재평가 계획을 지역 화상센터와 조율함. 소아는 연령·범위·관리 여건에 따라 상담·이송을 개별화함.
+‘즉각 조치’는 응급 이송 또는 화상센터와의 즉시 상담이 필요한 상태임. 즉시 상담이 자동 이송을 뜻하지는 않음. ‘당일~수일 내 평가’ 중 잠재적 흡입손상·감염 의심·새 신경학적 이상·진행 소견과 저전압 전기 손상은 당일 평가하며 수일 뒤로 미루지 않음. 잠재적 심부 화상도 조기 상담함. ABA는 소범위 부분층 화상에도 상담을 권고하므로, 외래 치료 여부와 재평가 계획을 지역 화상센터와 조율함. 소아는 연령·범위·관리 여건에 따라 상담·이송을 개별화함.
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -99,20 +102,22 @@ Tier 1은 응급 이송 또는 화상센터와의 즉시 상담이 필요한 상
 
 ```mermaid
 flowchart TB
-    A[열원 차단·구조자 안전<br>ABCDE와 동반 외상 평가] ---> B{생명 위협 또는<br>응급 이송 소견?}
-    B --->|예| C[응급조치·즉시 이송<br>연기·CO 노출 시 100% 산소]
-    B --->|아니오| D[열화상 후 3시간 이내면<br>흐르는 시원한 물 총 20분<br>특수 손상은 해당 초기 처치<br>저체온증 예방]
-    D ---> E[깊이·TBSA·부위·신경혈관 평가]
-    E ---> F{화상센터 즉시 상담 기준?<br>전층·부분층 10% 이상·특수 부위 심부<br>화학·고위험 동반질환·통증}
-    F --->|예| G[즉시 상담·이송 필요성 판단]
-    F --->|아니오| H{당일 또는 조기 평가 기준?}
-    H --->|예| I[당일 평가 우선·화상센터 상담<br>소아·깊이 불확실·저전압·감염 등]
-    H --->|아니오| J[세척·통증 조절·드레싱<br>24~72시간 내 재평가]
+    A["화상 의심"] --> B["노출 차단·구조자 안전·ABCDE 평가"]
+    B --> C{"생명 위협 또는 응급 이송 소견?"}
+    C -->|예| D["응급조치·즉시 이송"]
+    C -->|아니오| E["열화상 냉각·저체온증 예방 또는 특수 손상 제독"]
+    E --> F["깊이·TBSA·부위·신경혈관 평가"]
+    F --> G{"화상센터 즉시 상담 기준?"}
+    G -->|예| H["즉시 상담·이송 필요성 판단"]
+    G -->|아니오| I{"당일 또는 조기 전문평가 필요?"}
+    I -->|예| J["해당 시점에 전문평가·화상센터 상담"]
+    I -->|아니오| K["세척·진통·드레싱·파상풍 평가"]
+    K --> L["외래 치료·24~72시간 내 재평가"]
 ```
 
 <p align="center"><strong>초기 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. American Burn Association. Guidelines for Burn Patient Referral (현행 온라인 기준); Royal Children's Hospital Melbourne. Burns-Acute Management CPG (2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성. American Burn Association. Guidelines for Burn Patient Referral (현행 온라인 기준); Royal Children's Hospital Melbourne. Burns-Acute Management CPG (2026); NSW ACI. Burn Patient Management (2026). 열화상 냉각은 손상 후 3시간 이내 총 20분이며, 응급조치·이송을 지연하지 않음.</mark></em></p>
 
 ***
 
@@ -124,18 +129,24 @@ flowchart TB
 2. ABCDE 순서로 기도·호흡·순환과 동반 외상을 먼저 평가함.
 3. 화상 부위에 닿은 의복, 기저귀, 반지, 시계와 장신구를 제거함. 피부에 붙은 의복이나 물질은 무리하게 떼지 않음.
 4. 열화상은 가능한 한 빨리, 화상 후 3시간 이내라면 화상 부위에 시원한 흐르는 수돗물을 총 20분간 적용함. 얼음·얼음물은 사용하지 않음.
-5. 소아·고령자·광범위 화상은 화상 부위만 냉각하고 나머지 신체를 덮어 저체온증을 예방함.
+5. 소아·고령자·광범위 화상은 화상 부위만 냉각하고 나머지 신체를 덮어 저체온증을 예방함. 체온 저하나 심한 불편이 나타나면 냉각을 잠시 중단하고 안정 후 재개함. 냉각 후에는 젖은 의복·덮개를 제거함(백린 손상의 젖은 덮개는 예외).
 6. 깨끗한 물이나 생리식염수와 순한 비누로 부드럽게 세척하고, 명확히 느슨한 괴사조직과 오염물만 제거함.
 7. 깊이·TBSA·특수 부위·원주형 여부와 원위부 신경혈관 상태를 기록하고, 동의를 얻어 드레싱 전 사진을 남김.
 8. 적절한 진통 후 수포와 드레싱을 처치하고 파상풍 예방 필요성을 평가함.
-9. 광범위 화상에서는 화상센터와 즉시 상의하여 균형정질액으로 수액소생을 시작함. 성인 ≥20% TBSA에서는 첫 24시간의 초기 수액량을 2 ㎖ × 체중(㎏) × %TBSA로 계산하는 방법을 고려함(예: 20%는 20으로 대입). 보통 계산량의 절반을 화상 발생 후 첫 8시간, 나머지를 다음 16시간에 배분하며 이미 투여한 수액과 경과시간을 반영함. 소아 ≥10% TBSA에서는 연령별 화상센터 프로토콜을 따르며 별도의 포도당 함유 유지수액이 필요할 수 있음. 계산량은 시작점일 뿐이며 활력징후·관류·시간당 소변량에 따라 1\~2시간마다 조정함. 일반적인 소변량 목표는 성인 약 0.5 ㎖/㎏/hr, 소아 약 1 ㎖/㎏/hr이며 전기 손상·횡문근융해에서는 전문기관 프로토콜에 따라 더 높은 목표가 필요할 수 있음. 첫 8시간은 병원 도착 시점이 아니라 화상 발생 시점부터 계산하며, 수액 처치 때문에 이송을 지연하지 않음. 성인 20% 미만이라도 동반질환과 전신상태에 따라 화상센터 판단으로 수액소생을 시작할 수 있음.
 
 <mark style="color:red;">얼음, 버터·기름, 치약, 된장 등 민간요법을 바르지 않음. 광범위 화상에서는 장시간 냉각보다 기도·순환 안정과 신속한 이송이 우선임.</mark>
 
+### <mark style="color:orange;">수액소생</mark>
+
+* 광범위 화상에서는 화상센터와 즉시 상의하여 lactated Ringer/Hartmann 등 균형정질액으로 수액소생을 시작함.
+* **성인 ≥20% TBSA**: 첫 24시간 초기 수액량을 **2 ㎖ × 체중(㎏) × %TBSA**로 계산하여 시작하는 것을 권고함(20%는 20으로 대입). 보통 절반은 화상 발생 후 첫 8시간, 나머지는 다음 16시간에 배분하며 이미 투여한 양과 경과시간을 반영함. ABA 2024 권고의 대상은 성인 ≥20% TBSA임. 성인 20% 미만이라도 탈수·전신상태 등에 따라 정맥수액이 필요할 수 있음.
+* **소아 ≥10% TBSA**: 성인의 2 ㎖ 공식을 그대로 적용하지 않고 소아 화상센터 프로토콜에 따름. 화상 소생수액과 별도로 포도당 함유 유지수액이 필요할 수 있음.
+* 계산량은 시작점이며 활력징후·관류·시간당 소변량에 따라 1\~2시간마다 조정함. 일반적인 소변량 목표는 성인 약 0.5 ㎖/㎏/hr, 소아 약 1 ㎖/㎏/hr임. 전기 손상·횡문근융해에서는 전문기관 프로토콜에 따라 더 높은 목표가 필요할 수 있음. 과도한 수액은 부종·구획증후군을 악화시킬 수 있음.
+* 첫 8시간은 병원 도착 시점이 아니라 **화상 발생 시점**부터 계산함. 쇼크가 있으면 다른 원인과 동반 외상을 함께 평가하며, 수액 처치 때문에 이송을 지연하지 않음.
 ### <mark style="color:orange;">흡입손상</mark>
 
 * 쉰 목소리, stridor, 호흡곤란, 검은 가래, 구강 내 그을음·부종 또는 의식저하 등 흡입손상 의심 소견이 있으면 조기 기도 확보를 평가하고 즉시 응급실로 이송함. 밀폐공간 연기 노출·안면 섬광화상·코털 그을림만 있는 경우도 조기 평가·상담이 필요하지만 그 소견만으로 일률적으로 기관삽관하지 않음.
-* 일산화탄소 중독이 의심되면 검사 결과를 기다리지 말고 100% 산소를 투여함.
+* 일산화탄소 중독이 의심되면 검사 결과를 기다리지 말고 100% 산소를 투여함. 산소 투여·노출 종료 후 COHb가 낮아질 수 있으므로 낮은 수치만으로 배제하거나 중증도를 판단하지 않음. 의식소실·신경학적 이상·심근손상·심한 산증 또는 임신이 있으면 고압산소치료 가능 기관과 조기에 상의함.
 * 일반 2파장 맥박산소측정기는 carboxyhemoglobin이 있을 때 정상처럼 보일 수 있으므로 CO 중독 배제에 사용할 수 없음. 일부 다파장 pulse CO-oximeter는 비침습적으로 COHb를 추정할 수 있으나 정확도에 한계가 있어 확진은 동맥 또는 정맥혈 CO-oximetry로 함.
 * 밀폐공간 화재 후 심한 젖산산증, 지속성 저혈압, 의식저하 또는 심혈관 허탈이 있으면 cyanide 중독 가능성을 고려함. 해독제(hydroxocobalamin) 사용 가능 여부를 포함해 중독전문가·응급의학과와 즉시 상의함.
 
@@ -147,10 +158,10 @@ flowchart TB
 * 물질명·농도·노출시간을 확인하고 물질안전보건자료(SDS)와 중독정보센터·화상센터 지침을 따름.
 * **건조 석회**: 분말을 먼저 충분히 털어낸 뒤 흐르는 물로 세척함.
 * **Phenol**: polyethylene glycol 등 적절한 제독제가 즉시 준비되어 있으면 사용할 수 있으나 이를 구하느라 제독을 지연하지 않음. 사용할 수 없으면 소량의 물이 아니라 다량의 고유량 물로 세척함.
-* **불산(hydrofluoric acid)**: 즉시 충분히 세척한 뒤 calcium gluconate gel 등 특이 치료가 필요할 수 있으므로 응급실·중독전문가에 즉시 의뢰함. 저칼슘혈증에 의한 심실 부정맥 위험이 있으므로 유의한 노출에서는 ECG와 Ca·Mg·K를 감시함.
-* **백린(white phosphorus)**: 찬물에 침수하거나 젖은 드레싱으로 공기 접촉을 차단하면서 입자를 제거함. 지방·기름·mineral oil은 사용하지 않음.
+* **불산(hydrofluoric acid)**: 즉시 충분히 세척한 뒤 calcium gluconate gel 등 특이 치료가 필요할 수 있으므로 응급실·중독전문가에 즉시 의뢰함. 저칼슘혈증에 의한 심실 부정맥 위험이 있으므로 유의한 노출에서는 ECG와 Ca·Mg·K를 감시함. 저농도 노출은 통증·피부 변화가 지연될 수 있어 초기 증상이 가볍다는 이유로 평가를 미루지 않음.
+* **백린(white phosphorus)**: 시원한 물·생리식염수로 계속 세척하거나 침수하고 젖은 드레싱을 유지하여 재발화를 막음. 입자는 핀셋으로 제거하며 장갑 낀 손으로 직접 집지 않음. 제거한 입자·오염 의복은 물속에 두어 재발화와 의료진의 2차 노출을 예방함. 지방·기름·mineral oil은 사용하지 않음.
 * **물 반응성 금속**: 일률적인 물 세척법을 적용하지 말고 마른 기구로 제거한 뒤 물질별 SDS와 중독정보센터 지침을 따름.
-* **안구 노출**: 검사를 위해 세척을 지연하지 말고 즉시 다량의 물이나 생리식염수로 세척함. 콘택트렌즈와 결막낭의 잔류 입자를 제거하고, 결막낭 pH가 7.0\~7.2가 되도록 세척함. 세척 중단 후에도 pH가 다시 변하지 않는지 확인하면서 긴급 안과진료를 시행함.
+* **안구 노출**: 검사를 위해 세척을 지연하지 말고 즉시 다량의 물이나 생리식염수로 세척함. 콘택트렌즈와 결막낭의 잔류 입자를 제거하고, 결막낭 pH가 7.0\~7.2가 되도록 세척함. 세척 중단 후 최소 5분이 지난 뒤 pH를 재측정하여 다시 변하지 않는지 확인하면서 긴급 안과진료를 시행함.
 
 ### <mark style="color:orange;">전기 화상</mark>
 
@@ -166,29 +177,33 @@ flowchart TB
 ### <mark style="color:orange;">드레싱</mark>
 
 * 물이나 생리식염수와 순한 비누로 이전 치료제와 분비물을 부드럽게 제거한 후 시행함.
-* 상처와 맞닿는 면은 비점착성 재료를 사용하고 적절한 습윤 환경을 유지하되 주변 피부의 침윤을 피함.
+* 표피만 침범한 표재성(1도) 화상은 보습·통증 조절·마찰 방지가 중심이며 드레싱이 반드시 필요하지는 않음. 피부 장벽이 손상된 부분층 화상은 상처와 맞닿는 면에 비점착성 재료를 사용하고 적절한 습윤 환경을 유지하되 주변 피부의 침윤을 피함.
 * 드레싱 교체 간격은 상처의 깊이·삼출량·감염 여부와 제품 설명서에 따름. 지나치게 잦은 교체는 통증을 늘리고 재상피화를 방해할 수 있음.
 * 장기 유지 드레싱도 통증 증가, 누출, 악취, 발열 또는 신경혈관 이상이 있으면 즉시 열어 평가함.
 * 손·발가락은 피부끼리 맞닿지 않도록 각각 분리하고, 원주형으로 조이지 않음.
-* 초기에는 삼출량에 맞는 흡수성 제제를 선택하고 삼출물이 감소하면 저흡수성·비점착성 제제로 변경함.
+* 초기에는 삼출량에 맞는 흡수성 제제를 선택하고 삼출물이 감소하면 저흡수성·비점착성 제제로 변경함. 손상된 사지는 가능하면 올려 부종을 줄임.
+* 실리콘 접촉층·실리콘 폼 또는 은 함유 드레싱 등은 교체 시 통증과 상처 상태를 고려해 선택함. 은 함유 드레싱과 silver sulfadiazine 크림은 서로 다른 제제이며, 크림의 재상피화 지연 문제를 모든 은 드레싱에 동일하게 적용하지 않음. 깨끗한 소범위 화상에 은 함유 드레싱을 일률적으로 사용하지 않음.
 
-| 소재                                                                             | 일반적인 흡수력  | 주요 고려사항                                     |
-| ------------------------------------------------------------------------------ | --------- | ------------------------------------------- |
-| <p>Polyurethane film<br><mark style="color:blue;">[테가덤·옵사이트 계열]</mark></p>     | 없음        | 표재성·저삼출 상처; 감염 또는 삼출이 많은 상처에는 부적합           |
-| Hydrogel                                                                       | 낮음        | 건조하거나 통증이 있는 상처에 수분 공급; 주변 피부 침윤 주의         |
-| <p>Hydrocolloid<br><mark style="color:blue;">[듀오덤 계열]</mark></p>               | 낮음\~중등도 | 저\~중등도 삼출의 깨끗한 표재성 상처; 감염 의심 시 일률 사용하지 않음 |
-| <p>Polyurethane foam<br><mark style="color:blue;">[메디터치 계열 중 해당 제품]</mark></p> | 중등도\~높음 | 중등도 이상 삼출; 브랜드 안에서도 재질과 흡수력이 달라 개별 제품 확인    |
-| <p>Alginate<br><mark style="color:blue;">[Sorbsan 계열]</mark></p>               | 높음        | 삼출이 많은 상처; 건조한 상처에는 부적합하고 2차 드레싱 필요         |
+<table>
+<thead><tr><th>소재</th><th>일반적인 흡수력</th><th>주요 고려사항</th></tr></thead>
+<tbody>
+<tr><td><p>Polyurethane film<br><mark style="color:blue;">[테가덤·옵사이트 계열]</mark></p></td><td>없음</td><td>표재성·저삼출 상처; 감염 또는 삼출이 많은 상처에는 부적합</td></tr>
+<tr><td>Hydrogel</td><td>낮음</td><td>건조하거나 통증이 있는 상처에 수분 공급; 주변 피부 침윤 주의</td></tr>
+<tr><td><p>Hydrocolloid<br><mark style="color:blue;">[듀오덤 계열]</mark></p></td><td>낮음~중등도</td><td>저~중등도 삼출의 깨끗한 표재성 상처; 감염 의심 시 일률 사용하지 않음</td></tr>
+<tr><td><p>Polyurethane foam<br><mark style="color:blue;">[메디터치 계열 중 해당 제품]</mark></p></td><td>중등도~높음</td><td>중등도 이상 삼출; 브랜드 안에서도 재질과 흡수력이 달라 개별 제품 확인</td></tr>
+<tr><td><p>Alginate<br><mark style="color:blue;">[Sorbsan 계열]</mark></p></td><td>높음</td><td>삼출이 많은 상처; 건조한 상처에는 부적합하고 2차 드레싱 필요</td></tr>
+</tbody>
+</table>
 
 ### <mark style="color:orange;">추적관찰과 재활</mark>
 
 * 외래 화상은 24\~72시간 내 깊이, 범위, 통증, 감염과 드레싱 상태를 재평가함.
 * 이후 상처와 드레싱 종류에 따라 수일\~1주 간격으로 관찰함.
-* 10\~14일에도 재상피화가 충분하지 않거나 2\~3주 이상 치유가 지연될 것으로 예상되면 화상 전문진료를 의뢰함.
+* 10\~14일에도 재상피화가 충분하지 않거나 2\~3주 이상 치유가 지연될 것으로 예상되면 화상 전문진료를 의뢰함. 심부 부분층·전층이 의심되면 이 시점까지 기다리지 않고 조기 의뢰함.
 * 재상피화 후 향료가 적은 보습제를 충분히 바르고, 색소 변화가 안정될 때까지 SPF ≥30의 광범위 자외선차단제와 의복으로 보호함.
 * 손·관절 화상은 조기에 운동범위를 평가하고 작업치료·재활 또는 수부 전문진료를 고려함.
 * 손 화상 부목은 특히 손등 화상에서 손목 신전, MCP 굴곡, IP 신전, 엄지 외전의 intrinsic-plus(안전) 자세를 기본으로 하되 화상 위치와 수술 여부에 따라 개별화함.
-* 완전 재상피화 이후에도 비후성 반흔, 구축, 만성통증과 기능 장애를 정기적으로 평가함.
+* 완전 재상피화 이후에도 비후성 반흔, 구축, 만성통증과 기능 장애를 정기적으로 평가함. 반흔이 두꺼워지거나 관절 운동이 줄면 화상재활팀과 실리콘 겔·시트, 압박치료 및 추가 처치를 개별적으로 검토함. 수면장애·불안·외상 후 스트레스와 일상생활 복귀의 어려움도 평가함.
 
 ### <mark style="color:orange;">가정에서의 화상 예방법</mark>
 
@@ -220,7 +235,8 @@ flowchart TB
 #### <mark style="color:$primary;">povidone-iodine</mark>
 
 * 살균작용이 있으나 혈액·삼출물이 많은 상처에서는 효과가 저하되고 세포독성으로 치유를 방해할 수 있어 화상 상처에 반복적으로 일률 사용하지 않음. <mark style="color:blue;">\[베타딘액]</mark>
-* 넓은 범위, 장기간 사용, 영유아, 임신·수유 또는 갑상선질환에서는 흡수와 갑상선 영향 가능성을 고려하고 제품 허가사항을 확인함.
+* 베타딘액의 국내 금기는 성분 과민증, 갑상선기능 이상, 신부전, 신생아 및 생후 6개월 미만 영아, 포진상 피부염 및 방사성요오드 치료 전후임. 임신·수유 중에는 규칙적·장기간·광범위 사용을 하지 않음.
+* 국내 허가사항은 새로 발생한 화상에는 다른 적절한 치료를 고려하도록 명시함. 광범위·반복 도포 시 전신 요오드 흡수, 대사성 산증·신기능 이상을 유의하며, chlorhexidine·설파디아진은·다른 소독제와 임의로 혼합·병용하지 않음.
 
 #### <mark style="color:$primary;">mupirocin</mark>
 
@@ -245,6 +261,7 @@ flowchart TB
 ### <mark style="color:orange;">감염 평가와 전신 항생제</mark>
 
 * 초기 화상에 예방적 전신 항생제를 투여하지 않음.
+* 발열만으로 화상 감염을 확정하지 않고 염증반응·다른 감염원을 함께 평가함. 소아에서는 소범위 화상도 발열, 확산되는 홍반, 구토·설사, 혈역학적 불안정 또는 전신증상이 있으면 독성쇼크증후군·패혈증 가능성을 평가하고 즉시 의뢰함.
 * 진행하는 화상 주변 발적·열감·부종, 새로 심해지는 통증, 농성 분비물·악취, 예상 밖의 괴사·깊이 진행, 치유 정체 또는 전신증상이 있으면 감염을 의심함.
 * Pseudomonas의 청록색 분비물·과일향, Candida의 백색 농포, HSV의 작은 천공성 병변 또는 Staphylococcus와 관련된 상피 소실은 특정 병원체를 시사할 수 있으나 진단 기준이 아님. 외형만으로 항균제를 선택하지 않음.
 * 배양은 농성 분비물, 치료 실패, 중증·재발 감염 또는 내성균 위험이 있을 때 고려함.
@@ -263,8 +280,8 @@ flowchart TB
 {% hint style="warning" %}
 **NSAID의 국내 제품별 금기 확인**
 
-* 부루펜: 위장관궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간·심장기능장애·고혈압, CABG 전후 통증 및 임신 말기 3개월은 금기임.
-* 애니펜: 위장관궤양·그 징후 또는 재발 병력, 활동성 출혈, 과거 NSAID 관련 위장관 출혈·천공, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간기능장애·심부전·고혈압, CABG 전후 통증, 크론병·궤양성대장염 및 임신 6개월 이상은 금기임.
+* 부루펜: 위장관궤양·출혈 또는 그 병력, 심한 혈액이상, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간·심장기능장애·고혈압, CABG 전후 통증, 임신 말기 3개월 및 항암요법으로 고용량 methotrexate 투여 중에는 금기임. 유당 함유 제품은 해당 유전성 당 대사질환도 확인함.
+* 애니펜: 위장관궤양·그 징후 또는 재발 병력, 활동성 출혈, 과거 NSAID 관련 위장관 출혈·천공, 심한 혈액이상, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간기능장애·심부전·고혈압, CABG 전후 통증, 크론병·궤양성대장염 및 임신 6개월 이상은 금기임. 유당 함유 제품은 해당 유전성 당 대사질환도 확인함. 고용량 methotrexate와 병용하지 않음.
 * 임신 20주 이후에는 NSAID를 원칙적으로 피하며, 불가피하면 의료진 판단으로 최소 용량·최단기간 사용함. 임신 30주 이후에는 사용하지 않으며 국내 제품의 더 엄격한 금기를 우선함.
 * 탈수·핍뇨, 항응고제·항혈소판제 사용, 고령·쇠약은 추가 위험요인임. 금기와 구분해 평가하며, 탈수·신손상이 의심되면 수분 상태와 신기능 평가를 우선함. ibuprofen과 dexibuprofen을 포함해 NSAID끼리 병용하지 않음.
 {% endhint %}
@@ -273,8 +290,9 @@ flowchart TB
 
 * 재상피화 후 보습, 과열 회피, 부드러운 면 소재 의복과 냉감요법을 우선함.
 * 항히스타민제는 일부 환자에서 도움이 될 수 있으나 화상 후 가려움이 모두 histamine 매개인 것은 아님.
-* 낮에는 비진정성 항히스타민제를 우선 고려함. Hydroxyzine 등 진정성 1세대 항히스타민제는 졸림·낙상·항콜린 부작용 때문에 특히 고령자에서 가급적 피함. QT 연장, 유의한 서맥·저칼륨혈증·저마그네슘혈증 또는 QT 연장 약물 병용 시 hydroxyzine을 피하고, 사용하는 경우 최소 용량·최단기간으로 제한함. <mark style="color:blue;">\[아디팜]</mark>
-* 보습과 항히스타민제로 조절되지 않는 중등도\~중증 또는 신경병증성 화상 후 가려움에서는 gabapentin이나 pregabalin을 제한적으로 고려할 수 있음(화상 후 가려움에 대한 국내 허가 외 사용). 신기능에 따라 감량하고 저용량부터 시작하며, 졸림·어지럼·낙상·오남용 가능성과 갑작스러운 중단에 따른 금단 위험을 설명함.
+* 비진정성 항히스타민제를 우선 고려함. Hydroxyzine 등 진정성 1세대 항히스타민제는 졸림·낙상·항콜린 부작용 때문에 특히 고령자에서 가급적 피함. <mark style="color:blue;">\[아디팜]</mark>
+* Hydroxyzine의 국내 금기에는 성분·관련 물질 과민증, 급성 폐쇄각녹내장, 포르피린증, 임부·임신 가능 여성·수유부, 선천성·후천성 QT 연장 및 관련 위험인자(심혈관질환, 유의한 서맥·저칼륨혈증·저마그네슘혈증, 급성 심장사 가족력, QT 연장 약물 병용)가 포함됨. 유당 관련 금기도 확인함. 국내 피부과 허가 용법은 성인 1일 30\~60 ㎎을 2\~3회 분할이며 연령·증상에 따라 조정함. 간·신기능 저하 시 감량하고 최소 용량·최단기간 사용함.
+* 보습과 항히스타민제로 조절되지 않는 중등도\~중증 또는 신경병증성 화상 후 가려움에서는 gabapentin이나 pregabalin을 제한적으로 고려할 수 있음(화상 후 가려움에 대한 국내 허가 외 사용). 신기능에 따라 감량하고 저용량부터 시작하며, 졸림·어지럼·낙상·오남용 가능성과 갑작스러운 중단에 따른 금단 위험을 설명함. Opioid·다른 중추신경 억제제 병용, 기저 호흡장애 또는 고령에서는 호흡억제 위험도 평가함.
 
 {% hint style="info" %}
 **화상 후 가려움 근거**: Cochrane 2024에서 gabapentin·pregabalin은 항히스타민제보다 가려움을 줄일 가능성이 있으나 해당 비교의 근거 확실성은 낮음. 2024년 무작위시험도 gabapentin의 효과를 보고했지만 모든 환자의 일차 치료로 일반화하지 않음. 보습·비진정성 항히스타민제로 불충분한 환자에서 신경병증성 양상과 수면장애를 함께 평가해 선택함.
@@ -289,12 +307,15 @@ flowchart TB
 
 화상은 괴사조직을 포함할 수 있는 오염·중증 상처로 평가함.
 
-| 접종력                     | 파상풍 함유 백신                     | TIG                      |
-| ----------------------- | ----------------------------- | ------------------------ |
-| 기본접종 완료, 마지막 접종 ＜5년     | 불필요                           | 불필요                      |
-| 기본접종 완료, 마지막 접종 ≥5년     | 연령에 맞는 추가접종(7세 미만 DTaP, 7세 이상 Td/Tdap) | 불필요                      |
-| 접종력 불명, 미접종 또는 기본접종 불완전 | 연령에 맞는 백신 접종 또는 따라잡기 접종 시작·계속 | 250 IU IM                |
-| HIV 감염 또는 중증 면역결핍       | 접종력에 따라 시행                    | 오염·중증 상처에서는 접종력과 관계없이 250 IU IM 투여 |
+<table>
+<thead><tr><th>접종력</th><th>파상풍 함유 백신</th><th>TIG</th></tr></thead>
+<tbody>
+<tr><td>기본접종 완료, 마지막 접종 ＜5년</td><td>불필요</td><td>불필요</td></tr>
+<tr><td>기본접종 완료, 마지막 접종 ≥5년</td><td>연령에 맞는 추가접종(7세 미만 DTaP, 7세 이상 Td/Tdap)</td><td>불필요</td></tr>
+<tr><td>접종력 불명, 미접종 또는 기본접종 불완전</td><td>연령에 맞는 백신 접종 또는 따라잡기 접종 시작·계속</td><td>250 IU IM</td></tr>
+<tr><td>HIV 감염 또는 중증 면역결핍</td><td>접종력에 따라 시행</td><td>오염·중증 상처에서는 접종력과 관계없이 250 IU IM 투여</td></tr>
+</tbody>
+</table>
 
 * 기본접종 완료는 파상풍 함유 백신을 최소 3회 접종한 경우임. Tdap 접종력이 없거나 불명이면 연령에 맞게 Tdap을 우선하고, 백신과 TIG가 모두 필요하면 서로 다른 부위에 투여함. 항생제는 파상풍 예방을 대신하지 않음.
 
@@ -303,7 +324,7 @@ flowchart TB
 ### <mark style="color:orange;">수포</mark>
 
 * 작고 팽팽하지 않으며 관절 운동을 방해하지 않는 온전한 수포는 보존할 수 있음.
-* 크거나 이미 파열되었고, 파열 가능성이 높거나 관절을 가로지르며, 드레싱·운동 또는 깊이 평가를 방해하는 수포는 충분한 진통 후 흡인 또는 제거를 고려함.
+* 크거나 이미 파열된 수포, 파열 가능성이 높거나 관절을 가로지르는 수포, 드레싱·운동 또는 깊이 평가를 방해하는 수포는 충분한 진통 후 흡인 또는 제거를 고려함. 손바닥·발바닥의 두껍고 온전한 수포는 위치·긴장도와 기능을 고려해 보존할 수 있음. 이송 예정이면 광범위한 수포 제거 전에 수용 기관과 상의함.
 * 수포 처치 방법에 대한 근거가 일관되지 않으므로 크기 하나만으로 결정하지 않고 위치, 긴장도, 오염, 환자의 관리 능력을 함께 고려함.
 
 ### <mark style="color:orange;">수술적 처치</mark>
@@ -314,23 +335,34 @@ flowchart TB
 
 ### <mark style="color:red;">질병코드</mark>
 
-T20\~T25 신체 외표면의 부위별 화상 및 부식
+아래는 범주 안내이며, 실제 청구 시에는 손상 부위·정도와 화상/부식 여부에 맞는 **최종 세부코드**를 선택함. 저장된 KCD-9 엑셀(2026-01-01 시행)의 전체·완전코드 시트와 대조함.
 
-T26\~T28 눈 및 내부기관의 화상 및 부식
+<table><thead><tr><th>범주</th><th>KCD-9 명칭</th></tr></thead><tbody>
+<tr><td>T20</td><td>머리 및 목의 화상 및 부식</td></tr>
+<tr><td>T21</td><td>몸통의 화상 및 부식</td></tr>
+<tr><td>T22</td><td>손목 및 손을 제외한 어깨와 팔의 화상 및 부식</td></tr>
+<tr><td>T23</td><td>손목 및 손의 화상 및 부식</td></tr>
+<tr><td>T24</td><td>발목 및 발을 제외한 엉덩이 및 다리의 화상 및 부식</td></tr>
+<tr><td>T25</td><td>발목 및 발의 화상 및 부식</td></tr>
+<tr><td>T26</td><td>눈 및 부속기에 국한된 화상 및 부식</td></tr>
+<tr><td>T27</td><td>기도의 화상 및 부식</td></tr>
+<tr><td>T28</td><td>기타 내부기관의 화상 및 부식</td></tr>
+<tr><td>T29</td><td>여러 신체부위를 침범하는 화상 및 부식</td></tr>
+<tr><td>T30</td><td>상세불명 신체부위의 화상 및 부식</td></tr>
+<tr><td>T31</td><td>포함된 신체표면의 정도에 따라 분류된 화상</td></tr>
+<tr><td>T32</td><td>포함된 신체표면의 정도에 따라 분류된 부식</td></tr>
+</tbody></table>
 
-T29 여러 신체부위를 침범하는 화상 및 부식
+* T20\~T32는 상위 범주이며 완전코드가 아님. T20.2·T23.2 역시 추가 세분이 필요함. 예: **T23.20 손목 및 손의 2도 화상, 엄지손가락(손톱)**; **T23.29 손목 및 손의 2도 화상, 상세불명의 부위**.
+* 범위 코드의 예: **T31.0 신체표면의 10％ 미만을 침범한 화상**, **T31.1 신체표면의 10-19％를 침범한 화상**. 부위·정도 코드와 함께 범위 정보를 기록하며 실제 코드 조합은 분류·청구 기준에 따라 선택함.
+* **T30.2 상세불명 신체부위의 2도 화상**은 완전코드이나, 부위를 알 수 있는 경우에는 해당 부위 세부코드를 우선함. 화학물질에 의한 부식은 화상 코드와 구분함.
 
-T30 상세불명 신체부위의 화상 및 부식
-
-T31 화상 범위에 따라 분류된 화상
-
-T32 부식 범위에 따라 분류된 부식
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-> 아래 처방은 성인 소범위 화상의 예시임. 화상 깊이·면적, 신·간기능, 임신, 알레르기, 병용약물과 국내 허가·급여 기준을 확인함.
+> 아래 처방은 성인 소범위 화상의 예시임. 화상 깊이·면적, 신·간기능, 임신, 알레르기, 병용약물과 국내 허가·급여 기준을 확인함. **처방 시 최신 품목정보/급여기준 조회**.
 
 > **처방례 1.** 감염 소견이 없는 소범위 표재성 부분층 화상
 >
@@ -350,11 +382,12 @@ T32 부식 범위에 따라 분류된 부식
 > 아디팜정 10 ㎎/T  1T  hs
 > ※ 단기간, 필요 시에만 복용
 > ※ 졸릴 수 있으므로 복용 후 운전·음주를 피함
+> ※ 임부·임신 가능 여성·수유부, 급성 폐쇄각녹내장, 포르피린증 및 과민증 등 본문 금기 확인
 > ※ QT 연장·관련 위험인자 또는 QT 연장 약물 병용 시 사용하지 않음
 > ※ 고령자·낙상·항콜린 부작용 위험에서는 다른 방법을 우선
 > ```
 >
-> _✽보습제를 하루 여러 차례 함께 도포_
+> _✽비진정성 항히스타민제·보습으로 불충분한 비고령 성인에서 야간 가려움에 제한적으로 사용하는 저용량 시작 예시임. 국내 피부과 표준 허가 용법(1일 30\~60 ㎎ 분할)과 구분하여 증상·내약성에 따라 조정하며, 보습제를 하루 여러 차례 함께 도포_
 
 > **처방례 3.** 제한적인 경증 화상 주변 연조직염
 >
@@ -364,7 +397,7 @@ T32 부식 범위에 따라 분류된 부식
 > ※ β-lactam 알레르기, MRSA 위험, 신기능과 지역 감수성 자료에 따라 조정
 > ```
 >
-> _✽cephalexin 2,000 ㎎/day의 성인 연조직염 임상 용법 예시임. 5일은 초기 치료기간이며 호전이 불충분하면 연장·약제 변경·배양 필요성을 재평가함. 농양, 괴사, 빠른 진행, 전신증상, 면역저하, 광범위 화상 또는 치료 실패 시 응급실·화상 전문진료를 우선함._
+> _✽cephalexin 2,000 ㎎/day의 성인 연조직염 임상 용법 예시임. 국내 팔렉신의 통상 허가 용법은 500 ㎎ 1일 2\~3회(총 1\~4 g/day 범위)이며, 위 q6hr 용법은 임상지침에 따른 예시임. 신기능 저하 시 감량·투여간격 조정이 필요함. 5일은 초기 치료기간이며 호전이 불충분하면 연장·약제 변경·배양 필요성을 재평가함. 농양, 괴사, 빠른 진행, 전신증상, 면역저하, 광범위 화상 또는 치료 실패 시 응급실·화상 전문진료를 우선함._
 
 ***
 
@@ -385,7 +418,7 @@ T32 부식 범위에 따라 분류된 부식
 > **가려움·보습**
 >
 > * 보습제는 재상피화 이후 피부 윤활 기능이 회복될 때까지 하루 여러 차례 바르도록 합니다.
-> * 항히스타민제는 졸릴 수 있어 취침 전 복용을 우선하고, 복용 후 운전·기계 조작을 피하도록 안내합니다.
+> * 항히스타민제는 제제별 처방 시간에 복용합니다. Hydroxyzine 등 진정성 약을 복용한 뒤에는 운전·기계 조작·음주를 피하도록 안내합니다.
 
 > **파상풍 예방**
 >
@@ -396,6 +429,38 @@ T32 부식 범위에 따라 분류된 부식
 > * 발적이 넓어지거나 새로운 통증, 고름, 악취, 발열이 생기는 경우
 > * 처방된 진통제로 통증이 조절되지 않는 경우
 > * 10\~14일 이내에 상처가 충분히 아물지 않는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### ＜임상 근거＞
+
+* American Burn Association. [Guidelines for Burn Patient Referral](https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral). 현행 온라인 기준(2026-11-03 확인); 3단계 평가 시점은 본 가이드의 저자 정리.
+* American Burn Association. [Clinical Practice Guidelines on Burn Shock Resuscitation](https://doi.org/10.1093/jbcr/irad125). J Burn Care Res. 2024;45(3):565–589. 성인 ≥20% TBSA에 대한 권고.
+* Royal Children's Hospital Melbourne. [Burns – acute management](https://www.rch.org.au/clinicalguide/guideline_index/Burns/). Updated April 2026.
+* Royal Children's Hospital Melbourne. [Burns – post acute care and dressings](https://www.rch.org.au/clinicalguide/guideline_index/Burns_post_acute_care_and_dressings/). Updated May 2026. Wasiak J, et al. [Dressings for superficial and partial thickness burns](https://doi.org/10.1002/14651858.CD002106.pub4). Cochrane Database Syst Rev. 2013;3:CD002106. 드레싱 비교 연구의 질이 낮다는 한계에 유의함.
+* NSW Agency for Clinical Innovation. [Burn Patient Management – Clinical Practice Guide, 5th ed](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0009/250020/ACI-Burn-Patient-Management-Clinical-Practice-Guide.pdf). February 2026. [Burn dressings](https://aci.health.nsw.gov.au/networks/burn-injury/resources/patient-management/dressings), [Minor burn blister management](https://aci.health.nsw.gov.au/networks/burn-injury/resources/patient-management/minor-blister). February 2026.
+* World Health Organization. [White phosphorus](https://www.who.int/news-room/fact-sheets/detail/white-phosphorus). Updated October 13, 2026. CDC/NIOSH. [White Phosphorus: Systemic Agent](https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750025.html).
+* American Academy of Ophthalmology. [Chemical (Alkali and Acid) Injury of the Conjunctiva and Cornea](https://eyewiki.aao.org/Chemical_%28Alkali_and_Acid%29_Injury_of_the_Conjunctiva_and_Cornea). 현행 온라인 자료(2026-11-03 확인).
+* World Health Organization. [Burns](https://www.who.int/news-room/fact-sheets/detail/burns).
+* CDC. [Clinical Guidance for Carbon Monoxide Poisoning](https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html).
+* CDC/ATSDR. Medical Management Guidelines(보관 자료): [Hydrogen Fluoride](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=1142&toxid=250), [Phenol](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=144&toxid=27).
+* CDC. [Clinical Guidance for Wound Management to Prevent Tetanus](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html). Updated September 8, 2026.
+* IDSA. [Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). Clin Infect Dis. 2014;59(2):e10–e52. 경증 연조직염의 초기 5일 치료 및 반응에 따른 연장 참고.
+* SCCM/ASHP. [Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults](https://www.sccm.org/clinical-resources/guidelines/guidelines/sccm-ashp-guideline-prevention-of-ugib). 2024.
+* Sinha S, et al. [Interventions for postburn pruritus](https://doi.org/10.1002/14651858.CD013468.pub2). Cochrane Database Syst Rev. 2024;6:CD013468.
+* Arko-Boham E, et al. [Effectiveness of Postburn Pruritus Treatment and Improvement of Insomnia—A Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/38778572/). J Burn Care Res. 2024;45(5):1165–1174.
+* EMA. [Hydroxyzine: restrictions to minimise effects on heart rhythm](https://www.ema.europa.eu/en/news/new-restrictions-minimise-risks-effects-heart-rhythm-hydroxyzine-containing-medicines). 2015.
+* FDA. [NSAID 사용과 임신 20주 이후 태아 신기능·양수 감소 위험](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic).
+* FDA. [Gabapentin·pregabalin의 호흡억제 위험 안내](https://www.fda.gov/media/133681/download). Opioid·중추신경 억제제 병용 및 호흡기 위험인자 확인.
+
+### ＜허가·급여 확인 자료＞
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 베타딘액, 에스로반연고, 애니펜정300밀리그램 등의 공개 허가자료와 제조사 제품정보를 확인함(2026-11-03). 아디팜정은 식약처 자료를 전재한 공개 품목정보도 대조함. 실마진1%크림·부루펜의 기존 용법·주요 금기는 제조사·공개 허가자료와 교차 확인함. **처방 시 최신 품목정보/급여기준 조회**. 허가사항·제품정보 등재가 실제 공급이나 모든 사용례의 급여 인정을 뜻하지는 않음.
+* 한국유니팜. 메페드크림 공식 제품정보: 마페니드아세트산염 112 ㎎/g, 2~3도 국소화상 보조요법, 1일 1~2회 약 1.6 ㎜ 도포. 실제 수급은 별도 확인함.
+* 동화약품. 팔렉신캡슐500밀리그램 공식 제품정보: cephalexin 500 ㎎(역가)/캡슐; 연조직염·창상감염 적응증 및 성인 1일 1~4 g 용량 범위 확인. 실제 수급은 별도 확인함.
+* KCD-9 대조 자료: KCD9_251216(6).xlsx, 「상병분류기호(전체)」·「상병분류기호(완전코드)」(2026-01-01 시행).
 
 ***
 
@@ -423,7 +488,7 @@ T32 부식 범위에 따라 분류된 부식
 
 #### <mark style="color:$primary;">집에서 상처는 어떻게 관리하나요?</mark>
 
-* 처방된 드레싱의 교체 시기와 방법을 지키고, 젖거나 빠졌거나 지나치게 조이면 병원에 문의하십시오.
+* 처방된 드레싱의 교체 시기와 방법을 지키고, 젖거나 빠졌거나 지나치게 조이면 병원에 문의하십시오. 손발이 차갑거나 창백해지고 감각이 둔해지면 즉시 평가받으십시오.
 * 진통제는 정해진 용량만 복용하고 같은 계열 NSAID를 중복 복용하지 마십시오.
 * 재상피화 후에는 보습제를 충분히 바르고, 색이 돌아올 때까지 자외선차단제(SPF ≥30)와 의복으로 햇빛을 가리십시오.
 
@@ -431,27 +496,3 @@ T32 부식 범위에 따라 분류된 부식
 
 * 발적이 넓어지거나 통증이 새로 심해지고, 고름·악취·발열이 생기면 당일 진료를 받으십시오.
 * 외래 치료 중이라도 24\~72시간 내 재평가가 필요하며, 10\~14일에도 잘 아물지 않으면 화상 전문진료가 필요할 수 있습니다.
-
-## 참고자료
-
-### 임상 근거
-
-* American Burn Association. [Guidelines for Burn Patient Referral](https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral). 현행 온라인 기준(2026-10-24 확인); 3단계 평가 시점은 본 가이드의 저자 정리.
-* American Burn Association. [Clinical Practice Guidelines on Burn Shock Resuscitation](https://doi.org/10.1093/jbcr/irad125). J Burn Care Res. 2024;45(3):565–589. 성인 ≥20% TBSA에 대한 권고.
-* Royal Children's Hospital Melbourne. [Burns – acute management](https://www.rch.org.au/clinicalguide/guideline_index/Burns/). Updated April 2026.
-* World Health Organization. [Burns](https://www.who.int/news-room/fact-sheets/detail/burns).
-* CDC. [Clinical Guidance for Carbon Monoxide Poisoning](https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html).
-* CDC/ATSDR. Medical Management Guidelines(보관 자료): [Hydrogen Fluoride](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=1142&toxid=250), [Phenol](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=144&toxid=27) and [White Phosphorus](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=285&toxid=52).
-* CDC. [Clinical Guidance for Wound Management to Prevent Tetanus](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html). Updated September 8, 2026.
-* IDSA. [Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). Clin Infect Dis. 2014;59(2):e10–e52. 경증 연조직염의 초기 5일 치료 및 반응에 따른 연장 참고.
-* SCCM/ASHP. [Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults](https://www.sccm.org/clinical-resources/guidelines/guidelines/sccm-ashp-guideline-prevention-of-ugib). 2024.
-* Sinha S, et al. [Interventions for postburn pruritus](https://doi.org/10.1002/14651858.CD013468.pub2). Cochrane Database Syst Rev. 2024;6:CD013468.
-* Arko-Boham E, et al. [Effectiveness of Postburn Pruritus Treatment and Improvement of Insomnia—A Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/38778572/). J Burn Care Res. 2024;45(5):1165–1174.
-* EMA. [Hydroxyzine: restrictions to minimise effects on heart rhythm](https://www.ema.europa.eu/en/news/new-restrictions-minimise-risks-effects-heart-rhythm-hydroxyzine-containing-medicines). 2015.
-* FDA. [NSAID 사용과 임신 20주 이후 태아 신기능·양수 감소 위험](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic).
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 실마진1%크림, 에스로반연고, 부루펜정200밀리그램, 애니펜정150밀리그램·300밀리그램의 효능·용법·금기 확인(2026-10-24). 허가사항이 급여 인정이나 실제 공급을 뜻하지는 않음.
-* 한국유니팜. 메페드크림 공식 제품정보: 마페니드아세트산염 112 ㎎/g, 2~3도 국소화상 보조요법, 1일 1~2회 약 1.6 ㎜ 도포. 실제 수급은 별도 확인함.
-* 동화약품. 팔렉신캡슐500밀리그램 공식 제품정보: cephalexin 500 ㎎(역가)/캡슐; 연조직염·창상감염 적응증 및 성인 1일 1~4 g 용량 범위 확인. 실제 수급은 별도 확인함.

@@ -16,14 +16,16 @@
   * UVA2는 단파장 UVA로 UVB와 일부 생물학적 작용이 겹침. 의학 문헌에서는 UVA·UVB 경계를 320 nm로 구분하기도 하며, 이때 UVA2는 320\~340 nm, UVA1은 340\~400 nm로 표기함.
 * UVC(100\~280 nm) : 대기와 오존층에 대부분 흡수되어 자연 상태에서는 지표면에 거의 도달하지 않음. 살균용 UVC 기기나 용접광 등 인공 광원은 피부·각막 손상을 일으킬 수 있음.
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인</mark>
+
+### <mark style="color:orange;">위험 인자</mark>
 
 * 밝은 피부색, 쉽게 타는 피부, 밝은 머리색·눈동자색
 * 정오 무렵, 낮은 위도, 높은 고도, 봄·여름철, 장시간 야외 활동
 * 눈·물·모래·밝은 건물 표면 등에 의한 자외선 반사
 * 태닝기기 등 인공 자외선 노출
 * 광과민 약물 사용
-  * 예 : tetracycline계(특히 doxycycline), fluoroquinolone계, sulfonamide계, thiazide·loop 이뇨제, amiodarone, phenothiazine계, 일부 NSAID, voriconazole, retinoid 및 일부 항암제
+  * 예 : tetracycline계(특히 doxycycline), fluoroquinolone계, sulfonamide계, thiazide·loop 이뇨제, amiodarone, phenothiazine계, 일부 NSAID, voriconazole, 일부 retinoid 및 항암제
   * 약물별 광과민 위험은 다름. 새로 시작한 약물과 증상 발생 시점, 햇빛 노출 부위의 분포를 확인하며 환자가 임의로 약을 중단하지 않도록 함.
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -45,7 +47,7 @@
 * 자외선 노출 후 멜라닌 생성과 표피 내 이동이 증가하면서 보통 2\~3일 후 피부색이 짙어지고 수 주간 지속될 수 있음.
 * 이는 자외선 손상 후 나타나는 방어반응임. 후속 자외선에 대한 보호 효과는 제한적이며, 탄 피부를 건강하거나 안전한 자외선 노출의 지표로 해석해서는 안 됨.
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -54,11 +56,10 @@
 * 저혈압·쇼크 징후, 심한 탈수, 핍뇨 또는 지속되는 구토로 수분 섭취 불가  `전신 위험`
 * 시력저하 또는 심한 안구통 동반(각막 손상·중증 광각막염 등 안과 응급 의심) - 긴급 안과 평가  `안과`
 * 호흡곤란, 얼굴·기도의 현저한 부종 등 다른 응급질환 동반 의심  `기도·호흡`
-
 * 적절한 진통에도 조절되지 않는 통증 또는 화상 치료에 영향을 주는 중대한 기저질환·동반 외상: 화상센터와 즉시 상담하고 이송 필요성을 평가함  `통증·고위험 상태`
 * 부분층 화상 ≥10% TBSA, 전층 화상 또는 얼굴·손·발·생식기·회음부·관절의 심부 화상: 화상센터와 즉시 상담하고 이송 여부를 판단함. 단순 홍반은 TBSA에서 제외함  `광범위·심부 화상`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
 * 영유아 및 소아의 광범위한 일광화상 : 체온조절 미숙, 빠른 탈수 진행, 국소 처치의 어려움 등으로 TBSA 수치와 무관하게 의뢰 역치를 낮게 적용  `소아`
 * 얼굴·눈 주위, 손, 발, 생식기·회음부 또는 주요 관절을 침범한 유의한 표재성 부분층 화상(심부·전층 화상은 위 즉각 조치 기준 적용)  `특수 부위`
@@ -66,23 +67,24 @@
 * 광범위한 부종·수포(위 즉각 조치 기준에 해당하지 않음)  `범위·수포`
 * 발열·오한, 반복되는 구토, 현저한 두통·어지럼 등 유의한 전신 증상  `재평가`
 * 고령자, 임신부, 면역저하자 또는 중증 심장·신장질환 환자의 광범위한 일광화상(치료에 영향을 주는 중대한 기저질환이면 즉시 상담)  `취약 환자`
-* 농성 삼출·악취, 주변 홍반 확대, 열감·통증 증가 등 이차감염 의심 소견. 저혈압·의식저하 등 전신상태 악화가 있으면 Tier 1로 즉시 평가  `감염`
+* 농성 삼출·악취, 주변 홍반 확대, 열감·통증 증가 등 이차감염 의심 소견. 저혈압·의식저하 등 전신상태 악화가 있으면 즉각 조치 기준에 따라 평가  `감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 통증·홍반·수포가 1주 이상 뚜렷하게 호전되지 않는 경우(감염·급격한 악화는 Tier 1·2에 따라 평가)  `호전 지연`
+* 통증·홍반·수포가 1주 이상 뚜렷하게 호전되지 않는 경우(감염·급격한 악화는 위 즉각 조치·당일 평가 기준 적용)  `호전 지연`
 * 색소침착이 수개월간 감소하지 않거나 비전형적인 색소·피부 병변이 지속되는 경우  `재평가`
 * 외래에서 관리하는 수포 동반 부분층 일광화상은 24\~72시간 내 범위·깊이·드레싱과 감염 여부를 재평가함.  `부분층 화상 추적`
 
 {% hint style="info" %}
-Tier 1은 응급조치·이송 또는 화상센터와의 즉시 상담이 필요한 상태임. Tier 2에 나열한 유의한 전신증상·감염·안과 증상·광범위 수포는 당일 평가하며, 제목의 ‘수일’을 근거로 지연하지 않음. 안정적인 추적 환자만 경과에 따라 수일 내 평가함.
+즉각 조치는 응급처치·이송 또는 화상센터와의 즉시 상담이 필요한 상태임. 두 번째 단계의 항목은 모두 당일 평가가 필요하므로 표제를 ‘당일 평가’로 함. 3단계 평가 시점은 임상 위험도에 따른 저자 정리이며 ABA의 공식 3단계 분류는 아님.
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
 
 * 대부분 노출력과 임상 양상으로 진단함.
 * 노출 시간·시간대, 자외선지수, 태닝기기 사용, 고도·반사면, 자외선 차단 방법 및 광과민 약물을 확인함.
-* 수포가 있으면 부분층 화상을 시사하므로 깊이·범위와 부위를 평가함. TBSA 산정에는 단순 홍반만 있는 표재성 화상을 포함하지 않음.
+* 수포가 있으면 부분층 화상을 시사하므로 깊이·범위와 부위를 평가함. TBSA(total body surface area) 산정에는 단순 홍반만 있는 표재성 화상을 포함하지 않음. 작은 산재 병변은 환자 자신의 손가락을 포함한 손바닥 면을 약 1%로 추정할 수 있으며, 소아의 넓은 화상은 Lund–Browder 도표를 사용함.
+* 창백하고 압박 후 혈색 회복이 느리거나 없고, 감각이 감소한 병변은 심부 화상을 의심함. 심부 가능성이 있는 화상은 크기와 무관하게 화상센터와 상담함. 부분층 화상이 10% 미만이어도 전문기관 상담 대상이 될 수 있으며, 작은 표재성 병변의 실제 의뢰·추적 방법은 지역 진료 역량과 환자 상태에 따라 정함.
 * 광범위한 병변이나 전신 증상이 있으면 활력징후, 수분 상태, 소변량과 열질환 동반 여부를 평가함. 임상적으로 필요하면 전해질·신기능·간기능·CK 등을 검사함.
 * 강한 자외선 노출 후 눈 통증·이물감·심한 눈부심·눈물 또는 시력저하가 있으면 광각막염(photokeratitis)을 의심하고 당일 안과 평가를 시행함. 시력저하나 심한 통증이 있으면 긴급 평가함.
 
@@ -93,42 +95,38 @@ Tier 1은 응급조치·이송 또는 화상센터와의 즉시 상담이 필요
 ***
 
 ```mermaid
-graph TD
-    A([일광화상 의심]) ---> B{Tier 1 Red Flag?}
-    B --->|예| C[전신·안과 응급은 즉시 조치·이송<br>광범위·심부·통증 등은 화상센터 즉시 상담<br>열사병 의심 시 전신 냉각 병행]
-    B --->|아니오| D{Tier 2 기준 해당?}
-    D --->|예| E[당일 평가·필요 시 의뢰]
-    D --->|아니오| F[추가 자외선 차단<br>냉각·보습·수분 섭취<br>필요 시 진통제]
-    F ---> G{수포 있음?}
-    G --->|예| H[온전한 수포 보호<br>파열 시 세척·petrolatum<br>비점착성 드레싱]
-    G --->|아니오| I[자가관리 지속<br>가려움 약물은 선택적으로 고려]
-    H ---> L[24~72시간 내 재평가]
-    I ---> N[1주 내 호전 여부 확인]
-    L --->|호전| M[치유까지 관리·예방 교육]
-    L --->|감염·악화| B
-    L --->|미치유·악화 없음| P[수일~1주 간격 추적<br>10~14일 재상피화 불충분 시 전문진료]
-    N --->|호전| M
-    N --->|호전 없음| O[외래 재평가·감별 진단]
-    N --->|감염·악화| B
-    style A fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style B fill:#e1f5fe,stroke:#01579b,stroke-width:1px
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style D fill:#e1f5fe,stroke:#01579b,stroke-width:1px
-    style E fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style F fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
-    style G fill:#e1f5fe,stroke:#01579b,stroke-width:1px
-    style H fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
-    style I fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
-    style L fill:#fffde7,stroke:#f9a825,stroke-width:1px
-    style M fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style N fill:#fffde7,stroke:#f9a825,stroke-width:1px
-    style O fill:#fffde7,stroke:#f9a825,stroke-width:1px
-    style P fill:#fffde7,stroke:#f9a825,stroke-width:1px
+flowchart TD
+    A(["일광화상 의심"]) --> B{"즉각 조치 기준?"}
+    B -->|예| C(["응급처치·이송 또는 화상센터 즉시 상담"])
+    B -->|아니오| D{"당일 평가 기준?"}
+    D -->|예| E["당일 평가·필요 시 전문의뢰"]
+    E --> Q{"외래 관리 가능?"}
+    Q -->|아니오| R(["전문기관 치료·입원 필요성 평가"])
+    Q -->|예| F
+    D -->|아니오| F["추가 자외선 차단·냉각·보습·수분·진통"]
+    F --> G{"수포 있음?"}
+    G -->|예| H["수포 보호·파열 시 세척과 비점착성 드레싱"]
+    G -->|아니오| I["자가관리·필요 시 가려움 완화"]
+    H --> L["24~72시간 내 재평가"]
+    I --> N["1주 내 호전 여부 확인"]
+    L -->|호전| M(["치유까지 관리·예방 교육"])
+    L -->|감염·악화| B
+    L -->|미치유·악화 없음| P["수일~1주 간격 추적·10~14일에 치유 평가"]
+    P --> T{"재상피화 충분?"}
+    T -->|예| M
+    T -->|아니오| U(["화상 전문진료 의뢰"])
+    N -->|호전| M
+    N -->|호전 없음| O(["외래 재평가·감별 진단"])
+    N -->|감염·악화| B
+    style A fill:#e8f5e9,stroke:#2e7d32
+    style C fill:#ffccbc,stroke:#bf360c
+    style E fill:#fff3e0,stroke:#e65100
+    style M fill:#e8f5e9,stroke:#2e7d32
 ```
 
 <p align="center"><strong>일광화상 중증도 평가 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. American Burn Association 화상 의뢰 기준과 American Academy of Dermatology 환자 자가관리 자료를 참고하여 저자 정리. 추적 중 Tier 1 소견이 발생하면 즉시 응급 평가</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 자료: American Burn Association. Guidelines for Burn Patient Referral; American Academy of Dermatology. How to treat sunburn). 평가 시점과 추적 경로는 저자 정리. 열사병 의심 시 전신 냉각과 응급이송을 병행함</mark></em></p>
 
 ***
 
@@ -148,9 +146,10 @@ graph TD
 
 * 시원한 물로 샤워하거나 시원하고 젖은 천을 10\~15분씩 반복 적용하여 증상을 완화함. 얼음·얼음물을 일광화상 피부에 직접 적용하지 않으며 소아·고령자에서는 저체온을 예방함. 열화상 응급처치의 ‘손상 후 3시간 이내 20분 냉각’ 기준을 일광화상에 그대로 적용하지 않음.
 * 온전한 피부가 약간 젖어 있을 때 무향 보습제 또는 알로에 함유 보습제를 바를 수 있음. 알코올·향료 함유 제품은 피함. 칼라민 로션은 온전한 피부의 가려움에 선택적으로 고려하되 피부가 건조해지면 중단함.
-* 충분히 수분을 섭취함. 심장·신장질환 등으로 수분 제한 중인 환자는 기존 지침을 따름.
+* 의식이 명료하고 구토 없이 마실 수 있으면 물을 충분히 섭취함. 발한이 많거나 경증 탈수가 동반되면 경구수분보충액을 고려함. 심장·신장질환 등으로 수분 제한 중인 환자는 기존 지침을 따름. 경구 섭취가 불가능하거나 탈수가 심하면 정맥 수액 필요성을 평가함.
 * 벗겨지는 피부를 억지로 뜯지 않음.
 * 온전한 수포는 터뜨리지 않음.
+* 수포가 있는 부위에는 자외선 차단제나 자극성 화장품을 직접 바르지 말고 의복·드레싱·그늘로 보호함.
 * 수포가 저절로 파열되면 물과 순한 세정제로 부드럽게 씻고, 냉각 후 얇은 petrolatum과 비점착성 드레싱으로 보호함. 크고 팽팽하거나 관절 운동·깊이 평가를 방해하는 수포는 의료진이 처치 필요성을 판단함(☞ [화상](206_-burn.md#management)).
 * 수포 동반 부분층 일광화상은 24\~72시간 내 재평가하며, 10\~14일에도 재상피화가 충분하지 않거나 2\~3주 이상 치유가 지연될 것으로 예상되면 화상 전문진료를 의뢰함.
 * benzocaine·lidocaine 등 국소마취제는 자극성 또는 알레르기성 접촉피부염을 일으킬 수 있어 일률적으로 사용하지 않음.
@@ -163,7 +162,7 @@ graph TD
 * 눈·물·모래 주변이나 높은 고도에서는 반사 자외선에 특히 주의함.
 * 태닝기기 사용을 피함.
 * 광과민 약물 복용 중이거나 광선각화증·피부암 병력이 있는 고위험 환자는 위 조치를 더 엄격히 적용함.
-* 자외선 차단제는 그늘·의복을 대신하는 수단이 아니라 노출된 피부를 보완하는 수단으로 사용하며, 더 오래 햇빛에 머물기 위한 목적으로 사용하지 않음.
+* 자외선 차단제는 그늘·의복과 함께 노출된 피부를 보호하는 수단으로 사용하며, 더 오래 햇빛에 머물기 위한 목적으로 사용하지 않음. 비타민 D를 얻기 위해 의도적으로 피부를 태우거나 태닝기기를 사용하지 않음.
 
 ### <mark style="color:orange;">자외선 차단제 Sunscreen</mark>
 
@@ -172,7 +171,7 @@ graph TD
 * SPF(sun protection factor)는 자외선 차단제를 표준량인 2 ㎎/cm²로 도포한 피부와 도포하지 않은 피부에서 최소홍반을 유발하는 자외선 조사량(MED)의 비이며 주로 UVB 차단 성능을 나타냄.
 * SPF는 햇빛에 노출될 수 있는 안전한 시간의 배수를 뜻하지 않음.
 * PA(protection grade of UVA)는 UVA 차단 성능을 나타내며 국내에서는 PA+부터 PA++++까지 표시함.
-* 일반적으로 SPF ≥30이면서 PA+++ 이상인 광범위 자외선 차단제를 선택하고, 광과민질환·광과민 약물 사용 또는 강한 노출이 예상되면 PA++++ 제품을 우선 고려함.
+* 일반적으로 SPF ≥30이면서 PA+++ 이상인 UVA·UVB 차단 제품을 선택함. 장시간 야외활동·물놀이·강한 자외선 노출 또는 광과민질환·광과민 약물 사용 시 SPF 50+·PA++++ 제품을 우선 고려함. 국내에서는 기능성화장품 표시와 제품 사용법을 확인함.
 
 #### <mark style="color:$primary;">자외선 필터</mark>
 
@@ -197,9 +196,11 @@ graph TD
 
 * 제품 표시사항에 따라 대개 외출 15\~30분 전에 노출 피부에 충분히 균일하게 바름. 이는 진피까지 흡수되기 위한 시간이 아니라 피부 표면에 균일한 도포막이 형성되고 정착되도록 하기 위한 것임.
 * 야외에서는 약 2시간마다 다시 바르고, 수영·다량의 발한·수건 사용 후에는 즉시 다시 바름.
-* '내수성 40분 또는 80분'은 정해진 시험조건에서 해당 시간의 수중 노출 후 차단 성능을 평가했다는 뜻이며 waterproof를 의미하지 않음.
+* 국내 물놀이용 제품은 ‘내수성’ 또는 ‘지속내수성’ 표시를 확인함. 식약처 안내에 따라 물놀이 중에는 1\~2시간마다 덧바르되, 수영·다량의 발한·수건 사용 후에는 즉시 다시 바름. 해외 제품의 ‘water resistant 40 min/80 min’은 해당 국가의 시험·표시 기준이며 국내 표시와 구분함. 어느 표시도 완전 방수나 표시 시간 동안 재도포가 불필요하다는 뜻은 아님.
 * 귀, 코, 입술, 목 뒤, 손등, 발등, 머리숱이 적은 두피 등 빠뜨리기 쉬운 부위를 확인함.
+* 분사·분무형은 흡입하지 않도록 하며 얼굴에는 직접 분사하지 않고 손에 덜어 바름. 도포량을 확인하기 쉬운 로션·크림 제형을 우선 고려함.
 * 자극이나 습진성 발진이 생기면 사용을 중단하고 성분을 확인함. 반복되거나 심하면 광알레르기성 접촉피부염을 평가함.
+* 사용기한과 보관조건을 확인하고 고온의 차량 안 등에 두지 않음. 분리·변색·냄새 변화 등 변질이 의심되면 사용하지 않음.
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -208,20 +209,21 @@ graph TD
 * 통증과 부종 완화를 위해 단기간 사용할 수 있으나 일광화상의 치유기간을 단축하지 않음.
 * ibuprofen : 200\~400 ㎎ q6\~8hr PRN. 일광화상에서는 1일 1,200 ㎎ 이내를 우선하며, 제시 용법에서 최대 1,600 ㎎/day를 넘지 않음. 더 많은 용량이 계속 필요하면 화상 깊이·감염·드레싱 상태를 재평가함. 국내 부루펜의 경증·중등도 통증 허가 용법은 1회 200\~400 ㎎, 1일 3\~4회임. 관절질환의 고용량 상한을 화상 통증에 그대로 적용하지 않음. <mark style="color:blue;">\[부루펜]</mark>
 * dexibuprofen 300 ㎎ 정제 : 1회 300 ㎎, 1일 2\~4회, 최대 1,200 ㎎/day(성인 허가 용법). Dexibuprofen은 ibuprofen의 약리활성 S(+)-enantiomer이나 두 성분을 일정 비율로 단순 환산하지 않으며 제품별 허가 용량을 따름. 국내 애니펜 허가사항상 임신 6개월 이상은 금기임.
-* NSAID가 부적합하면 acetaminophen 500\~1,000 ㎎ q6\~8hr PRN을 고려함. 일반 성인은 최대 3,000 ㎎/day를 원칙으로 하며, 간질환·과음·고령·저체중에서는 감량하며 간경변에서는 통상 최대 2,000 ㎎/day로 제한함. 복합감기약 등 병용약의 acetaminophen 함량도 합산함.
+* NSAID가 부적합하면 acetaminophen 500\~1,000 ㎎ q6\~8hr PRN을 고려함. 본 장에서는 단기 외래 사용 시 성인 최대 3,000 ㎎/day를 보수적 상한으로 제시하며, 제품 허가 최대량과 구분함. 간질환·과음·고령·저체중에서는 추가 감량을 고려하고, 간경변에서는 통상 최대 2,000 ㎎/day로 제한함. 심한 간장애·신장애, 소화성궤양, aspirin 천식 등 선택 제품의 금기를 확인하며 해당 금기에서는 사용하지 않음. 복합감기약 등 병용약의 acetaminophen 함량도 합산함.
 * 소아는 성분별로 용량 체계가 다르므로 구분하여 적용함.
-  * ibuprofen : 제품·제형별 허가연령과 체중별 용량을 확인하며, 통상 5\~10 ㎎/㎏/dose q6\~8hr를 기준으로 하며, 외래에서는 최소 유효 용량으로 하루 30 ㎎/㎏ 이내 사용을 우선함. 제품 허가 최대량이 더 낮으면 이를 우선함. 생후 6개월 미만, 탈수·구토·신장기능 저하가 의심되는 소아에서는 사용하지 않음.
+  * ibuprofen : 제품·제형별 허가연령과 체중별 용량을 확인하며, 통상 5\~10 ㎎/㎏/dose q6\~8hr를 기준으로 하며, 외래에서는 최소 유효 용량으로 하루 30 ㎎/㎏ 이내 사용을 우선함. 제품 허가 최대량이 더 낮으면 이를 우선하며 1회 400 ㎎을 넘지 않음. 생후 6개월 미만, 탈수·구토·신장기능 저하가 의심되는 소아에서는 사용하지 않음.
   * dexibuprofen 150 ㎎ 정제 : 6세 이상, 약 15 ㎎/㎏/day를 2\~4회 분할 투여하며, 체중 30 ㎏ 미만은 최대 300 ㎎/day. (300 ㎎ 정제는 성인 허가 용법만 제시되어 있어 소아에게 확대 적용하지 않음.)
-  * acetaminophen : 10\~15 ㎎/㎏/dose q4\~6hr PRN. 외래에서는 하루 60 ㎎/㎏ 이내 사용을 우선하며, 성인 최대량과 제품 허가 최대량을 넘지 않음.
+  * acetaminophen : 10\~15 ㎎/㎏/dose q4\~6hr PRN. 국내 어린이타이레놀현탁액의 허가 용량표는 생후 4개월부터 제시됨. 4개월 미만은 자가 투여하지 말고 진료를 우선하며, 2세 미만은 의사·약사와 상의함. 본 장에서는 하루 60 ㎎/㎏ 이내를 보수적 외래 상한으로 제시함(해당 제품 허가 상한은 1일 5회·75 ㎎/㎏). 성인 최대량과 더 낮은 제품별 상한을 넘지 않음.
   * 시럽 농도(㎎/㎖)를 확인하여 투여량을 계산하고 계량주사기를 사용함. 성분이 다른 ibuprofen과 dexibuprofen의 용량을 서로 환산하거나 함께 투여하지 않음.
 * 일부 실험에서 NSAID의 자외선 홍반 감소가 관찰되었더라도 DNA 손상·피부암 예방이나 안전한 햇빛 노출을 보장하지 않음. 자외선 노출 전 예방적 복용은 권장하지 않음.
 
 {% hint style="warning" %}
 **NSAID의 국내 제품별 금기 확인**
 
-* 부루펜: 위장관궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간·심장기능장애·고혈압, CABG 전후 통증 및 임신 말기 3개월은 금기임.
-* 애니펜: 위장관궤양·그 징후 또는 재발 병력, 활동성 출혈, 과거 NSAID 관련 위장관 출혈·천공, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간기능장애·심부전·고혈압, CABG 전후 통증, 크론병·궤양성대장염 및 임신 6개월 이상은 금기임.
+* 부루펜: 위장관궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간·심장기능장애·고혈압, CABG 전후 통증, 심한 혈액이상, 고용량 methotrexate 항암요법 중 및 임신 말기 3개월은 금기임.
+* 애니펜: 위장관궤양·그 징후 또는 재발 병력, 활동성 출혈, 과거 NSAID 관련 위장관 출혈·천공, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간기능장애·심부전·고혈압, CABG 전후 통증, 크론병·궤양성대장염, 심한 혈액이상 및 임신 6개월 이상은 금기임.
 * 임신 20주 이후에는 NSAID를 원칙적으로 피하며, 불가피하면 의료진 판단으로 최소 용량·최단기간 사용함. 임신 30주 이후에는 사용하지 않으며 국내 제품의 더 엄격한 금기를 우선함.
+* 부루펜·애니펜은 국내 허가사항상 수유 중 약물투여 또는 수유를 중단하도록 되어 있으므로 수유부에서는 해당 문구를 확인함. 이는 국제 자료의 ibuprofen 수유 적합성 평가와 구분함. 유당 함유 제제의 특정 유전성 당대사질환 등 첨가제 관련 금기도 확인함.
 * 탈수·핍뇨, 항응고제·항혈소판제 사용, 고령·쇠약은 추가 위험요인임. 금기와 구분해 평가하며, 탈수·신손상이 의심되면 수분 상태와 신기능 평가를 우선함. ibuprofen과 dexibuprofen을 포함해 NSAID끼리 병용하지 않음.
 {% endhint %}
 
@@ -229,20 +231,21 @@ graph TD
 
 (☞ [국소스테로이드](../231_/211_-topical-corticosteroids.md))
 
-* 자외선 노출 후 국소 스테로이드가 홍반이나 통증을 임상적으로 의미 있게 줄이거나 치유기간을 단축한다는 근거는 부족하므로 일광화상의 표준 치료제로 일반적으로 사용하지 않음.
+* 냉각·보습·진통을 기본으로 하며 국소 스테로이드를 일률적으로 처방하지 않음. 노출 6시간 또는 23시간 후 투여한 임상시험에서는 급성 일광화상 반응의 임상적으로 유용한 감소가 입증되지 않았음. <mark style="color:$info;">[Arch Dermatol 2008]</mark>
+* CDC Yellow Book 2026 등은 hydrocortisone 1%의 증상 완화 사용을 허용하므로 ‘모든 경우에 효과가 없다’고 단정하지 않음. 국내 제품의 허가·금기와 병변 상태를 확인하여 제한적으로 판단함.
 * 피부가 온전한 제한된 병변에서 가려움·염증이 심하면 저역가 제제를 수일간 선택적으로 고려할 수 있음. 효과가 제한적임을 설명하고 수포·미란·감염 부위에는 사용하지 않음. 전신 스테로이드는 일광화상에 일률적으로 사용하지 않음.
 
 ### <mark style="color:orange;">H1-항히스타민제</mark>
 
 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 
-* 가려움이 심할 때 선택적으로 고려할 수 있으나 일광화상 자체의 경과를 단축하지 않음.
-* 주간에는 비진정성 제제를 우선 고려함.
-  * cetirizine 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
-* 야간 수면을 방해하는 가려움에는 진정성 제제를 단기간 고려할 수 있음.
-  * hydroxyzine 10\~25 ㎎ hs <mark style="color:blue;">\[아디팜]</mark>
-* 위 용량은 성인 기준이며 cetirizine은 신기능에 따라 조정함.
-* 1세대 항히스타민제는 졸림, 인지저하, 구갈·요폐 및 낙상 위험이 있으므로 운전·음주를 피하고 고령자에서는 가급적 사용하지 않음. Hydroxyzine은 QT 연장, 유의한 서맥·저칼륨혈증·저마그네슘혈증 또는 QT 연장 약물 병용 시 피하며 최소 용량·최단기간 사용함.
+* 가려움이 심할 때만 선택적으로 고려하며, 일광화상 후 가려움에 대한 효과 근거는 제한적임. 피부 손상이나 치유기간을 개선하는 치료는 아님.
+* 진정이 적은 2세대 제제를 우선 고려하되 cetirizine도 졸릴 수 있음을 설명함.
+  * cetirizine : 성인 10 ㎎ qd, 국내 지르텍정 허가 용법은 취침 전 복용. <mark style="color:blue;">\[지르텍]</mark>
+  * 성인 CrCl 30\~49 ㎖/min: 5 ㎎ qd; 10\~29 ㎖/min: 5 ㎎ q48hr; ＜10 ㎖/min 또는 투석 환자: 금기. 지르텍정은 6세 미만 및 cetirizine·hydroxyzine·piperazine계 과민증 병력 등에도 금기임.
+* hydroxyzine은 진정·항콜린작용과 QT 연장 위험을 평가한 뒤 제한적으로 고려함. 국내 아디팜정의 성인 피부과 허가 용법은 30\~60 ㎎/day를 2\~3회 분할하고 연령·증상에 따라 조절하는 방식임. 일광화상에 일률적으로 이 용량을 투여할 필요는 없으며, 사용할 경우 최소 유효 용량·최단기간으로 개별화함. <mark style="color:blue;">\[아디팜]</mark>
+* 1세대 제제는 졸림, 인지저하, 구갈·요폐 및 낙상 위험이 있어 고령자에서는 가급적 피함. 운전·음주를 피하고 신·간장애에서는 감량함.
+* Hydroxyzine은 임부·임신 가능성이 있는 여성·수유부, 급성 폐쇄각녹내장, 포르피린증, QT 연장 또는 관련 고위험 상태에서 사용하지 않음. 심혈관질환, 유의한 서맥·저칼륨혈증·저마그네슘혈증, 급성 심장사 가족력, QT 연장 유발 약물(예: escitalopram, levofloxacin, moxifloxacin) 병용 등을 확인함. Cetirizine과 hydroxyzine을 일률적으로 병용하지 않음.
 
 ### <mark style="color:orange;">수포 및 이차감염</mark>
 
@@ -254,18 +257,18 @@ graph TD
 * 주변 홍반 확대, 심한 통증 증가, 발열 등 연조직염이 의심되면 국소제만 사용하지 말고 전신 항생제와 당일 의뢰 필요성을 평가함.
 * silver sulfadiazine은 단순 일광화상이나 작은 표재성 수포에 사용하지 않음. 국내 실마진1%크림 허가사항에서도 경증 화상은 금기임.
 
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 단순 일광화상에는 시술이 필요하지 않음. 크거나 통증이 심한 수포의 배액·괴사조직 처치가 필요하면 의료진이 깊이와 감염 여부를 평가하고 시행함. 가능한 수포 덮개를 보호함.
+* 수포 파열·미란으로 피부 장벽이 손상된 부분층 화상에서는 파상풍 예방접종력을 확인하고, 창상 상태와 면역 상태에 따라 백신·면역글로불린 필요성을 판단함. 단순 홍반만 있는 온전한 피부의 일광화상에 창상 예방처치를 일률적으로 적용하지 않음. (☞ [화상](206_-burn.md#management))
+
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-L55.0 1도 일광화상
+<table><thead><tr><th>코드</th><th>공식 한글명</th><th>공식 영문명</th></tr></thead><tbody><tr><td>L55.0</td><td>1도 일광화상</td><td>Sunburn of first degree</td></tr><tr><td>L55.1</td><td>2도 일광화상</td><td>Sunburn of second degree</td></tr><tr><td>L55.2</td><td>3도 일광화상</td><td>Sunburn of third degree</td></tr><tr><td>L55.8</td><td>기타 일광화상</td><td>Other sunburn</td></tr><tr><td>L55.9</td><td>상세불명의 일광화상</td><td>Sunburn, unspecified</td></tr></tbody></table>
 
-L55.1 2도 일광화상
-
-L55.2 3도 일광화상
-
-L55.9 상세불명의 일광화상
-
+* KCD-9 완전코드와 대조함. L55는 하위 코드가 있는 분류항목이므로 확인된 깊이·진단에 맞는 완전코드를 선택함. L55.8을 깊이가 불명확한 일광화상의 대체 코드로 사용하지 않음.
 * 표피와 진피 전층을 침범하는 전층(3도) 일광화상은 극히 드묾. 전층화상이 의심되면 면적과 관계없이 화상 전문진료를 의뢰함.
 
 ***
@@ -273,7 +276,7 @@ L55.9 상세불명의 일광화상
 ## <mark style="color:purple;">처방례</mark>
 
 {% hint style="warning" %}
-다음은 성인의 예시 처방임. 연령, 임신 여부, 간·신장 기능, 탈수, 위장관 출혈 위험과 병용약물을 확인하여 조정함. 대부분의 경증 일광화상은 약물 없이 냉각·보습·수분 섭취만으로 관리할 수 있음.
+다음은 성인의 예시 처방임. 처방 시 최신 품목정보/급여기준 조회. 연령, 임신 여부, 간·신장 기능, 탈수, 위장관 출혈 위험과 병용약물을 확인하여 조정함. 대부분의 경증 일광화상은 약물 없이 냉각·보습·수분 섭취만으로 관리할 수 있음.
 {% endhint %}
 
 > **처방례 1. 통증이 있는 경증 일광화상**
@@ -287,10 +290,10 @@ L55.9 상세불명의 일광화상
 > **처방례 2. 가려움이 동반된 경우(선택적 처방)**
 >
 > ```
-> 지르텍정 10 ㎎/T   3T   #1 qd, 3일간, 가려움 심할 때
+> 지르텍정 10 ㎎/T   3T   1T hs PRN, 1일 최대 1회, 최대 3일간
 > ```
 >
-> _✽항히스타민제는 모든 환자에게 필요하지 않으며 일광화상의 경과를 단축하지 않음. 야간 가려움에는 연령·낙상 위험을 평가하고 QT 연장·관련 위험인자·QT 연장 약물 병용이 없는 경우에만 hydroxyzine 10\~25 ㎎ hs로 대체를 고려함. Cetirizine은 신기능에 따라 감량함._
+> _✽항히스타민제는 모든 환자에게 필요하지 않으며 일광화상의 경과를 단축하지 않음. 위 처방은 신기능이 정상 또는 경도로 저하된 성인 기준이며, CrCl 30\~49 ㎖/min은 5 ㎎ qd, 10\~29 ㎖/min은 5 ㎎ q48hr로 조정하고 ＜10 ㎖/min 또는 투석 환자에게는 사용하지 않음. 졸림·음주·운전 및 제품별 과민증 금기를 확인함._
 
 > **처방례 3. 제한된 파열 수포에 표재성 세균감염이 확인된 경우**
 >
@@ -308,7 +311,7 @@ L55.9 상세불명의 일광화상
 
 > **진통제 복용 시**
 >
-> * 통증이 있을 때만 필요한 기간 동안 복용하며, 탈수 상태에서 NSAID를 과량 복용하지 않습니다.
+> * 통증이 있을 때만 필요한 기간 동안 복용하며, 탈수되거나 소변량이 줄었으면 NSAID를 복용하지 말고 진료받습니다. 다른 소염진통제와 중복 복용하지 않습니다.
 > * 신장질환, 위장관 출혈 위험 또는 임신 중에는 진통제 선택을 의료진과 상의합니다. 특히 임신 20주 이후에는 NSAID를 임의로 복용하지 않습니다.
 
 > **항히스타민제 복용 시**
@@ -336,6 +339,33 @@ L55.9 상세불명의 일광화상
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <임상 근거>
+
+* American Burn Association. [Guidelines for Burn Patient Referral](https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral). 현행 온라인 기준 확인. 본 장의 3단계 평가 시점 및 추적 경로는 저자 정리이며, 열화상 의뢰 기준을 수포·심부 일광화상 평가에 참고함.
+* American Academy of Dermatology. [How to treat sunburn](https://www.aad.org/public/everyday-care/injured-skin/burns/treat-sunburn). Updated May 20, 2024.
+* WHO. [Ultraviolet radiation](https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation). 2022.
+* CDC Yellow Book 2026. [Sun Exposure in Travelers](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/sun-exposure-in-travelers.html). 2025-04-23. 광보호·약물 광과민·수포 관리 및 증상 완화 치료.
+* CDC/NIOSH. [Heat-related Illnesses](https://www.cdc.gov/niosh/heat-stress/about/illnesses.html). 2026-03-03.
+* Faurschou A, Wulf HC. [Topical corticosteroids in the treatment of acute sunburn: a randomized, double-blind clinical trial](https://pubmed.ncbi.nlm.nih.gov/18490588/). Arch Dermatol. 2008;144(5):620–624.
+* Royal Children's Hospital Melbourne. [Acute pain management](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/). Updated October 2024. 소아 용량 참고; 국내 제품의 허가연령·금기·최대량을 우선 적용함.
+* Cancer Council Australia. [Advice on how to choose, apply and store sunscreen](https://www.cancer.org.au/cancer-information/causes-and-prevention/sun-safety/sunscreen/advice). 성인 전신 약 35 ㎖·7 teaspoons, 재도포·보관.
+* EMA. [New restrictions to minimise the risks of effects on heart rhythm with hydroxyzine-containing medicines](https://www.ema.europa.eu/en/news/new-restrictions-minimise-risks-effects-heart-rhythm-hydroxyzine-containing-medicines). 2015.
+* FDA. [NSAID 사용과 임신 20주 이후 태아 신기능·양수 감소 위험](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic). 2020; 2022 update.
+* Rogal SS, et al. [AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9942270/). Hepatology. 2022;76(3):819–853. 간경변 환자의 acetaminophen 상한 및 전신 NSAID 회피.
+* CDC. [Clinical Guidance for Wound Management to Prevent Tetanus](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html). 피부 장벽이 손상된 화상에서 접종력·창상·면역 상태별 예방처치.
+
+### <허가·급여 확인 자료>
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 에스로반연고, 실마진1%크림, 부루펜정200밀리그램, 애니펜정150밀리그램·300밀리그램, 지르텍정, 어린이타이레놀현탁액의 품목정보. 아디팜정은 국내 허가정보와 EMA 안전성 자료를 참고함. 허가사항이 급여 인정이나 실제 공급을 뜻하지는 않음. 처방 시 최신 품목정보/급여기준 조회.
+* 식품의약품안전처. [자외선차단제, 제대로 발라야 효과↑…올바른 사용법은?](https://www.korea.kr/news/policyNewsView.do?newsId=148965990). 2026-06-05. 국내 기능성화장품·SPF·PA·내수성 표시와 도포 안내.
+* KCD-9: 사용자 제공 「KCD9_251216(6).xlsx」의 ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’ 시트. L55.0·L55.1·L55.2·L55.8·L55.9의 코드·한글명·영문명·완전코드 여부 대조(2026-01-01 시행).
+
+* 온라인 자료 확인일: 2026-11-03.
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -353,13 +383,13 @@ L55.9 상세불명의 일광화상
 
 * **시원한 샤워나 젖은 수건으로 피부를 식히십시오.** 얼음을 피부에 직접 대지 마십시오.
 * **샤워 후 피부가 약간 젖어 있을 때 무향 보습제를 바르십시오.**
-* **물을 충분히 드십시오.** 특히 넓은 부위가 탄 경우 탈수되기 쉽습니다.
+* **물을 충분히 드십시오.** 특히 넓은 부위가 탄 경우 탈수되기 쉽습니다. 심장·신장질환으로 물을 제한하고 있다면 기존 지침을 따르십시오. 의식이 흐리거나 구토가 계속되면 억지로 마시지 말고 즉시 진료받으십시오.
 * **물집은 터뜨리지 말고, 벗겨지는 피부를 억지로 떼지 마십시오.**
 * 며칠간 추가 햇빛 노출을 피하고 외출 시 옷·모자로 가리십시오.
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* 통증이 심하면 진통제를 필요한 기간만 복용합니다.
+* 통증이 심하면 진통제를 필요한 기간만 복용합니다. 탈수되거나 소변량이 줄었으면 소염진통제를 임의로 복용하지 말고 진료받으십시오.
 * 가려움이 심할 때만 항히스타민제를 고려하며, 졸릴 수 있는 약은 운전 전에 피합니다. 항히스타민제는 가려움을 줄일 뿐 일광화상이 낫는 기간 자체를 단축하지는 않습니다.
 * 스테로이드나 항생제 연고는 의사가 처방한 경우에만, 처방받은 기간만 사용합니다.
 
@@ -373,25 +403,5 @@ L55.9 상세불명의 일광화상
 #### <mark style="color:$primary;">다음 외출부터는 이렇게 예방하세요</mark>
 
 * 외출할 때는 그늘·긴 옷·모자·선글라스를 함께 이용하십시오.
-* 노출된 피부에는 SPF 30 이상, PA+++ 이상의 자외선 차단제를 충분히 바르고 약 2시간마다 다시 바르십시오. SPF 숫자가 높다고 해서 그만큼 오래 햇빛에 있어도 된다는 뜻은 아닙니다.
+* 노출된 피부에는 SPF 30 이상, PA+++ 이상의 자외선 차단제를 충분히 바르고 약 2시간마다 다시 바르십시오. 장시간 야외활동에는 SPF 50+·PA++++ 제품을 고려하십시오. 물놀이에는 내수성·지속내수성 표시를 확인하고, 수영·땀·수건 사용 뒤에는 즉시 다시 바르십시오. 물집이나 벗겨진 상처에는 직접 바르지 말고 옷·드레싱으로 가리십시오. SPF 숫자가 높다고 해서 그만큼 오래 햇빛에 있어도 된다는 뜻은 아닙니다.
 * 자외선지수(UVI)가 3 이상이면 보호조치를 하십시오. 특히 태양이 가장 강한 정오 전후(대략 오전 10시\~오후 4시)에는 노출을 더욱 줄이십시오.
-
-## 참고자료
-
-### 임상 근거
-
-* American Burn Association. [Guidelines for Burn Patient Referral](https://www.ameriburn.org/burn-care-team/resources/guidelines-for-burn-patient-referral). 현행 온라인 기준(2026-10-24 확인); 3단계 평가 시점은 본 가이드의 저자 정리.
-* American Academy of Dermatology. [How to treat sunburn](https://www.aad.org/public/everyday-care/injured-skin/burns/treat-sunburn). Updated May 20, 2024.
-* WHO. [Ultraviolet radiation](https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation).
-* CDC. [Facts About Ultraviolet Radiation](https://www.cdc.gov/radiation-health/data-research/facts-stats/ultraviolet-radiation.html).
-* CDC Yellow Book 2026. [Sun Exposure in Travelers](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/sun-exposure-in-travelers.html). 식물광피부염 및 광보호.
-* CDC/NIOSH. [Heat-related Illnesses](https://www.cdc.gov/niosh/heat-stress/about/illnesses.html).
-* Faurschou A, Wulf HC. [Topical corticosteroids in the treatment of acute sunburn: a randomized, double-blind clinical trial](https://pubmed.ncbi.nlm.nih.gov/18490588/). Arch Dermatol. 2008;144(5):620–624.
-* Royal Children's Hospital Melbourne. [Acute pain management](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/). 소아 용량 참고; 국내 제품 허가 최대량 우선.
-* Cancer Council Australia. [Advice on how to choose, apply and store sunscreen](https://www.cancer.org.au/cancer-information/causes-and-prevention/sun-safety/sunscreen/advice). 성인 전신 약 35 ㎖·7 teaspoons 도포 기준.
-* EMA. [Hydroxyzine: restrictions to minimise effects on heart rhythm](https://www.ema.europa.eu/en/news/new-restrictions-minimise-risks-effects-heart-rhythm-hydroxyzine-containing-medicines). 2015.
-* FDA. [NSAID 사용과 임신 20주 이후 태아 신기능·양수 감소 위험](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic).
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 에스로반연고, 실마진1%크림, 부루펜정200밀리그램, 애니펜정150밀리그램·300밀리그램의 효능·용법·금기 확인(2026-10-24). 허가사항이 급여 인정이나 실제 공급을 뜻하지는 않음.

@@ -21,6 +21,7 @@
   * 표재성 동상 : 1·2도; 예상 조직손실이 없거나 적음
   * 심재성 동상 : 3·4도; 조직손실이 예상되며 전문센터 평가가 필요함
 * 같은 사지 안에서도 부위별 깊이가 다를 수 있음.
+* Frostnip은 보온 후 완전히 회복되는 가역적 상태이므로, 조직손상이 남는 동상과 구분함. 지속되는 무감각·피부색 변화·수포가 있으면 동상으로 재평가함.
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -51,7 +52,7 @@
 * 감염된 괴사조직과 함께 저혈압·의식저하·빈호흡 등 패혈증이 의심되는 경우  `전신 위험`
 * 출혈성 수포·근위부 침범·진행성 허혈 등 조직손실 위험이 있는 동상 또는 tPA·iloprost 치료 후보: 즉시 화상·혈관 전문센터와 상담하고 신속 이송함. 다음 날까지 관찰하며 재관류 시간 창을 소모하지 않음  `심재성·재관류 시간 창`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 아래 급성 악화·감염·기능장애 소견은 **당일 평가**하며, 즉각 조치 기준이 있으면 응급 대응을 우선함.
 
@@ -65,7 +66,6 @@
 * 작은 투명 수포 또는 표피 박리만 있으면서 감염·진행성 허혈 소견이 없는 경우  `표재성 손상`
 * 초기에는 깊이가 과소평가될 수 있으므로 24\~48시간 내 재평가하고, 새 출혈성 수포·청색증·검은 변색·감각저하가 나타나면 즉시 상향 의뢰  `재평가`
 
-
 ## <mark style="color:green;">진단</mark>
 
 * 병력 : 노출 시간, 기온·바람·습기, 고도, 의복·신발, 젖은 상태, 현장 가온 여부와 재동결 가능성, 음주·약물, 동반 외상
@@ -74,6 +74,13 @@
 * 중증·심재성 동상 또는 저체온증 동반 시 임상 상황에 따라 CBC, 전해질, 혈당, 신·간기능, CK, 요검사, 응고검사를 시행함.
 * tPA 고려 시 CBC, PT/INR, aPTT, fibrinogen, 혈액형검사와 출혈 위험평가가 필요함.
 * ECG : 저체온증, 흉통, 서맥·부정맥 또는 중증 전신상태에서 시행
+
+### <mark style="color:orange;">감별진단</mark>
+
+* Frostnip : 가온 후 감각과 피부색이 빠르게 정상화되며 영구적 조직손실이 없음.
+* 비동결성 냉손상 : 장시간 습윤 저온 노출 후 신경혈관 손상; 조직 동결 없이 발생하며 동상용 온수 재가온을 적용하지 않음.
+* 동창 : 해동이 필요한 동결조직 없이 24시간 이상 지속되는 염증성 적청색 구진·판.
+* 급성 사지허혈·구획증후군 : 노출 병력만으로 동상으로 단정하지 않으며, 갑작스러운 통증·맥박 소실·진행성 감각운동장애는 즉시 응급 평가함.
 
 ### <mark style="color:orange;">영상검사</mark>
 
@@ -85,7 +92,7 @@
 
 <table><thead><tr><th width="70" align="center">Grade</th><th width="220">해동 후 소견</th><th>예상 절단 위험</th></tr></thead><tbody><tr><td align="center">1</td><td>청색증 없음</td><td>없음</td></tr><tr><td align="center">2</td><td>원위지골(distal phalanx)까지 청색증</td><td>낮음; 연부조직 손실 가능</td></tr><tr><td align="center">3</td><td>중간·근위지골까지 청색증</td><td>높음; 골 절단 가능</td></tr><tr><td align="center">4</td><td>중수골·중족골 또는 수근골·족근골 수준까지 청색증</td><td>매우 높음; 광범위 절단 가능</td></tr></tbody></table>
 
-✽위 표는 Cauchy의 **4단계 임상 분류**이며 앞의 조직 깊이에 따른 **1~4도 분류와 같은 척도가 아님**. 일부 문헌의 해부학적 병변 범위 번호(0~5)와도 혼용하지 않음. Cauchy 임상 등급은 신속 재가온 후 지속되는 병변·청색증의 근위부 범위를 기준으로 우선 판정함. Day 2 전후의 Tc-99m 골스캔은 조직 생존성·예후와 수술 범위를 보완하는 검사이며, tPA·iloprost 결정을 위해 골스캔까지 기다리지 않음. 원 연구의 골 절단 위험은 원위지골 약 1%, 중간지골 31%, 근위지골 67%, 중수골·중족골 98%, 수근골·족근골 100%였음(Cauchy et al., 2001). 1985\~1999년 입원 환자 70명의 역사적 후향 자료로, 현대 재관류 치료 후 개인별 예후나 모든 조직손실 위험을 직접 나타내지는 않음.
+✽위 표는 Cauchy의 **4단계 임상 분류**이며 앞의 조직 깊이에 따른 **1\~4도 분류와 같은 척도가 아님**. 일부 문헌의 해부학적 병변 범위 번호(0\~5)와도 혼용하지 않음. Cauchy 임상 등급은 신속 재가온 후 지속되는 병변·청색증의 근위부 범위를 기준으로 우선 판정함. Day 2 전후의 Tc-99m 골스캔은 조직 생존성·예후와 수술 범위를 보완하는 검사이며, tPA·iloprost 결정을 위해 골스캔까지 기다리지 않음. 원 연구의 골 절단 위험은 원위지골 약 1%, 중간지골 31%, 근위지골 67%, 중수골·중족골 98%, 수근골·족근골 100%였음(Cauchy et al., 2001). 1985\~1999년 입원 환자 70명의 역사적 후향 자료로, 현대 재관류 치료 후 개인별 예후나 모든 조직손실 위험을 직접 나타내지는 않음.
 
 ***
 
@@ -170,7 +177,7 @@ flowchart TD
 
 ### <mark style="color:orange;">해동 후 수치료</mark>
 
-* 전문적인 창상관리 단계에서는 표재 세균과 느슨한 괴사조직 제거를 위해 하루 1~2회 37~39℃ 수치료를 고려할 수 있음.
+* 전문적인 창상관리 단계에서는 표재 세균과 느슨한 괴사조직 제거를 위해 하루 1\~2회 37\~39℃ 수치료를 고려할 수 있음.
 * 임상결과 개선을 입증한 시험은 없고 최적 온도·시간·기간도 확립되지 않았음. 이는 아직 얼어 있는 조직을 녹이는 초기 신속 재가온과 구분하며, 재관류 치료를 지연해서는 안 됨.
 
 ### <mark style="color:orange;">산소와 수액</mark>
@@ -215,10 +222,12 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
+✽처방 시 최신 품목정보/급여기준 조회. 임상 지침의 권고·허가 적응증·보험 적용 및 실제 공급 여부는 각각 확인함.
+
 ### <mark style="color:orange;">Ibuprofen</mark>
 
 * Arachidonic acid 경로를 억제하여 손상성 prostaglandin과 thromboxane 생성을 줄일 것으로 기대하지만, 조직 보존 효과를 직접 입증한 임상 근거는 제한적임.
-* 총 12 ㎎/㎏/day를 2회로 나누어 복용하며, 최대 2,400 ㎎/day를 넘지 않음.
+* 총 12 ㎎/㎏/day를 2회로 나누어 복용하며, 최대 2,400 ㎎/day를 넘지 않음. 이 체중당 용법을 소아에게 그대로 확대 적용하지 않으며 소아 동상은 전문센터와 상의함.
 * WMS는 상처 치유 또는 수술 시점까지 사용을 제안하며 4\~6주가 걸릴 수 있다고 설명함. 이는 모든 표재성 동상에 4\~6주를 일괄 처방하라는 뜻이 아님. 24\~48시간 재평가부터 치유·통증·신기능·위장관 및 출혈 위험을 확인하여 지속 필요성을 개별화함.
 * 위 12 ㎎/㎏/day 요법은 WMS의 동상 치료 권고임. **동상 조직보존 목적 사용은 국내 허가 외**이며 국내 부루펜의 허가 통증 용법과 구분함. 다른 NSAID를 함께 투여하지 않음. <mark style="color:blue;">\[부루펜정]</mark>
 * 국내 부루펜 금기: 위장관궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응 병력, 중증 신·간·심장기능장애·고혈압, CABG 전후 통증, 임신 말기 3개월 및 고용량 methotrexate 항암요법 병용 등. 제품별 허가사항을 우선함.
@@ -240,7 +249,7 @@ flowchart TD
 
 ### <mark style="color:orange;">재관류 치료</mark>
 
-* **tPA** : 절단 위험이 있는 심재성 동상, 주로 Cauchy grade 3\~4에서 해동 후 24시간 이내, 가능하면 12시간 이내 전문센터에서 고려함. ABA 2024도 재가온 후 ≤12시간의 조기 투여를 조건부 권고함. 중증 외상, 최근 수술·뇌졸중 및 기타 출혈 위험을 평가하고 집중감시가 가능한 기관에서 시행함. 손상 시각·해동 시작/완료·재동결 여부를 모두 기록하고, 문헌과 프로토콜마다 시간 창의 기산점 표현이 다를 수 있어 치료기관과 확인함. 시간이 불명확해도 즉시 상담함.
+* **tPA** : 절단 위험이 있는 심재성 동상, 주로 Cauchy grade 3\~4에서 해동 후 24시간 이내, 가능하면 12시간 이내 전문센터에서 고려함. ABA 2024도 재가온 후 ≤12시간의 조기 투여를 조건부 권고함. 중증 외상, 최근 수술·뇌졸중 및 기타 출혈 위험을 평가하고 집중감시가 가능한 기관에서 시행함. 손상 시각·해동 시작/완료·재동결 여부를 모두 기록하고, WMS 2024의 본문 최종 tPA 권고는 손상 후 24시간, 요약표는 해동 후 24시간으로 표현하므로 두 시간을 동일시하지 않고 치료기관의 적용 기준을 즉시 확인함. 시간이 불명확해도 즉시 상담함.
 * **Iloprost 정맥제** : WMS 2024 최종 권고는 원위지절관절(DIP joint) 또는 그보다 근위부까지 침범한 심재성 동상(Cauchy grade 2\~4)에서 **재가온 후 72시간 이내, 가능한 한 빨리** 사용을 제안함(강한 권고, 낮은 근거 수준). 본문은 grade 3\~4에서 재가온 후 48시간 이내 1차 요법으로 고려하도록 설명하며, grade 2의 직접 근거는 불명확함을 명시함. 심재성 동상 의심 시 시간 창의 끝까지 기다리지 말고 즉시 전문센터와 협의함.
 * 미국 FDA는 2024년 iloprost 정맥제 Aurlumyn을 **성인의 중증 동상에서 손발가락 절단 위험 감소** 목적으로 승인함. 이는 국내 허가나 소아 허가를 뜻하지 않음. 저혈압·두통·홍조 등을 감시하며 전문센터 프로토콜에 따름.
 * 국내에서 확인되는 iloprost 품목인 <mark style="color:blue;">\[벤타비스흡입액]</mark>은 폐동맥고혈압용 **흡입제이며 동상 정맥 치료를 대체할 수 없음**. 동상용 정맥제의 국내 허가·공급·희귀의약품 또는 개별 수입 가능성은 치료기관과 관련 공급기관에 확인함. tPA의 동상 치료도 국내 허가 외 사용이므로 전문센터의 프로토콜에 따름.
@@ -271,7 +280,7 @@ flowchart TD
 ## <mark style="color:green;">일반 사항</mark>
 
 * 비동결성 냉손상(NFCI)은 습하고 얼지 않는 저온에 손·발이 장시간 노출되어 발생하는 신경혈관 손상으로, 침수족(immersion foot)·참호족(trench foot)이 대표적임.
-* 흔히 15℃ 미만의 물이나 차갑고 습한 환경에 수시간~수일 노출된 뒤 발생함. 동상과 달리 조직 내 얼음 결정은 형성되지 않음.
+* 흔히 15℃ 미만의 물이나 차갑고 습한 환경에 수시간\~수일 노출된 뒤 발생함. 동상과 달리 조직 내 얼음 결정은 형성되지 않음.
 * 동창처럼 단순한 염증성 피부병변이 아니며, 초기 피부 변화가 회복된 뒤에도 신경병성 통증·한랭과민·다한증이 장기간 지속될 수 있음.
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -286,9 +295,9 @@ flowchart TD
 
 ### <mark style="color:orange;">4단계 임상경과</mark>
 
-<table><thead><tr><th width="150">단계</th><th>주요 소견</th></tr></thead><tbody><tr><td>1단계<br>저온 노출 중</td><td>30분 이상 지속되는 무감각, ‘나무토막 같은’ 느낌, 창백·백색, 서투른 동작·보행 또는 고유감각 저하; 후기에는 말초맥박이 감소할 수 있음</td></tr><tr><td>2단계<br>노출 종료·초기 재가온</td><td>얼룩진 창백·청색, 차갑고 무감각한 상태와 부종; 초기에는 맥박이 감소하나 이후 도약맥이 될 수 있고 모세혈관 재충만은 지연됨</td></tr><tr><td>3단계<br>충혈기</td><td>밝은 적색 부종, 심한 통증·통각과민, 도약맥과 모세혈관 재충만 지연; 수일~수주 지속하며 중증에서는 6~10주까지 지속 가능</td></tr><tr><td>4단계<br>후기</td><td>외관은 정상화될 수 있으나 한랭과민, 감각저하·신경병성 통증, 다한증, 복합부위통증증후군(CRPS) 등이 수개월~수년 지속 가능</td></tr></tbody></table>
+<table><thead><tr><th width="150">단계</th><th>주요 소견</th></tr></thead><tbody><tr><td>1단계<br>저온 노출 중</td><td>30분 이상 지속되는 무감각, ‘나무토막 같은’ 느낌, 창백·백색, 서투른 동작·보행 또는 고유감각 저하; 후기에는 말초맥박이 감소할 수 있음</td></tr><tr><td>2단계<br>노출 종료·초기 재가온</td><td>얼룩진 창백·청색, 차갑고 무감각한 상태와 부종; 초기에는 맥박이 감소하나 이후 도약맥이 될 수 있고 모세혈관 재충만은 지연됨</td></tr><tr><td>3단계<br>충혈기</td><td>밝은 적색 부종, 심한 통증·통각과민, 도약맥과 모세혈관 재충만 지연; 수일\~수주 지속하며 중증에서는 6\~10주까지 지속 가능</td></tr><tr><td>4단계<br>후기</td><td>외관은 정상화될 수 있으나 한랭과민, 감각저하·신경병성 통증, 다한증, 복합부위통증증후군(CRPS) 등이 수개월\~수년 지속 가능</td></tr></tbody></table>
 
-* 압박받아 생존하지 못한 부위에는 수포·변색·괴사가 발생할 수 있으나, 합병증이 없는 NFCI 자체는 첫 2~3일 이후 계속 진행하는 질환이 아님.
+* 압박받아 생존하지 못한 부위에는 수포·변색·괴사가 발생할 수 있으나, 합병증이 없는 NFCI 자체는 첫 2\~3일 이후 계속 진행하는 질환이 아님.
 * 감각신경병증 때문에 작은 외상·궤양·감염을 알아차리지 못할 수 있음.
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -299,26 +308,25 @@ flowchart TD
 * 긴장된 구획, 심한 통증 또는 수동 신전 시 통증, 진행하는 감각·운동장애 등 구획증후군 의심  `구획증후군`
 * 맥박 소실, 급격한 허혈·괴사 또는 감염된 조직과 함께 패혈증이 의심되는 경우  `관류·허혈`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 아래 급성 악화·감염·기능장애 소견은 **당일 평가**하며, 즉각 조치 기준이 있으면 응급 대응을 우선함.
 
 * 압박 부위의 수포·검은 변색·조직괴사, 심한 부종 또는 조절되지 않는 통증  `수포·조직손상`
-* 첫 2~3일이 지난 뒤에도 증상이 악화하거나, 한쪽에 국한된 홍반·열감·농성 분비물 등 감염이 의심되는 경우  `감염`
-* 부은 발로 보행하기 어렵거나 동상·압박손상·심부감염을 배제하기 어려운 경우  `감염`
+* 첫 2\~3일이 지난 뒤에도 증상이 악화하거나, 한쪽에 국한된 홍반·열감·농성 분비물 등 감염이 의심되는 경우  `감염`
+* 부은 발로 보행하기 어렵거나 동상·압박손상·심부감염을 배제하기 어려운 경우  `감별·기능장애`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 실온에서 수동적으로 재가온한 뒤 부종·통증이 안정되고 진행성 허혈·감염 소견이 없는 경우  `감염`
+* 실온에서 수동적으로 재가온한 뒤 부종·통증이 안정되고 진행성 허혈·감염 소견이 없는 경우  `회복 경과`
 * 노출 후 1주 이상 감각저하·이상감각·통증이 지속하면 다른 말초신경병증 원인을 평가하고 신경과·통증의학과 의뢰를 고려  `감각·신경`
-
 
 ## <mark style="color:green;">진단</mark>
 
-* 병력과 진찰로 진단함. 차갑고 습한 환경에서 손·발이 수시간~수일 차갑고 무감각했던 병력이 핵심임.
+* 병력과 진찰로 진단함. 차갑고 습한 환경에서 손·발이 수시간\~수일 차갑고 무감각했던 병력이 핵심임.
 * 재가온 후 증상이 없고 진찰이 정상이며 지속되는 신경학적 이상이 없으면 NFCI 가능성이 낮음.
 * 저온 노출 후 1주 이상 신경학적 증상·징후가 지속되고 당뇨병성 신경병증, 신경 압박, 영양결핍 등 다른 말초신경병증 원인이 배제되면 NFCI를 지지함. 이 1주 기준은 진단을 뒷받침하는 경과 기준이며, 급성기 평가·치료를 1주간 미루라는 뜻은 아님.
-* 첫 2~3일 이후 증상이 새로 악화하면 이를 NFCI의 자연경과로 간주하지 말고 감염, 압박손상, 구획증후군, 동상 등 다른 원인을 확인함.
+* 첫 2\~3일 이후 증상이 새로 악화하면 이를 NFCI의 자연경과로 간주하지 말고 감염, 압박손상, 구획증후군, 동상 등 다른 원인을 확인함.
 * 확진하는 특이 혈액검사나 영상검사는 없음. 외상이 의심되면 단순방사선검사를 시행하고, CT·MRI 등은 동반 손상을 평가할 때만 선택함. CTA·MRA·동위원소 관류검사를 NFCI 자체의 진단에 일률적으로 시행하지 않음.
 
 ### <mark style="color:orange;">감별진단</mark>
@@ -327,7 +335,7 @@ flowchart TD
 * 압박손상·구획증후군 : 조이는 신발·의복과 부종이 함께 있을 때 발생할 수 있으며 국소 조직손실·괴사를 일으킴.
 * 감염 : 보통 비대칭·일측성이며 경계가 비교적 뚜렷하고 전신증상이 동반될 수 있음.
 * 레이노현상 : 추위에 경계가 분명한 창백이 발작적으로 나타나지만 재가온 후 후유증 없이 회복함.
-* 따뜻한 물 침수족(warm water immersion foot) : 15~32℃ 물에 장시간 노출된 뒤 생기며 한랭 노출 없이 발생함. 건조·거상 후 대개 수일 내 후유증 없이 회복함.
+* 따뜻한 물 침수족(warm water immersion foot) : 15\~32℃ 물에 장시간 노출된 뒤 생기며 한랭 노출 없이 발생함. 건조·거상 후 대개 수일 내 후유증 없이 회복함.
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -343,11 +351,11 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 만성 신경병성 통증, 감각저하, 한랭과민, 다한증, CRPS 및 반복 외상·감염을 추적함.
+* 만성 신경병성 통증, 감각저하, 한랭과민, 다한증, CRPS 및 반복 외상·감염을 추적함. 한랭과민은 초기 신경증상이 호전된 뒤에도 손상 후 최대 6주 무렵 새로 나타날 수 있으므로 회복 초기에 증상이 없다고 추적을 종료하지 않음.
 * 지속되는 신경병증은 전문의 평가를 의뢰하며, 필요한 경우 소섬유신경병증 평가를 위한 피부 생검 등을 전문기관에서 고려할 수 있음. NFCI를 확진하는 단일 검사는 없음.
 * 감각이 둔한 손·발은 매일 피부를 확인하고 조이지 않는 신발과 적절한 보조기·보호구를 사용함.
 * 차갑고 습한 환경의 노출시간을 줄이고 정기적으로 따뜻하고 건조한 장소로 이동함. 손·발을 아래로 늘어뜨린 채 움직이지 않는 자세를 피함.
-* 젖은 환경에서는 가능한 한 발을 건조하게 유지하고 마른 양말로 하루 2~3회 갈아 신음. 보온성이 있으면서 조이지 않는 의복·신발을 사용함.
+* 젖은 환경에서는 가능한 한 발을 건조하게 유지하고 마른 양말로 하루 2\~3회 갈아 신음. 보온성이 있으면서 조이지 않는 의복·신발을 사용함.
 * 밀폐형 vapor-barrier 신발이나 조이는 neoprene 양말은 내부 습기와 압박을 증가시킬 수 있으므로 장시간 습윤 노출에서 피함. 기름·grease를 손·발에 발라 예방하지 않음.
 * 이전 NFCI 병력이 있으면 차갑고 습한 환경의 재노출을 피하고, 직업상 불가피하면 증상이 없고 한랭 반응이 정상인지 전문적으로 평가한 뒤 단계적으로 복귀함.
 
@@ -356,14 +364,14 @@ flowchart TD
 ### <mark style="color:orange;">통증 치료</mark>
 
 * 거상·압박 회피가 충혈기의 통증을 줄일 수 있음. 일반 진통제는 필요에 따라 사용할 수 있으나 NSAID와 opioid는 단독으로 신경병성 통증을 충분히 완화하지 못하는 경우가 많음.
-* 통증이 지속하면 amitriptyline을 저용량 취침 전부터 시작하여 연령·동반질환·항콜린성 부작용과 반응에 따라 증량할 수 있음. WMS 2023에 제시된 50~100 ㎎ 취침 전 용량을 일률적인 시작용량으로 적용하지 않음. 국내 신경병성 통증 사용은 **허가 외**임. <mark style="color:blue;">\[에트라빌]</mark>
+* 통증이 지속하면 amitriptyline을 저용량 취침 전부터 시작하여 연령·동반질환·항콜린성 부작용과 반응에 따라 증량할 수 있음. WMS 2023에 제시된 50\~100 ㎎ 취침 전 용량을 일률적인 시작용량으로 적용하지 않음. 국내 신경병성 통증 사용은 **허가 외**임. <mark style="color:blue;">\[에트라빌]</mark>
 * 에트라빌은 녹내장, 전립선비대 등 배뇨장애, 부정맥, 심근경색 회복초기, 급성 섬망, MAO 억제제 투여 등 국내 금기를 확인함. 고령자·낙상 위험 환자에서는 가급적 다른 방법을 우선하며, QT 연장·기립성 저혈압·항콜린 부담과 병용약물을 평가함.
 * Amitriptyline의 효과가 불충분하거나 부적합하면 gabapentin 등 신경병성 통증 치료제를 고려함. 신기능에 따라 감량하고 졸림·어지럼·낙상과 opioid 등 중추신경억제제 병용 시 호흡억제 위험을 확인함. 국내 일반 gabapentin 제제의 성인 신경병증성 통증 적응증과 NFCI 자체에 대한 제한된 효과 근거를 구분함. <mark style="color:blue;">\[가바페닌캡슐 등]</mark>
 * 만성 신경병성 통증 또는 CRPS는 통증의학과·신경과·재활의학과에 의뢰함.
 
 ### <mark style="color:orange;">발열과 항생제</mark>
 
-* 노출 후 12~36시간에 38~38.5℃ 정도의 단독 미열이 나타날 수 있음. 다른 감염 소견이 없으면 이 발열만으로 항생제를 투여하지 않음.
+* 노출 후 12\~36시간에 38\~38.5℃ 정도의 단독 미열이 나타날 수 있음. 다른 감염 소견이 없으면 이 발열만으로 항생제를 투여하지 않음.
 * 예방적 항생제는 투여하지 않음. 수포의 이차감염, 봉와직염, 농양 또는 감염된 괴사조직이 확인될 때만 배양검사와 감염 형태에 따라 치료함.
 * **NFCI 후 봉와직염**에서는 WMS 2023이 staphylococci·streptococci와 함께 Pseudomonas를 포함한 항균 범위를 권고함(1C). 일반적인 비화농성 연조직염과 구분하여 노출 환경·상처 배양·중증도·국내 감수성을 바탕으로 약제를 선택하며, 범위가 넓거나 괴사·심부감염이 의심되면 당일 응급실·감염/외과 전문의 평가를 시행함.
 * 조직괴사가 의심되면 항생제만 투여하지 말고 응급 외과 평가를 시행함.
@@ -400,7 +408,7 @@ flowchart TD
 * 급격히 진행하는 괴사·광범위 자반, 심한 허혈성 통증 또는 맥박 소실  `관류·허혈`
 * 발열과 함께 저혈압·의식저하 등 전신 불안정이 있거나 급격한 괴사·자반을 동반하여 중증 감염·전신 혈관염이 의심되는 경우  `전신 위험`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 아래 급성 악화·감염·기능장애 소견은 **당일 평가**하며, 즉각 조치 기준이 있으면 응급 대응을 우선함.
 
@@ -410,10 +418,9 @@ flowchart TD
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 전형적인 계절성·대칭성 말단 병변으로 보온·건조 후 호전되는 경우  `전문 평가`
+* 전형적인 계절성·대칭성 말단 병변으로 보온·건조 후 호전되는 경우  `회복 경과`
 * **조기 피부과·류마티스내과 평가** : 따뜻한 계절에도 지속, 보온에 불응하는 만성·반복 병변, 반흔·비대칭·광범위 병변, 고령의 신규 발생 또는 결합조직질환·혈액질환 소견  `이차성 원인`
 * 1\~3주 내 호전되지 않거나 재발이 잦으면 2차성 원인을 재평가  `전문 평가`
-
 
 ## <mark style="color:green;">진단</mark>
 
@@ -508,25 +515,29 @@ flowchart TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-T33 표재성 동상
+* T33 표재성 동상
+* T34 조직괴사를 동반한 동상
+* T35 여러 신체부위를 침범한 동상 및 상세불명의 동상
 
-T34 조직괴사를 동반한 동상
+✽T33\~T35는 분류 범주이며 실제 기록·청구에는 부위와 조직괴사 여부에 맞는 완전코드를 선택함. 주요 예시는 다음과 같음. 여러 손발가락 침범만으로 여러 신체부위 코드를 자동 선택하지 않음.
 
-T35 여러 신체 부위를 침범한 동상 및 상세불명의 동상
+<table><thead><tr><th>코드</th><th>질병명</th><th>영문명</th></tr></thead><tbody><tr><td>T33.5</td><td>손목 및 손의 표재성 동상</td><td>Superficial frostbite of wrist and hand</td></tr><tr><td>T33.8</td><td>발목 및 발의 표재성 동상</td><td>Superficial frostbite of ankle and foot</td></tr><tr><td>T34.5</td><td>조직괴사를 동반한 손목 및 손의 동상</td><td>Frostbite with tissue necrosis of wrist and hand</td></tr><tr><td>T34.8</td><td>조직괴사를 동반한 발목 및 발의 동상</td><td>Frostbite with tissue necrosis of ankle and foot</td></tr><tr><td>T35.0</td><td>여러 신체부위를 침범한 표재성 동상</td><td>Superficial frostbite involving multiple body regions</td></tr><tr><td>T35.1</td><td>조직괴사를 동반한 여러 신체부위를 침범한 동상</td><td>Frostbite with tissue necrosis involving multiple body regions</td></tr><tr><td>T35.4</td><td>팔의 상세불명의 동상</td><td>Unspecified frostbite of upper limb</td></tr><tr><td>T35.5</td><td>다리의 상세불명의 동상</td><td>Unspecified frostbite of lower limb</td></tr><tr><td>T35.6</td><td>여러 신체부위를 침범한 상세불명의 동상</td><td>Unspecified frostbite involving multiple body regions</td></tr><tr><td>T35.7</td><td>상세불명 부위의 상세불명 동상</td><td>Unspecified frostbite of unspecified site</td></tr><tr><td>T69.0</td><td>침수병 및 침족병</td><td>Immersion hand and foot</td></tr><tr><td>T69.1</td><td>동창</td><td>Chilblains</td></tr></tbody></table>
 
-T69.0 침수족·참호족
+✽T69.0의 정식 명칭은 **침수병 및 침족병**이며 포함용어는 **참호발**임. 본문의 침수족·참호족과 대응함. 해부학적 부위·깊이를 가능한 한 기록하며, 확인되지 않은 조직괴사를 추정하여 T34 계열을 부여하지 않음.
 
-T69.1 동창
+✽저장된 KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조함(2026-11-03).
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
+✽처방 시 최신 품목정보/급여기준 조회. 아래 예시는 성인의 선택적 허가 외 사용이며 금기와 동반약물을 먼저 확인함.
+
 > **처방례 1.** 해동 후 표재성 동상 - 성인 약 67 ㎏ 예시
 >
 > ```
 > 부루펜정 400 ㎎/T  4T  1T bid, 초기 2일간
-> ※ 24~48시간 내 재평가 후 지속 필요성 결정
+> ※ 24\~48시간 내 재평가 후 지속 필요성 결정
 > ※ 위장관궤양·출혈 병력, 천식 병력 등 국내 금기 확인
 > ※ 탈수·핍뇨·신손상 시 피함. 다른 NSAID와 병용하지 않음
 > ```
@@ -573,9 +584,33 @@ T69.1 동창
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 해동 후 출혈성 수포, 검은 변색, 지속되는 감각저하나 청색증이 나타나는 경우
-> * 비동결성 냉손상 후 부종·통증이 첫 2~3일 이후 악화하거나 한쪽에 홍반·열감·고름이 생기는 경우
+> * 비동결성 냉손상 후 부종·통증이 첫 2\~3일 이후 악화하거나 한쪽에 홍반·열감·고름이 생기는 경우
 > * ibuprofen 복용 중 위장관 출혈 징후, 또는 nifedipine 복용 중 심한 저혈압·부종이 생기는 경우
 > * 동창 병변이 따뜻한 계절에도 지속되거나 궤양·괴사로 진행하는 경우
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### &lt;임상 근거&gt;
+
+* McIntosh SE, et al. [WMS Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update](https://doi.org/10.1177/10806032231222359).
+* Wibbenmeyer L, et al. [American Burn Association Clinical Practice Guidelines on the Treatment of Severe Frostbite](https://pubmed.ncbi.nlm.nih.gov/37045447/). J Burn Care Res. 2024;45(3):541–556. 2023 온라인 출판.
+* Alaska Department of Health. [Alaska Acute Frostbite Management Guidelines](https://health.alaska.gov/media/1enhyqld/alaska-acute-frostbite-management-guidelines.pdf). Approved 2025-11-12. 전문기관의 조기 재관류 평가 및 영상검사 대기로 인한 치료 지연 회피 참고.
+* Nygaard RM, et al.; FROST multicenter study team. [Synthesis of Protocols for Frostbite Care From the FROST Study Sites](https://doi.org/10.1093/jbcr/irag111). J Burn Care Res. 2026;47(5):1405–1425. 북미 16개 기관의 치료 프로토콜·전문가 의견 종합이며 무작위 치료효과 시험은 아님.
+* Cauchy E, et al. [Retrospective study of 70 cases of severe frostbite lesions: a proposed new classification scheme](https://pubmed.ncbi.nlm.nih.gov/11769921/). Wilderness Environ Med. 2001;12(4):248–255.
+* Zafren K, et al. [Prevention and Treatment of Nonfreezing Cold Injuries and Warm Water Immersion Tissue Injuries: A Supplement to the WMS Clinical Practice Guidelines](https://doi.org/10.1016/j.wem.2023.02.006). 2023.
+* Cappel JA, Wetter DA. [Clinical characteristics, etiologic associations, laboratory findings, treatment, and proposal of diagnostic criteria of pernio (chilblains) in a series of 104 patients at Mayo Clinic, 2000 to 2011](https://pubmed.ncbi.nlm.nih.gov/24485134/). Mayo Clin Proc. 2014;89(2):207–215. 제안 진단기준이며 단일 확진검사는 아님.
+* Souwer IH, et al. [Nifedipine vs Placebo for Treatment of Chronic Chilblains](https://pubmed.ncbi.nlm.nih.gov/27621162/). Ann Fam Med. 2016;14(5):453–459.
+* Al-Sudany NK. [Treatment of primary perniosis with oral pentoxifylline](https://pubmed.ncbi.nlm.nih.gov/26991468/). Dermatol Ther. 2016;29(4):263–268.
+
+### &lt;허가·급여 확인 자료&gt;
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 부루펜정400밀리그램, 아달라트오로스정30, 에트라빌10밀리그램정의 허가 적응증·금기 재확인(2026-11-03). 임상 지침 권고와 국내 허가·급여·공급은 구분하며 허가 외 사용의 급여를 일률적으로 보장하지 않음.
+* 한미약품. 가바페닌캡슐 공식 제품정보: 일반 gabapentin 제제의 성인 신경병증성 통증 적응증 및 신기능별 용량 조정 참고.
+* 바이엘코리아. 벤타비스흡입액 공식 제품설명서: 폐동맥고혈압용 흡입제이며 동상 정맥 치료용 제제와 구분함. 동상용 정맥 iloprost의 국내 허가·수급은 치료기관에서 별도 확인함.
+* 통계청. KCD-9; 저장된 KCD9_251216(6).xlsx. 질병코드·정식 한영명·완전코드 여부 대조(2026-11-03).
+* FDA. [FDA Approves First Medication to Treat Severe Frostbite](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite). 2024-02-14. Aurlumyn(iloprost 주사제)의 미국 성인 중증 동상 적응증.
 
 ***
 
@@ -617,7 +652,7 @@ T69.1 동창
 #### <mark style="color:$primary;">이럴 때는 즉시 진료받으세요</mark>
 
 * 검은 변색·수포·괴사, 맥박 소실 또는 빠르게 심해지는 부종·통증
-* 첫 2~3일이 지난 뒤에도 악화하거나 한쪽에만 홍반·열감·고름이 생기는 경우
+* 첫 2\~3일이 지난 뒤에도 악화하거나 한쪽에만 홍반·열감·고름이 생기는 경우
 
 #### <mark style="color:$primary;">가까운 시일 내 진료가 필요합니다</mark>
 
@@ -650,24 +685,3 @@ T69.1 동창
 * 관절통 등 다른 증상이 동반되거나 보온해도 1\~3주 안에 호전되지 않는 경우
 
 ***
-
-## 참고자료
-
-### 임상 근거
-
-* McIntosh SE, et al. [WMS Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update](https://doi.org/10.1177/10806032231222359).
-* Wibbenmeyer L, et al. [American Burn Association Clinical Practice Guidelines on the Treatment of Severe Frostbite](https://pubmed.ncbi.nlm.nih.gov/37045447/). J Burn Care Res. 2024;45(3):541–556. 2023 온라인 출판.
-* Alaska Department of Health. [Alaska Acute Frostbite Management Guidelines](https://health.alaska.gov/media/1enhyqld/alaska-acute-frostbite-management-guidelines.pdf). Approved 2025-11-12. 전문기관의 조기 재관류 평가 및 영상검사 대기로 인한 치료 지연 회피 참고.
-* Nygaard RM, et al.; FROST multicenter study team. [Synthesis of Protocols for Frostbite Care From the FROST Study Sites](https://doi.org/10.1093/jbcr/irag111). J Burn Care Res. 2026;47(5):1405–1425. 북미 16개 기관의 치료 프로토콜·전문가 의견 종합이며 무작위 치료효과 시험은 아님.
-* Cauchy E, et al. [Retrospective study of 70 cases of severe frostbite lesions: a proposed new classification scheme](https://pubmed.ncbi.nlm.nih.gov/11769921/). Wilderness Environ Med. 2001;12(4):248–255.
-* Zafren K, et al. [Prevention and Treatment of Nonfreezing Cold Injuries and Warm Water Immersion Tissue Injuries: A Supplement to the WMS Clinical Practice Guidelines](https://doi.org/10.1016/j.wem.2023.02.006). 2023.
-* Mayo Clinic. [Clinical characteristics and proposal of diagnostic criteria of pernio in a series of 104 patients](https://pubmed.ncbi.nlm.nih.gov/24485134/). 2014. 제안 진단기준이며 단일 확진검사는 아님.
-* Souwer IH, et al. [Nifedipine vs Placebo for Treatment of Chronic Chilblains](https://pubmed.ncbi.nlm.nih.gov/27621162/). Ann Fam Med. 2016;14(5):453–459.
-* Al-Sudany NK. [Treatment of primary perniosis with oral pentoxifylline](https://pubmed.ncbi.nlm.nih.gov/26991468/). Dermatol Ther. 2016;29(4):263–268.
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 부루펜정400밀리그램, 아달라트오로스정30, 에트라빌10밀리그램정의 허가 적응증·금기 확인(2026-10-23). 임상 지침 권고와 국내 허가·급여·공급은 구분하며 허가 외 사용의 급여를 일률적으로 보장하지 않음.
-* 한미약품. [가바페닌캡슐 공식 제품정보](https://www.hanmi.co.kr/business/product/finder/detail-186.hm?prodSeq=186): 일반 gabapentin 제제의 성인 신경병증성 통증 적응증 및 신기능별 용량 조정 참고.
-* 바이엘코리아. [벤타비스흡입액 공식 제품설명서](https://www.bayer.com/sites/default/files/prodnews_74_1.pdf): 폐동맥고혈압용 흡입제이며 동상 정맥 치료용 제제와 구분함. 동상용 정맥 iloprost의 국내 허가·수급은 치료기관에서 별도 확인함.
-* FDA. [FDA Approves First Medication to Treat Severe Frostbite](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite). 2024-02-14. Aurlumyn(iloprost 주사제)의 미국 성인 중증 동상 적응증.

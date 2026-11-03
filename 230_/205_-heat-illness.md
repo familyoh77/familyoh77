@@ -9,7 +9,7 @@
   * 비운동성/고전적 열사병(nonexertional/classic heat stroke) : 고령자·영유아·만성질환자에서 폭염에 장시간 노출된 뒤 서서히 발생; 기저질환 동반이 많아 사망률이 운동성보다 높을 수 있음
 * 탈수가 없어도 열사병이 발생할 수 있으며, 수분 섭취만으로 모든 열 질환을 예방할 수 있는 것은 아님
 * 일사병(sunstroke)은 의미가 불명확한 과거 용어이므로 임상 문서에서는 열사병·열탈진 등 표준 진단명을 사용
-* 국내에서는 질병관리청이 여름철 온열질환 응급실감시체계를 운영함. 2026년 운영 기간은 5월 15일\~9월 30일이며 폭염 시 예방수칙을 안내함(질병관리청, 2026)
+* 국내에서는 질병관리청이 여름철 온열질환 응급실감시체계를 운영함. 2026년에는 5월 15일\~9월 30일 운영되었으며, 온열질환자 4,066명과 추정 사망자 36명이 신고됨. 이는 감시체계 신고자료이며 전체 발생 규모나 확정 사망 원인을 의미하지 않음(질병관리청, 2026)
 
 ### <mark style="color:orange;">중심체온 측정 원칙</mark>
 
@@ -56,11 +56,11 @@
 * **중증 운동연관 저나트륨혈증 의심** : 과다 음수 후 혼돈·발작·의식저하 또는 폐부종성 호흡곤란이 있으면 신속한 혈청 Na 확인과 고장성 식염수 프로토콜 적용; 열사병이 함께 의심되면 냉각도 병행  `EAH`
 * **위장관 출혈, DIC 또는 다기관부전 의심** : 열사병에 의한 경우 냉각을 계속하면서 장기 지지치료  `다기관 손상`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-아래 급성 증상은 **당일 응급실 평가**를 우선함. 제목의 ‘수일’을 근거로 이송을 미루지 않음.
+아래 급성 증상은 **당일 응급실 평가**를 우선함.
 
-* 초기 냉각·휴식과 적절한 수분 보충에도 약 15분 내 호전이 없거나 악화. 열사병·쇼크·EAH 등 다른 원인을 재평가하고 응급 이송함(악화·의식 변화가 있으면 15분을 기다리지 않음)  `호전 지연`
+* 어지럼·쇠약 등 급성 증상이 초기 냉각·휴식과 적절한 수분 보충에도 약 15분 내 호전이 없거나 악화(열부종의 부기 자체에는 이 시간 기준을 적용하지 않음). 열사병·쇼크·EAH 등 다른 원인을 재평가하고 응급 이송함(악화·의식 변화가 있으면 15분을 기다리지 않음)  `호전 지연`
 * 반복되는 구토·설사로 경구 섭취가 불가능  `경구 섭취 불가`
 * 운동 중 실신 또는 반복 실신; 위 즉각 조치 항목에 해당하면 119 요청을 우선  `실신`
 * 심한 근육통·근력저하, 갈색뇨 또는 핍뇨가 있거나, 검사에서 급성 신손상·횡문근융해·간손상·유의한 전해질 이상 또는 응고 이상이 확인된 경우  `근육·장기 손상`
@@ -80,19 +80,20 @@
 
 ### <mark style="color:orange;">아형 감별</mark>
 
-<table><thead><tr><th width="140">아형</th><th width="110">중심체온</th><th width="130">CNS 이상</th><th width="220">핵심 소견</th><th>치료 방향</th></tr></thead><tbody><tr><td>열부종</td><td>정상</td><td>없음</td><td>손·발목 등 의존 부위의 경미한 부종</td><td>거상·압박스타킹; 특별한 치료 불필요</td></tr><tr><td>열경련</td><td>정상~경도 상승</td><td>없음</td><td>큰 근육(종아리·허벅지·복부)의 통증성 경련</td><td>안정·스트레칭·경구 전해질</td></tr><tr><td>과호흡 관련 손발연축</td><td>정상~경도 상승</td><td>없음(과호흡에 의한 저림)</td><td>입 주위·손발 저림 또는 연축</td><td>안심시키고 느린 호흡 유도; 봉지 재호흡 금지</td></tr><tr><td>열실신</td><td>정상~경도 상승</td><td>짧은 실신 후 완전 회복; 평가 시 정신상태 정상</td><td>장시간 기립 또는 자세 변화 후 실신</td><td>눕히고 다리 거상; 심장성 실신 감별</td></tr><tr><td>열탈진</td><td>흔히 ≤40℃</td><td>없음(정신상태 정상)</td><td>쇠약·구역·다량 발한·빈맥·두통</td><td>적극적 냉각 + 경구 또는 필요시 IV 수분</td></tr><tr><td>열손상</td><td>가변적</td><td>없음(단, 말단장기 손상 동반)</td><td>횡문근융해·급성 신손상·간손상 소견</td><td>응급실 평가 및 추적검사</td></tr><tr><td>열사병</td><td>흔히 약 40℃ 이상<br>(측정 불가·사전 냉각 시 예외)</td><td>있음(혼돈~혼수)</td><td>다기관부전 가능; 발한이 있을 수도 있음</td><td>119 요청과 동시에 즉시 전신 냉각</td></tr></tbody></table>
+<table><thead><tr><th width="140">아형</th><th width="110">중심체온</th><th width="130">CNS 이상</th><th width="220">핵심 소견</th><th>치료 방향</th></tr></thead><tbody><tr><td>열부종</td><td>정상</td><td>없음</td><td>손·발목 등 의존 부위의 경미한 부종</td><td>거상·압박스타킹; 특별한 치료 불필요</td></tr><tr><td>열경련</td><td>정상~경도 상승</td><td>없음</td><td>큰 근육(종아리·허벅지·복부)의 통증성 경련</td><td>안정·스트레칭·경구 전해질</td></tr><tr><td>과호흡 관련 손발연축</td><td>정상~경도 상승</td><td>없음(과호흡에 의한 저림)</td><td>입 주위·손발 저림 또는 연축</td><td>안심시키고 느린 호흡 유도; 봉지 재호흡 금지</td></tr><tr><td>열실신</td><td>정상~경도 상승</td><td>짧은 실신 후 완전 회복; 평가 시 정신상태 정상</td><td>장시간 기립 또는 자세 변화 후 실신</td><td>눕히고 다리 거상; 심장성 실신 감별</td></tr><tr><td>열탈진</td><td>보통 ＜40℃</td><td>없음(정신상태 정상)</td><td>쇠약·구역·다량 발한·빈맥·두통</td><td>적극적 냉각 + 경구 또는 필요시 IV 수분</td></tr><tr><td>열손상</td><td>가변적</td><td>없음(단, 표적장기 손상 동반)</td><td>횡문근융해·급성 신손상·간손상 소견</td><td>응급실 평가 및 추적검사</td></tr><tr><td>열사병</td><td>흔히 약 40℃ 이상<br>(측정 불가·사전 냉각 시 예외)</td><td>있음(혼돈~혼수)</td><td>다기관부전 가능; 발한이 있을 수도 있음</td><td>119 요청과 동시에 즉시 전신 냉각</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
 * 경증(열부종·열경련·열실신)이 신속히 호전되면 추가 검사가 필요하지 않을 수 있음
 * 열탈진에서 증상이 지속되거나 중등도 이상·고위험군이면 임상 상황에 따라 검사하고, 열손상·열사병이 의심되면 다음을 신속히 시행. 채혈·검사 때문에 냉각을 지연하지 않음
   * 현장 또는 내원 즉시 혈당
-  * CBC, Na, K, Cl, HCO3, Ca, Mg, phosphate, BUN/creatinine
+  * CBC, Na, K, Cl, HCO₃, Ca, Mg, phosphate, BUN/creatinine
   * AST/ALT, bilirubin, CK; 필요 시 LDH
   * U/A 및 소변현미경검사 - 갈색뇨·근육통이 있으면 횡문근융해 평가
   * PT/INR, aPTT; 중증에서는 fibrinogen, D-dimer 등 DIC 평가
   * ECG; 흉통·부정맥·고위험군에서는 troponin 고려
   * 중증에서는 필요에 따라 혈액가스, lactate, 혈청 삼투질농도, 혈액·소변 배양 등 추가
+* 열사병은 첫 6\~12시간에 전해질·신기능·CK·간기능·혈소판·응고검사를 반복하고, 입원 후 48\~72시간을 기본 추적기간으로 하되 경과에 따라 개별화함(질병관리청·대한응급의학회, 2026).
 * CK, creatinine, 간효소, 응고 이상은 초기보다 뒤늦게 악화될 수 있음. 열손상·열사병은 초기 수치가 정상이거나 냉각 후 증상이 호전되어도 중증도에 따라 수시간\~수일 간격으로 추적검사 계획을 세움. 황달·출혈·의식 악화·핍뇨가 발생하면 긴급 재평가함
 
 ### <mark style="color:orange;">감별 진단</mark>
@@ -115,10 +116,10 @@
 
 ```mermaid
 flowchart TD
-    A["고온 노출 또는 격렬한 운동 후 증상"] ---> B{"현재 또는 초기의 혼돈·이상행동·운동실조·발작·의식저하?<br>단순 짧은 실신 후 즉시 완전 회복은 별도 평가"}
+    A(["열 질환 의심<br>고온 노출 또는 운동 후 증상"]) ---> B{"현재 또는 초기의 혼돈·이상행동·운동실조·발작·의식저하?<br>단순 짧은 실신 후 즉시 완전 회복은 별도 평가"}
     B --->|예| C["119 요청·ABC·혈당 평가<br>가능하면 직장 중심체온·혈청 Na 확인"]
     C ---> D{"열사병이 임상적으로 의심되는가?"}
-    D --->|예 또는 강한 의심| E["측정을 기다리지 않고 전신 냉각<br>중심체온 감시 시 38.3~38.8℃에서 중단<br>응급 이송 연계"]
+    D --->|예 또는 강한 의심| E["측정을 기다리지 않고 전신 냉각<br>중심체온 감시 시 38.3~38.8℃에서 냉각 중단<br>응급 이송 연계"]
     D --->|아니오 또는 불확실| F["저혈당·EAH·발작·감염·중독 등 감별<br>열사병 가능성이 남으면 냉각 지연 금지"]
     E ---> X["열사병과 EAH 동반 가능<br>과수분·저Na 단서 시 수액 부하 회피<br>중증 EAH는 고장성 식염수 응급 처치"]
     F ---> X
@@ -127,31 +128,28 @@ flowchart TD
     G --->|아니오| Y{"과다 음수·체중 증가·복부 팽만 등<br>EAH 의심 단서?"}
     Y --->|예| Z["혈청 Na와 체액상태 평가<br>추가 음수·수액을 강요하지 않음<br>악화 시 119·응급 평가"]
     Y --->|아니오| I["열원 제거·휴식·냉각<br>의식 명료·연하 안전 시 적절한 경구 수분"]
-    I ---> J{"약 15분 내 호전?"}
+    I ---> J{"어지럼·쇠약 등 급성 증상이<br>약 15분 내 호전?"}
     J --->|아니오 또는 악화| H
-    J --->|예| K["회복 상태·위험인자 확인<br>열탈진은 당일 운동·고온 작업 복귀 제한"]
+    J --->|예| K(["안전한 귀가 조건 확인·추적<br>열탈진은 당일 운동·고온 작업 복귀 제한"])
+    X ---> L(["응급실 평가·입원 연계"])
+    H ---> L
     classDef emergency fill:#ffebee,stroke:#ef5350,color:#b71c1c;
     class C,E,H,X emergency;
 ```
 
 <p align="center"><strong>열 질환 진단 및 초기 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Eifling KP, et al. WMS Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. Wilderness Environ Med. 2024;35(1 Suppl):112S-127S.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: Wilderness Environ Med. 2024;35(1 Suppl):112S-127S; Crit Care Med. 2025;53(2):e490-e500; 질병관리청·대한응급의학회. 응급실 온열질환 실무 진료지침. 2026)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **중증도별 치료 전략**
 {% endhint %}
 
-| 중증도 | 핵심 치료 | 배치 |
-| --- | --- | --- |
-| 경증 (열부종·열경련·과호흡성 손발연축·열실신) | 열원 제거, 휴식, 경구 수분 | 현장 관리; 신속 호전 시 귀가 |
-| 중등도 (열탈진) | 적극적 냉각 + 적절한 경구/필요시 IV 수분; EAH 감별 | 약 15분 내 호전 없거나 악화 시 응급실; 당일 운동·고온 작업 복귀 제한 |
-| 열손상 | 열탈진 치료 + 말단장기 손상 평가 | 응급실 평가·검사 |
-| 중증 (열사병) | 즉시 전신 냉각 + 119 + ABC | 응급실/중환자 치료. 안전한 냉각·감시 여건이 있는 운동성 열사병 현장에서는 cool first, transport second |
+<table><thead><tr><th>중증도</th><th>핵심 치료</th><th>진료 장소·거취</th></tr></thead><tbody><tr><td>경증 (열부종·열경련·과호흡 관련 손발연축·열실신)</td><td>열원 제거, 휴식, 적절한 경구 수분; 열부종은 거상</td><td>호전과 안전한 귀가 조건 확인</td></tr><tr><td>중등도 (열탈진)</td><td>냉각 + 적절한 경구/필요시 IV 수분; EAH 감별</td><td>현장 초기 처치 후 급성 증상이 약 15분 내 호전 없거나 악화하면 응급실; 당일 운동·고온 작업 복귀 제한</td></tr><tr><td>열손상</td><td>냉각·수액과 함께 표적장기 손상 평가</td><td>응급실 평가·추적검사; 장기손상에 따라 입원</td></tr><tr><td>중증 (열사병)</td><td>즉시 전신 냉각 + 119 + ABC</td><td>응급실 평가 후 입원; 중증이면 중환자실. 안전한 냉각·감시 여건이 있는 운동성 열사병 현장에서는 cool first, transport second</td></tr></tbody></table>
 
 ### <mark style="color:orange;">열부종</mark>
 
@@ -177,7 +175,7 @@ flowchart TD
 ### <mark style="color:orange;">열실신</mark>
 
 * 시원한 곳으로 옮겨 평평하게 눕히고 다리를 올림
-* 낙상에 따른 외상을 확인하고 혈당을 측정
+* 낙상에 따른 외상을 확인하고 혈당·12유도 ECG를 평가함. 안전하게 설 수 있으면 기립성 혈압·맥박 측정도 고려(질병관리청·대한응급의학회, 2026)
 * 의식이 완전히 회복되고 구토가 없으면 경구 수분을 보충
 * 운동 중 실신, 반복 실신, 흉통·심계항진 동반 또는 비전형적 양상은 부정맥 등 심장성 실신을 평가
 
@@ -185,36 +183,44 @@ flowchart TD
 
 * 활동을 즉시 중단하고 에어컨이 있는 장소 또는 그늘로 이동
 * 불필요한 의복과 장비를 제거하고 전신에 시원한 물을 적시면서 선풍기 등으로 송풍
-* 의식이 명료하고 기도 보호가 가능하며 구토가 없으면 경구 등장성 수분 보충을 우선
+* 의식이 명료하고 기도 보호가 가능하며 구토가 없으면 경구 수분·전해질 보충을 우선
 * 경구 섭취가 불가능하거나 중증 탈수가 의심되면 등장성 결정질액 정주를 고려
 * 직장 중심체온, 정신상태, 혈압 및 열사병으로의 진행 여부를 반복 평가
-* 약 15분 내 호전이 없으면 열사병·EAH·저혈당 등 감별을 재검토하고 응급실로 이송함. Red Flag 또는 악화가 있으면 이 시간을 기다리지 않음
+* 현장 초기 처치 후 약 15분 내 호전이 없으면 열사병·EAH·저혈당 등을 재평가하고 응급실로 이송함(WMS 2024). 국내 지침의 응급실 내 20\~30분 재평가 기준을 이송 대기시간으로 사용하지 않음. Red Flag 또는 악화가 있으면 즉시 대응함
 * 열탈진 후에는 중증도와 관계없이 당일 운동·고온 작업에 복귀하지 않음. 다음 날 이후에도 증상 소실과 수분 상태 회복을 확인한 뒤 단계적으로 복귀함
 
 ### <mark style="color:orange;">열손상</mark>
 
-* 일부 운동성 열질환 분류에서는 열탈진과 열사병 사이에 다음과 같은 중간 범주를 둠
-* 열탈진과 유사한 임상 양상에 횡문근융해, 급성 신손상, 간손상 또는 응고 이상 등 말단장기 손상이 동반되지만 뚜렷한 CNS 기능 이상은 없는 상태. 다만 앞서 혼돈·이상행동 등이 있었다가 냉각 후 회복되었다면 그 이유만으로 열사병을 열손상으로 낮춰 분류하지 않음
+* 일부 운동성 열질환 분류에서는 열탈진과 열사병 사이에 다음과 같은 중간 범주를 둠. 이는 모든 지침에서 독립된 진단명으로 채택한 것은 아님
+* 열탈진과 유사한 임상 양상에 횡문근융해, 급성 신손상, 간손상 또는 응고 이상 등 표적장기 손상이 동반되지만 뚜렷한 CNS 기능 이상은 없는 상태. 다만 앞서 혼돈·이상행동 등이 있었다가 냉각 후 회복되었다면 그 이유만으로 열사병을 열손상으로 낮춰 분류하지 않음
 * 단순 열탈진으로 관리하지 말고 응급실 평가와 추적검사를 시행
 
 ### <mark style="color:orange;">열사병 - 즉시 신고하고 지체 없이 냉각</mark>
 
 * 피부는 뜨겁고 건조할 수도 있으나, 특히 운동성 열사병에서는 다량의 발한이 지속될 수 있음. 고전적(비운동성) 열사병은 무한증(anhidrosis)으로 hot & dry 소견이 두드러지는 경향이 있으나, **발한 유무만으로 열사병을 배제하지 않음**
-* 119에 즉시 신고하고 ABC를 평가; 119 신고와 냉각은 가능한 동시에 진행
+* 119에 즉시 신고하고 ABC를 평가; 119 신고와 냉각은 가능한 동시에 진행. 심정지이면 흉부압박·AED를 우선하면서 가능한 냉각을 병행하고, 제세동은 환자를 물 밖으로 옮긴 뒤 시행함
 * **Cool first, transport second** 원칙은 즉시 냉수 침수와 감시가 가능한 운동성 열사병 현장에서 특히 중요함. 냉각 장비·숙련 인력·기도 보호가 확보되면 목표 중심체온까지 현장에서 신속히 냉각한 뒤 이송함. 그 여건이 없거나 ABC가 불안정하면 가능한 냉각을 즉시 시작하고 응급 이송과 병행함
 * 고전적 열사병에도 안전하게 가능한 냉수 침수 등 빠른 적극적 냉각을 적용할 수 있음(SCCM 2025). 고령·동반질환·소생술 접근성을 고려하여 방법을 선택하되 냉각 시작을 지연하지 않음
 * 생명을 위협하는 ABC 문제가 없다면 현장에서 지체 없이 전신 냉각을 시작 - 이송 준비나 정맥로 확보 때문에 냉각을 늦추지 않음
 * 운동성 열사병의 1차 냉각법은 목 아래 몸통·사지를 얼음물 또는 가능한 가장 찬물에 담그는 **전신 침수**임. 얼음을 구하거나 모든 장비를 벗기느라 냉각을 늦추지 않으며, 장비 제거는 가능한 범위에서 냉각 준비·진행과 병행함. 머리가 물에 잠기지 않게 지탱하고 환자를 혼자 두지 않음. 물을 저어 피부 주변의 따뜻한 물층을 줄임
-* 현장에서 전신 침수가 안전하고 신속하게 가능하면 즉시 시행함. 불가능하면 물 분무·전신 적심과 강한 송풍 등 가장 효과적인 가용 냉각을 즉시 시작하고 이송 중에도 지속함. 의료기관 도착 후에도 중심체온이 높으면 모니터링과 소생술 접근성을 확보한 상태에서 전신 침수 또는 가장 신속한 가용 냉각법을 계속함
-* 생명을 위협하는 고체온에서는 가능하면 **중심체온 하강 속도 0.15℃/분 이상**을 목표로 함(AHA 2025 Special Circumstances of Resuscitation: 성인 COR 2a, LOE C-LD; 소아 COR 2a, LOE C-EO). 전신 침수가 가장 빠른 냉각법임
+* 현장에서 전신 침수가 안전하고 신속하게 가능하면 즉시 시행함. 불가능하면 방수포를 이용한 냉수 냉각 또는 물 분무·전신 적심과 강한 송풍 등 가장 효과적인 가용 냉각을 즉시 시작하고 이송 중에도 지속함. 의료기관 도착 후에도 중심체온이 높으면 모니터링과 소생술 접근성을 확보한 상태에서 전신 침수 또는 가장 신속한 가용 냉각법을 계속함
+* 생명을 위협하는 고체온에서 AHA 2025는 **중심체온 하강 속도 0.15℃/분 이상**을 제시함(성인 COR 2a, LOE C-LD; 소아 COR 2a, LOE C-EO). SCCM 2025의 모범진료문은 **0.155℃/분 이상**을 달성하는 냉각법을 우선하도록 함. 전신 침수가 가장 빠른 냉각법임
 * 얼음을 사용할 때에는 목·겨드랑이·서혜부 등 소수 부위에 국한하지 말고 가능한 넓은 체표면(전신)에 적용. 화학 냉각팩을 쓸 경우 대혈관을 덮는 피부보다 뺨·손바닥·발바닥에 적용하는 것이 효과적이라는 보고도 있음
 * SCCM 2025는 증상 인지 후 **30분 이내 중심체온 ＜39℃**에 도달할 수 있는 방법을 선택하도록 제안함. 이는 초기 냉각의 속도·시간 목표이며, 아래 적극적 냉각 중단 범위와 구분함
+* 냉각 시작 10\~15분에 체온 하강을 재평가함. 약 0.08℃/분 이상 0.15℃/분 미만이면 방법을 보강하고, ＜0.08℃/분이거나 하강이 없으면 즉시 변경·병합함(국내 2026 실무 지침의 반올림 운영 기준).
 * 목·겨드랑이·서혜부의 소수 얼음주머니는 전신 침수나 전신 증발·대류 냉각보다 효과가 낮은 보조 수단이며, 이를 적용하느라 전신 냉각을 지연하지 않음
 * 가능하면 직장 중심체온을 연속 측정하며, 연속 감시가 어려워도 적절한 간격으로 반복 측정함. 중심체온이 **38.3\~38.8℃**에 도달하면 적극적 냉각을 중단하여 과도한 냉각(overshoot hypothermia)을 예방 \[WMS 2024]. AHA 2025의 중단 기준 38.6℃도 이 범위에 해당함. 중단 후에도 중심체온을 추적하고 재상승 시 재평가
 * 직장 중심체온을 측정할 수 없더라도 고온 노출과 CNS 이상으로 열사병이 의심되면 측정을 기다리지 않고 냉각; 떨림만을 냉각 종료 기준으로 사용하지 않음
 * 일반 응급처치 환경에서 정확한 중심체온 측정이 불가능하면 **15분 또는 신경학적 증상 해소 중 먼저 도달하는 시점까지** 전신 침수를 시행할 수 있음(AHA/Red Cross 2024). 이는 체온 감시가 어려운 응급처치의 실용적 기준이며, 의료진의 중심체온 기반 중단 기준과 구분함. 이후에도 119 지시에 따라 체온·정신상태와 냉각 필요성을 재평가하며 증상 호전만으로 병원 평가를 생략하지 않음
 * 냉각 방법, 시작 시각, 가능한 경우 최초·추적 중심체온을 구조대에 전달하고 이송 중에도 가능한 냉각을 지속(AHA/Red Cross 2024)
+* 냉수 정맥수액·체강 세척·혈관내 냉각장치·냉각담요를 일차 냉각법으로 사용하지 않으며, 준비 때문에 즉시 가능한 전신 냉각을 지연하지 않음(WMS 2024).
 * 의식장애가 있으면 경구 수분을 금함
+* 열사병으로 진단하면 입원함. 기도보호 필요·쇼크·지속 의식장애·진행성 장기손상이 있으면 중환자실 또는 전원을 조기에 상의함(질병관리청·대한응급의학회, 2026).
+
+### <mark style="color:orange;">귀가·관찰·입원 결정</mark>
+
+* 경증·열탈진의 귀가는 지속적인 증상 호전, 정상 정신상태, 안정된 활력징후, 안전한 보행·경구섭취와 의미 있는 장기손상 부재를 확인한 뒤 고려함.
+* 귀가 후 냉방·수분·관찰자·재내원 수단을 확인함. 회복이 불충분하거나 안전한 환경이 없으면 추가 관찰·입원을 고려함. 경과시간만으로 귀가를 결정하지 않음(질병관리청·대한응급의학회, 2026).
 
 {% hint style="info" %}
 **화상·일광화상 챕터와의 적용 구분**: 열화상의 흐르는 물 총 20분 냉각은 국소 조직손상 완화가 목적임. 일광화상은 시원한 물·젖은 천으로 피부 증상을 완화함. 열사병의 얼음물·냉수 전신 침수는 생명을 위협하는 중심체온을 낮추는 처치이므로 화상 피부에 얼음을 직접 대지 않는 원칙과 적용 대상이 다름. 일광화상과 열사병이 함께 있으면 ABC 안정과 신속한 전신 냉각을 우선함. (☞ [화상](206_-burn.md), [일광화상](207_-sunburn.md))
@@ -262,8 +268,8 @@ flowchart TD
 * 경증 열부종·열경련·열실신은 증상이 완전히 소실되고 원인이 교정된 뒤 단계적으로 복귀
 * 열탈진은 당일 운동·고온 작업에 복귀하지 않으며, 재발 시 기저질환과 약물을 평가함
 * 열손상 또는 열사병 후에는 증상이 없고 신체진찰과 CK, 신기능, 간기능, 전해질, 응고검사 등이 정상화된 뒤 의료진 감독하에 단계적으로 복귀
-* 운동성 열사병 후에는 초기 의료처치 종료 후 최소 7일간 운동을 중단하고 장기 기능과 회복 상태를 재평가함(ACSM 2023). 이후 의료진 허용하에 서늘한 환경의 저강도·짧은 활동부터 시작하여 시간·강도·고온 노출·보호구를 단계적으로 늘림. 최소 휴식기간 경과나 정상 체온만으로 복귀를 허용하지 않음
-* 회복 중 증상이 재발하거나 복귀 단계를 진행하지 못하면 스포츠의학·직업환경의학 등 관련 전문가 평가를 고려함. 필요 시 열내성검사(heat tolerance testing)를 선택하되 정상 검사 하나로 안전한 복귀를 보장하지 않음
+* 운동성 열사병 후에는 초기 의료처치 종료 후 최소 7일간 운동을 중단하고 장기 기능과 회복 상태를 재평가함(ACSM 2023). 이후 의료진 허용하에 서늘한 환경의 저강도·짧은 활동부터 시작하여 보통 2\~4주에 걸쳐 시간·강도·고온 노출·보호구를 단계적으로 늘림. 최소 휴식기간 경과나 정상 체온만으로 복귀를 허용하지 않음
+* 회복 중 증상이 재발하거나 복귀 단계를 진행하지 못하면 스포츠의학·직업환경의학 등 관련 전문가 평가를 고려함. 특히 4\~6주 내 고강도 활동·고온 적응을 회복하지 못하면 재평가함(ACSM 2023). 필요 시 열내성검사(heat tolerance testing)를 선택하되 정상 검사 하나로 안전한 복귀를 보장하지 않음
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -288,7 +294,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 T67 열 및 빛의 영향
 
@@ -312,6 +318,9 @@ T67.8 열 및 빛의 기타 영향
 
 T67.9 열 및 빛의 상세불명의 영향
 
+* T67은 상위 분류임. 실제 진단에 맞는 T67.0\~T67.9 세부 코드를 사용함.
+* 임상적으로 모호한 ‘일사병’ 용어는 피하되, T67.0의 공식 분류명 ‘열사병 및 일사병’은 그대로 유지함.
+
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
@@ -320,6 +329,7 @@ T67.9 열 및 빛의 상세불명의 영향
 >
 > * 이뇨제, 혈압약(ACE 억제제/ARB), 항콜린제, 1세대 항히스타민제, 항정신병제 등을 복용 중인 환자는 폭염 시 임의로 중단하지 않고 의료진과 상의하여 수분 섭취·활동량·용량 조정 계획을 세움.
 > * 다약제 복용 고령자는 열 발산·갈증 인지·신장 배설 능력이 함께 저하될 수 있어 특히 주의가 필요함.
+> * 약을 고온의 차 안에 두지 않음. Insulin 등 온도에 민감한 약과 흡입기·자가주사기는 제품별 보관조건을 확인하고 정전 시 보관 계획도 세움.
 
 > **해열제는 열사병에 사용하지 않음**
 >
@@ -338,6 +348,30 @@ T67.9 열 및 빛의 상세불명의 영향
 > * 혼돈, 이상행동, 경련, 의식저하가 나타나는 경우 - 즉시 119
 > * 갈색뇨, 심한 근육통, 소변량 감소가 나타나는 경우
 > * 열탈진·열손상·열사병을 겪은 뒤 활동 복귀 시점을 확인하고 싶은 경우
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### 임상 근거
+
+* 질병관리청·대한응급의학회. [응급실 온열질환 실무 진료지침](https://kdca.go.kr/bbs/kdca/55/309740/download.do). 2026.9. 국내 응급실 적용을 위한 근거참조형 실무 지침이며 독자적인 GRADE 평가를 거친 지침은 아님.
+* 질병관리청. [온열질환 응급실감시체계 개요](https://www.kdca.go.kr/kdca/3381/subview.do); [2026년 온열질환 응급실감시체계 운영 결과](https://www.kdca.go.kr/kdca/2847/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQxJTJGMzEyODk4JTJGYXJ0Y2xWaWV3LmRvJTNGcGFzc3dvcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNmZpbmRPcG53cmQlM0QlMjZmaW5kV29yZCUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2ZmluZFR5cGUlM0QlMjZmaW5kQ2xTZXElM0QlMjZwYWdlJTNEMSUyNg%3D%3D). 2026-10-12.
+* Eifling KP, et al. [Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update](https://doi.org/10.1177/10806032241227924). Wilderness Environ Med. 2024;35(1 Suppl):112S–127S.
+* WMS. [Heat Illness CPG Summary](https://wms.org/magazine/1540/Heat-Illness-CPG/default.aspx). 초기 처치 후 15분 내 호전이 없을 때 재평가·응급 이송 참고.
+* Barletta JF, et al. [Society of Critical Care Medicine Guideline for the Treatment of Heat Stroke](https://www.sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke). Crit Care Med. 2025;53(2):e490–e500.
+* AHA. [Adult and Pediatric Special Circumstances of Resuscitation: Hyperthermia](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation). 2025. 성인·소아 권고의 근거 수준을 구분함.
+* AHA/American Red Cross. [Guidelines for First Aid](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines). 2024. 일반 응급처치 환경의 침수 시간과 의료진의 중심체온 기반 중단 기준을 구분함.
+* Bennett BL, et al. [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://doi.org/10.1016/j.wem.2019.11.003). Wilderness Environ Med. 2020;31(1):50–62. 중증 EAH의 고장성 식염수 bolus 및 초기 Na 교정 목표 참고.
+* Roberts WO, et al. [ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity](https://doi.org/10.1249/JSR.0000000000001058). Curr Sports Med Rep. 2023;22(4):134–149.
+* Casa DJ, et al. [NATA Position Statement: Exertional Heat Illnesses](https://pmc.ncbi.nlm.nih.gov/articles/PMC4639891/). J Athl Train. 2015;50(9):986–1000. 열탈진 당일 활동 복귀 제한 참고.
+* CDC. [Heat and Medications – Guidance for Clinicians](https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html). 2025-09-18. 약물별 위험과 폭염 시 개별 복약 계획 참고.
+* CDC/NIOSH. [Workplace Recommendations](https://www.cdc.gov/niosh/heat-stress/recommendations/index.html). 2026-07-16. 작업자 열 순화·수분·휴식 계획 참고.
+* OSHA. [Heat – Water. Rest. Shade](https://www.osha.gov/heat-exposure/water-rest-shade). 장시간 고온 작업 중 전해질 함유 음료 접근성 참고.
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 처방 시 최신 품목정보/급여기준 조회. 고장성 염화나트륨주사제의 제품별 허가농도·희석법·공급 상태를 확인하며, 고농도 농축액을 3% 제제와 혼동하여 직접 bolus 투여하지 않음. 본문의 3% 식염수 bolus는 임상지침에 따른 성인 EAH 응급 용법이며 모든 제품의 허가·급여 또는 소아 용법을 일괄 의미하지 않음.
 
 ***
 
@@ -368,33 +402,13 @@ T67.9 열 및 빛의 상세불명의 영향
 
 * 열사병에는 타이레놀(acetaminophen), ibuprofen, aspirin 같은 해열제가 효과가 없으며 오히려 장기 손상을 악화시킬 수 있습니다.
 * 폭염 때 복용약을 임의로 중단하지 마십시오. 이뇨제·혈압약·정신신경계 약물을 복용 중이면 의료진과 수분 및 복약 계획을 상의하십시오.
+* 약과 흡입기·자가주사기를 뜨거운 차 안에 두지 말고 제품별 보관방법을 지키십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 더위 속에서 말이 어눌해지거나 행동이 이상하고, 비틀거리거나 의식이 떨어지면 **체온 수치와 관계없이 즉시 119에 신고**하고 몸을 식히십시오.
-* 도움을 줄 사람이 기도를 보호하고 머리를 물 밖에 계속 지탱할 수 있으면 목 아래 전신을 찬물에 담그십시오. 얼음을 구하거나 모든 장비를 벗기느라 냉각을 늦추지 마십시오. 옷·장비 제거는 가능한 범위에서 냉각과 함께 진행하십시오. 환자를 혼자 두지 마십시오. 안전한 침수가 어렵다면 몸 전체를 물로 적시면서 선풍기나 부채로 강하게 바람을 보내십시오. 정상적으로 숨 쉬지 않으면 119 지시에 따라 심폐소생술과 자동심장충격기 사용을 우선하십시오.
+* 도움을 줄 사람이 기도를 보호하고 머리를 물 밖에 계속 지탱할 수 있으면 목 아래 전신을 찬물에 담그십시오. 얼음을 구하거나 모든 장비를 벗기느라 냉각을 늦추지 마십시오. 옷·장비 제거는 가능한 범위에서 냉각과 함께 진행하십시오. 환자를 혼자 두지 마십시오. 안전한 침수가 어렵다면 몸 전체를 물로 적시면서 선풍기나 부채로 강하게 바람을 보내십시오. 중심체온을 잴 수 없다면 침수는 15분 또는 의식·행동 이상이 풀릴 때 중 먼저 도달하는 시점까지 시행하고, 이후에는 119의 지시에 따르십시오. 증상이 좋아져도 병원 평가를 받아야 합니다. 정상적으로 숨 쉬지 않으면 119 지시에 따라 심폐소생술과 자동심장충격기 사용을 우선하십시오.
 * 의식이 흐리거나 구토하는 사람에게 물이나 약을 먹이지 마십시오.
 * **소변 색이 콜라처럼 진해지거나(갈색뇨) 소변량이 크게 줄고, 근육통이 심하면** 신장·근육 손상 가능성이 있으므로 반드시 병원에서 확인해야 합니다.
 
 ***
-
-## 참고자료
-
-### 임상 근거
-
-* 질병관리청. [2026년 온열질환 예방 건강수칙·자료실](https://health.kdca.go.kr/healthhazard/clmtInfo/clmtRecsRoom?tab=clmtPlan); [폭염대비 온열질환 발생 감시 시작](https://kdca.go.kr/bbs/kdca/42/306957/download.do). 2026-05-14. 감시 기간 2026-05-15\~09-30 확인.
-* Eifling KP, et al. [Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update](https://doi.org/10.1177/10806032241227924). Wilderness Environ Med. 2024;35(1 Suppl):112S–127S.
-* WMS. [Heat Illness CPG Summary](https://wms.org/magazine/magazine/1540/Heat-Illness-CPG/default.aspx). 초기 처치 후 15분 내 호전이 없을 때 재평가·응급 이송 참고.
-* Barletta JF, et al. [Society of Critical Care Medicine Guideline for the Treatment of Heat Stroke](https://www.sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke). Crit Care Med. 2025;53(2):e490–e500.
-* AHA. [Adult and Pediatric Special Circumstances of Resuscitation: Hyperthermia](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation). 2025. 성인·소아 권고의 근거 수준을 구분함.
-* AHA/American Red Cross. [Guidelines for First Aid](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines). 2024. 일반 응급처치 환경의 침수 시간과 의료진의 중심체온 기반 중단 기준을 구분함.
-* Bennett BL, et al. [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://doi.org/10.1016/j.wem.2019.11.003). 2020 출판. 중증 EAH의 고장성 식염수 bolus 및 초기 Na 교정 목표 참고.
-* Roberts WO, et al. [ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity](https://doi.org/10.1249/JSR.0000000000001058). Curr Sports Med Rep. 2023;22(4):134–149.
-* Casa DJ, et al. [NATA Position Statement: Exertional Heat Illnesses](https://pmc.ncbi.nlm.nih.gov/articles/PMC4639891/). J Athl Train. 2015;50(9):986–1000. 열탈진 당일 활동 복귀 제한 참고.
-* CDC. [Heat and Medications – Guidance for Clinicians](https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html). 2025-09-18. 약물별 위험과 폭염 시 개별 복약 계획 참고.
-* CDC/NIOSH. [Workplace Recommendations](https://www.cdc.gov/niosh/heat-stress/recommendations/index.html). 2026-07-16. 작업자 열 순화·수분·휴식 계획 참고.
-* OSHA. [Heat – Water. Rest. Shade](https://www.osha.gov/heat-exposure/water-rest-shade). 장시간 고온 작업 중 전해질 함유 음료 접근성 참고.
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/). 고장성 염화나트륨주사제의 제품별 허가농도·희석법·공급 상태를 처방 시 확인함. 본문의 3% 식염수 bolus는 임상지침에 따른 성인 EAH 응급 용법이며 모든 제품의 허가·급여 또는 소아 용법을 일괄 의미하지 않음.
