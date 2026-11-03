@@ -271,7 +271,7 @@ style MDT fill:#fdebd0,stroke:#e67e22
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="danger" %}
-**Fluoroquinolone 사용 시 주의** : Ciprofloxacin·levofloxacin은 감수성 세균성 전립선염의 주요 선택지이나 건염·건 파열, 말초신경병증, 중추신경계 이상, 중증 근무력증 악화, 혈당 이상·QT 연장 및 대동맥류/박리 관련 경고를 확인. 고령·신장애·스테로이드 병용·대동맥질환은 대체제 필요성을 특히 평가. **Ciprofloxacin과 tizanidine·ketoprofen/dexketoprofen은 병용 금기**이므로 골반통·근육통 약제를 함께 확인 <mark style="color:$info;">[식약처 허가사항·DUR]</mark>
+**Fluoroquinolone 사용 시 주의** : Ciprofloxacin·levofloxacin은 감수성 세균성 전립선염의 주요 선택지이나 건염·건 파열, 말초신경병증, 중추신경계 이상, 중증 근무력증 악화, 혈당 이상·QT 연장 및 대동맥류/박리 관련 경고를 확인. 고령·신장애·스테로이드 병용·대동맥질환은 대체제 필요성을 특히 평가. **Ciprofloxacin과 tizanidine·ketoprofen/dexketoprofen은 병용 금기**이므로 골반통·근육통 약제를 함께 확인. Duloxetine도 경구·전신 ciprofloxacin의 CYP1A2 억제로 노출이 증가할 수 있으므로 병용을 피하고 항생제 대안을 검토함(001 참조) <mark style="color:$info;">[식약처 허가사항·DUR]</mark>
 {% endhint %}
 
 {% hint style="danger" %}
@@ -357,9 +357,9 @@ style MDT fill:#fdebd0,stroke:#e67e22
 **통증**
 
 * NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용 (☞ [통증](../220_/001_-pain.md))
-* 작열통·이질통·감각 이상 및 신경해부학적 분포 등을 평가하여 신경병증성 통증 약제를 선택적으로 고려. 통증이 심하거나 진찰 소견에 비해 크다는 이유만으로 신경병증으로 단정하지 않음. Duloxetine 등 SNRI 사용은 일반 신경병증성 통증 근거를 외삽한 것으로 CP/CPPS에서 확립된 우선약은 아님 <mark style="color:$info;">[AUA 2025; EAU 만성 골반통 2026]</mark>
+* 작열통·이질통·감각 이상 및 신경해부학적 분포 등을 평가하여 신경병증성 통증 약제를 선택적으로 고려. 통증이 심하거나 진찰 소견에 비해 크다는 이유만으로 신경병증으로 단정하지 않음. Duloxetine 등 SNRI 사용은 일반 신경병증성 통증 근거를 외삽한 것으로 CP/CPPS에서 확립된 우선약은 아님. 선택 시 간질환, CrCl ＜30 ㎖/min·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 및 MAOI 병용 등 국내 제품 금기를 먼저 확인하며, 경구·전신 ciprofloxacin 병용을 피함(001 참조) <mark style="color:$info;">[AUA 2025; EAU 만성 골반통 2026]</mark>
   * gabapentinoids : gabapentin 100\~300 ㎎ 취침 시부터 내약성에 따라 분할·증량 <mark style="color:blue;">[뉴론틴]</mark>; pregabalin 75 ㎎ bid 등 저용량부터 개별 조정 <mark style="color:blue;">[리리카]</mark>. 고령·신장애는 더 낮게 시작하고 CrCl별 용량 조정. **CP/CPPS 목적은 허가 외 사용**이며 국내 개별 신경병증성 통증 적응증·급여와 구분
-  * TCA : nortriptyline 10 ㎎ 취침 시 <mark style="color:blue;">\[센시발]</mark> 또는 amitriptyline 10 ㎎ 취침 시부터 점차 증량. 센시발은 nortriptyline 제제이며 CP/CPPS 목적 TCA 처방은 허가 외 사용임. 항콜린성 배뇨곤란·요폐, 진정·기립저혈압·QT 연장 위험을 평가하며 배뇨 증상만 있는 환자에게 통상 병용하지 않음
+  * TCA : nortriptyline 10 ㎎ 취침 시 <mark style="color:blue;">\[센시발]</mark> 또는 amitriptyline 10 ㎎ 취침 시부터 점차 증량. 센시발은 nortriptyline 제제이며 CP/CPPS 목적 TCA 처방은 허가 외 사용임. 항콜린성 배뇨곤란·요폐, 진정·기립저혈압·QT 연장 위험을 평가하며 배뇨 증상만 있는 환자에게 통상 병용하지 않음. 국내 amitriptyline(에트라빌)은 전립선비대 등 배뇨장애·녹내장·부정맥 등에서 투여 금기이므로 단순 주의·관찰로 대체하지 않음. CP/CPPS 자체를 일률적 금기로 보는 것은 아니며 동반 질환과 제품별 금기를 구분하고, nortriptyline에는 해당 제품의 허가사항을 별도 적용(001 참조)
   * Pregabalin은 CP/CPPS 무작위시험에서 1차 평가변수(6주 NIH-CPSI ≥6점 감소)를 충족하지 못함. 모든 CP/CPPS 환자의 표준 진통제로 사용하지 않으며, gabapentinoid는 선택적 시험 투여 후 효과·졸림·부종을 평가하고 신기능에 맞춰 조정. 국내 pregabalin의 성인 신경병증성 통증 적응증과 CP/CPPS 진단 자체를 동일시하지 않음 <mark style="color:$info;">[Pontari 등 2010; AUA 2025; EAU 2026]</mark>
 * PDE5 억제제 : 발기부전 동반 여부와 무관하게 tadalafil 5 ㎎ qd <mark style="color:blue;">\[시알리스]</mark>를 고려 가능(AUA 조건부 권고, 근거 B). **CP/CPPS 증상 개선 목적은 국내 허가 외 사용**이며, 국내 ED·BPH 적응증과 구분. 질산염·riociguat 병용 금기 및 α-차단제 병용 시 저혈압 위험 확인 <mark style="color:$info;">[AUA 2025]</mark>
 * Phytotherapeutics : saw palmetto·quercetin·pollen extract를 보조적으로 고려 가능(AUA 조건부 권고, 근거 B). 연구에 사용한 추출물·표준화 제형의 결과를 성분·함량이 다른 국내 건강기능식품 전체에 일반화하지 않음 <mark style="color:$info;">[AUA 2025]</mark>
