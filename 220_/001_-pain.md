@@ -219,7 +219,7 @@ flowchart TD
   * 일부 만성 통증에서는 신경계의 통증 처리 변화가 통증의 지속과 증폭에 관여할 수 있음을 설명(모든 만성 통증이 이에 해당하는 것은 아님) - 통증이 곧 진행 중인 조직 손상을 의미하지는 않는다는 점을 이해시킴
   * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 
-<table><thead><tr><th width="322">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing*)</td><td>'절대안정'으로 오히려 악화될 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="350">Hurt (아픈 느낌)</th><th width="373">Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing*)</td><td>'절대안정'으로 오히려 악화될 수 있음</td></tr></tbody></table>
 
 _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴_
 
@@ -264,7 +264,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 
 **위험인자별 NSAID 선택**
 
-<table><thead><tr><th width="144">위험인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>확립된 심혈관질환·심부전에서는 경구 NSAID 회피 우선. 위험인자만 있고 경구제가 불가피하면 naproxen을 상대적으로 고려하되 GI·신장·CV 위험은 남음. 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
+<table><thead><tr><th width="144">위험인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>확립된 심혈관질환·심부전에서는 경구 NSAID 회피 우선. 위험인자만 있고 경구제가 불가피하면 naproxen을 상대적으로 고려하되 GI·신장·CV 위험은 남음. 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
 
 **침해수용성 통증**
 
@@ -312,8 +312,8 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 * 대상 : 비염증성 통증
   * 엉덩이/무릎 관절염에 대해서는 지속 효과가 짧으며, 요통에 대해서는 효과가 적음
 * 주의 : 간/신 장애, 알코올 남용
-  * 출혈경향은 수록 국내 제품 허가상 신중 투여 대상이므로 개별 평가하며, NSAID와 동일한 혈소판 억제 위험으로 설명하지 않음
-  * aspirin/NSAID 과민반응 환자에서는 고용량 acetaminophen에서도 교차반응 가능; aspirin 천식 또는 그 병력은 수록 국내 제품의 투여 금기와 구분하여 적용
+  * 출혈경향은 수록 신중 투여 대상이므로 개별 평가하며, NSAID와 동일한 혈소판 억제 위험으로 설명하지 않음
+  * aspirin/NSAID 과민반응 환자에서는 고용량 acetaminophen에서도 교차반응 가능; aspirin 천식 또는 그 병력은 수록 각 제품의 투여 금기와 구분하여 적용
 * 부작용 : 발진, 간/신 독성
   * 드물게 AGEP·SJS/TEN·DRESS 등 중증 피부반응이 보고됨. 피부발진이나 과민반응 징후가 생기면 즉시 복용을 중단하고 평가함
   * 글루타치온 보유량이 낮은 상태에서 주의하며, 고음이온차 대사성 산증(HAGMA)도 보고됨. 특히 flucloxacillin 병용 및 패혈증·영양불량 등 위험요인을 확인하고, 반복 투여 중 원인 불명의 대사성 산증이 나타나면 약물 관련성을 평가하여 의심 약물을 중단함(203 참조)
@@ -321,11 +321,11 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
   * 통상 용량에서 NSAID보다 위장관 궤양·출혈 위험이 낮음. 고혈압 환자에서 4 g/d를 2주간 투여한 PATH-BP 무작위시험에서는 위약 대비 수축기혈압이 약 5 ㎜Hg 상승함; 반복적인 고용량 사용 시 혈압에 유의하며 단기간의 간헐적 사용에 같은 결과를 그대로 적용하지 않음 <mark style="color:$info;">\[PATH-BP 2022]</mark>
 * 약물 상호 작용 : warfarin(INR 상승; 아래 참조), flucloxacillin(HAGMA 위험; 위 참조), isoniazid, CYP450 대사 약물
 * Warfarin 병용 : 수일 이상 규칙적으로 복용하면 INR 상승 가능성이 있어 INR을 확인하고 필요 시 추적 간격을 조정; 특히 2 g/d 이상 반복 투여 시 유의 <mark style="color:$info;">\[Zhang et al., Eur J Clin Pharmacol 2011]</mark>
-* 국내 수록 제품의 주요 금기 : 소화성궤양, 심한 혈액이상·심한 간장애·심한 신장애·심한 심장기능저하, aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용 환자 등. <mark style="color:blue;">\[타이레놀정500㎎·타이레놀8시간이알서방정]</mark>과 <mark style="color:blue;">\[세토펜현탁액]</mark>의 해당 금기를 일반적인 감량·신중 투여와 구분함
-* 만성콩팥병·투석 환자 : 임상 지침에는 acetaminophen을 우선 고려하거나 투여간격을 조정하는 권고가 있으나, 국내 수록 타이레놀 제품 등의 심한 신장애 금기와 구분함. 해당 금기 품목을 단순 감량하여 사용하는 것으로 안내하지 않으며, 신장내과와 실제 사용할 품목·제형·허가사항 및 치료 계획을 확인함(112 참조)
+* 요 금기 : 소화성궤양, 심한 혈액이상·심한 간장애·심한 신장애·심한 심장기능저하, aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용 환자 등. <mark style="color:blue;">\[타이레놀정500㎎·타이레놀8시간이알서방정]</mark>과 <mark style="color:blue;">\[세토펜현탁액]</mark>의 해당 금기를 일반적인 감량·신중 투여와 구분
+* 만성콩팥병·투석 환자 : 임상 지침에는 acetaminophen을 우선 고려하거나 투여간격을 조정하는 권고가 있으나, 국내 발매 타이레놀 허가상의 심한 신장애 금기와 구분 - 해당 금기 품목을 단순 감량하여 사용하는 것으로 안내하지 않으며, 신장내과와 실제 사용할 품목·제형·허가사항 및 치료 계획을 확인(☞ [만성콩팥병](../227_/112_-chronic-kidney-disease-ckd.md))
 * 성인 속방형 : 500\~650 ㎎ q4\~6h PRN 또는 1,000 ㎎ q6h PRN; 모든 acetaminophen 함유 제품을 합산하여 일반 성인의 허용 최대 4 g/d. 반복·장기 사용에서는 3 g/d 이하를 보수적으로 권장
   * 고령·쇠약·저체중·영양불량·지속적인 과음 등에서는 위험요인의 정도·체중·사용기간에 따라 감량; 고령 또는 신기능 저하만을 이유로 일률적인 2 g/d 상한을 적용하지 않음
-  * 간경변에서는 임상 지침상 통상 최대 2 g/d 범위로 제한. 단, 심한 간장애·심한 신장애는 수록 국내 제품의 투여 금기이므로 감량 사용과 구분 <mark style="color:$info;">\[AASLD 2022]</mark>
+  * 간경변에서는 임상 지침상 통상 최대 2 g/d 범위로 제한. 단, 심한 간장애·심한 신장애는 투여 금기이므로 감량 사용과 구분 <mark style="color:$info;">\[AASLD 2022]</mark>
   * 서방형 : 12세 이상에서 650 ㎎ × 2정 q8h PRN; 24시간 최대 6정(3,900 ㎎) <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>; 씹거나 쪼개거나 분쇄하지 말고 그대로 삼킴. 2정씩 1일 3회는 3,900 ㎎이므로 3 g/d 이하로 제한하려는 환자에게는 맞지 않음
   * 감기약·두통약·수면제 등에도 포함된 경우가 많으므로 주의 - 누적 용량으로 계산
 
@@ -360,7 +360,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 * 작용 : 약한 opioid, SNRI action
 * 대사 : CYP 2D6(major), 3A4(minor)
 * 발작 역치 저하·세로토닌 증후군 주의; 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
-  * 경도–중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 트리돌캡슐의 국내 허가상 금기이므로 감량 투여와 구분함
+  * 경도–중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 트리돌캡슐의 금기이므로 감량 투여와 구분함
   * MAOI 병용 및 중단 후 14일 이내 투여는 금기. 파킨슨병의 MAO-B 억제제(selegiline·rasagiline·safinamide)도 포함함(035 참조)
   * SSRI, SNRI, TCA 등 다른 serotonergic 약물 병용 시 serotonin syndrome 및 발작 위험 증가
   * Bupropion(금연약 포함)은 발작 역치를 낮추고 CYP2D6를 억제하여 tramadol 노출을 높이는 반면 활성대사체 M1 생성을 줄일 수 있음. 진통 효과 저하와 발작 등 이상반응 위험을 함께 평가하고 대체 진통제를 우선 검토함. 병용 또는 bupropion 중단이 필요한 경우 용량·반응·호흡 및 진정 상태를 재평가함(190 참조)
@@ -369,7 +369,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">\[트리돌]</mark>
 * acetaminophen 또는 NSAID 병용으로 효과 상승
   * <mark style="color:blue;">\[울트라셋]</mark> (acetaminophen 복합제)
-  * <mark style="color:blue;">\[Seglentis]</mark> (celecoxib 복합제; 국내 미발매)
+  * <mark style="color:blue;">\[Seglentis]</mark> (celecoxib 복합제; 미발매)
 
 - [ ] Tramadol은 "약한 opioid"로 분류되지만 중독·의존, 과다 복용 및 호흡억제 위험이 있어 다른 opioid와 마찬가지로 주의가 필요함. 현재 우리나라에서는 마약류 관리에 관한 법률상 마약류로 분류되지 않은 전문의약품임
 
@@ -377,7 +377,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 
 * 국내 사용 제한적 (CYP2D6 다형성으로 효과 예측 어려움)
 * CYP2D6 초고속 대사자에서는 모르핀 생성 증가로 중증·치명적 호흡억제 위험이 있음; 알려진 초고속 대사자에는 투여하지 않음
-* 소아 연령 제한은 품목별 허가를 구분하여 적용. 마이폴캡슐은 국내 허가상 **12세 이하 투여 금기**이며, 13\~18세는 acetaminophen·ibuprofen 등 다른 진통제로 경감되지 않는 염증성 급성 중등도 통증에만 최대 3일 사용
+* 소아 연령 제한은 품목별 허가를 구분하여 적용. 마이폴캡슐은 12세 이하 투여 금기이며, 13\~18세는 acetaminophen·ibuprofen 등 다른 진통제로 경감되지 않는 염증성 급성 중등도 통증에만 최대 3일 사용
   * 마이폴은 수유부 및 폐쇄성 수면무호흡증 치료를 위한 편도·아데노이드 절제술을 받은 18세 이하 환자에 투여 금기; 18세 미만의 비만·폐쇄성 수면무호흡증·중증 폐질환 환자에서는 회피
 * 용법 : 성인 1회 20 ㎎, 1일 3회; 필요시 최소 6시간 간격으로 1일 4회까지, 최대 240 ㎎/d <mark style="color:blue;">\[인산코데인]</mark>
 * 복합제 : 코데인인산염수화물 10 ㎎ + ibuprofen 200 ㎎ + acetaminophen 250 ㎎ <mark style="color:blue;">\[마이폴]</mark>
@@ -426,34 +426,33 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 
 ```mermaid
 flowchart TD
-    A([비암성 통증 - Opioid 고려?]) --> B[시작 전 다음 사항 \n확인 필수]
-    B --> B1[·비약물 + \nnon-opioid 치료 실패\n·기능 저하 명확 ADL/work\n·통증 유형 재확인]
+    A[비암성 통증 - Opioid 고려?] --> B[시작 전 다음 사항 <br/>확인 필수]
+    B --> B1[·비약물 + <br/>non-opioid 치료 실패<br/>·기능 저하 명확 ADL/work<br/>·통증 유형 재확인]
     B --> B2[고위험인자]
-    B2 --> BH[·OUD 병력/BZD 사용\n·수면무호흡/\n고령·낙상 위험\n·간·신기능 저하]
-    BH -->|HIGH RISK| C[회피 또는 \n전문의 의뢰]
-    B1 & B2 -->|통과| D[·치료 목표 문서화\n·임상적으로 \n의미 있는 통증 감소\n·기능 개선 구체화\n·실패 시 중단 계획]
-    D --> E[초기 처방\nIR 제제만 사용\n예시: 5~10 MME/회\n또는 20~30 MME/d]
+    B2 --> BH[·OUD 병력/BZD 사용<br/>·수면무호흡/<br/>고령·낙상 위험<br/>·간·신기능 저하]
+    BH -->|HIGH RISK| C[회피 또는 <br/>전문의 의뢰]
+    B1 & B2 -->|통과| D[·치료 목표 문서화<br/>·임상적으로 <br/>의미 있는 통증 감소<br/>·기능 개선 구체화<br/>·실패 시 중단 계획]
+    D --> E[초기 처방<br/>IR 제제만 사용<br/>예시: 5~10 MME/회<br/>또는 20~30 MME/d]
     E --> F[MME 및 위험도 확인]
-    F --> F1["&lt; 50 MME/d \n→ 최소 유효 용량 \n유지"]
-    F --> F2["≥ 50 MME/d 고려 \n→ 증량 전 \n이득·위험 재평가"]
-    F --> F3["≥ 90 MME/d \n→ 강력한 근거·모니터링 \n없이는 지양"]
+    F --> F1["&lt; 50 MME/d <br/>→ 최소 유효 용량 <br/>유지"]
+    F --> F2["≥ 50 MME/d 고려 <br/>→ 증량 전 <br/>이득·위험 재평가"]
+    F --> F3["≥ 90 MME/d <br/>→ 강력한 근거·모니터링 <br/>없이는 지양"]
     F1 & F2 & F3 --> G[1~4주 후 재평가]
     G --> H[반응 평가]
     H -->|Good| I[유지 또는 Taper 고려]
-    H -->|Partial| J["기능·부작용·오남용 위험 재평가\n→비약물·비마약성 최적화\n→이득&gt;위험 시에만 최소폭 증량"]
+    H -->|Partial| J["기능·부작용·오남용 위험 <br/>재평가<br/>→ 비약물·비마약성 최적화<br/>→ 위험보다 이득이 큰 경우 <br/>최소폭 증량"]
     H -->|No response| K[중단 또는 계열 전환]
     E --> L[Naloxone 제공 고려?]
-    L --> L1[·≥50 MME/day\n·호흡기 질환\n·BZD/gabapentinoid 병용\n·과거 overdose]
+    L --> L1[·≥50 MME/day<br/>·호흡기 질환<br/>·BZD/gabapentinoid 병용<br/>·과거 overdose]
     L1 --> M[Naloxone 제공/처방 고려]
-    I --> N[장기 사용 종료 → Tapering\n예시 schedule - 환자별 조절]
-    N --> N1["예시(환자 상태·복용기간·목표에\n따라 개별화; 고정 공식 아님)\n·장기 복용: 월 10% 또는 더 느리게\n·단기 복용: 상대적으로 빠르게\n(중간에 멈추거나 늦출 수 있음)"]
-    N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
+    I --> N[장기 사용 종료 → Tapering<br/>예시 schedule - 환자별 조절]
+    N --> N1["예시(환자 상태·복용기간<br/>·목표에 따라 개별화)<br/>·장기 복용: 월 10% 또는 <br/>더 느리게<br/>·단기 복용: 상대적으로 <br/>빠르게 (중간에 멈추거나 <br/>늦출 수 있음)"]
+    N1 --> O[주의: Abrupt stop 금지<br/> Rapid taper 금지]
     style C fill:#f96,stroke:#e65100
     style O fill:#f96,stroke:#e65100
     style M fill:#e8f5e9,stroke:#388e3c
 classDef yellow fill:#fff59d,stroke:#f9a825,stroke-width:2px
 class B,B1,B2,F,H,L,N yellow
-
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
@@ -506,7 +505,7 @@ class B,B1,B2,F,H,L,N yellow
 * 추가 위험 요인(CNS depressant 병용에 따른 호흡 억제 위험 증가)
   * gabapentinoid 병용
 
-- [ ] 국내 naloxone 비강 스프레이의 일반 외래 가용성·공급 방식은 시점에 따라 확인이 필요함. 고위험 환자에서는 국내에서 실제 이용 가능한 제형과 접근 경로를 확인하여 naloxone 제공을 고려
+- [ ] 국내 naloxone 비강 스프레이의 일반 외래 가용성·공급 방식은 시점에 따라 확인이 필요함. 고위험 환자에서는 실제 이용 가능한 제형과 접근 경로를 확인하여 naloxone 제공을 고려
 
 <mark style="color:cyan;">**서방형/지속형 제제**</mark>
 
@@ -568,10 +567,10 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 대처 : 저용량으로 시작, 취침 시 복용
   * 고령 또는 심혈관질환·전도장애 위험이 있으면 제품별 금기를 먼저 확인하고, 투여 가능한 환자에서 투여 전 ECG를 고려하며 혈압/맥박을 모니터링
 * 주의 : 고령, 심질환·전도장애 위험, 심한 위장 기능 장애 등. 금기와 단순 주의를 구분하여 제품별 허가사항 확인
-* 국내 amitriptyline(에트라빌) 금기 : 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, 부정맥, 급성 섬망, 중추신경억제제·알코올 급성 중독, 대뇌손상·무과립구증, MAOI 투여 중인 환자 등. TCA 과민증 및 첨가제 관련 금기도 확인하며, 다른 TCA에는 해당 제품의 허가사항을 각각 적용(027 참조)
+* amitriptyline(에트라빌) 금기 : 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, 부정맥, 급성 섬망, 중추신경억제제·알코올 급성 중독, 대뇌손상·무과립구증, MAOI 투여 중인 환자 등. TCA 과민증 및 첨가제 관련 금기도 확인하며, 다른 TCA에는 해당 제품의 허가사항을 각각 적용(027 참조)
 * 항콜린작용이 있는 amitriptyline 등 TCA와 고형 potassium citrate 서방정(유로시트라케이)의 병용은 해당 칼륨 제제 허가상 금기임. 위장관 정체·점막 손상 위험이 있으므로 결석 예방약을 함께 확인하며, 이 제한을 모든 액상 칼륨 제제에 일률적으로 확대하지 않음(132·133 참조)
 * 용량 : 저용량으로 시작(고령에서는 ½ 용량으로 시작); 1주 간격으로 증량
-* amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 이 장에서 제시하는 통증 치료 용량의 상한 125 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>. 허가 외 통증 용량이며 약제 전체의 국내 허가 최대량을 뜻하지 않음; 우울증 용량은 027 참조
+* amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 이 장에서 제시하는 통증 치료 용량의 상한 125 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>. 허가 외 통증 용량이며 약제 전체의 허가 최대량을 뜻하지 않음; 우울증 용량은 027 참조
 * nortriptyline : 10\~25 ㎎ hs로 시작 → 1주 간격 증량, 최대 150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
 * desipramine : 항콜린 작용이 가장 적음 (국내 사용 가능 품목 확인되지 않음)
 
@@ -581,11 +580,11 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * TCA는 항콜린성·심혈관계 부작용 및 과량복용 독성을, duloxetine은 오심·혈압 상승 및 간·신기능 등을 고려하여 환자 특성에 따라 선택
   * 고령·심혈관질환 위험이 높으면 duloxetine 등 SNRI 우선 고려
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
-* 국내 duloxetine 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min) 및 투석이 필요한 말기 신질환. 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장·MAOI 병용 등도 금기이며, 다른 SNRI/SSRI에 일률 적용하지 않음
+* duloxetine 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min) 및 투석이 필요한 말기 신질환. 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장·MAOI 병용 등도 금기이며, 다른 SNRI/SSRI에 일률 적용하지 않음
   * Fluvoxamine 등 강력한 CYP1A2 저해제와 병용하지 않음. 경구·전신 ciprofloxacin도 CYP1A2를 억제하여 duloxetine 노출을 증가시킬 수 있으므로 병용을 피하고 항생제 대안을 검토(047 참조). 점안·점이제는 전신제와 구분하여 해당 제품의 허가사항 확인
 * duloxetine : 섬유근육통 및 NSAID에 반응이 적절하지 않은 골관절염 통증; 30 ㎎ qd ×1주 → 60 ㎎ qd <mark style="color:blue;">\[마이셀타]</mark>
   * 두 통증 적응증에서 60 ㎎/d 초과의 추가 이득은 확인되지 않고 이상반응이 증가함. OA 통증의 13주 초과 투여 안전성·유효성은 연구되지 않았으므로 지속 필요성을 재평가하며, 중단 시 점진 감량함
-  * 국내 허가 적응증은 NSAID에 반응이 적절하지 않은 골관절염 통증임. 급여의 관절 부위 제한 및 NSAID 금기의 인정 여부는 현행 고시 원문으로 확인하며, 무릎만 인정되거나 NSAID 금기만으로 자동 인정되는 것으로 단정하지 않음
+  * 적응증은 NSAID에 반응이 적절하지 않은 골관절염 통증임. 급여의 관절 부위 제한 및 NSAID 금기의 인정 여부는 현행 고시 원문으로 확인하며, 무릎만 인정되거나 NSAID 금기만으로 자동 인정되는 것으로 단정하지 않음
 * SSRI(fluoxetine 등)는 섬유근육통 자체의 진통 목적으로 일상적으로 권고하지 않음. 동반 우울·불안 등 별도 적응증이 있으면 해당 질환의 허가 용법에 따라 선택함(153 참조)
 * tapentadol은 opioid계 이중기전 진통제(μ-opioid agonist + norepinephrine reuptake inhibition)로, 통상적 SNRI 항우울제와는 별도로 분류함 - ☞ 아래 [Opioids > Tapentadol](001_-pain.md#tapentadol) 참조
 * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울증 상병에 투여하는 경우의 기준이며, 상병·전문과에 따라 인정 기간 조건이 다르므로 고시 원문 확인; 통증 적응증은 각 허가·급여 조건을 구분하며, FM의 상세 조건은 153을 참조함
@@ -629,8 +628,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 <table><thead><tr><th width="138">CrCl (㎖/min)</th><th width="200">Gabapentin 1일 총 투여량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥80</td><td>900~2,400 ㎎/day</td><td>3회 분할</td></tr><tr><td>50~79</td><td>600~1,800 ㎎/day</td><td>3회 분할</td></tr><tr><td>30~49</td><td>300~900 ㎎/day</td><td>3회 분할</td></tr><tr><td>15~29</td><td>150~600 ㎎/day</td><td>3회 분할*</td></tr><tr><td>&#x3C;15</td><td>150~300 ㎎/day</td><td>3회 분할*, CrCl에 비례하여 추가 감량</td></tr><tr><td>혈액투석</td><td>초기 300~400 ㎎</td><td>4시간 혈액투석 후 200~300 ㎎ 투여; 비투석일 미투여</td></tr></tbody></table>
 
 _\* 150 ㎎/d에 해당하는 경우 100 ㎎ × 3을 2일마다 투여 (뉴론틴캡슐 허가 기준)_\
-✽_위 표는 국내 뉴론틴캡슐·리리카 허가사항을 기준으로 작성함 - 처방 전 현재 허가사항 확인을 권장_\
-✽_국내 허가사항의 신기능별 용량표에는 CrCl ≥80에서 900\~2,400 ㎎/일로 기재되어 있으나, 신경병증성 통증 용법 본문에는 1일 최대 3,600 ㎎이 별도로 명시됨_
+✽_위 표는 뉴론틴캡슐·리리카 허가사항을 기준으로 작성함 - 처방 전 현재 허가사항 확인을 권장_\
+✽_허가사항의 신기능별 용량표에는 CrCl ≥80에서 900\~2,400 ㎎/일로 기재되어 있으나, 신경병증성 통증 용법 본문에는 1일 최대 3,600 ㎎이 별도로 명시됨_
 
 <table><thead><tr><th width="140">CrCl (㎖/min)</th><th width="169">Pregabalin 시작용량</th><th width="185">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 ㎎/day</td><td>600 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 ㎎/day</td><td>300 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25~50 ㎎/day</td><td>150 ㎎/day</td><td>1~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 ㎎/day</td><td>75 ㎎/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25~100 ㎎</td><td>단회 투여(혈액투석 4시간 시행 후 추가 투여)*</td><td></td></tr></tbody></table>
 
@@ -648,9 +647,9 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 대상 : 신경병증성 통증. 예) 당뇨병신경병증, 대상포진후신경통, phantom limb pain, 말초신경병증성 통증, 복합부위통증증후군
 * 일반적으로 내약성은 양호하나 어지럼, 혼란, 두통이 발생할 수 있음
 * memantine : 근거 제한적 - 일부 난치성(refractory) 통증에 off-label 고려(비급여)
-  * 5 ㎎ qd로 시작하고, 내약성을 확인하며 통상 1주 간격으로 5 ㎎/d씩 증량(5 → 10 → 15 → 20 ㎎/d); 최대 20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>. 국내 알츠하이머병 허가 용법의 점진 증량을 참고한 것으로 통증의 확립된 표준 용법을 의미하지 않으며, 전문의 판단하에 개별화함
+  * 5 ㎎ qd로 시작하고, 내약성을 확인하며 통상 1주 간격으로 5 ㎎/d씩 증량(5 → 10 → 15 → 20 ㎎/d); 최대 20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>. 알츠하이머병 허가 용법의 점진 증량을 참고한 것으로 통증의 확립된 표준 용법을 의미하지 않으며, 전문의 판단하에 개별화함
   * CrCl 30–49 ㎖/min에서는 10 ㎎/d로 감량하고 최소 7일 후 내약성이 좋으면 표준 증량법에 따라 20 ㎎/d까지 고려; CrCl 5–29 ㎖/min에서는 최대 10 ㎎/d. 편두통 예방의 제한적 허가 외 사용은 016 참조
-  * 국내 에빅사 허가상 중증 간장애 및 CrCl ＜5 ㎖/min은 투여 금기. 감량 가능한 신장애와 구분함(033 참조)
+  * 에빅사 허가상 중증 간장애 및 CrCl ＜5 ㎖/min은 투여 금기. 감량 가능한 신장애와 구분함(☞ [치매](../221_/033_-dementia.md))
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -662,8 +661,8 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 습관성·의존성·진정 부작용을 최소화하기 위해 단기 작용제 우선 선택
 * baclofen : 뇌·척수 질환에 의한 경직에 사용하는 약제로, 일반 급성 근골격계 통증의 통상 선택지가 아님; 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
   * 고령자·인지저하·신기능 저하 환자에서는 더 낮은 용량으로 시작하고 신중히 증량. 신기능 저하 시 축적에 따른 신경독성 위험이 있으며, 중증 CKD(eGFR ＜30 ㎖/min/1.73m²)·투석 환자에서는 가능한 한 회피를 고려함
-  * 장기간 사용 후에는 갑작스럽게 중단하지 않고 점진적으로 감량. 딸꾹질에 대한 사용은 국내 허가 외이며, 해당 용법·주의사항은 010 참조
-* tizanidine : 근육연축의 국내 허가 용법은 1\~2 ㎎ tid 식후 <mark style="color:blue;">\[실다루드]</mark>
+  * 장기간 사용 후에는 갑작스럽게 중단하지 않고 점진적으로 감량. 딸꾹질에 대한 사용은 허가 외이며, 해당 용법·주의사항은 [딸꾹질](010_-hiccups-singultus.md) 참조
+* tizanidine : 근육연축의 용법은 1\~2 ㎎ tid 식후 <mark style="color:blue;">\[실다루드]</mark>
   * ciprofloxacin·fluvoxamine 병용 금기(CYP1A2 억제로 노출 증가, 심한 저혈압·진정 위험); 현저한 간기능 손상 등 제품별 금기도 확인함
   * 졸음·어지럼·저혈압·서맥·간기능 이상에 주의. 016의 편두통 예방 연구 용량을 일반 근연축 용량으로 적용하지 않음
 * chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
@@ -681,12 +680,12 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 ### <mark style="color:orange;">저용량 Naltrexone (LDN)</mark>
 
-* 저용량 naltrexone(LDN) : 섬유근육통의 국내 허가 외 사용이며 routine 치료로 권고하지 않음. 초기 소규모 시험의 긍정적 신호와 달리 2024년 6 ㎎/d·12주 RCT 및 2026년 INNOVA(98명, 4.5 ㎎/d)에서 위약 대비 유의한 통증 개선 우월성을 입증하지 못함 <mark style="color:$info;">\[Due Bruun 2024; Rodríguez-Freire 2026]</mark>; 자세한 내용은 153 참조
+* 저용량 naltrexone(LDN) : 섬유근육통의 허가 외 사용이며 routine 치료로 권고하지 않음. 초기 소규모 시험의 긍정적 신호와 달리 2024년 6 ㎎/d·12주 RCT 및 2026년 INNOVA(98명, 4.5 ㎎/d)에서 위약 대비 유의한 통증 개선 우월성을 입증하지 못함 <mark style="color:$info;">\[Due Bruun 2024; Rodríguez-Freire 2026]</mark>; 자세한 내용은 153 참조
 * tramadol·codeine을 포함한 opioid와 병용하지 않음. Opioid 진통 차단 및 의존 환자의 급성 금단 유발 위험이 있으므로, 저용량이라는 이유로 병용 안전성을 가정하지 않음
-* 국내 허가 적응증 : 알코올 의존성 치료 및 외인성 아편류 효과 차단 (통증은 off-label 사용)
-* 환인날트렉손정25/50㎎은 국내 허가상 급성 간염·간부전·중증 간장애, 신장애, 고령자, 임부·임신 가능성이 있는 여성·수유부 및 소아·청소년 등에서 투여 금지임. 저용량 허가 외 사용에도 제품별 금기를 적용하며 다른 품목에는 해당 허가사항을 별도로 확인함(189 참조)
+* 허가적응증 : 알코올 의존성 치료 및 외인성 아편류 효과 차단 (통증은 off-label 사용)
+* 환인날트렉손정25/50㎎은 허가상 급성 간염·간부전·중증 간장애, 신장애, 고령자, 임부·임신 가능성이 있는 여성·수유부 및 소아·청소년 등에서 투여 금지임. 저용량 허가 외 사용에도 제품별 금기를 적용하며 다른 품목에는 해당 허가사항을 별도로 확인함(189 참조)
 * 도입 전 최근 opioid 사용·의존·금단 여부를 확인함. 단기 작용 opioid는 통상 최소 7–10일 중단 여부를 확인하고, buprenorphine·methadone 등에서 전환 시에는 더 긴 간격이 필요할 수 있으므로 전문기관과 판단함. 7–10일은 금주 기간이 아니며 환자가 진통제를 임의로 끊고 LDN을 시작하도록 안내하지 않음(189 참조)
-* Naltrexone/bupropion 복합제인 콘트라브는 다른 naltrexone·bupropion 함유제와의 병용이 국내 허가상 금기임. LDN을 사용하는 환자에게 비만약 콘트라브를 추가하지 않으며, 콘트라브의 opioid 관련 제한과 제품별 금기도 확인함(191·194 참조)
+* Naltrexone/bupropion 복합제인 콘트라브는 다른 naltrexone·bupropion 함유제와의 병용이 금기임. LDN을 사용하는 환자에게 비만약 콘트라브를 추가하지 않으며, 콘트라브의 opioid 관련 제한과 제품별 금기도 확인함(191·194 참조)
 * <mark style="color:blue;">\[환인날트렉손]</mark> 25/50 ㎎, <mark style="color:blue;">\[파마날트렉손]</mark> 50 ㎎ (저용량 분할 사용 시 off-label)
 
 ### <mark style="color:orange;">기타 국소 진통제</mark>
@@ -730,17 +729,17 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 * 궤양 위험인자가 있는 환자 : 고령(≥65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NSAID 복합 또는 고용량 투여, 스테로이드 투여
 * 심혈관 질환(MI, 뇌졸중, 정맥혈전증, 조절되지 않는 고혈압), 간/신 장애
-  * 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임; 임부·수유부, 활동성 궤양/출혈, 중증 신장애(CrCl ＜30 ㎖/min) 등 제품별 금기도 우선 적용함
+  * 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임; 임부·수유부, 활동성 궤양/출혈, 중증 신장애(CrCl ＜30 ㎖/min) 등 제품별 금기도 우선 적용함
 * aspirin/NSAID 과민반응 병력에서는 교차반응 위험; aspirin 천식 또는 그 병력은 주요 금기
-  * 부루펜정 등 일부 제품은 기관지천식 및 그 병력 전체가 국내 허가상 금기임; 제품별 금기와 일반적인 위험인자를 구분함
-  * dexibuprofen(애니펜정)은 기관지천식 또는 그 병력, 임신 6개월 이상, 크론병·궤양성대장염 등 염증성장질환, 위장관 외 부위의 출혈, 이전 NSAID 치료로 인한 위장관 출혈·천공 병력 등에서도 국내 허가상 금기임. 위장관 궤양·병력, 심한 간·신장·심장기능장애 등 공통 금기도 확인하며, ibuprofen의 임신 말기 3개월 금기와 구분함(068 참조)
+  * 부루펜정 등 일부 제품은 기관지천식 및 그 병력 전체가 금기임; 제품별 금기와 일반적인 위험인자를 구분함
+  * dexibuprofen(애니펜정)은 기관지천식 또는 그 병력, 임신 6개월 이상, 크론병·궤양성대장염 등 염증성장질환, 위장관 외 부위의 출혈, 이전 NSAID 치료로 인한 위장관 출혈·천공 병력 등에서도 금기임. 위장관 궤양·병력, 심한 간·신장·심장기능장애 등 공통 금기도 확인하며, ibuprofen의 임신 말기 3개월 금기와 구분함(068 참조)
 * 탈수·경구 섭취 저하에서는 급성 신손상 위험이 증가하므로 경구 NSAID를 피하거나 최소화하고 acetaminophen 등 대안을 고려
-* 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험 때문에 원칙적으로 회피. 국내 부루펜은 임신 말기 3개월 투여 금기; FDA의 30주 이후 회피 기준과 국내 허가 문구를 구분 <mark style="color:$info;">\[FDA NSAIDs 임신 안전성 경고]</mark>
-* 수유 중 ibuprofen은 국제 자료에서 사용 가능한 약으로 평가되지만, 국내 부루펜정은 약물 투여의 중요성을 고려하여 수유를 중단하거나 약물 투여를 중단하도록 안내함. 국내 허가와 국제 수유 안전성 평가를 구분하여 대체약·수유 계획을 결정하고, 다른 NSAID에도 제품별 제한을 확인함(200·201·203 참조)
+* 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험 때문에 원칙적으로 회피. 부루펜은 임신 말기 3개월 투여 금기; FDA의 30주 이후 회피 기준과 국내 허가 문구를 구분 <mark style="color:$info;">\[FDA NSAIDs 임신 안전성 경고]</mark>
+* 수유 중 ibuprofen은 국제 자료에서 사용 가능한 약으로 평가되지만, 부루펜정은 약물 투여의 중요성을 고려하여 수유를 중단하거나 약물 투여를 중단하도록 안내함. 허가와 국제 수유 안전성 평가를 구분하여 대체약·수유 계획을 결정하고, 다른 NSAID에도 제품별 제한을 확인함(200·201·203 참조)
 * 수두에서는 ibuprofen 사용을 피하는 것이 바람직하며, 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에서는 aspirin·ibuprofen 등 NSAID를 피함
 * 약물 상호 작용 : 항고혈압제(ACEI/이뇨제 효과↓), warfarin(INR 변화와 무관하게 위장관·전신 출혈 위험 증가), lithium, methotrexate, 저용량 aspirin(심혈관 보호 효과↓)
-  * Fluconazole은 celecoxib·ibuprofen 등 일부 NSAID의 노출을 증가시킬 수 있음. Celecoxib는 국내 허가사항에 따라 병용 시작 시 권장용량의 절반으로 투여하며, 다른 NSAID는 이상반응 감시와 필요시 감량을 개별 판단(055 참조)
-  * Ciprofloxacin–ketoprofen은 국내 DUR 병용 금기 조합임. 경구·주사 ketoprofen을 포함한 기존 진통제 사용을 확인하고 병용을 피함(047 참조). 피부 외용제와 점안·점이제는 제품·제형별 허가사항과 DUR 적용 범위를 별도로 확인하며, 전신제의 금기를 모든 국소제에 일률 적용하지 않음
+  * Fluconazole은 celecoxib·ibuprofen 등 일부 NSAID의 노출을 증가시킬 수 있음. Celecoxib는 병용 시작 시 권장용량의 절반으로 투여하며, 다른 NSAID는 이상반응 감시와 필요시 감량을 개별 판단(055 참조)
+  * Ciprofloxacin–ketoprofen은 DUR 병용 금기 조합임. 경구·주사 ketoprofen을 포함한 기존 진통제 사용을 확인하고 병용을 피함(047 참조). 피부 외용제와 점안·점이제는 제품·제형별 허가사항과 DUR 적용 범위를 별도로 확인하며, 전신제의 금기를 모든 국소제에 일률 적용하지 않음
   * MTX 병용 시 신배설 감소·골수억제·신독성 위험을 평가함. 항암 고용량 MTX 및 제품별 병용금기는 회피하고, RA의 저용량 주 1회 MTX와의 병용도 전문의 관리 아래 CBC·간·신기능을 추적함(151 참조); 일반약 NSAID 임의 추가를 피함
 
 #### <mark style="color:$primary;">부작용</mark>
@@ -751,7 +750,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 혈소판 응고 저해(투약 종료 후 2일까지 영향)
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
   * 신 독성 위험인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
-  * eGFR ＜30 ㎖/min/1.73m²에서는 전신 NSAID를 원칙적으로 피함(국내 허가상 심한 신장애 금기); 단기간 사용도 급성 신손상 위험을 고려
+  * eGFR ＜30 ㎖/min/1.73m²에서는 전신 NSAID를 원칙적으로 피함(심한 신장애 금기); 단기간 사용도 급성 신손상 위험을 고려
   * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험성 - NSAID가 이를 30% 증가시킨다는 보고가 있음
     * 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음. 단, naproxen은 GI 출혈 위험이 ibuprofen보다 높음(GI 출혈 위험 비교표 참조)
 
@@ -769,11 +768,11 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
   * H. pylori 감염 치료
   * COX-2 억제제 선택 (✽aspirin과 병용 시 COX-2 억제제의 위장관 보호 이점은 감소함)
   * [misoprostol](../224_/073_-gidrugs.md#prostaglandin-e-analogue) : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid <mark style="color:blue;">\[싸이토텍]</mark>
-  * [PPI](../224_/073_-gidrugs.md#proton-pump-inhibitor-ppi) : NSAID 관련 궤양 **치료**와 고위험 환자의 궤양 **예방**을 구분함. 국내 약물 관련 소화성궤양 지침은 장기 NSAID가 필요한 고위험 환자에서 저용량 PPI 예방을 권고하며, 고용량 치료 용량을 일률적으로 적용하지 않음 <mark style="color:$info;">\[국내 약물 관련 소화성궤양 지침 2020]</mark>
+  * [PPI](../224_/073_-gidrugs.md#proton-pump-inhibitor-ppi) : NSAID 관련 궤양 **치료**와 고위험 환자의 궤양 **예방**을 구분함. 국내 약물 관련 소화성궤양 지침은 장기 NSAID가 필요한 고위험 환자에서 저용량 PPI 예방을 권고하며, 고용량 치료 용량을 일률적으로 적용하지 않음 <mark style="color:$info;">\[약물 관련 소화성궤양 지침 2020]</mark>
     * [ ] [보험 적용 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007). esomeprazole 20 ㎎, lansoprazole 15 ㎎, pantoprazole 20 ㎎, rabeprazole 5 ㎎ 등이 1일 1회 투여로 NSAID 투여 관련 상부 위장관 증상치료에 급여 인정됨- 약제별 확인 요
     * [ ] 임상적 궤양 예방 권고와 제품별 허가·급여 적응증은 동일하지 않음; 위의 상부 위장관 증상치료 급여를 무증상 예방의 자동 급여로 확대하지 않음
   * [H2-blocker](../224_/073_-gidrugs.md#h2-h2-receptor-antagonist-h2ra) : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과
-* 제품별 투여 금기를 먼저 확인함. 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+* 제품별 투여 금기를 먼저 확인함. 부루펜정은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
 * PPI는 주로 상부 위장관 위험을 줄이며 NSAID의 신장·심혈관 위험 또는 모든 위장관 출혈 위험을 제거하지 않음. OA에서 NICE NG226은 경구 NSAID 사용 중 위장 보호 병용을 권고하며, 아래는 일반적인 고위험군 평가 기준임
 
 {% hint style="info" %}
@@ -805,7 +804,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 ### <mark style="color:orange;">NSAID 비교</mark>
 
-<table data-search="false"><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (주로 골관절염; 예외는 비고 참조)</th><th width="73.31573486328125">GI 출혈 위험¹⁾</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin <mark style="color:blue;">[바이엘아스피린정]</mark> (500 ㎎)</td><td>500~1,000 ㎎, 최소 4시간 간격<br>최대 4 g/d</td><td></td><td>만 15세 이상 해열·진통 허가 용량; 일반적인 1차 진통제로 routine 사용하지 않음. Plt 응고 저해 (7~10일). 소아·청소년 바이러스 감염 시 해열·진통 목적으로 사용하지 않음(라이 증후군); 가와사키병 등 특수 적응증은 전문의 처방에 따름</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>mefenamic acid <mark style="color:blue;">[폰탈]</mark></td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate <mark style="color:blue;">[모니플루]</mark></td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac <mark style="color:blue;">[에어탈]</mark></td><td>100 ㎎ bid</td><td>1.43²⁾</td><td>허혈성 심장질환·말초동맥질환·뇌혈관질환 및 울혈성 심부전(NYHA II–IV)은 국내 허가상 금기. 중증 간·신장애 등 제품별 금기를 확인하고 최소 유효 용량·최단 기간 사용(137 참조)</td></tr><tr><td>diclofenac <mark style="color:blue;">[디페인]</mark></td><td>50 ㎎ tid</td><td>3.42</td><td>CYP2C9 대사</td></tr><tr><td>etodolac 서방형 <mark style="color:blue;">[로딘엑스엘]</mark></td><td>400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>indomethacin</td><td>25~50 ㎎ tid</td><td>5.52</td><td></td></tr><tr><td>ketorolac <mark style="color:blue;">[케토라신정]</mark></td><td>10 ㎎ q4~6h 필요시<br>최대 40 ㎎/d</td><td>20.67</td><td>GI 위험 가장 높음; 급성 통증에 단기 사용하며 골관절염 등 만성 통증에 장기 처방하지 않음. 국내 케토라신정은 최대 7일, 케토란주 등 주사제는 최대 2일로 구분; 최소 유효량을 최단기간 사용하고 제품별 금기 확인(003 참조)</td></tr><tr><td>sulindac <mark style="color:blue;">[크리돌]</mark></td><td>100~200 ㎎ bid</td><td>2.89²⁾</td><td>간 독성 부작용 주의; "신 장애 시 선호"라는 과거 근거는 확립된 임상 권고가 아니며, CKD/신장 위험 환자는 NSAID 자체를 최소화</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen <mark style="color:blue;">[애니펜]</mark></td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>ibuprofen <mark style="color:blue;">[부루펜]</mark></td><td>200~600 ㎎ tid~qid<br>(국내 허가상 1일 최고 3,200 ㎎)</td><td>2.28</td><td>경증~중등도 통증·감기: 200~400 ㎎ tid~qid; 고용량은 관절염 등 적응증에 따라 최소 유효 용량·최단 기간 사용. GI 위험은 용량·사용기간에 따라 증가</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>4.84</td><td></td></tr><tr><td>loxoprofen <mark style="color:blue;">[록소닌]</mark></td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone <mark style="color:blue;">[프로닥]</mark></td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen <mark style="color:blue;">[낙센]</mark></td><td>250~500 ㎎ bid</td><td>4.31</td><td>심혈관 위험이 상대적으로 낮을 수 있으나 안전한 대안으로 단정하지 않음. 급성 골격근장애·건염·윤활낭염: 초회 500 ㎎ 후 250 ㎎ q6~8h, 초회량 포함 최대 1,250 ㎎/d. 급성 통풍: 초회 750 ㎎ 후 250 ㎎ q8h(152 참조)</td></tr><tr><td>zaltoprofen <mark style="color:blue;">[솔레톤]</mark></td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam <mark style="color:blue;">[제포]</mark></td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam <mark style="color:blue;">[모빅]</mark></td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam <mark style="color:blue;">[브렉신]</mark></td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib<br><mark style="color:blue;">[쎄레브렉스]</mark></td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험은 상대적으로 낮으나 출혈 위험은 남음; 혈소판 응집 영향은 적음. OA 200 ㎎ qd/100 ㎎ bid, RA 100~200 ㎎ bid를 구분. 확립된 심혈관질환·NYHA II–IV 심부전 등 국내 금기 적용</td></tr><tr><td>etoricoxib <mark style="color:blue;">[알콕시아]</mark></td><td>30 ㎎ qd<br>국내 허가 최대 30 ㎎/d; 국내 허가 적응증은 OA만</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide <mark style="color:blue;">[메수리드]</mark></td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83²⁾</td><td></td></tr><tr><td>talniflumate <mark style="color:blue;">[소말겐]</mark></td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (주로 골관절염; 예외는 비고 참조)</th><th width="73.31573486328125">GI 출혈 위험¹⁾</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin <mark style="color:blue;">[바이엘아스피린정]</mark> (500 ㎎)</td><td>500~1,000 ㎎, 최소 4시간 간격<br>최대 4 g/d</td><td></td><td>만 15세 이상 해열·진통 허가 용량; 일반적인 1차 진통제로 routine 사용하지 않음. Plt 응고 저해 (7~10일). 소아·청소년 바이러스 감염 시 해열·진통 목적으로 사용하지 않음(라이 증후군); 가와사키병 등 특수 적응증은 전문의 처방에 따름</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>mefenamic acid <mark style="color:blue;">[폰탈]</mark></td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate <mark style="color:blue;">[모니플루]</mark></td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac <mark style="color:blue;">[에어탈]</mark></td><td>100 ㎎ bid</td><td>1.43²⁾</td><td>허혈성 심장질환·말초동맥질환·뇌혈관질환 및 울혈성 심부전(NYHA II–IV)은 금기. 중증 간·신장애 등 제품별 금기를 확인하고 최소 유효 용량·최단 기간 사용(137 참조)</td></tr><tr><td>diclofenac <mark style="color:blue;">[디페인]</mark></td><td>50 ㎎ tid</td><td>3.42</td><td>CYP2C9 대사</td></tr><tr><td>etodolac 서방형 <mark style="color:blue;">[로딘엑스엘]</mark></td><td>400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>indomethacin</td><td>25~50 ㎎ tid</td><td>5.52</td><td></td></tr><tr><td>ketorolac <mark style="color:blue;">[케토라신정]</mark></td><td>10 ㎎ q4~6h 필요시<br>최대 40 ㎎/d</td><td>20.67</td><td>GI 위험 가장 높음; 급성 통증에 단기 사용하며 골관절염 등 만성 통증에 장기 처방하지 않음. 케토라신정은 최대 7일, 케토란주 등 주사제는 최대 2일로 구분; 최소 유효량을 최단기간 사용하고 제품별 금기 확인(003 참조)</td></tr><tr><td>sulindac <mark style="color:blue;">[크리돌]</mark></td><td>100~200 ㎎ bid</td><td>2.89²⁾</td><td>간 독성 부작용 주의; "신 장애 시 선호"라는 과거 근거는 확립된 임상 권고가 아니며, CKD/신장 위험 환자는 NSAID 자체를 최소화</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen <mark style="color:blue;">[애니펜]</mark></td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>ibuprofen <mark style="color:blue;">[부루펜]</mark></td><td>200~600 ㎎ tid~qid<br>(국내 허가상 1일 최고 3,200 ㎎)</td><td>2.28</td><td>경증~중등도 통증·감기: 200~400 ㎎ tid~qid; 고용량은 관절염 등 적응증에 따라 최소 유효 용량·최단 기간 사용. GI 위험은 용량·사용기간에 따라 증가</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>4.84</td><td></td></tr><tr><td>loxoprofen <mark style="color:blue;">[록소닌]</mark></td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone <mark style="color:blue;">[프로닥]</mark></td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen <mark style="color:blue;">[낙센]</mark></td><td>250~500 ㎎ bid</td><td>4.31</td><td>심혈관 위험이 상대적으로 낮을 수 있으나 안전한 대안으로 단정하지 않음. 급성 골격근장애·건염·윤활낭염: 초회 500 ㎎ 후 250 ㎎ q6~8h, 초회량 포함 최대 1,250 ㎎/d. 급성 통풍: 초회 750 ㎎ 후 250 ㎎ q8h(152 참조)</td></tr><tr><td>zaltoprofen <mark style="color:blue;">[솔레톤]</mark></td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam <mark style="color:blue;">[제포]</mark></td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam <mark style="color:blue;">[모빅]</mark></td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam <mark style="color:blue;">[브렉신]</mark></td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib<br><mark style="color:blue;">[쎄레브렉스]</mark></td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험은 상대적으로 낮으나 출혈 위험은 남음; 혈소판 응집 영향은 적음. OA 200 ㎎ qd/100 ㎎ bid, RA 100~200 ㎎ bid를 구분. 확립된 심혈관질환·NYHA II–IV 심부전은 금기</td></tr><tr><td>etoricoxib <mark style="color:blue;">[알콕시아]</mark></td><td>30 ㎎ qd<br>허가 최대 30 ㎎/d; 허가 적응증은 OA만</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide <mark style="color:blue;">[메수리드]</mark></td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83²⁾</td><td></td></tr><tr><td>talniflumate <mark style="color:blue;">[소말겐]</mark></td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
 
 _1) GI 출혈에 대한 pooled OR (비사용 대비); 낮을수록 위험 적음. 서로 다른 연도·방법론의 메타분석(²로 표시된 항목은 별도 출처) 수치가 섞여 있어 약제 간 직접적인 수치 비교보다는 대략적인 위험 구간 파악 참고용으로 사용_
 
