@@ -1,7 +1,7 @@
 # 소화기계 약제
 
 {% hint style="info" %}
-별도 표시가 없으면 국내 허가 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
+처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
 
 임신·수유 중 사용은 성분·품목별 허가사항과 임상 근거를 확인하여 결정함. 본문에는 치료 선택에 중요한 사항만 선별하여 기재하며, 별도 표시가 없다는 것이 사용 가능 또는 안전성 확립을 뜻하지 않음. 임신과 수유의 제한은 서로 다를 수 있음.
 
@@ -15,7 +15,7 @@
 #### <mark style="color:$primary;">QT 연장 위험 약제</mark>
 
 * 심장 질환·QTc 연장·저칼륨혈증·저마그네슘혈증 환자에서 병용 주의; 아래 약제 2개 이상 병용 시 위험 증가
-* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron). metoclopramide와의 병용도 D2 길항제 중복 및 신경계·심장 이상반응 우려로 회피함
+* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron). metoclopramide와는 QTc 연장에 따른 심각한 심실성 부정맥 위험으로 DUR 병용금기
 * <mark style="color:red;">**ondansetron**</mark> : QT 연장은 용량 의존적임; 선천성 QT 연장증후군에서는 회피하고 저칼륨혈증·저마그네슘혈증은 투여 전 교정
 * <mark style="color:red;">**erythromycin**</mark> : CYP3A4 기질·억제제; QT 연장 약제와 이중 위험
 * <mark style="color:red;">**metoclopramide**</mark> : 드물지만 QTc 연장 보고; 고용량·IV 투여 시 주의
@@ -24,7 +24,7 @@
 
 * 신기능 저하 시 축적·전해질 이상 위험이 증가함
   * Al 제제는 특히 중증 CKD(eGFR ＜30 ㎖/min/1.73㎡)에서 회피
-  * MgO·Mg(OH)₂ 제제는 품목 허가상 신장애 환자에게 금기
+  * MgO·Mg(OH)₂ 제제는 신장애 환자에게 금기
   * 다른 약제의 감량 기준은 CrCl 또는 GFR 등 해당 품목의 기준을 적용
 * <mark style="color:red;">**MgO, Mg hydroxide**</mark> : 고마그네슘혈증. 중증 CKD·고령·장운동 저하에서 위험이 높음
   * <mark style="color:blue;">마그밀</mark>·<mark style="color:blue;">마그밀에스</mark>는 신장애 환자에게 금기
@@ -87,19 +87,20 @@
 * **metoclopramide** : 지연운동이상증(tardive dyskinesia)은 드물지만 비가역적일 수 있으며 노출 기간·누적 용량에 따라 위험 증가. 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 특히 주의
   * 구역·구토에 대하여 최대 5일 사용 허가
   * 구토했더라도 투여 간격은 최소 6시간 유지
-  * CrCl 15 초과\~60 이하 및 중증 간장애 시 일일 용량을 50% 감량
-  * CrCl ≤15 시 통상 용량의 25%를 투여
+  * CrCl ＞15~≤60 ㎖/min 및 중증 간장애 시 일일 용량을 50% 감량
+  * CrCl ≤15 ㎖/min 시 통상 용량의 25%를 투여
   * 금기 : 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용
 * **levosulpiride** : 약물 유발 파킨슨증의 흔한 원인 약제. 고령자에서 장기 처방을 피하고, 새로 생긴 떨림·서동·보행 장애에 대하여 이 약제 복용 여부를 확인함
 * **domperidone** : 일반적으로 1주를 초과하지 않음
+  * 심한 신장애에서 반복 투여 시 투여 횟수를 1일 1\~2회로 줄이고 필요시 용량도 감량
   * 금기 : QT 연장·심부전 등 심장 기저질환·전해질 이상·중등도\~중증 간장애·임부
-  * 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 중복 처방 회피
+  * 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 DUR 병용금기
 
 ### <mark style="color:orange;">Serotonin agonist</mark>
 
 * 기전 : 5-HT4 수용체 작용 → acetylcholine 분비↑ → 위장관 수축↑
 * 해당 약제 : metoclopramide, clebopride, mosapride, prucalopride
-* **mosapride** : 중추 침투가 적어 중추 부작용이 상대적으로 적음. CYP3A4로 대사되어 erythromycin 등 억제제 병용 시 혈중 농도가 높아질 수 있으나, QT 연장 위험은 뚜렷하지 않음
+* **mosapride** : 일반정은 보통 2주 투여해도 호전이 없으면 장기간 지속하지 않음. 중추 침투가 적어 중추 부작용이 상대적으로 적음. CYP3A4로 대사되어 erythromycin 등 억제제 병용 시 혈중 농도가 높아질 수 있으나, QT 연장 위험은 뚜렷하지 않음
 
 ### <mark style="color:orange;">Acetylcholinesterase inhibitor</mark>
 
@@ -220,7 +221,8 @@
   * 2025 AGA 지침은 nortriptyline을 위마비의 일차치료로 사용하지 않도록 조건부 권고함
 * **amitriptyline** : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[에트라빌]</mark>
 * **nortriptyline** : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[센시발]</mark>
-* 회피 : 고령 - 항콜린 부작용·심독성; 심혈관 질환·BPH·녹내장 주의
+* 고령에서는 항콜린 부작용·기립저혈압·심독성 때문에 가급적 피함. Amitriptyline은 부정맥·심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·MAO 억제제 투여 중 등에 금기; nortriptyline은 해당 품목의 금기·주의를 별도로 확인
+* Domperidone과 병용하지 않으며 다른 QT 연장 약제와의 상호작용도 확인. 초기 2\~4주에 내약성·기분 변화·복약 상태를 평가하고, 심한 두근거림·실신·요폐·눈 통증과 시야 흐림 발생 시 중단·즉시 평가
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
@@ -462,7 +464,7 @@
     * 9 ㎏ 미만 - 10 ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - 30 ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
 * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
 * 금기 : 임부·수유부·3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
-* 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 품목 허가상 금기
+* 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 금기
 * ACE 억제제 병용 시 혈관부종 위험 증가에 주의
 * 혈관부종·DRESS 의심 시 중단하고 재투여하지 않음
 
@@ -474,7 +476,7 @@
 * 용법 : 복용 시점·횟수는 성분·제형별로 다름
   * Almagate : 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
 
-<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[겔포스현탁액]</mark>, <mark style="color:blue;">[암포젤]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 품목 허가상 신장애 환자 금기</td></tr></tbody></table>
+<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[겔포스현탁액]</mark>, <mark style="color:blue;">[암포젤]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 신장애 환자 금기</td></tr></tbody></table>
 
 ## <mark style="color:green;">위 점막 보호제 (Gastric mucosal protective agent)</mark>
 
@@ -554,7 +556,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 <table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[에취투비]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[가스터]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[액시드]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[록산]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[스토가]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
 
 > _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함_\
-> _&#xB2;⁾ 발암 물질 NDMA 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
+> _²⁾ 발암 물질 NDMA 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
 
 ### <mark style="color:orange;">프로톤 펌프 차단제 (Proton pump inhibitor, PPI)</mark>
 
@@ -582,8 +584,8 @@ _<mark style="color:$info;">Ref. AGA PPI de-prescribing update. 2022; ATS/ERS/JR
 <table data-search="false"><thead><tr><th width="182">성분명 [상품명]</th><th width="127">표준 용량 참고값¹⁾</th><th width="210">소화성 궤양²⁾</th><th>GERD²⁾</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[오엠피]</mark></td><td>20 ㎎</td><td>20 ㎎ qd</td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong><br><mark style="color:blue;">[오엠피에스]</mark>·<mark style="color:blue;">[넥시움]</mark></td><td>20 ㎎</td><td>NSAID 관련 GU 치료·예방 20 ㎎ qd; 제균 병용 20 ㎎ bid</td><td>20~40 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong><br><mark style="color:blue;">[란스톤]</mark></td><td>30 ㎎</td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td><td>ERD 치유 30 ㎎ qd; 증상 치료·유지 15 ㎎ qd</td></tr><tr><td><strong>dexlansoprazole</strong><br><mark style="color:blue;">[덱실란트디알]</mark></td><td>-</td><td>(허가 없음)</td><td>미란성 식도염 치유 60 ㎎ qd ×최대 8주; 치유 유지·비미란성 GERD 증상 치료 30 ㎎ qd(적응증별 기간 구분)</td></tr><tr><td><strong>pantoprazole</strong><br><mark style="color:blue;">[판토록]</mark></td><td>40 ㎎</td><td>40 ㎎ qd</td><td>미란성 식도염 40 ㎎ qd; 반응 불충분 시 평가 후 증량. 20 ㎎ 제형의 경증 증상·유지 용법과 구분함</td></tr><tr><td><strong>rabeprazole</strong><br><mark style="color:blue;">[파리에트]</mark></td><td>20 ㎎</td><td>10~20 ㎎ qd</td><td>10~20 ㎎ qd; 불충분 반응 시 증량은 별도 평가</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[놀텍]</mark></td><td>-</td><td>10 ㎎ qd</td><td>20 ㎎ qd</td></tr></tbody></table>
 
 > _**¹⁾** NICE CG184의 표준 용량 참고값임. 동일한 산 억제력·임상 효과를 뜻하는 직접 환산표가 아님._\
-> _&#xB2;⁾ 소화성궤양·GERD 용량은 대표 품목의 적응증별 용법으로 구분함. GU=위궤양, DU=십이지장궤양, ERD=미란성 GERD임. 일반형·서방형·복합제는 자동 대체하지 않음 \[품목 허가사항]_\
-> _&#xD65C;동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
+> _²⁾ 소화성궤양·GERD 용량은 대표 품목의 적응증별 용법으로 구분함. GU=위궤양, DU=십이지장궤양, ERD=미란성 GERD임. 일반형·서방형·복합제는 자동 대체하지 않음 \[품목 허가사항]_\
+> _활동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
 
 * 위염의 위점막 병변 개선 : esomeprazole 10 ㎎ qd <mark style="color:blue;">\[에스코텐]</mark>
 * <mark style="color:blue;">에소메졸디알</mark>(esomeprazole Mg trihydrate)은 20·40 ㎎ 이중방출 제형으로, ERD 치유 40 ㎎ qd ×4주(필요시 4주 추가), 유지 20 ㎎ qd. 식사 무관이며 위염용 10 ㎎ 제품 또는 제균·궤양 예방용 일반형과 구분
@@ -625,24 +627,32 @@ _<mark style="color:$info;">Ref. Omeprazole·esomeprazole 허가사항; 미란�
 
 ```mermaid
 flowchart TD
-    A["위산 관련 질환"] --> B["질환·원인 확인"]
-    B -- "경고 증상 동반" --> W["내시경 평가 우선"]
-    B -- "소화성 궤양" --> P["H. pylori·NSAID 평가<br/>원인 교정 + PPI/P-CAB"]
-    B -- "GERD·산 관련 증상" --> C["증상 양상·진단"]
+    A["위산 관련 질환"] --> B["출혈·급성 복증 등<br/>즉각 조치가 필요한 소견?"]
+    B -- "예" --> U["응급 평가·안정화<br/>및 즉시 의뢰"]
+    B -- "아니오" --> R["그 밖의 경고 증상?"]
+    R -- "예" --> W["긴급도에 따라<br/>내시경·원인 평가"]
+    R -- "아니오" --> K["질환·원인 분류"]
+    K -- "소화성 궤양" --> P["<u>원인 교정·궤양 치료</u><br/>•H. pylori·NSAID 평가<br/>•PPI 또는 허가된 P-CAB"]
+    K -- "GERD·산 관련 증상" --> C["증상 양상·중증도?"]
     C -- "간헐적 경미한 증상" --> D["H2RA·제산제 등 증상 완화<br/>지속·반복 시 초기치료 평가"]
-    C -- "지속 증상<br/>·NERD·미란성 식도염" --> E["표준 용량 PPI 또는 P-CAB qd<br/>4~8주 초기치료; <br/>중증 미란성 식도염은 8주"]
-    D --> F["초기치료 후 반응·진단 평가"]
+    C -- "지속 증상·NERD<br/>또는 미란성 식도염" --> E["<u>초기치료</u><br/>•PPI 또는 적응증에 맞는 P-CAB<br/>•대체로 4~8주, 중증 식도염 8주"]
+    D --> F["치료 후 반응·진단 평가"]
     E --> F
-    F -- "불충분" --> G["•순응도·복용 시점·용량 최적화<br/>•진단 재검토·필요시 검사"]
-    F -- "양호" --> H["•NERD·경증 식도염은 <br/>필요시 유지 고려<br/>•LA C/D·Barrett·협착은 <br/>지속 유지 평가"]
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,C,F yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class D,E,G,P sky
-style H fill:#d0e8ff,stroke:#1a6abf
-style W fill:#ffcdd2,stroke:#e53935
-
+    F -- "불충분" --> G["<u>진단·복용 상태 재평가</u><br/>•순응도·복용 시점·용량 확인<br/>•필요시 내시경·역류 검사"]
+    G --> N["재평가 결과에 따라<br/>치료 조정·전문의 의뢰"]
+    F -- "양호" --> H["<u>유지치료 선택</u><br/>•NERD·경증 식도염: 필요시 유지 고려<br/>•LA C/D·Barrett·협착: 지속 유지 평가"]
+    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef test fill:#e8f5e9,stroke:#81c784
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    classDef next fill:#e8eaf6,stroke:#9fa8da
+    classDef danger fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class A neutral
+    class B,R,K,C,F question
+    class W,G test
+    class P,D,E,H treatment
+    class N next
+    class U danger
 ```
 
 <p align="center"><strong>위산 분비 억제제 선택 알고리듬</strong></p>

@@ -29,7 +29,8 @@ flowchart TD
     E --> F["장형 위선암"]
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style F fill:#f96,stroke:#e65100,stroke-width:2px
+    style E fill:#fff9c4,stroke:#ffe082
+    style F fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
 <p align="center"><strong>Correa cascade</strong></p>
@@ -60,7 +61,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">감염성</mark>
 
-* H. pylori : 가장 흔한 만성 위염 원인; 성인 혈청 유병률은 1998년 66.9%에서 2015\~2016년 51.0%로 감소했으나 서구보다 여전히 높음. 젊은 연령층일수록 낮음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
+* H. pylori : 가장 흔한 만성 위염 원인; 성인 혈청 유병률은 1998년 66.9%에서 2015\~2016년 51.0%로 감소했으나 서구보다 여전히 높음. 젊은 연령층일수록 낮음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [헬리코박터](080_-h_pylori-infection.md))
 * 기타 감염·기생충 : CMV 등(주로 면역저하자), Anisakis(생선회 섭취 후 급성 상복부 통증); 화농성 위염은 매우 드묾
 
 #### <mark style="color:$primary;">화학적·물리적 자극</mark>
@@ -105,23 +106,24 @@ flowchart TD
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 토혈·흑색변, 또는 실신·저혈압·빈맥을 동반한 위장관 출혈 의심  `상부위장관 출혈`
-* 갑작스러운 심한 복통, 복부 강직·반발통  `소화성 궤양 천공` `급성 복증`
-* 음식이 걸려 침도 삼키지 못하거나 호흡곤란 동반  `식도 음식물 매복` `기도 폐쇄`
+* 갑작스러운 심한 복통, 복부 강직·반발통  `소화성 궤양 천공`  `급성 복증`
+* 음식이 걸려 침도 삼키지 못하거나 호흡곤란 동반  `식도 음식물 매복`  `기도 폐쇄`
 * 상복부 불편감에 흉부 압박감·식은땀·호흡곤란 동반  `급성 관상동맥증후군`
-* 발열·황달을 동반한 우상복부·상복부 통증  `급성 담관염` `급성 담낭염`
+* 발열·황달·우상복부 통증에 저혈압·의식 변화 등 전신 상태 악화 동반  `중증 급성 담관염`  `패혈증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 지속 구토로 수분 섭취가 어렵거나 탈수 동반  `위출구 폐색` `탈수`
-* 진행성 연하곤란·연하통  `식도암` `식도 협착`
-* 비의도적 체중 감소, 원인 불명의 철결핍빈혈, 복부 종괴  `위암` `위장관 악성종양`
+* **(당일)** 새 황달 또는 발열·오한을 동반한 지속적 우상복부·상복부 통증  `급성 담관염`  `급성 담낭염`
+* **(당일)** 지속 구토로 수분 섭취가 어렵거나 탈수 동반  `위출구 폐색`  `탈수`
+* 진행성 연하곤란·연하통  `식도암`  `식도 협착`
+* 비의도적 체중 감소, 원인 불명의 철결핍빈혈, 복부 종괴  `위암`  `위장관 악성종양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 적절한 경험적 치료에도 지속·악화되는 상복부 증상  `기질적 상부위장관 질환`
 * 위암 직계 가족력이 있는 사람에게 새로 생긴 소화불량 증상  `위암`
 
-　☞ [위장질환의 감별](074_.md#step-1-red-flags)
+　☞ [위장질환의 감별](074_-gidz.md)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -129,7 +131,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">내시경 검사</mark>
 
-**적응증** (☞ [위장질환의 감별](074_.md))
+**적응증** (☞ [위장질환의 감별](074_-gidz.md))
 
 * Red Flags 존재
 * 적절한 경험적 치료 후에도 증상이 지속·악화되거나 진단이 불확실한 경우
@@ -157,7 +159,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">H. pylori 검사</mark>
 
-　(☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
+　(☞ [헬리코박터](080_-h_pylori-infection.md))
 
 * 비침습적 : 요소호기검사(UBT) 또는 단클론 대변항원검사(SAT); 혈청항체는 과거 감염도 반영하므로 활동성 감염 진단과 제균 확인에 부적합
 * 침습적 (내시경 시행 시) : 신속 요소분해효소검사(CLO), 조직검사, 배양, clarithromycin 내성 유전자 PCR(DPO-PCR)
@@ -184,29 +186,35 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["위염 또는 상복부 증상 원인 의심"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
-    B -- "예" --> C["응급 평가·처치 또는 전원"]
-    B -- "아니오" --> D["내시경 적응증?"]
-    D -- "예" --> E["내시경·필요한 조직검사·H. pylori 검사"]
+    A["위염 또는 상복부 증상 원인 의심"] --> B["Red Flags의<br/>즉각 조치 항목에 해당?"]
+    B -- "예" --> C["응급 평가·안정화<br/>및 즉시 의뢰"]
+    B -- "아니오" --> D["내시경 또는<br/>신속 원인 평가 대상?"]
+    D -- "예" --> E["긴급도에 따라 내시경·추가 검사<br/>필요한 생검·H. pylori 검사"]
     D -- "아니오" --> F["H. pylori 비침습적 검사"]
-    E --> S["궤양·종양 등 기질적 병변?"]
-    S -- "예" --> T["해당 질환 치료·전문의 평가"]
-    S -- "아니오" --> G["H. pylori 양성?"]
+    E --> S["궤양·종양 등<br/>증상을 설명할 병변?"]
+    S -- "예" --> T["해당 질환 치료<br/>및 전문의 평가"]
+    S -- "아니오" --> G["유효한 검사에서<br/>H. pylori 양성?"]
     F --> G
-    G -- "예" --> H["맞춤치료 또는 경험적 4제요법으로 제균"]
-    H --> J["치료 종료 4주 이후 UBT·SAT로 제균 확인"]
-    G -- "아니오" --> I["원인 약물 교정 + 증상 아형별 치료"]
-    I --> P["약제별 2~4주 후 반응 평가"]
-    P -- "호전" --> R["불필요한 약 감량·중단 및 위험도별 추적"]
+    G -- "양성" --> H["맞춤치료 또는 적절한<br/>경험적 4제요법으로 제균"]
+    H --> J["정해진 휴약 조건에서<br/>치료 종료 최소 4주 후 UBT·SAT"]
+    G -- "음성" --> I["원인 약물 교정<br/>및 증상에 맞는 치료"]
+    I --> P["약제별 적절한 기간 후 반응?"]
+    P -- "호전" --> R["불필요한 약 감량·중단<br/>및 위험도별 추적"]
     J --> K["제균 성공?"]
-    K -- "예" --> R
-    K -- "아니오" --> U["구제요법 후 제균 재확인·반복 실패 시 전문의 의뢰"]
-    P -- "미호전" --> Q["내시경 필요성·FD·GERD·담췌질환 재평가"]
-
+    K -- "예" --> V["증상 지속?"]
+    V -- "아니오" --> R
+    V -- "예" --> I
+    K -- "아니오" --> U["구제요법 후 제균 재확인<br/>반복 실패 시 전문의 의뢰"]
+    P -- "미호전" --> Q["내시경 필요성·FD·GERD<br/>담췌질환 재평가"]
     classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D,S,G,K question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style H fill:#f96,stroke:#e65100,stroke-width:2px
+    classDef test fill:#e8f5e9,stroke:#81c784
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class B,D,S,G,P,K,V question
+    class E,F,J,Q test
+    class T,H,I,U treatment
+    class A,R neutral
+    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
 > 모든 경로에서 NSAID·aspirin 복용력을 확인하고 원인을 교정함. 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정함\
@@ -227,7 +235,7 @@ flowchart TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 제거가 치료의 핵심 - H. pylori 양성이면 제균, NSAID 관련이면 중단·대체; 약물 치료는 증상 완화와 점막 회복을 보조하는 역할
-* H. pylori 제균 : 2025 개정 국내 지침은 H. pylori 위염에서도 위암 예방을 위한 제균을 제안함(약한 권고, 중등도 근거). 감염 확인 후 이득·위험을 설명하고 치료하며, 제균 후에도 위축·장상피화생의 위험도별 감시는 지속. 10 ㎜ 이하 위 과형성 용종이 있는 H. pylori 감염 환자도 용종 퇴축을 위한 제균이 제안됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-helicobacter-pylori-infection.md))
+* H. pylori 제균 : 2025 개정 국내 지침은 H. pylori 위염에서도 위암 예방을 위한 제균을 제안함(약한 권고, 중등도 근거). 감염 확인 후 이득·위험을 설명하고 치료하며, 제균 후에도 위축·장상피화생의 위험도별 감시는 지속. 10 ㎜ 이하 위 과형성 용종이 있는 H. pylori 감염 환자도 용종 퇴축을 위한 제균이 제안됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-h_pylori-infection.md))
 * 제균 요법 선택(2025 개정 국내 지침) : clarithromycin 내성 검사 기반 맞춤치료(감수성 → PPI·amoxicillin·clarithromycin 7일, 내성 → bismuth 4제요법 10일)를 우선 권고하고, 검사가 어려우면 10일 concomitant 요법을 경험적 1차로 권고. Bismuth 4제요법은 이상반응과 구제요법 가치를 고려해 다른 요법을 쓸 수 없을 때 1차로 사용하며, bismuth를 추가한 변형 4제요법(PAMB·PACB)이 경험적 1차 선택지로 새로 제시됨. P-CAB은 PPI를 대체할 수 있음. 순차요법과 PAM 요법은 1차 권고에서 제외됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
 * 유발 약물 중단·대체 : NSAID → 중단 우선; 재투여가 불가피하면 활동성 궤양·출혈 등 금기가 없는지 확인한 뒤 COX-2 억제제와 PPI 등 예방 전략 검토; Aspirin → 심혈관 적응증과 위장관 위험을 재평가하여 필요한 경우 PPI 병용; 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정 (☞ [통증](../220_/001_-pain.md#nsaids))
 * 만성 위염 후유증 치료 : 위축성 위염에 의한 철·B12 결핍 → 해당 결핍 보충 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
@@ -282,16 +290,16 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-　☞ [소화기계 약제](073_.md)
+　☞ [소화기계 약제](073_-gidrugs.md)
 
 {% hint style="info" %}
-별도 표시가 없으면 허가 성인 경구 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
+처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
 {% endhint %}
 
 #### <mark style="color:$primary;">제산제 (Antacids)</mark>
 
 * 위산 중화를 통한 즉각적 증상 완화; 통상적인 증상 완화 용량으로 궤양의 표준 치유 치료를 대신하지 않음; 복용 시점·횟수는 성분·제형별 허가사항에 따름
-* Al 함유 제산제는 신장애에서 축적 독성에 주의하고 중증 신장애에서는 회피함. MgO·Mg(OH)₂는 품목 허가상 신장애 환자 금기이며, Al·Mg 복합제인 almagate는 신장애에서 축적에 주의하여 장기·고용량 사용을 피함. 흡착·킬레이트 형성·위내 pH 변화로 다른 약의 흡수에 영향을 줄 수 있어 약제별 간격을 확인함(levothyroxine은 최소 4시간 분리). Almagate는 허가사항상 tetracycline계 항생제와 병용하지 않으므로 해당 제균요법 중에는 사용하지 않음
+* Al 함유 제산제는 신장애에서 축적 독성에 주의하고 중증 신장애에서는 회피함. MgO·Mg(OH)₂는 신장애 환자 금기이며, Al·Mg 복합제인 almagate는 신장애에서 축적에 주의하여 장기·고용량 사용을 피함. 흡착·킬레이트 형성·위내 pH 변화로 다른 약의 흡수에 영향을 줄 수 있어 약제별 간격을 확인함(levothyroxine은 최소 4시간 분리). Almagate는 tetracycline계 항생제와 병용하지 않으므로 해당 제균요법 중에는 사용하지 않음
 * aluminum hydroxide <mark style="color:blue;">\[암포젤]</mark>
 * almagate : Al·Mg 복합 수산화물; 성인 및 12세 이상 1\~1.5 g tid, 식후 30분\~1시간; 필요시 취침 전 1회 추가. 1포(15 ㎖)에 1.5 g <mark style="color:blue;">\[알마겔에프현탁액]</mark>
 
@@ -317,17 +325,17 @@ flowchart TD
 * lansoprazole 15\~30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
 
 {% hint style="danger" %}
-**PPI 장기 복용 주의**: 드문 저마그네슘혈증과 장감염 위험에 유의함. 골절·폐렴·신장질환·치매 등과의 연관성이 관찰연구에서 보고되었으나 다수는 인과관계가 확립되지 않았음. 위축·장상피화생 등 위암 전구병변이 있는 환자에서는 뚜렷한 적응증 없이 PPI·P-CAB을 경험적으로 장기 사용하지 않음 <mark style="color:$info;">\[Gut 2026]</mark>. H. pylori 감염이 동반된 위체부 우세 위염에서는 감염을 진단·치료하고, 명확한 적응증이 있으면 이론적 위험 때문에 필요한 PPI를 중단하지 않음. 정기적으로 적응증을 재평가하여 최소 유효 용량을 사용함.
+**PPI 장기 복용 주의**: 드문 저마그네슘혈증과 장감염 위험에 유의함. 골절·폐렴·만성 신장질환·치매 등과의 연관성은 주로 관찰연구 자료이며 다수는 인과관계가 확립되지 않았음. 다만 급성 세뇨관간질성 신염은 인정되는 드문 약물이상반응으로, 의심 시 중단·평가함. 위축·장상피화생 등 위암 전구병변이 있는 환자에서는 뚜렷한 적응증 없이 PPI·P-CAB을 경험적으로 장기 사용하지 않음 <mark style="color:$info;">\[Gut 2026]</mark>. H. pylori 감염이 동반된 위체부 우세 위염에서는 감염을 진단·치료하고, 명확한 적응증이 있으면 이론적 위험 때문에 필요한 PPI를 중단하지 않음. 정기적으로 적응증을 재평가하여 최소 유효 용량을 사용함.
 {% endhint %}
 
 #### <mark style="color:$primary;">P-CAB (칼륨경쟁적 위산 분비 억제제)</mark>
 
-* PPI 대비 빠른 산 억제 발현, 식사 영향 적음, CYP2C19 유전형의 영향을 받지 않음
+* 초회부터 빠른 산 억제 발현, 대체로 식사 영향이 적고 CYP2C19 유전형 영향이 상대적으로 적음; CYP 관련 약물 상호작용이 없다는 뜻은 아님
 * 국내 H. pylori 지침은 P-CAB 기반 제균요법이 PPI 기반 요법을 대체할 수 있다고 권고함. 다만 국내 제균 근거는 주로 tegoprazan이며, 해외 vonoprazan 제균 연구의 효과를 계열 전체 또는 국내 허가요법에 일률적으로 적용하지 않음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
 * 약제별 허가 적응증과 용량이 서로 다르므로 “P-CAB 계열”이라는 이유만으로 동일 용량이나 적응증을 적용하지 않음
 * tegoprazan : H. pylori 제균 병용은 50 ㎎ bid ×7일; NSAID 관련 궤양 예방은 25 ㎎ qd. 위염의 위점막 병변 개선 적응증은 없음 <mark style="color:blue;">\[케이캡]</mark>
 * fexuprazan : 급성 위염 및 만성 위염의 위점막 병변 개선 10 ㎎ bid, 2주(2025년 4월부터 위염 급여); 미란성 GERD는 40 ㎎ qd, 20 ㎎ 제품은 NSAID 유발 위·십이지장궤양 예방 20 ㎎ qd ×24주. 제균 병용 허가용법은 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×14일로, tegoprazan의 7일 용법과 구분 <mark style="color:blue;">\[펙수클루]</mark>&#x20;
-* revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd 허가 <mark style="color:blue;">\[레바넥스]</mark>; 후속 P-CAB의 GERD·제균 근거와 구분 (☞ [소화기계 약제](073_.md))
+* revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd 허가 <mark style="color:blue;">\[레바넥스]</mark>; 후속 P-CAB의 GERD·제균 근거와 구분 (☞ [소화기계 약제](073_-gidrugs.md))
 * vonoprazan : 국내 허가되어 있으며 2026. 11. 1.부터 급여 적용 <mark style="color:blue;">\[보신티]</mark>. 국내 허가는 위궤양·미란성 GERD·치유 후 유지 및 NSAID 투여 시 궤양 재발 방지이며, 위염의 위점막 병변 개선·H. pylori 제균 적응증은 없음. 급여 세부기준과 실제 공급 여부는 처방 전 확인 <mark style="color:$info;">\[보건복지부 고시 제2026-222호]</mark>
 
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
@@ -340,7 +348,7 @@ flowchart TD
 #### <mark style="color:$primary;">위장관 운동 촉진제 (Prokinetics)</mark>
 
 * 위배출 지연·팽만감·구역이 동반되고 FD-PDS overlap이 의심되는 경우 단기간 선택적으로 고려; 조직학적 위염 자체를 치료하는 약제는 아님
-* 고령자 prokinetic 주의 : metoclopramide 등 중추 D2 수용체 길항제는 추체외로 증상(EPS: 손 떨림, 근경직, 지연성 운동이상증)을 유발할 수 있음. 국내 허가상 metoclopramide는 최대 5일, domperidone은 일반적으로 1주 이내로 사용함. Domperidone은 QT 연장·심부전·중등도\~중증 간장애 등 금기를 확인하고, clarithromycin 등 강력한 CYP3A4 억제제 또는 ondansetron 등 QT 연장 약제와 병용하지 않음. Mosapride 또는 중추신경계 침투가 적은 itopride도 환자별 금기·상호작용을 확인하고 이상반응 발생 시 중단
+* 고령자 prokinetic 주의 : metoclopramide 등 중추 D2 수용체 길항제는 추체외로 증상(EPS: 손 떨림, 근경직, 지연성 운동이상증)을 유발할 수 있음. Metoclopramide는 최대 5일, domperidone은 일반적으로 1주 이내로 사용함. Domperidone은 QT 연장·심부전·중등도\~중증 간장애 등 금기를 확인하고, clarithromycin 등 강력한 CYP3A4 억제제 또는 ondansetron 등 QT 연장 약제와 병용하지 않음. Mosapride 또는 중추신경계 침투가 적은 itopride도 환자별 금기·상호작용을 확인하고 이상반응 발생 시 중단
 * mosapride : 5-HT4 작용제; 위배출 촉진 (일반정 5 ㎎ tid, 식전 또는 식후; 서방형은 별도 용법) <mark style="color:blue;">\[가스모틴]</mark>
 * itopride : D2 길항제 + AChE 억제 (50 ㎎ tid, 식전); 급여적정성 재평가로 2025. 2. 1.부터 비급여 <mark style="color:blue;">\[가나톤]</mark>
 * Corydalis + Pharbitis nil 복합 추출물 (30 ㎎ tid, 식전) <mark style="color:blue;">\[모티리톤]</mark>
@@ -401,7 +409,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 > **처방례 2. 산 관련 증상이 주된 경증-중등도 환자 - H2RA**
 >
 > ```
-> 가스터디 20 ㎎/T    1T  qd  (취침 전)
+> 가스터디정 20 ㎎/T    1T  qd  (취침 전)   ×2주 후 평가
 > ```
 >
 > _✽단기간 사용 후 반응을 재평가함. 신기능 저하자는 용량 조정이 필요함. 조기 포만감·식후 충만감이 주증상이면 위염 약제를 중첩하기보다 FD-PDS 치료 원칙에 따라 운동 촉진제를 선택적으로 사용함._
@@ -409,7 +417,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 > **처방례 3. NSAID 관련 미란성 위염 - PPI**
 >
 > ```
-> 에스코텐 10 ㎎/T    1T  qd  (아침 식전)
+> 에스코텐정 10 ㎎/T    1T  qd  (아침 식전 30~60분)   ×2주 후 평가
 > ```
 >
 > _✽가능하면 원인 NSAID를 중단·감량함. 국내 위염 지침은 NSAID 관련 미란성 위염에서 PPI를 선택적으로 고려하도록 했으며 근거 수준은 매우 낮음. 증상·병변이 호전되면 명확한 장기 적응증이 없는 한 중단을 계획함._
@@ -417,7 +425,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 > **처방례 4. NSAID 불가피 복용 중 - 궤양 예방이 필요한 고위험 환자**
 >
 > ```
-> 넥시움 20 ㎎/T    1T  qd  (아침 식전) 
+> 넥시움정 20 ㎎/T    1T  qd  (아침 식전 30~60분) 
 > ```
 >
 > _✽활동성 궤양·출혈이 없는 환자의 예방 처방. NSAID 필요성과 심혈관·신장 위험을 재평가하고, 궤양 출혈 기왕력 등 위험이 매우 높으면 NSAID 회피를 우선함. 궤양 치유 후에도 재투여가 불가피하고 금기가 없다면 COX-2 억제제 + PPI를 고려함. 활동성 궤양·위장관 출혈에서는 celecoxib를 사용하지 않음. 점막보호제를 예방 목적으로 일률적으로 추가하지 않음._
@@ -429,10 +437,14 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 > 아목시실린 500 ㎎/C        2C  bid  (식후)
 > 클래리트로마이신 500 ㎎/T   1T  bid  (식후)
 > 메트로니다졸 250 ㎎/T       2T  bid  (식후)
-> 넥시움 20 ㎎/T            1T  bid  (아침·저녁 식전)
+> 넥시움 20 ㎎/T            1T  bid  (아침·저녁 식전 30~60분)
 > ```
 >
-> _✽페니실린 알레르기가 없는 성인의 예시임. 2025 개정 국내 지침은 clarithromycin 내성 검사 기반 맞춤치료(감수성 → 7일 3제요법, 내성 → 10일 bismuth 4제요법)와 10일 concomitant 요법을 두 축으로 제시함. 검사가 어려우면 DUR로 이전 macrolide 노출을 확인하고, 노출력이 있으면 bismuth 4제요법 또는 변형 bismuth 4제요법(PAMB)을 고려함. 경험적 clarithromycin 3제요법은 감수성검사가 불가능하고 지역 내성률이 15% 미만으로 예상되는 제한적인 경우에만 고려함. 페니실린 알레르기에서는 bismuth 4제요법을 우선함. 순차요법과 PAM 요법은 1차 권고에서 제외됨. Levofloxacin 요법은 이전 fluoroquinolone 노출이 없거나 감수성이 확인된 경우에 한한 제한적 구제요법임. 신장애에서는 amoxicillin·clarithromycin 용량 조정과 bismuth의 품목 금기를 확인함. Clarithromycin의 QT 연장·CYP3A4 상호작용(일부 statin·항부정맥제 등), metronidazole-warfarin 상호작용 및 임신 가능성을 확인함. P-CAB으로 PPI를 대체할 수 있음. 상세 요법은_ ☞ [_헬리코박터_](080_-helicobacter-pylori-infection.md) _챕터 참조. 모든 환자에서 치료 종료 최소 4주 후, PPI/P-CAB 2주 이상 중단 후 UBT 또는 SAT로 제균을 확인함. 메트로니다졸 복용 중 및 종료 후 3일간 금주함._
+> _✽페니실린 알레르기가 없는 성인의 예시임. 2025 개정 국내 지침은 clarithromycin 내성 검사 기반 맞춤치료(감수성 → 7일 3제요법, 내성 → 10일 bismuth 4제요법; 권고문 4-2 기준)와 10일 concomitant 요법을 두 축으로 제시함. 검사가 어려우면 DUR로 이전 macrolide 노출을 확인하고, 노출력이 있으면 bismuth 4제요법 또는 변형 bismuth 4제요법(PAMB)을 고려함. 경험적 clarithromycin 3제요법은 감수성검사가 불가능하고 지역 내성률이 15% 미만으로 예상되는 제한적인 경우에만 고려함. 페니실린 알레르기에서는 bismuth 4제요법을 우선함. 순차요법과 PAM 요법은 1차 권고에서 제외됨. Levofloxacin 요법은 이전 fluoroquinolone 노출이 없거나 감수성이 확인된 경우에 한한 제한적 구제요법임. 신장애에서는 amoxicillin·clarithromycin 용량 조정과 bismuth의 품목 금기를 확인함. Clarithromycin의 QT 연장·CYP3A4 상호작용(일부 statin·항부정맥제 등), metronidazole-warfarin 상호작용 및 임신 가능성을 확인함. P-CAB으로 PPI를 대체할 수 있음. 상세 요법은_ ☞ [_헬리코박터_](080_-h_pylori-infection.md) _챕터 참조. 모든 환자에서 치료 종료 최소 4주 후, PPI/P-CAB 2주 이상 중단 후 UBT 또는 SAT로 제균을 확인함. 메트로니다졸 복용 중 및 종료 후 3일간 금주함._
+
+{% hint style="info" %}
+**제균 기간의 원문 내 불일치** : 2025 개정 지침의 권고문 4-2와 해당 해설은 감수성 확인 균주에 7일 3제요법을 권고하지만, 같은 원문의 요약표 6에는 14일로 기재되어 있음. 이 장은 권고문 4-2를 기준으로 기술했으며 경험적 동시요법 10일 및 P-CAB 성분별 허가 기간과 구분함. 처방 시 정정 공지·기관 프로토콜·품목정보를 함께 확인.
+{% endhint %}
 
 ***
 
@@ -474,7 +486,8 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 > * **타르처럼 끈적한 까만 변(흑색변)이 나오거나 피를 토하는** 경우 → 즉시 응급실
 > * 음식이 완전히 걸려 침도 삼키기 어렵거나 호흡이 불편한 경우 → 즉시 응급실
 > * 새로 발생하거나 진행하는 연하곤란·연하통, 지속적인 비의도적 체중 감소 → 신속한 진료 및 내시경 평가
-> * **예정된 재평가 시점(대개 2\~4주)에도 증상이 나아지지 않는** 경우 → 재방문; 악화되거나 위의 경고 증상이 생기면 즉시 진료
+> * **예정된 재평가 시점에도 증상이 나아지지 않는** 경우 → 재방문. 가스모틴은 보통 2주, 모티리톤은 약 4주, 위염용 펙수클루 10 ㎎은 2주에 재평가; 그 전이라도 악화되면 진료
+> * 약 복용 후 호흡곤란·입술 또는 혀의 부종·실신 → 복용 중단 후 **즉시 119 또는 응급실**; 새 황달·진한 소변·심한 전신 발진 → 복용 중단 후 **당일 진료**
 
 ***
 
@@ -531,7 +544,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 * 제산제(알마겔 등)는 보통 식후 30분\~1시간에 복용하며, 제품·처방별 횟수와 다른 약과의 간격을 지킵니다. 2주 정도 복용해도 호전이 없으면 진료를 받으십시오.
 * 대부분의 위산 억제제(PPI)는 **식사 30\~60분 전**에 복용하지만 제품에 따라 식사와 관계없이 복용하는 약도 있으므로 복약 안내를 따르십시오.
 * 점막 보호제는 종류에 따라 복용 시간이 다릅니다. 복약 안내를 꼭 확인하십시오.
-* 헬리코박터 양성으로 제균 치료를 받는 경우: **처방된 약을 빠짐없이 끝까지 복용하는 것이 매우 중요합니다.** 중간에 임의로 중단하면 내성균이 생겨 치료가 더 어려워집니다. 치료가 끝나고 4주 이상 지난 뒤 균이 없어졌는지 반드시 확인 검사를 받으십시오.
+* 헬리코박터 양성으로 제균 치료를 받는 경우: **처방된 약을 빠짐없이 끝까지 복용하는 것이 매우 중요합니다.** 중간에 임의로 중단하면 내성균이 생겨 치료가 더 어려워집니다. 항생제·비스무트 치료가 끝난 뒤 최소 4주가 지나 제균 확인검사를 받으십시오. PPI·P-CAB은 검사 전 최소 2주 중단해야 하므로, 의료진과 중단 일정·필요한 대체 약을 정하십시오. 메트로니다졸을 복용한다면 치료 중과 종료 후 3일간 금주하십시오.
 * **약물 복용 시 반드시 의사·약사와 상의하십시오.** 특히 **임신 중 또는 임신 가능성이 있는 경우**, 위궤양 예방에 쓰는 일부 약물(misoprostol 등)은 절대 복용해서는 안 되며, 일부 위산 억제제도 임신·수유 중에는 쓰지 않습니다.
 * 위산 억제제는 필요할 때 효과적인 약입니다. 다만 불필요한 장기 복용은 피하고, 증상이 조절되면 의사와 상의해 줄이거나 중단하는 것이 좋습니다.
 
@@ -540,6 +553,9 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 * **타르처럼 끈적한 까만 변이 나오거나 피를 토하는** 경우 → 즉시 응급실
 * **음식이 완전히 걸려 침도 삼키기 어렵거나 호흡이 불편한** 경우 → 즉시 응급실
 * **새로 발생하거나 진행하는 연하곤란·연하통, 원인 모를 체중 감소** → 신속히 진료
+* 계속 토해 물도 마시기 어렵거나 탈수 증상이 있으면 → **당일 진료**
+* 새 황달 또는 복통과 발열·오한이 있으면 → **당일 진료**; 의식이 흐려지거나 실신하면 **즉시 응급실**
+* 약 복용 후 호흡곤란·입술 또는 혀의 부종·실신이 생기면 → 복용을 중단하고 **즉시 119 또는 응급실**
 * **처방된 치료 기간이 끝나도 증상이 지속되는** 경우 → 외래 재방문; 증상이 악화되거나 경고 증상이 생기면 더 일찍 진료
 * 새로 생긴 증상과 함께 빈혈·출혈·반복 구토·연하곤란·체중 감소가 있거나 위암 가족력이 있으면 내시경 필요성을 신속히 평가해야 합니다.
 
