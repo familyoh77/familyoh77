@@ -1,4 +1,4 @@
-# 위장 질환의 감별
+# 위장 증상의 감별 DDx of GI Sx
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -37,38 +37,38 @@ GLP-1 계열 약제, 즉 GLP-1 수용체 작용제(예: semaglutide, liraglutide
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 반발압통, 판자배, 불수의적 복부 근육 경직  `복막염`  `위장관 천공`
-* 토혈·혈변·흑색변과 혈역학적 불안정, 실신 또는 의식 변화  `중증 위장관 출혈`
-* 진찰 소견에 비해 매우 심한 갑작스러운 복통, 또는 쇼크를 동반한 복통  `급성 장간막허혈`  `대동맥 질환`
-* 심한 복통과 복부 팽만·지속 구토·가스/대변 배출 감소 또는 중단  `장폐색`  `교액`
-* 지속적 담즙성 구토 또는 분변성 구토  `기계적 폐색`
-* 침도 삼키지 못하거나 침을 흘리는 급성 음식 매복  `완전 식도 폐색`
-* 감염 의심과 저혈압·의식 변화·호흡곤란·저관류, 또는 원인 불명의 쇼크  `패혈증`  `쇼크`
-* 흉부 압박감·식은땀·호흡곤란을 동반한 상복부 불편감·구역  `급성관상동맥증후군`
-* 임신 가능성이 있는 여성의 복통과 실신·쇼크 또는 질출혈  `자궁외임신`
-* 발열·황달·우상복부 통증과 저혈압·의식 변화·장기기능장애  `중증 급성 담관염`
+* 반발압통, 판자배, 불수의적 복부 근육 경직 `복막염` `위장관 천공`
+* 토혈·혈변·흑색변과 혈역학적 불안정, 실신 또는 의식 변화 `중증 위장관 출혈`
+* 진찰 소견에 비해 매우 심한 갑작스러운 복통, 또는 쇼크를 동반한 복통 `급성 장간막허혈` `대동맥 질환`
+* 심한 복통과 복부 팽만·지속 구토·가스/대변 배출 감소 또는 중단 `장폐색` `교액`
+* 지속적 담즙성 구토 또는 분변성 구토 `기계적 폐색`
+* 침도 삼키지 못하거나 침을 흘리는 급성 음식 매복 `완전 식도 폐색`
+* 감염 의심과 저혈압·의식 변화·호흡곤란·저관류, 또는 원인 불명의 쇼크 `패혈증` `쇼크`
+* 흉부 압박감·식은땀·호흡곤란을 동반한 상복부 불편감·구역 `급성관상동맥증후군`
+* 임신 가능성이 있는 여성의 복통과 실신·쇼크 또는 질출혈 `자궁외임신`
+* 발열·황달·우상복부 통증과 저혈압·의식 변화·장기기능장애 `중증 급성 담관염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 침은 삼킬 수 있으나 지속되는 급성 음식 매복  `불완전 식도 폐색`
-* **(당일)** 혈역학적으로 안정적이나 새로 발생한 토혈·흑색변, 또는 지속·반복되는 유의한 혈변  `위장관 출혈`
-* **(당일)** 탈수·전해질 이상 또는 경구 섭취 곤란을 동반한 심한 구역·구토  `탈수`  `대사 이상`
-* **(당일)** 발열과 황달·우상복부 통증  `급성 담관염`
-* 새로 발생하거나 진행하는 삼킴곤란·삼킴 통증  `식도 협착`  `식도암`  `호산구성 식도염`
-* 설명되지 않는 체중 감소, 철결핍 또는 철결핍빈혈  `위장관 악성종양`  `잠재 출혈`  `흡수장애`
-* 무통성 황달 또는 체중 감소를 동반한 새로운 상복부·등 통증  `췌담도 악성종양`
-* 체중 감소·발열·빈혈을 동반한 반복 야간 설사 또는 야간 증상  `염증성 장질환`  `분비성 설사`
-* 복부 종괴 촉지  `위장관 종양`  `농양`
+* **(당일)** 침은 삼킬 수 있으나 지속되는 급성 음식 매복 `불완전 식도 폐색`
+* **(당일)** 혈역학적으로 안정적이나 새로 발생한 토혈·흑색변, 또는 지속·반복되는 유의한 혈변 `위장관 출혈`
+* **(당일)** 탈수·전해질 이상 또는 경구 섭취 곤란을 동반한 심한 구역·구토 `탈수` `대사 이상`
+* **(당일)** 발열과 황달·우상복부 통증 `급성 담관염`
+* 새로 발생하거나 진행하는 삼킴곤란·삼킴 통증 `식도 협착` `식도암` `호산구성 식도염`
+* 설명되지 않는 체중 감소, 철결핍 또는 철결핍빈혈 `위장관 악성종양` `잠재 출혈` `흡수장애`
+* 무통성 황달 또는 체중 감소를 동반한 새로운 상복부·등 통증 `췌담도 악성종양`
+* 체중 감소·발열·빈혈을 동반한 반복 야간 설사 또는 야간 증상 `염증성 장질환` `분비성 설사`
+* 복부 종괴 촉지 `위장관 종양` `농양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 40세 이상에서 새로 발생한 소화불량  `위암`
-* 50세 이상에서 새로 발생한 배변 습관 변화  `대장암`
-* 적절한 경험적 치료에도 지속되는 소화불량, 반복 복통 또는 만성 설사  `기질성 질환`
-* _H. pylori_ 제균 실패 또는 제균 여부 미확인  `H. pylori 감염`
+* 40세 이상에서 새로 발생한 소화불량 `위암`
+* 50세 이상에서 새로 발생한 배변 습관 변화 `대장암`
+* 적절한 경험적 치료에도 지속되는 소화불량, 반복 복통 또는 만성 설사 `기질성 질환`
+* _H. pylori_ 제균 실패 또는 제균 여부 미확인 `H. pylori 감염`
 * 조직검사상 위축성 위염·장상피화생
-* 체부 우세 위축성 위염, 또는 원인 불명의 비타민 B12 결핍·철결핍  `자가면역 위염`
-* 위암·대장암 직계가족력이 있는 환자의 새로 발생하거나 지속되는 위장관 증상  `위암`  `대장암`
+* 체부 우세 위축성 위염, 또는 원인 불명의 비타민 B12 결핍·철결핍 `자가면역 위염`
+* 위암·대장암 직계가족력이 있는 환자의 새로 발생하거나 지속되는 위장관 증상 `위암` `대장암`
 * 삶의 질 저하가 크거나 초기 치료에 반응하지 않는 DGBI
 
 {% hint style="info" %}
@@ -169,7 +169,7 @@ _<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dys
 
 * 4주 이상 지속되는 설사는 수양성·염증성/혈성·지방성 양상, 체중 변화, 식이·약물, 항생제·입원·여행·수술력을 확인. 고령자·변비 환자는 분변 매복에 의한 넘침설사도 고려
 * 기능성 설사/IBS-D가 의심되는 만성 수양성 설사에서는 분변 calprotectin 또는 lactoferrin으로 IBD 선별을 고려. CRP·ESR만으로 IBD를 배제하지 않음
-* Giardia 분변항원 또는 PCR 검사를 고려. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 _C. difficile_을 고려
+* Giardia 분변항원 또는 PCR 검사를 고려. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 \_C. difficile\_을 고려
 * 셀리악병(celiac disease) 검사는 글루텐 섭취 중 tTG-IgA와 total IgA를 이용. IgA 결핍 시 IgG 기반 검사로 보완하고, 양성이거나 임상적 의심이 높으면 전문 평가 및 십이지장 생검을 고려. 검사 전에 임의로 글루텐 제한 식이를 시작하지 않음. 국내 유병률은 매우 낮으므로 검사 전 가능성을 고려
 * 담즙산 설사(회장 질환·절제, 담낭절제 후 또는 원발성)와 현미경적 대장염을 고려. 후자는 대장내시경 외관이 정상일 수 있어 의심 시 우측·좌측 대장 생검이 필요함. 국내에서는 담즙산 설사의 확진 검사(SeHCAT, 혈청 7α-C4)를 일반적으로 이용하기 어려워 담즙산 결합제의 경험적 치료를 고려할 수 있음. 반응만으로 확진하거나 무반응만으로 배제하지 않으며, 용량·복약 순응도·내약성과 다른 원인을 함께 평가
 * 혈변·체중 감소·빈혈·저알부민혈증, 지방변·흡수장애, 면역저하 또는 중요한 가족력이 있으면 의심 질환에 따른 평가를 확대. AGA 2019의 제한 검사 권고는 경고 징후가 없는 정상 면역 성인의 만성 수양성 설사에 대한 것으로, 모든 만성 설사에 동일하게 적용하지 않음
@@ -182,7 +182,7 @@ _<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dys
 * 위마비는 증상만으로 진단하지 않음. 기계적 폐색을 배제하고 객관적 위배출 지연을 확인해야 함. AGA 2025는 의심 환자에서 4시간 위배출검사를 2시간 검사보다 권고함. 검사 전 혈당과 위배출에 영향을 주는 약물의 조정 여부를 검사실 프로토콜에 따라 확인함. 국내에서는 위배출 신티그래피 시행 기관이 제한적임
 * 내시경에서 음식물이 남아 있다는 사실만으로 위마비를 확진하지 않음. 약물·금식 상태·폐색 등도 고려함
 
-### <mark style="color:orange;">상부위장관 내시경 적응증</mark>
+### <mark style="color:orange;">상부위장관 내시경(Upper GI Endoscopy) 적응증</mark>
 
 #### <mark style="color:$primary;">일반 원칙</mark>
 
@@ -289,13 +289,13 @@ flowchart TD
 
 <figure><img src="../.gitbook/assets/074_belching_algorithm_v3.png" alt="트림 의심 환자의 평가와 유형별 관리 알고리듬"><figcaption></figcaption></figure>
 
-<p align="center"><strong>트림 및 트림 불능의 평가·관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4;</mark></em> <br><em><mark style="color:$info;">Rome V: Törnblom H, et al. Gastroenterology. 2026;170(6):1240-1260;</mark></em> <br><em><mark style="color:$info;">Katz PO, et al. Am J Gastroenterol. 2022;117(1):27-56)</mark></em></p>
+<p align="center"><strong>트림 및 트림 불능의 평가·관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4;</mark></em><br><em><mark style="color:$info;">Rome V: Törnblom H, et al. Gastroenterology. 2026;170(6):1240-1260;</mark></em><br><em><mark style="color:$info;">Katz PO, et al. Am J Gastroenterol. 2022;117(1):27-56)</mark></em></p>
 
 ***
 
 <figure><img src="../.gitbook/assets/074_bloating_algorithm_v2.png" alt="경고 징후를 먼저 평가하는 복부 팽만감 및 복부 팽창 알고리듬"><figcaption></figcaption></figure>
 
-<p align="center"><strong>복부 팽만감·복부 팽창의 평가와 관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5;</mark></em> <br><em><mark style="color:$info;">Pimentel M, et al. Am J Gastroenterol. 2020;115(2):165-178;</mark></em> <br><em><mark style="color:$info;">Rome V: Corsetti M, et al. Gastroenterology. 2026;170(6):1261-1282;</mark></em> <br><em><mark style="color:$info;">Melchior C, et al. United European Gastroenterol J. 2025;13(9):1613-1651)</mark></em></p>
+<p align="center"><strong>복부 팽만감·복부 팽창의 평가와 관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5;</mark></em><br><em><mark style="color:$info;">Pimentel M, et al. Am J Gastroenterol. 2020;115(2):165-178;</mark></em><br><em><mark style="color:$info;">Rome V: Corsetti M, et al. Gastroenterology. 2026;170(6):1261-1282;</mark></em><br><em><mark style="color:$info;">Melchior C, et al. United European Gastroenterol J. 2025;13(9):1613-1651)</mark></em></p>
 
 > _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal manometry; BET = balloon expulsion test; CBT = 인지행동치료; FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides and polyols; HRIM = high-resolution impedance manometry; NCGS = nonceliac gluten sensitivity; R-CPD = retrograde cricopharyngeal dysfunction; SIBO = small intestinal bacterial overgrowth; TLESR = transient lower esophageal sphincter relaxation; VH = visceral hypersensitivity</mark>_
 

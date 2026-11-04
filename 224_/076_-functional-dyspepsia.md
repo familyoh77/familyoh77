@@ -2,7 +2,8 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 상복부 통증·작열감, 식후 충만감 또는 조기 포만감이 만성적으로 재발하며, 적절한 평가에서 이 증상을 설명할 기질적·전신적·대사 질환이 확인되지 않는 상태. GERD·IBS의 동반 자체가 FD를 배제하지는 않음
+* 상복부 통증·작열감, 식후 충만감 또는 조기 포만감이 만성적으로 재발하며, 적절한 평가에서 이 증상을 설명할 기질적·전신적·대사 질환이 확인되지 않는 상태
+* GERD·IBS가 동반될 수 있음
 * 과거에는 non-ulcer dyspepsia로 불렸음; indigestion 또는 dyspepsia는 기능성 소화불량보다 넓은 증상 개념
 * 유병률 : Rome IV를 적용한 국제 인구 조사에서 약 7%; 진단 기준·조사 방법·국가에 따라 차이가 큼. 넓은 의미의 소화불량 유병률과 직접 비교하지 않음 <mark style="color:$info;">\[BSG 2022]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md))
 * 이 장의 진단 기준과 처방례는 **성인**을 대상으로 함; 소아·청소년은 별도의 진단 기준(Rome V 소아 기준 : 기간 ≥2개월, PDS ≥3일/주)과 약제별 허가 연령을 적용
@@ -43,22 +44,22 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈·흑색변, 특히 실신·저혈압·빈맥 동반  `상부 위장관 출혈`
-* 갑자기 발생한 심한 복통, 반발통·복벽 경직  `천공`  `급성 복증`
-* 상복부 불편감과 흉부 압박감·호흡곤란·식은땀 동반  `급성 관상동맥증후군`
-* 상복부 통증·발열·황달과 저혈압·의식 변화 등 전신 상태 악화 동반  `중증 급성 담관염`  `패혈증`
+* 토혈·흑색변, 특히 실신·저혈압·빈맥 동반 `상부 위장관 출혈`
+* 갑자기 발생한 심한 복통, 반발통·복벽 경직 `천공` `급성 복증`
+* 상복부 불편감과 흉부 압박감·호흡곤란·식은땀 동반 `급성 관상동맥증후군`
+* 상복부 통증·발열·황달과 저혈압·의식 변화 등 전신 상태 악화 동반 `중증 급성 담관염` `패혈증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 지속적 구토 또는 수분 섭취 곤란·탈수 **(당일)**  `위장관 폐쇄`  `대사 이상`
-* 새로 발생한 황달 또는 지속적 상복부 통증에 발열·오한 동반 **(당일)**  `급성 담관염`  `급성 췌장염`
-* 진행성 연하곤란·연하통, 원인 불명 체중감소·철결핍성 빈혈  `상부 위장관 악성종양`
-* 등으로 퍼지는 지속적 상복부 통증, 복부 종괴  `췌장·담도 질환`
+* 지속적 구토 또는 수분 섭취 곤란·탈수 **(당일)** `위장관 폐쇄` `대사 이상`
+* 새로 발생한 황달 또는 지속적 상복부 통증에 발열·오한 동반 **(당일)** `급성 담관염` `급성 췌장염`
+* 진행성 연하곤란·연하통, 원인 불명 체중감소·철결핍성 빈혈 `상부 위장관 악성종양`
+* 등으로 퍼지는 지속적 상복부 통증, 복부 종괴 `췌장·담도 질환`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* ≥40세에서 아직 평가되지 않은 지속·반복 소화불량, 특히 새로 발생하거나 양상이 변한 경우; 위암 가족력  `위암`
-* 경고 징후가 없으나 적절한 초기 치료에도 증상이 지속·악화함  `기질적 질환`  `난치성 FD`
+* ≥40세에서 아직 평가되지 않은 지속·반복 소화불량, 특히 새로 발생하거나 양상이 변한 경우; 위암 가족력 `위암`
+* 경고 징후가 없으나 적절한 초기 치료에도 증상이 지속·악화함 `기질적 질환` `난치성 FD`
 
 　☞ [위장질환의 감별](074_-gidz.md)
 
@@ -110,7 +111,6 @@
 * Rome Foundation 공개 정량 기준에서는 PDS 기준을 충족하지 않는 경우로 분류. PDS 핵심 증상을 동반하는 식후 통증·작열감은 우선 PDS의 일부로 평가
 * **구역이 우세하거나 구토가 지속되면 EPS 진단에서 제외**하고 CNVS·위마비 등 평가. 통증이 배변으로 일관되게 호전되면 장 질환에 의한 증상인지 검토
 * EPS의 잠정적 세부분류 : 통증·작열감이 식후 시작·악화되는 비율이 ≥50%이면 식후 EPS, ＜50%이면 식사 비관련 EPS. 치료를 고정하는 기준으로 사용하지 않음
-
 * PDS/EPS의 임상 증상 중첩과 연구 분류를 구분하며, 아형만으로 병태생리나 약물 반응을 단정하지 않음. GERD·IBS는 동반될 수 있음
 * 임상에서는 필요한 평가 후 진단·치료하며 연구용 기간·빈도를 채우기 위해 진료를 늦추지 않음
 
@@ -449,65 +449,52 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Rome Foundation. Rome V Criteria. 2026. - <mark style="color:$info;">DGBI 진단 체계와 질환별 빈도·기간 및 배제 조건(PDS ≥2일/주, EPS ≥1일/주)</mark>
+*   Rome Foundation. Rome V Criteria. 2026. - <mark style="color:$info;">DGBI 진단 체계와 질환별 빈도·기간 및 배제 조건(PDS ≥2일/주, EPS ≥1일/주)</mark>
 
-  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+    [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+*   Oh JH, et al. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020;26:29-50. - <mark style="color:$info;">국내 위암 역학을 고려한 내시경 접근과 FD 치료</mark>
 
-* Oh JH, et al. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020;26:29-50. - <mark style="color:$info;">국내 위암 역학을 고려한 내시경 접근과 FD 치료</mark>
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/)
+*   Black CJ, et al. British Society of Gastroenterology guidelines on the management of functional dyspepsia. Gut. 2022;71:1697-1723. - <mark style="color:$info;">임상 진단, 초기 치료, 신경조절제·행동치료 및 영양 관리</mark>
 
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/)
+    [https://gut.bmj.com/content/71/9/1697](https://gut.bmj.com/content/71/9/1697)
+*   Mahadeva S, et al. Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. J Gastroenterol Hepatol. 2026;41:832-853. - <mark style="color:$info;">아시아 FD 진료 권고; P-CAB·프로바이오틱스 근거의 한계</mark>
 
-* Black CJ, et al. British Society of Gastroenterology guidelines on the management of functional dyspepsia. Gut. 2022;71:1697-1723. - <mark style="color:$info;">임상 진단, 초기 치료, 신경조절제·행동치료 및 영양 관리</mark>
+    [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+*   Shiha MG, et al. Low Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols Diet vs Traditional Dietary Advice in Postprandial Functional Dyspepsia: A Randomized Clinical Trial. Clin Gastroenterol Hepatol. 2026. Online ahead of print. doi:10.1016/j.cgh.2026.06.006. - <mark style="color:$info;">단일기관 PDS 60명, 6주 식이 중재; IBS 동반 63%와 장기·일반화의 한계</mark>
 
-  [https://gut.bmj.com/content/71/9/1697](https://gut.bmj.com/content/71/9/1697)
+    [https://pubmed.ncbi.nlm.nih.gov/42297316/](https://pubmed.ncbi.nlm.nih.gov/42297316/)
+*   Chuah KH, et al. Clinical Trial: Treatment of Functional Dyspepsia According to Subtype Compared With Empirical Proton Pump Inhibitor. Aliment Pharmacol Ther. 2025;61:258-267. - <mark style="color:$info;">아형별 초기 치료(EPS esomeprazole, PDS itopride)가 경험적 PPI보다 우월하지 않았던 무작위시험</mark>
 
-* Mahadeva S, et al. Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. J Gastroenterol Hepatol. 2026;41:832-853. - <mark style="color:$info;">아시아 FD 진료 권고; P-CAB·프로바이오틱스 근거의 한계</mark>
+    [https://pubmed.ncbi.nlm.nih.gov/39618195/](https://pubmed.ncbi.nlm.nih.gov/39618195/)
+*   Ford AC, et al. Efficacy of Helicobacter pylori Eradication Therapy for Functional Dyspepsia: Updated Systematic Review and Meta-analysis. Gut. 2022;71:1967-1975. - <mark style="color:$info;">증상 소실(NNT 14)과 개선(NNT 9)을 구분한 제균 효과</mark>
 
-  [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+    [https://pubmed.ncbi.nlm.nih.gov/35022266/](https://pubmed.ncbi.nlm.nih.gov/35022266/)
+*   Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024;119:1730-1753. - <mark style="color:$info;">제균 치료 선택과 증상 호전 여부에 관계없는 제균 성공 확인; 아래는 ACG 공식 요약 자료</mark>
 
-* Shiha MG, et al. Low Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols Diet vs Traditional Dietary Advice in Postprandial Functional Dyspepsia: A Randomized Clinical Trial. Clin Gastroenterol Hepatol. 2026. Online ahead of print. doi:10.1016/j.cgh.2026.06.006. - <mark style="color:$info;">단일기관 PDS 60명, 6주 식이 중재; IBS 동반 63%와 장기·일반화의 한계</mark>
+    [https://gi.org/journals-publications/ebgi/schoenfeld\_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
+*   Mohamedali Z, et al. Effect of Buspirone on Upper Gastrointestinal Disorders of Gut-Brain Interaction: A Systematic Review and Meta-analysis. J Neurogastroenterol Motil. 2025;31:18-27. - <mark style="color:$info;">전체 FD/위마비 증상에서 유의한 효과 미확인; 일부 팽만 증상 개선 신호와 근거 한계</mark>
 
-  [https://pubmed.ncbi.nlm.nih.gov/42297316/](https://pubmed.ncbi.nlm.nih.gov/42297316/)
+    [https://pubmed.ncbi.nlm.nih.gov/39779200/](https://pubmed.ncbi.nlm.nih.gov/39779200/)
+*   Cao L, et al. Randomized clinical trial: the effects of mirtazapine in functional dyspepsia patients. Ther Adv Gastroenterol. 2025;18:17562848241311129. - <mark style="color:$info;">치료 불응 FD에서 mirtazapine 추가 치료의 효과; 단일기관·비맹검 및 대조군 설계의 한계</mark>
 
-* Chuah KH, et al. Clinical Trial: Treatment of Functional Dyspepsia According to Subtype Compared With Empirical Proton Pump Inhibitor. Aliment Pharmacol Ther. 2025;61:258-267. - <mark style="color:$info;">아형별 초기 치료(EPS esomeprazole, PDS itopride)가 경험적 PPI보다 우월하지 않았던 무작위시험</mark>
+    [https://pubmed.ncbi.nlm.nih.gov/39758962/](https://pubmed.ncbi.nlm.nih.gov/39758962/)
+*   Nguyen HT, et al. Mirtazapine in Treating Functional Dyspepsia: A Systematic Review and Meta-Analysis. Gastroenterology Res. 2026;19:184-189. - <mark style="color:$info;">RCT 3개; 증상 개선 신호가 있으나 소규모 연구와 이질성으로 일반화에 한계</mark>
 
-  [https://pubmed.ncbi.nlm.nih.gov/39618195/](https://pubmed.ncbi.nlm.nih.gov/39618195/)
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC13568771/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13568771/)
+*   Shin HW, et al. Levosulpiride-induced movement disorders. Mov Disord. 2009;24:2249-2253. - <mark style="color:$info;">약물 유발 파킨슨증·지연성 운동장애에 대한 국내 임상 자료</mark>
 
-* Ford AC, et al. Efficacy of Helicobacter pylori Eradication Therapy for Functional Dyspepsia: Updated Systematic Review and Meta-analysis. Gut. 2022;71:1967-1975. - <mark style="color:$info;">증상 소실(NNT 14)과 개선(NNT 9)을 구분한 제균 효과</mark>
+    [https://pubmed.ncbi.nlm.nih.gov/19795476/](https://pubmed.ncbi.nlm.nih.gov/19795476/)
+*   American Geriatrics Society. 2023 Updated AGS Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2023;71:2052-2081. - <mark style="color:$info;">고령자의 강한 항콜린성 항우울제 회피와 이상반응 위험</mark>
 
-  [https://pubmed.ncbi.nlm.nih.gov/35022266/](https://pubmed.ncbi.nlm.nih.gov/35022266/)
-
-* Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024;119:1730-1753. - <mark style="color:$info;">제균 치료 선택과 증상 호전 여부에 관계없는 제균 성공 확인; 아래는 ACG 공식 요약 자료</mark>
-
-  [https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
-
-* Mohamedali Z, et al. Effect of Buspirone on Upper Gastrointestinal Disorders of Gut-Brain Interaction: A Systematic Review and Meta-analysis. J Neurogastroenterol Motil. 2025;31:18-27. - <mark style="color:$info;">전체 FD/위마비 증상에서 유의한 효과 미확인; 일부 팽만 증상 개선 신호와 근거 한계</mark>
-
-  [https://pubmed.ncbi.nlm.nih.gov/39779200/](https://pubmed.ncbi.nlm.nih.gov/39779200/)
-
-* Cao L, et al. Randomized clinical trial: the effects of mirtazapine in functional dyspepsia patients. Ther Adv Gastroenterol. 2025;18:17562848241311129. - <mark style="color:$info;">치료 불응 FD에서 mirtazapine 추가 치료의 효과; 단일기관·비맹검 및 대조군 설계의 한계</mark>
-
-  [https://pubmed.ncbi.nlm.nih.gov/39758962/](https://pubmed.ncbi.nlm.nih.gov/39758962/)
-
-* Nguyen HT, et al. Mirtazapine in Treating Functional Dyspepsia: A Systematic Review and Meta-Analysis. Gastroenterology Res. 2026;19:184-189. - <mark style="color:$info;">RCT 3개; 증상 개선 신호가 있으나 소규모 연구와 이질성으로 일반화에 한계</mark>
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC13568771/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13568771/)
-
-* Shin HW, et al. Levosulpiride-induced movement disorders. Mov Disord. 2009;24:2249-2253. - <mark style="color:$info;">약물 유발 파킨슨증·지연성 운동장애에 대한 국내 임상 자료</mark>
-
-  [https://pubmed.ncbi.nlm.nih.gov/19795476/](https://pubmed.ncbi.nlm.nih.gov/19795476/)
-
-* American Geriatrics Society. 2023 Updated AGS Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2023;71:2052-2081. - <mark style="color:$info;">고령자의 강한 항콜린성 항우울제 회피와 이상반응 위험</mark>
-
-  [https://doi.org/10.1111/jgs.18372](https://doi.org/10.1111/jgs.18372)
+    [https://doi.org/10.1111/jgs.18372](https://doi.org/10.1111/jgs.18372)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - <mark style="color:$info;">국내 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
+*   건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). - <mark style="color:$info;">약제별 급여기준과 병용·연령·용량·투여기간 주의 정보</mark>
 
-* 건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). - <mark style="color:$info;">약제별 급여기준과 병용·연령·용량·투여기간 주의 정보</mark>
-
-  [https://www.hira.or.kr](https://www.hira.or.kr)
+    [https://www.hira.or.kr](https://www.hira.or.kr)
 
 ***
 
