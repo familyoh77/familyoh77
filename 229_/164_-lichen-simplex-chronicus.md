@@ -196,6 +196,7 @@ graph TD
 (☞ [TCA](../231_/213_-antidepressants-and-anxiolytics.md#tricyclic-antidepressant-tca))
 
 * amitriptyline : 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>; LSC/소양증에는 국내 허가 외 사용
+* 국내 amitriptyline(에트라빌)은 심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·부정맥·급성 섬망·MAOI 투여 중 등에서 금기임. 저용량 허가 외 사용에도 해당 금기를 적용하며 단순 부작용 관찰로 대체하지 않음; 다른 TCA에는 해당 제품의 허가사항을 별도 적용(001 참조)
 * 난치성 야간 소양증·신경병성 요소 등에서 선택적으로 고려; 항콜린성 부작용, 기립저혈압, QT 연장·부정맥 및 과량복용 독성에 주의. 고령자는 가급적 피하고 hydroxyzine 등 QT 연장 약물과 병용하지 않음
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>

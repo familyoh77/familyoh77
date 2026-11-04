@@ -348,7 +348,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 ### <mark style="color:orange;">대상포진후신경통(PHN) 약물치료</mark>
 
 * 통증 강도, 이질통, 수면장애, 신기능, 낙상 위험 및 항콜린 부작용 위험을 평가
-* 국소 통증·이질통이 두드러지면 lidocaine patch를 우선 또는 병용 고려
+* 국소 통증·이질통이 두드러지면 lidocaine patch를 고려함. 일반적으로 2차 선택이나 고령·쇠약 또는 전신 약제의 부작용 부담이 큰 환자에서는 먼저 고려할 수 있으며, 반응에 따라 선택적으로 병용함(001 참조)
   * 국내 급여 : gabapentin/pregabalin과 lidocaine 패취제를 처음부터 병용하면 저렴한 약제 약값은 전액 본인부담이 원칙이며, 2\~4주 치료 후 호전이 없어 병용하는 경우에는 병용 급여 인정 기준이 있음. 임상적 병용 가능 여부와 급여를 구분하고 최신 고시를 확인
 * 전신 치료는 gabapentinoid 또는 TCA 중 하나를 저용량으로 시작하여 서서히 증량
 * acetaminophen과 NSAID는 동반된 체성통증의 보조요법일 수 있으나 PHN의 주된 치료제가 아님
@@ -357,6 +357,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 * 중단 시 점진적으로 감량함. 뉴론틴 2026-10-07 개정 설명서 예시 : 900\~1,800 ㎎/day는 최소 1주, 3,600 ㎎/day는 최소 3주에 걸쳐 중단. Pregabalin은 최소 1주에 걸쳐 감량하며 장기 투여·금단 증상 등에 따라 더 천천히 조정
 * Gabapentinoid와 opioid·benzodiazepine 등 중추신경억제제를 병용하면 호흡억제 위험이 증가하므로 고령·호흡기질환 환자는 특히 주의
 * Gabapentin은 마그네슘·알루미늄 제산제 투여 최소 2시간 후 복용함. Pregabalin은 부종·체중증가와 심부전 악화 가능성을 확인하며, 가임 여성은 임신 가능성·효과적인 피임을 상담함
+* 국내 amitriptyline(에트라빌)은 심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·부정맥·급성 섬망·MAOI 투여 중 등에서 금기임. 저용량 허가 외 사용에도 해당 금기를 적용하며 단순 부작용 관찰로 대체하지 않음; 다른 TCA에는 해당 제품의 허가사항을 별도 적용(001 참조)
 * TCA의 신경병성 통증 치료는 국내 허가 외 사용임; 부정맥·QT 연장 위험, 녹내장·요폐 및 항콜린 부작용을 확인. 국내 acetaminophen 제품의 TCA 병용 금기에도 유의하며 tramadol 병용 시 세로토닌증후군·경련 위험이 증가함
 
 <table><thead><tr><th width="150">약제</th><th width="230">시작 및 증량 예시</th><th>주요 주의사항</th></tr></thead><tbody><tr><td><strong>lidocaine patch</strong><br><mark style="color:blue;">\[리도탑 카타플라스마]</mark></td><td>통증 부위의 손상되지 않은 피부에 1\~3매<br>최대 12시간 부착 후 12시간 휴약</td><td>열린 상처·활성 수포 위에 부착하지 않음<br>찜질팩·전기장판 등 외부 열원 회피<br>국소 피부반응</td></tr><tr><td><strong>gabapentin</strong><br><mark style="color:blue;">\[뉴론틴 등]</mark></td><td>300 ㎎ hs → 300 ㎎ bid → 300 ㎎ tid<br>고령자는 100\~300 ㎎ hs부터 더 천천히 증량<br>통상 900\~1,800 ㎎/day, 필요시 최대 3,600 ㎎/day</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 낙상</td></tr><tr><td><strong>pregabalin</strong><br><mark style="color:blue;">\[리리카 등]</mark></td><td>75 ㎎ bid로 시작<br>3\~7일 후 150 ㎎ bid까지 증량 가능<br>필요시 이후 7일 간격으로 최대 300 ㎎ bid<br>고령·쇠약자는 더 낮게 시작</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 체중증가</td></tr><tr><td><strong>amitriptyline</strong><br><mark style="color:blue;">\[에트라빌]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>항콜린작용, 기립저혈압, 진정, QT 연장<br>고령자는 가능한 한 회피하거나 매우 저용량 사용</td></tr><tr><td><strong>nortriptyline</strong><br><mark style="color:blue;">\[센시발]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>amitriptyline보다 항콜린·진정 작용이 상대적으로 적지만 고령자 주의<br>센시발 국내 금기 : 녹내장·요폐, 최근 심근경색, 중증 전도장애, MAOI/다른 TCA 병용, 수유부 등</td></tr><tr><td><strong>capsaicin 0.075% cream</strong><br><mark style="color:blue;">\[다이악센]</mark></td><td>소량 1일 3\~4회(4시간 이상 간격)<br>수 주간 규칙적으로 사용</td><td>초기 작열감·발적, 점막·손상 피부 회피<br>피부 상처가 치유된 뒤 사용<br>도포 후 손 씻기, 가열·온수욕·붕대 밀폐 회피</td></tr><tr><td><strong>tramadol ± acetaminophen</strong><br><mark style="color:blue;">\[울트라셋 등]</mark></td><td>다른 치료가 불충분한 중증 통증의 단기 구조요법</td><td>진정, 낙상, 변비, 의존성, 경련, 세로토닌증후군<br>신·간기능 및 병용약물 확인</td></tr></tbody></table>

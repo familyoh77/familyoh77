@@ -341,6 +341,7 @@ flowchart TB
 
 * 대상 : 원인 치료에도 지속되는 난치성 CP에서 선택적으로 고려; 특히 nocturnal itch, psychogenic/psychosomatic contribution, CKD·담즙정체·악성종양 관련 가려움 등에서 약제별 근거와 환자 특성을 고려 (보험주의)
 * amitriptyline : 10 ㎎ hs 등 낮은 용량에서 시작하여 반응에 따라 25\~50 ㎎/d까지 조절 <mark style="color:blue;">\[에트라빌]</mark>; 항콜린 작용·기립성 저혈압·심장 전도 이상 때문에 고령자에서는 가급적 피함
+* 국내 amitriptyline(에트라빌)은 심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·부정맥·급성 섬망·MAOI 투여 중 등에서 금기임. 저용량 허가 외 사용에도 해당 금기를 적용하며 단순 부작용 관찰로 대체하지 않음; 다른 TCA에는 해당 제품의 허가사항을 별도 적용(001 참조)
 * mirtazapine : 보통 15 ㎎ hs부터 시작, 선택된 환자에서 30 ㎎/d까지 조절 <mark style="color:blue;">\[레메론]</mark>; 졸림·식욕/체중 증가에 주의
 * paroxetine : 저용량으로 시작하여 보통 20 ㎎/d, 필요 시 40 ㎎/d까지 조절 <mark style="color:blue;">\[세로자트]</mark>; 고령자에서 항콜린 부담·저나트륨혈증·중단 증상에 주의
 * 모든 약제의 가려움 효과가 동일하지 않으며, 담즙정체에서는 sertraline의 근거를 우선 검토
