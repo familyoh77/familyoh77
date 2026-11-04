@@ -1,4 +1,4 @@
-# 소화기계 약제
+# 소화기계 약제 Gastrointestinal Drugs
 
 {% hint style="info" %}
 처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
@@ -87,7 +87,7 @@
 * **metoclopramide** : 지연운동이상증(tardive dyskinesia)은 드물지만 비가역적일 수 있으며 노출 기간·누적 용량에 따라 위험 증가. 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 특히 주의
   * 구역·구토에 대하여 최대 5일 사용 허가
   * 구토했더라도 투여 간격은 최소 6시간 유지
-  * CrCl ＞15~≤60 ㎖/min 및 중증 간장애 시 일일 용량을 50% 감량
+  * CrCl ＞15\~≤60 ㎖/min 및 중증 간장애 시 일일 용량을 50% 감량
   * CrCl ≤15 ㎖/min 시 통상 용량의 25%를 투여
   * 금기 : 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용
 * **levosulpiride** : 약물 유발 파킨슨증의 흔한 원인 약제. 고령자에서 장기 처방을 피하고, 새로 생긴 떨림·서동·보행 장애에 대하여 이 약제 복용 여부를 확인함
@@ -121,11 +121,11 @@
   * 반복·장기 사용 시 tachyphylaxis와 항생제 내성 문제 고려
 * 회피 : QT 연장 약제 병용, 중증 간 기능 저하
 
-## <mark style="color:green;">진경제 (GI antispasmodic agent)</mark>
+## <mark style="color:green;">진경제 (GI antispasmodic)</mark>
 
 * IBS·기능성 복통에서는 항콜린 작용이 없는 trimebutine, pinaverium 등을 우선 고려하고, 항콜린제는 단기·필요시 사용함
 
-### <mark style="color:orange;">항콜린제</mark>
+### <mark style="color:orange;">항콜린제 (Anticholinergic)</mark>
 
 * 3급 아민(dicyclomine, hyoscyamine, atropine)은 중추 부작용이 있고, 4급 암모늄(hyoscine N-butylbromide, cimetropium)은 중추 침투가 적음
 * 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화; 3급 아민은 인지 저하·섬망 위험이 추가됨
@@ -138,21 +138,21 @@
 * hyoscine N-butylbromide <mark style="color:blue;">\[부스코판주]</mark>
 * **atropine** <mark style="color:blue;">\[아트로핀주]</mark>
 
-### <mark style="color:orange;">장 선택적 칼슘 통로 차단제</mark>
+### <mark style="color:orange;">장 선택적 칼슘 통로 차단제 (GI-selective CCB)</mark>
 
 * 주의 : 졸음이 생길 수 있어 운전·기계 조작에 주의
 * 금기 : 임부·수유부
 * **pinaverium** : 50 ㎎ tid 식사 중 충분한 물과 함께 통째로 삼킴 <mark style="color:blue;">\[디세텔]</mark>
   * 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
 
-### <mark style="color:orange;">말초 opioid 수용체 조절제</mark>
+### <mark style="color:orange;">말초 opioid 수용체 조절제 (Peripheral opioid receptor modulator)</mark>
 
 * 말초 μ·κ·δ opioid 수용체에 작용하여 장운동을 양방향으로 조절함(저하 시 항진, 항진 시 억제)
 * 금기 : 과민증 외 특별한 금기 없음
   * 임부는 치료상 이득이 클 때만 투여하고, 수유부는 투여를 피함
 * **trimebutine** : 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[포리부틴]</mark>
 
-### <mark style="color:orange;">직접 평활근 이완제</mark>
+### <mark style="color:orange;">직접 평활근 이완제 (Direct smooth muscle relaxant)</mark>
 
 * 항콜린 작용이 없음
 * **phloroglucinol** : 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용 <mark style="color:blue;">\[후로스판]</mark>
@@ -162,14 +162,14 @@
   * 주의 : 항콜린 작용은 없으나 녹내장·전립선비대증에서는 신중 투여
   * 금기 : 위장관 협착, 거대결장, 허탈 상태, 중증 간부전
 
-## <mark style="color:green;">항구토제</mark>
+## <mark style="color:green;">항구토제 (Antiemetic)</mark>
 
 * 화학요법·수술 후 구역/구토 : ondansetron
 * 멀미·내이 질환 : dimenhydrinate 또는 meclizine
 * 임신성 구역/구토 : doxylamine + pyridoxine
 * 만성 기능성 구역 : 원인 평가 후 저용량 amitriptyline/nortriptyline 등 신경조절제를 선택적으로 고려함(허가 외 사용; 위마비의 일차치료와 구분)
 
-### <mark style="color:orange;">항히스타민제, 1세대</mark>
+### <mark style="color:orange;">항히스타민제, 1세대 (1st-generation H1-receptor)</mark>
 
 * 대상 : 멀미, 내이 장애 관련 구역/구토; 임신성 구역/구토
 * 항콜린 작용이 있음
@@ -251,7 +251,7 @@
 * 소아 급성 감염성 위장관염 : 일상적 사용을 권고하지 않음
 * 조산아·저체중 출생아 : 일부 균주가 괴사성 장염·사망을 줄일 가능성이 있으나, 균주에 의한 균혈증·진균혈증과 사망 사례도 보고됨. NICU 전문진료 환경에서 균주·제품 품질·면역저하·중심정맥관 여부를 평가하여 사용
 
-## <mark style="color:green;">복부 가스·팽만 관련 약제</mark>
+## <mark style="color:green;">복부 가스·팽만 관련 약제 (Antiflatulent)</mark>
 
 * Probiotics는 복부 팽만·팽창의 일상적 치료로 권고하지 않음
 
@@ -265,7 +265,7 @@
 * 기능성 팽만·영아 산통 등에서 일관된 효과 근거는 제한적이나 전신 흡수가 거의 없어 비교적 안전한 증상 완화제로 사용
 * 용법 : 40\~80 ㎎ tid 식후 또는 취침 시 <mark style="color:blue;">\[가소콜액]</mark>
 
-### <mark style="color:orange;">비흡수성 항생제</mark>
+### <mark style="color:orange;">비흡수성 항생제 (Non-absorbable antibiotic)</mark>
 
 * 작용 : 장내 세균 활동을 억제하여 탄수화물 발효 감소
 * 대상 : 임상 소견과 위험 인자 또는 검사로 SIBO가 뒷받침되는 환자
@@ -277,9 +277,9 @@
 * **rifaximin 550 ㎎** : 18세 이상 현성 간성뇌증의 재발 감소에 1T bid 장기 투여 <mark style="color:blue;">\[틱스타]</mark>
   * 금기 : 장폐쇄증
 
-### <mark style="color:orange;">Bismuth와 악취 방귀</mark>
+### <mark style="color:orange;">Bismuth</mark>
 
-* **Bismuth subsalicylate** : 악취 방귀 완화는 제한적 자료에 근거하며(허가 외 사용), 일상적으로 권하지 않음
+* **Bismuth subsalicylate** : 악취 방귀 완화에 대하여 제한적 근거가 있으나, 일상적으로 권하지 않음(허가 외 사용)
   * 급성 설사·여행자 설사의 용법과 주의사항 ☞ 아래 [Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate) 참조
 
 ## <mark style="color:green;">변비 치료제 (Laxative)</mark>
@@ -288,7 +288,7 @@
 **반응 불충분 시** : 약물 유발·내분비/신경계 원인과 분변 매복을 점검하고, 하제를 계속 증량하기 전에 항문직장내압검사·풍선배출검사 등으로 배변장애를 평가. 배변장애가 확인되면 골반저 바이오피드백을 우선 적용; 적절한 약물·비약물 치료 후에도 지속되는 경우에 난치성으로 평가 <mark style="color:$info;">\[AGA 2026]</mark>
 {% endhint %}
 
-### <mark style="color:orange;">식이 섬유</mark>
+### <mark style="color:orange;">식이 섬유 (Dietary fiber)</mark>
 
 * 작용 : 소장에서 소화·흡수되지 않은 일부 식이섬유가 대장 미생물에 의해 발효되어 단쇄지방산과 가스를 생성
   * 발효성·점성·수분 보유력은 식이섬유 종류별로 다르며, 모든 식이섬유가 같은 정도로 발효되는 것은 아님; 개인차가 있음
@@ -342,7 +342,7 @@
 
 <table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>1S qd</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음 •임부·임신 가능 여성·수유부 금기</td></tr><tr><td><strong>Na picosulfate</strong></td><td>5~7.5 ㎎ qd, 취침 시(단일제 정제 미확인)</td></tr></tbody></table>
 
-### <mark style="color:orange;">대변 연화제 및 복합하제</mark>
+### <mark style="color:orange;">대변 연화제 및 복합하제 (Stool softener)</mark>
 
 * 대상 : 수술 후, 출산 후, 치핵, 치열
 * **docusate** : 계면활성 작용의 대변 연화제
@@ -406,7 +406,7 @@
   * 과량 사용 시 QT 연장·torsades de pointes·심정지 위험
 * **diphenoxylate**/**atropine** : 중추 억제·항콜린 이상반응이 있어 일반 외래의 선택지로 제시하지 않음(해외 지침 - 성인 최대 20 ㎎/d)
 
-### <mark style="color:orange;">진경제</mark>
+### <mark style="color:orange;">진경제 (GI antispasmodic</mark><mark style="color:orange;">)</mark>
 
 * 작용 : 복통·복부 불편감 호전
 * 용법 : 성분별로 다름. 항콜린성 진경제는 식전 또는 필요시 사용하며, pinaverium은 식사 중 충분한 물과 함께 복용 (☞ [진경제](073_-gidrugs.md#gi-antispasmodic-agent))
@@ -426,7 +426,7 @@
 * 효과는 균주·조합·적응증에 따라 다르며 설사·변비에 일률적으로 사용하지 않음
 * 복부 팽만·팽창 치료로 권고하지 않음 (☞ [Probiotics](073_-gidrugs.md#probiotics))
 
-### <mark style="color:orange;">흡착제</mark>
+### <mark style="color:orange;">흡착제 (Adsorbent)</mark>
 
 #### <mark style="color:$primary;">Dioctahedral smectite</mark>
 
@@ -510,7 +510,7 @@
 * **misoprostol** : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[싸이토텍]</mark>
   * 금기 : 임부 - 자궁수축·유산 위험. 임신 가능 여성은 투여 전 임신 배제 및 피임 등 허가사항 준수
 
-### <mark style="color:orange;">기타 점막 보호제</mark>
+### <mark style="color:orange;">기타 점막 보호제 (Mucosal protect)</mark>
 
 * 위염의 위점막 병변 개선, 궤양·역류 관련 증상 개선 등 성분별 허가 적응증이 다름
   * 위염의 내시경 병변 개선 자료를 궤양·출혈 예방 효과로 확대 해석하지 않으며, NSAID 고위험 환자의 PPI 등 표준 예방요법을 대체하지 않음
@@ -556,7 +556,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 <table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[에취투비]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[가스터]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[액시드]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[록산]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[스토가]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
 
 > _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함_\
-> _²⁾ 발암 물질 NDMA 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
+> _&#xB2;⁾ 발암 물질 NDMA 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
 
 ### <mark style="color:orange;">프로톤 펌프 차단제 (Proton pump inhibitor, PPI)</mark>
 
@@ -584,8 +584,8 @@ _<mark style="color:$info;">Ref. AGA PPI de-prescribing update. 2022; ATS/ERS/JR
 <table data-search="false"><thead><tr><th width="182">성분명 [상품명]</th><th width="127">표준 용량 참고값¹⁾</th><th width="210">소화성 궤양²⁾</th><th>GERD²⁾</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[오엠피]</mark></td><td>20 ㎎</td><td>20 ㎎ qd</td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong><br><mark style="color:blue;">[오엠피에스]</mark>·<mark style="color:blue;">[넥시움]</mark></td><td>20 ㎎</td><td>NSAID 관련 GU 치료·예방 20 ㎎ qd; 제균 병용 20 ㎎ bid</td><td>20~40 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong><br><mark style="color:blue;">[란스톤]</mark></td><td>30 ㎎</td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td><td>ERD 치유 30 ㎎ qd; 증상 치료·유지 15 ㎎ qd</td></tr><tr><td><strong>dexlansoprazole</strong><br><mark style="color:blue;">[덱실란트디알]</mark></td><td>-</td><td>(허가 없음)</td><td>미란성 식도염 치유 60 ㎎ qd ×최대 8주; 치유 유지·비미란성 GERD 증상 치료 30 ㎎ qd(적응증별 기간 구분)</td></tr><tr><td><strong>pantoprazole</strong><br><mark style="color:blue;">[판토록]</mark></td><td>40 ㎎</td><td>40 ㎎ qd</td><td>미란성 식도염 40 ㎎ qd; 반응 불충분 시 평가 후 증량. 20 ㎎ 제형의 경증 증상·유지 용법과 구분함</td></tr><tr><td><strong>rabeprazole</strong><br><mark style="color:blue;">[파리에트]</mark></td><td>20 ㎎</td><td>10~20 ㎎ qd</td><td>10~20 ㎎ qd; 불충분 반응 시 증량은 별도 평가</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[놀텍]</mark></td><td>-</td><td>10 ㎎ qd</td><td>20 ㎎ qd</td></tr></tbody></table>
 
 > _**¹⁾** NICE CG184의 표준 용량 참고값임. 동일한 산 억제력·임상 효과를 뜻하는 직접 환산표가 아님._\
-> _²⁾ 소화성궤양·GERD 용량은 대표 품목의 적응증별 용법으로 구분함. GU=위궤양, DU=십이지장궤양, ERD=미란성 GERD임. 일반형·서방형·복합제는 자동 대체하지 않음 \[품목 허가사항]_\
-> _활동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
+> _&#xB2;⁾ 소화성궤양·GERD 용량은 대표 품목의 적응증별 용법으로 구분함. GU=위궤양, DU=십이지장궤양, ERD=미란성 GERD임. 일반형·서방형·복합제는 자동 대체하지 않음 \[품목 허가사항]_\
+> _&#xD65C;동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
 
 * 위염의 위점막 병변 개선 : esomeprazole 10 ㎎ qd <mark style="color:blue;">\[에스코텐]</mark>
 * <mark style="color:blue;">에소메졸디알</mark>(esomeprazole Mg trihydrate)은 20·40 ㎎ 이중방출 제형으로, ERD 치유 40 ㎎ qd ×4주(필요시 4주 추가), 유지 20 ㎎ qd. 식사 무관이며 위염용 10 ㎎ 제품 또는 제균·궤양 예방용 일반형과 구분
@@ -695,7 +695,7 @@ flowchart TD
 *   <mark style="color:$info;">Huh CW, et al. 2025 Focused Update of the Seoul Consensus on GERD. J Neurogastroenterol Motil. 2026;32:7-18. - 초기·유지 치료의 병형별 구분</mark>
 
     [https://doi.org/10.5056/jnm25128](https://doi.org/10.5056/jnm25128)
-*   <mark style="color:$info;">Bang CS, et al. 국내</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">H. pylori</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">진료지침 2025 개정. Korean J Gastroenterol. 2026;86:156-192. - 감수성 기반 및 경험적 제균요법</mark>
+*   <mark style="color:$info;">Bang CS, et al. 국내</mark> _<mark style="color:$info;">H. pylori</mark>_ <mark style="color:$info;">진료지침 2025 개정. Korean J Gastroenterol. 2026;86:156-192. - 감수성 기반 및 경험적 제균요법</mark>
 
     [https://doi.org/10.4166/kjg.2026.040](https://doi.org/10.4166/kjg.2026.040)
 *   <mark style="color:$info;">Targownik LE, et al. AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors. 2022. - 유지 적응증 평가, 감량·중단 및 반동 증상 안내</mark>
@@ -707,7 +707,7 @@ flowchart TD
 *   <mark style="color:$info;">Patel A, et al. AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice. 2024. - P-CAB의 역할, 성분별 근거 및 한계</mark>
 
     [https://pubmed.ncbi.nlm.nih.gov/39269391/](https://pubmed.ncbi.nlm.nih.gov/39269391/)
-*   <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">Infection. 2024. - 감수성 미확인 clarithromycin 요법의 제한과 제균요법 선택</mark>
+*   <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of</mark> _<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;">Infection. 2024. - 감수성 미확인 clarithromycin 요법의 제한과 제균요법 선택</mark>
 
     [https://gi.org/journals-publications/ebgi/schoenfeld\_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
 *   <mark style="color:$info;">Nelson-Piercy C, et al. RCOG. The Management of Nausea and Vomiting in Pregnancy and Hyperemesis Gravidarum. Green-top Guideline No. 69. 2024. - 임신 구토·임신오조의 약물치료와 thiamine 보충</mark>
