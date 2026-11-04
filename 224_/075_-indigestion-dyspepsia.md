@@ -55,7 +55,7 @@
   * peppermint는 GERD 환자에서 증상을 악화시킬 수 있으나, 일부 기능성 소화불량/IBS 환자에서는 증상 완화 효과도 있어 단순히 나쁜 음식으로 분류하기 어려움
 * **복부 가스 생성** : 탄산음료, 당분, 불용성 식이 섬유, 껌 씹기, 빨리 먹기
 * **감염 후 기능성 소화불량** : 급성 세균성·바이러스성 위장관염 후 새로 발생할 수 있음
-* **H. pylori 감염**&#x20;
+* **H. pylori 감염**
   * 양성 FD 환자에서 제균 치료는 일부의 장기 증상 개선에 기여하며 소화성 궤양·위암 예방 이득도 고려
 * **약물** : NSAID, aspirin, 항생제, 당뇨(예: metformin), 고혈압(예: ARB, CCB), 고지혈증(예: fibrates), 비만(예: orlistat), 치매(예: donepezil), GLP-1 계열 약물(구역·조기 포만감·위배출 지연 가능), SSRI, SNRI, 항파킨슨제(예: dopamine 작용제), steroid, estrogen, progesterone, digoxin, nitrate, bisphosphonate, iron
   * 장기 PPI 사용과 bloating 또는 장내 미생물 변화의 연관성이 보고되었으나 인과관계는 불확실함. 적응증과 최소 유효 용량을 주기적으로 재평가
@@ -82,21 +82,21 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈 또는 흑색변, 특히 실신·저혈압·빈맥·식은땀 동반  `상부위장관 출혈`
-* 갑작스러운 심한 복통과 복벽 경직·반발통, 또는 심한 복부 팽창과 가스·대변 배출 중단  `위장관 천공`  `장폐쇄`
-* 운동 시 또는 지속되는 흉부·상복부 압박감과 호흡곤란·식은땀·방사통  `급성 관상동맥증후군`
-* 침도 삼키지 못하는 급성 삼킴곤란·음식물 걸림  `식도 음식물 폐색`
+* 토혈 또는 흑색변, 특히 실신·저혈압·빈맥·식은땀 동반 `상부위장관 출혈`
+* 갑작스러운 심한 복통과 복벽 경직·반발통, 또는 심한 복부 팽창과 가스·대변 배출 중단 `위장관 천공` `장폐쇄`
+* 운동 시 또는 지속되는 흉부·상복부 압박감과 호흡곤란·식은땀·방사통 `급성 관상동맥증후군`
+* 침도 삼키지 못하는 급성 삼킴곤란·음식물 걸림 `식도 음식물 폐색`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 반복 구토로 수분 섭취가 어렵거나 소변량 감소·탈수 소견  `탈수`  `전해질 이상`  `위출구 폐쇄`
-* **(당일)** 발열·황달과 우상복부 통증, 또는 등으로 뻗치는 지속적 상복부 통증  `급성 담관염`  `급성 췌장염`
-* 진행성 삼킴곤란·삼킴통증, 원인 불명 체중 감소·철결핍빈혈, 복부 종괴  `위암`  `식도암`  `소화성 궤양`
+* **(당일)** 반복 구토로 수분 섭취가 어렵거나 소변량 감소·탈수 소견 `탈수` `전해질 이상` `위출구 폐쇄`
+* **(당일)** 발열·황달과 우상복부 통증, 또는 등으로 뻗치는 지속적 상복부 통증 `급성 담관염` `급성 췌장염`
+* 진행성 삼킴곤란·삼킴통증, 원인 불명 체중 감소·철결핍빈혈, 복부 종괴 `위암` `식도암` `소화성 궤양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* ≥40세에서 새로 발생한 소화불량, 또는 위암 가족력·위암 전구 병변(위축성 위염·장상피화생)  `위암`
-* 적절한 초기 치료에 반응하지 않거나 반복 재발, 과도한 음식 회피·식사 제한 동반  `불응성 소화불량`  `위마비`  `회피·제한적 음식섭취장애`
+* ≥40세에서 새로 발생한 소화불량, 또는 위암 가족력·위암 전구 병변(위축성 위염·장상피화생) `위암`
+* 적절한 초기 치료에 반응하지 않거나 반복 재발, 과도한 음식 회피·식사 제한 동반 `불응성 소화불량` `위마비` `회피·제한적 음식섭취장애`
 
 　☞ [위장질환의 감별](074_-gidz.md)
 
@@ -270,7 +270,7 @@ GLP-1 계열 약물 사용자는 적절한 금식 후에도 내시경에서 위 
 
 * 아래는 임상 양상의 비교임. Rome V에서는 PDS 기준 충족 시 식후 통증·작열감을 PDS에 포함하며, EPS는 PDS 기준이 없는 경우로 구분. “+++ / ±”는 경향을 나타내며 진단 기준이나 약물 반응의 정량 지표가 아님
 
-<table data-header-hidden><thead><tr><th width="160"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>구분</td><td>EPS (Epigastric Pain Syndrome)</td><td>PDS (Postprandial Distress Syndrome)</td><td>GERD overlap<br>(FD + GERD 중첩)</td></tr><tr><td><strong>핵심 증상</strong></td><td>상복부 통증, 작열감</td><td>조기 포만감, 식후 충만감</td><td>가슴쓰림, 산 역류 + FD 증상</td></tr><tr><td><strong>식사와 관계</strong></td><td>식사로 유발·악화되거나 식사와 무관하게 발생 가능</td><td>식후 악화가 특징적</td><td>식후·눕거나 야간에 악화</td></tr><tr><td><strong>조기 포만감</strong></td><td>PDS 기준 미충족</td><td>핵심 증상</td><td>동반 가능</td></tr><tr><td><strong>가슴쓰림/역류</strong></td><td>±</td><td>±</td><td>+++</td></tr><tr><td><strong>야간·체위성 증상</strong></td><td>드묾</td><td>드묾</td><td>흔함</td></tr><tr><td><strong>PPI 반응</strong></td><td>일부에서 도움; 아형만으로 예측 불가</td><td>아형만으로 예측 불가</td><td>효과 기대 가능</td></tr><tr><td><strong>Prokinetics 반응</strong></td><td>아형만으로 예측 불가</td><td>일부에서 도움; 아형만으로 예측 불가</td><td>선택적으로 고려</td></tr><tr><td><strong>병태생리 핵심</strong></td><td>내장 과민 (visceral hypersensitivity)</td><td>위 적응 장애·감각 과민 등; 위배출 지연이 필수는 아님</td><td>산 역류 + FD 기전 혼합</td></tr><tr><td><strong>외래 표현</strong></td><td>속이 쓰리고 아프다</td><td>조금만 먹어도 꽉 찬다</td><td>신물 올라오고 타는 느낌</td></tr><tr><td><strong>1차 접근</strong></td><td>H. pylori 평가 → PPI 고려</td><td>식사 조절; PPI 또는 prokinetic 선택적 시도</td><td>생활 교정 + PPI</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="160"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>구분</td><td>EPS (Epigastric Pain Syndrome)</td><td>PDS (Postprandial Distress Syndrome)</td><td>GERD overlap<br>(FD + GERD 중첩)</td></tr><tr><td><strong>핵심 증상</strong></td><td>상복부 통증, 작열감</td><td>조기 포만감, 식후 충만감</td><td>가슴쓰림, 산 역류 + FD 증상</td></tr><tr><td><strong>식사와 관계</strong></td><td>식사로 유발·악화되거나 식사와 무관하게 발생 가능</td><td>식후 악화가 특징적</td><td>식후·눕거나 야간에 악화</td></tr><tr><td><strong>조기 포만감</strong></td><td>PDS 기준 미충족</td><td>핵심 증상</td><td>동반 가능</td></tr><tr><td><strong>가슴쓰림/역류</strong></td><td>±</td><td>±</td><td>+++</td></tr><tr><td><strong>야간·체위성 증상</strong></td><td>드묾</td><td>드묾</td><td>흔함</td></tr><tr><td><strong>PPI 반응</strong></td><td>일부에서 도움; 아형만으로 예측 불가</td><td>아형만으로 예측 불가</td><td>효과 기대 가능</td></tr><tr><td><strong>Prokinetics 반응</strong></td><td>아형만으로 예측 불가</td><td>일부에서 도움; 아형만으로 예측 불가</td><td>선택적으로 고려</td></tr><tr><td><strong>병태생리 핵심</strong></td><td>내장 과민 (visceral hypersensitivity)</td><td>위 적응 장애·감각 과민 등; 위배출 지연이 필수는 아님</td><td>산 역류 + FD 기전 혼합</td></tr><tr><td><strong>외래 표현</strong></td><td>속이 쓰리고 아프다</td><td>조금만 먹어도 꽉 찬다</td><td>신물 올라오고 타는 느낌</td></tr><tr><td><strong>1차 접근</strong></td><td>H. pylori 평가 → PPI 고려</td><td>식사 조절; PPI 또는 prokinetic 선택적 시도</td><td>생활 교정 + PPI</td></tr></tbody></table>
 
 {% hint style="info" %}
 **가스·복부 팽만·트림이 우세한 경우**
@@ -281,52 +281,11 @@ GLP-1 계열 약물 사용자는 적절한 금식 후에도 내시경에서 위 
 ***
 
 ```mermaid
-flowchart TD
-    A["소화불량 의심"] --> B["Red Flags의 즉각 조치<br/>항목에 해당?"]
-    B -- "예" --> C["<u>응급 평가 및 안정화</u><br/>•출혈·천공·폐쇄 평가<br/>•급성 관상동맥증후군 감별"]
-    B -- "아니오" --> D["당일~수일 내 평가 항목,<br/>고위험 병력 또는<br/>≥40세 새 증상?"]
-    D -- "예" --> E["<u>긴급도별 원인 평가</u><br/>•상부위장관내시경 고려<br/>•췌담도 등 의심 원인에 맞는 검사"]
-    D -- "아니오" --> F["H. pylori test-and-treat<br/>또는 경험적 치료"]
-    E -- "설명할 원인 확인" --> G["원인 치료 및 추적"]
-    E -- "설명할 원인 없음" --> H["H. pylori 감염·제균력 확인 후<br/>아래 치료 단계로"]
-    F --> I["치료 반응 재평가 후<br/>아래 치료 단계로"]
-
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffdddd,stroke:#d32f2f
-    style G fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style H fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style I fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>소화불량 초기 평가 알고리듬</strong></p>
 
 ```mermaid
-flowchart TD
-    A["H. pylori 양성"] --> B["제균 치료 후 항생제 종료<br/>≥4주에 확인검사"]
-    B --> J["제균 성공?"]
-    J -- "아니오" --> K["이전 항생제 노출·순응도 검토<br/>및 구제요법 선택"]
-    K --> B
-    J -- "예" --> C["증상 지속?"]
-    C -- "아니오" --> D["관찰, 재발 시 재평가"]
-    C -- "예" --> E["우세 증상·동반 질환에 따라<br/>PPI 또는 prokinetic<br/>한 계열 시도"]
-    N["H. pylori 음성<br/>(유효한 검사에서 확인)"] --> E
-    E --> F["충분한 치료 후 반응?"]
-    F -- "충분한 호전" --> G["중단 여부 평가 후 관찰<br/>재발 시 적응증 재평가·재투여"]
-    F -- "무반응·부분반응" --> H["<u>진단·복용 상태 재평가</u><br/>•무반응: 계열 전환 고려<br/>•부분반응: 선택적 병용 고려"]
-    H --> L["증상 지속?"]
-    L -- "아니오" --> O["최소 유효 치료 및 추적"]
-    L -- "예" --> I["<u>다음 단계 치료</u><br/>•저용량 TCA 또는 장-뇌 행동치료<br/>•필요 시 전문의 의뢰"]
-
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class C,F,J,L question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style N fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style D fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style G fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style O fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style I fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>기능성 소화불량 치료 단계</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Oh JH 2020 J Neurogastroenterol Motil; Black CJ 2022 Gut; ACG 2024)</mark></em></p>
