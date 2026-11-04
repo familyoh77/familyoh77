@@ -14,7 +14,7 @@
 
 ### <mark style="color:orange;">만성 통증</mark>
 
-* ＞3개월 지속 또는 재발하는 통증 <mark style="color:$info;">\[ICD-11\]</mark>
+* ＞3개월 지속 또는 재발하는 통증 <mark style="color:$info;">\[ICD-11]</mark>
 
 {% hint style="info" %}
 ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "통증=증상"이 아닌 "통증=독립 질환"으로 인식의 전환을 반영.\
@@ -91,7 +91,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 
 ### <mark style="color:orange;">통증 유형(기전) 분류</mark>
 
-<mark style="color:cyan;">**통증 기전(mechanism)에 따른 분류**</mark>
+#### <mark style="color:$primary;">통증 기전(mechanism)에 따른 분류</mark>
 
 * nociceptive / neuropathic / nociplastic / mixed : 약물 선택을 결정하는 주요 요소 중 하나이며, 원인·중증도·기능 장애·동반 질환·신·간기능·환자 위험도를 함께 고려하여 처방을 결정함
 
@@ -115,7 +115,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
    * 예) 척추관 협착증은 nociceptive·neuropathic 요소가 함께 관여할 수 있으며, 만성 요통에는 nociplastic 요소도 동반 가능; 기전 분류만으로 gabapentinoid 병용을 결정하지 않음
    * 약물도 관여 기전에 따라 병용
 
-<mark style="color:cyan;">**임상 phenotype(원인·양상)에 따른 분류**</mark>
+#### <mark style="color:$primary;">임상 phenotype(원인·양상)에 따른 분류</mark>
 
 * 근육통·염증성·기계적/압박성 등 : 대부분 nociceptive mechanism에 속하는 하위 유형이며, 원인 평가와 치료 선택을 보조하는 임상적 분류임 - 약물 선택은 phenotype만이 아니라 원인·기전·위험도와 함께 결정함
 
@@ -130,7 +130,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
    * 활동 중 악화, 휴식 시 호전
    * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압박 골절
 
-#### <mark style="color:$primary;">선별 도구</mark>
+### <mark style="color:orange;">선별 도구</mark>
 
 * neuropathic 요소는 [DN4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4740539/)(4점 이상 시 가능성 높음)·[painDETECT](https://www.jkna.org/upload/pdf/jkna-39-2Suppl-24.pdf)로 평가; nociplastic pain은 이 도구들로 진단 또는 배제하지 않고 임상 양상·병력으로 판단
 
@@ -317,15 +317,15 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 * 부작용 : 발진, 간/신 독성
   * 드물게 AGEP·SJS/TEN·DRESS 등 중증 피부반응이 보고됨. 피부발진이나 과민반응 징후가 생기면 즉시 복용을 중단하고 평가함
   * 글루타치온 보유량이 낮은 상태에서 주의하며, 고음이온차 대사성 산증(HAGMA)도 보고됨. 특히 flucloxacillin 병용 및 패혈증·영양불량 등 위험요인을 확인하고, 반복 투여 중 원인 불명의 대사성 산증이 나타나면 약물 관련성을 평가하여 의심 약물을 중단함(203 참조)
-  * 반복 투여 시 간 효소 수치 상승 가능. 건강한 성인에서도 4 g/d 반복 투여 연구에서 ALT 상승이 관찰됨; 위험요인·용량·사용기간에 따라 간기능 평가 <mark style="color:$info;">\[Watkins et al., JAMA 2006\]</mark>
-  * 통상 용량에서 NSAID보다 위장관 궤양·출혈 위험이 낮음. 고혈압 환자에서 4 g/d를 2주간 투여한 PATH-BP 무작위시험에서는 위약 대비 수축기혈압이 약 5 ㎜Hg 상승함; 반복적인 고용량 사용 시 혈압에 유의하며 단기간의 간헐적 사용에 같은 결과를 그대로 적용하지 않음 <mark style="color:$info;">\[PATH-BP 2022\]</mark>
+  * 반복 투여 시 간 효소 수치 상승 가능. 건강한 성인에서도 4 g/d 반복 투여 연구에서 ALT 상승이 관찰됨; 위험요인·용량·사용기간에 따라 간기능 평가 <mark style="color:$info;">\[Watkins et al., JAMA 2006]</mark>
+  * 통상 용량에서 NSAID보다 위장관 궤양·출혈 위험이 낮음. 고혈압 환자에서 4 g/d를 2주간 투여한 PATH-BP 무작위시험에서는 위약 대비 수축기혈압이 약 5 ㎜Hg 상승함; 반복적인 고용량 사용 시 혈압에 유의하며 단기간의 간헐적 사용에 같은 결과를 그대로 적용하지 않음 <mark style="color:$info;">\[PATH-BP 2022]</mark>
 * 약물 상호 작용 : warfarin(INR 상승; 아래 참조), flucloxacillin(HAGMA 위험; 위 참조), isoniazid, CYP450 대사 약물
-* Warfarin 병용 : 수일 이상 규칙적으로 복용하면 INR 상승 가능성이 있어 INR을 확인하고 필요 시 추적 간격을 조정; 특히 2 g/d 이상 반복 투여 시 유의 <mark style="color:$info;">\[Zhang et al., Eur J Clin Pharmacol 2011\]</mark>
+* Warfarin 병용 : 수일 이상 규칙적으로 복용하면 INR 상승 가능성이 있어 INR을 확인하고 필요 시 추적 간격을 조정; 특히 2 g/d 이상 반복 투여 시 유의 <mark style="color:$info;">\[Zhang et al., Eur J Clin Pharmacol 2011]</mark>
 * 국내 수록 제품의 주요 금기 : 소화성궤양, 심한 혈액이상·심한 간장애·심한 신장애·심한 심장기능저하, aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용 환자 등. <mark style="color:blue;">\[타이레놀정500㎎·타이레놀8시간이알서방정]</mark>과 <mark style="color:blue;">\[세토펜현탁액]</mark>의 해당 금기를 일반적인 감량·신중 투여와 구분함
 * 만성콩팥병·투석 환자 : 임상 지침에는 acetaminophen을 우선 고려하거나 투여간격을 조정하는 권고가 있으나, 국내 수록 타이레놀 제품 등의 심한 신장애 금기와 구분함. 해당 금기 품목을 단순 감량하여 사용하는 것으로 안내하지 않으며, 신장내과와 실제 사용할 품목·제형·허가사항 및 치료 계획을 확인함(112 참조)
 * 성인 속방형 : 500\~650 ㎎ q4\~6h PRN 또는 1,000 ㎎ q6h PRN; 모든 acetaminophen 함유 제품을 합산하여 일반 성인의 허용 최대 4 g/d. 반복·장기 사용에서는 3 g/d 이하를 보수적으로 권장
   * 고령·쇠약·저체중·영양불량·지속적인 과음 등에서는 위험요인의 정도·체중·사용기간에 따라 감량; 고령 또는 신기능 저하만을 이유로 일률적인 2 g/d 상한을 적용하지 않음
-  * 간경변에서는 임상 지침상 통상 최대 2 g/d 범위로 제한. 단, 심한 간장애·심한 신장애는 수록 국내 제품의 투여 금기이므로 감량 사용과 구분 <mark style="color:$info;">\[AASLD 2022\]</mark>
+  * 간경변에서는 임상 지침상 통상 최대 2 g/d 범위로 제한. 단, 심한 간장애·심한 신장애는 수록 국내 제품의 투여 금기이므로 감량 사용과 구분 <mark style="color:$info;">\[AASLD 2022]</mark>
   * 서방형 : 12세 이상에서 650 ㎎ × 2정 q8h PRN; 24시간 최대 6정(3,900 ㎎) <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>; 씹거나 쪼개거나 분쇄하지 말고 그대로 삼킴. 2정씩 1일 3회는 3,900 ㎎이므로 3 g/d 이하로 제한하려는 환자에게는 맞지 않음
   * 감기약·두통약·수면제 등에도 포함된 경우가 많으므로 주의 - 누적 용량으로 계산
 
@@ -497,7 +497,7 @@ class B,B1,B2,F,H,L,N yellow
 
 <mark style="color:cyan;">**Naloxone 제공 또는 처방 제안 고려 기준**</mark>
 
-* 다음 중 하나라도 해당 시 제공 또는 처방을 제안 <mark style="color:$info;">\[CDC 2022\]</mark>
+* 다음 중 하나라도 해당 시 제공 또는 처방을 제안 <mark style="color:$info;">\[CDC 2022]</mark>
   * MME ≥ 50/d
   * 호흡기 질환(COPD, 수면무호흡증) 동반
   * benzodiazepine 병용
@@ -609,13 +609,12 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 더 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량 의존; 저용량 시작-서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin); 영국은 규제 약물로 지정
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
-  * opioid 병용 시 호흡 억제로 인한 사망 위험 증가 - <mark style="color:$info;">\[FDA\]</mark> 심각한 호흡 억제 위험을 경고하고 처방 정보에 관련 경고를 추가함(Black Box Warning은 아님)
+  * opioid 병용 시 호흡 억제로 인한 사망 위험 증가 - <mark style="color:$info;">\[FDA]</mark> 심각한 호흡 억제 위험을 경고하고 처방 정보에 관련 경고를 추가함(Black Box Warning은 아님)
     * 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링
     * 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
 * gabapentin : 100\~300 ㎎ hs로 시작(이상반응 감소 목적) → 이후 1일 3회 분할하여 100 ㎎/3d씩 증량; 신기능 정상 시 신경병증성 통증에서 1주 이내 1,800 ㎎/d까지 증량 가능하며 3,600 ㎎/day를 초과하지 않음; 신기능별 용량은 아래 표 참조 <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin 일반형 : 신기능 정상 성인에서 75 ㎎ bid → 150 ㎎ bid, 신경병증성 통증은 반응·내약성에 따라 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
   * 섬유근육통은 권장 300–450 ㎎/d, 최대 450 ㎎/d이며 600 ㎎/d를 적용하지 않음. 신기능 저하 시 적응증별 용량을 CrCl에 따라 추가 감량하고 서방형의 적응증·용법과 구분함
-
 * 감량·중단 : gabapentin과 pregabalin은 갑자기 중단하지 않으며, 통상 최소 1주 이상에 걸쳐 점진적으로 감량함. 장기·고용량 사용이나 금단 증상 등이 있으면 더 느린 감량이 필요할 수 있으므로 제품별 허가사항·복용 기간·증상에 따라 개별 계획을 세움(180 참조)
 * Gabapentin은 알루미늄·마그네슘 함유 제산제 복용 최소 2시간 후에 복용함. 이 간격을 pregabalin에 일률적으로 적용하지 않음(180 참조)
 
@@ -682,7 +681,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 ### <mark style="color:orange;">저용량 Naltrexone (LDN)</mark>
 
-* 저용량 naltrexone(LDN) : 섬유근육통의 국내 허가 외 사용이며 routine 치료로 권고하지 않음. 초기 소규모 시험의 긍정적 신호와 달리 2024년 6 ㎎/d·12주 RCT 및 2026년 INNOVA(98명, 4.5 ㎎/d)에서 위약 대비 유의한 통증 개선 우월성을 입증하지 못함 <mark style="color:$info;">[Due Bruun 2024; Rodríguez-Freire 2026]</mark>; 자세한 내용은 153 참조
+* 저용량 naltrexone(LDN) : 섬유근육통의 국내 허가 외 사용이며 routine 치료로 권고하지 않음. 초기 소규모 시험의 긍정적 신호와 달리 2024년 6 ㎎/d·12주 RCT 및 2026년 INNOVA(98명, 4.5 ㎎/d)에서 위약 대비 유의한 통증 개선 우월성을 입증하지 못함 <mark style="color:$info;">\[Due Bruun 2024; Rodríguez-Freire 2026]</mark>; 자세한 내용은 153 참조
 * tramadol·codeine을 포함한 opioid와 병용하지 않음. Opioid 진통 차단 및 의존 환자의 급성 금단 유발 위험이 있으므로, 저용량이라는 이유로 병용 안전성을 가정하지 않음
 * 국내 허가 적응증 : 알코올 의존성 치료 및 외인성 아편류 효과 차단 (통증은 off-label 사용)
 * 환인날트렉손정25/50㎎은 국내 허가상 급성 간염·간부전·중증 간장애, 신장애, 고령자, 임부·임신 가능성이 있는 여성·수유부 및 소아·청소년 등에서 투여 금지임. 저용량 허가 외 사용에도 제품별 금기를 적용하며 다른 품목에는 해당 허가사항을 별도로 확인함(189 참조)
@@ -736,7 +735,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
   * 부루펜정 등 일부 제품은 기관지천식 및 그 병력 전체가 국내 허가상 금기임; 제품별 금기와 일반적인 위험인자를 구분함
   * dexibuprofen(애니펜정)은 기관지천식 또는 그 병력, 임신 6개월 이상, 크론병·궤양성대장염 등 염증성장질환, 위장관 외 부위의 출혈, 이전 NSAID 치료로 인한 위장관 출혈·천공 병력 등에서도 국내 허가상 금기임. 위장관 궤양·병력, 심한 간·신장·심장기능장애 등 공통 금기도 확인하며, ibuprofen의 임신 말기 3개월 금기와 구분함(068 참조)
 * 탈수·경구 섭취 저하에서는 급성 신손상 위험이 증가하므로 경구 NSAID를 피하거나 최소화하고 acetaminophen 등 대안을 고려
-* 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험 때문에 원칙적으로 회피. 국내 부루펜은 임신 말기 3개월 투여 금기; FDA의 30주 이후 회피 기준과 국내 허가 문구를 구분 <mark style="color:$info;">\[FDA NSAIDs 임신 안전성 경고\]</mark>
+* 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험 때문에 원칙적으로 회피. 국내 부루펜은 임신 말기 3개월 투여 금기; FDA의 30주 이후 회피 기준과 국내 허가 문구를 구분 <mark style="color:$info;">\[FDA NSAIDs 임신 안전성 경고]</mark>
 * 수유 중 ibuprofen은 국제 자료에서 사용 가능한 약으로 평가되지만, 국내 부루펜정은 약물 투여의 중요성을 고려하여 수유를 중단하거나 약물 투여를 중단하도록 안내함. 국내 허가와 국제 수유 안전성 평가를 구분하여 대체약·수유 계획을 결정하고, 다른 NSAID에도 제품별 제한을 확인함(200·201·203 참조)
 * 수두에서는 ibuprofen 사용을 피하는 것이 바람직하며, 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에서는 aspirin·ibuprofen 등 NSAID를 피함
 * 약물 상호 작용 : 항고혈압제(ACEI/이뇨제 효과↓), warfarin(INR 변화와 무관하게 위장관·전신 출혈 위험 증가), lithium, methotrexate, 저용량 aspirin(심혈관 보호 효과↓)
@@ -760,7 +759,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 * 최소 유효 용량을 최단 기간 투여
 * 저용량 aspirin 복용자에서는 ibuprofen 병용을 가급적 피하고 대안을 고려. 불가피한 경우 속방형 저용량 aspirin(81 ㎎)과 단회 ibuprofen(400 ㎎) 자료에서는 aspirin을 ibuprofen보다 최소 30분 전에 또는 ibuprofen 복용 후 최소 8시간 뒤에 투여하면 항혈소판 작용 간섭을 줄일 수 있음
-  * 이 시간 간격을 장용 aspirin이나 반복적인 ibuprofen 투여에 일률적으로 적용하지 않음; 시간 간격 조절이 위장관 출혈 위험까지 없애지는 않음 <mark style="color:$info;">\[FDA aspirin-ibuprofen 2006\]</mark>
+  * 이 시간 간격을 장용 aspirin이나 반복적인 ibuprofen 투여에 일률적으로 적용하지 않음; 시간 간격 조절이 위장관 출혈 위험까지 없애지는 않음 <mark style="color:$info;">\[FDA aspirin-ibuprofen 2006]</mark>
   * Aspirin은 COX-1을 비가역적으로 아세틸화하여 혈소판 수명(7\~10일) 동안 항혈소판 효과가 지속되는 반면, ibuprofen은 같은 COX-1 부위에 가역적·경쟁적으로 결합함 - ibuprofen이 aspirin보다 먼저 그 부위를 차지하면 aspirin의 비가역적 아세틸화(=심혈관 보호 효과)가 방해 받을 수 있음
   * 다른 NSAID와의 상호작용 가능성도 약제별로 고려
 * 시작 전 혈압·Cr/eGFR·병용약을 확인하고 필요 시 CBC·LFT·K 평가. 고위험 환자는 시작·증량 후 조기(통상 1–2주 이내, 급성 변화 시 더 일찍) 신기능·K·혈압을 재확인하며, 장기 사용 중 검사 간격은 위험도·임상 경과에 따라 조정함
@@ -770,11 +769,10 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
   * H. pylori 감염 치료
   * COX-2 억제제 선택 (✽aspirin과 병용 시 COX-2 억제제의 위장관 보호 이점은 감소함)
   * [misoprostol](../224_/073_-gidrugs.md#prostaglandin-e-analogue) : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid <mark style="color:blue;">\[싸이토텍]</mark>
-  * [PPI](../224_/073_-gidrugs.md#proton-pump-inhibitor-ppi) : NSAID 관련 궤양 **치료**와 고위험 환자의 궤양 **예방**을 구분함. 국내 약물 관련 소화성궤양 지침은 장기 NSAID가 필요한 고위험 환자에서 저용량 PPI 예방을 권고하며, 고용량 치료 용량을 일률적으로 적용하지 않음 <mark style="color:$info;">[국내 약물 관련 소화성궤양 지침 2020]</mark>
+  * [PPI](../224_/073_-gidrugs.md#proton-pump-inhibitor-ppi) : NSAID 관련 궤양 **치료**와 고위험 환자의 궤양 **예방**을 구분함. 국내 약물 관련 소화성궤양 지침은 장기 NSAID가 필요한 고위험 환자에서 저용량 PPI 예방을 권고하며, 고용량 치료 용량을 일률적으로 적용하지 않음 <mark style="color:$info;">\[국내 약물 관련 소화성궤양 지침 2020]</mark>
     * [ ] [보험 적용 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007). esomeprazole 20 ㎎, lansoprazole 15 ㎎, pantoprazole 20 ㎎, rabeprazole 5 ㎎ 등이 1일 1회 투여로 NSAID 투여 관련 상부 위장관 증상치료에 급여 인정됨- 약제별 확인 요
-    * 임상적 궤양 예방 권고와 제품별 허가·급여 적응증은 동일하지 않음; 위의 상부 위장관 증상치료 급여를 무증상 예방의 자동 급여로 확대하지 않음
+    * [ ] 임상적 궤양 예방 권고와 제품별 허가·급여 적응증은 동일하지 않음; 위의 상부 위장관 증상치료 급여를 무증상 예방의 자동 급여로 확대하지 않음
   * [H2-blocker](../224_/073_-gidrugs.md#h2-h2-receptor-antagonist-h2ra) : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과
-
 * 제품별 투여 금기를 먼저 확인함. 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
 * PPI는 주로 상부 위장관 위험을 줄이며 NSAID의 신장·심혈관 위험 또는 모든 위장관 출혈 위험을 제거하지 않음. OA에서 NICE NG226은 경구 NSAID 사용 중 위장 보호 병용을 권고하며, 아래는 일반적인 고위험군 평가 기준임
 
@@ -792,13 +790,13 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 전신 노출이 경구 NSAID보다 현저히 낮아(제형·성분에 따라 편차 있음) 전신 부작용 위험이 상대적으로 적음
 * 급성 국소 근골격 손상(염좌·좌상 등)에서 유효한 선택지이며, ACP/AAFP 2020은 성인의 급성 비요통성 근골격 손상에 국소 NSAID를 1차로 권고함. 깊은 회전근개·심부 윤활낭·고관절 병변까지 경구제와 동등한 효과로 확대하지 않음
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* ACR 2026 공개 권고 요약은 손·무릎 OA에 국소 NSAID를 강하게 권고하고, 경구 NSAID보다 먼저 고려하도록 조건부 권고함. 전신 노출이 낮은 치료를 우선하되 성분·제형별 근거와 금기를 확인함 <mark style="color:$info;">[ACR 2026; 135·144 참조]</mark>
+* ACR 2026 공개 권고 요약은 손·무릎 OA에 국소 NSAID를 강하게 권고하고, 경구 NSAID보다 먼저 고려하도록 조건부 권고함. 전신 노출이 낮은 치료를 우선하되 성분·제형별 근거와 금기를 확인함 <mark style="color:$info;">\[ACR 2026; 135·144 참조]</mark>
 * 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
   * 고관절 OA에는 효과 없음
 * 주의/금기 : NSAID 과민반응/aspirin-induced asthma 병력, 임신·수유, 소아는 성분별 허가사항 확인
 * 투여 횟수는 제형별로 구분하며 모든 패치를 1일 1–2회로 일반화하지 않음. 겔은 통상 1일 수회 도포하되 해당 제품의 허가 용법을 적용함
 * 서로 다른 경구 NSAID 및 경구·국소 NSAID의 정규 병용은 피함. 상처·습진·감염 피부에 적용하지 않고, 임의의 가열·밀봉을 피함
-* [보험 적용 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201&sno=1&mtgMtrRegSno=0031) : 진통·진양·수렴·소염 외용제는 허가사항 범위에서 경구투여 불가능(부작용 등으로 NSAID 경구투여 불가능을 입증한 경우 포함) 또는 로숀·겔·크림을 물리치료 등 원내처치에 사용하는 경우 급여 인정; 이외 약값 전액 본인부담. 국소제의 임상적 우선 권고와 급여 인정은 별개이며 capsaicin 세부기준도 구분함 <mark style="color:$info;">[HIRA 고시 제2018-253호]</mark>
+* [보험 적용 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&sno=1\&mtgMtrRegSno=0031) : 진통·진양·수렴·소염 외용제는 허가사항 범위에서 경구투여 불가능(부작용 등으로 NSAID 경구투여 불가능을 입증한 경우 포함) 또는 로숀·겔·크림을 물리치료 등 원내처치에 사용하는 경우 급여 인정; 이외 약값 전액 본인부담. 국소제의 임상적 우선 권고와 급여 인정은 별개이며 capsaicin 세부기준도 구분함 <mark style="color:$info;">\[HIRA 고시 제2018-253호]</mark>
 * ketoprofen : <mark style="color:blue;">\[케토톱 플라스타]</mark>는 1일 2회(약 12시간마다), <mark style="color:blue;">\[케토톱 엘플라스타]</mark>는 1일 1회 부착; 겔은 별도 허가 용법으로 도포함
   * 사용 중 및 중단 후 2주간 적용 부위를 옷 등으로 가려 햇빛·자외선 노출을 피함. 위 첩부제는 15세 미만·임신기간 6개월 이상 금기이며, 겔의 연령·임신 제한은 제품별로 구분함
 * piroxicam : <mark style="color:blue;">\[트라스트 패취]</mark>는 기본 2일마다 1매, 목욕·샤워 후 또는 발한 시 1일 1매 가능; 겔은 별도 도포 용법을 적용함. 패취는 14세 이하 금기이며, 상세 허가사항상 임신 3기·수유부에는 사용하지 않음. 임신 1–2기는 안전성이 확립되지 않았으므로 임신 중이거나 임신 가능성이 있으면 임의 사용을 피하고 사용 전 의료진과 상의함(136·144 참조)
@@ -867,7 +865,6 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용은 가급적
 ※ **차트 기재 시 참고 예시** (아래 문구 자체가 급여를 보장하지 않으며, 실제 환자 상태와 일치하는 경우에만 기재)
 
 * 급여 인정 여부는 임상적 사용 권고와 별개임. 좌골신경통·요추 신경근성 방사통에서는 해당 질환 지침을 우선하고 신경병증성 통증 약제를 자동 추가하지 않음(137·138 참조)
-
 * NSAIDs **:** 실제로 위험인자(연령, 위장관 병력 등)가 있어 COX-2를 선택한 경우 그 근거를 기록
 * Neuropathic agents : 실제 통증 양상(전격통·저림 등)과 기능 저하 정도를 구체적으로 기록
 * Opioids : 실제 선행 치료 내역(비마약성 진통제 종류·용량·기간·반응)을 기록
@@ -906,7 +903,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용은 가급적
 >
 > _✽OA·만성 요통·만성 좌골신경통에서는 비마약성 치료 실패만으로 opioid를 자동 추가하지 않으며, 해당 질환 지침에 따라 진단·재활·수술 또는 전문의 평가 필요성을 재검토함_
 >
-> _✽쎄레브렉스 200 ㎎ qd는 OA·강직척추염의 허가 용법 예시이며 RA는 100~200 ㎎ bid로 구분함. 만성 비특이적 요통 자체의 사용은 허가 외임. 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임; GI 고위험군에서는 금기 확인 후 PPI 등 위장 보호를 검토함_
+> _✽쎄레브렉스 200 ㎎ qd는 OA·강직척추염의 허가 용법 예시이며 RA는 100\~200 ㎎ bid로 구분함. 만성 비특이적 요통 자체의 사용은 허가 외임. 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임; GI 고위험군에서는 금기 확인 후 PPI 등 위장 보호를 검토함_
 
 ***
 
@@ -968,8 +965,8 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용은 가급적
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Kim M, Park SK, Kim WM, et al. Updated guidelines for prescribing opioids to treat patients with chronic non-cancer pain in Korea: developed by committee on hospice and palliative care of the Korean Pain Society. Korean J Pain. 2024;37(2):119-131.](https://doi.org/10.3344/kjp.24022) - 대한통증학회 아편유사제 처방지침 2024; 국내 만성 비암성 통증의 opioid 선택·용량 환산·추적과 위험 관리
-* \[CDC 2022\] [Dowell D, et al. CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States, 2022. MMWR Recomm Rep. 2022;71(3):1-95.](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm) - 성인 외래 급성·아급성·만성 통증의 opioid 처방·감량·naloxone 제공; 암성 통증·완화의료는 적용 범위에서 제외
-* \[ICD-11\] [Treede RD, et al. Chronic pain as a symptom or a disease: the IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11). Pain. 2019;160(1):19-27.](https://doi.org/10.1097/j.pain.0000000000001384) - 만성 통증(＞3개월)의 정의와 ICD-11 분류
+* \[CDC 2022] [Dowell D, et al. CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States, 2022. MMWR Recomm Rep. 2022;71(3):1-95.](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm) - 성인 외래 급성·아급성·만성 통증의 opioid 처방·감량·naloxone 제공; 암성 통증·완화의료는 적용 범위에서 제외
+* \[ICD-11] [Treede RD, et al. Chronic pain as a symptom or a disease: the IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11). Pain. 2019;160(1):19-27.](https://doi.org/10.1097/j.pain.0000000000001384) - 만성 통증(＞3개월)의 정의와 ICD-11 분류
 * [World Health Organization. WHO guidelines for the pharmacological and radiotherapeutic management of cancer pain in adults and adolescents. 2018.](https://www.who.int/publications/i/item/9789241550390) - 암성 통증의 진통제 선택과 보조 치료; WHO 진통 사다리의 암성 통증 적용 맥락
 * [NICE. Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain. NICE guideline NG193. 2021.](https://www.nice.org.uk/guidance/ng193/chapter/recommendations) - 만성 통증 평가와 만성 원발성 통증의 비약물·약물 치료; 원인 질환별 이차성 통증 치료와 구분
 * [Finnerup NB, et al. Pharmacotherapy for neuropathic pain in adults: a systematic review and meta-analysis. Lancet Neurol. 2015;14(2):162-173.](https://pubmed.ncbi.nlm.nih.gov/25575710/) - NeuPSIG의 신경병성 통증 약제별 효과·권고와 근거 한계
@@ -982,34 +979,30 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용은 가급적
 * [MacIntyre IM, et al. Regular Acetaminophen Use and Blood Pressure in People With Hypertension: The PATH-BP Trial. Circulation. 2022;145(6):416-423.](https://doi.org/10.1161/CIRCULATIONAHA.121.056015) - 고혈압 환자에서 4 g/d, 2주 투여 시 혈압 상승; 단기 간헐적 사용에 그대로 확대하지 않음
 * [Watkins PB, et al. Aminotransferase elevations in healthy adults receiving 4 grams of acetaminophen daily: a randomized controlled trial. JAMA. 2006;296(1):87-93.](https://doi.org/10.1001/jama.296.1.87) - 건강한 성인의 acetaminophen 4 g/d 반복 투여와 ALT 상승
 * [Zhang Q, et al. Interaction between acetaminophen and warfarin in adults receiving long-term oral anticoagulants: a randomized controlled trial. Eur J Clin Pharmacol. 2011;67(3):309-314.](https://doi.org/10.1007/s00228-010-0975-2) - acetaminophen 2\~3 g/d 반복 투여에 따른 INR 상승과 모니터링
-
 * [ACR. 2026 Update of the Recommendations for the Management of Osteoarthritis of the Knee, Hip, and Hand. 공개 권고 요약(2026-09-14).](https://rheumatology.org/osteoarthritis-guideline) - 손·무릎 국소 NSAID, OA opioid·gabapentinoid 등의 질환별 권고; 정식 논문과 구분
 * [Qaseem A, et al. Nonpharmacologic and Pharmacologic Management of Acute Pain From Non-Low Back, Musculoskeletal Injuries in Adults. Ann Intern Med. 2020;173:739–748.](https://pubmed.ncbi.nlm.nih.gov/32805126/) - 급성 비요통성 근골격 손상의 국소 NSAID 우선
 * [NICE. Low back pain and sciatica in over 16s. NG59.](https://www.nice.org.uk/guidance/ng59/chapter/recommendations) - 좌골신경통에 일반 신경병증성 약물 권고를 그대로 적용하지 않는 근거
 * [Clinical Guidelines for Drug-Related Peptic Ulcer, 2020 Revised Edition.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7667931/) - 고위험 장기 NSAID 사용자의 저용량 PPI 예방
 * [Nissen SE, et al. Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis. N Engl J Med. 2016;375:2519–2529.](https://doi.org/10.1056/NEJMoa1611593) - PRECISION의 연구 대상·비교 용량·비열등성 해석과 국내 금기의 구분
-* [Due Bruun K, et al. Naltrexone 6 mg once daily versus placebo in women with fibromyalgia. Lancet Rheumatol. 2024;6:e31–e39.](https://doi.org/10.1016/S2665-9913(23)00278-3)
+* [Due Bruun K, et al. Naltrexone 6 mg once daily versus placebo in women with fibromyalgia. Lancet Rheumatol. 2024;6:e31–e39.](https://doi.org/10.1016/S2665-9913\(23\)00278-3)
 * [Rodríguez-Freire C, et al. INNOVA Study. Eur J Pain. 2026;30(6):e70321.](https://doi.org/10.1002/ejp.70321) - LDN의 위약 대비 통증 개선 우월성 미입증
-
 * [Macfarlane GJ, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76:318–328.](https://doi.org/10.1136/annrheumdis-2016-209724) - 운동·비약물치료 우선 및 증상별 선택적 약물치료의 약한 찬성 권고
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; memantine의 주당 5 ㎎ 증량·CrCl별 감량과 중증 간장애·CrCl ＜5 금기, amitriptyline의 제품별 금기, tramadol–MAO-B 억제제 병용 금기, tizanidine의 ciprofloxacin/fluvoxamine 병용 금기, ciprofloxacin–ketoprofen의 제형별 DUR 적용 및 duloxetine의 CYP1A2 저해제 상호작용, cyclobenzaprine의 제형별 금기와 fluconazole–celecoxib·fentanyl·carbamazepine 상호작용을 구분하여 적용
-* \[FDA\] [U.S. Food and Drug Administration. FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). Drug Safety Communication. December 19, 2019.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin) - gabapentinoid·opioid 병용 시 호흡 억제 경고
+* \[FDA] [U.S. Food and Drug Administration. FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). Drug Safety Communication. December 19, 2019.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin) - gabapentinoid·opioid 병용 시 호흡 억제 경고
 * [한국의약품안전관리원. 마약류통합관리시스템(NIMS).](https://www.nims.or.kr/) - 의료용 마약류 투약 이력·안전사용 관련 확인 자료; 현행 조회 대상·의무·예외 조건 확인
-* [건강보험심사평가원. 「일반원칙」 마약성진통제. 고시 제2017-153호 (2017-09-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901&sno=1&mtgMtrRegSno=0001) - 본문에 연결된 암성·비암성 통증의 급여 범위
-* [건강보험심사평가원. Buprenorphine 패취제 급여기준. 고시 제2017-193호 (2017-11-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101&sno=1&mtgMtrRegSno=0034) - 본문 패취제의 급여 대상·용량·처방 일수
+* [건강보험심사평가원. 「일반원칙」 마약성진통제. 고시 제2017-153호 (2017-09-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) - 본문에 연결된 암성·비암성 통증의 급여 범위
+* [건강보험심사평가원. Buprenorphine 패취제 급여기준. 고시 제2017-193호 (2017-11-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101\&sno=1\&mtgMtrRegSno=0034) - 본문 패취제의 급여 대상·용량·처방 일수
 * [U.S. Food and Drug Administration. FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) - 임신 20주 이후 태아 신기능·양수과소증 위험 및 30주 이후 회피; 국내 제품의 임신 후기 금기와 구분
 * [U.S. Food and Drug Administration. Concomitant Use of Ibuprofen and Aspirin: Potential for Attenuation of the Anti-Platelet Effect of Aspirin. 2006.](https://www.fda.gov/media/76636/download) - 속방형 aspirin 81 ㎎과 ibuprofen 400 ㎎의 투약 간격 자료 및 장용·반복 투여의 한계
 * [U.S. National Library of Medicine. DailyMed - 의약품 허가정보.](https://dailymed.nlm.nih.gov/) - fentanyl·buprenorphine 경피 패치의 발열·외부 열 노출에 따른 흡수 증가와 진정·호흡억제 경고
-
-* [HIRA. Pregabalin 일반형 경구제, 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0013&sno=6) - 신경병증성 통증·FM의 공개 세부기준
-* [HIRA. Gabapentin 경구제, 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0006&sno=6)
-* [HIRA. Duloxetine 경구제, 고시 제2016-263호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101&mtgMtrRegSno=0003&sno=1) - FM의 선행치료·반응 평가 및 병용 급여 제한
-* [HIRA. 진통·진양·수렴·소염 외용제, 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201&mtgMtrRegSno=0031&sno=1) - 외용제 임상 권고와 별개인 공개 급여기준
-* [HIRA. Amitriptyline·Nortriptyline 등, 고시 제2018-18호(2018-02-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180201&mtgMtrRegSno=0006&sno=1) - TCA의 섬유근육통 허가사항 초과 급여 및 2010 ACR·FIQ·pain VAS 조건
-
+* [HIRA. Pregabalin 일반형 경구제, 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) - 신경병증성 통증·FM의 공개 세부기준
+* [HIRA. Gabapentin 경구제, 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0006\&sno=6)
+* [HIRA. Duloxetine 경구제, 고시 제2016-263호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&mtgMtrRegSno=0003\&sno=1) - FM의 선행치료·반응 평가 및 병용 급여 제한
+* [HIRA. 진통·진양·수렴·소염 외용제, 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&mtgMtrRegSno=0031\&sno=1) - 외용제 임상 권고와 별개인 공개 급여기준
+* [HIRA. Amitriptyline·Nortriptyline 등, 고시 제2018-18호(2018-02-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180201\&mtgMtrRegSno=0006\&sno=1) - TCA의 섬유근육통 허가사항 초과 급여 및 2010 ACR·FIQ·pain VAS 조건
 
 ***
 
