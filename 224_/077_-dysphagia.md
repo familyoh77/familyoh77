@@ -22,7 +22,7 @@
   * 기질적 삼킴곤란 및 섭식장애와의 감별이 필요하며, 공포가 있다는 이유만으로 신체 질환을 배제하지 않음
 
 {% hint style="info" %}
-**Globus vs 삼킴곤란 감별** : '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 인두이물감(globus pharyngeus)을 시사함. GERD가 동반될 수 있으나 인두이물감만으로 역류가 원인이라고 판단하지 않음.  Globus는실제 삼킴곤란이나 삼킴통증이 없음
+**Globus vs 삼킴곤란 감별** : '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 인두이물감(globus pharyngeus)을 시사함. GERD가 동반될 수 있으나 인두이물감만으로 역류가 원인이라고 판단하지 않음. Globus는실제 삼킴곤란이나 삼킴통증이 없음
 {% endhint %}
 
 ### <mark style="color:orange;">노인 연하장애 - Presbyphagia & Sarcopenic Dysphagia</mark>
@@ -45,7 +45,7 @@
 * 알약을 소량의 물과 함께 또는 누운 상태에서 복용하면 발생
 * 증상(급작스러운 삼킴통증, 흉통, 삼킴곤란)은 복용 수 시간\~수일 내 나타날 수 있음
 
-<table data-search="false"><thead><tr><th width="164">대표 약물</th><th width="241">기전</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>Bisphosphonate (Alendronate)</strong></td><td>직접 점막 자극</td><td>약 200 ㎖ 이상의 물로 복용; 최소 30분 및 첫 음식 섭취 전까지 눕지 않음. 알렌드로네이트는 협착·이완불능증 등 식도 배출 지연 질환 또는 30분간 직립 유지 불가 시 금기; 제품별 허가사항 확인</td></tr><tr><td><strong>Doxycycline / Tetracycline</strong></td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>NSAIDs / Aspirin</strong></td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물로 복용; 위장관 위험은 별도 평가</td></tr><tr><td><strong>Clindamycin</strong></td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>Pinaverium</strong> <br><mark style="color:blue;">[디세텔]</mark></td><td>식도에 정체될 때 점막 자극·궤양</td><td>식사 중 충분한 물과 함께 통째로 삼킴; 씹거나 빨지 않음. 누운 자세 또는 취침 직전 복용 회피</td></tr><tr><td><strong>Iron 제제, 칼륨제제</strong></td><td>직접 점막 자극</td><td>충분한 물로 복용; 제형 변경 고려</td></tr><tr><td><strong>고용량 비타민 C</strong></td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="164">대표 약물</th><th width="241">기전</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>Bisphosphonate (Alendronate)</strong></td><td>직접 점막 자극</td><td>약 200 ㎖ 이상의 물로 복용; 최소 30분 및 첫 음식 섭취 전까지 눕지 않음. 알렌드로네이트는 협착·이완불능증 등 식도 배출 지연 질환 또는 30분간 직립 유지 불가 시 금기; 제품별 허가사항 확인</td></tr><tr><td><strong>Doxycycline / Tetracycline</strong></td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>NSAIDs / Aspirin</strong></td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물로 복용; 위장관 위험은 별도 평가</td></tr><tr><td><strong>Clindamycin</strong></td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>Pinaverium</strong><br><mark style="color:blue;">[디세텔]</mark></td><td>식도에 정체될 때 점막 자극·궤양</td><td>식사 중 충분한 물과 함께 통째로 삼킴; 씹거나 빨지 않음. 누운 자세 또는 취침 직전 복용 회피</td></tr><tr><td><strong>Iron 제제, 칼륨제제</strong></td><td>직접 점막 자극</td><td>충분한 물로 복용; 제형 변경 고려</td></tr><tr><td><strong>고용량 비타민 C</strong></td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -124,7 +124,7 @@
 * **(당일)** 음식이 걸린 느낌이 지속되나 침·분비물은 삼킬 수 있음 `불완전 음식물 저류`
 * **(당일)** 혈역학적으로 안정되어 있어도 새 토혈·흑변이 있음 `위장관 출혈`
 * **(당일)** 흡인 후 새 발열·기침·호흡기 증상 또는 현저한 탈수·섭취 불가 `흡인성 폐렴` `탈수`
-* 진행성 삼킴곤란, 원인 불명 체중 감소·철 결핍 빈혈 `식도암` `협착`&#x20;
+* 진행성 삼킴곤란, 원인 불명 체중 감소·철 결핍 빈혈 `식도암` `협착`
 * 지속적·심한 삼킴통증, 면역 저하자의 새 삼킴곤란·삼킴통증 `감염성 식도염` `약제 유발성 식도염`
 * 반복 흡인·폐렴 병력 또는 영양 결핍 `흡인` `영양 결핍`
 * 쉰 목소리·경부 종괴가 동반되거나 두경부암·식도암 위험이 있는 사람의 새 삼킴곤란 `두경부암` `식도암`
@@ -179,13 +179,11 @@
 
 #### <mark style="color:$primary;">침상 선별검사 (GUSS, V-VST, 3-oz 물 삼키기 검사)</mark>
 
-{% hint style="info" %}
-흡인 위험이 있는 환자를 가려 기구 검사(VFSS/FEES)나 식이 조절로 연결하기 위한 검사임. 음성이어도 흡인, 특히 증상 없는 흡인(silent aspiration)을 완전히 배제하지는 못함.
-
+* 흡인 위험이 있는 환자를 선별하여 기구 검사(VFSS/FEES)나 식이 조절로 연결하기 위한 검사
+  * 음성이어도 흡인, 특히 증상 없는 흡인(silent aspiration)을 완전히 배제하지는 못함
 * **GUSS**(Gugging Swallowing Screen) : 급성 뇌졸중 환자용으로 개발됨. 먼저 각성 상태, 수의적 기침·헛기침, 침 삼키기를 확인한 뒤 이를 통과하면 반고형식 → 액체 → 고형식 순으로 직접 삼키게 함. 20점 만점으로 점수가 낮을수록 중증이며, 점수에 따라 식이 단계를 권함
 * **V-VST**(Volume-Viscosity Swallow Test) : 걸쭉한 액체, 묽은 액체, 푸딩 농도 각각 5·10·20 ㎖를 정해진 순서로 삼키게 함. 기침, 목소리 변화, 산소포화도 3% 이상 저하(안전성)와 입술 닫힘, 구강·인두 잔류, 나누어 삼키기(효율성)를 관찰하고, 안전성 이상이 보이면 그 단계에서 멈춤. 안전하게 삼킬 수 있는 양과 점도를 함께 정할 수 있음
 * **3-oz 물 삼키기 검사**(Yale Swallow Protocol) : 물 약 90 ㎖를 중단 없이 연속으로 마시게 하여, 다 마시지 못하거나 마시는 중 또는 마신 직후 기침·사레가 있으면 실패로 판정함. 흡인 검출 민감도는 높으나 특이도는 낮음. 의식이 명료하고 분비물 조절이 되는 환자에게만 시행함
-{% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -193,7 +191,7 @@
 
 <table data-search="false"><thead><tr><th width="154.26312255859375">검사</th><th width="245.4736328125">적응증</th><th>특이사항</th></tr></thead><tbody><tr><td><strong>혈액 검사</strong>¹⁾</td><td>빈혈·영양 결핍·전신 또는 신경근육 질환 의심</td><td>병력과 진찰에 따라 선택; 모든 환자의 일률적 초기 검사 아님</td></tr><tr><td><strong>상부 소화관 내시경 (EGD)</strong></td><td>식도성 삼킴곤란의 1차 검사</td><td>구조·점막 병변 평가, 조직검사 및 확장술 가능; 원인 불명 식도성 삼킴곤란/EoE 의심 시 내시경이 정상이어도 2개 이상의 식도 높이에서 총 6개 이상 생검</td></tr><tr><td><strong>비디오 투시 연하 검사 (VFSS)</strong>²⁾</td><td>구인두 삼킴곤란, 흡인 평가</td><td>실시간 삼킴 역학·흡인 시점 및 음식 질감·보상 자세 효과 평가; 언어재활사 협력 권장</td></tr><tr><td><strong>섬유내시경 연하</strong><br><strong>검사 (FEES)</strong>³⁾</td><td>구인두 삼킴곤란; 침상 환자, 이동 어려운 환자</td><td>방사선 피폭 없이 인두·후두와 분비물 관리 평가; 삼킴 순간 white-out 등 한계가 있어 VFSS와 상호 보완적</td></tr><tr><td><strong>Barium esophagogram</strong></td><td>Schatzki ring, Zenker 게실, 근위부 협착 의심; EGD 음성이나 폐쇄·운동 이상 의심</td><td>Zenker/고위 식도 병변 의심 시 EGD보다 먼저 고려; 폐쇄성 증상에는 가능하면 timed upright protocol + 13 ㎜ barium tablet; 급성 음식물 저류·고도 폐쇄에서는 흡인 위험과 내시경 시야 방해 때문에 적용하지 않음</td></tr><tr><td><strong>경부·흉부 CT</strong></td><td>외부 압박(갑상선·종격동·혈관 이상), 경추 골극, 천공 의심</td><td>천공·종격동 합병증이 의심되면 우선 시행. 합병증 없는 비골성 음식물 저류에는 일상적 영상검사가 필요하지 않음 [Endoscopy 2016]</td></tr><tr><td><strong>고해상도 식도 내압 검사 (HRM)</strong></td><td>EGD/생검으로 기계적·점막 원인을 배제한 뒤 운동 장애 의심</td><td>Chicago Classification v4.0; achalasia 아형, EGJOO, DES, hypercontractile esophagus 등 분류. 검사 전 금식 및 약물 중단은 검사 목적·반감기·안전성을 고려하여 검사실 지침에 따름</td></tr><tr><td><strong>24시간 pH/임피던스-pH 검사</strong></td><td>EGD·생검·HRM 후에도 원인이 불분명하고 GERD 관여 여부 확인 필요</td><td>검증되지 않은 GERD는 보통 산억제제 중단 상태에서 평가; 이미 확진된 GERD의 치료 불응 평가와 구분함</td></tr><tr><td><strong>FLIP</strong></td><td>HRM 결과가 경계성이거나 HRM을 완료하지 못했으나 EGJ 폐쇄 의심</td><td>EGJ 팽창성 평가; HRM의 보완검사이며 일률적 대체검사는 아님</td></tr><tr><td><strong>후두경 검사</strong></td><td>쉰 목소리·경부 종괴·상기도 증상 또는 지속되는 인두 증상</td><td>후두·하인두 병변 평가; 경고 증상 동반 시 기간을 기다리지 말고 이비인후과 의뢰</td></tr></tbody></table>
 
-> ¹⁾ **혈액검사** : _필요에 따라 CBC, ferritin/철 검사, 전해질·신기능, 단백질/albumin, TFT, Vit B12 등. 근위약·근육통 등 염증성 근육병이 의심되면 CK, 피로성 연하장애·안검하수 등 중증 근무력증이 의심되면 anti-AChR Ab 등 표적 검사_
+> _¹⁾ **혈액검사** : 필요에 따라 CBC, ferritin/철 검사, 전해질·신기능, 단백질/albumin, TFT, Vit B12 등. 근위약·근육통 등 염증성 근육병이 의심되면 CK, 피로성 연하장애·안검하수 등 중증 근무력증이 의심되면 anti-AChR Ab 등 표적 검사_
 >
 > _²⁾ **VFSS**(비디오투시 연하검사) : 조영제를 섞은 여러 질감의 음식을 삼키는 과정을 투시 영상으로 촬영함. 구강에서 식도 입구까지 전 과정과 흡인의 시점·원인을 보고, 턱 당기기 등 보상 자세나 식이 질감 조절의 효과를 바로 확인할 수 있음. 방사선 노출이 있고 검사실로 이동해야 함_
 >
@@ -201,21 +199,21 @@
 
 ### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
 
-<table data-search="false"><thead><tr><th width="334.73687744140625">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리 동반</td><td>후두·두경부 병변, 신경계 질환 등; 증상 선후만으로 양성·악성을 구분하지 않음</td></tr><tr><td>흉통 동반</td><td>심장 원인 배제 후 GERD, DES·과수축성 식도 등 평가</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>중년 이후 여성, 반복 확장술에도 재발하는 협착, 구강 편평태선</td><td>식도 편평태선</td></tr><tr><td>고령, 서서히 진행하는 구인두성 삼킴곤란 + 손가락 굴곡·대퇴사두근 약화</td><td>봉입체근염(IBM)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역 저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>근감소성 삼킴장애 고려; 증상성 삼킴곤란을 정상 노화로 단정하지 않음</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="351">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리 동반</td><td>후두·두경부 병변, 신경계 질환 등; 증상 선후만으로 양성·악성을 구분하지 않음</td></tr><tr><td>흉통 동반</td><td>심장 원인 배제 후 GERD, DES·과수축성 식도 등 평가</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>중년 이후 여성, 반복 확장술에도 재발하는 협착, 구강 편평태선</td><td>식도 편평태선</td></tr><tr><td>고령, 서서히 진행하는 구인두성 삼킴곤란 + 손가락 굴곡·대퇴사두근 약화</td><td>봉입체근염(IBM)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역 저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>근감소성 삼킴장애 고려; 증상성 삼킴곤란을 정상 노화로 단정하지 않음</td></tr></tbody></table>
 
-### <mark style="color:orange;">기능성 삼킴곤란(Functional dysphagia) 진단 기준 - Rome V, 2026</mark>
+### <mark style="color:orange;">기능성 삼킴곤란(Functional dysphagia) 진단 기준 - Rome V</mark>
 
-* 연구용 진단 기준 : 최근 3개월간 기준을 충족하고 진단 6개월 이상 전에 증상이 시작되었으며, 주 1회 이상 증상이 있고 다음을 모두 충족
+* 연구용 진단 기준 : 적어도 진단 6개월 전에 증상이 시작되었고 최근 3개월간 기준을 충족하며, 주 1회 이상 증상이 있으면서 다음을 모두 충족
+  1. 고형식 및/또는 액체가 식도에 달라붙거나 걸리거나 비정상적으로 통과하는 느낌
+  2. 증상을 설명하는 식도 점막 또는 구조 이상이 없음¹⁾
+  3. 증상을 설명하는 GERD 또는 비역류성 식도염이 없음²⁾
+  4. 증상을 설명하는 식도위 접합부 유출 폐쇄 또는 식도 연동 장애가 없음³⁾
 
-1. 고형식 또는 액체가 식도에 걸리거나 비정상적으로 통과하는 느낌
-2. 식도 점막·구조 이상이 증상의 원인이라는 증거 없음
-3. GERD(LA grade B 이상 식도염 또는 Lyon 2.0 기준의 비정상 역류 부담)나 비역류성 식도염(EoE·감염성·약제 유발성 식도염 등)이 증상을 설명하지 않음
-4. Chicago v4.0에 따른 achalasia, 확증된 EGJOO, 수축 소실, 과수축성 식도, 원위부 식도연축이 없음. **비효율적 식도운동(IEM)만으로 진단을 배제하지 않음**; IEM이 확인되면 실제 음식 통과 이상과 증상의 관련성을 개별 판단
+> ¹⁾_정제 또는 마시멜로를 포함한 정상 바륨 식도조영, 또는 정상 FLIP 소견은 진단을 뒷받침할 수 있음_\
+> ²⁾_역류는 Lyon Consensus 2.0에 따라 내시경 또는 역류 검사로 평가함_\
+> ³⁾_Chicago Classification v4.0에 따라 평가하되 비효율적 식도운동(IEM)은 제외함. HRM 중 정상 고형식 시험은 진단을 뒷받침할 수 있음_
 
-* 정상 바륨 식도조영(정제 또는 마시멜로 포함), 정상 FLIP, HRM 중 정상 고형식 시험 소견은 진단을 뒷받침함
 * Rome 임상 기준 : 기질적 질환을 충분히 배제하고 증상의 질적 특성을 충족하며 환자와 의사가 충분히 불편하다고 판단하면 빈도·기간 기준을 완화할 수 있음. 통상 약 8주 지속 여부를 참고하되, 의학적 평가로 다른 질환을 충분히 배제한 경우 예외를 둘 수 있음. 연구용 6개월을 채우기 위해 평가·치료를 늦추지 않음 <mark style="color:$info;">\[Gastroenterology 2026, 2022]</mark>
-
-_<mark style="color:$info;">Ref. Rome V 2026; Chicago Classification v4.0; Lyon Consensus 2.0.</mark>_
 
 ***
 
@@ -224,7 +222,7 @@ _<mark style="color:$info;">Ref. Rome V 2026; Chicago Classification v4.0; Lyon 
 
 > _걸림 위치·양상이 불명확하면 구인두성과 식도성 원인을 함께 평가함. 고형식에만 증상이 있으면 폐쇄, 고형식과 액체 모두에 있으면 운동장애를 시사하나 EGD로 구조·점막 병변을 먼저 평가함. Zenker 게실·고위 협착이 의심되면 계획된 바륨 식도조영을 EGD보다 먼저 고려하되, 급성 음식물 저류·천공 의심에는 적용하지 않음_
 
-<p align="center"><strong>삼킴곤란 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : UEG/ESNM 2025; ACG Esophageal Physiologic Testing 2020;</mark></em> <br><em><mark style="color:$info;">Chicago Classification v4.0; Rome V 2026)</mark></em></p>
+<p align="center"><strong>삼킴곤란 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : UEG/ESNM 2025; ACG Esophageal Physiologic Testing 2020;</mark></em><br><em><mark style="color:$info;">Chicago Classification v4.0; Rome V 2026)</mark></em></p>
 
 ***
 
