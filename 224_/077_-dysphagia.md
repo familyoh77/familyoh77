@@ -8,7 +8,7 @@
 
 #### <mark style="color:$primary;">삼킴곤란의 분류</mark>
 
-<table><thead><tr><th width="158">유형</th><th>정의</th><th>특징</th></tr></thead><tbody><tr><td><strong>Oral dysphagia</strong></td><td>구강기(저작·식괴 형성) 장애; 흔히 구인두성에 포함하여 평가</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td><strong>Oropharyngeal dysphagia</strong></td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td><strong>Esophageal dysphagia</strong></td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr></tbody></table>
+<table><thead><tr><th width="158">유형</th><th>정의</th><th>특징</th></tr></thead><tbody><tr><td><strong>Oral dysphagia</strong></td><td>구강기 장애 : 씹기와 식괴(bolus, 삼키기 위해 뭉친 음식 덩이) 형성의 장애; 흔히 구인두성에 포함하여 평가</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td><strong>Oropharyngeal dysphagia</strong></td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td><strong>Esophageal dysphagia</strong></td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr></tbody></table>
 
 * 이송삼킴곤란(transfer dysphagia) : 구강·인두에서 식괴를 넘기는 과정의 장애로, 통상 구인두성 삼킴곤란과 같은 뜻으로 사용함. 흡인·사레·비강 역류가 동반될 수 있으나 정의에 필수는 아님
 
@@ -254,15 +254,15 @@
 
 ### <mark style="color:orange;">연하 재활: 보상 전략 vs 재활 전략</mark>
 
-* 보상 전략 : 자세·식괴 조절 등으로 즉각적인 삼킴 안전성·효율 개선을 돕는 접근; 효과는 개인별로 확인함
+* 보상 전략 : 자세 조절, 식괴의 양·질감 조절 등으로 즉각적인 삼킴 안전성·효율 개선을 돕는 접근; 효과는 개인별로 확인함
 * 재활 전략 : 시간이 걸리지만 연하 근육 기능 자체를 향상시킴
 * 현대 연하 재활은 보상 전략(Compensatory strategies)과 재활 전략(Rehabilitative strategies)으로 구분. 두 전략을 환자 상태에 맞게 병행하는 것이 원칙
 
 #### <mark style="color:$primary;">보상 전략 (Compensatory)</mark>
 
 * 자세 조절 : 식사 시 90° 직립, 식후 30분 이상 직립 유지
-* 턱 당김 기법(Chin-tuck maneuver) : 일부 환자에서 기도 입구를 좁히고 bolus 흐름을 조절하여 흡인을 줄일 수 있으나 모든 연하장애에 효과적인 것은 아님; VFSS/FEES로 효과 확인 후 적용
-* Head rotation : 편측 인두 약화가 확인된 경우 약한 쪽으로 고개를 돌려 bolus를 상대적으로 건강한 쪽으로 유도; 개별 평가 후 적용
+* 턱 당김 기법(Chin-tuck maneuver) : 일부 환자에서 기도 입구를 좁히고 식괴의 흐름을 조절하여 흡인을 줄일 수 있으나 모든 연하장애에 효과적인 것은 아님; VFSS/FEES로 효과 확인 후 적용
+* Head rotation : 편측 인두 약화가 확인된 경우 약한 쪽으로 고개를 돌려 식괴를 상대적으로 건강한 쪽으로 유도; 개별 평가 후 적용
 * 식이 질감 조절 : IDDSI 단계에 맞게 (아래 참조)
 
 #### <mark style="color:$primary;">재활 전략 (Rehabilitative)</mark>
