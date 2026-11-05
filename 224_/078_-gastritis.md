@@ -14,7 +14,7 @@ H. pylori 음성인 조직학적 위염에서는 자가면역 위염, lymphocyti
 
 #### <mark style="color:$primary;">분류</mark>
 
-<table><thead><tr><th width="193.15789794921875">유형</th><th width="254.21051025390625">특징 및 원인</th><th>임상적 의의</th></tr></thead><tbody><tr><td>Patchy erythema</td><td>위 점막의 국소 발적; "minimal change gastritis"</td><td>대부분 임상적으로 무의미. 과잉 진단·치료 주의</td></tr><tr><td>Erosive gastritis / Reactive gastropathy</td><td>NSAID, 알코올 등 유해 인자</td><td>점막 손상; 출혈 가능</td></tr><tr><td>Hemorrhagic gastritis / gastropathy</td><td>NSAID·알코올 또는 중환자의 저관류·저산소증 등</td><td>출혈성 점막 손상; 원인·출혈 중증도에 따라 평가</td></tr><tr><td>Reflux gastritis</td><td>담즙·췌장액의 역류; 위 수술 후 또는 유문 기능 장애와 관련</td><td>반응성 위병증 소견; 증상과의 인과관계는 신중히 판단</td></tr><tr><td>Infectious gastritis</td><td>H. pylori, 면역저하자의 CMV 등</td><td>H. pylori가 가장 흔한 만성 위염 원인</td></tr><tr><td>Atrophic gastritis</td><td>만성 염증에 의한 선(gland) 소실; 주원인은 H. pylori와 자가면역</td><td>위암 전구 병변; 범위·중증도에 따라 위험 층화</td></tr></tbody></table>
+<table><thead><tr><th width="193.15789794921875">유형</th><th width="254.21051025390625">특징 및 원인</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>Patchy erythema</strong></td><td>위 점막의 국소 발적; "minimal change gastritis"</td><td>대부분 임상적으로 무의미. 과잉 진단·치료 주의</td></tr><tr><td><strong>Erosive gastritis / Reactive gastropathy</strong></td><td>NSAID, 알코올 등 유해 인자</td><td>점막 손상; 출혈 가능</td></tr><tr><td><strong>Hemorrhagic gastritis / gastropathy</strong></td><td>NSAID·알코올 또는 중환자의 저관류·저산소증 등</td><td>출혈성 점막 손상; 원인·출혈 중증도에 따라 평가</td></tr><tr><td><strong>Reflux gastritis</strong></td><td>담즙·췌장액의 역류; 위 수술 후 또는 유문 기능 장애와 관련</td><td>반응성 위병증 소견; 증상과의 인과관계는 신중히 판단</td></tr><tr><td><strong>Infectious gastritis</strong></td><td>H. pylori, 면역저하자의 CMV 등</td><td>H. pylori가 가장 흔한 만성 위염 원인</td></tr><tr><td><strong>Atrophic gastritis</strong></td><td>만성 염증에 의한 선(gland) 소실; 주원인은 H. pylori와 자가면역</td><td>위암 전구 병변; 범위·중증도에 따라 위험 층화</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">만성 위염의 자연 경과 (Correa Cascade)</mark>
 
@@ -180,7 +180,7 @@ flowchart TD
 
 * "위염" 진단을 받은 환자의 상당수에서 FD 또는 GERD가 실제 원인임을 주목
 
-<table><thead><tr><th width="171.47369384765625">특징</th><th>위염 (Gastritis)</th><th>기능성 소화불량 (FD)</th><th>GERD</th></tr></thead><tbody><tr><td>진단 기반</td><td>조직학적 염증</td><td>증상 기준 충족 + 설명 가능한 구조적 질환 없음</td><td>전형적 증상으로 임상 진단 가능; 필요시 내시경·역류검사</td></tr><tr><td>내시경-증상 연관</td><td>대체로 낮음</td><td>정상 또는 비특이적 소견 흔함</td><td>미란성 식도염이 있으면 객관적 근거</td></tr><tr><td>조기 포만감</td><td>비특이적</td><td>흔함(PDS 핵심 증상)</td><td>비전형적</td></tr><tr><td>식후 충만감·팽만감</td><td>비특이적</td><td>흔함</td><td>동반 가능</td></tr><tr><td>신물 역류·흉부 작열감</td><td>비전형적</td><td>주증상이면 다른 진단 고려</td><td>전형적</td></tr><tr><td>누울 때·야간 악화</td><td>비특이적</td><td>가변적</td><td>흔함</td></tr><tr><td>스트레스 연관</td><td>증상 악화 가능</td><td>흔함</td><td>증상 인지에 영향 가능</td></tr><tr><td>H. pylori 연관</td><td>강함</td><td>일부 overlap</td><td>직접적 연관 약함</td></tr><tr><td>NSAID 연관</td><td>강함(주로 반응성 위병증)</td><td>직접적 연관 약함</td><td>직접적 연관 약함</td></tr><tr><td>PPI 반응</td><td>NSAID 관련 미란 등 원인에 따라 다름</td><td>일부 환자에서 호전</td><td>산 역류 증상에서 비교적 양호</td></tr><tr><td>Prokinetic 반응</td><td>제한적</td><td>PDS에서 선택적으로 고려</td><td>routine 사용하지 않음</td></tr><tr><td>치료 핵심</td><td>원인 제거(H. pylori, NSAID 등)</td><td>교육·증상 아형별 치료·gut-brain axis 관리</td><td>산 역류 억제, 체중·식사시간 등 생활 교정</td></tr></tbody></table>
+<table><thead><tr><th width="171.47369384765625">특징</th><th>위염 (Gastritis)</th><th>기능성 소화불량 (FD)</th><th>GERD</th></tr></thead><tbody><tr><td><strong>진단 기반</strong></td><td>조직학적 염증</td><td>증상 기준 충족 + 설명 가능한 구조적 질환 없음</td><td>전형적 증상으로 임상 진단 가능; 필요시 내시경·역류검사</td></tr><tr><td><strong>내시경-증상 연관</strong></td><td>대체로 낮음</td><td>정상 또는 비특이적 소견 흔함</td><td>미란성 식도염이 있으면 객관적 근거</td></tr><tr><td><strong>조기 포만감</strong></td><td>비특이적</td><td>흔함(PDS 핵심 증상)</td><td>비전형적</td></tr><tr><td><strong>식후 충만감·팽만감</strong></td><td>비특이적</td><td>흔함</td><td>동반 가능</td></tr><tr><td><strong>신물 역류·흉부 작열감</strong></td><td>비전형적</td><td>주증상이면 다른 진단 고려</td><td>전형적</td></tr><tr><td><strong>누울 때·야간 악화</strong></td><td>비특이적</td><td>가변적</td><td>흔함</td></tr><tr><td><strong>스트레스 연관</strong></td><td>증상 악화 가능</td><td>흔함</td><td>증상 인지에 영향 가능</td></tr><tr><td><strong>H. pylori 연관</strong></td><td>강함</td><td>일부 overlap</td><td>직접적 연관 약함</td></tr><tr><td><strong>NSAID 연관</strong></td><td>강함(주로 반응성 위병증)</td><td>직접적 연관 약함</td><td>직접적 연관 약함</td></tr><tr><td><strong>PPI 반응</strong></td><td>NSAID 관련 미란 등 원인에 따라 다름</td><td>일부 환자에서 호전</td><td>산 역류 증상에서 비교적 양호</td></tr><tr><td><strong>Prokinetic 반응</strong></td><td>제한적</td><td>PDS에서 선택적으로 고려</td><td>routine 사용하지 않음</td></tr><tr><td><strong>치료 핵심</strong></td><td>원인 제거(H. pylori, NSAID 등)</td><td>교육·증상 아형별 치료·gut-brain axis 관리</td><td>산 역류 억제, 체중·식사시간 등 생활 교정</td></tr></tbody></table>
 
 ***
 
@@ -281,6 +281,14 @@ flowchart TD
 * 식이 조절 : 과식·폭식을 피하고 개인적으로 증상을 유발하는 음식만 선택적으로 제한. 모든 환자에게 맵고 기름진 음식·커피·신 과일즙을 일률적으로 금지하거나 하루 5\~6회 식사를 권할 근거는 부족함. 위축·장상피화생이 있으면 짠 음식·염장식품을 줄이고 채소·과일 섭취를 늘리도록 권함. GERD가 동반되면 야식과 식후 바로 눕기를 피함
 * 스트레스 관리 : 인지행동치료, 이완 요법, 규칙적인 수면·운동
 
+{% hint style="info" %}
+**속쓰림 시 물·우유 섭취**
+
+물 200 ㎖는 약 1분 안에 위 내 pH를 4 이상으로 올리지만 효과는 수 분에 그침. 즉각 완화 효과는 제산제와 비슷하나 지속 시간은 짧음 <mark style="color:$info;">\[Dig Dis Sci 2008]</mark>. 식도에 남은 산은 삼킴에 의한 연동운동과 침의 중화로 제거되므로 <mark style="color:$info;">\[N Engl J Med 1984]</mark>, 물을 소량씩 나누어 마시면 산을 씻어 내는 데 도움이 될 수 있음. 한꺼번에 많이 마셔 위를 팽창시키는 것은 피함.
+
+우유는 마신 직후 일시적으로 증상을 덜어 줄 수 있으나 단백질과 칼슘이 위산 분비를 자극함. 전유·저지방유·무지방유 모두 위산 분비를 늘렸음 <mark style="color:$info;">\[Ann Intern Med 1976]</mark>. 전유의 지방은 위 배출을 늦출 수 있음. 따라서 속쓰림 완화 수단으로 권하지 않으며, 특히 취침 전 섭취는 피함. 즉각 완화가 필요하면 제산제나 alginate가 근거가 더 확실함.
+{% endhint %}
+
 **약물 관련 위염 예방법**
 
 * NSAID 장기 복용 불가피 시 : 위장관·심혈관·신장 위험을 함께 평가. 위장관 고위험에서는 PPI 병용을 고려하고 심혈관 위험이 낮으면 COX-2 억제제를 선택할 수 있음. Celecoxib는 허혈성 심질환·말초동맥질환·뇌혈관질환·NYHA II\~IV 심부전 등 허가 금기를 적용
@@ -357,7 +365,7 @@ flowchart TD
 
 * 단일 '위염 처방'보다 증상 중심(phenotype-based)으로 접근하면 효율적임. 감별이 애매한 경우 우선 phenotype에 맞는 1차 약제를 선택하고 약제별 허가 기간에 맞춰 2\~4주 이내 반응을 재평가. 펙수클루 10 ㎎은 2주 투여 후 재평가하며, 지속 증상은 FD·GERD 등 해당 질환의 치료 기간에 맞춰 평가
 
-<table><thead><tr><th>중심 증상</th><th>가능성 높은 진단</th><th>우선 접근</th><th>핵심 생활 교정</th></tr></thead><tbody><tr><td>타는 듯 쓰림·공복·야간 악화</td><td>Acid-related dyspepsia / 미란성 위염 / GERD</td><td>적응증에 따라 PPI 또는 P-CAB 단기간</td><td>개인 유발 음식·음주 제한; GERD 동반 시 야식 금지</td></tr><tr><td>조기 포만감</td><td>FD-PDS / 위배출 지연</td><td>운동 촉진제 단기간 고려(mosapride, itopride)</td><td>과식을 피하고 필요시 소량 식사·저지방 식사</td></tr><tr><td>식후 팽만감·더부룩함</td><td>FD / IBS overlap</td><td>FD 치료 원칙에 따라 교육 ± 운동 촉진제</td><td>과식·탄산음료를 피하고 천천히 먹기</td></tr><tr><td>구역·메스꺼움</td><td>위배출 지연 / FD / 약물 유발</td><td>유발 원인 교정 ± 운동 촉진제·제토제</td><td>Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인</td></tr><tr><td>NSAID 복용 후 시작</td><td>Reactive gastropathy / 미란성 위염</td><td>NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용</td><td>자가 증량·중복 NSAID 복용 금지</td></tr><tr><td>신물·흉부 작열감·눕거나 야간 악화</td><td>GERD</td><td>PPI 또는 P-CAB(표준 용량)</td><td>야식 금지, 식후 눕지 않기, 과체중이면 체중 조절</td></tr><tr><td>스트레스 연관·증상 변동성·검사 정상</td><td>FD / Gut-brain interaction disorder</td><td>환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator</td><td>스트레스 관리, CBT, 수면·운동 습관 교정</td></tr></tbody></table>
+<table><thead><tr><th>중심 증상</th><th>가능성 높은 진단</th><th>우선 접근</th><th>핵심 생활 교정</th></tr></thead><tbody><tr><td><strong>타는 듯 쓰림·공복·야간 악화</strong></td><td>Acid-related dyspepsia / 미란성 위염 / GERD</td><td>적응증에 따라 PPI 또는 P-CAB 단기간</td><td>개인 유발 음식·음주 제한; GERD 동반 시 야식 금지</td></tr><tr><td><strong>조기 포만감</strong></td><td>FD-PDS / 위배출 지연</td><td>운동 촉진제 단기간 고려(mosapride, itopride)</td><td>과식을 피하고 필요시 소량 식사·저지방 식사</td></tr><tr><td><strong>식후 팽만감·더부룩함</strong></td><td>FD / IBS overlap</td><td>FD 치료 원칙에 따라 교육 ± 운동 촉진제</td><td>과식·탄산음료를 피하고 천천히 먹기</td></tr><tr><td><strong>구역·메스꺼움</strong></td><td>위배출 지연 / FD / 약물 유발</td><td>유발 원인 교정 ± 운동 촉진제·제토제</td><td>Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인</td></tr><tr><td><strong>NSAID 복용 후 시작</strong></td><td>Reactive gastropathy / 미란성 위염</td><td>NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용</td><td>자가 증량·중복 NSAID 복용 금지</td></tr><tr><td><strong>신물·흉부 작열감·눕거나 야간 악화</strong></td><td>GERD</td><td>PPI 또는 P-CAB(표준 용량)</td><td>야식 금지, 식후 눕지 않기, 과체중이면 체중 조절</td></tr><tr><td><strong>스트레스 연관·증상 변동성·검사 정상</strong></td><td>FD / Gut-brain interaction disorder</td><td>환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator</td><td>스트레스 관리, CBT, 수면·운동 습관 교정</td></tr></tbody></table>
 
 {% hint style="info" %}
 **임신부 약물 안전성** \
@@ -505,6 +513,9 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 * [MacLaren R, et al. SCCM and ASHP Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults. Crit Care Med. 2024;52(8):e421-e430.](https://doi.org/10.1097/CCM.0000000000006330) - 중환자의 예방 적응증 및 중단 원칙
 * [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NG239. 2024.](https://www.nice.org.uk/guidance/ng239) - 자가면역 위염에 의한 B12 결핍의 평생 근육주사 보충
 * [국립암센터. 개정 국가 위암 검진 권고안 안내. 2026.](https://www.ncc.re.kr/prBoardView1.ncc?nwsId=11419) - 위내시경 단독 1차 검진과 40\~74세 권고, 고령자 개별 판단
+* [Karamanolis G, et al. A glass of water immediately increases gastric pH in healthy subjects. Dig Dis Sci. 2008;53(12):3128-3132.](https://pubmed.ncbi.nlm.nih.gov/18473176/) - 물·제산제·H2RA·PPI의 위 내 pH 상승 시점과 지속 시간
+* [Helm JF, et al. Effect of esophageal emptying and saliva on clearance of acid from the esophagus. N Engl J Med. 1984;310(5):284-288.](https://pubmed.ncbi.nlm.nih.gov/6690951/) - 연동운동과 침에 의한 식도 산 제거
+* [Ippoliti AF, et al. The effect of various forms of milk on gastric-acid secretion. Ann Intern Med. 1976;84(3):286-289.](https://doi.org/10.7326/0003-4819-84-3-286) - 우유 섭취 후 위산 분비 증가
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
