@@ -2,42 +2,34 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **위병증 (gastropathy)** : 염증이 없거나 경미하면서 위 점막의 상피·혈관 손상이 주된 상태
+* **위병증 (gastropathy)** : 위 점막의 상피 손상·재생 또는 혈관 변화가 주된 소견으로, 염증세포 침윤은 없거나 경미한 상태(예: NSAID·담즙에 의한 반응성 위병증, 문맥고혈압성 위병증)
 * **위염 (gastritis)** : 조직학적으로 확인된 위 점막의 염증 상태; 임상 증상 및 내시경 소견만으로는 확진 불가
-* **"위염" 과잉 진단 주의 - 증상 ≠ 위염**
-  * 상복부 통증·속쓰림·더부룩함이 있다고 해서 모두 "위염"은 아님. 실제 외래에서는 기능성 소화불량(FD), GERD, 소화성 궤양, 약물 유발 증상, 담도 질환 등이 흔히 혼재하며, 이들이 진짜 원인인 경우가 많음
-  * 내시경상 단순 발적(erythema, "minimal change gastritis")은 임상적으로 무의미한 경우가 매우 흔함. 경미한 점막 발적은 정상 변이 또는 비특이 변화일 수 있으며, 증상과의 연관성은 낮음; 내시경 소견이 곧 증상의 원인이라고 단정하지 말 것
 
-{% hint style="info" %}
-H. pylori 음성인 조직학적 위염에서는 자가면역 위염, lymphocytic·eosinophilic·collagenous gastritis, Crohn병, CMV 등 드문 원인을 임상 맥락에 따라 감별함. 약물·담즙 역류에 의한 반응성 위병증은 염증이 적은 점막 손상으로 구분함. PPI 복용은 H. pylori 검사의 위음성과 위체부 우세 분포에 영향을 줄 수 있으므로 검사 시 복용력을 확인함.
+{% hint style="warning" %}
+**"위염" 진단 주의 - 증상 ≠ 위염**
+
+* 상복부 통증·속쓰림·더부룩함이 있다고 해서 모두 "위염"은 아님. 실제 외래에서는 다른 원인이 흔히 혼재하며 이들이 진짜 원인인 경우가 많음
+  * 기능성 소화불량(FD)·GERD를 위염으로 진단하면 불필요한 위염 약제의 장기·중복 처방으로 이어짐
+  * 소화성 궤양·담도 질환·약물 유발 증상을 위염으로 진단하면 원인 평가와 치료가 늦어짐
+* 내시경상 단순 발적(erythema, "minimal change gastritis")은 임상적으로 무의미한 경우가 매우 흔함. 경미한 점막 발적은 정상 변이 또는 비특이 변화일 수 있으며, 증상과의 연관성은 낮음; 내시경 소견이 곧 증상의 원인이라고 단정하지 말 것
 {% endhint %}
 
 #### <mark style="color:$primary;">분류</mark>
 
-<table><thead><tr><th width="193.15789794921875">유형</th><th width="254.21051025390625">특징 및 원인</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>Patchy erythema</strong></td><td>위 점막의 국소 발적; "minimal change gastritis"</td><td>대부분 임상적으로 무의미. 과잉 진단·치료 주의</td></tr><tr><td><strong>Erosive gastritis / Reactive gastropathy</strong></td><td>NSAID, 알코올 등 유해 인자</td><td>점막 손상; 출혈 가능</td></tr><tr><td><strong>Hemorrhagic gastritis / gastropathy</strong></td><td>NSAID·알코올 또는 중환자의 저관류·저산소증 등</td><td>출혈성 점막 손상; 원인·출혈 중증도에 따라 평가</td></tr><tr><td><strong>Reflux gastritis</strong></td><td>담즙·췌장액의 역류; 위 수술 후 또는 유문 기능 장애와 관련</td><td>반응성 위병증 소견; 증상과의 인과관계는 신중히 판단</td></tr><tr><td><strong>Infectious gastritis</strong></td><td>H. pylori, 면역저하자의 CMV 등</td><td>H. pylori가 가장 흔한 만성 위염 원인</td></tr><tr><td><strong>Atrophic gastritis</strong></td><td>만성 염증에 의한 선(gland) 소실; 주원인은 H. pylori와 자가면역</td><td>위암 전구 병변; 범위·중증도에 따라 위험 층화</td></tr></tbody></table>
-
-#### <mark style="color:$primary;">만성 위염의 자연 경과 (Correa Cascade)</mark>
+<table><thead><tr><th width="208">유형</th><th>특징 및 원인</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>Patchy erythema</strong></td><td>위 점막의 국소 발적; "minimal change gastritis"</td><td>대부분 임상적으로 무의미. 과잉 진단·치료 주의</td></tr><tr><td><strong>Erosive gastritis /</strong> <br><strong>Reactive gastropathy</strong></td><td>NSAID, 알코올 등 유해 인자</td><td>점막 손상; 출혈 가능</td></tr><tr><td><strong>Hemorrhagic gastritis /</strong><br><strong>gastropathy</strong></td><td>NSAID·알코올 또는 중환자의 저관류·저산소증 등</td><td>출혈성 점막 손상; 원인·출혈 중증도에 따라 평가</td></tr><tr><td><strong>Reflux gastritis</strong></td><td>담즙·췌장액의 역류; 위 수술 후 또는 유문 기능 장애와 관련</td><td>반응성 위병증 소견; 증상과의 인과관계는 신중히 판단</td></tr><tr><td><strong>Infectious gastritis</strong></td><td>H. pylori, 면역저하자의 CMV 등</td><td>H. pylori가 가장 흔한 만성 위염 원인</td></tr><tr><td><strong>Atrophic gastritis</strong></td><td>만성 염증에 의한 선(gland) 소실; 주원인은 H. pylori와 자가면역</td><td>위암 전구 병변; 범위·중증도에 따라 위험 층화</td></tr></tbody></table>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["정상 위 점막"] --> B["H. pylori 관련 만성 비위축성 위염"]
-    B --> C["위축성 위염"]
-    C --> D["장상피화생"]
-    D --> E["저도·고도 이형성증"]
-    E --> F["장형 위선암"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style E fill:#fff9c4,stroke:#ffe082
-    style F fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
-<p align="center"><strong>Correa cascade</strong></p>
+> _모든 환자가 위암으로 진행하는 것은 아님. 이 경로는 위험 층화를 설명하는 모형이며, 제균의 위암 예방 효과는 위축·장상피화생이 생기기 전에 가장 크고 제균 후에도 진행된 전암병변의 위험은 남을 수 있음_&#x20;
+
+<p align="center"><strong>만성 위염의 자연 경과</strong><br><em><mark style="color:$info;">참고 문헌 : Korean J Helicobacter Up Gastrointest Res 2026</mark></em></p>
 
 ***
 
-* 모든 환자가 위암으로 진행하는 것은 아님. 이 경로는 위험 층화를 설명하는 모형이며, 제균의 위암 예방 효과는 위축·장상피화생이 생기기 전에 가장 크고 제균 후에도 진행된 전암병변의 위험은 남을 수 있음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
+*
 
 {% hint style="info" %}
 **Correa cascade**는 주로 H. pylori 관련 다초점 위축성 위염에서 장형 위암으로 진행하는 경로임. 자가면역 위염은 위체부 우세 위축·고가스트린혈증 및 Type 1 위 신경내분비종양 위험을 포함하는 별도 경로로 이해함.
@@ -248,12 +240,15 @@ flowchart TD
 * 식이 조절 : 과식·폭식을 피하고 개인적으로 증상을 유발하는 음식만 선택적으로 제한. 모든 환자에게 맵고 기름진 음식·커피·신 과일즙을 일률적으로 금지하거나 하루 5\~6회 식사를 권할 근거는 부족함. 위축·장상피화생이 있으면 짠 음식·염장식품을 줄이고 채소·과일 섭취를 늘리도록 권함. GERD가 동반되면 야식과 식후 바로 눕기를 피함
 * 스트레스 관리 : 인지행동치료, 이완 요법, 규칙적인 수면·운동
 
+
+
 {% hint style="info" %}
 **속쓰림 시 물·우유 섭취**
 
-물 200 ㎖는 약 1분 안에 위 내 pH를 4 이상으로 올리지만 효과는 수 분에 그침. 즉각 완화 효과는 제산제와 비슷하나 지속 시간은 짧음 <mark style="color:$info;">\[Dig Dis Sci 2008]</mark>. 식도에 남은 산은 삼킴에 의한 연동운동과 침의 중화로 제거되므로 <mark style="color:$info;">\[N Engl J Med 1984]</mark>, 물을 소량씩 나누어 마시면 산을 씻어 내는 데 도움이 될 수 있음. 한꺼번에 많이 마셔 위를 팽창시키는 것은 피함.
+* **물** : 건강인 대상 연구에서 물 200 ㎖ 섭취 후 약 1분 내 위내 pH가 4를 초과했으나, 효과는 약 3분간 지속되어 제산제(약 12분)보다 짧았음 \[Dig Dis Sci 2008]. 이는 위내 pH 변화에 관한 결과로, 실제 속쓰림 완화 효과가 제산제와 동등하다는 의미는 아님. 식도 내 산성 내용물은 연동운동으로 배출되고 잔여 산은 삼킨 침으로 중화되므로 <mark style="color:$info;">\[N Engl J Med 1984]</mark>, 물을 조금씩 마시면 일시적으로 도움이 될 수 있으나 직접적인 임상 근거는 제한적임. 한꺼번에 많은 양을 마셔 위를 팽창시키는 것은 피함.
+* **우유** : 섭취 직후 일시적으로 증상을 덜어 줄 수 있으나, 단백질·칼슘은 위산 분비를 자극함. 전유·저지방유·무지방유 모두 240 ㎖ 섭취 후 위산 분비 증가가 관찰되었음 \[Ann Intern Med 1976]. 지방 함량이 높은 우유는 위배출을 지연시킬 수 있음. 우유를 속쓰림 완화 목적으로 반복 섭취하도록 권하지 않으며, 야간 역류 증상이 있으면 특히 취침 직전 섭취를 피함. 다만 평소 우유 섭취로 증상이 악화되지 않는 환자에게 일률적으로 금지할 필요는 없음.
 
-우유는 마신 직후 일시적으로 증상을 덜어 줄 수 있으나 단백질과 칼슘이 위산 분비를 자극함. 전유·저지방유·무지방유 모두 위산 분비를 늘렸음 <mark style="color:$info;">\[Ann Intern Med 1976]</mark>. 전유의 지방은 위 배출을 늦출 수 있음. 따라서 속쓰림 완화 수단으로 권하지 않으며, 특히 취침 전 섭취는 피함. 즉각 완화가 필요하면 제산제나 alginate가 근거가 더 확실함.
+물·우유는 위염 자체를 치료하지 않음. 반복적인 산 관련 속쓰림에는 원인 평가가 우선이며, 단기 증상 완화에는 적응증에 따라 제산제 또는 alginate 제제를 고려함
 {% endhint %}
 
 **약물 관련 위염 예방법**
@@ -333,18 +328,18 @@ flowchart TD
 * 단일 '위염 처방'보다 증상 중심(phenotype-based)으로 접근하면 효율적임. 감별이 애매한 경우 우선 phenotype에 맞는 1차 약제를 선택하고 약제별 허가 기간에 맞춰 2\~4주 이내 반응을 재평가. 펙수클루 10 ㎎은 2주 투여 후 재평가하며, 지속 증상은 FD·GERD 등 해당 질환의 치료 기간에 맞춰 평가
 
 <<<<<<< HEAD
-<table><thead><tr><th>중심 증상</th><th>가능성 높은 진단</th><th>우선 접근</th><th>핵심 생활 교정</th></tr></thead><tbody><tr><td><strong>타는 듯 쓰림·공복·야간 악화</strong></td><td>Acid-related dyspepsia / 미란성 위염 / GERD</td><td>적응증에 따라 PPI 또는 P-CAB 단기간</td><td>개인 유발 음식·음주 제한; GERD 동반 시 야식 금지</td></tr><tr><td><strong>조기 포만감</strong></td><td>FD-PDS / 위배출 지연</td><td>운동 촉진제 단기간 고려(mosapride, itopride)</td><td>과식을 피하고 필요시 소량 식사·저지방 식사</td></tr><tr><td><strong>식후 팽만감·더부룩함</strong></td><td>FD / IBS overlap</td><td>FD 치료 원칙에 따라 교육 ± 운동 촉진제</td><td>과식·탄산음료를 피하고 천천히 먹기</td></tr><tr><td><strong>구역·메스꺼움</strong></td><td>위배출 지연 / FD / 약물 유발</td><td>유발 원인 교정 ± 운동 촉진제·제토제</td><td>Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인</td></tr><tr><td><strong>NSAID 복용 후 시작</strong></td><td>Reactive gastropathy / 미란성 위염</td><td>NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용</td><td>자가 증량·중복 NSAID 복용 금지</td></tr><tr><td><strong>신물·흉부 작열감·눕거나 야간 악화</strong></td><td>GERD</td><td>PPI 또는 P-CAB(표준 용량)</td><td>야식 금지, 식후 눕지 않기, 과체중이면 체중 조절</td></tr><tr><td><strong>스트레스 연관·증상 변동성·검사 정상</strong></td><td>FD / Gut-brain interaction disorder</td><td>환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator</td><td>스트레스 관리, CBT, 수면·운동 습관 교정</td></tr></tbody></table>
-=======
-| 중심 증상                | 가능성 높은 진단                              | 우선 접근                                                              | 핵심 생활 교정                              |
-| -------------------- | -------------------------------------- | ------------------------------------------------------------------ | ------------------------------------- |
-| 타는 듯 쓰림·공복·야간 악화     | Acid-related dyspepsia / 미란성 위염 / GERD | 적응증에 따라 PPI 또는 P-CAB 단기간                                           | 개인 유발 음식·음주 제한; GERD 동반 시 야식 금지       |
-| 조기 포만감               | FD-PDS / 위배출 지연                        | 운동 촉진제 단기간 고려(mosapride, itopride)                                 | 과식을 피하고 필요시 소량 식사·저지방 식사              |
-| 식후 팽만감·더부룩함          | FD / IBS overlap                       | FD 치료 원칙에 따라 교육 ± 운동 촉진제                                           | 과식·탄산음료를 피하고 천천히 먹기                   |
-| 구역·메스꺼움              | 위배출 지연 / FD / 약물 유발                    | 유발 원인 교정 ± 운동 촉진제·제토제                                              | Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인 |
-| NSAID 복용 후 시작        | Reactive gastropathy / 미란성 위염          | NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용 | 자가 증량·중복 NSAID 복용 금지                  |
-| 신물·흉부 작열감·눕거나 야간 악화  | GERD                                   | PPI 또는 P-CAB(표준 용량)                                                | 야식 금지, 식후 눕지 않기, 과체중이면 체중 조절          |
-| 스트레스 연관·증상 변동성·검사 정상 | FD / Gut-brain interaction disorder    | 환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator                              | 스트레스 관리, CBT, 수면·운동 습관 교정             |
->>>>>>> 6b302ceda36b1575f7868bc252b5af7768d3f79f
+
+| 중심 증상                    | 가능성 높은 진단                              | 우선 접근                                                              | 핵심 생활 교정                              |
+| ------------------------ | -------------------------------------- | ------------------------------------------------------------------ | ------------------------------------- |
+| **타는 듯 쓰림·공복·야간 악화**     | Acid-related dyspepsia / 미란성 위염 / GERD | 적응증에 따라 PPI 또는 P-CAB 단기간                                           | 개인 유발 음식·음주 제한; GERD 동반 시 야식 금지       |
+| **조기 포만감**               | FD-PDS / 위배출 지연                        | 운동 촉진제 단기간 고려(mosapride, itopride)                                 | 과식을 피하고 필요시 소량 식사·저지방 식사              |
+| **식후 팽만감·더부룩함**          | FD / IBS overlap                       | FD 치료 원칙에 따라 교육 ± 운동 촉진제                                           | 과식·탄산음료를 피하고 천천히 먹기                   |
+| **구역·메스꺼움**              | 위배출 지연 / FD / 약물 유발                    | 유발 원인 교정 ± 운동 촉진제·제토제                                              | Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인 |
+| **NSAID 복용 후 시작**        | Reactive gastropathy / 미란성 위염          | NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용 | 자가 증량·중복 NSAID 복용 금지                  |
+| **신물·흉부 작열감·눕거나 야간 악화**  | GERD                                   | PPI 또는 P-CAB(표준 용량)                                                | 야식 금지, 식후 눕지 않기, 과체중이면 체중 조절          |
+| **스트레스 연관·증상 변동성·검사 정상** | FD / Gut-brain interaction disorder    | 환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator                              | 스트레스 관리, CBT, 수면·운동 습관 교정             |
+
+\======= | 중심 증상 | 가능성 높은 진단 | 우선 접근 | 핵심 생활 교정 | | -------------------- | -------------------------------------- | ------------------------------------------------------------------ | ------------------------------------- | | 타는 듯 쓰림·공복·야간 악화 | Acid-related dyspepsia / 미란성 위염 / GERD | 적응증에 따라 PPI 또는 P-CAB 단기간 | 개인 유발 음식·음주 제한; GERD 동반 시 야식 금지 | | 조기 포만감 | FD-PDS / 위배출 지연 | 운동 촉진제 단기간 고려(mosapride, itopride) | 과식을 피하고 필요시 소량 식사·저지방 식사 | | 식후 팽만감·더부룩함 | FD / IBS overlap | FD 치료 원칙에 따라 교육 ± 운동 촉진제 | 과식·탄산음료를 피하고 천천히 먹기 | | 구역·메스꺼움 | 위배출 지연 / FD / 약물 유발 | 유발 원인 교정 ± 운동 촉진제·제토제 | Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인 | | NSAID 복용 후 시작 | Reactive gastropathy / 미란성 위염 | NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용 | 자가 증량·중복 NSAID 복용 금지 | | 신물·흉부 작열감·눕거나 야간 악화 | GERD | PPI 또는 P-CAB(표준 용량) | 야식 금지, 식후 눕지 않기, 과체중이면 체중 조절 | | 스트레스 연관·증상 변동성·검사 정상 | FD / Gut-brain interaction disorder | 환자 교육 ± 증상 아형별 약제; 필요시 neuromodulator | 스트레스 관리, CBT, 수면·운동 습관 교정 | >>>>>>> 6b302ceda36b1575f7868bc252b5af7768d3f79f
 
 {% hint style="info" %}
 **임신부 약물 안전성**\
