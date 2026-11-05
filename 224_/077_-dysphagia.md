@@ -4,9 +4,7 @@
 
 * 삼킴곤란(연하곤란, dysphagia) : 구강에서 위장으로 음식물을 이동시키는 과정에서의 어려움; 부위와 기전에 따라 구분
 * 삼킴(연하)은 구강기(oral phase) → 인두기(pharyngeal phase) → 식도기(esophageal phase)의 3단계로 이루어지며, 각 단계의 장애에 따라 임상 양상이 다름
-* 본문의 검사·치료 경로와 약물 용량은 성인 중심임
-* 유병률 : 정의·선별도구·대상 집단에 따라 큰 차이가 있음. 일반 인구의 삼킴곤란은 약 10\~20%로 추정되며, 지역사회 노인의 구인두성 삼킴곤란은 약 23%로 보고됨
-  * 입원·요양 시설 거주 노인과 뇌졸중·파킨슨병 등 신경계 질환 환자에서 더 흔함. 서로 다른 집단·평가방법에서 얻은 수치를 동일한 유병률로 적용하지 않음 <mark style="color:$info;">\[United European Gastroenterol J 2025]</mark>
+* 유병률 : 성인의 약 4%가 최근 1년간 삼킴 문제를 경험하며, 노인·요양 시설 거주자·신경계 질환 환자에서 더 흔함; 정의·선별도구·대상 집단에 따라 큰 차이가 있음 <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2014; Clin Gastroenterol Hepatol 2020]</mark>
 
 #### <mark style="color:$primary;">삼킴곤란의 분류</mark>
 
