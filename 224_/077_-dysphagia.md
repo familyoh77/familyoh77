@@ -8,9 +8,9 @@
 
 #### <mark style="color:$primary;">삼킴곤란의 분류</mark>
 
-<table><thead><tr><th width="158">유형</th><th>정의</th><th>특징</th></tr></thead><tbody><tr><td><strong>Oral dysphagia</strong></td><td>구강기 장애 : 씹기와 식괴(bolus, 삼키기 위해 뭉친 음식 덩이) 형성의 장애; 흔히 구인두성에 포함하여 평가</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td><strong>Oropharyngeal dysphagia</strong></td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td><strong>Esophageal dysphagia</strong></td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr></tbody></table>
+<table><thead><tr><th width="158">유형</th><th>정의</th><th>특징</th></tr></thead><tbody><tr><td><strong>Oral dysphagia</strong></td><td>구강기 장애 : 씹기와 식괴(bolus) 형성의 장애; 흔히 구인두성에 포함하여 평가</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td><strong>Oropharyngeal dysphagia</strong></td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td><strong>Esophageal dysphagia</strong></td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr></tbody></table>
 
-* 이송삼킴곤란(transfer dysphagia) : 구강·인두에서 식괴를 넘기는 과정의 장애로, 통상 구인두성 삼킴곤란과 같은 뜻으로 사용함. 흡인·사레·비강 역류가 동반될 수 있으나 정의에 필수는 아님
+* 이송삼킴곤란(transfer dysphagia) : 구강·인두에서 식괴(bolus, 삼키기 위해 뭉친 음식 덩이) 를 넘기는 과정의 장애로, 통상 구인두성 삼킴곤란과 같은 뜻으로 사용함. 흡인·사레·비강 역류가 동반될 수 있으나 정의에 필수는 아님
 
 #### <mark style="color:$primary;">관련 증상 구분</mark>
 
@@ -218,6 +218,36 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["삼킴곤란 의심"] --> B["Red Flags의<br/>즉각 조치 항목에 해당?"]
+    B -- "예" --> C["응급 평가·기도 보호<br/>및 즉시 의뢰"]
+    B -- "아니오" --> R["당일~수일 내 평가<br/>항목에 해당?"]
+    R -- "예" --> S["긴급도에 따른<br/>원인 평가·전문과 의뢰"]
+    R -- "아니오" --> D["발생 시점·동반 증상<br/>·병력?"]
+    D -- "삼킴 시작 곤란<br/>사레·비강 역류" --> E["구인두성 의심"]
+    D -- "삼킨 뒤 걸림<br/>흉골 뒤 증상" --> F["식도성 의심"]
+    E --> H["VFSS / FEES<br/>재활의학과·연하팀 평가"]
+    F --> J["EGD + <br/>필요한 식도 생검"]
+    J --> JQ["증상을 설명할 원인 확인?"]
+    JQ -- "예" --> K["종양·협착·EoE<br/>·식도염 등<br/>원인별 치료"]
+    JQ -- "아니오" --> L["고해상도 <br/>식도내압검사"]
+    L --> LQ["임상적으로 확증된<br/>운동장애?"]
+    LQ -- "예" --> M["아형별 치료 및 <br/>opioid 영향 평가"]
+    LQ -- "정상 또는 불확실" --> N["선택적 추가 검사<br/>timed 바륨조영·정제 <br/>/ FLIP / 역류검사"]
+    N --> NQ["증상을 설명할 <br/>원인 확인?"]
+    NQ -- "예" --> P["원인별 치료"]
+    NQ -- "다른 원인 충분히 배제" --> Q["Rome V <br/>기능성 삼킴곤란<br/>평가·치료 단계로"]
+    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef test fill:#e8f5e9,stroke:#81c784
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    classDef next fill:#e8eaf6,stroke:#9fa8da
+    class A,E,F neutral
+    class B,R,D,JQ,LQ,NQ question
+    class S,H,J,L,N test
+    class K,M,P treatment
+    class Q next
+    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
 > _걸림 위치·양상이 불명확하면 구인두성과 식도성 원인을 함께 평가함. 고형식에만 증상이 있으면 폐쇄, 고형식과 액체 모두에 있으면 운동장애를 시사하나 EGD로 구조·점막 병변을 먼저 평가함. Zenker 게실·고위 협착이 의심되면 계획된 바륨 식도조영을 EGD보다 먼저 고려하되, 급성 음식물 저류·천공 의심에는 적용하지 않음_
@@ -283,10 +313,9 @@
 
 * **IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0\~7); 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화함
 
-<table><thead><tr><th width="130">IDDSI 단계</th><th width="241.0526123046875">표준 명칭</th><th>구분</th></tr></thead><tbody><tr><td>Level 0</td><td>Thin (묽은 액체)</td><td>음료</td></tr><tr><td>Level 1</td><td>Slightly Thick (약간 걸쭉)</td><td>음료</td></tr><tr><td>Level 2</td><td>Mildly Thick (약하게 걸쭉)</td><td>음료</td></tr><tr><td>Level 3</td><td>Moderately Thick / Liquidised</td><td>음료·음식</td></tr><tr><td>Level 4</td><td>Extremely Thick / Pureed</td><td>음료·음식</td></tr><tr><td>Level 5</td><td>Minced &#x26; Moist (다지고 촉촉한 음식)</td><td>음식</td></tr><tr><td>Level 6</td><td>Soft &#x26; Bite-sized (부드럽고 한입 크기 음식)</td><td>음식</td></tr><tr><td>Level 7</td><td>Regular / Easy to Chew</td><td>일반식·씹기 쉬운 일반식</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="119">IDDSI 단계</th><th width="352">표준 명칭</th><th>구분</th></tr></thead><tbody><tr><td>Level 0</td><td>Thin (묽은 액체)</td><td>음료</td></tr><tr><td>Level 1</td><td>Slightly Thick (약간 걸쭉)</td><td>음료</td></tr><tr><td>Level 2</td><td>Mildly Thick (약하게 걸쭉)</td><td>음료</td></tr><tr><td>Level 3</td><td>Moderately Thick / Liquidised</td><td>음료·음식</td></tr><tr><td>Level 4</td><td>Extremely Thick / Pureed</td><td>음료·음식</td></tr><tr><td>Level 5</td><td>Minced &#x26; Moist (다지고 촉촉한 음식)</td><td>음식</td></tr><tr><td>Level 6</td><td>Soft &#x26; Bite-sized (부드럽고 한입 크기 음식)</td><td>음식</td></tr><tr><td>Level 7</td><td>Regular / Easy to Chew</td><td>일반식·씹기 쉬운 일반식</td></tr></tbody></table>
 
 * 이 밖에 수분이나 열을 가하면 녹거나 부드러워지는 전환 음식(transitional foods)을 별도로 정의함
-* 과거의 nectar·honey·pudding 농도 용어를 IDDSI 단계와 단순 대응시키지 않음
 * 단계는 음료·음식의 물성을 표시함. 조리·온도·방치 시간에 따라 변하므로 IDDSI 흐름·포크·스푼 검사 등으로 실제 제공 상태를 확인함 <mark style="color:$info;">\[IDDSI]</mark>
 * IDDSI 단계는 흡인 위험의 경증·중등도와 일대일 대응하지 않으며, VFSS/FEES에서 확인한 병태와 환자의 선호·수분 섭취·영양 상태에 따라 선택
 * 증점제(thickener) : 검사 중 흡인을 줄일 수 있으나 폐렴 예방 효과는 확립되지 않음. 과도한 증점은 인두 잔류·수분 섭취 감소·탈수·식욕 저하·복약 문제를 유발할 수 있어 환자 선호와 섭취량을 함께 평가하고 정기적으로 재평가함 <mark style="color:$info;">\[ASHA; Ann Rehabil Med 2023]</mark>
@@ -296,25 +325,26 @@
 
 ## <mark style="color:green;">약물 치료</mark>
 
-{% hint style="info" %}
-처방 시 최신 품목정보/급여기준 조회. 임상 지침의 권고, 품목허가, 건강보험 급여 인정 범위는 별개임. 세부 약물 안전성은 ☞ [소화기계 약제](073_-gidrugs.md)와 함께 확인함. EoE에 대한 PPI·천식용 국소 스테로이드 전용·dupilumab, fluconazole의 지침상 고용량은 허가 범위 밖이며, 허가 외 처방례만으로 급여 인정이 보장되지 않음.
-{% endhint %}
-
 ### <mark style="color:orange;">GERD / 소화성 협착</mark>
 
-**PPI (proton pump inhibitor)**
+[**PPI**](073_-gidrugs.md#proton-pump-inhibitor-ppi) **(proton pump inhibitor)**
 
 * 위산 분비 억제로 증상 호전 및 협착 재발 방지
 * omeprazole 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>; pantoprazole 40 ㎎ qd <mark style="color:blue;">\[판토록]</mark>; esomeprazole 20\~40 ㎎ qd <mark style="color:blue;">\[넥시움]</mark>. 적응증·중증도·반응에 따른 증량은 별도 판단
-* 대부분의 일반형 PPI는 아침 첫 식사 30\~60분 전 복용; bid이면 아침·저녁 식전. dexlansoprazole·에소메졸디알 등 식사와 무관한 제형은 구분함
+* 대부분의 일반형 PPI는 아침 첫 식사 30\~60분 전 복용; bid이면 아침·저녁 식전
+  * dexlansoprazole·에소메졸디알은 식사 무관
 * 소화성 협착·중증 미란성 식도염·PPI로 관해된 EoE는 유지 적응증이 될 수 있으므로 단순히 8주를 넘었다는 이유로 중단하지 않으며, 주기적으로 최저 유효 용량과 필요성을 재평가함
-* clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안을 고려함. 최적 PPI에도 남는 야간 역류 증상에는 취침 전 H₂ 차단제를 단기·필요시 추가할 수 있으나 일률적으로 병용하지 않음; famotidine은 신기능에 따라 조정
+* clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안을 고려함
+* 최적 PPI에도 남는 야간 역류 증상에는 취침 전 H₂ 차단제를 단기·필요시 추가할 수 있으나 일률적으로 병용하지 않음; famotidine은 신기능에 따라 조정
 * 미란성 식도염에는 P-CAB(tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark> 등)도 허가되어 있으나, 소화성 협착의 확장술 후 재협착 예방 근거는 PPI 중심임
 
 ### <mark style="color:orange;">호산구성 식도염 (EoE)</mark>
 
-* **진단** : 식도 기능장애 증상 + 식도 생검 **≥15 eos/hpf** + 식도 호산구증가의 다른 원인 평가. 정상 내시경 소견만으로 배제하지 않으며, ≥2개 높이에서 총 ≥6개 생검. 추적 EGD에서도 EREFS(부종·고리·삼출물·세로 홈·협착)와 조직 호산구 수를 함께 기록
-* 초기 진단검사는 임상적으로 안전하면 PPI·제거식 등에 의한 위음성을 줄이는 조건에서 계획. 치료 중 음성 생검이지만 의심이 높으면 전문의가 치료 중단 후 재검 여부를 판단하며, 음식물 저류의 응급 내시경을 지연시키거나 천식 치료제를 임의 중단하지 않음 <mark style="color:$info;">\[Am J Gastroenterol 2025]</mark>
+* **진단** : 식도 기능장애 증상 + 식도 생검 ≥15 eos/hpf + 식도 호산구증가의 다른 원인 평가
+  * 정상 내시경 소견만으로 배제하지 않으며, ≥2개 높이에서 총 ≥6개 생검
+  * 추적 EGD에서도 EREFS(부종·고리·삼출물·세로 홈·협착)와 조직 호산구 수를 함께 기록
+* 초기 진단검사는 임상적으로 안전하면 PPI·제거식 등에 의한 위음성을 줄이는 조건에서 계획
+  * 치료 중 음성 생검이지만 의심이 높으면 전문의가 치료 중단 후 재검 여부를 판단하며, 음식물 저류의 응급 내시경을 지연시키거나 천식 치료제를 임의 중단하지 않음 <mark style="color:$info;">\[Am J Gastroenterol 2025]</mark>
 
 {% hint style="info" %}
 **EoE와 PPI 반응** : 이전에 사용하던 "PPI-responsive EoE"라는 표현은 현재 권장되지 않음. PPI는 EoE의 1차 항염증 치료 옵션 중 하나로 인정되며, PPI에 반응하더라도 EoE 진단이 배제되지 않음 <mark style="color:$info;">\[Am J Gastroenterol 2025]</mark>.
@@ -322,23 +352,23 @@
 **EoE 내시경 소견** (정상이어도 생검 필수) : feline esophagus (다발성 동심성 고리), linear furrows (세로 홈), white exudates, stricture, mucosal fragility
 {% endhint %}
 
-* **초기 항염증 치료 - 공동 의사결정으로 한 가지 선택**
-  * **PPI** : 고용량 PPI를 8\~12주 투여 후 내시경·조직검사로 반응 평가(예: omeprazole 20 ㎎ bid 또는 등가 PPI; 중증도·반응에 따라 전문의가 증량). EoE 허가 적응증이 없는 PPI의 사용은 허가 외 사용으로 구분
+* **초기 항염증 치료** - 공동 의사결정으로 한 가지 선택
+  * **PPI** : 고용량 PPI를 8\~12주 투여 후 내시경·조직검사로 반응 평가(예: omeprazole 20 ㎎ bid 또는 등가 PPI; 중증도·반응에 따라 전문의가 증량). EoE 허가 적응증이 없는 PPI는 허가 외 사용
   * **Swallowed topical steroid** : budesonide 또는 fluticasone 단일 성분을 식도에 도달하도록 삼킴. EoE 전용 budesonide 제제(경구 현탁액·구강붕해정)는 해외 약제이며, 천식용 제제 전용은 허가 외 사용
-    * budesonide 점성 현탁액 : 성인 총 2\~4 ㎎/일이 지침 범위이며, 조제 현탁액의 한 예는 1 ㎎ bid임. budesonide 분무용현탁액을 점성 매개체에 섞는 조제법은 허가 외 사용이므로 소화기내과 협진
-    * fluticasone 단일 성분 정량분무 흡입제 : ACG 2025 성인 유도요법 예는 880 ㎍ bid(총 1,760 ㎍/일)이며 제형·용량을 확인. **fluticasone/formoterol 복합제는 사용하지 않음**
+    * budesonide 점성 현탁액 : 성인 총 2\~4 ㎎/일이 지침 범위이며, 조제 현탁액의 한 예는 1 ㎎ bid임. budesonide 분무용현탁액을 점성 매개체에 섞는 조제법은 전문과 협진
+    * fluticasone 단일 성분 정량분무 흡입제 : ACG 2025 성인 유도요법 예는 880 ㎍ bid(총 1,760 ㎍/일)이며 제형·용량을 확인. fluticasone/formoterol 복합제는 사용하지 않음
     * 일반적으로 식후 또는 취침 전에 투여하고, 투여 후 30\~60분 음식·음료를 피함. 구강·식도 칸디다증 및 드문 부신 억제에 유의하며, 다른 경로 스테로이드 병용·장기 고용량 등은 개별 모니터링함. 구강 칸디다 예방 방법은 제형별 복약지도에 따름
   * **경험적 제거식** : 가능하면 1-food(우유) 또는 2-food(우유·밀) 제거처럼 덜 제한적인 방식부터 시작하고 영양사와 협력. 알레르기검사만으로 제거 식품을 결정하지 않음
-* **Dupilumab (IL-4/IL-13 신호 억제 생물학적 제제)** <mark style="color:blue;">\[듀피젠트프리필드주]</mark>
-  * PPI 등 초기 치료에 반응하지 않거나 불내성인 경우, 반복적 food impaction/fibrostenotic EoE 또는 치료가 필요한 다발성 아토피 질환이 동반된 경우 전문의가 고려
-  * 미국 EoE 적응증은 ≥1세·체중 ≥15 ㎏이나, **국내 dupilumab 허가사항에는 EoE 적응증이 없음(2026년 11월 1일 식약처 품목정보 확인)**. 해외 권고와 허가 외 사용을 구분하며 전문의가 판단 <mark style="color:$info;">\[FDA; 식약처]</mark>
+* **Dupilumab** (IL-4/IL-13 신호 억제 생물학적 제제) <mark style="color:blue;">\[듀피젠트프리필드주]</mark>
+  * PPI 등 초기 치료에 반응하지 않거나 불내성인 경우, 반복적 food impaction/fibrostenotic EoE 또는 치료가 필요한 다발성 아토피 질환이 동반된 경우 고려
+  * 미국 EoE 적응증은 ≥1세·체중 ≥15 ㎏이나, 국내 dupilumab 허가사항에는 EoE 적응증이 없음(2026년 11월 1일 기준). 해외 권고와 허가 외 사용을 구분하며 전문의가 판단 <mark style="color:$info;">\[FDA; 식약처]</mark>
 * **반응 평가 및 유지 치료** : 증상만으로 관해를 판단하지 않고 PPI·국소 스테로이드 등은 보통 8\~12주 후 EGD와 생검으로 평가(조직학적 반응은 일반적으로 ＜15 eos/hpf). Dupilumab은 반응 속도와 임상 경과에 따라 평가 시점을 개별화하며 ACG 해설에는 12\~24주 평가의 전문가 진료 예시가 있음; 일률적인 의무 시점은 아님 <mark style="color:$info;">\[Am J Gastroenterol 2025]</mark>. 관해 후에도 선택한 식이 또는 약물 유지 치료를 지속하여 재발·섬유화·협착 위험을 낮춤
 
 ### <mark style="color:orange;">식도 운동 장애</mark>
 
 * **이완불능증(achalasia)** - LES 폐쇄를 줄이는 시술이 치료의 중심이며 약물 효과는 제한적; 시술로 정상 연동운동이 회복되는 것은 아님
   * 시술 치료가 어렵거나 시술 대기 중인 선택된 환자에서만 단시간 작용 nitrate 또는 CCB를 고려. 효과가 제한적이고 저혈압·두통·말초부종 등이 흔하며 적응증·제형 확인 필요
-  * 지속 효과를 기대하는 시술이 어려운 쇠약·고위험 환자에서는 **내시경 보툴리눔 독소 주사**를 고려. 효과가 일시적이며 반복 치료가 필요할 수 있음 <mark style="color:$info;">\[Am J Gastroenterol 2020]</mark>
+  * 지속 효과를 기대하는 시술이 어려운 쇠약·고위험 환자에서는 내시경 보툴리눔 독소 주사를 고려. 효과가 일시적이며 반복 치료가 필요할 수 있음 <mark style="color:$info;">\[Am J Gastroenterol 2020]</mark>
   * Nitrate·nifedipine 등은 전문의가 선택적으로 판단하며 일반 외래에서 routine 사용을 피함. 급격한 저혈압 위험에 주의
 * **원위부 식도연축(distal esophageal spasm, DES) / 과수축성 식도**
   * GERD·기계적 폐쇄를 먼저 배제/치료하고, 선택된 환자에서 CCB 또는 nitrate 단기 시도; 증상을 유발하는 매우 뜨겁거나 찬 음식은 회피
@@ -355,7 +385,7 @@
 
 * **칸디다 식도염** : 전신 항진균제가 필요함. IDSA 지침 용량은 fluconazole 200\~400 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디푸루칸]</mark>
   * **허가 용량과 구분** : 디푸루칸캡슐50㎎의 식도 칸디다증 허가 용법은 50 ㎎ qd × 14\~30일, 난치성은 100 ㎎ qd로 증량임. 위 200\~400 ㎎ 요법은 지침 기반의 허가 범위 밖 용량임 <mark style="color:$info;">\[Clin Infect Dis 2016; 제품설명서]</mark>
-  * 반복 투여 시 신기능에 따라 유지용량 조정(일반적으로 CrCl ≤50 ㎖/min이면 부하용량 이후 50%; 투석 환자는 별도 조정), 간독성·QT 연장·약물상호작용 확인. domperidone과 병용 금기이며 warfarin·sulfonylurea 등과도 상호작용을 확인함. 임신 중 사용은 전문의와 대체 치료를 검토함. 반복 치료 시 가임 여성에게 치료 중 및 마지막 투여 후 1주까지 피임 필요성을 상담 \[EMA 2023]
+  * 반복 투여 시 신기능에 따라 유지용량 조정(일반적으로 CrCl ≤50 ㎖/min이면 부하용량 이후 50%; 투석 환자는 별도 조정), 간독성·QT 연장·약물상호작용 확인. domperidone과 병용 금기이며 warfarin·sulfonylurea 등과도 상호작용을 확인함 <mark style="color:$info;">\[EMA 2023]</mark>
   * 임상적으로 전형적인 선택된 환자에서 경험적 치료가 가능하나, 48\~72시간에 초기 반응·섭취 상태를 점검하되, 그 시점의 무반응만으로 치료 실패를 단정하지 않음. 적절한 항진균 치료에도 약 7일 이내 호전이 없으면 EGD·생검/배양 등으로 내성 또는 다른 원인을 평가함; 악화·출혈·섭취 불가 시 더 일찍 평가 <mark style="color:$info;">\[Clin Infect Dis 2016; NIH]</mark>. 구강 칸디다가 없어도 식도 감염을 배제할 수 없고, nystatin만으로는 식도 감염 치료가 불충분함
   * 경구 투여가 불가능하면 정맥 fluconazole 또는 echinocandin 등 전신 치료를 전문의와 결정하고, 경구 섭취가 가능해지면 전환을 검토함; 각 주사제의 식도 감염 용량·허가 및 급여는 별도 확인
 * **HSV 식도염** : 면역 상태·중증도·경구 섭취 가능 여부에 따라 acyclovir 경구 또는 정맥 치료를 선택함. 면역 정상 환자는 자연 호전될 수 있으며 항바이러스 치료의 비교시험 근거가 제한적이므로 단일 용법을 모든 환자에게 적용하지 않음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2025]</mark>
@@ -372,7 +402,7 @@
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-<table><thead><tr><th width="180">상태</th><th>1차 시술/수술</th><th>비고</th></tr></thead><tbody><tr><td>이완불능증 (achalasia)</td><td>공기 풍선 확장술, POEM, Heller myotomy</td><td>풍선 확장술·근절개술이 어려우면 보툴리눔 독소 주사 고려. Type I·II는 숙련도와 환자 특성에 따라 선택; type III는 긴 근절개가 가능한 POEM이 특히 유리. Heller myotomy는 통상 부분 위저부주름술을 병행하여 역류를 줄임. POEM 후에는 무증상 역류성 식도염도 가능하므로 내시경·필요시 역류검사와 PPI 필요성을 평가; 증상만으로 역류 유무를 판단하지 않음; 고령·빠른 체중 감소·짧은 증상 기간 또는 EGJ 통과 저항 시 종양성 pseudoachalasia를 의심하고 CT/EUS 등을 추가 검토</td></tr><tr><td>DES / Hypercontractile esophagus</td><td>약물 치료 우선; 선택된 중증 불응 환자에서 긴 근절개/POEM 검토</td><td>침습 치료 근거가 제한적이므로 전문센터에서 증상-검사 일치 여부를 재확인</td></tr><tr><td>EoE</td><td>내시경 확장술 (endoscopic dilation)</td><td>임상적으로 의미 있는 협착/좁은 식도에서 고려; 확장술은 염증을 치료하지 않으므로 항염증 치료 병행</td></tr><tr><td>소화성 협착</td><td>내시경 확장술 (bougie 또는 balloon)</td><td>PPI 유지로 재협착 방지</td></tr><tr><td>Schatzki ring</td><td>내시경 확장술 또는 링 절개</td><td>반복 확장 필요한 경우 있음; EoE 가능성 평가</td></tr><tr><td>Zenker 게실</td><td>내시경 게실절개술(Z-POEM 포함) 또는 외과 myotomy</td><td>내시경 치료가 증가 추세이며 윤상인두근 절개 병행; 해부학·크기·전문가 경험에 따라 선택</td></tr><tr><td>피부경화증</td><td>PPI + 전신 질환 관리</td><td>확장술은 협착 동반 시에만</td></tr><tr><td>두경부암·식도암 관련 협착</td><td>절제 가능성·치료 목표에 따른 수술·방사선/항암 치료 및 선택적 완화 처치</td><td>소화기내과·외과·종양내과·방사선종양과 협진; 스텐트·확장술은 종양 위치·천공/누공 위험과 완치 목적 치료 계획을 고려하여 선택</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="158">상태</th><th>1차 시술/수술</th><th>비고</th></tr></thead><tbody><tr><td><strong>이완불능증 (achalasia)</strong></td><td>공기 풍선 확장술, POEM, Heller myotomy</td><td>풍선 확장술·근절개술이 어려우면 보툴리눔 독소 주사 고려. Type I·II는 숙련도와 환자 특성에 따라 선택; type III는 긴 근절개가 가능한 POEM이 특히 유리. Heller myotomy는 통상 부분 위저부주름술을 병행하여 역류를 줄임. POEM 후에는 무증상 역류성 식도염도 가능하므로 내시경·필요시 역류검사와 PPI 필요성을 평가; 증상만으로 역류 유무를 판단하지 않음; 고령·빠른 체중 감소·짧은 증상 기간 또는 EGJ 통과 저항 시 종양성 pseudoachalasia를 의심하고 CT/EUS 등을 추가 검토</td></tr><tr><td><strong>원위부식도연축 / Hypercontractile esophagus</strong></td><td>약물 치료 우선; 선택된 중증 불응 환자에서 긴 근절개/POEM 검토</td><td>침습 치료 근거가 제한적이므로 전문센터에서 증상-검사 일치 여부를 재확인</td></tr><tr><td><strong>EoE</strong></td><td>내시경 확장술 (endoscopic dilation)</td><td>임상적으로 의미 있는 협착/좁은 식도에서 고려; 확장술은 염증을 치료하지 않으므로 항염증 치료 병행</td></tr><tr><td><strong>소화성 협착</strong></td><td>내시경 확장술 (bougie 또는 balloon)</td><td>PPI 유지로 재협착 방지</td></tr><tr><td><strong>Schatzki ring</strong></td><td>내시경 확장술 또는 링 절개</td><td>반복 확장 필요한 경우 있음; EoE 가능성 평가</td></tr><tr><td><strong>Zenker 게실</strong></td><td>내시경 게실절개술(Z-POEM 포함) 또는 외과 myotomy</td><td>내시경 치료가 증가 추세이며 윤상인두근 절개 병행; 해부학·크기·전문가 경험에 따라 선택</td></tr><tr><td><strong>피부경화증</strong></td><td>PPI + 전신 질환 관리</td><td>확장술은 협착 동반 시에만</td></tr><tr><td><strong>두경부암·식도암 관련 협착</strong></td><td>절제 가능성·치료 목표에 따른 수술·방사선/항암 치료 및 선택적 완화 처치</td><td>소화기내과·외과·종양내과·방사선종양과 협진; 스텐트·확장술은 종양 위치·천공/누공 위험과 완치 목적 치료 계획을 고려하여 선택</td></tr></tbody></table>
 
 ***
 
