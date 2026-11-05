@@ -3,7 +3,7 @@
 {% hint style="info" %}
 처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
 
-임신 중 사용은 금기·근거 부족·조건부 사용을 구분하여 판단함. 본문에는 임신 중 선택할 수 있는 약제와 치료 선택에 중요한 예외를 중심으로 기재하며, 개별 약제의 임신 금기는 원칙적으로 반복하지 않음. 별도 표시가 없다는 것이 사용 가능 또는 안전성 확립을 뜻하지 않음. 수유 중 제한은 임신과 별도로 판단함.
+임신·수유 중 사용은 각각 금기·근거 부족·조건부 사용을 구분하여 판단함. 본문에는 임신·수유 중 고려할 수 있는 약제와 치료 선택에 중요한 예외를 중심으로 기재하며, 개별 약제의 임부·수유부 금기는 원칙적으로 반복하지 않음. 별도 표시가 없다는 것이 사용 가능 또는 안전성 확립을 뜻하지 않음. 임신 중 사용 근거를 수유 중 사용에 그대로 적용하지 않으며, 수유 중 사용은 별도로 판단함.
 
 항암치료·수술 관련 항구토제는 주요 약제와 핵심 주의사항을 중심으로 소개함. 전문영역의 세부 병용·주사 투여요법은 해당 전문 프로토콜에 따름.
 {% endhint %}
@@ -30,7 +30,7 @@
   * <mark style="color:blue;">마그밀</mark>·<mark style="color:blue;">마그밀에스</mark>는 신장애 환자에게 금기
 * <mark style="color:red;">**Al hydroxide·phosphate 제산제**</mark> : Al 축적 독성 (뇌증, 골연화증)
 * <mark style="color:red;">**bismuth**</mark> : 장기·고용량에서 신경 독성. <mark style="color:blue;">데놀</mark>(tripotassium bismuth dicitrate)은 신장애 환자에게 금기
-* <mark style="color:red;">**H2RA**</mark> : 신배설; CKD 시 성분·적응증별 용량 감량 또는 투여 간격 연장 필요
+* <mark style="color:red;">**H2RA**</mark> : famotidine·cimetidine 등은 신기능에 따른 감량 또는 투여 간격 조절이 필요함. Lafutidine은 신배설 비중이 상대적으로 낮으며, 투석 환자에서는 저용량부터 신중히 투여함. 성분·적응증별 기준을 구분함
 * <mark style="color:red;">**metoclopramide**</mark> : 신배설 비중이 높아 신기능 저하 시 노출 및 추체외로 이상반응 증가
 * <mark style="color:red;">**인산염 함유 관장제**</mark> : 고인산혈증·저칼슘혈증·급성 신손상 위험
 * <mark style="color:red;">**sucralfate**</mark> : 장기 사용 시 Al 축적; CKD에서 주의
@@ -65,9 +65,9 @@
 
 * 비약물 치료를 우선 적용하고, 증상·임신 시기·치료 필요성에 따라 약제를 선택함. 아래 약제도 무조건적인 안전성을 뜻하지 않으며, 필요한 최소 용량·기간으로 사용함
 
-<table data-search="false"><thead><tr><th width="185">임상 상황</th><th width="270">고려할 수 있는 약제</th><th>선택 조건 및 주의</th></tr></thead><tbody><tr><td><strong>속쓰림·역류</strong></td><td>알긴산 제제 또는 적절한 제산제</td><td>생활 습관 조절로 충분하지 않을 때 단기간 고려. 복합 성분과 나트륨·칼슘 함량, 신기능 등을 확인</td></tr><tr><td><strong>위산 억제가 필요한 지속 증상·궤양 등</strong></td><td>omeprazole; 대안으로 famotidine</td><td>Omeprazole은 임신 중 사용 자료가 비교적 풍부한 PPI. Famotidine도 선택 가능하나, 두 약제 모두 치료상 이득이 위험보다 클 때 사용. 다른 PPI·P-CAB에 동일한 근거를 일괄 적용하지 않음</td></tr><tr><td><strong>임신성 구역·구토</strong></td><td>doxylamine/pyridoxine; 불충분 반응 시 metoclopramide 등</td><td>Doxylamine/pyridoxine이 일차 선택지. Metoclopramide는 추체외로 이상반응 때문에 이차 선택하며 최대 5일 사용. 상세 용법과 ondansetron의 조건은 아래 ‘임신 구토의 약물 선택’ 참조</td></tr><tr><td><strong>변비</strong></td><td>psyllium/ispaghula(차전자피); lactulose 또는 PEG(macrogol)</td><td>식이·수분·활동 조절 후 차전자피 단일성분 제제를 우선 고려하고, 불충분하면 lactulose 또는 PEG 고려. 충분한 물과 함께 사용하며 복합제·장정결제에 동일하게 적용하지 않음. 설사·탈수·전해질 이상에 유의</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="185">임상 상황</th><th width="270">고려할 수 있는 약제</th><th>선택 조건 및 주의</th></tr></thead><tbody><tr><td><strong>속쓰림·역류</strong></td><td>알긴산 제제 또는 적절한 제산제</td><td>생활 습관 조절로 충분하지 않을 때 단기간 고려. 복합 성분과 나트륨·칼슘 함량, 신기능 등을 확인. Na bicarbonate를 주성분으로 하는 흡수성 제산제는 피하되, 임신 중 고려할 수 있는 알긴산 복합제와 구분함. 철분제 등과는 제품별 권장 복용 간격을 둠</td></tr><tr><td><strong>위산 억제가 필요한 지속 증상·궤양 등</strong></td><td>omeprazole 또는 famotidine</td><td>Omeprazole은 임신 중 사용 자료가 비교적 풍부한 PPI이며, famotidine도 선택 가능함. 두 약제 간 고정된 선택 순서보다 증상 중증도와 치료 필요성에 따라 선택하며, 모두 치료상 이득이 위험보다 클 때 사용. 다른 PPI·P-CAB에 동일한 근거를 일괄 적용하지 않음</td></tr><tr><td><strong>임신성 구역·구토</strong></td><td>doxylamine/pyridoxine; 불충분 반응 시 metoclopramide 등</td><td>Doxylamine/pyridoxine이 일차 선택지. Metoclopramide는 추체외로 이상반응 때문에 이차 선택하며 최대 5일 사용. 상세 용법과 ondansetron의 조건은 아래 ‘임신 구토의 약물 선택’ 참조</td></tr><tr><td><strong>변비</strong></td><td>psyllium/ispaghula(차전자피); lactulose 또는 PEG(macrogol)</td><td>식이·수분·활동 조절 후 차전자피 단일성분 제제를 우선 고려하고, 불충분하면 lactulose 또는 PEG 고려. 충분한 물과 함께 사용하며 복합제·장정결제에 동일하게 적용하지 않음. 설사·탈수·전해질 이상에 유의. 반응이 불충분하면 원인을 재평가하고, 품목별 임신 중 사용 조건에 따라 bisacodyl 등 자극성 하제의 단기 구제요법을 고려함</td></tr></tbody></table>
 
-* 임신 구토의 약제 선택은 RCOG 2024, 역류 증상은 NICE NG201 및 UKTIS, 변비는 UKTIS 2026과 성분·품목별 허가사항을 함께 반영함
+<mark style="color:$info;">\[RCOG 2024; NICE NG201; UKTIS 2024\~2026; 품목 허가사항]</mark>
 
 ## <mark style="color:green;">위장 운동 촉진제 (GI prokinetic agent)</mark>
 
@@ -104,7 +104,7 @@
   * 금기 : QT 연장·심부전 등 심장 기저질환·전해질 이상·중등도\~중증 간장애
   * 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 DUR 병용금기
 
-### <mark style="color:orange;">Serotonin agonist</mark>
+### <mark style="color:orange;">5-HT4 receptor agonists</mark>
 
 * 기전 : 5-HT4 수용체 작용 → acetylcholine 분비↑ → 위장관 수축↑
 * 해당 약제 : metoclopramide, clebopride, mosapride, prucalopride
@@ -129,7 +129,7 @@
   * 반복·장기 사용 시 tachyphylaxis와 항생제 내성 문제 고려
 * 회피 : QT 연장 약제 병용, 중증 간 기능 저하
 
-## <mark style="color:green;">진경제 (GI antispasmodic)</mark>
+## <mark style="color:green;">진경제 (GI antispasmodic)</mark> <a href="#gi-antispasmodic" id="gi-antispasmodic"></a>
 
 * IBS·기능성 복통에서는 항콜린 작용이 없는 trimebutine, pinaverium 등을 우선 고려하고, 항콜린제는 단기·필요시 사용함
 
@@ -137,7 +137,7 @@
 
 * 3급 아민(dicyclomine, hyoscyamine, atropine)은 중추 부작용이 있고, 4급 암모늄(hyoscine N-butylbromide, cimetropium)은 중추 침투가 적음
 * 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화; 3급 아민은 인지 저하·섬망 위험이 추가됨
-* 금기(성분별로 다름) : 녹내장, 전립선비대에 의한 배뇨장애, 장폐색·거대결장, 중증 근무력증, 빈맥성 부정맥·중증 심질환; dicyclomine은 역류성식도염·수유부도 금기
+* 금기(성분별로 다름) : 녹내장, 전립선비대에 의한 배뇨장애, 장폐색·거대결장, 중증 근무력증, 빈맥성 부정맥·중증 심질환; dicyclomine은 역류성식도염도 금기
 * 고령에서 가능한 회피
 * 지속 사용 시 효과와 항콜린 부담을 재평가
 * **hyoscine N-butylbromide**(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
@@ -149,7 +149,6 @@
 ### <mark style="color:orange;">장 선택적 칼슘 통로 차단제 (GI-selective CCB)</mark>
 
 * 주의 : 졸음이 생길 수 있어 운전·기계 조작에 주의
-* 금기 : 수유부
 * **pinaverium** : 50 ㎎ tid 식사 중 충분한 물과 함께 통째로 삼킴 <mark style="color:blue;">\[디세텔]</mark>
   * 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
 
@@ -157,7 +156,6 @@
 
 * 말초 μ·κ·δ opioid 수용체에 작용하여 장운동을 양방향으로 조절함(저하 시 항진, 항진 시 억제)
 * 금기 : 과민증 외 특별한 금기 없음
-  * 수유부는 투여를 피함
 * **trimebutine** : 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[포리부틴]</mark>
 
 ### <mark style="color:orange;">직접 평활근 이완제 (Direct smooth muscle relaxant)</mark>
@@ -177,7 +175,7 @@
 * 임신성 구역/구토 : doxylamine + pyridoxine
 * 만성 기능성 구역 : 원인 평가 후 저용량 amitriptyline/nortriptyline 등 신경조절제를 선택적으로 고려함(허가 외 사용; 위마비의 일차치료와 구분)
 
-### <mark style="color:orange;">항히스타민제, 1세대 (1st-generation H1-receptor)</mark>
+### <mark style="color:orange;">항히스타민제, 1세대 (First-generation H1-receptor antagonists)</mark>
 
 * 대상 : 멀미, 내이 장애 관련 구역/구토; 임신성 구역/구토
 * 항콜린 작용이 있음
@@ -196,14 +194,15 @@
 **임신 구토의 약물 선택**
 
 * doxylamine/pyridoxine <mark style="color:blue;">\[디클렉틴]</mark>이 일차 선택지임. pyridoxine 10\~25 ㎎ q6\~8h 단독 사용도 가능 <mark style="color:blue;">\[피리독신]</mark>
-* 생강 250 ㎎ q6h 또는 총 1 g/d도 고려 가능(식품·보충제 근거 용량); 출혈 위험 약제 병용·응고장애에서 주의
+* 경증 임신성 구역·구토에서는 생강 250 ㎎ q6h 또는 총 1 g/d를 보조적으로 고려 가능(식품·보충제 근거 용량); 출혈 위험 약제 병용·응고장애에서 주의. 임신오조의 치료로는 권하지 않으며 효과적인 항구토 치료·수액 치료를 지연하지 않음
 * 반응 불충분 시 metoclopramide를 이차 선택지로 고려할 수 있음. 추체외로 이상반응에 주의하고 최소 유효 용량으로 최대 5일 사용함
 * Ondansetron은 허가 외 이차 선택지로 사용함. 임신 초기 노출 시 구순·구개열의 작은 절대위험 증가 가능성(한 대규모 관찰연구에서 출생 1만 건당 약 11건 → 14건)이 보고되었으나 심장기형 증가가 일관되게 확인된 것은 아님. 조절되지 않는 임신오조의 위험과 비교하여 설명하고 결정함
 * 해외 임신 구토 권고에 포함된 약제라도 그대로 대입하지 않음. Meclizine·domperidone은 임부에게 투여하지 않는 품목이므로 위의 임신 구토 선택지와 구분함
+* 이차 약제에도 조절되지 않으면 산과 전문진료로 의뢰함. 탈수·경구 섭취 곤란·현저한 체중감소·전해질 이상이 동반되면 당일 평가하고 입원 치료 필요성을 판단함
 * 지속 구토·현저한 경구 섭취 감소 또는 입원이 필요한 임신오조에서는 thiamine을 보충함. 특히 포도당 수액이나 정맥영양 투여 전에 보충하여 Wernicke 뇌병증을 예방함
 {% endhint %}
 
-### <mark style="color:orange;">Serotonin 5-HT3 antagonist</mark>
+### <mark style="color:orange;">5-HT3 receptor antagonists</mark>
 
 * 대상 : 화학요법·방사선치료 유발 및 수술 후 구역·구토의 핵심 약제
   * 원인에 따라 다른 계열과 병용
@@ -216,7 +215,7 @@
 * dolasetron : 해외 약제. QT 연장 위험으로 IV CINV 요법은 사용하지 않음
 * **palonosetron** : CINV 및 PONV(Postoperative Nausea and Vomiting) 예방에 사용; 전문기관에서 적응증별 프로토콜에 따라 투여 <mark style="color:blue;">\[알록시주]</mark>
 
-### <mark style="color:orange;">NK1 antagonist</mark>
+### <mark style="color:orange;">NK1 receptor antagonists</mark>
 
 * 대상 : 화학요법 유발 구역/구토의 예방
 * 항암요법의 구토 유발 위험도에 맞춰 병용
@@ -349,7 +348,7 @@
 * 금기 : 장폐쇄
 * [AGA-ACG 2023 만성 특발성 변비 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고. bisacodyl, Na picosulfate는 단기 또는 구제요법에 강한 권고. senna는 조건부 권고
 
-<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>1S qd</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음 •수유부 금기</td></tr><tr><td><strong>Na picosulfate</strong></td><td>5~7.5 ㎎ qd, 취침 시(단일제 정제 미확인)</td></tr></tbody></table>
+<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>1S qd</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음</td></tr><tr><td><strong>Na picosulfate</strong></td><td>5~7.5 ㎎ qd, 취침 시(단일제 정제 미확인)</td></tr></tbody></table>
 
 ### <mark style="color:orange;">대변 연화제 및 복합하제 (Stool softener)</mark>
 
@@ -418,9 +417,9 @@
 ### <mark style="color:orange;">진경제 (GI antispasmodic</mark><mark style="color:orange;">)</mark>
 
 * 작용 : 복통·복부 불편감 호전
-* 용법 : 성분별로 다름. 항콜린성 진경제는 식전 또는 필요시 사용하며, pinaverium은 식사 중 충분한 물과 함께 복용 (☞ [진경제](073_-gidrugs.md#gi-antispasmodic-agent))
+* 용법 : 성분별로 다름. 항콜린성 진경제는 식전 또는 필요시 사용하며, pinaverium은 식사 중 충분한 물과 함께 복용 (☞ [진경제](073_-gidrugs.md#gi-antispasmodic))
 
-### <mark style="color:orange;">5-HT3 antagonist</mark>
+### <mark style="color:orange;">5-HT3 receptor antagonists</mark>
 
 * 작용 : serotonin 차단 → 위장관 motility·sensation 억제 → 설사형 IBS 개선
 * 부작용 : 변비, 급성 허혈성 대장염 (금기 : 허혈성 대장염 병력)
@@ -442,7 +441,7 @@
 * 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토
 * 작용 : 장점막 보호; 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설
 * <mark style="color:blue;">\[스타빅현탁액]</mark> 3 g/20 ㎖ : 20 ㎖ tid 식간 복용
-  * 만 19세 미만 소아·청소년 사용 제한, 수유부에게도 투여하지 않음
+  * 만 19세 미만 소아·청소년 사용 제한
 * 변비·장폐색 병력에서 주의
 * 다른 경구약의 흡수를 방해할 수 있으므로 통상 2시간 이상 간격을 둠
 
@@ -472,7 +471,7 @@
   * 소아 산제 : 생후 3개월 이상. 체중별 용량을 1일 3회 일정한 간격으로 투여하며, 음식·물·분유에 섞으면 즉시 복용함; 정상 배변이 2회 있을 때까지 사용하며 최대 7일임
     * 9 ㎏ 미만 - 10 ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - 30 ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
 * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
-* 금기 : 수유부·3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
+* 금기 : 3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
 * 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 금기
 * ACE 억제제 병용 시 혈관부종 위험 증가에 주의
 * 혈관부종·DRESS 의심 시 중단하고 재투여하지 않음
@@ -485,7 +484,7 @@
 * 용법 : 복용 시점·횟수는 성분·제형별로 다름
   * Almagate : 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
 
-<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[겔포스현탁액]</mark>, <mark style="color:blue;">[암포젤]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 신장애 환자 금기</td></tr></tbody></table>
+<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[겔포스현탁액]</mark>, <mark style="color:blue;">[암포젤]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종·임신)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 신장애 환자 금기</td></tr></tbody></table>
 
 ## <mark style="color:green;">위 점막 보호제 (Gastric mucosal protective agent)</mark>
 
@@ -519,7 +518,7 @@
 * **misoprostol** : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[싸이토텍]</mark>
   * 금기 : 임부 - 자궁수축·유산 위험. 임신 가능 여성은 투여 전 임신 배제 및 피임 등 허가사항 준수
 
-### <mark style="color:orange;">기타 점막 보호제 (Mucosal protect)</mark>
+### <mark style="color:orange;">기타 점막 보호제 (Mucosal protective agents)</mark>
 
 * 위염의 위점막 병변 개선, 궤양·역류 관련 증상 개선 등 성분별 허가 적응증이 다름
   * 위염의 내시경 병변 개선 자료를 궤양·출혈 예방 효과로 확대 해석하지 않으며, NSAID 고위험 환자의 PPI 등 표준 예방요법을 대체하지 않음
@@ -565,7 +564,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 <table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[에취투비]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[가스터]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[액시드]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[록산]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[스토가]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
 
 > _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함_\
-> _&#xB2;⁾ 발암 물질 NDMA 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
+> _&#xB2;⁾ 인체 발암 추정물질 NDMA(IARC Group 2A) 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
 
 ### <mark style="color:orange;">프로톤 펌프 차단제 (Proton pump inhibitor, PPI)</mark>
 
@@ -624,7 +623,6 @@ _<mark style="color:$info;">Ref. Omeprazole·esomeprazole 허가사항; 미란�
 * 장기 안전성 자료가 축적되고 있으나 PPI보다 제한적이며 성분별 차이가 큼. vonoprazan에는 5년 추적 무작위 연구가 있음
 * P-CAB은 성분별 대사·허가사항이 다름
   * 간·신장 기능 저하·고령의 주의 기준과 위산 의존 흡수 약제(atazanavir, rilpivirine, 일부 azole계 등)의 병용금기·주의를 성분별로 구분
-  * 수유 : revaprazan·tegoprazan·fexuprazan·zastaprazan은 수유부 금기. vonoprazan 투여 중에는 모유 수유를 피함
 
 <table><thead><tr><th width="145">성분명 [상품명]</th><th width="222">특징</th><th>주요 적응증 및 용법</th></tr></thead><tbody><tr><td><strong>revaprazan</strong><br><mark style="color:blue;">[레바넥스]</mark></td><td>초기 acid pump antagonist; 후속 P-CAB보다 산 억제 근거가 제한적</td><td>십이지장궤양·위궤양의 단기치료 및 급·만성 위염의 위점막 병변 개선에 200 ㎎ qd; GERD·<em>H. pylori</em> 제균의 허가요법으로 제시하지 않음</td></tr><tr><td><strong>vonoprazan</strong><br><mark style="color:blue;">[보신티]</mark></td><td>국제 임상 근거가 풍부함; 2026. 11. 1.부터 급여 <mark style="color:$info;">[보건복지부 고시 제2026-222호]</mark></td><td>위궤양 20 ㎎ qd ×최대 8주; 미란성 GERD 20 ㎎ qd ×4주(불충분 시 8주까지); 치유 후 유지 10 ㎎ qd(불충분 시 20 ㎎ qd); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd. 국내 <em>H. pylori</em> 제균 적응증은 없으며 해외 제균요법과 구분함. 실제 공급 여부 확인</td></tr><tr><td><strong>fexuprazan</strong><br><mark style="color:blue;">[펙수클루]</mark></td><td>강력한 산 억제; 반감기 약 9시간</td><td>미란성 GERD 40 ㎎ qd ×4주(불충분 시 4주 추가); 급·만성 위염 점막 병변 개선 10 ㎎ bid ×2주; NSAID 유도성 위·십이지장궤양 예방 20 ㎎ qd ×24주; <em>H. pylori</em> 제균 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×14일</td></tr><tr><td><strong>tegoprazan</strong>¹⁾<br><mark style="color:blue;">[케이캡]</mark></td><td>빠른 산 억제, CYP3A4 대사; 장기 자료 축적 중</td><td>미란성 GERD 50 ㎎ qd ×4주(불충분 시 4주 추가); 비미란성 GERD 50 ㎎ qd ×4주; 위궤양 50 ㎎ qd ×8주; 미란성 GERD 치료 후 유지 25 ㎎ qd; NSAIDs 관련 소화성궤양 예방 25 ㎎ qd; <em>H. pylori</em> 제균 50 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×7일(경험적 우선 제균요법 여부와 구분)</td></tr><tr><td><strong>zastaprazan</strong>²⁾<br><mark style="color:blue;">[자큐보]</mark></td><td>2024년 허가·출시</td><td>미란성 GERD 20 ㎎ qd ×4주(미치유 시 4주 추가); 위궤양 20 ㎎ qd ×최대 8주. 식사 무관. 일반정·구강붕해정이 있으며, 구강붕해정은 혀 위에서 녹이거나 물과 함께 복용함</td></tr></tbody></table>
 
