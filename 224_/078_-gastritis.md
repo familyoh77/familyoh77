@@ -13,7 +13,7 @@
 * 상복부 통증·속쓰림·더부룩함이 있다고 해서 모두 "위염"은 아님. 실제 외래에서는 다른 원인이 흔히 혼재하며 이들이 진짜 원인인 경우가 많음.\
   기능성 소화불량(FD)·GERD를 위염으로 진단하면 불필요한 위염 약제의 장기·중복 처방으로 이어짐.\
   소화성 궤양·담도 질환·약물 유발 증상을 위염으로 진단하면 원인 평가와 치료가 늦어짐
-* 내시경상 단순 발적(erythema, "minimal change gastritis")은 임상적으로 무의미한 경우가 매우 흔함. \
+* 내시경상 단순 발적(erythema, "minimal change gastritis")은 임상적으로 무의미한 경우가 매우 흔함.\
   경미한 점막 발적은 정상 변이 또는 비특이 변화일 수 있으며, 증상과의 연관성은 낮음.\
   내시경 소견이 곧 증상의 원인이라고 단정하지 말 것
 {% endhint %}
@@ -25,16 +25,6 @@
 ***
 
 ```mermaid
-flowchart TD
-    A["정상 위 점막"] --> B["H. pylori 관련 만성 비위축성 위염"]
-    B --> C["위축성 위염"]
-    C --> D["장상피화생"]
-    D --> E["저도·고도 이형성증"]
-    E --> F["장형 위암"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style E fill:#fff9c4,stroke:#ffe082
-    style F fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
 > _모든 환자가 위암으로 진행하는 것은 아님. 이 경로는 위험 층화를 설명하는 모형이며, 제균의 위암 예방 효과는 위축·장상피화생이 생기기 전에 가장 크고 제균 후에도 진행된 전암병변의 위험은 남을 수 있음_
@@ -44,7 +34,7 @@ flowchart TD
 ***
 
 {% hint style="info" %}
-**Correa cascade**는 주로 *H. pylori* 관련 다초점 위축성 위염에서 장형 위암으로 진행하는 경로임. 자가면역 위염은 위체부 우세 위축·고가스트린혈증 및 Type 1 위 신경내분비종양 위험을 포함하는 별도 경로로 이해함.
+**Correa cascade**는 주로 _H. pylori_ 관련 다초점 위축성 위염에서 장형 위암으로 진행하는 경로임. 자가면역 위염은 위체부 우세 위축·고가스트린혈증 및 Type 1 위 신경내분비종양 위험을 포함하는 별도 경로로 이해함.
 
 **OLGA/OLGIM 병기** : 조직검사를 기반으로 위암 위험도를 Stage 0\~IV로 분류. Stage III\~IV 또는 전정부와 위체부를 모두 침범한 광범위 위축·장상피화생은 고위험군으로 감시함. APAGE는 III\~IV에서 2년, II에서 3년 간격을, MAPS III는 진행성 병변에서 3년 간격을 제시함. 2년 주기의 국가 위암검진을 늦추는 의미로 적용하지 않으며 개인 위험도에 따라 조정함. <mark style="color:$info;">\[Gut 2026; Endoscopy 2025]</mark>
 
@@ -55,19 +45,22 @@ flowchart TD
 
 #### <mark style="color:$primary;">감염성</mark>
 
-* *H. pylori* : 가장 흔한 만성 위염 원인; 성인 혈청 유병률은 1998년 66.9%에서 2015\~2016년 51.0%로 감소했으나 서구보다 여전히 높음. 젊은 연령층일수록 낮음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [헬리코박터](080_-h_pylori-infection.md))
-* 기타 감염·기생충 : CMV 등(주로 면역저하자), Anisakis(생선회 섭취 후 급성 상복부 통증); 화농성 위염은 매우 드묾
+* [_H. pylori_](080_-h_pylori-infection.md) : 가장 흔한 만성 위염 원인
+  * 성인 혈청 유병률은 1998년 66.9%에서 2015\~2016년 51.0%로 감소했으나 서구보다 여전히 높음. 젊은 연령층일수록 낮음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
+* 기타 감염·기생충 : CMV 등(주로 면역저하자), Anisakis(생선회 섭취 후 급성 상복부 통증)
+  * 화농성 위염은 매우 드묾
 
 #### <mark style="color:$primary;">화학적·물리적 자극</mark>
 
-* 약물 : Aspirin, NSAID(비감염성 반응성 위병증의 가장 흔한 원인), 철분제 등. 스테로이드 단독의 위험은 크지 않으나 NSAID 병용 시 궤양·출혈 위험 증가
+* 약물 : Aspirin, NSAID(비감염성 반응성 위병증의 가장 흔한 원인), 철분제
+  * 스테로이드 단독의 위험은 크지 않으나 NSAID 병용 시 궤양·출혈 위험 증가
 * 알코올 : 위 점막 직접 손상 + 위산 분비 자극
 * 담즙 역류 : 위 절제술 후, 유문 기능 이상
 * 방사선 치료
 
 #### <mark style="color:$primary;">전신 질환 및 생리적 스트레스</mark>
 
-* 저혈량, 저산소증 (ICU, 심한 화상·외상, 패혈증)
+* 중증 질환에 따른 저관류·저산소증 : 쇼크, 패혈증, 심한 화상·외상 등 (스트레스 관련 점막 손상)
 * Portal hypertension (portal hypertensive gastropathy)
 * 당뇨병·갑상선질환 : 위장운동 이상 또는 자가면역질환(자가면역 위염 등) 동반 여부를 평가
 
@@ -83,7 +76,7 @@ flowchart TD
   * 전정부는 상대적으로 보존이 됨
 * 산 분비 저하에 따른 고가스트린혈증과 ECL 세포 증식이 동반될 수 있음
 * 진단은 위체부 우세 위축의 조직 소견이 중심이며, 항벽세포항체·항내인자항체가 진단을 보조함
-* 과거 또는 현재의 *H. pylori* 감염이 병존할 수 있으므로 *H. pylori* 음성은 진단 요건이 아님
+* 과거 또는 현재의 _H. pylori_ 감염이 병존할 수 있으므로 _H. pylori_ 음성은 진단 요건이 아님
 * 진행 순서 주의 : 철결핍빈혈이 B12 결핍보다 먼저 나타나는 경우가 흔함 - 위산 저하로 비헴철 흡수 장애 → 이후 내인자 결핍으로 Vit B12 흡수 장애(악성빈혈) 순으로 진행
 * 자가면역 갑상선질환, 제1형 당뇨병 등 다른 자가면역질환과 동반 가능하며, 특히 자가면역 갑상선질환은 선별함 <mark style="color:$info;">\[Gastroenterology 2021]</mark>
 * 의심 시 검사: CBC, Fe·ferritin, Vit B12 ± methylmalonic acid, 항벽세포항체(anti-PCA), 항내인자항체(anti-IFA), 공복 혈청 가스트린 ± pepsinogen I 및 I/II ratio, 갑상선 기능검사
@@ -148,24 +141,24 @@ flowchart TD
 
 **검사 전 준비**
 
-* *H. pylori* 검사 목적이면 가능할 때 PPI 또는 P-CAB을 2주 이상 중단. 중단이 어렵다면 검사 민감도 저하 가능성을 해석에 반영
-* 항생제와 bismuth는 *H. pylori* 검사 전 4주 이상 중단
+* _H. pylori_ 검사 목적이면 가능할 때 PPI 또는 P-CAB을 2주 이상 중단. 중단이 어렵다면 검사 민감도 저하 가능성을 해석에 반영
+* 항생제와 bismuth는 _H. pylori_ 검사 전 4주 이상 중단
 * 단순한 위축·장상피화생 조직 평가만을 위해 모든 환자에서 PPI를 반드시 중단하는 것은 아님
 
 **Updated Sydney System (조직검사)**
 
 * 위축·장상피화생의 범위와 병기 평가가 필요한 경우 Antrum 2곳 + body 2곳 + incisura angularis 1곳 생검(총 5개 부위); 전정부/각절흔과 위체부 검체는 각각 구분된 용기에 담아 병리 의뢰
-* *H. pylori* 밀도, 염증 활성도, 만성 위염 정도, 위축, 장상피화생을 각각 0\~3등급으로 평가
+* _H. pylori_ 밀도, 염증 활성도, 만성 위염 정도, 위축, 장상피화생을 각각 0\~3등급으로 평가
 * 고화질 백색광 및 영상강화 내시경으로 범위·국소 병변을 평가하고 의심 병변은 별도 표적 생검. 단순 발적만 있는 모든 환자에게 5부위 생검을 일률적으로 시행하는 것은 아님
 * 위축·장상피화생이 있으면 동반된 국소 신생물 병변을 주의 깊게 찾음 <mark style="color:$info;">\[Gut 2026]</mark>
 
 **Kyoto 내시경 분류 (Kyoto Classification)**
 
-* 내시경 소견을 기반으로 *H. pylori* 감염 상태 및 위암 위험도를 평가하는 체계
+* 내시경 소견을 기반으로 _H. pylori_ 감염 상태 및 위암 위험도를 평가하는 체계
 * 위축(atrophy), 장상피화생(IM), 주름 비대(enlarged folds), 결절성(nodularity), 미만성 발적(diffuse redness)의 5개 항목을 합산하여 0\~8점으로 평가; RAC(regular arrangement of collecting venules)는 미만성 발적 평가에 반영하며 별도 독립 점수 항목은 아님
 * OLGA/OLGIM과의 상관성이 검증되었고, 체계적 문헌고찰에서 4점 이상은 위암 위험 증가를 시사함. 다만 비전문가 시행과 실제 진료 환경에서의 검증은 아직 부족함 <mark style="color:$info;">\[Gut 2026]</mark>
 
-#### <mark style="color:$primary;">*H. pylori* 검사</mark>
+#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">검사</mark>
 
 　(☞ [헬리코박터](080_-h_pylori-infection.md))
 
@@ -186,48 +179,18 @@ flowchart TD
 
 * "위염" 진단을 받은 환자의 상당수에서 FD 또는 GERD가 실제 원인임을 주목
 
-<table><thead><tr><th width="171.47369384765625">특징</th><th>위염 (Gastritis)</th><th>기능성 소화불량 (FD)</th><th>GERD</th></tr></thead><tbody><tr><td><strong>진단 기반</strong></td><td>조직학적 염증</td><td>증상 기준 충족 + 설명 가능한 구조적 질환 없음</td><td>전형적 증상으로 임상 진단 가능; 필요시 내시경·역류검사</td></tr><tr><td><strong>내시경-증상 연관</strong></td><td>대체로 낮음</td><td>정상 또는 비특이적 소견 흔함</td><td>미란성 식도염이 있으면 객관적 근거</td></tr><tr><td><strong>조기 포만감</strong></td><td>비특이적</td><td>흔함(PDS 핵심 증상)</td><td>비전형적</td></tr><tr><td><strong>식후 충만감·팽만감</strong></td><td>비특이적</td><td>흔함</td><td>동반 가능</td></tr><tr><td><strong>신물 역류·흉부 작열감</strong></td><td>비전형적</td><td>주증상이면 다른 진단 고려</td><td>전형적</td></tr><tr><td><strong>누울 때·야간 악화</strong></td><td>비특이적</td><td>가변적</td><td>흔함</td></tr><tr><td><strong>스트레스 연관</strong></td><td>증상 악화 가능</td><td>흔함</td><td>증상 인지에 영향 가능</td></tr><tr><td><strong><em>H. pylori</em> 연관</strong></td><td>강함</td><td>일부 overlap</td><td>직접적 연관 약함</td></tr><tr><td><strong>NSAID 연관</strong></td><td>강함(주로 반응성 위병증)</td><td>직접적 연관 약함</td><td>직접적 연관 약함</td></tr><tr><td><strong>PPI 반응</strong></td><td>NSAID 관련 미란 등 원인에 따라 다름</td><td>일부 환자에서 호전</td><td>산 역류 증상에서 비교적 양호</td></tr><tr><td><strong>Prokinetic 반응</strong></td><td>제한적</td><td>PDS에서 선택적으로 고려</td><td>routine 사용하지 않음</td></tr><tr><td><strong>치료 핵심</strong></td><td>원인 제거(<em>H. pylori</em>, NSAID 등)</td><td>교육·증상 아형별 치료·gut-brain axis 관리</td><td>산 역류 억제, 체중·식사시간 등 생활 교정</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="171.47369384765625">특징</th><th>위염 (Gastritis)</th><th>기능성 소화불량 (FD)</th><th>GERD</th></tr></thead><tbody><tr><td><strong>진단 기반</strong></td><td>조직학적 염증</td><td>증상 기준 충족 + 설명 가능한 구조적 질환 없음</td><td>전형적 증상으로 임상 진단 가능; 필요시 내시경·역류검사</td></tr><tr><td><strong>내시경-증상 연관</strong></td><td>대체로 낮음</td><td>정상 또는 비특이적 소견 흔함</td><td>미란성 식도염이 있으면 객관적 근거</td></tr><tr><td><strong>조기 포만감</strong></td><td>비특이적</td><td>흔함(PDS 핵심 증상)</td><td>비전형적</td></tr><tr><td><strong>식후 충만감·팽만감</strong></td><td>비특이적</td><td>흔함</td><td>동반 가능</td></tr><tr><td><strong>신물 역류·흉부 작열감</strong></td><td>비전형적</td><td>주증상이면 다른 진단 고려</td><td>전형적</td></tr><tr><td><strong>누울 때·야간 악화</strong></td><td>비특이적</td><td>가변적</td><td>흔함</td></tr><tr><td><strong>스트레스 연관</strong></td><td>증상 악화 가능</td><td>흔함</td><td>증상 인지에 영향 가능</td></tr><tr><td><em><strong>H. pylori</strong></em><strong> 연관</strong></td><td>강함</td><td>일부 overlap</td><td>직접적 연관 약함</td></tr><tr><td><strong>NSAID 연관</strong></td><td>강함(주로 반응성 위병증)</td><td>직접적 연관 약함</td><td>직접적 연관 약함</td></tr><tr><td><strong>PPI 반응</strong></td><td>NSAID 관련 미란 등 원인에 따라 다름</td><td>일부 환자에서 호전</td><td>산 역류 증상에서 비교적 양호</td></tr><tr><td><strong>Prokinetic 반응</strong></td><td>제한적</td><td>PDS에서 선택적으로 고려</td><td>routine 사용하지 않음</td></tr><tr><td><strong>치료 핵심</strong></td><td>원인 제거(<em>H. pylori</em>, NSAID 등)</td><td>교육·증상 아형별 치료·gut-brain axis 관리</td><td>산 역류 억제, 체중·식사시간 등 생활 교정</td></tr></tbody></table>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["위염 또는 상복부 증상 원인 의심"] --> B["Red Flags의<br/>즉각 조치 항목에 해당?"]
-    B -- "예" --> C["응급 평가·안정화<br/>및 즉시 의뢰"]
-    B -- "아니오" --> D["내시경 또는<br/>신속 원인 평가 대상?"]
-    D -- "예" --> E["긴급도에 따라 내시경·추가 검사<br/>필요한 생검·H. pylori 검사"]
-    D -- "아니오" --> F["H. pylori 비침습적 검사"]
-    E --> S["궤양·종양 등<br/>증상을 설명할 병변?"]
-    S -- "예" --> T["해당 질환 치료<br/>및 전문의 평가"]
-    S -- "아니오" --> G["유효한 검사에서<br/>H. pylori 양성?"]
-    F --> G
-    G -- "양성" --> H["맞춤치료 또는 적절한<br/>경험적 4제요법으로 제균"]
-    H --> J["정해진 휴약 조건에서<br/>치료 종료 최소 4주 후 UBT·SAT"]
-    G -- "음성" --> I["원인 약물 교정<br/>및 증상에 맞는 치료"]
-    I --> P["약제별 적절한 기간 후 반응?"]
-    P -- "호전" --> R["불필요한 약 감량·중단<br/>및 위험도별 추적"]
-    J --> K["제균 성공?"]
-    K -- "예" --> V["증상 지속?"]
-    V -- "아니오" --> R
-    V -- "예" --> I
-    K -- "아니오" --> U["구제요법 후 제균 재확인<br/>반복 실패 시 전문의 의뢰"]
-    P -- "미호전" --> Q["내시경 필요성·FD·GERD<br/>담췌질환 재평가"]
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    class B,D,S,G,P,K,V question
-    class E,F,J,Q test
-    class T,H,I,U treatment
-    class A,R neutral
-    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
-> 모든 경로에서 NSAID·aspirin 복용력을 확인하고 원인을 교정함. 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정함\
-> 증상 아형별 치료 : 산 관련 증상은 적응증에 맞는 산 억제제, 식후 충만·조기 포만은 FD 교육·식이 조절·선택적 운동 촉진제\
-> 제균 확인 검사는 항생제·bismuth 종료 후 최소 4주, PPI·P-CAB 중단 후 최소 2주가 지난 뒤 시행함\
-> 2차례 이상 제균에 실패하면 감수성 검사가 가능한 전문기관에 의뢰함. 제균 후에도 위축·장상피화생은 위험도별로 감시함\
-> 재평가 후에도 호전이 없으면 저용량 TCA 등 neuromodulator(허가 외 사용)를 포함하여 전문의와 협진함
+> _모든 경로에서 NSAID·aspirin 복용력을 확인하고 원인을 교정함. 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정함_\
+> _증상 아형별 치료 : 산 관련 증상은 적응증에 맞는 산 억제제, 식후 충만·조기 포만은 FD 교육·식이 조절·선택적 운동 촉진제_\
+> _제균 확인 검사는 항생제·bismuth 종료 후 최소 4주, PPI·P-CAB 중단 후 최소 2주가 지난 뒤 시행함_\
+> _2차례 이상 제균에 실패하면 감수성 검사가 가능한 전문기관에 의뢰함. 제균 후에도 위축·장상피화생은 위험도별로 감시함_\
+> _재평가 후에도 호전이 없으면 저용량 TCA 등 neuromodulator(허가 외 사용)를 포함하여 전문의와 협진함_
 
 <p align="center"><strong>위염 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : J Korean Med Sci 2023; Korean J Helicobacter Up Gastrointest Res 2026)</mark></em></p>
 
@@ -237,8 +200,8 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 원인 제거가 치료의 핵심 - *H. pylori* 양성이면 제균, NSAID 관련이면 중단·대체; 약물 치료는 증상 완화와 점막 회복을 보조하는 역할
-* *H. pylori* 제균 : 2025 개정 국내 지침은 *H. pylori* 위염에서도 위암 예방을 위한 제균을 제안함(약한 권고, 중등도 근거). 감염 확인 후 이득·위험을 설명하고 치료하며, 제균 후에도 위축·장상피화생의 위험도별 감시는 지속. 10 ㎜ 이하 위 과형성 용종이 있는 *H. pylori* 감염 환자도 용종 퇴축을 위한 제균이 제안됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-h_pylori-infection.md))
+* 원인 제거가 치료의 핵심 - _H. pylori_ 양성이면 제균, NSAID 관련이면 중단·대체; 약물 치료는 증상 완화와 점막 회복을 보조하는 역할
+* _H. pylori_ 제균 : 2025 개정 국내 지침은 _H. pylori_ 위염에서도 위암 예방을 위한 제균을 제안함(약한 권고, 중등도 근거). 감염 확인 후 이득·위험을 설명하고 치료하며, 제균 후에도 위축·장상피화생의 위험도별 감시는 지속. 10 ㎜ 이하 위 과형성 용종이 있는 _H. pylori_ 감염 환자도 용종 퇴축을 위한 제균이 제안됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-h_pylori-infection.md))
 * 제균 요법 선택(2025 개정 국내 지침) : clarithromycin 내성 검사 기반 맞춤치료(감수성 → PPI·amoxicillin·clarithromycin 7일, 내성 → bismuth 4제요법 10일)를 우선 권고하고, 검사가 어려우면 10일 concomitant 요법을 경험적 1차로 권고. Bismuth 4제요법은 이상반응과 구제요법 가치를 고려해 다른 요법을 쓸 수 없을 때 1차로 사용하며, bismuth를 추가한 변형 4제요법(PAMB·PACB)이 경험적 1차 선택지로 새로 제시됨. P-CAB은 PPI를 대체할 수 있음. 순차요법과 PAM 요법은 1차 권고에서 제외됨 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
 * 유발 약물 중단·대체 : NSAID → 중단 우선; 재투여가 불가피하면 활동성 궤양·출혈 등 금기가 없는지 확인한 뒤 COX-2 억제제와 PPI 등 예방 전략 검토; Aspirin → 심혈관 적응증과 위장관 위험을 재평가하여 필요한 경우 PPI 병용; 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정 (☞ [통증](../220_/001_-pain.md#nsaids))
 * 만성 위염 후유증 치료 : 위축성 위염에 의한 철·B12 결핍 → 해당 결핍 보충 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
@@ -246,7 +209,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">위염-기능성 소화불량 Overlap</mark>
 
-* 내시경상 경미한 위염 소견이 있어도 증상의 주 원인이 기능성 소화불량(FD)인 경우가 매우 흔함. *H. pylori* (-)이고 NSAID를 복용하지 않는 환자에서 위염과 소화불량 증상이 공존한다면 FD overlap을 항상 고려
+* 내시경상 경미한 위염 소견이 있어도 증상의 주 원인이 기능성 소화불량(FD)인 경우가 매우 흔함. _H. pylori_ (-)이고 NSAID를 복용하지 않는 환자에서 위염과 소화불량 증상이 공존한다면 FD overlap을 항상 고려
 
 **FD overlap 가능성이 높은 경우**
 
@@ -268,7 +231,7 @@ flowchart TD
 
 * 증상 지속·악화 : 기존 내시경 시행 여부와 Red Flags를 확인한 뒤 미시행 환자는 내시경을 고려하고, 최근 적절한 내시경이 정상이었다면 FD·GERD·PUD·담췌질환·약물 원인을 재평가
 * 광범위 위축·장상피화생 또는 OLGA/OLGIM III\~IV : 고품질 내시경 감시. APAGE는 III\~IV에 2년, II에 3년 간격을 제안하며 MAPS III는 진행성 병변에 3년 간격을 권고. 2년 주기의 국가 위암검진을 늦추지 않고 적용하며, 광범위·진행성 병변에 위암 직계 가족력이 동반되면 1\~2년 간격을 고려 <mark style="color:$info;">\[Gut 2026; Endoscopy 2025]</mark>
-* 경도 위축·장상피화생(OLGA/OLGIM I) 또는 전정부에 국한된 경도\~중등도 병변 : 위암 직계 가족력, 불완전형 장상피화생, 지속 *H. pylori* 감염, 흡연, 질 낮은 기저 내시경 등 추가 위험인자가 없으면 별도의 감시 내시경을 일률적으로 권고하지 않음. 국가암검진 주기와 개인 위험도를 함께 고려 <mark style="color:$info;">\[Gut 2026]</mark>
+* 경도 위축·장상피화생(OLGA/OLGIM I) 또는 전정부에 국한된 경도\~중등도 병변 : 위암 직계 가족력, 불완전형 장상피화생, 지속 _H. pylori_ 감염, 흡연, 질 낮은 기저 내시경 등 추가 위험인자가 없으면 별도의 감시 내시경을 일률적으로 권고하지 않음. 국가암검진 주기와 개인 위험도를 함께 고려 <mark style="color:$info;">\[Gut 2026]</mark>
 * 내시경에서 보이는 이형성증(저도·고도) : 전문기관에서 병기 평가 후 내시경 절제 등 치료 결정. 단순 위염의 정기 감시 경로로 관리하지 않음
 * 비가시성 이형성증 또는 indefinite for dysplasia : 소화기 병리 전문가 재판독 및 고화질·영상강화 내시경 재평가. 재평가에도 병변이 없으면 고도 이형성증은 6개월, 저도/불명확 이형성증은 12개월 후 추적 <mark style="color:$info;">\[Endoscopy 2025]</mark>
 * 자가면역 위염 : MAPS III는 위선암·위 신경내분비종양 발견을 위해 3년 간격 고품질 내시경을 제안함. AGA는 최적 간격이 확립되지 않았다고 보아 개별 평가와 공동 의사결정을 권하므로, 국가검진 주기, 위축 범위·가족력·동반 병변에 따라 개별화. CBC·Fe/ferritin·Vit B12를 정기 모니터링하며, 작은 Type 1 NET 절제 후에는 종양 부담에 따라 1\~2년 간격 내시경 고려 <mark style="color:$info;">\[Endoscopy 2025; Gastroenterology 2021]</mark>
@@ -279,7 +242,7 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 금연 : 위 점막 혈류 감소, 점막 재생 지연, *H. pylori* 제균율 저하
+* 금연 : 위 점막 혈류 감소, 점막 재생 지연, _H. pylori_ 제균율 저하
 * 절주/금주 : 알코올은 위 점막 직접 손상 및 위산 분비 자극
 * 식이 조절 : 과식·폭식을 피하고 개인적으로 증상을 유발하는 음식만 선택적으로 제한. 모든 환자에게 맵고 기름진 음식·커피·신 과일즙을 일률적으로 금지하거나 하루 5\~6회 식사를 권할 근거는 부족함. 위축·장상피화생이 있으면 짠 음식·염장식품을 줄이고 채소·과일 섭취를 늘리도록 권함. GERD가 동반되면 야식과 식후 바로 눕기를 피함
 * 스트레스 관리 : 인지행동치료, 이완 요법, 규칙적인 수면·운동
@@ -297,7 +260,7 @@ flowchart TD
 
 * NSAID 장기 복용 불가피 시 : 위장관·심혈관·신장 위험을 함께 평가. 위장관 고위험에서는 PPI 병용을 고려하고 심혈관 위험이 낮으면 COX-2 억제제를 선택할 수 있음. Celecoxib는 허혈성 심질환·말초동맥질환·뇌혈관질환·NYHA II\~IV 심부전 등 허가 금기를 적용
 * 매우 높은 위장관 위험 환자(궤양 출혈 기왕력 등) : 활동성 궤양·출혈이 없고 NSAID가 반드시 필요하면 심혈관·신장 위험과 금기를 함께 평가하여 COX-2 억제제 + PPI 조합 고려
-* Aspirin 복용 중 위장 증상 : 심혈관 적응증을 재평가하고, 지속이 필요하며 위장관 고위험이면 PPI 병용 및 *H. pylori* 평가 고려. 장용정 전환만으로 임상적으로 중요한 위장관 출혈이 예방되지는 않음
+* Aspirin 복용 중 위장 증상 : 심혈관 적응증을 재평가하고, 지속이 필요하며 위장관 고위험이면 PPI 병용 및 _H. pylori_ 평가 고려. 장용정 전환만으로 임상적으로 중요한 위장관 출혈이 예방되지는 않음
 * 경구 bisphosphonate : 일반 물 한 컵(약 180\~240 ㎖)과 함께 복용하고 alendronate·일반형 risedronate는 최소 30분, ibandronate는 최소 60분간 눕지 않음. 제형별 공복·식사 간격을 적용하며 주된 점막 손상은 식도염임
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -337,18 +300,18 @@ flowchart TD
 * lansoprazole 15\~30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
 
 {% hint style="danger" %}
-**PPI 장기 복용 주의**: 드문 저마그네슘혈증과 장감염 위험에 유의함. 골절·폐렴·만성 신장질환·치매 등과의 연관성은 주로 관찰연구 자료이며 다수는 인과관계가 확립되지 않았음. 다만 급성 세뇨관간질성 신염은 인정되는 드문 약물이상반응으로, 의심 시 중단·평가함. 위축·장상피화생 등 위암 전구병변이 있는 환자에서는 뚜렷한 적응증 없이 PPI·P-CAB을 경험적으로 장기 사용하지 않음 <mark style="color:$info;">\[Gut 2026]</mark>. *H. pylori* 감염이 동반된 위체부 우세 위염에서는 감염을 진단·치료하고, 명확한 적응증이 있으면 이론적 위험 때문에 필요한 PPI를 중단하지 않음. 정기적으로 적응증을 재평가하여 최소 유효 용량을 사용함.
+**PPI 장기 복용 주의**: 드문 저마그네슘혈증과 장감염 위험에 유의함. 골절·폐렴·만성 신장질환·치매 등과의 연관성은 주로 관찰연구 자료이며 다수는 인과관계가 확립되지 않았음. 다만 급성 세뇨관간질성 신염은 인정되는 드문 약물이상반응으로, 의심 시 중단·평가함. 위축·장상피화생 등 위암 전구병변이 있는 환자에서는 뚜렷한 적응증 없이 PPI·P-CAB을 경험적으로 장기 사용하지 않음 <mark style="color:$info;">\[Gut 2026]</mark>. _H. pylori_ 감염이 동반된 위체부 우세 위염에서는 감염을 진단·치료하고, 명확한 적응증이 있으면 이론적 위험 때문에 필요한 PPI를 중단하지 않음. 정기적으로 적응증을 재평가하여 최소 유효 용량을 사용함.
 {% endhint %}
 
 #### <mark style="color:$primary;">P-CAB (칼륨경쟁적 위산 분비 억제제)</mark>
 
 * 초회부터 빠른 산 억제 발현, 대체로 식사 영향이 적고 CYP2C19 유전형 영향이 상대적으로 적음; CYP 관련 약물 상호작용이 없다는 뜻은 아님
-* 국내 *H. pylori* 지침은 P-CAB 기반 제균요법이 PPI 기반 요법을 대체할 수 있다고 권고함. 다만 국내 제균 근거는 주로 tegoprazan이며, 해외 vonoprazan 제균 연구의 효과를 계열 전체 또는 국내 허가요법에 일률적으로 적용하지 않음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
+* 국내 _H. pylori_ 지침은 P-CAB 기반 제균요법이 PPI 기반 요법을 대체할 수 있다고 권고함. 다만 국내 제균 근거는 주로 tegoprazan이며, 해외 vonoprazan 제균 연구의 효과를 계열 전체 또는 국내 허가요법에 일률적으로 적용하지 않음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2026]</mark>
 * 약제별 허가 적응증과 용량이 서로 다르므로 “P-CAB 계열”이라는 이유만으로 동일 용량이나 적응증을 적용하지 않음
-* tegoprazan : *H. pylori* 제균 병용은 50 ㎎ bid ×7일; NSAID 관련 궤양 예방은 25 ㎎ qd. 위염의 위점막 병변 개선 적응증은 없음 <mark style="color:blue;">\[케이캡]</mark>
+* tegoprazan : _H. pylori_ 제균 병용은 50 ㎎ bid ×7일; NSAID 관련 궤양 예방은 25 ㎎ qd. 위염의 위점막 병변 개선 적응증은 없음 <mark style="color:blue;">\[케이캡]</mark>
 * fexuprazan : 급성 위염 및 만성 위염의 위점막 병변 개선 10 ㎎ bid, 2주(2025년 4월부터 위염 급여); 미란성 GERD는 40 ㎎ qd, 20 ㎎ 제품은 NSAID 유발 위·십이지장궤양 예방 20 ㎎ qd ×24주. 제균 병용 허가용법은 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×14일로, tegoprazan의 7일 용법과 구분 <mark style="color:blue;">\[펙수클루]</mark>
 * revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd 허가 <mark style="color:blue;">\[레바넥스]</mark>; 후속 P-CAB의 GERD·제균 근거와 구분 (☞ [소화기계 약제](073_-gidrugs.md))
-* vonoprazan : 국내 허가되어 있으며 2026. 11. 1.부터 급여 적용 <mark style="color:blue;">\[보신티]</mark>. 국내 허가는 위궤양·미란성 GERD·치유 후 유지 및 NSAID 투여 시 궤양 재발 방지이며, 위염의 위점막 병변 개선·*H. pylori* 제균 적응증은 없음. 급여 세부기준과 실제 공급 여부는 처방 전 확인 <mark style="color:$info;">\[보건복지부 고시 제2026-222호]</mark>
+* vonoprazan : 국내 허가되어 있으며 2026. 11. 1.부터 급여 적용 <mark style="color:blue;">\[보신티]</mark>. 국내 허가는 위궤양·미란성 GERD·치유 후 유지 및 NSAID 투여 시 궤양 재발 방지이며, 위염의 위점막 병변 개선·_H. pylori_ 제균 적응증은 없음. 급여 세부기준과 실제 공급 여부는 처방 전 확인 <mark style="color:$info;">\[보건복지부 고시 제2026-222호]</mark>
 
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
 
@@ -388,7 +351,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 
 {% hint style="info" %}
 **급여 관련 유의점**\
-약제의 허가 적응증과 건강보험 인정 범위는 구분함. *H. pylori* 위염의 제균 권고 확대가 모든 단순 위염 환자의 제균약 급여 확대를 의미하지 않음.\
+약제의 허가 적응증과 건강보험 인정 범위는 구분함. _H. pylori_ 위염의 제균 권고 확대가 모든 단순 위염 환자의 제균약 급여 확대를 의미하지 않음.\
 위염용 산 억제제(에스코텐·에소메졸디알 10 ㎎, 펙수클루 10 ㎎)와 일반형 PPI·P-CAB의 GERD·궤양·제균 처방을 구분하며, 위염 상병만으로 모든 산 억제제의 급여가 인정되는 것은 아님.
 {% endhint %}
 
@@ -450,7 +413,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 >
 > _✽활동성 궤양·출혈이 없는 환자의 예방 처방. NSAID 필요성과 심혈관·신장 위험을 재평가하고, 궤양 출혈 기왕력 등 위험이 매우 높으면 NSAID 회피를 우선함. 궤양 치유 후에도 재투여가 불가피하고 금기가 없다면 COX-2 억제제 + PPI를 고려함. 활동성 궤양·위장관 출혈에서는 celecoxib를 사용하지 않음. 점막보호제를 예방 목적으로 일률적으로 추가하지 않음._
 
-> **처방례 5. *H. pylori* 양성 - 감수성검사 불가 시 경험적 concomitant therapy 예시**
+> **처방례 5.&#x20;**_**H. pylori**_**&#x20;양성 - 감수성검사 불가 시 경험적 concomitant therapy 예시**
 >
 > ```
 > (10일)
@@ -516,7 +479,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Kang SJ, et al. Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023;38(13):e115.](https://doi.org/10.3346/jkms.2023.38.e115) - 미란성 위염의 PPI·점막보호제, 위축·장상피화생의 위험과 제균
-* [Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of Helicobacter pylori Infection in Korea: 2025 Revised Edition. Korean J Helicobacter Up Gastrointest Res. 2026;26(2):164-188.](https://doi.org/10.7704/kjhugr.2026.0029) - *H. pylori* 위염의 제균 적응증, 맞춤치료와 경험적 4제요법, P-CAB 대체
+* [Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of Helicobacter pylori Infection in Korea: 2025 Revised Edition. Korean J Helicobacter Up Gastrointest Res. 2026;26(2):164-188.](https://doi.org/10.7704/kjhugr.2026.0029) - _H. pylori_ 위염의 제균 적응증, 맞춤치료와 경험적 4제요법, P-CAB 대체
 * [Dinis-Ribeiro M, et al. Management of epithelial precancerous conditions and early neoplasia of the stomach (MAPS III): Guideline update 2025. Endoscopy. 2025;57(5):504-554.](https://doi.org/10.1055/a-2529-5025) - 진행성 위축·장상피화생, 비가시성 이형성증, 자가면역 위염의 감시 간격
 * [Leung WK, et al. Asian Pacific Association of Gastroenterology task force recommendations on surveillance for Helicobacter pylori associated gastric premalignant conditions. Gut. 2026;75(4):685-704.](https://doi.org/10.1136/gutjnl-2025-335823) - OLGA/OLGIM 병기별 감시 간격, 전구병변에서의 장기 산 억제제 사용
 * [Shah SC, et al. AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis: Expert Review. Gastroenterology. 2021;161(4):1325-1332.](https://gastro.org/clinical-guidance/diagnosis-and-management-of-atrophic-gastritis/) - 자가면역 위염 진단, 악성빈혈 내시경 평가, Type 1 위 신경내분비종양 추적
@@ -548,7 +511,7 @@ Tegoprazan·fexuprazan·revaprazan·zastaprazan은 임부·수유부 금기임. 
 
 #### <mark style="color:$primary;">왜 위염이 생기나요?</mark>
 
-* 가장 흔한 원인은 **헬리코박터 파일로리(*H. pylori*) 세균 감염**입니다. 이 균이 위 점막에 상주하며 만성 염증을 일으키고, 오래 지속되면 위암 위험이 높아집니다.
+* 가장 흔한 원인은 **헬리코박터 파일로리(**_**H. pylori**_**) 세균 감염**입니다. 이 균이 위 점막에 상주하며 만성 염증을 일으키고, 오래 지속되면 위암 위험이 높아집니다.
 * **진통소염제(NSAID), 아스피린** 등은 위 점막 보호 물질의 생성을 줄여 점막을 손상시킵니다.
 * 과음은 위 점막을 직접 손상시킬 수 있고, 흡연은 점막 회복과 헬리코박터 치료에 불리합니다.
 * 스트레스·불규칙한 식사·특정 음식은 소화불량 증상을 악화시킬 수 있지만, 그것만으로 조직학적 위염이 생긴다고 단정할 수는 없습니다.
