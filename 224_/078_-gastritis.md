@@ -65,9 +65,10 @@
 
 #### <mark style="color:$primary;">생활 습관 및 기타</mark>
 
-* 흡연·과음은 점막 손상 또는 위암 위험과 관련됨. 고염식·염장식품은 위축·장상피화생 및 위암 위험과 연관됨 <mark style="color:$info;">\[Gut 2026]</mark>
-* 고지방·자극성 식이, 불규칙한 식사, 심리적 스트레스는 소화불량 증상을 악화시킬 수 있으나 조직학적 위염의 직접 원인으로 단정하지 않음
-* 고령과 위암 가족력은 위염의 직접 원인이라기보다 위암 위험도와 내시경 필요성을 판단하는 요인
+* 흡연·과음 : 점막 손상 또는 위암 위험과 관련됨
+* 고염식·염장식품 : 위축·장상피화생 및 위암 위험과 연관 <mark style="color:$info;">\[Gut 2026]</mark>
+* 고지방·자극성 식이, 불규칙한 식사, 심리적 스트레스 : 소화불량 증상을 악화시킬 수 있으나 조직학적 위염의 직접 원인으로 단정하지 않음
+* 고령, 위암 가족력 : 위염의 직접 원인이라기보다 위암 위험도와 내시경 필요성을 판단하는 요인
 
 #### <mark style="color:$primary;">자가면역 위염 (Autoimmune Gastritis)</mark>
 
@@ -157,7 +158,7 @@
 * 위축(atrophy), 장상피화생(IM), 주름 비대(enlarged folds), 결절성(nodularity), 미만성 발적(diffuse redness)의 5개 항목을 합산하여 0\~8점으로 평가; RAC(regular arrangement of collecting venules)는 미만성 발적 평가에 반영하며 별도 독립 점수 항목은 아님
 * OLGA/OLGIM과의 상관성이 검증되었고, 체계적 문헌고찰에서 4점 이상은 위암 위험 증가를 시사함. 다만 비전문가 시행과 실제 진료 환경에서의 검증은 아직 부족함 <mark style="color:$info;">\[Gut 2026]</mark>
 
-#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">검사</mark>
+#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;">검사</mark>
 
 　(☞ [헬리코박터](080_-h_pylori-infection.md))
 
@@ -186,10 +187,10 @@
 ```
 
 > _모든 경로에서 NSAID·aspirin 복용력을 확인하고 원인을 교정함. 심뇌혈관질환의 2차 예방용 aspirin은 임의 중단하지 않고 처방의와 조정함_\
-> _증상 아형별 치료 : 산 관련 증상은 적응증에 맞는 산 억제제, 식후 충만·조기 포만은 FD 교육·식이 조절·선택적 운동 촉진제_\
-> _제균 확인 검사는 항생제·bismuth 종료 후 최소 4주, PPI·P-CAB 중단 후 최소 2주가 지난 뒤 시행함_\
-> _2차례 이상 제균에 실패하면 감수성 검사가 가능한 전문기관에 의뢰함. 제균 후에도 위축·장상피화생은 위험도별로 감시함_\
-> _재평가 후에도 호전이 없으면 저용량 TCA 등 neuromodulator(허가 외 사용)를 포함하여 전문의와 협진함_
+> _&#xC99D;상 아형별 치료 : 산 관련 증상은 적응증에 맞는 산 억제제, 식후 충만·조기 포만은 FD 교육·식이 조절·선택적 운동 촉진제_\
+> _&#xC81C;균 확인 검사는 항생제·bismuth 종료 후 최소 4주, PPI·P-CAB 중단 후 최소 2주가 지난 뒤 시행함_\
+> _&#x32;차례 이상 제균에 실패하면 감수성 검사가 가능한 전문기관에 의뢰함. 제균 후에도 위축·장상피화생은 위험도별로 감시함_\
+> _&#xC7AC;평가 후에도 호전이 없으면 저용량 TCA 등 neuromodulator(허가 외 사용)를 포함하여 전문의와 협진함_
 
 <p align="center"><strong>위염 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : J Korean Med Sci 2023; Korean J Helicobacter Up Gastrointest Res 2026)</mark></em></p>
 
