@@ -62,7 +62,6 @@
 
 * 중증 질환에 따른 저관류·저산소증 : 쇼크, 패혈증, 심한 화상·외상 등 (스트레스 관련 점막 손상)
 * Portal hypertension (portal hypertensive gastropathy)
-* 당뇨병·갑상선질환 : 위장운동 이상 또는 자가면역질환(자가면역 위염 등) 동반 여부를 평가
 
 #### <mark style="color:$primary;">생활 습관 및 기타</mark>
 
