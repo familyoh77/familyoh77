@@ -565,7 +565,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 
 <table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[에취투비]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[가스터]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[액시드]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[록산]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[스토가]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
 
-> _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함_\
+> _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함. 구강붕해정 <mark style="color:blue;">\[가스터디]</mark>은 삼킴곤란·수분 제한 환자에서 선택할 수 있음. 효과 발현은 일반정과 같으며, 누운 상태에서 물 없이 복용하지 않음_\
 > _&#xB2;⁾ 인체 발암 추정물질 NDMA(IARC Group 2A) 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
 
 ### <mark style="color:orange;">프로톤 펌프 차단제 (Proton pump inhibitor, PPI)</mark>
