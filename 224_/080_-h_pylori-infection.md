@@ -13,7 +13,7 @@
 * 우리나라의 항생제 내성 상황 : clarithromycin 내성률은 지역·검사법에 따라 차이가 있으며 최근 전국 레지스트리(2021\~2023년)에서는 배양 33.3%, PCR 31.3%로 보고됨. metronidazole(29.5%)·levofloxacin(37.0%) 내성률도 높고 clarithromycin·metronidazole 이중내성이 증가한 반면, amoxicillin·tetracycline 내성은 낮음. 국내 2025 개정 지침(2026년 발표)은 감수성 기반 맞춤 치료를 우선하고, 감수성 검사 없이 치료하면 동시 치료 10일을 주요 경험적 요법으로 권고. 경험적 clarithromycin 3제는 감수성 검사가 불가하고 지역 내성률이 15% 미만으로 예상되는 경우에만 제한적으로 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 
 {% hint style="info" %}
-**H. pylori → 위암 발암 경로 (Correa Cascade)**
+**_H. pylori_ → 위암 발암 경로 (Correa Cascade)**
 
 _H. pylori_ 감염은 일부 환자에서 수십 년에 걸친 단계적 발암 경로를 통해 주로 장형 위선암을 유발. 모든 감염자가 이 경로를 끝까지 진행하는 것은 아니며, 모든 위암이 이 경로를 따르는 것도 아님
 
@@ -78,7 +78,7 @@ _H. pylori_ 감염은 일부 환자에서 수십 년에 걸친 단계적 발암 
 
 **추가 적응증 (권고 강도 약함)**
 
-* H. pylori 위염 : 위암 예방을 위해 제균 고려(조건부 권고, 근거 수준 중등도) <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+* _H. pylori_ 위염 : 위암 예방을 위해 제균 고려(조건부 권고, 근거 수준 중등도) <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 * 기능성 소화불량증
 * 양성 위선종 내시경 절제 후
 * 10 ㎜ 이하 위 과형성 용종 : 용종 소실을 위해 제균 고려(조건부 권고, 근거 수준 낮음). 큰 용종·출혈·이형성 의심은 별도 내시경 평가 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
@@ -118,7 +118,7 @@ _H. pylori_ 감염은 일부 환자에서 수십 년에 걸친 단계적 발암 
 
 ```mermaid
 flowchart TD
-    A["성인 H. pylori 감염 의심<br/>또는 검사 적응증"] --> R["Red Flags의<br/>즉각 조치 항목에 해당?"]
+    A["성인 <i>H. pylori</i> 감염 의심<br/>또는 검사 적응증"] --> R["Red Flags의<br/>즉각 조치 항목에 해당?"]
     R -- "예" --> U["응급 평가·안정화<br/>및 즉시 의뢰"]
     R -- "아니오" --> B["내시경 우선 여부·휴약 조건 확인<br/>조직 기반 검사 또는 UBT·대변항원검사"]
     B --> C["활동성 감염 확인?"]
@@ -155,7 +155,7 @@ flowchart TD
     style U fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
 
-<p align="center"><strong>H. pylori 진단 및 제균 치료 알고리듬</strong></p>
+<p align="center"><strong><em>H. pylori</em> 진단 및 제균 치료 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Korean J Gastroenterol 2026; Am J Gastroenterol 2024; Gut 2022)</mark></em></p>
 
@@ -174,11 +174,11 @@ flowchart TD
 **국내 2025 개정 지침과 국제 지침의 적용**
 
 * 소화성 궤양, 위 MALT 림프종, 조기 위암 절제 후, 위암 가족력, 원인 불명 철결핍빈혈·ITP 등은 위의 검사 적응증 참조
-* H. pylori 위염의 위암 예방 및 10 ㎜ 이하 위 과형성 용종 소실을 위한 제균이 조건부 권고에 추가됨 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+* _H. pylori_ 위염의 위암 예방 및 10 ㎜ 이하 위 과형성 용종 소실을 위한 제균이 조건부 권고에 추가됨 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 * 위축성 위염·장상피화생에서 제균해도 위암 위험이 완전히 없어지지 않으므로 위험도에 맞는 내시경 추적을 지속
 * 활동성 감염이 확인되면 특별한 금기나 치료 이득을 기대하기 어려운 상황이 아닌 한 제균 치료를 권고
 * 이미 장기간 NSAID를 복용하는 궤양 고위험군은 제균만으로 충분하지 않아 PPI 위장보호 병행
-* GERD·Barrett 식도 또는 식도선암과 H. pylori의 역상관 보고만으로 필요한 제균 치료를 회피하지 않음
+* GERD·Barrett 식도 또는 식도선암과 *H. pylori*의 역상관 보고만으로 필요한 제균 치료를 회피하지 않음
 * 위 MALT 림프종은 감염검사가 음성이어도 전문의가 제균 치료를 고려할 수 있으므로 일반적인 활동성 감염 확인 원칙의 예외로 구분
 
 ### <mark style="color:orange;">비-약물 치료 및 예방</mark>
@@ -196,7 +196,7 @@ flowchart TD
 * 감수성 검사 없이 치료하면 동시 치료 10일이 주요 경험적 요법. 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
 * 어떤 요법이든 해당 기관·지역의 제균 성적과 복약 가능성을 고려하고 모든 환자에서 치료 후 제균 확인
 * P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고). 다만 국내 근거는 tegoprazan 중심이며, 메타분석에서 PPI 대비 유의한 우월성은 확인되지 않았고 P-CAB가 clarithromycin 내성을 극복한다는 근거도 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
-* 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 국내 2025 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 H. pylori 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
+* 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 국내 2025 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 _H. pylori_ 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
 * 2026년 추가 근거 : 국내 다기관 무작위 연구의 fexuprazan·amoxicillin(3 g/일)·bismuth 병용은 항생제 1종을 쓰지만 **3성분 요법**이며 순수 2제요법이 아님. PPI 표준 3제 대비 비열등성을 보였으나, 맞춤 치료·고전적 bismuth 4제 대비 우월성이나 일반적인 우선 선택을 입증한 것은 아님. 허가된 fexuprazan 3제와도 구성·용량이 달라 연구 요법으로 구분 <mark style="color:$info;">\[Helicobacter 2026]</mark>
 
 ##### <mark style="color:$primary;">1차 치료 요법 선택 기준</mark>
@@ -225,7 +225,7 @@ flowchart TD
   * 복잡한 복용 스케줄 → 복약 달력(pill chart) 제공 권장 (아래 복약 계획 참조)
   * 데놀은 신장애 환자에게 금기. 300 ㎎은 염 함량, 120 ㎎은 산화비스무트 환산량으로 같은 1정이며 용량 오류로 혼동하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
   * 지침상 고전적 4제는 tetracycline을 포함하지만, 데놀 개별 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있어 지침과 품목 허가의 차이를 설명하고 지침 기반 병용의 근거와 판단을 기록. 단순히 복용 간격을 두면 허가상 병용 회피 문구가 해소되는 것으로 해석하지 않음
-  * tetracycline : 식약처 품목 허가정보의 유효균종·적응증에는 H. pylori가 명시되어 있지 않으므로, 제균 목적은 지침 기반 허가 외 사용으로 구분. 제균 지침 용량은 500 ㎎ qid(2 g/일)이며 품목 허가상 일반 성인 기본 용량 1 g/일과 구분(허가문구에는 연령·증상에 따른 증감 가능). 품목 허가상 임부·임신 가능 여성·수유부·12세 미만·신부전·중증 간기능부전 및 retinoid 제제 병용은 금기. 신장애에서는 축적·간독성·질소혈증 위험에 주의. 이 장의 성인 제균 처방을 소아에게 적용하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
+  * tetracycline : 식약처 품목 허가정보의 유효균종·적응증에는 *H. pylori*가 명시되어 있지 않으므로, 제균 목적은 지침 기반 허가 외 사용으로 구분. 제균 지침 용량은 500 ㎎ qid(2 g/일)이며 품목 허가상 일반 성인 기본 용량 1 g/일과 구분(허가문구에는 연령·증상에 따른 증감 가능). 품목 허가상 임부·임신 가능 여성·수유부·12세 미만·신부전·중증 간기능부전 및 retinoid 제제 병용은 금기. 신장애에서는 축적·간독성·질소혈증 위험에 주의. 이 장의 성인 제균 처방을 소아에게 적용하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
   * 변형 bismuth 4제는 고전적 요법과 구성·권고 근거가 다르므로 구분
 
 {% hint style="info" %}
@@ -269,7 +269,7 @@ flowchart TD
 * levofloxacin 3제 요법 14일 : PPI 표준 용량 bid + amoxicillin 1 g bid + levofloxacin 500 ㎎ qd (또는 250 ㎎ bid) <mark style="color:blue;">\[크라비트]</mark>
   * fluoroquinolone 내성률(37% 내외)이 높고 clarithromycin과 levofloxacin에 동시 내성인 균주도 보고되어 감수성이 확인된 경우에만 사용. 서로 다른 계열 간 동시 내성(co-resistance)을 동일한 내성 기전에 의한 교차내성(cross-resistance)과 구분
 * rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 국내 2025 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등) 및 amoxicillin 용량이 다름
-  * H. pylori 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
+  * _H. pylori_ 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
   * 골수억제(호중구감소증), 포도막염 가능; 반복치료·혈액질환 등 고위험군에서 CBC 확인 고려
   * 활동성 결핵 또는 rifamycin 계열 치료력·치료 중인 환자는 내성 선택 위험을 고려하여 감염내과 협진
 * 배양 검사 후 감수성 유도 치료 : 2회 이상 실패 시 소화기내과 의뢰 → 내시경 조직으로 배양·항생제 감수성 검사 시행 후 맞춤 치료
@@ -355,7 +355,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 
 ## <mark style="color:red;">질병코드</mark>
 
-* B98.0 다른 장에서 분류된 질환의 원인으로서의 헬리코박터 파일로리균 Helicobacter pylori [H. pylori] as the cause of diseases classified to other chapters
+* B98.0 다른 장에서 분류된 질환의 원인으로서의 헬리코박터 파일로리균 _Helicobacter pylori_ [_H. pylori_] as the cause of diseases classified to other chapters
 
 ✽B98.0은 원인균을 표시하는 부가 코드로, 위염·소화성 궤양 등 해당 원인 질환 코드를 함께 사용
 
@@ -442,7 +442,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 
 > **① 제균 치료를 끝까지 완료하는 것이 가장 중요합니다**
 >
-> * H. pylori 제균 치료는 요법에 따라 7\~14일간 진행됩니다. 증상이 좋아지더라도 중단하지 마십시오.
+> * _H. pylori_ 제균 치료는 요법에 따라 7\~14일간 진행됩니다. 증상이 좋아지더라도 중단하지 마십시오.
 > * 임의 중단 시 균이 완전히 제거되지 않고 항생제 내성이 발생할 수 있어, 이후 치료가 더 어려워집니다.
 > * 처방된 모든 약을 매일 같은 시간에 규칙적으로 복용하십시오.
 > * 처방 기간을 마치면 항생제는 끝냅니다. 확인 검사 때까지 계속 복용하거나 남은 항생제를 임의로 다시 드시지 마십시오.
@@ -485,15 +485,15 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of Helicobacter pylori Infection in Korea: 2025 Revised Edition. Korean J Gastroenterol. 2026;86(3):156-192. [원문](https://doi.org/10.4166/kjg.2026.040); [영문판 Korean J Helicobacter Up Gastrointest Res 2026;26(2):164-188](https://doi.org/10.7704/kjhugr.2026.0029); [동일 지침 Helicobacter 판](https://doi.org/10.1111/hel.70149)
-* Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024;119(9):1730-1753. [원문](https://doi.org/10.14309/ajg.0000000000002968)
-* Shah SC, et al. AGA Clinical Practice Update on the Management of Refractory Helicobacter pylori Infection: Expert Review. Gastroenterology. 2021;160(5):1831-1841. [원문](https://doi.org/10.1053/j.gastro.2020.11.059)
-* Malfertheiner P, et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022;71:1724-1762. [원문](https://doi.org/10.1136/gutjnl-2022-327745)
-* Lim SH, et al. Trends in the seroprevalence of Helicobacter pylori infection and its putative eradication rate over 18 years in Korea. PLoS One. 2018;13:e0204762. [원문](https://doi.org/10.1371/journal.pone.0204762)
-* Kim JH, et al. Randomized controlled trial comparing 7-day fexuprazan-based and 14-day rabeprazole-based triple therapies for Helicobacter pylori eradication. Medicine. 2026;105:e50627. [원문](https://doi.org/10.1097/MD.0000000000050627)
+* Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of _Helicobacter pylori_ Infection in Korea: 2025 Revised Edition. Korean J Gastroenterol. 2026;86(3):156-192. [원문](https://doi.org/10.4166/kjg.2026.040); [영문판 Korean J Helicobacter Up Gastrointest Res 2026;26(2):164-188](https://doi.org/10.7704/kjhugr.2026.0029); [동일 지침 Helicobacter 판](https://doi.org/10.1111/hel.70149)
+* Chey WD, et al. ACG Clinical Guideline: Treatment of _Helicobacter pylori_ Infection. Am J Gastroenterol. 2024;119(9):1730-1753. [원문](https://doi.org/10.14309/ajg.0000000000002968)
+* Shah SC, et al. AGA Clinical Practice Update on the Management of Refractory _Helicobacter pylori_ Infection: Expert Review. Gastroenterology. 2021;160(5):1831-1841. [원문](https://doi.org/10.1053/j.gastro.2020.11.059)
+* Malfertheiner P, et al. Management of _Helicobacter pylori_ infection: the Maastricht VI/Florence consensus report. Gut. 2022;71:1724-1762. [원문](https://doi.org/10.1136/gutjnl-2022-327745)
+* Lim SH, et al. Trends in the seroprevalence of _Helicobacter pylori_ infection and its putative eradication rate over 18 years in Korea. PLoS One. 2018;13:e0204762. [원문](https://doi.org/10.1371/journal.pone.0204762)
+* Kim JH, et al. Randomized controlled trial comparing 7-day fexuprazan-based and 14-day rabeprazole-based triple therapies for _Helicobacter pylori_ eradication. Medicine. 2026;105:e50627. [원문](https://doi.org/10.1097/MD.0000000000050627)
 * CDC. Managing Persons Who Have a History of Penicillin Allergy. [공식 지침](https://www.cdc.gov/std/treatment-guidelines/penicillin-allergy.htm)
-* Ahn JY, et al. Efficacy and Safety of Fexuprazan-Based Modified High-Dose Dual Therapy for Helicobacter pylori Eradication: A Randomized Clinical Trial. Helicobacter. 2026;31(3):e70146. [원문](https://doi.org/10.1111/hel.70146)
-* Lim NR, et al. Recurrence of Helicobacter pylori following successful eradication and clinical outcomes in Korean patients. Helicobacter. 2024;29:e13036. [원문](https://doi.org/10.1111/hel.13036)
+* Ahn JY, et al. Efficacy and Safety of Fexuprazan-Based Modified High-Dose Dual Therapy for _Helicobacter pylori_ Eradication: A Randomized Clinical Trial. Helicobacter. 2026;31(3):e70146. [원문](https://doi.org/10.1111/hel.70146)
+* Lim NR, et al. Recurrence of _Helicobacter pylori_ following successful eradication and clinical outcomes in Korean patients. Helicobacter. 2024;29:e13036. [원문](https://doi.org/10.1111/hel.13036)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -544,7 +544,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 
 * 손 씻기를 철저히 하고, 음식은 충분히 익혀 먹고, 오염 가능성이 있는 물은 끓여 마십시오.
 * 제균에 성공해도 감염이 다시 나타날 수 있습니다. 남아 있던 균의 재증식과 새로 감염되는 경우를 구분하며, 발생률은 지역·추적 기간에 따라 달라집니다.
-* 재감염이 의심되거나, 정기 위내시경 시 H. pylori 재검이 필요하면 의사에게 말씀하십시오.
+* 재감염이 의심되거나, 정기 위내시경 시 _H. pylori_ 재검이 필요하면 의사에게 말씀하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 

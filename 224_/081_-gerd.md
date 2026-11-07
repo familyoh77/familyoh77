@@ -160,7 +160,7 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 해부학적 이상 (hiatal hernia 등) 진단에 도움
 * GERD 진단 목적으로는 권고하지 않음 (조영 촬영만으로 GERD 진단 불가)
 
-#### <mark style="color:$primary;">H. pylori 검사</mark>
+#### <mark style="color:$primary;">_H. pylori_ 검사</mark>
 
 * GERD 진단 자체를 위한 검사는 아님. 소화성 궤양·위암 위험 등 별도의 검사·제균 적응증에 따라 시행(☞ [헬리코박터 감염](080_-h_pylori-infection.md))
 
