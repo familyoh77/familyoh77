@@ -1,4 +1,4 @@
-# 소화성 궤양 Peptic Ulcer, PUD
+# 소화성 궤양 Peptic Ulcer Disease, PUD
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -7,14 +7,14 @@
 * 위궤양 (gastric ulcer, GU) : 십이지장궤양보다 상대적으로 고령에서 흔함
 * 십이지장궤양 (duodenal ulcer, DU) : 상대적으로 젊은 연령에서 흔하나 연령만으로 GU와 구분할 수 없음
   * _H. pylori_ 감염 감소와 제균 치료 보급 이후 감소 추세
-* Refractory peptic ulcer : 적절한 PPI 표준 용량으로 8\~12주 치료 후에도 내시경적으로 완전히 치유되지 않은 궤양; 증상 지속만으로 불응성 궤양으로 판단하지 않음
-* Recurrent peptic ulcer : 완전한 내시경적 치유 이후 다시 발생
+* refractory peptic ulcer : 적절한 PPI 표준 용량으로 8\~12주 치료 후에도 내시경적으로 완전히 치유되지 않은 궤양; 증상 지속만으로 불응성 궤양으로 판단하지 않음
+* recurrent peptic ulcer : 완전한 내시경적 치유 이후 다시 발생
 
 #### <mark style="color:$primary;">역학</mark>
 
 * 국내 소화성 궤양의 빈도와 원인 분포는 조사 시기·대상 및 NSAID/aspirin 사용에 따라 다름
 * _H. pylori_ 관련 궤양은 감소하는 반면 고령자와 약제 연관 궤양의 임상적 중요성이 커지고 있음
-* NSAID 장기 사용 시 내시경적 궤양은 흔하나 상당수는 무증상이며, 대규모 무작위대조시험에서 증상성 궤양은 2.7\~4.5%, 출혈·천공 등 주요 합병증은 1.0\~1.5%로 보고됨. 출혈성 궤양 병력, 고령, 고용량, 항혈전제 병용 시 위험이 특히 높음 <mark style="color:$info;">\[Gut Liver 2020]</mark>
+* NSAID 장기 사용 시 내시경적 궤양은 흔하나 상당수는 무증상이며, 비선택적 NSAID 사용 환자의 대규모 무작위대조시험에서 증상성 궤양을 포함한 상부위장관 임상 사건의 연간 발생률은 2.7\~4.5%, 출혈·천공 등 주요 합병증은 연간 1.0\~1.5%로 보고됨. 출혈성 궤양 병력, 고령, 고용량, 항혈전제 병용 시 위험이 특히 높음 <mark style="color:$info;">\[Gut Liver 2020]</mark>
 * 경과 : 적절한 위산 억제 치료와 원인 교정으로 대부분 치유됨
   * _H. pylori_ 제균 성공 시 재발과 재출혈 위험이 크게 감소함
 * 주요 합병증 : 출혈(선행 증상 없이 발생 가능), 천공·관통, 위 배출구 폐쇄
@@ -60,7 +60,7 @@
 
 * 상복부 복통/불편감/작열감, 가슴쓰림, 산 역류, 조기 포만감, 트림, 구역, 구토
 * 흔히 자각 증상이 없음; 출혈이나 천공이 첫 증상으로 나타나는 경우도 있음
-  * 특히 NSAID/LDA(저용량아스피린) 복용 중 무증상 궤양이 흔함
+  * 특히 NSAID/LDA(저용량 아스피린) 복용 중 무증상 궤양이 흔함
 * 증상이 있는 경우 흔히 주기적으로 발생하며 수주 단위로 악화와 완화 반복
 * 혈변, 검은 변
 * 일부에서 GU는 식후, DU는 공복·야간에 악화되고 음식이나 제산제로 호전되는 전형적 양상을 보일 수 있으나, 증상 양상만으로 궤양의 유무나 위치를 감별할 수 없음
@@ -69,21 +69,21 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈·커피색 구토·타르 같은 흑색변, 또는 다량의 혈변 `상부위장관 출혈`
-* 출혈 의심 증상과 함께 실신·저혈압·빈맥·식은땀·의식 변화 `중증 출혈` `저혈량 쇼크`
-* 갑자기 발생한 심한 지속성 복통, 반발통·복부 경직 `궤양 천공` `복막염`
-* 반복 구토로 수분 섭취가 불가능하거나 현저한 탈수·전신 상태 악화 `위 배출구 폐쇄`
+* 토혈·커피색 구토·타르 같은 흑색변, 또는 다량의 혈변  `상부위장관 출혈`
+* 출혈 의심 증상과 함께 실신·저혈압·빈맥·식은땀·의식 변화  `중증 출혈` `저혈량 쇼크`
+* 갑자기 발생한 심한 지속성 복통, 반발통·복부 경직  `궤양 천공` `복막염`
+* 반복 구토로 수분 섭취가 불가능하거나 현저한 탈수·전신 상태 악화  `위 배출구 폐쇄`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 지속·반복되는 구토, 조기 포만감과 체중 감소 `위 배출구 폐쇄` `위암`
-* 원인 불명 철결핍빈혈, 진행성 연하곤란, 의도하지 않은 체중 감소, 상복부 종괴 `악성 종양` `잠재 출혈`
+* 지속·반복되는 구토, 조기 포만감과 체중 감소  `위 배출구 폐쇄` `위암`
+* 원인 불명 철결핍빈혈, 진행성 연하곤란, 의도하지 않은 체중 감소, 상복부 종괴  `악성 종양` `잠재 출혈`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 치료에도 증상이 지속·재발하거나 치료 8\~12주 후에도 궤양이 남아 있음 `불응성 궤양` `악성 종양`
-* 출혈 등으로 첫 내시경에서 생검하지 못한 위궤양 `악성 궤양`
-* 증상이 호전되었으나 치유 확인 내시경을 받지 않은 위궤양 `악성 궤양`
+* 적절한 치료에도 증상이 지속·재발하거나 치료 8\~12주 후에도 궤양이 남아 있음  `불응성 궤양` `악성 종양`
+* 출혈 등으로 첫 내시경에서 생검하지 못한 위궤양  `악성 궤양`
+* 증상이 호전되었으나 치유 확인 내시경을 받지 않은 위궤양  `악성 궤양`
 
 　☞ [위장 증상의 감별](074_-gidz.md#red-flags)
 
@@ -98,7 +98,7 @@
 
 #### <mark style="color:$primary;">실험실 검사</mark>
 
-* 현성 출혈 의심 : CBC, BUN/Cr, 전해질, 간기능, PT-INR, 혈액형 검사 및 type & screen/crossmatch
+* 현성 출혈 의심 : CBC, BUN/Cr, 전해질, 간기능, PT-INR, type & screen(필요시 crossmatch)
   * 대변 잠혈검사는 현성 출혈의 확인에 사용하지 않음
 * 만성 잠재 출혈 또는 빈혈 : CBC, ferritin, Fe/TIBC, reticulocyte 등 철 결핍 평가
 * 공복 혈청 gastrin : 다발성·재발성·불응성 궤양에서 gastrinoma(ZES) 의심 시 고려
@@ -144,7 +144,7 @@
 
 * 상복부 증상은 PUD뿐 아니라 기능성 소화불량(FD), 위식도역류질환(GERD), 위암이 유사하게 나타날 수 있으며, overlap 형태로 동반되는 경우도 흔함
 
-<table><thead><tr><th width="155">특징</th><th width="195">PUD</th><th width="185">기능성 소화불량 (FD)</th><th>위식도역류질환 (GERD)</th></tr></thead><tbody><tr><td><strong>통증 양상</strong></td><td>국소적 epigastric pain; 간헐적·주기적</td><td>모호한 불편감; 팽만·조기 포만감</td><td>흉골 하부 작열감(heartburn); 산 역류</td></tr><tr><td><strong>식사 연관</strong></td><td>GU 식후, DU 공복·야간 악화가 가능하나 감별력은 낮음</td><td>식사 관련 불편감·포만감</td><td>누운 자세, 야식, 과식 후 악화</td></tr><tr><td><strong>야간 통증</strong></td><td>DU에서 가능</td><td>가능</td><td>가능 (야간 역류)</td></tr><tr><td><strong>제산제 반응</strong></td><td>가변적</td><td>가변적</td><td>일시적 개선</td></tr><tr><td><strong>출혈 위험</strong></td><td>있음</td><td>없음</td><td>드묾 (식도염 동반 시)</td></tr><tr><td><strong>내시경 소견</strong></td><td>점막 결손(궤양)</td><td>정상 또는 비특이적</td><td>역류성 식도염 또는 정상(NERD)</td></tr></tbody></table>
+<table><thead><tr><th width="155">특징</th><th width="195">PUD</th><th width="185">기능성 소화불량 (FD)</th><th>위식도역류질환 (GERD)</th></tr></thead><tbody><tr><td><strong>통증 양상</strong></td><td>국소적 epigastric pain; 간헐적·주기적</td><td>상복부 통증·작열감 또는 식후 포만감·조기 포만감</td><td>흉골 하부 작열감(heartburn); 산 역류</td></tr><tr><td><strong>식사 연관</strong></td><td>GU 식후, DU 공복·야간 악화가 가능하나 감별력은 낮음</td><td>식후 포만감·조기 포만감이 특징적일 수 있으나, 상복부 통증·작열감은 식사와 무관하게도 발생</td><td>누운 자세, 야식, 과식 후 악화</td></tr><tr><td><strong>야간 통증</strong></td><td>DU에서 가능</td><td>가능</td><td>가능 (야간 역류)</td></tr><tr><td><strong>제산제 반응</strong></td><td>가변적</td><td>가변적</td><td>일시적 개선</td></tr><tr><td><strong>출혈 위험</strong></td><td>있음</td><td>없음</td><td>드묾 (식도염 동반 시)</td></tr><tr><td><strong>내시경 소견</strong></td><td>점막 결손(궤양)</td><td>정상 또는 비특이적</td><td>역류성 식도염 또는 정상(NERD)</td></tr></tbody></table>
 
 {% hint style="info" %}
 증상 양상과 제산제 반응만으로 PUD를 확진하거나 GU와 DU를 구분할 수 없음. PUD 확진과 위암 감별의 표준은 상부위장관 내시경임.
@@ -220,25 +220,20 @@ flowchart TD
 3. 항혈전제·항응고제 복용 여부 확인
 4. NPO + 정맥로 2개 확보
 5. 혈역학적 불안정 시 결정질 수액으로 신속히 소생. Glasgow-Blatchford score로 위험도를 평가하며, 0\~1점이고 신속한 외래 내시경과 재내원이 가능하면 외래 관리 고려. 초기 Hb가 정상이어도 급성 대량 출혈을 배제하지 못함
-6. 혈역학적으로 안정된 비대량 출혈은 제한적 수혈: 심혈관질환이 없으면 Hb ＜7 g/dL에서 수혈(목표 7\~9 g/dL), 급성·만성 심혈관질환이 있으면 Hb ≤8 g/dL에서 수혈(목표 ≥10 g/dL). 이는 ESGE 기준이며 심혈관질환 동반 환자의 근거는 제한적이므로 허혈·지속 출혈·체액 과부하 위험에 따라 개별화함. 대량 출혈·쇼크에서는 Hb 결과만 기다리지 않고 소생·수혈을 결정 <mark style="color:$info;">\[Endoscopy 2026]</mark>
-7. 내시경 전 고용량 IV PPI를 고려할 수 있으나 내시경을 지연해서는 안 됨. 임상적으로 중증이거나 활동성 토혈이 지속되면 금기(마크로라이드 알레르기, QT 연장, 상호작용 약제)가 없는 한 내시경 전 erythromycin 정주(250 ㎎, 내시경 30\~120분 전)를 고려하며, erythromycin 주사제 공급과 허가 외 전처치 여부를 확인. ESGE 2026은 erythromycin을 구할 수 없는 일부 환자에서 metoclopramide를 제안하지만, 맥**페란주 허가상 위장관 출혈은 금기**이므로 본 장에서는 대체 전처치로 권하지 않음. Tranexamic acid는 권하지 않음
-8. 소생 후 내원 24시간 이내 상부위장관 내시경 및 필요시 내시경 지혈. 적절한 소생에도 혈역학적으로 불안정한 경우가 아니면 12시간 이내의 응급·긴급 내시경을 일상적으로 권하지 않음
-9. Forrest IIb 부착 혈괴는 안전하게 혈괴 제거·지혈할 역량이 있는 경우 혈괴 제거 후 필요한 내시경 지혈을 시행. 고위험 병변 지혈 후 또는 내시경 처치하지 않은 IIb에는 고용량 PPI를 72시간 투여(예: PPI 80 ㎎ 정주 후 8 ㎎/h 지속 주입; 또는 검증된 고용량 bid 정주·경구 요법). 이후 경구 PPI bid를 내시경 후 첫 2주까지 투여한 뒤 치유·원인에 따라 조정. 지혈 후 P-CAB 일상 사용은 ESGE 2026에서도 합의에 이르지 못함 <mark style="color:$info;">\[Endoscopy 2026; Am J Gastroenterol 2021]</mark>
-10. 이차 심혈관 예방 목적 단독 aspirin은 중단하지 않으며, 중단했다면 가능한 한 빨리 재개(ACG-CAG 2022: 내시경적 지혈 확인 당일; ESGE 2026: 가능하면 3\~5일 이내). 일차 예방 목적 aspirin은 보류 후 필요성을 재평가. 이중항혈소판요법은 aspirin을 유지하고 두 번째 약제(P2Y12 억제제)의 일시 중단·재개를 심장내과와 신속히 협의(ESGE: 일시 중단 시 가능하면 5일 이내 재개). 최근 관상동맥 스텐트 삽입 등 혈전 고위험 상황은 특히 개별화. 항응고제는 중단하되 혈전 위험에 따라 임상적으로 가능해지는 대로 재개하며, 계속 필요한 경우 PPI를 병용 <mark style="color:$info;">\[Endoscopy 2026; Am J Gastroenterol 2022]</mark>
-11. 지속적 지혈이 확인되면 지혈 후 24시간 이내 경구 섭취를 시작할 수 있으며, 빈혈·철결핍이 있으면 퇴원 전 철분 보충을 시작
-12. 출혈 당시 _H. pylori_ 검사가 음성이면 안정 후(PPI 2주 중단) 재검하고, 양성이면 제균 후 성공 여부 확인
+6. 수혈 : 혈역학적으로 안정되고 심혈관질환이 없는 환자는 Hb ＜7 g/dL에서 적혈구 수혈을 고려(수혈 후 목표 Hb 7\~9 g/dL). 심혈관질환 동반 환자는 Hb ≤8 g/dL 등 더 높은 기준을 적용하고 임상 상태에 따라 결정. 지속 대량 출혈·쇼크에서는 Hb 수치만으로 수혈을 지연하지 않음
+7. 소생 후 내원 24시간 이내 상부위장관 내시경 및 필요시 내시경 지혈. 적절한 소생에도 혈역학적으로 불안정한 경우가 아니면 12시간 이내의 응급·긴급 내시경을 일상적으로 권하지 않음
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 금연 : 흡연은 위점막 혈류를 감소시키고 prostaglandin 합성 억제 → 치유 지연, 재발 위험을 증가시키므로 금연함
+* 금연 : 흡연은 위점막 혈류 감소와 prostaglandin 합성 억제로 치유를 지연시키고 재발 위험을 높이므로 금연함
 * 절주 : 과음은 위점막을 손상시키고 증상을 악화시킬 수 있으므로 피함
 * 식이 : 특별한 맞춤 식사는 필요하지 않음
   * 자극적 음식·커피·탄산음료 등은 개인별로 증상을 유발하면 줄이되 궤양의 직접적 원인은 아님
 * 스트레스 관리 : 일상적 심리 스트레스는 PUD의 주된 원인이 아니며 스트레스 관리가 궤양 치유를 앞당긴다는 근거는 없지만, 증상을 악화시키고 흡연·음주·진통제 사용 등에 영향을 줄 수 있어 일반적인 생활 관리로 권함
 * NSAID/aspirin 관리 : 가능한 한 최소 기간·최소 용량 사용; 불필요한 병용 회피
   * NSAID 식사 후 복용은 위 불편감(dyspepsia) 감소에 도움이 될 수 있으나 궤양 예방 효과는 없음. 고위험군은 PPI 등 근거와 허가가 확인된 예방 약제를 병용
-  * 무증상 NSAID 복용자도 고위험 인자 있는 경우 예방적 약제 병용 필요 (☞ 아래 NSAID 관련 PUD 예방)
+  * 무증상 NSAID 복용자도 고위험 인자 있는 경우 예방적 약제 병용 필요 (☞ 아래 NSAID 연관 PUD 예방)
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
@@ -254,8 +249,8 @@ flowchart TD
 <table><thead><tr><th width="220">약물</th><th>통상 용량</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[오엠피]</mark></td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong> <mark style="color:blue;">[넥시움]</mark></td><td>NSAID 관련 GU 치료·예방: 20 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong> <mark style="color:blue;">[란스톤]</mark></td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td></tr><tr><td><strong>pantoprazole</strong> <mark style="color:blue;">[판토록]</mark></td><td>40 ㎎ qd</td></tr><tr><td><strong>rabeprazole</strong> <mark style="color:blue;">[파리에트]</mark></td><td>10~20 ㎎ qd</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[놀텍]</mark></td><td>10 ㎎ qd</td></tr></tbody></table>
 
 * 일반형 esomeprazole은 NSAID 관련 GU 치료·궤양 예방, _H. pylori_ 제균 병용, 정주 지혈 치료 후 재출혈 예방 유지 등 해당 허가 범위로 구분
-* lansoprazole은 국내 활동성 DU 단기치료 허가가 15 ㎎ qd ×4주이며, 장용 일반형과 복합·서방 제형을 자동 대체하지 않음
-* dexlansoprazole은 국내 PUD 치료 적응증이 없음
+* lansoprazole의 활동성 DU 단기치료 허가 용법은 15 ㎎ qd ×4주이며, 장용 일반형과 복합·서방 제형을 자동 대체하지 않음
+* dexlansoprazole은 PUD 치료 적응증이 없음
 
 <mark style="color:cyan;">**PPI 치료 실패의 흔한 원인**</mark>
 
@@ -278,11 +273,10 @@ flowchart TD
 * CYP2C19 유전적 다형성이 산 억제 효과에 미치는 영향이 상대적으로 적음. 다만 clopidogrel과의 상호작용은 P-CAB 성분별로 다르므로 개별 확인
 * 허가된 적응증에서는 PUD 치유 또는 예방 효과가 PPI와 유사한 자료가 있으나 제품별 적응증이 다르고 장기·계열별 안전성 자료는 PPI보다 제한적
 
-<table><thead><tr><th width="199.33331298828125">약물</th><th>국내 허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td><strong>tegoprazan</strong> <mark style="color:blue;">[케이캡]</mark></td><td>50 ㎎ qd ×8주: 위궤양; <em>H. pylori</em> 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td><strong>zastaprazan</strong> <mark style="color:blue;">[자큐보]</mark></td><td>20 ㎎ qd, 최대 8주: 위궤양; 식사 무관. 위궤양 치료 급여는 2026.7.1부터 적용</td></tr><tr><td><strong>vonoprazan</strong> <mark style="color:blue;">[보신티]</mark></td><td>위궤양 20 ㎎ qd(통상 최대 8주); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd(궤양 병력 확인). 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부는 별도 확인</td></tr><tr><td><strong>fexuprazan</strong> <mark style="color:blue;">[펙수클루]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 및 <em>H. pylori</em> 제균 병용(40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid ×14일) 용량. 활동성 PUD 단독 치료 적응증은 아님; 식사 무관</td></tr><tr><td><strong>revaprazan</strong> <mark style="color:blue;">[레바넥스]</mark></td><td>200 ㎎ qd: 위궤양·십이지장궤양의 단기치료; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
+<table><thead><tr><th width="199.33331298828125">약물</th><th>허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td><strong>tegoprazan</strong> <mark style="color:blue;">[케이캡]</mark></td><td>50 ㎎ qd ×8주: 위궤양; <em>H. pylori</em> 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td><strong>zastaprazan</strong> <mark style="color:blue;">[자큐보]</mark></td><td>20 ㎎ qd, 최대 8주: 위궤양; 식사 무관. 위궤양 치료 급여는 2026.7.1부터 적용</td></tr><tr><td><strong>vonoprazan</strong> <mark style="color:blue;">[보신티]</mark></td><td>위궤양 20 ㎎ qd(통상 최대 8주); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd(궤양 병력 확인). 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부는 별도 확인</td></tr><tr><td><strong>fexuprazan</strong> <mark style="color:blue;">[펙수클루]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 및 <em>H. pylori</em> 제균 병용(40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid ×14일) 용량이며, 40 ㎎ 급여는 미란성 GERD 기준으로 제균 병용과 구분. 활동성 PUD 단독 치료 적응증은 아님; 식사 무관</td></tr><tr><td><strong>revaprazan</strong> <mark style="color:blue;">[레바넥스]</mark></td><td>200 ㎎ qd: 위궤양·십이지장궤양의 단기치료; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
 
-* tegoprazan은 GU 치료 및 _H. pylori_ 제균 병용요법이 허가됨. 활동성 DU 단독 치료는 국내 허가 외 사용이며, 제균 적응증이나 NSAID 관련 DU 예방 허가를 DU 단독 치료 허가로 해석하지 않음
+* tegoprazan은 GU 치료 및 _H. pylori_ 제균 병용요법이 허가됨. 활동성 DU 단독 치료는 허가 외 사용이며, 제균 적응증이나 NSAID 관련 DU 예방 허가를 DU 단독 치료 허가로 해석하지 않음
 * vonoprazan은 국내 허가상 _H. pylori_ 제균 적응증이 없으므로 해외 제균요법을 국내 허가요법으로 적용하지 않음. Clopidogrel의 항혈소판 효과를 감소시킬 수 있어 성분별 상호작용을 확인
-* 임신·수유 : tegoprazan·fexuprazan·zastaprazan·revaprazan은 임부·수유부 금기. vonoprazan은 허가상 일률적 금기는 아니나 DUR 임부금기 2등급이며 예상 이득이 위험보다 클 때만 고려하고 투여 중 모유 수유는 피함
 
 #### <mark style="color:$primary;">H2 Receptor Antagonist (</mark>[<mark style="color:$primary;">H2RA</mark>](073_-gidrugs.md#h2-h2-receptor-antagonist-h2ra)<mark style="color:$primary;">)</mark>
 
@@ -302,12 +296,17 @@ flowchart TD
 
 * 단독으로는 치료 효과 부족; 증상 완화 또는 PPI 치료 초기 병용 목적
 * Al/Mg 함유 제제는 CKD에서 축적에 유의하며, MgO·Mg(OH)₂ 제제는 신장애 금기
-* Quinolone·tetracycline·철분제 등과의 간격은 병용약별 허가사항을 확인
+* quinolone·철분제 등과의 간격은 병용약별로 확인. 알마겔(almagate)은 lansoprazole·quinolone·철분제 등과 2\~3시간 간격을 두며, tetracycline계 항생제와는 병용하지 않음
 
 [**점막 보호제**](073_-gidrugs.md#gastric-mucosal-protective-agent)
 
 * sucralfate : 점막 보호 효과가 있으나 NSAID 관련 PUD 예방 효과는 입증 불충분하며, 현재 유통 제품이 확인되지 않음. Al 함유로 중증 신장애에서 회피하고 CKD에서 장기 사용 주의; 다른 경구약과의 간격은 약제별로 확인
 * teprenone <mark style="color:blue;">\[셀벡스]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark> : 점막 방어 인자 강화; 필요시 보조적으로 고려. 합병증 없는 PUD에서 산 억제제에 일률적으로 추가할 필요는 없으며 제균·적절한 산 억제를 대체하지 않음
+
+#### <mark style="color:$primary;">임신 중 약물 선택</mark>
+
+* 임신 중 PUD의 산 억제 치료가 필요하면 famotidine 또는 omeprazole을 임상 상황과 치료상 이득·위험을 평가하여 고려함. 생활 요법과 적절한 제산제는 증상 완화의 보조 수단이며, 확진된 활동성 궤양의 치유 치료를 대신하지 않음
+* _H. pylori_ 제균은 일반적으로 출산·수유 이후로 미룸
 
 ### <mark style="color:orange;">NSAID 연관 PUD 예방</mark>
 
@@ -367,7 +366,7 @@ flowchart TD
 * vonoprazan 10 ㎎ qd : NSAID 지속 투여 시 위·십이지장궤양 재발 방지; 투여 전 궤양 병력을 확인. 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부 별도 확인
 * fexuprazan 20 ㎎ qd : NSAID 유도성 PUD 예방; 허가 용법은 24주이며 그 이상은 비교임상시험 범위를 넘음
 * misoprostol (합성 prostaglandin E1 analog) : 예방 허가 용량 400\~800 ㎍/d를 식사 시·취침 시 분할(예: 200 ㎍ qid) <mark style="color:blue;">\[싸이토텍]</mark>; 설사·복통으로 순응도 낮음. Mg 함유 제산제 병용 회피
-  * 임부 또는 현재 임신했을 가능성이 있는 여성은 금기(자궁 수축·유산 위험). 임신 가능 연령 자체를 일률적 금기로 해석하지 않되, 고위험 NSAID 사용 여성에서는 투여 전 2주 이내 혈청 임신검사 음성·효과적인 피임·구두 및 서면 위험 설명·정상 월경 2\~3일째 시작 등 허가상 조건을 모두 충족해야 함
+  * 금기 : 임부 또는 임신 가능성이 있는 여성 - 자궁 수축·유산 위험. 가임 여성은 투여 전 임신검사 음성과 효과적인 피임 등 허가 조건을 확인
 
 ### <mark style="color:orange;">헬리코박터 제균</mark>
 
@@ -375,7 +374,7 @@ flowchart TD
 * 1차 : 감수성 검사 기반 맞춤 치료(감수성균 7일 3제, 내성균 10일 bismuth 4제); 검사 불가 시 10일 동시 4제요법 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 * P-CAB 기반 제균의 허가 기간은 성분별로 다름(tegoprazan 7일, fexuprazan 14일)
 * 제균 확인 : 치료 종료 최소 4주 후 UBT 또는 대변 항원검사
-* 요법별 용량, bismuth 제제, 구제요법 및 지침 원문 불일치는 [헬리코박터 감염](080_-h_pylori-infection.md) 챕터 참조
+* 요법별 용량, bismuth 제제, 구제요법 및 지침과 품목허가사항의 차이는 [헬리코박터 감염](080_-h_pylori-infection.md) 챕터 참조
 
 ### <mark style="color:orange;">불응 및 궤양 재발</mark>
 
@@ -397,29 +396,21 @@ flowchart TD
 * _H. pylori_ 위음성 가능성 (재검 또는 검사 방법 변경)
 * 흡연 지속
 * 큰 궤양 또는 복합 궤양; giant ulcer의 전통적 정의는 GU ＞3 ㎝, DU ＞2 ㎝
-* Gastric malignancy (GU는 반드시 조직 검사 확인)
+* gastric malignancy (GU는 반드시 조직 검사 확인)
 * Zollinger-Ellison syndrome (gastrinoma)
 * Crohn disease
 * CMV ulcer (면역 저하 환자에서 고려)
 * 기타 약제 (bisphosphonate, KCl, chemotherapy)
 
-### <mark style="color:orange;">보험 적용 유의사항</mark>
-
-* 임상 권고, 품목 허가, 급여 인정 범위를 구분. 위궤양 치료가 허가된 약제를 십이지장궤양 단독 치료 또는 출혈 후 고용량 치료에 자동 적용하지 않음
-* Fexuprazan 20 ㎎: NSAID 유도성 위·십이지장궤양 예방은 고시 제2025-189호(2025.12.1) 적용
-* Fexuprazan 40 ㎎: _H. pylori_ 제균 병용 허가와 급여는 구분. 확인한 고시 제2025-189호의 40 ㎎ 급여는 미란성 GERD이며, 제균 적응증의 급여 확대 여부는 처방 시 최신 기준으로 별도 확인
-* Zastaprazan: 위궤양 치료는 고시 제2026-133호(2026.7.1) 적용
-* Tegoprazan 25 ㎎: NSAID 관련 소화성궤양 예방은 허가되었으나 확인한 2026년 10월 급여기준(고시 제2023-120호)에는 해당 예방 적응증이 포함되지 않음. 제품의 급여 등재 자체가 모든 허가 적응증의 급여를 의미하지 않음
-* Vonoprazan fumarate·tosylate 경구제: 고시 제2026-222호에 따라 2026.11.1부터 급여기준 신설. 허가·급여 범위와 실제 제품 공급 여부는 각각 확인
-
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 출혈: Forrest Ia·Ib(활동성 출혈)는 희석 epinephrine 주사 + 두 번째 방법(접촉 열치료·클립)의 병용, 또는 숙련된 경우 OTS clip 단독 치료가 대안. IIa(비출혈 노출혈관)는 열치료·클립·경화제 주사 단독 또는 epinephrine 병용. Epinephrine 단독 주사는 피하며, 지혈 분말 등 국소 지혈제는 1차 단독 치료로 쓰지 않고 구제 치료로 사용. IIb(부착 혈괴)는 위 출혈 치료 방침에 따르고, IIc·III(편평 색소반점·깨끗한 기저)는 내시경 지혈이 필요하지 않음 <mark style="color:$info;">\[Endoscopy 2026]</mark>
-* 지속 출혈: 표준 내시경 지혈에 반응하지 않으면 OTS clip·국소 지혈제 등 구제 지혈을 평가하고, 내시경적 방법으로 조절되지 않으면 경카테터 동맥색전술(TAE). TAE가 불가능하거나 실패하면 수술 <mark style="color:$info;">\[Endoscopy 2026]</mark>
-* 재출혈(초기 지혈 성공 후 다시 출혈): 재내시경 지혈(OTS clip 고려)을 우선하고 실패하면 TAE, TAE가 불가능하거나 실패하면 수술. 성공적 지혈 후 routine second-look 내시경은 권하지 않음 <mark style="color:$info;">\[Endoscopy 2026]</mark>
-* 예방적 TAE: 내시경 지혈에 성공했으나 재출혈 위험이 높은 선별된 환자(내원 시 혈역학적 불안정, 십이지장 후벽 궤양, ＞2 ㎝ 궤양, 지혈의 지속성이 불확실한 경우)에서 고려할 수 있음. 지혈 실패 후 시행하는 구제 TAE와 구분 <mark style="color:$info;">\[Endoscopy 2026]</mark>
-* 천공: 금식·정맥 수액·광범위 항생제·복부 CT 및 외과 평가. 복막염·자유 천공은 수술적 치료가 원칙이며 비수술 치료는 누출이 봉쇄되고 안정적인 극히 선별된 환자에서만 병원 내 면밀한 감시하에 고려 <mark style="color:$info;">\[World J Emerg Surg 2020]</mark>
-* 위 배출구 폐쇄: 금식·수액 및 전해질 교정, 필요시 비위관 감압 후 내시경·CT로 악성 여부와 협착을 평가. 산 억제·제균·NSAID 교정 후에도 양성 협착이 지속되면 내시경 풍선확장술 또는 수술을 개별화 <mark style="color:$info;">\[Gastrointest Endosc 2021]</mark>
+* 출혈 : 소생 후 내원 24시간 이내 내시경 평가 및 적응증에 따른 지혈이 표준. 깨끗한 궤양저 등 저위험 병변은 내시경 지혈이 필요하지 않음  <mark style="color:$info;">\[Endoscopy 2026]</mark>
+  * 지혈 성공 후 재출혈 : 재내시경·재지혈을 우선하며, 실패하면 경카테터 동맥색전술(TAE)을 고려. TAE 시행 불가 또는 실패 시 수술
+  * 초기 내시경에서 표준·구제 지혈에도 출혈이 지속되면 TAE를 고려. TAE 시행 불가 또는 실패 시 수술
+* 고위험 출혈성 궤양의 지혈 후 산 억제 : 초기 72시간 고용량 PPI 치료(예: 80 ㎎ 정주 후 8 ㎎/시간 지속주입 또는 근거 있는 고용량 간헐 정주·경구 요법). 이후 최초 내시경일부터 2주까지 경구 PPI bid를 유지한 뒤 치유·원인에 따라 조정. 내시경 치료를 하지 않은 부착 혈괴(Forrest IIb)도 초기 고용량 PPI 치료 대상  <mark style="color:$info;">\[Endoscopy 2026; Am J Gastroenterol 2021]</mark>
+* 천공 : 수술적 치료가 원칙이며 외과 평가가 필요  <mark style="color:$info;">\[World J Emerg Surg 2020]</mark>
+* 위 배출구 폐쇄 : 악성 여부 평가 후 산 억제·제균·NSAID 교정을 우선하고, 양성 협착이 지속되면 내시경 풍선확장술 또는 수술
+* 합병증 치료 후 외래 관리 : 퇴원 시 정해진 산 억제제 용법과 aspirin·항혈전제 재개 시점 확인, _H. pylori_ 재검·제균 확인, 빈혈 시 철분 보충, 위궤양은 치유 확인 내시경 일정 확인  <mark style="color:$info;">\[Endoscopy 2026; Am J Gastroenterol 2021, 2022]</mark>
 
 ***
 
@@ -439,16 +430,16 @@ flowchart TD
 > **처방례 1. 십이지장궤양 (경증,&#x20;**_**H. pylori**_**&#x20;음성 또는 제균 완료 후)**
 >
 > ```
-> 란스톤 15 ㎎/C    1C  qd  (아침 식전 30~60분)          ×28일
-> 알마겔현탁액 15 ㎖/P   1P  식후 30분~1시간 필요시 (최대 tid + 취침 시 1회)
+> 란스톤캡슐 15 ㎎/C    1C  qd  (아침 식전 1시간)             ×28일
+> 알마겔현탁액 15 ㎖/P   1P  식후 1시간 필요시 (최대 tid + 취침 시 1회)
 > ```
 >
-> _✽lansoprazole 15 ㎎ qd 4주 투여 후 반응 평가; 제산제는 증상이 있을 때만 단기 보조 사용하며 다른 경구약과의 복용 간격·신기능을 고려. H. pylori 양성이면 국내 지침과 감수성·항생제 노출력에 따라 선택한 제균요법 병행._
+> _✽lansoprazole 15 ㎎ qd 4주 투여 후 반응 평가; 제산제는 증상이 있을 때만 단기 보조 사용. 알마겔은 란소프라졸 및 흡수에 영향을 받는 다른 경구약과 2\~3시간 간격을 두고 복용하며 신기능을 고려. 본 처방례의 란소프라졸 식전 1시간·알마겔 식후 1시간 일정은 두 약의 2시간 간격을 확보하기 위한 예시임. Tetracycline계 항생제를 포함한 제균요법 중에는 알마겔을 병용하지 않음. H. pylori 양성이면 국내 지침과 감수성·항생제 노출력에 따라 선택한 제균요법 병행._
 
 > **처방례 2. 위궤양 (표준 치료)**
 >
 > ```
-> 판토록 40 ㎎/T     1T  qd  (아침 식전 30~60분)          ×28일
+> 판토록정 40 ㎎/T     1T  qd  (아침 식전 30~60분)          ×28일
 > ```
 >
 > _✽pantoprazole 40 ㎎ qd 4주 투여 후 재평가하고 필요하면 4주 연장. 통상 진단·치료 시작 후 약 6\~8주(치료 종료 무렵)에 추적 내시경으로 치유와 악성 가능성을 확인. H. pylori 검사 필수._
@@ -456,7 +447,7 @@ flowchart TD
 > **처방례 3. 위궤양 (허가된 P-CAB 선택)**
 >
 > ```
-> 케이캡 50 ㎎/T     1T  qd  (식사 무관)           ×56일
+> 케이캡정 50 ㎎/T     1T  qd  (식사 무관)           ×56일
 > ```
 >
 > _✽tegoprazan 50 ㎎ qd 8주는 위궤양 허가 용법; 식전 복용이 어려운 환자 등에서 고려. PPI 반응이 불충분하면 변경 전에 복약 순응도·NSAID 지속·H. pylori·악성 가능성을 재평가. Clopidogrel 병용 시에는 P-CAB을 계열 전체의 안전한 대안으로 간주하지 말고 성분별 상호작용 확인. 추적 내시경 필요._
@@ -464,27 +455,27 @@ flowchart TD
 > **처방례 4. 궤양 치유 후 NSAID 재투여가 불가피한 고위험 환자 - 재발 예방**
 >
 > ```
-> 쎄레브렉스 100 ㎎/C   1C  bid  (식사 무관)       ×28일
-> 넥시움 20 ㎎/T        1T  qd   (아침 식전 30~60분)       ×28일
+> 쎄레브렉스캡슐 100 ㎎/C   1C  bid  (식사 무관)       ×28일
+> 넥시움정 20 ㎎/T        1T  qd   (아침 식전 30~60분)       ×28일
 > ```
 >
 > _✽활동성 궤양·출혈이 없고 치유가 확인된 후의 예방 처방. Celecoxib는 활동성 소화성 궤양·위장관 출혈 환자에게 금기이며 PPI 병용으로 이 금기가 해제되지 않음. 허혈성 심질환·말초동맥질환·뇌혈관질환·NYHA II\~IV 심부전 등 celecoxib 금기를 배제하고 신기능을 평가한 뒤 반드시 필요한 경우에만 최저 유효 용량·최단 기간 사용함. Aspirin·DOAC 병용 시 NSAID 회피를 우선 재검토하며 PPI를 병용해도 출혈 위험이 없어지는 것은 아님._
 
-> **처방례 5. NSAID 복용이 불가피한 환자의 PUD 예방 (허가된 P-CAB 병용)**
+> **처방례 5. 지속적인 NSAID 투여가 필요한 소화성궤양 고위험 환자의 예방 (허가된 P-CAB 병용)**
 >
 > ```
-> 낙센 250 ㎎/T          1T  bid  pc               ×28일
-> 펙수클루 20 ㎎/T       1T  qd   (식사 무관)      ×28일
+> 낙센정 250 ㎎/T          1T  bid  pc               ×28일
+> 펙수클루정 20 ㎎/T       1T  qd   (식사 무관)      ×28일
 > ```
 >
-> _✽활동성 궤양·출혈이 없고 선택한 naproxen 제품의 금기에 해당하지 않는 예방 환자의 예시임. 과거 궤양·출혈 병력 관련 금기도 제품별로 확인하며, 매우 높은 GI 위험에서는 NSAID 회피 또는 적합한 COX-2 억제제+PPI 전략을 우선 검토. Fexuprazan 20 ㎎ qd는 NSAID 유도성 위·십이지장궤양 예방 용법이며 활동성 궤양 치료 처방과 구분함. 허가 용법에 24주가 명시되어 있으나 NSAID 투여가 끝난 뒤까지 예방약을 일률적으로 지속할 필요는 없음. 예시는 4주 처방 후 NSAID 지속 필요성과 위험을 재평가하는 일정임. NSAID는 적응증에 맞는 최저 유효 용량·최단 기간으로 사용하며, 심혈관·신장 위험과 aspirin·항응고제 병용 여부를 먼저 평가._
+> _✽활동성 궤양·출혈이 없고, 지속적인 NSAID 투여가 필요하며 궤양·출혈 병력, 고령, 위험 약물 병용 등 소화성궤양 고위험 인자가 있는 환자의 예시임. 선택한 naproxen 제품의 금기에 해당하지 않아야 함. 과거 궤양·출혈 병력 관련 금기도 제품별로 확인하며, 매우 높은 GI 위험에서는 NSAID 회피 또는 적합한 COX-2 억제제+PPI 전략을 우선 검토. Fexuprazan 20 ㎎ qd는 NSAID 유도성 위·십이지장궤양 예방 용법이며 활동성 궤양 치료 처방과 구분함. 허가 용법에 24주가 명시되어 있으나 NSAID 투여가 끝난 뒤까지 예방약을 일률적으로 지속할 필요는 없음. 예시는 4주 처방 후 NSAID 지속 필요성과 위험을 재평가하는 일정임. NSAID는 적응증에 맞는 최저 유효 용량·최단 기간으로 사용하며, 심혈관·신장 위험과 aspirin·항응고제 병용 여부를 먼저 평가._
 
-> **처방례 6. Clarithromycin 감수성 확인 환자 - Tegoprazan 기반 3제 (국내 허가 용법)**
+> **처방례 6. Clarithromycin 감수성 확인 환자 - Tegoprazan 기반 3제 (허가 용법)**
 >
 > ```
-> 케이캡 50 ㎎/T             1T  bid  (식사 무관)       7일
-> 아목시실린 500 ㎎/T         2T  bid  (식후)            7일
-> 클래리시드 250 ㎎/T        2T  bid  (식후)            7일
+> 케이캡정 50 ㎎/T             1T  bid  (식사 무관)       7일
+> 아목시실린 500 ㎎/C         2C  bid  (식후)            7일
+> 클래리시드정 250 ㎎/T        2T  bid  (식후)            7일
 > ```
 >
 > _✽Tegoprazan 50 ㎎ bid 기반 3제 요법의 허가 기간은 7일이며, 2025 개정 지침도 clarithromycin 감수성 균주에 7일 3제를 권고함. 국내 연구에서는 14일 요법의 제균율이 더 높았으나 현 허가 용법과 구분해야 함. 본 예시는 clarithromycin 감수성이 확인된 환자에 적용함. Penicillin·macrolide 알레르기, 신기능에 따른 항생제 감량, QT 연장 및 CYP3A4 관련 병용금기·주의를 확인. 감수성 미확인 환자에게 경험적 1차 선택으로 일률 적용하지 않으며 국내 지침의 동시 4제 등 다른 권고 요법을 검토함. 제균 후 산 억제제는 GU·합병성 궤양 등에서 총 치유 기간을 충족하도록 투여하고, 제균 종료 최소 4주 후 성공 여부를 확인._
@@ -497,6 +488,7 @@ flowchart TD
 >
 > * 대부분의 PPI (예: 넥시움, 란스톤, 판토록)는 **아침 식사 30\~60분 전**에 복용하면 효과가 가장 좋습니다. 하루 2회 처방된 경우에는 아침·저녁 식사 전에 복용합니다.
 > * P-CAB (예: 케이캡, 펙수클루)는 식사와 무관하게 복용할 수 있습니다.
+> * 알마겔현탁액을 함께 처방받았다면 란소프라졸 및 흡수에 영향을 받는 다른 약과 2\~3시간 간격을 두십시오. 테트라사이클린계 항생제를 포함한 제균 치료 중에는 알마겔을 함께 복용하지 마십시오.
 > * **의사가 정한 치료 기간을 지키십시오.** 위궤양은 통상 4\~8주, 십이지장궤양은 약에 따라 2\~4주부터 평가하지만 궤양의 크기·원인·합병증에 따라 더 오래 필요할 수 있습니다. 증상만으로 중단 시점을 정하지 마십시오.
 > * 특히 장기간 복용 후 중단하면 일시적인 속쓰림이 생길 수 있습니다. 정해진 궤양 치료를 마친 뒤의 감량·중단은 의사의 계획에 따르십시오.
 
@@ -525,7 +517,7 @@ flowchart TD
 > * **검은 변(흑색변), 피가 섞인 토사물** → 즉시 응급실
 > * **갑자기 심해지는 복통, 복부 경직** → 즉시 응급실 (천공 가능성)
 > * **어지럼증·실신·빠른 맥박** 동반 → 즉시 응급실
-> * 예정된 재평가 시점에도 호전이 없거나 증상이 다시 나빠지는 경우 - 내원; 악화되면 4\~8주를 기다리지 않음
+> * 예정된 재평가 시점에도 호전이 없거나 증상이 다시 나빠지는 경우 → 내원; 악화되면 4\~8주를 기다리지 않음
 > * 반복 구토로 물도 마실 수 없거나 현저한 탈수·쇠약이 생긴 경우 → 즉시 진료·필요시 응급실
 > * 약 복용 후 호흡곤란·입술 또는 혀의 부종·실신 → 복용 중단 후 즉시 119 또는 응급실; 새 황달·심한 전신 발진 → 중단 후 당일 진료
 > * 위궤양 치료 완료 후 추적 내시경 일정 준수; 헬리코박터 제균 확인 검사 일정 준수
@@ -544,7 +536,7 @@ flowchart TD
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC7667931/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7667931/)
 
-* <mark style="color:$info;">Gralnek IM, et al. Endoscopic diagnosis and management of peptic ulcer bleeding: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2026. Endoscopy. 2026;58:899-924. - 수혈 기준, erythromycin, 내시경 시점, OTS clip, Forrest IIb, 지혈 후 산 억제·철분·조기 경구 섭취.</mark>
+* <mark style="color:$info;">Gralnek IM, et al. Endoscopic diagnosis and management of peptic ulcer bleeding: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2026. Endoscopy. 2026;58:899-924. - 수혈 기준, 내시경 시점, 지혈 후 산 억제, 철분 보충.</mark>
 
 [https://doi.org/10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)
 
@@ -572,10 +564,6 @@ flowchart TD
 
 [https://doi.org/10.1186/s13017-019-0283-9](https://doi.org/10.1186/s13017-019-0283-9)
 
-* <mark style="color:$info;">Jue TL, et al. ASGE guideline on the role of endoscopy in the management of benign and malignant gastroduodenal obstruction. Gastrointest Endosc. 2021;93:309-322. - 양성 궤양성 협착의 내시경·수술 치료 선택.</mark>
-
-[https://pubmed.ncbi.nlm.nih.gov/33168194/](https://pubmed.ncbi.nlm.nih.gov/33168194/)
-
 * <mark style="color:$info;">Lanza FL, et al. Guidelines for prevention of NSAID-related ulcer complications. Am J Gastroenterol. 2009;104:728-738. - NSAID 관련 위장관 위험의 3단계 분류; 국내 2020 지침과 함께 해석.</mark>
 
 [https://doi.org/10.1038/ajg.2009.115](https://doi.org/10.1038/ajg.2009.115)
@@ -583,6 +571,10 @@ flowchart TD
 * <mark style="color:$info;">NICE CG184. Gastro-oesophageal reflux disease and dyspepsia in adults. - 원인별 궤양 치료 및 치료 기간 개별화.</mark>
 
 [https://www.nice.org.uk/guidance/cg184/chapter/Recommendations](https://www.nice.org.uk/guidance/cg184/chapter/Recommendations)
+
+* <mark style="color:$info;">UK Teratology Information Service (UKTIS). Use of Proton Pump Inhibitors (PPIs) in Pregnancy. July 2025, Version 4. - 임신 중 PPI 사용과 omeprazole의 안전성 근거.</mark>
+
+[https://uktis.org/monographs/use-of-proton-pump-inhibitors-ppis-in-pregnancy/](https://uktis.org/monographs/use-of-proton-pump-inhibitors-ppis-in-pregnancy/)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -595,7 +587,7 @@ flowchart TD
 
 [https://www.hira.or.kr/bbsDummy.do?brdBltNo=12315\&brdScnBltNo=4\&pgmid=HIRAA020002000100](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12315\&brdScnBltNo=4\&pgmid=HIRAA020002000100)
 
-* <mark style="color:$info;">식품의약품안전처. 넥시움정20밀리그램·펙수클루정40밀리그램·맥페란주사액2밀리리터·데놀정·싸이토텍정200마이크로그램 품목허가사항(2026.11.2 확인) - 용량·추가 적응증·국내 금기 및 지침과의 차이. 의약품 링크는 위 의약품안전나라 총괄 링크 참조.</mark>
+* <mark style="color:$info;">식품의약품안전처. 넥시움정20밀리그램·펙수클루정40밀리그램·싸이토텍정200마이크로그램 품목허가사항(2026.11.2 확인) - 용량·추가 적응증·금기 및 지침과의 차이. 의약품 링크는 위 의약품안전나라 총괄 링크 참조.</mark>
 
 ***
 
@@ -632,6 +624,7 @@ flowchart TD
 * 위궤양은 통상 **4\~8주**, 십이지장궤양은 약에 따라 **2\~4주부터 치료 반응을 평가**합니다. 원인·크기·합병증에 따라 더 오래 복용하거나 제균 후 추가 약이 필요할 수 있으므로 의사가 정한 기간을 지키십시오.
 * **헬리코박터균이 있다면 처방된 기간(요법에 따라 7\~14일) 동안 제균 치료**가 필요합니다. 항생제·비스무트 종료 최소 4주 후 제균 확인검사를 받고, PPI·P-CAB은 검사 전 최소 2주 중단해야 하므로 의사와 일정을 정하십시오. 궤양 치유 약을 검사 때문에 임의로 중단하지 마십시오. 메트로니다졸이 포함되면 복용 중과 마지막 복용 후 3일간 금주하십시오.
 * **위궤양은 치료 후 내시경 추적 검사**를 받아야 합니다. 증상이 없어도 치유 여부를 확인해야 하며, 의사가 지정한 일정(보통 진단·치료 시작 후 약 6\~8주)을 꼭 지켜주세요.
+* 임신 중이거나 임신 계획이 있으면 미리 알려 주세요. 일부 위장약과 제균 치료 약은 임신 중에 쓰지 않거나 출산 후로 미룹니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 응급실로 가세요</mark>
 
