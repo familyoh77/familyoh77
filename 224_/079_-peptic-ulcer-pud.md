@@ -4,18 +4,18 @@
 
 * 위 또는 십이지장 점막의 결손이 점막근층(muscularis mucosae)을 넘어 침범한 병변
   * 내시경상 통상 직경 5 ㎜ 이상인 점막 결손을 궤양으로 정의
-* 위궤양 (gastric ulcer, GU) : 위점막 방어기전 손상이 주된 기전
+* 위궤양 (gastric ulcer, GU) : 위점막 방어기전 저하가 주된 기전
   * 십이지장궤양보다 상대적으로 고령에서 흔함
-* 십이지장궤양 (duodenal ulcer, DU) : _H. pylori_ 감염 감소와 제균 치료 보급 이후 감소 추세
-  * 상대적으로 젊은 연령에서 흔하나 연령만으로 GU와 구분할 수 없음;&#x20;
-* 본 장의 소화성 궤양은 위궤양과 십이지장궤양을 대상으로 함; 식도궤양은 GERD·약제·감염 등 원인과 접근법이 달라 별도로 다룸
-* refractory peptic ulcer : 적절한 PPI 표준 용량으로 8\~12주 치료 후에도 내시경적으로 완전히 치유되지 않은 궤양; 증상 지속만으로 불응성 궤양으로 판단하지 않음
-* recurrent peptic ulcer : 완전한 내시경적 치유 이후 다시 발생
+* 십이지장궤양 (duodenal ulcer, DU) : 십이지장 내 산 부하 증가와 점막 방어기전 저하가 주요 기전
+  * _H. pylori_ 감염 감소와 제균 치료 보급 이후 감소 추세
+  * 상대적으로 젊은 연령에서 흔하나 연령만으로 GU와 구분할 수 없음
+* Refractory peptic ulcer : 적절한 PPI 표준 용량으로 8\~12주 치료 후에도 내시경적으로 완전히 치유되지 않은 궤양; 증상 지속만으로 불응성 궤양으로 판단하지 않음
+* Recurrent peptic ulcer : 완전한 내시경적 치유 이후 다시 발생
 
 #### <mark style="color:$primary;">역학</mark>
 
 * 국내 소화성 궤양의 빈도와 원인 분포는 조사 시기·대상 및 NSAID/aspirin 사용에 따라 다름. _H. pylori_ 관련 궤양은 감소하는 반면 고령자와 약제 연관 궤양의 임상적 중요성이 커지고 있음
-* NSAID 장기 사용 시 내시경적 궤양과 출혈·천공 위험이 증가하며, 과거 출혈성 궤양·고령·고용량·항혈전제 병용에서 위험이 특히 높음. 내시경적 궤양의 빈도와 임상적 합병증 발생률을 구분
+* NSAID 장기 사용자에서 내시경적 궤양은 약 15\~30%에서 발견되나, 출혈·천공 등 임상적 합병증은 연간 약 1\~2%로 훨씬 적음. 과거 출혈성 궤양·고령·고용량·항혈전제 병용에서 위험이 특히 높음 <mark style="color:$info;">\[Am J Gastroenterol 2009]</mark>
 * 경과 : 적절한 위산 억제 치료와 원인 교정으로 대부분 치유되며, _H. pylori_ 제균 성공 시 재발과 재출혈 위험이 크게 감소
 * 주요 합병증 : 출혈(선행 증상 없이 발생 가능), 천공·관통, 위 배출구 폐쇄
   * refractory/recurrent ulcer에서는 합병증 발생 가능성을 반드시 고려
@@ -32,7 +32,7 @@
 #### <mark style="color:$primary;">주요 원인</mark>
 
 * _H. pylori_ 감염 : NSAID/aspirin과 함께 소화성 궤양의 주요 원인. 감염 동반률은 조사 시기·대상과 궤양 부위에 따라 다름
-* NSAID/aspirin : *H. pylori*와 독립적이며 상가적 위험 인자
+* NSAID/aspirin : _H. pylor&#x69;_&#xC640; 독립적이며 상가적 위험 인자
   * 비선택적 NSAID는 COX-1 억제로 prostaglandin 합성 감소 → 점막 방어력 저하
   * 국소(직접 점막 손상)와 전신(prostaglandin 억제) 두 가지 경로로 작용
   * 저용량 아스피린(LDA) 단독도 고령에서 의미 있는 PUD/출혈 위험 인자; 과거 궤양 병력 또는 항응고제 병용 시 위험 현저히 증가
@@ -148,41 +148,11 @@
 ***
 
 ```mermaid
-flowchart TD
-    A["소화성 궤양 의심"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
-    B -- "예" --> C["<u>응급 평가·안정화</u><br/>•출혈: 내시경 평가<br/>•천공: CT·외과 평가"]
-    B -- "아니오" --> D["내시경 적응증?<br/>경고 증상·40세 이상 새 증상·고위험"]
-    D -- "예" --> E["상부위장관 내시경<br/>GU는 변연·기저 생검"]
-    D -- "아니오" --> F["<i>H. pylori</i> 비침습적 검사"]
-    E --> T["PUD 확인?"]
-    T -- "아니오" --> V["FD·GERD 등<br/>감별·치료 단계로"]
-    T -- "예" --> U["<u>소화성 궤양 치료</u><br/>•원인 약물 교정·산 억제제<br/>•<i>H. pylori</i> 양성 시 제균"]
-    U --> M["위궤양?"]
-    M -- "예" --> N["치료 시작 약 6~8주 후<br/>치유 확인 내시경·생검"]
-    M -- "아니오" --> O["십이지장궤양<br/>증상·합병증에 따라 추적"]
-    F --> G["유효한 검사에서<br/><i>H. pylori</i> 양성?"]
-    G -- "예" --> H["지침·감수성에 따른 제균"]
-    G -- "아니오" --> I["필요한 원인 약물 교정<br/>또는 경험적 PPI 치료"]
-    H --> L1["제균 성공 확인·증상 평가<br/>지속·재발 시 내시경 검토"]
-    I --> L2["반응 평가<br/>지속·재발 시 내시경 검토"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style U fill:#e3f2ff,stroke:#2196f3
-    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D,T,M,G question
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class H,I sky
-    classDef test fill:#e8f5e9,stroke:#81c784
-    class E,F,N,L1,L2 test
-    classDef neutral fill:#eeeeee,stroke:#888888
-    class O neutral
-    style V fill:#e8eaf6,stroke:#9fa8da
 ```
 
 <p align="center"><strong>소화성 궤양 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Endoscopy 2026; Korean J Gastroenterol 2026; Frontline Gastroenterol 2025)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Endoscopy 2026; Korean J Gastroenterol 2026;</mark></em> <br><em><mark style="color:$info;">Frontline Gastroenterol 2025)</mark></em></p>
 
 > NSAID·aspirin·항혈전제 복용력은 모든 경로에서 평가함. 제균한 환자는 경로와 관계없이 치료 종료 최소 4주 후, PPI/P-CAB을 2주 중단한 상태에서 UBT 또는 대변 항원검사로 성공 여부를 확인함.
 
@@ -317,31 +287,11 @@ Clopidogrel 복용 환자에서 omeprazole·esomeprazole은 CYP2C19 억제로 cl
 ***
 
 ```mermaid
-flowchart TD
-    A["NSAID 투여 필요"] --> B["대체 가능?"]
-    B -- "예" --> C["acetaminophen·국소 치료 등<br/>대체 전략"]
-    B -- "아니오" --> D["GI 위험과 심혈관·신장 위험 평가"]
-    D --> E["심혈관·신장 위험도 높음?"]
-    E -- "예" --> G["<u>가능하면 NSAID 회피</u><br/>•불가피하면 약제·용량 개별화<br/>•PPI 필요성 평가"]
-    E -- "아니오" --> F["GI 고위험?"]
-    F -- "예" --> H["가능하면 NSAID 회피<br/>불가피하면 COX-2 억제제 + PPI"]
-    F -- "아니오" --> I["GI 위험 인자 1~2개?"]
-    I -- "예" --> J["COX-2 억제제 단독 또는<br/>비선택적 NSAID + PPI"]
-    I -- "아니오" --> K["비선택적 NSAID<br/>최저 용량·최단 기간"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,E,F,I question
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class C,G,H,J,K sky
-    style D fill:#e8f5e9,stroke:#81c784
 ```
 
-<p align="center"><strong>NSAID 관련 소화성 궤양 예방 전략</strong></p>
+> _장기 사용 전에는 H. pylori 검사 후 양성이면 제균하고, 사용 중에는 적응증과 위험을 정기적으로 재평가함_
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Gut Liver 2020; Am J Gastroenterol 2009)</mark></em></p>
-
-> 장기 사용 전에는 _H. pylori_ 검사 후 양성이면 제균하고, 사용 중에는 적응증과 위험을 정기적으로 재평가함.
+<p align="center"><strong>NSAID 관련 소화성 궤양 예방 전략</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Gut Liver 2020; Am J Gastroenterol 2009)</mark></em></p>
 
 ***
 
@@ -423,7 +373,7 @@ flowchart TD
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 십이지장궤양 (경증, _H. pylori_ 음성 또는 제균 완료 후)**
+> **처방례 1. 십이지장궤양 (경증,&#x20;**_**H. pylori**_**&#x20;음성 또는 제균 완료 후)**
 >
 > ```
 > 란스톤 15 ㎎/C    1C  qd  (아침 식전 30~60분)          ×28일
@@ -523,7 +473,7 @@ flowchart TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* <mark style="color:$info;">Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of _Helicobacter pylori_ Infection in Korea: 2025 Revised Edition. Korean J Gastroenterol. 2026;86:156-192. - 감수성 기반 맞춤 치료, 동시 4제·bismuth 요법 선택, P-CAB 대체.</mark>
+* <mark style="color:$info;">Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">Infection in Korea: 2025 Revised Edition. Korean J Gastroenterol. 2026;86:156-192. - 감수성 기반 맞춤 치료, 동시 4제·bismuth 요법 선택, P-CAB 대체.</mark>
 
 [https://doi.org/10.4166/kjg.2026.040](https://doi.org/10.4166/kjg.2026.040)
 
@@ -547,7 +497,7 @@ flowchart TD
 
 [https://www.asge.org/docs/default-source/education/practice\_guidelines/doc-the-role-of-endoscopy-in-the-management-of-patientswith-peptic-ulcer-disease.pdf](https://www.asge.org/docs/default-source/education/practice_guidelines/doc-the-role-of-endoscopy-in-the-management-of-patientswith-peptic-ulcer-disease.pdf)
 
-* <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of _Helicobacter pylori_ Infection. Am J Gastroenterol. 2024;119:1730-1753. - 미국의 감수성 미확인 감염 치료 원칙; 국내 지침·허가와 구분.</mark>
+* <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">Infection. Am J Gastroenterol. 2024;119:1730-1753. - 미국의 감수성 미확인 감염 치료 원칙; 국내 지침·허가와 구분.</mark>
 
 [https://doi.org/10.14309/ajg.0000000000002968](https://doi.org/10.14309/ajg.0000000000002968)
 
