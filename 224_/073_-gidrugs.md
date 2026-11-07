@@ -69,7 +69,7 @@
 
 <mark style="color:$info;">\[RCOG 2024; NICE NG201; UKTIS 2024\~2026; 품목 허가사항]</mark>
 
-## <mark style="color:green;">위장 운동 촉진제 (GI prokinetic agent)</mark>
+## <mark style="color:green;">위장 운동 촉진제 (Prokinetics)</mark>
 
 * 투여 시간 : 성분·제형별로 다름
   * 일반적으로 식전 복용 - 식후 위 배출과 증상에 대비, 일부 약제에서 음식에 의한 흡수 지연을 피함
@@ -414,7 +414,7 @@
   * 과량 사용 시 QT 연장·torsades de pointes·심정지 위험
 * **diphenoxylate**/**atropine** : 중추 억제·항콜린 이상반응이 있어 일반 외래의 선택지로 제시하지 않음(해외 지침 - 성인 최대 20 ㎎/d)
 
-### <mark style="color:orange;">진경제 (GI antispasmodic</mark><mark style="color:orange;">)</mark>
+### <mark style="color:orange;">진경제 (GI antispasmodic)</mark>
 
 * 작용 : 복통·복부 불편감 호전
 * 용법 : 성분별로 다름. 항콜린성 진경제는 식전 또는 필요시 사용하며, pinaverium은 식사 중 충분한 물과 함께 복용 (☞ [진경제](073_-gidrugs.md#gi-antispasmodic))
