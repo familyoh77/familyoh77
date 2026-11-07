@@ -164,7 +164,7 @@ graph TD
 
 <table><thead><tr><th width="180">유형</th><th>초기 치료 및 추가 조치</th></tr></thead><tbody><tr><td><strong>포도알균성 전-안검염</strong></td><td>눈꺼풀 세척; 중등도 이상 또는 위생 관리에 반응하지 않으면 국소 항생제 고려. 각막 침범 의심 시 당일 안과 의뢰</td></tr><tr><td><strong>지루성 안검염</strong></td><td>눈꺼풀 세척과 함께 두피·눈썹·안면의 지루피부염 치료</td></tr><tr><td><strong>접촉피부염성 안검염</strong></td><td>의심되는 안약·보존제·화장품·세안제·속눈썹 접착제 중단; 지속·중증이면 피부과 patch test 또는 안과·피부과 의뢰</td></tr><tr><td><strong>MGD/ocular rosacea</strong></td><td>온찜질·마사지, 동반 안구건조증 치료; 지속되는 중등도~중증에서는 경구 doxycycline 또는 azithromycin 고려. 난치성은 안과에서 IPL·thermal pulsation 등 선택</td></tr><tr><td><strong>Demodex 안검염</strong></td><td>collarette 확인 후 구충 표적치료가 원칙이나, lotilaner 0.25% 점안액은 미허가이므로 안과 의뢰 후 대체치료를 검토</td></tr><tr><td><strong>염증이 심한 불응형</strong></td><td>진단을 재평가하고 안과 의뢰; 각막 침범·헤르페스 등 금기 질환을 배제한 뒤 필요한 경우 국소 스테로이드·항생제/스테로이드 복합제는 최단기간 사용하고, 동반 건성각결막염 등에는 면역조절 점안제를 개별적으로 고려</td></tr></tbody></table>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질(따뜻한 물수건) : 눈꺼풀 테두리 세정 보조 및 MGD 지질층 개선; 1일 1\~2회(필요시 증가), 매회 5\~10분 적용
   * 온도 유지 : 40\~43°C. 매일 유지 가능한 현실적 시간으로 설정; 아이마스크형 팩 활용 시 편의성 향상
@@ -176,7 +176,7 @@ graph TD
 * MGD에서는 온찜질 → 마사지 → 가장자리 세척 순서로 시행하면 연화된 분비물을 제거하기 편리하지만, 환자가 장기적으로 유지할 수 있는 방법과 횟수로 조정
 * 접촉피부염 의심 시 원인 제품 중단; 금연, 증상 중 눈 화장 회피(특히 수성선 안쪽 아이라이너), 콘택트렌즈로 악화되면 일시 중단
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제</mark>
 

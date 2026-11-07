@@ -211,7 +211,7 @@ graph TD
 * SBP와 DBP가 다른 범주이면 높은 범주 적용; 급성 장기손상 의심 증상은 Red Flags에 따라 평가함
 * 밤중에 일어설 때 저혈압·낙상 위험을 안내하고, 취침 전 약물 조정 후 아침 기립혈압 재평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">자세·행동 교정</mark>
 
@@ -243,7 +243,7 @@ graph TD
 * 카페인의 효과는 일관되지 않으므로 routine 권고하지 않으며, 수면·부정맥·혈압을 고려하여 오전에 제한적으로 고려
 * 비약물 치료에도 실신·낙상이 반복되는 중증 자율신경부전 환자에서는 전문 진료하에 약물 치료를 고려
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 아래 용법은 성인 기준임
 

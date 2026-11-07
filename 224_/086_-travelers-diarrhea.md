@@ -140,7 +140,7 @@ graph TD
    * 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
    * 만성·지속성 증상 : 귀국 후 지속 설사 접근법 표 참조
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">수분 및 영양 보충</mark>
 
@@ -203,7 +203,7 @@ graph TD
 <table><thead><tr><th width="186">품목</th><th>용도</th></tr></thead><tbody><tr><td>휴대용 ORS 파우치</td><td>탈수 방지·치료(1순위); 정확한 조제용 물의 양 확인</td></tr><tr><td>loperamide</td><td>무발열·무혈변 성인 설사 조절; 발열·혈변 시 중단·진료</td></tr><tr><td>azithromycin</td><td>중증, 이질성 또는 발열성 설사; 동남아 여행 시 우선</td></tr><tr><td>rifaximin</td><td>선별된 여행자에서 비침습성 수양성 설사의 대안; 발열·혈변 시 사용 금지</td></tr><tr><td>항구토제 ODT</td><td>선별된 환자에서 제한적으로 고려(허가 외 사용과 QT 위험 설명)</td></tr><tr><td>체온계</td><td>발열 여부와 중증도 판단</td></tr><tr><td>알코올 손 소독제</td><td>비누·물이 없을 때 보조적으로 사용</td></tr><tr><td>diosmectite</td><td>성인 선택적 대증 치료; 만 19세 미만 소아·청소년 사용 제한, 임부·임신 가능성이 있는 여성·수유부 금기, 다른 경구약과 2시간 이상 간격</td></tr></tbody></table>
 
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">특수 환자군</mark>
 

@@ -114,7 +114,7 @@ graph TD
   * 전형적 GERD 증상이 있으면 GERD 치료는 별개로 시행
 * 원인 및 악화 요인 제거가 가장 중요한 치료
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 음성 보존(relative voice rest) : 큰 소리·노래·장시간 통화·무리한 발성을 피하고, 필요한 말만 힘주지 않은 평소의 편안한 음정과 크기로 짧게 함 (☞ [목쉼](../222_/058_-hoarseness.md#undefined-11))
   * 속삭이기도 일부 환자에서는 후두 긴장을 높일 수 있으므로 피함
@@ -133,7 +133,7 @@ graph TD
   * 증상 지속 시 처방의와 상의하여 최소 유효 용량·제형 조절 및 후두경 검사 검토
 * 개인위생 : 손 씻기, 호흡기 질환 예방
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 통증·기침·콧물 : 대증 치료 (☞ [인후통](061_-acute-pharyngitis.md#undefined-14), [기침](../220_/006_-cough.md#management), [감기](060_-common-cold.md#management))
 * 항생제 : 후두염 단독으로는 원칙적으로 불필요

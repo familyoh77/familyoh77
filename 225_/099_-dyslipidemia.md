@@ -391,7 +391,7 @@ _✽위험군 명칭·대상·권고 강도가 서로 다르므로 동일 명칭
 
 _✽본 표는 저자가 여러 가이드라인 원문을 비교·요약한 것임(저자 편집). 개별 가이드라인의 세부 권고 등급(Class/Level of Evidence)은 원문 확인 필요._
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : 모든 형태의 담배/흡연 금지
 * 식이 : 포화지방산 제한; 전곡류, 채소, 과일, 생선 권장
@@ -436,7 +436,7 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
 4. **체중 및 음주 관리 단계** : 과체중·비만에서는 초기 6개월 체중 5\~10% 감량을 목표로 개별화하고 허리둘레·대사 지표 개선을 평가(복부비만 기준: 남 ≥90 ㎝, 여 ≥85 ㎝), 음주는 HDL 상승 효과보다 전체 심혈관 위험을 고려하여 절주 또는 금주 권장
 5. **추적 및 강화 단계** : 생활습관 단독 중재는 약 3~~6개월 후, 약물 시작·용량 변경은 4~~12주 후 지질 재평가, 개선 미흡 시 영양사·운동 전문가 연계, 필요 시 약물치료 병행
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">약물 치료 방침</mark>
 

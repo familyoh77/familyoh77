@@ -169,7 +169,7 @@ graph TD
 **단계별 치료 전략(Step-wise Approach)** : 생활습관 개선이 모든 치료의 근간이지만 약물치료가 필요한 고혈압·당뇨병·이상지질혈증·비만 등을 단순히 "대사증후군"이라는 이유로 지연하지 않음
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * [금연](../230_/190_-smoking.md), 음주는 시작을 권하지 않으며 가능한 한 줄이거나 피하도록 권고(☞ [음주](../230_/189_-alcohol-use-disorder.md))
 * 신체 활동 : 주 150\~300분 중등 강도 또는 75\~150분 고강도 유산소 운동 + 주 2일 이상 근력 운동; 장시간 좌식 시간을 줄임(☞ [운동지침](../231_/216_-physical-activity-guideline.md))
@@ -184,7 +184,7 @@ graph TD
   * 칼륨이 풍부한 식품은 혈압 관리에 도움이 될 수 있으나 CKD·고칼륨혈증 위험에서는 개별화; Vit A/B/E 등 항산화 비타민 보충제를 대사증후군 치료 목적으로 일률적으로 권고할 근거는 부족
 * 수면·행동 중재 : 규칙적인 수면 시간과 충분한 수면을 확보하고, 코골이·무호흡·주간 졸림이 있으면 OSA 평가. 스트레스 관리·행동 상담과 식사·운동·체중 기록을 활용하여 중재를 지속
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">비만</mark>
 

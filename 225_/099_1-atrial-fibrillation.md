@@ -152,7 +152,7 @@ class Followup,Cardiovert,TEE,Reassess blue
 AF를 단순히 "있다/없다"로만 보지 않고, 모니터링 기간 동안 AF가 차지하는 시간 또는 에피소드의 지속시간을 함께 평가하는 개념임. AF burden은 혈전색전 위험과 연관될 수 있으나, 임상적 AF에서 항응고 여부를 AF burden만으로 결정하지는 않음.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">C - Comorbidity and risk factor management</mark>
 
@@ -167,7 +167,7 @@ AF를 단순히 "있다/없다"로만 보지 않고, 모니터링 기간 동안 
 
 <table><thead><tr><th width="110">항목</th><th width="180">권장</th><th>비고</th></tr></thead><tbody><tr><td>체중</td><td>과체중·비만이면 10% 이상 감량 목표를 개별화</td><td>체중 감소가 AF burden 및 재발 감소와 연관</td></tr><tr><td>혈압</td><td>적절한 혈압 조절</td><td>뇌졸중 및 AF 위험인자 관리의 핵심</td></tr><tr><td>음주</td><td>금주 권장; 지속 시 순수 알코올 주 30 g 이하</td><td>음주량이 많을수록 AF 및 출혈 위험 증가</td></tr><tr><td>운동</td><td>중등도 규칙적 운동</td><td>과도한 장기 지구력 운동은 피하도록 권고</td></tr><tr><td>수면무호흡</td><td>선별 및 적절한 치료</td><td>치료가 AF 재발 감소와 연관될 수 있음</td></tr></tbody></table>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">A - Avoid stroke and thromboembolism : 뇌졸중 예방</mark>
 

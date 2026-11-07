@@ -182,7 +182,7 @@ flowchart TD
 * 수술은 서행성 변비를 객관적으로 확인하고 배변장애를 배제한 극히 일부 환자에서만 고려; 상부 위장관 운동장애·정신사회적 요인도 평가 <mark style="color:$info;">[AGA 2026]</mark>
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">식이 개선</mark>
 
@@ -213,7 +213,7 @@ flowchart TD
 * 근거 : 배변장애형 변비에서 하제 단독보다 우월한 효과; 배변장애가 확인되면 1차 치료로 권고
 * slow-transit constipation과 pelvic floor dysfunction이 병존하는 경우 바이오피드백 + 하제 병용
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 **1차 선택**

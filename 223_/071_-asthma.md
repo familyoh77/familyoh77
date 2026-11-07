@@ -582,7 +582,7 @@ flowchart LR
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 아래는 임상적 역할에 따른 약물 설명의 구성임. ICS-formoterol은 조절과 완화 역할을 함께 하므로, 성분·제형은 ICS-LABA 항목에서, AIR/MART의 실제 사용법은 완화 치료 및 단계별 치료 항목에서 설명
 

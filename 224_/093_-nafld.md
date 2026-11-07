@@ -264,7 +264,7 @@ class I sky
 MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 {% hint style="info" %}
 **과체중·비만 MASLD에서 지속적인 체중 감량은 핵심 비약물 치료임.** 정상체중·저체중·근감소증 환자는 영양 상태에 맞추어 개별화함. 약물치료 중에도 생활습관 중재를 지속함.
@@ -287,7 +287,7 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 **Coffee Pearl**: 커피 섭취(블랙 기준 약 2∼3잔/일)는 간섬유화 및 HCC 위험 감소와 관련이 있음. 설탕·시럽 첨가 음료 대신 블랙커피를 선택할 수 있음
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 약물치료는 약제별 허가 적응증과 근거를 구분하여 적용한다. 특히 비간경화 MASH + F2∼F3에서는 해외에서 resmetirom과 semaglutide 2.4 ㎎/주가 승인되어 있으나, 국내 허가 여부를 별도로 확인해야 함
   * T2DM·비만 치료가 필요한 경우 해당 적응증에 맞는 GLP-1 RA, tirzepatide, SGLT-2 억제제 등을 심혈관·신장·체중 이득까지 고려하여 선택

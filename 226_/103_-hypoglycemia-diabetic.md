@@ -225,7 +225,7 @@ _✽혈당 단위는 ㎎/㎗. 경구 포도당·주사 glucagon 용량은 성인
 * IV dextrose 및 octreotide 중단 후에도 지연 재발 가능. 치료 중단 뒤 일반적으로 최소 12시간 추가 관찰을 고려하며, 지속형 약제·대량 노출·신기능 저하·재발 시 더 길게 관찰. 정상 식사 상태에서 혈당이 유지되는지도 확인하며 12시간 경과만으로 일률 퇴원시키지 않음  <mark style="color:$info;">[RCH 중독 지침; 기관별 중독 프로토콜]</mark>
 * 소아는 SU 1정만 우발적으로 섭취해도 지연성 중증 저혈당이 가능하므로 현재 무증상·정상 혈당이어도 응급 평가·관찰  <mark style="color:$info;">[RCH 중독 지침]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 모든 insulin 사용자와 저혈당 위험이 있는 환자에게 증상·유발 요인·15분 원칙·중증 저혈당 대처에 대한 구조화 교육 제공; 주위 사람도 교육하고 당뇨 패찰 착용 고려
 * 규칙적 식사; insulin 또는 분비촉진제 사용 중 식사량·시간이 달라지면 약제 조정 계획을 사전에 교육
@@ -254,7 +254,7 @@ _✽혈당 단위는 ㎎/㎗. 경구 포도당·주사 glucagon 용량은 성인
 
 _✽ADA 2026 Table 6.7 재구성; 제시된 주기는 최소 권고이며 임상 판단에 따라 더 자주 시행_
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">경구 포도당·탄수화물</mark>
 

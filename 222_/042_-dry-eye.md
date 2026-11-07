@@ -201,7 +201,7 @@ graph TD
 * 난치성 질환에 대하여 항염제 고려
 * 복수의 병인이 동반되는 경우 복합 치료가 원칙 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 눈을 자주 깜박임; 화면 사용 중 의식적으로 깜빡임 빈도 유지
 * 자극을 피함 : 건조 환경, 대기 오염, 담배 연기, 햇빛
@@ -218,7 +218,7 @@ graph TD
 * 굴절교정술(라식·라섹 등) : 각막 신경 손상으로 건성안 악화 가능성이 있으므로 수술 전 안구건조증 평가 및 환자 교육 필요
 * 화면 사용 시 20-20-6 규칙 : 20분 사용 후 20초간 6미터 이상 먼 곳을 바라봄
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">인공 눈물, 윤활제</mark>
 

@@ -197,7 +197,7 @@ class T orange
 
 * 근거 확실성은 네트워크 메타분석 기준 <mark style="color:$info;">\[J Dent Res 2023]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 충분한 수분 섭취; 얼음 조각·냉수로 일시적 증상 완화
 * 자극 회피 : 알코올 함유 구강 세정제, SLS 함유 치약(SLS-free 치약으로 교체), 탄산음료·커피, 맵고 뜨겁고 신 음식
@@ -209,7 +209,7 @@ class T orange
 * 인지행동치료(CBT) : 통증 파국화, 불안·우울·수면장애 또는 일상기능 저하가 있을 때 고려
   * BMS 통증에 대한 근거는 소규모 연구 수준임을 설명 <mark style="color:$info;">\[J Dent Res 2023]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * BMS에 충분히 입증된 단일 약제는 없음
 * 아래 약제는 결핍 교정 목적의 영양 보충을 제외하면 모두 BMS에 대한 허가 적응증이 없는 허가 외 사용

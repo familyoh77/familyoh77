@@ -144,7 +144,7 @@ graph TD
 
 <table><thead><tr><th width="230">임상 유형</th><th>1차 접근</th></tr></thead><tbody><tr><td>급성 + 변비 우세</td><td>식이섬유 + 배변 조절 ± 대변연화제</td></tr><tr><td>급성 + 심한 통증 우세</td><td>배변 조절 + 단기간 국소마취제; 필요 시 좌욕</td></tr><tr><td>만성 + sentinel tag</td><td>국소 CCB 우선</td></tr><tr><td>CCB 실패 또는 불내성</td><td>NTG 또는 보툴리눔 독소 고려</td></tr><tr><td>재발 반복 / 변실금 고위험</td><td>보툴리눔 독소 또는 fissurectomy ± advancement flap 등 괄약근 보존 치료</td></tr><tr><td>난치성 / 변실금 저위험</td><td>Tailored LIS 외과 의뢰</td></tr></tbody></table>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 좌욕(Sitz bath) : 증상 완화에 도움이 될 수 있으며, 필요에 따라 배변 후 또는 하루 1~3회, 10~15분 시행
   * 미지근한 물을 사용하고 비누·거품 용제는 추가하지 않음
@@ -163,7 +163,7 @@ graph TD
 **골반저 기능장애 동반 시 보완 치료** : 만성 열창에 과도한 힘주기·잔변감·배출 곤란이 지속되면 배변 협응장애를 평가함. 골반저 과긴장 또는 협응장애가 확인된 환자에서는 바이오피드백을 포함한 골반저 물리치료를 보조적으로 고려할 수 있음. 단일기관 무작위시험 및 추적 연구 근거이며 모든 열창의 표준 1차 치료로 일반화하지 않음. 단순 근력 강화보다 이완과 배변 협응 훈련이 핵심임. <mark style="color:$info;">[PAF trial 2022; 2023 추적 연구]</mark>
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">국소 Calcium Channel Blocker (CCB)</mark>
 

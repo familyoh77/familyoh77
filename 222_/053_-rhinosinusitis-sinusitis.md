@@ -451,7 +451,7 @@
 
 ☞ 약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제</mark>
 

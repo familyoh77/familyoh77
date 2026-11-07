@@ -152,7 +152,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 실제 검사실 UL
 **최신 지침 반영** : 본 장은 2026년 6월 발표된 대한간학회 만성 B형간염 진료 가이드라인을 기준으로 치료 대상, 약제 선택, 치료 종료 및 면역억제 관련 내용을 개정하였음. 임상 치료 권고와 국내 허가·급여는 구분하며, 본문 보험 항목에 확인한 급여 조건을 별도로 제시함.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">예방접종</mark>
 

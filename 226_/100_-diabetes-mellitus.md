@@ -366,7 +366,7 @@ _\*다음의 경우에 교육 및 지원 필요 : ⓵ 진단, ⓶ 매년 &/or �
 * 연령·과거 접종력·동반 질환별 적응증에 따라 [B형간염](../231_/210_-vaccination.md#b-hepb), [폐렴구균](../231_/210_-vaccination.md#pneumococcal-pneumonia), [독감](../231_/210_-vaccination.md#influenza), 대상포진, COVID-19 및 RSV 백신 접종
   * 대상포진 : 당뇨병 자체는 우선 접종 대상 기준이 아니나 연령 기준(예: 50세 이상)에 해당하면 재조합 대상포진 백신 접종 권고
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * **생활 습관 개선** : 체중 감량, 운동, 식이/영양 관리, 금연(전자 담배 포함), 음주 제한, 수면 관리(일반 성인은 대개 7\~9시간 수면을 목표로 개별화, 폐쇄수면무호흡증(OSA) 선별)
 * **효과** : 집중적 영양·생활습관 중재로 A1C 약 1\~2%p 감소 가능(기저 혈당·중재 강도에 따라 차이); 약물 치료 시작을 지연시키거나 약물 필요량 감소
@@ -488,7 +488,7 @@ _\*다음의 경우에 교육 및 지원 필요 : ⓵ 진단, ⓶ 매년 &/or �
 * 골절 위험이 높은 환자의 DM 치료 시 혈당 관리 목표를 개별화하고 약물 선택 시 골절 안전성 및 저혈당 위험을 고려
 * 취약골절 병력 또는 T-score ≤-2.5이면 골다공증 약물 치료를 고려하며, T-score -2.0\~-2.5에서도 낙상·높은 FRAX 등 추가 골절 위험 인자가 있으면 치료를 고려함. 당뇨병에서는 BMD만으로 골절 위험을 과소평가할 수 있으며, 임상 권고와 국내 급여 기준은 구분함  <mark style="color:$info;">[ADA 2026, Section 4]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ☞ [당뇨병 약물 치료](101_-dmdrugs.md)
 

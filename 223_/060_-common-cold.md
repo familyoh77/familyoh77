@@ -232,7 +232,7 @@ flowchart TD
 단순 감기에는 항생제를 처방하지 않음. 급성 세균성 비부비동염 등 항생제 적응증 가능성이 있으나 관찰이 안전하고 추적이 보장되는 경우에만 지연 처방을 고려. 시작 조건과 재평가 시점을 명확히 안내해야 하며, 2023 Cochrane 검토에서 항생제 실제 사용률은 즉시 처방 93%, 지연 처방 29%, 무처방 13%였음. 환자 만족도는 지연 처방과 즉시 처방에서 비슷했으며, 지연 처방은 무처방보다 다소 높았음
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
@@ -255,7 +255,7 @@ flowchart TD
 * 증상이 있을 때 마스크 착용, 밀접 접촉 줄이기, 실내 환기 및 기침 예절
 * 권고 대상 예방접종 준수
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">진해제 (Antitussive)</mark>
 

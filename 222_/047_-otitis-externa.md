@@ -190,7 +190,7 @@ graph TD
   * 2\~3일 후 자연 배출 또는 의사가 제거
 * 만성·재발성 OE에서 분비물·각질(debris)이 반복 축적되거나 국소 약제가 도달하기 어려운 경우에는 임상 경과에 따라 반복적으로 이강 세척을 시행
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 물 접촉 최소화 : 치료 중에는 외이도에 물이 들어가지 않도록 하고, 세발·샤워 시 귀마개 또는 petroleum jelly를 묻힌 솜 사용
 * 수영 재개 : 치료 중 통상 7\~10일간 수영·수상 활동을 피하고, 통증·부종 소실 후 귀마개를 착용하고 재개
@@ -200,7 +200,7 @@ graph TD
   * 이어몰드가 외이도에 맞지 않으면 습기가 갇혀 외이염 위험이 높아지므로 피팅 상태를 주기적으로 점검
 * 잦은 비누 세척 피함 : 알칼리화로 균 저항력 저하
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">통증·가려움 관리</mark>
 

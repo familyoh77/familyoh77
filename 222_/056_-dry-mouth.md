@@ -218,7 +218,7 @@ graph TD
 
 * Sjögren disease 등 전신 질환 동반 시 류마티스내과 협진
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">건조 예방</mark>
 
@@ -270,7 +270,7 @@ graph TD
 * ICI 투여 중·후 새로 발생한 심한 건조증은 종양내과·구강내과와 신속히 협의하고, 구강 습윤·우식 예방과 함께 칸디다증(홍반성·위축성 병변 포함) 동반 여부를 평가함
 * ICI 중단 또는 전신 스테로이드로 건조증·침샘 기능이 회복된다는 근거는 약함. 항암 치료 변경과 전신 스테로이드 사용은 중증도에 따라 종양내과와 협의하여 결정 <mark style="color:$info;">\[MASCC/ISOO 2025]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 비-약물 치료로 충분하지 않을 때 고려
 

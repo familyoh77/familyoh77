@@ -138,7 +138,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 * 기류 제한이 없으면 COPD 흡입제·전신 스테로이드·항생제의 경험적 장기 투여를 하지 않고 다른 원인과 동반 질환을 치료
 * [예방접종](../231_/210_-vaccination.md) : 연령·기저질환·국내 권고에 따라 인플루엔자, 코로나19, 폐렴구균, RSV 등 접종 여부 확인
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * [금연 치료](../230_/190_-smoking.md) : 행동 상담과 함께 니코틴 대체요법, varenicline 또는 bupropion 중 환자에게 적절한 약제를 선택; 필요한 경우 근거가 있는 병합요법 고려
 * 직업·환경 노출 감소 : 작업장 환기·보호구, 간접흡연 회피, 미세먼지 고농도 노출 최소화
@@ -148,7 +148,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 * 호흡 재활 : 기능 제한이 있는 COPD, 특히 입원을 요한 악화 후 조기에 고려
   * 정상 폐기능인 단순 만성 기관지염에 일률 적용하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">거담제 및 점액용해제</mark>
 

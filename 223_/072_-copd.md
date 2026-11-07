@@ -219,7 +219,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 4. Review : 증상(CAT or mMRC), 악화, 흡연 상태, 다른 위험 인자 노출, 흡입제 사용법 및 순응도, 육체적 활동 및 운동, 폐 재활 치료 필요성, 자가 관리 기술, 산소, NIV, 폐용적 감소 등, 예방접종, 동반 질환 관리, Spirometry (최소 매년)
 5. Adjust : 약물 치료, 비-약물 치료
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">금연</mark>
 
@@ -269,7 +269,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
    * 호흡 곤란 : 일반적 자가 관리 교육, 호흡 재활 프로그램 &/or 유지 운동 프로그램
    * 악화 : 개별화된 자가 관리 교육; 악화 유발 인자 회피, 증상 악화 모니터링·관리 방법, 악화 발생 시 연락처 정보
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">기관지 확장제</mark>
 

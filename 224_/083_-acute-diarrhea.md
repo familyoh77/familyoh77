@@ -200,7 +200,7 @@ flowchart TD
 
 <table><thead><tr><th width="134">표현형</th><th width="125">시사 원인</th><th width="162">치료 방향</th><th>주의</th></tr></thead><tbody><tr><td>수양성 + 무발열 + 무혈변</td><td>바이러스·비침습성 세균</td><td>ORS + 조기 정상 식이<br>필요 시 성인 loperamide 단기간</td><td>항생제 불필요</td></tr><tr><td>수양성 + 구토 우세</td><td>바이러스·독소형 식중독</td><td>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</td><td>항생제 불필요</td></tr><tr><td>혈변·점액변 ± 발열</td><td>침습성 세균, STEC, 허혈성 대장염, IBD 등</td><td>대변 배양/분자검사 + Shiga toxin 검사<br>필요 시 CBC·혈소판·Cr</td><td>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</td></tr><tr><td>전형적 세균성이질·고열 여행자 설사·패혈증·중증 면역저하</td><td><em>Shigella, Campylobacter</em>, 장티푸스 등</td><td>가능하면 대변·혈액 배양 후 경험적 항생제 고려</td><td>지역 내성·여행지·STEC 가능성 반영</td></tr><tr><td>항생제·의료기관 노출 후 새 설사</td><td>AAD 또는 CDI</td><td>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</td><td>NAAT 양성만으로 보균과 감염을 구분할 수 없음</td></tr><tr><td>고령·면역 저하·패혈증 의심</td><td>다양(기회감염·비감염성 원인 포함)</td><td>위험에 따른 선택 검사; 입원·전원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">수분 공급</mark>
 
@@ -260,7 +260,7 @@ flowchart TD
 * 계란은 노른자가 굳을 때까지 완전히 익힘
 * 조리된 음식을 실온에 2시간 이상 (실온 ＞32℃인 경우 1시간 이상) 방치 금지
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 (☞ [소화기계 약제](073_-gidrugs.md))
 

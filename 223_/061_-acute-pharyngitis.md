@@ -228,7 +228,7 @@ graph TD
   * 급성 류마티스열 고위험군 또는 전형적 증상 재발 등 특수 상황에서만 고려
 * 항생제 투여 후 48\~72시간 내 반응이 없으면 진단·복약 순응도·화농성 합병증·다른 원인 및 보균 상태를 먼저 재평가한 뒤 항생제 변경 여부 결정
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
@@ -251,7 +251,7 @@ graph TD
   * 일반 접촉자에게는 권하지 않음
 * 무증상 가족·밀접 접촉자의 routine 배양 검사나 경험적 치료는 권하지 않음. 집단 유행, 류마티스열 고위험 상황 또는 반복적인 가족 내 전파가 강하게 의심되는 특수 상황은 별도 평가
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제</mark>
 

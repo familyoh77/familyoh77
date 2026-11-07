@@ -564,7 +564,7 @@ class S10,S12,S14 blue
 
 * 단일제 또는 병용 여부는 시작 혈압, 목표와의 차이, HMOD, 노쇠도·기립성 저혈압 및 내약성에 따라 결정; 신장·심장 보호 적응증의 약물은 해당 질환 지침도 함께 적용
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활 요법 및 효과</mark>
 
@@ -636,7 +636,7 @@ class S10,S12,S14 blue
 
 <table data-search="false"><thead><tr><th width="180">식품명</th><th width="100">목측량</th><th width="110">총량(g)</th><th width="113.2225341796875">소금량(g)</th></tr></thead><tbody><tr><td>풀무원 막국수</td><td>1인분</td><td>200</td><td>3.5</td></tr><tr><td>신라면</td><td>1봉지</td><td>120</td><td>5</td></tr><tr><td>PB 우유식빵</td><td>1봉지</td><td>400</td><td>0.8</td></tr><tr><td>PB 소보로빵</td><td>1개</td><td>85</td><td>0.6</td></tr><tr><td>리츠 크래커</td><td>10개</td><td>32</td><td>0.65</td></tr><tr><td>농심 새우깡</td><td>1개</td><td>90</td><td>0.37</td></tr><tr><td>동서 콘푸라이트</td><td>1회</td><td>40</td><td>0.7</td></tr><tr><td>서울슬라이스치즈</td><td>1장</td><td>20</td><td>0.5</td></tr><tr><td>스팸 클래식</td><td>1캔</td><td>340</td><td>12</td></tr><tr><td>콩자반</td><td>1접시</td><td>25</td><td>0.7</td></tr><tr><td>건멸치</td><td>½컵</td><td>20</td><td>0.4</td></tr><tr><td>명란젓</td><td>1종지</td><td>15</td><td>1.3</td></tr><tr><td>오이지</td><td>1접시</td><td>40</td><td>1.1</td></tr><tr><td>열무김치</td><td>1접시</td><td>60</td><td>1.3</td></tr><tr><td>배추김치</td><td>1접시</td><td>60</td><td>1.7</td></tr><tr><td>깍두기</td><td>1접시</td><td>50</td><td>0.7</td></tr><tr><td>단무지</td><td>1접시</td><td>50</td><td>1.4</td></tr><tr><td>마늘장아찌</td><td>1접시</td><td>30</td><td>0.8</td></tr><tr><td>빅맥 햄버거</td><td>1개</td><td>210</td><td>2.5</td></tr><tr><td>피자헛 팬피자(M)</td><td>1쪽</td><td>100</td><td>1.7</td></tr><tr><td>롯데리아 감자튀김</td><td>1봉</td><td>90</td><td>0.65</td></tr><tr><td>KFC 프라이드치킨</td><td>1조각</td><td>100</td><td>1.2</td></tr></tbody></table>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">약물 치료 대상</mark>
 
@@ -671,7 +671,7 @@ class S10,S12,S14 blue
 * ≥80세 : SBP 160 ㎜Hg; SBP 140\~160 ㎜Hg에서도 고려할 수 있음
 * CVD 병력이 있는 경우 : ≥130/80 ㎜Hg
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### 항고혈압제 종류
 

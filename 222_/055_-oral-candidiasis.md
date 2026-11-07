@@ -199,7 +199,7 @@ class G,H,Z,C,E pink
 
 > 지침별 성인 권고 용량에 차이가 있으므로 출처를 구분하며, 국내 허가를 초과하는 용량은 허가·급여와 별도로 해석함 <mark style="color:$info;">\[IDSA 2016; ECMM/ISHAM/ASM 2025, 부록 pp 141\~144]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연
 * 구강 위생 개선 : 식사 후 칫솔질
@@ -221,7 +221,7 @@ class G,H,Z,C,E pink
 * 영양 상태 개선 : Angular cheilitis 반복 시 철분, 비타민 B2·B12 결핍 여부 확인 및 보충
 * 프로바이오틱스 : 임상적 유효성, 최적 균주·용량 및 면역저하자에서의 안전성이 확립되지 않아 구강 칸디다증의 routine 치료·예방으로 권고하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 항진균제</mark>
 

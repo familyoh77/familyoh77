@@ -278,7 +278,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 * 좌주간부 질환, 광범위한 기능적 허혈/다혈관 질환, LVEF 저하 등에서는 예후 개선 목적의 재관류를 평가함. Proximal LAD 병변이라는 사실만으로 모든 환자의 생존 이득을 단정하지 않고 해부학·허혈·심기능을 종합하여 Heart Team에서 결정함
 * ISCHEMIA trial은 left main disease와 LVEF ＜35%를 제외한 안정 CAD에서 일률적인 초기 침습전략이 모든 환자의 사망·MI를 감소시키지 못함을 보여주었으므로, 해부학적·기능적 위험도와 환자 선호를 함께 고려함
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">기저 질환 관리</mark>
 
@@ -320,7 +320,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 * 모든 CCD 환자에게 매년 인플루엔자 백신 접종 권고
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 항협심증제 선택은 증상의 빈도와 중증도뿐 아니라 심박수, 혈압, LVEF, 신기능, 천식/COPD, vasospastic angina 여부 및 약물 상호작용을 함께 고려하여 개별화
 * 1차 항협심증 치료 : **β-차단제 또는 CCB**를 기본으로 하며, **지속형 nitrate**도 적절한 환자에서 선택 가능

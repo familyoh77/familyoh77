@@ -356,7 +356,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 정상 체중 유지 : 과체중 또는 최근 체중 증가 시 체중 감량
 * 금연, 음주 제한
@@ -382,7 +382,7 @@ flowchart TD
 물·우유는 GERD 자체를 치료하지 않음. 반복적인 속쓰림에는 생활요법과 산 분비 억제 치료가 우선이며, 경증·간헐적 증상의 단기 완화에는 제산제 또는 alginate 제제를 고려함
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 처방 시 최신 품목정보/급여기준 조회
 * 경증, 간헐적 증상 : 필요시 제산제 또는 H2-차단제 투여

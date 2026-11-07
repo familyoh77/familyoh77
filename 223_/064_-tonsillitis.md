@@ -214,7 +214,7 @@ flowchart TD
    * 필요시 2차 항생제 또는 이비인후과 의뢰
 5. Lemierre 증후군 : 일시적 호전 후 고열 재발 + 경부 통증·종창 → 조영 증강 CT 긴급 시행 또는 즉시 전원
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 충분한 수분 섭취 : 연하 통증이 있으면 차가운 음료·아이스크림 등으로 수분 유지
 * 충분한 휴식 : 특히 발열 기간 중 안정
@@ -224,7 +224,7 @@ flowchart TD
 * 금연 : 흡연은 편도 점막 손상 및 면역 기능 저하
 * 격리 : GABHS 확인 시 적절한 항생제 시작 후 최소 12\~24시간이 지나고 발열이 없어질 때까지 등교·출근 자제
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">대증 치료</mark>
 

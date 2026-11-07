@@ -373,7 +373,7 @@ flowchart TD
   * 2025년 무작위시험에서는 아형별 초기 치료의 우월성이 입증되지 않았으나, 아형별 효과 차이가 전혀 없다는 뜻은 아님. 이 연구는 Rome V 발표 전 연구로, 개정 아형별 치료 전략을 직접 검증한 것은 아님. 한 계열을 우선 시도하고 불응 시 다른 계열로 전환, 부분반응 시 선택적으로 병용 <mark style="color:$info;">\[BSG 2022; Aliment Pharmacol Ther 2025]</mark>
 * FD는 P-CAB의 허가 적응증이 아님. 동반 GERD 등 별도의 허가 질환이 있으면 해당 질환의 용법으로 치료
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">식생활 교정</mark>
 
@@ -413,7 +413,7 @@ flowchart TD
 * 인지행동치료(CBT), 최면요법(gut-directed hypnotherapy), 이완요법이 일부 환자에서 효과적
 * 마음챙김·스트레스 관리 : 보조적으로 고려할 수 있으나 FD에 대한 직접 근거는 제한적. 치료 목표와 환자 선호에 따라 적용
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 <mark style="color:cyan;">**허가·급여 적용**</mark>
 

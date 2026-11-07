@@ -235,7 +235,7 @@ flowchart TD
 * 발열 시 편안한 복장을 유지하고 과도하게 덮거나 벗기지 않음. 소아에서 해열 목적의 미온수 마사지·찜질을 일률적으로 시행하지 않음 <mark style="color:$info;">\[NICE NG143]</mark>
 * 천식·COPD 환자 : 처방된 유지 흡입제는 중단하지 않고 평소대로 사용하며, 악화 시 개인별 행동계획에 따라 속효성 기관지확장제를 사용하고 조기에 진료; 임의로 용량을 증량하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">대증 치료</mark>
 

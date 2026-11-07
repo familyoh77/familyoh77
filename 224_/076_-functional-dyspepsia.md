@@ -248,7 +248,7 @@ flowchart TD
 * 임신·수유 중 사용 가능 여부는 성분·품목별로 판단하며, 이 장에서 임부·수유부 금기를 따로 표시하지 않았다는 것이 임신·수유 중 사용 가능 또는 안전성 확립을 뜻하지 않음
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 안심시킴
 * 증상의 원리를 설명(gut-brain interaction, 식이, 스트레스, 인지, 행동, 감정과의 관련성 설명)
@@ -271,7 +271,7 @@ flowchart TD
 * 설명 예시 : "내시경이 정상이어도 불편함은 실제로 존재합니다. 위의 운동이나 감각, 위장과 뇌 사이의 신호 조절이 달라져 같은 자극에도 더 강하게 느낄 수 있습니다."
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">우세 증상을 참고한 약제 선택</mark>
 

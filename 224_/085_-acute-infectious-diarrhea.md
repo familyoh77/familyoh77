@@ -276,7 +276,7 @@ flowchart TD
 * 유제품은 섭취 후 복부팽만·설사 악화 또는 이차성 유당 불내성이 의심될 때만 일시 제한. 고지방식·카페인·알코올도 증상을 악화하면 줄임
 * BRAT 식이(바나나·쌀밥·사과소스·토스트)는 영양 불균형 우려로 현재 권고하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 (☞ [소화기계 약제](073_-gidrugs.md))
 

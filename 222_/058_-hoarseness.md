@@ -226,7 +226,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="danger" %}
 **AAO-HNSF(2018) 권고 :** 목쉼에 항생제를 routine으로 처방하지 말 것. 후두경으로 원인을 확인하기 전에 경구 스테로이드를 routine으로 처방하지 말 것.\

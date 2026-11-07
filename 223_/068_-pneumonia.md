@@ -227,7 +227,7 @@ flowchart TD
 
 _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-port-score-pneumonia-severity-index-cap</mark>_
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제</mark>
 

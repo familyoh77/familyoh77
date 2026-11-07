@@ -181,7 +181,7 @@ flowchart TD
 
 _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제이며, 국내 paroxetine 제제의 VMS 치료는 허가 외 사용임_
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">안면 홍조 개선</mark>
 
@@ -214,7 +214,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 - [ ] 저용량 aspirin의 심혈관 1차 예방 목적 투여는 더 이상 일률적으로 권고하지 않음 <mark style="color:$info;">[USPSTF]</mark>; 개별 심혈관 위험도에 따라 판단
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">호르몬 치료(Hormone Therapy, HT) 및 호르몬 관련 치료</mark>
 

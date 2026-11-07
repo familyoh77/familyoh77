@@ -226,13 +226,13 @@ _\*점상 고에코 병소(미세석회화), 비평행 방향성(taller-than-wid
 * 림프절/원격전이 의심, 육안적 갑상선외부침범·기관/되돌이후두신경 침범 의심, 공격적 조직아형(긴세포, 원주세포, hobnail 등)의 세포학적 의심이 있으면 적극적 관찰 대상에서 제외하고 수술 우선
 * 생검하지 않은 작은 K-TIRADS 5 결절도 고위험 소견이 없으면 선호도에 따라 초음파 관찰 가능; 이는 암 확진을 의미하지 않으며, 병리로 진단된 저위험 미세유두암의 적극적 관찰과 구분하여 설명 <mark style="color:$info;">\[KSThR 2024]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 증상 없는 양성 결절은 대부분 치료가 필요하지 않으며, 초음파 위험도·병리진단 결과·크기 및 임상 상황에 따라 추적 여부와 간격을 결정 - K-TIRADS 2이면서 병리진단상 양성이거나 반복 검사에서 양성이고 초음파 변화가 없으면 추가 초음파가 필요하지 않을 수 있음
 * 요오드 섭취를 극단적으로 제한하거나 과잉 섭취하지 않도록 안내(결핍·과잉 모두 결절·기능 이상과 연관)
 * 압박 증상·미용 문제가 실제 결절에 기인한 것인지 영상 검사로 확인 후 비특이 증상과 감별
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">Levothyroxine 억제 요법</mark>
 

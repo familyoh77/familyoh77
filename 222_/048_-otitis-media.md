@@ -162,7 +162,7 @@
 * 대면하여 손동작을 더하며 이야기한다
 * 교실에서 선생님과 가까운 거리에 앉도록 하고 FM 시스템 등 음향 증폭 장치를 사용한다
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 항히스타민제, 코 울혈 제거제, 점액용해제 : 효과 없음 - 사용하지 않음
 * 전신 스테로이드 : 임상적으로 유의한 청력 개선 이득이 입증되지 않음 <mark style="color:$info;">\[Lancet 2018]</mark> - 권고하지 않음
@@ -325,7 +325,7 @@ graph TD
 * 흡인·청소는 적절한 장비와 숙련하에 시행
 * 천공된 귀에는 물 세척(이강 세척)을 하지 않으며, 건식 청소 또는 흡인으로 분비물 제거
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 살균제</mark>
 

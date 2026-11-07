@@ -204,7 +204,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : 흡연은 Graves' orbitopathy의 발생 및 악화와 관련된 가장 강력한 교정 가능 위험 인자로, 안구 증상 유무와 무관하게 모든 환자에게 금연을 권고
 * 갑상선중독 급성기에는 무리한 운동·격렬한 신체활동 자제(부정맥·심부전 악화 위험)
@@ -213,7 +213,7 @@ flowchart TD
 * 카페인 등 교감신경 항진 유발 물질 최소화(심계항진·불안 증상 악화 가능)
 * 안구 증상이 있는 경우 인공눈물 사용, 선글라스 착용, 수면 시 머리를 높게 유지
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항갑상선제</mark>
 

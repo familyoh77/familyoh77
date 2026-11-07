@@ -154,7 +154,7 @@ graph TD
 * 병변 크기별 단일 검증 절단값은 없으므로 3·5·7 ㎜ 등의 수치만으로 치료법이나 triamcinolone 농도를 결정하지 않음
 * 진단이 불명확하거나 악성 의심 소견 동반 시 → 크기·기간에 관계없이 신속히 안과 의뢰하고 생검을 적극 고려
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질 : ductal blockage 완화 및 meibum 배출 촉진
   * 화상을 일으키지 않을 정도의 따뜻한 온도(약 40°C), 10\~15분씩 1일 3\~4회
@@ -171,7 +171,7 @@ graph TD
   * 국내 7개 기관 RCT에서도 rTG omega-3가 포도씨유 대조군보다 MGD 동반 안구건조 증상을 유의하게 개선하지 못했으므로(군당 60명 미만으로 검정력 제한) routine 보충제로 권고하지 않으며 식품을 통한 섭취를 우선 <mark style="color:$info;">\[JAMA Ophthalmol 2024]</mark>
 * 국소 azithromycin은 후부 안검염 또는 ocular rosacea 치료 연구가 있으나 chalazion 자체의 재발 예방 효과는 확립되지 않았으며 국내 제제 이용 가능성과 허가사항을 별도로 확인해야 함
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 스테로이드 (보조 치료)</mark>
 

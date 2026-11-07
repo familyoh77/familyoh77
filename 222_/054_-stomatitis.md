@@ -358,7 +358,7 @@ class REFER,FOLLOW blue
 * 특정 음식이 반복적으로 병변을 유발하면 음식 일지로 연관성을 확인한 뒤 제한
   * 모든 환자에게 설탕·특정 식품을 일률적으로 제한할 근거는 부족
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">아프타 궤양</mark>
 

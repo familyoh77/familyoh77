@@ -191,7 +191,7 @@ flowchart TD
 ☐ 이전 DAA 치료 이력 → 해당 시 salvage 요법(SOF/VEL/VOX 등) 고려
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금주 : 알코올은 간질환 진행 및 HCC 위험을 증가시키므로 가능한 금주를 권고
 * 체중 조절 : 비만·대사이상지방간질환이 동반된 경우 간질환 진행 위험이 증가하므로 체중 및 대사질환 관리 권고
@@ -201,7 +201,7 @@ flowchart TD
 * 영양 관리 : 고단백·충분한 칼로리 섭취; 간경변 환자는 영양사 상담 권고
 * 예방 백신 : 현재 없음; 면역 글로불린도 효과 없음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="danger" %}
 **국내 허가·급여와 진료지침의 구분 (2026.10 확인)**

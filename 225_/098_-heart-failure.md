@@ -327,7 +327,7 @@ flowchart TD
 ***
 
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연; 과도한 음주 회피. 알코올성 심근병증에서는 금주
 * 소금 섭취 : 모든 환자에게 획일적인 극단적 나트륨 제한을 적용하지 않으며, 과도한 염분 섭취를 피하고 울혈·동반질환에 따라 개별화
@@ -346,7 +346,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">심부전의 주요 약제 및 용량</mark>
 

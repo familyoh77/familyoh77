@@ -141,7 +141,7 @@ graph TD
   * 눈꺼풀앞 연조직염 등 주변 조직으로 감염이 확산된 경우 사용
   * 중증 내맥립종이나 깊은 농양에서는 안과 평가에 따라 전신 항생제 및 배농을 고려함
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질 : 화상을 일으키지 않을 정도로 따뜻한 물수건 또는 눈꺼풀용 온찜질 팩을 1회 10\~15분, 1일 3\~5회 적용 (✽최적 시간·빈도에 대한 고품질 비교 근거는 제한적)
   * 시판 온찜질 팩은 제품의 가열·사용 지침을 따름
@@ -158,7 +158,7 @@ graph TD
 * 눈 화장을 매일 깨끗이 제거하고 오래되거나 병변 발생 전후 오염이 의심되는 마스카라·아이라이너는 교체
 * 안검염·MGD·지루피부염·ocular rosacea와 당뇨병 등 기저 질환 관리
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">겉다래끼 - 국소 항생제의 선택적 사용</mark>
 

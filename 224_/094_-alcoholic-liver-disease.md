@@ -221,7 +221,7 @@ style N fill:#fde8f0,stroke:#e91e8c
 
 * Nonselective β-blocker(propranolol, carvedilol 등) : CSPH를 동반한 대상성 간경변증에서 **첫 비대상화 및 정맥류 출혈 예방**을 위해 고려; 대상성 간경변증에서는 carvedilol을 우선 고려할 수 있음. 저혈압·AKI 등에서는 용량 조정·보류 여부를 평가 (자세한 적응증·용량은 간경변증 챕터 참조) <mark style="color:$info;">[Baveno VII]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 완전 금주 : 모든 병기에서 가장 중요한 기본 치료이며 장기 예후 개선의 핵심; 지방간은 수주 내 호전 가능
 * 금주 지원 : 동기 강화 면담·인지행동치료 등 환자 상황에 맞는 행동 치료를 AUD 약물치료와 병행하고 정신건강의학과·중독의학과와 협력. 효과 크기는 대상군·치료 강도·추적 기간에 따라 다르므로 특정 프로그램의 금주율을 모든 환자에게 적용하지 않음
@@ -236,7 +236,7 @@ style N fill:#fde8f0,stroke:#e91e8c
 * MetALD 환자(정의는 상기 원인·위험인자 참조)는 대사질환(비만·당뇨)이 동반된 음주자로, FIB-4 등 선별 검사를 더욱 적극적으로 시행 권장; 비만·당뇨 환자를 진료할 때도 반대로 음주력을 체계적으로 확인해야 함 - 그렇지 않으면 MASLD로 오분류되어 알코올 기여분이 간과될 수 있음
 
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">Corticosteroid (중증 알코올 간염)</mark>
 

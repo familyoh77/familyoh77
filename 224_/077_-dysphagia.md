@@ -283,7 +283,7 @@ flowchart TD
 * 원인 평가 : 음식물 제거 시 안전하면 외관이 정상이어도 ≥2개 식도 높이에서 총 ≥6개 생검하여 EoE를 평가함. 심하게 손상된 저류 부위는 피해서 채취함. 생검을 못 했거나 자연 해소된 경우에도 조기 추적 EGD·생검을 계획함. EoE가 의심되면 추적 생검 전 PPI·식이 변경이 진단에 미칠 영향을 전문의가 판단함
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">연하 재활: 보상 전략 vs 재활 전략</mark>
 
@@ -326,7 +326,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">GERD / 소화성 협착</mark>
 

@@ -148,7 +148,7 @@ graph TD
 * 급여 주의 : 제품별 보험 적용 여부와 청구 기준을 처방 시 확인
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 배변 시 힘 줄이기, 식이 섬유 섭취 늘림
 * 배변 환경 교정 : 변비 또는 설사 교정 (☞ [변비](082_-constipation.md)); 항문 긴장 감소가 핵심
@@ -183,7 +183,7 @@ graph TD
 * 외치핵 혈전 형성 시 부종·통증 완화 목적으로 단기 사용 가능
 * 짧은 시간(10분 이내) 사용; 동상 및 피부 손상 주의; 직접 접촉 금지(천으로 싸서 사용)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소제 (Topical Agents)</mark>
 

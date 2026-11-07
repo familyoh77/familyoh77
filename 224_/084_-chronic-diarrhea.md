@@ -284,7 +284,7 @@ flowchart TD
 * 위생 관리 : 특히 감염성 원인 배제 전까지 손 위생 철저
 * 4\~6주 치료에 반응 없으면 추가 검사 또는 의뢰
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 저-FODMAP 식이 : 주로 IBS-D에서 제한 기간 동안 시도하며, 기능성 설사에서의 근거는 상대적으로 제한적 (☞ [IBS](087_-irritable-bowel-syndrome.md))
   * 2\~6주 식이제한 후 단계적 재도입으로 개인 내성 식품 확인
@@ -295,7 +295,7 @@ flowchart TD
   * 인지행동치료(CBT), 장 지향 최면요법(gut-directed hypnotherapy)
 * 규칙적 식사 습관 : 불규칙한 식사, 폭식 회피; 소량 빈식 고려
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 (☞ [소화기계 약제](073_-gidrugs.md))
 

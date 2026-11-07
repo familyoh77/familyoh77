@@ -124,7 +124,7 @@ graph TD
 * 급성기 해소 후 비루관 폐쇄가 남으면 재발 예방을 위해 DCR 평가
 * 영아·소아는 당일 안과 의뢰, 신생아는 입원·IV 항생제가 원칙
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질 : 편안하게 따뜻한 정도로 하루 수 회, 1회 5\~10분 시행하는 보조적 증상 완화법
   * 상용 온찜질 제품은 제조사 지침을 따르고, 화상을 입을 정도의 열은 피함
@@ -144,7 +144,7 @@ graph TD
 
 <table><thead><tr><th width="100">질환</th><th>목적</th><th>권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>보조적 증상 완화</td><td>편안한 온도,<br>하루 수 회, 5~10분</td><td>분비물 닦기</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>meibum 연화·배출 및 자연 배농 유도</td><td>10~15분,<br>1일 3~5회(콩다래끼는 3~4회)</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>5~10분,<br>1일 1~2회(필요시 증가)</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>눈마름증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회, 5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">전신 항생제</mark>
 

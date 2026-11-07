@@ -163,7 +163,7 @@ flowchart TD
 **항생제를 처방하지 않을 때의 설명과 safety-netting** : "현재는 바이러스성 기관지염으로 판단되므로 항생제가 필요하지 않습니다. 기침은 평균 약 3주 지속되며 일부에서는 더 오래 이어질 수 있습니다. 숨이 차거나 전신 상태가 나빠지면 기다리지 말고 바로 진료받으십시오. 발열이 지속·재발하거나 기침이 예상 경과를 벗어나면 다시 내원하십시오." - safety-net instruction을 함께 제공하는 것이 환자 만족도를 유지하면서 항생제 처방을 줄이는 데 효과적임
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 및 호흡기 자극(간접흡연, 유해가스, 분진) 회피, 대기 오염 시 외출 자제
 * 탈수를 피할 정도의 적절한 수분 섭취. 단, 많은 수분 섭취가 기침 기간을 줄인다는 근거는 없음
@@ -176,7 +176,7 @@ flowchart TD
 * 기저 질환 관리 : 천식, 부비동염, 위식도역류(GERD)
 * 예방접종 : 연령·위험도에 따라 인플루엔자·COVID-19·폐렴구균·RSV 백신과 Tdap(영아 돌봄자·의료인 우선, 임신부는 매 임신 27\~36주) 권고. 이는 특정 급성 기관지염 치료가 아니라 중증 호흡기감염 예방 목적
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">해열·진통제</mark>
 

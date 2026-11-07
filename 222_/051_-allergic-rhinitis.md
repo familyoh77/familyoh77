@@ -310,7 +310,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">알레르겐 회피</mark>
 
@@ -337,7 +337,7 @@ class Cause1,Cause2,Cause3,Rescue orange
   * 스프레이나 대용량 관류의 방식 간 우열보다는 꾸준한 시행 여부가 더 중요
 * 자일리톨 함유 비강 세척액(예: Xlear)과 히알루론산 첨가 세척액이 점막 수분 유지 및 항균 효과로 주목받고 있으나, 현재 AR에서의 임상적 이득은 소규모 연구 수준으로 근거가 확립되지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 지속성 또는 중등증\~중증 AR에서는 규칙적 유지 치료가 일반적으로 효과적
 * 경증·간헐적 증상에서는 환자 특성과 제제에 따라 필요시 사용을 고려

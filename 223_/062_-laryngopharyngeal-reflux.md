@@ -200,7 +200,7 @@ graph TD
 * Muscle tension dysphonia, laryngeal hypersensitivity 등 비-reflux 원인을 간과
 * PPI 반응을 LPR 확진으로 해석 → 자연 경과·위약 효과·다른 기전에 의한 호전 가능
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활습관 교정</mark>
 
@@ -217,7 +217,7 @@ graph TD
 * 흔한 유발 요인인 과식, 고지방식, 술, 카페인 음료, 초콜릿, 페퍼민트, 탄산음료, 산성·매운 음식은 증상과의 연관성이 확인될 때 줄임
 * Low-acid diet (pH ＞5 식품 중심) : 채소, 생선, 통곡물 등 위주의 식사가 증상 개선에 도움될 수 있음 (소규모 연구 근거; Mediterranean diet 패턴 참고 가능)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * [산 분비 억제](../224_/073_-gidrugs.md#gastric-antisecretory-drug) : PPI, H2-차단제; 전형적 GERD 증상이 없는 단독 인후두 증상에서의 효과는 제한적이며 논란이 있음
 

@@ -259,7 +259,7 @@
 **국가 위암검진** : 만 40세 이상은 2년마다 위암 검진 대상. 2026년 발표 국가 위암 검진 권고안은 40\~74세에 위내시경을 단독 1차 검진법으로 권고하고, 위장조영검사는 내시경을 받을 수 없는 경우에만 고려함. 75세 이상은 이득·위해를 상담해 개별 결정함. 이는 무증상 성인의 검진 권고이며 경고 증상이 있는 환자의 진단 검사 연령을 제한하지 않음. 실제 검진 방법과 본인부담은 해당 연도 국가암검진 기준으로 확인
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : 위 점막 혈류 감소, 점막 재생 지연, _H. pylori_ 제균율 저하
 * 절주/금주 : 알코올은 위 점막 직접 손상 및 위산 분비 자극
@@ -286,7 +286,7 @@
 * Aspirin 복용 중 위장 증상 : 심혈관 적응증을 재평가하고, 지속이 필요하며 위장관 고위험이면 PPI 병용 및 _H. pylori_ 평가 고려. 장용정 전환만으로 임상적으로 중요한 위장관 출혈이 예방되지는 않음
 * 경구 bisphosphonate : 일반 물 한 컵(약 180\~240 ㎖)과 함께 복용하고 alendronate·일반형 risedronate는 최소 30분, ibandronate는 최소 60분간 눕지 않음. 제형별 공복·식사 간격을 적용하며 주된 점막 손상은 식도염임
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 　☞ [소화기계 약제](073_-gidrugs.md)
 

@@ -218,7 +218,7 @@ flowchart TD
 12. 출혈 당시 H. pylori 검사가 음성이면 안정 후(PPI 2주 중단) 재검하고, 양성이면 제균 후 성공 여부 확인
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : 흡연은 위점막 혈류를 감소시키고 prostaglandin 합성 억제 → 치유 지연, 재발 위험 증가
 * 절주 : 과음은 위점막을 손상시키고 증상을 악화시킬 수 있으므로 피함
@@ -228,7 +228,7 @@ flowchart TD
   * NSAID 식사 후 복용은 위 불편감(dyspepsia) 감소에 도움이 될 수 있으나 궤양 예방 효과는 없음. 고위험군은 PPI 등 근거와 허가가 확인된 예방 약제를 병용
   * 무증상 NSAID 복용자도 고위험 인자 있는 경우 예방적 약제 병용 필요 (☞ 아래 NSAID 관련 PUD 예방)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음. 임신·수유·간신장 기능 저하 및 병용약물 관련 제한은 성분·제형별로 확인함.
