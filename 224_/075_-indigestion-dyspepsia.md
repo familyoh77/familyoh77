@@ -463,7 +463,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 
 #### <mark style="color:$primary;">Prokinetics</mark>
 
-* 적응 : PDS(식후 충만감, 조기 포만감) 우세 환자에서 고려 (☞ [소화기계 약제](073_-gidrugs.md#gi-prokinetic-agent))
+* 적응 : PDS(식후 충만감, 조기 포만감) 우세 환자에서 고려 (☞ [소화기계 약제](073_-gidrugs.md#prokinetics))
   * _H. pylori_ 제균 또는 산 분비 억제 치료에도 증상이 지속될 때 선택적 단독 또는 병용 사용
 * 약제 선택 시 신경계·내분비계 이상반응과 환자 위험을 고려하여 mosapride·itopride·현호색·견우자 엑스를 우선 고려
 * 복용 시점과 재평가 시점은 성분별로 구분

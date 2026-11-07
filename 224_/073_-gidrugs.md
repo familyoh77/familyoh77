@@ -69,19 +69,19 @@
 
 <mark style="color:$info;">\[RCOG 2024; NICE NG201; UKTIS 2024\~2026; 품목 허가사항]</mark>
 
-## <mark style="color:green;">위장 운동 촉진제 (Prokinetics)</mark>
+## <mark style="color:green;">위장 운동 촉진제 (Prokinetics)</mark> <a href="#prokinetics" id="prokinetics"></a>
 
 * 투여 시간 : 성분·제형별로 다름
   * 일반적으로 식전 복용 - 식후 위 배출과 증상에 대비, 일부 약제에서 음식에 의한 흡수 지연을 피함
     * mosapride 일반정은 식전 또는 식후 가능으로 허가
-  * SIBO에서 위장운동촉진제의 야간 투여 용법은 제한적 근거의 허가 외 용법임
+  * SIBO에서 위장 운동 촉진제의 야간 투여 용법은 제한적 근거의 허가 외 용법임
 * 기능성 소화불량에서 성분 간 효과 차이는 뚜렷하지 않음
   * 수 주 단위의 사용이 많으므로 중추·심장 부작용이 적은 mosapride, itopride, 현호색·견우자 추출물을 우선 고려
   * BBB 통과 D2 길항제(metoclopramide, levosulpiride, clebopride)와 domperidone은 단기 사용
 * 항콜린제와 함께 투여 시 상호 길항작용으로 효과가 상쇄될 수 있음
 * 위장관 출혈·기계적 폐색/천공 등 위장관 운동 자극이 위험한 상황에서는 회피; 성분별 허가·금기를 확인
 
-<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td><strong>metoclopramide</strong> <mark style="color:blue;">[맥페란]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td><strong>levosulpiride</strong> <mark style="color:blue;">[레보프라이드]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td><strong>clebopride</strong> <mark style="color:blue;">[크레보릴]</mark></td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td><strong>itopride</strong> (급여제품없음)</td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td><strong>domperidone</strong> <mark style="color:blue;">[돔피돈]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td><strong>mosapride</strong> <mark style="color:blue;">[가스모틴]</mark>, <mark style="color:blue;">[가스티인씨알]</mark></td><td>선택적 5-HT4 작용</td><td>일반정 5 ㎎ tid, 식전 또는 식후; 가스티인씨알 15 ㎎ qd 공복, 부수거나 씹지 않고 통째로 복용</td></tr><tr><td><strong>DA-9701</strong>(현호색·견우자 추출물) <mark style="color:blue;">[모티리톤]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td><strong>metoclopramide</strong> <mark style="color:blue;">[맥페란]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td><strong>levosulpiride</strong> <mark style="color:blue;">[레보프라이드]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td><strong>clebopride</strong> <mark style="color:blue;">[크레보릴]</mark></td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td><strong>itopride</strong> (급여제품없음)</td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td><strong>domperidone</strong> <mark style="color:blue;">[돔피돈]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td><strong>mosapride</strong> <mark style="color:blue;">[가스모틴]</mark>, <mark style="color:blue;">[가스모틴에스알]</mark></td><td>선택적 5-HT4 작용</td><td>일반정 5 ㎎ tid, 식전 또는 식후; 가스모틴에스알 15 ㎎ qd 공복, 부수거나 씹지 않고 통째로 복용</td></tr><tr><td><strong>DA-9701</strong>(현호색·견우자 추출물) <mark style="color:blue;">[모티리톤]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Dopamine D2 receptor antagonist</mark>
 
@@ -223,7 +223,7 @@
 * **aprepitant** : CINV 예방 시 제1일 125 ㎎, 제2\~3일 80 ㎎ qd <mark style="color:blue;">\[에멘드]</mark>
 * fosaprepitant <mark style="color:blue;">\[에멘드주]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[아킨지오]</mark>, rolapitant(해외 약제)
 
-### <mark style="color:orange;">TCA (삼환계 항우울제·위장관 신경조절제)</mark>
+### <mark style="color:orange;">TCA (삼환계 항우울제·위장관 신경조절제)</mark> <a href="#tca" id="tca"></a>
 
 * 대상 : 초기 치료에도 증상이 지속되는 기능성 소화불량(FD), 만성 구역·구토 증후군 등에서 저용량으로 선택적으로 고려함(해당 소화기 증상에 허가 외 사용; 적응증별 근거 수준은 다름)
   * FD에서는 특히 상복부 통증이 두드러지는 경우 2차 치료로 고려함. 위장관 통증·감각 신호를 조절하는 목적으로 사용하며 항우울 치료 용량과 구분함 (☞ [소화불량](075_-indigestion-dyspepsia.md))
