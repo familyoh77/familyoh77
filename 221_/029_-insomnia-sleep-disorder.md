@@ -598,7 +598,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 
 * 단독 치료에 관한 권고를 제시하기에 근거가 불충분함 <mark style="color:$info;">\[AASM 2021]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">사용 원칙</mark>
 

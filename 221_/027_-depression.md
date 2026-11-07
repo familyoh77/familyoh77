@@ -410,7 +410,7 @@ graph TD
 * exercise : 우울 증상 완화 및 건강상 이익을 제공
 * music therapy : 일부 환자에서 우울 증상 완화를 위한 보조적 중재로 고려할 수 있으나, 연구의 중재 방식과 근거가 이질적임
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">약제 종류</mark>
 

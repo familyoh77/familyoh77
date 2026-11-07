@@ -322,7 +322,7 @@ class B,D,K,N yellow
     * 체중 감소·근감소·영양 불량을 모니터링
   * 철분제는 levodopa 흡수를 줄이므로 2시간 이상 간격을 두고 복용
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">운동 증상 치료</mark>
 

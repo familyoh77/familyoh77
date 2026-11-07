@@ -208,7 +208,7 @@ flowchart LR
   * Arm tensing : 양손을 갈고리처럼 걸고 서로 당김
 * 증상이 호전되지 않거나 악화되면 즉시 바닥에 눕고 도움을 요청
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 생활요법에도 외상 위험이 있는 재발성 실신이 지속될 때, 혈압 표현형·연령·동반 질환과 부작용을 고려하여 선택
 

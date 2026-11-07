@@ -185,7 +185,7 @@ class I,O,R,Z,B yellow
 **안구 압박, carotid sinus massage, 직장 수지 마사지, 비인두 카테터 자극 등 침습적 방법 주의** : 서맥·실신 등의 위험이 있어 일상적인 1차 진료 비약물 치료로 권하지 않으며, 극히 선택된 난치성 상황에서 전문 환경의 증례 수준으로만 보고되어 있음.
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 딸꾹질 약물 치료의 근거는 제한적이며, 비교적 사용 경험과 근거가 많은 baclofen 또는 gabapentin을 우선 고려
 * metoclopramide는 위장관 유발 요인이 의심되거나 위배출 지연·구역이 동반된 경우 대안으로 고려

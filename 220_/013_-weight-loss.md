@@ -236,7 +236,7 @@ class B,W,E,G,I,L,O yellow
 * 초기 수일간 체액 균형, 활력징후, 전해질 및 임상 증상을 면밀히 추적하고 중증 전해질 이상·부정맥·심부전·신경학적 이상이 있으면 입원 또는 전문과 협진
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 <mark style="color:cyan;">**약물 투여 전제 조건**</mark>
 

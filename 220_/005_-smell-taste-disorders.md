@@ -257,7 +257,7 @@ class B,D,D2,F,P yellow
   * 금속 맛 완화 tip : 금속 식기 대신 플라스틱·도자기 사용. 고기류는 레몬즙·소스로 재워 두거나 차갑게 조리
 * 미각·후각 소실로 인한 우울감, 고독감 → 정기적 추적 관찰(☞ [우울증](../221_/027_-depression.md))
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">비내 스테로이드 (INCS)</mark>
 

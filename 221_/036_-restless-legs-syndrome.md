@@ -232,7 +232,7 @@ graph TD
 * 증상이 있을 때 정신적 각성 활동(게임, 퍼즐)
 * 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 약물 1종 이상에 실패한 성인 RLS의 보조 치료 <mark style="color:$info;">\[AASM 2025 조건부 권고]</mark>; 국내 미도입
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 1차 선택제 : 철 상태에 따른 철분 치료와 gabapentinoid
   * 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험 때문에 표준적 일상 사용에 대한 조건부 권고 반대로 변경됨 <mark style="color:$info;">\[AASM 2025]</mark>

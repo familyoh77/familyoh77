@@ -227,7 +227,7 @@ class B,F,I,L,N yellow
 * 엎드려 자며 목을 한쪽으로 오래 돌리는 자세를 피함
 * 바로 눕거나 옆으로 누울 때 베개 높이를 개인에 맞춰 경추가 중립 정렬을 유지하도록 함. 일률적으로 낮은 베개를 권하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 비-약물 치료(운동·관절가동술 등)를 보조하는 수단으로, 급성 통증·근연축 조절에 국한하여 사용
 

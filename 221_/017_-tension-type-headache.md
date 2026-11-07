@@ -157,7 +157,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 * Dry needling : 근막 유발점이 뚜렷한 일부 환자에서 단기 통증·기능 개선 가능성이 보고되었으나 연구 이질성이 커 표준 치료로 확립되지는 않음
 * 향기 요법 : 페퍼민트 oil의 국소 도포는 일부 연구에서 효과가 보고되었으나 근거는 제한적
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 편두통 특이 치료제는 순수 TTH의 표준 치료가 아님
   * CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통 치료제로 사용되며 순수 긴장형두통에는 효과가 입증되지 않음

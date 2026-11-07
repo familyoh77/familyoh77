@@ -297,7 +297,7 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 * 경두개 직류자극(tDCS) : 주산기·산후우울증에 대한 효과와 장기 안전성이 확립되지 않은 연구 단계의 치료이며 표준치료 또는 특정 재택기기를 권고하지 않음
 * 전기경련요법(ECT) : 정신병적·긴장성 우울증, 급성 자살위험, 심한 영양·신체상태 악화 또는 신속한 반응이 필요한 경우 정신건강의학과에서 고려
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">약제</mark>
 

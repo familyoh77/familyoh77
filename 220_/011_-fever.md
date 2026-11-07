@@ -294,7 +294,7 @@ graph TD
 * 환자를 과도하게 벗기거나 두껍게 감싸지 말고 편안한 환경과 의복을 유지
 * [열사병](../230_/205_-heat-illness.md#management) 등 hyperthermia는 해열제가 효과적이지 않으며 신속한 active cooling이 핵심 치료
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">해열제</mark>
 

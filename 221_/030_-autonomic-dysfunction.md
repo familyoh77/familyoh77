@@ -332,7 +332,7 @@ graph TD
 
 * 정해진 시간 배뇨 훈련, 이중 배뇨법(배뇨 후 잠시 후 재시도)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 **증상을 악화시킬 수 있는 동반 약물 점검 (처방 전 필수 확인)**
 

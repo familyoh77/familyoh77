@@ -526,7 +526,7 @@ flowchart TD
 * 운동·식이·인지 훈련·혈관 위험 관리를 결합한 구조화된 다영역 생활 개입 - 자율 실천보다 인지 기능을 소폭 개선함 <mark style="color:$info;">\[JAMA 2025]</mark>
 * 커피, 차 : 치매 예방 목적의 섭취는 권하지 않음(치매 위험의 관찰 연구 결과는 일관되지 않음)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">원인 질환별 치료 방향</mark>
 

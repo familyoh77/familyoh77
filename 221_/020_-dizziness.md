@@ -447,7 +447,7 @@ flowchart TD
   4. 발을 약간 벌리고 서서 180° turn
   * 처음에는 눈을 뜨고 고정 지지물 가까이에서 시행. 눈 감기, 좁은 지지면, 회전 등 난이도 증가는 개인별 낙상 위험을 평가한 뒤 필요한 환자에게만 보호자 또는 치료사 감독하에 적용
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
 

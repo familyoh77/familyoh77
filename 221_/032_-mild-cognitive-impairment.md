@@ -315,7 +315,7 @@ flowchart TD
   * MCI 대상 RCT에서 Vit E 2,000 IU/d는 3년간 알츠하이머병 진행을 늦추지 못함 <mark style="color:$info;">\[NEJM 2005]</mark>
 * NSAID, estrogen, testosterone, selegiline, 비내 인슐린, growth hormone-releasing hormone, semaglutide(EVOKE/EVOKE+ 2025, 초기 알츠하이머병에서 음성) 등을 MCI 예방·치료 목적으로 사용하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 원인 미확정 MCI 또는 비알츠하이머성 MCI에서 치매 전환을 예방하는 것으로 입증된 일률적 약제는 없음
 * donepezil 등 acetylcholinesterase inhibitor는 MCI에서 인지·기능 저하 또는 치매 전환 예방효과가 확립되지 않았고 부작용이 있어 일반적으로 사용하지 않음

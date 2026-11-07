@@ -306,7 +306,7 @@ graph TD
 * 허브(근거 부족) : St. John's wort(고추나물), 시계풀(passionflower), 쥐오줌풀(valerian)
   * St. John's wort는 SSRI/SNRI와 병용 시 세로토닌 증후군 위험, CYP3A4 유도로 다른 약물 효과 감소 가능 - 복용 여부를 반드시 확인
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">치료 timeline</mark>
 

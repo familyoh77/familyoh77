@@ -199,7 +199,7 @@ graph TD
 * 지압 : 손목 P6 지압(밴드 포함)은 실험실 연구에서 위약 이상의 효과가 확인되지 않았으나, 위약 효과가 클 수 있어 원하는 환자는 보조적으로 시도할 수 있음
   * P6 : 손바닥 쪽 손목 주름에서 몸쪽으로 약 4\~6 ㎝, palmaris longus와 flexor carpi radialis 힘줄 사이
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 증상 발생 전 투여; 투여 시점은 약물별 허가 용법과 작용 발현시간을 따름
   * 국내 허가 용법 : dimenhydrinate - 출발 최소 30분 전(30\~60분 전); meclizine - 출발 최소 1시간 전; 키미테패취 - 출발 최소 4시간 전
