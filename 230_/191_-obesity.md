@@ -294,7 +294,7 @@ flowchart TD
 
 **체중 재증가 조기 경고 신호** : 주간 체중 지속 상승 / 야식·간식 빈도 재증가 / 운동 중단 / 스트레스·수면 부족 증가 / 약물 중단 후 식욕 급증
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * **중재 대상** : BMI·허리둘레·비만 관련 합병증과 환자 목표를 함께 평가하여 생활 습관 중재 시행
 * **효과** : 구조화된 집중 생활 중재에서 흔히 초기 체중의 5\~10% 감량을 목표로 하며, 프로그램 강도·순응도에 따라 차이가 큼. 합병증·기능·삶의 질 개선도 함께 평가
@@ -422,7 +422,7 @@ Ref. Villareal DT, et al. Aerobic or Resistance Exercise, or Both, in Dieting Ob
 * 심리적 문제(폭식, 우울, 섭식 장애)가 동반된 경우 정신건강의학과 협진
 * 고령자의 행동변화 기법에 관한 근거는 제한적. 인지 상태, 사회적 고립, 우울, 동반 질환 부담과 돌봄 의존도를 고려하여 계획을 단순화하고 환자의 동의와 선호에 따라 가족·돌봄자를 참여시킴 [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 (비만 치료 목적의 약물은 원칙적으로 비급여)
 

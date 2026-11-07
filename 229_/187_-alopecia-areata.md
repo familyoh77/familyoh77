@@ -139,7 +139,7 @@ graph TD
 * 확립된 근거 없는 비타민·아연·철분 보충제를 단독 치료로 권하지 않는다; 검사에서 결핍이 확인된 경우에만 교정함.
 * 정신사회적 부담이 확인되면 정신건강의학과 협진과 환자 모임·지지단체 정보 제공을 고려함.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 치료</mark>
 

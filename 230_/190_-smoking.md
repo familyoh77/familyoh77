@@ -207,7 +207,7 @@ L --> I
 **국민건강보험공단 금연치료지원사업**은 통상 8\~12주 동안 6회 이내의 진료·상담과 금연치료의약품 또는 니코틴 보조제 비용을 지원하며 연 3회 참여할 수 있음(2026년 기준). 임상적 연장치료와 지원사업의 지원기간을 동일시하지 않음. <mark style="color:$info;">[국민건강보험공단 금연치료 지원사업 안내](https://www.nhis.or.kr/static/html/wbma/c/smkInfo_01.pdf)</mark>
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">금연 계획</mark>
 
@@ -267,7 +267,7 @@ L --> I
 
 진료 시간이 짧으면 **Ask-Advise-Connect** 방식으로 흡연 여부 확인과 명료한 금연 권고 후 금연상담전화·보건소·금연치료 의료기관에 능동적으로 연결함.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 약물치료는 행동중재와 함께 시행함. **처방 시 최신 품목정보/급여기준 조회.** 금연치료지원사업 참여 여부와 약제별 지원 범위를 확인함. 금연 목적의 사업 외 진료·약제 비용과 다른 적응증의 건강보험 적용을 구분함. 복합 NRT 및 다른 병합요법의 모든 구성약이 함께 지원된다고 가정하지 않음.
 

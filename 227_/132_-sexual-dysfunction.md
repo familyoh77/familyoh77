@@ -168,7 +168,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:green;">비-약물 치료 및 예방</mark>
+### ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연, 음주 제한, 적정 체중 유지
 * 적당한 활동, 규칙적 유산소 운동
@@ -177,7 +177,7 @@ flowchart TD
 * 지중해식 식단, DASH 식단 등 심혈관 건강에 유익한 식이가 성기능 저하 예방에도 도움이 된다는 관찰 연구 보고가 있음
 * 30~60분의 유산소 운동을 1주일에 3~5회 시행한 연구들을 포함한 무작위시험 메타분석에서 비운동 대조군 대비 발기기능 개선이 보고됨; 심장 상태·체력에 맞추어 운동 강도를 조절
 
-### <mark style="color:green;">약물 치료</mark>
+### <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:$primary;">Phosphodiesterase-5 inhibitor (PDE5i)</mark>
 
@@ -616,14 +616,14 @@ flowchart TD
 
 * 환자 자신의 고통과 치료 목표를 확인하고 생물·심리·관계 요인을 함께 치료함. 파트너의 기대만으로 정상 성욕을 질환으로 규정하거나 약물 치료를 시작하지 않음
 
-### <mark style="color:green;">비-약물 치료 및 예방</mark>
+### ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 신체 질환 치료, 금연·음주 교정을 포함한 위험 인자 교정
 * 심리 치료, 부부 상담, 성관계 기법에 대한 교육
 * 국소 윤활제(수성/실리콘 기반)는 성관계 시 사용, 질 보습제는 규칙적으로 사용; 향료·자극성 세정제 회피
 * 골반저 과긴장·압통 또는 삽입장애 : 골반저 이완 중심 물리치료, 통증 교육·인지행동치료 및 필요시 단계적 질 확장기 치료; 단순 근력 강화 운동을 일률적으로 처방하지 않음
 
-### <mark style="color:green;">약물 치료</mark>
+### <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 국소 마취제 : 유발성 외음부통 등 선별된 환자에서 국소 lidocaine을 허가 외로 고려; 모든 성교통에 일률적으로 사용하지 않고 파트너 전이·피부 자극 설명
 * 국소(질) estrogen : GSM에 의한 질건조·성교통에 효과적. 국내 허가된 질용 estrogen 제제의 허가사항에 따라 사용 (☞ 폐경기증후군). 저용량 질 estrogen 사용만을 이유로 무증상 환자에게 정기 자궁내막 초음파·생검을 시행하지 않음; 치료 중 새 출혈은 별도 평가. 전신 estrogen의 자궁내막 보호 원칙을 모든 질용 제형·용량에 동일하게 적용하지 않음 <mark style="color:$info;">[AUA/SUFU/AUGS GSM, 2025]</mark>

@@ -172,7 +172,7 @@ flowchart TB
 * 유의한 손상에서는 CK, 전해질, 크레아티닌, 요검사를 시행하여 횡문근융해·고칼륨혈증·급성 신손상을 감시함.
 * 저전압 손상도 초기 ECG·임상평가 후 지연 증상과 시력 문제를 고려해 화상센터 상담·추적 계획을 정함. 새 흉통·실신·심계항진·근력저하 또는 시력 변화가 생기면 재평가함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">드레싱</mark>
 
@@ -216,7 +216,7 @@ flowchart TB
 * 햇빛 노출 시 모자·의복과 자외선차단제를 사용함.
 * 주차된 차량의 카시트·안전벨트와 금속 부품 온도를 확인함.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 항균제</mark>
 

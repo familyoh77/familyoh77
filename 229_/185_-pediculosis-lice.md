@@ -116,7 +116,7 @@ graph TD
 * 사면발니 환자는 HIV·매독·임질·클라미디아 등 다른 성매개감염 평가
 * 눈썹·속눈썹 감염은 안과 평가; 소아 사면발니는 접촉·감염 경로를 신중히 평가하고 필요시 아동 보호 평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">접촉 물품 조치</mark>
 
@@ -151,7 +151,7 @@ graph TD
 * 사면발니 : 이·서캐 제거를 보조할 수 있으나 **면도·제모만으로 구제되지 않음**
 * 몸니 : 깨끗한 의복 교체, 세탁·고온 건조와 정기적 목욕만으로 해결되는 경우가 많음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * **처방 시 최신 품목정보/급여기준 조회**; 실제 공급 여부도 확인함
 * 약제·제형에 따라 건조 모발 또는 젖은 모발 적용 지시가 다름; 모든 외용제에 동일 사용법을 적용하지 않음

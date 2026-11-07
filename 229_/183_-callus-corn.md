@@ -121,7 +121,7 @@ graph TD
 3. 각질 제거는 통증 완화를 위한 보조 치료이며 원인이 지속되면 재발함.
 4. 고위험 발에서는 자가 절삭이나 고농도 각질용해제를 피하고 숙련된 의료인의 발 관리와 off-loading을 우선함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">압력·마찰 줄이기</mark>
 
@@ -142,7 +142,7 @@ graph TD
 * 당뇨병 위험 발은 물에 오래 담그는 족욕·각질 불리기를 피하고 짧게 씻은 뒤 발가락 사이까지 건조; 건조한 피부에는 보습하되 발가락 사이는 피함
 * 고위험 발의 과도한 굳은살은 통증이 없어도 궤양 예방을 위해 숙련된 의료인이 관리
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 처방 시 최신 품목정보/급여기준 조회. 아래 용법·금기는 제품별로 확인하며, 다른 제품에 동일하게 적용하지 않음.

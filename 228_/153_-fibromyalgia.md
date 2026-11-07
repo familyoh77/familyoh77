@@ -253,7 +253,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">진통제</mark>
 

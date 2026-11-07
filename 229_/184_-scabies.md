@@ -130,7 +130,7 @@ graph TD
 * 치료 불응을 곧바로 내성으로 판정하지 않고 충분한 도포량·빠뜨린 부위·세척 시점·접촉자 미치료·재노출을 먼저 확인함 <mark style="color:$info;">[BAD 전문가 합의 2026]</mark>
 * 광범위한 각질성 병변으로 가피성 옴 의심 시 **당일 피부과·감염관리 평가**; 발열·빠르게 퍼지는 발적·심한 통증 등 2차 감염 소견도 신속히 평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">접촉자 조치</mark>
 
@@ -161,7 +161,7 @@ graph TD
 * 의료기관·요양시설 : 치료 기간 동안 접촉주의 유지; 국내 지침은 최종 도포 후 24시간 또는 의사가 전염력 감소를 확인할 때까지 권고
 * 가피성 옴 : 초회 치료만으로 격리 해제하지 않음; 임상 호전과 **피부 긁음 검사 음성** 등을 확인하여 전문의·감염관리팀이 전염력 소실을 판단할 때까지 단독 또는 코호트 격리 유지 <mark style="color:$info;">[CDC 가피성 옴 감염관리]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 처방 시 최신 품목정보/급여기준 조회; 국내 허가 용법과 지침에 따른 허가 외 사용을 구분함
 

@@ -183,7 +183,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 규칙적 식사, 균형 잡힌 영양 섭취; 저체중인 경우 점진적 체중 증량 목표 설정
 * 과도한 유산소·고강도 운동을 하는 경우 훈련량 조정 및 스포츠의학 상담
@@ -197,7 +197,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 국내 허가 용법과 지침·연구 요법을 구분하고 허가 외 사용은 해당 항목에 표시함. 임신 희망 여부에 따라 치료를 달리하고 호르몬제 투여 전 임신을 배제함

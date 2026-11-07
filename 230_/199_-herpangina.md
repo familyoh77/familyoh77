@@ -163,7 +163,7 @@ flowchart TB
 * 전형적인 헤르판지나에는 항생제가 필요하지 않음. 세균성 동반감염이 의심되거나 확인되면 해당 질환에 따라 평가·치료하며, 패혈증·심경부감염 등 중증 세균감염이 의심되면 확진을 기다리며 치료를 지연하지 않음
 * 헤르페스바이러스 감염이 아니므로 acyclovir 등 항헤르페스제는 적응증이 아니며, 유효성이 확립되어 있지 않아 사용하지 않음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">감염관리와 등원·등교</mark>
 
@@ -174,7 +174,7 @@ flowchart TB
 * 손발 발진이 동반되어 수족구병에 해당하면 해당 챕터의 국내 복귀 기준을 적용
 * 전염력은 증상 초기, 특히 발병 첫 주에 가장 높음. 회복 후에도 대변으로 수 주간 바이러스가 배출되어 전파 가능성이 남으므로 손 위생을 계속 유지해야 함. 분변 바이러스 배출이 끝날 때까지 일률적으로 등원을 중지하거나 복귀 전 음성 검사를 요구하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">해열·진통제</mark>
 

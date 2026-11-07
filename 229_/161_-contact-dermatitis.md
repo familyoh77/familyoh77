@@ -198,7 +198,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 냉찜질, soaking(예: cool tap water, Burow's solution)
 * 급성 진물·수포 병변 : wet dressing을 15\~30분씩 1일 수 회, 단기간 고려; 장시간 침수·밀폐는 침연과 피부장벽 손상을 유발할 수 있음
@@ -220,7 +220,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 치료제</mark>
 

@@ -216,7 +216,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * PRICE를 활용한 단기 증상 조절 : protection, relative rest, ice, compression, elevation
   * 장기간 고정보다 통증 유발 활동을 줄이는 상대적 안정이 원칙; 부목은 통증이 심할 때 짧게 선택적으로 사용하고 통증 허용 범위에서 관절 운동 유지함
@@ -230,7 +230,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소</mark>
 

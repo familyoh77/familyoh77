@@ -218,7 +218,7 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 * 추적 : 초진 평가가 불확실하거나 중등도 이상 손상이면 4~7일째 재평가를 계획함; 지속 골압통·보행 장애, 잠김 또는 악화 시 더 일찍 진단·영상 필요성을 재검토함
 * 스포츠·고강도 활동 복귀 시점은 **경과 주수만으로 결정하지 않고 기능 회복을 기준으로 판단**하며, 손상 등급별 기간은 대략적인 참고 범위로만 사용함
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">급성기 (PEACE, 손상 후 1~3일)</mark>
 
@@ -259,7 +259,7 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 * 객관적 복귀 평가의 보조 도구로 **Ankle-GO**(기능검사·환자 보고 지표를 종합한 25점 척도)를 고려할 수 있음. 2024년 전향 코호트의 2년 추적 완료자 54명에서 손상 2개월째 ＜8점은 재손상 오즈 증가와 연관됨(OR 8.6, 95% CI 2.0~37.2). 소규모 관찰연구 결과이므로 **8점 이상을 안전 복귀의 보편적 허가 기준으로 사용하지 않으며**, 통증·가동범위·근력·종목별 수행을 함께 평가함 <mark style="color:$info;">[Picot et al. 2024]</mark>
 * Sensorimotor control 평가 예 : Star Excursion Balance Test(SEBT) 등 동적 균형 검사 활용 가능
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">진통제</mark>
 

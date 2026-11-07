@@ -110,14 +110,14 @@ flowchart TD
   * 국소 치료와 항히스타민제로 조절되지 않는 광범위하고 극심한 증상에서만 예외적으로 단기간 고려
 * macrolide 계열 항생제는 일상적으로 사용하지 않음. Erythromycin은 2024년 네트워크 메타분석에서 발진 호전 신호가 있었으나 전체 근거 수준이 낮고 기존 연구 결과도 일관되지 않아 표준치료로 채택하지 않음. Azithromycin·clarithromycin은 유용성을 뒷받침하는 근거가 부족하며 불필요한 항생제 사용을 피함
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 질환의 양성 자연 경과에 대한 설명과 안심시키기(reassurance)가 우선
 * 미지근한 물로 짧게 씻고 목욕 후 보습제를 자주 도포
 * 뜨거운 목욕, 과도한 발한, 마찰, 거친 의류 등 가려움을 악화시키는 자극 요인 회피
 * 일광 노출이 병변 호전에 도움이 된다는 오래된 보고가 있으나 근거가 제한적이며, 일광화상과 색소침착 악화 위험이 있어 치료 목적으로 적극 권장하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">외용제</mark>
 

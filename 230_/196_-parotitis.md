@@ -198,7 +198,7 @@ flowchart TD
 기도 위협·패혈증·신생아 급성 감염과 볼거리 가능성을 먼저 확인함. 세균성이 의심되면 가능하면 배양 후 경험적 항생제를 투여하고 48시간 내 반응을 재평가함. 화농성 병소는 당일 농양 평가, 기도 위협·패혈증은 즉시 응급 이송이 필요함.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질 및 부드러운 마사지 : 이하선에서 Stensen관 개구부 방향으로 압력을 가볍게 가함
 * 금연, 음주 제한
@@ -209,7 +209,7 @@ flowchart TD
 * 구강 위생 관리
 * 볼거리 예방 : MMR 접종력을 확인하고 미접종·불완전 접종은 국가예방접종 기준에 따라 보완(소아 기본접종 생후 12\~15개월·4\~6세 총 2회). 접촉 후 MMR 접종이 이번 노출로 인한 발병을 확실히 막는 조치는 아니므로 격리·증상 감시를 대체하지 않음 (☞ [볼거리](197_-mumps.md))
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제</mark>
 

@@ -164,7 +164,7 @@ flowchart TD
 경증·국소 세균성 병변은 위생 관리와 대증치료만으로 호전될 수 있으며, 원인(세균성/Pseudomonas/Malassezia/Demodex/HSV 등)에 따라 치료 방향이 달라짐
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -201,7 +201,7 @@ flowchart TD
 
 <mark style="color:$info;">Ref. [IDSA SSTI Guideline 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/); 표백제 농도·방법은 [AAD Bleach bath therapy](https://www.aad.org/public/diseases/eczema/childhood/itch-relief/bleach-bath) 참고(아토피피부염 환자 안내이므로 모낭염의 직접 근거와 구분)</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 아래 용량은 **정상 신기능 성인의 대표 용량 예시**이며, 간기능·약물상호작용 및 배양/감수성 결과에 따라 조정함. 소아에게 성인 용량을 그대로 적용하지 않으며, 연령·체중·국내 가용 제형에 맞춰 별도로 결정함.

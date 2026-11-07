@@ -189,7 +189,7 @@ graph LR
 비-약물 치료(운동, 체중 관리, 자가 관리 교육)가 모든 관절·모든 중증도에서 1차 치료이자 핵심 축이며, 약물 치료는 이를 보완하는 역할. 다관절·전신 동반질환이 있는 환자는 다학제적 접근이 권장됨 (ACR 2026 권고 요약본, OARSI 2019)
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온/냉찜질
 * 관절 보호 장치·부목 : 통증·기능 저하가 있는 손 OA와 무릎 OA에서 환자에 맞춰 선택
@@ -277,7 +277,7 @@ graph LR
 * TF=tibiofemoral, PF=patellofemoral, CBT=인지행동치료, RFA=고주파 절제술
 * 도수치료는 운동을 대체하지 않으며, NICE NG226은 무릎·고관절 OA에서 운동과 병행하는 경우에만 고려하도록 함
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 무증상 OA는 약물 치료하지 않음
 * 경구제의 부작용을 감안하여 경피제를 우선 권고하기도 함

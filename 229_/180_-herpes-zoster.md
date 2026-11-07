@@ -194,7 +194,7 @@ flowchart TD
 * 예방적 항생제 또는 국소 항생제를 일률적으로 사용하지 않으며 2차 세균감염이 확인·의심될 때만 치료
 * 발진 초기에는 새 수포가 생길 수 있으나, 발진 7일 이후에도 새 병변이 발생하거나 치료에도 진행하면 순응도·진단 오류·면역저하를 재평가하고 중증 면역저하자에서 내성을 고려
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 휴식과 충분한 수분·영양 섭취
 * 병변을 깨끗하고 건조하게 유지하고, 헐렁한 옷을 착용하며, 냉습포로 통증·가려움을 완화
@@ -254,7 +254,7 @@ flowchart TD
 {% endhint %}
 
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항바이러스제 투여 대상과 시점</mark>
 

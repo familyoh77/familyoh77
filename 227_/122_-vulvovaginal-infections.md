@@ -174,13 +174,13 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 위험 요인 회피 : 잦은 질 세척 중단, 금연, 성관계 시 콘돔 사용(질 내 제제 사용 중·후에는 제품별 라텍스 주의사항 확인)
 * 물리적/화학적 자극 회피 : 질 세정제, 향수 비누, 조이는 옷, 불필요한 질 내 제품 사용
 * 폐경 관련 건조감·성교통 : 질 보습제 및 성교 시 윤활제를 단독 또는 국소 estrogen과 병용하여 고려 <mark style="color:$info;">\[AUA/SUFU/AUGS 2025]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 1일 1회 질 내 제제는 취침 시 적용. 아래 경구·질 내 요법 중 질환과 상황에 맞는 요법을 선택하며, 일률적인 경구·질 내 항균제 병용은 하지 않음
 * 오일 기반 질 크림·좌제는 콘돔 및 질 diaphragm의 라텍스를 약화시킬 수 있음. clindamycin 2% 질크림은 사용 후 5일, clindamycin 질좌제는 사용 후 72시간 동안 라텍스 제품 사용을 피하고, 항진균 질 제제는 제품별 첨부문서를 확인 <mark style="color:$info;">\[CDC 2021]</mark>

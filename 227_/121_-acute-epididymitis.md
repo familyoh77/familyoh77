@@ -128,7 +128,7 @@ flowchart TD
 * STI 관련 부고환염에서는 본인·파트너 모두 해당 치료를 완료하고 증상이 소실될 때까지 성관계 중단. 단순 클라미디아의 7일 치료 후 재개 기준을 본인 부고환염의 10일 치료에 그대로 적용하지 않음
   * CDC 부고환염 기준은 증상 발생 전 60일 이내 파트너 및 그 이전이라도 가장 최근 파트너를 평가·검사·추정 치료. 국내 클라미디아 지침은 유증상 8주·무증상 6개월로 차이가 있으므로 확진 병원체와 파트너 상황에 따라 [클라미디아](115_-4.chlamydia.md) 챕터 기준도 적용. 파트너는 직접 진료를 연계 <mark style="color:$info;">[CDC 2021; 국내 STI 2023]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 대증 치료 : 안정/활동 제한, 음낭 거상·지지(예: scrotal supporter), 냉찜질. 냉팩은 수건으로 감싸 한 번에 10~15분 정도 적용하고 피부에 직접 대거나 잠든 채 사용하지 않음. 통증·발열에 대한 약제는 아래 약물 치료 참조
 * 예방
@@ -138,7 +138,7 @@ flowchart TD
   * ✽볼거리(mumps) 백신 : 세균성 부고환염이 아닌 볼거리 바이러스성 orchitis 예방 목적
   * ✽doxycycline PEP : 부고환염 자체의 예방 요법은 아님. 최근 12개월 내 세균성 STI 병력이 있는 MSM/TGW에서는 CDC 2024 STI 예방 지침에 따라 성접촉 후 72시간 이내 doxycycline 200 ㎎(24시간 최대 200 ㎎) 사용의 이득·위험을 개별 상담; 국내 STI 예방 목적은 허가 외 사용(☞ [STI](115_-1.STI.md#doxy-pep))
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제 \[CDC 2021 중심]</mark>
 

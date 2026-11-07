@@ -128,7 +128,7 @@ flowchart TD
 * M. genitalium: 현재 파트너를 검사하고 양성이면 치료; 검사 불가 시 경험적 치료 필요성을 전문의와 판단. CT·NG의 60일 기준을 그대로 적용하지 않음
 * 파트너도 직접 의료기관에서 평가·처방받도록 안내 <mark style="color:$info;">[국내 STI 2023; CDC 2021; BASHH 2025]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 감염성 경부염의 치료 기간에는 본인 및 성 파트너가 치료를 완료하고 증상이 호전될 때까지 성관계를 피함
 * 콘돔 사용 및 성 파트너 수 제한
@@ -138,7 +138,7 @@ flowchart TD
 * 기존에 삽입된 자궁 내 기구(IUD)는 단순 자궁경부염 치료를 위해 제거할 필요가 없으나, 활동성 농성 경부염·클라미디아·임균 감염 중 새 IUD 삽입은 연기. PID가 동반되면 별도 PID 관리 원칙 적용
 * Doxy-PEP는 자궁경부염이 있는 일반 여성에게 일률적으로 권고하지 않음: CDC 2024는 시스젠더 여성에서 이득·위해를 판단할 근거가 불충분하다고 명시 <mark style="color:$info;">[CDC Doxy-PEP 2024]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">경험적 항생제 치료</mark>
 

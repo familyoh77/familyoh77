@@ -126,7 +126,7 @@ graph TD
 * 야간 가려움 또는 수면 중 긁기가 심한 경우 진정성 항히스타민제를 단기간 보조적으로 고려
 * 약 1~2주에 가려움·수면·태선화와 부작용을 확인함. 이 시점은 완치 판정 기한이 아니며, 충분한 회복에는 수주~수개월이 필요할 수 있음. 호전이 없으면 진단·도포량·실제 사용·지속 노출·감염·접촉알레르기를 먼저 재평가하고 무조건 역가를 높이지 않음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 냉찜질(10\~15분) : 얼음은 천으로 감싸고 피부에 직접 대지 않음
 * 짧은 미지근한 목욕·샤워 후 향료가 없는 보습제를 도포하고, 건조할 때 덧바름 (☞ [습진](159_-eczema.md))
@@ -136,7 +136,7 @@ graph TD
 * 부드러운 면·실크 등 마찰이 적은 소재의 의류/속옷 착용
 * 외음부/항문주위 : 향료·세정제·물티슈·반복 세척 등의 자극과 불필요한 국소 약제를 피하고, 땀·소변·대변 자극 및 동반 질환을 교정
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항염 : 국소 Steroid</mark>
 

@@ -122,13 +122,13 @@ flowchart TD
 * 고위험 호중구감소증(ANC ＜100/㎣, ≥7일 예상) : 선별·치료에 대한 근거 부족으로 권고 없음(No recommendation); 저위험 호중구감소증은 일반 비호중구감소 환자와 동일하게 접근
 * 비뇨기과가 아닌 선택 수술(관절 치환술 등) 예정자 : ASB 선별·치료 권고 안 함; 해당 수술 자체의 표준 예방적 항균제 투여와 구분
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 치료 적응증이 없는 환자에게는 세균뇨를 없애는 것보다 불필요한 검사·항균제 사용을 줄이고 새로운 증상을 인지하도록 교육하는 것이 중요함
 * 유치 도뇨관은 필요성을 재평가하여 가능한 한 조기에 제거하고 폐쇄 배액계를 유지함. ASB만으로 반복 교환하거나 항균제 방광 세척을 하지 않음
 * 물을 과도하게 마시거나 크랜베리·유산균 등을 사용하여 ASB를 제거하도록 권고할 근거는 부족함; 심부전·신장질환의 수분 제한이 있으면 기존 계획을 따름
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">임신부</mark>
 

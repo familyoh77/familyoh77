@@ -274,7 +274,7 @@ graph TD
 **비특이적·과사용성 손목 통증에서는 활동 조절, 냉찜질, 적절한 부목과 단기 진통제를 사용할 수 있으며, 골절·인대 손상·신경포착·감염 등 원인 질환에 따라 치료를 달리합니다.**
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * Rest : 통증 유발 동작 회피
 * 냉찜질 : 초기 24\~48시간에 통증·부종 완화를 위해 15분씩 하루 여러 차례 적용; 동상 주의(피부에 직접 얼음이 닿지 않도록 함)
@@ -290,7 +290,7 @@ graph TD
 * 낙상 예방 : 적당한 신발, 미끄러짐 방지 장치, 발에 걸릴 위험이 있는 물건을 치움, 조명을 어둡지 않게 함; 고령에서 약물 주의
 * 필요시 활동(특히 운동) 중 손목 보호대 착용
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 급성 염좌·연조직 손상의 국소 통증은 국소 NSAID를 우선 고려함. 필요시 경구 NSAID 또는 acetaminophen을 선택하며, 이 원칙을 감염·골절·신경 압박의 원인 치료 대신 적용하지 않음 <mark style="color:$info;">[ACP/AAFP 2020]</mark>
 * 다음은 성인 용량이며 비특이적·과사용성 손목 통증의 증상 조절에 acetaminophen 또는 NSAID를 단기간 사용함; 동시 복용 약·위장관·신장·심혈관 위험과 임신 여부를 확인함. 손목터널증후군의 신경 압박 자체를 치료하는 약은 아님

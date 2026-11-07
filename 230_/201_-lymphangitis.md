@@ -148,7 +148,7 @@ flowchart TD
 **단계별 접근**: 응급 소견(괴사성근막염·패혈증) 배제 → 배농이 필요한 화농성 병소 확인 → 특수 노출·결절성 병변 감별 → 중증도에 따른 항생제 선택 → 24\~48시간 재평가
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 상처를 부드럽게 세척하고 적절한 드레싱으로 덮으며, 젖거나 오염되면 교체함.
 * 환부를 심장보다 높게 거상하고 무리한 사용을 줄임.
@@ -159,7 +159,7 @@ flowchart TD
 * 위험인자를 교정했는데도 연조직염이 반복되면 진단을 재확인하고 예방 항생제 필요성을 감염내과와 평가함. IDSA는 연 3\~4회 재발 시 고려하도록 제시하며, 첫 급성 림프관염에 예방 항생제를 일률적으로 시작하지 않음. <mark style="color:$info;">[IDSA 2014]</mark>
 * 고름·삼출물이 있는 상처에서는 손 위생을 철저히 하고, 수건·면도기 등 피부에 닿는 개인 물품은 다른 사람과 공유하지 않음. 비화농성 림프관염 자체가 일상적 접촉으로 전파되는 것은 아님.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제 선택 원칙</mark>
 

@@ -252,7 +252,7 @@ HAPE 의심 소견에는 안정 시 호흡곤란뿐 아니라 같은 고도의 �
 * HACE: 같은 여행에서의 재상승에 관한 자료가 부족하므로 피하는 것이 신중함.
 * HAPE: 안정 시·경도 운동 시 산소포화도가 산소·혈관확장제 없이도 안정적으로 유지되고 완전히 무증상일 때만 재상승을 고려함. 재상승 시 nifedipine 등 혈관확장제 재개를 고려할 수 있음.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 가능하면 낮은 고도에서 하루 만에 약 2,750 m 이상의 수면 고도로 직접 이동하지 않음(CDC Yellow Book 2026). 위 WMS 2024 위험도 표의 첫날 수면 고도 경계 2,800/3,500 m와 CDC 위험도 표의 2,750/3,400 m는 출처별 수치 차이가 있으므로 혼용하지 않음.
 * 3,000 m 이상에서는 수면 고도를 하루 500 m 이하로 올리고 3\~4일마다, 또는 약 1,000 m 상승할 때마다 수면 고도를 높이지 않는 적응일을 둠.
@@ -264,7 +264,7 @@ HAPE 의심 소견에는 안정 시 호흡곤란뿐 아니라 같은 고도의 �
 * 증상이 나타나면 즉시 추가 상승을 중지함.
 * 은행잎 추출물, 코카 잎·차, 산소바·소형 산소캔, 고산병 예방 패치·보충제를 검증된 예방법 대신 사용하지 않음. 저산소 텐트의 짧거나 간헐적인 노출에 예방 효과를 기대하지 않음.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="warning" %}
 아래 AMS/HACE/HAPE 예방·치료 용법은 국내 허가 외 사용에 해당함(일반적인 두통 대증치료는 별도). 특히 acetazolamide의 AMS/HACE 예방·치료, nifedipine·tadalafil·sildenafil의 HAPE 예방·치료 및 dexamethasone의 고도질환 관련 용법은 처방 전 최신 국내 허가사항, 금기, 제품 제형 및 급여 여부를 별도로 확인함. WMS 근거 용법과 국내 허가·급여 기준은 같은 개념이 아님. **처방 시 최신 품목정보/급여기준 조회.**

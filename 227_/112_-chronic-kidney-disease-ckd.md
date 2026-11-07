@@ -223,7 +223,7 @@ flowchart TD
 5. 합병증 (빈혈, 골대사이상, 고칼륨혈증, 요독증) 관리
 6. G4\~G5에서 신장 대체 요법 준비
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 싱겁게 먹고 단백질은 CKD 병기·영양 상태·투석 여부에 맞추어 섭취한다.
 * 칼륨이 많은 음식의 지나친 섭취를 피한다(고칼륨혈증 위험이 있는 경우에 한함).

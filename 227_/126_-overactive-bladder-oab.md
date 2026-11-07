@@ -158,7 +158,7 @@ flowchart TD
 * 치료 방법 : 행동 치료, 약물 치료, 최소침습 시술을 공동 의사결정을 통해 단독 또는 병용으로 선택(반드시 순차적 진행일 필요는 없음)(☞ [요실금](125_-urinary-incontinence.md))
 * 공동 의사결정 원칙 : 치료 효과, 부작용, 비용, 순응도를 환자와 함께 논의하여 결정 <mark style="color:$info;">[AUA/SUFU 2024]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * Bladder training : 배뇨 일지로 현재 간격을 파악하고 무리하지 않는 범위에서 점진적으로 늘림. 여성 절박성·혼합성 요실금에서는 최소 6주 프로그램을 권고하며, 약물과 함께 시행 가능 <mark style="color:$info;">[NICE NG123]</mark>
 * Urge suppression training : 요절박 시 멈추어 천천히 호흡하고 짧은 골반저 근육 수축을 반복하여 절박감이 줄어든 뒤 이동
@@ -173,7 +173,7 @@ flowchart TD
 방광 훈련은 모든 OAB 환자에게 제안하며, 행동 요법은 약물·시술과 병행할 수 있음. 배뇨가 어렵거나 잔뇨가 많은 환자는 훈련 전에 배출 장애를 평가
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 항무스카린제(antimuscarinics) 또는 β3-아드레날린수용체 작용제를 단독으로 사용하고, 단독 치료 효과가 불충분하면 서로 다른 계열의 병용을 고려
 * 항무스카린제 선택 시 속효형보다 서방형을 고려(특히 구강건조를 줄이기 위해); 고령자에서는 인지기능과 전체 항콜린 부담을 함께 고려

@@ -158,7 +158,7 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 특발성 NLC에서 약물치료의 효과를 뒷받침하는 근거는 전반적으로 제한적이며, 일률적 약물치료는 권장되지 않음
 * 비약물 치료 후에도 빈번하고 심한 경련으로 수면·삶의 질이 현저히 저하된 경우, 이차 원인과 유발 약물을 다시 확인한 뒤 환자와 근거의 한계를 공유하고 개별적으로 단기간 trial을 고려

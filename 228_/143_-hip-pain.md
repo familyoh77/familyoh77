@@ -288,7 +288,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 
 ***
 
-### <mark style="color:green;">비-약물 치료 및 예방</mark>
+### ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 휴식·활동 조절 : 급성 악화 시 통증 유발 활동을 일시적으로 줄이고, 골절·감염 등 긴급 원인이 배제되면 통증 범위 내에서 점진적으로 운동 및 활동 재개
 * 냉찜질 : 얼음이 직접 피부에 닿지 않도록 함(동상 주의), 한 번에 10\~15분 이상 지속하지 않음
@@ -318,7 +318,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 
 ***
 
-### <mark style="color:green;">약물 치료</mark>
+### <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 #### <mark style="color:orange;">진통제</mark>
 

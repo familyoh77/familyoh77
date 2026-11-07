@@ -174,7 +174,7 @@ flowchart TD
 * 여성에서 반복 재발하고 다모증·불규칙 월경 등이 동반되면 hyperandrogenism 또는 다른 호르몬 질환을 평가
 * 유지요법 : 재발이 잦으면 adapalene/BPO를 우선 고려; 불내성·금기 시 adapalene, azelaic acid 또는 BPO 단독을 선택하고 약 12주 후 재평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 피부 관리와 비면포생성 제품 선택, 병변을 뜯지 않는 습관을 교육함
 * 규칙적인 생활·충분한 수면·스트레스 관리는 전반적인 건강과 치료 지속에 도움이 될 수 있으나 단독 치료 효과는 확립되지 않음
@@ -209,7 +209,7 @@ flowchart TD
 * 특정 기기의 치료 일정(예: `4주간 주 2회, 15분/회`)을 일반 처방으로 적용하지 않음
 * (참고) 1726 nm 레이저는 2022년 미국 FDA 510(k) 허가(clearance)를 받았으나, RCT 부재로 2024 AAD 가이드라인에서는 근거를 평가하지 않았음; 국내 허가·유통 여부 확인
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 강한 권고 : benzoyl peroxide, 국소 retinoid, 국소 항생제, 경구 doxycycline; 중증 또는 다른 요법으로 실패한 경우 경구 isotretinoin
 * 조건부 권고 : 국소 clascoterone, salicylic acid, azelaic acid; 경구 minocycline, sarecycline, 복합 경구 피임제, spironolactone

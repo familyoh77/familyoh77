@@ -317,7 +317,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 환자 교육 및 self-management 지원 - 질환 경과와 치료 목표에 대한 이해를 높임
 * 규칙적인 운동 및 근력 강화 : OA 비약물 치료의 핵심 축<mark style="color:$info;">[ACR 2026, AAOS 2021]</mark>; 유산소·근력 운동을 증상에 맞게 조정하고 유연성·균형 운동을 병행
@@ -331,7 +331,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 _✽아래 경구제 용량과 처방례는 성인 예시임. 제형별 국내 허가 용법과 임상적으로 선택한 보수적 용량을 구분하며, 연령·동반질환·신장/간기능·병용약에 따라 조정함. 소아는 별도 체중별 용량을 적용함_
 

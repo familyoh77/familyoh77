@@ -211,7 +211,7 @@ flowchart TD
 구강·안면은 탈수·경구섭취 여부, 생식기는 "첫 임상 발현인가 재발인가", 안구는 "당일 안과 의뢰가 필요한가"를 가장 먼저 판단함.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">구강·안면 감염 - 대증 치료</mark>
 
@@ -245,7 +245,7 @@ flowchart TD
 * 신생아, 중증 면역저하자 및 광범위 아토피피부염 환자는 활동성 구순포진 병변과 직접 접촉하지 않도록 함
 * 현재 HSV 예방 백신은 없음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">구강·안면 감염 - 국소 항바이러스제 (재발성 구순포진)</mark>
 

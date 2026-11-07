@@ -185,7 +185,7 @@ flowchart TD
 
 <mark style="color:$info;">Ref. NICE NG153, 2020; NICE NG190, 2021; ACE SSTI ACG, 2026.</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 병변을 미지근한 물과 순한 비누로 부드럽게 세척
 * 세척 시 분비물과 느슨한 가피는 부드럽게 제거할 수 있으나, **가피를 억지로 제거할 필요는 없음**
@@ -209,7 +209,7 @@ flowchart TD
 * **신생아 농가진**에서는 가족뿐 아니라 신생아실·산후조리원 종사자의 피부감염 또는 보균 가능성을 고려하고, 집단 발생이 의심되면 해당 기관 및 보건소와 공유
 * 반복 재발 시 병변 배양 및 필요 시 비강 보균 평가 후 **선택적 decolonization** 고려
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 항생제</mark>
 

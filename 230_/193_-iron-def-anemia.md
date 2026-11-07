@@ -187,7 +187,7 @@ graph TD
 * 용혈이 의심되면 PNH, 기계판막, G6PD deficiency 등 별도 원인을 평가함 (✽G6PD deficiency는 iron usage 결함이 아니라 용혈성 빈혈의 원인)
 * 소아기부터 지속되고 경구철에 현저히 불응하는 드문 경우 iron-refractory iron deficiency anemia(TMPRSS6 관련) 등을 전문의와 검토
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">식이를 통한 철분 섭취</mark>
 
@@ -211,7 +211,7 @@ graph TD
 
 <mark style="color:$info;">Ref. NIH Office of Dietary Supplements. Iron: Fact Sheet for Health Professionals. (미국 기준이며 국내 식품과 차이가 있을 수 있음)</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">경구철</mark>
 

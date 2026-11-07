@@ -226,7 +226,7 @@ flowchart TD
 **화상·일광화상 챕터와의 적용 구분**: 열화상의 흐르는 물 총 20분 냉각은 국소 조직손상 완화가 목적임. 일광화상은 시원한 물·젖은 천으로 피부 증상을 완화함. 열사병의 얼음물·냉수 전신 침수는 생명을 위협하는 중심체온을 낮추는 처치이므로 화상 피부에 얼음을 직접 대지 않는 원칙과 적용 대상이 다름. 일광화상과 열사병이 함께 있으면 ABC 안정과 신속한 전신 냉각을 우선함. (☞ [화상](206_-burn.md), [일광화상](207_-sunburn.md))
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">환경과 활동 조절</mark>
 
@@ -271,7 +271,7 @@ flowchart TD
 * 운동성 열사병 후에는 초기 의료처치 종료 후 최소 7일간 운동을 중단하고 장기 기능과 회복 상태를 재평가함(ACSM 2023). 이후 의료진 허용하에 서늘한 환경의 저강도·짧은 활동부터 시작하여 보통 2\~4주에 걸쳐 시간·강도·고온 노출·보호구를 단계적으로 늘림. 최소 휴식기간 경과나 정상 체온만으로 복귀를 허용하지 않음
 * 회복 중 증상이 재발하거나 복귀 단계를 진행하지 못하면 스포츠의학·직업환경의학 등 관련 전문가 평가를 고려함. 특히 4\~6주 내 고강도 활동·고온 적응을 회복하지 못하면 재평가함(ACSM 2023). 필요 시 열내성검사(heat tolerance testing)를 선택하되 정상 검사 하나로 안전한 복귀를 보장하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">수액 및 응급 보조약</mark>
 

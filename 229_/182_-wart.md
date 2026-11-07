@@ -178,7 +178,7 @@ flowchart TD
 항문생식기·얼굴·눈꺼풀·점막 병변에 일반 피부사마귀용 salicylic acid, 5-FU 또는 cantharidin을 임의로 적용하지 않음.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 병변을 뜯거나 긁지 않고 면도에 의한 손상을 피함
 * 손톱깎이·면도기·손톱줄·부석 등 피부 손상 도구를 공유하지 않음
@@ -194,7 +194,7 @@ flowchart TD
 * 자극·미란이 생기면 중단
 * 당뇨병, 말초동맥질환, 감각저하 부위에는 자가 밀폐요법을 시행하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">salicylic acid</mark>
 

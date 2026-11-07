@@ -266,13 +266,13 @@ flowchart TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 과체중·비만이 있으면 체중 관리와 규칙적인 운동을 권고; 저체중·섭식 장애·과도한 운동에 의한 배란 장애에서는 영양 회복과 운동량 조절이 필요
 * 철분이 풍부한 식이는 도움이 되나, 확인된 철결핍/빈혈의 약물 보충을 대신하지 못함
 * 월경 일지를 이용하여 출혈의 빈도·기간·양과 치료 반응을 기록
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 국내 허가 용법과 지침·연구에서 사용하는 용법을 구분합니다. **허가와 건강보험 급여는 별개의 판단**이며, 급여는 제품·적응증별 현행 기준을 확인합니다. 급성 AUB의 고용량 COC/MPA, 야즈·야스민의 AUB/HMB 치료, NSAID의 HMB 감소 목적 사용 등은 허가 외 사용입니다. 피임·월경통 등 각 제품에 허가된 적응증과 구분하고, 임신 및 중요한 구조적·악성 원인과 약물별 금기를 확인한 뒤 선택합니다.

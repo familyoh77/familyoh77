@@ -262,7 +262,7 @@ flowchart TD
 * 콩팥 독성 약물·불필요한 보충제를 줄이고 약제의 eGFR별 용량·상호작용을 점검 (예: NSAID, aminoglycoside)
 * 추적 : CKD에서는 적어도 매년 uACR·eGFR을 평가하며, 고위험·진행·치료 변경 시 간격을 단축. 유의한 알부민뇨의 2배 증가, 지속적 eGFR 감소, 조절되지 않는 고혈압·칼륨 이상은 원인 재평가 및 협진
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 단백질 섭취 : 성인 비투석 CKD G3\~G5에서 0.8 g/㎏/d 유지 권고; 진행 위험이 있는 경우 1.3 g/㎏/d 초과 섭취는 피함. 고령·허약·근감소증 환자는 영양 상태에 따라 단백질·열량 목표를 상향 조정
 * Na 섭취 제한 : 성인 CKD에서 ＜2 g/d(소금으로 5 g/d); 소아·염분 소실성 질환은 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
@@ -270,7 +270,7 @@ flowchart TD
 * 금연, 적정 체중 유지
 * 안정된 환자는 내약 범위에서 주당 ≥150분 중등도 신체활동을 권장; 단백뇨 확인 검사 전 격렬한 운동은 피함. 단백뇨만으로 장기간 침상안정을 권하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">RAAS 억제제(ACEI/ARB) - 1차 선택제</mark>
 

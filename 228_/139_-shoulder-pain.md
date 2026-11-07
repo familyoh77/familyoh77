@@ -328,7 +328,7 @@ flowchart TD
 
 _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주사 치료의 위치가 다름. Ref. 대한재활의학회 동결견 진료지침 2025; AAOS 회전근개 지침 2025; J Orthop Sports Phys Ther 회전근개 건병증 지침 2025._
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">행동 수정 (주의해야 하는 동작)</mark>
 
@@ -357,7 +357,7 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
 
 * arm sling : 급성 외상·AC joint 손상·극심한 통증에서 단기간 comfort 목적으로 사용; 불필요한 장기간 고정은 강직 위험을 높임. 골절·탈구·수술 후에는 손상 안정성과 정형외과 재활 계획에 따라 고정 기간·ROM 개시 시점을 결정
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 진통제는 교육·활동 조절·운동 치료를 돕는 단기 보조 요법으로 사용. 환자의 위장관·심혈관·신장·간 위험에 따라 acetaminophen 또는 NSAID를 선택 (☞ 관련 챕터)
 * 아래 용량·처방례는 성인 기준; 소아는 연령·체중과 제품 허가사항에 따라 별도 적용

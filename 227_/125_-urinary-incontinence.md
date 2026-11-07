@@ -183,7 +183,7 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
@@ -233,7 +233,7 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 약제별 국내 허가 용량과 신·간기능을 확인하고 시작 → 증상 완화, 환자 만족도, 부작용을 관찰하면서 조정 (☞ [전립선비대증](124_-benign-prostatic-hyperplasia-bph.md))
 * 항무스카린제는 같은 성분의 속방형보다 서방형에서 입마름 등 부작용이 적어 우선 고려; 서방형도 인지·요폐 위험이 없어지는 것은 아님

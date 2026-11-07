@@ -173,7 +173,7 @@ ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">급성기</mark>
 
@@ -196,7 +196,7 @@ ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하
 
 _✽채소류의 퓨린 함량은 육류·해산물과 달리 통풍 위험 증가와 뚜렷한 관련이 없다는 보고가 있어, 퓨린이 있다는 이유만으로 채소 섭취를 과도하게 제한할 필요는 없음_
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">급성 발작 치료</mark>
 

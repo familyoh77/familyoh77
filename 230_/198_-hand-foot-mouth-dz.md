@@ -164,7 +164,7 @@ flowchart TB
 * 경구 재수화에 실패하거나 심한 탈수·순환부전이 있으면 입원 가능한 기관에서 비위관 또는 정맥 수액 치료를 평가. 쇼크·의식저하 시 즉각 응급 치료
 * 신경계 또는 심폐 합병증이 의심되면 즉시 입원 가능한 기관으로 의뢰. 폐부종·심기능저하 가능성이 있어 수액은 순환·호흡 상태를 반복 평가하며 투여하고 과도한 일괄 급속 주입을 피함 <mark style="color:$info;">[WHO WPRO 2011]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 차갑거나 미지근한 물, 우유, 요구르트, 경구수분보충액 등을 한 번에 많이 주기보다 소량씩 자주 제공
 * 뜨겁고 맵고 짜거나 산성인 음식·음료는 구강궤양을 자극할 수 있으므로 피함
@@ -191,7 +191,7 @@ flowchart TB
 * 등원·등교 확인서에는 현재 발열 여부와 구강병변·수포의 호전 및 건조 상태를 기재함. 전국적으로 통일된 확인서 발급 기준은 아니므로 해당 시설이나 지역 보건당국의 요구사항을 확인
 * 증상 회복 후에도 분변으로 수주간 바이러스가 배출될 수 있음. 복귀 확인을 위한 대변 RT-PCR 음전 확인을 일률적으로 요구하지 않으며, 복귀 후에도 기저귀 교체·배변 후 손 위생을 철저히 하고 단체 물놀이는 보건당국·시설 안내에 따라 자제
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">해열·진통제</mark>
 

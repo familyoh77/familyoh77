@@ -180,7 +180,7 @@ graph TD
   * 발진 없는 의사환자 : 국내 2026년 지침에 따라 **발열 발생일을 기준으로 D+9까지** 매일 발진 여부를 관찰하며 격리. 도중 발진이 생기면 그 발진일을 D0로 다시 산정하여 D+4까지 격리함. 발열도 없으면 다른 증상 발생일을 기준으로 하며 해제는 보건소와 결정 <mark style="color:$info;">[질병관리청 홍역 대응 지침 2026, p24·28]</mark>
   * 중증 면역저하자는 질병 경과와 바이러스 배출 가능성을 고려하여 격리기간을 개별 결정하며, 위 D+4·D+9만으로 기계적으로 해제하지 않음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 충분한 휴식과 수분 공급
 * 설사·구토가 있으면 경구수분보충액을 이용하여 탈수 예방
@@ -261,7 +261,7 @@ MMR 백신은 닭 배아 섬유아세포 배양 백신으로 난백 단백질이
 * 영아, 임신부, 면역저하자 및 비면역자는 환자와 접촉하지 않도록 함
 * 환자의 외출은 발진 발생 후 4일이 경과할 때까지 제한하되, 보건당국의 격리 지시가 있으면 그 지시를 따름
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">해열제</mark>
 

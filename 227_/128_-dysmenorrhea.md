@@ -145,7 +145,7 @@ graph TD
 * NSAID와 호르몬 치료는 금기·피임 필요·임신 계획·선호에 따라 선택하며 병용 가능. 병용을 위해 반드시 2~3개월의 단독요법을 먼저 마칠 필요는 없음
 * 치료 목표는 통증 완화와 일상 기능 회복; 임신을 시도 중이면 피임·월경 억제 치료와 목표가 달라 별도 상담
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 국소 온열 치료(온찜질) : 통증 완화에 도움이 되며 NSAID와 함께 사용 가능. 2026년 체계적 문헌고찰에서도 효과를 지지하나 연구의 이질성·편향 위험을 고려하여 NSAID보다 우월하다고 일반화하지 않음; 피부에 직접 고온을 오래 적용하지 말고 수면 중 사용을 피하여 저온화상 예방 <mark style="color:$info;">[Yuan et al. 2026]</mark>
 * 규칙적 운동 : 증상 개선에 권고됨 <mark style="color:$info;">[SOGC 2025, conditional recommendation, low-certainty evidence]</mark>
@@ -158,7 +158,7 @@ graph TD
   * 금연, 수면·스트레스 관리, 증상 일기 활용을 권장; 통증을 심리적 문제만으로 돌리지 않음
   * 2차성 : 성매개감염 예방(☞ 골반염 관련 챕터 참조)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">NSAID</mark>
 

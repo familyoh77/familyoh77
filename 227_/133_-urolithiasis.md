@@ -279,7 +279,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">배출 촉진 - Medical Expulsive Therapy(MET)</mark>
 

@@ -201,7 +201,7 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * **운동 치료(1차 핵심 치료)** : 환자 교육과 함께 knee-targeted exercise를 기본으로 개별화된 빈도와 강도로(예 : 주 2\~3회 이상의 구조화된 운동을 환자 상태와 부하 내성에 맞추어 조절) 우선 6~12주를 계획하고 중간 반응에 따라 조정하며, 고관절 근력 저하·운동조절 이상 등 개별 평가 결과에 따라 hip-targeted exercise를 병합
   * Hip+knee 병합 운동은 적절한 환자에서 통증과 기능 개선에 효과적이며, 모든 환자에게 동일한 프로그램을 일률적으로 적용하기보다 임상 양상에 따라 구성
@@ -222,7 +222,7 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 약물은 일률적으로 처방하지 않으며, 교육·부하 조절만으로 충분한 경증 PFP에는 생략 가능함. 통증이 활동·운동을 방해할 때 단기·선택적으로 고려함. 네덜란드 2025 지침은 진통제를 심한 통증에 한정하도록 보수적으로 권고함 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>. 약물은 운동 치료를 대체하지 않으며, PFP 자체에 대한 질환 특이적 약물 근거는 제한적임(Cochrane review, Heintjes 등 2004 : NSAID가 단기 통증 감소에 제한적 근거를 보였으나 3개월 후 전체 통증 개선은 확인되지 않음). 운동 치료를 가능하게 하기 위한 **최소 유효 용량으로 단기간** 증상 조절 목적으로만 사용
 

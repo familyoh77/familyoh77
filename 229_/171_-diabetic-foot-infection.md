@@ -183,7 +183,7 @@ flowchart TB
 * 통각성 통증에는 아세트아미노펜을 우선 고려하되 간질환·과음 여부를 확인함. NSAID는 신기능 저하, 탈수, PAD, 위장관 출혈 및 심혈관 위험을 평가한 뒤 필요한 경우에만 단기간 사용함. 새로 발생하거나 빠르게 악화되는 심한 통증은 진통제를 증량하기 전에 허혈, 심부 감염 또는 괴사성 감염을 재평가함.
 * povidone-iodine packing, 은제제, 꿀, 국소 항생제, 음압창상치료를 **감염 치료 목적의 보조요법**으로 일률적으로 사용하지 않음. 고압산소·국소 산소 치료 역시 감염 치료만을 목적으로 사용하지 않음. 음압창상치료 등 창상치유 목적의 별도 적응증은 구분함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육함. 국내 대한당뇨병학회 2025 지침도 연 1회 포괄적 평가·발 관리 교육 및 족부궤양의 다학제 치료를 권고함. <mark style="color:$info;">Ref. 대한당뇨병학회 2025 당뇨병 진료지침.</mark>
   * 10-g monofilament 검사 또는 Ipswich touch test에 다른 신경학적 검사(pinprick, 온도 감각, 128 Hz 진동 감각 등)를 하나 이상 병행함. Monofilament 감각 소실과 다른 검사 이상이 함께 있으면 LOPS(loss of protective sensation)를 확인함. 정상 monofilament 단독으로 초기 말초신경병증을 배제하지 않음 <mark style="color:$info;">Ref. ADA Standards of Care, 2026, Section 12.</mark>
@@ -207,7 +207,7 @@ flowchart TB
 * 자가 발 온도 모니터링 : IWGDF risk 2\~3 환자에서 족저궤양 예방을 위해 고려할 수 있음. 좌우 대응 부위 온도 차가 2일 연속 ＞2.2℃이면 보행 활동을 줄이고 의료진에게 상담하도록 교육함. 이는 **궤양 예방 목적**이며, 이미 발생한 족부감염의 진단검사는 아니다. <mark style="color:$info;">Ref. IWGDF 2023, 조건부 권고</mark>
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">선택 원칙</mark>
 

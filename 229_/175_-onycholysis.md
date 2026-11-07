@@ -178,7 +178,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 반복 외상과 물, 비누, 세제, 알칼리, 표백제, 용제 노출을 최소화
 * 물일을 할 때는 면장갑 위에 방수 장갑을 착용하고 작업 후 충분히 건조. 장갑 안에 땀이 차면 벗어 말리고 젖은 면장갑은 교체
@@ -188,7 +188,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">염증성 손발톱질환</mark>
 

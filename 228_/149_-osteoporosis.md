@@ -213,7 +213,7 @@ Ref. 대한골대사학회 2024 치료 전략, Endocrine Society 2019/2020, NOGG
 * 생활 습관 개선 : 금연, 음주 제한, 낙상 예방, 체중 부하 운동
 * 약물 치료 : bisphosphonate, denosumab, teriparatide, romosozumab, SERM; 선별 환자에서 폐경호르몬요법/tibolone
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">금연, 음주 제한</mark>
 
@@ -240,7 +240,7 @@ Ref. 대한골대사학회 2024 치료 전략, Endocrine Society 2019/2020, NOGG
 * 권장 음식 : 저지방 우유, 요구르트, 생선, 해조류, 콩, 두부, 두유, 들깨, 참깨, 달래, 무청, 귤
 * 충분한 단백질과 적정 에너지 섭취를 유지하고 과도한 염분·음주·카페인을 줄임. 육류·통곡류·섬유질·시금치를 일률적으로 금지하지 않음; 시금치는 oxalate 함량 때문에 주요 칼슘 공급원으로는 적합하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">Ca, Vit D (기초 보충 요법)</mark>
 

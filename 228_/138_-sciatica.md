@@ -155,7 +155,7 @@ flowchart TD
 
 <table><thead><tr><th width="110">판정</th><th width="230">기준</th><th>조치</th></tr></thead><tbody><tr><td>호전</td><td>NRS·ODI 감소, 기능 회복</td><td>현 치료 지속, 점진적 활동 복귀; 6주 경과만으로 영상검사를 시행하지 않음</td></tr><tr><td>정체</td><td>통증·기능 변화 없음, Red Flag 없음</td><td>진단 재평가; 주사·수술 등을 고려하고 영상 결과가 치료 방침을 바꿀 때 MRI 고려</td></tr><tr><td>악화</td><td>새 위약 또는 신경학적 결손 진행, 통증 심화</td><td>6주 재평가를 기다리지 않음; 즉시 신경학적 평가 후 응급·조기 MRI와 전문의뢰 여부 결정</td></tr></tbody></table>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 침상 안정은 권장하지 않음; 통증이 심한 경우 짧은 상대적 휴식은 가능하나, 가능한 범위에서 일상 활동을 유지하는 것이 회복에 도움이 됨
 * 냉찜질 또는 온찜질 : 특정 순서나 기간에 대한 확립된 근거는 부족하며, 환자가 증상 완화를 느끼는 경우 보조적으로 사용
@@ -211,7 +211,7 @@ flowchart TD
 * 방법 : 베개를 베고 무릎을 90° 구부리고 발을 엉덩이 폭만큼 벌리고 누워 오른쪽 다리를 왼쪽 대퇴부에 올려놓음 → 왼쪽 허벅지를 잡고 오른쪽 엉덩이에서 스트레칭이 느껴지도록 앞으로 당기고 20\~30초간 유지 → 다리를 바꿔 시행; 각 다리로 2\~3회 반복
 * 척추는 바닥에 닿은 상태로 엉덩이를 똑바로 유지함. 손으로 허벅지를 잡을 수 없다면 수건으로 허벅지를 감아 시행할 수 있음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">NSAID</mark>
 

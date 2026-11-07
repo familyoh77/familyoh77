@@ -192,7 +192,7 @@ ABM 2022는 항생제를 세균성 유방염에 한정하는 원칙을 제시함
 * 유방 농양 : 항생제만 투여하지 말고 흡인 또는 배액으로 source control을 시행함.
 * 비수유성 유방염 : 유관주위염, 육아종성 유방염 및 악성 종양을 구분한 뒤 각각 치료함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">수유 유방염</mark>
 
@@ -210,7 +210,7 @@ ABM 2022는 항생제를 세균성 유방염에 한정하는 원칙을 제시함
 * 급격한 이유는 피하고 필요한 경우 점진적으로 수유량을 줄임.
 * 재발성 유방염을 예방하기 위한 항생제의 일률적 예방 투여는 권하지 않음. 프로바이오틱스는 일부 특정 균주에 대한 연구가 있으나 제품·균주별 효과가 다르며, 일률적인 표준 치료 또는 필요한 항생제·배농의 대체로 제시하지 않음. 레시틴·치료용 초음파도 근거가 제한되어 기본 치료에 일괄 추가하지 않음 <mark style="color:$info;">[Breastfeed Med 2022]</mark>.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ✽ 처방 시 최신 품목정보/급여기준 조회. 국제 지침의 수유 안전성 평가와 국내 품목의 수유 제한·허가 적응증·급여 인정 범위를 구분함.
 

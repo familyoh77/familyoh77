@@ -201,7 +201,7 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 * BSA가 작더라도 특수부위 침범이나 기능장애가 크면 중증도가 낮다고 판단하지 않음
 * **치료 목표와 급여 유지 기준을 구분** : 2026 독일 S3 지침은 유도치료 종료 시 PASI 75를 최소 목표로, PASI 90 또는 절대 PASI ＜2 또는 DLQI ≤1을 바람직한 목표로 제안함. 특수부위 병변·관절 증상·환자 목표를 함께 평가하며, 국내 급여의 PASI 75 유지 조건만으로 충분한 임상 조절을 단정하지 않음 <mark style="color:$info;">[S3/EuroGuiDerm 2026]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 회피 : 외상, 자극, 일광 화상, 흡연, 음주, 건조, 스트레스, 손에 대한 세제 자극
 * 매일 보습제를 사용하고 미지근한 물로 짧게 목욕; 인설을 억지로 긁어내지 않음
@@ -210,7 +210,7 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 * 손발톱은 짧게 유지하고, 큐티클을 자르거나 밀기·손발톱 밑 찌꺼기 긁어내기·인조손톱 부착 등 외상을 피함. **일반 네일 폴리시를 일률적으로 금지하지는 않으며**, 자극·접촉알레르기가 생기면 중단함 <mark style="color:$info;">[AAD 손발톱 관리, 2026]</mark>
 * 일광화상을 피하고 태닝기·임의의 자외선 조사로 치료하지 않음; **의료용 광선치료는 용량을 조절하고 피부 반응을 관찰하면서 시행**
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 치료제</mark>
 

@@ -124,7 +124,7 @@ flowchart TD
 * 악화 요인 회피 : 두피에 자극적인 hair spray, hair pomade, 염색제 등과의 관련이 있으면 중단/변경
 * 충분한 국소치료에도 반응이 없으면 단순히 약제를 강화하기 전에 진단, 사용법 및 순응도를 재평가. 노비프록스는 국내 허가사항에 따라 **약 2주 사용 후에도 개선이 없으면 중지하고 상담**하며, 모든 제제에서 4주까지 평가를 미루지 않음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">피부 관리</mark>
 
@@ -132,7 +132,7 @@ flowchart TD
 * 얼굴은 자극이 적은 보습제를 사용하고, 피부를 자극하는 알코올 함유 제품·화장품 등은 피함
 * 약용 샴푸 사용 횟수와 두피 접촉 시간은 제품별로 확인; 약물 치료 항목 참조
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소제</mark>
 

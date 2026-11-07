@@ -347,7 +347,7 @@ flowchart TD
 * folate, Mg, P, K는 영양상태·검사 결과와 임상 적응증에 따라 보충함. 부정맥, 전해질 이상, 과거 금단 발작이 있는 저Mg혈증은 적극 교정함.
 * 장기간 섭취 부족·체중감소·반복 구토·저P/저K/저Mg혈증이 있으면 재급식증후군 위험을 평가함. 고위험 환자는 입원 환경에서 thiamine 보충, 영양 공급 속도 조절과 전해질·수분 균형 감시를 시행함. <mark style="color:$info;">[영국 알코올 치료지침 2025]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">예방 및 위해 감소</mark>
 
@@ -379,7 +379,7 @@ flowchart TD
 * 보건복지상담센터 129, 정신건강위기상담전화 1577-0199, 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)
 * 지역 정신건강복지센터, 전문 중독치료기관, 정신건강의학과, 자조모임·상호지원 프로그램
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 > **처방 시 최신 품목정보/급여기준 조회.** 아래 장기 약제는 급성 금단 치료제와 구분하며 심리사회적 치료·추적관찰과 병행함.
 

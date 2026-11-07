@@ -189,7 +189,7 @@ flowchart TD
 **치료 원칙** 모든 중증도에서 보습, 적절한 세정·목욕, 환자 교육을 시행함. 활동성 병변에는 TCS/TCI를 중심으로 충분한 국소 항염증 치료를 하고, 재발이 잦은 부위는 proactive therapy를 고려함. 중등증 이상이면서 충분한 국소치료로 조절되지 않거나 국소치료가 권장되지 않는 경우 피부과 의뢰를 통해 광선치료 또는 전신치료를 고려함.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">보습제</mark>
 
@@ -233,7 +233,7 @@ flowchart TD
 * 부위별 약제·도포량, 악화 시 재사용 방법, 호전 후 유지치료, 감염 경고증상과 재진 시점을 **서면 행동계획**으로 설명함.
 * 수면·학교/직장생활·보호자 부담을 확인하고, 지속적인 불안·우울이나 심한 삶의 질 저하가 있으면 함께 평가·지원함. <mark style="color:$info;">[KADA 2025 Part I]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">국소 corticosteroid (TCS)</mark>
 

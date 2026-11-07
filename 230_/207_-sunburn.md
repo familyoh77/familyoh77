@@ -140,7 +140,7 @@ flowchart TD
 * 이미 발생한 피부 손상을 되돌리거나 치유기간을 확실히 단축하는 약물은 없음.
 * 광범위한 수포, 탈수, 열질환 또는 이차감염이 있으면 각각의 중증도에 따라 치료·의뢰함. (☞ [화상](206_-burn.md#management))
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">급성기 관리</mark>
 
@@ -202,7 +202,7 @@ flowchart TD
 * 자극이나 습진성 발진이 생기면 사용을 중단하고 성분을 확인함. 반복되거나 심하면 광알레르기성 접촉피부염을 평가함.
 * 사용기한과 보관조건을 확인하고 고온의 차량 안 등에 두지 않음. 분리·변색·냄새 변화 등 변질이 의심되면 사용하지 않음.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">진통제</mark>
 

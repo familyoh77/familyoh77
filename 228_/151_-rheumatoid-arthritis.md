@@ -306,7 +306,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : RA 발생 위험, 치료 반응 및 심혈관·폐질환 위험 관리에 중요; 금연만으로 이미 발생한 RA의 활성도 감소를 보장하지 않음
 * 충분한 활동 및 적당한 휴식, 규칙적인 운동
@@ -334,7 +334,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 **용량과 국내 허가·급여의 구분**\

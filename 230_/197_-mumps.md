@@ -173,7 +173,7 @@ flowchart TD
 * Red Flag 동반 시 해당 전문과 즉시/당일 의뢰
 * 진단(의심) 즉시 신고 및 격리 조치 여부 확인
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 이하선에 대한 온/냉찜질(증상에 따라 선택)
 * 충분한 수분 및 영양 섭취; 신 음식·자극적인 음식은 이하선 통증을 악화시킬 수 있어 피함
@@ -198,7 +198,7 @@ flowchart TD
 노출 후 MMR 접종의 해당 노출에 대한 볼거리 발병 예방 효과는 입증되지 않음. 다만 이번 노출로 감염되지 않았다면 접종은 향후 노출에 대한 예방 효과를 가짐
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">해열진통제</mark>
 

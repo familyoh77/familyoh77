@@ -183,7 +183,7 @@ flowchart TD
   * Minocycline처럼 허가된 초회 용량이 있는 약제는 해당 용법을 따름
 * 항생제 용량은 신기능, 간기능, 체중, 임신 여부와 약물상호작용에 따라 조정
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 환부를 거상하여 부종을 줄임
 * 통증 범위 내에서 활동을 조절하되 불필요한 장기 고정은 피함
@@ -202,7 +202,7 @@ flowchart TD
 
 <mark style="color:$info;">Ref. Dräger S, et al. J Dtsch Dermatol Ges. 2025;23(10):1274–1280; Webb E, et al. EClinicalMedicine. 2026;98:104127.</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">비화농성 연조직염 - 성인, 정상 신기능</mark>
 

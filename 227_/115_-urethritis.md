@@ -186,7 +186,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 성 파트너 검사 및 치료 : 위 CDC 60일 기준과 국내 클라미디아의 8주/6개월 기준을 구분하여 병원체별로 적용. 파트너의 직접 진료·처방을 안내
 * 콘돔의 일관되고 올바른 사용 : 재감염 위험을 크게 낮춤
@@ -197,7 +197,7 @@ flowchart TD
 **Doxy-PEP(노출 후 예방요법)** : CDC 2024는 최근 12개월 내 세균성 STI 진단력이 있는 MSM·트랜스젠더 여성에게 이득·위해를 설명하고 공동 의사결정으로 제공하도록 권고. 모든 요도염 환자에게 일률적으로 적용하지 않음(☞ [성매개감염병](115_-1.STI.md#doxy-pep))
 {% endhint %}
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
 초기 경험적 치료와 지속·재발 시 원인균별 치료를 구분함. 확진 후 상세 용법·모니터링은 [클라미디아](115_-4.chlamydia.md), [임질](115_-2.gonorrhea.md) 챕터 참조

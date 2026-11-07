@@ -210,7 +210,7 @@ graph TD
 * 심한 가려움에는 항진균치료와 함께 필요 시 항히스타민제를 고려함. 국소 corticosteroid 추가는 일상적 치료로 권하지 않으며, 예외적 사용이 필요하면 진균학적 확인 후 피부과와 상의하여 최저 역가·최단 기간으로 제한함
 * 중등도 이상 역가의 steroid 복합제는 단순 몸백선·샅백선 처방례에 포함하지 않음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 샤워 후 피부, 특히 발가락 사이를 완전히 건조
 * 통풍이 되는 신발을 번갈아 신고 양말·속옷은 매일 교환
@@ -223,7 +223,7 @@ graph TD
 * 반려동물의 탈모·비늘성 병변은 수의사에게 평가
 * 진단되지 않은 피부 발진에 corticosteroid 또는 항진균제–corticosteroid 복합제를 임의로 사용하지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 아래 경구 용량은 별도 표시가 없으면 **성인·정상 간·신기능 기준**이며, 소아 두부백선은 별도 체중표를 적용함.
 * **처방 시 최신 품목정보/급여기준 조회**. 허가 적응증·용법, 실제 공급 여부 및 보험 적용을 각각 확인함.

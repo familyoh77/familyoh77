@@ -131,7 +131,7 @@ graph TD
 급성 병변에서 농양이 있으면 배농이 우선임. 농양이 없는 경증 병변은 국소치료를 시행하며, 만성 자극성 병변은 자극 회피·장벽 회복과 국소 항염치료가 1차 치료임. Herpetic whitlow가 의심되면 절개·배농하지 않음.
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 손톱·손가락 물기, 거스러미 뜯기, cuticle 절제·밀어내기 등 손발톱주름 손상을 피함
 * 손발톱을 짧게 유지하되 가장자리를 지나치게 깊게 자르지 않음
@@ -141,7 +141,7 @@ graph TD
 * 급성 병변의 침수는 짧게 시행하고 반드시 건조함. 만성 자극성 병변에는 반복적인 침수를 하지 않음
 * 발가락 병변에서는 발톱 압박이 없는 신발을 선택하고 반복 미세외상을 줄임
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">급성 손발톱주위염</mark>
 

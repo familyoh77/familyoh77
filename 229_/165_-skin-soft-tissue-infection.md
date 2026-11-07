@@ -275,7 +275,7 @@ flowchart TD
 <mark style="color:$info;">Ref. IDSA SSTI guideline, 2014; ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing, 2026.</mark>
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">일반적인 재발 위험인자 교정</mark>
 

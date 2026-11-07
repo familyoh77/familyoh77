@@ -183,7 +183,7 @@ graph TD
 * 작업 복귀·재발 예방 : 손목을 중립에 가깝게 유지하고 쥐는 힘·반복 횟수·도구 무게를 줄이며 작업 중 휴식; 통증·근력·기능에 따라 부하를 점진적으로 늘림
 * 추적 관리 : 통증·작업 기능·운동 순응도를 평가하며 대개 2\~4주에 재평가; 감염 의심 환자는 이 일정까지 기다리지 않음
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">진통제</mark>
 

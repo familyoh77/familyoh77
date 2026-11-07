@@ -157,7 +157,7 @@ flowchart TD
 SCOUT 연구(스페인 일차의료, 성인 여성 768명 무작위배정)의 자료가 확보된 720명 분석에서 7일째 모든 증상 소실은 nitrofurantoin 5일군 74%, fosfomycin 3 g 단회군 59%였음(차이 15.5%p). 두 번 투여한 fosfomycin은 단회 대비 유의한 개선을 입증하지 못함. 국내 실무지침의 두 1차 선택지는 유지하되 효과가 동일하다고 단정하지 않으며, 금기·순응도·과거 배양을 함께 고려. 연구의 nitrofurantoin 용법은 100 ㎎ tid로 **국내 허가 qid 용법과 다르므로 그대로 처방에 옮기지 않음**. 이 결과만으로 fosfomycin 2회 요법을 일상적으로 도입하지 않음. <mark style="color:$info;">\[Llor, et al. Lancet 2026;407:1603–1613]</mark>
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 탈수되지 않을 정도의 수분 섭취 권장. 심부전·진행된 신장질환 등 수분 제한이 필요하면 개별화하며, 과도한 강제 이뇨는 권하지 않음
   * 평소 수분 섭취가 하루 1.5 L 미만인 폐경 전 여성에서 하루 1.5 L를 추가 섭취하면 재발이 48% 감소한다는 보고가 있음
@@ -185,7 +185,7 @@ SCOUT 연구(스페인 일차의료, 성인 여성 768명 무작위배정)의 �
 
 ***
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">항생제 — 비임신 성인 여성의 전형적 급성 방광염</mark>
 

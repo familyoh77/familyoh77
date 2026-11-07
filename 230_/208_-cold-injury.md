@@ -163,7 +163,7 @@ flowchart TD
 * 심재성 동상은 초기 입원 치료를 원칙으로 하며 tPA·iloprost·수술 또는 집중 창상관리가 가능한 전문센터와 즉시 협의함.
 * 현저한 부종은 구획증후군을 평가하고 입원 관찰함. 거주지에서 상처관리·재평가를 받기 어렵거나 기저질환·동반손상이 있으면 입원 문턱을 낮춤.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">가온·해동</mark>
 
@@ -220,7 +220,7 @@ flowchart TD
 
 ![체감온도 산출표](../.gitbook/assets/aface746-c562-45e0-9c1d-9a822509ef9d.JPG)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ✽처방 시 최신 품목정보/급여기준 조회. 임상 지침의 권고·허가 적응증·보험 적용 및 실제 공급 여부는 각각 확인함.
 
@@ -349,7 +349,7 @@ flowchart TD
 6. 환부는 공기 중에 노출하거나 가볍고 느슨한 드레싱을 적용하며 압박을 피함.
 7. 피부손상이 있으면 표준 지침에 따라 파상풍 예방접종 필요성을 평가함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 만성 신경병성 통증, 감각저하, 한랭과민, 다한증, CRPS 및 반복 외상·감염을 추적함. 한랭과민은 초기 신경증상이 호전된 뒤에도 손상 후 최대 6주 무렵 새로 나타날 수 있으므로 회복 초기에 증상이 없다고 추적을 종료하지 않음.
 * 지속되는 신경병증은 전문의 평가를 의뢰하며, 필요한 경우 소섬유신경병증 평가를 위한 피부 생검 등을 전문기관에서 고려할 수 있음. NFCI를 확진하는 단일 검사는 없음.
@@ -359,7 +359,7 @@ flowchart TD
 * 밀폐형 vapor-barrier 신발이나 조이는 neoprene 양말은 내부 습기와 압박을 증가시킬 수 있으므로 장시간 습윤 노출에서 피함. 기름·grease를 손·발에 발라 예방하지 않음.
 * 이전 NFCI 병력이 있으면 차갑고 습한 환경의 재노출을 피하고, 직업상 불가피하면 증상이 없고 한랭 반응이 정상인지 전문적으로 평가한 뒤 단계적으로 복귀함.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">통증 치료</mark>
 
@@ -473,7 +473,7 @@ flowchart TD
 * 대부분 자연 호전하는 양성 경과이므로 예방·보온이 치료의 중심이며, 약물은 중증·지속성·재발성 사례에서 보조적으로만 고려함.
 * 2차성 원인이 확인되면 원인 질환 평가·치료를 병행함.
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 차갑고 습한 환경을 피하고 피부를 따뜻하고 건조하게 유지함.
 * 직접적인 고열이나 급격한 국소 가열은 불편감과 혈관 반응을 악화시킬 수 있으므로 피하고, 피부를 서서히 부드럽게 가온함. 마사지하거나 문지르지 않음.
@@ -488,7 +488,7 @@ flowchart TD
 * 규칙적인 활동으로 체온과 말초혈류를 유지하되 과도하게 땀을 흘리지 않음.
 * 금연하고 혈관수축 약물의 필요성을 검토함.
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 * 대부분 자연 호전하므로 예방·보온이 치료의 중심임.
 * 약물 효과에 대한 근거는 제한적이며, 중증·지속성 또는 재발성 특발성 동창에서만 고려함.

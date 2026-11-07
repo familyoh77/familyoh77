@@ -159,7 +159,7 @@ flowchart TB
 * 동반 발백선·손백선을 함께 치료하여 재감염원을 줄임
 * 조갑의 외형은 진균이 제거된 뒤에도 즉시 정상화되지 않음. 정상 조갑이 자라 나오는 데 손톱은 약 4\~6개월, 발톱은 12\~18개월이 걸릴 수 있음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 발과 발가락 사이를 씻은 뒤 완전히 말리고 땀이 찬 양말은 교체
 * 통풍이 잘되는 신발을 번갈아 신고 내부를 충분히 건조
@@ -168,7 +168,7 @@ flowchart TB
 * 손발톱을 너무 짧거나 둥글게 자르지 않고 조갑주위 피부 손상을 피함
 * 동반 발백선·손백선을 치료하고 가족에게 의심 병변이 있으면 진료를 권함 (☞ [피부백선증](172_-dermatophytosis-tinea.md))
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">경구 항진균제 공통 원칙</mark>
 

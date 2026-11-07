@@ -457,7 +457,7 @@ rUTI=Recurrent UTI
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 충분한 수분 섭취 - 특히 하루 수분 섭취량이 1.5 L 미만인 폐경 전 여성은 금기가 없다면 하루 약 1.5 L의 물을 추가로 마시는 것이 재발성 UTI 감소에 도움이 될 수 있음
 * 방광을 자주 완전히 비움, 과도하게 소변을 참지 않음
@@ -470,7 +470,7 @@ rUTI=Recurrent UTI
 * 여성에서 성관계 시 질이 건조한 경우 윤활제 사용
 * 재발 시 살정자제/diaphragm 사용 회피
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ☞ 무증상 세균뇨, 요도염, 급성 방광염, 급성 신우신염, 전립선염의 항생제 처방은 각 질환별 챕터 참조
 

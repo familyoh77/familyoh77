@@ -186,7 +186,7 @@ graph TD
 
 * 최신 비교 근거 : DISTRICTS 공개표지 무작위시험은 6주 이상 증상이 있고 전기진단 또는 초음파로 확인된 CTS 환자 934명에서 수술로 시작하는 전략과 스테로이드 주사로 시작하는 전략을 비교함. 추가 치료를 허용한 18개월 추적에서 평가자료가 있는 환자의 회복률은 61%(243/401) 대 45%(180/404), RR 1.36(95% CI 1.19~1.56)이었음. 수술 초기의 손바닥 통증·회복 부담도 함께 설명하고 지속적 증상·기능장애와 환자 선호에 따라 선택함. 이 결과를 모든 초기 경증 환자에게 즉시 수술을 권하는 근거로 일반화하지 않음. 시험에서 사용한 6문항 증상척도는 위의 진단용 CTS-6와 다른 도구임 <mark style="color:$info;">[DISTRICTS, Lancet 2025]</mark>
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * neutral wrist splint : 수면 중 중립위에 가까운 자세(대략 0도)로 손목을 유지하는 전완 기반 보조기 적용; 4\~8주 꾸준히 착용 후 재평가; 야간 착용만으로 불충분하면 맞춤 상태를 확인하고 주간 착용 확대 등을 고려함 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 * 주간 보조기 : 야간 착용으로 증상 조절이 불충분하면 증상 유발 활동 중 착용을 고려; 피부 압박·불편감·기능 제한을 확인하고, 손목을 과도하게 굴곡·신전시키는 각도 조정은 피함
@@ -201,7 +201,7 @@ graph TD
 * 이온영동/포노포레시스(스테로이드 병용), 자기 치료 : 사용하지 않을 것을 권고 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 * 증상 악화 요인 조절 : 반복적인 극단적 wrist flexion/extension, 강한 gripping, 진동 노출 등 증상을 유발하는 활동을 줄이거나 작업방식 조정; 인체 공학적 도구(책상, 키보드) 활용, 규칙적 휴식; 운동은 증상을 유발하지 않는 범위에서 시행
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">동반 통증의 진통제</mark>
 

@@ -175,7 +175,7 @@ graph TD
 * 약물 요법 : SSRI, 적합한 복합 경구 피임제, 증상별 진통제; 난치성 중증에서는 전문의 배란 억제 요법
 * 일지를 치료 후에도 유지하여 증상뿐 아니라 직장·학교·대인관계 기능과 부작용을 함께 비교. 4\~6주에 초기 점검하고, 생활 요법·CBT·보조 요법의 충분한 반응 평가는 대개 2\~3주기에 걸쳐 시행
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 스트레스 관리 : 이완, 심호흡, 마사지, 음악, 따뜻한 목욕
 * 규칙적인 운동(걷기·자전거 타기 등 유산소 운동, 요가·필라테스 등) - Conditional recommendation, 근거 수준 낮음  <mark style="color:$info;">[ACOG 2023]</mark>
@@ -185,7 +185,7 @@ graph TD
   * 과도한 소금·카페인·알코올·정제당 섭취를 줄이고 충분한 수면을 권장하되, 특정 식이 제한의 PMS 치료 효과는 근거가 제한적임. 개인별 일지에서 악화 요인을 확인하여 조정; 유제품을 일률적으로 제한하지 않음
 * 교육 자료 제공 자체도 도움이 될 수 있음(근거는 제한적이나 위해가 없음)  <mark style="color:$info;">[ACOG 2023]</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">Serotonergic antidepressant</mark>
 
