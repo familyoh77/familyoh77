@@ -18,7 +18,7 @@
   * FD는 뇌-장 상호작용 장애 (disorder of gut-brain interaction, DGBI)의 대표 질환임
 * **일시적 소화불량 증상** : 과식, 빠른 식사, 고지방 음식, 스트레스 상황에서의 식사, 과음, 과다 카페인 섭취 등에 의해 수일간 발생
   * 공인된 별도 진단 유형은 아니며, 지속 또는 재발하거나 Red Flag가 동반되면 다른 원인을 평가
-* **_H. pylori_ 연관 소화불량** : _H. pylori_ 감염 환자에서 제균 성공 후 증상이 장기간(보통 6\~12개월) 소실된 경우
+* _**H. pylori**_**&#x20;연관 소화불량** : _H. pylori_ 감염 환자에서 제균 성공 후 증상이 장기간(보통 6\~12개월) 소실된 경우
   * 기능성 소화불량은 제균 성공 후에도 증상이 지속됨
 * **미조사 소화불량 (uninvestigated dyspepsia)** : 증상 원인에 대한 적절한 평가가 아직 이루어지지 않은 상태
   * 기능성 소화불량 확진과 구분
@@ -52,14 +52,14 @@
   * 같은 음식에도 반응이 환자마다 다를 수 있음. 일률적인 제한 식단보다 식사-증상 일기를 이용해 개인별 유발 음식을 확인
 * **복부 가스 생성** : 탄산음료, 당분, 불용성 식이 섬유, 껌 씹기, 빨리 먹기
 * **감염 후 기능성 소화불량** : 급성 세균성·바이러스성 위장관염 후 새로 발생할 수 있음
-* **_H. pylori_ 감염**
+* _**H. pylori**_**&#x20;감염**
   * 양성 FD 환자에서 제균 치료는 일부의 장기 증상 개선에 기여하며 소화성 궤양·위암 예방 이득도 고려
-* **약물**&#x20;
+* **약물**
   * 점막 손상 : NSAID, aspirin, bisphosphonate, 철분제, 스테로이드(NSAID 병용 시 위험 증가)
   * LES 이완·역류 악화 : CCB, nitrate, 항콜린제, estrogen·progesterone
   * 위배출 지연·위장 운동 저하 : GLP-1 계열 약물, opioid, 항콜린제, dopamine 작용제·levodopa
   * 구역·위장관 자극 : metformin, digoxin, SSRI·SNRI, donepezil, 항생제(특히 macrolide), orlistat, fibrate
-  * 장기 PPI 사용과 bloating 또는 장내 미생물 변화의 연관성이 보고되었으나 인과관계는 불확실함 - 적응증과 최소 유효 용량을 주기적으로 재평가&#x20;
+  * 장기 PPI 사용과 bloating 또는 장내 미생물 변화의 연관성이 보고되었으나 인과관계는 불확실함 - 적응증과 최소 유효 용량을 주기적으로 재평가
 * **기타** : 유전, 비만, 임신, 스트레스, 우울, 불안, 신체증상장애, 폭식증, 알코올 남용
 * **기질적 질환** : 소화성 궤양, 위암, 위출구 폐쇄, 위마비, 담낭·췌장 질환, 셀리악병
 * **유사 증상** : 급성 관상동맥증후군, 장폐쇄, 충수염, 게실염, 폐렴, 요로 결석, 자궁외임신·PID, 전정계 질환 등
@@ -83,23 +83,23 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈 또는 흑색변, 특히 실신·저혈압·빈맥·식은땀 동반  `상부위장관 출혈`
-* 갑작스러운 심한 복통과 복벽 경직·반발통, 또는 심한 복부 팽창과 가스·대변 배출 중단  `위장관 천공` `장폐쇄`
-* 운동 시 또는 지속되는 흉부·상복부 압박감과 호흡곤란·식은땀·방사통  `급성 관상동맥증후군`
-* 침도 삼키지 못하는 급성 삼킴곤란·음식물 걸림  `식도 음식물 폐색`
+* 토혈 또는 흑색변, 특히 실신·저혈압·빈맥·식은땀 동반 `상부위장관 출혈`
+* 갑작스러운 심한 복통과 복벽 경직·반발통, 또는 심한 복부 팽창과 가스·대변 배출 중단 `위장관 천공` `장폐쇄`
+* 운동 시 또는 지속되는 흉부·상복부 압박감과 호흡곤란·식은땀·방사통 `급성 관상동맥증후군`
+* 침도 삼키지 못하는 급성 삼킴곤란·음식물 걸림 `식도 음식물 폐색`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 반복 구토로 수분 섭취가 어렵거나 소변량 감소·탈수 소견  `탈수` `전해질 이상` `위출구 폐쇄`
-* **(당일)** 발열·황달과 우상복부 통증, 또는 등으로 뻗치는 지속적 상복부 통증  `급성 담관염` `급성 췌장염`
-* 진행성 삼킴곤란·삼킴통증, 원인 불명 체중 감소·철결핍빈혈, 복부 종괴  `위암` `식도암` `소화성 궤양`
+* **(당일)** 반복 구토로 수분 섭취가 어렵거나 소변량 감소·탈수 소견 `탈수` `전해질 이상` `위출구 폐쇄`
+* **(당일)** 발열·황달과 우상복부 통증, 또는 등으로 뻗치는 지속적 상복부 통증 `급성 담관염` `급성 췌장염`
+* 진행성 삼킴곤란·삼킴통증, 원인 불명 체중 감소·철결핍빈혈, 복부 종괴 `위암` `식도암` `소화성 궤양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* ≥40세에서 새로 발생한 소화불량, 또는 위암 가족력·위암 전구 병변(위축성 위염·장상피화생)  `위암`
-* 적절한 초기 치료에 반응하지 않거나 반복 재발, 과도한 음식 회피·식사 제한 동반  `불응성 소화불량` `위마비` `회피·제한적 음식섭취장애`
+* ≥40세에서 새로 발생한 소화불량, 또는 위암 가족력·위암 전구 병변(위축성 위염·장상피화생) `위암`
+* 적절한 초기 치료에 반응하지 않거나 반복 재발, 과도한 음식 회피·식사 제한 동반 `불응성 소화불량` `위마비` `회피·제한적 음식섭취장애`
 
-　☞ [위장 증상의 감별](074_-gidz.md)
+　☞ [위장 증상의 감별](074_-gidz.md#red-flags)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -185,16 +185,16 @@
 * 단백질·알부민 : 영양불량 또는 흡수장애 의심 시
 * u-hCG : 임신 가능성이 있는 환자
 
-#### <mark style="color:$primary;">_H. pylori_ 검사</mark>
+#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">검사</mark>
 
-* ＜40세이고 Red Flag·고위험 병력이 없는 미조사 소화불량에서 비침습적 test-and-treat를 고려&#x20;
+* ＜40세이고 Red Flag·고위험 병력이 없는 미조사 소화불량에서 비침습적 test-and-treat를 고려
 * 경험적 치료를 먼저 선택할 수도 있으며 검사 접근성·이전 치료·환자 선호를 반영
 * 내시경을 우선한 환자에서도 _H. pylori_ 검사·제균력을 확인 (☞ [헬리코박터 감염](080_-h_pylori-infection.md))
 * 비침습적 활동성 감염 검사는 요소 호기 검사(UBT) 또는 검증된 대변 항원검사를 사용
   * 혈청 항체는 과거 감염·제균 후에도 양성일 수 있어 제균 성공 확인에는 사용하지 않음
 * 위음성 예방을 위해 검사 전 PPI/P-CAB은 ≥2주, 항생제·비스무트는 ≥4주 중단
   * 중단하지 못한 상태의 음성 결과는 감염 배제 근거로 삼지 않음
-  * 중단 기간의 증상 조절에는 H2RA·제산제를 고려하되 H2RA의 검사 전 중단 시점은 검사기관 지침 적용&#x20;
+  * 중단 기간의 증상 조절에는 H2RA·제산제를 고려하되 H2RA의 검사 전 중단 시점은 검사기관 지침 적용
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
@@ -282,7 +282,7 @@ GLP-1 계열 약물 사용자는 적절한 금식 후에도 내시경에서 위 
 
 * Rome V에서는 PDS 기준 충족 시 식후 통증·작열감을 PDS에 포함하며, EPS는 PDS 기준이 없는 경우로 구분. “+++ / ±”는 경향을 나타내며 진단 기준이나 약물 반응의 정량 지표가 아님
 
-<table data-search="false"><thead><tr><th width="160">구분</th><th>EPS (Epigastric Pain Syndrome)</th><th>PDS (Postprandial Distress Syndrome)</th><th>GERD overlap<br>(FD + GERD 중첩)</th></tr></thead><tbody><tr><td><strong>핵심 증상</strong></td><td>상복부 통증, 작열감</td><td>조기 포만감, 식후 충만감</td><td>가슴쓰림, 산 역류 + FD 증상</td></tr><tr><td><strong>식사와 관계</strong></td><td>식사로 유발·악화되거나 식사와 무관하게 발생 가능</td><td>식후 악화가 특징적</td><td>식후·눕거나 야간에 악화</td></tr><tr><td><strong>조기 포만감</strong></td><td>PDS 기준 미충족</td><td>핵심 증상</td><td>동반 가능</td></tr><tr><td><strong>가슴쓰림/역류</strong></td><td>±</td><td>±</td><td>+++</td></tr><tr><td><strong>야간·체위성 증상</strong></td><td>드묾</td><td>드묾</td><td>흔함</td></tr><tr><td><strong>PPI 반응</strong></td><td>일부에서 도움; 아형만으로 예측 불가</td><td>아형만으로 예측 불가</td><td>효과 기대 가능</td></tr><tr><td><strong>Prokinetics 반응</strong></td><td>아형만으로 예측 불가</td><td>일부에서 도움; 아형만으로 예측 불가</td><td>선택적으로 고려</td></tr><tr><td><strong>병태생리 핵심</strong></td><td>내장 과민 (visceral hypersensitivity)</td><td>위 적응 장애·감각 과민 등; 위배출 지연이 필수는 아님</td><td>산 역류 + FD 기전 혼합</td></tr><tr><td><strong>외래 표현</strong></td><td>속이 쓰리고 아프다</td><td>조금만 먹어도 꽉 찬다</td><td>신물 올라오고 타는 느낌</td></tr><tr><td><strong>1차 접근</strong></td><td><em>H. pylori</em> 평가 → PPI 고려</td><td>식사 조절; PPI 또는 prokinetic 선택적 시도</td><td>생활 교정 + PPI</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>구분</td><td>EPS (Epigastric Pain Syndrome)</td><td>PDS (Postprandial Distress Syndrome)</td><td>GERD overlap<br>(FD + GERD 중첩)</td></tr><tr><td><strong>핵심 증상</strong></td><td>상복부 통증, 작열감</td><td>조기 포만감, 식후 충만감</td><td>가슴쓰림, 산 역류 + FD 증상</td></tr><tr><td><strong>식사와 관계</strong></td><td>식사로 유발·악화되거나 식사와 무관하게 발생 가능</td><td>식후 악화가 특징적</td><td>식후·눕거나 야간에 악화</td></tr><tr><td><strong>조기 포만감</strong></td><td>PDS 기준 미충족</td><td>핵심 증상</td><td>동반 가능</td></tr><tr><td><strong>가슴쓰림/역류</strong></td><td>±</td><td>±</td><td>+++</td></tr><tr><td><strong>야간·체위성 증상</strong></td><td>드묾</td><td>드묾</td><td>흔함</td></tr><tr><td><strong>PPI 반응</strong></td><td>일부에서 도움; 아형만으로 예측 불가</td><td>아형만으로 예측 불가</td><td>효과 기대 가능</td></tr><tr><td><strong>Prokinetics 반응</strong></td><td>아형만으로 예측 불가</td><td>일부에서 도움; 아형만으로 예측 불가</td><td>선택적으로 고려</td></tr><tr><td><strong>병태생리 핵심</strong></td><td>내장 과민 (visceral hypersensitivity)</td><td>위 적응 장애·감각 과민 등; 위배출 지연이 필수는 아님</td><td>산 역류 + FD 기전 혼합</td></tr><tr><td><strong>외래 표현</strong></td><td>속이 쓰리고 아프다</td><td>조금만 먹어도 꽉 찬다</td><td>신물 올라오고 타는 느낌</td></tr><tr><td><strong>1차 접근</strong></td><td><em>H. pylori</em> 평가 → PPI 고려</td><td>식사 조절; PPI 또는 prokinetic 선택적 시도</td><td>생활 교정 + PPI</td></tr></tbody></table>
 
 {% hint style="info" %}
 **가스·복부 팽만·트림이 우세한 경우** : 이 증상들은 기능성 소화불량에 동반될 수 있으나 단독으로는 FD 진단을 충족하지 않음. 식사·탄산음료·껌·공기 삼킴, 변비, IBS, 유당·탄수화물 흡수장애와 위상부 트림(supragastric belching) 등을 우선 평가함. Rome V는 일상에 지장을 주는 트림이 주 3일을 넘고, 최근 3개월간 이 기준을 충족하며 증상 시작이 진단 ≥6개월 전인 경우 트림 장애로 분류함. 식후 증상 발생 시점(식후 30분)으로 위와 소장 원인을 구분할 수는 없음. 호흡검사, 셀리악병 혈청검사, 영상·내시경, 위배출검사 및 항문직장 기능검사는 위험 인자·Red Flag와 임상적 의심이 있을 때 선택적으로 시행함.
@@ -362,10 +362,10 @@ flowchart TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 심각한 기질적 원인이 없는 경우 안심시킴
-* Red Flag 없는 ＜40세 : 비침습적 _H. pylori_ test-and-treat 또는 경험적 치료를 선택&#x20;
-  * → 유효한 검사에서 _H. pylori_ (−)이거나 제균 성공 후 증상 지속 시 우세 증상·동반 질환에 맞는 치료&#x20;
+* Red Flag 없는 ＜40세 : 비침습적 _H. pylori_ test-and-treat 또는 경험적 치료를 선택
+  * → 유효한 검사에서 _H. pylori_ (−)이거나 제균 성공 후 증상 지속 시 우세 증상·동반 질환에 맞는 치료
   * → 적절한 치료에 반응하지 않거나 반복 재발 시 상부위장관내시경 고려
-* ≥40세의 새 증상 또는 Red Flag·고위험 병력 : 긴급도별 원인 평가와 상부위장관내시경 고려&#x20;
+* ≥40세의 새 증상 또는 Red Flag·고위험 병력 : 긴급도별 원인 평가와 상부위장관내시경 고려
   * → 원인에 따른 치료
 * 약물이 원인인 경우 용량 조절 또는 약물 교체
   * GLP-1 계열 약물 사용 중 새로운 소화불량 발생 시 연관성 확인
@@ -421,7 +421,7 @@ flowchart TD
 * mosapride, itopride, levosulpiride, 현호색·견우자 엑스는 기능성 소화불량(증상)에 허가된 약제이며, PPI·P-CAB·저용량 TCA는 FD 단독에 허가 외 사용임
 * 동반 GERD·궤양·위염 등이 실제 확인된 경우 해당 질환과 성분·용량·기간의 허가 및 급여기준을 적용
 
-#### <mark style="color:$primary;">_H. pylori_ 제균 치료</mark>
+#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">제균 치료</mark>
 
 * 활동성 _H. pylori_ 감염이 확인된 소화불량 환자에게 제균 치료 권고 (☞ [헬리코박터 감염](080_-h_pylori-infection.md#management))
   * 알레르기·이전 항생제 노출 및 국내 내성 양상을 고려하여 요법 선택 <mark style="color:$info;">\[ACG 2024; J Gastroenterol Hepatol 2026]</mark>
@@ -448,7 +448,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 
 * FD의 단기 산 억제 치료에서 PPI의 대안으로 고려할 수 있으며, PPI를 사용하기 어렵거나 경증·간헐적 증상인 경우에도 선택 가능; PPI보다 열등하다는 충분한 근거는 없음
 * famotidine : FD 증상 완화를 위해 고려할 수 있음 (☞ [소화기계 약제](073_-gidrugs.md#h2-h2-receptor-antagonist-h2ra))
-  * <mark style="color:blue;">\[가스터]</mark> 위궤양·역류성식도염에서 20 ㎎ bid 또는 40 ㎎ hs, 급성위염·만성위염 급성악화기의 위점막병변 개선 목적으로 10 ㎎ bid 또는 20 ㎎ hs, 신기능 저하 시 감량·간격 조절&#x20;
+  * <mark style="color:blue;">\[가스터]</mark> 위궤양·역류성식도염에서 20 ㎎ bid 또는 40 ㎎ hs, 급성위염·만성위염 급성악화기의 위점막병변 개선 목적으로 10 ㎎ bid 또는 20 ㎎ hs, 신기능 저하 시 감량·간격 조절
 * 연속 사용 시 빠르게 내성이 생겨 효과가 감소할 수 있으므로 불필요한 장기 지속·증량을 피함
 * cimetidine은 CYP 약물 상호작용 주의가 필요하며 현재 사용 감소 추세임
 * ranitidine은 NDMA 발생 문제로 시장 철수 상태임
@@ -571,7 +571,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **_H. pylori_ 제균 치료를 받으셨나요?**
+> _**H. pylori**_**&#x20;제균 치료를 받으셨나요?**
 >
 > * 제균에 성공해도 소화불량 증상이 바로 없어지지 않을 수 있습니다. 남은 증상은 기능성 소화불량이나 역류질환 등 다른 원인 때문일 수 있습니다.
 > * 증상만으로 제균 성공 여부를 판단할 수 없습니다. 항생제 치료 종료 후 최소 4주에 요소 호기 검사(UBT) 또는 대변 항원 검사로 반드시 확인하십시오.
