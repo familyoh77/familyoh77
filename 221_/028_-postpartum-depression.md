@@ -265,7 +265,7 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 현재 임신 중 SSRI 사용 여부는 질환의 중증도·재발 위험, 미치료 우울증의 위험 및 약물별 임신 안전성 자료를 바탕으로 개별 결정하며, 필요한 치료를 임의로 중단하지 않음
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">산모 일반 관리</mark>
 

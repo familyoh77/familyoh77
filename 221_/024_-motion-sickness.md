@@ -168,7 +168,7 @@ graph TD
   * 증상 발생 후에는 위 정체로 경구약 흡수가 떨어지므로 중증이면 비경구 투여 고려
 * 편두통 병력자는 편두통 예방·급성기 치료가 멀미 조절에 도움될 수 있음
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 증상이 발생했던 경험이 있는 상황을 피함
 * 움직임이나 감각 불일치를 줄이기 위한 좌석 선택

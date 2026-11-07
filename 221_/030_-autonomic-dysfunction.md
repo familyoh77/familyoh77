@@ -285,7 +285,7 @@ graph TD
 * POTS 치료 목표는 심박수 정상화나 모든 증상의 소실보다 일상생활·학교·직장 참여, 기립 지속시간, 활동량과 삶의 질 향상에 둠
 * 가장 기능을 제한하는 증상을 우선 치료하고 부분 반응이면 순응도·동반 질환·기능 목표를 재평가한 뒤 병용 치료를 고려; 대개 4\~12주에 반응 재평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">공통 원칙</mark>
 

@@ -240,7 +240,7 @@ flowchart TD
 * 필요시 약물 치료 : 급성 편두통 증상 완화, 편두통 예방
   * 약물 과사용 예방을 위해 단일 성분 진통제는 ＜15일/월, 복합 진통제·triptan은 ＜10일/월 사용
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 조용하고 어두운 방에서 휴식, 두통 부위 냉찜질 또는 온찜질
 * 유발 인자 조절 : 개인별로 반복 확인된 음식, 과로, 장시간 공복, 탈수

@@ -224,7 +224,7 @@ class B,D,D2,F,P yellow
 **후각 소실과 신경퇴행성 질환** : 후각 소실은 파킨슨병의 전구 증상으로 진단 수년 전부터 나타날 수 있으며, 알츠하이머병에서도 조기에 관찰됨. 후각 소실 + REM 수면 행동 장애(RBD) 조합은 파킨슨 스펙트럼 질환의 고위험 신호 → 신경과 의뢰 고려; 다만 고립된 후각 저하 소견만으로 파킨슨병·알츠하이머병을 예측하거나 선별진단하지 않으며, 다른 위험 신호(RBD, 인지저하, 파킨슨 징후)가 동반될 때 의뢰를 고려함
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">후각 훈련 (Olfactory Training)</mark>
 

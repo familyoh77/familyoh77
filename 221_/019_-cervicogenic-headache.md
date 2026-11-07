@@ -200,7 +200,7 @@ class B,F,I,L,N yellow
 * 약물은 경부 통증·근연축 또는 동반 질환의 단기 증상 조절에 사용하며 경추성두통 자체에 대한 직접 근거는 제한적
 * 시술은 보존치료에 반응하지 않고 원인 구조물이 임상적으로 좁혀진 환자에서 전문의가 선택
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">교육·운동·물리치료</mark>
 

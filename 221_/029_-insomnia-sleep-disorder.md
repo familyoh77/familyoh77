@@ -397,7 +397,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 • 서파수면 감소·수면 분절 증가 등 수면 구조 변화는 정상 노화의 일부임. 총 수면 시간만으로 과잉치료하지 말고 주간 기능 장애 유무로 판단
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">인지행동치료 (CBT-I, Cognitive behavioral therapy for Insomnia)</mark>
 

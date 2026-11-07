@@ -179,7 +179,7 @@ flowchart LR
 * 기전 불명 또는 전조 없는 재발성 실신 : 경험적 침습 치료보다 장기 ECG 모니터링 등으로 기전 확인
 * 혈관 확장과 cardioinhibition이 함께 있는 경우 한 가지 치료만으로 재발을 완전히 예방하지 못할 수 있음을 설명
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 유발 인자와 취약 조건을 파악하고 탈수·고온·혼잡한 환경·장시간 기립·과음을 피함
 * 낮은 정상 혈압(low-normal)이고 고혈압·심부전·신장질환이 없는 환자에서 수분 ≥2 L/d 및 소금 6\~9 g/d 정도를 개별적으로 고려. 다만 VVS 재발 예방에 대한 직접 근거는 제한적임

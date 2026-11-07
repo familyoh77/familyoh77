@@ -145,7 +145,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
   * 약물 과용 기준 : acetaminophen·NSAIDs 등 단순진통제 ≥15일/월, 복합진통제·opioid·triptan 등 ≥10일/월을 >3개월 사용
   * 예방을 위해 급성기 약물은 가능하면 주 2일 이하로 제한하고, 더 자주 필요하면 예방치료 적응증과 진단을 재평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 두통 일기 : 두통 일수, 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정

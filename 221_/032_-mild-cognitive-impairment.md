@@ -256,7 +256,7 @@ flowchart TD
 * 추적 때마다 인지점수뿐 아니라 IADL, 행동·정서, 안전, 운전·금전·약물관리와 돌봄 부담을 확인
 * 일반적으로 6\~12개월 간격으로 추적하되 빠른 진행, 안전 문제, 비전형 양상 또는 치료 적격성 평가가 필요하면 앞당김
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">운동·인지·사회 활동</mark>
 

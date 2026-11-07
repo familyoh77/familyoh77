@@ -286,7 +286,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 수분 섭취를 늘림; 소아와 노인은 발열 중 탈수 위험이 높으므로 수분 보충에 특히 유의
 * 감염성 발열에서는 tepid sponging, 찬물·얼음물 입욕 등 적극적 물리적 냉각을 routine으로 권하지 않음; 오한과 불편감을 유발할 수 있음

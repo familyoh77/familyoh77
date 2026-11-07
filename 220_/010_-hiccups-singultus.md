@@ -160,7 +160,7 @@ class I,O,R,Z,B yellow
 * 48시간 이상 지속되거나 증상 부담이 큰 경우 원인 평가 후 약물 치료 고려
 * 약물 치료에 대한 근거 수준은 전반적으로 낮으므로 환자 특성, 기저질환, 부작용 위험을 고려하여 선택
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 비약물 방법의 근거는 제한적이며, 급성·일과성 딸꾹질에서 안전한 방법부터 시도
 

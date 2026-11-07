@@ -517,7 +517,7 @@ flowchart TD
 치매공공후견 : 의사결정능력이 저하되었으나 권리를 대변할 가족이 없는 치매 환자(저소득층 우선)에게 지자체가 후견심판 청구와 후견인 활동비를 지원(치매관리법 제12조의3); 관할 치매안심센터(보건소)나 읍면동 행정복지센터를 통해 신청
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 행동심리증상(Behavioral and Psychological Symptoms of Dementia, BPSD)에 대하여 섬망, 통증, 변비, 요폐, 감염, 탈수, 수면 문제, 약물, 시청각 장애와 환경 요인을 먼저 찾아 교정
 * 일정한 일과와 익숙한 환경을 유지하고 과도한 자극을 줄이며, 환자 능력에 맞춘 운동·인지자극·음악·회상·사회활동을 제공

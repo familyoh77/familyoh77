@@ -385,7 +385,7 @@ graph TD
 자문 의뢰 대상 : 1\~2가지 약물 무반응, 치료 1년 이내 재발, 양극성 장애 의심, 환자·가족의 전과 요구, 지속되는 자살 생각, 알코올·약물남용·인격장애 동반, 중증 우울, 자기 관리 불가
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활 습관 중재</mark>
 

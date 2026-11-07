@@ -273,7 +273,7 @@ class B,D,F,M yellow
   * 호전 → 유지
   * 지속 → missed diagnosis 재검토, sleep / mood 재평가, 필요시 추가 검사
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 활동 전 PEM 여부를 먼저 확인. PEM이 없고 급성·중증 질환이 배제된 경우 현재 체력과 동반 질환에 맞추어 유산소·근력 활동을 낮은 강도부터 점진적으로 시행
   * Pacing : 환자가 가진 제한된 에너지 내에서 일상 활동을 계획하고 조절하여, '활동 후 증상 악화(PEM)'를 유발하지 않으면서 안정적인 기능을 유지하는 정도로 행동 수정

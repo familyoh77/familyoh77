@@ -301,7 +301,7 @@ class B,D,K,N yellow
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 규칙적 운동과 재활 치료 : 개인의 기능과 심폐 위험을 평가하여 주 150분 정도의 중등도\~고강도 운동을 목표로 하되, 유산소·근력·유연성·균형/민첩성/다중과제 훈련을 함께 구성
   * 유산소 운동(걷기, 자전거, 수영), 태극권, 댄스 등이 보행 및 균형 개선에 도움

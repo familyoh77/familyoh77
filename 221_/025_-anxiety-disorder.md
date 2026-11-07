@@ -281,7 +281,7 @@ graph TD
 
 * 2가지 이상 충분한 시도 후에도 호전되지 않은 경우 정신건강의학과 의뢰
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 인지행동요법(CBT)은 단기 및 장기 효과 근거가 가장 축적된 정신치료이며, 초기 치료 시기부터 시작할 수 있음
 * 국내 전문가 합의의 1차 선택 : 개인 CBT, 집단 CBT, 마음챙김기반 인지치료(MBCT), 수용전념치료(ACT), 응용이완법(applied relaxation)
