@@ -50,22 +50,24 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈·흑색변, 특히 실신·저혈압·빈맥 동반  `상부 위장관 출혈`
-* 갑자기 발생한 심한 복통, 반발통·복벽 경직  `천공` `급성 복증`
-* 상복부 불편감과 흉부 압박감·호흡곤란·식은땀 동반  `급성 관상동맥증후군`
-* 상복부 통증·발열·황달과 저혈압·의식 변화 등 전신 상태 악화 동반  `중증 급성 담관염` `패혈증`
+* 토혈·흑색변, 특히 실신·저혈압·빈맥 동반 `상부 위장관 출혈`
+* 갑자기 발생한 심한 복통, 반발통·복벽 경직 `천공` `급성 복증`
+* 상복부 불편감과 흉부 압박감·호흡곤란·식은땀 동반 `급성 관상동맥증후군`
+* 상복부 통증·발열·황달과 저혈압·의식 변화 등 전신 상태 악화 동반 `중증 급성 담관염` `패혈증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 지속적 구토 또는 수분 섭취 곤란·탈수  `위장관 폐쇄` `대사 이상`
-* **(당일)** 새로 발생한 황달 또는 지속적 상복부 통증에 발열·오한 동반  `급성 담관염` `급성 췌장염`
-* 진행성 연하곤란·연하통, 원인 불명 체중감소·철결핍성 빈혈  `상부 위장관 악성종양`
-* 등으로 퍼지는 지속적 상복부 통증, 복부 종괴  `췌장·담도 질환`
+* **(당일)** 지속적 구토 또는 수분 섭취 곤란·탈수 `위장관 폐쇄` `대사 이상`
+* **(당일)** 새로 발생한 황달 또는 지속적 상복부 통증에 발열·오한 동반 `급성 담관염` `급성 췌장염`
+* 진행성 연하곤란·연하통, 원인 불명 체중감소·철결핍성 빈혈 `상부 위장관 악성종양`
+* 등으로 퍼지는 지속적 상복부 통증, 복부 종괴 `췌장·담도 질환`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* ≥40세에서 아직 평가되지 않은 지속·반복 소화불량, 특히 새로 발생하거나 양상이 변한 경우; 위암 가족력  `위암`
-* 경고 징후가 없으나 적절한 초기 치료에도 증상이 지속·악화함  `기질적 질환` `난치성 FD`
+* ≥40세에서 아직 평가되지 않은 지속·반복 소화불량, 특히 새로 발생하거나 양상이 변한 경우; 위암 가족력 `위암`
+* 경고 징후가 없으나 적절한 초기 치료에도 증상이 지속·악화함 `기질적 질환` `난치성 FD`&#x20;
+
+　☞ [위장 증상의 감별](074_-gidz.md#red-flags)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -99,7 +101,6 @@
 * 구역이 우세하거나 구토가 지속되면 EPS 진단에서 제외하고 CNVS·위마비 등 평가
 * 통증이 배변으로 일관되게 호전되면 장 질환에 의한 증상인지 검토
 * EPS의 잠정적 세부 분류 : 통증·작열감이 식후 시작·악화되는 비율이 ≥50%이면 식후 EPS, ＜50%이면 식사 비관련 EPS; 치료를 고정하는 기준으로 사용하지는 않음
-
 * PDS/EPS 아형은 Rome V에서 서로 배타적으로 분류하나 실제 증상은 함께 나타날 수 있으며, 아형만으로 병태생리나 약물 반응을 단정하지 않음
 * 임상에서는 필요한 평가 후 진단·치료하며 연구용 기간·빈도를 채우기 위해 진료를 늦추지 않음
 
@@ -214,7 +215,6 @@ flowchart TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 환자 교육, 생활 습관 조절 및 필요시 약물·행동치료를 함께 적용
@@ -222,8 +222,8 @@ flowchart TD
 * 초기 약제는 우세 증상, 동반 GERD, 이전 치료 반응, 부작용 위험 및 가용성을 종합하여 선택
   * PDS/EPS 아형은 증상 표현형을 이해하는 데 유용하지만 임상 증상이 중첩될 수 있고 특정 병태생리나 약물 반응을 정확히 예측하지 못함. 아형별 초기 치료가 경험적 PPI보다 우월하지 않았다는 무작위시험도 있음 <mark style="color:$info;">\[Aliment Pharmacol Ther 2025]</mark>
 * _H. pylori_(+) 환자에 대하여 제균 요법 시행 (☞ [헬리코박터](080_-h_pylori-infection.md))
-* _H. pylori_(-) 또는 제균 요법 후 증상 지속 시 위산 억제제 또는 위장관 운동 촉진제 등 한 계열을 우선 시도&#x20;
-  * → 약제별 적절한 기간 후 반응을 평가하고 불응 시 다른 계열로 전환, 부분반응 시 선택적 병용 고려 \
+* _H. pylori_(-) 또는 제균 요법 후 증상 지속 시 위산 억제제 또는 위장관 운동 촉진제 등 한 계열을 우선 시도
+  * → 약제별 적절한 기간 후 반응을 평가하고 불응 시 다른 계열로 전환, 부분반응 시 선택적 병용 고려\
     → 지속·재발 시 최소 유효 용량 사용
 * 심한 증상, 경고 징후, 난치성 환자 등은 의뢰
   * 경고 징후는 Red Flags의 긴급도에 따라 평가하며 경험적 FD 치료로 검사를 미루지 않음
@@ -304,7 +304,7 @@ flowchart TD
 
 * FD 자체에 대한 P-CAB의 효과 근거는 아직 불충분하며, FD 치료 목적으로 routine 사용하지 않음
 * FD 단독 치료는 허가 외 사용임. 동반되어 있는 GERD·소화성궤양 등은 해당 기준 적용
-* tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark>&#x20;
+* tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark>
 
 ### <mark style="color:orange;">위장관 운동 촉진제</mark>
 
@@ -346,7 +346,7 @@ flowchart TD
 ### <mark style="color:orange;">점막 보호제</mark>
 
 * 일부 약제에서 증상 개선이 보고되었으나 근거가 제한적이며, EPS에서 위산 억제제와의 routine 병용이 단독요법보다 우월하다고 확립되지 않음 (☞ [점막보호제](073_-gidrugs.md#gastric-mucosal-protective-agent))
-* 애엽95%에탄올연조엑스 <mark style="color:blue;">\[스티렌]</mark>, benexate <mark style="color:blue;">\[울굿]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark>&#x20;
+* 애엽95%에탄올연조엑스 <mark style="color:blue;">\[스티렌]</mark>, benexate <mark style="color:blue;">\[울굿]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark>
 * FD 단독 치료는 적응증 아님. 위염, 위궤양 등에 대하여 적용
 
 ### <mark style="color:orange;">위저부 이완제 (Fundus relaxant drug)</mark>
@@ -368,7 +368,7 @@ flowchart TD
 * 저용량으로 시작하여 내약성에 따라 증량. 고령자에서는 amitriptyline, imipramine을 가급적 피함; 강한 항콜린 작용, 진정, 기립저혈압·낙상 위험을 먼저 평가 <mark style="color:$info;">\[AGS Beers 2023]</mark>
 * amitriptyline : 일반 성인 10 ㎎ 취침 시부터 시작하여 반응·내약성에 따라 10\~25 ㎎ 등으로 조정하고, 필요시 30\~50 ㎎/d까지 신중히 증량 고려 <mark style="color:blue;">\[에트라빌]</mark>
   * 고령자에서는 대안이 없고 이득이 위험보다 클 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작; 낮은 용량도 위험을 없애지는 못함
-  * 주요 금기 : 부정맥, 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, MAO 억제제 투여 중 등. 고령자·심질환·QT 연장 위험 또는 관련 약물 병용 시 처방 전 심전도·전해질 및 상호작용 평가; 양극성장애·자살위험도 확인. domperidone과 병용하지 않음&#x20;
+  * 주요 금기 : 부정맥, 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, MAO 억제제 투여 중 등. 고령자·심질환·QT 연장 위험 또는 관련 약물 병용 시 처방 전 심전도·전해질 및 상호작용 평가; 양극성장애·자살위험도 확인. domperidone과 병용하지 않음
 * imipramine : 25 ㎎ 취침 시 시작하여 필요시 50 ㎎까지 고려 <mark style="color:blue;">\[이미프라민]</mark>
 * mirtazapine : 15 ㎎ 취침 시 <mark style="color:blue;">\[레메론]</mark>
   * 조기 포만감과 체중감소가 두드러진 난치성 FD에서 전문의 판단하에 고려; 일률적 사용을 권고할 근거는 부족
@@ -502,7 +502,6 @@ flowchart TD
 *   American Geriatrics Society. 2023 Updated AGS Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2023;71:2052-2081. - <mark style="color:$info;">고령자의 강한 항콜린성 항우울제 회피와 이상반응 위험</mark>
 
     [https://doi.org/10.1111/jgs.18372](https://doi.org/10.1111/jgs.18372)
-
 *   UK Teratology Information Service (UKTIS). Use of Proton Pump Inhibitors in Pregnancy (2025); Use of H2 Receptor Antagonists in Pregnancy (2024). - <mark style="color:$info;">임신 중 위산 억제제가 필요한 경우의 선택 및 근거 한계</mark>
 
     [PPI](https://uktis.org/monographs/use-of-proton-pump-inhibitors-ppis-in-pregnancy/) · [H2RA](https://uktis.org/monographs/use-of-h2-receptor-antagonists-in-pregnancy/)
