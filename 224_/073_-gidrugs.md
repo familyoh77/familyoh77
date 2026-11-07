@@ -223,14 +223,16 @@
 * **aprepitant** : CINV 예방 시 제1일 125 ㎎, 제2\~3일 80 ㎎ qd <mark style="color:blue;">\[에멘드]</mark>
 * fosaprepitant <mark style="color:blue;">\[에멘드주]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[아킨지오]</mark>, rolapitant(해외 약제)
 
-### <mark style="color:orange;">TCA</mark>
+### <mark style="color:orange;">TCA (삼환계 항우울제·위장관 신경조절제)</mark>
 
-* 대상 : 저용량으로 만성 구역·구토 증후군 등에서 선택적으로 고려함(허가 외 사용; 근거 제한적)
+* 대상 : 초기 치료에도 증상이 지속되는 기능성 소화불량(FD), 만성 구역·구토 증후군 등에서 저용량으로 선택적으로 고려함(해당 소화기 증상에 허가 외 사용; 적응증별 근거 수준은 다름)
+  * FD에서는 특히 상복부 통증이 두드러지는 경우 2차 치료로 고려함. 위장관 통증·감각 신호를 조절하는 목적으로 사용하며 항우울 치료 용량과 구분함 (☞ [소화불량](075_-indigestion-dyspepsia.md))
   * 2025 AGA 지침은 nortriptyline을 위마비의 일차치료로 사용하지 않도록 조건부 권고함
 * **amitriptyline** : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[에트라빌]</mark>
 * **nortriptyline** : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[센시발]</mark>
 * 고령에서는 항콜린 부작용·기립저혈압·심독성 때문에 가급적 피함. Amitriptyline은 부정맥·심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·MAO 억제제 투여 중 등에 금기; nortriptyline은 해당 품목의 금기·주의를 별도로 확인
 * Domperidone과 병용하지 않으며 다른 QT 연장 약제와의 상호작용도 확인. 초기 2\~4주에 내약성·기분 변화·복약 상태를 평가하고, 심한 두근거림·실신·요폐·눈 통증과 시야 흐림 발생 시 중단·즉시 평가
+* Mirtazapine은 TCA가 아닌 별도 계열의 항우울제로, 체중 감소·조기 포만감이 두드러지는 치료 불응성 FD에서 전문 진료를 통해 선택적으로 고려함(허가 외 사용; 근거 제한적). 상세 적응 상황과 치료 방향은 [소화불량](075_-indigestion-dyspepsia.md) 참조
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
