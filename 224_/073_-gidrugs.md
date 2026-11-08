@@ -1,7 +1,7 @@
 # 소화기계 약제 Gastrointestinal Drugs
 
 {% hint style="info" %}
-처방 시 최신 품목정보/급여기준 조회. 별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
+별도 표시가 없으면 허가된 성인 경구 투여 용법임. 허가된 적응증이라도 급여 인정 범위는 다를 수 있음.
 
 임신·수유 중 사용은 각각 금기·근거 부족·조건부 사용을 구분하여 판단함. 본문에는 임신·수유 중 고려할 수 있는 약제와 치료 선택에 중요한 예외를 중심으로 기재하며, 개별 약제의 임부·수유부 금기는 원칙적으로 반복하지 않음. 별도 표시가 없다는 것이 사용 가능 또는 안전성 확립을 뜻하지 않음. 임신 중 사용 근거를 수유 중 사용에 그대로 적용하지 않으며, 수유 중 사용은 별도로 판단함.
 
@@ -59,15 +59,17 @@
 
 ### <mark style="color:orange;">주요 약물 상호작용</mark>
 
-<table data-search="false"><thead><tr><th width="157.77777099609375">약물</th><th width="177.7777099609375">기전</th><th>임상적 위험 및 주의</th></tr></thead><tbody><tr><td><strong>erythromycin</strong></td><td>CYP3A4 중등도 억제제 + 기질</td><td>일부 statin(횡문근융해), warfarin, cyclosporine 독성↑; QT 연장 약제 병용 시 심각한 부정맥 위험</td></tr><tr><td><strong>cimetidine</strong></td><td>CYP1A2·2C9·2C19·2D6·3A4 광범위 억제</td><td>theophylline, warfarin, phenytoin, diazepam, lidocaine 농도·독성↑; clopidogrel 활성화·항혈소판 효과↓ 가능. H2RA 중 상호작용 가장 많음 → famotidine 선호</td></tr><tr><td><strong>PPI (특히 omeprazole·</strong><br><strong>esomeprazole)</strong></td><td>CYP2C19 억제</td><td>clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안 고려; 위산 억제로 ketoconazole·itraconazole·atazanavir 흡수 감소; 고용량 methotrexate 병용 시 농도↑(일시 중단 고려)</td></tr><tr><td><strong>domperidone</strong></td><td>CYP3A4 기질</td><td>강력한 CYP3A4 억제제·QT 연장 약제 병용 금기</td></tr><tr><td><strong>sucralfate</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, levothyroxine 등 흡수 감소 → 약제별 권장 간격 확인(일률적으로 2시간을 적용하지 않음)</td></tr><tr><td><strong>Al/Mg 함유 제산제</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, 철분제 등 흡수 저하 → 약제별 권장 간격 확인</td></tr><tr><td><strong>P-CAB</strong><br><strong>(tegoprazan 등)</strong></td><td>약제별 CYP 대사 + 위산 억제</td><td>위산 의존 흡수 약제(atazanavir·rilpivirine·일부 azole계 등)의 농도 감소; CYP 상호작용은 성분별 허가사항 확인</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="157.77777099609375">약물</th><th width="177.7777099609375">기전</th><th>임상적 위험 및 주의</th></tr></thead><tbody><tr><td><strong>erythromycin</strong></td><td>CYP3A4 중등도 억제제 + 기질</td><td>일부 statin(횡문근융해), warfarin, cyclosporine 독성↑; QT 연장 약제 병용 시 심각한 부정맥 위험</td></tr><tr><td><strong>cimetidine</strong></td><td>CYP1A2·2C9·2C19·2D6·3A4 광범위 억제</td><td>theophylline, warfarin, phenytoin, diazepam, lidocaine 농도·독성↑; clopidogrel 활성화·항혈소판 효과↓ 가능. H2RA 중 상호작용 가장 많음 → famotidine 선호</td></tr><tr><td><strong>PPI (특히 omeprazole·</strong><br><strong>esomeprazole)</strong></td><td>CYP2C19 억제</td><td>clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안 고려; 위산 억제로 ketoconazole·itraconazole·atazanavir 흡수 감소; 고용량 methotrexate 병용 시 농도↑(일시 중단 고려)</td></tr><tr><td><strong>domperidone</strong></td><td>CYP3A4 기질</td><td>강력한 CYP3A4 억제제·QT 연장 약제 병용 금기</td></tr><tr><td><strong>sucralfate</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, levothyroxine 등 흡수 감소 → 약제별 권장 간격 확인(일률적으로 2시간을 적용하지 않음)</td></tr><tr><td><strong>Al/Mg 함유 제산제</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, 철분제·levothyroxine·bisphosphonate 등 흡수 저하 → 약제별 권장 간격 확인. 마그밀·마그밀에스는 tetracycline계 항생제와 병용하지 않음</td></tr><tr><td><strong>P-CAB</strong><br><strong>(tegoprazan 등)</strong></td><td>약제별 CYP 대사 + 위산 억제</td><td>위산 의존 흡수 약제(atazanavir·rilpivirine·일부 azole계 등)의 농도 감소; CYP 상호작용은 성분별 허가사항 확인</td></tr></tbody></table>
 
 ### <mark style="color:orange;">임신 중 고려할 수 있는 약제</mark>
 
 * 비약물 치료를 우선 적용하고, 증상·임신 시기·치료 필요성에 따라 약제를 선택함. 아래 약제도 무조건적인 안전성을 뜻하지 않으며, 필요한 최소 용량·기간으로 사용함
 
-<table data-search="false"><thead><tr><th width="185">임상 상황</th><th width="270">고려할 수 있는 약제</th><th>선택 조건 및 주의</th></tr></thead><tbody><tr><td><strong>속쓰림·역류</strong></td><td>알긴산 제제 또는 적절한 제산제</td><td>생활 습관 조절로 충분하지 않을 때 단기간 고려. 복합 성분과 나트륨·칼슘 함량, 신기능 등을 확인. Na bicarbonate를 주성분으로 하는 흡수성 제산제는 피하되, 임신 중 고려할 수 있는 알긴산 복합제와 구분함. 철분제 등과는 제품별 권장 복용 간격을 둠</td></tr><tr><td><strong>위산 억제가 필요한 지속 증상·궤양 등</strong></td><td>omeprazole 또는 famotidine</td><td>Omeprazole은 임신 중 사용 자료가 비교적 풍부한 PPI이며, famotidine도 선택 가능함. 두 약제 간 고정된 선택 순서보다 증상 중증도와 치료 필요성에 따라 선택하며, 모두 치료상 이득이 위험보다 클 때 사용. 다른 PPI·P-CAB에 동일한 근거를 일괄 적용하지 않음</td></tr><tr><td><strong>임신성 구역·구토</strong></td><td>doxylamine/pyridoxine; 불충분 반응 시 metoclopramide 등</td><td>Doxylamine/pyridoxine이 일차 선택지. Metoclopramide는 추체외로 이상반응 때문에 이차 선택하며 최대 5일 사용. 상세 용법과 ondansetron의 조건은 아래 ‘임신 구토의 약물 선택’ 참조</td></tr><tr><td><strong>변비</strong></td><td>psyllium/ispaghula(차전자피); lactulose 또는 PEG(macrogol)</td><td>식이·수분·활동 조절 후 차전자피 단일성분 제제를 우선 고려하고, 불충분하면 lactulose 또는 PEG 고려. 충분한 물과 함께 사용하며 복합제·장정결제에 동일하게 적용하지 않음. 설사·탈수·전해질 이상에 유의. 반응이 불충분하면 원인을 재평가하고, 품목별 임신 중 사용 조건에 따라 bisacodyl 등 자극성 하제의 단기 구제요법을 고려함</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="185">임상 상황</th><th width="270">고려할 수 있는 약제</th><th>선택 조건 및 주의</th></tr></thead><tbody><tr><td><strong>속쓰림·역류</strong></td><td>알긴산 제제 또는 적절한 제산제</td><td>생활 습관 조절로 충분하지 않을 때 단기간 고려. 복합 성분과 나트륨·칼슘 함량, 신기능 등을 확인. Na bicarbonate를 주성분으로 하는 흡수성 제산제는 피하되, 임신 중 고려할 수 있는 알긴산 복합제와 구분함. 철분제 등과는 제품별 권장 복용 간격을 둠</td></tr><tr><td><strong>위산 억제가 필요한 지속 증상·궤양 등</strong></td><td>omeprazole 또는 famotidine</td><td>Omeprazole은 임신 중 사용 자료가 비교적 풍부한 PPI이며, famotidine도 선택 가능함. 두 약제 간 고정된 선택 순서보다 증상 중증도와 치료 필요성에 따라 선택하며, 모두 치료상 이득이 위험보다 클 때 사용. 다른 PPI·P-CAB에 동일한 근거를 일괄 적용하지 않음</td></tr><tr><td><strong>임신성 구역·구토</strong></td><td>doxylamine/pyridoxine; 불충분 반응 시 metoclopramide 등</td><td>Doxylamine/pyridoxine이 일차 선택지. Metoclopramide는 추체외로 이상반응 때문에 이차 선택하며 최대 5일 사용. 상세 용법과 ondansetron의 조건은 아래 ‘임신 구토의 약물 선택’ 참조</td></tr><tr><td><strong>변비</strong></td><td>psyllium/ispaghula(차전자피); lactulose 또는 PEG(macrogol)</td><td>식이·수분·활동 조절 후 차전자피 단일성분 제제를 우선 고려하고, 불충분하면 lactulose 또는 PEG 고려. 충분한 물과 함께 사용하며 복합제·장정결제에 동일하게 적용하지 않음. 설사·탈수·전해질 이상에 유의. 반응이 불충분하면 원인을 재평가하고, 임신 중 사용 조건을 충족하는 자극성 하제의 단기 구제요법을 선택적으로 고려함</td></tr></tbody></table>
 
 <mark style="color:$info;">\[RCOG 2024; NICE NG201; UKTIS 2024\~2026; 품목 허가사항]</mark>
+
+* 수유 중 변비 : 임신과 별도로 판단. 만삭·건강한 영아를 수유하는 경우 차전자피·lactulose·PEG를 고려할 수 있으며, 삼투성 하제 사용 시 영아의 설사·구토·보챔을 관찰. 복합제 성분·품목별 사용 조건을 구분 <mark style="color:$info;">\[NHS SPS 2023]</mark>
 
 ## <mark style="color:green;">위장 운동 촉진제 (Prokinetics)</mark> <a href="#prokinetics" id="prokinetics"></a>
 
@@ -295,16 +297,19 @@
 ## <mark style="color:green;">변비 치료제 (Laxative)</mark>
 
 {% hint style="info" %}
-**반응 불충분 시** : 약물 유발·내분비/신경계 원인과 분변 매복을 점검하고, 하제를 계속 증량하기 전에 항문직장내압검사·풍선배출검사 등으로 배변장애를 평가. 배변장애가 확인되면 골반저 바이오피드백을 우선 적용; 적절한 약물·비약물 치료 후에도 지속되는 경우에 난치성으로 평가 <mark style="color:$info;">\[AGA 2026]</mark>
+**반응 불충분 시** : 약물 유발·내분비/신경계 원인과 분변 매복을 점검하고, 하제를 계속 증량하기 전에 항문직장내압검사·풍선배출검사 등으로 배변장애를 평가. 배변장애가 확인되면 골반저 바이오피드백을 우선 적용; 적절한 약물·비약물 치료 후에도 지속되는 경우에 난치성으로 평가. Rome V는 배출 곤란 증상과 ARM·BET·배변조영술 중 ≥1개에서 배출 장애를 확인하면 배변협동장애 진단이 가능하며, 원문 해설은 검사 1개 이상을 probable, 2개 이상 일치를 definite로 구분 <mark style="color:$info;">\[AGA 2026; Rome V 2026]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">식이 섬유 (Dietary fiber)</mark>
+
+(☞ [변비](082_-constipation.md))
 
 * 작용 : 소장에서 소화·흡수되지 않은 일부 식이섬유가 대장 미생물에 의해 발효되어 단쇄지방산과 가스를 생성
   * 발효성·점성·수분 보유력은 식이섬유 종류별로 다르며, 모든 식이섬유가 같은 정도로 발효되는 것은 아님; 개인차가 있음
 * 함유 음식 : 밀기울, 전곡류, 채소, 과일 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
 * 변비 치료의 초기 임상 목표 : 음식과 보충제를 합한 총 식이섬유 20\~30 g/d를 참고하여 기존 섭취량·증상·내약성에 따라 서서히 증량함
   * 효과와 내약성은 수일\~수주에 걸쳐 평가하며, 이 범위를 일반인의 KDRI 충분섭취량이나 일률적 상한으로 사용하지 않음
+  * 일반적인 고섬유식 전체의 근거와 특정 섬유·식품의 근거를 구분. 키위 2\~3개/d를 최소 4주 시도하는 식이 선택지는 [변비](082_-constipation.md) 참조 <mark style="color:$info;">\[BDA 2025]</mark>
 * 심한 서행성 변비에서는 효과가 제한적일 수 있으며, 분변 매복·장관 협착/폐쇄에서는 증상 악화 가능
 * 부작용 : 복부 가스, 팽만감, 복통(특히 대변 저류가 있는 경우)
 
@@ -313,11 +318,11 @@
 * 작용 : Bulk-forming laxative는 장 내에서 수분을 흡수해 팽창
 * 종류 : psyllium/ispaghula(차전자피), methylcellulose, karaya, guar gum, wheat dextrin, 해초, 한천
 * 충분한 물과 함께 섭취 필수. 수분 섭취가 부족하면 오히려 장 내에서 굳어 변비가 악화되거나, 드물게 장폐색을 유발할 수 있음
-* 투여 후 보통 2\~3일 내 반응
+* 투여 후 보통 2\~3일 내 반응; 아기오는 약 1주 사용해도 호전이 없으면 중단하고 재평가
 * 수용성 섬유 중 psyllium의 효과 근거가 상대적으로 풍부하며, 모든 섬유 제제가 같은 효과를 보이지 않음; 개인차가 있음
 * 부작용 : 복부 가스, 팽만감, 협착 시 impaction, Ca·Fe 흡수 장애
 
-<table><thead><tr><th width="213">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>psyllium</strong>(차전자피)<br><mark style="color:blue;">[무타실산]</mark></td><td>제제별 함량에 따라 충분한 물과 함께 복용함 •연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td><strong>agiocur pregranules</strong><br><mark style="color:blue;">[아기오과립]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 씹지 말고 물 1~2컵과 함께 복용하며 취침 직전·누운 상태에서는 복용하지 않음</td></tr><tr><td><strong>calcium polycarbophil</strong><br><mark style="color:blue;">[웰콘정]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침 •금기 : 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) •투석 환자는 신중 투여; 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td><strong>methylcellulose</strong> (복합제)</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="213">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>psyllium</strong>(차전자피)</td><td>제제별 함량에 따라 충분한 물과 함께 복용함 •연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td><strong>agiocur pregranules</strong><br><mark style="color:blue;">[아기오과립]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며 순수 차전자피 6 g과 같지 않음. 씹지 말고 물 1~2컵과 함께 복용; 취침 직전·누운 상태 복용 금지. 심한 당뇨병 금기; 장운동 억제 지사제 및 다른 하제와 병용하지 않음</td></tr><tr><td><strong>calcium polycarbophil</strong><br><mark style="color:blue;">[웰콘정]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침 •금기 : 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) •투석 환자는 신중 투여; 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td><strong>methylcellulose</strong> (복합제)</td><td>-</td></tr></tbody></table>
 
 ### <mark style="color:orange;">삼투성 하제 (Hyperosmotics)</mark>
 
@@ -326,13 +331,14 @@
 * 종류 : magnesium oxide(MgO), magnesium hydroxide\[Mg(OH)₂], 비흡수성 당류, glycerol, PEG
   * 비흡수성 당류 : lactulose, lactitol, sorbitol
 * PEG는 효과·내약성이 양호하고 AGA-ACG 2023 지침에서 강하게 권고함
-* Mg 제제 중 AGA-ACG 2023이 평가한 것은 MgO로, 조건부로 권고됨(근거 수준 매우 낮음). Mg(OH)₂는 따로 평가되지 않았으나 작용 기전이 같으며, 국내에서는 두 성분 모두 흔히 사용됨
+* Mg 제제 중 AGA-ACG 2023이 평가한 것은 MgO로, 조건부로 권고됨(근거 수준 매우 낮음). Mg(OH)₂는 따로 평가되지 않았으나 작용 기전이 같으며, 두 성분 모두 변비 치료에 사용됨
   * MgO와 Mg(OH)₂는 같은 ㎎이라도 마그네슘 함량이 달라(MgO 약 60%, Mg(OH)₂ 약 42%) 용량을 그대로 바꿔 쓰지 않음
 * MgO·Mg(OH)₂는 신장애 환자에서 금기. 특히 중증 CKD·고령·장운동 저하에서 고마그네슘혈증 위험이 높음. 고령에서 장기 사용 시 신기능과 혈청 Mg를 확인하되, 그 결과를 신장애에서의 사용 허용으로 해석하지 않음
 * 약제별로 효과 발현이 다르며 PEG는 보통 1\~4일 내 반응; 장기 투여 가능
 * 부작용 : 구역, 복부 팽만, 가스, 설사
+* 마그밀·마그밀에스는 tetracycline계 항생제와 병용하지 않으며 다른 흡수 상호작용 약제는 약제별 간격을 구분. 다량의 우유·칼슘제 병용 시 우유 알칼리 증후군 주의
 
-<table><thead><tr><th width="283">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂] <mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절</td></tr><tr><td><strong>lactulose</strong></td><td>15 ㎖/P 1~2P qd; 식사와 무관하게 일정한 시간에 복용, 반응에 따라 조절</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[마이락스산]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과</td></tr></tbody></table>
+<table><thead><tr><th width="283">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂] <mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절</td></tr><tr><td><strong>lactulose</strong><br><mark style="color:blue;">[듀락칸이지]</mark></td><td>15 ㎖/P; 성인 초기 2~3일은 15~30 ㎖ qd 아침 식전, 이후 10~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지. 15 ㎖ 미만 용량은 계량 가능한 병 제형 이용</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[마이락스산]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과. 다른 경구약과 2시간 이상 간격; 첫 사용 후 약 1주에도 호전이 없으면 중단·재평가</td></tr></tbody></table>
 
 * **glycerin** <mark style="color:blue;">\[그린관장약]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
@@ -350,7 +356,7 @@
 * 금기 : 장폐쇄
 * [AGA-ACG 2023 만성 특발성 변비 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고. bisacodyl, Na picosulfate는 단기 또는 구제요법에 강한 권고. senna는 조건부 권고
 
-<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>1S qd</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음</td></tr><tr><td><strong>Na picosulfate</strong></td><td>5~7.5 ㎎ qd, 취침 시(단일제 정제 미확인)</td></tr></tbody></table>
+<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[신일비사코딜]</mark> (비급여)</td><td>5 ㎎/T; 성인 10 ㎎ qd 취침 시. 씹거나 부수지 않음; 우유·제산제와 1시간 이상 간격. 1주 이상 연속 사용하지 않으며 매일 필요하면 원인 재평가</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>10 ㎎/S, 1S qd 필요시 직장 투여</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (senna·차전자 성분 복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음</td></tr><tr><td><strong>Na picosulfate</strong></td><td>해외 단일제 성인 용법 5~10 ㎎ qd 취침 시; 저용량부터 반응에 따라 조절. 장정결용 복합제 용법과 구분</td></tr></tbody></table>
 
 ### <mark style="color:orange;">대변 연화제 및 복합하제 (Stool softener)</mark>
 
@@ -369,11 +375,13 @@
 * 작용 : GI motility 조절 → 대장 통과 시간 단축
 * 대상 : 다른 하제에 반응이 없는 환자
 * 주의/금기 : 장폐쇄/천공 의심, 심한 염증성 장질환; 4주 이내 효과 없으면 재평가
-* **prucalopride** : 2 ㎎ qd, 식사 무관; ≥65세는 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[레졸로]</mark>
+* **prucalopride** : 2 ㎎ qd, 식사 무관; ≥65세는 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[레졸로]</mark> (비급여)
   * 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd
   * 금기 : 투석이 필요한 신장애
   * 부작용 : 두통, 복통, 구역, 설사
   * 과거 다른 5-HT4 작용제와 달리 뚜렷한 심혈관 위험 증가는 확인되지 않았으나, 새로운 우울감·자살사고 등 정신 증상 발생 시 중단하고 평가
+  * 급여 등재 품목의 성분 급여기준 : 2종 이상의 경구 완하제(부피 형성·삼투성 등)를 6개월 이상 투여해도 증상 완화에 실패한 만성 변비에서 인정하며, 4주 투여 후 반응에 따라 지속 여부 결정. 품목별 급여 여부는 다르며 이 기준 충족이 비급여 품목의 급여를 뜻하지 않음 <mark style="color:$info;">\[HIRA]</mark>
+  * 레졸로는 비급여이며 모비졸로는 급여 등재 품목; 성분의 임상 사용 조건과 품목별 급여 조건을 구분
 
 ### <mark style="color:orange;">Colonic secretagogue</mark>
 
@@ -395,8 +403,8 @@
 * 작용 : peripherally acting μ-opioid receptor antagonist → opioid의 장 억제 효과 차단; 중추 진통 효과는 대체로 보존되지만 opioid 금단 증상 가능
 * 대상 : opioid 유발 변비(OIC); 일반 하제에 반응이 불충분할 때 고려
 * 금기 : 장폐쇄
-* 해외 약제 : methylnaltrexone, naloxegol, naldemedine; 국내 허가·공급 상태는 별도로 확인하며 성분별 CYP3A4 상호작용·신장/간 기능 용량을 구분
-* naloxegol의 미국 용법 : 25 ㎎ qd 공복(식전 1시간 또는 식후 2시간); CrCl ＜60 ㎖/min이면 12.5 ㎎ qd로 시작. 강력한 CYP3A4 억제제 병용 금기
+* 해외 약제 : methylnaltrexone, naloxegol, naldemedine; 성분별 CYP3A4 상호작용·신장/간 기능 용량을 구분
+* naloxegol의 미국 용법 : 25 ㎎ qd 공복(식전 1시간 또는 식후 2시간); CrCl ＜60 ㎖/min이면 12.5 ㎎ qd로 시작. 강력한 CYP3A4 억제제 병용 금기. 중등도 억제제는 회피하고 불가피하면 12.5 ㎎ qd로 감량; 심한 지속 복통·설사는 중단·평가하며 장벽 손상 위험 환자의 장천공에 주의
 * alvimopan은 일반적인 OIC 치료제가 아니라 수술 후 장운동 회복에 제한적으로 사용하는 약제로 구분
 
 ## <mark style="color:green;">지사제 (Antidiarrheal agent)</mark>
@@ -747,9 +755,25 @@ flowchart TD
 
     [https://doi.org/10.1007/s00228-022-03313-2](https://doi.org/10.1007/s00228-022-03313-2)
 
+*   <mark style="color:$info;">Rao SSC, et al. Anorectal Disorders. Gastroenterology. 2026;170:1318-1346. - Rome V 배변협동장애 진단과 probable/definite 구분</mark>
+
+    [https://doi.org/10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)
+
+*   <mark style="color:$info;">Cho YS, et al. 2022 Seoul Consensus on Clinical Practice Guidelines for Functional Constipation. J Neurogastroenterol Motil. 2023;29:271-305. 국문판 Korean J Gastroenterol. 2025;85:319-344. - 기능성 변비의 진단·검사·약물·바이오피드백 권고</mark>
+
+    [영문판](https://doi.org/10.5056/jnm23066) · [국문판](https://doi.org/10.4166/kjg.2024.156)
+
+*   <mark style="color:$info;">Dimidi E, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet. 2025;38:e70133. - 섬유·식품·probiotics별 효과와 근거 한계</mark>
+
+    [https://doi.org/10.1111/jhn.70133](https://doi.org/10.1111/jhn.70133)
+
+*   <mark style="color:$info;">NHS Specialist Pharmacy Service. Using laxatives during breastfeeding. 2023. - 만삭·건강한 영아 수유 시 하제 선택과 영아 관찰</mark>
+
+    [https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/](https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/)
+
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 *   <mark style="color:$info;">건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). - 약제별 급여기준과 병용·연령·용량·투여기간 주의 정보</mark>
 
     [https://www.hira.or.kr](https://www.hira.or.kr)
