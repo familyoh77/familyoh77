@@ -134,7 +134,7 @@
   * 제균·PPI 치료 실패는 FD의 필수 진단 조건이 아님 - PPI 반응만으로 FD와 GERD를 구분하지 않음
 
 {% hint style="info" %}
-**H. pylori-associated dyspepsia**
+**_H. pylori_-associated dyspepsia**
 
 * _H. pylori_ 양성 소화불량 환자에서는 먼저 제균 치료를 시행.\
   제균 성공 후에도 증상이 지속되면 FD 가능성을 평가하고 치료
@@ -150,14 +150,14 @@ flowchart TD
     History --> Alarm["Red Flags의 즉각 조치<br/>항목에 해당?"]
     Alarm -- "예" --> Urgent["응급 평가·안정화<br/>및 즉시 의뢰"]
     Alarm -- "아니요" --> Risk["그 밖의 경고 증상 또는<br/>조기 내시경 대상³⁾?"]
-    Risk -- "예" --> AddTest["<u>원인 평가²⁾³⁾</u><br/>•긴급도에 따라 내시경 검사<br/>·추가 검사<br/>•필요한 H. pylori 검사"]
-    Risk -- "아니요" --> Labs["H. pylori 검사 및<br/>필요한 선택 검사²⁾"]
-    AddTest --> Result["H. pylori 외에 증상을<br/>설명할 질환이 확인됨?"]
+    Risk -- "예" --> AddTest["<u>원인 평가²⁾³⁾</u><br/>•긴급도에 따라 내시경 검사<br/>·추가 검사<br/>•필요한 <i>H. pylori</i> 검사"]
+    Risk -- "아니요" --> Labs["<i>H. pylori</i> 검사 및<br/>필요한 선택 검사²⁾"]
+    AddTest --> Result["<i>H. pylori</i> 외에 증상을<br/>설명할 질환이 확인됨?"]
     Labs --> Result
     Result -- "예" --> Organic["원인 질환 치료<br/>및 필요시 의뢰"]
-    Result -- "아니요" --> HP["유효한 검사에서<br/>활동성 H. pylori 감염 확인?"]
+    Result -- "아니요" --> HP["유효한 검사에서<br/>활동성 <i>H. pylori</i> 감염 확인?"]
     HP -- "음성" --> FD_Next
-    HP -- "양성" --> Erad["H. pylori 제균 치료"]
+    HP -- "양성" --> Erad["<i>H. pylori</i> 제균 치료"]
     Erad --> Confirm["제균 성공 확인검사²⁾"]
     Confirm --> Success["제균 성공?"]
     Success -- "예" --> Persist["제균 성공 후에도<br/>증상 지속?"]
