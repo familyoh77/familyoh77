@@ -182,7 +182,7 @@ _<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dys
 * 위마비는 증상만으로 진단하지 않음. 기계적 폐색을 배제하고 객관적 위배출 지연을 확인해야 함. AGA 2025는 의심 환자에서 4시간 위배출검사를 2시간 검사보다 권고함. 검사 전 혈당과 위배출에 영향을 주는 약물의 조정 여부를 검사실 프로토콜에 따라 확인함. 국내에서는 위배출 신티그래피 시행 기관이 제한적임
 * 내시경에서 음식물이 남아 있다는 사실만으로 위마비를 확진하지 않음. 약물·금식 상태·폐색 등도 고려함
 
-### <mark style="color:orange;">상부위장관 내시경(Upper GI Endoscopy) 적응증</mark>
+### <mark style="color:orange;">상부위장관 내시경(Upper GI Endoscopy) 적응증</mark> <a href="#upper-gi-endoscopy" id="upper-gi-endoscopy"></a>
 
 #### <mark style="color:$primary;">일반 원칙</mark>
 
