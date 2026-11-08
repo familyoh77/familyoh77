@@ -90,7 +90,7 @@
   * [삼킴곤란 Dysphagia](224_/077_-dysphagia.md)
   * [위염 Gastritis](224_/078_-gastritis.md)
   * [소화성 궤양 Peptic Ulcer, PUD](224_/079_-peptic-ulcer-pud.md)
-  * [헬리코박터 감염 Helicobacter Pylori Infection](224_/080_-h_pylori-infection.md)
+  * [헬리코박터 감염 Helicobacter pylori Infection](224_/080_-h_pylori-infection.md)
   * [위식도역류질환 GERD](224_/081_-gerd.md)
   * [변비 Constipation](224_/082_-constipation.md)
   * [급성 설사 Acute Diarrhea](224_/083_-acute-diarrhea.md)
