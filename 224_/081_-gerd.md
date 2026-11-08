@@ -53,30 +53,22 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 임신
 * 약물
 
-#### <mark style="color:$primary;">LES 압력 감소 또는 위배출 지연 약물</mark>
+**LES 압력 감소 또는 위배출 지연 약물**
 
 * LES 압력 감소 : nitrate, 일부 CCB, 항콜린제(일부 TCA 포함), theophylline, benzodiazepine
 * 위배출 지연 : opioid, GLP-1 수용체 작용제; opioid는 식도운동장애도 일으킬 수 있음
 
-{% hint style="info" %}
-**GERD로 오인될 수 있는 약물성 식도염 (pill esophagitis)**
-
-* 역류와 무관하게 정체된 약이 식도 점막을 직접 손상하며, 내시경상 식도염·궤양으로 보여 GERD와 감별이 필요
-* 대표 약물 : bisphosphonate, doxycycline·tetracycline, potassium chloride, 철분제, NSAID·aspirin
-* 누운 자세 복용, 적은 물로 복용, 식도 운동 저하·협착이 위험을 높임
-
-✽ 증상 시작·악화와 투약 시점의 관계를 확인하고, 필요하면 적응증·대체약을 검토
-{% endhint %}
-
 ## <mark style="color:green;">임상 양상</mark>
 
-* 전형적 증상 : 위산·위 내용물 역류(신맛), 가슴쓰림(작열감) - 주로 식후, 앙와위, 전굴 자세에서 악화
+* 전형적 증상 : 위산·위 내용물 역류(신맛), 가슴쓰림(작열감) - 주로 식후, 누운자세, 전굴자세에서 악화
 * 비전형·동반 증상 : 상복부 압박감/통증, 소화불량, 구역, 복부 팽만, 트림, 입 냄새, 흉통, 목구멍 이물감(globus)
-* 연하곤란·연하통은 GERD에서 동반될 수 있으나 경고 증상으로 간주하여 구조적·염증성·운동성 식도질환을 평가
-* 식도 외 증상 (LPR 포함) : 만성 기침, throat clearing, 쉰 목소리, 인후염, 천식·쌕쌕거림, 기관지 경련, dental erosion (치과적 합병증); 중이염·비부비동염과의 연관성도 보고되나 근거 강도는 낮음 (☞ [인후두역류](../223_/062_-laryngopharyngeal-reflux.md))
+* 식도 외 증상 : 만성 기침, throat clearing, 쉰 목소리, 인후염, 천식·쌕쌕거림, 기관지 경련, dental erosion; 중이염·비부비동염과의 연관성도 보고되나 근거 강도는 낮음
+* 식도 외 증상 : 만성 기침, 목 청소(throat clearing)·쉰 목소리 등 인후두 증상, 천식·쌕쌕거림, dental erosion; 인두염·비부비동염·재발성 중이염과의 연관성도 보고되나 근거 강도는 낮음 (☞ [인후두역류](../223_/062_-laryngopharyngeal-reflux.md) )
 
 {% hint style="info" %}
-인후 증상, 만성 기침, 쉰 목소리 등은 GERD와 연관될 수 있으나, GERD가 단독 원인인 경우는 제한적이며 과진단에 주의. 전형적 GERD 증상이 없는 경우 식도 외 증상을 GERD만으로 귀인하기 전에 이비인후과·호흡기 질환을 먼저 평가하는 것이 중요
+인후 증상, 만성 기침, 쉰 목소리 등은 GERD와 연관될 수 있으나, GERD가 단독 원인인 경우는 제한적이며 과진단에 주의. \
+연하곤란·연하통 GERD에서 동반될 수 있으나 경고 증상으로 간주하여 구조적·염증성·운동성 식도질환을 평가.\
+전형적 GERD 증상이 없는 경우 식도 외 증상을 GERD만으로 귀인하기 전에 이비인후과·호흡기 질환을 먼저 평가하는 것이 중요
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -97,7 +89,7 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 만성 GERD와 바렛 식도 위험 인자 여러 개(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력) `바렛 식도`
+* 바렛 식도 위험 인자(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력)를 3개 이상 동반한 만성 GERD `바렛 식도`
 * 적절한 복약에도 8주 이상 지속되는 증상 `PPI 불응 증상` `역류 과민` `기능성 가슴쓰림`
 * 심장·폐 평가 후에도 지속되는 흉통·만성 기침 `비심장성 흉통` `식도 외 GERD`
 
@@ -105,12 +97,21 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 
 ## <mark style="color:green;">진단</mark>
 
-* 모든 환자에게 적용하는 단일 gold standard는 없음. 증상, 내시경 및 역류 모니터링 결과를 임상 상황에 따라 통합
-* 전형적인 가슴쓰림과 역류 증상이 있으나 경고 증상이 없는 환자 → 진단 검사 없이 경험적 PPI 치료 (qd 식전 × 8주) 후 반응 평가; 민감도 78%, 특이도 54%
-* 가슴쓰림 없는 흉통 → 심질환 우선 배제 후, GERD를 포함한 식도 원인 평가 고려
+* 모든 환자에게 적용하는 단일 gold standard는 없음
+  * 증상, 내시경 및 역류 모니터링 결과를 임상 상황에 따라 통합
+* 경험적 PPI 시험 치료 : 전형적 증상 + 경고 증상 없는 경우, PPI qd 식전 8주 투여 후 반응 평가
+  * 완전 호전하면 GERD 가능성을 지지하지만 반응만으로 확진하지 않음
+  * 불완전 호전 또는 재발하면 복약법 확인 및 내시경·역류 검사 고려
+  * PPI 반응의 GERD 진단 정확도는 민감도 78%, 특이도 54%로, GERD가 아닌 환자의 약 절반도 반응함 (단기 PPI 시험 메타분석, 내시경·pH 검사 기준) <mark style="color:$info;">\[Ann Intern Med 2004]</mark>
+* 가슴쓰림 없는 흉통은 심질환을 우선 배제한 후, GERD를 포함한 식도 원인 평가 고려
 
 {% hint style="info" %}
-**경험적 PPI 시험 치료** : 전형적 증상 + 경고 증상 없는 경우, PPI qd 식전 8주 투여 후 반응 평가. 완전 호전하면 GERD 가능성을 지지하지만 반응만으로 확진하지 않음. 불완전 호전 또는 재발하면 복약법 확인 및 내시경·역류 검사 고려
+**GERD로 오인될 수 있는 약물성 식도염 (pill esophagitis)**
+
+• 역류와 무관하게 정체된 약이 식도 점막을 직접 손상하며, 내시경상 식도염·궤양으로 보여 GERD와 감별이 필요\
+• 대표 약물 : bisphosphonate, doxycycline, tetracycline, potassium chloride, 철분제, NSAID, aspirin\
+• 누운 자세 복용, 적은 물로 복용, 식도 운동 저하·협착이 위험을 높임\
+✽ 증상 시작·악화와 투약 시점의 관계를 확인하고, 필요하면 적응증·대체약을 검토
 {% endhint %}
 
 #### <mark style="color:$primary;">내시경 검사</mark>
@@ -118,12 +119,13 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 정상 내시경만으로 GERD를 배제할 수 없음. 반면 LA grade B/C/D 식도염, 조직학적으로 확인된 바렛 식도, 소화성 식도협착은 GERD의 객관적 근거 <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 * 일률적 시행은 권고하지 않음
 
-**내시경 검사 적응증**
+<mark style="color:cyan;">**내시경 검사 적응증**</mark>
 
 * 경고 징후 (연하곤란, 체중 감소, 위장관 출혈, 빈혈)
 * 4\~8주간 충분한 용량의 PPI 치료에도 지속되는 전형적 GERD 증상
 * 잦은 GERD 증상으로 지속적 치료가 필요한 상태
-* 비전형·식도 외 증상에서 구조적 질환 등의 감별이 필요한 상태. 식도 외 증상만 있을 때 내시경이나 후두경 소견만으로 GERD에 의한 증상이라고 확정하지 않음
+* 비전형·식도 외 증상에서 구조적 질환 등의 감별이 필요한 상태
+  * 식도 외 증상만 있을 때 내시경이나 후두경 소견만으로 GERD에 의한 증상이라고 확정하지 않음
 * 만성 GERD와 바렛 식도 다중 위험 인자(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력 등)가 있는 경우 선별 고려
 * 소매 위절제술(sleeve gastrectomy) 또는 경구내시경 근절개술(POEM) 후 GERD 증상 발생 : 내시경 평가를 고려하고, 해부학적 문제·역류 여부가 불명확하면 조영술 또는 역류 모니터링을 선택적으로 추가
 * 진단 목적이며 안전하게 중단할 수 있으면 가급적 2\~4주간 PPI 중단 후 검사(그 사이 증상 완화용 제산제 복용 가능). 경고 징후가 있는 경우의 평가 시점은 Red Flags에 따름
@@ -232,7 +234,7 @@ PPI 불응 증상은 지속적인 산 역류만으로 설명되지 않음. Reflu
 
 ### <mark style="color:orange;">표현형 기반 접근 (Phenotype-based approach)</mark>
 
-<table><thead><tr><th width="148.84210205078125">Phenotype</th><th>임상 특징</th><th width="130.4210205078125">PPI 반응</th><th>치료 전략</th></tr></thead><tbody><tr><td><strong>Acid-dominant GERD</strong></td><td>전형적 가슴쓰림·산 역류, EE 동반 가능</td><td>양호</td><td>PPI 또는 적응증이 있는 P-CAB 표준 치료</td></tr><tr><td><strong>Nocturnal GERD</strong></td><td>야간 각성, 새벽 증상, 앙와위 악화</td><td>야간 breakthrough 가능</td><td>취침 전 음식 회피·침상 상체 거상·복약법 최적화; 지속 시 P-CAB 교체 또는 취침 전 H2RA 단기·필요시 추가 고려</td></tr><tr><td><strong>Regurgitation-dominant</strong></td><td>"올라오는 느낌", volume reflux, 식후·전굴 시 악화</td><td>산 억제만으로 불충분 가능</td><td>제제별 허가사항에 따른 alginate 고려; 객관적 역류가 지속되면 baclofen 또는 항역류 시술 평가</td></tr><tr><td><strong>Meal-related reflux</strong></td><td>식후 즉각 악화, 과식·지방식 후 유발</td><td>중등</td><td>소식·체중 감량, 식후 눕지 않기; alginate는 제형·허가 용법 확인</td></tr><tr><td><strong>Hypersensitivity phenotype</strong></td><td>증상 강도 ≫ 검사 이상; 흉통·불안 동반 가능</td><td>제한적</td><td>neuromodulator·인지행동치료·식도 지향 최면치료·횡격막 호흡 고려</td></tr><tr><td><strong>Functional overlap</strong></td><td>복부 팽만, 조기 포만감, IBS/FD overlap</td><td>증상 변동성 큼</td><td>FD/IBS 동반 평가 및 통합 치료</td></tr></tbody></table>
+<table><thead><tr><th width="148.84210205078125">Phenotype</th><th>임상 특징</th><th width="130.4210205078125">PPI 반응</th><th>치료 전략</th></tr></thead><tbody><tr><td><strong>Acid-dominant GERD</strong></td><td>전형적 가슴쓰림·산 역류, EE 동반 가능</td><td>양호</td><td>PPI 또는 적응증이 있는 P-CAB 표준 치료</td></tr><tr><td><strong>Nocturnal GERD</strong></td><td>야간 각성, 새벽 증상, 누운자세 악화</td><td>야간 breakthrough 가능</td><td>취침 전 음식 회피·침상 상체 거상·복약법 최적화; 지속 시 P-CAB 교체 또는 취침 전 H2RA 단기·필요시 추가 고려</td></tr><tr><td><strong>Regurgitation-dominant</strong></td><td>"올라오는 느낌", volume reflux, 식후·전굴 시 악화</td><td>산 억제만으로 불충분 가능</td><td>제제별 허가사항에 따른 alginate 고려; 객관적 역류가 지속되면 baclofen 또는 항역류 시술 평가</td></tr><tr><td><strong>Meal-related reflux</strong></td><td>식후 즉각 악화, 과식·지방식 후 유발</td><td>중등</td><td>소식·체중 감량, 식후 눕지 않기; alginate는 제형·허가 용법 확인</td></tr><tr><td><strong>Hypersensitivity phenotype</strong></td><td>증상 강도 ≫ 검사 이상; 흉통·불안 동반 가능</td><td>제한적</td><td>neuromodulator·인지행동치료·식도 지향 최면치료·횡격막 호흡 고려</td></tr><tr><td><strong>Functional overlap</strong></td><td>복부 팽만, 조기 포만감, IBS/FD overlap</td><td>증상 변동성 큼</td><td>FD/IBS 동반 평가 및 통합 치료</td></tr></tbody></table>
 
 {% hint style="info" %}
 위 phenotype은 증상에 따른 실용적 치료 분류이며 객관적 검사를 대체하는 진단 체계는 아님. PPI 불응 환자에서는 역류의 입증 여부·지속 기전을 재평가한 뒤 치료를 조정함.
