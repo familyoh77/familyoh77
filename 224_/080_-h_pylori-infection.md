@@ -125,7 +125,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 ```mermaid
 ```
 
-> _감수성 결과가 불명확하면 검사 불가와 같이 경험적 요법을 선택. 고전적 bismuth 4제의 기간은 내성 맞춤 초치료 10일, 경험적 초치료·구제요법 10\~14일; 변형 bismuth 4제는 14일. Bismuth 금기인 신장애 환자는 전문의와 대안 선택_
+> _감수성 결과가 불명확하면 검사 불가와 같이 경험적 요법을 선택. 고전적 bismuth 4제의 기간은 내성 맞춤 초치료 10일, 경험적 초치료·구제요법(salvage therapy)  10\~14일; 변형 bismuth 4제는 14일. Bismuth 금기인 신장애 환자는 전문의와 대안 선택_
 
 <p align="center"><em><strong>H. pylori</strong></em><strong> 진단 및 제균 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Korean J Gastroenterol 2026; Am J Gastroenterol 2024; Gut 2022)</mark></em></p>
 
@@ -154,135 +154,126 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 * 복약 횟수·기간, 예상 부작용, 확인 검사 일정을 치료 전에 설명하고 복약 계획표 제공
 * 가족도 감염이 확인된 경우 각자 적절한 제균 치료를 시행하며 검사 없이 항생제를 함께 복용하지 않음
 
-#### <mark style="color:$primary;">초치료 요법 선택</mark>
+### <mark style="color:orange;">초치료 요법 선택</mark>
 
 * 2025년 국내 개정 지침을 기본으로 감수성 검사, 이전 항생제 노출, 알레르기, 지역 제균율에 따라 선택
 * 감수성 기반 치료에서는 clarithromycin 감수성일 때 PPI 표준 3제 7일, 내성일 때 고전적 bismuth 4제 10일을 권고 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
   * ACG 2024는 optimized bismuth 4제 14일 권고
-* 감수성 검사 없이 치료하면 동시 치료(PPI·amoxicillin·clarithromycin·metronidazole을 함께 투여하는 비bismuth 4제) 10일이 주요 경험적 요법
+* 감수성 검사 없이 치료하면 동시 치료(PPI, amoxicillin, clarithromycin, metronidazole을 함께 투여하는 non-bismuth 4제) 10일이 주요 경험적 요법
   * 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
 * 어떤 요법이든 해당 기관·지역의 제균 성적과 복약 가능성을 고려하고 모든 환자에서 치료 후 제균 확인
-* P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고). 다만 국내 근거는 tegoprazan 중심이며, 메타분석에서 PPI 대비 유의한 우월성은 확인되지 않았고 P-CAB가 clarithromycin 내성을 극복한다는 근거도 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
-* 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 2025년 국내 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 _H. pylori_ 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
-* 2026년 추가 근거 : 국내 다기관 무작위 연구의 fexuprazan·amoxicillin(3 g/일)·bismuth 병용은 항생제 1종을 쓰지만 **3성분 요법**이며 순수 2제요법이 아님. PPI 표준 3제 대비 비열등성을 보였으나, 맞춤 치료·고전적 bismuth 4제 대비 우월성이나 일반적인 우선 선택을 입증한 것은 아님. 허가된 fexuprazan 3제와도 구성·용량이 달라 연구 요법으로 구분 <mark style="color:$info;">\[Helicobacter 2026]</mark>
+* P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고)
+  * 메타분석의 P-CAB 우월성은 주로 vonoprazan 근거이며, tegoprazan은 PPI와 제균율이 비슷(비열등). P-CAB이 clarithromycin 내성을 극복한다는 근거는 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+* 고용량 amoxicillin 2제요법 : ACG 2024는 vonoprazan–amoxicillin 2제를 초치료 대안으로 제안하지만, 다른 P-CAB에 동일하게 적용하지 않음. 2025년 국내 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님
+  * vonoprazan은 국내 _H. pylori_ 제균 적응증이 없음
+* 2026년 추가 근거 : 국내 다기관 무작위 연구의 fexuprazan, amoxicillin(3 g/d), bismuth 병용은 항생제 1종을 쓰지만 3성분 요법이며 순수 2제요법이 아님. PPI 표준 3제 대비 비열등성을 보였으나, 맞춤 치료·고전적 bismuth 4제 대비 우월성이나 일반적인 우선 선택을 입증한 것은 아님. 허가된 fexuprazan 3제와도 구성·용량이 달라 연구 요법으로 구분 <mark style="color:$info;">\[Helicobacter 2026]</mark>
 
-<mark style="color:$primary;">**1차 치료 요법 선택 기준**</mark>
+#### <mark style="color:$primary;">1차 치료 요법 선택 기준</mark>
 
-| 임상 상황                 | 선택 요법                                                              |
-| --------------------- | ------------------------------------------------------------------ |
-| Clarithromycin 감수성 확인 | PPI 기반 표준 3제 7일; P-CAB 기반은 성분별 허가 기간 적용                            |
-| Clarithromycin 내성 확인  | 맞춤 치료로 고전적 bismuth 4제 10일                                          |
-| 감수성 검사 불가             | 동시 치료 10일 우선 고려; 과거 macrolide 노출·이중내성 위험이 크면 비clarithromycin 요법 고려 |
-| 다른 경험적 요법이 적합하지 않음    | 고전적 bismuth 4제 10\~14일 또는 변형 bismuth 4제 14일을 조건부 고려                |
-| 진성 penicillin 알레르기    | Amoxicillin을 제외한 고전적 bismuth 4제; 투여 기간은 맞춤·경험적·구제 치료 맥락에 따라 선택     |
-| 이전 제균 치료 실패           | 이전 처방·노출력·복약 상태와 감수성 결과로 구제요법 결정                                   |
+<table><thead><tr><th width="259">임상 상황</th><th>선택 요법</th></tr></thead><tbody><tr><td><strong>Clarithromycin 감수성 확인</strong></td><td>PPI 기반 표준 3제 7일; P-CAB 기반은 성분별 허가 기간 적용</td></tr><tr><td><strong>Clarithromycin 내성 확인</strong></td><td>맞춤 치료로 고전적 bismuth 4제 10일</td></tr><tr><td><strong>감수성 검사 불가</strong></td><td>동시 치료 10일 우선 고려; 과거 macrolide 노출·이중내성 위험이 크면 비clarithromycin 요법 고려</td></tr><tr><td><strong>다른 경험적 요법이 적합하지 않음</strong></td><td>고전적 bismuth 4제 10~14일 또는 변형 bismuth 4제 14일을 조건부 고려</td></tr><tr><td><strong>진성 penicillin 알레르기</strong></td><td>Amoxicillin을 제외한 고전적 bismuth 4제; 투여 기간은 맞춤·경험적·구제 치료 맥락에 따라 선택</td></tr><tr><td><strong>이전 제균 치료 실패</strong></td><td>이전 처방·노출력·복약 상태와 감수성 결과로 구제요법 결정</td></tr></tbody></table>
 
-<mark style="color:$primary;">**표준 3제 요법 (Standard Triple Therapy)**</mark>
+#### <mark style="color:$primary;">표준 3제 요법 (Standard Triple Therapy) - 7일</mark>
 
 * 구성 : PPI 표준 용량 + amoxicillin 1 g <mark style="color:blue;">\[파목신]</mark> + clarithromycin 500 ㎎ <mark style="color:blue;">\[클래리시드]</mark>, 각각 bid
 * clarithromycin 감수성 확인 시 국내 맞춤 치료 권고 기간은 7일
-* **원문 내 기간 불일치** : 2025년 국내 개정 지침 권고문 4-2와 해당 해설은 감수성균에 7일 3제, 내성균에 10일 bismuth 4제를 권고하지만 같은 원문 요약표 6에는 각각 14일, 10\~14일로 기재되어 있음. 본 장은 권고문 4-2를 기준으로 하며 정정 공지·품목정보·기관 프로토콜을 함께 확인. 이를 경험적 요법·구제요법의 기간과 혼동하지 않음
 * 감수성 검사 없이 사용하는 경험적 3제는 지역 clarithromycin 내성률 ＜15% 등 제한적 조건에서만 14일 고려. 고내성 환경의 일반적인 경험적 1차 선택으로 사용하지 않음
 
-<mark style="color:$primary;">**동시 치료 (Concomitant Therapy) - 10일**</mark>
+{% hint style="info" %}
+2025년 국내 개정 지침 권고문 4-2와 해당 해설은 감수성균에 7일 3제, 내성균에 10일 bismuth 4제를 권고하지만 같은 원문 요약표 6에는 각각 14일, 10\~14일로 기재되어 있음(**지침 원문 내 기간 불일치**). 본 장은 권고문 4-2를 기준으로 하였음
+{% endhint %}
 
-* 구성 : PPI 표준 용량 + clarithromycin 500 ㎎ + amoxicillin 1 g + metronidazole 500 ㎎ <mark style="color:blue;">\[후라시닐]</mark>, 각각 bid × 10일
-* 2025년 국내 개정 지침의 주요 경험적 요법. Clarithromycin·metronidazole 이중내성에서는 제균율이 낮아질 수 있음
-* 순차 치료(sequential therapy)와 metronidazole 3제(PAM)는 2025년 국내 개정 지침의 권고 요법에서 제외되어 신규 처방 선택지로 제시하지 않음 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+#### <mark style="color:$primary;">동시 치료 (Concomitant Therapy) - 10일</mark>
 
-<mark style="color:$primary;">**Bismuth 4제 요법 (Bismuth Quadruple Therapy) - 10\~14일**</mark>
+* 구성 : PPI 표준 용량 + clarithromycin 500 ㎎ + amoxicillin 1 g + metronidazole 500 ㎎ <mark style="color:blue;">\[후라시닐]</mark>, 각각 bid × 10일 (2025년 국내 개정 지침의 주요 경험적 요법)
+* clarithromycin, metronidazole 이중내성에서는 제균율이 낮아질 수 있음
+* 순차 치료(sequential therapy)와 metronidazole 3제(PAM)는 2025년 국내 개정 지침의 권고 요법에서 제외되어 초치료 방법으로 제시하지 않음 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+
+#### <mark style="color:$primary;">Bismuth 4제 요법 (Bismuth Quadruple Therapy) - 10\~14일</mark>
 
 * 표준 구성 : PPI 표준 용량 bid + 비스무트시트르산염칼륨 300 ㎎(산화비스무트로서 120 ㎎) <mark style="color:blue;">\[데놀]</mark> qid + metronidazole 500 ㎎ tid + tetracycline 500 ㎎ qid <mark style="color:blue;">\[테라싸이클린]</mark>
-* 적용 : clarithromycin 내성 맞춤 치료는 10일; 경험적 사용은 10\~14일의 조건부 선택지이며 구제요법으로 남겨둘 필요도 고려. Clarithromycin 포함 요법 실패 후 국내 구제요법 권고 기간은 10\~14일이며, 본 장의 처방례는 14일로 제시
-* 제균율은 초치료·구제요법 여부, 내성, 기간, 복약 순응도 및 분석집단에 따라 달라짐. 초치료 성적을 구제요법에 그대로 적용하지 않음
+* 적용 : clarithromycin 내성 맞춤 치료는 10일
+  * 경험적 사용은 10\~14일의 조건부 선택지이며 구제요법으로 남겨둘 필요도 고려
+  * clarithromycin 포함 요법 실패 후 구제요법(salvage therapy) 국내 권고 기간은 10\~14일이며, 본 장의 처방례는 14일로 제시
+* 제균율은 초치료·구제요법 여부, 내성, 기간, 복약 순응도 및 분석 집단에 따라 달라짐
 * 주의
-  * 복잡한 복용 스케줄 → 복약 달력(pill chart) 제공 권장 (아래 복약 계획 참조)
-  * 데놀은 신장애 환자에게 금기. 300 ㎎은 염 함량, 120 ㎎은 산화비스무트 환산량으로 같은 1정이며 용량 오류로 혼동하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
-  * 지침상 고전적 4제는 tetracycline을 포함하지만, 데놀 개별 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있어 지침과 품목 허가의 차이를 설명하고 지침 기반 병용의 근거와 판단을 기록. 단순히 복용 간격을 두면 허가상 병용 회피 문구가 해소되는 것으로 해석하지 않음
-  * tetracycline : 식약처 품목 허가정보의 유효균종·적응증에는 _H. pylor&#x69;_&#xAC00; 명시되어 있지 않으므로, 제균 목적은 지침 기반 허가 외 사용으로 구분. 제균 지침 용량은 500 ㎎ qid(2 g/일)이며 품목 허가상 일반 성인 기본 용량 1 g/일과 구분(허가문구에는 연령·증상에 따른 증감 가능). 품목 허가상 임부·임신 가능 여성·수유부·12세 미만·신부전·중증 간기능부전 및 retinoid 제제 병용은 금기. 신장애에서는 축적·간독성·질소혈증 위험에 주의. 이 장의 성인 제균 처방을 소아에게 적용하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
-  * 변형 bismuth 4제는 고전적 요법과 구성·권고 근거가 다르므로 구분
+  * 복잡한 복용 스케줄 → 복약 달력(pill chart) 제공 권장 (아래 표 참조)
+  * <mark style="color:blue;">데놀</mark> : 신장애 환자에게 금기. 300 ㎎은 염 함량, 120 ㎎은 산화비스무트 환산량으로 같은 1정이며 용량 오류로 혼동하지 않음&#x20;
+  * tetracycline : 제균 목적 사용은 허가 외 사용임. <mark style="color:blue;">데놀</mark> 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있음(단순히 복용 간격을 두는 것으로는 해결되지 않음)
 
 {% hint style="info" %}
 **변형 Bismuth 4제 요법 (Modified Bismuth Quadruple Therapy) - 14일**
 
-2025년 국내 개정 지침은 PPI·amoxicillin·bismuth에 metronidazole(PAMB) 또는 clarithromycin(PACB)을 조합한 14일 요법을 경험적 초치료의 추가 선택지로 소개(번호 권고문이 아닌 본문 기술). 고전적 4제보다 이상반응 부담이 적고, PAMB는 clarithromycin 노출을 피할 수 있음. Tetracycline 수급 불가 상황에만 한정된 권고는 아니며, 2차 치료에서 tetracycline을 쓸 수 없을 때도 PAMB를 대안으로 제시. 고전적 tetracycline 기반 요법과 구분하고, 선택한 임상시험·지침의 용량과 복용 횟수를 적용. Penicillin 알레르기 환자에게는 사용하지 않으며 clarithromycin 노출·내성 위험을 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+2025년 국내 개정 지침은 PPI·amoxicillin·bismuth에 metronidazole(PAMB) 또는 clarithromycin(PACB)을 조합한 14일 요법을 경험적 초치료의 추가 선택지로 소개. 고전적 4제보다 이상반응 부담이 적고, PAMB는 clarithromycin 노출을 피할 수 있음. Tetracycline 수급 불가 상황에만 한정된 권고는 아니며, 2차 치료에서 tetracycline을 쓸 수 없을 때도 PAMB를 대안으로 제시. 고전적 tetracycline 기반 요법과 구분하고, 선택한 임상시험·지침의 용량과 복용 횟수를 적용. Penicillin 알레르기 환자에게는 사용하지 않으며 clarithromycin 노출·내성 위험을 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 {% endhint %}
 
-**Bismuth 4제 요법 복약 계획**
+<mark style="color:cyan;">**Bismuth 4제 요법 복약 계획**</mark>
 
-* 식사·취침 시각에 맞추어 약제별 복약 계획을 작성. Tetracycline을 일괄적으로 ‘매 식후·취침 직전’에 복용하도록 안내하지 않음
+* 약제마다 복용 원칙이 다름. 식사·취침 시각에 맞추어 약제별 복약 계획을 작성
 
-| 약제            | 횟수  | 복용 원칙                                                             |
-| ------------- | --- | ----------------------------------------------------------------- |
-| PPI           | bid | 아침·저녁 식전 30\~60분(판토록은 식전 1시간)                                     |
-| 데놀            | qid | 매 식전 30분 및 늦은 저녁 등으로 분할; 투여 전후 30분 음식·음료 및 제산제 회피                 |
-| Metronidazole | tid | 매 식후; 복용 중 및 종료 후 최소 3일까지 금주                                      |
-| Tetracycline  | qid | 식전 1시간 또는 식후 2시간에 분할. 충분한 물과 복용하고 30분 이상 눕지 않음. 마지막 복용도 취침 직전은 피함 |
+<table><thead><tr><th width="150">약제</th><th width="83">횟수</th><th>복용 원칙</th></tr></thead><tbody><tr><td><strong>PPI</strong></td><td>bid</td><td>아침·저녁 식전 30~60분(<mark style="color:blue;">판토록</mark>은 식전 1시간)</td></tr><tr><td><mark style="color:blue;"><strong>데놀</strong></mark></td><td>qid</td><td>매 식전 30분 및 늦은 저녁 등으로 분할; 투여 전후 30분 음식·음료 및 제산제 회피</td></tr><tr><td><strong>Metronidazole</strong><br> <mark style="color:blue;">[후라시닐]</mark></td><td>tid</td><td>매 식후; 복용 중 및 종료 후 최소 3일까지 금주</td></tr><tr><td><strong>Tetracycline</strong><br><mark style="color:blue;">[테라싸이클린]</mark></td><td>qid</td><td>식전 1시간 또는 식후 2시간에 분할. 충분한 물과 복용하고 30분 이상 눕지 않음. 마지막 복용도 취침 직전은 피함; 유제품·제산제·철분제 등 다가양이온 함유 제제와 2시간 이상 분리</td></tr></tbody></table>
 
-* Tetracycline은 유제품·제산제·철분제 등 다가양이온 함유 제제와 2시간 이상 분리. 위 표는 음식과의 관계를 정리한 것으로, 데놀 허가사항의 tetracycline 병용 회피 문구를 대체하지 않음 <mark style="color:$info;">\[품목 허가사항·제품정보]</mark>
-
-<mark style="color:$primary;">**페니실린 알레르기 환자**</mark>
+#### <mark style="color:$primary;">페니실린 알레르기 환자</mark>
 
 * 경증·비즉시형 반응 등 저위험 과거력 : 병력을 재평가하고 필요시 전문기관에서 피부검사·경구유발검사를 통해 penicillin allergy 표지 해제(delabeling) 고려; 확인 전에는 bismuth 4제 요법 사용
-* 아나필락시스·중증 지연형 반응(SJS/TEN·DRESS 등) : Amoxicillin 회피; 특히 중증 지연형 반응에서는 경구유발검사·탈감작을 시행하지 않음 → bismuth 4제 요법 (tetracycline + metronidazole; amoxicillin 제외) 우선
-* bismuth 4제도 사용할 수 없는 경우 : 소화기내과 의뢰 후 감수성 기반 치료. Clarithromycin·fluoroquinolone 포함 요법은 해당 감수성이 확인된 경우에만 고려
+* 아나필락시스·중증 지연형 반응(SJS/TEN·DRESS 등) : amoxicillin 제외; 특히 중증 지연형 반응에서는 경구유발검사·탈감작을 시행하지 않음&#x20;
+  * bismuth 4제 요법(tetracycline + metronidazole) 우선
+* bismuth 4제도 사용할 수 없는 경우 : 소화기내과 의뢰 후 감수성 기반 치료. clarithromycin, ·fluoroquinolone 포함 요법은 해당 감수성이 확인된 경우에만 고려
 
-#### <mark style="color:$primary;">재치료 프로토콜</mark>
+### <mark style="color:orange;">재치료 프로토콜</mark>
 
-**제균 실패 흔한 원인 - 재치료 전 점검**
+* 제균 실패 흔한 원인 - 재치료 전 점검
+  1. clarithromycin 또는 fluoroquinolone 내성
+  2. 복약 불이행 (특히 bismuth 4제의 복잡한 스케줄)
+  3. PPI 산 억제 불충분 (CYP2C19 급속 대사형)
+  4. 흡연 (제균율 감소와 관련)
+* 너무 이른 확인 검사·휴약 미준수는 실제 항생제 내성의 원인이 아니라 결과 해석 오류의 원인이므로, 적절한 시점에 활동성 감염을 재확인
 
-1. clarithromycin 또는 fluoroquinolone 내성
-2. 복약 불이행 (특히 bismuth 4제의 복잡한 스케줄)
-3. PPI 산 억제 불충분 (CYP2C19 급속 대사형)
-4. 흡연 (제균율 감소와 관련)
+#### <mark style="color:$primary;">1차 재치료 (표준 3제·동시·순차 치료 실패 후)</mark>
 
-✽ 너무 이른 확인 검사·휴약 미준수는 실제 항생제 내성의 원인이 아니라 결과 해석 오류의 원인이므로, 적절한 시점에 활동성 감염을 재확인
+* 고전적 bismuth 4제 요법 10\~14일 (상기 구성) - 2025년 국내 개정 지침의 표준 2차 치료(강한 권고)
+  * ACG 2024의 14일 최적화 요법도 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
 
-<mark style="color:$primary;">**1차 재치료 (표준 3제·동시·순차 치료 실패 후)**</mark>
+#### <mark style="color:$primary;">Bismuth 4제 실패 후 구제요법</mark>
 
-* 고전적 bismuth 4제 요법 10\~14일 (상기 구성) - 2025년 국내 개정 지침의 표준 2차 치료(강한 권고). 본 장은 ACG 2024의 14일 최적화 요법도 고려하여 14일 처방례를 제시 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
-
-<mark style="color:$primary;">**Bismuth 4제 실패 후 구제요법**</mark>
-
-* bismuth 4제를 초치료로 사용했는지 2차로 사용했는지 구분하고, 감수성·이전 노출력에 따라 rifabutin 3제 또는 이전에 사용하지 않은 항생제를 활용한 변형 4제를 전문의와 결정. 아래 나열 순서대로 경험적 치료를 반복하지 않음
+* bismuth 4제를 초치료로 사용했는지 2차로 사용했는지 구분하고, 감수성·이전 노출력에 따라 rifabutin 3제 또는 이전에 사용하지 않은 항생제를 활용한 변형 4제를 전문의와 결정
 * levofloxacin 3제 요법 14일 : PPI 표준 용량 bid + amoxicillin 1 g bid + levofloxacin 500 ㎎ qd (또는 250 ㎎ bid) <mark style="color:blue;">\[크라비트]</mark>
   * fluoroquinolone 내성률(37% 내외)이 높고 clarithromycin과 levofloxacin에 동시 내성인 균주도 보고되어 감수성이 확인된 경우에만 사용. 서로 다른 계열 간 동시 내성(co-resistance)을 동일한 내성 기전에 의한 교차내성(cross-resistance)과 구분
-* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 2025년 국내 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등) 및 amoxicillin 용량이 다름
+* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 2025년 국내 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등 <mark style="color:blue;">\[마이코부틴]</mark>) 및 amoxicillin 용량이 다름
   * _H. pylori_ 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
   * 골수억제(호중구감소증), 포도막염 가능; 반복치료·혈액질환 등 고위험군에서 CBC 확인 고려
   * 활동성 결핵 또는 rifamycin 계열 치료력·치료 중인 환자는 내성 선택 위험을 고려하여 감염내과 협진
-* 배양 검사 후 감수성 기반 치료 : 2회 이상 실패 시 소화기내과 의뢰 → 내시경 조직으로 배양·항생제 감수성 검사 시행 후 맞춤 치료
+* 배양 검사 후 감수성 기반 치료 : 2회 이상 실패 시 의뢰 → 내시경 조직으로 배양·항생제 감수성 검사 시행 후 맞춤 치료
 
-#### <mark style="color:$primary;">약제</mark>
+### <mark style="color:orange;">약제</mark>
 
-<mark style="color:$primary;">**PPI 표준 용량**</mark>
+#### <mark style="color:$primary;">PPI 표준 용량</mark>
 
-* 아래는 **1회 표준 용량 참고값**이며 본 장의 제균요법에서는 **1일 2회** 투여. 동일한 산 억제력의 직접 환산표가 아니며 성분·제형·제균 허가요법을 확인하여 선택. 일반형을 이중방출형·복합제로 자동 대체하지 않음
-* omeprazole 20 ㎎ <mark style="color:blue;">\[오엠피]</mark>
-* esomeprazole 20 ㎎ <mark style="color:blue;">\[넥시움]</mark>
-* lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark>
-* rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark>
-* pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark>
+* 아래는 성인 _H. pylori_ 제균요법의 1회 표준 용량과 해당 품목의 허가된 병용요법 기간이며, 성분 간 산 억제력의 직접 환산표는 아님
+* omeprazole 20 ㎎ <mark style="color:blue;">\[오엠피]</mark> : 장용정; bid × 7일
+* esomeprazole 20 ㎎ <mark style="color:blue;">\[넥시움]</mark> : 장용정; bid × 7일
+* lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark> : 장용캡슐; bid × 7일(필요시 14일까지)
+* rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark> : 장용정; bid × 7일
+* pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark> : 장용정; bid × 7일
+* 위 용법·기간은 각 품목의 허가된 제균 병용요법 기준임. 2025년 국내 개정 지침은 clarithromycin 감수성 확인 시 표준 3제 7일, 감수성 검사 없이 경험적 치료 시 동시 치료 10일, clarithromycin 내성 확인 시 bismuth 4제 10일을 권고함. 동시 치료와 bismuth 4제요법은 위 품목의 기존 7일 3제 허가요법과 항생제 조합·기간이 다름
+* 일반형을 이중방출형·복합제로 자동 대체하지 않음
 
-<mark style="color:$primary;">**P-CAB (Potassium-Competitive Acid Blocker)**</mark>
+#### <mark style="color:$primary;">P-CAB (Potassium-Competitive Acid Blocker)</mark>
 
-* tegoprazan 50 ㎎ <mark style="color:blue;">\[케이캡]</mark>
-  * 허가 : 표준 3제 요법 7일 투여 허가
+* tegoprazan : 50 ㎎ <mark style="color:blue;">\[케이캡]</mark>
+  * 허가 병용요법 : tegoprazan 50 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, bid × 7일&#x20;
   * PPI 대비 강력하고 안정적인 산 억제 효과; CYP2C19 대사 다형성 영향 적음 → 급속 대사자에서 유리
   * 7일 tegoprazan 기반 3제 요법은 lansoprazole 기반 3제 요법에 비열등했으나, clarithromycin 고내성 환경에서는 7일 요법의 절대 제균율이 충분하지 않을 수 있음. 2025년 국내 개정 지침 메타분석에서 tegoprazan 기반 요법의 제균율은 PPI와 유의한 차이가 없었음(79.3% vs 76.8%)
-  * 처방 시 tegoprazan 50 ㎎ bid (3제 요법 구성 내)
-  * 14일 연장 요법의 제균율 향상 보고가 있으나 허가 기간 7일을 벗어나는 사용으로 구분
-* 본 장에 제균 처방으로 제시한 tegoprazan·fexuprazan은 임부·수유부 금기. 다른 P-CAB에 계열 전체의 금기로 일반화하지 않음
-* fexuprazan 40 ㎎ <mark style="color:blue;">\[펙수클루]</mark>
-  * 허가 병용요법 : fexuprazan 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid × **14일** <mark style="color:$info;">\[품목 허가사항]</mark>
+  * 14일 연장 요법의 제균율 향상 보고가 있음(허가 기간 7일을 벗어나는 사용임)
+* fexuprazan : 40 ㎎ <mark style="color:blue;">\[펙수클루]</mark>
+  * 허가 병용요법 : fexuprazan 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎,  bid × 14일&#x20;
   * 강력한 산 억제만으로 clarithromycin 내성을 충분히 극복할 수 없으므로 감수성 확인 원칙을 유지
   * 2026년 9월 단일기관 무작위 연구(79명)에서 7일 fexuprazan 3제와 14일 rabeprazole 3제의 FAS 제균율은 각각 80.0%, 82.1%였음. 소규모 연구의 군 간 유의차 부재만으로 비열등성이 확립되었다고 보지 않으며, 허가된 14일 요법을 7일로 일괄 단축하지 않음 <mark style="color:$info;">\[Medicine 2026]</mark>
 
 {% hint style="info" %}
-P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상 7일, fexuprazan은 14일. 지침상 권고·품목 허가·건강보험 급여는 서로 다른 기준이므로 동일하게 취급하지 않음
+P-CAB 기반 3제는 성분에 따라 허가 기간이 다르고, 2025년 국내 개정 지침과도 다름; fexuprazan 3제는 지침 기간 7일 vs 허가 기간 14일, tegoprazan은 모두 7일
 {% endhint %}
 
-<mark style="color:$primary;">**항생제 내성 관리 원칙 (Antimicrobial Stewardship)**</mark>
+#### <mark style="color:$primary;">항생제 내성 관리 원칙 (Antimicrobial Stewardship)</mark>
 
 * _H. pylori_ 치료는 항생제 stewardship 원칙을 준수
 * clarithromycin·levofloxacin은 이전 노출·실패 후 경험적 재사용을 피함. 3제요법은 감수성 확인을 원칙으로 하며, 2025년 국내 개정 지침의 경험적 동시 치료 10일 및 제한적인 저내성 지역 3제 예외와 구분. Levofloxacin은 본 장에서 감수성 확인 후 사용으로 제한
@@ -291,7 +282,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 * 2회 이상 실패 시 감수성 기반 치료 : 배양 검사 시행 또는 의뢰
 * 항생제는 처방된 7\~14일 요법을 마치면 종료. UBT 음성이 나올 때까지 연장하지 않음. 적절한 휴약 후 제균 확인하고, 실패가 확인되면 다른 요법을 결정
 
-<mark style="color:$primary;">**처방 전 안전 점검**</mark>
+#### <mark style="color:$primary;">처방 전 안전 점검</mark>
 
 * **clarithromycin 병용금기** : domperidone 및 simvastatin·lovastatin과 병용하지 않음. Colchicine·ticagrelor·ivabradine·ranolazine·lomitapide도 병용금기. Domperidone을 제균약의 구역 대책으로 추가하지 않음. 항응고제·digoxin·일부 칼슘통로차단제 등의 상호작용은 별도 확인 <mark style="color:$info;">\[품목 허가사항]</mark>
 * **clarithromycin 금기·감량** : QT 연장/심실성 부정맥 병력, 저칼륨혈증·저마그네슘혈증, 중증 간장애 및 임부·수유부 금기. 해당 품목 허가상 CrCl ≤30 ㎖/min이면 용량을 절반으로 감량하고 14일을 초과하여 투여하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
@@ -299,11 +290,11 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 * **metronidazole** : 혈액질환 또는 그 병력, 기질적 신경계 질환, 임신 첫 3개월, 수유부(투여 후 24시간 이상 수유 중단 조건 확인), mizolastine 병용 및 최근 2주 이내 disulfiram 복용 등 품목 금기 확인. 간/신장애는 신중 투여. 새 감각이상·보행장애·착란·경련이 나타나면 중단·평가 <mark style="color:$info;">\[품목 허가사항]</mark>
 * **PPI–clopidogrel** : omeprazole·esomeprazole 병용을 피하고 pantoprazole 등 대안 고려. 위산 의존 흡수 약물과 P-CAB의 성분별 상호작용도 확인 (☞ [소화기계 약제](073_-gidrugs.md))
 * **신기능 저하** : amoxicillin·clarithromycin·levofloxacin은 성분·CrCl·제형에 따른 감량/투여 간격 조정 필요. 고정된 성인 처방례를 그대로 적용하지 않음. 데놀은 신장애 환자 금기이므로, 신장애에서는 고전적·변형 bismuth 요법 모두 처방 전 재평가
-* **pantoprazole 품목 제한** : 판토록 허가상 중등도\~중증 간/신기능장애 환자에게 항생제 병용요법을 사용하지 않음. 중증 간장애에서는 20 ㎎/일 초과 금지. PPI의 일반적인 신기능 용량 조정 여부와 제균 병용 허가 제한을 혼동하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
+* **pantoprazole 품목 제한** : 판토록 허가상 중등도\~중증 간/신기능장애 환자에게 항생제 병용요법을 사용하지 않음. 중증 간장애에서는 20 ㎎/d 초과 금지. PPI의 일반적인 신기능 용량 조정 여부와 제균 병용 허가 제한을 혼동하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
 * **levofloxacin** : 퀴놀론 관련 건염/건파열 병력·뇌전증·중증근무력증 병력·임부/임신 가능 여성·수유부·18세 이하 성장기 청소년에게 투여하지 않음. 건염·감각이상 발생 시 즉시 중단. 전신 스테로이드 병용은 피하고, 다가양이온 제제는 전후 2시간 분리. 크라비트 500 ㎎ 품목은 일부 허가 적응증의 신기능 조정표에 CrCl 50\~80 ㎖/min도 포함하므로 ‘50 이상이면 무조건 무감량’으로 일반화하지 않음. 제균은 허가 외 사용이므로 신기능 저하 시 전문의와 용량·대안 결정 <mark style="color:$info;">\[품목 허가사항]</mark>
 * **프로바이오틱스** : 균주·용량·연구마다 결과가 달라 제균율 향상이나 부작용 예방 목적으로 일률적인 추가를 권고할 근거는 불충분. 제균약을 대체하지 않음 (☞ [소화기계 약제](073_-gidrugs.md)) <mark style="color:$info;">\[Am J Gastroenterol 2024]</mark>
 
-<mark style="color:$primary;">**약물 부작용 관리**</mark>
+#### <mark style="color:$primary;">약물 부작용 관리</mark>
 
 <table><thead><tr><th width="146.5263671875">약물</th><th>주요 부작용</th><th>대처</th></tr></thead><tbody><tr><td>amoxicillin</td><td>설사, 복통, 발진, 드물게 알레르기 반응</td><td>페니실린 알레르기 사전 확인; 알레르기 의심 시 즉시 중단·평가</td></tr><tr><td>clarithromycin</td><td>금속 맛, 구역, 복통, QT 연장; CYP3A4 약물상호작용</td><td>Domperidone·simvastatin·lovastatin 병용금기; 기타 QT 연장 약물·병용약 확인</td></tr><tr><td>metronidazole</td><td>금속 맛, 구역, 구토; 알코올 병용 시 홍조·두통·빈맥·구토 가능</td><td>치료 기간 중 및 종료 후 최소 3일까지 음주 금지 교육</td></tr><tr><td>bismuth</td><td>변비, 검은 변·흑색 혀, 구역</td><td>일시적 변색을 설명하되 색만으로 출혈 배제 불가; 타르변·어지럼·쇠약·토혈은 응급 평가. 데놀은 신장애 환자 금기</td></tr><tr><td>tetracycline</td><td>광과민성, 식도염</td><td>충분한 물과 함께 복용 후 30분은 눕지 않음; 식전 1시간 또는 식후 2시간; 유제품·제산제·철분제와 2시간 이상 분리</td></tr><tr><td>levofloxacin</td><td>건염·건파열, 말초신경병증, 중추신경계 이상, 혈당 변동, QT 연장</td><td>고령·신기능 저하 환자 주의; 전신 스테로이드 병용 회피; 감수성 확인 후 제한적으로 사용</td></tr><tr><td>rifabutin</td><td>골수억제, 포도막염, 체액의 주황색 변색</td><td>전문의 협진; 반복치료·고위험군에서 CBC 확인 고려</td></tr></tbody></table>
 
@@ -315,7 +306,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 * **Fexuprazan 40 ㎎** : 제균 병용요법은 허가되었으나 급여 인정 범위에 포함되지 않아 제균 목적 투여 시 해당 약값 전액 본인부담 <mark style="color:$info;">\[고시 2025-189호; 심평원 공개 약제급여기준집 대조]</mark>
 * 위 항목으로 항생제·UBT·내성검사의 급여까지 일괄 결정하지 않으며, 검사·약제별 기준을 각각 적용
 
-### <mark style="color:orange;">치료 후 추적 검사</mark>
+## <mark style="color:green;">치료 후 추적 검사</mark>
 
 * 대상 : 증상 호전 여부와 무관하게 **제균 치료를 받은 모든 환자**
 * 방법 : UBT 선호 (정확도가 높고 비침습); 내시경 추적이 필요한 경우 조직 검사
@@ -325,7 +316,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 * 합병증 없는 십이지장궤양 : 증상이 호전되고 제균 성공이 확인되면 routine 추적 내시경은 일반적으로 불필요
 * 위축성 위염·장상피화생, 위선종·조기 위암 절제 후 등 위암 고위험군은 제균 성공 후에도 기존 기준에 따른 내시경 추적을 지속
 
-### <mark style="color:orange;">시술 및 기타 처치</mark>
+## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 감염 자체에 대한 시술은 없음. 출혈성 궤양의 내시경 지혈, 위 MALT 림프종의 병기 평가·반응 확인, 위암·선종·고위험 용종의 절제와 추적은 해당 질환의 기준에 따름
 
