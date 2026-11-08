@@ -2,11 +2,12 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 위장 내용물 또는 위산의 역류로 인하여 일상생활에 의미 있는 지장을 주는 증상이나 합병증이 발생한 상태 (Montreal 정의, 2006)
-* 유병률은 조사 지역·증상 빈도·진단 정의에 따라 다름. 동아시아는 서구보다 낮으나 증가 추세이며, 간헐적 역류 증상 경험률을 GERD 유병률과 동일하게 해석하지 않음
-* 아래 진단·치료는 주로 성인 기준임. 소아·청소년은 별도 지침과 성분·제형별 허가 연령을 적용
-* 모든 역류가 증상을 일으키는 것은 아니며 약간의 위식도역류는 대부분 정상 상태임
-  * 식도 산 노출·점막 손상 정도와 자각 증상의 강도는 반드시 비례하지 않음
+* 위 내용물의 역류로 인하여 일상생활에 지장을 주는 증상이 있거나, 증상과 관계없이 합병증(미란성 식도염, 협착, 바렛 식도 등)이 발생한 상태 <mark style="color:$info;">\[Montreal 정의, 2006]</mark>
+  * 모든 역류가 증상을 일으키는 것은 아니며 약간의 위식도역류는 대부분 정상 상태임
+* 식도 산 노출·점막 손상 정도와 자각 증상의 강도는 반드시 비례하지 않음
+* 유병률 : 조사 지역·증상 빈도·진단 정의에 따라 다름
+  * 동아시아는 서구보다 낮으나 증가 추세
+  * 간헐적 역류 증상 경험률을 GERD 유병률과 동일하게 해석하지 않음
 * 역류에 대한 치료를 중단하면 재발하는 경우가 많음
 * 합병증 : 바렛 식도 (adenocarcinoma 위험), peptic stricture, 식도 외 합병증
 
@@ -18,17 +19,14 @@
 **GERD ≠ 산 과다 질환** : GERD는 항역류 장벽 이상, 산성·약산성 역류, 식도 청소 장애 등이 복합적으로 작용하는 질환. Reflux hypersensitivity(역류 과민)와 기능성 가슴쓰림은 GERD 유사 증상의 중요한 감별 질환이며, PPI 불응 환자에서는 객관적 역류 여부와 증상 발생 기전을 재평가해야 함
 {% endhint %}
 
-**바렛 식도 진단 및 감시 내시경 권고 간격**
+<mark style="color:cyan;">**바렛 식도 진단 및 감시 내시경 권고 간격**</mark>
 
-* 아래 간격은 ACG 기준상 식도 원주상피 길이 ≥1 ㎝이고 조직검사에서 장상피화생(IM)이 확인된 바렛 식도에 적용. 양질의 기저 내시경과 적절한 생검이 전제 <mark style="color:$info;">\[ACG Barrett 2022]</mark>
-* 이형성 없음 - 길이 ＜3 ㎝ (short-segment) : 5년
-* 이형성 없음 - 길이 ≥3 ㎝ (long-segment) : 3년
-* 이형성 불확정(indefinite for dysplasia) : 전문 병리 재확인 후 산 억제를 최적화(PPI bid)하고 6개월 이내 내시경·생검 재평가. 불확정 소견이 지속되면 매년 감시
-* 저등급 이형성 (low-grade dysplasia, LGD) : 경험 많은 위장관 병리의사의 확인 후 내시경 제거 치료(endoscopic eradication therapy, EET) 권고; 감시를 선택하면 6개월, 12개월 후 매년 추적
-* 고등급 이형성 (high-grade dysplasia, HGD) : 병리 재확인 후 가시 병변은 내시경 절제하고 잔여 평탄 바렛 점막은 고주파 소작술 등 점막 소작(ablation)으로 제거하는 EET 시행
-* 바렛 식도는 금기가 없으면 적어도 매일 1회 PPI를 권고하며 증상·식도염에 따라 용량 조정. 암 예방만을 목적으로 항역류 수술을 시행하지 않음. 동반질환·기대여명·내시경 치료 가능성을 고려하여 감시 지속 여부를 결정 <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
-* 감시 내시경은 고해상도 백색광 내시경과 색소내시경을 함께 시행. 이형성 또는 조기암이 확인되면 바렛 식도 치료 경험이 많은 기관으로 의뢰 <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
-* 감시 생검은 가시 병변의 표적생검과 체계적 4방향 생검을 병행. 이형성 병력이 없으면 2 ㎝ 간격, 이형성 병력이 있으면 1 ㎝ 간격으로 시행하며, 색소내시경 유도 표적생검만으로 체계적 생검을 대체하지 않음 <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
+* 아래 기준은 ACG 기준상 식도 원주상피 길이 ≥1 ㎝이고 조직검사에서 장상피화생(IM)이 확인된 바렛 식도에 적용. 양질의 기저 내시경과 적절한 생검이 전제 <mark style="color:$info;">\[ACG Barrett 2022]</mark>
+* 이형성 없음 : 길이 ＜3 ㎝ - 5년 간격 감시 내시경, 길이 ≥3 ㎝ - 3년 간격 감시 내시경
+* 이형성 불확정 : 전문 기관에서 병리 재확인 및 산 억제 최적화 후 6개월 이내 내시경·생검 재평가. 불확정 소견이 지속되면 매년 감시
+* 저등급·고등급 이형성 또는 조기암 : 전문 병리 재확인과 내시경 치료 평가를 위해 바렛 식도 치료 경험이 많은 기관으로 의뢰
+* 금기가 없으면 적어도 매일 1회 PPI를 투여하며 증상·식도염에 따라 용량 조정. 암 예방만을 목적으로 항역류 수술을 시행하지 않음
+* 동반질환·기대여명·내시경 치료 가능성을 고려하여 감시 지속 여부를 결정 <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
 
 {% hint style="info" %}
 국가·학회별 바렛 식도 진단 기준은 다름. ACG의 ≥1 ㎝ + IM 기준을 명시해 적용하며 아시아 전체에 같은 기준을 일반화하지 않음. 1 ㎝ 미만 불규칙 Z선·원주상피는 이형성이나 가시 병변이 없으면 IM이 있어도 정기 감시를 권고하지 않음 <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
@@ -42,9 +40,10 @@
 * 타액 분비 저하 → 식도 산 청소율 감소
 * 위 배출 지연 (gastroparesis, 위 운동 저하)
 * hiatal hernia 및 횡격막각 기능 저하 → 위식도접합부 항역류 장벽 손상
+* 산 포켓(acid pocket, 위산 주머니) : 식후 새로 분비된 위산이 음식물에 의해 충분히 완충되지 않고 위식도접합부 근처의 음식물 상층에 모이는 현상. 정상인에서도 형성되지만, 항역류 장벽 기능이 저하되거나 hiatal hernia로 산 포켓이 횡격막 위에 위치하면 식후 산 역류에 기여. alginate raft 제제를 식후에 사용하는 이론적 근거가 됨 <mark style="color:$info;">\[Gastroenterology 2001; Gut 2010]</mark>
 
 {% hint style="info" %}
-_H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고되었으나 증상성 GERD에 대한 영향은 일관되지 않음. GERD 발생 우려는 적응증이 있는 제균 치료를 피할 이유가 아님
+_H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고되었으나, 증상성 GERD에 대한 영향은 일관되지 않음. GERD 발생 우려는 적응증이 있는 제균 치료를 피할 이유가 아님
 {% endhint %}
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -54,22 +53,20 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 임신
 * 약물
 
-#### <mark style="color:$primary;">유발 약물</mark>
+#### <mark style="color:$primary;">LES 압력 감소 또는 위배출 지연 약물</mark>
 
-**LES 압력 감소 또는 위배출 지연 약물**
+* LES 압력 감소 : nitrate, 일부 CCB, 항콜린제(일부 TCA 포함), theophylline, benzodiazepine
+* 위배출 지연 : opioid, GLP-1 수용체 작용제; opioid는 식도운동장애도 일으킬 수 있음
 
-* LES 이완·항역류 장벽 영향 : nitrate, 일부 CCB, 항콜린제, theophylline 등
-* 위배출 지연 등 운동 영향 : opioid, GLP-1 수용체 작용제 등. Opioid는 식도운동장애도 일으킬 수 있음
-* TCA·benzodiazepine 등은 성분·용량·환자에 따라 영향을 달리 평가. 약물별 근거가 다른 상황에서 일률적인 위험 순위를 부여하지 않음
-* 증상 시작·악화와 투약 시점의 관계를 확인하고 적응증·대체약을 검토
+{% hint style="info" %}
+**GERD로 오인될 수 있는 약물성 식도염 (pill esophagitis)**
 
-**식도 점막 직접 손상 약물 (pill esophagitis)**
+* 역류와 무관하게 정체된 약이 식도 점막을 직접 손상하며, 내시경상 식도염·궤양으로 보여 GERD와 감별이 필요
+* 대표 약물 : bisphosphonate, doxycycline·tetracycline, potassium chloride, 철분제, NSAID·aspirin
+* 누운 자세 복용, 적은 물로 복용, 식도 운동 저하·협착이 위험을 높임
 
-* bisphosphonate : 대표적 약물성 식도염 원인
-* doxycycline·tetracycline 캡슐 : 정체 시 궤양 유발 가능
-* potassium chloride : 국소 점막 손상 가능
-* 철분제 : 식도 자극 가능
-* NSAID, aspirin : 점막 손상 및 증상 악화 가능
+✽ 증상 시작·악화와 투약 시점의 관계를 확인하고, 필요하면 적응증·대체약을 검토
+{% endhint %}
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -211,65 +208,16 @@ PPI 불응 증상은 지속적인 산 역류만으로 설명되지 않음. Reflu
 ***
 
 ```mermaid
-flowchart TD
-    A["GERD 의심<br/>전형적 가슴쓰림·역류, 경고 증상 없음"] --> B["PPI 또는 적응증에 맞는 P-CAB<br/>4~8주 초기 치료"]
-    B --> R["치료 후 반응?"]
-    R -- "충분히 호전" --> C["<u>유지 전략</u><br/>•내시경 미시행·NERD·LA A/B: 최소 유효 용량 또는 필요시 투여<br/>•LA C/D: 매일 지속 유지"]
-    R -- "불충분·재발<br/>또는 장기 치료 필요" --> G["복약법 확인 후<br/>내시경 ± 객관적 검사"]
-    G --> SQ["내시경 결과?"]
-    SQ -- "LA B 이상·Barrett·소화성 협착" --> J["GERD 확인<br/>병형별 치료 단계로"]
-    SQ -- "정상 또는 LA A" --> K["PPI 중단 상태<br/>역류 모니터링"]
-    K --> KQ["AET 결과?"]
-    KQ -- "병적" --> J
-    KQ -- "불확정" --> Q["검사 방법·보조 지표 통합 평가"]
-    KQ -- "생리적" --> L["증상 연관성·Rome V 기준에 따라<br/>역류 과민·기능성 가슴쓰림 평가"]
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class R,SQ,KQ question
-    class G,K,Q,L test
-    class B,C treatment
-    class J next
 ```
 
-<p align="center"><strong>GERD 진단 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACG 2022; AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
+<p align="center"><strong>GERD 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACG 2022; AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["식도 외 GERD 의심<br/>기침·인후 증상 등"] --> H["병력·진찰 및<br/>비GERD 원인 평가"]
-    H --> T["전형적 GERD 증상 동반?"]
-    T -- "예" --> P["선택적으로 PPI bid<br/>8~12주 시도; 허가·급여 구분"]
-    T -- "아니오" --> M["미입증 GERD: off-PPI 역류 검사<br/>입증 GERD의 불응 증상: on-PPI 임피던스"]
-    P --> R["증상 반응?"]
-    R -- "호전" --> G["치료 필요성 재평가<br/>호전만으로 인과관계 확정하지 않음"]
-    R -- "불충분" --> M
-    M --> MQ["현재 증상과 관련된<br/>객관적 역류 근거?"]
-    MQ -- "있음" --> J["GERD 치료 단계로<br/>식도 외 증상의 인과관계는 별도 판단"]
-    MQ -- "없음" --> O["ENT·호흡기·기능성 질환 등<br/>원인별 치료 단계로"]
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class T,R,MQ question
-    class H,M test
-    class P treatment
-    class G,J,O next
 ```
 
-<p align="center"><strong>식도 외 GERD 증상 진단 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACG 2022; AGA 2023)</mark></em></p>
+<p align="center"><strong>식도 외 GERD 증상 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACG 2022; AGA 2023)</mark></em></p>
 
 ***
 
@@ -293,24 +241,6 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    B["가슴쓰림·산 역류 중심"] --> G["PPI 또는 적응증에 맞는 P-CAB"]
-    C["역류감 중심"] --> H["생활습관·복약 최적화<br/>Alginate 제형별 고려"]
-    H --> I["객관적 역류 지속 시<br/>baclofen·항역류 중재 적합성 평가"]
-    D["야간 증상"] --> J["취침 전 음식 회피·상체 거상<br/>P-CAB 교체 또는 H2RA 단기 추가 고려"]
-    E["복부 팽만·FD 동반 의심"] --> L["FD·IBS 등 동반 질환 평가"]
-    L --> M["확인된 동반 질환에 따른<br/>식이·행동·약물 치료"]
-    F["PPI 불응·흉통·과각성"] --> N["역류 입증 여부·증상 연관성<br/>다른 원인 평가"]
-    N --> O["확인된 과민성·기능성 기전에 따라<br/>신경조절약물·행동치료 고려"]
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class B,C,D,E,F neutral
-    class G,H,J,M,O treatment
-    class L,N,I test
 ```
 
 <p align="center"><strong>증상 패턴별 처방 방향 알고리듬</strong></p>
@@ -318,66 +248,18 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    A["GERD 의심·객관적 미입증<br/>전형적 가슴쓰림·역류, 경고 증상 없음"] --> B["적절한 PPI 시험 치료"]
-    B --> R["치료 후 반응?"]
-    R -- "호전" --> S["최소 유효 치료<br/>계속 투약 시 12개월 이내 적정성 재평가"]
-    R -- "불충분·재발" --> E["가능하면 PPI 2~4주 중단 후<br/>내시경; 경고 증상은 지연하지 않음"]
-    E --> EQ["내시경 결과?"]
-    EQ -- "LA B 이상·Barrett·소화성 협착" --> J["입증된 GERD 치료 단계로"]
-    EQ -- "정상 또는 LA A" --> K["off-PPI 역류 모니터링"]
-    K --> KQ["AET 결과?"]
-    KQ -- "병적" --> J
-    KQ -- "불확정" --> Q["검사 방법·보조 지표 통합 평가"]
-    KQ -- "생리적" --> N["증상 연관성·Rome V 기준에 따라<br/>과민성·기능성 질환 평가"]
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class R,EQ,KQ question
-    class E,K,Q,N test
-    class B,S treatment
-    class J next
 ```
 
-<p align="center"><strong>GERD 미입증 환자의 관리 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
+<p align="center"><strong>GERD 미입증 환자의 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["객관적으로 입증된 GERD<br/>LA B/C/D·Barrett·협착·병적 AET"] --> B["생활습관·복약법·순응도 확인<br/>PPI bid 등 산 억제 치료 최적화"]
-    B --> R["치료 후 반응?"]
-    R -- "호전" --> S["병형별 치료 유지<br/>최소 유효 용량·장기 관리 상담"]
-    R -- "불충분" --> E["내시경 소견·검사 이력 확인"]
-    E --> EQ["최적 치료 중 LA B/C/D 지속<br/>또는 소화성 협착 재발?"]
-    EQ -- "예" --> T["기전별 치료·협착 처치<br/>적합 시 fundoplication·MSA·TIF 평가"]
-    EQ -- "아니오·불명확" --> I["충분한 PPI bid 복용 상태<br/>pH-impedance 검사"]
-    I --> IQ["현재 증상과 관련된<br/>지속 역류 근거?"]
-    IQ -- "없음" --> O["다른 원인·기능성 질환 평가<br/>정상 결과만으로 필수 유지 치료 중단하지 않음"]
-    IQ -- "있음" --> T
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class R,EQ,IQ question
-    class E,I,O test
-    class B,S,T treatment
 ```
 
-<p align="center"><strong>입증된 GERD의 관리 알고리듬</strong></p>
+> _역류 모니터링 전 복약법·순응도와 충분한 PPI bid 치료 여부를 확인. 지속 식도염·재발 협착이 확인된 경로에서도 증상 기전이나 중재 계획에 따라 추가 역류 검사를 선택할 수 있음_
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
-
-> 역류 모니터링 전 복약법·순응도와 충분한 PPI bid 치료 여부를 확인. 지속 식도염·재발 협착이 확인된 경로에서도 증상 기전이나 중재 계획에 따라 추가 역류 검사를 선택할 수 있음
+<p align="center"><strong>입증된 GERD의 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA 2022; Lyon Consensus 2.0, 2024)</mark></em></p>
 
 ***
 
