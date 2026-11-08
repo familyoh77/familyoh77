@@ -1,4 +1,4 @@
-# 위식도역류질환 Gastroesophageal Reflux Disease, GERD
+# 위식도역류질환 GERD
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -20,19 +20,18 @@
 
 **바렛 식도 진단 및 감시 내시경 권고 간격**
 
-* 아래 간격은 ACG 기준상 식도 원주상피 길이 ≥1 ㎝이고 조직검사에서 장상피화생(IM)이 확인된 바렛 식도에 적용. 양질의 기저 내시경과 적절한 생검이 전제  <mark style="color:$info;">\[ACG Barrett 2022]</mark>
-
+* 아래 간격은 ACG 기준상 식도 원주상피 길이 ≥1 ㎝이고 조직검사에서 장상피화생(IM)이 확인된 바렛 식도에 적용. 양질의 기저 내시경과 적절한 생검이 전제 <mark style="color:$info;">\[ACG Barrett 2022]</mark>
 * 이형성 없음 - 길이 ＜3 ㎝ (short-segment) : 5년
 * 이형성 없음 - 길이 ≥3 ㎝ (long-segment) : 3년
 * 이형성 불확정(indefinite for dysplasia) : 전문 병리 재확인 후 산 억제를 최적화(PPI bid)하고 6개월 이내 내시경·생검 재평가. 불확정 소견이 지속되면 매년 감시
 * 저등급 이형성 (low-grade dysplasia, LGD) : 경험 많은 위장관 병리의사의 확인 후 내시경 제거 치료(endoscopic eradication therapy, EET) 권고; 감시를 선택하면 6개월, 12개월 후 매년 추적
 * 고등급 이형성 (high-grade dysplasia, HGD) : 병리 재확인 후 가시 병변은 내시경 절제하고 잔여 평탄 바렛 점막은 고주파 소작술 등 점막 소작(ablation)으로 제거하는 EET 시행
-* 바렛 식도는 금기가 없으면 적어도 매일 1회 PPI를 권고하며 증상·식도염에 따라 용량 조정. 암 예방만을 목적으로 항역류 수술을 시행하지 않음. 동반질환·기대여명·내시경 치료 가능성을 고려하여 감시 지속 여부를 결정  <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
-* 감시 내시경은 고해상도 백색광 내시경과 색소내시경을 함께 시행. 이형성 또는 조기암이 확인되면 바렛 식도 치료 경험이 많은 기관으로 의뢰  <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
-* 감시 생검은 가시 병변의 표적생검과 체계적 4방향 생검을 병행. 이형성 병력이 없으면 2 ㎝ 간격, 이형성 병력이 있으면 1 ㎝ 간격으로 시행하며, 색소내시경 유도 표적생검만으로 체계적 생검을 대체하지 않음  <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
+* 바렛 식도는 금기가 없으면 적어도 매일 1회 PPI를 권고하며 증상·식도염에 따라 용량 조정. 암 예방만을 목적으로 항역류 수술을 시행하지 않음. 동반질환·기대여명·내시경 치료 가능성을 고려하여 감시 지속 여부를 결정 <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
+* 감시 내시경은 고해상도 백색광 내시경과 색소내시경을 함께 시행. 이형성 또는 조기암이 확인되면 바렛 식도 치료 경험이 많은 기관으로 의뢰 <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
+* 감시 생검은 가시 병변의 표적생검과 체계적 4방향 생검을 병행. 이형성 병력이 없으면 2 ㎝ 간격, 이형성 병력이 있으면 1 ㎝ 간격으로 시행하며, 색소내시경 유도 표적생검만으로 체계적 생검을 대체하지 않음 <mark style="color:$info;">\[AGA Barrett 감시 2025]</mark>
 
 {% hint style="info" %}
-국가·학회별 바렛 식도 진단 기준은 다름. ACG의 ≥1 ㎝ + IM 기준을 명시해 적용하며 아시아 전체에 같은 기준을 일반화하지 않음. 1 ㎝ 미만 불규칙 Z선·원주상피는 이형성이나 가시 병변이 없으면 IM이 있어도 정기 감시를 권고하지 않음  <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
+국가·학회별 바렛 식도 진단 기준은 다름. ACG의 ≥1 ㎝ + IM 기준을 명시해 적용하며 아시아 전체에 같은 기준을 일반화하지 않음. 1 ㎝ 미만 불규칙 Z선·원주상피는 이형성이나 가시 병변이 없으면 IM이 있어도 정기 감시를 권고하지 않음 <mark style="color:$info;">\[ACG Barrett 2022; AGA Barrett 감시 2025]</mark>
 {% endhint %}
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -85,27 +84,27 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-(☞ [위장 증상의 감별](074_-gidz.md))
-
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 토혈 또는 흑색변  `상부 위장관 출혈`
-* 음식물이 걸려 침·물도 삼키지 못함  `음식물 매복` `식도 폐쇄`
-* 새로 발생한 심한 흉통, 호흡곤란·식은땀·실신 동반  `급성 관동맥 증후군` `대동맥 박리`
+* 토혈 또는 흑색변 `상부 위장관 출혈`
+* 음식물이 걸려 침·물도 삼키지 못함 `음식물 매복` `식도 폐쇄`
+* 새로 발생한 심한 흉통, 호흡곤란·식은땀·실신 동반 `급성 관동맥 증후군` `대동맥 박리`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 연하곤란·반복 구토로 경구 섭취가 어렵거나 탈수 동반  `식도 폐쇄` `위출구 폐쇄`
-* 진행성 연하곤란(고형식에서 액체까지 진행), 새로 생긴 연하통  `식도암` `식도 협착` `식도염`
-* 설명되지 않는 체중 감소(예: 3\~6개월에 ＞5%)  `악성 질환`
-* 설명되지 않는 철결핍빈혈  `잠재성 위장관 출혈`
-* 반복적 구토, 미소화 음식 역류  `위출구 폐쇄` `이완불능증`
+* **(당일)** 연하곤란·반복 구토로 경구 섭취가 어렵거나 탈수 동반 `식도 폐쇄` `위출구 폐쇄`
+* 진행성 연하곤란(고형식에서 액체까지 진행), 새로 생긴 연하통 `식도암` `식도 협착` `식도염`
+* 설명되지 않는 체중 감소(예: 3\~6개월에 ＞5%) `악성 질환`
+* 설명되지 않는 철결핍빈혈 `잠재성 위장관 출혈`
+* 반복적 구토, 미소화 음식 역류 `위출구 폐쇄` `이완불능증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 만성 GERD와 바렛 식도 위험 인자 여러 개(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력)  `바렛 식도`
-* 적절한 복약에도 8주 이상 지속되는 증상  `PPI 불응 증상` `역류 과민` `기능성 가슴쓰림`
-* 심장·폐 평가 후에도 지속되는 흉통·만성 기침  `비심장성 흉통` `식도 외 GERD`
+* 만성 GERD와 바렛 식도 위험 인자 여러 개(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력) `바렛 식도`
+* 적절한 복약에도 8주 이상 지속되는 증상 `PPI 불응 증상` `역류 과민` `기능성 가슴쓰림`
+* 심장·폐 평가 후에도 지속되는 흉통·만성 기침 `비심장성 흉통` `식도 외 GERD`
+
+　☞ [위장 증상의 감별](074_-gidz.md#red-flags)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -119,7 +118,7 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 
 #### <mark style="color:$primary;">내시경 검사</mark>
 
-* 정상 내시경만으로 GERD를 배제할 수 없음. 반면 LA grade B/C/D 식도염, 조직학적으로 확인된 바렛 식도, 소화성 식도협착은 GERD의 객관적 근거  <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
+* 정상 내시경만으로 GERD를 배제할 수 없음. 반면 LA grade B/C/D 식도염, 조직학적으로 확인된 바렛 식도, 소화성 식도협착은 GERD의 객관적 근거 <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 * 일률적 시행은 권고하지 않음
 
 **내시경 검사 적응증**
@@ -131,15 +130,15 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 만성 GERD와 바렛 식도 다중 위험 인자(50세 이상, 남성, 중심성 비만, 흡연, 바렛 식도·식도선암 가족력 등)가 있는 경우 선별 고려
 * 소매 위절제술(sleeve gastrectomy) 또는 경구내시경 근절개술(POEM) 후 GERD 증상 발생 : 내시경 평가를 고려하고, 해부학적 문제·역류 여부가 불명확하면 조영술 또는 역류 모니터링을 선택적으로 추가
 * 진단 목적이며 안전하게 중단할 수 있으면 가급적 2\~4주간 PPI 중단 후 검사(그 사이 증상 완화용 제산제 복용 가능). 경고 징후가 있는 경우의 평가 시점은 Red Flags에 따름
-* 소매 위절제술 후에는 증상이 없어도 수술 3년 후, 이후 5년 간격의 선별 내시경을 제안. 근거 수준이 매우 낮은 조건부 권고이므로 환자의 기존 검진 일정·위험도에 따라 개별화  <mark style="color:$info;">\[ASGE GERD 2025]</mark>
-* 증상 조절만을 목적으로 한 routine 반복 검사는 불필요. 다만 LA grade C/D 식도염은 치료 약 8\~12주 후 치유 및 가려진 바렛 식도 확인을 위한 재검이 필요. LA B에서도 바렛 식도가 염증에 가려질 수 있으므로 치료 후 재평가를 고려하며, ACG 바렛 식도 지침은 초기 식도염 환자의 8\~12주 후 재검을 설명함. 새로운 경고 증상·협착·바렛 식도 감시도 별도 적응증  <mark style="color:$info;">\[ACG GERD 2022; ACG Barrett 2022]</mark>
+* 소매 위절제술 후에는 증상이 없어도 수술 3년 후, 이후 5년 간격의 선별 내시경을 제안. 근거 수준이 매우 낮은 조건부 권고이므로 환자의 기존 검진 일정·위험도에 따라 개별화 <mark style="color:$info;">\[ASGE GERD 2025]</mark>
+* 증상 조절만을 목적으로 한 routine 반복 검사는 불필요. 다만 LA grade C/D 식도염은 치료 약 8\~12주 후 치유 및 가려진 바렛 식도 확인을 위한 재검이 필요. LA B에서도 바렛 식도가 염증에 가려질 수 있으므로 치료 후 재평가를 고려하며, ACG 바렛 식도 지침은 초기 식도염 환자의 8\~12주 후 재검을 설명함. 새로운 경고 증상·협착·바렛 식도 감시도 별도 적응증 <mark style="color:$info;">\[ACG GERD 2022; ACG Barrett 2022]</mark>
 
 **LA 분류 (Los Angeles classification of reflux esophagitis)**
 
 <table><thead><tr><th width="139.52630615234375">등급</th><th>내시경 소견</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>LA Grade A</strong></td><td>하나 이상의 점막 결손이 각각 ≤5 ㎜이고 두 점막 주름의 정상부 사이로 이어지지 않음</td><td>무증상인에서도 관찰 가능; 단독으로는 확정적 GERD 근거가 아님</td></tr><tr><td><strong>LA Grade B</strong></td><td>하나 이상의 점막 결손이 ＞5 ㎜이지만 두 점막 주름의 정상부 사이로 이어지지 않음</td><td>Lyon Consensus 2.0에서 확정적 GERD 근거</td></tr><tr><td><strong>LA Grade C</strong></td><td>둘 이상의 점막 주름 사이로 이어지지만 전체 식도 둘레의 ＜75%</td><td>중증 EE; 장기 유지 치료 또는 항역류 중재 고려</td></tr><tr><td><strong>LA Grade D</strong></td><td>전체 식도 둘레의 ≥75%에 걸친 점막 결손</td><td>중증 EE; 적극적 치료 및 치료 후 내시경 재평가</td></tr></tbody></table>
 
 * 일반 식도 점막 조직검사만으로 GERD를 확진하지 않음. 호산구성 식도염 감별 및 바렛 식도 확인 등 명확한 목적에 따라 시행
-* PPI 불응 증상·연하곤란·음식물 매복에서 호산구성 식도염을 평가할 때는 정상처럼 보이는 점막도 생검. 적어도 2개 식도 높이에서 총 6개 이상 생검을 시행하며, 진단 내시경 전 PPI 중단 가능 여부를 검토  <mark style="color:$info;">\[ACG EoE 2025]</mark>
+* PPI 불응 증상·연하곤란·음식물 매복에서 호산구성 식도염을 평가할 때는 정상처럼 보이는 점막도 생검. 적어도 2개 식도 높이에서 총 6개 이상 생검을 시행하며, 진단 내시경 전 PPI 중단 가능 여부를 검토 <mark style="color:$info;">\[ACG EoE 2025]</mark>
 
 #### <mark style="color:$primary;">보행 식도 역류 모니터링</mark>
 
@@ -147,9 +146,9 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * GERD가 입증되지 않은 환자(unproven GERD) : 내시경에 확진 소견이 없고 과거 비정상 역류 검사도 없으면 PPI 중단 상태에서 검사
   * 가능하면 무선 pH 모니터링을 48\~96시간 시행하여 일간 변동 평가; 대안은 24시간 catheter-based pH 또는 pH-impedance monitoring
   * 일반적으로 PPI는 검사 7일 전 중단하되 검사기관 지침에 따름
-* Proven GERD : LA grade B/C/D 식도염, 조직검사로 확인된 바렛 식도(3 ㎝ 이상으로 제한하지 않음), 소화성 식도협착 또는 과거 비정상 역류 검사가 근거  <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
+* Proven GERD : LA grade B/C/D 식도염, 조직검사로 확인된 바렛 식도(3 ㎝ 이상으로 제한하지 않음), 소화성 식도협착 또는 과거 비정상 역류 검사가 근거 <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 * Proven GERD에서 최적 PPI 치료에도 증상이 지속되면 PPI bid 복용 상태의 24시간 pH-impedance monitoring으로 지속 역류와 증상 연관성을 평가
-* 최적 PPI 치료 중에도 LA grade B/C/D 식도염이 지속되거나 소화성 협착이 재발하면 그 자체가 지속 GERD의 객관적 근거가 될 수 있음. 모든 환자에서 역류 모니터링으로 재입증할 필요는 없으며, 추가 검사는 증상 기전·내시경 소견·중재 계획에 따라 선택  <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
+* 최적 PPI 치료 중에도 LA grade B/C/D 식도염이 지속되거나 소화성 협착이 재발하면 그 자체가 지속 GERD의 객관적 근거가 될 수 있음. 모든 환자에서 역류 모니터링으로 재입증할 필요는 없으며, 추가 검사는 증상 기전·내시경 소견·중재 계획에 따라 선택 <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 * 이미 GERD가 입증되어 있으면 진단 확인만을 위한 off-PPI 검사는 불필요
 
 #### <mark style="color:$primary;">식도 압력측정법 (Esophageal manometry)</mark>
@@ -163,7 +162,7 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 * 해부학적 이상 (hiatal hernia 등) 진단에 도움
 * GERD 진단 목적으로는 권고하지 않음 (조영 촬영만으로 GERD 진단 불가)
 
-#### <mark style="color:$primary;">_H. pylori_ 검사</mark>
+#### _<mark style="color:$primary;">H. pylori</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">검사</mark>
 
 * GERD 진단 자체를 위한 검사는 아님. 소화성 궤양·위암 위험 등 별도의 검사·제균 적응증에 따라 시행(☞ [헬리코박터 감염](080_-h_pylori-infection.md))
 
@@ -184,7 +183,7 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 <table><thead><tr><th width="153.1578369140625">구분</th><th width="117.368408203125">역류 검사</th><th width="136.842041015625">증상-역류 연관성</th><th>특징 및 치료 접근</th></tr></thead><tbody><tr><td><strong>객관적 GERD</strong></td><td>비정상 acid exposure 또는 LA grade B 이상</td><td>양성일 수도 음성일 수도 있음</td><td>증상연관성은 진단 신뢰도·치료 예측을 보조; PPI/P-CAB 등 산 억제 치료</td></tr><tr><td><strong>Reflux hypersensitivity</strong></td><td>정상 acid exposure</td><td>양성</td><td>식도 지각 과민; 선택적 산 억제, neuromodulator·행동치료 고려</td></tr><tr><td><strong>Functional heartburn</strong></td><td>정상 acid exposure</td><td>음성</td><td>기능성 식도질환; 다른 산 억제 유지 적응증이 없으면 중단하고 neuromodulator·행동치료 중심</td></tr></tbody></table>
 
 {% hint style="info" %}
-**역류 과민·기능성 가슴쓰림의 Rome V 적용**  <mark style="color:$info;">\[Rome V, 2026]</mark>
+**역류 과민·기능성 가슴쓰림의 Rome V 적용** <mark style="color:$info;">\[Rome V, 2026]</mark>
 
 * 위 표는 역류 검사 결과에 따른 감별의 틀이며, 정상 AET와 증상 연관성만으로 기능성 식도질환을 확진하지 않음
 * 연구용 기간·빈도 기준 : 적어도 진단 6개월 전에 증상이 시작되었고 최근 3개월간 기준을 충족하며, 적어도 8주의 최적화된 산 억제 치료에도 주 1회 이상 증상이 지속
@@ -194,9 +193,13 @@ _H. pylori_ 제균 후 일부 환자에서 역류성 식도염 증가가 보고�
 {% endhint %}
 
 {% hint style="info" %}
-**Lyon Consensus 2.0 : 검사 방법별 AET 해석**  <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
+**Lyon Consensus 2.0 : 검사 방법별 AET 해석** <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 
-<table><thead><tr><th>검사 조건</th><th>해석</th></tr></thead><tbody><tr><td>24시간 카테터 검사, off PPI</td><td>총 AET ＞6%는 병적, ＜4%는 생리적, 4~6%는 불확정</td></tr><tr><td>장시간 무선 pH 검사, off PPI</td><td>2일 이상에서 AET ＞6%이면 GERD 진단 근거. 모든 측정일 AET ＜4%이고 증상 연관성도 음성이면 GERD 배제 근거; 정상 AET에 증상 연관성 양성이면 reflux hypersensitivity 고려</td></tr><tr><td>입증된 GERD, 최적 PPI 복용 중 pH-impedance</td><td>AET ＞4%와 역류 ＞80회/일이 함께 있으면 치료 조정이 필요한 지속 GERD의 근거. 정상 결과는 현재 치료로 역류가 조절됨을 뜻할 수 있음</td></tr></tbody></table>
+| 검사 조건                              | 해석                                                                                                                     |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 24시간 카테터 검사, off PPI               | 총 AET ＞6%는 병적, ＜4%는 생리적, 4\~6%는 불확정                                                                                    |
+| 장시간 무선 pH 검사, off PPI              | 2일 이상에서 AET ＞6%이면 GERD 진단 근거. 모든 측정일 AET ＜4%이고 증상 연관성도 음성이면 GERD 배제 근거; 정상 AET에 증상 연관성 양성이면 reflux hypersensitivity 고려 |
+| 입증된 GERD, 최적 PPI 복용 중 pH-impedance | AET ＞4%와 역류 ＞80회/일이 함께 있으면 치료 조정이 필요한 지속 GERD의 근거. 정상 결과는 현재 치료로 역류가 조절됨을 뜻할 수 있음                                      |
 
 불확정 결과는 역류 횟수, MNBI, 내시경·압력검사 소견 등과 통합. 증상 연관성이 음성이라는 이유만으로 병적 AET를 부정하지 않음. AET는 식도 pH ＜4인 시간의 백분율이며, SI ≥50% 또는 SAP ＞95%는 증상 연관성 양성을 지지하나 증상 기록·발생 횟수에 영향을 받음. 정상 AET만으로 기능성 질환을 확정하지 않고 생검·주요 식도운동장애 배제 및 Rome V 기준을 함께 평가
 {% endhint %}
@@ -272,13 +275,12 @@ flowchart TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-
 ### <mark style="color:orange;">치료 원칙</mark>
 
 * 생활 습관 개선 + 약물 치료 병행
 * 전형적 증상이 있고 경고 증상이 없으면 진단적 검사 없이 역류 질환으로 간주하고 경험적 약물 치료
 * PPI 치료로 호전되지 않으면 검사 또는 다른 질환 고려
-* 객관적 검사로 역류가 입증되지 않은, 전형적 증상 없는 식도 외 증상에 대하여 경험적 PPI 요법은 권고하지 않음  <mark style="color:$info;">\[ACG GERD 2022]</mark>
+* 객관적 검사로 역류가 입증되지 않은, 전형적 증상 없는 식도 외 증상에 대하여 경험적 PPI 요법은 권고하지 않음 <mark style="color:$info;">\[ACG GERD 2022]</mark>
 
 ### <mark style="color:orange;">표현형 기반 접근 (Phenotype-based approach)</mark>
 
@@ -430,14 +432,14 @@ flowchart TD
 
 #### <mark style="color:$primary;">용법</mark>
 
-* 초치료 : NERD·경증 ERD(LA A/B)는 표준 용량 PPI 또는 적응증이 있는 P-CAB 4\~8주, 중증 ERD(LA C/D)는 8주. 실제 처방은 성분별 허가 용량·기간 적용  <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
+* 초치료 : NERD·경증 ERD(LA A/B)는 표준 용량 PPI 또는 적응증이 있는 P-CAB 4\~8주, 중증 ERD(LA C/D)는 8주. 실제 처방은 성분별 허가 용량·기간 적용 <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
 * 투여 시간 : 대부분의 기존 PPI는 식전 30\~60분; qd는 아침, bid는 아침·저녁 식전. dexlansoprazole 및 식사 무관 투여가 허가된 이중 지연 방출 esomeprazole 제형 <mark style="color:blue;">\[에소메졸디알]</mark>은 예외
 * 조절 불충분 시 : 복용 시간·순응도 먼저 평가 → 한 차례 PPI 교체 또는 지침에 따른 표준 용량 bid × 8주 시도·검사 고려. GERD에서 bid 증량은 성분·제형별 허가 범위를 초과할 수 있어 허가·급여와 구분하며, 여러 PPI의 반복 교체 근거는 제한적임
-* 유지 치료 : 병형과 재발 양상에 따라 최소 유효 용량을 선택  <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
+* 유지 치료 : 병형과 재발 양상에 따라 최소 유효 용량을 선택 <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
   * NERD·경증 ERD(LA A/B) : 초기 치료로 조절되면 필요시(on-demand) 유지 또는 감량을 고려. 잦은 재발·불충분 조절이면 매일 유지
   * 중증 ERD(LA C/D) : 매일 지속적인 산 억제 유지 또는 적절한 항역류 중재
   * 바렛 식도·소화성 협착 : 별도의 장기 유지 적응증으로 평가. 경증 식도염의 필요시 치료 원칙을 그대로 적용하지 않음
-* GERD가 객관적으로 입증되지 않은 상태에서 PPI를 계속 투여하면 시작 후 12개월 이내에 적응증·용량을 재평가. 장기 투여의 타당성을 확인하기 위한 내시경 및 off-PPI 장시간 역류 모니터링을 제안  <mark style="color:$info;">\[AGA GERD 2022]</mark>
+* GERD가 객관적으로 입증되지 않은 상태에서 PPI를 계속 투여하면 시작 후 12개월 이내에 적응증·용량을 재평가. 장기 투여의 타당성을 확인하기 위한 내시경 및 off-PPI 장시간 역류 모니터링을 제안 <mark style="color:$info;">\[AGA GERD 2022]</mark>
 
 {% hint style="danger" %}
 **PPI 장기 사용 관련 부작용** : 골절·폐렴·CKD 등은 주로 관찰연구의 연관성이며 인과관계가 확립되지 않음. 장감염 위험은 소폭 증가할 수 있고 저마그네슘혈증·Vit B12 결핍은 위험도에 따라 평가. 드문 급성 세뇨관간질성 신염은 인정되는 약물이상반응으로 의심 시 중단·평가. 명확한 적응증이 있다면 이득이 위험을 상회하는 경우가 많음. 장기 사용 시 적응증과 최소 유효 용량을 정기적으로 재평가하고, 검사실 모니터링은 위험 인자·임상적 의심이 있을 때 선택적으로 시행
@@ -453,7 +455,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 
 #### <mark style="color:$primary;">P-CAB 고려 상황</mark>
 
-* 중증 EE (LA grade C/D) - 일부 성분에서 PPI 대비 높은 치유율이 보고됨. Seoul Consensus 2025의 중증 EE 분석에서 우월성 근거는 주로 vonoprazan에서 확인되었으며, tegoprazan 등 다른 성분에 동일하게 일반화하지 않음  <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
+* 중증 EE (LA grade C/D) - 일부 성분에서 PPI 대비 높은 치유율이 보고됨. Seoul Consensus 2025의 중증 EE 분석에서 우월성 근거는 주로 vonoprazan에서 확인되었으며, tegoprazan 등 다른 성분에 동일하게 일반화하지 않음 <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
 * 야간 증상 - 빠르고 지속적인 산 억제가 필요한 경우 선택지
 * 신속한 증상 조절이 필요한 경우 - 투여 초기부터 빠른 효과 발현
 * CYP2C19 rapid/ultrarapid metabolizer(급속·초고속 대사형) 의심 - PPI 대사가 빨라 효과 감소
@@ -472,13 +474,12 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 * zastaprazan <mark style="color:blue;">\[자큐보]</mark>
   * 2024년 허가(ERD 치료); 구강붕해정 제형 있음
   * 용법 : ERD 20 ㎎ qd × 4주 (미치유 시 4주 추가); 식사 무관
-
 * 위 3성분 모두 atazanavir·nelfinavir·rilpivirine 병용은 금기. fexuprazan·zastaprazan은 간·신장애 사용 경험이 제한되어 신중 투여
 * P-CAB의 NERD·유지 치료 적응증은 성분·함량별로 다름. Tegoprazan은 NERD 50 ㎎·치유 후 유지 25 ㎎이 허가되어 있으나, fexuprazan·zastaprazan의 GERD 적응증을 NERD 또는 저용량 유지요법으로 확대 적용하지 않음
 * P-CAB이 PPI보다 장기 안전성이 우월하다고 확정할 근거는 부족함. 장기 사용도 적응증·최소 유효 용량을 재평가
 
 {% hint style="info" %}
-**지침 간 차이** : Seoul Consensus 2025는 NERD·경증 EE의 초치료로 PPI 또는 P-CAB을 동등하게 권고함. AGA 2024는 비용·장기 안전성 자료 부족을 이유로 NERD·LA A/B의 1차 P-CAB 사용을 일반적으로 권하지 않고, LA C/D 치유·유지와 PPI bid 불응의 입증된 GERD에서 고려하도록 함. 비용 판단은 미국 약가 기준임  <mark style="color:$info;">\[Seoul Consensus 2025; AGA P-CAB 2024]</mark>
+**지침 간 차이** : Seoul Consensus 2025는 NERD·경증 EE의 초치료로 PPI 또는 P-CAB을 동등하게 권고함. AGA 2024는 비용·장기 안전성 자료 부족을 이유로 NERD·LA A/B의 1차 P-CAB 사용을 일반적으로 권하지 않고, LA C/D 치유·유지와 PPI bid 불응의 입증된 GERD에서 고려하도록 함. 비용 판단은 미국 약가 기준임 <mark style="color:$info;">\[Seoul Consensus 2025; AGA P-CAB 2024]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">H2-수용체 차단제 (H2RA)</mark>
@@ -504,12 +505,12 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 * sodium alginate : 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[거드액]</mark> - 50 ㎎/㎖, 25 ㎖ 1포는 1.25 g
   * 알긴산나트륨 단일제는 공복 투여. 식후 acid pocket 차단 근거는 주로 제산제가 포함된 alginate raft 제제의 결과임
   * breakthrough·regurgitation 증상에서 보조적으로 고려하되 제형·허가 용법 확인
-* sucralfate : 일반 GERD의 routine 치료로 권고하지 않음. 유통 제품이 확인되지 않아 처방례로 제시하지 않음  <mark style="color:$info;">\[ACG GERD 2022]</mark>
+* sucralfate : 일반 GERD의 routine 치료로 권고하지 않음. 유통 제품이 확인되지 않아 처방례로 제시하지 않음 <mark style="color:$info;">\[ACG GERD 2022]</mark>
 * 애엽95%에탄올연조엑스(20→1; eupatilin 등을 함유한 추출물) <mark style="color:blue;">\[스티렌, 스티렌 투엑스]</mark>은 위염의 위점막 병변 개선제이며 GERD 자체의 치료제는 아님
 
 ### <mark style="color:orange;">위장관 운동 촉진제</mark>
 
-* 객관적인 gastroparesis의 증거가 없는 한 GERD 치료 목적의 투여는 권고하지 않음  <mark style="color:$info;">\[ACG GERD 2022]</mark>
+* 객관적인 gastroparesis의 증거가 없는 한 GERD 치료 목적의 투여는 권고하지 않음 <mark style="color:$info;">\[ACG GERD 2022]</mark>
 * metoclopramide <mark style="color:blue;">\[맥페란]</mark> : 객관적 위마비가 확인된 경우 전문진료에서 제한적으로 고려. 경구제의 최대 권장 투여 기간은 5일이며 위마비 치료는 허가 외 사용. 추체외로 증상·지연운동이상증에 유의
 * itopride <mark style="color:blue;">\[가나톤]</mark>, mosapride <mark style="color:blue;">\[가스모틴]</mark>는 GERD에 routine으로 추가하지 않음
 * 현호색·견우자 추출물 <mark style="color:blue;">\[모티리톤]</mark>은 기능성 소화불량 치료제로 GERD 적응증이 아님
@@ -541,18 +542,18 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 * 생활요법(소식, 취침 전 음식 회피, 침상 상체 거상)이 우선
 * 경증 : 칼슘·마그네슘 함유 제산제 또는 alginate를 단기·필요시 사용
 * 효과 불충분 시 : famotidine 등 H2RA
-* 증상이 심하거나 지속되면 PPI를 고려하되, 치료 필요성과 성분·제품별 주의사항을 함께 평가. 대규모 관찰연구는 PPI가 주요 기형 유발 약물일 가능성이 낮음을 지지함. 한국의 약 270만 임신 코호트에서는 주분석상 주요 기형·심장 기형의 작은 위험 증가가 관찰되었으나 형제자매 비교에서는 연관성이 확인되지 않음  <mark style="color:$info;">\[N Engl J Med 2010; JAMA Netw Open 2023]</mark>
+* 증상이 심하거나 지속되면 PPI를 고려하되, 치료 필요성과 성분·제품별 주의사항을 함께 평가. 대규모 관찰연구는 PPI가 주요 기형 유발 약물일 가능성이 낮음을 지지함. 한국의 약 270만 임신 코호트에서는 주분석상 주요 기형·심장 기형의 작은 위험 증가가 관찰되었으나 형제자매 비교에서는 연관성이 확인되지 않음 <mark style="color:$info;">\[N Engl J Med 2010; JAMA Netw Open 2023]</mark>
 
 ### <mark style="color:orange;">보험 적용 시 구분</mark>
 
 * 지침상 PPI bid 증량·P-CAB 교체·필요시 유지 권고가 모든 성분·용량·병용의 허가 및 급여를 의미하지는 않음
 * tegoprazan은 NERD 치료 50 ㎎, ERD 치료 50 ㎎ 및 치유 후 유지 25 ㎎을 각각 구분. Fexuprazan 20 ㎎의 NSAID 관련 궤양 예방 급여를 GERD 유지요법 급여로 해석하지 않음
-* sodium alginate 경구제는 역류성 식도염의 자각증상 개선 등 고시상 대상에서 급여 인정. 내시경 미란이 없는 NERD의 잔여 증상에 보조 처방하는 임상적 판단과 급여 인정은 구분  <mark style="color:$info;">\[복지부 고시 제2022-268호; fexuprazan 제2025-189호]</mark>
+* sodium alginate 경구제는 역류성 식도염의 자각증상 개선 등 고시상 대상에서 급여 인정. 내시경 미란이 없는 NERD의 잔여 증상에 보조 처방하는 임상적 판단과 급여 인정은 구분 <mark style="color:$info;">\[복지부 고시 제2022-268호; fexuprazan 제2025-189호]</mark>
 
 ## <mark style="color:green;">난치성 GERD (Refractory GERD)</mark>
 
 * PPI 불응 증상 : 적절한 순응도·복약법으로 PPI bid 8주 이상에도 지속되는 증상. 증상만으로 객관적 난치성 GERD를 확진하지 않음
-* 치료 강화·중재를 고려할 난치성 GERD는 기존 GERD 근거에 더해 최적 치료 중에도 지속되는 역류를 객관적으로 확인하고 증상과의 관련성을 평가  <mark style="color:$info;">\[Lyon 2.0, 2024; ACG GERD 2022]</mark>
+* 치료 강화·중재를 고려할 난치성 GERD는 기존 GERD 근거에 더해 최적 치료 중에도 지속되는 역류를 객관적으로 확인하고 증상과의 관련성을 평가 <mark style="color:$info;">\[Lyon 2.0, 2024; ACG GERD 2022]</mark>
 
 {% hint style="warning" %}
 **PPI 불응 증상에서는 원인 재평가** : PPI bid 8주 이상에도 증상이 지속될 때, 무조건적인 PPI 증량이나 반복 교체 전에 원인을 재평가하는 접근이 중요. 실제 원인은 복약 오류, 기능성 질환 overlap, reflux hypersensitivity, supragastric belching, rumination syndrome, 기능성 소화불량, 불안·과각성 상태 등 다양
@@ -581,7 +582,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 
 * 복강경 Nissen fundoplication : 표준 수술 치료; 최적 PPI 치료와 증상 조절 효과 유사하나 수술 합병증 및 부작용 (dysphagia, gas bloat syndrome) 고려
 * 자기 괄약근 보조 장치 (MSA, LINX®) : 식도 하부에 자기 구슬 링 삽입; regurgitation 우세 GERD에서 선택 가능. 일시적 연하곤란이 흔하며 지속성 연하곤란, 확장술·제거술 필요성, 드문 미란 및 MRI 조건을 확인
-* 경구 내시경 무절개 위저 성형술 (TIF, Transoral Incisionless Fundoplication) : hiatal hernia ≤2 ㎝·Hill grade I/II flap valve이며 중증 식도염(LA C/D)이 없는 선택 환자에서 고려. hiatal hernia ＞2 ㎝·Hill III/IV이면 복강경 수복을 병행한 cTIF 또는 수술을 다학제로 평가  <mark style="color:$info;">\[ASGE GERD 2025]</mark>
+* 경구 내시경 무절개 위저 성형술 (TIF, Transoral Incisionless Fundoplication) : hiatal hernia ≤2 ㎝·Hill grade I/II flap valve이며 중증 식도염(LA C/D)이 없는 선택 환자에서 고려. hiatal hernia ＞2 ㎝·Hill III/IV이면 복강경 수복을 병행한 cTIF 또는 수술을 다학제로 평가 <mark style="color:$info;">\[ASGE GERD 2025]</mark>
 * 비만 환자에서 수술이 필요하면 Roux-en-Y gastric bypass를 항역류 선택지로 고려; sleeve gastrectomy는 GERD를 악화시킬 수 있음
 
 ***

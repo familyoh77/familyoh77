@@ -138,7 +138,7 @@ flowchart LR
 
 #### <mark style="color:$primary;">내시경 검사</mark>
 
-**적응증** (☞ [위장 질환의 감별](074_-gidz.md#upper-gi-endoscopy))
+**적응증** (☞ [위장 증상의 감별](074_-gidz.md#upper-gi-endoscopy))
 
 * Red Flags 존재
 * 적절한 경험적 치료 후에도 증상이 지속·악화되거나 진단이 불확실한 경우
