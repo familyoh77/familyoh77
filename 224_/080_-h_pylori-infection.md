@@ -129,13 +129,11 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 
 <p align="center"><em><strong>H. pylori</strong></em><strong> 진단 및 제균 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Korean J Gastroenterol 2026; Am J Gastroenterol 2024; Gut 2022)</mark></em></p>
 
-
-
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">제균 치료 적응증</mark>&#x20;
+### <mark style="color:orange;">제균 치료 적응증</mark>
 
 * 활동성 감염이 확인되면 특별한 금기나 치료 이득을 기대하기 어려운 상황이 아닌 한 제균 치료를 권고
 * 소화성 궤양, 위 MALT 림프종, 조기 위암 절제 후, 위암 가족력, 원인 불명 철결핍빈혈·ITP 등은 위의 검사 적응증 참조
@@ -159,9 +157,10 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 #### <mark style="color:$primary;">초치료 요법 선택</mark>
 
 * 2025년 국내 개정 지침을 기본으로 감수성 검사, 이전 항생제 노출, 알레르기, 지역 제균율에 따라 선택
-* 감수성 유도 치료에서는 clarithromycin 감수성일 때 PPI 표준 3제 7일, 내성일 때 고전적 bismuth 4제 10일을 권고 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
+* 감수성 기반 치료에서는 clarithromycin 감수성일 때 PPI 표준 3제 7일, 내성일 때 고전적 bismuth 4제 10일을 권고 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
   * ACG 2024는 optimized bismuth 4제 14일 권고
-* 감수성 검사 없이 치료하면 동시 치료 10일이 주요 경험적 요법. 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
+* 감수성 검사 없이 치료하면 동시 치료 10일이 주요 경험적 요법
+  * 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
 * 어떤 요법이든 해당 기관·지역의 제균 성적과 복약 가능성을 고려하고 모든 환자에서 치료 후 제균 확인
 * P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고). 다만 국내 근거는 tegoprazan 중심이며, 메타분석에서 PPI 대비 유의한 우월성은 확인되지 않았고 P-CAB가 clarithromycin 내성을 극복한다는 근거도 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 * 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 2025년 국내 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 _H. pylori_ 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
