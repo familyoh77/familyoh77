@@ -211,7 +211,7 @@
 * 부작용 : 두통, 무기력, 변비, 어지럼, QT 연장 (IV 고용량 주의)
 * **ondansetron** : 경구 4\~8 ㎎(적응증별 용법 구분); 중등도\~중증 간장애는 최대 8 ㎎/d <mark style="color:blue;">\[조프란]</mark>
   * 선천성 QT 연장증후군에서 회피하고 투여 전 전해질 이상 교정
-  * apomorphine과 병용 금기(심한 저혈압·의식 소실 위험)
+  * apomorphine(심한 저혈압·의식 소실)·domperidone(QT 연장·부정맥)과 병용 금기
   * 급성 위장관염 구토 및 IBS-D에는 허가 외 사용이며, 허가된 항암치료·수술 후 구역/구토 용법을 그대로 대입하지 않음
 * **granisetron** : CINV(Chemotherapy-Induced Nausea and Vomiting) 2 ㎎ qd 또는 1 ㎎ bid <mark style="color:blue;">\[카이트릴]</mark>
 * dolasetron : 해외 약제. QT 연장 위험으로 IV CINV 요법은 사용하지 않음
@@ -420,9 +420,9 @@
   * 이 책에서는 일반 외래·여행 중 급성 설사 자가 치료를 보수적으로 최대 8 ㎎/일, 최대 2일로 제한함(위의 허가용량 상한과 구분)
   * 만성 설사의 유지용량은 최저 유효용량으로 개별 조절 (☞ [만성 설사](084_-chronic-diarrhea.md))
   * 소아 감염성 급성 설사에는 사용하지 않음(IDSA는 18세 미만에서 비권고)
-  * 복부 팽만·변비·심한 통증이 생기거나 48시간 내 호전이 없으면 중단·재평가
+  * 복부 팽만·변비·심한 통증이 생기거나, 급성 설사는 48시간·만성 설사는 10일 이내 호전이 없으면 중단·재평가
   * 과량 사용 시 QT 연장·torsades de pointes·심정지 위험
-* **diphenoxylate**/**atropine** : 중추 억제·항콜린 이상반응이 있어 일반 외래의 선택지로 제시하지 않음(해외 지침 - 성인 최대 20 ㎎/d)
+* **diphenoxylate**/**atropine** : 유통 확인 안 됨. 중추 억제·항콜린 이상반응이 있어 일반 외래의 선택지로 제시하지 않음(해외 지침 - 성인 최대 20 ㎎/d)
 
 ### <mark style="color:orange;">진경제 (GI antispasmodic)</mark>
 
@@ -432,12 +432,13 @@
 ### <mark style="color:orange;">5-HT3 receptor antagonists</mark>
 
 * 작용 : serotonin 차단 → 위장관 motility·sensation 억제 → 설사형 IBS 개선
-* 부작용 : 변비, 급성 허혈성 대장염 (금기 : 허혈성 대장염 병력)
+* 부작용 : 변비, 허혈성 대장염(중대한 이상반응)
 * **ramosetron** : IBS-D 치료제로 허가. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[이리콜]</mark>·<mark style="color:blue;">\[이리스탑]</mark>·<mark style="color:blue;">\[이리퀵]</mark>
   * 변비·굳은 변 발생 시 감량·휴약·중단을 고려
   * 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가
+  * CYP1A2 억제제(fluvoxamine 등) 병용 시 혈중 농도 상승, SSRI·SNRI 등 세로토닌성 약물 병용 시 신중 투여
 * alosetron : 기존 치료에 반응하지 않는 중증 IBS-D 성인 여성에서 제한적으로 사용
-  * 심각한 변비·허혈성 대장염 위험. 해외 약제
+  * 심각한 변비·허혈성 대장염 위험; 변비·허혈성 대장염 병력 등에서 금기. 해외 약제
 
 ### <mark style="color:orange;">Probiotics</mark>
 
@@ -485,6 +486,13 @@
 * 임부·수유부는 복용 전 전문가와 상담하며, 급성 설사에는 ORS를 우선하고 BSS는 가능한 한 피함
 * 복용 전 현탁액을 잘 흔듦. 혀·변의 일시적 흑색 변색이 생길 수 있음
 * 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
+
+### <mark style="color:orange;">담즙산 결합제 (Bile acid sequestrant)</mark>
+
+* **cholestyramine** : 담즙산 설사(BAD)에 사용. 한국희귀필수의약품센터 공급 제품 <mark style="color:blue;">\[에픽콜레스티라민현탁용산(라이트)]</mark> 4 g/포; BAD에는 식약처 인정 범위 외 사용
+  * 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후 복용
+  * 세부 용법·주의 (☞ [만성 설사](084_-chronic-diarrhea.md))
+* colesevelam : 유통 확인 안 됨
 
 ## <mark style="color:green;">제산제 (Antacid)</mark>
 
