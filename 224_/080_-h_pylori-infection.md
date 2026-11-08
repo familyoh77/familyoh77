@@ -12,7 +12,7 @@
   * 위암 예방 효과 : 무증상 감염자 및 위암 고위험군을 포함한 연구와 메타분석에서 제균 치료 후 위암 발생 위험이 1/3\~1/2 감소; 조기 위암 절제 후 이시성(metachronous) 위암도 감소
   * Maastricht VI (2022)와 ACG 2024는 _H. pylori_ 감염을 감염병으로 보고, 활동성 감염이 확인되면 제균 치료를 권고
 * 우리나라의 항생제 내성 상황 : clarithromycin 내성률은 지역·검사법에 따라 차이가 있으며 2021\~2023년 전국 레지스트리에서는 배양 33.3%, PCR 31.3%로 보고됨. metronidazole(29.5%)·levofloxacin(37.0%) 내성률도 높고 clarithromycin·metronidazole 이중내성이 증가한 반면, amoxicillin·tetracycline 내성은 낮음
-  * 2025년 국내 개정 지침(2026년 발표)은 감수성 기반 맞춤 치료를 우선하고, 감수성 검사 없이 치료하면 동시 치료 10일을 주요 경험적 요법으로 권고. 경험적 clarithromycin 3제는 감수성 검사가 불가하고 지역 내성률이 15% 미만으로 예상되는 경우에만 제한적으로 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+  * 이에 따라 2025년 국내 개정 지침(2026년 발표)은 경험적 clarithromycin 3제를 제한하고 감수성 기반 맞춤 치료와 4제 요법 중심으로 전환 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 
 {% hint style="info" %}
 **활동성 감염(Active infection)** _: H. pylor&#x69;_&#xAC00; 현재 위 점막에 존재하는 감염 상태로, 증상 유무와 관계없으며 조직학적 "활동성 위염"(호중구 침윤)과는 다른 개념. UBT·대변항원검사 또는 조직 기반 검사(RUT·조직 검사 등) '양성'으로 확인하고, '음성' 결과는 PPI·P-CAB, 항생제, bismuth 복용이나 급성 출혈이 없을 때 시행한 경우에만 신뢰함. 혈청 항체 양성만으로는 현재 감염과 과거 감염을 구별할 수 없음
@@ -159,7 +159,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 * 2025년 국내 개정 지침을 기본으로 감수성 검사, 이전 항생제 노출, 알레르기, 지역 제균율에 따라 선택
 * 감수성 기반 치료에서는 clarithromycin 감수성일 때 PPI 표준 3제 7일, 내성일 때 고전적 bismuth 4제 10일을 권고 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
   * ACG 2024는 optimized bismuth 4제 14일 권고
-* 감수성 검사 없이 치료하면 동시 치료 10일이 주요 경험적 요법
+* 감수성 검사 없이 치료하면 동시 치료(PPI·amoxicillin·clarithromycin·metronidazole을 함께 투여하는 비bismuth 4제) 10일이 주요 경험적 요법
   * 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
 * 어떤 요법이든 해당 기관·지역의 제균 성적과 복약 가능성을 고려하고 모든 환자에서 치료 후 제균 확인
 * P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고). 다만 국내 근거는 tegoprazan 중심이며, 메타분석에서 PPI 대비 유의한 우월성은 확인되지 않았고 P-CAB가 clarithromycin 내성을 극복한다는 근거도 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
@@ -225,7 +225,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 
 * 경증·비즉시형 반응 등 저위험 과거력 : 병력을 재평가하고 필요시 전문기관에서 피부검사·경구유발검사를 통해 penicillin allergy 표지 해제(delabeling) 고려; 확인 전에는 bismuth 4제 요법 사용
 * 아나필락시스·중증 지연형 반응(SJS/TEN·DRESS 등) : Amoxicillin 회피; 특히 중증 지연형 반응에서는 경구유발검사·탈감작을 시행하지 않음 → bismuth 4제 요법 (tetracycline + metronidazole; amoxicillin 제외) 우선
-* bismuth 4제도 사용할 수 없는 경우 : 소화기내과 의뢰 후 감수성 유도 치료. Clarithromycin·fluoroquinolone 포함 요법은 해당 감수성이 확인된 경우에만 고려
+* bismuth 4제도 사용할 수 없는 경우 : 소화기내과 의뢰 후 감수성 기반 치료. Clarithromycin·fluoroquinolone 포함 요법은 해당 감수성이 확인된 경우에만 고려
 
 #### <mark style="color:$primary;">재치료 프로토콜</mark>
 
@@ -251,7 +251,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
   * _H. pylori_ 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
   * 골수억제(호중구감소증), 포도막염 가능; 반복치료·혈액질환 등 고위험군에서 CBC 확인 고려
   * 활동성 결핵 또는 rifamycin 계열 치료력·치료 중인 환자는 내성 선택 위험을 고려하여 감염내과 협진
-* 배양 검사 후 감수성 유도 치료 : 2회 이상 실패 시 소화기내과 의뢰 → 내시경 조직으로 배양·항생제 감수성 검사 시행 후 맞춤 치료
+* 배양 검사 후 감수성 기반 치료 : 2회 이상 실패 시 소화기내과 의뢰 → 내시경 조직으로 배양·항생제 감수성 검사 시행 후 맞춤 치료
 
 #### <mark style="color:$primary;">약제</mark>
 
@@ -288,7 +288,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 * clarithromycin·levofloxacin은 이전 노출·실패 후 경험적 재사용을 피함. 3제요법은 감수성 확인을 원칙으로 하며, 2025년 국내 개정 지침의 경험적 동시 치료 10일 및 제한적인 저내성 지역 3제 예외와 구분. Levofloxacin은 본 장에서 감수성 확인 후 사용으로 제한
 * amoxicillin·tetracycline은 내성률이 낮아 재사용 가능. Metronidazole도 bismuth 병용과 충분한 용량·기간으로 재사용을 고려할 수 있어 모든 항생제를 일괄 제외하지 않음 <mark style="color:$info;">\[AGA 2021]</mark>
 * 불필요한 salvage 반복 금지 : 경험적 치료 반복보다 배양·감수성 검사 우선
-* 2회 이상 실패 시 susceptibility-guided therapy : 배양 검사 시행 또는 의뢰
+* 2회 이상 실패 시 감수성 기반 치료 : 배양 검사 시행 또는 의뢰
 * 항생제는 처방된 7\~14일 요법을 마치면 종료. UBT 음성이 나올 때까지 연장하지 않음. 적절한 휴약 후 제균 확인하고, 실패가 확인되면 다른 요법을 결정
 
 <mark style="color:$primary;">**처방 전 안전 점검**</mark>
