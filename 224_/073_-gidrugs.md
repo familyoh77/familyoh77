@@ -518,7 +518,7 @@
   * 투여 전후 30분 음식·음료·제산제 회피
   * 허가 적응증 : 위·십이지장궤양 환자에서 _H. pylori_ 박멸을 위한 항생제 병용요법
   * 금기 : 신장애
-* Tetracycline 기반 bismuth 4제는 국내 제균 지침의 권고 요법이나, 데놀 개별 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있음. 지침상 구성과 품목 허가 문구의 차이를 구분하여 적용하며 상세 요법은 (☞ [_H. pylori_ 감염](080_-h_pylori-infection.md)) 참조
+* Tetracycline 기반 bismuth 4제는 2025년 국내 제균 개정 지침(2026년 발표)의 권고 요법이나, 데놀 개별 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있음. 지침상 구성과 품목 허가 문구의 차이를 구분하여 적용하며 상세 요법은 (☞ [_H. pylori_ 감염](080_-h_pylori-infection.md)) 참조
 
 ### <mark style="color:orange;">Prostaglandin E analogue</mark>
 
@@ -628,7 +628,7 @@ _<mark style="color:$info;">Ref. Omeprazole·esomeprazole 허가사항; 미란�
   * 미란성 식도염 : PPI는 치유·유지치료 근거가 풍부하며 P-CAB도 효과적인 치료 선택지임. 중증 식도염에서 일부 P-CAB 성분의 우월성이 확인되었으나 계열 전체로 일반화하지 않음
   * 비미란성 GERD·증상 조절 : PPI는 임상 경험과 근거가 풍부함. P-CAB도 효과가 있으나 PPI 대비 증상 개선의 일률적 우월성은 확립되지 않음
 * [_H. pylori_ 제균](080_-h_pylori-infection.md) : [ACG 2024](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)는 감수성 확인 없는 clarithromycin 3제요법을 권고하지 않으며, 14일 bismuth 4제요법을 우선 권고하고 vonoprazan-amoxicillin 2제요법 등을 대안으로 제안함. 국내에서는 내성 양상·가이드라인·제품 허가요법을 우선하며, P-CAB 기반 7일 clarithromycin 3제요법을 국제 지침의 보편적 우선 요법으로 해석하지 않음. 제균 확인검사는 치료 종료 최소 4주 후 시행하며, 검사 전 PPI·P-CAB은 2주, 항생제·bismuth는 4주 중단함
-  * 국내 2025 개정 제균 지침 : clarithromycin 감수성 기반 맞춤 치료 우선. 감수성 확인 PPI 3제 7일, 내성 확인 고전적 bismuth 4제 10일; 검사 불가 시 동시 치료 10일이 주요 경험적 선택지이며, 변형 bismuth 4제 등도 고려함. 고전적 bismuth 4제의 경험적 일차 사용은 조건부 권고이며 구제요법으로 남겨두는 선택을 선호함. P-CAB 3제의 허가 기간은 tegoprazan 7일, fexuprazan 14일로 다름
+  * 2025년 국내 제균 개정 지침 : clarithromycin 감수성 기반 맞춤 치료 우선. 감수성 확인 PPI 3제 7일, 내성 확인 고전적 bismuth 4제 10일; 검사 불가 시 동시 치료 10일이 주요 경험적 선택지이며, 변형 bismuth 4제 등도 고려함. 고전적 bismuth 4제의 경험적 일차 사용은 조건부 권고이며 구제요법으로 남겨두는 선택을 선호함. P-CAB 3제의 허가 기간은 tegoprazan 7일, fexuprazan 14일로 다름
 * 필요시 유지치료 : 국내 2025 GERD 서울 컨센서스 개정은 초기치료 후 조절된 NERD·경증 미란성 식도염에서 PPI 또는 P-CAB의 필요시 유지치료를 권고함. 중증 식도염·합병증에서는 지속 유지치료를 평가하며 성분·제형별 허가 범위와 구분함
 * 장기 안전성 자료가 축적되고 있으나 PPI보다 제한적이며 성분별 차이가 큼. vonoprazan에는 5년 추적 무작위 연구가 있음
 * P-CAB은 성분별 대사·허가사항이 다름

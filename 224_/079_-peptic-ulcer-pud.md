@@ -434,7 +434,7 @@ flowchart TD
 > 알마겔현탁액 15 ㎖/P   1P  식후 1시간 필요시 (최대 tid + 취침 시 1회)
 > ```
 >
-> _✽lansoprazole 15 ㎎ qd 4주 투여 후 반응 평가; 제산제는 증상이 있을 때만 단기 보조 사용. 알마겔은 란소프라졸 및 흡수에 영향을 받는 다른 경구약과 2\~3시간 간격을 두고 복용하며 신기능을 고려. 본 처방례의 란소프라졸 식전 1시간·알마겔 식후 1시간 일정은 두 약의 2시간 간격을 확보하기 위한 예시임. Tetracycline계 항생제를 포함한 제균요법 중에는 알마겔을 병용하지 않음. H. pylori 양성이면 국내 지침과 감수성·항생제 노출력에 따라 선택한 제균요법 병행._
+> _✽lansoprazole 15 ㎎ qd 4주 투여 후 반응 평가; 제산제는 증상이 있을 때만 단기 보조 사용. 알마겔은 란소프라졸 및 흡수에 영향을 받는 다른 경구약과 2\~3시간 간격을 두고 복용하며 신기능을 고려. 본 처방례의 란소프라졸 식전 1시간·알마겔 식후 1시간 일정은 두 약의 2시간 간격을 확보하기 위한 예시임. Tetracycline계 항생제를 포함한 제균요법 중에는 알마겔을 병용하지 않음. H. pylori 양성이면 2025년 국내 개정 지침(2026년 발표)과 감수성·항생제 노출력에 따라 선택한 제균요법 병행._
 
 > **처방례 2. 위궤양 (표준 치료)**
 >
@@ -478,7 +478,7 @@ flowchart TD
 > 클래리시드정 250 ㎎/T        2T  bid  (식후)            7일
 > ```
 >
-> _✽Tegoprazan 50 ㎎ bid 기반 3제 요법의 허가 기간은 7일이며, 2025 개정 지침도 clarithromycin 감수성 균주에 7일 3제를 권고함. 국내 연구에서는 14일 요법의 제균율이 더 높았으나 현 허가 용법과 구분해야 함. 본 예시는 clarithromycin 감수성이 확인된 환자에 적용함. Penicillin·macrolide 알레르기, 신기능에 따른 항생제 감량, QT 연장 및 CYP3A4 관련 병용금기·주의를 확인. 감수성 미확인 환자에게 경험적 1차 선택으로 일률 적용하지 않으며 국내 지침의 동시 4제 등 다른 권고 요법을 검토함. 제균 후 산 억제제는 GU·합병성 궤양 등에서 총 치유 기간을 충족하도록 투여하고, 제균 종료 최소 4주 후 성공 여부를 확인._
+> _✽Tegoprazan 50 ㎎ bid 기반 3제 요법의 허가 기간은 7일이며, 2025년 국내 개정 지침도 clarithromycin 감수성 균주에 7일 3제를 권고함. 국내 연구에서는 14일 요법의 제균율이 더 높았으나 현 허가 용법과 구분해야 함. 본 예시는 clarithromycin 감수성이 확인된 환자에 적용함. Penicillin·macrolide 알레르기, 신기능에 따른 항생제 감량, QT 연장 및 CYP3A4 관련 병용금기·주의를 확인. 감수성 미확인 환자에게 경험적 1차 선택으로 일률 적용하지 않으며 2025년 국내 개정 지침의 동시 4제 등 다른 권고 요법을 검토함. 제균 후 산 억제제는 GU·합병성 궤양 등에서 총 치유 기간을 충족하도록 투여하고, 제균 종료 최소 4주 후 성공 여부를 확인._
 
 ***
 
@@ -552,7 +552,7 @@ flowchart TD
 
 [https://www.asge.org/docs/default-source/education/practice\_guidelines/doc-the-role-of-endoscopy-in-the-management-of-patientswith-peptic-ulcer-disease.pdf](https://www.asge.org/docs/default-source/education/practice_guidelines/doc-the-role-of-endoscopy-in-the-management-of-patientswith-peptic-ulcer-disease.pdf)
 
-* <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of</mark> _<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;">Infection. Am J Gastroenterol. 2024;119:1730-1753. - 미국의 감수성 미확인 감염 치료 원칙; 국내 지침·허가와 구분.</mark>
+* <mark style="color:$info;">Chey WD, et al. ACG Clinical Guideline: Treatment of</mark> _<mark style="color:$info;">Helicobacter pylori</mark>_ <mark style="color:$info;">Infection. Am J Gastroenterol. 2024;119:1730-1753. - 미국의 감수성 미확인 감염 치료 원칙; 2025년 국내 개정 지침·허가와 구분.</mark>
 
 [https://doi.org/10.14309/ajg.0000000000002968](https://doi.org/10.14309/ajg.0000000000002968)
 
