@@ -12,7 +12,7 @@
   * 위암 예방 효과 : 무증상 감염자 및 위암 고위험군을 포함한 연구와 메타분석에서 제균 치료 후 위암 발생 위험이 1/3\~1/2 감소; 조기 위암 절제 후 이시성(metachronous) 위암도 감소
   * Maastricht VI (2022)와 ACG 2024는 _H. pylori_ 감염을 감염병으로 보고, 활동성 감염이 확인되면 제균 치료를 권고
 * 우리나라의 항생제 내성 상황 : clarithromycin 내성률은 지역·검사법에 따라 차이가 있으며 2021\~2023년 전국 레지스트리에서는 배양 33.3%, PCR 31.3%로 보고됨. metronidazole(29.5%)·levofloxacin(37.0%) 내성률도 높고 clarithromycin·metronidazole 이중내성이 증가한 반면, amoxicillin·tetracycline 내성은 낮음
-  * 국내 지침은 감수성 기반 맞춤 치료를 우선하고, 감수성 검사 없이 치료하면 동시 치료 10일을 주요 경험적 요법으로 권고. 경험적 clarithromycin 3제는 감수성 검사가 불가하고 지역 내성률이 15% 미만으로 예상되는 경우에만 제한적으로 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+  * 2025년 국내 개정 지침(2026년 발표)은 감수성 기반 맞춤 치료를 우선하고, 감수성 검사 없이 치료하면 동시 치료 10일을 주요 경험적 요법으로 권고. 경험적 clarithromycin 3제는 감수성 검사가 불가하고 지역 내성률이 15% 미만으로 예상되는 경우에만 제한적으로 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 
 {% hint style="info" %}
 **활동성 감염(Active infection)** _: H. pylor&#x69;_&#xAC00; 현재 위 점막에 존재하는 감염 상태로, 증상 유무와 관계없으며 조직학적 "활동성 위염"(호중구 침윤)과는 다른 개념. UBT·대변항원검사 또는 조직 기반 검사(RUT·조직 검사 등) '양성'으로 확인하고, '음성' 결과는 PPI·P-CAB, 항생제, bismuth 복용이나 급성 출혈이 없을 때 시행한 경우에만 신뢰함. 혈청 항체 양성만으로는 현재 감염과 과거 감염을 구별할 수 없음
@@ -158,13 +158,13 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 
 #### <mark style="color:$primary;">초치료 요법 선택</mark>
 
-* 2026년 발표 국내 지침을 기본으로 감수성 검사, 이전 항생제 노출, 알레르기, 지역 제균율에 따라 선택
+* 2025년 국내 개정 지침을 기본으로 감수성 검사, 이전 항생제 노출, 알레르기, 지역 제균율에 따라 선택
 * 감수성 유도 치료에서는 clarithromycin 감수성일 때 PPI 표준 3제 7일, 내성일 때 고전적 bismuth 4제 10일을 권고 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
   * ACG 2024는 optimized bismuth 4제 14일 권고
 * 감수성 검사 없이 치료하면 동시 치료 10일이 주요 경험적 요법. 고전적 bismuth 4제 10\~14일 및 변형 bismuth 4제 14일도 조건부 선택지
 * 어떤 요법이든 해당 기관·지역의 제균 성적과 복약 가능성을 고려하고 모든 환자에서 치료 후 제균 확인
 * P-CAB 기반 요법은 PPI 기반 요법을 대체할 수 있음(강한 권고). 다만 국내 근거는 tegoprazan 중심이며, 메타분석에서 PPI 대비 유의한 우월성은 확인되지 않았고 P-CAB가 clarithromycin 내성을 극복한다는 근거도 불충분 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
-* 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 국내 2025 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 _H. pylori_ 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
+* 고용량 amoxicillin 2제요법 : ACG 2024는 **vonoprazan–amoxicillin 2제**를 초치료 대안으로 제안하나, 다른 P-CAB에 동일하게 적용하지 않음. 2025년 국내 개정 지침은 당시 국내 근거가 부족하여 독립적인 권고를 제시하지 않았으며, 이는 절대 금기나 효과 없음의 의미가 아님. Vonoprazan은 국내 _H. pylori_ 제균 적응증이 없으며 해외 제균 허가요법과 구분 <mark style="color:$info;">\[Am J Gastroenterol 2024; Korean J Gastroenterol 2026]</mark>
 * 2026년 추가 근거 : 국내 다기관 무작위 연구의 fexuprazan·amoxicillin(3 g/일)·bismuth 병용은 항생제 1종을 쓰지만 **3성분 요법**이며 순수 2제요법이 아님. PPI 표준 3제 대비 비열등성을 보였으나, 맞춤 치료·고전적 bismuth 4제 대비 우월성이나 일반적인 우선 선택을 입증한 것은 아님. 허가된 fexuprazan 3제와도 구성·용량이 달라 연구 요법으로 구분 <mark style="color:$info;">\[Helicobacter 2026]</mark>
 
 <mark style="color:$primary;">**1차 치료 요법 선택 기준**</mark>
@@ -182,14 +182,14 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 
 * 구성 : PPI 표준 용량 + amoxicillin 1 g <mark style="color:blue;">\[파목신]</mark> + clarithromycin 500 ㎎ <mark style="color:blue;">\[클래리시드]</mark>, 각각 bid
 * clarithromycin 감수성 확인 시 국내 맞춤 치료 권고 기간은 7일
-* **원문 내 기간 불일치** : 2025 개정 지침 권고문 4-2와 해당 해설은 감수성균에 7일 3제, 내성균에 10일 bismuth 4제를 권고하지만 같은 원문 요약표 6에는 각각 14일, 10\~14일로 기재되어 있음. 본 장은 권고문 4-2를 기준으로 하며 정정 공지·품목정보·기관 프로토콜을 함께 확인. 이를 경험적 요법·구제요법의 기간과 혼동하지 않음
+* **원문 내 기간 불일치** : 2025년 국내 개정 지침 권고문 4-2와 해당 해설은 감수성균에 7일 3제, 내성균에 10일 bismuth 4제를 권고하지만 같은 원문 요약표 6에는 각각 14일, 10\~14일로 기재되어 있음. 본 장은 권고문 4-2를 기준으로 하며 정정 공지·품목정보·기관 프로토콜을 함께 확인. 이를 경험적 요법·구제요법의 기간과 혼동하지 않음
 * 감수성 검사 없이 사용하는 경험적 3제는 지역 clarithromycin 내성률 ＜15% 등 제한적 조건에서만 14일 고려. 고내성 환경의 일반적인 경험적 1차 선택으로 사용하지 않음
 
 <mark style="color:$primary;">**동시 치료 (Concomitant Therapy) - 10일**</mark>
 
 * 구성 : PPI 표준 용량 + clarithromycin 500 ㎎ + amoxicillin 1 g + metronidazole 500 ㎎ <mark style="color:blue;">\[후라시닐]</mark>, 각각 bid × 10일
-* 국내 2025 개정 지침의 주요 경험적 요법. Clarithromycin·metronidazole 이중내성에서는 제균율이 낮아질 수 있음
-* 순차 치료(sequential therapy)와 metronidazole 3제(PAM)는 개정 지침의 권고 요법에서 제외되어 신규 처방 선택지로 제시하지 않음 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+* 2025년 국내 개정 지침의 주요 경험적 요법. Clarithromycin·metronidazole 이중내성에서는 제균율이 낮아질 수 있음
+* 순차 치료(sequential therapy)와 metronidazole 3제(PAM)는 2025년 국내 개정 지침의 권고 요법에서 제외되어 신규 처방 선택지로 제시하지 않음 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 
 <mark style="color:$primary;">**Bismuth 4제 요법 (Bismuth Quadruple Therapy) - 10\~14일**</mark>
 
@@ -206,7 +206,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 {% hint style="info" %}
 **변형 Bismuth 4제 요법 (Modified Bismuth Quadruple Therapy) - 14일**
 
-국내 2025 개정 지침은 PPI·amoxicillin·bismuth에 metronidazole(PAMB) 또는 clarithromycin(PACB)을 조합한 14일 요법을 경험적 초치료의 추가 선택지로 소개(번호 권고문이 아닌 본문 기술). 고전적 4제보다 이상반응 부담이 적고, PAMB는 clarithromycin 노출을 피할 수 있음. Tetracycline 수급 불가 상황에만 한정된 권고는 아니며, 2차 치료에서 tetracycline을 쓸 수 없을 때도 PAMB를 대안으로 제시. 고전적 tetracycline 기반 요법과 구분하고, 선택한 임상시험·지침의 용량과 복용 횟수를 적용. Penicillin 알레르기 환자에게는 사용하지 않으며 clarithromycin 노출·내성 위험을 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
+2025년 국내 개정 지침은 PPI·amoxicillin·bismuth에 metronidazole(PAMB) 또는 clarithromycin(PACB)을 조합한 14일 요법을 경험적 초치료의 추가 선택지로 소개(번호 권고문이 아닌 본문 기술). 고전적 4제보다 이상반응 부담이 적고, PAMB는 clarithromycin 노출을 피할 수 있음. Tetracycline 수급 불가 상황에만 한정된 권고는 아니며, 2차 치료에서 tetracycline을 쓸 수 없을 때도 PAMB를 대안으로 제시. 고전적 tetracycline 기반 요법과 구분하고, 선택한 임상시험·지침의 용량과 복용 횟수를 적용. Penicillin 알레르기 환자에게는 사용하지 않으며 clarithromycin 노출·내성 위험을 고려 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 {% endhint %}
 
 **Bismuth 4제 요법 복약 계획**
@@ -241,14 +241,14 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 
 <mark style="color:$primary;">**1차 재치료 (표준 3제·동시·순차 치료 실패 후)**</mark>
 
-* 고전적 bismuth 4제 요법 10\~14일 (상기 구성) - 국내 개정 지침의 표준 2차 치료(강한 권고). 본 장은 ACG 2024의 14일 최적화 요법도 고려하여 14일 처방례를 제시 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
+* 고전적 bismuth 4제 요법 10\~14일 (상기 구성) - 2025년 국내 개정 지침의 표준 2차 치료(강한 권고). 본 장은 ACG 2024의 14일 최적화 요법도 고려하여 14일 처방례를 제시 <mark style="color:$info;">\[Korean J Gastroenterol 2026; Am J Gastroenterol 2024]</mark>
 
 <mark style="color:$primary;">**Bismuth 4제 실패 후 구제요법**</mark>
 
 * bismuth 4제를 초치료로 사용했는지 2차로 사용했는지 구분하고, 감수성·이전 노출력에 따라 rifabutin 3제 또는 이전에 사용하지 않은 항생제를 활용한 변형 4제를 전문의와 결정. 아래 나열 순서대로 경험적 치료를 반복하지 않음
 * levofloxacin 3제 요법 14일 : PPI 표준 용량 bid + amoxicillin 1 g bid + levofloxacin 500 ㎎ qd (또는 250 ㎎ bid) <mark style="color:blue;">\[크라비트]</mark>
   * fluoroquinolone 내성률(37% 내외)이 높고 clarithromycin과 levofloxacin에 동시 내성인 균주도 보고되어 감수성이 확인된 경우에만 사용. 서로 다른 계열 간 동시 내성(co-resistance)을 동일한 내성 기전에 의한 교차내성(cross-resistance)과 구분
-* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 국내 2025 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등) 및 amoxicillin 용량이 다름
+* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 2025년 국내 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등) 및 amoxicillin 용량이 다름
   * _H. pylori_ 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
   * 골수억제(호중구감소증), 포도막염 가능; 반복치료·혈액질환 등 고위험군에서 CBC 확인 고려
   * 활동성 결핵 또는 rifamycin 계열 치료력·치료 중인 환자는 내성 선택 위험을 고려하여 감염내과 협진
@@ -270,7 +270,7 @@ _**H. pylori**_**&#x20;→ 위암 발암 경로 (Correa Cascade)**
 * tegoprazan 50 ㎎ <mark style="color:blue;">\[케이캡]</mark>
   * 허가 : 표준 3제 요법 7일 투여 허가
   * PPI 대비 강력하고 안정적인 산 억제 효과; CYP2C19 대사 다형성 영향 적음 → 급속 대사자에서 유리
-  * 7일 tegoprazan 기반 3제 요법은 lansoprazole 기반 3제 요법에 비열등했으나, clarithromycin 고내성 환경에서는 7일 요법의 절대 제균율이 충분하지 않을 수 있음. 국내 지침 메타분석에서 tegoprazan 기반 요법의 제균율은 PPI와 유의한 차이가 없었음(79.3% vs 76.8%)
+  * 7일 tegoprazan 기반 3제 요법은 lansoprazole 기반 3제 요법에 비열등했으나, clarithromycin 고내성 환경에서는 7일 요법의 절대 제균율이 충분하지 않을 수 있음. 2025년 국내 개정 지침 메타분석에서 tegoprazan 기반 요법의 제균율은 PPI와 유의한 차이가 없었음(79.3% vs 76.8%)
   * 처방 시 tegoprazan 50 ㎎ bid (3제 요법 구성 내)
   * 14일 연장 요법의 제균율 향상 보고가 있으나 허가 기간 7일을 벗어나는 사용으로 구분
 * 본 장에 제균 처방으로 제시한 tegoprazan·fexuprazan은 임부·수유부 금기. 다른 P-CAB에 계열 전체의 금기로 일반화하지 않음
@@ -286,7 +286,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 <mark style="color:$primary;">**항생제 내성 관리 원칙 (Antimicrobial Stewardship)**</mark>
 
 * _H. pylori_ 치료는 항생제 stewardship 원칙을 준수
-* clarithromycin·levofloxacin은 이전 노출·실패 후 경험적 재사용을 피함. 3제요법은 감수성 확인을 원칙으로 하며, 국내 지침의 경험적 동시 치료 10일 및 제한적인 저내성 지역 3제 예외와 구분. Levofloxacin은 본 장에서 감수성 확인 후 사용으로 제한
+* clarithromycin·levofloxacin은 이전 노출·실패 후 경험적 재사용을 피함. 3제요법은 감수성 확인을 원칙으로 하며, 2025년 국내 개정 지침의 경험적 동시 치료 10일 및 제한적인 저내성 지역 3제 예외와 구분. Levofloxacin은 본 장에서 감수성 확인 후 사용으로 제한
 * amoxicillin·tetracycline은 내성률이 낮아 재사용 가능. Metronidazole도 bismuth 병용과 충분한 용량·기간으로 재사용을 고려할 수 있어 모든 항생제를 일괄 제외하지 않음 <mark style="color:$info;">\[AGA 2021]</mark>
 * 불필요한 salvage 반복 금지 : 경험적 치료 반복보다 배양·감수성 검사 우선
 * 2회 이상 실패 시 susceptibility-guided therapy : 배양 검사 시행 또는 의뢰
@@ -354,7 +354,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 > ※ 총 10일; metronidazole 복용 중 및 종료 후 최소 3일까지 금주
 > ```
 >
-> _✽국내 2025 개정 지침의 주요 경험적 요법. 과거 macrolide 노출 및 clarithromycin·metronidazole 이중내성 위험을 평가. 실패 후 고전적 bismuth 4제 구제요법 고려. 클래리시드 필름코팅정 250 ㎎ 2정이 1회 500 ㎎이며, 서방형(엑스엘)으로 대체하지 않음_
+> _✽2025년 국내 개정 지침의 주요 경험적 요법. 과거 macrolide 노출 및 clarithromycin·metronidazole 이중내성 위험을 평가. 실패 후 고전적 bismuth 4제 구제요법 고려. 클래리시드 필름코팅정 250 ㎎ 2정이 1회 500 ㎎이며, 서방형(엑스엘)으로 대체하지 않음_
 
 > **처방례 2.** PPI 표준 3제 7일 (clarithromycin 감수성 확인)
 >
