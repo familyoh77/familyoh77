@@ -533,7 +533,7 @@
 * 위염의 위점막 병변 개선, 궤양·역류 관련 증상 개선 등 성분별 허가 적응증이 다름
   * 위염의 내시경 병변 개선 자료를 궤양·출혈 예방 효과로 확대 해석하지 않으며, NSAID 고위험 환자의 PPI 등 표준 예방요법을 대체하지 않음
   * 경험적으로 사용할 때 2주 정도 사용해도 호전이 없으면 중단하고, _H. pylori_·NSAID 사용·경고 증상 등 원인을 재평가함
-* Na alginate : 점막 피복·역류 증상 완화; 부작용-변비·설사; 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[라미나지액]</mark>
+* Na alginate : 점막 피복·역류 증상 완화; 부작용-변비·설사; 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[거드액]</mark>
 * benexate betadex : 400 ㎎ bid <mark style="color:blue;">\[울굿]</mark>
 * ecabet : 1 g bid <mark style="color:blue;">\[가스트렉스과립]</mark>
 * irsogladine : 4 ㎎ qd <mark style="color:blue;">\[가스론엔]</mark>
@@ -754,19 +754,15 @@ flowchart TD
 *   <mark style="color:$info;">Higuchi T, et al. Influence of daily versus alternate-day dosing of vonoprazan on intragastric pH, serum gastrin, and the antiplatelet function of clopidogrel. Eur J Clin Pharmacol. 2022;78:955-963. - vonoprazan 병용 시 clopidogrel 항혈소판 효과 감소</mark>
 
     [https://doi.org/10.1007/s00228-022-03313-2](https://doi.org/10.1007/s00228-022-03313-2)
-
 *   <mark style="color:$info;">Rao SSC, et al. Anorectal Disorders. Gastroenterology. 2026;170:1318-1346. - Rome V 배변협동장애 진단과 probable/definite 구분</mark>
 
     [https://doi.org/10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)
-
 *   <mark style="color:$info;">Cho YS, et al. 2022 Seoul Consensus on Clinical Practice Guidelines for Functional Constipation. J Neurogastroenterol Motil. 2023;29:271-305. 국문판 Korean J Gastroenterol. 2025;85:319-344. - 기능성 변비의 진단·검사·약물·바이오피드백 권고</mark>
 
     [영문판](https://doi.org/10.5056/jnm23066) · [국문판](https://doi.org/10.4166/kjg.2024.156)
-
 *   <mark style="color:$info;">Dimidi E, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet. 2025;38:e70133. - 섬유·식품·probiotics별 효과와 근거 한계</mark>
 
     [https://doi.org/10.1111/jhn.70133](https://doi.org/10.1111/jhn.70133)
-
 *   <mark style="color:$info;">NHS Specialist Pharmacy Service. Using laxatives during breastfeeding. 2023. - 만삭·건강한 영아 수유 시 하제 선택과 영아 관찰</mark>
 
     [https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/](https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/)
