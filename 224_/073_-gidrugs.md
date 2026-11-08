@@ -143,7 +143,7 @@
 * 고령에서 가능한 회피
 * 지속 사용 시 효과와 항콜린 부담을 재평가
 * **hyoscine N-butylbromide**(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
-* **cimetropium** : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>; 주사 1회 5 ㎎ IM/IV <mark style="color:blue;">\[브로퓸주사]</mark>
+* **cimetropium** : 50 ㎎ bid\~tid <mark style="color:blue;">\[알피움]</mark>; 주사 1회 5 ㎎ IM/IV <mark style="color:blue;">\[브로퓸주사]</mark>
 * **dicyclomine** : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[스파토민]</mark>
 * hyoscine N-butylbromide <mark style="color:blue;">\[부스코판주]</mark>
 * **atropine** <mark style="color:blue;">\[아트로핀주]</mark>
@@ -252,13 +252,13 @@
   * AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 IBS 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고함. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단 <mark style="color:$info;">\[AGA 2020; J Neurogastroenterol Motil 2025]</mark>
 * 성인 급성 감염성 설사 : 지침 간 차이가 있음. IDSA 2017은 정상 면역 성인에서 선택적 사용을 약하게 권고하지만, ACG 2016은 항생제 관련 설사를 제외한 성인 급성 설사에서 사용을 권고하지 않음. 성인·균주별 근거가 제한적이므로 일상적으로 처방하지 않음 <mark style="color:$info;">\[IDSA 2017; ACG 2016]</mark>
 * 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[람노스산]</mark>·<mark style="color:blue;">\[람노스과립]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제
-* _Saccharomyces boulardii_ <mark style="color:blue;">\[비오플산]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
+* _Saccharomyces boulardii_ <mark style="color:blue;">\[비오플250산]</mark>·<mark style="color:blue;">\[비오플250캡슐]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
 * _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[메디락에스산]</mark>·<mark style="color:blue;">\[메디락에스]</mark>
 
-**AGA Probiotics 권고 (2020)**
+**AGA Probiotics 권고 (2020) 및 CDI 업데이트 (2026)**
 
 * 성인·소아의 IBS·크론병·궤양성 대장염·_C. difficile_ 감염 치료 : 임상시험 외 사용을 뒷받침할 근거가 불충분
-* 성인·소아의 항생제 투여 중 _C. difficile_ 감염 예방 : _S. boulardii_ 등 근거가 있는 특정 균주·조합에 한하여 조건부로 고려 가능; 모든 probiotics의 효과로 일반화하지 않음
+* 성인·소아의 항생제 투여 중 _C. difficile_ 감염 예방 : AGA 2020은 _S. boulardii_ 등 특정 균주·조합에 한하여 조건부로 고려하였으나, AGA 2026 CDI 업데이트는 초발·재발 CDI 예방 목적으로 probiotics 사용을 권고하지 않음. 항생제 관련 설사(AAD) 예방과 CDI 예방은 구분함
 * pouchitis : 근거가 있는 특정 다균주 조합에 한하여 고려 가능
 * 소아 급성 감염성 위장관염 : 일상적 사용을 권고하지 않음
 * 조산아·저체중 출생아 : 일부 균주가 괴사성 장염·사망을 줄일 가능성이 있으나, 균주에 의한 균혈증·진균혈증과 사망 사례도 보고됨. NICU 전문진료 환경에서 균주·제품 품질·면역저하·중심정맥관 여부를 평가하여 사용
@@ -451,7 +451,7 @@
 * 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토
 * 작용 : 장점막 보호; 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설
 * <mark style="color:blue;">\[스타빅현탁액]</mark> 3 g/20 ㎖ : 20 ㎖ tid 식간 복용
-  * 만 19세 미만 소아·청소년 사용 제한
+  * 만 19세 미만 소아·청소년, 임부·임신 가능성이 있는 여성·수유부는 사용하지 않음
 * 변비·장폐색 병력에서 주의
 * 다른 경구약의 흡수를 방해할 수 있으므로 통상 2시간 이상 간격을 둠
 
@@ -459,32 +459,32 @@
 
 * 급성 설사에서 임상 효과 근거가 제한적이므로 일상적 일차치료로 권고하지 않음 (허가 제품 없음)
 
-#### <mark style="color:$primary;">Bismuth subsalicylate</mark>
-
-* 작용 : 항분비·항염·항균 작용을 통한 경증 급성 설사·여행자 설사의 증상 완화
-* 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용
-  * 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[펩토무스현탁액]</mark>
-* Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용 시 사용하지 않음
-* 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
-* 신기능 저하 환자는 자가사용을 피하고 의료진과 상의
-* 항응고제·methotrexate·probenecid 복용자, 통풍 환자 및 수유부는 대체 치료를 우선 고려
-* 혀·변의 일시적 흑색 변색이 생길 수 있음
-* 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
-
-### <mark style="color:orange;">기타</mark>
+### <mark style="color:orange;">분비 억제제 (Antisecretory agent)</mark>
 
 #### <mark style="color:$primary;">Racecadotril</mark>
 
 * 작용 : enkephalinase 억제로 과도한 장액 분비를 감소시킴
 * <mark style="color:blue;">\[하이드라섹]</mark> (비급여)
   * 성인 캡슐 : 100 ㎎ tid, 식전 복용. 정상 배변이 2회 있을 때까지 사용하며 최대 7일
-  * 소아 산제 : 생후 3개월 이상. 체중별 용량을 1일 3회 일정한 간격으로 투여하며, 음식·물·분유에 섞으면 즉시 복용함; 정상 배변이 2회 있을 때까지 사용하며 최대 7일임
+  * 소아 산제 : 생후 3개월 이상. 1회 1.5 ㎎/㎏ 또는 체중별 포 단위로 1일 3회 일정한 간격으로 투여하며, 음식·물·분유에 섞으면 즉시 복용함; 정상 배변이 2회 있을 때까지 사용하며 최대 7일임
     * 9 ㎏ 미만 - 10 ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - 30 ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
 * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
 * 금기 : 3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
 * 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 금기
 * ACE 억제제 병용 시 혈관부종 위험 증가에 주의
 * 혈관부종·DRESS 의심 시 중단하고 재투여하지 않음
+
+#### <mark style="color:$primary;">Bismuth subsalicylate</mark> <a href="#bismuth-subsalicylate" id="bismuth-subsalicylate"></a>
+
+* 작용 : 항분비·항염·항균 작용을 통한 경증 급성 설사·여행자 설사의 증상 완화
+* 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용
+  * 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[펩토무스현탁액]</mark>
+* Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용 시 사용하지 않음
+* 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
+* 신기능 저하·통풍 환자 및 항응고제·methotrexate·probenecid 복용자는 가능한 한 사용을 피하고, 신기능 저하 환자는 자가사용하지 않음
+* 임부·수유부는 복용 전 전문가와 상담하며, 급성 설사에는 ORS를 우선하고 BSS는 가능한 한 피함
+* 복용 전 현탁액을 잘 흔듦. 혀·변의 일시적 흑색 변색이 생길 수 있음
+* 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
 
 ## <mark style="color:green;">제산제 (Antacid)</mark>
 
