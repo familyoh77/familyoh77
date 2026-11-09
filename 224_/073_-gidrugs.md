@@ -15,7 +15,7 @@
 #### <mark style="color:$primary;">QT 연장 위험 약제</mark>
 
 * 심장 질환·QTc 연장·저칼륨혈증·저마그네슘혈증 환자에서 병용 주의; 아래 약제 2개 이상 병용 시 위험 증가
-* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron). metoclopramide와는 QTc 연장에 따른 심각한 심실성 부정맥 위험으로 DUR 병용금기. Prucalopride와도 DUR 병용금기
+* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron); prucalopride와도 DUR 병용금기. metoclopramide와는 QTc 연장에 따른 심각한 심실성 부정맥 위험으로 DUR 병용금기.
 * <mark style="color:red;">**ondansetron**</mark> : QT 연장은 용량 의존적임; 선천성 QT 연장증후군에서는 회피하고 저칼륨혈증·저마그네슘혈증은 투여 전 교정
 * <mark style="color:red;">**erythromycin**</mark> : CYP3A4 기질·억제제; QT 연장 약제와 이중 위험
 * <mark style="color:red;">**metoclopramide**</mark> : 드물지만 QTc 연장 보고; 고용량·IV 투여 시 주의
