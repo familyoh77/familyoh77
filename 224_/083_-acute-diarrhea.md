@@ -27,54 +27,18 @@
 
 * 기전 : 항생제 → 정상 장내 세균총 파괴 → 탄수화물 발효 이상 → 장관 내 삼투압·산도 변화
   * 항생제 투여 중 또는 종료 후 수 주 이내 발생할 수 있음
-  * 대부분은 비-CDI 항생제 관련 설사이지만 고령·최근 입원·중증 설사·발열·백혈구증가·복통이 있으면 _Clostridioides difficile_ infection(CDI) 평가
   * 불필요한 PPI 등 CDI 위험을 높일 수 있는 약물의 적응증도 재평가
 * 증상 : 비-CDI AAD는 대개 경미한 설사·복부 산통
-  * 발열·중증 복통·혈변 또는 전신 증상이 있으면 CDI 등 다른 원인을 평가
 * 치료 : 가능하면 원인 항생제를 중단
   * 계속 필요하면 적응증을 재평가하여 범위를 좁히거나 대체 약제를 선택
-
-<mark style="color:cyan;">**CDI 중증도별 치료**</mark>
-
-<table><thead><tr><th width="97">중증도</th><th width="217">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC ＜15,000/㎕ <strong>및</strong><br>혈청 Cr ≤1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코진]</mark></td></tr><tr><td><strong>중증</strong><br><strong>(비전격성)</strong></td><td>WBC ≥15,000/㎕ <strong>또는</strong><br>혈청 Cr ＞1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일<br>전격성 소견 없이 500 ㎎ qid로 일률적 증량하지 않음</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크, 장마비(ileus) 또는 독성거대결장</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가; 즉시 입원·외과 협진</td></tr></tbody></table>
-
-> _위 표는 IDSA/SHEA 2017 기준(WBC ≥15,000/㎕ 또는 혈청 Cr ＞1.5 ㎎/dL)을 따름. AGA 2026은 Cr을 절대값이 아닌 기저치 대비 상승(＞1.5배)으로 평가하므로, 기저 Cr이 높은 CKD 환자는 IDSA 기준으로 중증이어도 AGA 기준으로는 비중증일 수 있고, 기저 Cr이 낮은 고령자는 그 반대일 수 있음. 한 환자에게 두 기준을 섞어 적용하지 않으며, 단일 검사 수치만이 아니라 혈역학적 상태·장기 기능·임상 경과를 함께 평가함._
-
-* 항생제·입원력이 없어도 지역사회 CDI가 가능하며, 장마비를 동반한 전격성 CDI에서는 설사가 뚜렷하지 않을 수 있음. 백혈구 반응이 약한 환자는 표의 기준만으로 중증도를 판단하지 않음
-
-**초기 치료 약제 선택**
-
-* Fidaxomicin 200 ㎎ bid × 10일이 비전격성 CDI의 우선 치료제이며, vancomycin 125 ㎎ qid × 10일도 적절한 대안임 <mark style="color:$info;">\[IDSA·SHEA 2021; AGA 2026]</mark>
-* 2024년 국내 설문에서는 fidaxomicin을 이용할 수 없다고 보고됨 <mark style="color:$info;">\[J Korean Med Sci 2026]</mark>. 따라서 처방례는 경구 vancomycin을 중심으로 제시하며, 이후 신규 허가·공급 여부는 해당 보고와 구분함
-* Metronidazole은 비전격성 CDI의 표준 초기치료제가 아님. IDSA 2017의 제한적 비중증 대안과 달리 AGA 2026은 비전격성 CDI에 사용하지 않도록 권고; 전격성 CDI에서는 IV 보조요법으로 사용
-
-**전격성 CDI**
-
-* 초기 요법(위 표) 중 고용량 vancomycin은 최소 초기 48시간 유지하고, 임상 호전 시(대개 3\~5일) 125 ㎎ qid 단독요법으로 감량 가능. 총 치료기간은 최소 10일(14일 선호) <mark style="color:$info;">\[AGA 2026]</mark>
-* 적극적 치료에도 48시간 후 호전이 없거나 악화되면 다학제 평가를 통해 FMT 또는 수술을 고려
-
-**치료 반응 평가**
-
-* 치료 시작 후 48\~72시간에 설사 횟수·복통·발열·혈역학적 상태·백혈구·신기능 등을 종합적으로 재평가. 호전이 없거나 악화되면 합병증, 치료 적절성 및 다른 원인을 평가
-* 장마비가 있는 전격성 CDI는 설사 횟수 감소만으로 호전으로 판단하지 않음
-
-**재발 CDI**
-
-* 첫 재발 : fidaxomicin 또는 vancomycin 감량·간헐(taper/pulse) 요법을 고려. 초치료 약제·재발 위험·이용 가능성을 반영하여 선택하며, fidaxomicin을 이용할 수 없으면 vancomycin 감량·간헐 요법 등을 고려 <mark style="color:$info;">\[IDSA·SHEA 2021; AGA 2026]</mark>
-* 반복 재발 : 감염내과·소화기내과 협진하여 FMT 등 미생물총 기반 재발 예방 치료를 평가. 재발 고위험군은 첫 재발부터 전문의 평가를 고려하며, 전격성·치료 불응 CDI에서의 구제 FMT와 구분. 해외 미생물총 제제의 국내 이용 가능성은 별도 확인. Bezlotoxumab은 판매 중단
-
-{% hint style="danger" %}
-**CDI 진단 시 중요 원칙** : ① 설명되지 않는 새 비성형변이 24시간 내 ≥3회인 환자에서 검사; ② 완하제 사용·성형변이면 routine 검사하지 않음; ③ 기관 기준에 따라 GDH+toxin±NAAT 또는 NAAT+toxin 알고리듬을 사용하며, 검사 대상이 엄격히 제한된 기관에서는 NAAT 단독도 가능. NAAT 단독 양성은 보균을 검출할 수 있어 임상상과 통합 해석. PCR 양성·toxin 음성이라도 임상적 의심이 높으면 치료를 고려; ④ 치료 반응 확인 목적의 test of cure는 시행하지 않음
-
-**소아 검사 제한** : 생후 12개월 이하에서는 높은 보균율 때문에 routine 검사하지 않으며, 1\~2세는 다른 원인을 배제한 뒤 제한적으로 검사. 위 중증도·치료표는 성인 기준임
-{% endhint %}
+* _Clostridioides difficile_ infection(CDI) : 최근 항생제 사용·입원력, 고령, 발열·복통·백혈구증가 또는 중증 설사가 있으면 의심. 항생제·입원력이 없는 지역사회 CDI도 가능. 혈변이 있으면 다른 염증성 장염도 감별 (☞ [감염성 설사 - CDI](085_-acute-infectious-diarrhea.md#cdi))
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 비염증성 (수양성) : 혈변이 없고 고열·전신 독성은 비전형적이나 미열은 동반 가능; 바이러스·비침습성 세균 원인이 흔하며 대부분 수일 내 회복
 * 염증성 (혈성·점액성) : 혈변·농변·발열·tenesmus 가능; 침습성·독소 생성 세균 외에도 IBD·허혈성 대장염 등을 감별
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩  Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -127,7 +91,7 @@
 * 중등증 이상 탈수, 고령·CKD 등 고위험군 또는 7일 이상 지속 : 혈당, 전해질, BUN/Cr 등 고려
 * 혈변·점액변, 발열, 심한 복통·압통 또는 패혈증 징후 : 대변 배양/분자검사(_Salmonella, Shigella, Campylobacter, Yersinia_ 등)와 Shiga toxin 또는 독소 유전자 검사; CBC·CRP·신기능 등 고려
   * 패혈증·장티푸스 의심, 면역 저하 또는 전신 감염 소견이 있으면 혈액 배양
-  * CDI 의심 시 → 비성형변으로 독소 검사±NAAT(PCR) 알고리듬 적용; NAAT 단독 양성은 임상 증상과 함께 해석
+  * CDI 의심 시 다단계 검사 알고리듬 적용 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md))
 
 #### <mark style="color:$primary;">다중 분자 진단 검사 (Multiplex stool PCR panel)</mark>
 
@@ -164,7 +128,7 @@
 
 > _일반적인 외래 경로는 48\~72시간 내 재평가하며, 악화·탈수·혈변이 생기면 즉시 평가. STEC/HUS 의심 또는 전격성 CDI는 더 이른 시점에 별도로 평가_
 
-<p align="center"><strong>급성 설사 평가·치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IDSA 2017; IDSA·SHEA 2021; AGA 2026)</mark></em></p>
+<p align="center"><strong>급성 설사 평가·치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IDSA 2017)</mark></em></p>
 
 ***
 
@@ -183,14 +147,7 @@
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
-| 표현형                                 | 시사 원인                             | 치료 방향                                                 | 주의                                                                   |
-| ----------------------------------- | --------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
-| **수양성 + 무발열 + 무혈변**                 | 바이러스·비침습성 세균                      | <p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p>        | 항생제 불필요                                                              |
-| **수양성 + 구토 우세**                     | 바이러스·독소형 식중독                      | <p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p>    | 항생제 불필요                                                              |
-| **혈변·점액변 ± 발열**                     | 침습성 세균, STEC, 허혈성 대장염, IBD 등      | <p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p>  | <p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p> |
-| **전형적 세균성이질·고열 여행자 설사·패혈증·중증 면역저하** | _Shigella, Campylobacter_, 장티푸스 등 | 가능하면 대변·혈액 배양 후 경험적 항생제 고려                            | 지역 내성·여행지·STEC 가능성 반영                                                |
-| **항생제·의료기관 노출 후 새 설사**              | AAD 또는 CDI                        | <p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p> | NAAT 양성만으로 보균과 감염을 구분할 수 없음                                          |
-| **고령·면역 저하·패혈증 의심**                 | 다양(기회감염·비감염성 원인 포함)               | 위험에 따른 선택 검사; 입원·전원 조기 고려                             | 조기 에스컬레이션                                                            |
+<table><thead><tr><th>표현형</th><th>시사 원인</th><th>치료 방향</th><th>주의</th></tr></thead><tbody><tr><td><strong>수양성 + 무발열 + 무혈변</strong></td><td>바이러스·비침습성 세균</td><td><p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p></td><td>항생제 불필요</td></tr><tr><td><strong>수양성 + 구토 우세</strong></td><td>바이러스·독소형 식중독</td><td><p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p></td><td>항생제 불필요</td></tr><tr><td><strong>혈변·점액변 ± 발열</strong></td><td>침습성 세균, STEC, 허혈성 대장염, IBD 등</td><td><p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p></td><td><p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p></td></tr><tr><td><strong>전형적 세균성이질·고열 여행자 설사·패혈증·중증 면역저하</strong></td><td><em>Shigella, Campylobacter</em>, 장티푸스 등</td><td>가능하면 대변·혈액 배양 후 경험적 항생제 고려</td><td>지역 내성·여행지·STEC 가능성 반영</td></tr><tr><td><strong>항생제·의료기관 노출 후 새 설사</strong></td><td>AAD 또는 CDI</td><td><p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p></td><td>NAAT 양성만으로 보균과 감염을 구분할 수 없음</td></tr><tr><td><strong>고령·면역 저하·패혈증 의심</strong></td><td>다양(기회감염·비감염성 원인 포함)</td><td>위험에 따른 선택 검사; 입원·전원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
@@ -256,29 +213,10 @@
 
 ### <mark style="color:orange;">항생제</mark>
 
-* 대부분의 급성 설사는 바이러스 원인으로 항생제가 도움이 되지 않으며, 침습성 세균성 설사도 대부분 수일 내 자연 치유
-* 세균성 감염성 설사 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md))
-* 경험적 치료가 필요한 성인 : 지역 내성·여행지·임상 양상에 따라 azithromycin 1 g 1회 또는 500 ㎎ qd × 3일 <mark style="color:blue;">\[지스로맥스]</mark> 등을 고려(허가 외 사용). QT 연장·저K/저Mg혈증·다른 QT 연장 약물 병용에 주의하며, 패혈증·장티푸스에는 이 경구 단기 요법을 일률적으로 적용하지 않음
-
-**경험적 항생제를 고려하는 경우**
-
-* 발열·복통·tenesmus를 동반한 전형적 세균성이질(특히 _Shigella_)
-* 해외여행 후 38.5℃ 이상 발열 또는 패혈증 징후를 동반한 중증 설사
-* 중증 혈성 설사를 보이는 면역 저하 환자
-* 장티푸스성 패혈증 의심 - 혈액·대변 배양 채취 후 즉시 치료
-
-배양으로 병원체가 확인되면 경험적 치료가 아닌 원인별 표적 치료로 전환하며, 감수성과 치료 이득을 고려하여 항생제를 중단·변경.
-
-생후 3개월 미만에서 세균 감염이 의심되는 설사는 성인 처방을 적용하지 않고 소아 중증 감염 평가가 필요함.
-
-정상 면역 성인의 혈성 설사에서는 위 예외를 제외하고 검사 결과 전 routine 경험적 항생제를 권고하지 않음. 경험적 치료 전 가능하면 대변 배양·Shiga toxin 검사 시행
-
-**경험적 항생제를 피해야 하는 경우**
-
-* STEC 의심 또는 확진 - 항생제가 HUS 위험을 높일 수 있음
-* 단순 바이러스성 수양성 설사
-* 경증 자기제한적 설사
-* ≥14일 지속되는 수양성 설사에는 원인 확인 없이 경험적 항생제를 시작하지 않으며 원충·비감염성 원인을 평가
+* 대부분의 급성 설사에서는 항생제가 필요하지 않음. 원인균·중증도·위험 인자에 따른 항균제 선택과 용법 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md))
+* 전형적 중증 세균성이질, 고열 또는 패혈증을 동반한 여행자 설사, 중증 혈성 설사를 보이는 면역 저하자, 장티푸스성 패혈증 의심 등에서는 검사·배양과 함께 경험적 항생제를 고려. 패혈증이 의심되면 배양 채취 때문에 치료를 지연하지 않음
+* 정상 면역 성인의 혈성 설사에는 원칙적으로 검사 결과 전 routine 경험적 항생제를 권고하지 않음. STEC 의심·확진 시에는 HUS 위험 때문에 항생제를 피하며, 바이러스성·경증 자기제한적 설사에도 사용하지 않음
+* ≥14일 지속되는 수양성 설사에서는 원인 확인 없이 경험적 항생제를 시작하지 않고 원충·비감염성 원인을 평가. 생후 3개월 미만의 세균 감염 의심 설사는 소아 중증 감염 평가가 우선임
 
 ### <mark style="color:orange;">장 운동 조절제 (Antimotility agents)</mark>
 
@@ -334,7 +272,6 @@
 
 * 성인의 급성 자기제한적 설사에서 routine probiotics 사용을 권고할 근거는 부족하며, 효과는 균주·제품·대상에 특이적임
 * AGA 2020은 소아 급성 감염성 위장관염에서 probiotics의 routine 사용을 권고하지 않음. 북미 대규모 RCT에서 LGG 및 일부 복합 균주의 유의한 이득이 확인되지 않았으나 효과는 균주·임상 환경에 따라 다를 수 있음
-* AGA 2026은 초발 또는 재발 CDI의 예방 목적으로 probiotics 사용을 권고하지 않음. CDI의 표준 항생제 치료를 대신하지 않음
 * 일부 균주는 다음 상황에서 제한적 이득 가능성이 보고됨
   * _S. boulardii_ : 항생제 관련 설사 예방 연구에서 일부 이득; 이미 발생한 설사의 치료 효과와 구분
   * _L. rhamnosus_ GG : 항생제 관련 설사 예방 연구가 있으나 결과가 일관되지 않으며 routine 치료를 정당화하지 않음
@@ -391,14 +328,6 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 >
 > _✽ORS로 충분히 수분을 보충한 뒤, 정상 면역 성인의 혈변·발열·전신 독성·CDI 의심·IBD 활성기가 없는 수양성 설사에서만 단기간 사용. 혈변·발열·복부 팽만·심한 통증이 발생하거나 48시간 내 호전이 없으면 즉시 중단하고 재평가._
 
-> **처방례 3. 확인된 초발&#x20;**_**C. difficile**_**&#x20;감염 (비전격성)**
->
-> ```
-> 반코진캡슐 125 ㎎/C　1C  qid  ×10일
-> ```
->
-> _✽국내 이용 가능한 경구 vancomycin을 사용한 성인 초발 비전격성 CDI 처방례. 중증(WBC ≥15,000/㎕ 또는 Cr ＞1.5 ㎎/dL)도 같은 용량을 사용. 불필요한 원인 항생제를 중단하거나 범위를 축소. 첫 재발은 이전 치료·재발 위험·이용 가능한 약제를 고려하여 전문의와 치료를 결정(위 본문 참조). 전격성(저혈압·쇼크, 장마비, 독성거대결장)은 즉시 입원하여 vancomycin 500 ㎎ PO/NG qid + metronidazole 500 ㎎ IV q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가 및 외과 협진. Fidaxomicin의 국제 지침상 권고와 국내 이용 가능성은 위 본문 참조._
-
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
@@ -408,21 +337,12 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 3. **흡착제(스타빅)는 식간에, 다른 약과 2시간 간격을 두고 복용하세요.** 장 내 독소·세균을 흡착하는 작용이 있어 다른 약과 동시에 복용하면 다른 약의 흡수를 방해할 수 있습니다. **만 19세 미만 소아·청소년, 임산부·임신 가능성이 있는 분, 수유 중인 분은 사용하지 마세요.**
 4. **음식은 빨리 정상화하세요.** routine 금식은 회복과 영양 섭취를 방해합니다. 견딜 수 있는 평소 음식을 소량씩 자주 드세요. 과량의 단순당·고지방 음식·술·카페인은 증상을 악화하면 줄이고, 유제품도 복부팽만이나 설사가 악화될 때만 일시 제한하세요.
 5. **위험 징후가 나타나면 진료받으세요.** 의식 저하·실신, 소변이 거의 나오지 않으면서 심하게 처짐, 심한 복통·팽만은 즉시 응급 평가가 필요합니다. 혈변·농변, ≥38.5℃ 발열, 수분 섭취가 어려운 구토는 당일 평가받고, 2\~3일이 지나도 호전되지 않으면 재진하세요.
-6. **CDI의 경구 vancomycin은 처방된 1일 4회·10일을 지키세요.** 설사가 좋아져도 임의 중단하지 말고, 누락분을 한꺼번에 두 배로 먹지 마세요. 심한 팽만·복통, 발열·어지럼·소변량 감소 또는 재발은 바로 알리세요. 치료 후 완치 확인용 대변 검사는 보통 필요하지 않습니다. 퀘스트란 등 담즙산 결합제를 임의로 함께 먹지 마세요.
 
 ***
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
-
-* <mark style="color:$info;">Fischer M, et al. AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review. Clin Gastroenterol Hepatol. 2026. - 중증도 정의, 재발 치료, 전격성 CDI</mark>
-
-[https://doi.org/10.1016/j.cgh.2026.05.007](https://doi.org/10.1016/j.cgh.2026.05.007)
-
-* <mark style="color:$info;">McDonald LC, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by IDSA and SHEA. Clin Infect Dis. 2018;66(7):e1-e48. - 중증도 기준, 소아 검사 제한</mark>
-
-[https://doi.org/10.1093/cid/cix1085](https://doi.org/10.1093/cid/cix1085)
 
 * <mark style="color:$info;">Riddle MS, et al. ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults. Am J Gastroenterol. 2016;111(5):602-622. - 기간 분류, 성인 경험적 치료</mark>
 
@@ -439,14 +359,6 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 * <mark style="color:$info;">IDSA. 2017 Infectious Diarrhea Clinical Practice Guideline. - 검사·STEC·항생제·수분 보충 원칙</mark>
 
 [https://www.idsociety.org/practice-guideline/infectious-diarrhea/](https://www.idsociety.org/practice-guideline/infectious-diarrhea/)
-
-* <mark style="color:$info;">IDSA·SHEA. 2021 Focused Update: Management of Clostridioides difficile Infection in Adults. - 항생제 선택과 재발 치료</mark>
-
-[https://doi.org/10.1093/cid/ciab549](https://doi.org/10.1093/cid/ciab549)
-
-* <mark style="color:$info;">Moon JM, et al. Clinical Approaches to Clostridioides difficile Infection Management: Insights From a Nationwide Survey of Korean Physicians. J Korean Med Sci. 2026;41(21):e150. - 국내 치료 접근성·진료 현황; 설문은 2024년 시행</mark>
-
-[https://doi.org/10.3346/jkms.2026.41.e150](https://doi.org/10.3346/jkms.2026.41.e150)
 
 * <mark style="color:$info;">WHO. Guideline on management of pneumonia and diarrhoea in children up to 10 years of age. 2024. - 소아 아연 용량 등 개정 권고</mark>
 
@@ -485,7 +397,6 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 * **음식** : 일부러 굶지 마세요. 견딜 수 있는 평소 음식을 조금씩 자주 드세요. 과량의 단 음식·기름진 음식·커피·술은 증상을 악화하면 피하고, 우유·유제품도 복부팽만이나 설사가 심해질 때만 일시적으로 줄이세요.
 * **휴식** : 충분히 쉬세요.
 * **설사약** : 혈변·발열이 있거나 항생제 복용 뒤 설사가 생겼다면 지사제를 임의로 먹지 마세요. 성인에게 처방된 약을 아이에게 주지 마세요.
-* **클로스트리디오이데스 디피실 감염(CDI) 치료 중** : 처방된 경구 항생제의 횟수·기간을 지키고 설사가 다시 생기면 진료받으세요.
 
 **스포츠 음료·주스·탄산음료는 ORS를 대신할 수 없습니다.** 당분이 많고 나트륨(염분)이 적어 중등증 이상 탈수의 치료에는 적합하지 않습니다.
 

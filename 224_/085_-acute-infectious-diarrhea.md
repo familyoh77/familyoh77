@@ -83,7 +83,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_. 위 시간대�
 * _Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_ → 반응성 관절염
 * 세균성 장염·Giardia 등 → 감염 후 IBS
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩  Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -159,7 +159,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_. 위 시간대�
   * 고위험군 : 고령·허약, 요양 시설 거주, 기저 질환(심장 질환·IBD), 면역 저하, 임신
   * 7일 지속, 집단 내 전염 우려, 항생제 투여 예정
 * _C. difficile_ 검사 : GDH+toxin±NAAT 또는 NAAT+toxin 다단계 알고리듬; 엄격한 검체 제출 기준이 있는 기관은 NAAT 단독도 가능
-  * 생후 12개월 이하 routine 검사 금지; 1~2세는 다른 원인을 배제한 뒤 제한적 검사 (☞ [급성 설사](083_-acute-diarrhea.md))
+  * 생후 12개월 이하 routine 검사 금지; 1\~2세는 다른 원인을 배제한 뒤 제한적 검사
   * 설명되지 않는 새로 발생한 하루 3회 이상의 무른 변에서 시행하며 최근 항생제 사용·입원·요양 시설 노출은 위험인자로 고려
   * 형태를 유지하지 못하는 대변만 검사하고 최근 완하제 투여 여부를 확인; 무증상 환자·형성변 검사 및 치료 후 test of cure는 시행하지 않음
 * STEC 확진 또는 강력히 의심되는 경우: CBC(hemoglobin·platelet), 전해질, BUN/creatinine을 반복 추적함. 설사 호전 후에도 HUS가 나타날 수 있으며 고위험 환자는 임상 경과에 따라 매일 검사; HUS 의심 시 말초혈액도말, LDH, bilirubin 추가
@@ -282,12 +282,12 @@ flowchart TD
 
 ### <mark style="color:orange;">항생제</mark>
 
-* 아래 용법은 성인 지침 용법이며 허가 용법·급여와 구분함. Azithromycin의 감염성 설사·여행자 설사 치료는 국내 [지스로맥스정250㎎] 허가 외 적응증임 (유효균종에 Campylobacter가 기재되어 있어도 장염 적응증 허가를 의미하지 않음)
+* 아래 용법은 성인 지침 용법이며 허가 용법·급여와 구분함. Azithromycin의 감염성 설사·여행자 설사 치료는 지스로맥스정250㎎의 허가 외 적응증임 (유효균종에 Campylobacter가 기재되어 있어도 장염 적응증 허가를 의미하지 않음)
 * 항생제 적응증 : 패혈증·장티푸스성 발열, 전형적인 중증 세균성이질, 해외여행 후 고열 또는 패혈증, 면역 저하자의 중증 혈성 설사, 치료 이득이 확인된 특정 병원체 감염
 
 #### <mark style="color:$primary;">병원체별 항생제 선택</mark>
 
-<table><thead><tr><th width="135">병원체 / 상황</th><th width="276">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(적응증에 해당하는 중증 침습성 설사)</td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일</td><td>면역 정상 성인의 혈성 설사에 일률적으로 투여하지 않음. 여행력·지역 내성·중증도에 따라 선택; 동남아·인도 등 fluoroquinolone 내성 Campylobacter 위험 지역에서는 azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(중등증 이상, 비침습성)</td><td>Azithromycin 1,000 ㎎ 단회<br>또는 500 ㎎ qd × 3일<br>Rifaximin 200 ㎎ tid × 3일 (대안)</td><td>경증에는 항생제 권고하지 않음. Rifaximin은 발열·혈변 없는 비침습성 설사에만 사용</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일<br>Ceftriaxone 1~2 g IV qd × 3~5일 (중증)</td><td>경증은 수액 치료만으로 호전 가능. 다제·광범위 내성 증가 → 치료 필요 시 배양 및 감수성검사에 따라 선택</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일</td><td>Fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증·고위험군 또는 증상 초기에 선별 사용</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 ㎎ 단회 (감수성일 때)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>중증 탈수·고배출 또는 입원 환자 등에서 항생제 고려. 적극적 수액 보충이 치료의 핵심; 감수성·임신 여부를 고려하여 항생제 선택</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>중증 감염, 면역 저하, 영아, ≥50세이면서 죽상경화증 의심, 판막성·혈관내 질환·중요 관절질환 등 침습성 감염 고위험군에서 치료; 감수성에 따라 ceftriaxone, azithromycin 또는 ciprofloxacin 선택</td></tr><tr><td><strong>STEC (O157:H7 등)</strong></td><td><strong>항생제 피함</strong></td><td>발열이 없거나 경미한 혈성 설사와 심한 복통 시 특히 의심; HUS 위험 때문에 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(초발, non-fulminant)</td><td>Vancomycin 경구 125 ㎎ qid × 10일</td><td>국내 이용 가능한 치료 중심. Fidaxomicin 200 ㎎ bid × 10일은 국제 지침상 조건부 우선 권고이나 국내 이용 가능성을 별도로 구분. Severe(본문 중증도 기준 참조)도 같은 용량; metronidazole 단독은 표준 초기치료로 제시하지 않음; AGA 2026은 비전격성 CDI에서 사용하지 않도록 권고</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(fulminant)</td><td>Vancomycin 500 ㎎ PO/NG qid<br>+ metronidazole 500 ㎎ IV q8h</td><td>저혈압·쇼크, 장마비 또는 독성거대결장. 즉시 입원·외과 협진; 장마비 시 직장 vancomycin 추가 고려</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250 ㎎ tid 또는 500 ㎎ bid × 5~7일 <mark style="color:blue;">[후라시닐]</mark></td><td>Metronidazole의 Giardia 치료는 국내 허가 외 사용; tinidazole 2 g 단회는 국제 지침 대안이나 국내 통상 유통 처방으로 제시하지 않음</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500~750 ㎎ tid × 7~10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin 등 luminal agent로 장내 낭종 제거 필요; 국내 이용 가능 여부 확인</td></tr></tbody></table>
+<table><thead><tr><th width="135">병원체 / 상황</th><th width="276">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(적응증에 해당하는 중증 침습성 설사)</td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일</td><td>면역 정상 성인의 혈성 설사에 일률적으로 투여하지 않음. 여행력·지역 내성·중증도에 따라 선택; 동남아·인도 등 fluoroquinolone 내성 Campylobacter 위험 지역에서는 azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(중등증 이상, 비침습성)</td><td>Azithromycin 1,000 ㎎ 단회<br>또는 500 ㎎ qd × 3일<br>Rifaximin 200 ㎎ tid × 3일 (대안)</td><td>경증에는 항생제 권고하지 않음. Rifaximin은 발열·혈변 없는 비침습성 설사에만 사용</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일<br>Ceftriaxone 1~2 g IV qd × 3~5일 (중증)</td><td>경증은 수액 치료만으로 호전 가능. 다제·광범위 내성 증가 → 치료 필요 시 배양 및 감수성검사에 따라 선택</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일</td><td>Fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증·고위험군 또는 증상 초기에 선별 사용</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 ㎎ 단회 (감수성일 때)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>중증 탈수·고배출 또는 입원 환자 등에서 항생제 고려. 적극적 수액 보충이 치료의 핵심; 감수성·임신 여부를 고려하여 항생제 선택</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>중증 감염, 면역 저하, 영아, ≥50세이면서 죽상경화증 의심, 판막성·혈관내 질환·중요 관절질환 등 침습성 감염 고위험군에서 치료; 감수성에 따라 ceftriaxone, azithromycin 또는 ciprofloxacin 선택</td></tr><tr><td><strong>STEC (O157:H7 등)</strong></td><td><strong>항생제 피함</strong></td><td>발열이 없거나 경미한 혈성 설사와 심한 복통 시 특히 의심; HUS 위험 때문에 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em></td><td>Vancomycin 경구 125 ㎎ qid × 10일 (초발, 비전격성)</td><td>중증도 분류·전격성·재발 치료는 아래 <a href="#cdi">CDI</a> 참조</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250 ㎎ tid 또는 500 ㎎ bid × 5~7일 <mark style="color:blue;">[후라시닐]</mark></td><td>Metronidazole의 Giardia 치료는 허가 외 사용; tinidazole 2 g 단회는 국제 지침 대안이나 국내 통상 유통 처방으로 제시하지 않음</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500~750 ㎎ tid × 7~10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin 등 luminal agent로 장내 낭종 제거 필요; 국내 이용 가능 여부 확인</td></tr></tbody></table>
 
 {% hint style="info" %}
 **fluoroquinolone 내성 현황**: 국내외적으로 _Campylobacter_와 _Shigella_에서 fluoroquinolone 내성이 크게 증가하고 있다. _Salmonella_에서도 fluoroquinolone 내성이 증가 추세이며, 특히 아시아 유래 균주에서 주의가 필요하다. 동남아·인도 여행 후 발생한 설사에서는 azithromycin을 경험적 1차 치료로 우선 고려하며, 단회 요법(doxycycline, ciprofloxacin 등)은 지역 내 내성률에 따라 효과가 다를 수 있으므로 참고한다.
@@ -296,25 +296,46 @@ flowchart TD
 {% hint style="info" %}
 **항생제 치료 실패·내성** : Azithromycin도 모든 균주에 유효한 것은 아님. XDR Shigella는 azithromycin·ciprofloxacin·ceftriaxone 등 여러 약제에 함께 내성일 수 있음. 항생제 투여 후 24~48시간 내 미호전 또는 악화 시 배양·감수성검사와 전문의 평가; 다른 비상약을 임의로 연속 복용하지 않음
 
-<mark style="color:$info;">근거: CDC. Emergence of Extensively Drug-Resistant Shigellosis—United States, 2011–2023. MMWR 2026. 미국 감시 결과의 내성 비율을 국내에 그대로 적용하지 않음.</mark>
+<mark style="color:$info;">근거: CDC. Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011–2023. MMWR 2026. 미국 감시 결과의 내성 비율을 국내에 그대로 적용하지 않음.</mark>
 {% endhint %}
 
-{% hint style="info" %}
-**CDI 중증도·최신 권고** : IDSA/SHEA 기준은 WBC ≥15,000/㎕ 또는 creatinine ＞1.5 ㎎/dL를 중증 판단에 사용함. AGA 2026 전문가 권고는 WBC ＞15,000/㎕ 또는 creatinine ＞기저치의 1.5배를 제시하여 신기능의 변화도 강조함. 기준이 서로 같지 않으므로 적용 지침을 명시하고 만성 신질환·탈수·백혈구감소증 등은 임상상과 함께 해석함. 비전격성 중증 CDI도 경구 vancomycin 125 ㎎ qid × 10일이며 IV vancomycin으로 대체하지 않음.
+* 항생제 안전성 : azithromycin은 저칼륨혈증·QT 연장 및 ondansetron 병용에 주의. Ciprofloxacin은 힘줄 손상·말초신경병증·중추신경계 이상·혈당 이상 등 위해와 신기능을 고려하며 대동맥류 고위험군·임부에서는 대안을 우선. Doxycycline은 12세 미만·임부·수유부 금기이므로 콜레라에서도 환자별 약제를 선택함
 
-AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin도 허용함. 국내 접근성을 고려하면 경구 vancomycin이 실무적 선택임. IDSA 2021의 metronidazole 제한적 대안과 달리 AGA 2026은 비전격성 CDI의 metronidazole 사용을 권하지 않음. 재발 시 이전 처방을 단순 반복하지 않고 vancomycin 감량·간헐 요법 및 전문기관 미생물군 복원 치료를 검토함; 해외 승인 미생물군 제제를 국내 통상 처방으로 제시하지 않음.
+#### <mark style="color:$primary;">C. difficile 감염 (CDI)</mark> <a href="#cdi" id="cdi"></a>
 
-<mark style="color:$info;">근거: IDSA/SHEA 2017·2021; Fischer M, et al. AGA Clinical Practice Update. Clin Gastroenterol Hepatol. 2026;24:2359–2369.</mark>
-{% endhint %}
+<table><thead><tr><th width="97">중증도</th><th width="217">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC ＜15,000/㎕ <strong>및</strong><br>혈청 Cr ≤1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코진]</mark></td></tr><tr><td><strong>중증</strong><br><strong>(비전격성)</strong></td><td>WBC ≥15,000/㎕ <strong>또는</strong><br>혈청 Cr ＞1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일<br>전격성 소견 없이 500 ㎎ qid로 일률적 증량하지 않음</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크, 장마비(ileus) 또는 독성거대결장</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가; 즉시 입원·외과 협진</td></tr></tbody></table>
 
-* 항생제 안전성 : azithromycin은 저칼륨혈증·QT 연장 및 ondansetron 병용에 주의. Ciprofloxacin은 힘줄 손상·말초신경병증·중추신경계 이상·혈당 이상 등 위해와 신기능을 고려하며 대동맥류 고위험군·임부에서는 대안을 우선. Doxycycline은 국내 허가상 12세 미만·임부·수유부 금기이므로 콜레라에서도 환자별 약제를 선택함
+> _위 표는 IDSA/SHEA 2017의 중증 지표(WBC ≥15,000/㎕ 또는 혈청 Cr ＞1.5 ㎎/dL)를 바탕으로 경계값의 중복을 피하도록 재구성한 것임. 원문에서는 비중증을 WBC ≤15,000/㎕ 및 Cr ＜1.5 ㎎/dL로 기술하여 WBC 15,000/㎕는 두 범주에 겹치고 Cr 1.5 ㎎/dL은 어느 범주에도 속하지 않음. AGA 2026은 WBC ＞15,000/㎕ 또는 Cr ＞기저치의 1.5배를 중증 지표로 제시하므로, 기저 Cr이 높은 CKD 환자와 기저 Cr이 낮은 환자에서 분류가 달라질 수 있음. 기준을 혼용하지 않고 혈역학적 상태·장기 기능·임상 경과를 함께 평가함._
+
+* 항생제·입원력이 없어도 지역사회 CDI가 가능하며, 장마비를 동반한 전격성 CDI에서는 설사가 뚜렷하지 않을 수 있음. 백혈구 반응이 약한 환자는 표의 기준만으로 중증도를 판단하지 않음
+
+**초기 치료 약제 선택**
+
+* Fidaxomicin 200 ㎎ bid × 10일이 비전격성 CDI의 우선 치료제이며, vancomycin 125 ㎎ qid × 10일도 적절한 대안임 <mark style="color:$info;">\[IDSA·SHEA 2021; AGA 2026]</mark>
+* 2024년 국내 설문에서는 fidaxomicin을 이용할 수 없다고 보고됨 <mark style="color:$info;">\[J Korean Med Sci 2026]</mark>. 따라서 처방례는 경구 vancomycin을 중심으로 제시하며, 이후 신규 허가·공급 여부는 해당 보고와 구분함
+* Metronidazole은 비전격성 CDI의 표준 초기치료제가 아님. IDSA 2017의 제한적 비중증 대안과 달리 AGA 2026은 비전격성 CDI에 사용하지 않도록 권고; 전격성 CDI에서는 IV 보조요법으로 사용
+
+**전격성 CDI**
+
+* 초기 요법(위 표) 중 고용량 vancomycin은 최소 초기 48시간 유지하고, 임상 호전 시(대개 3\~5일) 125 ㎎ qid 단독요법으로 감량 가능. 총 치료기간은 최소 10일(14일 선호) <mark style="color:$info;">\[AGA 2026]</mark>
+* 적극적 치료에도 48시간 후 호전이 없거나 악화되면 다학제 평가를 통해 FMT 또는 수술을 고려
+
+**치료 반응 평가**
+
+* 치료 시작 후 48\~72시간에 설사 횟수·복통·발열·혈역학적 상태·백혈구·신기능 등을 종합적으로 재평가. 호전이 없거나 악화되면 합병증, 치료 적절성 및 다른 원인을 평가
+* 장마비가 있는 전격성 CDI는 설사 횟수 감소만으로 호전으로 판단하지 않음
+
+**재발 CDI**
+
+* 첫 재발 : fidaxomicin 또는 vancomycin 감량·간헐(taper/pulse) 요법을 고려. 초치료 약제·재발 위험·이용 가능성을 반영하여 선택하며, fidaxomicin을 이용할 수 없으면 vancomycin 감량·간헐 요법 등을 고려 <mark style="color:$info;">\[IDSA·SHEA 2021; AGA 2026]</mark>
+* 반복 재발 : 감염내과·소화기내과 협진하여 FMT 등 미생물총 기반 재발 예방 치료를 평가. 재발 고위험군은 첫 재발부터 전문의 평가를 고려하며, 전격성·치료 불응 CDI에서의 구제 FMT와 구분. 해외 미생물총 제제의 국내 이용 가능성은 별도 확인. Bezlotoxumab은 판매 중단
 
 ### <mark style="color:orange;">장 운동 조절제</mark>
 
-* 이 장의 loperamide 용법은 면역 정상 성인에 한함. 국내 일부 소아 허가가 있으나 IDSA는 급성 설사의 18세 미만에 사용하지 않도록 권고함
+* 이 장의 loperamide 용법은 면역 정상 성인에 한함. 일부 소아 제형은 허가되어 있으나 IDSA는 급성 설사의 18세 미만에 사용하지 않도록 권고함
 * 일부 설사 횟수 감소 효과; 침습성 세균 감염(발열·혈성·점액성 변) 시 사용하지 않음
 * loperamide : 초회 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/24시간 <mark style="color:blue;">\[로프민]</mark>
-  * 국내 허가상 최대용량은 16 ㎎/일이나 이 책의 일반 외래·자가 치료 한도는 8 ㎎/일, 최대 2일; 혈변·발열·전신 독성·STEC 또는 CDI 의심·급성 중증 대장염·장폐색 위험 시 사용하지 않음
+  * 허가 최대용량은 16 ㎎/일이나 이 책의 일반 외래·자가 치료 한도는 8 ㎎/일, 최대 2일; 혈변·발열·전신 독성·STEC 또는 CDI 의심·급성 중증 대장염·장폐색 위험 시 사용하지 않음
   * 항생제 병용이 금기를 해제하지 않으며, 48시간 내 미호전 또는 복부 팽만·변비·심한 통증이면 중단·재평가 (☞ [여행자 설사](086_-travelers-diarrhea.md))
 
 ### <mark style="color:orange;">진경제</mark>
@@ -327,7 +348,7 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 ### <mark style="color:orange;">구토 조절제 (Antiemetics)</mark>
 
 * 심한 구토로 ORS 섭취가 어려울 때 제한적으로 고려; 성인 급성 위장관염에서 일상적 반복 처방 근거는 제한적
-* ondansetron : 4\~8 ㎎ PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark> (급성 위장관염 구토에는 국내 허가 외 사용)
+* ondansetron : 4\~8 ㎎ PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark> (급성 위장관염 구토에는 허가 외 사용)
   * 구토 조절을 통해 ORS 섭취를 도울 수 있으나 수액 치료를 대신하지 않음
   * QT 연장 위험이 있으므로 선천성 long-QT에서는 피하며, 서맥, 저칼륨혈증·저마그네슘혈증 또는 다른 QT 연장 약물 병용 시 주의; 설사가 증가할 수 있음. Apomorphine 병용 금기
 
@@ -349,10 +370,10 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 
 * diosmectite : 3 g (1포) tid, 식간 복용 <mark style="color:blue;">\[스타빅 현탁액]</mark>
   * 장 점막 보호, 독소·세균 흡착 효과
-  * 성인용; 만 19세 미만 소아·청소년은 사용하지 않으며 현행 국내 허가상 임부·임신 가능성이 있는 여성·수유부는 금기. 기존의 소아 급성 설사 적응증은 삭제됨
+  * 성인용; 만 19세 미만 소아·청소년은 사용하지 않으며 임부·임신 가능성이 있는 여성·수유부는 금기. 기존의 소아 급성 설사 적응증은 삭제됨
   * 다른 약제(항생제·프로바이오틱스 포함)의 흡수를 방해하므로 반드시 2시간 이상 간격 복용
 
-<mark style="color:$info;">허가: 식품의약품안전처 의약품안전평가과-4526호(2026. 7. 6), 대한병원협회 보험 2026-222 안내 — 소아 급성 설사 적응증 삭제, 만 19세 미만 소아·청소년 사용 제한.</mark>
+<mark style="color:$info;">허가: 식품의약품안전처 의약품안전평가과-4526호(2026. 7. 6), 대한병원협회 보험 2026-222 안내 - 소아 급성 설사 적응증 삭제, 만 19세 미만 소아·청소년 사용 제한.</mark>
 
 ### <mark style="color:orange;">Probiotics</mark>
 
@@ -378,25 +399,25 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 
 ## <mark style="color:red;">질병코드</mark>
 
-* A08 바이러스성 및 기타 명시된 장감염
-  * A08.0 로타바이러스 장염
-  * A08.1 Norwalk 인자에 의한 급성 위장병증
-* A09 감염성 및 상세불명 기원의 기타 위장염 및 결장염
-* A00 콜레라
-* A02 기타 Salmonella 감염
-* A03 Shigella증
-* A04 기타 세균성 장감염
-  * A04.1 장독소성 대장균 감염(ETEC)
-  * A04.3 장출혈성 대장균 감염
-  * A04.5 Campylobacter 장염
-  * A04.7 _Clostridium difficile_ 장염
-* A05 달리 분류되지 않은 기타 세균성 식중독
+* A00 콜레라 Cholera
+* A02 기타 살모넬라감염 Other salmonella infections
+* A03 시겔라증 Shigellosis
+* A04 기타 세균성 장감염 Other bacterial intestinal infections
+  * A04.1 장독소생산 대장균감염 Enterotoxigenic Escherichia coli infection
+  * A04.3 장출혈성 대장균감염 Enterohaemorrhagic Escherichia coli infection
+  * A04.5 캄필로박터장염 Campylobacter enteritis
+  * A04.7 클로스트리듐 디피실리에 의한 장결장염 Enterocolitis due to Clostridium difficile
+* A05 달리 분류되지 않은 기타 세균성 음식매개중독 Other bacterial foodborne intoxications, NEC
+* A08 바이러스성 및 기타 명시된 장감염 Viral and other specified intestinal infections
+  * A08.0 로타바이러스장염 Rotaviral enteritis
+  * A08.1 노로바이러스에 의한 급성 위장병증 Acute gastroenteropathy due to Norovirus
+* A09.0 감염성 기원의 기타 및 상세불명의 위장염 및 결장염 Other and unspecified gastroenteritis and colitis of infectious origin
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-* 처방 시 최신 품목정보·급여기준과 병용약을 확인. 아래 약물 처방례는 성인 기준이며 ORS·조기 정상 식이를 우선. 패혈증·장티푸스 의심·활력징후 불안정은 아래 외래 경구 처방으로 치료하지 않고 배양 후 즉시 입원·전원하여 적절한 전신 항생제 치료. 지사제·진경제·흡착제는 필요 증상에 따라 선택하며 모두 일괄 병용하는 표준 처방이 아님
+* 아래 약물 처방례는 성인 기준이며 ORS·조기 정상 식이를 우선. 패혈증·장티푸스 의심·활력징후 불안정은 아래 외래 경구 처방으로 치료하지 않고 배양 후 즉시 입원·전원하여 적절한 전신 항생제 치료. 지사제·진경제·흡착제는 필요 증상에 따라 선택하며 모두 일괄 병용하는 표준 처방이 아님
 
 > **처방례 1. 바이러스성·비혈성 설사, 발열(–), 경증**
 >
@@ -415,7 +436,7 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 > 　　　　　　　　　　　(이 책의 일반 외래·자가 치료 한도 4C/일, 최대 2일)
 > ```
 >
-> _✽ 성인 중등증 여행자 설사에서 이득·위해를 평가하여 선택한 항생제 처방례 (azithromycin은 국내 허가 외 사용). 경증에는 항생제 불필요. Loperamide는 초회 4 ㎎, 이후 묽은 변마다 2 ㎎, 이 책의 일반 외래·자가 치료 한도 8 ㎎/일·최대 2일. 발열·혈변 발생 시 중단·재평가. 비침습성으로 판단되면 rifaximin 200 ㎎ tid × 3일도 대안이며 ciprofloxacin은 지역 감수성·이상반응 위험을 반영한 대체 옵션. ORS가 어려운 구토는 QT 위험을 확인하여 ondansetron 선택적 고려._
+> _✽ 성인 중등증 여행자 설사에서 이득·위해를 평가하여 선택한 항생제 처방례 (azithromycin은 허가 외 사용). 경증에는 항생제 불필요. Loperamide는 초회 4 ㎎, 이후 묽은 변마다 2 ㎎, 이 책의 일반 외래·자가 치료 한도 8 ㎎/일·최대 2일. 발열·혈변 발생 시 중단·재평가. 비침습성으로 판단되면 rifaximin 200 ㎎ tid × 3일도 대안이며 ciprofloxacin은 지역 감수성·이상반응 위험을 반영한 대체 옵션. ORS가 어려운 구토는 QT 위험을 확인하여 ondansetron 선택적 고려._
 
 > **처방례 3. 경험적 항생제 적응증에 해당하는 중증 침습성 설사**
 >
@@ -424,15 +445,15 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 > 타이레놀정 500 ㎎/T　1T　6시간 간격 필요시 (이 예시 최대 4T/일)
 > ```
 >
-> _✽ 활력징후가 안정되고 경구 섭취가 가능한 성인에서 발열·복통·뒤무직을 동반한 전형적인 세균성이질 등 경험적 치료 적응증을 확인하여 선택함. 패혈증·장티푸스 의심·중증 면역 저하자의 전신감염은 이 외래 처방을 적용하지 않고 입원 치료함. Azithromycin의 장염 치료는 국내 허가 외 사용임. **loperamide는 사용하지 않음**. STEC 의심(혈성 설사 + 심한 복통; 무발열·미열에서 특히 의심하되 발열로 배제하지 않음) 시 항생제 투여를 보류하고 Shiga toxin 검사를 시행함. 고열 지속·패혈증 징후 시 혈액 배양 및 전문의 의뢰._
+> _✽ 활력징후가 안정되고 경구 섭취가 가능한 성인에서 발열·복통·뒤무직을 동반한 전형적인 세균성이질 등 경험적 치료 적응증을 확인하여 선택함. 패혈증·장티푸스 의심·중증 면역 저하자의 전신감염은 이 외래 처방을 적용하지 않고 입원 치료함. Azithromycin의 장염 치료는 허가 외 사용임. **loperamide는 사용하지 않음**. STEC 의심(혈성 설사 + 심한 복통; 무발열·미열에서 특히 의심하되 발열로 배제하지 않음) 시 항생제 투여를 보류하고 Shiga toxin 검사를 시행함. 고열 지속·패혈증 징후 시 혈액 배양 및 전문의 의뢰._
 
-> **처방례 4. C. difficile 감염 (초발, 비전격성)**
+> **처방례 4. 확인된 초발 _C. difficile_ 감염 (비전격성)**
 >
 > ```
-> 반코마이신캡슐 125 ㎎/C　1C　qid × 10일
+> 반코진캡슐 125 ㎎/C　1C  qid  ×10일
 > ```
 >
-> _✽ 임상적으로 의미 있는 설사와 검사 결과가 일치하는 초발 CDI에서 사용함. NAAT 양성·독소 음성의 불일치 결과는 보균으로 단정하지 말고 임상적 감염 가능성을 함께 판단함. 불필요한 원인 항생제는 가능하면 중단함. Severe CDI(본문 중증도 기준 참조)도 vancomycin 125 ㎎ qid를 사용하며, 500 ㎎ qid로 증량하지 않음. **Fulminant CDI**(저혈압·쇼크, 장마비 또는 독성거대결장)는 입원하여 vancomycin 500 ㎎ PO/NG qid + metronidazole 500 ㎎ IV q8h 및 외과 협진이 필요함. Fidaxomicin 200 ㎎ bid × 10일은 국제 지침상 조건부 우선 권고이나 2026년 국내 발표 문헌은 높은 비용·제한된 접근성을 설명함. 이를 현재의 절대적 이용 불가로 해석하지 않으며 허가·도입·공급 가능성을 별도 확인._
+> _✽국내 이용 가능한 경구 vancomycin을 사용한 성인 초발 비전격성 CDI 처방례. 임상적으로 의미 있는 설사와 검사 결과가 일치할 때 사용하며, NAAT 양성·독소 음성의 불일치 결과는 보균으로 단정하지 말고 임상적 감염 가능성을 함께 판단함. 중증(WBC ≥15,000/㎕ 또는 Cr ＞1.5 ㎎/dL)도 같은 용량을 사용. 불필요한 원인 항생제를 중단하거나 범위를 축소. 첫 재발은 이전 치료·재발 위험·이용 가능한 약제를 고려하여 전문의와 치료를 결정. 전격성(저혈압·쇼크, 장마비, 독성거대결장)은 즉시 입원하여 vancomycin 500 ㎎ PO/NG qid + metronidazole 500 ㎎ IV q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가 및 외과 협진. Fidaxomicin의 국제 지침상 권고와 국내 이용 가능성은 위 본문(CDI) 참조._
 
 ***
 
@@ -444,7 +465,7 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 4. **흡착제(스타빅·diosmectite)**: **다른 모든 약과 2시간 이상 간격**을 두고 반드시 따로 복용하세요 - 다른 경구약의 흡수를 방해할 수 있습니다. 만 19세 미만 소아·청소년, 임산부·임신 가능성이 있는 분, 수유 중인 분은 복용하지 마세요.
 5. **프로바이오틱스(비오플 등)**: 급성 설사에 반드시 필요한 약은 아닙니다. 복용하는 경우 흡착제와 2시간 이상 간격을 두세요. _S. boulardii_ 제품은 항진균제와 함께 복용하지 마세요.
 6. **식사**: 금식하지 말고 죽·삶은 감자·토스트 등 소화 쉬운 음식을 소량씩 드세요. 견딜 수 있는 평소 음식으로 빨리 돌아가세요. 유제품은 먹은 뒤 증상이 심해질 때만 일시적으로 줄이고, 기름진 음식·커피·알코올도 증상을 악화하면 피하세요.
-7. **CDI 치료약**: 경구 vancomycin은 정해진 1일 4회·10일을 지키고, 다른 설사약·퀘스트란 같은 담즙산 결합제를 임의로 추가하지 마세요. 심한 팽만·복통·발열 또는 치료 후 재발은 바로 알리세요. 완치 확인용 대변 검사는 보통 필요하지 않습니다.
+7. **CDI의 경구 vancomycin은 처방된 1일 4회·10일을 지키세요.** 설사가 좋아져도 임의 중단하지 말고, 누락분을 한꺼번에 두 배로 먹지 마세요. 심한 팽만·복통, 발열·어지럼·소변량 감소 또는 재발은 바로 알리세요. 치료 후 완치 확인용 대변 검사는 보통 필요하지 않습니다. 퀘스트란 등 담즙산 결합제를 임의로 함께 먹지 마세요.
 8. **손 위생**: 화장실 이용 후 반드시 **비누와 물로 20초 이상** 손을 씻어 가족에게 옮기지 않도록 주의하세요.
 
 ***
@@ -453,51 +474,55 @@ AGA 2026은 비전격성 CDI에서 fidaxomicin을 우선하고 경구 vancomycin
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* <mark style="color:$info;">Kim YJ, et al. Guideline for the Antibiotic Use in Acute Gastroenteritis. Infect Chemother. 2019;51:217–243. — 국내 성인 지침</mark>
+* <mark style="color:$info;">Kim YJ, et al. Guideline for the Antibiotic Use in Acute Gastroenteritis. Infect Chemother. 2019;51:217–243. - 국내 성인 지침</mark>
 
 [https://doi.org/10.3947/ic.2019.51.2.217](https://doi.org/10.3947/ic.2019.51.2.217)
 
-* <mark style="color:$info;">Fischer M, et al. AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review. Clin Gastroenterol Hepatol. 2026;24:2359–2369. — 진단·치료·재발 예방에 관한 전문가 권고</mark>
+* <mark style="color:$info;">Fischer M, et al. AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review. Clin Gastroenterol Hepatol. 2026;24:2359–2369. - 진단·치료·재발 예방에 관한 전문가 권고</mark>
 
 [https://doi.org/10.1016/j.cgh.2026.05.007](https://doi.org/10.1016/j.cgh.2026.05.007)
 
-* <mark style="color:$info;">CDC. Food Poisoning Symptoms; Cryptosporidium·Cyclospora Symptoms; How to Prevent Norovirus. — 잠복기 및 전파 예방</mark>
+* <mark style="color:$info;">McDonald LC, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by IDSA and SHEA. Clin Infect Dis. 2018;66(7):e1-e48. - CDI 중증도 기준, 소아 검사 제한</mark>
+
+[https://doi.org/10.1093/cid/cix1085](https://doi.org/10.1093/cid/cix1085)
+
+* <mark style="color:$info;">CDC. Food Poisoning Symptoms; Cryptosporidium·Cyclospora Symptoms; How to Prevent Norovirus. - 잠복기 및 전파 예방</mark>
 
 [식중독 증상](https://www.cdc.gov/food-safety/signs-symptoms/index.html) · [Cryptosporidium](https://www.cdc.gov/cryptosporidium/signs-symptoms/index.html) · [Cyclospora](https://www.cdc.gov/cyclosporiasis/signs-symptoms/) · [Norovirus 예방](https://www.cdc.gov/norovirus/prevention/index.html)
 
 
-* <mark style="color:$info;">IDSA. 2017 Infectious Diarrhea Clinical Practice Guideline. — 검사·STEC·항생제·수분 보충 원칙</mark>
+* <mark style="color:$info;">IDSA. 2017 Infectious Diarrhea Clinical Practice Guideline. - 검사·STEC·항생제·수분 보충 원칙</mark>
 
 [https://www.idsociety.org/practice-guideline/infectious-diarrhea/](https://www.idsociety.org/practice-guideline/infectious-diarrhea/)
 
-* <mark style="color:$info;">IDSA·SHEA. 2021 Focused Update: Management of Clostridioides difficile Infection in Adults. — 항생제 선택과 재발 치료</mark>
+* <mark style="color:$info;">IDSA·SHEA. 2021 Focused Update: Management of Clostridioides difficile Infection in Adults. - 항생제 선택과 재발 치료</mark>
 
 [https://doi.org/10.1093/cid/ciab549](https://doi.org/10.1093/cid/ciab549)
 
-* <mark style="color:$info;">Moon JM, et al. Clinical Approaches to Clostridioides difficile Infection Management: Insights From a Nationwide Survey of Korean Physicians. J Korean Med Sci. 2026;41:e150. — 국내 치료 접근성·진료 현황; 설문은 2024년 시행</mark>
+* <mark style="color:$info;">Moon JM, et al. Clinical Approaches to Clostridioides difficile Infection Management: Insights From a Nationwide Survey of Korean Physicians. J Korean Med Sci. 2026;41(21):e150. - 국내 치료 접근성·진료 현황; 설문은 2024년 시행</mark>
 
 [https://doi.org/10.3346/jkms.2026.41.e150](https://doi.org/10.3346/jkms.2026.41.e150)
 
-* <mark style="color:$info;">CDC Yellow Book 2026. Travelers’ Diarrhea. — 기능적 중증도·항생제·자가 치료 및 예방</mark>
+* <mark style="color:$info;">CDC Yellow Book 2026. Travelers’ Diarrhea. - 기능적 중증도·항생제·자가 치료 및 예방</mark>
 
 [https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 
-* <mark style="color:$info;">CDC. Emergence of Extensively Drug-Resistant Shigellosis—United States, 2011–2023. MMWR. 2026. — 치료 실패 시 배양·감수성검사 필요성</mark>
+* <mark style="color:$info;">CDC. Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011–2023. MMWR. 2026. - 치료 실패 시 배양·감수성검사 필요성</mark>
 
 [https://www.cdc.gov/mmwr/volumes/75/wr/mm7513a1.htm](https://www.cdc.gov/mmwr/volumes/75/wr/mm7513a1.htm)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* <mark style="color:$info;">한국화이자제약. 지스로맥스정250㎎ 제품설명서 (2026.1.27 개정). — 제품 함량 및 국내 적응증; 감염성 설사는 허가 외 사용</mark>
+* <mark style="color:$info;">한국화이자제약. 지스로맥스정250㎎ 제품설명서 (2026.1.27 개정). - 제품 함량 및 국내 적응증; 감염성 설사는 허가 외 사용</mark>
 
-* <mark style="color:$info;">식품의약품안전처 의약품안전평가과-4526 (2026.7.6), 대한병원협회 보험 2026-222 안내. — 스타빅 등 5품목의 소아 관련 허가 변경</mark>
+* <mark style="color:$info;">식품의약품안전처 의약품안전평가과-4526 (2026.7.6), 대한병원협회 보험 2026-222 안내. - 스타빅 등 5품목의 소아 관련 허가 변경</mark>
 
 
-* <mark style="color:$info;">식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회</mark>
+* <mark style="color:$info;">식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
 
 [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
 
-* <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보 — 임상 권고와 국내 허가·급여를 구분하여 적용</mark>
+* <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보 - 임상 권고와 허가·급여를 구분하여 적용</mark>
 
 [https://www.hira.or.kr](https://www.hira.or.kr)
 
