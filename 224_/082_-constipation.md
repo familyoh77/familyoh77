@@ -129,6 +129,24 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["변비 초기 평가"] --> B["Red Flags 즉각 조치 항목?"]
+    B -- "예" --> E["<u>응급 평가·안정화</u><br/>•장폐색·천공·대량 출혈 등 <br/>평가<br/>•응급 이송 또는 즉시 의뢰"]
+    B -- "아니오" --> C["Red Flags 당일~수일 내 <br/>평가 항목?"]
+    C -- "예" --> F["<u>긴급도에 맞춘 원인 평가</u><br/>•필요시 내시경·영상검사<br/>•원인 치료 후 변비 재평가"]
+    C -- "아니오" --> D["분변매복?"]
+    D -- "예" --> G["<u>매복 해소 후 유지치료</u><br/>•위치·장폐색 여부 확인<br/>•수지 제거·좌약·관장 <br/>또는 PEG 세척"]
+    D -- "아니오" --> H["2차 원인·복용약 검토 후<br/>단계적 치료 알고리듬 적용"]
+    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef test fill:#e8f5e9,stroke:#81c784
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    classDef danger fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class A neutral
+    class B,C,D question
+    class F test
+    class G,H treatment
+    class E danger
 ```
 
 <p align="center"><strong>변비 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Seoul Consensus 2022; AGA 2026)</mark></em></p>
@@ -136,6 +154,36 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["경고 징후·분변매복·<br/>2차 원인 평가 후"] --> B["Opioid 유발 변비?"]
+    B -- "예" --> C["일반 하제: <br/>삼투성 또는 자극성"]
+    C --> D["반응 충분?"]
+    D -- "예" --> Z1["치료 유지·추적"]
+    D -- "아니오" --> E["전문진료: <br/>OIC 표적 치료 검토"]
+    B -- "아니오" --> F["배변장애 강력 의심?"]
+    F -- "예" --> G["ARM + BET 평가"]
+    F -- "아니오" --> H["생활습관·수용성 섬유 <br/>또는 PEG"]
+    H --> I["적절한 초기 하제에도 지속?"]
+    I -- "아니오" --> Z2["치료 유지·추적"]
+    I -- "예" --> J["순응도·용량·<br/>2차 원인 재평가"]
+    J --> G
+    G --> K["배변협동장애 확인?"]
+    K -- "예" --> L["바이오피드백 우선 <br/>± 하제"]
+    K -- "아니오" --> M["하제 최적화·병용 <br/>± prucalopride"]
+    L --> N["증상 지속?"]
+    M --> N
+    N -- "아니오" --> Z3["최소 유효 치료·추적"]
+    N -- "예" --> O["<u>전문의 평가</u><br/>•필요시 대장 통과 검사·<br/>배변조영<br/>•난치성 원인 및 치료 재평가"]
+    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef test fill:#e8f5e9,stroke:#81c784
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    classDef next fill:#e8eaf6,stroke:#9fa8da
+    class A neutral
+    class B,D,F,I,K,N question
+    class G,J test
+    class C,H,L,M,Z1,Z2,Z3 treatment
+    class E,O next
 ```
 
 <p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA-ACG 2023; AGA 2026; Rome V 2026)</mark></em></p>
@@ -144,10 +192,13 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* 치료 목표 : 편안한 자발적 완전 배변, 적절한 대변 굳기(Bristol stool scale 3\~4), 힘주기·폐쇄감 감소 및 환자 만족도 향상
-* 치료 단계
+### <mark style="color:orange;">치료 목표</mark>
 
-1. 설명 및 안심 : 매일 배변할 필요는 없으며, 배변 횟수뿐 아니라 대변 굳기·힘주기·불완전 배출감과 일상생활의 불편을 함께 평가함을 설명
+* 편안한 자발적 완전 배변, 적절한 대변 굳기(Bristol stool scale 3\~4), 힘주기·폐쇄감 감소 및 환자 만족도 향상
+
+### <mark style="color:orange;">치료 단계</mark>
+
+1. 설명 및 안심 : 배변을 매일 할 필요는 없으며, 배변 횟수뿐 아니라 대변 굳기·힘주기·불완전 배출감과 일상생활의 불편을 함께 평가함을 설명
 2. Fecal impaction이 있는 경우 : 위치와 장폐색 여부를 평가한 뒤 수지 제거·좌약·관장 또는 PEG 세척요법으로 먼저 해결
 3. 기저 원인 파악 및 관리 : 변비 유발 약물 복용 확인 및 회피, 정신사회적 문제 및 기저 질환 관리
 4. 생활습관 교정 : 식이 및 행동 개선
@@ -181,34 +232,38 @@
 
 ### <mark style="color:orange;">식이 개선</mark>
 
-* 충분한 수분 섭취 : 탈수 상태인 경우 수분 섭취 증가가 효과적
-  * 정상 수화 상태에서 수분 증가만으로 배변 호전 효과는 제한적
-*   식이 섬유 섭취 증가 : 음식과 보충제를 합한 총량 20\~30 g/d를 초기 임상 목표로 참고하되 기존 섭취량·증상·내약성에 따라 조정함. Normal transit constipation에서 효과가 좋으며, 일반인의 KDRI 충분섭취량이나 일률적 상한을 뜻하지 않음
-
-    * 식이 섬유는 대변량과 수분 보유를 증가시킬 수 있음; IBS-C에서는 불용성 섬유(밀기울 등)가 복부 팽만·통증을 악화시킬 수 있으므로 수용성·점성 섬유(psyllium)를 우선 섭취
-    * 수용성 섬유 식품 : 귀리, 보리, 콩류, 사과·감귤류의 펙틴 등 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
-    * 불용성 섬유 식품 : 전곡류, 짙은 색 채소, 단단한 줄기, 밀기울, 사과/배의 껍질, 감자류
-    * 복부 팽만·가스 유발 가능 - 7\~10일에 걸쳐 점진적으로 증량, 불편하면 일시 감량
-
-    ✽연구된 섬유 보충제 중 psyllium(차전자피)의 효과 근거가 가장 분명함
-* 일반적인 고섬유식 전체의 변비 개선 근거는 제한적이므로 섬유 종류·내약성을 함께 평가; 심한 서행성 변비에서는 효과가 제한적이며 분변매복·장관 협착/폐쇄에서는 증상 악화 가능
-* 키위 : 껍질을 벗긴 키위 2\~3개/d를 최소 4주 시도 가능; 차전자피로 가스·팽만이 불편한 경우 식이 선택지로 고려. 껍질 섭취의 추가 효과는 확립되지 않음 <mark style="color:$info;">\[BDA 2025]</mark>
-* 프룬은 개인별 식이 선택지로 시도할 수 있으나 psyllium과의 동등성·우월성이 확립된 것은 아님. 호밀빵은 팽만 등 내약성, 고미네랄수는 연구 제품의 미네랄 조성·함량을 고려하며 모든 생수에 동일한 효과를 기대하지 않음
-* 특정 음식을 일률적으로 금지하기보다 개인별로 증상을 악화시키는 음식과 전체 식이 섬유 섭취량을 확인
+* 충분한 수분 섭취 : 수분 섭취가 부족한 경우 섭취를 늘리는 것이 도움이 됨
+  * 이미 충분히 마시고 있다면 수분만 더 늘려서는 배변 개선 효과가 제한적
+  * 식이 섬유를 늘릴 때는 수분도 함께 충분히 섭취
+* 식이 섬유 섭취 : 음식과 보충제를 합하여 총량 20\~30 g/d를 초기 목표로 참고하되, 기존 섭취량·증상·내약성에 따라 조정
+  * Normal transit constipation에서 효과적
+  * 식이 섬유는 대변량과 수분 보유를 증가시킬 수 있음; IBS-C에서는 불용성 섬유(밀기울 등)가 복부 팽만·통증을 악화시킬 수 있으므로 수용성·점성 섬유(psyllium)를 우선 섭취
+  * 수용성 섬유 식품 : 귀리, 보리, 콩류, 사과·감귤류의 펙틴 등 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
+  * 불용성 섬유 식품 : 전곡류, 짙은 색 채소, 단단한 줄기, 밀기울, 사과/배의 껍질, 감자류
+  * 복부 팽만·가스 유발 가능 - 7\~10일에 걸쳐 점진적으로 증량, 불편하면 일시 감량
+* 연구된 섬유 보충제 중에는 [psyllium](073_-gidrugs.md#bulk-forming)(차전자피)의 효과 근거가 가장 분명함
+* 키위 : 껍질을 벗긴 키위 2\~3개/d를 최소 4주 시도 가능. 껍질 섭취의 추가 효과는 확립되지 않음 <mark style="color:$info;">\[BDA 2025]</mark>; psyllium으로 가스·팽만이 불편한 경우 식이 선택지로 고려
+* 프룬 : 개인별 식이 선택지로 시도할 수 있으나, psyllium과 같거나 더 낫다는 근거는 확립되지 않음
+* 호밀빵 : 배변 횟수를 늘릴 수 있으나 연구 섭취량(6\~8조각/d)이 많고 복부 팽만 등 위장관 증상을 악화시킬 수 있어 내약성을 확인
+* 고미네랄수 : 연구에 쓰인 제품은 마그네슘·황산염 함량이 높은 물로, 일반 생수에 같은 효과를 기대하지 않음
+* 일반적인 고섬유식 전체의 변비 개선 근거는 제한적이므로 섬유 종류·내약성을 함께 평가
+  * 심한 서행성 변비에서는 효과가 제한적이며 분변매복·장관 협착/폐쇄에서는 증상 악화 가능
 * 복부 팽만 동반 변비 / IBS-C 중복 환자 : 식이 섬유를 갑자기 과량 증량하지 않고 psyllium을 소량부터 시도; 저FODMAP 식이는 팽만·복통 완화를 위해 제한적으로 고려하며 단기간 제한 후 단계적으로 재도입
+* 특정 음식을 일률적으로 금지하기보다 개인별로 증상을 악화시키는 음식과 전체 식이 섬유 섭취량을 확인
 
 ### <mark style="color:orange;">행동 개선</mark>
 
-* 배변 훈련 : 위결장 반사(gastrocolic reflex)를 이용해 아침 식사 후 편안한 상태에서 배변 시도; 변의가 생기면 미루지 않으며 배변되지 않으면 오래 앉아 반복적으로 힘주지 않음
-  * 과도한 힘주기는 치핵·항문열상 위험을 높임
+* 배변 훈련 : 대장 운동이 가장 활발한 아침 식사 후 편안한 상태에서 배변 시도
 * 배변 자세 : 양변기가 높은 경우 발판을 이용해 무릎 관절 및 고관절이 예각이 되도록(squat position 유사) → 항문직장각 개선
+* 변의가 생기면 미루지 않으며 배변되지 않으면 오래 앉아 반복적으로 힘주지 않음
+* 과도한 힘주기는 치핵·항문열상 위험을 높임을 설명
 * 규칙적 운동 : 걷기 등 활동을 유지하도록 권고; 변비 개선 효과는 개인차가 있으며 단독 치료 효과의 근거는 제한적
 
 ### <mark style="color:orange;">바이오피드백</mark>
 
 * 적응 : 객관적인 검사로 확인한 배변협동장애(dyssynergic defecation)
-* 방법 : 항문 괄약근의 비정상적 수축 패턴을 실시간으로 인지하고 교정하는 훈련
 * 근거 : 배변장애형 변비에서 하제 단독보다 우월한 효과; 배변장애가 확인되면 1차 치료로 권고
+* 방법 : 항문 괄약근의 비정상적 수축 패턴을 실시간으로 인지하고 교정하는 훈련
 * slow-transit constipation과 배변협동장애가 병존하는 경우 바이오피드백 + 하제 병용
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
@@ -224,55 +279,61 @@
 * OIC (opioid 유발 변비) : 일반 하제를 우선하며 반응이 불충분하면 전문진료에서 표적 치료 검토; 아래 PAMORA는 해외 치료 선택지로 구분
 {% endhint %}
 
-* 생활 습관 교정에 반응하지 않는 변비에 간헐적 또는 장기적 약물 투여 가능
-* 하제 장기 사용 : 적응에 맞게 최소 유효용량을 사용하고 효과·부작용을 정기적으로 평가; 자극성 하제가 장 신경을 손상시킨다는 명확한 근거는 없으나 장기 안전성 자료는 제한적
+* 생활 습관 교정에 반응하지 않는 변비에 간헐적 또는 장기적 약물 투여 고려
 * 편안한 자발적 완전 배변과 적절한 대변 굳기가 일정 기간 유지되면 개별적으로 tapering 고려
-* 마그밀·마그밀에스는 신장애 환자에게 금기이므로 PEG 등 대체제 선택. 신기능이 정상이어도 고령·장운동 저하·장기 고용량 투여 시 고마그네슘혈증 주의
-* 말기암·완화의료 환자 : 부피 형성 하제는 분변매복 위험 때문에 대개 피하고, 자극성 하제 ± 삼투성 하제를 증상과 섭취 상태에 맞게 사용
-* 임신 중 고려할 수 있는 치료 : 식이·수분·활동 조절을 우선하고 불충분하면 차전자피 단일성분 제제, lactulose 또는 PEG를 필요에 따라 고려. 충분한 물과 함께 사용하며 복합제·장정결제에 동일하게 적용하지 않음; 반응이 불충분하면 원인 재평가 후 임신 중 사용 조건을 충족하는 자극성 하제의 단기 구제요법을 선택적으로 고려. 무조건적인 안전성을 뜻하지 않으며 필요한 최소 용량·기간으로 사용 <mark style="color:$info;">\[UKTIS 2026]</mark>
-* 수유 중 고려할 수 있는 치료 : 임신과 별도로 판단. 만삭·건강한 영아를 수유하는 경우 차전자피·lactulose·PEG를 고려할 수 있으며, 삼투성 하제 사용 시 영아의 설사·구토·보챔을 관찰; 복합제 성분과 개별 품목의 수유 중 사용 조건을 구분 <mark style="color:$info;">\[NHS SPS 2023]</mark>
+* 하제 장기 사용 : 적응에 맞게 최소 유효용량을 사용하고 효과·부작용을 정기적으로 평가
+  * 자극성 하제가 장 신경을 손상시킨다는 명확한 근거는 없으나 장기 안전성 자료는 제한적
+* 말기암·완화의료 환자에서 부피 형성 하제는 분변매복 위험 때문에 대개 피하고, 자극성 하제 ± 삼투성 하제를 증상과 섭취 상태에 맞게 사용
 
-### <mark style="color:orange;">Probiotics 및 장내 미생물</mark>
+<mark style="color:cyan;">**임신 중 고려할 수 있는 치료**</mark>
 
-* 균주·제품별 효과가 일정하지 않아 일률적인 일차치료로 권고하기 어려우나, 일부 환자에서 보조적으로 고려 가능; 일상적 하제 치료를 대체하지 않음 <mark style="color:$info;">\[Seoul Consensus 2022; BDA 2025]</mark>
-* 장내 미생물과 변비의 연관성
-  * 일부 만성 변비 환자에서 dysbiosis 관찰 (Bifidobacterium 감소, methane 생성 archaea 증가)
-  * Methane-associated constipation : methane 생성 증가와 장 통과 지연의 연관성이 보고되었으나, 연관성만으로 장내 메탄생성균 과증식(IMO)을 진단하지 않으며 호기검사를 만성 변비에서 일률적으로 시행하지 않음
-  * 분변미생물 이식 등 microbiome-targeted therapy는 연구 중이며 만성 변비의 일상적 치료로 확립되지 않음
-* 유산균 음료의 효과는 균주·용량과 함께 식이 섬유·당류 등 다른 함유물의 영향을 함께 평가
+* 식이·수분·활동 조절을 우선
+* 필요하면 차전자피 단일 성분 제제(충분한 물과 함께), lactulose 또는 PEG를 고려; 복합제·장정결제는 이 권고에 해당하지 않음
+* 반응이 불충분하면 원인을 재평가한 뒤 bisacodyl·senna 등 자극성 하제를 필요한 최소 용량으로 단기간 구제요법으로 사용 <mark style="color:$info;">\[UKTIS 2026]</mark>
+
+<mark style="color:cyan;">**수유 중 고려할 수 있는 치료**</mark>
+
+* 만삭·건강한 영아를 수유하는 경우 차전자피, lactulose, PEG를 고려할 수 있음
+* 하제 사용 중 영아의 설사·구토·보챔을 관찰
+* 복합제는 성분별로 수유 중 사용 가능 여부를 따로 확인 <mark style="color:$info;">\[NHS SPS 2023]</mark>
 
 ### <mark style="color:orange;">부피 형성 하제 (Bulk-forming laxatives)</mark>
 
 <mark style="color:$primary;">**Psyllium (차전자피)**</mark>
 
 * AGA-ACG 2023의 조건부 권고 대상은 섬유 보충제이며, 평가된 보충제 중 psyllium의 효과 근거가 가장 분명함
-* 200 ㎖ 이상의 충분한 수분과 함께 복용; 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
+* 200 ㎖ 이상의 충분한 수분과 함께 복용
+  * 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
 * 부작용 : 복부 가스, 팽만 (보통 수일 내 감소)
-* <mark style="color:blue;">\[아기오과립]</mark> 6 g/P 1\~2P qd 저녁 식후; 차전자·차전자피 함유 제제로 순수 차전자피 6 g과 같지 않음. 씹지 말고 물 1\~2컵과 함께 복용하며 취침 직전·누운 자세 복용 금지
-* 아기오는 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하여 차전자피 단일제와 용량을 동일하게 환산하지 않음. 심한 당뇨병에서는 금기이며, 장운동 억제 지사제 및 다른 하제와 병용하지 않음 <mark style="color:$info;">\[품목 허가사항]</mark>
+* <mark style="color:blue;">\[아기오과립]</mark> 6 g/P 1\~2P qd 저녁 식후. 씹지 말고 물 1\~2컵과 함께 복용. 취침 직전·누운 자세 복용 금지
+  * 아기오는 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며, 차전자피 단일제와 용량을 동일하게 환산하지 않음. 심한 당뇨병에서는 금기이며, 장운동 억제 지사제 및 다른 하제와 병용하지 않음
 
 ### <mark style="color:orange;">삼투성 하제 (Osmotic laxatives)</mark>
 
 <mark style="color:$primary;">**Polyethylene glycol (PEG 3350)**</mark>
 
-* 효과·내약성 및 유지치료 근거가 축적된 삼투성 하제 (AGA-ACG 2023 strong recommendation)
-* 반응과 내약성을 평가하면서 장기 유지 치료에 사용 가능; 첫 사용 후 약 1주에도 호전이 없으면 중단하고 재평가
+* 효과·내약성 및 유지치료 근거가 축적된 삼투성 하제 (강한 권고) <mark style="color:$info;">\[AGA-ACG 2023]</mark>
 * 장내 흡수가 거의 없어 전신 노출이 적음; 임신 중 사용은 위의 별도 항목 참조
+* 첫 사용 후 약 1주에도 호전이 없으면 중단하고 재평가
+* 반응과 내약성을 평가하면서 장기 유지 치료 사용 가능
 * 부작용 : 복부 팽만, 무른 변, 복부 가스, 구역 (용량 의존)
-* <mark style="color:blue;">\[마이락스산]</mark> PEG 3350 17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용하며 식사와 무관; 보통 1\~4일 내 효과 (비급여)
+* <mark style="color:blue;">\[마이락스산]</mark> PEG 3350 17 g/P 1P qd. 약 240 ㎖의 물이나 음료에 녹여 가급적 아침에 복용. 식사와 무관
+  * 보통 1\~4일 내 효과 (비급여)
 * 다른 경구약의 흡수 감소·지연 가능성 때문에 2시간 이상 간격을 둠
 
 <mark style="color:$primary;">**Magnesium hydroxide · Magnesium oxide**</mark>
 
-* 삼투압 기전으로 장내 수분을 증가시킴; 저용량부터 대변 굳기·빈도와 이상반응에 따라 조절
+* 기전 : 삼투압 기전으로 장내 수분을 증가시킴
+* 저용량부터 대변 굳기·빈도와 이상반응에 따라 조절
 * 수산화마그네슘\[Mg(OH)₂] : <mark style="color:blue;">\[마그밀]</mark> 500 ㎎/T; 예: 2T/d를 2회 분복하여 시작 후 반응에 따라 조절
 * 산화마그네슘(MgO) : <mark style="color:blue;">\[마그밀에스]</mark> 250 ㎎/T; 500\~1,000 ㎎/d 등 저용량으로 시작
-* 두 성분은 동일 중량으로 환산하지 않음. AGA-ACG 2023의 조건부 권고는 MgO에 대한 근거이며 수산화마그네슘에 그대로 적용하지 않음 <mark style="color:$info;">\[AGA-ACG 2023]</mark>
-* 마그밀·마그밀에스는 신장애 환자에게 금기이며 eGFR ＜30인 경우로 한정하지 않음. PEG 등 대체제를 선택. 고령·고용량 또는 장기 사용·장운동 저하에서도 고마그네슘혈증에 주의하고 신기능·혈청 Mg 확인 고려
+  * 위두 성분은 동일 중량으로 환산하지 않음. AGA-ACG 2023의 조건부 권고는 MgO에 대한 근거이며 수산화마그네슘에 그대로 적용하지 않음 <mark style="color:$info;">\[AGA-ACG 2023]</mark>
+* <mark style="color:blue;">마그밀·마그밀에스</mark>는 신장애 환자에게 금기이며 eGFR ＜30인 경우로 한정하지 않음. PEG 등 대체제를 선택. 고령·고용량 또는 장기 사용·장운동 저하에서도 고마그네슘혈증에 주의하고 신기능·혈청 Mg 확인 고려
 
 <mark style="color:$primary;">**Lactulose**</mark>
 
-* 비흡수성 이당류; 결장 세균에 의해 발효되어 삼투압 증가
+* 비흡수성 이당류
+* 기전 : 결장 세균에 의해 발효되어 삼투압 증가
 * PEG에 반응하지 않거나 불내성이 있는 경우 대체 옵션
 * 보통 1\~3일 내 반응; 부작용 : 배부름, 복부 가스 (발효 산물)
 * <mark style="color:blue;">\[듀락칸이지]</mark> 15 ㎖/P; 성인 초기 2\~3일은 15\~30 ㎖ qd 아침 식전, 이후 10\~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지 사용. 15 ㎖ 미만 용량은 계량 가능한 병 제형을 이용
@@ -281,96 +342,100 @@
 
 <mark style="color:$primary;">**Bisacodyl**</mark>
 
-* 결장 점막에 작용하여 연동 운동 촉진 + 수분 분비 증가; AGA-ACG 2023의 단기·구제 사용 강한 권고는 주로 경구제 임상시험 근거
+* 기전 : 결장 점막에 작용하여 연동 운동 촉진 + 수분 분비 증가
+* AGA-ACG 2023의 단기·구제 사용 강한 권고는 주로 경구제 임상시험 근거
 * rescue therapy 또는 다른 하제와 간헐적 병용 우선
-* 단기 또는 rescue therapy 근거가 가장 분명함; 임상적으로 장기 사용하기도 하나 최소 유효용량으로 효과·부작용을 정기 평가
+* 단기 또는 rescue therapy 근거가 가장 분명함
+* 임상적으로 장기 사용하기도 하나 최소 유효용량으로 효과·부작용을 정기 평가
 * 부작용 : 복통(경련), 설사
 * 경구 단일제 <mark style="color:blue;">\[신일비사코딜]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
-* <mark style="color:blue;">\[둘코락스좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과); 경구 복합제 <mark style="color:blue;">\[둘코락스에스]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
+* <mark style="color:blue;">\[둘코락스좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과)
+* 경구 복합제 <mark style="color:blue;">\[둘코락스에스]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
 
 <mark style="color:$primary;">**Sodium picosulfate**</mark>
 
-* 경구 투여 후 결장에서 활성형으로 전환; bisacodyl과 유사한 기전 및 효과
+* 경구 투여 후 결장에서 활성형으로 전환; bisacodyl과 유사한 기전 및 효과 (국내 유통 제품 없음)
 * 부작용 : 복통(경련), 설사
-* 해외 단일제 용법과 장정결용 복합제를 구분; 장정결용 복합제를 일상적인 변비 유지치료 용량으로 적용하지 않음
 
 <mark style="color:$primary;">**Senna (sennosides)**</mark>
 
 * 안트라퀴논 유도체; 결장 연동 운동 촉진
 * 저용량 시작, rescue therapy 또는 다른 하제와 병용, 필요시 장기 사용 가능
-  * 자극성 하제 장기 복용이 장 기능을 손상시킨다는 'cathartic colon' 가설은 현재 근거가 불충분하며, 독립적 질환 개념으로서의 타당성도 확립되지 않음
+* 자극성 하제 장기 복용이 장 기능을 손상시킨다는 'cathartic colon' 가설은 현재 근거가 불충분하며, 독립적 질환 개념으로서의 타당성도 확립되지 않음
 * 부작용 : 고용량에서 복통(경련)
-* <mark style="color:blue;">\[아락실과립]</mark>은 senna와 차전자 성분을 함유한 복합제이므로, 아기오 등과의 차전자 성분 중복 및 다른 복합하제의 자극성 성분 중복을 확인
+* <mark style="color:blue;">\[아락실과립]</mark>은 senna와 차전자 성분을 함유한 복합제
 
 ### <mark style="color:orange;">연화제 (Stool softener)</mark>
 
 <mark style="color:$primary;">**Docusate sodium**</mark>
 
-* 대변에 수분을 침투시켜 연화
-* 단독 효과는 근거가 매우 제한적; 만성 변비의 표준 치료로 권고되지 않음 (복합제로 유통됨)
+* 기전 : 대변에 수분을 침투시켜 연화
+* 단독 효과는 근거가 매우 제한적이며 만성 변비의 표준 치료로 권고되지 않음.  복합제로 유통됨
 * 관행적으로 수술·출산 후 또는 항문질환에서 사용되지만 효과 근거는 약하므로 PEG 등 근거가 더 분명한 약제를 우선 고려
 
-### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
+### <mark style="color:orange;">Probiotics 및 장내 미생물</mark>
 
-<mark style="color:$primary;">**Lubiprostone**</mark>
-
-* 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
-* 해외에서는 일반 하제에 반응하지 않는 만성 특발성 변비에 사용; 4주 전후 효과와 이상반응 재평가
-* 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
-* 해외 성인 CIC 용법 : 24 ㎍ bid, 음식·물과 함께 복용
-* 해외 약제; 아미티자 24 ㎍ 품목은 2024년 2월 2일 허가 취하됨 <mark style="color:$info;">\[식약처 품목정보]</mark>
-
-<mark style="color:$primary;">**Linaclotide · Plecanatide**</mark>
-
-* guanylate cyclase-C (GC-C) agonist → cGMP 증가 → 장 분비 증가 및 장 통과 촉진
-* 해외에서는 일반 하제에 반응하지 않는 경우 대체 또는 추가하고 4\~12주에 효과·설사 여부를 재평가; 고정된 12주 치료로 제한하지 않음
-* 부작용 : 설사
-* 해외 약제; 장 분비 촉진과 내장 통증 조절 효과가 있어 IBS-C에도 사용
+* 균주·제품별 효과가 일정하지 않아 일률적인 일차치료로 권고하기 어려우나, 일부 환자에서 보조적으로 고려 가능; 일상적 하제 치료를 대체하지 않음 <mark style="color:$info;">\[Seoul Consensus 2022; BDA 2025]</mark>
+* 장내 미생물과 변비의 연관성
+  * 일부 만성 변비 환자에서 dysbiosis 관찰 (_Bifidobacterium_ 감소, methane 생성 archaea 증가)
+  * Methane-associated constipation : methane 생성 증가와 장 통과 지연의 연관성이 보고되었으나, 연관성만으로 장내 메탄생성균 과증식(IMO)을 진단하지 않으며 호기검사를 만성 변비에서 일률적으로 시행하지 않음
+  * 분변미생물 이식 등 microbiome-targeted therapy는 연구 중이며 만성 변비의 일상적 치료로 확립되지 않음
+* 유산균 음료의 효과는 균주·용량과 함께 식이 섬유·당류 등 다른 함유물의 영향을 함께 평가
 
 ### <mark style="color:orange;">장 운동 촉진제 - 5-HT4 agonist</mark>
 
 <mark style="color:$primary;">**Prucalopride**</mark>
 
-* 선택적 5-HT4 수용체 작용제 → 대장의 추진성 운동 촉진
+* 기전 : 선택적 5-HT4 수용체 작용제 → 대장의 추진성 운동 촉진
 * 일반 하제에 반응하지 않는 경우 대체 또는 추가; 4주 전후 반응을 평가하고 유효하면 유지 가능
-* 용량 : 2 ㎎ qd, 식사와 무관; 고령(≥65세)은 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량. 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd. 투석이 필요한 신장애에서는 금기
-* 급여 등재 품목의 성분 급여기준 : 2종 이상의 경구 완하제(부피 형성·삼투성 등)를 6개월 이상 투여해도 증상 완화에 실패한 만성 변비에서 인정하며, 4주 투여 후 반응에 따라 지속 여부 결정. 품목별 급여 여부는 다르며 이 기준 충족이 비급여 품목의 급여를 뜻하지 않음 <mark style="color:$info;">\[HIRA]</mark>
-* 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장
+* 용량 : 2 ㎎ qd, 식사와 무관; 고령(≥65세)은 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량
+  * 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd
+* 급여기준 : 2종 이상의 경구 완하제(부피 형성·삼투성 등)를 6개월 이상 투여해도 증상 완화에 실패한 만성 변비에서 인정하며, 4주 투여 후 반응에 따라 지속 여부 결정. 단, 품목별로 급여 여부가 다름
+* 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장, 투석이 필요한 신장애
 * 부작용 : 두통, 복통, 구역, 설사(주로 치료 초기에 발생 후 감소); 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 평가
-* <mark style="color:blue;">\[레졸로]</mark> (비급여); <mark style="color:blue;">\[모비졸로]</mark>는 급여 등재 품목
+* <mark style="color:blue;">\[모비졸로]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
+
+### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
+
+<mark style="color:$primary;">**Lubiprostone**</mark>
+
+* 기전 : 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
+* 해외에서는 일반 하제에 반응하지 않는 만성 특발성 변비에 사용; 4주 전후 효과와 이상반응 재평가
+* 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
+* 해외 성인 CIC 용법 : 24 ㎍ bid, 음식·물과 함께 복용
+
+<mark style="color:$primary;">**Linaclotide · Plecanatide**</mark>
+
+* 기전 : guanylate cyclase-C (GC-C) agonist → cGMP 증가 → 장 분비 증가 및 장 통과 촉진
+* 해외에서는 일반 하제에 반응하지 않는 경우 대체 또는 추가하고 4\~12주에 효과·설사 여부를 재평가; 고정된 12주 치료로 제한하지 않음
+* 부작용 : 설사
+* 해외 약제; 장 분비 촉진과 내장 통증 조절 효과가 있어 IBS-C에도 사용
 
 ### <mark style="color:orange;">IBAT 억제제 (Ileal bile acid transporter inhibitor)</mark>
 
 <mark style="color:$primary;">**Elobixibat**</mark>
 
-* 회장 담즙산 운반체(ASBT/IBAT) 억제 → 회장 담즙산 재흡수 감소 → 결장 내 담즙산 증가 → 수분 분비 및 대장 운동 촉진
-* 해외 성인 용법 : 10 ㎎ qd 식전; 아침 식전으로 제한하지 않음
-* 특징 : 전신 흡수 최소; 일본 등 일부 국가에서 사용하는 해외 약제
+* 기전 : 회장 담즙산 운반체(ASBT/IBAT) 억제 → 회장 담즙산 재흡수 감소 → 결장 내 담즙산 증가 → 수분 분비 및 대장 운동 촉진
+* 용법 : 10 ㎎ qd 식전; 아침 식전으로 제한하지 않음&#x20;
+* 특징 : 전신 흡수 최소; 일본 등 일부 국가에서 사용하는 해외 약제 (국내 유통 제품 없음)
 * 부작용 : 복통, 설사, 복부 팽만 (대부분 경증)
-
-***
-
-**AGA-ACG 2023 recommendation 요약**
-
-<table><thead><tr><th width="220">약제</th><th width="110">권고 등급</th><th>비고</th></tr></thead><tbody><tr><td>Polyethylene glycol (PEG)</td><td>Strong</td><td>1차 유지 하제; 장기 사용 근거 있음</td></tr><tr><td>Bisacodyl / Sodium picosulfate</td><td>Strong</td><td>단기 또는 rescue therapy; 장기 사용 시 정기 평가</td></tr><tr><td>Linaclotide</td><td>Strong</td><td>일반 하제 실패 후; 해외 약제</td></tr><tr><td>Plecanatide</td><td>Strong</td><td>일반 하제 실패 후; 해외 약제</td></tr><tr><td>Prucalopride</td><td>Strong</td><td>일반 하제 실패 후 대체 또는 추가</td></tr><tr><td>섬유 보충제 (psyllium 등)</td><td>Conditional</td><td>식이 섬유 섭취 부족 환자에서 보충; 충분한 수분 필수</td></tr><tr><td>Magnesium oxide (MgO)</td><td>Conditional</td><td>저용량(500~1,000 ㎎/d)으로 시작; 신장애 금기; PEG 등 대체</td></tr><tr><td>Lactulose</td><td>Conditional</td><td>PEG 불내성 또는 반응 없을 때 대체</td></tr><tr><td>Senna</td><td>Conditional</td><td>저용량 시작; rescue 또는 다른 하제와 병용</td></tr><tr><td>Lubiprostone</td><td>Conditional</td><td>일반 하제 실패 후; 아미티자 24 ㎍ 품목은 허가 취하</td></tr></tbody></table>
 
 ### <mark style="color:orange;">PAMORA - Opioid 유발 변비 (OIC)</mark>
 
-* 말초 μ-opioid receptor antagonist(PAMORA)는 중추 진통 효과를 대체로 보존하면서 장관의 opioid 작용을 차단; opioid 금단 증상이 발생할 수 있어 주의
-* 해외 약제 : naloxegol, naldemedine, methylnaltrexone; 성분별 적응증·상호작용·간신장 기능 용량을 구분
-* naloxegol 미국 허가 용법 : 25 ㎎ qd 공복 (식전 1시간 또는 식후 2시간)
-  * CrCl ＜60 ㎖/min : 12.5 ㎎ qd로 시작; 내약성과 반응에 따라 신중히 조절 <mark style="color:$info;">\[미국 허가사항]</mark>
-  * 부작용 : 복통, 설사, 구역, 오한
-  * 금기 : 알려졌거나 의심되는 위장관 폐색 또는 반복 폐색 고위험, 강력한 CYP3A4 억제제(clarithromycin, itraconazole 등) 병용
-  * 중등도 CYP3A4 억제제는 가능하면 피하고, 불가피하면 12.5 ㎎ qd로 감량하여 이상반응 모니터링
-  * 시작 시 기존 유지 하제를 일단 중단하고, 3일 후 반응이 불충분하면 필요에 따라 재개
-  * 장벽 손상 위험이 있는 위장관 종양·최근 수술·게실염 등에서는 천공 위험을 평가; 심한 지속 복통·설사가 생기면 중단하고 즉시 평가
+* 기전 : 말초 μ-opioid receptor antagonist(PAMORA)는 중추 진통 효과를 대체로 보존하면서 장관의 opioid 작용을 차단; opioid 금단 증상이 발생할 수 있어 주의
+* naloxegol, naldemedine, methylnaltrexone (국내 유통 제품 없음)
 
 ### <mark style="color:orange;">관장 (Enema)</mark>
 
 * 다른 치료 실패 시 또는 급성 fecal impaction; 직장점막 손상, 전해질 불균형 주의
 * 고령·신장질환·심부전 : 인산염 관장을 피하고 전해질 위험이 적은 관장액 선택; 비눗물 관장은 점막 손상 위험 때문에 피함
 * Glycerin 관장 <mark style="color:blue;">\[그린관장약]</mark> : 직장 자극 + 삼투성 기전; 15\~30분 내 효과. 제품 농도·용량을 구분하며 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
+
+***
+
+<table data-search="false"><thead><tr><th width="211">약제</th><th width="133">권고 등급</th><th>비고</th></tr></thead><tbody><tr><td><strong>Polyethylene glycol (PEG)</strong></td><td>Strong</td><td>1차 유지 하제; 장기 사용 근거 있음</td></tr><tr><td><strong>Bisacodyl / Sodium picosulfate</strong></td><td>Strong</td><td>단기 또는 rescue therapy; 장기 사용 시 정기 평가</td></tr><tr><td><strong>Linaclotide</strong></td><td>Strong</td><td>일반 하제 실패 후; 해외 약제</td></tr><tr><td><strong>Plecanatide</strong></td><td>Strong</td><td>일반 하제 실패 후; 해외 약제</td></tr><tr><td><strong>Prucalopride</strong></td><td>Strong</td><td>일반 하제 실패 후 대체 또는 추가</td></tr><tr><td><strong>섬유 보충제 (psyllium 등)</strong></td><td>Conditional</td><td>식이 섬유 섭취 부족 환자에서 보충; 충분한 수분 필수</td></tr><tr><td><strong>MgO</strong></td><td>Conditional</td><td>저용량(0.5~1 g/d)으로 시작; 신장애 금기; PEG 등 대체</td></tr><tr><td><strong>Lactulose</strong></td><td>Conditional</td><td>PEG 불내성 또는 반응 없을 때 대체</td></tr><tr><td><strong>Senna</strong></td><td>Conditional</td><td>저용량 시작; rescue 또는 다른 하제와 병용</td></tr><tr><td><strong>Lubiprostone</strong></td><td>Conditional</td><td>일반 하제 실패 후; 아미티자 24 ㎍ 품목은 허가 취하</td></tr></tbody></table>
+
+<p align="center"><strong>AGA-ACG 2023 recommendation 요약</strong></p>
 
 ***
 
