@@ -64,7 +64,7 @@
 기존의 면역관용기·면역활동기·면역비활동기 중심 분류 대신 혈청 HBV DNA를 중심으로 자연경과를 단순화하였음. 고바이러스혈증은 HBV DNA ＞10⁸ IU/㎖, 중등도바이러스혈증은 2,000\~10⁸ IU/㎖, 저바이러스혈증은 ＜2,000 IU/㎖로 정의함. 중등도바이러스혈증은 HBeAg 양성 또는 음성 모두 포함함. 면역학적 단계와 바이러스 역가 기반 분류가 완전히 일치하지 않을 수 있으며, 장기간의 경과 중 분류가 변할 수 있음.
 {% endhint %}
 
-## <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -146,13 +146,13 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 실제 검사실 UL
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 {% hint style="info" %}
 **최신 지침 반영** : 본 장은 2026년 6월 발표된 대한간학회 만성 B형간염 진료 가이드라인을 기준으로 치료 대상, 약제 선택, 치료 종료 및 면역억제 관련 내용을 개정하였음. 임상 치료 권고와 국내 허가·급여는 구분하며, 본문 보험 항목에 확인한 급여 조건을 별도로 제시함.
 {% endhint %}
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">예방접종</mark>
 
@@ -174,7 +174,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 실제 검사실 UL
 ### <mark style="color:orange;">생활 지도</mark>
 
 * 만성 HBV 감염자 : 금주, 금연 (간경변·간암 진행 위험 인자)
-* B형간염 감염자는 신체 접촉이 있는 스포츠를 포함하여 모든 활동 참여 가능
+* B형간염 감염자는 일상 활동·운동에 참여할 수 있음. 상처는 덮고 출혈 시 활동을 멈춰 처치하며 타인의 혈액·손상 피부와 접촉하지 않도록 함
 * 직장, 학교, 보육 시설에서 배제되어서는 안 됨
 * 음식·도구 공동 사용 가능, 키스 가능 (단, 칫솔·면도기·주사기·혈당 검사 기구 공동 사용 금지)
 * 백신 미접종 또는 자연 면역 없는 사람과의 성 접촉 시 보호 장구 사용
@@ -231,7 +231,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 실제 검사실 UL
 * 아래 용량은 성인 기준이며 소아에게 일률적으로 적용하지 않음. 베믈리디 국내 허가는 성인 및 6세 이상·체중 ≥25 kg 소아이며, 소아 급여 범위는 허가와 별개임
 * Tenofovir AF (TAF), Tenofovir DF (TDF), Entecavir (ETV), Besifovir (BSV)는 높은 유전자 장벽을 가지며 2026 대한간학회에서 만성 B형간염 초치료 약제로 권고함.
 
-<table><thead><tr><th width="120">성분명</th><th width="130">용량</th><th width="170">주요 특징</th><th>복용·모니터링</th></tr></thead><tbody><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>신장·골 안전성이 TDF보다 우수</td><td>식사와 관계없이 복용 가능; 정기적 신기능 모니터링</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>강력한 바이러스 억제; 임신 관련 자료 풍부</td><td>식사와 관계없이 복용 가능; 신기능·혈중 P·골밀도 모니터링</td></tr><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd¹⁾</td><td>신장·골 안전성 우수</td><td>공복 복용; 신기능에 따라 용량 조절</td></tr><tr><td>Besifovir (BSV)<br><mark style="color:blue;">[베시보]</mark></td><td>150 ㎎ qd</td><td>신장·골 안전성 유리</td><td>L-carnitine 660 ㎎ qd 병용; 식사와 관계없이 복용 가능</td></tr></tbody></table>
+<table><thead><tr><th width="120">성분명</th><th width="130">용량</th><th width="170">주요 특징</th><th>복용·모니터링</th></tr></thead><tbody><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>신장·골 안전성이 TDF보다 우수</td><td>식사와 관계없이 복용 가능; 정기적 신기능 모니터링</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>강력한 바이러스 억제; 임신 관련 자료 풍부</td><td>식사와 관계없이 복용 가능; 신기능·혈중 P 모니터링; 골밀도는 위험에 따라 평가</td></tr><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd¹⁾</td><td>신장·골 안전성 우수</td><td>공복 복용; 신기능에 따라 용량 조절</td></tr><tr><td>Besifovir (BSV)<br><mark style="color:blue;">[베시보]</mark></td><td>150 ㎎ qd</td><td>신장·골 안전성 유리</td><td>L-carnitine 660 ㎎ qd 병용; 식사와 관계없이 복용 가능</td></tr></tbody></table>
 
 _¹⁾ 비대상성 간질환의 ETV 성인 권장 용량은 신기능 정상 시 1 ㎎ qd. 과거 LAM·ADV·TBV 노출 환자는 ETV보다 TAF/TDF를 우선 선택하며, 신장애에서는 투여량 또는 간격을 조절_
 
@@ -258,11 +258,13 @@ _¹⁾ 비대상성 간질환의 ETV 성인 권장 용량은 신기능 정상 �
 
 **경구 항바이러스제 선택**
 
+<mark style="color:$info;">대한간학회 2026을 바탕으로 저자 재구성.</mark>
+
 ***
 
 ```mermaid
 flowchart TD
-    A(["만성 B형간염 항바이러스 치료 시작"]) ---> B{"임신 중 또는 임신 준비?"}
+    A["만성 B형간염 항바이러스 치료 시작"] ---> B{"임신 중 또는 임신 준비?"}
     B -- 예 ---> C["TAF 또는 TDF 우선"]
     B -- 아니오 ---> D{"과거 LAM·ADV·TBV 노출 또는 ETV 내성?"}
     D -- 예 ---> C
@@ -273,13 +275,19 @@ flowchart TD
     F ---> H
     G ---> H
     H ---> I["HIV 동반감염이면 완전한 항레트로바이러스요법 구성"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class B,D,E question
+    class C,F,G,H,I treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 ***
 
 ```mermaid
 flowchart TD
-    A(["HBsAg 양성 만성 HBV 감염"]) ---> B{"면역억제·간암·이식·임신 등 특수 상황?"}
+    A["HBsAg 양성 만성 HBV 감염"] ---> B{"면역억제·간암·이식·임신 등 특수 상황?"}
     B -- 예 ---> S["해당 특수 상황의 치료 지침 적용"]
     B -- 아니오 ---> C{"간경변증?"}
     C -- 예 ---> D{"HBV DNA 검출?"}
@@ -296,13 +304,19 @@ flowchart TD
     N ---> P
     T ---> P
     G ---> P
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class B,C,D,E,F question
+    class S,T,R,G,M,N,P treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 ***
 
 <p align="center"><strong>만성 B형간염 치료 결정 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 2026 만성 B형간염 진료 가이드라인. Figure 2를 반영.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 2026 만성 B형간염 진료 가이드라인. Figure 2를 바탕으로 저자 재구성.</mark></em></p>
 
 ### <mark style="color:orange;">간장질환용제 (보조 치료)</mark>
 
@@ -335,7 +349,7 @@ flowchart TD
 * 바이러스반응 확인 후에도 HBV DNA를 **3\~6개월마다** 측정
 * 정량 HBsAg은 치료 반응 예측과 종료 시점 판단을 위해 **1년 간격**으로 시행할 수 있음
 * 비침습적 간섬유화검사는 필요에 따라 12\~24개월 간격으로 시행할 수 있음
-* TDF : 신기능, 혈중 인, 골밀도를 정기적으로 모니터링
+* TDF : 신기능·혈중 인 및 필요 시 요단백·요당을 모니터링. 골밀도는 골절·골다공증 위험에 따라 평가하며 모든 환자에게 같은 간격의 반복 검사를 적용하지 않음
 * TAF/ETV/BSV : 정기적인 신기능 평가; 각 약제의 허가사항에 따라 추가 모니터링
 
 #### <mark style="color:$primary;">치료 종료 및 종료 후 모니터링</mark>
@@ -360,7 +374,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A(["경구 항바이러스제 투여 중"]) ---> B["복약순응도 확인"]
+    A["경구 항바이러스제 투여 중"] ---> B["복약순응도 확인"]
     B ---> C{"바이러스반응 평가"}
     C -- 반응 ---> D["HBV DNA 3~6개월마다 추적"]
     C -- 부분반응 ---> E["기존 고장벽 약제 유지 또는 tenofovir 전환 평가"]
@@ -371,11 +385,19 @@ flowchart TD
     H -- 아니오 ---> I
     H -- 예 ---> J["간경변증 등 위험을 평가하여 종료 결정"]
     J ---> K["종료 후 초기 6개월은 간기능·HBV DNA 1~3개월마다"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class C,G,H question
+    class B,D,E,F,I,J,K treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 ***
 
 <p align="center"><strong>경구 항바이러스제 투여 중 관리</strong></p>
+
+<mark style="color:$info;">대한간학회 2026을 바탕으로 저자 재구성.</mark>
 
 _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A, 골밀도; 간세포암종 감시_
 
@@ -396,7 +418,7 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 * TDF 치료 중 eGFR 감소, 저인산혈증 또는 골다공증이 발생하면 TAF, ETV 또는 BSV로 변경 고려
 * TAF : Cockcroft–Gault법 추정 크레아티닌청소율 ≥15 mL/min에서는 용량 조절 불필요. ＜15 mL/min이고 혈액투석을 받지 않는 경우 사용을 권고하지 않음; 만성 혈액투석일에는 투석 종료 후 투여. 신장애 소아의 권장 용량은 확립되지 않음
 * BSV : 경증 신장애에서는 용량 조절 불필요; 중등증은 150 ㎎을 2일마다, 중증은 4일마다 투여. 말기신질환에서는 투여를 권고하지 않음
-* ETV, TDF, BSV는 신기능에 따른 용량 조절이 필요
+* ETV와 TDF는 CrCl ＜50 mL/min에서 투여량 또는 간격을 조절하며, BSV도 신장애 정도에 따른 간격 조절이 필요
 
 ### <mark style="color:orange;">임신부</mark>
 
@@ -426,7 +448,7 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 
 #### <mark style="color:$primary;">진단</mark>
 
-* 1단계 : anti-HDV 검사 - HBsAg(+) 환자에서 위험인자 또는 설명되지 않는 ALT 상승이 있을 때 선별
+* 1단계 : anti-HDV 검사 - 위험인자 또는 설명되지 않는 ALT 상승 시 적극 평가. EASL HDV 2023은 모든 HBsAg(+) 환자에서 적어도 1회 선별을 권고하므로 검사 접근성을 고려하여 적용
 * 2단계 : anti-HDV 양성 시 HDV RNA 정량(RT-PCR) - 활성 감염 확인 및 치료 반응 평가
 * KCD-9 : B18.00 또는 B18.09(델타-병원체가 있는 만성 바이러스B형간염; 상태별 세부코드)
 
@@ -461,7 +483,7 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 
 ```mermaid
 flowchart TD
-    A(["면역억제제 또는 항암치료 예정"]) ---> B["HBsAg + total anti-HBc 검사"]
+    A["면역억제제 또는 항암치료 예정"] ---> B["HBsAg + total anti-HBc 검사"]
     B ---> C{"둘 중 하나 양성?"}
     C -- 아니오 ---> V["접종력·면역상태 확인 및 필요 시 예방접종"]
     C -- 예 ---> D["HBV DNA 측정"]
@@ -478,11 +500,19 @@ flowchart TD
     P ---> N["면역억제 종료 후 최소 6개월; B세포 고갈요법은 최소 12개월 유지"]
     N ---> O["예방약 종료 후에도 최소 12개월 추적"]
     M ---> R["재활성화 확인 시 즉시 항바이러스 치료"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class C,E,F,G question
+    class B,V,D,P,M,Q,N,O,R treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 ***
 
 <p align="center"><strong>HBV 재활성화 예방 알고리듬</strong></p>
+
+<mark style="color:$info;">대한간학회 2026을 바탕으로 저자 재구성.</mark>
 
 #### <mark style="color:$primary;">간암 치료 중 HBV 재활성화</mark>
 
@@ -520,6 +550,8 @@ flowchart TD
 
 ## <mark style="color:purple;">처방례</mark>
 
+* 수량은 성인 1회량이며 정상 신기능의 예시임. 신장애에서는 약제별 용량·투여간격을 조절함.
+
 > **처방례 1. 급성 B형간염 - 경증 대증치료**
 >
 > ```
@@ -532,7 +564,7 @@ flowchart TD
 > **처방례 2. 만성 B형간염 - 항바이러스 치료 (ETV; 초치료)**
 >
 > ```
-> 바라크루드 0.5 ㎎  1T  qd  (공복 복용)
+> 바라크루드정0.5밀리그램 0.5 ㎎/정  1정  qd  (공복 복용)
 > ```
 >
 > _✽ 신기능 정상이고 과거 lamivudine·adefovir·telbivudine 노출이 없는 초치료 환자에서 선택할 수 있음. 식사와 관계없이 복용할 수 있는 TAF/TDF/BSV와 달리 ETV는 공복 복용이 필요하다._
@@ -540,7 +572,7 @@ flowchart TD
 > **처방례 3. 만성 B형간염 - 항바이러스 치료 (TAF; 신장·골 위험)**
 >
 > ```
-> 베믈리디 25 ㎎  1T  qd  (식사와 관계없이)
+> 베믈리디정 25 ㎎/정  1정  qd  (식사와 관계없이)
 > ```
 >
 > _✽ 신장애 또는 골대사질환이 있거나 발생 위험이 높은 경우 TAF를 우선 선택할 수 있음. TDF에 비해 신장·골 안전성이 우수하다._
@@ -552,18 +584,18 @@ flowchart TD
 > **처방례 5. 만성 B형간염 - 수직감염 예방 (임신부, HBV DNA ≥200,000 IU/㎖)**
 >
 > ```
-> 비리어드 300 ㎎  1T  qd  (임신 24~32주부터 출산 후 2~12주까지)
+> 비리어드정 300 ㎎/정  1정  qd  (임신 24~32주부터 출산 후 2~12주까지)
 > ```
 >
-> _✽ TDF 또는 TAF를 1차 약제로 권고함. 수직감염 예방 목적으로만 투여한 경우 출산 후 중단할 수 있으나, 중단 후 간기능과 HBV DNA를 면밀히 추적함. 신생아는 출생 직후 HBIG와 백신을 투여함._
+> _✽ TDF 또는 TAF를 1차 약제로 권고함. 수직감염 예방 목적으로만 투여한 경우 출산 후 중단할 수 있으나, 중단 후 간기능과 HBV DNA를 면밀히 추적함. 신생아는 출생 후 12시간 이내 HBIG와 백신을 서로 다른 부위에 투여함. 산모의 약 복용이 신생아 예방처치를 대체하지 않음._
 
 > **처방례 6. 면역억제제(rituximab 등) 투여 전 HBV 재활성화 예방**
 >
 > ```
-> 바라크루드 0.5 ㎎  1T  qd
+> 바라크루드정0.5밀리그램 0.5 ㎎/정  1정  qd  (공복 복용)
 > ```
 >
-> _✽ HBsAg 양성 또는 고위험 면역억제 치료를 받는 HBsAg 음성/anti-HBc 양성 환자에서 예방적 항바이러스제를 고려함. TAF, TDF, ETV 중 환자의 HBV DNA, 신기능 및 골대사 위험을 고려하여 선택함. Rituximab 등 B-cell depleting agents 사용 시 면역억제 종료 후 최소 12개월까지 유지하고, 종료 후에도 최소 12개월간 HBV DNA를 추적함._
+> _✽ Rituximab 등 고위험 치료 예정인 HBsAg 양성 또는 HBsAg 음성/anti-HBc 양성 환자의 예방투여 예임. 정상 신기능·이전 LAM/ADV/TBV 노출이 없는 경우의 ETV 용량이며, 비대상성 간질환·기존 내성은 별도 평가함. 면역억제 치료 전 또는 동시에 시작함. TAF, TDF, ETV 중 환자의 HBV DNA, 신기능 및 골대사 위험을 고려하여 선택함. Rituximab 등 B-cell depleting agents 사용 시 면역억제 종료 후 최소 12개월까지 유지하고, 종료 후에도 최소 12개월간 HBV DNA를 추적함._
 
 ***
 
@@ -571,7 +603,7 @@ flowchart TD
 
 **항바이러스제 공통**
 
-* **임의로 복용을 중단하지 마십시오.** 갑작스러운 중단은 간염이 급격히 악화되거나(hepatitis flare) 내성이 생길 수 있습니다.
+* **임의로 복용을 중단하지 마십시오.** 갑작스러운 중단은 간염의 급격한 악화를 일으킬 수 있습니다. 불규칙한 복용은 치료 실패·내성 위험을 높일 수 있습니다.
 * 약을 잊었을 경우 : 생각난 즉시 복용하되, 다음 복용 시간이 가까우면 건너뛰고 다음 일정에 맞게 복용합니다. 두 번치를 한꺼번에 복용하지 마십시오.
 * 정기 혈액 검사(HBV DNA, 간기능, 신기능 등)를 반드시 받아야 합니다.
 
@@ -586,7 +618,7 @@ flowchart TD
 
 **Besifovir (베시보)**
 
-* 반드시 **L-carnitine 660 ㎎과 함께** 복용하십시오.
+* 반드시 **처방된 L-carnitine 660 ㎎을 함께** 복용하십시오. 일반 보충제로 임의 대체하지 마십시오. 신장애로 베시보의 투여간격을 조정한 경우 카르니틴 복용 일정도 의료진에게 확인하십시오.
 
 **생활 지도**
 
@@ -599,6 +631,33 @@ flowchart TD
 
 * 류마티스약, 항암제, 스테로이드 등을 새로 처방받는 경우 반드시 담당의에게 **B형간염 보유 여부를 알려**야 합니다.
 * 의사의 판단에 따라 예방적 항바이러스제를 처방받게 되면 **면역억제 치료 중 및 종료 후에도 지속 복용**해야 하며, 임의로 중단하지 마십시오.
+
+***
+
+## <mark style="color:green;">참고문헌</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* EASL. Clinical Practice Guidelines on hepatitis delta virus. J Hepatol. 2023. 모든 HBsAg 양성 환자의 1회 이상 anti-HDV 선별. [원문](https://doi.org/10.1016/j.jhep.2023.05.001)
+
+* 대한간학회. **2026 만성 B형간염 진료 가이드라인**. 자연경과·치료 대상·약제 선택·종료·특수 상황의 국내 기본 지침.
+  * https://kasl.org/bbs/?code=guide&mode=view&number=6713
+* CDC. **Screening and Testing for Hepatitis B Virus Infection: CDC Recommendations — United States, 2023**. 혈청표지자 및 면역상태 해석.
+  * https://www.cdc.gov/mmwr/volumes/72/rr/rr7201a1.htm
+* CDC. **Clinical Signs and Symptoms of Hepatitis B**; **Hepatitis B Perinatal Vaccine Information**. 잠복기 및 산모 상태·출생체중에 따른 신생아 예방처치.
+  * https://www.cdc.gov/hepatitis-b/hcp/clinical-signs/index.html
+  * https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html
+* 질병관리청. **B형간염 주산기감염 예방사업**. 국내 출생아 접종 후 항원·항체 검사 및 재접종 관리.
+  * https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=133&menuLv=1
+* FDA. **FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection**. Bulevirtide의 미국 승인 및 대상 환자.
+  * https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 제품별 적응증·용법·금기 확인. 이번 검토에서 베믈리디정(201702418)의 식사 무관 용법과 베시보의 신장애 투여간격을 대조함.
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. **약제 급여기준 — 경구용 만성 B형간염치료제 등**. 학회 권고와 구분하여 급여 대상·투여 조건 확인.
+  * https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251101&sno=1&mtgMtrRegSno=1
 
 ***
 
@@ -622,14 +681,14 @@ B형간염 바이러스(HBV)가 간에 감염되어 생기는 질환입니다. �
 * 담배도 끊으시기 바랍니다.
 * 일상적인 활동(직장, 학교, 운동 등)은 모두 가능합니다.
 * 칫솔, 면도기, 혈당 측정기, 주사기는 혼자만 사용하십시오.
-* 성 파트너가 예방접종을 받지 않았다면 보호 장구를 사용하십시오.
+* 성 파트너의 감염·면역 상태가 확인되지 않았다면 콘돔을 사용하십시오. 접종 후에도 면역 형성이 확인되기 전까지 주의하십시오.
 
 **가족 보호**\
 함께 사는 가족과 성 파트너는 HBsAg, anti-HBs, anti-HBc 검사를 고려하고, 감염도 면역도 없으면 예방접종을 받으십시오.
 
 **아래의 증상이 나타나면 즉시 병원을 찾아오십시오**
 
-* 심한 피로, 황달(눈·피부가 노랗게 됨), 배가 많이 부음
+* 황달(눈·피부가 노랗게 됨)이나 배의 부종이 새로 생기거나 빠르게 심해지면 당일 진료받으십시오. 심한 피로만 지속되어도 조기에 상담하십시오.
 * 정신이 혼미하거나 말이 이상해지는 경우
 * 피를 토하거나 검은 변이 나오는 경우
 
@@ -638,26 +697,3 @@ B형간염 바이러스(HBV)가 간에 감염되어 생기는 질환입니다. �
 
 
 ***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* 대한간학회. **2026 만성 B형간염 진료 가이드라인**. 자연경과·치료 대상·약제 선택·종료·특수 상황의 국내 기본 지침.
-  * https://kasl.org/bbs/?code=guide&mode=view&number=6713
-* CDC. **Screening and Testing for Hepatitis B Virus Infection: CDC Recommendations — United States, 2023**. 혈청표지자 및 면역상태 해석.
-  * https://www.cdc.gov/mmwr/volumes/72/rr/rr7201a1.htm
-* CDC. **Clinical Signs and Symptoms of Hepatitis B**; **Hepatitis B Perinatal Vaccine Information**. 잠복기 및 산모 상태·출생체중에 따른 신생아 예방처치.
-  * https://www.cdc.gov/hepatitis-b/hcp/clinical-signs/index.html
-  * https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/vaccine-administration.html
-* 질병관리청. **B형간염 주산기감염 예방사업**. 국내 출생아 접종 후 항원·항체 검사 및 재접종 관리.
-  * https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=133&menuLv=1
-* FDA. **FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection**. Bulevirtide의 미국 승인 및 대상 환자.
-  * https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회.
-  * https://nedrug.mfds.go.kr/index
-* 건강보험심사평가원. **약제 급여기준 — 경구용 만성 B형간염치료제 등**. 학회 권고와 구분하여 급여 대상·투여 조건 확인.
-  * https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251101&sno=1&mtgMtrRegSno=1
