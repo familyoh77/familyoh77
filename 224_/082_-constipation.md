@@ -2,42 +2,46 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 정의 : 희발 배변(주 3회 미만), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위한 수지조작이 필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
-* 유병률 : Rome IV 기준 기능성 변비의 전 세계 성인 통합 유병률은 약 10.1%; 진단 기준·지역·연령에 따라 차이가 크며 고령에서는 동반 질환, 활동·식사량 감소, 복용 약물 등의 요인이 관여 <mark style="color:$info;">\[Lancet Gastroenterol Hepatol 2021]</mark>
+* 정의 : 희발 배변(주 ＜3회), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위한 수지 조작이 필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
+* 유병률 : Rome IV 기준 기능성 변비의 전 세계 성인 유병률은 약 10.1%; 진단 기준·지역·연령에 따라 차이가 크며 고령에서는 동반 질환, 활동·식사량 감소, 복용 약물 등의 요인이 관여  <mark style="color:$info;">\[Lancet Gastroenterol Hepatol 2021]</mark>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 ### <mark style="color:orange;">1차성 (기능성)</mark>
 
-* Rome V에서 기능성 변비(functional constipation)의 명칭이 만성 변비(chronic constipation)로 바뀌었으며, 만성 변비의 증상 기준은 Rome IV와 같음; 다른 원인으로 더 잘 설명되지 않는지 평가
-* 만성 변비는 증상 기반 진단이며, 생리 검사에 따라 정상 통과형·서행성 변비 및 배변장애를 평가; 배변장애는 대장 통과 지연과 병존할 수 있음
+* Rome V에서 기능성 변비(functional constipation)의 명칭이 만성 변비(chronic constipation)로 바뀌었으며, 증상 기준은 Rome IV와 같음
+* 만성 변비는 증상 기반 진단이며, 다른 원인으로 더 잘 설명되지 않는지 평가해야 함
+* 생리 검사에 따라 정상 통과형 변비, 서행성 변비, 배변협동장애로 분류하며, 배변협동장애는 대장 통과 지연과 병존할 수 있음
+* 배변장애(defecatory disorder)는 배변협동장애와 직장류·직장탈출 등 구조적 배출장애를 포함하는 상위 개념
 
 #### <mark style="color:$primary;">정상 통과형 변비 Normal-transit constipation</mark>
 
-* 가장 흔한 생리학적 아형
-* 대장 통과 시간은 정상이지만 단단한 대변, 힘주기, 불완전 배출감 등을 호소
-* 생활 습관 교정과 부피 형성·삼투성 하제에 비교적 잘 반응
+* 기전 : 대장 통과는 정상이나 대변 굳기 변화, 직장 감각 이상, 배변 불만족감 등이 관여
+* 특징 : 가장 흔한 생리학적 아형; 단단한 대변, 힘주기, 불완전 배출감을 호소하며 IBS-C와 증상이 겹치는 경우가 많음
+* 진단 : 대장 통과 검사와 항문직장 기능 검사가 정상
+* 치료 : 생활 습관 교정과 부피 형성·삼투성 하제에 비교적 잘 반응
 
 #### <mark style="color:$primary;">서행성 변비 Slow-transit constipation</mark>
 
 * 기전 : 대장의 추진성 운동 저하 등 여러 신경근육 기능 이상이 관여하는 것으로 추정
-* 검사법별 정상범위를 벗어난 대장 통과 지연으로 진단; 배변장애가 병존할 수 있음
-* 여성, 정신 질환(우울, 불안, 섭식 장애) 동반 시 더 흔함
+* 특징 : 여성, 정신 질환(우울, 불안, 섭식 장애) 동반 시 더 흔함; 배변 횟수 감소와 변의 감소가 두드러짐
+* 진단 : 검사법별 정상 범위를 벗어난 대장 통과 지연
+* 치료 : 식이 섬유 효과는 제한적이며 PEG ± prucalopride 등 하제 최적화
 
 #### <mark style="color:$primary;">배변협동장애 Dyssynergic defecation</mark>
 
 * 기전 : 배변 시 골반저·항문괄약근의 이완 부전 또는 역설적 수축과 불충분한 복압 형성
-* 증상 : 과도한 힘주기, 막힌 느낌, 불완전한 배출감; 부드러운 대변조차 배변 곤란
-* 바이오피드백 치료가 효과적; slow-transit constipation과 병존 가능
-* Rome V는 만성 변비·IBS 기준 충족 여부와 관계없이 배출 곤란 증상과 객관적인 배출 장애가 있으면 진단 대상에 포함
-* 배변장애(defecatory disorder)는 직장류·직장탈출 등 구조적 배출장애까지 포함하는 상위 개념으로 사용하며 배변협동장애와 구분
+* 특징 : 과도한 힘주기, 막힌 느낌, 불완전한 배출감, 수지 조작; 부드러운 대변조차 배변 곤란
+* 진단 : 배출 곤란 증상과 ARM·BET·배변조영술 중 하나 이상에서 객관적인 배출 장애 확인 (☞ 진단 기준)
+  * Rome V는 Rome IV와 달리 만성 변비·IBS 기준을 먼저 충족하지 않아도 진단이 가능하도록 함
+* 치료 : 바이오피드백 우선
 
 ### <mark style="color:orange;">2차성</mark>
 
-<table><thead><tr><th width="132">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근긴장성 근디스트로피</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 섭식장애, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류, 자궁내막증</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA ＞ SSRI), 1세대 항히스타민제, CCB(특히 verapamil), clonidine, 이뇨제, 철분제, levodopa, opioid, 항정신병제(특히 clozapine), 교감신경 작용제, GLP-1 수용체 작용제(semaglutide 등)·GIP/GLP-1 이중 수용체 작용제(tirzepatide), 5-HT3 길항제(ondansetron 등), 칼슘 보충제, cholestyramine, 일부 항경련제</td></tr><tr><td>생리적 요인</td><td>임신</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="121">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td><strong>내분비/대사</strong></td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td><strong>근병증</strong></td><td>amyloidosis, scleroderma, 근긴장성 근디스트로피</td></tr><tr><td><strong>신경 질환</strong></td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td><strong>정신 질환</strong></td><td>불안증, 우울증, 섭식장애, 신체화장애, 치매</td></tr><tr><td><strong>구조 이상</strong></td><td>항문열상, 협착, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류, 자궁내막증</td></tr><tr><td><strong>약물</strong></td><td><strong>신경·정신</strong> : opioid, 항우울제(TCA ＞ SSRI), 항정신병제(특히 clozapine), 일부 항경련제, levodopa, 항콜린제(방광 항무스카린제 등), 1세대 항히스타민제<br><strong>심혈관</strong> : CCB(특히 verapamil), clonidine, 이뇨제<br><strong>대사</strong> : GLP-1 수용체 작용제(semaglutide 등), GIP/GLP-1 이중 수용체 작용제(tirzepatide)<br><strong>소화기</strong> : Al 또는 Ca 함유 제산제, 5-HT3 길항제(ondansetron 등), cholestyramine<br><strong>무기질 보충제</strong> : 철분제, 칼슘 보충제<br><strong>기타</strong> : 교감신경 작용제(pseudoephedrine 등)</td></tr><tr><td><strong>생리적 요인</strong></td><td>임신</td></tr></tbody></table>
 
 * IBS-C는 2차성 변비가 아니라 별개의 장-뇌 상호작용 장애이며 만성 변비와 증상이 중복될 수 있음
-* Clozapine 복용자의 새 변비는 장운동 저하·분변매복·장폐색으로 진행할 수 있으므로 조기에 확인하고 적극적으로 치료
+* clozapine 복용자의 새 변비는 장운동 저하·분변매복·장폐색으로 진행할 수 있으므로 조기에 확인하고 적극적으로 치료
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -54,23 +58,23 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 심한 복통과 복막 자극 징후(복근 강직, 반발통)  `장천공` `복막염`
-* 심한 복부 팽창, 지속적인 구역·구토, 대변·가스 배출 중단 ± 장음 변화  `기계적 장폐색` `대장 염전`
-* 활력징후가 불안정한 대량 직장 출혈  `하부 위장관 출혈`
+* 급성 심한 복통과 복막 자극 징후(복근 강직, 반발통) `장천공` `복막염`
+* 심한 복부 팽창, 지속적인 구역·구토, 대변·가스 배출 중단 ± 장음 변화 `기계적 장폐색` `대장 염전`
+* 활력징후가 불안정한 대량 직장 출혈 `하부 위장관 출혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 흑색변  `상부 위장관 출혈`
-* 혈변 또는 철결핍빈혈  `대장암` `하부 위장관 출혈`
-* 설명되지 않는 체중 감소 또는 지속적·진행성 배변 습관 변화, 특히 중·고령에서 새로 발생한 경우  `대장암`
-* 지속적인 발열·전신 증상과 함께 새로 발생한 변비  `복강 내 염증` `악성 종양`
-* **(당일)** 고령자에서 overflow diarrhea·요폐·급성 섬망을 동반한 변비  `분변매복`
-* 직장 탈출 또는 반복적 직장 출혈  `직장탈출증` `직장 종괴`
+* **(당일)** 흑색변 `상부 위장관 출혈`
+* **(당일)** 고령자에서 overflow diarrhea·요폐·급성 섬망을 동반한 변비 `분변매복`
+* 혈변 또는 철결핍빈혈 `대장암` `하부 위장관 출혈`
+* 설명되지 않는 체중 감소 또는 지속적·진행성 배변 습관 변화, 특히 중·고령에서 새로 발생한 경우 `대장암`
+* 지속적인 발열·전신 증상과 함께 새로 발생한 변비 `복강 내 염증` `악성 종양`
+* 직장 탈출 또는 반복적 직장 출혈 `직장탈출증` `직장 종괴`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 초기 치료를 재평가·조정하였으나 적절한 식이·하제 치료에 4\~8주 이상 반응 없음  `배변협동장애` `2차성 변비`
-* 대장암 고위험 가족력이 있는 환자의 지속적인 변비·배변 습관 변화  `대장암`
+* 초기 치료를 재평가·조정하였으나 적절한 식이·하제 치료에 4\~8주 이상 반응 없음 `배변협동장애` `2차성 변비`
+* 대장암 고위험 가족력이 있는 환자의 지속적인 변비·배변 습관 변화 `대장암`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -84,16 +88,26 @@
    3. 배변 횟수의 ＞¼에서 불완전한 배출감
    4. 배변 횟수의 ＞¼에서 항문직장의 폐쇄 또는 막힌 느낌
    5. 배변 횟수의 ＞¼에서 손가락 배출, 골반저 지지 등 수기 조작이 필요
-   6. 자발적인 배변이 주 3회 미만
+   6. 자발적인 배변이 주 ＜3회
 2. 무른 변은 드묾 (하제 사용 시는 제외)
-3. 과민대장증후군 기준에 해당하지 않음
+3. [과민대장증후군 기준](087_-ibs.md#rome-v-2026)에 해당하지 않음
+
+### <mark style="color:orange;">배변협동장애 진단 기준</mark>
+
+* 증상 시작이 진단 최소 6개월 전이고, 최근 3개월 동안 다음 기준 모두 충족 <mark style="color:$info;">\[Rome V 2026]</mark>
+
+1. 배변의 ≥¼에서 과도한 힘주기, 수기 배변, 항문 폐쇄감, 불완전 배출감 중 ≥1개
+2. ARM, BET, 배변조영술 중 ≥1개에서 배출 장애 확인
+3. 만성 변비 또는 IBS 기준 충족은 필수가 아님 (Rome IV와 다름)
+
+* 검사 1개 이상 이상이면 probable, 2개 이상 일치하면 definite로 구분; 검사기기·방법에 맞는 연령·성별 정상치로 해석 <mark style="color:$info;">\[Gastroenterology 2026]</mark>
 
 ### <mark style="color:orange;">변비 아형 감별</mark>
 
 * 임상 양상만으로 아형을 구분하는 것은 어려우나, 다음 특징이 있으면 생리 검사로 확인하고 치료 전략 수립
 * IBS-C 감별 시 Rome V의 복통 또는 복부 불편감과 배변의 연관성을 확인; IBS 진단은 해당 증상이 평균 월 3일 이상이면서 배변·대변 빈도·형태 변화 중 ≥2개와 관련되는 등 전체 기준으로 판단 <mark style="color:$info;">\[Rome V 2026]</mark>
 
-<table><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">배변협동장애</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td>핵심 병태생리</td><td>대장 통과 시간 정상</td><td>대장 추진성 운동 저하</td><td>골반저·항문괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td>항문 폐쇄감·수기 배변</td><td>가능</td><td>가능</td><td><strong>강력 시사</strong></td><td>가능</td></tr><tr><td>부드러운 대변인데 배변 곤란</td><td>가능</td><td>가능</td><td><strong>강력 시사</strong></td><td>가능</td></tr><tr><td>복부 팽만</td><td>흔함</td><td>흔함</td><td>가능</td><td>흔함</td></tr><tr><td>반복되는 복통·복부 불편감과 배변의 연관성</td><td>두드러지지 않음</td><td>두드러지지 않음</td><td>두드러지지 않음</td><td><strong>진단에 중요</strong></td></tr><tr><td>Colonic transit time</td><td>정상</td><td>검사법별 정상범위를 벗어나 지연</td><td>정상 또는 지연</td><td>다양</td></tr><tr><td>항문직장 기능 검사</td><td>대개 정상</td><td>정상 또는 배변장애 병존</td><td>ARM·BET 등에서 비정상</td><td>다양</td></tr><tr><td>핵심 치료</td><td>Fiber + PEG</td><td>PEG ± prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>복통·복부 불편감을 포함한 통합 접근</td></tr><tr><td>흔한 함정</td><td>증상 중증도를 과소평가</td><td>배변장애 병존을 놓침</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">배변협동장애</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td><strong>핵심 병태생리</strong></td><td>대장 통과 시간 정상</td><td>대장 추진성 운동 저하</td><td>골반저·항문괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td><strong>항문 폐쇄감·수기 배변</strong></td><td>가능</td><td>가능</td><td><strong>강력 시사</strong></td><td>가능</td></tr><tr><td><strong>부드러운 대변인데 배변 곤란</strong></td><td>가능</td><td>가능</td><td><strong>강력 시사</strong></td><td>가능</td></tr><tr><td><strong>복부 팽만</strong></td><td>흔함</td><td>흔함</td><td>가능</td><td>흔함</td></tr><tr><td><strong>반복되는 복통·복부 불편감과 배변의 연관성</strong></td><td>두드러지지 않음</td><td>두드러지지 않음</td><td>두드러지지 않음</td><td><strong>진단에 중요</strong></td></tr><tr><td><strong>Colonic transit time</strong></td><td>정상</td><td>검사법별 정상범위를 벗어나 지연</td><td>정상 또는 지연</td><td>다양</td></tr><tr><td><strong>항문직장 기능 검사</strong></td><td>대개 정상</td><td>정상 또는 배변장애 병존</td><td>ARM·BET 등에서 비정상</td><td>다양</td></tr><tr><td><strong>핵심 치료</strong></td><td>Fiber + PEG</td><td>PEG ± prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>복통·복부 불편감을 포함한 통합 접근</td></tr><tr><td><strong>흔한 함정</strong></td><td>증상 중증도를 과소평가</td><td>배변장애 병존을 놓침</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -108,77 +122,23 @@
 
 #### <mark style="color:$primary;">영상 및 기타 검사</mark>
 
-<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td>직장 수지 검사</td><td>분변매복, 괄약근 긴장, 직장항문 종괴, 직장탈출·직장류를 확인하고 배변장애를 조기에 시사하는 중요한 검사; 배변 시뮬레이션에서 치골직장근의 역설적 수축 또는 괄약근 이완 부전이 관찰되면 배변장애 의심. 정상 소견만으로 배변장애를 배제할 수 없음</td></tr><tr><td>대장내시경</td><td>대장암 의심 소견, 혈변, 철결핍빈혈, 설명되지 않는 체중 감소·지속적인 배변 습관 변화 또는 대장암 선별검사 적응이 있을 때 시행</td></tr><tr><td>CT colonography</td><td>대장내시경이 불가능하거나 불완전한 경우 해부학적 이상·종양 평가의 대안; 조직검사·치료는 불가능</td></tr><tr><td>Anorectal manometry<br>+ balloon expulsion test</td><td>배변협동장애가 의심되거나 적절한 하제 치료에 반응하지 않을 때 함께 시행; 증상과 검사 소견을 함께 해석하며 아래 Rome V 진단 설명 참조</td></tr><tr><td>Defecography</td><td>ARM·BET 결과가 불일치하거나 직장류·직장탈출 등 구조적 배출장애가 의심될 때 추가</td></tr><tr><td>Colonic transit test</td><td>배변장애 평가·치료 후에도 증상이 지속될 때 고려; 방사선비투과 표지자 검사 등 검사법별 정상범위와 표지자 분포를 함께 해석</td></tr></tbody></table>
+<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td><strong>직장 수지 검사</strong></td><td>분변매복, 괄약근 긴장, 직장항문 종괴, 직장탈출·직장류를 확인하고 배변장애를 조기에 시사하는 중요한 검사; 배변 시뮬레이션에서 치골직장근의 역설적 수축 또는 괄약근 이완 부전이 관찰되면 배변장애 의심. 정상 소견만으로 배변장애를 배제할 수 없음</td></tr><tr><td><strong>대장내시경</strong></td><td>대장암 의심 소견, 혈변, 철결핍빈혈, 설명되지 않는 체중 감소·지속적인 배변 습관 변화 또는 대장암 선별검사 적응이 있을 때 시행</td></tr><tr><td><strong>CT colonography</strong></td><td>대장내시경이 불가능하거나 불완전한 경우 해부학적 이상·종양 평가의 대안; 조직검사·치료는 불가능</td></tr><tr><td><strong>Anorectal manometry</strong><br><strong>+ balloon expulsion test</strong></td><td>배변협동장애가 의심되거나 적절한 하제 치료에 반응하지 않을 때 함께 시행; 증상과 검사 소견을 함께 해석하며 아래 Rome V 진단 설명 참조</td></tr><tr><td><strong>Defecography</strong></td><td>ARM·BET 결과가 불일치하거나 직장류·직장탈출 등 구조적 배출장애가 의심될 때 추가</td></tr><tr><td><strong>Colonic transit test</strong></td><td>배변장애 평가·치료 후에도 증상이 지속될 때 고려; 방사선비투과 표지자 검사 등 검사법별 정상범위와 표지자 분포를 함께 해석</td></tr></tbody></table>
 
-* 배변협동장애 진단 - Rome V : 배변의 ≥¼에서 과도한 힘주기·수기 배변·항문 폐쇄감·불완전 배출감 중 ≥1개 증상이 있고, ARM·BET·배변조영술 중 ≥1개에서 배출 장애가 확인되면 진단 가능. 만성 변비 또는 IBS 기준 충족은 필수가 아님; 최근 3개월 기준 충족·진단 최소 6개월 전 증상 시작 조건을 적용
-  * 원문 해설은 검사 1개 이상인 경우 probable DD, 2개 이상 일치하는 경우 definite DD로 구분; 검사기기·방법에 맞는 연령·성별 정상치로 해석 <mark style="color:$info;">\[Rome V 2026; Gastroenterology 2026]</mark>
 * Rome V의 직장 감각장애 : 불응성 환자의 항문직장 검사에서는 직장 감각저하·감각과민도 평가할 수 있으며, 확인된 감각 이상은 감각 바이오피드백 등 전문치료 선택에 참고
 
 ***
 
 ```mermaid
-flowchart TD
-    A["변비 초기 평가"] --> B["Red Flags 즉각 조치 항목?"]
-    B -- "예" --> E["<u>응급 평가·안정화</u><br/>•장폐색·천공·대량 출혈 등 평가<br/>•응급 이송 또는 즉시 의뢰"]
-    B -- "아니오" --> C["Red Flags 당일~수일 내 평가 항목?"]
-    C -- "예" --> F["<u>긴급도에 맞춘 원인 평가</u><br/>•필요시 내시경·영상검사<br/>•원인 치료 후 변비 재평가"]
-    C -- "아니오" --> D["분변매복?"]
-    D -- "예" --> G["<u>매복 해소 후 유지치료</u><br/>•위치·장폐색 여부 확인<br/>•수지 제거·좌약·관장 또는 PEG 세척"]
-    D -- "아니오" --> H(["2차 원인·복용약 검토 후<br/>단계적 치료 알고리듬 적용"])
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef danger fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    class A neutral
-    class B,C,D question
-    class F test
-    class G,H treatment
-    class E danger
 ```
 
-<p align="center"><strong>변비 초기 평가 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Seoul Consensus 2022; AGA 2026)</mark></em></p>
+<p align="center"><strong>변비 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Seoul Consensus 2022; AGA 2026)</mark></em></p>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["경고 징후·분변매복·2차 원인 평가 후"] --> B["Opioid 유발 변비?"]
-    B -- "예" --> C["일반 하제: 삼투성 또는 자극성"]
-    C --> D["반응 충분?"]
-    D -- "예" --> Z1(["치료 유지·추적"])
-    D -- "아니오" --> E["전문진료: OIC 표적 치료 검토"]
-    B -- "아니오" --> F["배변장애 강력 의심?"]
-    F -- "예" --> G["ARM + BET 평가"]
-    F -- "아니오" --> H["생활습관·수용성 섬유 또는 PEG"]
-    H --> I["적절한 초기 하제에도 지속?"]
-    I -- "아니오" --> Z2(["치료 유지·추적"])
-    I -- "예" --> J["순응도·용량·2차 원인 재평가"]
-    J --> G
-    G --> K["배변협동장애 확인?"]
-    K -- "예" --> L["바이오피드백 우선 ± 하제"]
-    K -- "아니오" --> M["하제 최적화·병용 ± prucalopride"]
-    L --> N["증상 지속?"]
-    M --> N
-    N -- "아니오" --> Z3(["최소 유효 치료·추적"])
-    N -- "예" --> O["<u>전문의 평가</u><br/>•필요시 대장 통과 검사·배변조영<br/>•난치성 원인 및 치료 재평가"]
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class B,D,F,I,K,N question
-    class G,J test
-    class C,H,L,M,Z1,Z2,Z3 treatment
-    class E,O next
 ```
 
-<p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA-ACG 2023; AGA 2026; Rome V 2026)</mark></em></p>
+<p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AGA-ACG 2023; AGA 2026; Rome V 2026)</mark></em></p>
 
 ***
 
@@ -532,65 +492,52 @@ flowchart TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* <mark style="color:$info;">Rome Foundation. Rome V Criteria. 2026. - 만성 변비·IBS·배변협동장애 진단 기준</mark>
+*   <mark style="color:$info;">Rome Foundation. Rome V Criteria. 2026. - 만성 변비·IBS·배변협동장애 진단 기준</mark>
 
-  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+    [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+*   <mark style="color:$info;">Rao SSC, et al. Anorectal Disorders. Gastroenterology. 2026;170:1318-1346. - 배변협동장애의 probable/definite 구분 및 직장 감각장애</mark>
 
-* <mark style="color:$info;">Rao SSC, et al. Anorectal Disorders. Gastroenterology. 2026;170:1318-1346. - 배변협동장애의 probable/definite 구분 및 직장 감각장애</mark>
+    [https://doi.org/10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)
+*   <mark style="color:$info;">Chang L, et al. AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. Gastroenterology. 2023;164:1086-1106. - 성인 CIC 약물치료; IBS-C·임신·OIC 근거와 구분</mark>
 
-  [https://doi.org/10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/)
+*   <mark style="color:$info;">Staller K, et al. AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review. Clin Gastroenterol Hepatol. 2026;24:296-305. - 배변장애 평가·바이오피드백, 통과검사 및 수술 전 평가</mark>
 
-* <mark style="color:$info;">Chang L, et al. AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. Gastroenterology. 2023;164:1086-1106. - 성인 CIC 약물치료; IBS-C·임신·OIC 근거와 구분</mark>
+    [https://pubmed.ncbi.nlm.nih.gov/41504675/](https://pubmed.ncbi.nlm.nih.gov/41504675/)
+*   <mark style="color:$info;">Cho YS, et al. 2022 Seoul Consensus on Clinical Practice Guidelines for Functional Constipation. J Neurogastroenterol Motil. 2023;29:271-305. 국문판: 만성변비의 진단과 치료에 관한 서울 진료지침. Korean J Gastroenterol. 2025;85:319-344. - 진단·검사·약물·바이오피드백 및 보조치료</mark>
 
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/)
+    [영문판](https://doi.org/10.5056/jnm23066) · [국문판](https://doi.org/10.4166/kjg.2024.156)
+*   <mark style="color:$info;">Dimidi E, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet. 2025;38:e70133. - 섬유 종류·식품·probiotics별 효과와 근거 한계</mark>
 
-* <mark style="color:$info;">Staller K, et al. AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review. Clin Gastroenterol Hepatol. 2026;24:296-305. - 배변장애 평가·바이오피드백, 통과검사 및 수술 전 평가</mark>
+    [https://doi.org/10.1111/jhn.70133](https://doi.org/10.1111/jhn.70133)
+*   <mark style="color:$info;">Barberio B, et al. Global prevalence of functional constipation according to the Rome criteria: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2021;6:638-648. - Rome IV 기준 통합 유병률 10.1%</mark>
 
-  [https://pubmed.ncbi.nlm.nih.gov/41504675/](https://pubmed.ncbi.nlm.nih.gov/41504675/)
+    [https://pubmed.ncbi.nlm.nih.gov/34090581/](https://pubmed.ncbi.nlm.nih.gov/34090581/)
+*   <mark style="color:$info;">UKTIS. Treatment of Constipation in Pregnancy. 2026. - 임신 중 비약물 치료와 하제 선택의 근거·한계</mark>
 
-* <mark style="color:$info;">Cho YS, et al. 2022 Seoul Consensus on Clinical Practice Guidelines for Functional Constipation. J Neurogastroenterol Motil. 2023;29:271-305. 국문판: 만성변비의 진단과 치료에 관한 서울 진료지침. Korean J Gastroenterol. 2025;85:319-344. - 진단·검사·약물·바이오피드백 및 보조치료</mark>
+    [https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/](https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/)
+*   <mark style="color:$info;">NHS Specialist Pharmacy Service. Using laxatives during breastfeeding. 2023. - 만삭·건강한 영아 수유 시 하제 선택과 영아 관찰</mark>
 
-  [영문판](https://doi.org/10.5056/jnm23066) · [국문판](https://doi.org/10.4166/kjg.2024.156)
+    [https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/](https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/)
+*   <mark style="color:$info;">MHRA. Clozapine: reminder of potentially fatal risk of intestinal obstruction, faecal impaction, and paralytic ileus. 2017. - 새 변비의 조기 확인·적극적 치료</mark>
 
-* <mark style="color:$info;">Dimidi E, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet. 2025;38:e70133. - 섬유 종류·식품·probiotics별 효과와 근거 한계</mark>
-
-  [https://doi.org/10.1111/jhn.70133](https://doi.org/10.1111/jhn.70133)
-
-* <mark style="color:$info;">Barberio B, et al. Global prevalence of functional constipation according to the Rome criteria: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2021;6:638-648. - Rome IV 기준 통합 유병률 10.1%</mark>
-
-  [https://pubmed.ncbi.nlm.nih.gov/34090581/](https://pubmed.ncbi.nlm.nih.gov/34090581/)
-
-* <mark style="color:$info;">UKTIS. Treatment of Constipation in Pregnancy. 2026. - 임신 중 비약물 치료와 하제 선택의 근거·한계</mark>
-
-  [https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/](https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/)
-
-* <mark style="color:$info;">NHS Specialist Pharmacy Service. Using laxatives during breastfeeding. 2023. - 만삭·건강한 영아 수유 시 하제 선택과 영아 관찰</mark>
-
-  [https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/](https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/)
-
-* <mark style="color:$info;">MHRA. Clozapine: reminder of potentially fatal risk of intestinal obstruction, faecal impaction, and paralytic ileus. 2017. - 새 변비의 조기 확인·적극적 치료</mark>
-
-  [https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus](https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus)
+    [https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus](https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+*   <mark style="color:$info;">건강보험심사평가원. 약제급여기준 및 약제급여목록. - Prucalopride 성분 급여기준과 품목별 등재 구분</mark>
 
-* <mark style="color:$info;">건강보험심사평가원. 약제급여기준 및 약제급여목록. - Prucalopride 성분 급여기준과 품목별 등재 구분</mark>
+    [https://www.hira.or.kr](https://www.hira.or.kr)
+*   <mark style="color:$info;">통계청. 한국표준질병·사인분류(KCD) 제9차 개정. - K59.0 하위코드, K56.4 및 K58.2 확인</mark>
 
-  [https://www.hira.or.kr](https://www.hira.or.kr)
+    [https://kssc.kostat.go.kr](https://kssc.kostat.go.kr)
+*   <mark style="color:$info;">미국 FDA·DailyMed. MOVANTIK (naloxegol) prescribing information. 2026. - 신기능·CYP3A 상호작용에 따른 용량 및 장천공 경고</mark>
 
-* <mark style="color:$info;">통계청. 한국표준질병·사인분류(KCD) 제9차 개정. - K59.0 하위코드, K56.4 및 K58.2 확인</mark>
+    [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov)
+*   <mark style="color:$info;">일본 PMDA. Elobixibat review report. - 성인 1일 1회 식전 용법</mark>
 
-  [https://kssc.kostat.go.kr](https://kssc.kostat.go.kr)
-
-* <mark style="color:$info;">미국 FDA·DailyMed. MOVANTIK (naloxegol) prescribing information. 2026. - 신기능·CYP3A 상호작용에 따른 용량 및 장천공 경고</mark>
-
-  [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov)
-
-* <mark style="color:$info;">일본 PMDA. Elobixibat review report. - 성인 1일 1회 식전 용법</mark>
-
-  [https://www.pmda.go.jp/files/000232054.pdf](https://www.pmda.go.jp/files/000232054.pdf)
+    [https://www.pmda.go.jp/files/000232054.pdf](https://www.pmda.go.jp/files/000232054.pdf)
 
 ***
 

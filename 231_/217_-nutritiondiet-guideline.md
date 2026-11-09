@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 건강한 성인의 식사 상담과 질환별 영양 관리의 기본 원칙을 다룸. 소아·임신부·수유부 및 질환별 치료식은 별도 기준을 적용함. 영아의 식품 알레르기 예방을 위한 식품 도입 원칙은 별도 항목으로 제시함.
+* 건강한 성인의 식사 상담과 질환별 영양 관리의 기본 원칙을 다룸. 소아·임신부·수유부 및 질환별 치료식은 별도 기준을 적용함.
 * KDRI는 건강한 인구집단을 위한 영양소 기준이며, 질환별 치료 목표나 영양지원 시작량과 동일하지 않음. 연령, 체격, 활동량, 임신·수유, 노쇠, 질환, 약물 및 치료 목표에 따라 개별화함.
 * 관련 챕터 : 「체중감소」(013), 「소화기 약물」(073), 「변비」(082), 「고혈압」(095), 「당뇨병」(100), 「대사증후군」(104).
 
@@ -359,33 +359,9 @@ MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해�
 
 ### <mark style="color:orange;">질환·상황별 개별화</mark>
 
-<table><thead><tr><th width="150">상황</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>고령자·노쇠</td><td>비의도적 체중 감소, 식욕저하, 근감소증, 저작·연하곤란, 우울, 인지기능과 식품 접근성을 평가함. 단백질 식품을 끼니마다 배치하고 가능한 경우 근력운동을 병행함. 단백질은 대체로 최소 1.0 g/㎏/day, 건강한 고령자는 1.0\~1.2 g/㎏/day를 참고하고, 1.2\~1.5 g/㎏/day는 급·만성질환, 영양불량 또는 회복기에서 신기능·질환·내약성을 고려하여 개별적으로 적용함. 식사 지원·영양 보강·수분 관리는 아래 「고령자의 영양과 수분 관리」를 참조함.</td></tr><tr><td>당뇨병</td><td>탄수화물의 총량과 식사별 분배, 첨가당, 식이섬유 및 저혈당 위험을 함께 고려함. ADA 2026의 식이섬유 목표는 ≥14 g/1,000 ㎉로, 일반인용 KDRI 충분섭취량과 출처·목적을 구분함. 특정 탄수화물 비율을 모든 환자에게 일률적으로 적용하지 않으며 KDRI 50\~65%를 모든 당뇨병 환자의 고정 목표로 사용하지 않음. 식사량·탄수화물을 줄일 때 인슐린·SU 등의 용량 조정과 혈당 추적을 함께 계획함. SGLT2 억제제 사용 중에는 케톤산증 위험 때문에 극저탄수화물식·케톤식을 피하고, 장시간 금식·급성질환·섭취 저하 시 약물 관리 계획을 확인함(100장 참조).  <mark style="color:$info;">[ADA 2026]</mark></td></tr><tr><td>만성콩팥병</td><td>대사적으로 안정된 비투석 CKD G3~G5 성인은 단백질 약 0.8 g/㎏/day를 참고하며, 진행 위험이 있는 CKD에서는 ＞1.3 g/㎏/day의 고단백 섭취를 피함. 투석·급성질환·노쇠·영양불량에는 이를 일률적으로 적용하지 않고 신장·영양 전문진료로 목표를 정함. 고령자 단백질 권고와 충돌하면 신기능·대사 상태·영양 위험을 함께 평가함.  <mark style="color:$info;">[KDIGO 2024]</mark> 단백질, 나트륨, 칼륨, 인과 수분은 병기, 투석 여부, 검사 결과와 영양 상태에 따라 개별화함. 건강식품·소금 대체제의 칼륨도 확인함. 고칼륨혈증 등으로 실제 칼륨 제한이 필요한 경우에는 식품을 잘게 썰어 물에 담그거나 삶은 뒤 물을 버리는 방법을 활용할 수 있음. 모든 CKD 환자에게 채소·과일 제한이나 이런 조리를 일률적으로 지시하지 않고, 칼륨 첨가물·소금 대체제와 검사 결과를 함께 평가함.</td></tr><tr><td>고혈압·대사증후군</td><td>과체중·비만에서는 지속 가능한 열량 조절과 DASH·지중해식 등을 적용함. 나트륨 목표는 위 「국내 나트륨 기준과 실천」 및 095·104장을 참조함.</td></tr><tr><td>고중성지방혈증</td><td>TG 500\~999 ㎎/㎗에서는 금주, 첨가당·정제 탄수화물 제한 및 총지방 제한 정도를 개별화함. TG ≥1,000 ㎎/㎗에서는 금주·첨가당 배제와 매우 저지방식(총에너지의 약 10\~15%)을 전문 영양상담과 함께 적용하며, 췌장염 예방을 위한 약물 치료 필요성도 평가함. 이때 견과류·식물성 기름 등 불포화지방도 무제한 늘리지 않음. TG가 호전되면 제한 정도와 영양 적절성을 재평가함. 상세 치료는 097·104장 참조.  <mark style="color:$info;">[ACC/AHA 2026]</mark></td></tr><tr><td>심부전</td><td>나트륨과 수분 제한은 울혈·저나트륨혈증, 이뇨제, 신기능과 영양 상태를 고려하여 정함. 모든 환자에게 동일한 수분량을 적용하거나 지나친 제한으로 섭취량이 감소하지 않도록 함.</td></tr><tr><td>간경변</td><td>복수·부종과 영양 상태를 함께 평가함. 안정된 성인에서는 단백질 1.2\~1.5 g/㎏/day(이상체중 기준)를 참고함. ACG 2026도 간성뇌증 외래 환자에서 1.2\~1.5 g/㎏/day를 권고하며 일률적인 단백질 제한을 피하고 늦은 저녁 간식을 제안함. 식사만으로 단백질 필요량을 충족하기 어려운 간성뇌증 환자는 전문진료에서 BCAA 보충을 검토함. 의식 저하·연하 불안전이 있으면 억지로 경구 섭취시키지 않고 기도·흡인 위험을 먼저 평가함. 나트륨·수분 제한은 복수·저나트륨혈증 등 적응증에 맞추고, 식사량이 감소하면 제한 정도를 재평가함.  <mark style="color:$info;">[AASLD 2021; ACG 2026]</mark></td></tr><tr><td>항응고제 복용</td><td>Warfarin 복용 중에는 비타민 K 함유 채소를 금지하지 않고 섭취량을 일관되게 유지함. DOAC에는 같은 비타민 K 제한을 적용하지 않음.</td></tr><tr><td>장기 약물 복용</td><td>Metformin 복용자는 장기 사용·고용량·섭취 부족 등 위험요인에 따라 비타민 B12를 주기적으로 평가하고, 빈혈·신경병증이 있으면 특히 확인함. PPI/H2RA 장기 사용자의 위험 기반 선택 검사와 metformin의 주기적 평가 권고를 구분함(073·100장 참조). PPI·H2RA는 장기 처방의 적응증을 재평가하고, 결핍 증상이나 위험요인이 있을 때 비타민 B12 평가를 고려함. PPI 사용자는 저마그네슘혈증 증상, 장기간 사용 또는 관련 약물 병용 등 위험요인이 있을 때 마그네슘 평가를 고려함.</td></tr><tr><td>의도적 체중감량·GLP-1 계열 치료</td><td>식욕 감소·오심·구토·조기 포만으로 에너지·단백질·미량영양소와 수분이 부족해지는지 확인함. 체중 감소만 추적하지 말고 실제 식사량, 근력·기능과 가능한 경우 체성분을 함께 평가함. 충분한 단백질 식품과 근력운동을 병행함. 단백질 보충만으로 근육 보존이 보장되는 것은 아님. 지속 구토·탈수·심한 섭취 저하는 약물 용량·증량 계획을 재평가함. 보충제는 실제 부족분과 위험요인에 따라 선택함.  <mark style="color:$info;">[Obes Pillars 2025]</mark></td></tr><tr><td>채식·동물성 식품 제한</td><td>단백질, 철, 비타민 B12, 칼슘, 비타민 D와 요오드의 급원을 확인함. 특히 비건은 비타민 B12 강화식품 또는 보충제로 신뢰할 수 있는 공급원을 확보해야 함. 해조류·발효식품만으로 B12 필요량이 충족된다고 설명하지 않음.  <mark style="color:$info;">[NIH ODS]</mark></td></tr><tr><td>식품 알레르기·제거식</td><td>병력과 적절한 평가로 원인 식품을 확인하고, 증상 없이 먹는 다른 식품까지 일괄 제한하지 않음. 제한하는 식품을 대신할 식품과 에너지·단백질·미량영양소 섭취의 적절성을 평가함. 특히 우유·달걀·밀 등 주요 식품을 제한하는 소아는 성장과 식사 다양성을 추적하며, 여러 식품의 제한 또는 성장 부진이 있으면 임상영양사·알레르기 전문진료와 연계함. 원인 식품의 재도입은 개별 진료 계획에 따름.  <mark style="color:$info;">[EAACI 식품 알레르기 관리 지침]</mark></td></tr><tr><td>임신·수유</td><td>에너지·단백질·철·엽산·요오드·콜린 등 필요량 변화와 식품 안전을 고려함. 임신 중에는 금주함.</td></tr><tr><td>저작·연하곤란</td><td>단순히 부드러운 음식으로 제한하지 말고 연하 평가에 따른 음식의 질감·점도 조절과 영양 밀도 보강을 시행함. 점도 조절 후 실제 음료·식사 섭취량이 줄지 않는지 추적함.</td></tr></tbody></table>
+<table><thead><tr><th width="150">상황</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>고령자·노쇠</td><td>비의도적 체중 감소, 식욕저하, 근감소증, 저작·연하곤란, 우울, 인지기능과 식품 접근성을 평가함. 단백질 식품을 끼니마다 배치하고 가능한 경우 근력운동을 병행함. 단백질은 대체로 최소 1.0 g/㎏/day, 건강한 고령자는 1.0\~1.2 g/㎏/day를 참고하고, 1.2\~1.5 g/㎏/day는 급·만성질환, 영양불량 또는 회복기에서 신기능·질환·내약성을 고려하여 개별적으로 적용함. 식사 지원·영양 보강·수분 관리는 아래 「고령자의 영양과 수분 관리」를 참조함.</td></tr><tr><td>당뇨병</td><td>탄수화물의 총량과 식사별 분배, 첨가당, 식이섬유 및 저혈당 위험을 함께 고려함. ADA 2026의 식이섬유 목표는 ≥14 g/1,000 ㎉로, 일반인용 KDRI 충분섭취량과 출처·목적을 구분함. 특정 탄수화물 비율을 모든 환자에게 일률적으로 적용하지 않으며 KDRI 50\~65%를 모든 당뇨병 환자의 고정 목표로 사용하지 않음. 식사량·탄수화물을 줄일 때 인슐린·SU 등의 용량 조정과 혈당 추적을 함께 계획함. SGLT2 억제제 사용 중에는 케톤산증 위험 때문에 극저탄수화물식·케톤식을 피하고, 장시간 금식·급성질환·섭취 저하 시 약물 관리 계획을 확인함(100장 참조).  <mark style="color:$info;">[ADA 2026]</mark></td></tr><tr><td>만성콩팥병</td><td>대사적으로 안정된 비투석 CKD G3~G5 성인은 단백질 약 0.8 g/㎏/day를 참고하며, 진행 위험이 있는 CKD에서는 ＞1.3 g/㎏/day의 고단백 섭취를 피함. 투석·급성질환·노쇠·영양불량에는 이를 일률적으로 적용하지 않고 신장·영양 전문진료로 목표를 정함. 고령자 단백질 권고와 충돌하면 신기능·대사 상태·영양 위험을 함께 평가함.  <mark style="color:$info;">[KDIGO 2024]</mark> 단백질, 나트륨, 칼륨, 인과 수분은 병기, 투석 여부, 검사 결과와 영양 상태에 따라 개별화함. 건강식품·소금 대체제의 칼륨도 확인함. 고칼륨혈증 등으로 실제 칼륨 제한이 필요한 경우에는 식품을 잘게 썰어 물에 담그거나 삶은 뒤 물을 버리는 방법을 활용할 수 있음. 모든 CKD 환자에게 채소·과일 제한이나 이런 조리를 일률적으로 지시하지 않고, 칼륨 첨가물·소금 대체제와 검사 결과를 함께 평가함.</td></tr><tr><td>고혈압·대사증후군</td><td>과체중·비만에서는 지속 가능한 열량 조절과 DASH·지중해식 등을 적용함. 나트륨 목표는 위 「국내 나트륨 기준과 실천」 및 095·104장을 참조함.</td></tr><tr><td>고중성지방혈증</td><td>TG 500\~999 ㎎/㎗에서는 금주, 첨가당·정제 탄수화물 제한 및 총지방 제한 정도를 개별화함. TG ≥1,000 ㎎/㎗에서는 금주·첨가당 배제와 매우 저지방식(총에너지의 약 10\~15%)을 전문 영양상담과 함께 적용하며, 췌장염 예방을 위한 약물 치료 필요성도 평가함. 이때 견과류·식물성 기름 등 불포화지방도 무제한 늘리지 않음. TG가 호전되면 제한 정도와 영양 적절성을 재평가함. 상세 치료는 097·104장 참조.  <mark style="color:$info;">[ACC/AHA 2026]</mark></td></tr><tr><td>심부전</td><td>나트륨과 수분 제한은 울혈·저나트륨혈증, 이뇨제, 신기능과 영양 상태를 고려하여 정함. 모든 환자에게 동일한 수분량을 적용하거나 지나친 제한으로 섭취량이 감소하지 않도록 함.</td></tr><tr><td>간경변</td><td>복수·부종과 영양 상태를 함께 평가함. 안정된 성인에서는 단백질 1.2\~1.5 g/㎏/day(이상체중 기준)를 참고함. ACG 2026도 간성뇌증 외래 환자에서 1.2\~1.5 g/㎏/day를 권고하며 일률적인 단백질 제한을 피하고 늦은 저녁 간식을 제안함. 식사만으로 단백질 필요량을 충족하기 어려운 간성뇌증 환자는 전문진료에서 BCAA 보충을 검토함. 의식 저하·연하 불안전이 있으면 억지로 경구 섭취시키지 않고 기도·흡인 위험을 먼저 평가함. 나트륨·수분 제한은 복수·저나트륨혈증 등 적응증에 맞추고, 식사량이 감소하면 제한 정도를 재평가함.  <mark style="color:$info;">[AASLD 2021; ACG 2026]</mark></td></tr><tr><td>항응고제 복용</td><td>Warfarin 복용 중에는 비타민 K 함유 채소를 금지하지 않고 섭취량을 일관되게 유지함. DOAC에는 같은 비타민 K 제한을 적용하지 않음.</td></tr><tr><td>장기 약물 복용</td><td>Metformin 복용자는 장기 사용·고용량·섭취 부족 등 위험요인에 따라 비타민 B12를 주기적으로 평가하고, 빈혈·신경병증이 있으면 특히 확인함. PPI/H2RA 장기 사용자의 위험 기반 선택 검사와 metformin의 주기적 평가 권고를 구분함(073·100장 참조). PPI·H2RA는 장기 처방의 적응증을 재평가하고, 결핍 증상이나 위험요인이 있을 때 비타민 B12 평가를 고려함. PPI 사용자는 저마그네슘혈증 증상, 장기간 사용 또는 관련 약물 병용 등 위험요인이 있을 때 마그네슘 평가를 고려함.</td></tr><tr><td>의도적 체중감량·GLP-1 계열 치료</td><td>식욕 감소·오심·구토·조기 포만으로 에너지·단백질·미량영양소와 수분이 부족해지는지 확인함. 체중 감소만 추적하지 말고 실제 식사량, 근력·기능과 가능한 경우 체성분을 함께 평가함. 충분한 단백질 식품과 근력운동을 병행함. 단백질 보충만으로 근육 보존이 보장되는 것은 아님. 지속 구토·탈수·심한 섭취 저하는 약물 용량·증량 계획을 재평가함. 보충제는 실제 부족분과 위험요인에 따라 선택함.  <mark style="color:$info;">[Obes Pillars 2025]</mark></td></tr><tr><td>채식·동물성 식품 제한</td><td>단백질, 철, 비타민 B12, 칼슘, 비타민 D와 요오드의 급원을 확인함. 특히 비건은 비타민 B12 강화식품 또는 보충제로 신뢰할 수 있는 공급원을 확보해야 함. 해조류·발효식품만으로 B12 필요량이 충족된다고 설명하지 않음.  <mark style="color:$info;">[NIH ODS]</mark></td></tr><tr><td>임신·수유</td><td>에너지·단백질·철·엽산·요오드·콜린 등 필요량 변화와 식품 안전을 고려함. 임신 중에는 금주함.</td></tr><tr><td>저작·연하곤란</td><td>단순히 부드러운 음식으로 제한하지 말고 연하 평가에 따른 음식의 질감·점도 조절과 영양 밀도 보강을 시행함. 점도 조절 후 실제 음료·식사 섭취량이 줄지 않는지 추적함.</td></tr></tbody></table>
 
 <mark style="color:$info;">Ref. Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989; American Diabetes Association. Standards of Care in Diabetes-2026.</mark>
-
-***
-
-### <mark style="color:orange;">영아의 식품 알레르기 예방</mark>
-
-* 발달상 준비가 된 생후 약 6개월에 이유식을 시작하면서 알레르기 유발 식품도 불필요하게 늦추지 않음. 생후 4개월 이전 도입은 권하지 않음. 머리·목을 가누고 지지하여 앉을 수 있는지 등 섭식 준비 상태를 확인함.
-* 충분히 익힌 달걀과 영아에게 적합한 형태의 땅콩을 이유식 시작 후 이른 시기에 포함함. 유제품·밀·콩·견과류·참깨·생선·갑각류 등도 가족의 식생활에 맞추어 첫돌 이전에 도입함. 예방 효과의 근거는 땅콩·달걀에서 가장 명확하며, 다른 식품에서도 같은 정도의 효과가 입증된 것으로 설명하지 않음.
-* 새로운 알레르기 유발 식품은 한 끼에 한 종류씩 소량으로 시작하여 반응을 관찰함. **통땅콩·통견과류는 만 5세 미만 소아에게 주지 않으며, 되직한 견과 버터 덩어리도 피함.** 곱게 간 견과류를 이유식에 섞거나 견과 버터를 물·모유·영아용 조제유 등으로 묽게 풀어 제공함. 달걀·생선 등도 충분히 익히고 발달에 맞는 질감으로 제공함.
-* 증상 없이 먹은 식품은 한 번 맛보는 데 그치지 않고 식단에 정기적으로 포함함. ASCIA 2026은 최소 주 1회 지속 섭취를 제안하지만 이는 전문가 합의에 근거하며, 특정 횟수를 모든 영아에게 필수 조건으로 적용하지 않음.
-* 요구르트 등 유제품을 이유식으로 도입하는 것과 생우유를 주된 음료로 주는 것은 구분함. 생후 12개월 전에는 생우유로 모유·영아용 조제유를 대체하지 않음.
-* 습진은 적절히 치료하되, 습진만을 이유로 여러 식품을 임의로 제한하거나 모든 영아에게 도입 전 알레르기 검사를 일률적으로 시행하지 않음. 음식물을 피부에 발라 알레르기 여부를 시험하지 않음.
-* 조기 식품 도입 지침 발표 이후 땅콩 및 전체 IgE 매개 식품 알레르기 진단이 감소한 관찰연구가 있음. 지침 발표 전후의 비교 결과이며, 개인별 예방 효과나 인과관계를 확정하는 근거로 해석하지 않음.  <mark style="color:$info;">[Pediatrics 2025]</mark>
-* 임신·수유 중 산모가 영아의 식품 알레르기 예방을 목적으로 알레르기 유발 식품을 회피하는 것은 예방 이득이 입증되지 않아 권하지 않음.  <mark style="color:$info;">[EAACI 2020 update; AAAAI/ACAAI/CSACI 2021]</mark>
-* 부분·완전 가수분해 분유를 식품 알레르기 예방 목적으로 일률적으로 선택하도록 권하지 않음. EAACI 2020 update는 찬반 권고를 제시하지 않았으며, ASCIA 2026은 예방 목적 사용을 권하지 않음. 이는 확진된 우유 알레르기의 치료용 분유 선택과 구분함.  <mark style="color:$info;">[EAACI 2020 update; ASCIA 2026]</mark>
-* EAACI 2020 update는 모유수유 영아에서 생후 첫 1주 동안 일반 우유 기반 분유의 보충 수유를 피하도록 제안함(근거 확실성 낮음). ASCIA 2026은 건강한 모유수유 영아의 불필요한 일시적 보충을 피하되, 의학적 필요나 정기적 분유 수유 계획이 있는 경우에는 개별 수유 계획을 따르도록 함. 생후 6개월 이내 콩 단백 분유를 식품 알레르기 예방 목적으로 사용하는 것도 권하지 않음(EAACI: 근거 확실성 매우 낮음).  <mark style="color:$info;">[EAACI 2020 update; ASCIA 2026]</mark>
-* 프로바이오틱스와 습진이 없는 영아의 예방적 보습제 도포는 식품 알레르기 예방 효과의 근거가 불충분함. EAACI 2020 update는 찬반 권고를 제시하지 않았으며, 예방 효과를 기대해 일률적으로 권하지 않음. 습진 치료를 위한 보습과는 구분함.  <mark style="color:$info;">[EAACI 2020 update]</mark>
-* 영아기 전신 항생제 노출은 식품 알레르기 위험 증가와 관련된다는 관찰연구 근거가 있음. 인과관계와 항생제 노출 감소에 따른 식품 알레르기 예방 효과는 확립되지 않았으나, 바이러스 감염 등 적응증이 없는 항생제 처방은 피함.  <mark style="color:$info;">[JAMA Pediatr 2026]</mark>
-
-{% hint style="warning" %}
-* **중증 습진 또는 달걀 알레르기가 있는 영아**는 생후 4\~6개월 무렵 땅콩 도입 시기·방법을 의료진과 조기에 상담함. 중증 습진이 있고 달걀 알레르기가 없는 경우에는 충분히 익힌 달걀의 도입 계획도 함께 상담함. NIAID 2017은 이 집단에서 도입 전 땅콩 특이 IgE·피부단자검사 등을 적극 고려하도록 권고함. AAAAI/ACAAI/CSACI 2021 합의문은 일률적인 사전 검사를 요구하지 않으므로, 병력·위험도와 가족의 선호에 따라 검사 및 의료진 감독하 도입 여부를 결정함.
-* **이미 해당 식품에 알레르기 반응이 있었거나 알레르기가 확진된 경우**에는 가정에서 임의로 재도전하지 않고 개별 진료 계획을 따름. 알레르기 예방을 위한 조기 도입과 확진 후 관리는 구분함.
-{% endhint %}
-
-<mark style="color:$info;">Ref. ASCIA 영아 식품 알레르기 예방 지침. 2026; EAACI 식품 알레르기 예방 지침(2020 update, 2021년 출판); AAAAI/ACAAI/CSACI 식품 알레르기 일차예방 합의문. 2021; NIAID 땅콩 알레르기 예방 추가 지침. 2017; Islam N, et al. JAMA Pediatr. 2026; Gabryszewski SJ, et al. Pediatrics. 2025.</mark>
 
 ***
 
@@ -502,17 +478,6 @@ Persons encountering health services for dietary counselling and surveillance
 * Endocrine Society. [Vitamin D for the Prevention of Disease](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease). 2024.
 * NIH Office of Dietary Supplements. [Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/); [Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/); [Omega-3 Fatty Acids](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/). Health Professional Fact Sheets.
 * NHLBI. [DASH Eating Plan](https://www.nhlbi.nih.gov/health/dash-eating-plan); Morris MC, et al. [MIND diet slows cognitive decline with aging](https://doi.org/10.1016/j.jalz.2015.04.011). 2015; Barnes LL, et al. [Trial of the MIND Diet](https://doi.org/10.1056/NEJMoa2302368). 2023.
-* Vale SL, et al. ASCIA Guideline: Infant Feeding for Food Allergy Prevention. Clin Exp Allergy. 2026;56:319–329. [doi:10.1111/cea.70217](https://doi.org/10.1111/cea.70217).
-* Halken S, et al. EAACI guideline: Preventing the development of food allergy in infants and young children (2020 update). Pediatr Allergy Immunol. 2021;32:843–858. [doi:10.1111/pai.13496](https://doi.org/10.1111/pai.13496).
-* AAAAI/ACAAI/CSACI. A Consensus Approach to the Primary Prevention of Food Allergy Through Nutrition. 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33250376/).
-* NIAID-Sponsored Expert Panel. [Addendum Guidelines for the Prevention of Peanut Allergy in the United States](https://pmc.ncbi.nlm.nih.gov/articles/PMC5226648/). 2017.
-* EAACI. EAACI guidelines on the management of IgE-mediated food allergy. [doi:10.1111/all.16345](https://doi.org/10.1111/all.16345).
-* ASCIA. [Guidelines: Acute Management of Anaphylaxis](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines). 영유아의 창백·근긴장 저하 등 아나필락시스 징후와 응급 대응.
-* Islam N, Chu AWL, Sheriff F, et al. Risk Factors for the Development of Food Allergy in Infants and Children: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(5):486–499. [doi:10.1001/jamapediatrics.2025.6105](https://doi.org/10.1001/jamapediatrics.2025.6105).
-* Gabryszewski SJ, et al. Guidelines for Early Food Introduction and Patterns of Food Allergy. Pediatrics. 2025;156(5):e2024070516. [doi:10.1542/peds.2024-070516](https://doi.org/10.1542/peds.2024-070516).
-* American Academy of Pediatrics. [When to Introduce Egg, Peanut Butter & Other Common Food Allergens to a Baby](https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx). HealthyChildren.org.
-* NHS. [Foods to avoid giving babies and young children](https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/). 만 5세 미만의 통견과류 회피 안내.
-* Gabryszewski SJ, Fiks AG, Thompson LA. What Parents Should Know About Reducing Food Allergy Risk. JAMA Pediatr. Published online October 26, 2026. [doi:10.1001/jamapediatrics.2026.3943](https://doi.org/10.1001/jamapediatrics.2026.3943). 환자 교육 자료.
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -538,18 +503,6 @@ Persons encountering health services for dietary counselling and surveillance
 * **식이섬유는 갑자기 많이 늘리지 마십시오.** 수주에 걸쳐 서서히 늘리고, 수분 제한이 없다면 물도 충분히 드십시오.
   * 2025 KDRI 충분섭취량은 성인 남성 30 g/day, 여성 19\~49세 20 g/day, 여성 50세 이상 25 g/day입니다. 이는 반드시 넘어야 하는 최소량은 아닙니다. 한 끼 음식만으로 채우려 하지 말고 통곡물·콩류·채소·통과일·견과류를 하루 전체 식사에 나누어 포함하십시오.
 * 술을 마시지 않는다면 건강을 위해 새로 시작할 필요가 없습니다.
-
-#### <mark style="color:$primary;">음식 알레르기가 걱정되거나 식품을 제한하고 있다면</mark>
-
-* 알레르기가 걱정된다는 이유만으로 여러 식품을 임의로 제한하지 마십시오. 실제로 반응한 음식과 증상 없이 먹는 음식을 구분하여 의료진과 상의하십시오.
-* 우유·달걀·밀 등 주요 식품을 제한한다면 대신 먹을 식품과 필요한 영양을 확인하십시오. 아이가 여러 음식을 피하거나 잘 자라지 않으면 영양 상담을 받으십시오.
-* 임신·수유 중 엄마가 아기의 알레르기 예방을 위해 달걀·우유·땅콩 등을 피할 필요는 없습니다. 균형 잡힌 식사를 하십시오.
-* **아기는 보통 생후 약 6개월에 이유식을 먹을 준비가 되면 알레르기를 일으킬 수 있는 식품도 불필요하게 늦추지 않고 시작합니다.** 새로 도입하는 알레르기 유발 식품은 한 끼에 한 종류씩 소량으로 시작하고, 증상 없이 먹으면 이후에도 식단에 정기적으로 포함하십시오.
-* 달걀은 충분히 익혀 주고, 땅콩·견과류는 곱게 갈아 음식에 섞거나 버터 형태를 묽게 풀어 주십시오. **통땅콩·통견과류는 질식 위험 때문에 영아기뿐 아니라 만 5세 미만에도 주지 마십시오. 되직한 견과 버터 덩어리도 피하십시오.** 음식물을 피부에 발라 알레르기 여부를 시험하지 마십시오.
-* 요구르트 등을 이유식에 포함할 수는 있지만, 생후 12개월 전에는 생우유로 모유나 영아용 조제유를 대신하지 마십시오.
-* **심한 습진이나 달걀 알레르기가 있는 아기는 생후 4\~6개월 무렵 땅콩 도입 계획을 먼저 상담하십시오.** 심한 습진이 있고 달걀 알레르기가 없다면 충분히 익힌 달걀의 도입 계획도 함께 상담하십시오. 이미 어떤 음식에 알레르기 반응이 있었거나 알레르기를 진단받았다면 그 음식을 가정에서 임의로 다시 먹이지 마십시오.
-* 새 음식을 먹은 뒤 두드러기·붓기·구토 등이 생기면 그 음식을 중단하고 의료진과 상의하십시오. 숨쉬기 어렵거나 쌕쌕거림·지속적인 기침, 쉰 목소리, 혀·목의 붓기가 생기거나, 아기가 창백하고 축 처지면 즉시 119 등 응급 도움을 요청하십시오. 처방받은 에피네프린 자가주사제가 있으면 교육받은 방법에 따라 즉시 사용하십시오.
-* 감기 같은 바이러스 감염에는 항생제가 필요하지 않습니다. 의료진이 필요하다고 판단하여 처방할 때만 항생제를 사용하십시오.
 
 #### <mark style="color:$primary;">고령자와 돌봄자가 함께 확인할 것</mark>
 
