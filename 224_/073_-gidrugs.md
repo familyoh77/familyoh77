@@ -15,7 +15,7 @@
 #### <mark style="color:$primary;">QT 연장 위험 약제</mark>
 
 * 심장 질환·QTc 연장·저칼륨혈증·저마그네슘혈증 환자에서 병용 주의; 아래 약제 2개 이상 병용 시 위험 증가
-* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron). metoclopramide와는 QTc 연장에 따른 심각한 심실성 부정맥 위험으로 DUR 병용금기
+* <mark style="color:red;">**domperidone**</mark> : 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기(예: clarithromycin, ondansetron). metoclopramide와는 QTc 연장에 따른 심각한 심실성 부정맥 위험으로 DUR 병용금기. Prucalopride와도 DUR 병용금기
 * <mark style="color:red;">**ondansetron**</mark> : QT 연장은 용량 의존적임; 선천성 QT 연장증후군에서는 회피하고 저칼륨혈증·저마그네슘혈증은 투여 전 교정
 * <mark style="color:red;">**erythromycin**</mark> : CYP3A4 기질·억제제; QT 연장 약제와 이중 위험
 * <mark style="color:red;">**metoclopramide**</mark> : 드물지만 QTc 연장 보고; 고용량·IV 투여 시 주의
@@ -302,6 +302,8 @@
 
 ### <mark style="color:orange;">식이 섬유 (Dietary fiber)</mark>
 
+(☞ [변비](082_-constipation.md))
+
 * 작용 : 소장에서 소화·흡수되지 않은 일부 식이섬유가 대장 미생물에 의해 발효되어 단쇄지방산과 가스를 생성
   * 발효성·점성·수분 보유력은 식이섬유 종류별로 다르며, 모든 식이섬유가 같은 정도로 발효되는 것은 아님; 개인차가 있음
 * 함유 음식 : 밀기울, 전곡류, 채소, 과일 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
@@ -311,7 +313,7 @@
 * 심한 서행성 변비에서는 효과가 제한적일 수 있으며, 분변 매복·장관 협착/폐쇄에서는 증상 악화 가능
 * 부작용 : 복부 가스, 팽만감, 복통(특히 대변 저류가 있는 경우)
 
-### <mark style="color:orange;">부피 형성 하제 (Bulk-forming)</mark>
+### <mark style="color:orange;">부피 형성 하제 (Bulk-forming)</mark> <a href="#bulk-forming" id="bulk-forming"></a>
 
 * 작용 : Bulk-forming laxative는 장 내에서 수분을 흡수해 팽창
 * 종류 : psyllium/ispaghula(차전자피), methylcellulose, karaya, guar gum, wheat dextrin, 해초, 한천
@@ -354,7 +356,7 @@
 * 금기 : 장폐쇄
 * [AGA-ACG 2023 만성 특발성 변비 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고. bisacodyl, Na picosulfate는 단기 또는 구제요법에 강한 권고. senna는 조건부 권고
 
-<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[신일비사코딜]</mark> (비급여)</td><td>5 ㎎/T; 성인 10 ㎎ qd 취침 시. 씹거나 부수지 않음; 우유·제산제와 1시간 이상 간격. 1주 이상 연속 사용하지 않으며 매일 필요하면 원인 재평가</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>10 ㎎/S, 1S qd 필요시 직장 투여</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (senna·차전자 성분 복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음</td></tr><tr><td><strong>Na picosulfate</strong></td><td>해외 단일제 성인 용법 5~10 ㎎ qd 취침 시; 저용량부터 반응에 따라 조절. 장정결용 복합제 용법과 구분</td></tr></tbody></table>
+<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[신일비사코딜]</mark> (비급여)</td><td>5 ㎎/T; 성인 10 ㎎ qd 취침 시. 씹거나 부수지 않음; 우유·제산제와 1시간 이상 간격. 1주 이상 연속 사용하지 않으며 매일 필요하면 원인 재평가. 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스좌약]</mark></td><td>10 ㎎/S, 1S qd 필요시 직장 투여</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실과립]</mark> (senna·차전자 성분 복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음. Senna의 장기 사용 근거를 이 복합제에 일률적으로 적용하지 않으며, 약 1주 사용해도 개선되지 않으면 중단·원인 재평가</td></tr><tr><td><strong>Na picosulfate</strong></td><td>변비 치료용 단일제는 국내 유통 제품 없음. 해외 단일제 성인 용법 5~10 ㎎ qd 취침 시; 저용량부터 반응에 따라 조절. 장정결용 복합제 용법과 구분</td></tr></tbody></table>
 
 ### <mark style="color:orange;">대변 연화제 및 복합하제 (Stool softener)</mark>
 
@@ -376,6 +378,7 @@
 * **prucalopride** : 2 ㎎ qd, 식사 무관; ≥65세는 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[레졸로]</mark> (비급여)
   * 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd
   * 금기 : 투석이 필요한 신장애
+  * 병용금기 : domperidone(돔피돈)
   * 부작용 : 두통, 복통, 구역, 설사
   * 과거 다른 5-HT4 작용제와 달리 뚜렷한 심혈관 위험 증가는 확인되지 않았으나, 새로운 우울감·자살사고 등 정신 증상 발생 시 중단하고 평가
   * 급여 등재 품목의 성분 급여기준 : 2종 이상의 경구 완하제(부피 형성·삼투성 등)를 6개월 이상 투여해도 증상 완화에 실패한 만성 변비에서 인정하며, 4주 투여 후 반응에 따라 지속 여부 결정. 품목별 급여 여부는 다르며 이 기준 충족이 비급여 품목의 급여를 뜻하지 않음 <mark style="color:$info;">\[HIRA]</mark>
@@ -775,7 +778,7 @@ flowchart TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기·허가 상태 및 DUR 병용금기 확인
 *   <mark style="color:$info;">건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). - 약제별 급여기준과 병용·연령·용량·투여기간 주의 정보</mark>
 
     [https://www.hira.or.kr](https://www.hira.or.kr)
