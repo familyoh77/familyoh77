@@ -248,7 +248,7 @@ flowchart TD
 * 부작용 : 두통, 복통, 설사/변비
   * 장기 투여 시 일부 환자에서 저마그네슘혈증, Vit B12·철 결핍, 장관 감염 위험 등을 고려하되 폐렴·골절·신장질환 등 다수의 연관성은 주로 관찰연구에서 보고되어 인과성이 확립되지 않음. 다만 급성 세뇨관간질성 신염은 드물지만 인정되는 약물이상반응으로, 의심 시 중단·평가
 
-<table><thead><tr><th width="220">약물</th><th>통상 용량</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark></td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA5271">넥시움</a>]</mark></td><td>NSAID 관련 GU 치료·예방: 20 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0101A0362">란스톤</a>]</mark></td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td></tr><tr><td><strong>pantoprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark></td><td>40 ㎎ qd</td></tr><tr><td><strong>rabeprazole</strong> <mark style="color:blue;">[파리에트]</mark></td><td>10~20 ㎎ qd</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AKP08D0089">놀텍</a>]</mark></td><td>10 ㎎ qd</td></tr></tbody></table>
+<table><thead><tr><th width="220">약물</th><th>통상 용량</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0120A0565"><mark style="color:blue;">오엠피</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AGGGGA5271"><mark style="color:blue;">넥시움</mark></a><mark style="color:blue;">]</mark></td><td>NSAID 관련 GU 치료·예방: 20 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0101A0362"><mark style="color:blue;">란스톤</mark></a><mark style="color:blue;">]</mark></td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td></tr><tr><td><strong>pantoprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2010102700001"><mark style="color:blue;">판토록</mark></a><mark style="color:blue;">]</mark></td><td>40 ㎎ qd</td></tr><tr><td><strong>rabeprazole</strong> <mark style="color:blue;">[파리에트]</mark></td><td>10~20 ㎎ qd</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AKP08D0089"><mark style="color:blue;">놀텍</mark></a><mark style="color:blue;">]</mark></td><td>10 ㎎ qd</td></tr></tbody></table>
 
 * 일반형 esomeprazole은 NSAID 관련 GU 치료·궤양 예방, _H. pylori_ 제균 병용, 정주 지혈 치료 후 재출혈 예방 유지 등 해당 허가 범위로 구분
 * lansoprazole의 활동성 DU 단기치료 허가 용법은 15 ㎎ qd ×4주이며, 장용 일반형과 복합·서방 제형을 자동 대체하지 않음
@@ -275,7 +275,7 @@ flowchart TD
 * CYP2C19 유전적 다형성이 산 억제 효과에 미치는 영향이 상대적으로 적음. 다만 clopidogrel과의 상호작용은 P-CAB 성분별로 다르므로 개별 확인
 * 허가된 적응증에서는 PUD 치유 또는 예방 효과가 PPI와 유사한 자료가 있으나 제품별 적응증이 다르고 장기·계열별 안전성 자료는 PPI보다 제한적
 
-<table><thead><tr><th width="199.33331298828125">약물</th><th>허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td><strong>tegoprazan</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark></td><td>50 ㎎ qd ×8주: 위궤양; <em>H. pylori</em> 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td><strong>zastaprazan</strong> <mark style="color:blue;">[자큐보]</mark></td><td>20 ㎎ qd, 최대 8주: 위궤양; 식사 무관. 위궤양 치료 급여는 2026.7.1부터 적용</td></tr><tr><td><strong>vonoprazan</strong> <mark style="color:blue;">[보신티]</mark></td><td>위궤양 20 ㎎ qd(통상 최대 8주); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd(궤양 병력 확인). 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부는 별도 확인</td></tr><tr><td><strong>fexuprazan</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/2025051300004">펙수클루</a>]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 및 <em>H. pylori</em> 제균 병용(40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid ×14일) 용량이며, 40 ㎎ 급여는 미란성 GERD 기준으로 제균 병용과 구분. 활동성 PUD 단독 치료 적응증은 아님; 식사 무관</td></tr><tr><td><strong>revaprazan</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11APPPPP0348">레바넥스</a>]</mark></td><td>200 ㎎ qd: 위궤양·십이지장궤양의 단기치료; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
+<table><thead><tr><th width="199.33331298828125">약물</th><th>허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td><strong>tegoprazan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2018070600004"><mark style="color:blue;">케이캡</mark></a><mark style="color:blue;">]</mark></td><td>50 ㎎ qd ×8주: 위궤양; <em>H. pylori</em> 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td><strong>zastaprazan</strong> <mark style="color:blue;">[자큐보]</mark></td><td>20 ㎎ qd, 최대 8주: 위궤양; 식사 무관. 위궤양 치료 급여는 2026.7.1부터 적용</td></tr><tr><td><strong>vonoprazan</strong> <mark style="color:blue;">[보신티]</mark></td><td>위궤양 20 ㎎ qd(통상 최대 8주); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd(궤양 병력 확인). 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부는 별도 확인</td></tr><tr><td><strong>fexuprazan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2025051300004"><mark style="color:blue;">펙수클루</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 및 <em>H. pylori</em> 제균 병용(40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid ×14일) 용량이며, 40 ㎎ 급여는 미란성 GERD 기준으로 제균 병용과 구분. 활동성 PUD 단독 치료 적응증은 아님; 식사 무관</td></tr><tr><td><strong>revaprazan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11APPPPP0348"><mark style="color:blue;">레바넥스</mark></a><mark style="color:blue;">]</mark></td><td>200 ㎎ qd: 위궤양·십이지장궤양의 단기치료; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
 
 * tegoprazan은 GU 치료 및 _H. pylori_ 제균 병용요법이 허가됨. 활동성 DU 단독 치료는 허가 외 사용이며, 제균 적응증이나 NSAID 관련 DU 예방 허가를 DU 단독 치료 허가로 해석하지 않음
 * vonoprazan은 국내 허가상 _H. pylori_ 제균 적응증이 없으므로 해외 제균요법을 국내 허가요법으로 적용하지 않음. Clopidogrel의 항혈소판 효과를 감소시킬 수 있어 성분별 상호작용을 확인
@@ -288,7 +288,7 @@ flowchart TD
 * 적용 시기 : PPI 투여가 곤란한 경우 또는 증상 경감 보조 목적. PPI 반응 부족 시에는 우선 복약 순응도·원인 지속·악성 가능성을 재평가
 * H2RA는 신기능 저하 시 성분별 감량·투여 간격 조정이 필요하며 고령자·신부전에서는 혼돈 등 중추신경계 이상반응에 유의
 
-<table><thead><tr><th width="222">약물</th><th>용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/2014082600003">에취투비</a>]</mark></td><td>400 ㎎ bid 또는 800 ㎎ hs</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0150B0001">가스터</a>]</mark></td><td>20 ㎎ bid 또는 40 ㎎ hs</td></tr></tbody></table>
+<table><thead><tr><th width="222">약물</th><th>용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2014082600003"><mark style="color:blue;">에취투비</mark></a><mark style="color:blue;">]</mark></td><td>400 ㎎ bid 또는 800 ㎎ hs</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0150B0001"><mark style="color:blue;">가스터</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎ bid 또는 40 ㎎ hs</td></tr></tbody></table>
 
 * cimetidine은 warfarin·phenytoin 등과 상호작용이 많아 병용 약제를 확인
 
@@ -298,12 +298,12 @@ flowchart TD
 
 * 단독으로는 치료 효과 부족; 증상 완화 또는 PPI 치료 초기 병용 목적
 * Al/Mg 함유 제제는 CKD에서 축적에 유의하며, MgO·Mg(OH)₂ 제제는 신장애 금기
-* quinolone·철분제 등과의 간격은 병용약별로 확인. <a href="https://www.health.kr/drug/A11A0450A0370">알마겔</a>(almagate)은 lansoprazole·quinolone·철분제 등과 2\~3시간 간격을 두며, tetracycline계 항생제와는 병용하지 않음
+* quinolone·철분제 등과의 간격은 병용약별로 확인. [알마겔](https://www.health.kr/drug/A11A0450A0370)(almagate)은 lansoprazole·quinolone·철분제 등과 2\~3시간 간격을 두며, tetracycline계 항생제와는 병용하지 않음
 
 [**점막 보호제**](073_-gidrugs.md#gastric-mucosal-protective-agent)
 
 * sucralfate : 점막 보호 효과가 있으나 NSAID 관련 PUD 예방 효과는 입증 불충분하며, 현재 유통 제품이 확인되지 않음. Al 함유로 중증 신장애에서 회피하고 CKD에서 장기 사용 주의; 다른 경구약과의 간격은 약제별로 확인
-* teprenone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0100A0250">셀벡스</a>]</mark>, rebamipide <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4270A0014">무코스타</a>]</mark> : 점막 방어 인자 강화; 필요시 보조적으로 고려. 합병증 없는 PUD에서 산 억제제에 일률적으로 추가할 필요는 없으며 제균·적절한 산 억제를 대체하지 않음
+* teprenone <mark style="color:blue;">\[</mark>[<mark style="color:blue;">셀벡스</mark>](https://www.health.kr/drug/A11A0100A0250)<mark style="color:blue;">]</mark>, rebamipide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">무코스타</mark>](https://www.health.kr/drug/A11A4270A0014)<mark style="color:blue;">]</mark> : 점막 방어 인자 강화; 필요시 보조적으로 고려. 합병증 없는 PUD에서 산 억제제에 일률적으로 추가할 필요는 없으며 제균·적절한 산 억제를 대체하지 않음
 
 #### <mark style="color:$primary;">임신 중 약물 선택</mark>
 
@@ -367,7 +367,7 @@ flowchart TD
 * tegoprazan 25 ㎎ qd : NSAID 관련 위·십이지장궤양 예방 허가. 임상시험은 24주까지이며 허가 용법에 고정 투여 기간은 없음. 확인한 2026년 10월 HIRA 급여기준에는 이 예방 적응증이 포함되지 않음 <mark style="color:$info;">\[품목 허가사항; HIRA 2026.10]</mark>
 * vonoprazan 10 ㎎ qd : NSAID 지속 투여 시 위·십이지장궤양 재발 방지; 투여 전 궤양 병력을 확인. 2026.11.1부터 급여기준 신설(고시 제2026-222호); 실제 공급 여부 별도 확인
 * fexuprazan 20 ㎎ qd : NSAID 유도성 PUD 예방; 허가 용법은 24주이며 그 이상은 비교임상시험 범위를 넘음
-* misoprostol (합성 prostaglandin E1 analog) : 예방 허가 용량 400\~800 ㎍/d를 식사 시·취침 시 분할(예: 200 ㎍ qid) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4340A0040">싸이토텍</a>]</mark>; 설사·복통으로 순응도 낮음. Mg 함유 제산제 병용 회피
+* misoprostol (합성 prostaglandin E1 analog) : 예방 허가 용량 400\~800 ㎍/d를 식사 시·취침 시 분할(예: 200 ㎍ qid) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">싸이토텍</mark>](https://www.health.kr/drug/A11A4340A0040)<mark style="color:blue;">]</mark>; 설사·복통으로 순응도 낮음. Mg 함유 제산제 병용 회피
   * 금기 : 임부 또는 임신 가능성이 있는 여성 - 자궁 수축·유산 위험. 가임 여성은 투여 전 임신검사 음성과 효과적인 피임 등 허가 조건을 확인
 
 ### <mark style="color:orange;">헬리코박터 제균</mark>
@@ -435,6 +435,7 @@ flowchart TD
 > 란스톤캡슐 15 ㎎/C    1C  qd  (아침 식전 1시간)             ×28일
 > 알마겔현탁액 15 ㎖/P   1P  식후 1시간 필요시 (최대 tid + 취침 시 1회)
 > ```
+>
 > 약제 정보: [란스톤캡슐 15㎎](https://www.health.kr/drug/A11AJJJJJ0494) · [알마겔현탁액 1g/15㎖](https://www.health.kr/drug/A11A0450A0370)
 >
 > _✽lansoprazole 15 ㎎ qd 4주 투여 후 반응 평가; 제산제는 증상이 있을 때만 단기 보조 사용. 알마겔은 란소프라졸 및 흡수에 영향을 받는 다른 경구약과 2\~3시간 간격을 두고 복용하며 신기능을 고려. 본 처방례의 란소프라졸 식전 1시간·알마겔 식후 1시간 일정은 두 약의 2시간 간격을 확보하기 위한 예시임. Tetracycline계 항생제를 포함한 제균요법 중에는 알마겔을 병용하지 않음. H. pylori 양성이면 2025년 국내 개정 지침(2026년 발표)과 감수성·항생제 노출력에 따라 선택한 제균요법 병행._
@@ -444,6 +445,7 @@ flowchart TD
 > ```
 > 판토록정 40 ㎎/T     1T  qd  (아침 식전 30~60분)          ×28일
 > ```
+>
 > 약제 정보: [판토록정 40㎎](https://www.health.kr/drug/2010102700001)
 >
 > _✽pantoprazole 40 ㎎ qd 4주 투여 후 재평가하고 필요하면 4주 연장. 통상 진단·치료 시작 후 약 6\~8주(치료 종료 무렵)에 추적 내시경으로 치유와 악성 가능성을 확인. H. pylori 검사 필수._
@@ -453,6 +455,7 @@ flowchart TD
 > ```
 > 케이캡정 50 ㎎/T     1T  qd  (식사 무관)           ×56일
 > ```
+>
 > 약제 정보: [케이캡정 50㎎](https://www.health.kr/drug/2018070600004)
 >
 > _✽tegoprazan 50 ㎎ qd 8주는 위궤양 허가 용법; 식전 복용이 어려운 환자 등에서 고려. PPI 반응이 불충분하면 변경 전에 복약 순응도·NSAID 지속·H. pylori·악성 가능성을 재평가. Clopidogrel 병용 시에는 P-CAB을 계열 전체의 안전한 대안으로 간주하지 말고 성분별 상호작용 확인. 추적 내시경 필요._
@@ -463,6 +466,7 @@ flowchart TD
 > 쎄레브렉스캡슐 100 ㎎/C   1C  bid  (식사 무관)       ×28일
 > 넥시움정 20 ㎎/T        1T  qd   (아침 식전 30~60분)       ×28일
 > ```
+>
 > 약제 정보: [쎄레브렉스캡슐 100㎎](https://www.health.kr/drug/A11ABBBBB1345) · [넥시움정 20㎎](https://www.health.kr/drug/A11AGGGGA5271)
 >
 > _✽활동성 궤양·출혈이 없고 치유가 확인된 후의 예방 처방. Celecoxib는 활동성 소화성 궤양·위장관 출혈 환자에게 금기이며 PPI 병용으로 이 금기가 해제되지 않음. 허혈성 심질환·말초동맥질환·뇌혈관질환·NYHA II\~IV 심부전 등 celecoxib 금기를 배제하고 신기능을 평가한 뒤 반드시 필요한 경우에만 최저 유효 용량·최단 기간 사용함. Aspirin·DOAC 병용 시 NSAID 회피를 우선 재검토하며 PPI를 병용해도 출혈 위험이 없어지는 것은 아님._
@@ -473,6 +477,7 @@ flowchart TD
 > 낙센정 250 ㎎/T          1T  bid  pc               ×28일
 > 펙수클루정 20 ㎎/T       1T  qd   (식사 무관)      ×28일
 > ```
+>
 > 약제 정보: [낙센정 250㎎](https://www.health.kr/drug/A11A0120A0286) · [펙수클루정 20㎎](https://www.health.kr/drug/2025051300004)
 >
 > _✽활동성 궤양·출혈이 없고, 지속적인 NSAID 투여가 필요하며 궤양·출혈 병력, 고령, 위험 약물 병용 등 소화성궤양 고위험 인자가 있는 환자의 예시임. 선택한 naproxen 제품의 금기에 해당하지 않아야 함. 과거 궤양·출혈 병력 관련 금기도 제품별로 확인하며, 매우 높은 GI 위험에서는 NSAID 회피 또는 적합한 COX-2 억제제+PPI 전략을 우선 검토. Fexuprazan 20 ㎎ qd는 NSAID 유도성 위·십이지장궤양 예방 용법이며 활동성 궤양 치료 처방과 구분함. 허가 용법에 24주가 명시되어 있으나 NSAID 투여가 끝난 뒤까지 예방약을 일률적으로 지속할 필요는 없음. 예시는 4주 처방 후 NSAID 지속 필요성과 위험을 재평가하는 일정임. NSAID는 적응증에 맞는 최저 유효 용량·최단 기간으로 사용하며, 심혈관·신장 위험과 aspirin·항응고제 병용 여부를 먼저 평가._
@@ -484,7 +489,8 @@ flowchart TD
 > 아목시실린 500 ㎎/C         2C  bid  (식후)            7일
 > 클래리시드정 250 ㎎/T        2T  bid  (식후)            7일
 > ```
-> 약제 정보: [케이캡정 50㎎](https://www.health.kr/drug/2018070600004) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791)
+>
+> 약제 정보: [아목시실린캡슐500㎎](https://health.kr/drug/A11A0340B0006) · [케이캡정 50㎎](https://www.health.kr/drug/2018070600004) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791)
 >
 > _✽Tegoprazan 50 ㎎ bid 기반 3제 요법의 허가 기간은 7일이며, 2025년 국내 개정 지침도 clarithromycin 감수성 균주에 7일 3제를 권고함. 국내 연구에서는 14일 요법의 제균율이 더 높았으나 현 허가 용법과 구분해야 함. 본 예시는 clarithromycin 감수성이 확인된 환자에 적용함. Penicillin·macrolide 알레르기, 신기능에 따른 항생제 감량, QT 연장 및 CYP3A4 관련 병용금기·주의를 확인. 감수성 미확인 환자에게 경험적 1차 선택으로 일률 적용하지 않으며 2025년 국내 개정 지침의 동시 4제 등 다른 권고 요법을 검토함. 제균 후 산 억제제는 GU·합병성 궤양 등에서 총 치유 기간을 충족하도록 투여하고, 제균 종료 최소 4주 후 성공 여부를 확인._
 

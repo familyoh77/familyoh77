@@ -27,9 +27,9 @@
   * MgO·Mg(OH)₂ 제제는 신장애 환자에게 금기
   * 다른 약제의 감량 기준은 CrCl 또는 GFR 등 해당 품목의 기준을 적용
 * <mark style="color:red;">**MgO, Mg hydroxide**</mark> : 고마그네슘혈증. 중증 CKD·고령·장운동 저하에서 위험이 높음
-  * <mark style="color:blue;"><a href="https://www.health.kr/drug/A11ABBBBB1168">마그밀</a></mark>·<mark style="color:blue;"><a href="https://www.health.kr/drug/2014072100012">마그밀에스</a></mark>는 신장애 환자에게 금기
+  * [<mark style="color:blue;">마그밀</mark>](https://www.health.kr/drug/A11ABBBBB1168)·[<mark style="color:blue;">마그밀에스</mark>](https://www.health.kr/drug/2014072100012)는 신장애 환자에게 금기
 * <mark style="color:red;">**Al hydroxide·phosphate 제산제**</mark> : Al 축적 독성 (뇌증, 골연화증)
-* <mark style="color:red;">**bismuth**</mark> : 장기·고용량에서 신경 독성. <mark style="color:blue;"><a href="https://www.health.kr/drug/A11AOOOOO0795">데놀</a></mark>(tripotassium bismuth dicitrate)은 신장애 환자에게 금기
+* <mark style="color:red;">**bismuth**</mark> : 장기·고용량에서 신경 독성. [<mark style="color:blue;">데놀</mark>](https://www.health.kr/drug/A11AOOOOO0795)(tripotassium bismuth dicitrate)은 신장애 환자에게 금기
 * <mark style="color:red;">**H2RA**</mark> : famotidine·cimetidine 등은 신기능에 따른 감량 또는 투여 간격 조절이 필요함. Lafutidine은 신배설 비중이 상대적으로 낮으며, 투석 환자에서는 저용량부터 신중히 투여함. 성분·적응증별 기준을 구분함
 * <mark style="color:red;">**metoclopramide**</mark> : 신배설 비중이 높아 신기능 저하 시 노출 및 추체외로 이상반응 증가
 * <mark style="color:red;">**인산염 함유 관장제**</mark> : 고인산혈증·저칼슘혈증·급성 신손상 위험
@@ -83,7 +83,7 @@
 * 항콜린제와 함께 투여 시 상호 길항작용으로 효과가 상쇄될 수 있음
 * 위장관 출혈·기계적 폐색/천공 등 위장관 운동 자극이 위험한 상황에서는 회피; 성분별 허가·금기를 확인
 
-<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td><strong>metoclopramide</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0570A0089">맥페란</a>]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td><strong>levosulpiride</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1890A0158">레보프라이드</a>]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td><strong>clebopride</strong> <mark style="color:blue;">[크레보릴]</mark></td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td><strong>itopride</strong> (급여제품없음)</td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td><strong>domperidone</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0570A0382">돔피돈</a>]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td><strong>mosapride</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AIIIII0006">가스모틴</a>]</mark>, <mark style="color:blue;">[<a href="https://www.health.kr/drug/2017120400002">가스모틴에스알</a>]</mark></td><td>선택적 5-HT4 작용</td><td>일반정 5 ㎎ tid, 식전 또는 식후; 가스모틴에스알 15 ㎎ qd 공복, 부수거나 씹지 않고 통째로 복용</td></tr><tr><td><strong>DA-9701</strong>(현호색·견우자 추출물) <mark style="color:blue;">[<a href="https://www.health.kr/drug/2011051800003">모티리톤</a>]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td><strong>metoclopramide</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0570A0089"><mark style="color:blue;">맥페란</mark></a><mark style="color:blue;">]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td><strong>levosulpiride</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A1890A0158"><mark style="color:blue;">레보프라이드</mark></a><mark style="color:blue;">]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td><strong>clebopride</strong> (유통제품없음)</td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td><strong>itopride</strong> (급여제품없음)</td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td><strong>domperidone</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0570A0382"><mark style="color:blue;">돔피돈</mark></a><mark style="color:blue;">]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td><strong>mosapride</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AIIIII0006"><mark style="color:blue;">가스모틴</mark></a><mark style="color:blue;">]</mark>, <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2017120400002"><mark style="color:blue;">가스모틴에스알</mark></a><mark style="color:blue;">]</mark></td><td>선택적 5-HT4 작용</td><td>일반정 5 ㎎ tid, 식전 또는 식후; 가스모틴에스알 15 ㎎ qd 공복, 부수거나 씹지 않고 통째로 복용</td></tr><tr><td><strong>DA-9701</strong>(현호색·견우자 추출물) <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2011051800003"><mark style="color:blue;">모티리톤</mark></a><mark style="color:blue;">]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Dopamine D2 receptor antagonist</mark>
 
@@ -114,7 +114,7 @@
 
 ### <mark style="color:orange;">Acetylcholinesterase inhibitor</mark>
 
-* **pyridostigmine** : 중증 근무력증 치료제로, 일부 만성 장운동 장애·만성 장가성폐색에서 전문진료 하에 허가 외 사용. 보고된 경구 용량은 60\~180 ㎎/d 등이나 최적 용법은 확립되지 않음 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1590B0047">메스티논</a>]</mark>
+* **pyridostigmine** : 중증 근무력증 치료제로, 일부 만성 장운동 장애·만성 장가성폐색에서 전문진료 하에 허가 외 사용. 보고된 경구 용량은 60\~180 ㎎/d 등이나 최적 용법은 확립되지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">메스티논</mark>](https://www.health.kr/drug/A11A1590B0047)<mark style="color:blue;">]</mark>
   * 금기 : 기계적 장폐색·기관지 천식
 
 ### <mark style="color:orange;">Motilin receptor agonist</mark>
@@ -142,31 +142,31 @@
 * 금기(성분별로 다름) : 녹내장, 전립선비대에 의한 배뇨장애, 장폐색·거대결장, 중증 근무력증, 빈맥성 부정맥·중증 심질환; dicyclomine은 역류성식도염도 금기
 * 고령에서 가능한 회피
 * 지속 사용 시 효과와 항콜린 부담을 재평가
-* **hyoscine N-butylbromide**(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0760A0001">부스코판</a>]</mark>
-* **cimetropium** : 50 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7809">알피움</a>]</mark>; 주사 1회 5 ㎎ IM/IV <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018031900011">브로퓸주사</a>]</mark>
-* **dicyclomine** : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB2442">스파토민</a>]</mark>
-* hyoscine N-butylbromide <mark style="color:blue;">\[부스코판주]</mark>
-* **atropine** <mark style="color:blue;">\[아트로핀주]</mark>
+* **hyoscine N-butylbromide**(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">부스코판</mark>](https://www.health.kr/drug/A11A0760A0001)<mark style="color:blue;">]</mark>
+* **cimetropium** : 50 ㎎ bid\~tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">알피움</mark>](https://www.health.kr/drug/A11AOOOOO7809)<mark style="color:blue;">]</mark>; 주사 1회 5 ㎎ IM/IV <mark style="color:blue;">\[</mark>[<mark style="color:blue;">브로퓸주사</mark>](https://www.health.kr/drug/2018031900011)<mark style="color:blue;">]</mark>
+* **dicyclomine** : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스파토민</mark>](https://www.health.kr/drug/A11ABBBBB2442)<mark style="color:blue;">]</mark>
+* hyoscine N-butylbromide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프리판주</mark>](https://health.kr/drug/A11AMMMMM2977)<mark style="color:blue;">]</mark>
+* **atropine** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로핀주</mark>](https://health.kr/drug/A11ABBBBB2781)<mark style="color:blue;">]</mark>
 
 ### <mark style="color:orange;">장 선택적 칼슘 통로 차단제 (GI-selective CCB)</mark>
 
 * 주의 : 졸음이 생길 수 있어 운전·기계 조작에 주의
-* **pinaverium** : 50 ㎎ tid 식사 중 충분한 물과 함께 통째로 삼킴 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0950A0197">디세텔</a>]</mark>
+* **pinaverium** : 50 ㎎ tid 식사 중 충분한 물과 함께 통째로 삼킴 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">디세텔</mark>](https://www.health.kr/drug/A11A0950A0197)<mark style="color:blue;">]</mark>
   * 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
 
 ### <mark style="color:orange;">말초 opioid 수용체 조절제 (Peripheral opioid receptor modulator)</mark>
 
 * 말초 μ·κ·δ opioid 수용체에 작용하여 장운동을 양방향으로 조절함(저하 시 항진, 항진 시 억제)
 * 금기 : 과민증 외 특별한 금기 없음
-* **trimebutine** : 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[포리부틴]</mark>
+* **trimebutine** : 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">포리부틴정</mark>](https://health.kr/drug/A11A0500A0119)<mark style="color:blue;">]</mark>
 
 ### <mark style="color:orange;">직접 평활근 이완제 (Direct smooth muscle relaxant)</mark>
 
 * 항콜린 작용이 없음
-* **phloroglucinol** : 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1560A0119">후로스판</a>]</mark>
+* **phloroglucinol** : 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">후로스판</mark>](https://www.health.kr/drug/A11A1560A0119)<mark style="color:blue;">]</mark>
   * 금기 : 이 약에 과민증
   * morphine 및 그 유도체와는 병용을 피함
-* **tiropramide** : 경구 100 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0430A0302">티로파</a>]</mark>
+* **tiropramide** : 경구 100 ㎎ bid\~tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">티로파</mark>](https://www.health.kr/drug/A11A0430A0302)<mark style="color:blue;">]</mark>
   * 주의 : 항콜린 작용은 없으나 녹내장·전립선비대증에서는 신중 투여
   * 금기 : 위장관 협착, 거대결장, 허탈 상태, 중증 간부전
 
@@ -181,13 +181,13 @@
 
 * 대상 : 멀미, 내이 장애 관련 구역/구토; 임신성 구역/구토
 * 항콜린 작용이 있음
-* **dimenhydrinate** : 50 ㎎ tid\~qid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0950A0043">보나링에이</a>]</mark>
+* **dimenhydrinate** : 50 ㎎ tid\~qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">보나링에이</mark>](https://www.health.kr/drug/A11A0950A0043)<mark style="color:blue;">]</mark>
   * 회피 : 고령 - 과진정·섬망 위험
 * **doxylamine/pyridoxine** : 각각 10 ㎎ 함유 지연방출 복합제
-  * <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015120100015">디클렉틴</a>]</mark> 취침 전 2정으로 시작하고, 조절되지 않으면 단계적으로 최대 4정/d(아침 1정·오후 1정·취침 전 2정)까지 증량. 공복에 통째로 복용. 필요시가 아니라 정해진 일정에 따라 매일 복용하며, 지속 필요성을 재평가함
+  * <mark style="color:blue;">\[</mark>[<mark style="color:blue;">디클렉틴</mark>](https://www.health.kr/drug/2015120100015)<mark style="color:blue;">]</mark> 취침 전 2정으로 시작하고, 조절되지 않으면 단계적으로 최대 4정/d(아침 1정·오후 1정·취침 전 2정)까지 증량. 공복에 통째로 복용. 필요시가 아니라 정해진 일정에 따라 매일 복용하며, 지속 필요성을 재평가함
   * 졸음·항콜린 부작용 및 다른 진정제와의 중복에 주의함
-* **hydroxyzine** : 진정·항콜린·QT 연장 위험이 있어 일반적인 구역·구토의 표준 약제로 권고하지 않음 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AFFFFF0070">아디팜</a>]</mark>
-* **meclizine** : 멀미 25\~50 ㎎ 승차 1시간 전, 필요시 24시간마다 반복; 미로염·메니에르증후군 등은 25 ㎎ bid\~tid, 원칙적으로 최대 75 ㎎/d <mark style="color:blue;">\[염산메클리진]</mark>
+* **hydroxyzine** : 진정·항콜린·QT 연장 위험이 있어 일반적인 구역·구토의 표준 약제로 권고하지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아디팜</mark>](https://www.health.kr/drug/A11AFFFFF0070)<mark style="color:blue;">]</mark>
+* **meclizine** : 멀미 25\~50 ㎎ 승차 1시간 전, 필요시 24시간마다 반복; 미로염·메니에르증후군 등은 25 ㎎ bid\~tid, 원칙적으로 최대 75 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">염산메클리진</mark>](https://health.kr/drug/A11A2240B0022)<mark style="color:blue;">]</mark>
   * 고령에서 항콜린 부작용 주의
   * 금기 : 협우각 녹내장·BPH 등 배뇨장애·12세 이하 소아
 * promethazine : 미유통
@@ -195,7 +195,7 @@
 {% hint style="info" %}
 **임신 구토의 약물 선택**
 
-* doxylamine/pyridoxine <mark style="color:blue;">\[디클렉틴]</mark>이 일차 선택지임. pyridoxine 10\~25 ㎎ q6\~8h 단독 사용도 가능 <mark style="color:blue;">\[피리독신]</mark>
+* doxylamine/pyridoxine <mark style="color:blue;">\[디클렉틴]</mark>이 일차 선택지임. pyridoxine 10\~25 ㎎ q6\~8h 단독 사용도 가능 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">피리독신정</mark>](https://health.kr/drug/A11A2070B0077)<mark style="color:blue;">]</mark>
 * 경증 임신성 구역·구토에서는 생강 250 ㎎ q6h 또는 총 1 g/d를 보조적으로 고려 가능(식품·보충제 근거 용량); 출혈 위험 약제 병용·응고장애에서 주의. 임신오조의 치료로는 권하지 않으며 효과적인 항구토 치료·수액 치료를 지연하지 않음
 * 반응 불충분 시 metoclopramide를 이차 선택지로 고려할 수 있음. 추체외로 이상반응에 주의하고 최소 유효 용량으로 최대 5일 사용함
 * Ondansetron은 허가 외 이차 선택지로 사용함. 임신 초기 노출 시 구순·구개열의 작은 절대위험 증가 가능성(한 대규모 관찰연구에서 출생 1만 건당 약 11건 → 14건)이 보고되었으나 심장기형 증가가 일관되게 확인된 것은 아님. 조절되지 않는 임신오조의 위험과 비교하여 설명하고 결정함
@@ -209,21 +209,21 @@
 * 대상 : 화학요법·방사선치료 유발 및 수술 후 구역·구토의 핵심 약제
   * 원인에 따라 다른 계열과 병용
 * 부작용 : 두통, 무기력, 변비, 어지럼, QT 연장 (IV 고용량 주의)
-* **ondansetron** : 경구 4\~8 ㎎(적응증별 용법 구분); 중등도\~중증 간장애는 최대 8 ㎎/d <mark style="color:blue;">\[조프란]</mark>
+* **ondansetron** : 경구 4\~8 ㎎(적응증별 용법 구분); 중등도\~중증 간장애는 최대 8 ㎎/d <mark style="color:blue;">\[</mark>[조프란정](https://health.kr/drug/A11ABBBBB1541)<mark style="color:blue;">]</mark>
   * 선천성 QT 연장증후군에서 회피하고 투여 전 전해질 이상 교정
   * apomorphine(심한 저혈압·의식 소실)·domperidone(QT 연장·부정맥)과 병용 금기
   * 급성 위장관염 구토 및 IBS-D에는 허가 외 사용이며, 허가된 항암치료·수술 후 구역/구토 용법을 그대로 대입하지 않음
-* **granisetron** : CINV(Chemotherapy-Induced Nausea and Vomiting) 2 ㎎ qd 또는 1 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AFFFFF0178">카이트릴</a>]</mark>
+* **granisetron** : CINV(Chemotherapy-Induced Nausea and Vomiting) 2 ㎎ qd 또는 1 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카이트릴</mark>](https://www.health.kr/drug/A11AFFFFF0178)<mark style="color:blue;">]</mark>
 * dolasetron : 해외 약제. QT 연장 위험으로 IV CINV 요법은 사용하지 않음
-* **palonosetron** : CINV 및 PONV(Postoperative Nausea and Vomiting) 예방에 사용; 전문기관에서 적응증별 프로토콜에 따라 투여 <mark style="color:blue;">\[알록시주]</mark>
+* **palonosetron** : CINV 및 PONV(Postoperative Nausea and Vomiting) 예방에 사용; 전문기관에서 적응증별 프로토콜에 따라 투여 <mark style="color:blue;">\[</mark>[알록시주](https://health.kr/drug/A11APPPPP1958)<mark style="color:blue;">]</mark>
 
 ### <mark style="color:orange;">NK1 receptor antagonists</mark>
 
 * 대상 : 화학요법 유발 구역/구토의 예방
 * 항암요법의 구토 유발 위험도에 맞춰 병용
 * 고위험 항암요법에서는 5-HT3 길항제 + NK1 길항제 + dexamethasone + olanzapine의 4제 예방요법을 권고 <mark style="color:$info;">\[MASCC/ESMO 2023]</mark> (olanzapine의 항구토 목적 사용은 허가 외 사용임)
-* **aprepitant** : CINV 예방 시 제1일 125 ㎎, 제2\~3일 80 ㎎ qd <mark style="color:blue;">\[에멘드]</mark>
-* fosaprepitant <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011071500002">에멘드주</a>]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018062900002">아킨지오</a>]</mark>, rolapitant(해외 약제)
+* **aprepitant** : CINV 예방 시 제1일 125 ㎎, 제2\~3일 80 ㎎ qd <mark style="color:blue;">\[</mark>[에멘드캡슐](https://health.kr/drug/A11AOOOOO5503)<mark style="color:blue;">]</mark>
+* fosaprepitant <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에멘드주</mark>](https://www.health.kr/drug/2011071500002)<mark style="color:blue;">]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아킨지오</mark>](https://www.health.kr/drug/2018062900002)<mark style="color:blue;">]</mark>, rolapitant(해외 약제)
 
 ### <mark style="color:orange;">위장관 신경조절제 (TCA·Mirtazapine)</mark> <a href="#tca" id="tca"></a>
 
@@ -252,8 +252,8 @@
   * AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 IBS 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고함. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단 <mark style="color:$info;">\[AGA 2020; J Neurogastroenterol Motil 2025]</mark>
 * 성인 급성 감염성 설사 : 지침 간 차이가 있음. IDSA 2017은 정상 면역 성인에서 선택적 사용을 약하게 권고하지만, ACG 2016은 항생제 관련 설사를 제외한 성인 급성 설사에서 사용을 권고하지 않음. 성인·균주별 근거가 제한적이므로 일상적으로 처방하지 않음 <mark style="color:$info;">\[IDSA 2017; ACG 2016]</mark>
 * 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[람노스산]</mark>·<mark style="color:blue;">\[람노스과립]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제
-* _Saccharomyces boulardii_ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010112500008">비오플250산</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013031200010">비오플250캡슐</a>]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
-* _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A2140A0150">메디락에스산</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A2140A0147">메디락에스</a>]</mark>
+* _Saccharomyces boulardii_ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">비오플250산</mark>](https://www.health.kr/drug/2010112500008)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">비오플250캡슐</mark>](https://www.health.kr/drug/2013031200010)<mark style="color:blue;">]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
+* _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">메디락에스산</mark>](https://www.health.kr/drug/A11A2140A0150)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">메디락에스</mark>](https://www.health.kr/drug/A11A2140A0147)<mark style="color:blue;">]</mark>
 
 **AGA Probiotics 권고 (2020) 및 CDI 업데이트 (2026)**
 
@@ -270,7 +270,7 @@
 ### <mark style="color:orange;">Galactosidase</mark>
 
 * α-Galactosidase : 콩류 등 발효성 탄수화물 섭취로 인한 가스·팽만 감소에 고려
-* β-Galactosidase(lactase) : 유당불내증 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3060A0167">갈타제산</a>]</mark>
+* β-Galactosidase(lactase) : 유당불내증 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">갈타제산</mark>](https://www.health.kr/drug/A11A3060A0167)<mark style="color:blue;">]</mark>
 
 ### <mark style="color:orange;">Simethicone</mark>
 
@@ -283,10 +283,10 @@
 * 대상 : 임상 소견과 위험 인자 또는 검사로 SIBO가 뒷받침되는 환자
   * 단순 복부 팽만만으로 반복 경험적 투여하지 않음
 * 부작용 : 부종, 구역, 어지럼, 가스
-* **rifaximin** : SIBO에 400 ㎎ tid × 7\~14일(허가 외 요법); 최적 용량·기간은 확립되지 않음 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0736">노르믹스</a>]</mark>
+* **rifaximin** : SIBO에 400 ㎎ tid × 7\~14일(허가 외 요법); 최적 용량·기간은 확립되지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">노르믹스</mark>](https://www.health.kr/drug/A11AOOOOO0736)<mark style="color:blue;">]</mark>
   * 고암모니아혈증 치료의 보조요법은 12세 이상에서 400 ㎎ q8h이며, 치료는 통상 7일을 넘지 않도록 함
   * 금기 : 열·혈변 동반 설사, 장폐색·중증 궤양성 장질환
-* **rifaximin 550 ㎎** : 18세 이상 현성 간성뇌증의 재발 감소에 1T bid 장기 투여 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023080800002">틱스타</a>]</mark>
+* **rifaximin 550 ㎎** : 18세 이상 현성 간성뇌증의 재발 감소에 1T bid 장기 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">틱스타</mark>](https://www.health.kr/drug/2023080800002)<mark style="color:blue;">]</mark>
   * 금기 : 장폐쇄증
 
 ### <mark style="color:orange;">Bismuth</mark>
@@ -322,7 +322,7 @@
 * 수용성 섬유 중 psyllium의 효과 근거가 상대적으로 풍부하며, 모든 섬유 제제가 같은 효과를 보이지 않음; 개인차가 있음
 * 부작용 : 복부 가스, 팽만감, 협착 시 impaction, Ca·Fe 흡수 장애
 
-<table><thead><tr><th width="213">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>psyllium</strong>(차전자피)</td><td>제제별 함량에 따라 충분한 물과 함께 복용함 •연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td><strong>agiocur pregranules</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1310A0185">아기오과립</a>]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며 순수 차전자피 6 g과 같지 않음. 씹지 말고 물 1~2컵과 함께 복용; 취침 직전·누운 상태 복용 금지. 심한 당뇨병 금기; 장운동 억제 지사제 및 다른 하제와 병용하지 않음</td></tr><tr><td><strong>calcium polycarbophil</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO6150">웰콘정</a>]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침 •금기 : 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) •투석 환자는 신중 투여; 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td><strong>methylcellulose</strong> (복합제)</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="213">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>psyllium</strong>(차전자피)</td><td>제제별 함량에 따라 충분한 물과 함께 복용함 •연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td><strong>agiocur pregranules</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A1310A0185"><mark style="color:blue;">아기오과립</mark></a><mark style="color:blue;">]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며 순수 차전자피 6 g과 같지 않음. 씹지 말고 물 1~2컵과 함께 복용; 취침 직전·누운 상태 복용 금지. 심한 당뇨병 금기; 장운동 억제 지사제 및 다른 하제와 병용하지 않음</td></tr><tr><td><strong>calcium polycarbophil</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AOOOOO6150"><mark style="color:blue;">웰콘정</mark></a><mark style="color:blue;">]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침 •금기 : 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) •투석 환자는 신중 투여; 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td><strong>methylcellulose</strong> (복합제)</td><td>-</td></tr></tbody></table>
 
 ### <mark style="color:orange;">삼투성 하제 (Hyperosmotics)</mark>
 
@@ -338,9 +338,9 @@
 * 부작용 : 구역, 복부 팽만, 가스, 설사
 * 마그밀·마그밀에스는 tetracycline계 항생제와 병용하지 않으며 다른 흡수 상호작용 약제는 약제별 간격을 구분. 다량의 우유·칼슘제 병용 시 우유 알칼리 증후군 주의
 
-<table><thead><tr><th width="283">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂] <mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절</td></tr><tr><td><strong>lactulose</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2013010200015">듀락칸이지</a>]</mark></td><td>15 ㎖/P; 성인 초기 2~3일은 15~30 ㎖ qd 아침 식전, 이후 10~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지. 15 ㎖ 미만 용량은 계량 가능한 병 제형 이용</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2013010200014">포탈락</a>]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO8335">마이락스산</a>]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과. 다른 경구약과 2시간 이상 간격; 첫 사용 후 약 1주에도 호전이 없으면 중단·재평가</td></tr></tbody></table>
+<table><thead><tr><th width="283">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂] <mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절</td></tr><tr><td><strong>lactulose</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2013010200015"><mark style="color:blue;">듀락칸이지</mark></a><mark style="color:blue;">]</mark></td><td>15 ㎖/P; 성인 초기 2~3일은 15~30 ㎖ qd 아침 식전, 이후 10~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지. 15 ㎖ 미만 용량은 계량 가능한 병 제형 이용</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2013010200014"><mark style="color:blue;">포탈락</mark></a><mark style="color:blue;">]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AOOOOO8335"><mark style="color:blue;">마이락스산</mark></a><mark style="color:blue;">]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과. 다른 경구약과 2시간 이상 간격; 첫 사용 후 약 1주에도 호전이 없으면 중단·재평가</td></tr></tbody></table>
 
-* **glycerin** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019102200016">그린관장약</a>]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
+* **glycerin** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">그린관장약</mark>](https://www.health.kr/drug/2019102200016)<mark style="color:blue;">]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
 ### <mark style="color:orange;">자극성 하제 (Stimulant)</mark>
 
@@ -356,13 +356,13 @@
 * 금기 : 장폐쇄
 * [AGA-ACG 2023 만성 특발성 변비 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고. bisacodyl, Na picosulfate는 단기 또는 구제요법에 강한 권고. senna는 조건부 권고
 
-<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A2070A0084">신일비사코딜</a>]</mark> (비급여)</td><td>5 ㎎/T; 성인 10 ㎎ qd 취침 시. 씹거나 부수지 않음; 우유·제산제와 1시간 이상 간격. 1주 이상 연속 사용하지 않으며 매일 필요하면 원인 재평가. 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0760A0010">둘코락스좌약</a>]</mark></td><td>10 ㎎/S, 1S qd 필요시 직장 투여</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1310A0162">아락실과립</a>]</mark> (senna·차전자 성분 복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음. Senna의 장기 사용 근거를 이 복합제에 일률적으로 적용하지 않으며, 약 1주 사용해도 개선되지 않으면 중단·원인 재평가</td></tr><tr><td><strong>Na picosulfate</strong></td><td>변비 치료용 단일제는 국내 유통 제품 없음. 해외 단일제 성인 용법 5~10 ㎎ qd 취침 시; 저용량부터 반응에 따라 조절. 장정결용 복합제 용법과 구분</td></tr></tbody></table>
+<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A2070A0084"><mark style="color:blue;">신일비사코딜</mark></a><mark style="color:blue;">]</mark> (비급여)</td><td>5 ㎎/T; 성인 10 ㎎ qd 취침 시. 씹거나 부수지 않음; 우유·제산제와 1시간 이상 간격. 1주 이상 연속 사용하지 않으며 매일 필요하면 원인 재평가. 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0760A0010"><mark style="color:blue;">둘코락스좌약</mark></a><mark style="color:blue;">]</mark></td><td>10 ㎎/S, 1S qd 필요시 직장 투여</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A1310A0162"><mark style="color:blue;">아락실과립</mark></a><mark style="color:blue;">]</mark> (senna·차전자 성분 복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음. Senna의 장기 사용 근거를 이 복합제에 일률적으로 적용하지 않으며, 약 1주 사용해도 개선되지 않으면 중단·원인 재평가</td></tr><tr><td><strong>Na picosulfate</strong></td><td>변비 치료용 단일제는 국내 유통 제품 없음. 해외 단일제 성인 용법 5~10 ㎎ qd 취침 시; 저용량부터 반응에 따라 조절. 장정결용 복합제 용법과 구분</td></tr></tbody></table>
 
 ### <mark style="color:orange;">대변 연화제 및 복합하제 (Stool softener)</mark>
 
 * 대상 : 수술 후, 출산 후, 치핵, 치열
 * **docusate** : 계면활성 작용의 대변 연화제
-  * 복합제(비급여) : <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2009092300055">둘코락스에스</a>]</mark> (bisacodyl + docusate sodium), <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014103100002">메이킨큐</a>]</mark> (bisacodyl + casanthranol + docusate sodium + ursodeoxycholic acid)
+  * 복합제(비급여) : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스에스</mark>](https://www.health.kr/drug/2009092300055)<mark style="color:blue;">]</mark> (bisacodyl + docusate sodium), <mark style="color:blue;">\[</mark>[<mark style="color:blue;">메이킨큐</mark>](https://www.health.kr/drug/2014103100002)<mark style="color:blue;">]</mark> (bisacodyl + casanthranol + docusate sodium + ursodeoxycholic acid)
   * 관행적으로 사용되지만 단독 변비 개선 효과를 뒷받침하는 근거가 제한적임
   * 충분한 물과 함께 섭취 필수
 
@@ -375,14 +375,14 @@
 * 작용 : GI motility 조절 → 대장 통과 시간 단축
 * 대상 : 다른 하제에 반응이 없는 환자
 * 주의/금기 : 장폐쇄/천공 의심, 심한 염증성 장질환; 4주 이내 효과 없으면 재평가
-* **prucalopride** : 2 ㎎ qd, 식사 무관; ≥65세는 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012103000010">레졸로</a>]</mark> (비급여)
+* **prucalopride** : 2 ㎎ qd, 식사 무관; ≥65세는 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레졸로</mark>](https://www.health.kr/drug/2012103000010)<mark style="color:blue;">]</mark> (비급여)
   * 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd
   * 금기 : 투석이 필요한 신장애
   * 병용금기 : domperidone(돔피돈)
   * 부작용 : 두통, 복통, 구역, 설사
   * 과거 다른 5-HT4 작용제와 달리 뚜렷한 심혈관 위험 증가는 확인되지 않았으나, 새로운 우울감·자살사고 등 정신 증상 발생 시 중단하고 평가
   * 급여 등재 품목의 성분 급여기준 : 2종 이상의 경구 완하제(부피 형성·삼투성 등)를 6개월 이상 투여해도 증상 완화에 실패한 만성 변비에서 인정하며, 4주 투여 후 반응에 따라 지속 여부 결정. 품목별 급여 여부는 다르며 이 기준 충족이 비급여 품목의 급여를 뜻하지 않음 <mark style="color:$info;">\[HIRA]</mark>
-  * 레졸로는 비급여이며 <a href="https://www.health.kr/drug/2019030800039">모비졸로</a>는 급여 등재 품목; 성분의 임상 사용 조건과 품목별 급여 조건을 구분
+  * 레졸로는 비급여이며 [모비졸로](https://www.health.kr/drug/2019030800039)는 급여 등재 품목; 성분의 임상 사용 조건과 품목별 급여 조건을 구분
 
 ### <mark style="color:orange;">Colonic secretagogue</mark>
 
@@ -417,7 +417,7 @@
 
 * 주의 : 이질·침습성 병원균 감염 시 증상 악화, 마비성 장폐색, 원인균 배출 지연
   * 혈변·발열·전신 독성·침습성 장염·STEC 또는 CDI 의심·급성 중증 대장염·장폐색 위험이 있으면 사용하지 않음
-* **loperamide** : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/d <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1660A0057">로프민</a>]</mark>
+* **loperamide** : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로프민</mark>](https://www.health.kr/drug/A11A1660A0057)<mark style="color:blue;">]</mark>
   * 이 책에서는 일반 외래·여행 중 급성 설사 자가 치료를 보수적으로 최대 8 ㎎/일, 최대 2일로 제한함(위의 허가용량 상한과 구분)
   * 만성 설사의 유지용량은 최저 유효용량으로 개별 조절 (☞ [만성 설사](084_-chronic-diarrhea.md))
   * 소아 감염성 급성 설사에는 사용하지 않음(IDSA는 18세 미만에서 비권고)
@@ -452,7 +452,7 @@
 
 * 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토
 * 작용 : 장점막 보호; 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설
-* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021030800001">스타빅현탁액</a>]</mark> 3 g/20 ㎖ : 20 ㎖ tid 식간 복용
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스타빅현탁액</mark>](https://www.health.kr/drug/2021030800001)<mark style="color:blue;">]</mark> 3 g/20 ㎖ : 20 ㎖ tid 식간 복용
   * 만 19세 미만 소아·청소년, 임부·임신 가능성이 있는 여성·수유부는 사용하지 않음
 * 변비·장폐색 병력에서 주의
 * 다른 경구약의 흡수를 방해할 수 있으므로 통상 2시간 이상 간격을 둠
@@ -480,7 +480,7 @@
 
 * 작용 : 항분비·항염·항균 작용을 통한 경증 급성 설사·여행자 설사의 증상 완화
 * 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용
-  * 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023041200001">펩토무스현탁액</a>]</mark>
+  * 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark>
 * Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용 시 사용하지 않음
 * 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
 * 신기능 저하·통풍 환자 및 항응고제·methotrexate·probenecid 복용자는 가능한 한 사용을 피하고, 신기능 저하 환자는 자가사용하지 않음
@@ -503,7 +503,7 @@
 * 용법 : 복용 시점·횟수는 성분·제형별로 다름
   * Almagate : 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
 
-<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0219">겔포스현탁액</a>]</mark>, <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0341A0009">암포젤</a>]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A6630B0003">타스나</a>]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종·임신)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A2950B0150">씨씨본</a>]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 신장애 환자 금기</td></tr></tbody></table>
+<table><thead><tr><th width="290">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td><strong>Al hydroxide/phosphate</strong> (비급여) <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11ABBBBB0219"><mark style="color:blue;">겔포스현탁액</mark></a><mark style="color:blue;">]</mark>, <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0341A0009"><mark style="color:blue;">암포젤</mark></a><mark style="color:blue;">]</mark></td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td><strong>almagate</strong> <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td><strong>Na bicarbonate</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A6630B0003"><mark style="color:blue;">타스나</mark></a><mark style="color:blue;">]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종·임신)</td></tr><tr><td><strong>Ca carbonate</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A2950B0150"><mark style="color:blue;">씨씨본</mark></a><mark style="color:blue;">]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td><strong>Mg(OH)₂</strong> <mark style="color:blue;">[마그밀]</mark>, <strong>MgO</strong> <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 신장애 환자 금기</td></tr></tbody></table>
 
 ## <mark style="color:green;">위 점막 보호제 (Gastric mucosal protective agent)</mark>
 
@@ -534,7 +534,7 @@
 * 작용 : 점막 보호·재생 증진
 * 대상 : NSAID 투여 환자 (특히 위궤양·출혈 병력자에서 병용)
 * 부작용 : 설사, 복통
-* **misoprostol** : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4340A0040">싸이토텍</a>]</mark>
+* **misoprostol** : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">싸이토텍</mark>](https://www.health.kr/drug/A11A4340A0040)<mark style="color:blue;">]</mark>
   * 금기 : 임부 - 자궁수축·유산 위험. 임신 가능 여성은 투여 전 임신 배제 및 피임 등 허가사항 준수
 
 ### <mark style="color:orange;">기타 점막 보호제 (Mucosal protective agents)</mark>
@@ -542,17 +542,17 @@
 * 위염의 위점막 병변 개선, 궤양·역류 관련 증상 개선 등 성분별 허가 적응증이 다름
   * 위염의 내시경 병변 개선 자료를 궤양·출혈 예방 효과로 확대 해석하지 않으며, NSAID 고위험 환자의 PPI 등 표준 예방요법을 대체하지 않음
   * 경험적으로 사용할 때 2주 정도 사용해도 호전이 없으면 중단하고, _H. pylori_·NSAID 사용·경고 증상 등 원인을 재평가함
-* Na alginate : 점막 피복·역류 증상 완화; 부작용-변비·설사; 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018120300069">거드액</a>]</mark>
-* benexate betadex : 400 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0340A0036">울굿</a>]</mark>
+* Na alginate : 점막 피복·역류 증상 완화; 부작용-변비·설사; 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">거드액</mark>](https://www.health.kr/drug/2018120300069)<mark style="color:blue;">]</mark>
+* benexate betadex : 400 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">울굿</mark>](https://www.health.kr/drug/A11A0340A0036)<mark style="color:blue;">]</mark>
 * ecabet : 1 g bid <mark style="color:blue;">\[가스트렉스과립]</mark>
-* irsogladine : 4 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08A0400">가스론엔</a>]</mark>
-* polaprezinc : 75 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013061800005">프로맥</a>]</mark>
-* rebamipide : 100 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4270A0014">무코스타</a>]</mark>
-* sulglycotide : 200 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO2797">글립타이드</a>]</mark>
-* teprenone : 50 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0100A0250">셀벡스</a>]</mark>
-* 애엽95%에탄올연조엑스(20→1) : 60 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5702">스티렌</a>]</mark>, 90 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015110200032">스티렌투엑스</a>]</mark>
+* irsogladine : 4 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">가스론엔</mark>](https://www.health.kr/drug/A11AKP08A0400)<mark style="color:blue;">]</mark>
+* polaprezinc : 75 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프로맥</mark>](https://www.health.kr/drug/2013061800005)<mark style="color:blue;">]</mark>
+* rebamipide : 100 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">무코스타</mark>](https://www.health.kr/drug/A11A4270A0014)<mark style="color:blue;">]</mark>
+* sulglycotide : 200 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">글립타이드</mark>](https://www.health.kr/drug/A11AOOOOO2797)<mark style="color:blue;">]</mark>
+* teprenone : 50 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">셀벡스</mark>](https://www.health.kr/drug/A11A0100A0250)<mark style="color:blue;">]</mark>
+* 애엽95%에탄올연조엑스(20→1) : 60 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스티렌</mark>](https://www.health.kr/drug/A11AOOOOO5702)<mark style="color:blue;">]</mark>, 90 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스티렌투엑스</mark>](https://www.health.kr/drug/2015110200032)<mark style="color:blue;">]</mark>
   * 60·90 ㎎은 추출물 함량이며 eupatilin 단일성분량이 아님
-* 육계건조엑스(16\~26→1) : 75 ㎎ tid 식후 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022071900004">지텍</a>]</mark>
+* 육계건조엑스(16\~26→1) : 75 ㎎ tid 식후 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">지텍</mark>](https://www.health.kr/drug/2022071900004)<mark style="color:blue;">]</mark>
 
 ## <mark style="color:green;">위산 분비 억제제 (Gastric antisecretory drug)</mark>
 
@@ -580,9 +580,9 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 * 주의 : 고령·CKD 시 성분별 감량. cimetidine 장기·고용량 사용 시 여성형유방증·발기부전과 약물 상호작용 주의
 * cimetidine은 CYP450 광범위 억제로 약물상호작용이 가장 많음
 
-<table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/2014082600003">에취투비</a>]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0150B0001">가스터</a>]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A4370A0013">액시드</a>]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0740A0330">록산</a>]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11APPPPP0584">스토가</a>]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
+<table><thead><tr><th width="195">성분명 [상품명]</th><th width="110">표준 일일 용량</th><th>상용량</th></tr></thead><tbody><tr><td><strong>cimetidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2014082600003"><mark style="color:blue;">에취투비</mark></a><mark style="color:blue;">]</mark></td><td>800 ㎎</td><td>400 ㎎ bid 또는 800 ㎎ hs; 위염의 점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd</td></tr><tr><td><strong>famotidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0150B0001"><mark style="color:blue;">가스터</mark></a><mark style="color:blue;">]</mark>¹⁾</td><td>40 ㎎</td><td>20 ㎎ bid, 40 ㎎ hs; 위염의 점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs</td></tr><tr><td><strong>nizatidine</strong>²⁾ <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A4370A0013"><mark style="color:blue;">액시드</mark></a><mark style="color:blue;">]</mark></td><td>300 ㎎</td><td>150 ㎎ bid, 300 ㎎ hs</td></tr><tr><td><strong>roxatidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0740A0330"><mark style="color:blue;">록산</mark></a><mark style="color:blue;">]</mark></td><td>150 ㎎</td><td>75 ㎎ bid</td></tr><tr><td><strong>lafutidine</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11APPPPP0584"><mark style="color:blue;">스토가</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎</td><td>10 ㎎ bid</td></tr></tbody></table>
 
-> _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함. 구강붕해정 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AJJJJJ0138">가스터디</a>]</mark>은 삼킴곤란·수분 제한 환자에서 선택할 수 있음. 효과 발현은 일반정과 같으며, 누운 상태에서 물 없이 복용하지 않음_\
+> _¹⁾ famotidine : cimetidine보다 CYP 관련 상호작용 부담이 적어 H2RA 중 우선 고려할 수 있음. 약한 CYP1A2 억제에 따른 tizanidine 병용 주의(가능하면 회피) 및 위산도 변화에 따른 상호작용은 확인함. 구강붕해정 <mark style="color:blue;">\[</mark>_[_<mark style="color:blue;">가스터디</mark>_](https://www.health.kr/drug/A11AJJJJJ0138)_<mark style="color:blue;">]</mark>은 삼킴곤란·수분 제한 환자에서 선택할 수 있음. 효과 발현은 일반정과 같으며, 누운 상태에서 물 없이 복용하지 않음_\
 > _&#xB2;⁾ 인체 발암 추정물질 NDMA(IARC Group 2A) 함유로 ranitidine <mark style="color:blue;">\[큐란]</mark>, <mark style="color:blue;">\[잔탁]</mark> 일부 리콜(2019.09.) 후 전 제품 시장 철수; nizatidine 역시 일부 제품에서 NDMA 검출로 리콜 사례 있으므로 주의_
 
 ### <mark style="color:orange;">프로톤 펌프 차단제 (Proton pump inhibitor, PPI)</mark> <a href="#ppi" id="ppi"></a>
@@ -608,13 +608,13 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 _<mark style="color:$info;">Ref. AGA PPI de-prescribing update. 2022; ATS/ERS/JRS/ALAT IPF guideline. 2022.</mark>_
 {% endhint %}
 
-<table data-search="false"><thead><tr><th width="182">성분명 [상품명]</th><th width="127">표준 용량 참고값¹⁾</th><th width="210">소화성 궤양²⁾</th><th>GERD²⁾</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark></td><td>20 ㎎</td><td>20 ㎎ qd</td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2014070100017">오엠피에스</a>]</mark>·<mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA5271">넥시움</a>]</mark></td><td>20 ㎎</td><td>NSAID 관련 GU 치료·예방 20 ㎎ qd; 제균 병용 20 ㎎ bid</td><td>20~40 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0101A0362">란스톤</a>]</mark></td><td>30 ㎎</td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td><td>ERD 치유 30 ㎎ qd; 증상 치료·유지 15 ㎎ qd</td></tr><tr><td><strong>dexlansoprazole</strong><br><mark style="color:blue;">[덱실란트디알]</mark></td><td>-</td><td>(허가 없음)</td><td>미란성 식도염 치유 60 ㎎ qd ×최대 8주; 치유 유지·비미란성 GERD 증상 치료 30 ㎎ qd(적응증별 기간 구분)</td></tr><tr><td><strong>pantoprazole</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark></td><td>40 ㎎</td><td>40 ㎎ qd</td><td>미란성 식도염 40 ㎎ qd; 반응 불충분 시 평가 후 증량. 20 ㎎ 제형의 경증 증상·유지 용법과 구분함</td></tr><tr><td><strong>rabeprazole</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ALLLLL0193">파리에트</a>]</mark></td><td>20 ㎎</td><td>10~20 ㎎ qd</td><td>10~20 ㎎ qd; 불충분 반응 시 증량은 별도 평가</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AKP08D0089">놀텍</a>]</mark></td><td>-</td><td>10 ㎎ qd</td><td>20 ㎎ qd</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="182">성분명 [상품명]</th><th width="127">표준 용량 참고값¹⁾</th><th width="210">소화성 궤양²⁾</th><th>GERD²⁾</th></tr></thead><tbody><tr><td><strong>omeprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0120A0565"><mark style="color:blue;">오엠피</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎</td><td>20 ㎎ qd</td><td>20 ㎎ qd</td></tr><tr><td><strong>esomeprazole</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2014070100017"><mark style="color:blue;">오엠피에스</mark></a><mark style="color:blue;">]</mark>·<mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AGGGGA5271"><mark style="color:blue;">넥시움</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎</td><td>NSAID 관련 GU 치료·예방 20 ㎎ qd; 제균 병용 20 ㎎ bid</td><td>20~40 ㎎ qd</td></tr><tr><td><strong>lansoprazole</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0101A0362"><mark style="color:blue;">란스톤</mark></a><mark style="color:blue;">]</mark></td><td>30 ㎎</td><td>GU 30 ㎎ qd ×8주; DU 15 ㎎ qd ×4주</td><td>ERD 치유 30 ㎎ qd; 증상 치료·유지 15 ㎎ qd</td></tr><tr><td><strong>dexlansoprazole</strong><br><mark style="color:blue;">[덱실란트디알]</mark></td><td>-</td><td>(허가 없음)</td><td>미란성 식도염 치유 60 ㎎ qd ×최대 8주; 치유 유지·비미란성 GERD 증상 치료 30 ㎎ qd(적응증별 기간 구분)</td></tr><tr><td><strong>pantoprazole</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2010102700001"><mark style="color:blue;">판토록</mark></a><mark style="color:blue;">]</mark></td><td>40 ㎎</td><td>40 ㎎ qd</td><td>미란성 식도염 40 ㎎ qd; 반응 불충분 시 평가 후 증량. 20 ㎎ 제형의 경증 증상·유지 용법과 구분함</td></tr><tr><td><strong>rabeprazole</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11ALLLLL0193"><mark style="color:blue;">파리에트</mark></a><mark style="color:blue;">]</mark></td><td>20 ㎎</td><td>10~20 ㎎ qd</td><td>10~20 ㎎ qd; 불충분 반응 시 증량은 별도 평가</td></tr><tr><td><strong>ilaprazole</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AKP08D0089"><mark style="color:blue;">놀텍</mark></a><mark style="color:blue;">]</mark></td><td>-</td><td>10 ㎎ qd</td><td>20 ㎎ qd</td></tr></tbody></table>
 
 > _**¹⁾** NICE CG184의 표준 용량 참고값임. 동일한 산 억제력·임상 효과를 뜻하는 직접 환산표가 아님._\
 > _&#xB2;⁾ 소화성궤양·GERD 용량은 대표 품목의 적응증별 용법으로 구분함. GU=위궤양, DU=십이지장궤양, ERD=미란성 GERD임. 일반형·서방형·복합제는 자동 대체하지 않음 \[품목 허가사항]_\
 > _&#xD65C;동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
 
-* 위염의 위점막 병변 개선 : esomeprazole 10 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021120100018">에스코텐</a>]</mark>
+* 위염의 위점막 병변 개선 : esomeprazole 10 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에스코텐</mark>](https://www.health.kr/drug/2021120100018)<mark style="color:blue;">]</mark>
 * <mark style="color:blue;">에소메졸디알</mark>(esomeprazole Mg trihydrate)은 20·40 ㎎ 이중방출 제형으로, ERD 치유 40 ㎎ qd ×4주(필요시 4주 추가), 유지 20 ㎎ qd. 식사 무관이며 위염용 10 ㎎ 제품 또는 제균·궤양 예방용 일반형과 구분
 
 {% hint style="info" %}
@@ -643,7 +643,7 @@ _<mark style="color:$info;">Ref. Omeprazole·esomeprazole 허가사항; 미란�
 * P-CAB은 성분별 대사·허가사항이 다름
   * 간·신장 기능 저하·고령의 주의 기준과 위산 의존 흡수 약제(atazanavir, rilpivirine, 일부 azole계 등)의 병용금기·주의를 성분별로 구분
 
-<table><thead><tr><th width="145">성분명 [상품명]</th><th width="222">특징</th><th>주요 적응증 및 용법</th></tr></thead><tbody><tr><td><strong>revaprazan</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11APPPPP0348">레바넥스</a>]</mark></td><td>초기 acid pump antagonist; 후속 P-CAB보다 산 억제 근거가 제한적</td><td>십이지장궤양·위궤양의 단기치료 및 급·만성 위염의 위점막 병변 개선에 200 ㎎ qd; GERD·<em>H. pylori</em> 제균의 허가요법으로 제시하지 않음</td></tr><tr><td><strong>vonoprazan</strong><br><mark style="color:blue;">[보신티]</mark></td><td>국제 임상 근거가 풍부함; 2026. 11. 1.부터 급여 <mark style="color:$info;">[보건복지부 고시 제2026-222호]</mark></td><td>위궤양 20 ㎎ qd ×최대 8주; 미란성 GERD 20 ㎎ qd ×4주(불충분 시 8주까지); 치유 후 유지 10 ㎎ qd(불충분 시 20 ㎎ qd); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd. 국내 <em>H. pylori</em> 제균 적응증은 없으며 해외 제균요법과 구분함. 실제 공급 여부 확인</td></tr><tr><td><strong>fexuprazan</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2022010300016">펙수클루</a>]</mark></td><td>강력한 산 억제; 반감기 약 9시간</td><td>미란성 GERD 40 ㎎ qd ×4주(불충분 시 4주 추가); 급·만성 위염 점막 병변 개선 10 ㎎ bid ×2주; NSAID 유도성 위·십이지장궤양 예방 20 ㎎ qd ×24주; <em>H. pylori</em> 제균 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×14일</td></tr><tr><td><strong>tegoprazan</strong>¹⁾<br><mark style="color:blue;">[케이캡]</mark></td><td>빠른 산 억제, CYP3A4 대사; 장기 자료 축적 중</td><td>미란성 GERD 50 ㎎ qd ×4주(불충분 시 4주 추가); 비미란성 GERD 50 ㎎ qd ×4주; 위궤양 50 ㎎ qd ×8주; 미란성 GERD 치료 후 유지 25 ㎎ qd; NSAIDs 관련 소화성궤양 예방 25 ㎎ qd; <em>H. pylori</em> 제균 50 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×7일(경험적 우선 제균요법 여부와 구분)</td></tr><tr><td><strong>zastaprazan</strong>²⁾<br><mark style="color:blue;">[자큐보]</mark></td><td>2024년 허가·출시</td><td>미란성 GERD 20 ㎎ qd ×4주(미치유 시 4주 추가); 위궤양 20 ㎎ qd ×최대 8주. 식사 무관. 일반정·구강붕해정이 있으며, 구강붕해정은 혀 위에서 녹이거나 물과 함께 복용함</td></tr></tbody></table>
+<table><thead><tr><th width="145">성분명 [상품명]</th><th width="222">특징</th><th>주요 적응증 및 용법</th></tr></thead><tbody><tr><td><strong>revaprazan</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11APPPPP0348"><mark style="color:blue;">레바넥스</mark></a><mark style="color:blue;">]</mark></td><td>초기 acid pump antagonist; 후속 P-CAB보다 산 억제 근거가 제한적</td><td>십이지장궤양·위궤양의 단기치료 및 급·만성 위염의 위점막 병변 개선에 200 ㎎ qd; GERD·<em>H. pylori</em> 제균의 허가요법으로 제시하지 않음</td></tr><tr><td><strong>vonoprazan</strong><br><mark style="color:blue;">[보신티]</mark></td><td>국제 임상 근거가 풍부함; 2026. 11. 1.부터 급여 <mark style="color:$info;">[보건복지부 고시 제2026-222호]</mark></td><td>위궤양 20 ㎎ qd ×최대 8주; 미란성 GERD 20 ㎎ qd ×4주(불충분 시 8주까지); 치유 후 유지 10 ㎎ qd(불충분 시 20 ㎎ qd); NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd. 국내 <em>H. pylori</em> 제균 적응증은 없으며 해외 제균요법과 구분함. 실제 공급 여부 확인</td></tr><tr><td><strong>fexuprazan</strong><br><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2022010300016"><mark style="color:blue;">펙수클루</mark></a><mark style="color:blue;">]</mark></td><td>강력한 산 억제; 반감기 약 9시간</td><td>미란성 GERD 40 ㎎ qd ×4주(불충분 시 4주 추가); 급·만성 위염 점막 병변 개선 10 ㎎ bid ×2주; NSAID 유도성 위·십이지장궤양 예방 20 ㎎ qd ×24주; <em>H. pylori</em> 제균 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×14일</td></tr><tr><td><strong>tegoprazan</strong>¹⁾<br><mark style="color:blue;">[케이캡]</mark></td><td>빠른 산 억제, CYP3A4 대사; 장기 자료 축적 중</td><td>미란성 GERD 50 ㎎ qd ×4주(불충분 시 4주 추가); 비미란성 GERD 50 ㎎ qd ×4주; 위궤양 50 ㎎ qd ×8주; 미란성 GERD 치료 후 유지 25 ㎎ qd; NSAIDs 관련 소화성궤양 예방 25 ㎎ qd; <em>H. pylori</em> 제균 50 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎ 각각 bid ×7일(경험적 우선 제균요법 여부와 구분)</td></tr><tr><td><strong>zastaprazan</strong>²⁾<br><mark style="color:blue;">[자큐보]</mark></td><td>2024년 허가·출시</td><td>미란성 GERD 20 ㎎ qd ×4주(미치유 시 4주 추가); 위궤양 20 ㎎ qd ×최대 8주. 식사 무관. 일반정·구강붕해정이 있으며, 구강붕해정은 혀 위에서 녹이거나 물과 함께 복용함</td></tr></tbody></table>
 
 > _¹⁾ tegoprazan : 25 ㎎은 미란성 GERD 치료 후 유지 및 NSAIDs 관련 소화성궤양 예방 용량이며, NSAIDs 관련 궤양 예방 적응증이 추가됨; 구역·설사·소화불량·두통 등이 보고됨_
 >

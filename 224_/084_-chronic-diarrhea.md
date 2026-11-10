@@ -3,7 +3,6 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 이 장은 성인 만성 설사의 외래 평가와 치료를 중심으로 기술함
-
 * 정의 : 묽거나 수양성인 변([Bristol stool scale](082_-constipation.md) 6\~7형)이 4주 이상 반복되는 상태로, 배변 횟수 증가·절박변 또는 변실금이 동반될 수 있음
 * 이 책의 기간 구분 : 급성 ＜14일, 지속성 ≥14일\~＜4주, 만성 ≥4주
 * 대부분 장 점막의 수분·전해질 흡수-분비 불균형이 핵심 기전
@@ -96,24 +95,24 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 저혈압·실신·의식 변화 또는 부정맥을 동반한 중증 탈수·전해질 이상  `중증 탈수` `전해질 이상`
-* 순환 부전 징후를 동반한 대량 혈변·흑색변  `위장관 출혈`
-* 현저한 복부 팽창, 심한 압통 또는 복막 자극 징후와 발열·전신 독성  `독성 거대결장` `장 천공`
-* 저혈압·쇼크·장폐색 또는 거대결장을 동반한 _C. difficile_ 감염 의심  `전격성 C. difficile 감염`
+* 저혈압·실신·의식 변화 또는 부정맥을 동반한 중증 탈수·전해질 이상 `중증 탈수` `전해질 이상`
+* 순환 부전 징후를 동반한 대량 혈변·흑색변 `위장관 출혈`
+* 현저한 복부 팽창, 심한 압통 또는 복막 자극 징후와 발열·전신 독성 `독성 거대결장` `장 천공`
+* 저혈압·쇼크·장폐색 또는 거대결장을 동반한 _C. difficile_ 감염 의심 `전격성 C. difficile 감염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 새로 발생한 혈변·흑색변 또는 지속되는 발열과 복통  `장 출혈` `침습성 감염` `IBD`
-* **(당일)** 면역저하자에서 악화되는 설사  `CMV 장염` `기회 감염`
-* **(당일)** 면역관문억제제 치료 중 새로 발생하거나 악화된 설사  `면역매개 장염`
-* 원인 불명 체중 감소(6개월 내 ≥5%), 철 결핍 빈혈 또는 저알부민혈증  `대장암` `IBD` `흡수 장애`
-* 50세 이상에서 새로 발생한 만성 설사  `대장암` `Microscopic colitis`
-* 대장암·IBD 가족력이 있는 환자의 새 증상 또는 수면 중 깨는 야간 설사  `기질적 장 질환`
+* **(당일)** 새로 발생한 혈변·흑색변 또는 지속되는 발열과 복통 `장 출혈` `침습성 감염` `IBD`
+* **(당일)** 면역저하자에서 악화되는 설사 `CMV 장염` `기회 감염`
+* **(당일)** 면역관문억제제 치료 중 새로 발생하거나 악화된 설사 `면역매개 장염`
+* 원인 불명 체중 감소(6개월 내 ≥5%), 철 결핍 빈혈 또는 저알부민혈증 `대장암` `IBD` `흡수 장애`
+* 50세 이상에서 새로 발생한 만성 설사 `대장암` `Microscopic colitis`
+* 대장암·IBD 가족력이 있는 환자의 새 증상 또는 수면 중 깨는 야간 설사 `기질적 장 질환`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 경고 징후 없이 기본 평가 후 4\~6주 치료에도 지속되는 설사  `BAD` `Microscopic colitis` `SIBO`
-* 지방변(기름지고 악취 나는 변)·지용성 비타민 결핍 등 흡수 장애를 시사하는 소견  `췌장 외분비 부전` `셀리악병` `SIBO`
+* 경고 징후 없이 기본 평가 후 4\~6주 치료에도 지속되는 설사 `BAD` `Microscopic colitis` `SIBO`
+* 지방변(기름지고 악취 나는 변)·지용성 비타민 결핍 등 흡수 장애를 시사하는 소견 `췌장 외분비 부전` `셀리악병` `SIBO`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -168,7 +167,6 @@
 <table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>＜ 50 ㎍/g</td><td>유의한 장 염증 가능성 낮음 → 기능성 원인 우선 평가; microscopic colitis·셀리악병·BAD는 별도 판단</td></tr><tr><td>50~＜150 ㎍/g</td><td>borderline → 감염·NSAID 등 교란 요인 확인 후 임상 양상에 따라 추적 또는 내시경 고려</td></tr><tr><td>150~250 ㎍/g</td><td>기질적 염증 가능성↑ → 내시경 적극 고려</td></tr><tr><td>＞ 250 ㎍/g</td><td>유의한 장 염증 가능성 높음 → IBD 등을 위한 내시경 평가·의뢰</td></tr></tbody></table>
 
 * 위 구간은 실무 참고용이며 보편적으로 표준화된 진단 단계가 아님. 절단값은 검사법·검사실 및 임상 상황에 따라 다르므로 단일 수치만으로 IBD를 확진·배제하지 않음; 출혈·체중 감소 등 경고 징후가 있으면 낮은 수치로 내시경을 보류하지 않음
-
 * **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전(EPI)의 초기 평가; ＜100 ㎍/g은 EPI를 강하게 지지, 100\~200 ㎍/g은 판정 유보 구간으로 임상상·재검·추가 평가 필요
   * 72시간 대변 지방 검사보다 간편하며 반고형변 또는 고형변에서 검사. 수양변에서는 희석으로 수치가 거짓으로 낮아져 췌장 외분비 기능 부전으로 오인하는 위양성이 발생할 수 있음
 * 대변 지방 : 하루 약 100 g 지방을 섭취하면서 72시간 채변했을 때 ＞7 g/d이면 지방 흡수 장애 시사
@@ -310,7 +308,7 @@ flowchart TD
 * 작용 : 장 운동 지연, 장 분비 감소
 * 대상 : 비특이적 만성 설사 대증 치료; 기능성 설사·IBS-D urgency 증상에 유용
 * 발열·혈변을 동반한 급성 침습성 감염, _C. difficile_ 감염 의심 또는 확진, 급성 중증 대장염 또는 toxic megacolon 위험이 있으면 사용하지 않음
-* loperamide : 2 ㎎ qd\~qid로 시작하여 반응에 따라 조절 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1660A0057">로프민</a>]</mark>; 허가 최대 16 ㎎/일이며 만성 설사의 통상 유지용량은 2\~6 ㎎/일을 1\~2회 분복함. 최저 유효용량으로 개별 조절
+* loperamide : 2 ㎎ qd\~qid로 시작하여 반응에 따라 조절 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로프민</mark>](https://www.health.kr/drug/A11A1660A0057)<mark style="color:blue;">]</mark>; 허가 최대 16 ㎎/일이며 만성 설사의 통상 유지용량은 2\~6 ㎎/일을 1\~2회 분복함. 최저 유효용량으로 개별 조절
   * 과량 복용 시 QT 연장·torsades de pointes·실신 위험; CYP3A4·P-gp 억제제(clarithromycin, itraconazole 등) 병용 주의
   * 만성 기능성 설사에서는 식전 규칙 복용(scheduled dosing, 예: 식전 30분)이 urgency 예방에 도움이 될 수 있으나 변비가 발생하면 감량
   * 만성 설사에서 복용 후 10일 이내 호전이 없으면 중단하고 원인을 재평가; 효과 없이 계속 증량·복용하지 않음
@@ -323,11 +321,11 @@ IBS-D는 단순 설사 억제보다 장-뇌 축 조절 및 복통 완화에 초�
 Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phenotype에서는 효과 제한적.
 {% endhint %}
 
-* ondansetron (5-HT₃ 차단제) : 4 ㎎ qd에서 시작하여 변 형태·빈도에 따라 감량 또는 증량(예: bid) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1538">조프란</a>]</mark> (IBS-D에는 허가 외 사용)
+* ondansetron (5-HT₃ 차단제) : 4 ㎎ qd에서 시작하여 변 형태·빈도에 따라 감량 또는 증량(예: bid) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조프란</mark>](https://www.health.kr/drug/A11ABBBBB1538)<mark style="color:blue;">]</mark> (IBS-D에는 허가 외 사용)
   * 장 통과시간 지연 → urgency·묽은 변 개선; IBS-D에서 RCT·메타분석 근거가 있으나 복통 개선 근거는 없음 <mark style="color:$info;">\[Gut 2014]</mark> <mark style="color:$info;">\[Aliment Pharmacol Ther 2023]</mark>. 기능성 설사의 일률적 1차 약제로 사용하지 않음
   * 변비·장폐색 위험 확인; 선천성 QT 연장 증후군에서는 회피하고 저칼륨·저마그네슘혈증은 교정. Apomorphine(심한 저혈압·의식 소실)·domperidone(QT 연장·부정맥)과 병용 금기
 * 저용량 TCA : 복통 + urgency 동반 IBS-D에 유용; 진통·장 운동 억제·수면 개선 복합 효과
-  * amitriptyline : 10\~25 ㎎ hs <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570B0082">에트라빌</a>]</mark>; IBS-D에는 허가 외 사용. QT 연장 위험 때문에 domperidone과 병용하지 않음 (☞ [위장관 신경조절제](073_-gidrugs.md#tca))
+  * amitriptyline : 10\~25 ㎎ hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark>; IBS-D에는 허가 외 사용. QT 연장 위험 때문에 domperidone과 병용하지 않음 (☞ [위장관 신경조절제](073_-gidrugs.md#tca))
   * 고령에서는 항콜린 부작용·기립성 저혈압·심독성 때문에 가능한 회피; 녹내장·전립선비대 등 배뇨장애·부정맥·심근경색 회복 초기·MAO 억제제 병용은 금기. 그 밖의 심혈관 질환과 다른 항콜린 약물 병용은 신중 평가
 
 {% hint style="danger" %}
@@ -335,13 +333,12 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 {% endhint %}
 
 * Antispasmodics : 식후 복통·cramping 동반 시 (☞ [진경제](073_-gidrugs.md#gi-antispasmodic))
-  * trimebutine 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0119">포리부틴</a>]</mark>
-  * pinaverium 50 ㎎ tid 식사 중, 씹지 말고 충분한 물과 함께 통째로 삼킴; 누운 자세 또는 취침 직전 복용 회피 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0950A0197">디세텔</a>]</mark>
+  * trimebutine 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">포리부틴</mark>](https://www.health.kr/drug/A11A0500A0119)<mark style="color:blue;">]</mark>
+  * pinaverium 50 ㎎ tid 식사 중, 씹지 말고 충분한 물과 함께 통째로 삼킴; 누운 자세 또는 취침 직전 복용 회피 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">디세텔</mark>](https://www.health.kr/drug/A11A0950A0197)<mark style="color:blue;">]</mark>
   * mebeverine : 단일제 유통 확인 안 됨
-* rifaximin : bloating prominent IBS-D에서 고려; IBS-D의 대표 임상시험 용법은 550 ㎎ tid × 14일이나, 550 ㎎ 정제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023080800002">틱스타</a>]</mark>는 현성 간성뇌증 재발 감소에 허가된 제품으로 IBS-D에는 허가 외 사용. 200 ㎎ 정제를 이용한 용법은 근거·허가·급여가 동일하지 않음 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0736">노르믹스</a>]</mark>
+* rifaximin : bloating prominent IBS-D에서 고려; IBS-D의 대표 임상시험 용법은 550 ㎎ tid × 14일이나, 550 ㎎ 정제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">틱스타</mark>](https://www.health.kr/drug/2023080800002)<mark style="color:blue;">]</mark>는 현성 간성뇌증 재발 감소에 허가된 제품으로 IBS-D에는 허가 외 사용. 200 ㎎ 정제를 이용한 용법은 근거·허가·급여가 동일하지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">노르믹스</mark>](https://www.health.kr/drug/A11AOOOOO0736)<mark style="color:blue;">]</mark>
   * 허가 외 사용 및 급여 제한을 설명하고, post-infectious IBS를 별도 확립 적응증으로 간주하지 않음
-
-* ramosetron (5-HT₃ 차단제) : 허가된 IBS-D 치료 약제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2024060300009">이리콜</a>]</mark>·<mark style="color:blue;">\[이리스탑]</mark>·<mark style="color:blue;">\[이리퀵]</mark>
+* ramosetron (5-HT₃ 차단제) : 허가된 IBS-D 치료 약제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리콜</mark>](https://www.health.kr/drug/2024060300009)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[이리스탑]</mark>·<mark style="color:blue;">\[이리퀵]</mark>
   * 성인 남성 5 ㎍ qd(2.5\~10 ㎍/일), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/일). 항구토용 0.1 ㎎(100 ㎍) 제형과 구분
   * 변비·굳은 변 발생 시 감량·휴약·중단을 고려하고, 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가 (☞ [IBS](087_-irritable-bowel-syndrome.md))
   * CYP1A2 억제제(fluvoxamine 등) 병용 시 혈중 농도 상승, SSRI·SNRI 등 세로토닌성 약물 병용 시 신중 투여
@@ -352,13 +349,13 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * 대상 : 일반적인 만성 설사의 routine 치료가 아니라 난치성 당뇨병성·분비성 설사 또는 opiate 금단 설사에서 전문의가 제한적으로 고려하는 허가 외 치료
 * 주의 : 저혈압·서맥·진정; 갑작스러운 중단 시 반동성 고혈압
 * clonidine : 해외 약제(속방형 유통 확인 안 됨); 당뇨병성 자율신경병증 설사에서 보고됨
-  * 서방형 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013013100009">켑베이</a>]</mark>는 ADHD 적응증 제제로 속방형과 대체할 수 없고 설사 치료에 쓰지 않음
+  * 서방형 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">켑베이</mark>](https://www.health.kr/drug/2013013100009)<mark style="color:blue;">]</mark>는 ADHD 적응증 제제로 속방형과 대체할 수 없고 설사 치료에 쓰지 않음
 
 ### <mark style="color:orange;">Somatostatin analogue</mark>
 
 * 작용 : 장 내 fluid·전해질 흡수 자극, GI peptides 분비 억제
 * 대상 : carcinoid syndrome, VIPoma 등 신경내분비종양 관련 설사; 화학요법 관련 난치성 설사·위 절제술 후 덤핑증후군에서는 전문의가 제한적으로 고려
-* octreotide 속효성 주사 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ACCCCC0365">산도스타틴주사</a>]</mark> <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08J0035">옥트스타틴주</a>]</mark> : 카르시노이드·VIPoma 등 신경내분비종양 설사와 난치성 분비성 설사에서 전문의가 SC 분할 투여로 개별 조절
+* octreotide 속효성 주사 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">산도스타틴주사</mark>](https://www.health.kr/drug/A11ACCCCC0365)<mark style="color:blue;">]</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">옥트스타틴주</mark>](https://www.health.kr/drug/A11AKP08J0035)<mark style="color:blue;">]</mark> : 카르시노이드·VIPoma 등 신경내분비종양 설사와 난치성 분비성 설사에서 전문의가 SC 분할 투여로 개별 조절
   * 장기 지속형 <mark style="color:blue;">\[산도스타틴라르주사]</mark>(10·20·30 ㎎)는 4주 간격 심부 IM 제제로 속효성 SC 용법과 혼용하지 않음
 
 ### <mark style="color:orange;">Bile acid-binding resin</mark>
@@ -406,7 +403,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * 대상 : 소량의 물 설사, 대변실금 동반 기능성 설사
 * 작용 : 수용성 식이섬유 → 장 내용물 점도↑ → 대변 수분 흡수↑
 * psyllium : 차전자피 성분량 기준 소량(예: 3\~5 g/d)부터 시작해 반응·내약성에 따라 증량. 제품 총 분말량과 차전자피 함량을 구분하고 제품 용법을 따름(충분한 수분과 함께)
-* calcium polycarbophil : 1.25\~2.5 g/d에서 시작하여 반응에 따라 증량, 최대 5 g/d <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO6150">웰콘정</a>]</mark>; 처음부터 최대용량을 일률적으로 투여하지 않음. 중증 비투석 신부전·고칼슘혈증·신장결석·장폐색/협착·중증 탈수 등은 금기, 투석 또는 경증 신부전은 신중 투여. 다른 경구약과 최소 2시간 분리하고 PPI·H2RA·제산제에 의한 효과 감소 가능성 확인
+* calcium polycarbophil : 1.25\~2.5 g/d에서 시작하여 반응에 따라 증량, 최대 5 g/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">웰콘정</mark>](https://www.health.kr/drug/A11AOOOOO6150)<mark style="color:blue;">]</mark>; 처음부터 최대용량을 일률적으로 투여하지 않음. 중증 비투석 신부전·고칼슘혈증·신장결석·장폐색/협착·중증 탈수 등은 금기, 투석 또는 경증 신부전은 신중 투여. 다른 경구약과 최소 2시간 분리하고 PPI·H2RA·제산제에 의한 효과 감소 가능성 확인
 
 ### <mark style="color:orange;">Probiotics</mark>
 
@@ -426,7 +423,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 ## <mark style="color:red;">질병코드</mark>
 
 * K59.1 기능성 설사 Functional diarrhoea
-* K58.1 설사 위주의 과민대장증후군 [IBS-D] Irritable bowel syndrome with predominant diarrhoea [IBS-D]
+* K58.1 설사 위주의 과민대장증후군 \[IBS-D] Irritable bowel syndrome with predominant diarrhoea \[IBS-D]
 * K52.8 기타 명시된 비감염성 위장염 및 결장염 Other specified noninfective gastroenteritis and colitis - 현미경적 결장염(콜라젠성·림프구성 결장염) 포함
 * K52.9 상세불명의 비감염성 위장염 및 결장염 Noninfective gastroenteritis and colitis, unspecified
 * K90.0 복강질환 Coeliac disease
@@ -450,6 +447,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 > ※ loperamide 식전 규칙 복용은 urgency 예방에 도움이 될 수 있으며 변비 발생 시 감량
 > ※ 고령·다제 병용 시 QT 연장 위험 모니터링
 > ```
+>
 > 약제 정보: [로프민캡슐 2㎎](https://www.health.kr/drug/A11A1660A0057)
 >
 > _✽반복적 복통·복부 불편감과 배변 이상이 연관되면 Rome V에 따라 IBS-D를 평가; gut-brain modulation 병행 설명. 복통이 주된 문제이면 저용량 amitriptyline 또는 진경제를 증상에 따라 선택._
@@ -468,6 +466,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 > ※ SSRI 병용 시 QT 연장 및 세로토닌 증후군 위험 모니터링
 > ※ domperidone과 병용하지 않으며, 다른 QT 연장 약물은 약물별 병용금기·주의를 확인
 > ```
+>
 > 약제 정보: [포리부틴정 100㎎](https://www.health.kr/drug/A11A0500A0119) · [에트라빌정 10㎎](https://www.health.kr/drug/A11A0570B0082)
 >
 > _✽low-FODMAP 식이와 병행; 스트레스-증상 연관성 설명. 4\~6주 후 반응 평가._
@@ -480,6 +479,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 > ※ 변비·굳은 변이 생기면 감량·휴약
 > ※ 복통 악화·혈변 시 중단 후 허혈성 대장염 평가
 > ```
+>
 > 약제 정보: [이리콜정 5㎍](https://www.health.kr/drug/2024060300009)
 >
 > _✽ramosetron은 허가된 IBS-D 치료 약제로, loperamide에 반응이 불충분하거나 urgency·묽은 변이 주 증상일 때 선택._
@@ -496,6 +496,8 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 > ※ 광범위 회장 절제·질환에 따른 지방변에서는 악화 가능성에 주의
 > ```
 >
+> _✽에픽콜레스티라민현탁용산(라이트) : 한국희귀의약품센터_
+>
 > _✽담낭절제술 병력만으로 BAD를 확진하지 않으며, 가능하면 객관적 검사를 시행. 검사가 어려울 때는 감별진단을 검토한 뒤 치료 시험을 고려. 결합제 사용이 어려울 때의 대증 치료 예: 로프민캡슐 2 ㎎/C 1C 필요시(이 예시에서는 1일 최대 4C). Loperamide 복용 후 10일 이내 호전이 없으면 중단·재평가._
 
 > **처방례 5. 소장 세균 과증식 (SIBO)**
@@ -507,6 +509,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 > ※ 재발 시 진단과 원인을 재평가한 뒤 반복 치료 고려
 > ※ 이 처방례는 노르믹스정 200 ㎎을 이용한 SIBO 허가 외 요법의 예시임
 > ```
+>
 > 약제 정보: [노르믹스정 200㎎](https://www.health.kr/drug/A11AOOOOO0736)
 >
 > _✽rifaximin은 비흡수성 항생제로 전신 부작용 적음. 원인(장 운동 장애, 해부학적 이상) 교정 없이는 재발률 높음._
@@ -597,7 +600,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 
 * <mark style="color:$info;">Pimentel M, et al. ACG clinical guideline: small intestinal bacterial overgrowth. Am J Gastroenterol. 2020. - 호기검사·IMO·rifaximin</mark>
 
-[https://journals.lww.com/ajg/fulltext/2020/02000/acg_clinical_guideline__small_intestinal_bacterial.9.aspx](https://journals.lww.com/ajg/fulltext/2020/02000/acg_clinical_guideline__small_intestinal_bacterial.9.aspx)
+[https://journals.lww.com/ajg/fulltext/2020/02000/acg\_clinical\_guideline\_\_small\_intestinal\_bacterial.9.aspx](https://journals.lww.com/ajg/fulltext/2020/02000/acg_clinical_guideline__small_intestinal_bacterial.9.aspx)
 
 * <mark style="color:$info;">Kashyap P, et al. Critical appraisal of the SIBO hypothesis and breath testing: A clinical practice update endorsed by ESNM and ANMS. Neurogastroenterol Motil. 2024;36:e14817. - IBS에서 호기검사에 의한 SIBO 과진단·항생제 과용 주의</mark>
 
@@ -618,18 +621,17 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
-
 * <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보</mark>
 
 [https://www.hira.or.kr](https://www.hira.or.kr)
 
 * <mark style="color:$info;">보건복지부 고시 제2026-92호(2026.5.1. 시행). Cholestyramine resin 경구제 급여기준 신설 - 혈청 콜레스테롤 수치 감소에 대한 기준</mark>
 
-[https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020002000100&brdScnBltNo=4&brdBltNo=12034](https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020002000100&brdScnBltNo=4&brdBltNo=12034)
+[https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020002000100\&brdScnBltNo=4\&brdBltNo=12034](https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020002000100\&brdScnBltNo=4\&brdBltNo=12034)
 
 * <mark style="color:$info;">전남대학교병원 약제부. 에픽 콜레스티라민 현탁용 산 4g 처방가능 알림(2026.5.15.부터). 2026.5.6. - 한국희귀필수의약품센터 공급 제품의 병원 처방 확인</mark>
 
-[https://www.cnuh.com/pharm/board/B0150.cs?act=read&articleId=48081&m=&pageIndex=1&pageUnit=15&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=](https://www.cnuh.com/pharm/board/B0150.cs?act=read&articleId=48081&m=&pageIndex=1&pageUnit=15&searchCondition=&searchEndDt=&searchKeyword=&searchStartDt=)
+[https://www.cnuh.com/pharm/board/B0150.cs?act=read\&articleId=48081\&m=\&pageIndex=1\&pageUnit=15\&searchCondition=\&searchEndDt=\&searchKeyword=\&searchStartDt=](https://www.cnuh.com/pharm/board/B0150.cs?act=read\&articleId=48081\&m=\&pageIndex=1\&pageUnit=15\&searchCondition=\&searchEndDt=\&searchKeyword=\&searchStartDt=)
 
 ***
 
