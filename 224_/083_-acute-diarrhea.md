@@ -55,11 +55,12 @@ _**Clostridioides difficile**_**&#x20;infection (CDI)** \
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 의식 변화, 약한 맥박, 저혈압, 말초 관류 저하, 핍뇨 `중증 탈수·쇼크`
-* 지속적 구토로 ORS의 경구·경관 투여가 불가능하거나 ORS 치료 실패 `탈수 진행`
+* 지속적 구토로 경구용 수분 보충액(oral rehydration solution, ORS)의 경구·경관 투여가 불가능하거나 ORS 치료 실패 `탈수 진행`
 * 면역 저하 환자 + 전신 독성 징후 (고열, 패혈증 의심 징후) `패혈증`
 * 혈변 + 고열 + 전신 독성 동반 `침습성 장염·패혈증`
 * 복막 자극 징후, 복부 강직·심한 팽만, 장폐색 또는 통증에 비해 진찰 소견이 경미한 심한 복통 `복막염·장폐색·장간막 허혈`
 * 혈성 설사 후 창백·멍·소변량 감소·의식 변화 `용혈성 요독 증후군`
+* 생후 3개월 미만 영아의 ≥38℃ 발열 또는 반응 저하·수유 불량 등 전신 상태 악화 `소아 중증 감염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
@@ -99,7 +100,7 @@ _**Clostridioides difficile**_**&#x20;infection (CDI)** \
 
 ### <mark style="color:orange;">검사</mark>
 
-* 경증 탈수, 급성 분비성 설사 : 검사 결과 대부분 정상; 별도 검사 불필요
+* 위험 징후가 없는 경증 급성 수양성 설사에서는 대개 별도 검사가 필요하지 않음
   * 단, 고령이나 만성 신질환(CKD)·당뇨 등 기저질환자에서는 경증이라도 기본 혈액 검사 고려
 * 중등증 이상 탈수, 고령·CKD 등 고위험군 또는 7일 이상 지속 : 혈당, 전해질, BUN/Cr 등 고려
 * 혈변·점액변, 발열, 심한 복통·압통 또는 패혈증 징후 : 대변 배양/분자검사(_Salmonella, Shigella, Campylobacter, Yersinia_ 등)와 Shiga toxin 또는 독소 유전자 검사. CBC·CRP·신기능 등 고려
@@ -109,9 +110,10 @@ _**Clostridioides difficile**_**&#x20;infection (CDI)** \
 
 <mark style="color:cyan;">**다중 분자 진단 검사 (Multiplex stool PCR panel)**</mark>
 
-* 세균·바이러스·원충을 동시에 검출
+* 패널 구성에 따라 여러 세균·바이러스·원충을 동시에 검출
 * 민감도가 높고 수 시간 내 결과를 얻을 수 있어 배양보다 빠름
-* 적응 : 중증 설사, 면역 저하 환자, 입원 환자, 집단 발생 조사
+* 적응 : 중증 설사, 면역 저하 환자, 집단 발생 조사 등 원인 확인이 치료·감염 관리에 영향을 주는 경우
+  * 입원 여부만으로 일률적으로 시행하지 않으며, 임상상·노출력에 따라 CDI 검사 등 필요한 검사를 선택
 * 주의 : 핵산을 검출하므로 생존 병원체와 사멸 병원체, 실제 원인균과 보균을 구분하지 못할 수 있고 복수 병원체가 동시에 검출될 수 있음. 임상 증상과 반드시 통합 해석
 * 공중보건 신고·집단 발생 조사 또는 항균제 감수성 검사가 필요한 세균이 검출되면 추가 배양이 필요할 수 있음
 * 경증 자기제한적(self-limiting) 설사에서는 routine 검사로 권고하지 않음
@@ -141,51 +143,54 @@ _**Clostridioides difficile**_**&#x20;infection (CDI)** \
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
 
-<table data-search="false"><thead><tr><th width="334">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력</td><td>여행자 설사(ETEC, <em>Campylobacter, Shigella</em>, 원충 등)</td></tr><tr><td>최근 항생제 또는 의료기관 노출</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td><em>Vibrio</em>, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 후 1~6시간 내 발병</td><td>독소형 식중독(<em>S. aureus, B. cereus</em> 구토형)</td></tr><tr><td>8~16시간 후 복통·수양성 설사</td><td><em>C. perfringens, B. cereus</em> 설사형</td></tr><tr><td>12~48시간 후 구토·수양성 설사</td><td>노로바이러스 등</td></tr><tr><td>혈변 + 발열</td><td>침습성 세균(<em>Salmonella, Shigella, Campylobacter, Yersinia</em>)과 STEC 모두 고려</td></tr><tr><td>혈변 + 심한 복통 + 발열 미약·무발열</td><td>STEC 가능성 증가 - 항생제·loperamide 회피(HUS 위험)*</td></tr><tr><td>고령·죽상경화 위험 + 갑작스러운 복통·혈변</td><td>허혈성 대장염·장간막 허혈</td></tr><tr><td>임신부·고령자·면역 저하자 + 관련 식품 노출 후 발열·전신 증상</td><td><em>Listeria monocytogenes</em> - 혈액 배양 고려; 대변 배양은 권고하지 않음</td></tr><tr><td>의료기관 입원 중 새로 발생</td><td><em>C. difficile</em>, 약물, 경장영양 등</td></tr><tr><td>면역 저하 상태</td><td><em>Cryptosporidium, Cyclospora, Cystoisospora</em>, CMV, microsporidia, MAC 등</td></tr><tr><td>반복성·지속성 경과</td><td>원충 감염, IBD, 약물, 감염 후 IBS 등; 감염 배제 후 분변 칼프로텍틴을 선택적으로 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="334">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력</td><td>여행자 설사(ETEC, <em>Campylobacter, Shigella</em>, 원충 등)</td></tr><tr><td>최근 항생제 또는 의료기관 노출</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td><em>Vibrio</em>, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 후 1~6시간 내 발병</td><td>독소형 식중독(<em>S. aureus, B. cereus</em> 구토형)</td></tr><tr><td>8~16시간 후 복통·수양성 설사</td><td><em>C. perfringens, B. cereus</em> 설사형</td></tr><tr><td>12~48시간 후 구토·수양성 설사</td><td>노로바이러스 등</td></tr><tr><td>혈변 + 발열</td><td>침습성 세균(<em>Salmonella, Shigella, Campylobacter, Yersinia</em>)과 STEC 모두 고려</td></tr><tr><td>혈변 + 심한 복통 + 발열 미약·무발열</td><td>STEC 가능성 증가 - 항생제·loperamide 회피(HUS 위험)*</td></tr><tr><td>고령·죽상경화 위험 + 갑작스러운 복통·혈변</td><td>허혈성 대장염·장간막 허혈</td></tr><tr><td>임신부·고령자·면역 저하자 + 관련 식품 노출 후 발열·전신 증상</td><td><em>Listeria monocytogenes</em> - 혈액 배양 고려; 대변 배양은 권고하지 않음</td></tr><tr><td>의료기관 입원 중 새로 발생</td><td><em>C. difficile</em>, 약물, 경장영양 등</td></tr><tr><td>면역 저하 상태</td><td><em>Cryptosporidium, Cyclospora, Cystoisospora</em>, CMV, microsporidia, MAC 등</td></tr><tr><td>반복성·지속성 경과</td><td>원충 감염, IBD, 약물, 감염 후 IBS 등 (☞ <a href="084_-chronic-diarrhea.md">만성 설사</a>)</td></tr></tbody></table>
 
-> _**\*STEC** (Shiga toxin 생성 대장균) 유의 사항 : 혈변·심한 복통이 있고 발열이 뚜렷하지 않으면 가능성이 증가하지만 발열만으로 배제할 수 없음. 항생제와 loperamide는 HUS 및 합병증 위험을 높일 수 있어 피함. O157 배양과 비-O157를 포함하는 Shiga toxin/독소 유전자 검사를 시행하고, Hb·혈소판·전해질·BUN/Cr·소변량을 반복 추적; HUS 의심 시 말초혈액도말·LDH·bilirubin·haptoglobin 평가_
+> _**\*STEC** (Shiga toxin 생성 대장균) 유의 사항 : 혈변·심한 복통이 있고 발열이 뚜렷하지 않으면 가능성이 증가하지만 발열만으로 배제할 수 없음. 항생제와 loperamide는 HUS 및 합병증 위험을 높일 수 있어 피함. O157 배양과 비-O157를 포함하는 Shiga toxin/독소 유전자 검사를 시행하고, Hb·혈소판·전해질·BUN/Cr·소변량을 반복 추적; HUS 의심 시 말초혈액도말·LDH·bilirubin·haptoglobin 평가. 조기 탈수 교정이 중요하며, 소아 STEC에서는 발병 초기 정맥 수액이 신부전 위험을 낮출 가능성이 있음. 수액 경로·투여량은 탈수·신기능·소변량에 따라 결정하고 HUS/핍뇨 발생 시 과부하에 주의_
 
 ***
 
 ```mermaid
 flowchart TD
-    Start["급성 설사"] --> S1["Red Flags의 즉각 조치<br/>항목에 해당?"]
-    S1 -- "예" --> Emergency["응급 의뢰·입원<br/>등장성 IV 수액<br/>배양·영상 등 원인 평가"]
-    S1 -- "아니오" ---> S2["혈변·점액변·고열·<br/>심한 복통/압통?"]
-    S2 -- "예" --> Infl["대변 배양/분자검사 +<br/>Shiga toxin 검사<br/>CBC·혈소판·Cr 등"]
-    Infl --> STECq["STEC 임상적 의심?<br/>발열로 배제 불가"]
-    STECq -- "예" --> STEC["항생제·<br/>loperamide 회피<br/>HUS 임상·<br/>검사 추적"]
-    STECq -- "아니오" --> ABX["중증 이질·<br/>고열 여행자·<br/>면역저하/<br/>패혈증이면<br/>배양 후 항생제 고려"]
-    S2 -- "아니오" --> S3["CDI 위험·임상상?<br/>항생제·입원력 없어도 가능"]
-    S3 -- "예" --> CDIT["CDI 검사 적응·<br/>결과 평가"]
-    CDIT --> CDI["가능하면 <br/>원인 항생제 중단<br/>확진 시 <br/>중증도별 치료"]
-    S3 -- "아니오" --> HighRisk["면역 저하·고령·CKD·<br/>집단 발생·≥7일 지속?"]
-    HighRisk -- "예" --> Test["위험에 따른 <br/>선택 검사<br/>필요시 <br/>조기 의뢰"]
-    HighRisk -- "아니오" --> Support["ORS + <br/>조기 정상 식이<br/>선택적 증상 완화<br/>항생제 불필요"]
-    STEC --> HUSFU["당일·익일 재평가<br/>CBC·혈소판·<br/>Cr·소변량 추적<br/>설사 호전 후에도 <br/>혈소판·Cr 변화 주의"]
-    ABX --> FU["<u>추적 및 재평가</u><br/>•48~72시간 내 <br/>임상 경과 확인<br/>•악화·탈수·혈변은 즉시 평가"]
+    Start["급성 설사"] --> S1["Red Flags의 즉각 조치 항목에 해당?"]
+    S1 -- "예" --> Emergency["응급 평가·안정화 및 원인 평가, 탈수·순환 상태에 따라 등장성 IV 수액·입원"]
+    S1 -- "아니오" --> S2["혈변·점액변·고열·심한 복통/압통?"]
+    S2 -- "예" --> Infl["대변 배양/분자검사·Shiga toxin, CBC·혈소판·Cr 등"]
+    Infl -- "CDI 의심 시 병행" --> CDIT["CDI 검사 적응·결과 및 임상상 평가"]
+    Infl --> STECq["STEC 임상적 의심? 발열로 배제 불가"]
+    STECq -- "예" --> STEC["항생제·loperamide 회피, 탈수 교정 및 HUS 추적"]
+    STECq -- "아니오" --> ABXq["경험적 항생제의 제한적 적응에 해당?"]
+    ABXq -- "예" --> ABX["배양 후 항생제 고려, 패혈증은 치료 지연 금지"]
+    ABXq -- "아니오" --> InflSupport["수분 보충·조기 정상 식이, loperamide 회피·배양 결과 확인"]
+    S2 -- "아니오" --> S3["CDI 위험·임상상? 항생제·입원력 없어도 가능"]
+    S3 -- "예" --> CDIT
+    CDIT --> CDI["원인 항생제 재평가, 확진 시 중증도별 치료"]
+    S3 -- "아니오" --> HighRisk["면역 저하·고령·CKD·집단 발생·≥7일 지속?"]
+    HighRisk -- "예" --> Test["위험에 따른 선택 검사, 필요시 조기 의뢰"]
+    HighRisk -- "아니오" --> Support["수분 보충·조기 정상 식이, 선택적 증상 완화"]
+    STEC --> HUSFU["당일·익일 재평가, CBC·혈소판·Cr·소변량 추적"]
+    ABX --> FU["48~72시간 내 경과 확인, 악화·탈수·혈변은 즉시 평가"]
     CDI --> FU
     Test --> FU
     Support --> FU
+    InflSupport --> FU
     FU --> QFU["임상적으로 호전·안정?"]
-    QFU -- "예" --> End["치료 종료·<br/>필요시 추적"]
-    QFU -- "아니오" --> Reeval["원인·합병증 재평가<br/>필요시 입원·전원"]
+    QFU -- "예" --> End["치료 종료·필요시 추적"]
+    QFU -- "아니오" --> Reeval["원인·합병증 재평가, 필요시 입원·전원"]
     classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef test fill:#e8f5e9,stroke:#81c784
     classDef treatment fill:#e3f2ff,stroke:#2196f3
     classDef emergency fill:#ffdddd,stroke:#d32f2f
     class Start neutral
-    class S1,S2,S3,STECq,HighRisk,QFU question
+    class S1,S2,S3,STECq,ABXq,HighRisk,QFU question
     class Infl,CDIT,Test,HUSFU,FU test
-    class STEC,ABX,CDI,Support,End,Reeval treatment
+    class STEC,ABX,CDI,Support,InflSupport,End,Reeval treatment
     class Emergency emergency
-
 ```
 
-> _일반적인 외래 경로는 48\~72시간 내 재평가하며, 악화·탈수·혈변이 생기면 즉시 평가. STEC/HUS 의심 또는 전격성 CDI는 더 이른 시점에 별도로 평가_
+> _모든 경로에서 탈수 정도에 따른 수분 보충과 가능한 조기 정상 식이를 병행. 혈성·염증성 설사 경로에서는 loperamide 등 장 운동 억제제를 사용하지 않음. 경험적 항생제는 전형적 중증 세균성이질, 고열(≥38.5℃) 또는 패혈증을 동반한 여행자 설사, 면역 저하자의 중증 혈성 설사·전신 감염 등 제한적 적응에서 고려하며, 중증 수양성 설사의 면역 저하자는 임상상에 따라 개별 판단. 일반적인 외래 경로는 48\~72시간 내 재평가하되 악화·탈수·혈변은 즉시 평가. STEC는 설사 호전 후에도 혈소판·Cr 변화를 추적. 전격성 CDI 의심 또는 검사 확정의 상당한 지연이 예상되는 경우 확진 전 치료를 고려하며, 전격성 의심 시 즉시 의뢰·치료 (☞ [감염성 설사 - CDI](085_-acute-infectious-diarrhea.md#cdi))_
 
-<p align="center"><strong>급성 설사 평가·치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IDSA 2017)</mark></em></p>
+<p align="center"><strong>급성 설사 평가·치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IDSA 2017; IDSA/SHEA CDI 2017 update)</mark></em></p>
 
 ***
 
@@ -203,24 +208,17 @@ flowchart TD
 * 당일 재평가 필요 : Red Flags 「당일 평가」 항목, 임신부·면역 저하자, 가정에서 관리·추적이 어려운 경우
   * → 원인과 위험도에 따라 선택적 검사; 항생제는 제한적 적응에서만 고려
 * 응급 의뢰 : Red Flags 「즉각 조치」 항목
-  * → 등장성 IV 수액, 원인 평가 및 입원
+  * → 응급 평가·안정화 및 원인 평가, 탈수·순환 상태에 따라 등장성 IV 수액·입원
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
-| 표현형                                 | 시사 원인                             | 치료 방향                                                 | 주의                                                                   |
-| ----------------------------------- | --------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- |
-| **수양성 + 무발열 + 무혈변**                 | 바이러스·비침습성 세균                      | <p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p>        | 항생제 불필요                                                              |
-| **수양성 + 구토 우세**                     | 바이러스·독소형 식중독                      | <p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p>    | 항생제 불필요                                                              |
-| **혈변·점액변 ± 발열**                     | 침습성 세균, STEC, 허혈성 대장염, IBD 등      | <p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p>  | <p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p> |
-| **전형적 세균성이질·고열 여행자 설사·패혈증·중증 면역저하** | _Shigella, Campylobacter_, 장티푸스 등 | 가능하면 대변·혈액 배양 후 경험적 항생제 고려                            | 지역 내성·여행지·STEC 가능성 반영                                                |
-| **항생제·의료기관 노출 후 새 설사**              | AAD 또는 CDI                        | <p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p> | NAAT 양성만으로 보균과 감염을 구분할 수 없음                                          |
-| **고령·면역 저하·패혈증 의심**                 | 다양(기회감염·비감염성 원인 포함)               | 위험에 따른 선택 검사; 입원·전원 조기 고려                             | 조기 에스컬레이션                                                            |
+<table><thead><tr><th>표현형</th><th>시사 원인</th><th>치료 방향</th><th>주의</th></tr></thead><tbody><tr><td><strong>수양성 + 무발열 + 무혈변</strong></td><td>바이러스·비침습성 세균</td><td><p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p></td><td>항생제 불필요</td></tr><tr><td><strong>수양성 + 구토 우세</strong></td><td>바이러스·독소형 식중독</td><td><p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p></td><td>항생제 불필요</td></tr><tr><td><strong>혈변·점액변 ± 발열</strong></td><td>침습성 세균, STEC, 허혈성 대장염, IBD 등</td><td><p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p></td><td><p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p></td></tr><tr><td><strong>전형적 중증 세균성이질·고열 여행자 설사·패혈증·면역 저하자의 중증 혈성 설사 또는 전신 감염 의심</strong></td><td><em>Shigella, Campylobacter</em>, 장티푸스 등</td><td>가능하면 대변·혈액 배양 후 경험적 항생제 고려</td><td>지역 내성·여행지·STEC 가능성 반영</td></tr><tr><td><strong>항생제·의료기관 노출 후 새 설사</strong></td><td>AAD 또는 CDI</td><td><p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p></td><td>NAAT 양성만으로 보균과 감염을 구분할 수 없음</td></tr><tr><td><strong>고령·면역 저하·패혈증 의심</strong></td><td>다양(기회감염·비감염성 원인 포함)</td><td>위험에 따른 선택 검사; 입원·전원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">수분 공급</mark>
 
-* 성인 : 저삼투압 경구용 수분 보충액(ORS)를 소량씩 자주 투여하고, 탈수가 교정된 뒤에도 설사·구토로 인한 지속 손실을 추가 보충
+* 성인 : 저삼투압 ORS를 소량씩 자주 투여하고, 탈수가 교정된 뒤에도 설사·구토로 인한 지속 손실을 추가 보충
 * 소아 경증\~중등증 탈수의 초기 교정 : 저삼투압 ORS 50\~100 ㎖/㎏을 3\~4시간에 걸쳐 투여한 뒤 탈수 상태를 재평가
   * 설사 1회당 10 ㎖/㎏, 구토 1회당 2 ㎖/㎏은 지속 손실 보충량이며 초기 탈수 교정량과 구분함
 * 구토 시 5 ㎖ 정도씩 1\~2분 간격으로 시작하여 점차 증량
@@ -231,15 +229,15 @@ flowchart TD
 
 #### <mark style="color:$primary;">ORS 사용 원칙</mark>
 
-* 의료용 ORS 제품을 설명서에 따라 정확한 양의 깨끗한 물에 녹여 사용
+* 의료용 ORS 제품을 설명서에 따라 사용
+  * 분말형은 표시된 정확한 양의 깨끗한 물에 녹이며, 바로 마시는 액상형은 제품 설명에 따라 그대로 사용
   * ORS에 물·설탕·소금을 임의로 더하지 않으며, 생수·주스·요구르트·차 등에 소금을 타서 ORS 대용으로 쓰지 않음
 * WHO 저삼투압 ORS&#x20;
   * 전해질 구성 : Na 75 mEq/L, K 20 mEq/L, 포도당 75 mmol/L, 삼투압 245 mOsm/L
   * 1 L 조성 : glucose 13.5 g + NaCl 2.6 g + KCl 1.5 g + trisodium citrate dihydrate 2.9 g
-* 완제품을 구할 수 없는 응급 상황의 가정용 설탕-소금 용액 : 깨끗한 물 1 L + 평평하게 깎은 설탕 6티스푼 + 소금 1/2티스푼
+* 완제품을 구할 수 없는 응급 상황의 가정용 설탕-소금 용액 : 깨끗한 물 1 L + 설탕 6티스푼 + 소금 1/2티스푼(티스푼은 5 ㎖ 계량스푼이며 평평하게 깎아 계량)
   * 정확한 계량이 어렵거나 맛이 지나치게 짜면 사용하지 않으며, 24시간이 지나면 폐기
-  * 깎은 계량 기준 Na 약 45 mEq/L로 ORS보다 낮고 K·염기가 없으며, 소금을 수북이 넣으면 Na가 2배 가까이 높아질 수 있음
-  * 당과 전해질에서 WHO 권장기준에 미흡함 - 응급용으로만 활용
+  * 소금·설탕의 실제 계량량에 따라 달라지나, 깎은 계량 기준 Na 약 45 mEq/L, 조제 직후 추정 삼투압 약 160\~190 mOsm/L로 WHO/UNICEF가 제시한 포장형 ORS의 허용 조성 범위(Na 60\~90 mEq/L, 총용질농도 200\~310 mmol/L)보다 낮고 K·염기가 없음. 소금을 수북이 넣으면 Na가 2배 가까이 높아질 수 있어 응급용으로만 사용 <mark style="color:$info;">\[WHO/UNICEF 2006]</mark>
 
 {% hint style="info" %}
 **스포츠 음료·주스·탄산음료 :** ORS보다 당이 많고 Na가 적어 중등증 이상 탈수의 표준 치료나 ORS 대용으로 부적합
@@ -265,7 +263,7 @@ flowchart TD
 * 카페인 음료와 음주는 증상을 악화하면 제한
 
 {% hint style="info" %}
-**유제품 제한** : 급성 장염 후 일시적인 lactase 감소가 생길 수 있으나 모든 환자에서 유제품을 routine 제한할 필요는 없음. 우유 섭취 후 복부팽만·가스·수양성 설사가 악화(**2차성 유당 불내성**)되면 일시적으로 제한하고, 대부분 회복 후 다시 섭취 가능
+**유제품 제한** : 급성 장염 후 일시적인 lactase 감소가 생길 수 있으나 모든 환자에서 유제품을 routine 제한할 필요는 없음. 우유 섭취 후 복부팽만·가스·수양성 설사가 악화되면(**2차성 유당 불내성**) 일시적으로 제한하고, 대부분 회복 후 다시 섭취 가능
 {% endhint %}
 
 ### <mark style="color:orange;">음식 안전 수칙 (예방)</mark>
@@ -273,7 +271,6 @@ flowchart TD
 * 살균하지 않은 생우유(raw milk)와 그 가공품 섭취 금지
 * 날 과일·채소는 식사 전 철저히 세척
 * 냉장 ≤5℃, 냉동 ≤−18℃ 유지
-* 조리 즉석 식품·부패하기 쉬운 음식은 신속히 섭취
 * 생고기·생선·가금류는 다른 식품과 분리 보관. 취급 후 손·칼·도마 세척
 * 육류·가금류 조리 내부 온도 : 간 쇠고기 71℃, 닭 등 가금류 74℃; 돼지(통살·스테이크) 63℃ 도달 후 3분 이상 휴지(USDA 기준), 간 돼지고기 71℃(유지 불필요)
 * 생선회 등 날생선 섭취 주의 : 적절한 냉동은 일부 기생충 위험을 낮출 수 있으나 세균·바이러스 제거를 보장하지 않음. 고위험군은 충분히 익혀 섭취
@@ -283,7 +280,7 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-☞ [소화기계 약제](073_-gidrugs.md)
+(☞ [소화기계 약제](073_-gidrugs.md))
 
 ### <mark style="color:orange;">항생제</mark>
 
@@ -301,9 +298,9 @@ flowchart TD
 * loperamide : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로프민</mark>](https://www.health.kr/drug/A11A1660A0057)<mark style="color:blue;">]</mark>
 * 대상 : 충분히 수분을 보충한 정상 면역 성인의 무혈변·무발열 급성 수양성 설사
   * 소아 급성 감염성 설사에는 사용하지 않음(IDSA는 18세 미만에 권고하지 않음)
-* 용법 : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/일
-* 금기 : 혈변, 발열, 전신 독성, 침습성 장염, STEC 또는 CDI 의심, 급성 중증 대장염, 장폐색 위험
-* &#x20;복부 팽만·변비·심한 통증이 생기거나 48시간 내 호전이 없으면 중단하고 재평가
+* 용법 : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 허가 최대 16 ㎎/일. 이 책의 경증 외래·자가 치료 예시는 최대 8 ㎎/일, 최대 2일
+* 사용하지 않음 : 혈변, 발열, 전신 독성, 침습성 장염, STEC 또는 CDI 의심, 급성 중증 대장염, 장폐색 위험
+* 복부 팽만·변비·심한 통증이 생기거나 48시간 내 호전이 없으면 중단하고 재평가
 * 권장량 초과 시 QT 연장·심실성 부정맥 위험이 있으므로 임의로 증량하지 않음
 
 ### <mark style="color:orange;">진경제</mark>
@@ -321,34 +318,39 @@ flowchart TD
 * racecadotril : enkephalinase 억제 → 장 분비 억제; 장 운동 억제는 적음
   * 성인 : 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">하이드라섹</mark>](https://www.health.kr/drug/2019012500080)<mark style="color:blue;">]</mark>(비급여); 정상 배변 2회까지, 최대 7일
   * 소아 산제 : 생후 3개월 이상에서 ORS의 보조요법으로 허가; 1회 1.5 ㎎/㎏ tid 또는 허가된 체중별 포 단위 용법 사용. 최근 개정 품목정보에서는 기존 만 12세 미만 상한이 삭제됨 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">하이드라섹산</mark>](https://www.health.kr/drug/2014112100011)<mark style="color:blue;">]</mark>
-    * 산제 체중별 1회량 : ＜9 ㎏=10 ㎎ 1포, 9\~＜13 ㎏=10 ㎎ 2포, 13\~27 ㎏=30 ㎎ 1포, ＞27 ㎏=30 ㎎ 2포; 각각 1일 3회. 정상 배변 2회까지, 최대 7일
+    * 산제 체중별 1회량 : ＜9 ㎏=[10 ㎎](https://www.health.kr/drug/2014112100011) 1포, 9\~＜13 ㎏=[10 ㎎](https://www.health.kr/drug/2014112100011) 2포, 13\~27 ㎏=[30 ㎎](https://www.health.kr/drug/2014112100010) 1포, ＞27 ㎏=[30 ㎎](https://www.health.kr/drug/2014112100010) 2포; 각각 1일 3회. 정상 배변 2회까지, 최대 7일
   * 금기 : 혈변 또는 농성 변과 발열, 항생제 관련 설사, 만성 설사, 지속적·조절되지 않는 구토, ACE 억제제로 인한 혈관부종 병력
     * 신장애·간장애 시 소아 산제는 투여 금지, 성인 캡슐은 신중 투여
+  * ACE 억제제 병용 시 혈관부종 위험 증가에 주의
   * 얼굴·혀 부종, 호흡곤란 또는 발열을 동반한 전신 발진 등 중증 피부 반응 발생 시 즉시 중단·평가
-  * 임상 효과와 권고는 대상·지침에 따라 다르며, 허가가 곧 routine 사용 권고를 의미하지는 않음 (미국 FDA 미승인)
+  * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음. 소아의 지침상 적용 대상·근거 수준 및 상세 주의사항 (☞ [소화기계 약제 - Racecadotril](073_-gidrugs.md#racecadotril))
 
 ### <mark style="color:orange;">Bismuth 제제</mark>
 
 * bismuth subsalicylate (BSS) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark> : 경증 급성 설사·여행자 설사에서 선택적으로 증상 완화에 사용. ORS를 대신하지 않음
-* 용량·투여기간·금기·상호작용 ☞ [소화기계 약제 - Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate)
+* 용량·투여기간·금기·상호작용 (☞ [소화기계 약제 - Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate))
 
 ### <mark style="color:orange;">흡착제</mark>
 
 * dioctahedral smectite : 장 점막 보호·흡착 작용을 통한 선택적 증상 완화; ORS를 대신하지 않음
   * 3 g tid 식간; 다른 경구약과 2시간 이상 간격을 두고 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스타빅현탁액</mark>](https://www.health.kr/drug/2021030800001)<mark style="color:blue;">]</mark>
-  * 성인용; 납 노출 위험으로 2026년 소아 급성 설사 적응증이 삭제되어 만 19세 미만 소아·청소년은 사용하지 않음. 임부·임신 가능성이 있는 여성·수유부는 투여 금기
+  * 성인용; 2026년 7월 소아 급성 설사 적응증이 삭제되어 만 19세 미만 소아·청소년은 사용하지 않음. 임부·임신 가능성이 있는 여성·수유부는 투여 금기
 
 ### <mark style="color:orange;">항구토제</mark>
 
 * 대부분 불필요; 구토로 경구 수액 보충이 어려운 경우에 한해 고려
-* ondansetron : 소아 급성 위장관염에서 구토를 줄이고 ORS 성공률을 높일 수 있음 <mark style="color:blue;">\[조프란]</mark>
-  * 소아 단회 경구 용량 : 8\~＜15 ㎏ 2 ㎎, 15\~30 ㎏ [4 ㎎](https://www.health.kr/drug/A11ABBBBB1538), ＞30 ㎏ [8 ㎎](https://www.health.kr/drug/A11ABBBBB1541)
-  * ORS가 어려운 경우 단회 투여 후 수분 섭취 반응을 평가
+* ondansetron : 소아 급성 위장관염에서 구토를 줄이고 ORS 성공률을 높일 수 있음
+  * 소아 단회 경구 용량 (생후 6개월 이상) : 액상제 사용 시 0.15 ㎎/㎏(최대 8 ㎎) 또는 체중별 대안으로 8\~＜15 ㎏ 2 ㎎, 15\~30 ㎏ 4 ㎎, ＞30 ㎏ 6\~8 ㎎
+    * 경구 제품 예 : 조프란자이디스 [4 ㎎](https://www.health.kr/drug/A11ABBBBB1538)(구강붕해정), 조프란 [8 ㎎](https://www.health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1541)(필름코팅정)
+    * 2 ㎎·6 ㎎ 등 소량 경구 투여는 정확한 용량을 조제할 수 있는 제형·방법을 약사와 확인한 후 적용하며, 구강붕해정의 임의 분할을 전제로 처방하지 않음
+  * ORS가 어려운 경우 단회 투여하고 15\~30분 뒤 ORS를 시작하여 수분 섭취 반응을 평가 <mark style="color:$info;">\[CPS 2018]</mark>
+    * 가장 흔한 부작용이 설사이므로 중등증\~중증 설사가 주증상인 소아에게는 routine으로 권고하지 않음
     * 소아 응급실 퇴원 후 필요시 반복 투여의 이득을 보인 2025년 RCT도 있으나, 모든 외래 환자에게 정규 반복 투여하는 근거로 확대하지 않음
-  * QT 연장·저K/저Mg혈증·다른 QT 연장 약물(domperidone 등) 병용 및 설사 악화 가능성에 주의
+  * 선천성 QT 연장 증후군에서는 피하며, 확인된 저칼륨혈증·저마그네슘혈증은 투여 전에 교정. apomorphine(심한 저혈압·의식 소실)·domperidone·ribociclib은 병용 금기이며, 그 외 QT 연장 약물 병용 및 설사 악화 가능성에 주의
+    * 심전도·전해질 검사는 위험 인자에 따라 판단하며 모든 소아의 단회 경구 투여 전에 일률적으로 시행하지는 않음
   * 지속 구토로 물·약을 유지하지 못하면 재진
   * 반복 투여 연구 대상은 생후 6개월\~18세 미만 소아이며 성인에 직접 적용하지 않음 <mark style="color:$info;">\[N Engl J Med 2025]</mark>
-  * 급성 위장관염 구토에는 허가 외 사용이며, 허가 외 사용과 급여 여부는 별개임
+  * 급성 위장관염 구토에는 허가 외 사용이며, 허가 외 사용과 급여 여부는 별개임. 적응증별 용법·상호작용 (☞ [소화기계 약제](073_-gidrugs.md))
 * 위장 운동 촉진제 (metoclopramide, domperidone)는 급성 설사에서 효과 입증 불충분
 
 ### <mark style="color:orange;">기타</mark>
@@ -357,6 +359,7 @@ flowchart TD
 
 * 성인의 급성 자기제한적 설사에서 routine probiotics 사용을 권고할 근거는 부족하며, 효과는 균주·제품·대상에 특이적임
 * AGA 2020은 소아 급성 감염성 위장관염에서 probiotics의 routine 사용을 권고하지 않음
+  * WHO 2024도 10세 이하 소아의 급성 수양성 설사에서 probiotics 사용을 권고하지 않음(조건부 권고, 근거 확실성 낮음). 지속성 설사에 대해서는 근거 부족으로 권고를 제시하지 않음
   * 북미 대규모 RCT에서 LGG 및 일부 복합 균주의 유의한 이득이 확인되지 않았으나 효과는 균주·임상 환경에 따라 다를 수 있음
 * 일부 균주는 다음 상황에서 제한적 이득 가능성이 보고됨
   * _S. boulardii_ : 항생제 관련 설사 예방 연구에서 일부 이득; 이미 발생한 설사의 치료 효과와 구분
@@ -372,7 +375,7 @@ flowchart TD
 #### <mark style="color:$primary;">아연</mark>
 
 * 성인에서 확인된 아연 결핍이나 영양불량이 없는 급성 설사에는 routine으로 권고하지 않음
-* WHO 2024는 10세 이하 소아의 급성 수양성 및 지속성 설사에서 경구 아연 보조치료를 강하게 권고(근거 확실성 중등도)하며, 원소 아연 5 ㎎/일, 최대 14일은 조건부로 제안(근거 확실성 낮음). 종전의 ≥6개월 20 ㎎/일·＜6개월 10 ㎎/일 요법과 구분하며, 영양상태가 양호한 소아 전체에 일률 적용할지는 진료 환경에 따라 판단함
+* WHO 2024는 10세 이하 소아의 급성 수양성 및 지속성 설사에서 경구 아연 보조치료를 강하게 권고(근거 확실성 중등도)하며, 원소 아연 5 ㎎/일, 10\~14일(최대 14일)은 조건부로 제안(근거 확실성 낮음). 종전의 ≥6개월 20 ㎎/일·＜6개월 10 ㎎/일 요법과 구분하며, 영양상태가 양호한 소아 전체에 일률 적용할지는 진료 환경에 따라 판단함
 
 #### <mark style="color:$primary;">Lactase</mark>
 
@@ -404,18 +407,18 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 > 티로파정 100 ㎎/T　　1T  tid  필요시 단기간
 > ```
 >
-> 약제 정보: [티로파정 100㎎](https://www.health.kr/drug/A11A0430A0302)
+> 약제 정보: [티로파정 100 ㎎](https://www.health.kr/drug/A11A0430A0302)
 >
 > _✽치료의 기본은 저삼투압 ORS와 조기 정상 식이. 진경제는 장경련이 불편할 때만 선택적으로 사용하며 복막 자극·장폐색·허혈성 장질환이 의심되는 통증에는 사용하지 않음. 성인 급성 설사에서 probiotics를 routine 기본 처방에 포함하지 않음._
 
 > **처방례 2. 경증\~중등증 급성 설사 (성인, 혈변·발열 없는 수양성 설사)**
 >
 > ```
-> 로프민 2 ㎎/C　　  처음 2C, 이후 묽은 변마다 1C
+> 로프민캡슐 2 ㎎/C　　  처음 2C, 이후 묽은 변마다 1C
 > 　　　　　　　　　(최대 4C/일, 최대 2일)
 > ```
 >
-> 약제 정보: [로프민캡슐 2㎎](https://www.health.kr/drug/A11A1660A0057)
+> 약제 정보: [로프민캡슐 2 ㎎](https://www.health.kr/drug/A11A1660A0057)
 >
 > _✽ORS로 충분히 수분을 보충한 뒤, 정상 면역 성인의 혈변·발열·전신 독성·CDI 의심·IBD 활성기가 없는 수양성 설사에서만 단기간 사용. 혈변·발열·복부 팽만·심한 통증이 발생하거나 48시간 내 호전이 없으면 즉시 중단하고 재평가._
 
@@ -423,11 +426,11 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-1. **수분 보충이 치료의 핵심입니다.** 약국의 ORS(경구 수액제)를 표시된 정확한 양의 물에 녹여 조금씩 자주 드세요. 스포츠 음료·주스·탄산음료는 ORS보다 당이 많고 전해질 조성이 불충분하여 중등증 이상 탈수의 표준 치료로 적합하지 않습니다.
+1. **수분 보충이 치료의 핵심입니다.** 약국의 ORS(경구 수액제)를 조금씩 자주 드세요. 분말형은 표시된 정확한 양의 물에 녹이고, 바로 마시는 액상형은 제품 설명대로 그대로 드세요. 스포츠 음료·주스·탄산음료는 ORS보다 당이 많고 전해질 조성이 불충분하여 중등증 이상 탈수의 표준 치료로 적합하지 않습니다.
 2. **지사제(로프민)는 혈변·발열이 있을 때 사용하지 마세요.** 염증성·침습성 설사에서는 증상이 악화되거나 장폐색이 생길 수 있습니다. 처음 2캡슐, 이후 묽은 변마다 1캡슐을 드시되 **이 책의 경증 외래 예시에서는 첫 복용분을 포함해 하루 최대 4캡슐(8 ㎎), 최대 2일만 사용하세요.** 허가상 최대용량(16 ㎎/일)과는 구분됩니다. 변이 정상화되면 중단하고, 복부 팽만·변비·통증 악화가 생기면 즉시 중단하세요. 초과 복용 시 심장 부정맥이 생길 수 있습니다. 대장염(궤양성 대장염 등) 기저질환이 있는 분은 반드시 의사와 상의 후 사용하세요.
 3. **흡착제(스타빅)는 식간에, 다른 약과 2시간 간격을 두고 복용하세요.** 장 내 독소·세균을 흡착하는 작용이 있어 다른 약과 동시에 복용하면 다른 약의 흡수를 방해할 수 있습니다. **만 19세 미만 소아·청소년, 임산부·임신 가능성이 있는 분, 수유 중인 분은 사용하지 마세요.**
 4. **음식은 빨리 정상화하세요.** routine 금식은 회복과 영양 섭취를 방해합니다. 견딜 수 있는 평소 음식을 소량씩 자주 드세요. 과량의 단순당·고지방 음식·술·카페인은 증상을 악화하면 줄이고, 유제품도 복부팽만이나 설사가 악화될 때만 일시 제한하세요.
-5. **위험 징후가 나타나면 진료받으세요.** 의식 저하·실신, 소변이 거의 나오지 않으면서 심하게 처짐, 심한 복통·팽만은 즉시 응급 평가가 필요합니다. 혈변·농변, ≥38.5℃ 발열, 수분 섭취가 어려운 구토는 당일 평가받고, 2\~3일이 지나도 호전되지 않으면 재진하세요.
+5. **위험 징후가 나타나면 진료받으세요.** 의식 저하·실신, 소변이 거의 나오지 않으면서 심하게 처짐, 심한 복통·팽만은 즉시 응급 평가가 필요합니다. 생후 3개월 미만 아기의 ≥38℃ 발열도 즉시 진료받으세요. 혈변·농변, ≥38.5℃ 발열, 수분 섭취가 어려운 구토는 당일 평가받고, 2\~3일이 지나도 호전되지 않으면 재진하세요.
 
 ***
 
@@ -447,13 +450,33 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 
 [https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 
-* <mark style="color:$info;">IDSA. 2017 Infectious Diarrhea Clinical Practice Guideline. - 검사·STEC·항생제·수분 보충 원칙</mark>
+* <mark style="color:$info;">Shane AL, et al. 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017;65(12):e45-e80. - 검사·STEC·항생제·수분 보충 원칙</mark>
 
 [https://www.idsociety.org/practice-guideline/infectious-diarrhea/](https://www.idsociety.org/practice-guideline/infectious-diarrhea/)
 
-* <mark style="color:$info;">WHO. Guideline on management of pneumonia and diarrhoea in children up to 10 years of age. 2024. - 소아 아연 용량 등 개정 권고</mark>
+* <mark style="color:$info;">McDonald LC, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by IDSA and SHEA. Clin Infect Dis. 2018;66(7):e1-e48. - 전격성 CDI·검사 확정 지연 시 경험적 치료</mark>
 
-[https://www.who.int/publications/i/item/9789240103412](https://www.who.int/publications/i/item/9789240103412)
+[https://www.idsociety.org/practice-guideline/clostridium-difficile/](https://www.idsociety.org/practice-guideline/clostridium-difficile/)
+
+* <mark style="color:$info;">NICE. Fever in under 5s: assessment and initial management. NG143. - 생후 3개월 미만 영아의 ≥38℃ 발열 위험 평가</mark>
+
+[https://www.nice.org.uk/guidance/ng143/chapter/Recommendations](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations)
+
+* <mark style="color:$info;">Canadian Paediatric Society. Emergency department use of oral ondansetron for acute gastroenteritis-related vomiting in infants and children. 2018. - 소아 단회 투여의 적용 연령·용량·ORS 시작 시점</mark>
+
+[https://cps.ca/en/documents/position/oral-ondansetron](https://cps.ca/en/documents/position/oral-ondansetron)
+
+* <mark style="color:$info;">CDC. Information for Clinicians: E. coli infection. 2024. - STEC 진단·항생제 및 지사제 회피·소아 조기 수분 보충</mark>
+
+[https://www.cdc.gov/ecoli/hcp/guidance/index.html](https://www.cdc.gov/ecoli/hcp/guidance/index.html)
+
+* <mark style="color:$info;">WHO/UNICEF. Implementing the new recommendations on the clinical management of diarrhoea: Guidelines for policy makers and programme managers. 2006. - 저삼투압 ORS 표준 조성과 포장형 ORS 허용 조성 범위</mark>
+
+[https://www.who.int/publications/i/item/9241594217](https://www.who.int/publications/i/item/9241594217)
+
+* <mark style="color:$info;">WHO. Guideline on management of pneumonia and diarrhoea in children up to 10 years of age. 2024. - 소아 아연 용량·probiotics 등 개정 권고</mark>
+
+[https://www.who.int/publications/i/item/9789240103412](https://www.who.int/publications/i/item/9789240103412) · [권고 원문(아연·probiotics)](https://www.ncbi.nlm.nih.gov/sites/books/NBK611550/?report=reader)
 
 * <mark style="color:$info;">Freedman SB, et al. Multidose Ondansetron after Emergency Visits in Children with Gastroenteritis. N Engl J Med. 2025;393:255–266. - 소아 응급실 퇴원 후 필요시 반복 투여 연구</mark>
 
@@ -470,6 +493,8 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* [대한병원협회. 디옥타헤드랄스멕타이트 성분제제 품목 허가(신고)사항 변경 안내. 2026.7.7.](https://www.kha.or.kr/kha_home/notice_list.do?articleNo=47099&mode=view) - 2026.7.6. 소아 관련 효능·효과 등 변경
+* [인천시약사회. (정정)의약품 허가사항 변경명령 알림: 디옥타헤드랄스멕타이트 성분 제제. 2026.7.8.](https://www.kpanet.or.kr/kpa0400/board.cm?boardSeq=225522&menuCd=1000090400) - 만 19세 미만 사용 제한 안내
 * <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보 - 임상 권고와 허가·급여를 구분하여 적용</mark>
 
 [https://www.hira.or.kr](https://www.hira.or.kr)
@@ -484,7 +509,7 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 
 #### <mark style="color:$primary;">가정에서 할 수 있는 것</mark>
 
-* **수분 보충** : 약국의 경구 수액제(ORS)를 표시된 정확한 양의 물에 녹여 조금씩 자주 드세요. ORS 제품을 구할 수 없는 응급 상황에는 깨끗한 물 1 L에 평평하게 깎은 설탕 6티스푼과 소금 1/2티스푼을 정확히 섞어 사용할 수 있습니다. 지나치게 짜면 마시지 말고, 정확한 계량이 어렵다면 만들지 말고 의료기관의 도움을 받으세요. 만든 지 24시간이 지나면 버리세요.
+* **수분 보충** : 약국의 경구 수액제(ORS)를 조금씩 자주 드세요. 분말형은 표시된 정확한 양의 물에 녹이고, 바로 마시는 액상형은 제품 설명대로 그대로 드세요. ORS 제품을 구할 수 없는 응급 상황에는 깨끗한 물 1 L에 설탕 6티스푼과 소금 1/2티스푼을 정확히 섞어 사용할 수 있습니다. 티스푼은 밥숟가락이 아닌 5 ㎖ 계량스푼이며, 평평하게 깎아 계량하세요. 지나치게 짜면 마시지 말고, 정확한 계량이 어렵다면 만들지 말고 의료기관의 도움을 받으세요. 만든 지 24시간이 지나면 버리세요.
 * **음식** : 일부러 굶지 마세요. 견딜 수 있는 평소 음식을 조금씩 자주 드세요. 과량의 단 음식·기름진 음식·커피·술은 증상을 악화하면 피하고, 우유·유제품도 복부팽만이나 설사가 심해질 때만 일시적으로 줄이세요.
 * **휴식** : 충분히 쉬세요.
 * **설사약** : 혈변·발열이 있거나 항생제 복용 뒤 설사가 생겼다면 지사제를 임의로 먹지 마세요. 성인에게 처방된 약을 아이에게 주지 마세요.
@@ -495,12 +520,13 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 
 * 의식이 흐려지거나 쓰러짐, 소변이 거의 나오지 않으면서 심한 무기력·어지럼이 동반됨, 심한 복통·팽만과 지속적인 구토
 * 피 섞인 설사 후 창백해지거나 멍이 생기고 소변량이 줄어듦
+* 생후 3개월 미만 아기의 38℃ 이상 발열 또는 반응 저하·수유 불량 등 전신 상태 악화
 
 #### <mark style="color:$primary;">다음 증상은 당일 진료받으세요</mark>
 
 * 변에 피가 섞이거나 고름 같은 변이 나올 때
 * 38.5℃ 이상의 고열
-* 물도 삼키기 어려울 정도의 심한 구토
+* 물을 조금씩 마셔도 계속 토해 수분을 유지할 수 없을 때 (심하게 처지거나 소변이 거의 나오지 않으면 즉시 응급 평가)
 * 입이 마르고 소변량이 평소보다 뚜렷하게 줄거나 수분 섭취가 어려울 때 (탈수 의심)
 * 심한 복통
 
