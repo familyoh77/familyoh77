@@ -471,6 +471,7 @@
   * 소아 산제 : 생후 3개월 이상. 1회 1.5 ㎎/㎏ 또는 체중별 포 단위로 1일 3회 일정한 간격으로 투여하며, 음식·물·분유에 섞으면 즉시 복용함; 정상 배변이 2회 있을 때까지 사용하며 최대 7일임
     * 9 ㎏ 미만 - [10](https://www.health.kr/drug/2014112100011) ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - [30](https://www.health.kr/drug/2014112100010) ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
 * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
+* 지침상 대상 : 소아 급성 위장관염(수양성 설사)에서 ORS의 보조요법으로 고려(ESPGHAN 2014, 약한 권고·낮은 근거 수준). 성인 급성 설사 지침(IDSA 2017·ACG 2016)에는 포함되지 않음
 * 금기 : 3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
 * 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 금기
 * ACE 억제제 병용 시 혈관부종 위험 증가에 주의
@@ -484,7 +485,7 @@
 * Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용 시 사용하지 않음
 * 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
 * 신기능 저하·통풍 환자 및 항응고제·methotrexate·probenecid 복용자는 가능한 한 사용을 피하고, 신기능 저하 환자는 자가사용하지 않음
-* 임부·수유부는 복용 전 전문가와 상담하며, 급성 설사에는 ORS를 우선하고 BSS는 가능한 한 피함
+* 임부(특히 임신 후기)·수유부는 사용하지 않음 - salicylate가 흡수되어 aspirin과 같은 태아·신생아 위험(동맥관 조기 폐쇄, 출혈)이 있으므로 ORS를 우선함
 * 복용 전 현탁액을 잘 흔듦. 혀·변의 일시적 흑색 변색이 생길 수 있음
 * 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
 
@@ -700,6 +701,9 @@ flowchart TD
 *   <mark style="color:$info;">Riddle MS, et al. ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults. Am J Gastroenterol. 2016;111:602-622. - 성인 급성 설사에서 probiotics 비권고(항생제 관련 설사 제외)</mark>
 
     [https://pubmed.ncbi.nlm.nih.gov/27068718/](https://pubmed.ncbi.nlm.nih.gov/27068718/)
+*   <mark style="color:$info;">Guarino A, et al. ESPGHAN/ESPID Evidence-Based Guidelines for the Management of Acute Gastroenteritis in Children in Europe: Update 2014. J Pediatr Gastroenterol Nutr. 2014;59(1):132-152. - 소아 급성 위장관염에서 racecadotril 보조요법</mark>
+
+    [https://doi.org/10.1097/MPG.0000000000000375](https://doi.org/10.1097/MPG.0000000000000375)
 *   <mark style="color:$info;">Staller K, et al. AGA Clinical Practice Guideline on Management of Gastroparesis. Gastroenterology. 2025;169:828-861. - 4시간 위배출검사 및 위마비 약물치료; 미국 권고와 국내 허가 차이 구분</mark>
 
     [https://pubmed.ncbi.nlm.nih.gov/40976635/](https://pubmed.ncbi.nlm.nih.gov/40976635/)
