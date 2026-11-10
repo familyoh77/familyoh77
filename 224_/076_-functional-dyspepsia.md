@@ -304,7 +304,7 @@ flowchart TD
 
 * FD 자체에 대한 P-CAB의 효과 근거는 아직 불충분하며, FD 치료 목적으로 routine 사용하지 않음
 * FD 단독 치료는 허가 외 사용임. 동반되어 있는 GERD·소화성궤양 등은 해당 기준 적용
-* tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark>
+* tegoprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark>, fexuprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022010300016">펙수클루</a>]</mark>
 
 ### <mark style="color:orange;">위장관 운동 촉진제</mark>
 
@@ -338,7 +338,7 @@ flowchart TD
 * FD 자체의 지속적 증상 개선 근거는 부족하여 routine 치료로 권고하지 않음. 동반 속쓰림 등에 한해 단기간 보조적으로 고려 <mark style="color:$info;">\[BSG 2022]</mark>
 * 복용 시점·횟수는 성분·제형별로 다름 (☞ [제산제](073_-gidrugs.md#antacid))
 * 예방 효과가 없으므로 장기간 지속 또는 빈번한 투여는 피함
-* almagate <mark style="color:blue;">\[알마겔]</mark> : 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
+* almagate <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0450A0398">알마겔</a>]</mark> : 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
   * 신장애에서 알루미늄·마그네슘 축적 위험이 있으며, 심한 신장애에서는 권고하지 않음
   * tetracycline계 항생제와 병용하지 않음
   * quinolone·철분제 등도 흡수를 방해하므로 병용약별 간격 확인
@@ -369,7 +369,7 @@ flowchart TD
 * amitriptyline : 일반 성인 10 ㎎ 취침 시부터 시작하여 반응·내약성에 따라 10\~25 ㎎ 등으로 조정하고, 필요시 30\~50 ㎎/d까지 신중히 증량 고려 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570B0082">에트라빌</a>]</mark>
   * 고령자에서는 대안이 없고 이득이 위험보다 클 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작; 낮은 용량도 위험을 없애지는 못함
   * 주요 금기 : 부정맥, 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, MAO 억제제 투여 중 등. 고령자·심질환·QT 연장 위험 또는 관련 약물 병용 시 처방 전 심전도·전해질 및 상호작용 평가; 양극성장애·자살위험도 확인. domperidone과 병용하지 않음
-* imipramine : 25 ㎎ 취침 시 시작하여 필요시 50 ㎎까지 고려 <mark style="color:blue;">\[이미프라민]</mark>
+* imipramine : <a href="https://www.health.kr/drug/A11A0970A0140">25</a> ㎎ 취침 시 시작하여 필요시 50 ㎎까지 고려 <mark style="color:blue;">\[이미프라민]</mark>
 * mirtazapine : 15 ㎎ 취침 시 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1118">레메론</a>]</mark>
   * 조기 포만감과 체중감소가 두드러진 난치성 FD에서 전문의 판단하에 고려; 일률적 사용을 권고할 근거는 부족
   * 졸림·체중 증가 및 대사 부작용 주의

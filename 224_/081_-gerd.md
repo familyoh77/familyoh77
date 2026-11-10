@@ -401,17 +401,17 @@ flowchart TD
 * 대표적 1일 용량(질환·치료 단계별 용량 차이 있음)
   * omeprazole : 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark>
   * esomeprazole : 20\~40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5272">넥시움</a>]</mark>
-  * lansoprazole : 15\~30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
+  * lansoprazole : <a href="https://www.health.kr/drug/A11AJJJJJ0494">15</a>\~<a href="https://www.health.kr/drug/A11A0101A0362">30</a> ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
   * dexlansoprazole : NERD 30 ㎎ qd, ERD 치유 60 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012102300008">덱실란트디알</a>]</mark>&#x20;
   * pantoprazole : 40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark>
-  * rabeprazole : 10\~20 ㎎ qd <mark style="color:blue;">\[파리에트]</mark>
+  * rabeprazole : <a href="https://www.health.kr/drug/A11ABBBBB1645">10</a>\~<a href="https://www.health.kr/drug/A11ALLLLL0193">20</a> ㎎ qd <mark style="color:blue;">\[파리에트]</mark>
   * ilaprazole : 미란성 식도염 20 ㎎ qd × 8주, 식사 1시간 전 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08D0089">놀텍</a>]</mark>
 
 #### <mark style="color:$primary;">용법</mark>
 
 * 초치료 : NERD·경증 ERD(LA A/B)는 표준 용량 PPI 또는 적응증이 있는 P-CAB 4\~8주, 중증 ERD(LA C/D)는 8주 <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
 * 투여 시간 : 대부분의 기존 PPI는 식전 30\~60분; qd는 아침, bid는 아침·저녁 식전 투여
-  * dexlansoprazole 및 이중 지연 방출 esomeprazole 제형 <mark style="color:blue;">\[에소메졸디알]</mark>은 식사 무관 복용 가능
+  * dexlansoprazole 및 이중 지연 방출 esomeprazole 제형 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020100700006">에소메졸디알</a>]</mark>은 식사 무관 복용 가능
 * 조절 불충분 시 : 복용 시간·순응도 먼저 평가 → 한 차례 PPI 교체 또는 지침에 따른 표준 용량 bid × 8주 시도·검사 고려
   * GERD에서 bid 증량은 성분·제형별 허가 범위를 초과할 수 있어 허가·급여와 구분하며, 여러 PPI의 반복 교체 근거는 제한적임
 * 유지 치료 : 병형과 재발 양상에 따라 최소 유효 용량을 선택 <mark style="color:$info;">\[Seoul Consensus 2025]</mark>
@@ -451,8 +451,8 @@ flowchart TD
   * 적응증 : ERD 치료; esomeprazole 대비 비열등한 EE 치유율
   * 용법 : ERD 40 ㎎ qd × 4\~8주; 식사 무관
 * zastaprazan <mark style="color:blue;">\[자큐보]</mark>
-  * 2024년 허가(ERD 치료); 구강붕해정 제형 있음
-  * 용법 : ERD 20 ㎎ qd × 4주 (미치유 시 4주 추가); 식사 무관
+  * 2024년 허가(ERD 치료); <a href="https://www.health.kr/drug/2025103100002">구강붕해정</a> 제형 있음
+  * 용법 : ERD <a href="https://www.health.kr/drug/2024042500003">20</a> ㎎ qd × 4주 (미치유 시 4주 추가); 식사 무관
 * 위 3성분 모두 atazanavir·nelfinavir·rilpivirine 병용은 금기. fexuprazan, zastaprazan은 간·신장애 사용 경험이 제한되어 신중 투여
 * P-CAB의 NERD·유지 치료 적응증은 성분·함량별로 다름
   * tegoprazan은 NERD 50 ㎎, 치유 후 유지 25 ㎎이 허가
@@ -517,7 +517,7 @@ flowchart TD
   * 음주·opioid·수면진정제 등과 병용하면 중추신경억제·호흡억제 위험이 증가하므로 주의
 * 연속 복용 후 중단 시 갑작스러운 중단에 따른 환각·경련 등을 피하도록 감량
   * 예외 상황(심각한 이상반응 등)을 제외하면 제품 허가사항에 따라 약 1\~2주 이상에 걸쳐 천천히 감량
-* baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> - GERD 치료는 허가 외 사용
+* baclofen : <a href="https://www.health.kr/drug/A11A2830A0077">5</a>\~<a href="https://www.health.kr/drug/A11A2830A0083">10</a> ㎎ tid <mark style="color:blue;">\[바크론]</mark> - GERD 치료는 허가 외 사용
 
 #### <mark style="color:$primary;">항우울/항불안제 (Neuromodulator)</mark>
 
@@ -525,7 +525,7 @@ flowchart TD
 * 인지행동치료, 식도 지향 최면치료, 횡격막 호흡, 이완요법을 우선 또는 병행
 * 약제 : TCA, SSRI/SNRI, trazodone
   * 저용량으로 시작하고, 고령자에서는 낙상 위험을 고려
-  * [TCA](076_-functional-dyspepsia.md#gut-brain-neuromodulator) : imipramine <mark style="color:blue;">\[이미프라민]</mark> 또는 nortriptyline <mark style="color:blue;">\[센시발]</mark>
+  * [TCA](076_-functional-dyspepsia.md#gut-brain-neuromodulator) : imipramine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0970A0140">이미프라민</a>]</mark> 또는 nortriptyline <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1130A0033">센시발</a>]</mark>
     * 항콜린성 부작용·QT 연장·기립저혈압에 주의
   * escitalopram·trazodone도 QT 연장에 주의
 

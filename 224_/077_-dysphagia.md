@@ -336,11 +336,11 @@ flowchart TD
 * 위산 분비 억제로 증상 호전 및 협착 재발 방지
 * omeprazole 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark>; pantoprazole 40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark>; esomeprazole 20\~40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5272">넥시움</a>]</mark>. 적응증·중증도·반응에 따른 증량은 별도 판단
 * 대부분의 일반형 PPI는 아침 첫 식사 30\~60분 전 복용; bid이면 아침·저녁 식전
-  * dexlansoprazole·에소메졸디알은 식사 무관
+  * dexlansoprazole·<a href="https://www.health.kr/drug/2020100700006">에소메졸디알</a>은 식사 무관
 * 소화성 협착·중증 미란성 식도염·PPI로 관해된 EoE는 유지 적응증이 될 수 있으므로 단순히 8주를 넘었다는 이유로 중단하지 않으며, 주기적으로 최저 유효 용량과 필요성을 재평가함
 * clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안을 고려함
 * 최적 PPI에도 남는 야간 역류 증상에는 취침 전 H₂ 차단제를 단기·필요시 추가할 수 있으나 일률적으로 병용하지 않음; famotidine은 신기능에 따라 조정
-* 미란성 식도염에는 P-CAB(tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark> 등)도 허가되어 있으나, 소화성 협착의 확장술 후 재협착 예방 근거는 PPI 중심임
+* 미란성 식도염에는 P-CAB(tegoprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark>, fexuprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022010300016">펙수클루</a>]</mark> 등)도 허가되어 있으나, 소화성 협착의 확장술 후 재협착 예방 근거는 PPI 중심임
 
 ### <mark style="color:orange;">호산구성 식도염 (EoE)</mark>
 
@@ -363,7 +363,7 @@ flowchart TD
     * fluticasone 단일 성분 정량분무 흡입제 : ACG 2025 성인 유도요법 예는 880 ㎍ bid(총 1,760 ㎍/일)이며 제형·용량을 확인. fluticasone/formoterol 복합제는 사용하지 않음
     * 일반적으로 식후 또는 취침 전에 투여하고, 투여 후 30\~60분 음식·음료를 피함. 구강·식도 칸디다증 및 드문 부신 억제에 유의하며, 다른 경로 스테로이드 병용·장기 고용량 등은 개별 모니터링함. 구강 칸디다 예방 방법은 제형별 복약지도에 따름
   * **경험적 제거식** : 가능하면 1-food(우유) 또는 2-food(우유·밀) 제거처럼 덜 제한적인 방식부터 시작하고 영양사와 협력. 알레르기검사만으로 제거 식품을 결정하지 않음
-* **Dupilumab** (IL-4/IL-13 신호 억제 생물학적 제제) <mark style="color:blue;">\[듀피젠트프리필드주]</mark>
+* **Dupilumab** (IL-4/IL-13 신호 억제 생물학적 제제) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018040200003">듀피젠트프리필드주</a>]</mark>
   * PPI 등 초기 치료에 반응하지 않거나 불내성인 경우, 반복적 food impaction/fibrostenotic EoE 또는 치료가 필요한 다발성 아토피 질환이 동반된 경우 고려
   * 미국 EoE 적응증은 ≥1세·체중 ≥15 ㎏이나, 국내 dupilumab 허가사항에는 EoE 적응증이 없음(2026년 11월 1일 기준). 해외 권고와 허가 외 사용을 구분하며 전문의가 판단 <mark style="color:$info;">\[FDA; 식약처]</mark>
 * **반응 평가 및 유지 치료** : 증상만으로 관해를 판단하지 않고 PPI·국소 스테로이드 등은 보통 8\~12주 후 EGD와 생검으로 평가(조직학적 반응은 일반적으로 ＜15 eos/hpf). Dupilumab은 반응 속도와 임상 경과에 따라 평가 시점을 개별화하며 ACG 해설에는 12\~24주 평가의 전문가 진료 예시가 있음; 일률적인 의무 시점은 아님 <mark style="color:$info;">\[Am J Gastroenterol 2025]</mark>. 관해 후에도 선택한 식이 또는 약물 유지 치료를 지속하여 재발·섬유화·협착 위험을 낮춤

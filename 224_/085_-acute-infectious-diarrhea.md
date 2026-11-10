@@ -348,7 +348,7 @@ flowchart TD
 ### <mark style="color:orange;">구토 조절제 (Antiemetics)</mark>
 
 * 심한 구토로 ORS 섭취가 어려울 때 제한적으로 고려; 성인 급성 위장관염에서 일상적 반복 처방 근거는 제한적
-* ondansetron : 4\~8 ㎎ PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark> (급성 위장관염 구토에는 허가 외 사용)
+* ondansetron : <a href="https://www.health.kr/drug/A11ABBBBB1538">4</a>\~<a href="https://www.health.kr/drug/A11ABBBBB1541">8</a> ㎎ PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark> (급성 위장관염 구토에는 허가 외 사용)
   * 구토 조절을 통해 ORS 섭취를 도울 수 있으나 수액 치료를 대신하지 않음
   * QT 연장 위험이 있으므로 선천성 long-QT에서는 피하며, 서맥, 저칼륨혈증·저마그네슘혈증 또는 다른 QT 연장 약물 병용 시 주의; 설사가 증가할 수 있음. Apomorphine 병용 금기
 

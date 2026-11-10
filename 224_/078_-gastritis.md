@@ -374,7 +374,7 @@ flowchart TD
 * 약제별 허가 적응증과 용량이 서로 다르며, 위염의 위점막 병변 개선 허가는 fexuprazan·revaprazan에만 있음
 * fexuprazan : 급성·만성 위염의 위점막 병변 개선 10 ㎎ bid, 2주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022081900004">펙수클루</a>]</mark>
 * revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd, 2주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0348">레바넥스</a>]</mark>
-* tegoprazan <mark style="color:blue;">\[케이캡]</mark>, vonoprazan <mark style="color:blue;">\[보신티]</mark>는 위염 적응증이 없음
+* tegoprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark>, vonoprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2025122200010">보신티</a>]</mark>는 위염 적응증이 없음
 
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
 
