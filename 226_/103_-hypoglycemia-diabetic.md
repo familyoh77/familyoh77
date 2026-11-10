@@ -44,7 +44,7 @@
 * Neuroglycopenic Sx. : 어지럼, 두통, 기력 약화, 감각·시각 이상, 말하기 힘듦, 협응 장애, 행동 변화, 인지 장애, 혼돈, 섬망, 발작, 의식 소실
 * 대개 autonomic Sx.이 neuroglycopenic Sx.보다 먼저 나타나 경고 신호 역할을 하지만, 저혈당 불감증에서는 경고 증상이 약해져 혼돈·행동 변화가 첫 증상으로 나타날 수 있음
 
-## <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -119,7 +119,7 @@
 
 * CGM lag : 혈당이 빠르게 변할 때 간질액 glucose가 혈당 변화를 수 분 늦게 반영할 수 있음
 * 압박 저혈당(compression low) : 수면·휴식 중 센서 부위 압박으로 인위적으로 낮은 CGM 수치가 나타남
-  * 증상 또는 임상 상황과 맞지 않는 CGM 수치는 손끝 혈당으로 재확인 (☞ [당뇨병 약물 치료](101_-dmdrugs.md#cgm-데이터-판독-및-관리-실무))
+  * 증상 또는 임상 상황과 맞지 않는 CGM 수치는 손끝 혈당으로 재확인 (☞ [당뇨병 약물 치료](101_-dmdrugs.md#cgm-interpretation))
 * 말초관류 저하 : 쇼크·차가운 손·Raynaud 현상 등에서는 손끝 혈당이 실제보다 낮게 측정될 수 있음. 임상 소견과 불일치하면 검사실 혈장 glucose와 대조하되 중증 증상에서는 치료 우선
 * 검체성 저혈당 : 채혈 후 혈구가 시험관 안에서 glucose를 계속 소비하여 실제보다 낮게 측정됨. 백혈구증가증·적혈구증가증·혈소판증가증 또는 검체 처리 지연 시 의심
   * 신속한 혈장 분리 또는 적절한 glycolysis inhibitor 검체로 재검하고 임상 상태·모세혈관 혈당과 대조
@@ -144,29 +144,29 @@
 
 ```mermaid
 graph TD
-    A([저혈당 의심]) ---> B{안전하게 삼킬 수 있고<br/>의식이 명료한가?}
-    B --->|YES| C[가능하면 즉시 혈당 확인]
-    C --->|＜70 또는 측정 불가하나 전형적 증상| D[포도당 15 g 섭취<br/>개별 교육받은 AID 사용자는 5~10 g 고려]
-    C --->|≥70| E[측정값·혈당 추세 재확인<br/>상대적 저혈당·다른 원인 평가]
-    D ---> F{15분 후 손끝 혈당<br/>여전히 ＜70인가?}
+    A["<u>저혈당 의심</u>"] ---> B{"<u>경구 처치 가능?</u><br/>•의식 명료<br/>•안전한 삼킴 가능"}
+    B --->|YES| C["<u>가능하면 즉시 혈당 확인</u>"]
+    C --->|＜70 또는 측정 불가하나 전형적 증상| D["<u>포도당 15 g 섭취</u><br/>•개별 교육받은 AID 사용자는 5~10 g 고려"]
+    C --->|≥70| E["<u>측정값·혈당 추세 재확인</u><br/>•상대적 저혈당·다른 원인 평가"]
+    D ---> F{"<u>교정 후에도 ＜70?</u><br/>•15분 후 손끝 혈당 확인"}
     F --->|YES| D
-    F --->|NO| G[혈당 회복 후 증상 지속 시 다른 원인 평가<br/>다음 식사까지 1시간 이상이면 간식]
-    B --->|NO: 의식 저하·발작 등| H[즉시 119 신고·경구 섭취 금지<br/>정상 호흡 시 측와위·호흡 없으면 CPR/AED]
-    H ---> I{IV 확보된<br/>의료기관인가?}
-    I --->|YES| J[IV dextrose 투여<br/>기관 프로토콜에 따라 적정]
-    I --->|NO| K[Glucagon 즉시 투여<br/>성인 주사 1 mg 또는 비강 3 mg]
-    K ---> L[반응 없으면 IV dextrose 지연 금지<br/>재투여는 제품별 설명서·사전 계획에 따름]
-    J ---> M[혈당·의식 반복 평가<br/>원인에 따라 탄수화물·IV dextrose 유지]
+    F --->|NO| G["<u>혈당 회복 후 증상 지속 시 다른 원인 평가</u><br/>•다음 식사까지 1시간 이상이면 간식"]
+    B --->|NO: 의식 저하·발작 등| H["<u>즉시 119 신고·경구 섭취 금지</u><br/>•정상 호흡 시 측와위·정상 호흡이 없으면 CPR/AED"]
+    H ---> I{"<u>정맥로가 확보된 의료기관?</u>"}
+    I --->|YES| J["<u>IV dextrose 투여</u><br/>•기관 프로토콜에 따라 적정"]
+    I --->|NO| K["<u>Glucagon 즉시 투여</u><br/>•성인 주사 1 mg 또는 비강 3 mg"]
+    K ---> L["<u>반응 없으면 IV dextrose 지연 금지</u><br/>•재투여는 제품별 설명서·사전 계획에 따름"]
+    J ---> M["<u>혈당·의식 반복 평가</u><br/>•원인에 따라 탄수화물·IV dextrose 유지"]
     L ---> M
-    G ---> N{지속·재발 또는 중대한 용량 오류<br/>급성 질환·고위험 약제 관련 재발 위험?}
-    M ---> O[응급실 평가·재발 관찰<br/>SU 과량·반복 시 octreotide 병용 고려]
+    G ---> N{"<u>지속·재발 또는 중대한 용량 오류</u><br/>•급성 질환·고위험 약제 관련 재발 위험?"}
+    M ---> O["<u>응급실 평가·재발 관찰</u><br/>•SU 과량·반복 시 octreotide 병용 고려"]
     N --->|YES| O
-    N --->|NO| P[원인 교정·치료계획 재평가<br/>자가혈당 추적]
+    N --->|NO| P["<u>원인 교정·치료계획 재평가</u><br/>•자가혈당 추적"]
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style H fill:#ffcdd2,stroke:#c62828
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class B,C,F,I,N yellow
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,C,F,I,N question
     classDef sky fill:#e3f2ff,stroke:#2196f3
     class D,E,G,J,K,L,M,O,P sky
 ```
@@ -179,7 +179,7 @@ _✽혈당 단위는 ㎎/㎗. 경구 포도당·주사 glucagon 용량은 성인
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 {% hint style="info" %}
 **삼킴·자가 대처 가능 여부에 따라 처치가 달라짐** : 안전하게 삼킬 수 있는 환자는 경구 포도당으로, 의식 저하·발작 또는 삼킴이 불가능한 환자는 경구 섭취를 금하고 glucagon 또는 IV dextrose로 처치
@@ -225,7 +225,7 @@ _✽혈당 단위는 ㎎/㎗. 경구 포도당·주사 glucagon 용량은 성인
 * IV dextrose 및 octreotide 중단 후에도 지연 재발 가능. 치료 중단 뒤 일반적으로 최소 12시간 추가 관찰을 고려하며, 지속형 약제·대량 노출·신기능 저하·재발 시 더 길게 관찰. 정상 식사 상태에서 혈당이 유지되는지도 확인하며 12시간 경과만으로 일률 퇴원시키지 않음  <mark style="color:$info;">[RCH 중독 지침; 기관별 중독 프로토콜]</mark>
 * 소아는 SU 1정만 우발적으로 섭취해도 지연성 중증 저혈당이 가능하므로 현재 무증상·정상 혈당이어도 응급 평가·관찰  <mark style="color:$info;">[RCH 중독 지침]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 모든 insulin 사용자와 저혈당 위험이 있는 환자에게 증상·유발 요인·15분 원칙·중증 저혈당 대처에 대한 구조화 교육 제공; 주위 사람도 교육하고 당뇨 패찰 착용 고려
 * 규칙적 식사; insulin 또는 분비촉진제 사용 중 식사량·시간이 달라지면 약제 조정 계획을 사전에 교육
@@ -345,17 +345,18 @@ _✽당뇨병에 동반된 저혈당은 해당 E1x.63을 우선 검토하며 E16
 > 원인 SU 등은 중단하고, insulin은 종류·투여 시각·잔여 작용을 확인하여 조정
 > T1DM의 기저 insulin은 임의로 완전히 중단하지 않음
 > 혈당 반복 측정
-> IV dextrose 투여 후에도 반복되는 sulfonylurea 저혈당은 octreotide 병용 고려
+> SU 과량복용으로 저혈당이 발생하면 최초 교정 후부터 octreotide 조기 병용 고려
+> 치료 용량 SU 관련 저혈당도 지속·재발하면 octreotide 병용을 전문가와 협의
 > 관찰 기간은 약제·용량·신기능·재발 여부와 마지막 치료 시점에 따라 결정
 > ```
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark> <a id="medication-counseling"></a>
 
 > **15분 원칙, 정확히 지키기**
 >
-> * 포도당 15 g 섭취 → 15분 대기 → 재측정; 여전히 ＜70 ㎎/㎗이면 반복
+> * 의식이 명료하고 안전하게 삼킬 수 있으면 포도당 15 g 섭취 → 15분 대기 → 재측정; 여전히 ＜70 ㎎/㎗이면 반복
 > * AID 사용자는 사전에 개별 교육받은 경우 5\~10 g으로 시작할 수 있음
 > * 지방·단백질 함유 식품(초콜릿, 아이스크림)은 흡수가 늦어 초기 치료제로 부적합
 > * α-glucosidase inhibitor를 insulin·SU와 병용 중이면 반드시 순수 포도당으로 치료
@@ -383,7 +384,38 @@ _✽당뇨병에 동반된 저혈당은 해당 E1x.63을 우선 검토하며 E16
 
 ***
 
-## <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:green;">참고문헌</mark>
+
+### 임상 근거
+
+1. American Diabetes Association Professional Practice Committee for Diabetes. 6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S132–S149. [원문](https://doi.org/10.2337/dc26-S006)
+2. 대한당뇨병학회. 2025 당뇨병 진료지침. 제9판. 저혈당 평가·예방·관리. [학회 자료](https://www.diabetes.or.kr/bbs/?code=guide&mode=view&number=2078)
+3. McCall AL, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108:529–562. [원문](https://doi.org/10.1210/clinem/dgac596)
+4. Cryer PE, et al. Evaluation and Management of Adult Hypoglycemic Disorders: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2009;94:709–728. [원문](https://doi.org/10.1210/jc.2008-1410)
+5. Hazlehurst J, et al. Society for Endocrinology guidelines for the diagnosis and management of post-bariatric hypoglycaemia. Endocr Connect. 2024;13:e230285. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046333/)
+
+6. Holt RIG, et al. The management of type 1 diabetes in adults. The updated 2026 consensus report by the ADA and EASD. Diabetologia. Published online September 16, 2026; September 30 정정 반영본. [원문](https://doi.org/10.1007/s00125-026-06833-z)
+7. Joint British Diabetes Societies for Inpatient Care. Diabetes at the Front Door. Revised May 2023. Appendix 2: Treatment of hypoglycaemia. [원문](https://www.diabetes.org.uk/sites/default/files/2023-06/JBDS%2016%20Diabetes%20at%20the%20Front%20Door%20Guideline%20qr%20code.pdf)
+8. Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Oral Hypoglycaemic Poisoning. Updated December 2020. [원문](https://www.rch.org.au/clinicalguide/guideline_index/Oral_Hypoglycaemic_Poisoning/)
+9. Ryan E, Rushton W. Variations in Octreotide Dosing in Published Reports of Sulfonylurea Toxicity: A Systematic Review, 1988-Present. J Med Toxicol. 2025;21:260–275. [원문](https://doi.org/10.1007/s13181-024-01054-5)
+10. Gupta M, et al. Octreotide Administration Methods in Sulfonylurea Poisoning: A Retrospective Chart Review. J Med Toxicol. 2026;22:415–422. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/42687079/)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+* 건강보험심사평가원. 보건복지부 고시 제2025-224호 — Glucagon 주사제·외용제 급여기준 신설, 2026년 1월 1일 시행.
+
+  [고시 및 급여기준](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53046&brdScnBltNo=4&pgmid=HIRAA030069000400)
+
+* 건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항(약제), 2026년 7월판. Glucagon 외용제·주사제, 본문 537–538쪽. [원문](https://www.hira.or.kr/ebooksc/2026/10/BZ202610074155599.pdf)
+* Novo Nordisk. GlucaGen Hypokit 1 mg, Summary of Product Characteristics. 주사형의 투여 경로·반응 시간·금기 보조 확인 자료(국내 긴급도입 인정 범위 및 공급 설명서 우선). [제조사 설명서](https://www.medicines.org.uk/emc/product/1289/smpc)
+* 질병관리청. 진단 및 수술 코드 분류 지침. 당뇨병과 저혈당증의 분류 원칙. [자료](https://is.kdca.go.kr/cscdfile2/biz/ip/filecmmn/ipFileDown.do?fileId=191d48d46731)
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark> <a id="patient-guide"></a>
 
 {% hint style="info" %}
 **저혈당, 빠르게 알아채고 빠르게 대처하는 것이 가장 중요합니다**
@@ -418,6 +450,7 @@ _✽당뇨병에 동반된 저혈당은 해당 E1x.63을 우선 검토하며 E16
   * 주사형 : 동봉된 설명에 따라 가루약을 희석액에 녹여 처방받은 용량을 허벅지나 팔에 주사합니다. 소아는 성인과 용량이 다를 수 있으므로 미리 교육받은 용량을 지키십시오.
 * 정상 호흡이 있으면 구토에 대비해 환자를 옆으로 눕혀 두십시오. 정상적으로 숨 쉬지 않으면 119 안내에 따라 심폐소생술을 시작하고 AED를 사용하십시오. 저혈당을 고치려고 insulin을 추가 주사해서는 안 됩니다.
 * 깨어나지 않으면 119 지시에 따르십시오. 추가 투여는 처방받은 제품의 설명서와 미리 교육받은 계획에 따르고, 추가 투여를 기다리느라 이송을 늦추지 마십시오.
+* 의식이 돌아와 안전하게 삼킬 수 있으면 빠르게 흡수되는 당을 먹이고 이어서 식사·간식을 제공하십시오. 호전되어도 응급 평가를 받으세요.
 * 사용 후에는 반드시 다시 처방받고 유효기간을 정기적으로 확인하십시오.
 
 #### <mark style="color:$primary;">저혈당을 예방하려면?</mark>
@@ -440,31 +473,3 @@ _✽당뇨병에 동반된 저혈당은 해당 E1x.63을 우선 검토하며 E16
 
 ***
 
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### 임상 근거
-
-1. American Diabetes Association Professional Practice Committee for Diabetes. 6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S132–S149. [원문](https://doi.org/10.2337/dc26-S006)
-2. 대한당뇨병학회. 2025 당뇨병 진료지침. 제9판. 저혈당 평가·예방·관리. [학회 자료](https://diabetes.or.kr/bbs/download.php?code=guide&number=1596)
-3. McCall AL, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108:529–562. [원문](https://doi.org/10.1210/clinem/dgac596)
-4. Cryer PE, et al. Evaluation and Management of Adult Hypoglycemic Disorders: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2009;94:709–728. [원문](https://doi.org/10.1210/jc.2008-1410)
-5. Hazlehurst J, et al. Society for Endocrinology guidelines for the diagnosis and management of post-bariatric hypoglycaemia. Endocr Connect. 2024;13:e230285. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046333/)
-
-6. Holt RIG, et al. The management of type 1 diabetes in adults. The updated 2026 consensus report by the ADA and EASD. Diabetologia. Published online September 16, 2026; September 30 정정 반영본. [원문](https://doi.org/10.1007/s00125-026-06833-z)
-7. Joint British Diabetes Societies for Inpatient Care. Diabetes at the Front Door. Revised May 2023. Appendix 2: Treatment of hypoglycaemia. [원문](https://www.diabetes.org.uk/sites/default/files/2023-06/JBDS%2016%20Diabetes%20at%20the%20Front%20Door%20Guideline%20qr%20code.pdf)
-8. Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Oral Hypoglycaemic Poisoning. Updated December 2020. [원문](https://www.rch.org.au/clinicalguide/guideline_index/Oral_Hypoglycaemic_Poisoning/)
-9. Ryan E, Rushton W. Variations in Octreotide Dosing in Published Reports of Sulfonylurea Toxicity: A Systematic Review, 1988-Present. J Med Toxicol. 2025;21:260–275. [원문](https://doi.org/10.1007/s13181-024-01054-5)
-10. Gupta M, et al. Octreotide Administration Methods in Sulfonylurea Poisoning: A Retrospective Chart Review. J Med Toxicol. 2026;22:415–422. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/42687079/)
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
-
-  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
-* 건강보험심사평가원. 보건복지부 고시 제2025-224호 — Glucagon 주사제·외용제 급여기준 신설, 2026년 1월 1일 시행.
-
-  [고시 및 급여기준](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53046&brdScnBltNo=4&pgmid=HIRAA030069000400)
-
-* 건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항(약제), 2026년 7월판. Glucagon 외용제·주사제, 본문 537–538쪽. [원문](https://www.hira.or.kr/ebooksc/2026/10/BZ202610074155599.pdf)
-* Novo Nordisk. GlucaGen Hypokit 1 mg, Summary of Product Characteristics. 주사형의 투여 경로·반응 시간·금기 보조 확인 자료(국내 긴급도입 인정 범위 및 공급 설명서 우선). [제조사 설명서](https://www.medicines.org.uk/emc/product/1289/smpc)
-* 질병관리청. 진단 및 수술 코드 분류 지침. 당뇨병과 저혈당증의 분류 원칙. [자료](https://is.kdca.go.kr/cscdfile2/biz/ip/filecmmn/ipFileDown.do?fileId=191d48d46731)

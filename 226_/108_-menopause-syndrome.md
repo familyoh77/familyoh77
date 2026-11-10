@@ -57,22 +57,22 @@
 * GSM은 병력과 필요시 외음부·질 진찰로 진단하며, pH·도말·배양은 감별이 필요할 때 선택. 증상이 있는 모든 여성에게 질 pH나 혈중 estrogen 측정이 필요한 것은 아님
 * VMS와 달리 치료하지 않으면 지속·진행하는 경향. 질 출혈을 단순 위축 탓으로 단정하지 않음
 
-### 🚩Red Flags
+### <mark style="color:red;">🚩 Red Flags</mark>
 
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑작스러운 흉통·호흡곤란·객혈 또는 실신(폐색전증·급성 관상동맥증후군 가능성)  <mark style="color:$danger;">[즉각 조치]</mark>
 * 급성 편측 위약·안면 마비·언어장애·갑작스러운 심한 두통(뇌졸중 가능성)  <mark style="color:$danger;">[즉각 조치]</mark>
 * 다량 질출혈과 빈맥·저혈압 등 혈역학적 불안정  <mark style="color:$danger;">[즉각 조치]</mark>
 
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * HT 사용 중 또는 사용 여부와 관계없이 새 편측 하지 부종·통증·발적: DVT 의심 시 **당일** 평가; 호흡곤란·흉통 동반 시 즉각 응급 평가  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
 * 자연 폐경 후 새 질 출혈(1회·소량 포함)  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
 * HT 중 과다·지속·반복 출혈, 암 위험 인자가 있는 출혈 또는 초기 관찰 기간을 벗어난 예상 밖 출혈  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
 * 새 유방 종괴·혈성/편측 자발성 유두 분비물·유방 피부 변화  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
 
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * ＜40세의 지속성 무월경·불규칙 월경 또는 estrogen 결핍 증상(POI 가능성)  <mark style="color:$info;">[조기 평가 및 추적]</mark>
 * HT 고려 환자의 활동성 간질환·혈전증 병력 등 금기 가능성: 확인 전 전신 HT를 시작하지 않음  <mark style="color:$info;">[조기 평가 및 추적]</mark>
@@ -115,19 +115,29 @@
 
 ```mermaid
 flowchart TD
-    A["폐경 관련 VMS 의심"] --> B{"출혈·비전형 증상 또는 다른 원인?"}
-    B -->|있음| C["원인 평가·필요시 의뢰"]
-    B -->|없음| D{"생활에 불편한 VMS?"}
-    D -->|아니오| E["교육·생활 관리·경과 관찰"]
-    D -->|예| F{"전신 HT 금기·개인 위험·선호 평가"}
-    F -->|HT 적합·희망| G{"자궁 유무"}
-    G -->|있음| H["Estrogen + 적절한 progestogen 또는 TSEC"]
-    G -->|없음| I["Estrogen 단독 고려"]
-    F -->|금기 또는 원하지 않음| J["국내 가용 SSRI/SNRI 등 비호르몬 치료·CBT"]
-    H --> K["3개월 후 효과·출혈·부작용 재평가"]
+    A["`**폐경 관련 VMS 의심**`"] --> Emergency{"`**혈역학적 불안정·급성 혈전 의심 증상?**`"}
+    Emergency -->|예| ER["`**즉시 응급 평가·이송**`"]
+    Emergency -->|아니오| B{"`**출혈·비전형 증상 또는 다른 원인?**`"}
+    B -->|있음| C["`**원인 평가·필요시 의뢰**`"]
+    B -->|없음| D{"`**생활에 불편한 VMS?**`"}
+    D -->|아니오| E["`**교육·생활 관리·경과 관찰**`"]
+    D -->|예| F{"`**전신 HT 금기·개인 위험·선호 평가**`"}
+    F -->|HT 적합·희망| G{"`**자궁 유무**`"}
+    G -->|있음| H["`**Estrogen + 적절한 progestogen 또는 TSEC**`"]
+    G -->|없음| I["`**Estrogen 단독 고려**`"]
+    F -->|금기 또는 원하지 않음| J["`**국내 가용 SSRI/SNRI 등 비호르몬 치료·CBT**`"]
+    H --> K["`**3개월 후 효과·출혈·부작용 재평가**`"]
     I --> K
     J --> K
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1565c0
+    class Emergency,B,D,F,G question
+    class C,E,H,I,J,K treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style ER fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
 ```
+
+<p align="center"><em><mark style="color:$info;">저자 재구성. 대한폐경학회 2025; ACOG 2026; NICE NG23.</mark></em></p>
 
 * 전신 HT는 일반적으로 건강하고 ＜60세 또는 자연 폐경 후 ＜10년인 경우 이득-위험 비가 양호하나, 한 조건만으로 금기·심혈관 위험 평가를 생략하지 않음
 * 경피 estrogen도 자궁이 있으면 자궁내막 보호가 필요. 자궁내막증·부분 자궁절제 등 예외는 전문의와 판단
@@ -137,24 +147,31 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["GSM 의심: 질 건조·성교통·자극·배뇨 증상"] --> B{"출혈·감염·피부질환·종양 의심?"}
-    B -->|예| C["해당 원인 평가·치료·필요시 의뢰"]
-    B -->|아니오| D["보습제·윤활제, 증상 정도·환자 선호 확인"]
-    D --> E{"증상이 지속하거나 중등도 이상?"}
-    E -->|아니오| F["비호르몬 관리 지속·추적"]
-    E -->|예| G{"유방암 병력 등 제품별 금기?"}
-    G -->|없음| H["저용량 질 estrogen 선택·제품별 용법 적용"]
-    G -->|있음| I["비호르몬 치료 우선·관련 전문의와 공동 결정"]
-    H --> J["8~12주 후 반응·내약성·출혈 재평가"]
+    A["`**GSM 의심: 질 건조·성교통·자극·배뇨 증상**`"] --> B{"`**출혈·감염·피부질환·종양 의심?**`"}
+    B -->|예| C["`**해당 원인 평가·치료·필요시 의뢰**`"]
+    B -->|아니오| D["`**보습제·윤활제, 증상 정도·환자 선호 확인**`"]
+    D --> E{"`**증상이 지속하거나 중등도 이상?**`"}
+    E -->|아니오| F["`**비호르몬 관리 지속·추적**`"]
+    E -->|예| G{"`**유방암 병력 등 제품별 금기?**`"}
+    G -->|없음| H["`**저용량 질 estrogen 선택·제품별 용법 적용**`"]
+    G -->|있음| I["`**비호르몬 치료 우선·관련 전문의와 공동 결정**`"]
+    H --> J["`**8~12주 후 반응·내약성·출혈 재평가**`"]
     I --> J
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1565c0
+    class B,E,G question
+    class C,D,F,H,I,J treatment
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
+
+<p align="center"><em><mark style="color:$info;">저자 재구성. AUA/SUFU/AUGS 2025; 대한폐경학회 2025.</mark></em></p>
 
 * GSM 단독에는 전신 HT를 새로 시작하지 않음. 저용량 질 estrogen의 장기 유지 필요성과 국내 제품의 휴약·재평가 지침을 함께 고려
 * 국내 질 estrogen의 유방암·VTE 등 금기 문구와 국외 지침의 개별적 사용 권고는 구분
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -177,11 +194,11 @@ flowchart TD
 
 <mark style="color:cyan;">**Vasomotor symptoms(VMS)에 대한 치료 효과 비교**</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>치료</strong></td><td><strong>대표 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>전신 estrogen</strong></td><td>제형별 최소 유효 용량</td><td>VMS에 가장 효과적; 자궁이 있으면 자궁내막 보호 필요</td></tr><tr><td><strong>SSRI/SNRI</strong></td><td></td><td>국내 VMS 적응증 허가 외 사용</td></tr><tr><td>paroxetine¹⁾ <mark style="color:blue;">[세로자트]</mark></td><td>7.5~25 ㎎/d</td><td>저용량부터 시작; tamoxifen과 상호작용 주의</td></tr><tr><td>venlafaxine <mark style="color:blue;">[이팩사]</mark></td><td>37.5~75 ㎎/d</td><td>혈압 및 중단 증상 주의</td></tr><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>10~20 ㎎/d</td><td>고령·민감 환자 5 ㎎/d 시작; 고령자 최대 10 ㎎/d, QT 주의</td></tr><tr><td><strong>Gabapentin</strong> <mark style="color:blue;">[뉴론틴]</mark></td><td>100~300 ㎎ 취침 전 시작 → 통상 300 ㎎ tid</td><td>야간 VMS에 유용; 졸림·어지러움 주의</td></tr><tr><td><strong>Neurokinin 수용체 대항제</strong></td><td>fezolinetant 45 ㎎/d<br>elinzanetant 120 ㎎ 취침 전</td><td>국외 허가 요법; 국내 유통 없음, 간기능 등 모니터링 필요</td></tr><tr><td><strong>권고하지 않는 치료</strong></td><td>경피 progesterone 크림, clonidine, pregabalin, vitamin E, soy·black cohosh 등</td><td>효과 부족, 안전성 또는 부작용 문제</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>치료</strong></td><td><strong>대표 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>전신 estrogen</strong></td><td>제형별 최소 유효 용량</td><td>VMS에 가장 효과적; 자궁이 있으면 자궁내막 보호 필요</td></tr><tr><td><strong>SSRI/SNRI</strong></td><td></td><td>국내 VMS 적응증 허가 외 사용</td></tr><tr><td>paroxetine¹⁾ <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ACCCCC0411" title="한독세로자트정10㎎">세로자트</a>]</mark></td><td>7.5~25 ㎎/d</td><td>저용량부터 시작; tamoxifen과 상호작용 주의</td></tr><tr><td>venlafaxine <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ADDDDD0700" title="이팩사엑스알서방캡슐 37.5㎎">이팩사</a>]</mark></td><td>37.5~<a href="https://www.health.kr/drug/A11ABBBBB1493" title="이팩사엑스알서방캡슐75㎎">75 ㎎</a>/d</td><td>혈압 및 중단 증상 주의</td></tr><tr><td>escitalopram <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO5474" title="렉사프로정 10㎎">렉사프로</a>]</mark></td><td>10~<a href="https://www.health.kr/drug/2009090700007" title="렉사프로정20㎎">20 ㎎</a>/d</td><td>고령·민감 환자 <a href="https://www.health.kr/drug/A11AOOOOO5475" title="렉사프로정5㎎">5 ㎎</a>/d 시작; 고령자 최대 10 ㎎/d, QT 주의</td></tr><tr><td><strong>Gabapentin</strong> <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB1033" title="뉴론틴캡슐 100㎎">뉴론틴</a>]</mark></td><td>100~<a href="https://www.health.kr/drug/A11ABBBBB1034" title="뉴론틴캡슐300㎎">300 ㎎</a> 취침 전 시작 → 통상 300 ㎎ tid</td><td>야간 VMS에 유용; 졸림·어지러움 주의</td></tr><tr><td><strong>Neurokinin 수용체 대항제</strong></td><td>fezolinetant 45 ㎎/d<br>elinzanetant 120 ㎎ 취침 전</td><td>국외 허가 요법; 국내 유통 없음, 간기능 등 모니터링 필요</td></tr><tr><td><strong>권고하지 않는 치료</strong></td><td>경피 progesterone 크림, clonidine, pregabalin, vitamin E, soy·black cohosh 등</td><td>효과 부족, 안전성 또는 부작용 문제</td></tr></tbody></table>
 
 _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제이며, 국내 paroxetine 제제의 VMS 치료는 허가 외 사용임_
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">안면 홍조 개선</mark>
 
@@ -258,7 +275,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 * 종류 : estrogen 단독 또는 estrogen-progestogen 병합 (☞ [폐경 후 호르몬요법 인정기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0023))
   * 허가된 estradiol과 micronized progesterone은 체내 호르몬과 화학적으로 동일함; 일부 관찰연구에서 micronized progesterone과 경피 estradiol 조합의 유방암·VTE 위험이 더 낮을 가능성이 제시되었으나 모든 위험에 대한 우월성이 확정된 것은 아님
-* 자연 폐경의 증상 치료는 저용량으로 시작하여 최소 유효 용량으로 조정. POI·젊은 수술폐경의 생리적 호르몬 보충에는 이 원칙을 일률 적용하지 않고 충분한 대체 용량을 사용(☞ 「무월경」)
+* 자연 폐경의 증상 치료는 저용량으로 시작하여 최소 유효 용량으로 조정. POI·젊은 수술폐경의 생리적 호르몬 보충에는 이 원칙을 일률 적용하지 않고 충분한 대체 용량을 사용(☞ [무월경](../227_/130_-amenorrhea.md))
 
 #### <mark style="color:$primary;">상황에 따른 선택 약제</mark>
 
@@ -287,18 +304,19 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 #### <mark style="color:$primary;">경구용</mark>
 
 * 적절한 용량의 전신 estrogen은 VMS에 효과적이나 제제·용량·경로별 내약성·위험·허가사항이 달라 동등한 안전성을 가정하지 않음
-* Conjugated equine estrogen(CEE) : 통상 0.3\~0.625 ㎎/d <mark style="color:blue;">\[프레미나정]</mark>
+* Conjugated equine estrogen(CEE) : 통상 0.3\~<a href="https://www.health.kr/drug/A11AKP08G1656" title="프레미나정0.625㎎">0.625 ㎎</a>/d <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08G4926" title="프레미나정 0.3㎎">프레미나</a>]</mark>
 * 17-β-estradiol : 0.5\~1 ㎎/d
-* Estradiol valerate : 1\~2 ㎎/d <mark style="color:blue;">\[프로기노바]</mark>
-* Estradiol hemihydrate : 1\~2 ㎎/d <mark style="color:blue;">\[프레다]</mark>
+* Estradiol valerate : 1\~<a href="https://www.health.kr/drug/A11AOOOOO8168" title="프로기노바28정2㎎">2 ㎎</a>/d <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0606" title="프로기노바28정 1㎎">프로기노바28</a>]</mark>
+  * 프로기노바28은 중증 고중성지방혈증·중증 신질환 또는 심질환 등도 금기이므로 일반 전신 HT 금기 외에 해당 품목의 제한을 적용함
+* Estradiol hemihydrate : 1\~<a href="https://www.health.kr/drug/2023011900002" title="프레다정2㎎">2 ㎎</a>/d <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08A0172" title="프레다정 1㎎">프레다</a>]</mark>
 
 #### <mark style="color:$primary;">경피용 (겔, 패취)</mark>
 
 * 경구 제제보다 경피 제제에서 정맥혈전색전증(VTE) 위험 증가가 낮은 것으로 알려짐
 * 비만·고중성지방혈증·조절 중인 고혈압 등 위험 인자가 있으면 경피 제형을 우선 고려할 수 있음. 과거 VTE·뇌졸중·관상동맥질환 등 전신 HT 금기 여부를 먼저 평가하며, 경피 경로로 금기가 해소되는 것은 아님
 * Estradiol 패취 : 제품별 방출량에 따라 1매를 주 1\~2회 피부에 부착
-* Estradiol hemihydrate 겔 <mark style="color:blue;">\[에스트레바 겔]</mark> : 정량 펌프를 이용하여 1일 1회 피부에 도포; 제품 허가용량에 따라 조절
-* Estradiol 0.1% 겔 <mark style="color:blue;">\[디비겔]</mark> : 포 단위 함량에 따라 1일 1회 피부에 도포
+* Estradiol hemihydrate 겔 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0522" title="에스트레바겔 0.1%">에스트레바 겔</a>]</mark> : 정량 펌프를 이용하여 1일 1회 피부에 도포; 제품 허가용량에 따라 조절
+* Estradiol 0.1% 겔 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO1292" title="디비겔0.1%겔">디비겔</a>]</mark> : 포 단위 함량에 따라 1일 1회 피부에 도포
 
 #### <mark style="color:$primary;">질 국소용</mark>
 
@@ -308,10 +326,10 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 * 자궁이 있는 경우에도 권장 저용량 질 국소 estrogen 요법에는 통상 progestogen 병용이나 정기적 자궁내막 검사가 필요하지 않음. 크림 제형의 고용량·장기간 사용에 이 원칙을 일률 적용하지 않으며 비정상 출혈은 평가
 * 제형 : 크림, 겔, 질정, vaginal ring 등; 효과, 사용 편의성, 환자 선호, 비용 및 국내 가용성에 따라 선택
 * 용법 : 제품별 허가사항에 따라 초기 매일 투여 후 유지요법으로 감량; 모든 제형에 동일한 용법을 적용하지 않음
-* Estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[오베스틴 질좌제]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개. 국내 허가사항은 유지 중 매 2\~3개월마다 4주 휴약하여 지속 필요성을 판단하도록 기재함
-* Estriol 질크림 1 ㎎/g <mark style="color:blue;">\[유센스 질크림]</mark> : 1회 0.5 g(estriol 0.5 ㎎)을 1일 1회 질내 투여. 초기 증상 조절 후 유지 빈도를 줄이며 제품별 허가 용법에 따라 조정
-* Estriol 0.005% 겔(0.05 ㎎/g) <mark style="color:blue;">\[블리셀겔]</mark> : 1회 1 g(estriol 50 ㎍), 취침 시 매일 ×3주 후 주 2회 유지; 12주 이후 지속 여부 재평가. **국내 허가사항상 전신 estrogen과 병용하지 않음**. 오베스틴·유센스의 estriol 0.5 ㎎/회와 혼동하지 않음
-* Conjugated estrogen 질크림 0.625 ㎎/g <mark style="color:blue;">\[프레미나질크림]</mark>(다림바이오텍) : 위축성 질염·외음위축증에 국내 허가. 증상에 따라 1일 0.5\~2 g을 질내 적용(CEE 0.3125\~1.25 ㎎에 해당); 허가 용법은 주기적 투여(예: 3주 투약 후 1주 휴약)이며 3\~6개월마다 중단·감량을 시도
+* Estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB2502" title="오베스틴질좌제 0.5㎎">오베스틴 질좌제</a>]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개. 국내 허가사항은 유지 중 매 2\~3개월마다 4주 휴약하여 지속 필요성을 판단하도록 기재함
+* Estriol 질크림 1 ㎎/g <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023011800013" title="유센스질크림 1㎎/g">유센스 질크림</a>]</mark> : 1회 0.5 g(estriol 0.5 ㎎)을 1일 1회 질내 투여. 초기 증상 조절 후 유지 빈도를 줄이며 제품별 허가 용법에 따라 조정
+* Estriol 0.005% 겔(0.05 ㎎/g) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023010200001" title="블리셀겔 0.005%(50㎍/g)">블리셀겔</a>]</mark> : 1회 1 g(estriol 50 ㎍), 취침 시 매일 ×3주 후 주 2회 유지; 12주 이후 지속 여부 재평가. **국내 허가사항상 전신 estrogen과 병용하지 않음**. 오베스틴·유센스의 estriol 0.5 ㎎/회와 혼동하지 않음
+* Conjugated estrogen 질크림 0.625 ㎎/g <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2024070100005" title="프레미나질크림 0.625㎎/g">프레미나질크림</a>]</mark>(다림바이오텍) : 위축성 질염·외음위축증에 국내 허가. 증상에 따라 1일 0.5\~2 g을 질내 적용(CEE 0.3125\~1.25 ㎎에 해당); 허가 용법은 주기적 투여(예: 3주 투약 후 1주 휴약)이며 3\~6개월마다 중단·감량을 시도
   * 전신 흡수가 가능하며, 위 허가 범위 전체를 전신 노출이 미미한 저용량 질 estrogen 요법과 동일하게 간주하지 않음. 최소 유효 용량을 사용하고, 자궁이 있는 환자에서 높은 용량·장기간 사용 시 자궁내막 보호 및 추적 필요성을 개별 평가
 * 국외 제형 예 : estradiol 10 ㎍ 질정(매일 ×2주 후 주 2회). 해당 질정의 국내 유통 제품 없음; 국내 경구·경피 estradiol 제제와 구분
 
@@ -326,8 +344,8 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 #### <mark style="color:$primary;">경구용</mark>
 
-* Micronized progesterone <mark style="color:blue;">\[유트로게스탄 경구용 연질캡슐]</mark> : 지침상 지속요법 100 ㎎/d 또는 주기요법 200 ㎎/d를 매 28일 중 12\~14일. 국내 유트로게스탄 허가용법은 estrogen 주기의 마지막 2주 또는 매달 10\~12일간 200 ㎎/d이므로 **100 ㎎ 지속요법은 허가용법과 구분**. 경구용·질삽입용 제형을 혼동하지 않으며 졸림·어지럼에 주의
-* Medroxyprogesterone acetate(MPA) <mark style="color:blue;">\[프로베라]</mark> : 지속 요법 2.5\~5 ㎎/d; 주기 요법 5\~10 ㎎/d를 매 28일 중 12\~14일 투여
+* Micronized progesterone 경구제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015071300014" title="유트로게스탄연질캡슐 100㎎">유트로게스탄</a>]</mark> : 지침상 지속요법 100 ㎎/d 또는 주기요법 200 ㎎/d를 매 28일 중 12\~14일. 국내 유트로게스탄 허가용법은 estrogen 주기의 마지막 2주 또는 매달 10\~12일간 200 ㎎/d이므로 **100 ㎎ 지속요법은 허가용법과 구분**. 경구용·질삽입용 제형을 혼동하지 않으며 졸림·어지럼에 주의
+* Medroxyprogesterone acetate(MPA) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3770A0075" title="프로베라정 5㎎">프로베라</a>]</mark> : 지속 요법 2.5\~5 ㎎/d; 주기 요법 5\~<a href="https://www.health.kr/drug/A11ABBBBB1687" title="프로베라정10㎎">10 ㎎</a>/d를 매 28일 중 12\~14일 투여
 * Estrogen 용량이 높을수록 충분한 progestogen 용량과 투여 기간이 필요하며, 개별 복합제의 허가용법을 따름
 
 #### <mark style="color:$primary;">질 국소용</mark>
@@ -337,7 +355,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 #### <mark style="color:$primary;">자궁내시스템</mark>
 
-* Levonorgestrel 52 ㎎ LNG-IUS <mark style="color:blue;">\[미레나]</mark> + 전신 estrogen : 자궁내막 보호와 피임이 함께 필요한 경우 고려. 국내 estrogen 대체요법 시 자궁내막 보호 목적은 **5년** 기준으로 교체하며 피임 목적의 연장 사용기간을 그대로 적용하지 않음
+* Levonorgestrel 52 ㎎ LNG-IUS <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1200" title="미레나 52㎎(20㎍/일)">미레나</a>]</mark> + 전신 estrogen : 자궁내막 보호와 피임이 함께 필요한 경우 고려. 국내 estrogen 대체요법 시 자궁내막 보호 목적은 **5년** 기준으로 교체하며 피임 목적의 연장 사용기간을 그대로 적용하지 않음
 * 저함량 LNG-IUS를 같은 자궁내막 보호 용도로 대체하지 않음
 
 ### <mark style="color:orange;">Estrogen & Progestogen 병합 요법</mark>
@@ -349,7 +367,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 * 지속 병합 요법 : 주기적 소퇴 출혈은 감소하지만 초기 부정 출혈이 생길 수 있음; progestogen 종류와 용량에 따라 내약성과 위험이 다름
 * 저용량 estradiol/progestogen 지속 요법 : 최소 유효 용량을 사용하며 증상 반응과 출혈 양상을 추적
-* Estradiol hemihydrate/drospirenone <mark style="color:blue;">\[안젤릭]</mark>
+* Estradiol hemihydrate/drospirenone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP1264" title="안젤릭정 1/2㎎">안젤릭</a>]</mark>
 * Estradiol valerate/MPA <mark style="color:blue;">\[인디비나]</mark>
 * Estradiol hemihydrate/norethisterone acetate <mark style="color:blue;">\[에스디올 하프]</mark>, <mark style="color:blue;">\[크리안]</mark>
 
@@ -358,7 +376,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 * Progestogen 주기적 병합 요법 : 자궁내막의 분비기 변화 후 progestogen 중단에 따른 소퇴성 출혈 발생
 * Long-cycle therapy : 3개월마다 progestogen을 투여하는 방법은 자궁내막 안전성 근거가 부족하므로 일반적으로 권고하지 않음
 * Estradiol valerate/medroxyprogesterone acetate <mark style="color:blue;">\[디비나]</mark> (표시대로 21일간 복용 & 7일간 휴약)
-* Estradiol hemihydrate/dydrogesterone <mark style="color:blue;">\[페모스톤]</mark> (색깔별로 14일 + 14일 순서대로, 휴약 없이 28일 복용; 개시일은 월경·이전 HT 및 제품 설명서에 따라 결정)
+* Estradiol hemihydrate/dydrogesterone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AMMMMM1909" title="페모스톤정1/10">페모스톤</a>]</mark> (색깔별로 14일 + 14일 순서대로, 휴약 없이 28일 복용; 개시일은 월경·이전 HT 및 제품 설명서에 따라 결정)
 
 #### <mark style="color:$primary;">경피용</mark>
 
@@ -372,19 +390,19 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
   * 유방과 자궁내막을 전혀 자극하지 않는다고 단정할 수 없으며, 비정상 자궁 출혈 발생 시 평가 필요
   * 유방암 병력자에서는 재발 위험이 증가함
   * ≥60세에서 투여를 시작하는 경우 뇌졸중 증가 가능성이 있음
-* 마지막 월경 후 적어도 12개월이 지난 폐경 여성에서 사용; 폐경이행기 또는 마지막 월경 후 12개월 이내 사용 시 불규칙 출혈 가능
+* 자연 폐경은 마지막 월경 후 적어도 12개월이 지난 뒤 사용하며, 그 이전에는 불규칙 출혈 가능. 외과적 폐경은 수술 직후 시작 가능하며 별도의 progestogen을 추가하지 않음
 * 금기 : 유방암·estrogen 의존성 종양 병력 또는 의심, 원인 불명 질출혈, VTE·동맥혈전질환 병력, 활동성 간질환 등
-* 용량 : <mark style="color:blue;">\[리비알정 2.5 ㎎]</mark> 1일 1정. 1.25 ㎎/d는 저용량 연구·별도 함량 제품의 요법으로 구분하며 리비알정의 국내 표준 1일 용량과 혼동하지 않음
+* 용량 : <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2009092300016" title="리비알정 2.5㎎">리비알</a> 2.5 ㎎]</mark> 1일 1정. 1.25 ㎎/d는 저용량 연구·별도 함량 제품의 요법으로 구분하며 리비알의 표준 1일 용량과 혼동하지 않음
 
 ### <mark style="color:orange;">Selective estrogen receptor modulator (SERM)</mark>
 
 * 조직에서 선택적으로 estrogen 수용체를 자극하거나 억제
 * Raloxifene과 bazedoxifene 단독제는 폐경 후 골다공증 치료·예방에 사용하며 VMS 치료제가 아님; 안면 홍조를 유발하거나 악화할 수 있음
-* Raloxifene : 60 ㎎ qd <mark style="color:blue;">\[에비스타]</mark>
-* Bazedoxifene : 20 ㎎ qd <mark style="color:blue;">\[비비안트]</mark>
+* Raloxifene : 60 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AHHHHH0378" title="에비스타정 60㎎">에비스타</a>]</mark>
+* Bazedoxifene : 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011111700001" title="비비안트정 20㎎">비비안트</a>]</mark>
 * Ospemifene : 60 ㎎ qd; 중등도\~중증 성교통 및 질 건조 치료에 FDA 승인된 경구 SERM으로 VMS 치료제는 아님; 국내 유통 제품 없음. VTE 위험에 주의하며 유방암 병력자에게는 일반적으로 권고하지 않음
 
-- [ ] Tamoxifen <mark style="color:blue;">\[놀바덱스]</mark>은 SERM 계열이지만, 유방암 치료·예방에 적용하며 폐경 증상 자체의 치료 목적으로 사용하지 않음(오히려 안면 홍조를 유발하는 경우가 흔함)
+- [ ] Tamoxifen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1031" title="놀바덱스정 10㎎">놀바덱스</a>]</mark>은 SERM 계열이지만, 유방암 치료·예방에 적용하며 폐경 증상 자체의 치료 목적으로 사용하지 않음(오히려 안면 홍조를 유발하는 경우가 흔함)
 
 #### <mark style="color:$primary;">Tissue selective estrogen complex (TSEC)</mark>
 
@@ -392,7 +410,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 * CEE는 VMS 완화·골 소실 예방에, bazedoxifene은 자궁내막 보호에 기여. 자궁내막증식증·유방통·출혈 빈도가 낮게 관찰되지만 장기 유방암·심혈관 안전성의 우월성이 확정된 것은 아님
 * 별도의 estrogen·progestogen·SERM을 추가하지 않으며, VTE 병력·혈전성향·원인 불명 출혈·estrogen 의존성 암·간질환 등 금기를 확인
 * 자궁을 절제하지 않은 여성에서 폐경과 관련된 VMS 치료 및 폐경 후 골다공증 예방
-* Bazedoxifene 20 ㎎ + CEE 0.45 ㎎ qd, 식사 무관 복용 <mark style="color:blue;">\[듀아비브]</mark>
+* Bazedoxifene 20 ㎎ + CEE 0.45 ㎎ qd, 식사 무관 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014072800047" title="듀아비브정 0.45/20㎎">듀아비브</a>]</mark>
 
 ### <mark style="color:orange;">Testosterone</mark>
 
@@ -417,7 +435,7 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
 
 * Paroxetine : 7.5\~25 ㎎/d <mark style="color:blue;">\[세로자트]</mark> (✽미국에서 VMS에 승인된 제제는 paroxetine mesylate 7.5 ㎎; 국내 제제의 VMS 치료는 허가 외 사용)
 * Venlafaxine 서방형 : 37.5 ㎎/d ×1주 후 통상 75 ㎎/d; VMS만을 위해 고용량을 일률적으로 사용하지 않으며 혈압·중단 증상에 주의 <mark style="color:blue;">\[이팩사]</mark>
-* Desvenlafaxine : 시작 25\~50 ㎎/d, VMS 연구 용량 통상 100\~150 ㎎/d; 오심·혈압·신기능·제품별 함량을 고려 <mark style="color:blue;">\[프리스틱]</mark>
+* Desvenlafaxine : 시작 25\~50 ㎎/d, VMS 연구 용량 통상 <a href="https://www.health.kr/drug/2014020700003" title="프리스틱서방정100㎎">100</a>\~150 ㎎/d; 오심·혈압·신기능·제품별 함량을 고려 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014020700002" title="프리스틱서방정 50㎎">프리스틱</a>]</mark>
 * Escitalopram : 10(시작)\~20 ㎎/d; 민감·고령 환자는 5 ㎎/d 시작, 고령자 최대 10 ㎎/d(QT 연장에 대한 유럽 규제 권고 반영) <mark style="color:blue;">\[렉사프로]</mark>
 
 * SSRI/SNRI 공통 : 오심, 성 기능 장애, 저나트륨혈증·출혈 위험, 세로토닌성 약물 상호작용에 주의. 효과·내약성을 보고 조정하고 중단 시 서서히 감량
@@ -438,8 +456,8 @@ _¹⁾ VMS에 대하여 FDA 승인된 SSRI는 paroxetine mesylate 7.5 ㎎ 제제
   * VMS 감소 효과가 있으나 골다공증·GSM의 치료제로 사용하지 않음; 효과 크기는 연구·평가 시점에 따라 다름
   * 중대한 간손상 위험 : 시작 전 ALT/AST/ALP 및 total/direct bilirubin을 측정하고 첫 3개월 매월, 이후 6개월과 9개월에 재검. ALT/AST 또는 total bilirubin ≥2배 ULN이면 시작하지 않으며, ALT/AST ＞5배 ULN 또는 ＞3배 ULN과 total bilirubin ＞2배 ULN 동반 시 중단. 간손상 의심 증상 발생 시 즉시 중단·검사; 간경변, 중증 신장애·말기신장질환, CYP1A2 억제제 병용 시 금기
 * Elinzanetant : NK1/NK3 이중 수용체 대항제; 120 ㎎(60 ㎎ 캡슐 2개) 취침 전 qd; 중등도\~중증 VMS에 대하여 FDA 승인; 국외 허가 요법이며 국내 유통 제품 없음
-  * 시작 전 간기능 검사 후 3개월에 재검; 졸림·어지러움·주간 기능 저하, 간 효소 상승 및 발작 위험에 주의하고 임신 중 사용 금기. ALT/AST 또는 total bilirubin ≥2배 ULN이면 시작하지 않으며, 간손상 의심 증상은 즉시 중단·평가. 가임 가능 여성은 시작 전 임신을 배제하고 치료 중 및 중단 후 2주간 효과적 피임. 2026년 8월 개정 라벨은 발작 위험을 명시하며 발작 병력·역치 저하 환자에 주의. 중등도~중증 간장애와 말기 신장질환에서는 권장하지 않음
-  * 강한 CYP3A4 억제제와 grapefruit는 병용을 피하고, 중등도 CYP3A4 억제제 병용 시 60 ㎎ qd로 감량; 강한·중등도 CYP3A4 유도제 병용 회피
+  * 시작 전 간기능 검사 후 3개월에 재검; 졸림·어지러움·주간 기능 저하, 간 효소 상승 및 발작 위험에 주의하고 임신 중 사용 금기. ALT/AST 또는 total bilirubin ≥2배 ULN이면 시작하지 않으며, ALT/AST ＞5배 ULN 또는 ＞3배 ULN과 total bilirubin ＞2배 ULN 동반 시 중단. 간손상 의심 증상도 즉시 중단·평가. 가임 가능 여성은 시작 전 임신을 배제하고 치료 중 및 중단 후 2주간 효과적 피임. 2026년 8월 개정 라벨은 발작 위험을 명시하며 발작 병력·역치 저하 환자에 주의. 중등도~중증 간장애와 말기 신장질환에서는 권장하지 않음
+  * 강한 CYP3A4 억제제와 grapefruit는 병용을 피하고, 중등도 CYP3A4 억제제 병용 시 60 ㎎ qd로 감량; 강한·중등도 CYP3A4 유도제 병용 회피. 작은 농도 변화로 중대한 이상반응을 일으킬 수 있는 CYP3A4 기질과의 병용도 해당 기질 약제의 설명서에 따라 피함
 
 ### <mark style="color:orange;">대체 요법</mark>
 
@@ -477,7 +495,7 @@ _**Level I**: good and consistent scientific evidence **Level II**: limited or i
 * 치료 시작 3개월 후 효과·부작용·출혈 양상·순응도를 평가하고 이후 매년 재평가; 임상적 문제가 있으면 더 일찍 평가
 * 국가 권고·개인 위험에 따른 자궁경부암·유방암 검진을 유지. 국내 학회의 골반 초음파 권고와 국제 지침을 구분하여 개별화하고, 무증상 저위험 여성에게 자궁내막 조직검사를 일률적으로 시행하지 않음
 * HT 중단 시 VMS 재발 가능성을 설명하고 감량 또는 즉시 중단을 선호·상황에 따라 선택. 골 보호 효과도 감소하므로 골절 위험이 높으면 골다공증 치료를 재평가
-* 전신 HT 초기 출혈도 양·지속 기간·위험 인자를 평가함. 시작 후 6개월 또는 변경 후 3개월을 벗어난 예상 밖 출혈, 어느 시점이든 과다·지속 출혈이나 고위험 소견은 조기 자궁내막 평가(☞ 「비정상 자궁 출혈」); 자발성 PMB는 대부분 TVUS와 조직검사를 함께 시행하는 ACOG 2026 원칙 적용
+* 전신 HT 초기 출혈도 양·지속 기간·위험 인자를 평가함. 시작 후 6개월 또는 변경 후 3개월을 벗어난 예상 밖 출혈, 어느 시점이든 과다·지속 출혈이나 고위험 소견은 조기 자궁내막 평가(☞ [비정상 자궁 출혈](../227_/129_-abnormal-uterine-bleeding.md)); 자발성 PMB는 대부분 TVUS와 조직검사를 함께 시행하는 ACOG 2026 원칙 적용
 * 부정 출혈 평가에서 기질적 질환이 배제되면 estrogen-progestogen 용량·순응도·투여 방식의 균형을 조정하거나 다른 병합제·TSEC·tibolone 등을 고려
 * progestogen 관련 부종·여드름·기분 변화·어지러움 등이 지속되면 용량·종류·투여 경로 변경을 고려
 
@@ -489,7 +507,7 @@ _**Level I**: good and consistent scientific evidence **Level II**: limited or i
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 N95.0 폐경후 출혈 Postmenopausal bleeding
 
@@ -518,16 +536,20 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 > **처방례 2. 자궁 적출 상태**
 >
 > ```
-> 프로기노바 1 ㎎/T  1T  qd
+> 프로기노바28정 1 ㎎/T  1T  qd  식후 (휴약 없이 복용)
 > ```
 >
-> _✽자궁을 적출한 경우 progestogen 병합 없이 estrogen 단독 요법 시행_
+> 약제 정보: [프로기노바28정 1㎎](https://www.health.kr/drug/A11AOOOOO0606)
+>
+> _✽자궁을 전절제하고 잔존 자궁내막증 등 별도 병합 고려 사유가 없는 경우 estrogen 단독 요법 시행. 중증 고중성지방혈증·중증 신질환 또는 심질환 등 프로기노바28의 품목별 금기도 제외_
 
 > **처방례 3. 마지막 월경 후 12개월 이상 지난 여성에서 tibolone을 선택하는 경우**
 >
 > ```
-> 리비알 2.5 ㎎/T  1T  qd
+> 리비알정 2.5 ㎎/T  1T  qd
 > ```
+>
+> 약제 정보: [리비알정 2.5㎎](https://www.health.kr/drug/2009092300016)
 >
 > _✽tibolone(STEAR); 전통적 병합 HT보다 불규칙 질 출혈과 유방 통증이 적을 수 있으나 전신 HT와 금기를 상당 부분 공유함; 유방암 병력자는 금기이며 ≥60세 시작 시 뇌졸중 위험에 주의_
 
@@ -536,6 +558,8 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 > ```
 > 오베스틴 질좌제 0.5 ㎎  취침 시 질내 삽입  매일 ×3주 → 이후 주 2회 유지
 > ```
+>
+> 약제 정보: [오베스틴질좌제 0.5㎎](https://www.health.kr/drug/A11ABBBBB2502)
 >
 > _✽estriol 질좌제; 국내 허가사항상 유지 중 매 2~3개월마다 4주 휴약하여 지속 필요성을 평가함. 저용량 국소 치료의 전신 흡수가 적어 자궁이 있는 경우에도 progesterone 병용이 필요하지 않으며, 정기적인 자궁내막 검사도 필요하지 않음(비정상 출혈 등 증상이 있을 때만 평가); estradiol 겔(에스트레바 겔, 디비겔 등)은 경피 흡수용 제제로 질 국소 치료에는 사용하지 않음_
 
@@ -546,11 +570,13 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 > → 반응·내약성에 따라 75 ㎎/d로 증량
 > ```
 >
+> 약제 정보: [이팩사엑스알서방캡슐 37.5㎎](https://www.health.kr/drug/A11ADDDDD0700) · [이팩사엑스알서방캡슐75㎎](https://www.health.kr/drug/A11ABBBBB1493)
+>
 > _✽venlafaxine 서방형; 국내 VMS 치료는 허가 외 사용. 처방 전 혈압·신기능·병용약을 평가하고 오심·혈압 상승·중단 증상에 주의; 중단 시 감량. Tamoxifen 사용자는 paroxetine·fluoxetine 대신 이 약 또는 escitalopram 등을 고려_
 
 ***
 
-## <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark> <a id="medication-counseling"></a>
 
 > **HT 복약 지도 - 복용 원칙**
 >
@@ -565,6 +591,11 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 > * HT 시작 후 첫 6개월 이내, 또는 용량·제제를 변경한 후 3개월 이내에 발생하는 소량 부정 출혈은 흔히 발생하며 그 자체로 자궁내막 조직검사가 필수는 아님을 안내
 > * 이 기간을 벗어난 출혈은 신속히 재내원하도록 안내. 초기라도 출혈이 많거나 오래 지속되거나 암 위험 인자가 있으면 기다리지 않고 평가
 
+> **비호르몬 약물 복용 안내**
+>
+> * Venlafaxine 서방캡슐은 음식과 함께 일정한 시간에 통째로 복용하고 부수거나 씹지 않음. 임의로 갑자기 중단하지 않고 감량 계획을 상의
+> * 혈압 상승·심한 어지럼 등 이상반응을 알리고, 졸림이 있으면 운전·위험 작업을 피하도록 안내
+
 > **질 국소 제형 사용법**
 >
 > * 프레미나질크림은 처방된 g 용량을 지키며, 오베스틴의 주 2회 유지법을 그대로 적용하지 않음.
@@ -575,13 +606,13 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 자연 폐경 후 새 질 출혈 - 소량이라도 조속히 진료; 다량 출혈·실신·심한 어지럼이면 응급실
-> * HT 사용 중 한쪽 다리의 부종·통증, 갑작스런 흉통·호흡곤란, 편측 위약·언어장애 - 즉시 내원 또는 응급실
+> * 한쪽 다리의 새 부종·통증 - 당일 평가; 갑작스러운 흉통·호흡곤란, 편측 위약·언어장애 - 즉시 119 또는 응급실
 > * 새 유방 종괴·혈성/편측 자발성 유두 분비물 - 조속히 진료
 > * 표준 치료 4\~8주 후에도 안면 홍조 등 증상이 호전되지 않는 경우
 
 ***
 
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### <mark style="color:orange;">〈임상 근거〉</mark>
 
@@ -607,11 +638,11 @@ M81.0 폐경후골다공증 Postmenopausal osteoporosis
 * 건강보험심사평가원. [보험인정기준](https://www.hira.or.kr/). 폐경 후 호르몬요법 및 약제별 급여 기준 확인.
 * MHRA. [Citalopram and escitalopram: QT interval prolongation](https://www.gov.uk/drug-safety-update/citalopram-and-escitalopram-qt-interval-prolongation). 고령자 용량 제한.
 
-<mark style="color:$info;">검토 기준일: 2026-10-27. 국내 품목허가와 국외 지침이 다른 항목은 구분하여 기재함.</mark>
+<mark style="color:$info;">검토 기준일: 2026-11-10. 국내 품목허가와 국외 지침이 다른 항목은 구분하여 기재함.</mark>
 
 ***
 
-## <mark style="color:blue;">환자 안내서</mark>
+### <mark style="color:blue;">환자 안내서</mark> <a id="patient-guide"></a>
 
 {% hint style="info" %}
 **폐경기증후군, 자연스러운 변화이지만 관리가 필요합니다**

@@ -15,7 +15,7 @@
 #### <mark style="color:$primary;">합병증 발생 시기</mark>
 
 * 고혈당 노출 기간이 길수록 합병증 위험이 증가하지만 발생 시점은 다양하며, 무증상이라는 이유로 선별검사를 늦추지 않음
-* 알부민뇨와 eGFR 감소의 순서는 일정하지 않고 비알부민뇨성 DKD도 존재함. T2DM은 진단 당시 이미 콩팥병이 있을 수 있어 유병기간 10~15년을 기다려 검사하지 않음 (☞ [단백뇨](../227_/111_-proteinuria.md#undefined-1))
+* 알부민뇨와 eGFR 감소의 순서는 일정하지 않고 비알부민뇨성 DKD도 존재함. T2DM은 진단 당시 이미 콩팥병이 있을 수 있어 유병기간 10~15년을 기다려 검사하지 않음 (☞ [단백뇨](../227_/111_-proteinuria.md))
 * 대혈관 합병증은 T2DM 진단 시 이미 존재하는 경우도 많음
 
 #### <mark style="color:$primary;">합병증 선별검사</mark>
@@ -66,10 +66,10 @@ _\* PAD 무증상 고위험군 (PAD 진단이 치료 방침을 바꿀 때 ABI �
 
 **항혈소판제**
 
-* 증상성 PAD 또는 ASCVD 동반 : aspirin 100 ㎎ qd <mark style="color:blue;">\[아스피린 프로텍트]</mark> 또는 clopidogrel 75 ㎎ qd <mark style="color:blue;">\[플라빅스]</mark>
+* 증상성 PAD 또는 ASCVD 동반 : aspirin 100 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1375" title="아스피린프로텍트정 100㎎">아스피린 프로텍트</a>]</mark> 또는 clopidogrel 75 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0533" title="플라빅스정 75㎎">플라빅스</a>]</mark>
 * Aspirin 알레르기 등으로 사용하기 어려운 경우 clopidogrel 고려; 출혈 위험·상호작용 평가
 * 무증상 ABI 감소만 존재 : 이익·출혈 위험을 비교하여 개별화. 2024 ACC/AHA는 단일 항혈소판제 사용을 합리적 선택으로 보지만, 무증상 당뇨병 환자 모두에게 일률 처방하는 근거는 충분하지 않음
-* 출혈 고위험이 아닌 증상성 PAD, 특히 재혈관화 후에는 rivaroxaban 2.5 ㎎ bid <mark style="color:blue;">[자렐토]</mark> + 저용량 aspirin으로 MACE·MALE 감소를 고려. 별도의 항응고 적응증·DAPT 여부와 신기능·출혈 금기를 확인하며, 심방세동용 항응고 용량과 혼용하지 않음. 국내 허가와 급여 인정 범위는 구분  <mark style="color:$info;">[ACC/AHA PAD 2024]</mark>
+* 출혈 고위험이 아닌 증상성 PAD, 특히 재혈관화 후에는 rivaroxaban 2.5 ㎎ bid <mark style="color:blue;">[<a href="https://www.health.kr/drug/2013081400002" title="자렐토정 2.5㎎">자렐토</a>]</mark> + 저용량 aspirin으로 MACE·MALE 감소를 고려. 별도의 항응고 적응증·DAPT 여부와 신기능·출혈 금기를 확인하며, 심방세동용 항응고 용량과 혼용하지 않음. 국내 허가와 급여 인정 범위는 구분  <mark style="color:$info;">[ACC/AHA PAD 2024]</mark>
 
 **혈당·혈압·지질** 통합 관리
 
@@ -88,7 +88,7 @@ _\* PAD 무증상 고위험군 (PAD 진단이 치료 방침을 바꿀 때 ABI �
 
 * 감독하 보행 훈련을 회당 총 30\~45분의 실제 운동, 주 3회 이상, 12주 이상 시행. 통증·휴식을 반복하여 점차 증량하며 발 궤양·안정 시 통증·급성 허혈이 있으면 먼저 해당 상태 평가
 * 감독 프로그램이 어려우면 행동 중재·추적을 포함한 구조화된 가정/지역사회 운동을 고려. 재혈관화와 운동의 이익은 환자군·평가 지표에 따라 달라 일률적으로 동등하다고 설명하지 않음
-* 일상생활을 제한하는 파행에는 cilostazol <mark style="color:blue;">[프레탈]</mark> 고려. **심부전은 금기**이며, 국내 허가상 증식당뇨망막병증 등 출혈 소인도 금기이므로 확인. 생활습관·혈관 위험 관리와 운동에도 증상이 지속되거나 사지 위협 허혈이 있으면 재혈관화 평가
+* 일상생활을 제한하는 파행에는 cilostazol <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A4270A0009" title="프레탈정50㎎">프레탈</a>]</mark> 고려. **심부전은 금기**이며, 국내 허가상 증식당뇨망막병증 등 출혈 소인도 금기이므로 확인. 생활습관·혈관 위험 관리와 운동에도 증상이 지속되거나 사지 위협 허혈이 있으면 재혈관화 평가
 
 ***
 
@@ -153,8 +153,8 @@ _\* PAD 무증상 고위험군 (PAD 진단이 치료 방침을 바꿀 때 ABI �
 * GLP-1 RA : T2DM+CKD에서 이익이 입증된 성분을 신장병 진행 및 심혈관 위험 감소 목적으로 권고. SGLT2i 불가 또는 혈당 목표 미달에만 국한하지 않으며 동반 질환·체중·내약성에 따라 병용을 고려  <mark style="color:$info;">[ADA 2026, CKD]</mark>
   * FLOW trial (2024) : semaglutide 1 ㎎ 주 1회 → T2DM + CKD 환자에서 신장 기능 악화(eGFR 50% 이상 감소)·신부전·신장 관련 사망·심혈관 사망을 포함한 복합 위험을 24% 감소(HR 0.76); 미국 FDA 2025년 승인에 이어 국내에도 T2DM+CKD의 eGFR 지속 감소·말기신장병·심혈관 사망 위험 감소 적응증이 반영됨
 * Aspirin : 확인된 ASCVD의 2차 예방에 사용. 1차 예방은 심혈관 위험과 출혈 위험을 비교하여 선택하며, CKD 자체만으로 일률적으로 투여하지 않음
-* Finerenone <mark style="color:blue;">[케렌디아]</mark> — 아래는 **T2DM+CKD 적응증**의 용법임
-  * 시작 전 K·eGFR 확인: eGFR ≥60은 20 ㎎ qd, 25~＜60은 10 ㎎ qd; ＜25에서 신규 시작하지 않음. K ＞5.0 mmol/L이면 시작하지 않으며 4.8＜K≤5.0에서는 첫 4주 내 추가 모니터링하에 고려
+* Finerenone <mark style="color:blue;">[<a href="https://www.health.kr/drug/2022051100011" title="케렌디아정 10㎎">케렌디아</a>]</mark> — 아래는 **T2DM+CKD 적응증**의 용법임
+  * 시작 전 K·eGFR 확인: eGFR ≥60은 <a href="https://www.health.kr/drug/2022051100010" title="케렌디아정20㎎">20 ㎎</a> qd, 25~＜60은 10 ㎎ qd; ＜25에서 신규 시작하지 않음. K ＞5.0 mmol/L이면 시작하지 않으며 4.8＜K≤5.0에서는 첫 4주 내 추가 모니터링하에 고려
   * 시작·재시작·증량 **4주 후 K·eGFR** 확인, 이후 대개 4개월 간격으로 추적하되 고위험·병용약 변경 시 더 자주 검사
   * K ＞5.5이면 보류, ≤5.0으로 회복하면 10 ㎎ qd로 재시작. 10 ㎎ 복용 중 K ≤4.8이고 직전 대비 eGFR 감소 ＜30%이면 20 ㎎으로 증량; 4.8＜K≤5.5이면 현재 용량 유지. eGFR ＜15로 진행하면 중단
   * 강력한 CYP3A4 억제제(예: clarithromycin·ritonavir) 병용 금기, 강력/중등도 CYP3A4 유도제 회피; K 보충제·다른 MRA 등 고칼륨혈증 유발 약제 점검. 심부전(LVEF ≥40%) 적응증의 목표용량·K 조절표와 혼용하지 않음  <mark style="color:$info;">[국내 품목허가정보]</mark>
@@ -180,30 +180,23 @@ _\* PAD 무증상 고위험군 (PAD 진단이 치료 방침을 바꿀 때 ABI �
 ***
 
 ```mermaid
-graph LR
-    A["<u>생활습관 중재 + 
-    자가 관리</u><br/>식이 조절·운동·
-    금연·체중 조절"]
-    B["<u>기초 치료를 적응증별로 선택</u><br/>SGLT2i (장기 보호 목적; 국내 시작 기준 empagliflozin≥20, dapagliflozin≥25)<br/>Metformin (혈당 조절 목적; 신규 시작과 기존 유지·감량 및 국내 품목 기준 구분) · RAS 차단제 · Statin<br/><i>※ KDA 2025: 장기 보호 적응증 시 
-    Metformin 병용 여부와 
-    무관하게 SGLT2i 우선</i>"]
-    C["<u>심장·신장 보호 약물 조기 병합</u><br/>ns-MRA/finerenone
-    (알부민뇨 지속 시)<br/>GLP-1 RA (이익 입증 성분의 심혈관·신장 보호; SGLT2i와 병용 고려)"]
-    D["<u>위험 요소 통합 관리</u><br/>혈당·혈압·
-    지질 목표 달성"]
-    E["<u>위험도에 따라 추적</u><br/>약제 시작·증량 후에는 조기 검사<br/>혈압·uACR·
-    eGFR·s-K 모니터링"]
+graph TD
+    A["<u>생활습관 중재 + 자가 관리</u><br/>식이 조절·운동· 금연·체중 조절"]
+    B["<u>기초 치료를 적응증별로 선택</u><br/>•SGLT2i (장기 보호 목적; 국내 시작 기준 empagliflozin≥20, dapagliflozin≥25)<br/>•Metformin (혈당 조절 목적; 신규 시작과 기존 유지·감량 및 국내 품목 기준 구분) · RAS 차단제 · Statin<br/><i>※ KDA 2025: 장기 보호 적응증 시 Metformin 병용 여부와 무관하게 SGLT2i 우선</i>"]
+    C["<u>심장·신장 보호 약물 조기 병합</u><br/>•ns-MRA/finerenone (알부민뇨 지속 시)<br/>GLP-1 RA (이익 입증 성분의 심혈관·신장 보호; SGLT2i와 병용 고려)"]
+    D["<u>위험 요소 통합 관리</u><br/>•혈당·혈압· 지질 목표 달성"]
+    E["<u>위험도에 따라 추적</u><br/>•약제 시작·증량 후에는 조기 검사<br/>•혈압·uACR· eGFR·s-K 모니터링"]
 
     A ---> B ---> C ---> D ---> E
 
-    style A fill:#c8a05a,stroke:#8a6020,color:#fff
-    style B fill:#b07820,stroke:#8a6020,color:#fff
-    style C fill:#986010,stroke:#8a6020,color:#fff
-    style D fill:#7a4800,stroke:#8a6020,color:#fff
-    style E fill:#e8c060,stroke:#8a6020,color:#fff
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style B fill:#e3f2ff,stroke:#2196f3
+    style C fill:#e3f2ff,stroke:#2196f3
+    style D fill:#e3f2ff,stroke:#2196f3
+    style E fill:#e3f2ff,stroke:#2196f3
 ```
 
-<p align="center"><strong>CKD 환자의 신장-심장 위험 인자 관리</strong></p>
+<p align="center"><strong>CKD 환자의 신장·심장 위험 인자 관리 — 저자 재구성 (KDIGO 2024; KDA 2025; ADA 2026)</strong></p>
 
 ***
 
@@ -289,13 +282,13 @@ graph LR
 
 * 최적의 혈당·혈압·지질 통합 관리; 금연, 규칙적 운동, 건강 식단
 * **중심부 침범 DME+시력 저하**에서는 anti-VEGF 유리체내 주입이 일차 치료. 중심부 침범이 있어도 시력이 양호하면 면밀한 관찰 또는 레이저 후 악화 시 주입하는 전략을 선택할 수 있어 부종만으로 모두 즉시 주사하지 않음
-  * bevacizumab(off-label) <mark style="color:blue;">\[아바스틴]</mark>, ranibizumab <mark style="color:blue;">\[루센티스]</mark>, aflibercept <mark style="color:blue;">\[아일리아]</mark>, brolucizumab <mark style="color:blue;">\[비오뷰]</mark>, faricimab <mark style="color:blue;">\[바이스모]</mark>
+  * bevacizumab(off-label) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP2635" title="아바스틴주(4㎖)">아바스틴</a>]</mark>, ranibizumab <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017010400044" title="루센티스프리필드시린지(0.5㎎/0.05㎖)">루센티스</a>]</mark>, aflibercept <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013032100007" title="아일리아프리필드시린지">아일리아</a>]</mark>, brolucizumab <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020072900003" title="비오뷰프리필드시린지">비오뷰</a>]</mark>, faricimab <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023012500001" title="바비스모주">바이스모</a>]</mark>
   * faricimab은 VEGF-A/Ang-2 이중 억제제, aflibercept 8 ㎎은 고용량 VEGF 억제제임. 초기 투여 후 해부학적·시력 반응과 국내 품목별 용법에 따라 투여 간격을 연장하며, 두 약제를 모두 동일한 16주 고정 간격으로 처방하지 않음
   * Brolucizumab은 안구 내 염증·망막혈관염/혈관폐쇄 위험을 고려하여 선택. Bevacizumab의 유리체내 투여는 허가 외 사용임
 * 고위험 PDR 및 일부 중증 NPDR : 범망막광응고(PRP). 일부 PDR은 anti-VEGF로 치료 가능하나 반복 주입·지속 추적이 전제되며 추적 탈락 위험을 고려하여 PRP와 선택/병합
 * DME에서 anti-VEGF 반응 불충분·사용 곤란 등은 덱사메타손 임플란트 등 선택적 치료 고려. 안압 상승·백내장 위험을 평가하며 모든 황반부종에서 anti-VEGF와 동등한 일차 선택으로 제시하지 않음
 * Vitrectomy : traction 망막박리, 유리체 출혈
-* Calcium dobesilate : 국내 당뇨병성 망막병증 허가가 있으나 시력 손상·DME 예방에 대한 일상적 사용 근거는 제한적(CALDIRET에서 DME 예방 효과 미입증). 표준 안과 치료를 대체하지 않으며 보조적 사용 여부 개별 결정. <mark style="color:blue;">[일성독시움정]</mark> 250 ㎎, 망막병증 허가용량 500\~1,000 ㎎/d, 식후 투여
+* Calcium dobesilate : 국내 당뇨병성 망막병증 허가가 있으나 시력 손상·DME 예방에 대한 일상적 사용 근거는 제한적(CALDIRET에서 DME 예방 효과 미입증). 표준 안과 치료를 대체하지 않으며 보조적 사용 여부 개별 결정. <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1130A0224" title="일성독시움정 250㎎">일성독시움</a>]</mark> 250 ㎎, 망막병증 허가용량 500\~1,000 ㎎/d, 식후 투여
 * 이상지질혈증+초기 DR에서는 fenofibrate가 진행을 늦출 수 있으나 국내 망막병증 적응증과 구분하고 신기능·statin 병용 위험을 평가. Statin은 심혈관 적응증에 따라 유지
 * 시력 손상으로 자가관리가 어려우면 저시력 재활·보조기기와 투약/혈당측정 지원 고려
 
@@ -379,12 +372,12 @@ GLP-1 기반 치료 등 혈당 조절을 강화할 때 망막병증 상태를 �
 
 <table data-header-hidden data-search="false"><thead><tr><th width="552.71435546875">문항</th><th width="55"></th><th width="73.5714111328125"></th></tr></thead><tbody><tr><td><ol><li>발 또는 다리에 저린 느낌이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="2"><li>발 또는 다리에 화끈거리는 통증을 느낀 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="3"><li>발에 무엇이 닿을 때 과민하게 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="4"><li>발 또는 다리에 갑자기 쥐가 납니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="5"><li>발 또는 다리에 찌르는 듯한 느낌을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="6"><li>피부에 이불이 닿을 때 아픔을 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="7"><li>목욕할 때 뜨거운 물과 차가운 물을 구분할 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="8"><li>발에 까진 상처가 생긴 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="9"><li>의사로부터 '당뇨병신경병증'이라는 진단을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="10"><li>평소 몸 전체에 힘이 없다고 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="11"><li>다리나 발의 증상이 밤에 더 심해집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="12"><li>걸을 때 다리가 아픕니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="13"><li>걸을 때 발의 감각을 느낄 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="14"><li>발의 피부가 너무 건조해서 자주 갈라집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="15"><li>발이나 발가락을 절단하는 수술을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr></tbody></table>
 
-* 배점 : 7번과 13번 '아니오'=1점, 나머지 '예'=1점; 4번(순환장애)과 10번(전신 쇠약감)은 최종 점수에 포함하지 않음 (13점 만점)
+* 배점 : 7번과 13번 '아니오'=1점, 나머지 '예'=1점; 4번(근육 경련)과 10번(전신 쇠약감)은 최종 점수에 포함하지 않음 (13점 만점)
 * 판정 : 설문 ≥7점은 전통적 기준이나 민감도가 낮음; ≥4점이 선별 성능을 높였다는 DCCT/EDIC 검증 결과가 있음. 사용하는 한국어 검증판의 절단값을 따르고 낮은 점수만으로 배제하지 않음
 
 2. <mark style="color:cyan;">**신체검사 (Examination)**</mark>
 
-<table><thead><tr><th width="379.047607421875">검사 항목</th><th width="229.5238037109375">좌측/우측 각각</th></tr></thead><tbody><tr><td>1. 발의 외형 (변형/건조 피부/굳은살/감염/열창)</td><td>정상=0 / 비정상=1</td></tr><tr><td>2. 발 궤양</td><td>정상=0 / 비정상=1</td></tr><tr><td>3. 발목 반사</td><td>있음=0 / 강화법에서만 유발=0.5 / 강화해도 없음=1</td></tr><tr><td>4. 엄지발가락 진동 감각¹⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>5. 10 g 모노필라멘트²⁾</td><td>정상=0 / 감소=0.5 / 없음=1</td></tr></tbody></table>
+<table><thead><tr><th width="379.047607421875">검사 항목</th><th width="229.5238037109375">좌측/우측 각각</th></tr></thead><tbody><tr><td>1. 발의 외형 (변형/건조 피부/굳은살/감염/균열)</td><td>정상=0 / 비정상=1</td></tr><tr><td>2. 발 궤양</td><td>정상=0 / 비정상=1</td></tr><tr><td>3. 발목 반사</td><td>있음=0 / 강화법에서만 유발=0.5 / 강화해도 없음=1</td></tr><tr><td>4. 엄지발가락 진동 감각¹⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>5. 10 g 모노필라멘트²⁾</td><td>정상=0 / 감소=0.5 / 없음=1</td></tr></tbody></table>
 
 _¹⁾ 엄지발가락 진동 감각 : 128 Hz tuning fork를 IP(엄지발가락 지간관절) 등쪽 뼈 돌출부에 대고, 환자가 진동이 멈췄다고 할 때 즉시 검사자 손가락 관절에 대어 잔여 진동 시간이 ＜10초 시 '있음', ≥10초 시 '약함'; 환자가 처음부터 진동을 감지하지 못하면 '없음'._\
 _²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 등쪽 nail fold\~IP joint 사이에 수직으로 ＜1초 적용. 10번 시도 중 8번 이상 '예' → 정상, 1\~7번 → 감소, 0번 → 없음; 발 온도 ＞30℃ 상태에서 시행._
@@ -402,13 +395,13 @@ _²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 등쪽 
 ### <mark style="color:orange;">약물 치료 - 통증 조절</mark>
 
 * 통증성 DPN에 대한 약물 치료는 증상(통증) 완화가 목적이며, 이미 진행된 신경 손상을 되돌리거나 신경병증의 자연 경과 자체를 바꾸는 치료는 아님 - 진행 억제를 위해 혈당뿐 아니라 체중·혈압·지질 및 생활습관을 함께 관리함
-* 초기 약물은 gabapentinoid(pregabalin·gabapentin), SNRI(duloxetine), TCA 등에서 동반 질환·부작용·비용에 따라 선택. Pregabalin·duloxetine은 국내 DPN 적응증이 있으며 gabapentin은 국내 말초 신경병증성 통증 허가 범위에 따라 사용 가능; 미국 DPN 개별 승인 유무로 국내 허가를 판단하지 않음. TCA는 고령·심혈관 환자의 항콜린·심장 부작용에 주의 (☞ [통증](../220_/001_-pain.md#undefined-8))
+* 초기 약물은 gabapentinoid(pregabalin·gabapentin), SNRI(duloxetine), TCA 등에서 동반 질환·부작용·비용에 따라 선택. Pregabalin·duloxetine은 국내 DPN 적응증이 있으며 gabapentin은 국내 말초 신경병증성 통증 허가 범위에 따라 사용 가능; 미국 DPN 개별 승인 유무로 국내 허가를 판단하지 않음. TCA는 고령·심혈관 환자의 항콜린·심장 부작용에 주의 (☞ [통증](../220_/001_-pain.md))
 * Gabapentinoid : 저용량 시작 후 신기능에 맞추어 증량. 초기 효과와 부작용은 조기에 확인하고 충분한 용량·기간의 치료 후 평가하며, 효과 평가를 무조건 2개월 이후로 미루지 않음. 어지럼·졸음·부종·낙상에 주의
 * Duloxetine : 간질환으로 인한 간기능장애, CrCl ＜30 또는 투석 환자는 국내 허가상 금기. 오심을 줄이기 위해 30 ㎎ qd로 시작하여 내약성에 따라 보통 1주 후 60 ㎎ qd로 증량; 증량 속도는 개별화  <mark style="color:$info;">[국내 품목허가정보]</mark>
 * TCA : 항콜린 부작용으로 ≥65세, 전립선 비대, 녹내장, 심혈관 질환에서 신중 사용
 * Na channel blocker는 대안이 될 수 있으나 개별 약물의 근거·위해가 다름. Lamotrigine·lacosamide·oxcarbazepine을 모두 유효한 표준 DPN 처방으로 나열하지 않으며, 국내 DPN 허가 외 사용 여부와 발진·저나트륨혈증·심전도 위험 등을 검토하여 전문의와 선택
-* α-lipoic acid <mark style="color:blue;">[치옥타시드]</mark>, γ-linolenic acid <mark style="color:blue;">[에보프림]</mark> : 일부 증상 완화 자료가 있으나 신경 손상 회복·장기 질병 경과 변경 효과가 확립된 치료로 설명하지 않음. 보조적으로 고려하며 표준 통증 치료를 대체하지 않음
-* Capsaicin : 국내 <mark style="color:blue;">[다이악센크림]</mark>은 capsaicin으로서 **0.075%**, 1일 3~4회 도포하는 저농도 크림. 해외 capsaicin **8% 패치**(의료진이 적용하는 별도 제제, 미국 DPN 적응증 승인)와 제형·농도·용법을 혼용하지 않음
+* α-lipoic acid <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1310A0255" title="치옥타시드정200㎎">치옥타시드</a>]</mark>, γ-linolenic acid <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0113" title="에보프림연질캡슐 450㎎(GLA 40㎎)">에보프림</a>]</mark> : 일부 증상 완화 자료가 있으나 신경 손상 회복·장기 질병 경과 변경 효과가 확립된 치료로 설명하지 않음. 보조적으로 고려하며 표준 통증 치료를 대체하지 않음
+* Capsaicin : 국내 <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AMMMMM0570" title="다이악센크림 0.075%">다이악센크림</a>]</mark>은 capsaicin으로서 **0.075%**, 1일 3~4회 도포하는 저농도 크림. 해외 capsaicin **8% 패치**(의료진이 적용하는 별도 제제, 미국 DPN 적응증 승인)와 제형·농도·용법을 혼용하지 않음
 * Vit B12·folate : 결핍을 확인하거나 강하게 의심하면 보충. B12 결핍이 배제되지 않은 상태에서 folate만 투여하지 않으며 고용량 Vit B6의 장기 사용은 오히려 신경병증을 유발할 수 있음
 * 척수 자극술(SCS) : 약물 난치성 통증성 DPN에 고려
 * 병용 요법 : 적절한 용량·기간에도 부분 반응이면 서로 다른 기전의 약제(gabapentinoid + SNRI 또는 TCA) 병용을 고려. 효과가 없거나 내약성이 나쁘면 다른 계열로 교체. TCA+SNRI를 일상적 병용 조합으로 제시하지 않음
@@ -418,31 +411,34 @@ _²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 등쪽 
 
 ```mermaid
 graph TD
-    A(["통증성 당뇨병신경병증 의심"]) ---> B["다른 원인 감별; 통증·수면·기능 평가"]
-    B ---> C["혈당·체중·혈압·지질 관리와 발 보호"]
-    C ---> D["환자별 1차 약제 선택"]
-    D ---> E["Gabapentinoid: 신기능에 맞추어 용량 조절"]
-    D ---> F["SNRI: duloxetine; 간기능장애·CrCl 30 미만 회피"]
-    D ---> G["TCA 또는 기타 근거 있는 약제: 고령·심혈관 위험 평가"]
-    E ---> H["초기 부작용 확인; 적절한 용량·기간 후 효과 평가"]
+    A["<u>통증성 당뇨병신경병증 의심</u>"] ---> B["<u>다른 원인 감별; 통증·수면·기능 평가</u>"]
+    B ---> C["<u>혈당·체중·혈압·지질 관리와 발 보호</u>"]
+    C ---> D["<u>환자별 1차 약제 선택</u>"]
+    D ---> E["<u>Gabapentinoid: 신기능에 맞추어 용량 조절</u>"]
+    D ---> F["<u>SNRI: duloxetine; 간기능장애·CrCl 30 미만 회피</u>"]
+    D ---> G["<u>TCA 또는 기타 근거 있는 약제: 고령·심혈관 위험 평가</u>"]
+    E ---> H["<u>효과·내약성 평가</u><br/>•초기 부작용 확인 및 적절한 용량·기간 확보"]
     F ---> H
     G ---> H
-    H --->|"부분 반응"| I["다른 기전 병용: gabapentinoid와 SNRI 또는 TCA"]
-    H --->|"효과 없음·불내성"| J["다른 계열로 교체"]
-    I ---> K["지속 난치성 통증: 전문의 의뢰; 국소치료·척수자극술 등 평가"]
-    J ---> K
-    C -.-> L["α-lipoic acid·γ-linolenic acid는 선택적 보조요법; 질병 경과 변경 근거 제한"]
-    K ---> M["Opioid는 일반적 치료 단계에서 제외"]
-style A fill:#eeeeee,stroke:#888888
+    H --->|"충분한 호전·내약성 양호"| R["<u>유효 요법 유지·정기 재평가</u>"]
+    H --->|"부분 반응"| I["<u>다른 기전 병용: gabapentinoid와 SNRI 또는 TCA</u>"]
+    H --->|"효과 없음·불내성"| J["<u>다른 계열로 교체</u>"]
+    I --->|"적정 치료 후에도 난치성 통증"| K["<u>지속 난치성 통증: 전문의 의뢰; 국소치료·척수자극술 등 평가</u>"]
+    J --->|"적정 치료 후에도 난치성 통증"| K
+    C -.-> L["<u>α-lipoic acid·γ-linolenic acid는 선택적 보조요법; 질병 경과 변경 근거 제한</u>"]
+    K ---> M["<u>Opioid는 일반적 치료 단계에서 제외</u>"]
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class E,F,G,I,J,L sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
-class C,K,M blue
+class C,K,M,R blue
+classDef question fill:#fff9c4,stroke:#ffe082
+class H question
 ```
 
-<p align="center"><strong>당뇨병성 말초신경병증(DPN) 치료 알고리즘</strong></p>
+<p align="center"><strong>당뇨병성 말초신경병증(DPN) 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDA 2025 및 ADA Standards of Care 2026의 권고를 바탕으로 재구성</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDA 2025 및 ADA Standards of Care 2026의 권고를 바탕으로 저자 재구성</mark></em></p>
 
 ***
 
@@ -506,16 +502,16 @@ class C,K,M blue
 * 회피 약물 : GLP-1 RA, opioid, anticholinergics, TCA, pramlintide
   * DPP-4 억제제는 위배출 지연 효과가 임상적으로 유의하지 않아 회피 약물에서 제외  <mark style="color:$info;">[ADA; KDA 2025]</mark>
 * 위장운동촉진제 : AGA 2025는 metoclopramide 또는 erythromycin을 조건부 초기 선택으로 제안하며 domperidone은 일률적인 일차 치료로 권고하지 않음
-  * **Metoclopramide** <mark style="color:blue;">[맥페란]</mark> : 해외 위마비 치료 권고와 국내 허가를 구분. 국내는 구역·구토 증상 치료 등의 적응증이며 **최대 권장 치료기간 5일**, 투여 간격 ≥6시간. 위마비에 1일 4회·장기 투여하는 해외 용법을 그대로 옮기지 않음. 추체외로 증상·지연성 운동장애 및 신기능별 감량 확인
+  * **Metoclopramide** <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0570A0089" title="맥페란정">맥페란</a>]</mark> : 해외 위마비 치료 권고와 국내 허가를 구분. 국내는 구역·구토 증상 치료 등의 적응증이며 **최대 권장 치료기간 5일**, 투여 간격 ≥6시간. 위마비에 1일 4회·장기 투여하는 해외 용법을 그대로 옮기지 않음. 추체외로 증상·지연성 운동장애 및 신기능별 감량 확인
   * **Domperidone** : 국내 구역·구토 적응증과 단기 사용 원칙에 따름. QT 연장·심장질환·전해질 이상·상호작용을 평가하며 metoclopramide와 병용하지 않음
   * **Erythromycin** : 위마비에는 허가 외 사용. QT/상호작용·내성 및 빠른 내성화(tachyphylaxis)를 고려하여 전문의가 단기간 선택
-  * 상세 용법 ☞ [위장운동촉진제](../224_/073_.md#gi-prokinetic-agent)
+  * 상세 용법 ☞ [위장운동촉진제](../224_/073_-gidrugs.md#gi-prokinetic-agent)
 * Antiemetics : ondansetron 등(국내 위마비 관련 사용은 허가 외)으로 오심·구토 완화를 고려하되 위배출을 개선하는 치료는 아님. Scopolamine·promethazine 등 항콜린 작용이 있는 약제를 기본 처방 목록에 두지 않으며, 난치성 증상은 소화기 전문의와 치료 선택. 저지방·저섬유 식사에 더하여 작은 입자 식사(small-particle diet)를 고려
 * 영양 유지가 어렵거나 반복 입원이 필요하면 소화기·영양팀 평가; 경장영양 및 선택적 내시경/수술 치료를 검토하며 유문 보툴리눔 독소 주사를 일률 시행하지 않음
 
 ***
 
-## ■ 당뇨병케토산증 (Diabetic Ketoacidosis, DKA)
+## ■ 당뇨병케토산증 (Diabetic Ketoacidosis, DKA) <a id="dka"></a>
 
 * 절대적·상대적 인슐린 부족과 길항호르몬 증가 → 케톤 생성·대사성 산증 및 삼투성 이뇨·탈수
 * 유발 인자 : 인슐린 누락/부족, 감염, 급성 심혈관질환·췌장염, 수술·금식, SGLT2i 등
@@ -564,7 +560,8 @@ class C,K,M blue
 * **응급실/입원 프로토콜로 치료**. 수액·인슐린·전해질 및 유발 원인 치료를 병행
 * 심장·신장기능 제한이 없는 성인은 등장성 식염수 또는 균형 결정질 수액을 초기 2~4시간 500~1,000 ㎖/h로 시작 후 조정. 고령·HF·진행된 CKD는 작은 분할 수액(예: 250 ㎖)과 반복 평가
 * 인슐린은 통상 정맥 지속주입 0.1 U/㎏/h. **K ＜3.5 mmol/L이면 K를 먼저 보충하고 ＞3.5가 될 때까지 인슐린 시작을 보류**
-* 혈당 ＜250 ㎎/㎗이면 포도당 수액을 추가하고 인슐린은 감량·유지하여 케톤산증이 해결될 때까지 치료. 정상혈당 DKA는 포도당 공급이 처음부터 필요할 수 있음
+* 혈당 ＜250 ㎎/㎗이면 5~10% 포도당 수액을 추가하고 정맥 인슐린을 통상 0.05 U/㎏/h로 감량·유지하여 케톤산증이 해결될 때까지 치료. 정상혈당 DKA는 포도당 공급이 처음부터 필요할 수 있음
+* K 보충은 혈청 K가 ＜5.0 mmol/L로 내려오면 시작하여 4~5 mmol/L를 목표로 함. 통상 수액 1 L당 K 20~30 mmol을 추가하며, K ＜3.5이면 약 10 mmol/h로 먼저 보충함. 소변량·신기능·ECG와 기관별 정맥 보충 프로토콜에 맞춰 조정하며 핍뇨·투석 환자에게 일률 적용하지 않음
 * 혈당은 1~2시간마다, 전해질·sCr·정맥 pH·β-hydroxybutyrate는 통상 4시간마다 확인. K는 인슐린 시작 2시간 후 및 이후 4시간마다 확인하며 이상 시 더 자주 검사. 중탄산염·인산염은 일률 보충하지 않음
 * DKA 해소 : **β-hydroxybutyrate ＜0.6 mmol/L 및 (정맥 pH ≥7.3 또는 HCO₃⁻ ≥18)**; 가능하면 혈당 ＜200 ㎎/㎗도 확인. 혈당 정상화만으로 인슐린 주입을 종료하지 않음
 * 피하 기저 인슐린 투여 후 정맥 인슐린을 일정 시간 겹쳐 유지(ADA 2026: 보통 2~4시간; 2024 합의문: 최소 1~2시간)하고 제제·병원 프로토콜에 따라 전환. 경증~중등도 비합병 DKA의 피하 속효성 인슐린 치료도 충분한 모니터링이 가능한 의료기관에서만 선택
@@ -578,7 +575,7 @@ class C,K,M blue
 5. 물을 조금씩 자주 섭취하되 HF·CKD의 수분 제한 계획을 따름. 식사 불가 시 탄수화물 보충·인슐린 조정은 사전 계획 적용
 6. 케톤이 높거나 증가하는 경우, 반복 구토·복통·호흡곤란·의식 변화·수분 섭취 불가 시 즉시 응급실. 케톤증 상태에서 운동하지 않음
 
-* 상세 약제별 관리 ☞ [당뇨병 — 아픈 날 대처](100_-diabetes-mellitus.md#아픈-날-대처)
+* 상세 약제별 관리 ☞ [당뇨병 — 아픈 날 대처](100_-diabetes-mellitus.md#sick-day)
 
 ***
 
@@ -601,7 +598,7 @@ class C,K,M blue
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 현저한 고혈당·음수량 감소·기능 저하가 있으나 위 응급 소견이 없고 경구 섭취가 가능한 경우. 특히 요양시설 거주 고령자는 HHS 위험을 평가  `[HHS 진행 위험]`
+* 현저한 고혈당·음수량 감소·기능 저하가 있으나 위 응급 소견이 없고 경구 섭취가 가능한 경우 → 당일 평가. 특히 요양시설 거주 고령자는 HHS 위험을 평가  `[HHS 진행 위험]`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -637,8 +634,8 @@ class C,K,M blue
 
 ### <mark style="color:orange;">비뇨기계 이상</mark>
 
-* 방광 기능 장애 : 잔뇨량·요로감염·폐색 및 약물 영향을 평가하고 시간제/이중 배뇨, 유의한 요폐에는 간헐적 도뇨 등 선택. Bethanechol <mark style="color:blue;">[하이네콜]</mark>은 일률적 일차 치료가 아니며 효과 근거·부작용을 고려한 제한적 선택 (☞ [요실금](../227_/125_-urinary-incontinence.md#overflow-incontinence))
-* 발기 부전: PDE5i <mark style="color:blue;">\[비아그라]</mark>, <mark style="color:blue;">\[시알리스]</mark> — 질산염·riociguat 병용 금기, 심혈관 상태와 신기능별 용량 확인 (☞ [성기능장애](../227_/132_-sexual-dysfunction.md#undefined-7))
+* 방광 기능 장애 : 잔뇨량·요로감염·폐색 및 약물 영향을 평가하고 시간제/이중 배뇨, 유의한 요폐에는 간헐적 도뇨 등 선택. Bethanechol <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO4209" title="하이네콜정10㎎">하이네콜</a>]</mark>은 일률적 일차 치료가 아니며 효과 근거·부작용을 고려한 제한적 선택 (☞ [요실금](../227_/125_-urinary-incontinence.md#overflow-incontinence))
+* 발기 부전: PDE5i <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0961" title="비아그라정50㎎">비아그라</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08G3782" title="시알리스정5㎎">시알리스</a>]</mark> — 질산염·riociguat 병용 금기, 심혈관 상태와 신기능별 용량 확인 (☞ [성기능장애](../227_/132_-sexual-dysfunction.md))
 * 여성 성 기능 장애: 윤활제·보습제, 동반 감염/통증 치료, 폐경비뇨생식기증후군이면 국소 질 estrogen 등 개별 선택. 당뇨병성 성기능장애만으로 전신 호르몬요법을 일률 시행하지 않음 (☞ [여성 성기능장애](../227_/132_-sexual-dysfunction.md#female-sexual-dysfunction))
 
 ### <mark style="color:orange;">T1DM 동반 자가면역질환</mark>
@@ -678,27 +675,33 @@ L98.4 달리 분류되지 않은 피부의 만성 궤양 - 비특이적 궤양 �
 > **처방례 1. 당뇨병성 말초신경병증 - 통증 경증 (초기)**
 >
 > ```
-> Pregabalin(리리카) 75 ㎎/cap  1cap  bid  (취침 전 75 ㎎으로 시작 후 bid로 증량)
+> Pregabalin (리리카캡슐75㎎)  1cap  bid  (1일 150 ㎎)
 > ```
 >
-> _✽신기능이 양호한 환자의 보수적 시작 예시. 75 ㎎ hs로 시작한 뒤 내약성에 따라 75 ㎎ bid로 증량, 통상 목표 150~300 ㎎/d. CrCl에 따라 감량하며 초기 부작용은 조기에 확인하고 적절한 용량·기간의 치료 후 효과 평가._
+> 약제 정보: [리리카캡슐 75㎎](https://www.health.kr/drug/A11AOOOOO8537)
+>
+> _✽CrCl ≥60인 성인의 허가상 시작용량 예시. 졸음·어지럼 위험이 크면 75 ㎎ hs 등 더 낮은 용량으로 시작하는 보수적 적정을 개별 고려. 통상 목표 150~300 ㎎/d. CrCl에 따라 감량하며 초기 부작용은 조기에 확인하고 적절한 용량·기간의 치료 후 효과 평가._
 
 > **처방례 2. 당뇨병성 말초신경병증 - 통증 중등도 (SNRI 선택)**
 >
 > ```
-> Duloxetine(심발타) 30 ㎎/cap  1cap  qd  (보통 1주 후 60 ㎎으로 증량; 내약성에 따라 조정)
+> Duloxetine (드록틴캡슐30㎎)  1cap  qd  (보통 1주 후 60 ㎎으로 증량; 내약성에 따라 조정)
 > ```
+>
+> 약제 정보: [드록틴캡슐 30㎎](https://www.health.kr/drug/2014052800008) · [드록틴캡슐60㎎](https://www.health.kr/drug/2014051500004)
 >
 > _✽초기 오심을 줄이기 위해 30 ㎎ qd로 시작. 간질환으로 인한 간기능장애·CrCl ＜30·투석은 투여 금기. 우울·불안 동반 시 추가 이점._
 
 > **처방례 3. T2DM+CKD - 최대내약 ACEI/ARB 사용 중 알부민뇨 지속, eGFR 45~＜60, K ≤4.8인 경우**
 >
 > ```
-> Dapagliflozin(다파엔) 10 ㎎/tab  1tab  qd  (식사 무관)
-> Finerenone(케렌디아) 10 ㎎/tab  1tab  qd  (식사 무관)
-> Metformin HCl SR(다이아벡스엑스알) 1,000 ㎎  1tab  qd  석식과 함께 (기존 복용 유지)
+> Dapagliflozin (다파엔정10㎎)  1tab  qd  (식사 무관)
+> Finerenone (케렌디아정10㎎)  1tab  qd  (식사 무관)
+> Metformin HCl SR (다이아벡스엑스알서방정1000㎎)  1tab  qd  석식과 함께 (기존 복용 유지)
 > ACEI 또는 ARB                    기존 최대내약 용량 유지 (두 계열 병용 금지)
 > ```
+>
+> 약제 정보: [다파엔정 10㎎](https://www.health.kr/drug/2023013100015) · [케렌디아정 10㎎](https://www.health.kr/drug/2022051100011) · [다이아벡스엑스알서방정 1,000㎎](https://www.health.kr/drug/2010031900002)
 >
 > _✽각 약제의 독립된 적응증을 충족한 병합 예시. eGFR 45~＜60이므로 finerenone 10 ㎎으로 시작하고, 기존 metformin SR은 해당 품목허가 범위에서 유지(다이아벡스엑스알은 최대 1,000 ㎎/d). Finerenone 시작·증량 4주 후 K·eGFR 확인, 이후 정기 추적; K ＞5.5이면 보류하며 eGFR ＜15이면 중단. eGFR ≥60의 DKD 환자는 finerenone 시작용량 20 ㎎임. SGLT2i·finerenone 동시 시작은 uACR ≥100 및 eGFR 30~90 등 조건에서 개별 고려하며, 임상 근거와 국내 급여 조건을 구분._
 
@@ -709,6 +712,8 @@ L98.4 달리 분류되지 않은 피부의 만성 궤양 - 비특이적 궤양 �
 > 이후 0.5 ㎎/주로 증량하고 최소 4주 후 필요·내약성에 따라 1 ㎎/주
 > ```
 >
+> 약제 정보: [오젬픽프리필드펜 1.5㎖(1.34㎎/㎖)](https://www.health.kr/drug/2022042900013) · [오젬픽프리필드펜(3㎖)](https://www.health.kr/drug/2026012800015)
+>
 > _✽FLOW trial(2024): semaglutide 1 ㎎/주 → T2DM+CKD에서 신장 복합 결과·심혈관 사망 유의 감소(국내에도 T2DM+CKD 위험 감소 적응증이 반영됨). 신규 시작은 0.25 ㎎/주로 4주 후 0.5 ㎎, 이후 최소 4주 후 필요·내약성에 따라 1 ㎎으로 증량. 위 처방은 신규 도입 예시이며 FLOW의 평가 용량은 1 ㎎/주임; 0.25 ㎎은 유지용량이 아님. SGLT2i 불가인 경우 외에 병용도 고려하며, eGFR이 ＜20으로 낮아졌다는 이유만으로 기존 SGLT2i를 자동 중단하지 않음. 국내 T2DM+CKD 위험 감소 허가가 있으나 급여는 semaglutide 개별 고시의 선행 요법·A1C·병용 조건을 충족해야 하며 CKD 동반만으로 자동 인정되지 않음._
 
 > **처방례 5. 당뇨망막병증 - 도베실레이트의 선택적 보조 사용(표준 안과 치료 대체 불가)**
@@ -717,41 +722,34 @@ L98.4 달리 분류되지 않은 피부의 만성 궤양 - 비특이적 궤양 �
 > Calcium dobesilate(일성독시움정) 250 ㎎/tab  2tab  bid  (식후)
 > ```
 >
+> 약제 정보: [일성독시움정 250㎎](https://www.health.kr/drug/A11A1130A0224)
+>
 > _✽국내 망막병증 허가용량 500~1,000 ㎎/d 범위의 상한 예시. CALDIRET에서 DME 예방 효과가 입증되지 않아 일상적 예방 처방으로 제시하지 않음. 신부전 시 주의하며, 드문 무과립구증 관련 발열·인후통·구강 감염 발생 시 중단 후 CBC 등 평가._
 
 **당뇨병성 족부감염 처방례**는 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#처방례)) 참조
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark> <a id="medication-counseling"></a>
 
 **당뇨병신경병증 통증 치료제**
 
 * Pregabalin/gabapentin: 복용 초기 졸음·어지럼이 올 수 있으니 운전·기계 조작 주의. 신기능에 따라 용량을 조절하며 초기 부작용은 조기에 확인하고 적절한 용량·기간 후 효과를 평가함. 갑자기 끊지 말고 의사와 상담 후 감량
 * Duloxetine: 처음에 메스꺼움이 있을 수 있음; 1\~2주 내 호전. 급격히 끊으면 금단증상 가능 → 천천히 감량
-* Finerenone (케렌디아): 고칼륨혈증 모니터링 필수 - 정기 혈액 검사 빠짐없이 받기. 자몽(그레이프프루트) 주스 피하기(CYP3A4 상호작용)
+
+**콩팥 보호 치료제**
+
+* Finerenone (케렌디아): 고칼륨혈증 모니터링 필수 - 정기 혈액 검사 빠짐없이 받기. 자몽·자몽 주스를 피하고 칼륨 보충제·칼륨 함유 소금 대체품·새 약 복용 전 의료진과 상의하기
 
 **SGLT2i 사용 시**
 
 * 복용 중 구역·구토·복통·식욕 감소 → 즉시 병원 내원 (euglycemic DKA 가능)
 * 금식·탈수·급성 중증질환 시 사전 계획에 따라 복용을 보류하고 담당 의사에게 연락; 계획 수술은 미리 중단 일정 확인
-* 소변량 증가, 성기 주변 감염(캔디다) 주의
+* 소변량 증가, 성기 주변 진균감염 주의. 극저탄수화물식·케톤식을 피하고 혈당이 높지 않아도 케톤산증 증상이 있으면 즉시 평가받기
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
-
-**당뇨 발(발 궤양·발 감염) 예방 수칙**은 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#환자-안내서)) 참조
-
-**당뇨병케토산증(DKA) 경고 증상**
-
-반복되는 구토·심한 복통, 깊고 빠른 호흡·호흡 곤란, 심한 탈수·물도 마실 수 없음, 의식 혼탁 또는 혈중 케톤이 높으면 즉시 응급실로 가세요. 과일향 날숨이 없어도 DKA일 수 있습니다.
-
-SGLT2i(예: 다파엔, 자디앙)를 복용 중인 경우 혈당이 정상이어도 이런 증상이 나타날 수 있습니다. 수술·금식·탈수·중증 급성 질환 시에는 복용을 보류하고 의사에게 알리세요. 1형 당뇨병의 기저 인슐린은 식사를 못하더라도 임의로 중단하지 마세요.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
@@ -792,3 +790,26 @@ SGLT2i(예: 다파엔, 자디앙)를 복용 중인 경우 혈당이 정상이어
 * European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy. 2025. [EMA 발표](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy)
 
 * Bayer. U.S. FDA approves finerenone for CKD associated with type 1 diabetes. 2026-09-17. [해외 허가 발표](https://www.bayer.com/media/en-us/us-fda-approves-finerenone-for-new-indication-in-patients-with-chronic-kidney-disease-associated-with-type-1-diabetes/)
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark> <a id="patient-guide"></a>
+
+**당뇨 발(발 궤양·발 감염) 예방 수칙**은 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#환자-안내서)) 참조
+
+**눈·콩팥·신경 합병증 관리**
+
+증상이 없어도 정해진 안과·소변·혈액 검사를 받으세요. 갑자기 시력이 떨어지거나 커튼이 가리는 느낌, 빛 번쩍임·날파리 같은 것이 갑자기 많아지면 즉시 안과 진료를 받으세요. 콩팥 보호약 복용 중에는 칼륨·신기능 검사를 빠뜨리지 말고, 진통제·건강보조식품·칼륨 함유 소금 대체품은 먼저 상담하세요. 신경통 약으로 졸음·어지럼이 생기면 운전하지 말고, 임의로 갑자기 끊지 마세요.
+
+**고삼투압고혈당상태(HHS) 경고 증상**
+
+혈당이 600 ㎎/㎗ 이상이거나 심한 탈수·의식 변화가 생기면 즉시 응급실로 가세요. 의식이 또렷해도 위험할 수 있습니다. 혼자서 물을 마시기 어려운 고령자는 가족·돌봄 제공자와 수분 섭취·혈당 관찰 계획을 정하세요.
+
+**당뇨병케토산증(DKA) 경고 증상**
+
+반복되는 구토·심한 복통, 깊고 빠른 호흡·호흡 곤란, 심한 탈수·물도 마실 수 없음, 의식 혼탁 또는 혈중 케톤이 높으면 즉시 응급실로 가세요. 과일향 날숨이 없어도 DKA일 수 있습니다.
+
+SGLT2 억제제(예: 다파엔, 자디앙)를 복용 중인 경우 혈당이 높지 않아도 이런 증상이 나타날 수 있습니다. 계획 수술은 미리 약 중단 일정을 안내받으세요. 금식·탈수·중증 급성 질환 때에는 사전에 정한 계획에 따라 복용을 보류하고 의료진에게 연락하세요. 1형 당뇨병의 기저 인슐린은 식사를 못하더라도 임의로 중단하지 마세요.
+
+***
+
