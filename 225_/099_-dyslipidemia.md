@@ -117,7 +117,7 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
   * corneal arcus(각막환) - 특히 ＜45세에서 관찰 시
 * 상기 소견 없이도 조기 ASCVD(협심증, 간헐성 파행 등)가 이상지질혈증의 첫 임상 발현일 수 있음
 
-## <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -208,7 +208,7 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 | 치료 전 LDL (㎎/㎗) | 155\~190                                       | 1  |
 | 유전자검사          | LDLR/APOB/PCSK9의 병원성 기능 변이 확인                  | 8  |
 
-* 판정 : ＞8점(≥9점)=확정(definite), 6~~8점=가능성 높음(probable), 3~~5점=가능성 있음(possible), ＜3점=가능성 낮음(unlikely)
+* 판정 : ＞8점(≥9점)=확정(definite), 6\~8점=가능성 높음(probable), 3\~5점=가능성 있음(possible), ＜3점=가능성 낮음(unlikely)
 * 표의 LDL 구간은 인용 원전의 ㎎/㎗ 표기 기준임. 단위 변환·반올림한 다른 표와 경계값을 섞지 않음
 * Probable 이상이면 1촌 가족의 캐스케이드 선별검사(지질 검사 ± 유전자검사)를 권고
 * 병원성 변이가 검출되지 않아도 임상적 FH를 배제하지 않음. FH에서는 일반 인구용 위험계산기가 평생 위험을 과소평가할 수 있음
@@ -224,45 +224,29 @@ _✽ACC/AHA의 PREVENT-ASCVD 위험도 구간(저/경계/중등도/고위험)은
 ***
 
 ```mermaid
-graph TD
-    A([이상지질혈증 확인]) --> B[ASCVD·당뇨병·FH·CKD 및<br/>LDL 제외 주요 위험인자 평가]
-    B -->|관상동맥질환·ASCVD 동반 당뇨병| C[국내 목표 LDL &lt;55 ㎎/㎗<br/>및 기저치 대비 ≥50% 감소]
-    B -->|비심장성 혈관질환·고위험 당뇨병| D[국내 목표 LDL &lt;70 ㎎/㎗<br/>및 기저치 대비 ≥50% 감소]
-    B -->|주요 위험인자 없는 단기 당뇨병| E[국내 목표 LDL &lt;100 ㎎/㎗]
-    B -->|위험인자 ≥2개| F[국내 목표 LDL &lt;130 ㎎/㎗]
-    B -->|위험인자 ≤1개| G[국내 목표 LDL &lt;160 ㎎/㎗]
-    B -->|LDL ≥190·FH·CKD| N[별도 적응증·목표 평가<br/>해당 시 약물치료]
-    C --> H[생활 습관 중재 +<br/>최대 내약 statin]
-    D --> H
-    E --> I[생활 습관 중재 ± statin]
-    F --> I
-    G --> I
-    N --> J
-    H --> J[4~12주 후 재검사]
-    I --> J
-    J -->|목표 미달| K[순응도·2차 원인 확인 후<br/>statin 강화 ± ezetimibe]
-    K -->|초고위험군·FH에서 계속 미달| L[급여·허가 확인 후<br/>PCSK9 억제제/inclisiran 고려]
-    J -->|목표 달성| M[생활 습관·치료 유지<br/>6~12개월마다 평가]
-    L ---> J
-    F -.-> O[위험강화인자·CAC에 따라<br/>목표·약물치료 강화 고려]
-    G -.-> O
-    O --> I
-    A ---> P[지속 TG ≥500이면 LDL 경로와 병행하여<br/>췌장염 예방 경로 적용]
-    P ---> Q[금주·2차 원인 교정·지방 제한<br/>fibrate 또는 처방용 omega-3 고려]
-    Q ---> R[복통·구토는 응급 평가<br/>TG ≥1000은 당일 평가]
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,J,K yellow
-style G fill:#fef4f8,stroke:#f06baf
-style F fill:#fcd4e6,stroke:#e0448e
-style E fill:#f8bfd3,stroke:#d94f83
-style D fill:#f8a0c0,stroke:#d01f5a
-style C fill:#f06090,stroke:#c62828
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class H,I,K,L,N sky
-style M fill:#d0e8ff,stroke:#1a6abf
-
+flowchart TD
+    A["이상지질혈증 확인"] --> R{"즉각 조치 항목?"}
+    R -->|"예"| U["응급 평가 및 원인 치료"]
+    R -->|"아니오"| B["2차 원인·질환군·위험인자 평가; LDL 목표 설정"]
+    B --> C["생활요법 및 적응증에 따른 statin"]
+    C --> D["시작·변경 4~12주 후 재평가"]
+    D --> E{"LDL 목표 달성?"}
+    E -->|"예"| F["치료 유지·위험도에 따른 추적"]
+    E -->|"아니오"| G["순응도·상호작용·2차 원인 확인; 강화·ezetimibe 병용"]
+    G --> H{"최대 내약 치료에도 미달?"}
+    H -->|"예"| I["필요 강하율·허가·급여에 따라 비statin 추가·전문 평가"]
+    H -->|"아니오"| D
+    I --> D
+    B --> T{"지속 TG ≥500?"}
+    T -->|"예"| Q["LDL 치료와 병행하여 금주·지방 제한·TG 저하 치료"]
+    Q --> S["TG ≥1000은 당일 평가; 복통·구토는 응급 평가"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class R,E,H,T question
+    class B,C,D,F,G,I,Q,S treatment
+    class U emergency
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>이상지질혈증 위험도 평가 및 치료 알고리듬</strong></p>
@@ -271,7 +255,7 @@ _<mark style="color:$info;">저자 재구성(한국지질·동맥경화학회 20
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">한국지질·동맥경화학회 권고안 (2026)</mark>
 
@@ -307,14 +291,14 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">한국지�
 
 * 위험 평가에 [PREVENT-ASCVD 방정식](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator) 사용(30\~79세 적용); 결과가 애매한 경우(경계 위험) risk enhancer(조기 심혈관질환 가족력, 만성 염증질환, Lp(a) ≥125 nmol/L 또는 ≥50 ㎎/㎗, hs-CRP 연속 2회 ≥2 ㎎/L, ApoB ≥120 ㎎/㎗, **South Asian 혈통**, **임신 관련 위험 인자**(임신성 고혈압·전자간증·임신성 당뇨·조산) 등) 또는 CAC score(30\~45세 [CAC](https://www.cac-tools.com/), 45세 이상 [MESA](https://mesa-nhlbi.org/researchers/tools/mesa-score-risk-calculator-nr))로 재평가
 * LDL-C 70\~189 ㎎/㎗ 성인에서 위험도별 권고
-  * 저위험(＜3%) : 생활 습관 중재 우선; 단 \*\*30\~59세에서 LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%\*\*인 경우 중강도 statin 고려(COR 2a) - 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
+  * 저위험(＜3%) : 생활 습관 중재 우선; 단 **30\~59세에서 LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%**인 경우 중강도 statin 고려(COR 2a) - 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
   * 경계위험(3\~＜5%) : 중강도 statin 고려, ≥30% LDL 감소 & ＜100 ㎎/㎗ 목표
   * 중등도위험(5\~＜10%) : 중강도 statin(30\~49% 감소) 권고, ＜100 ㎎/㎗ 목표
   * 고위험(≥10%) : 고강도 statin 권고, ＜70 ㎎/㎗ 목표
 * LDL-C ≥190 ㎎/㎗(중증 고콜레스테롤혈증) : 2차 원인·FH를 평가하고 위험계산기 결과와 관계없이 최대 내약 statin을 우선 사용. 필요하면 ezetimibe·PCSK9 단클론항체·bempedoic acid 추가; 목표는 FH·추가 위험·임상 ASCVD 여부에 따라 정하며 임상 ASCVD 동반 시 ＜55 ㎎/㎗
 * 관상동맥석회화점수(CAC score) : 10년 위험 ≥3%이면서 statin 시작 여부나 치료 강도가 불확실한 경우 위험 재분류에 활용. CAC=0이면 당뇨병, 현재 흡연, 강한 조기 ASCVD 가족력 등 고위험 조건이 없는 일부 환자에서 약물치료 연기를 고려하고 3\~7년 후 위험도를 재평가할 수 있으며, CAC ≥100 AU 또는 ≥75th percentile이면 statin 시작·강화 근거가 됨
 * 40\~75세 당뇨병 성인 : 중강도 statin으로 LDL-C ＜100 ㎎/㎗ 목표(대부분 중등도\~고위험으로 간주); 다중 위험인자 동반 시 고강도 statin & ＜70 ㎎/㎗ 고려
-* 40~~75세의 비투석 CKD 3~~4기 또는 HIV 감염도 위험계산기 결과와 별도로 statin 기반 치료 적응증을 평가함
+* 40\~75세의 비투석 CKD 3\~4기 또는 HIV 감염도 위험계산기 결과와 별도로 statin 기반 치료 적응증을 평가함
 * 20\~39세 당뇨병 : 일률적 치료보다는 당뇨병 특이 risk enhancer(2형 유병기간 ≥10년, 1형 ≥20년 등) 평가 후 결정
 
 #### <mark style="color:$primary;">2차 예방 (임상 ASCVD 기왕력)</mark>
@@ -349,7 +333,7 @@ _<mark style="color:$info;">Ref. ACC/AHA et al. 2026 Guideline on the Management
 LDL 목표치는 2019년판과 동일하게 유지함. 1차 예방에서는 SCORE2/SCORE2-OP와 위험 수정 인자를 활용하고, ACS 입원 중 조기 치료 강화, bempedoic acid, 고위험 환자의 icosapent ethyl 및 Lp(a) 관련 새 근거를 반영함. Inclisiran은 LDL을 낮추지만 심혈관 사건 감소 결과가 아직 확립되지 않았음을 구분함.
 {% endhint %}
 
-#### <mark style="color:$primary;">LDL 관리 목표</mark>
+#### <mark style="color:$primary;">LDL 관리 목표</mark> <a id="ldl-goals"></a>
 
 * 초고위험 환자 : 기저치 대비 ≥50% 강하 & ＜55 ㎎/㎗
 * 고위험 환자 : 기저치 대비 ≥50% 강하 & ＜70 ㎎/㎗
@@ -383,7 +367,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">2025 Focus
 | Ezetimibe      | 목표 미달 시 추가; ACS 조기 병용 고려                 | 목표 미달 시 병용 약제로 권고                      | 목표 미달 시 추가; ACS 초기 병용 고려                                       |
 | PCSK9 단클론항체    | 고위험 상황에서 목표 미달 시 추가                      | ASCVD 위험·필요 강하율에 따라 추가                 | 최대 내약 statin+ezetimibe에도 목표 미달 시 고려                            |
 | Inclisiran     | LDL 저하 효과; 심혈관 사건 결과와 구분                 | PCSK9 단클론항체 사용 곤란·저빈도 투여 선호 등에서 선택적 고려 | LDL 저하 약제로 소개; 국내 허가 있음                                        |
-| Bempedoic acid | Statin 불내성 등의 치료 선택지                     | Statin 근육 증상 및 목표 미달 상황에 따라 선택         | Statin 불내성·목표 미달에서 고려; 넥스레톨정180mg 국내 허가(2026.10.14), 출시·급여와 구분 |
+| Bempedoic acid | Statin 불내성 등의 치료 선택지                     | Statin 근육 증상 및 목표 미달 상황에 따라 선택         | Statin 불내성·목표 미달에서 고려; <a href="https://www.health.kr/drug/2026101900013" title="약학정보원: 넥스레톨정180mg" data-kpic-body="1">넥스레톨</a>정180㎎ 국내 허가(2026.10.14), 출시·급여와 구분 |
 | 영상/CAC         | 위험 수정·재분류에 활용                            | CAC 부담별 치료 강화                          | 중등도·저위험군의 치료 결정에 활용                                            |
 | IPE            | Statin 치료 후 TG 135\~499인 고위험군에서 4 g/d 고려 | 선택된 ASCVD 또는 당뇨병 환자에서 TG 150\~499 시 고려 | Statin 치료 후 TG 135\~499인 ASCVD·고위험 당뇨병에서 4 g/d 고려              |
 
@@ -391,11 +375,11 @@ _✽위험군 명칭·대상·권고 강도가 서로 다르므로 동일 명칭
 
 _✽본 표는 저자가 여러 가이드라인 원문을 비교·요약한 것임(저자 편집). 개별 가이드라인의 세부 권고 등급(Class/Level of Evidence)은 원문 확인 필요._
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연 : 모든 형태의 담배/흡연 금지
 * 식이 : 포화지방산 제한; 전곡류, 채소, 과일, 생선 권장
-* 신체 활동 : 주 150~~300분 중등 강도 또는 75~~150분 고강도 유산소 운동 + 주 2일 이상 근력 운동; 좌식 시간을 줄임
+* 신체 활동 : 주 150\~300분 중등 강도 또는 75\~150분 고강도 유산소 운동 + 주 2일 이상 근력 운동; 좌식 시간을 줄임
 * 체중 관리 : 비만 시 현재 체중의 5\~10% 감량 또는 평소보다 500 ㎉/d 감량 섭취
 
 ### <mark style="color:orange;">생활 습관 중재 방법과 효과</mark>
@@ -434,7 +418,7 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
    * HDL 상승 : 불포화지방 섭취, 금연, 규칙적 운동
 3. **신체 활동 단계** : 유산소 운동(주 5회 이상, 30\~60분 - 걷기, 자전거, 수영 등), 근력 운동(주 2\~3회 병행), 좌식 생활 감소(1시간 이상 앉아 있을 경우 5분 이상 스트레칭)
 4. **체중 및 음주 관리 단계** : 과체중·비만에서는 초기 6개월 체중 5\~10% 감량을 목표로 개별화하고 허리둘레·대사 지표 개선을 평가(복부비만 기준: 남 ≥90 ㎝, 여 ≥85 ㎝), 음주는 HDL 상승 효과보다 전체 심혈관 위험을 고려하여 절주 또는 금주 권장
-5. **추적 및 강화 단계** : 생활습관 단독 중재는 약 3~~6개월 후, 약물 시작·용량 변경은 4~~12주 후 지질 재평가, 개선 미흡 시 영양사·운동 전문가 연계, 필요 시 약물치료 병행
+5. **추적 및 강화 단계** : 생활습관 단독 중재는 약 3\~6개월 후, 약물 시작·용량 변경은 4\~12주 후 지질 재평가, 개선 미흡 시 영양사·운동 전문가 연계, 필요 시 약물치료 병행
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
@@ -459,16 +443,16 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
 * **TG 150\~199 ㎎/㎗** : 생활습관·2차 원인 교정이 기본. TG 수치만으로 저하제를 일률적으로 시작하지 않으며 ASCVD 위험에 따른 statin 적응증을 별도로 평가
 * **TG 200\~499 ㎎/㎗** : LDL·non-HDL 조절과 ASCVD 예방을 위한 statin이 우선
 * **TG 500\~999 ㎎/㎗** : 췌장염 예방을 위해 금주, 첨가당·정제 탄수화물 제한, 저지방식과 총지방 제한의 개별화; 2차 원인을 교정하고 지속 상승 시 fibrate 또는 처방용 omega-3 고려
-* **TG ≥1,000 ㎎/㎗** : 매우 저지방식(총에너지의 약 10~~15%, 대개 지방 ≤20~~30 g/d), 금주·첨가당 제한, 고혈당 신속 교정 및 TG 저하 치료; 복통·구토 시 췌장염을 즉시 평가
+* **TG ≥1,000 ㎎/㎗** : 매우 저지방식(총에너지의 약 10\~15%, 대개 지방 ≤20\~30 g/d), 금주·첨가당 제한, 고혈당 신속 교정 및 TG 저하 치료; 복통·구토 시 췌장염을 즉시 평가
 * **ASCVD 잔여 위험 감소를 위한 IPE** : 최대 내약 statin 치료 후에도 TG 135\~499 ㎎/㎗가 지속되는 ASCVD·고위험 당뇨병 환자에서 2 g bid(총 4 g/d)를 고려. 국외 EPA 단독 IPE의 근거이며 국내 EPA+DHA 혼합제·일반 보충제로 대체하여 같은 사건 감소 효과를 기대하지 않음
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA 2026; REDUCE-IT</mark>_
 
 ### <mark style="color:orange;">지질 저하제 효과 비교</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th width="130"></th><th width="102"></th><th width="102"></th><th width="102"></th><th></th></tr></thead><tbody><tr><td><strong>약물군</strong></td><td><strong>LDL 변화</strong></td><td><strong>HDL 변화</strong></td><td><strong>TG 변화</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>Statin</strong></td><td>↓ 21–55%</td><td>↑ 2–10%</td><td>↓ 6–30%</td><td>중등강도 30~49%, 고강도 ≥50%; 고강도+ezetimibe 총 감소 약 60~65%</td></tr><tr><td><strong>Ezetimibe</strong></td><td>↓ 10–18%</td><td>-</td><td>-</td><td>단독 약 15~20%; statin 치료 후 수치에서 추가 약 15~25% 감소</td></tr><tr><td><strong>Fibrate</strong></td><td>변동</td><td>↑ 6–18%</td><td>↓ 약 25–50%</td><td>TG 중심 개선, LDL은 변동 가능</td></tr><tr><td><strong>Niacin</strong></td><td>↓ 10–25%</td><td>↑ 10–35%</td><td>↓ 20–30%</td><td>HDL 상승 자체를 치료목표로 사용하지 않음; 국내 사용 가능한 니코틴산 제제 없음(2026 지침)</td></tr><tr><td><strong>Bile acid sequestrant</strong></td><td>↓ 15–25%</td><td>-</td><td>↑(경향)</td><td>TG 상승 가능성 주의</td></tr><tr><td><strong>PCSK9 억제제(단클론항체)</strong></td><td>↓ 48–71%</td><td>-</td><td>-</td><td>단독 ≈60%, 고강도 statin 병용 ≈75%, +ezetimibe ≈85%</td></tr><tr><td><strong>Inclisiran(siRNA)</strong></td><td>↓ 약 50%</td><td>-</td><td>-</td><td>statin 병용 시 지속적 LDL 감소; 연 2회 투여</td></tr><tr><td><strong>Bempedoic acid</strong></td><td>↓ 17–28%</td><td>-</td><td>-</td><td>넥스레톨정180mg 국내 허가(2026.10.14); 출시·급여와 구분</td></tr><tr><td><strong>처방용 Omega-3</strong></td><td>DHA 함유 시 ↑ 가능</td><td>-</td><td>↓ 약 20–45%</td><td>EPA 단독 IPE와 EPA+DHA 혼합제의 사건 감소 근거를 구분</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="130"></th><th width="102"></th><th width="102"></th><th width="102"></th><th></th></tr></thead><tbody><tr><td><strong>약물군</strong></td><td><strong>LDL 변화</strong></td><td><strong>HDL 변화</strong></td><td><strong>TG 변화</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>Statin</strong></td><td>↓ 21–55%</td><td>↑ 2–10%</td><td>↓ 6–30%</td><td>중등강도 30~49%, 고강도 ≥50%; 고강도+ezetimibe 총 감소 약 60~65%</td></tr><tr><td><strong>Ezetimibe</strong></td><td>↓ 10–18%</td><td>-</td><td>-</td><td>단독 약 15~20%; statin 치료 후 수치에서 추가 약 15~25% 감소</td></tr><tr><td><strong>Fibrate</strong></td><td>변동</td><td>↑ 6–18%</td><td>↓ 약 25–50%</td><td>TG 중심 개선, LDL은 변동 가능</td></tr><tr><td><strong>Niacin</strong></td><td>↓ 10–25%</td><td>↑ 10–35%</td><td>↓ 20–30%</td><td>HDL 상승 자체를 치료목표로 사용하지 않음; 국내 사용 가능한 니코틴산 제제 없음(2026 지침)</td></tr><tr><td><strong>Bile acid sequestrant</strong></td><td>↓ 15–25%</td><td>-</td><td>↑(경향)</td><td>TG 상승 가능성 주의</td></tr><tr><td><strong>PCSK9 억제제(단클론항체)</strong></td><td>↓ 48–71%</td><td>-</td><td>-</td><td>단독 ≈60%, 고강도 statin 병용 ≈75%, +ezetimibe ≈85%</td></tr><tr><td><strong>Inclisiran(siRNA)</strong></td><td>↓ 약 50%</td><td>-</td><td>-</td><td>statin 병용 시 지속적 LDL 감소; 연 2회 투여</td></tr><tr><td><strong>Bempedoic acid</strong></td><td>↓ 17–28%</td><td>-</td><td>-</td><td>넥스레톨정180㎎ 국내 허가(2026.10.14); 출시·급여와 구분</td></tr><tr><td><strong>처방용 Omega-3</strong></td><td>DHA 함유 시 ↑ 가능</td><td>-</td><td>↓ 약 20–45%</td><td>EPA 단독 IPE와 EPA+DHA 혼합제의 사건 감소 근거를 구분</td></tr></tbody></table>
 
-### <mark style="color:orange;">Statin (HMG-CoA reductase inhibitor)</mark>
+### <mark style="color:orange;">Statin (HMG-CoA reductase inhibitor)</mark> <a id="statin"></a>
 
 * ASCVD 예방의 근거가 확립된 1차 선택제; 위험도와 필요한 LDL 강하율에 따라 용량·병용요법 선택
 * 약제 용량 2배 증량 시 LDL 강하 효과 약 6%p 추가 감소("rule of 6")
@@ -483,42 +467,42 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA 
 
 #### <mark style="color:$primary;">Statin의 작용 강도에 따른 분류</mark>
 
-<table data-header-hidden><thead><tr><th width="91"></th><th width="90"></th><th></th><th width="220"></th></tr></thead><tbody><tr><td><strong>강도 분류</strong></td><td><strong>LDL</strong><br><strong>강하율</strong></td><td><strong>약제 및 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>고강도</strong></td><td>≥50%</td><td>atorvastatin 40–80 ㎎, rosuvastatin 20 ㎎(국외 40 ㎎)</td><td>심혈관질환 2차 예방에 우선 사용</td></tr><tr><td><strong>중등강도</strong></td><td>30–49%</td><td>atorvastatin 10–20 ㎎, rosuvastatin 5–10 ㎎, simvastatin 20–40 ㎎, pravastatin 40 ㎎(국외 80 ㎎), lovastatin 40–80 ㎎, fluvastatin XL 80 ㎎(또는 40 ㎎ bid), pitavastatin 1–4 ㎎</td><td>RCT에서 주요 심혈관 사건 감소 입증된 용량대</td></tr><tr><td><strong>저강도</strong></td><td>＜30%</td><td>simvastatin 10 ㎎, pravastatin 10–20 ㎎, lovastatin 20 ㎎, fluvastatin 20–40 ㎎</td><td>고령·저위험군에서 고려 가능</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="91"></th><th width="90"></th><th></th><th width="220"></th></tr></thead><tbody><tr><td><strong>강도 분류</strong></td><td><strong>LDL</strong><br><strong>강하율</strong></td><td><strong>약제 및 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>고강도</strong></td><td>≥50%</td><td>atorvastatin 40–80 ㎎, rosuvastatin 20 ㎎(국외 40 ㎎)</td><td>심혈관질환 2차 예방에 우선 사용</td></tr><tr><td><strong>중등강도</strong></td><td>30–49%</td><td>atorvastatin 10–20 ㎎, rosuvastatin 5–10 ㎎, simvastatin 20–40 ㎎, pravastatin 40 ㎎(국외 80 ㎎), lovastatin 40–80 ㎎, fluvastatin XL 80 ㎎ qd(또는 속방형 40 ㎎ bid), pitavastatin 1–4 ㎎</td><td>RCT에서 주요 심혈관 사건 감소 입증된 용량대</td></tr><tr><td><strong>저강도</strong></td><td>＜30%</td><td>simvastatin 10 ㎎, pravastatin 10–20 ㎎, lovastatin 20 ㎎, fluvastatin 20–40 ㎎</td><td>고령·저위험군에서 고려 가능</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA. 강도 분류의 국외 용량과 국내 허가용량을 구분함.</mark>_
 
 #### <mark style="color:$primary;">Statin의 효과 비교</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th></th><th width="84"></th><th width="72"></th><th width="81"></th><th width="75"></th><th width="74"></th><th width="87"></th><th width="106"></th></tr></thead><tbody><tr><td><strong>성분명(코드)</strong></td><td><strong>용량(㎎/d)</strong></td><td><strong>섭취 시각</strong></td><td><strong>신 배설(%)</strong></td><td><strong>간 대사(CYP)</strong></td><td><strong>LDL 변화</strong></td><td><strong>TG 변화</strong></td><td><strong>HDL 변화</strong></td></tr><tr><td><strong>Lovastatin(LVS)</strong></td><td>20–40</td><td>저녁</td><td>10</td><td>3A4</td><td>↓24–28%</td><td>↓8%</td><td>↑4%</td></tr><tr><td><strong>Pravastatin(PVS)</strong></td><td>40</td><td>저녁</td><td>20</td><td>-</td><td>↓30–36%</td><td>↓13–20%</td><td>↑6%</td></tr><tr><td><strong>Simvastatin(SVS)</strong></td><td>20–40</td><td>저녁</td><td>13</td><td>3A4</td><td>↓39–45%</td><td>↓13–23%</td><td>↑5–8%</td></tr><tr><td><strong>Fluvastatin(FVS)</strong></td><td>40</td><td>저녁</td><td>10</td><td>2C9</td><td>↓24–28%</td><td>↓13–20%</td><td>↑6%</td></tr><tr><td><strong>Atorvastatin(AVS)</strong></td><td>10–80</td><td>무관</td><td>2</td><td>3A4</td><td>↓36–55%</td><td>↓20–28%</td><td>↑2–10%</td></tr><tr><td><strong>Rosuvastatin(RSVS)</strong></td><td>2.5–20(국내)</td><td>무관</td><td>10</td><td>2C9/2C19(일부)</td><td>↓38–55%</td><td>↓20–28%</td><td>↑2–10%</td></tr><tr><td><strong>Pitavastatin(PTVS)</strong></td><td>1–4</td><td>무관</td><td>15</td><td>2C9(일부)</td><td>↓31–47%</td><td>↓20–28%</td><td>↑2–10%</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th></th><th width="84"></th><th width="72"></th><th width="81"></th><th width="75"></th><th width="74"></th><th width="87"></th><th width="106"></th></tr></thead><tbody><tr><td><strong>성분명(코드)</strong></td><td><strong>용량(㎎/d)</strong></td><td><strong>섭취 시각</strong></td><td><strong>신 배설(%)</strong></td><td><strong>간 대사(CYP)</strong></td><td><strong>LDL 변화</strong></td><td><strong>TG 변화</strong></td><td><strong>HDL 변화</strong></td></tr><tr><td><strong>Lovastatin(LVS)</strong></td><td>20–40</td><td>저녁</td><td>10</td><td>3A4</td><td>↓24–28%</td><td>↓8%</td><td>↑4%</td></tr><tr><td><strong>Pravastatin(PVS)</strong></td><td>40</td><td>저녁</td><td>20</td><td>-</td><td>↓30–36%</td><td>↓13–20%</td><td>↑6%</td></tr><tr><td><strong>Simvastatin(SVS)</strong></td><td>20–40</td><td>저녁</td><td>13</td><td>3A4</td><td>↓39–45%</td><td>↓13–23%</td><td>↑5–8%</td></tr><tr><td><strong>Fluvastatin(FVS)</strong><br>속방형 비교자료</td><td>40</td><td>저녁</td><td>10</td><td>2C9</td><td>↓24–28%</td><td>↓13–20%</td><td>↑6%</td></tr><tr><td><strong>Atorvastatin(AVS)</strong></td><td>10–80</td><td>무관</td><td>2</td><td>3A4</td><td>↓36–55%</td><td>↓20–28%</td><td>↑2–10%</td></tr><tr><td><strong>Rosuvastatin(RSVS)</strong></td><td>2.5–20(국내)</td><td>무관</td><td>10</td><td>2C9/2C19(일부)</td><td>↓38–55%</td><td>↓20–28%</td><td>↑2–10%</td></tr><tr><td><strong>Pitavastatin(PTVS)</strong></td><td>1–4</td><td>무관</td><td>15</td><td>2C9(일부)</td><td>↓31–47%</td><td>↓20–28%</td><td>↑2–10%</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA. 강도 분류의 국외 용량과 국내 허가용량을 구분함.</mark>_
 
 #### <mark style="color:$primary;">약제 종류</mark>
 
-* lovastatin : 통상 시작 용량 20 ㎎(범위 10\~80 ㎎), 저녁 식사와 함께 복용 <mark style="color:blue;">\[로바로드]</mark>
-* simvastatin : 심장 약물(amiodarone, amlodipine, diltiazem, dronedarone, ranolazine, verapamil) 병용 시 용량 제한; 20 ㎎(5\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[조코]</mark>
-* pravastatin : 40 ㎎(국내 10\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[메바로친]</mark>
-* fluvastatin : 40 ㎎(20\~80 ㎎), 저녁 복용 <mark style="color:blue;">\[레스콜]</mark>
-* atorvastatin : 10\~20 ㎎(10\~80 ㎎), 복용 시간·식사 무관 <mark style="color:blue;">\[리피토]</mark>
-* rosuvastatin : 국내 크레스토 허가상 **5 ㎎ qd로 시작**, 통상 유지 10 ㎎, 최대 20 ㎎/d; 복용 시간·식사 무관. 중증 신장애(**CrCl ＜30 ㎖/min**)는 금기이며 중등도 신장애에서 20 ㎎은 각별히 주의 <mark style="color:blue;">\[크레스토]</mark>
-* pitavastatin : 2 ㎎(1\~4 ㎎), 복용 시간 무관 <mark style="color:blue;">\[리바로]</mark>
+* lovastatin : 통상 시작 용량 20 ㎎(범위 10\~80 ㎎), 저녁 식사와 함께 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0659" title="약학정보원: 로바로드정" data-kpic-body="1">로바로드</a>]</mark>
+* simvastatin : 심장 약물(amiodarone, amlodipine, diltiazem, dronedarone, ranolazine, verapamil) 병용 시 용량 제한; 20 ㎎(5\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A5950A0005" title="약학정보원: 조코정20mg" data-kpic-body="1">조코</a>]</mark>
+* pravastatin : 40 ㎎(국내 10\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011081600001" title="약학정보원: 메바로친정40mg" data-kpic-body="1">메바로친</a>]</mark>
+* fluvastatin 서방형 : 80 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AMMMMM2081" title="약학정보원: 레스콜엑스엘서방정, fluvastatin 80㎎" data-kpic-supplement="1">레스콜엑스엘</a>]</mark>; LDL-C 기저치·치료 목표에 따라 80 ㎎/d 요법이 필요한 경우 선택. 식사와 관계없이 매일 일정한 시간에 물과 함께 통째로 복용하며, 분할·분쇄하거나 씹지 않음
+* atorvastatin : 10\~20 ㎎(10\~80 ㎎), 복용 시간·식사 무관 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1504" title="약학정보원: 리피토정20mg" data-kpic-body="1">리피토</a>]</mark>
+* rosuvastatin : 국내 <a href="https://www.health.kr/drug/A11AOOOOO9123" title="약학정보원: 크레스토정5mg" data-kpic-body="1">크레스토</a> 허가상 **5 ㎎ qd로 시작**, 통상 유지 10 ㎎, 최대 20 ㎎/d; 복용 시간·식사 무관. 중증 신장애(**CrCl ＜30 ㎖/min**)는 금기이며 중등도 신장애에서 20 ㎎은 각별히 주의 <mark style="color:blue;">\[크레스토]</mark>
+* pitavastatin : 2 ㎎(1\~4 ㎎), 복용 시간 무관 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5664" title="약학정보원: 리바로정2mg" data-kpic-body="1">리바로</a>]</mark>
 
 **Statin/항고혈압제 복합제**
 
-* rosuvastatin/candesartan <mark style="color:blue;">\[투게논]</mark>
-* rosuvastatin/fimasartan <mark style="color:blue;">\[투베로]</mark>
-* rosuvastatin/valsartan <mark style="color:blue;">\[로바티탄]</mark>
-* rosuvastatin/losartan/amlodipine <mark style="color:blue;">\[아모잘탄 큐]</mark>
-* rosuvastatin/telmisartan <mark style="color:blue;">\[듀오웰]</mark>
-* rosuvastatin/telmisartan/amlodipine <mark style="color:blue;">\[텔로스톱 플러스]</mark>
-* pitavastatin/valsartan <mark style="color:blue;">\[리바로 브이]</mark>
-* pitavastatin/valsartan/amlodipine <mark style="color:blue;">\[리바로 하이]</mark>
-* rosuvastatin/ezetimibe/losartan/amlodipine <mark style="color:blue;">\[아모잘탄엑스큐]</mark>
-* rosuvastatin/ezetimibe/telmisartan/amlodipine <mark style="color:blue;">\[누보로젯]</mark>
+* rosuvastatin/candesartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017051700025" title="약학정보원: 투게논정10/8mg" data-kpic-body="1">투게논</a>]</mark>
+* rosuvastatin/fimasartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2016090100013" title="약학정보원: 투베로정30/10mg" data-kpic-body="1">투베로</a>]</mark>
+* rosuvastatin/valsartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013101100012" title="약학정보원: 로바티탄정10/80mg" data-kpic-body="1">로바티탄</a>]</mark>
+* rosuvastatin/losartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017071700011" title="약학정보원: 아모잘탄큐정5/50/10mg" data-kpic-body="1">아모잘탄 큐</a>]</mark>
+* rosuvastatin/telmisartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014110300055" title="약학정보원: 듀오웰정40/10mg" data-kpic-body="1">듀오웰</a>]</mark>
+* rosuvastatin/telmisartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018051400019" title="약학정보원: 텔로스톱플러스정40/5/10mg" data-kpic-body="1">텔로스톱 플러스</a>]</mark>
+* pitavastatin/valsartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015022600007" title="약학정보원: 리바로브이정2/80mg" data-kpic-body="1">리바로 브이</a>]</mark>
+* pitavastatin/valsartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2025092500007" title="약학정보원: 리바로하이정2/80/5mg" data-kpic-body="1">리바로 하이</a>]</mark>
+* rosuvastatin/ezetimibe/losartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020111100001" title="약학정보원: 아모잘탄엑스큐정5/50/5/10mg" data-kpic-body="1">아모잘탄엑스큐</a>]</mark>
+* rosuvastatin/ezetimibe/telmisartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022072100005" title="약학정보원: 누보로젯정40/2.5/10/10mg" data-kpic-body="1">누보로젯</a>]</mark>
 
 **Statin/항당뇨병제 복합제**
 
-* rosuvastatin/gemigliptin <mark style="color:blue;">\[제미로우]</mark>
+* rosuvastatin/gemigliptin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017080100040" title="약학정보원: 제미로우정50/10mg" data-kpic-body="1">제미로우</a>]</mark>
 
 ### <mark style="color:orange;">콜레스테롤 흡수 억제제</mark>
 
@@ -527,17 +511,17 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
 * 부작용 : 복통, 설사, 부글거림, 피로감, 근육병증(드묾)
 * 임신·수유 시 국내 제품 허가사항의 제한을 적용함. 중등도\~중증 간장애에서는 권장하지 않으며 statin 병용 시 해당 statin의 금기도 적용
 * 신기능에 따른 ezetimibe 용량 조절은 통상 필요하지 않음
-* ezetimibe : 10 ㎎/d qd, 식사 무관 복용 <mark style="color:blue;">\[이지트롤]</mark>
+* ezetimibe : 10 ㎎/d qd, 식사 무관 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5289" title="약학정보원: 이지트롤정" data-kpic-body="1">이지트롤</a>]</mark>
 
 ### <mark style="color:orange;">Fibrate (fibric acid derivative)</mark>
 
 * 효과 : TG↓; LDL 변화는 기저 TG 등에 따라 달라짐. ASCVD 감소 효과는 전체 대상에서 대체로 중립적이며, 일부 고TG·저HDL 하위군의 이득 가능성도 확립되지 않음(PROMINENT에서도 사건 감소를 입증하지 못함)
 * TG ≥500 ㎎/㎗, 특히 ≥1,000 ㎎/㎗에서 췌장염 예방 목적으로 고려. 이 수치 범위에서 췌장염 사건 감소를 직접 입증한 무작위시험 근거는 제한적이며 TG 감소 효과와 임상 위험에 근거한 권고임. ASCVD 예방 목적의 기본 약제는 statin이며, statin과 fibrate를 모든 고중성지방혈증 환자에게 일률적으로 병용하지 않음
 * 부작용 : 소화 장애, 담석, 간염, 근육병증
-* 주의/금기 : warfarin 병용(항응고작용↑), statin 병용(근육병증↑). Fenofibrate는 국내 리피딜슈프라 허가상 간장애·선재성 담낭질환·임신/수유·소아·중등도\~중증 신장애에서 금기
-* **리피딜슈프라의 국내 신장애 기준** : 혈청 creatinine ≥2.5 ㎎/㎗이면 투여하지 않음; 1.5\~＜2.5 ㎎/㎗는 감량 또는 투여 간격 연장. 임상적으로 eGFR 30\~59는 감량, ＜30은 회피 원칙도 함께 고려하되, 다른 제형의 저용량을 160 ㎎정에 임의 환산하지 않음
-* fenofibrate : statin 병용에 상대적으로 안전; 160 ㎎ qd 식후 즉시(제형 간 함량·생체이용률이 달라 임의 환산하지 않음) <mark style="color:blue;">\[리피딜 슈프라]</mark>
-* bezafibrate : 200\~600 ㎎ #2\~3 식후 <mark style="color:blue;">\[베자립]</mark>
+* 주의/금기 : warfarin 병용(항응고작용↑), statin 병용(근육병증↑). Fenofibrate는 리피딜슈프라는 간장애·선재성 담낭질환·임신/수유·소아·중등도\~중증 신장애에서 금기
+* **리피딜슈프라의 국내 신장애 기준** : 혈청 creatinine ≥2.5 ㎎/㎗이면 투여하지 않음; 1.5\~＜2.5 ㎎/㎗는 감량 또는 투여 간격 연장. 임상적으로 eGFR 30\~59는 감량, ＜30은 회피 원칙도 함께 고려하되, 중등도~중증 신장애 금기에 해당하면 사용하지 않으며, 감량 문구를 금기 해제의 근거로 삼지 않음. 다른 제형의 저용량을 160 ㎎정에 임의 환산하지 않음
+* fenofibrate : statin 병용에 상대적으로 안전; 160 ㎎ qd 식후 즉시(제형 간 함량·생체이용률이 달라 임의 환산하지 않음) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO2588" title="약학정보원: 리피딜슈프라정" data-kpic-body="1">리피딜 슈프라</a>]</mark>
+* bezafibrate : 200\~600 ㎎ #2\~3 식후 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0390" title="약학정보원: 베자립정" data-kpic-body="1">베자립</a>]</mark>
 * Gemfibrozil은 statin 병용 시 근육병증 위험이 높아 병용을 피함. Ciprofibrate·gemfibrozil은 국내 유통이 확인된 약제로 제시하지 않음
 
 ### <mark style="color:orange;">Bile acid sequestrant (담즙산 분리제)</mark>
@@ -547,7 +531,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
 * 부작용 : 변비, 복부 팽만, 담석증
 * 타 약제 흡수 억제 : digitalis, warfarin, propranolol, thiazide, amiodarone, thyroxine, acetaminophen, NSAID, steroid, folic acid, Vit A/D/K, penicillin G, tetracycline
 * TG를 높일 수 있어 TG ≥300 ㎎/㎗에서는 사용을 피하며, TG 상승 환자에서 LDL 저하 목적으로 우선 선택하지 않음
-* cholestyramine : 4\~24 g/d, #2\~3, 식사와 함께 복용 <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
+* cholestyramine : 4\~24 g/d, #2\~3, 식사와 함께 복용 <mark style="color:blue;">\[<a href="https://www.kodc.or.kr/KDCB101" title="한국희귀필수의약품센터: 에픽콜레스티라민현탁용산(라이트), 4 g/포" data-kpic-supplement="1">에픽콜레스티라민현탁용산(라이트)</a>]</mark>
 * colestipol, colesevelam : ezetimibe와 비슷한 효과가 있으나 tolerability가 낮다는 보고가 있음(국내 유통 제한적 - 처방 전 확인 필요)
 
 ### <mark style="color:orange;">Niacin (Nicotinic acid)</mark>
@@ -563,8 +547,8 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
   * 최대 내약 statin 치료에 추가했을 때 LDL 강하와 함께 ASCVD 사건을 감소시킴
 * 가족성 고콜레스테롤혈증 등에서 statin에 추가 고려
 * 부작용 : 주사 부위 반응
-* alirocumab : 통상 75 ㎎ 격주 피하주사. 큰 LDL 감소가 필요하면 150 ㎎ 격주 또는 300 ㎎ 4주마다로 시작 가능; 4\~8주 후 반응에 따라 조절 <mark style="color:blue;">\[프랄런트펜주]</mark>. 국내 허가된 성인 치료제임
-* evolocumab : 140 ㎎ 격주 또는 420 ㎎ 매월 피하주사 <mark style="color:blue;">\[레파타 주]</mark> (ASCVD 급여 경로: 급여상 초고위험군이면서 최대 내약 statin+ezetimibe에도 LDL ≥70 또는 감소율 ＜50%. 주요 ASCVD ≥2개 또는 주요 ASCVD 1개+고위험요인 ≥2개 등 급여상 위험군 정의가 선행하며, HeFH·HoFH·불내성 경로는 별도임)
+* alirocumab : 통상 75 ㎎ 격주 피하주사. 큰 LDL 감소가 필요하면 150 ㎎ 격주 또는 300 ㎎ 4주마다로 시작 가능; 4\~8주 후 반응에 따라 조절 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017012300011" title="약학정보원: 프랄런트펜주75mg" data-kpic-body="1">프랄런트펜</a>]</mark>. 국내 허가된 성인 치료제임
+* evolocumab : 140 ㎎ 격주 또는 420 ㎎ 매월 피하주사 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017041700018" title="약학정보원: 레파타주프리필드펜" data-kpic-body="1">레파타 주</a>]</mark> (ASCVD 급여 경로: 급여상 초고위험군이면서 최대 내약 statin+ezetimibe에도 LDL ≥70 또는 감소율 ＜50%. 주요 ASCVD ≥2개 또는 주요 ASCVD 1개+고위험요인 ≥2개 등 급여상 위험군 정의가 선행하며, HeFH·HoFH·불내성 경로는 별도임)
 * **FOURIER 시험(NEJM 2017)** : statin 치료 중인 ASCVD 환자(LDL ≥70 ㎎/㎗) 27,564명을 evolocumab군과 위약군으로 무작위 배정; 심혈관 사망·심근경색·뇌졸중·불안정 협심증 입원·관상동맥 재관류술의 복합 발생률이 evolocumab군 9.8% vs 위약군 11.3%(HR 0.85, 95% CI 0.79\~0.92, P＜0.001) - PCSK9 단클론항체의 심혈관 사건 감소 근거. Alirocumab도 ODYSSEY OUTCOMES에서 사건 감소를 입증함
 * **VESALIUS-CV(NEJM 2026)** : 이전 심근경색·뇌졸중이 없지만 죽상경화증 또는 고위험 당뇨병이 있고 LDL ≥90인 환자에서 evolocumab이 3-point MACE를 감소시킴(5년 추정 6.2% vs 8.0%, HR 0.75). 일반 저위험 일차예방 환자에게 그대로 확대 적용하지 않음
 
@@ -588,21 +572,21 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">FDA. Lipfe
 
 * 기전 : 간세포 ASGPR을 통해 흡수되어 RNA 간섭으로 PCSK9 mRNA를 분해 → PCSK9 단백질 생성 억제 → LDL 수용체 재활용 증가 → LDL-C 감소
 * 효과 : statin 병용 시 LDL 약 50% 감소, 1회 투여 후 효과가 수개월 지속
-* inclisiran : 1회 284 ㎎/1.5 ㎖(inclisiran sodium 300 ㎎), 최초 및 3개월 후 투여하고 이후 6개월마다 의료기관에서 피하주사 <mark style="color:blue;">\[렉비오프리필드시린지]</mark>
+* inclisiran : 1회 284 ㎎/1.5 ㎖(inclisiran sodium 300 ㎎), 최초 및 3개월 후 투여하고 이후 6개월마다 의료기관에서 피하주사 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2024062100007" title="약학정보원: 렉비오프리필드시린지" data-kpic-body="1">렉비오프리필드시린지</a>]</mark>
 * LDL 저하 효과는 확립되어 있으나 심혈관 사건 감소 결과는 단클론항체와 구분함; evolocumab/alirocumab과의 일률적 중복 투여는 권고하지 않음
 
 ### <mark style="color:orange;">Bempedoic acid (벰페도익산)</mark>
 
 * ATP-citrate lyase(ACL) 억제제; LDL 약 17\~28% 감소
-* **국내 허가: 2026.10.14, 넥스레톨정180mg**. 제조사 허가 공지로 확인하였으며 실제 출시·유통 및 건강보험 등재와는 구분함(2026.10.27 검토)
+* **국내 허가: 2026.10.14, 넥스레톨정180㎎**. 제조사 허가 공지로 확인하였으며 실제 출시·유통 및 건강보험 등재와는 구분함(2026.10.27 검토)
 * 국내 적응증 : 성인 원발성 고콜레스테롤혈증(HeFH 포함)·혼합형 이상지질혈증에서 최대 내약 statin으로 조절 불충분 시 병용, statin 불내성·금기 시 단독 또는 다른 지질저하제와 병용
 * 심혈관 위험 감소 적응증 : 권고되는 statin 치료를 사용할 수 없는 성인 중 심혈관질환 병력 또는 심혈관질환 고위험이 있는 환자의 **심근경색·관상동맥 재관류술 위험 감소**. 모든 사망·뇌졸중 감소 적응증으로 확대하지 않음
-* **국내 허가용법** : 1회 180 ㎎, 1일 1회, 식사와 관계없이 경구 투여 <mark style="color:blue;">\[넥스레톨정180mg]</mark>. 투여 중 표준 콜레스테롤 저하식을 지속함
+* **국내 허가용법** : 1회 180 ㎎, 1일 1회, 식사와 관계없이 경구 투여 <mark style="color:blue;">\[넥스레톨]</mark>. 투여 중 표준 콜레스테롤 저하식을 지속함
 * **추적 검사** : 복용 시작 후 8\~12주 이내에 지질 수치를 모니터링함
 * CLEAR Outcomes : 180 ㎎ qd를 사용한 statin 불내성 환자 13,970명 연구에서 4-point MACE 11.7% vs 13.3%(HR 0.87)
 * 부작용 : 고요산혈증·통풍, 담석, 간효소 상승, 건손상/건파열 가능성. Simvastatin·pravastatin과 병용 시 노출 증가 및 용량 제한에 유의
 
-_<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 허가사항(용법·용량); 한국다이이찌산쿄. 넥스레톨 수입품목허가 공지(2026.10.15); CLEAR Outcomes, N Engl J Med. 2023;388:1353–1364.</mark>_
+_<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180㎎ 허가사항(용법·용량); 한국다이이찌산쿄. 넥스레톨 수입품목허가 공지(2026.10.15); CLEAR Outcomes, N Engl J Med. 2023;388:1353–1364.</mark>_
 
 ### <mark style="color:orange;">Omega-3 지방산</mark>
 
@@ -611,7 +595,7 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
   * AHA는 중성지방 강하를 위하여 4 g/d(＞3 g/d)의 EPA+DHA 또는 EPA 단독 투여를 권고
 * 부작용 : 관절통, 트림, 소화불량, 변비, 가려움, 출혈 위험 증가 가능성(항혈전제 병용 시 주의), (간 장애 환자에서) ALT↑
   * 1 g 이상의 해양 오메가-3 보충제 복용은 용량에 비례하여 심방세동 위험 증가와 관련이 있다는 보고가 있음
-* omega-3-acid ethyl esters(EPA+DHA) : 2 g/d, 필요 시 4 g/d로 증량하여 1\~2회 식사와 함께 복용 <mark style="color:blue;">\[오마코]</mark>
+* omega-3-acid ethyl esters(EPA+DHA) : 2 g/d, 필요 시 4 g/d로 증량하여 1\~2회 식사와 함께 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7510" title="약학정보원: 오마코연질캡슐" data-kpic-body="1">오마코</a>]</mark>
 * DHA 함유 제제는 LDL을 높일 수 있음. EPA 단독 IPE의 ASCVD 사건 감소 근거와 EPA+DHA 제제의 TG 저하 효과를 구분함
 
 ### <mark style="color:orange;">병용 요법</mark>
@@ -620,8 +604,8 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
   * 당뇨병 동반 시 일차예방 고위험군 LDL ＜70, ASCVD 동반 시 ＜55 등 해당 위험군의 목표 미달 여부로 판단
 * 장점 : 서로 다른 기전으로 추가 LDL 강하를 얻으며, 일부 조합에서는 statin 증량 부담을 줄일 수 있음; 부작용은 조합별로 평가
 * statin/ezetimibe 또는 statin/PCSK9i
-* statin/ezetimibe : ezetimibe/simvastatin <mark style="color:blue;">\[바이토린]</mark>, ezetimibe/rosuvastatin <mark style="color:blue;">\[로수젯]</mark>
-* statin/omega-3 : omega-3/rosuvastatin <mark style="color:blue;">\[로수메가]</mark>
+* statin/ezetimibe : ezetimibe/simvastatin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5504" title="약학정보원: 바이토린정10/10" data-kpic-body="1">바이토린</a>]</mark>, ezetimibe/rosuvastatin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015061500050" title="약학정보원: 로수젯정10/10mg" data-kpic-body="1">로수젯</a>]</mark>
+* statin/omega-3 : omega-3/rosuvastatin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017080100039" title="약학정보원: 로수메가연질캡슐" data-kpic-body="1">로수메가</a>]</mark>
 * statin + fibrate 또는 niacin : ASCVD 예방 목적으로 일률적 병용은 권고하지 않음. 다만 TG ≥500 ㎎/㎗에서 췌장염 위험을 낮추려는 경우에는 fenofibrate 병용을 개별적으로 고려할 수 있음(gemfibrozil 병용은 회피)
 
 ### <mark style="color:orange;">기타 보완 요법 (근거 제한적)</mark>
@@ -633,7 +617,7 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
 
 ## <mark style="color:green;">특수 상황별 관리</mark>
 
-### <mark style="color:orange;">당뇨병 환자의 이상지질혈증</mark> <mark style="color:orange;"><mark style="color:$info;">\[ADA]<mark style="color:$info;"></mark>
+### <mark style="color:orange;">당뇨병 환자의 이상지질혈증</mark> <mark style="color:$info;">[ADA 2026]</mark>
 
 #### <mark style="color:$primary;">1차 예방</mark>
 
@@ -699,7 +683,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ESC/EAS 
 
 #### <mark style="color:$primary;">지질</mark>
 
-* 치료 시작·용량 변경 4~~12주 후 지질 검사; 이후 위험도·치료 반응에 따라 3~~12개월 간격(안정적으로 목표 달성 시 6\~12개월)으로 추적
+* 치료 시작·용량 변경 4\~12주 후 지질 검사; 이후 위험도·치료 반응에 따라 3\~12개월 간격(안정적으로 목표 달성 시 6\~12개월)으로 추적
 * 빈번한 지질 평가 대상 : 치료 방침 변경, 당뇨병 악화, 지질에 영향을 주는 새로운 약물 투여, 죽상 혈전 질환 진행, 상당한 체중 증가, 예상 외의 지질 악화, 새로운 CAD 위험 인자 발생
 * LDL이 매우 낮게 측정되더라도 수치만을 이유로 일률적으로 감량하지 않으며, 전체 위험도·부작용·환자 선호와 측정 정확도를 함께 평가
 
@@ -793,42 +777,52 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 > **처방례 1. 경도-중등도 고콜레스테롤혈증 (중등위험군)**
 >
 > ```
-> 리바로 2 ㎎/T  1T  qd
+> 리바로정2밀리그램  2 ㎎/정  1정  qd
 > ```
+>
+> 약제 정보: [리바로정 2㎎](https://www.health.kr/drug/A11AOOOOO5664)
 >
 > _✽pitavastatin 2 ㎎으로 시작하는 중등강도 statin 단독요법; CYP3A4 상호작용은 적지만 cyclosporine 등 수송체 상호작용과 신기능은 별도로 평가함. 4\~12주 후 지질 재검사하여 목표 달성 여부 확인_
 
 > **처방례 2. 관상동맥질환에서 statin+ezetimibe 병용**
 >
 > ```
-> 로수젯 정 10/10 ㎎/T  1T  qd
+> 로수젯정10/10밀리그램 (ezetimibe/rosuvastatin 10/10 ㎎/정)  1정  qd
 > ```
+>
+> 약제 정보: [로수젯정 10/10㎎](https://www.health.kr/drug/2015061500050)
 >
 > _✽rosuvastatin 10 ㎎은 중등강도 statin 용량이며 ezetimibe 병용으로 추가 LDL 강하를 기대할 수 있음. 초고위험군에서는 필요한 강하율을 계산하여 rosuvastatin 20 ㎎ 또는 atorvastatin 40\~80 ㎎ 기반의 고강도 요법을 우선 고려_
 
 > **처방례 3. 최대 내약 용량 statin+ezetimibe로 목표 미도달 시 (초고위험군)**
 >
 > ```
-> 크레스토 20 ㎎/T  1T  qd
-> 이지트롤 10 ㎎/T  1T  qd
-> 레파타 주 140 ㎎  2주마다 피하주사
+> 크레스토정20밀리그램  20 ㎎/정  1정  qd (기존 내약 유지용량)
+> 이지트롤정  10 ㎎/정  1정  qd
+> 레파타주프리필드펜 (140 ㎎/1 ㎖/펜)  1펜  2주마다 피하주사
 > ```
+>
+> 약제 정보: [크레스토정 20㎎](https://www.health.kr/drug/A11AOOOOO2171) · [이지트롤정 10㎎](https://www.health.kr/drug/A11AOOOOO5289) · [레파타주프리필드펜 140㎎](https://www.health.kr/drug/2017041700018)
 >
 > _✽고강도 statin+ezetimibe 최대 용량 투여 4\~6주 후에도 LDL 목표 미도달 시 PCSK9 억제제 병용; 급여상 초고위험군 정의와 치료 반응 요건을 함께 적용하며, LDL ≥70 또는 감소율 ＜50%만으로 모든 ASCVD 환자에게 급여가 인정되는 것은 아님_
 
 > **처방례 4. 중증 고중성지방혈증 (TG ≥500 ㎎/㎗, 췌장염 위험)**
 >
 > ```
-> 리피딜슈프라 160 ㎎/T  1T  qd(식후 즉시)
+> 리피딜슈프라정  160 ㎎/정  1정  qd (식후 즉시)
 > ```
 >
-> _✽신기능·간기능·담낭질환·임신/수유 여부를 평가한 성인의 예시임. 급성 췌장염 예방이 1차 목표. 음주·고탄수화물 식사 제한과 2차 원인 교정을 병행하고, 신기능에 따라 fenofibrate 용량을 조절하거나 피함. 반응이 불충분하면 처방용 omega-3 4 g/d 병용을 고려_
+> 약제 정보: [리피딜슈프라정 160㎎](https://www.health.kr/drug/A11AOOOOO2588)
+>
+> _✽정상 신기능이며 간장애·선재성 담낭질환 등 금기가 없는 성인의 예시임. 중등도~중증 신장애에서는 위 160 ㎎ 처방을 적용하지 않음. 급성 췌장염 예방이 1차 목표. 음주·고탄수화물 식사 제한과 2차 원인 교정을 병행하고, 신기능에 따라 fenofibrate 용량을 조절하거나 피함. 반응이 불충분하면 처방용 omega-3 4 g/d 병용을 고려_
 
 > **처방례 5. 혼합형 고지질혈증 (LDL 높음 + TG 200\~499 ㎎/㎗)**
 >
 > ```
-> 리피토 20 ㎎/T  1T  qd
+> 리피토정20밀리그램  20 ㎎/정  1정  qd
 > ```
+>
+> 약제 정보: [리피토정 20㎎](https://www.health.kr/drug/A11ABBBBB1504)
 >
 > _✽1차 목표는 LDL 조절이므로 statin과 생활 습관 중재를 우선함. TG가 ≥500 ㎎/㎗로 상승하거나 선택된 고위험 환자에서 잔여 위험 치료 적응증이 있을 때만 추가 약제를 검토. Statin+gemfibrozil 조합은 회피_
 
@@ -838,13 +832,14 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 
 > **Statin - 언제, 어떻게 복용하나요**
 >
-> * simvastatin, lovastatin, pravastatin, fluvastatin은 콜레스테롤 합성이 야간에 활발하므로 **저녁 복용**을 권장; atorvastatin, rosuvastatin, pitavastatin은 반감기가 길어 **복용 시간과 무관**
+> * simvastatin, lovastatin, pravastatin, fluvastatin 속방형은 콜레스테롤 합성이 야간에 활발하므로 **저녁 복용**을 권장; atorvastatin, rosuvastatin, pitavastatin은 반감기가 길어 **복용 시간과 무관**
+> * lovastatin은 저녁 식사와 함께 복용하며, fluvastatin 서방형(레스콜엑스엘)은 식사와 관계없이 매일 일정한 시간에 물과 함께 통째로 복용함. 서방정은 분할·분쇄하거나 씹지 않음
 > * 매일 같은 시간에 복용하도록 안내 - 순응도가 LDL 목표 달성률에 직접 영향을 미침
 > * 자몽(grapefruit) 및 자몽 주스는 simvastatin, lovastatin, atorvastatin과 상호작용할 수 있어 다량 섭취 회피
 
 > **근육 증상 모니터링**
 >
-> * 설명되지 않는 근육통, 근력 저하, 진한 갈색뇨가 발생하면 즉시 내원하도록 교육(횡문근융해증 감별)
+> * 새로운 근육통·근력 저하는 조기에 상담. 심한 근육 증상에 갈색뇨·소변 감소가 동반되면 약을 중단하고 응급 평가(횡문근융해증 감별)
 > * 임의로 용량을 늘리거나 다른 statin과 중복 복용하지 않도록 안내
 > * fibrate, cyclosporine, macrolide계 항생제, azole계 항진균제 등 병용 시작 시 반드시 처방의에게 알리도록 교육
 
@@ -852,55 +847,21 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 >
 > * warfarin 복용 중인 환자에서 fibrate, niacin 병용 시 INR 변동 가능 - 병용 시작·중단 시 INR 재확인
 > * cholestyramine과 다른 경구약은 다른 약을 최소 1시간 먼저 또는 cholestyramine 복용 4\~6시간 뒤 투여하도록 간격을 둠(흡수 방해 예방)
-> * PCSK9 억제제·inclisiran은 자가/의료기관 주사 스케줄을 놓치지 않도록 다음 투여일을 명확히 안내
+> * 레파타·프랄런트는 교육받은 경우 처방·기기 안내에 따라 자가주사할 수 있으나 렉비오는 의료진이 투여함. 렉비오는 최초·3개월 후·이후 6개월마다이며 다음 투여일을 명확히 안내
+> * 리피딜슈프라는 식후 즉시 복용하고 다른 fenofibrate 제형과 ㎎ 단위로 임의 교체하지 않음. Warfarin 병용자는 INR 추적 일정 확인
+> * 퀘스트란은 정해진 물·음료에 잘 섞어 마시며 마른 가루를 그대로 삼키지 않음
+> * 복용을 잊었다고 두 배로 복용하지 않으며 약제별 누락 용량 안내를 따름
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 설명되지 않는 근육통·근력 저하·진한 갈색뇨가 발생하는 경우 - 즉시 내원
 > * 피로감·식욕 부진·복통·황달 등 간 기능 이상이 의심되는 증상이 발생하는 경우 - 즉시 내원
 > * 심한 복통(특히 등으로 방사하는 통증)이 발생하는 경우 - 급성 췌장염 감별을 위해 즉시 내원
-> * 처방된 약물을 3개월 이상 복용했음에도 지질 수치가 목표에 도달하지 않는 경우 - 예정보다 조기 내원
+> * 목표 미달 시 3개월을 기다리지 말고 시작·변경 4~12주에 예정된 지질 검사를 받고 치료 조정. ACS 등은 더 이른 계획을 따름
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
-
-{% hint style="info" %}
-**이상지질혈증, 증상이 없어도 관리가 필요합니다**
-
-콜레스테롤이나 중성지방 수치가 높다고 해서 당장 몸에 이상을 느끼지는 않습니다. 하지만 오랜 시간 방치하면 혈관 벽에 콜레스테롤이 쌓여 심근경색, 뇌졸중 같은 심각한 질환으로 이어질 수 있습니다. 꾸준한 관리가 미래의 큰 병을 예방하는 가장 확실한 방법입니다.
-{% endhint %}
-
-#### <mark style="color:$primary;">왜 콜레스테롤 수치가 높아지나요?</mark>
-
-* 유전적인 체질(가족성 고콜레스테롤혈증)이 원인일 수 있습니다.
-* 기름진 음식, 운동 부족, 비만, 과음, 흡연이 원인이 될 수 있습니다.
-* 갑상선 기능 저하, 당뇨병, 신장·간 질환이 있으면 이상지질혈증이 동반될 수 있습니다.
-
-#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
-
-* **금연하십시오.** 담배는 나쁜 콜레스테롤의 산화와 혈관 염증을 촉진하고 좋은 콜레스테롤(HDL)을 낮추며, 심근경색·뇌졸중 위험을 높입니다.
-* **포화지방과 트랜스지방을 줄이십시오.** 튀김류, 가공육, 버터·크림 대신 생선, 채소, 통곡물, 올리브유 위주의 식단을 권합니다.
-* **매일 30분 이상 걷기 등 유산소 운동을 하십시오.** 주 5회 이상이 이상적입니다.
-* **적정 체중을 유지하십시오.** 과체중·비만이라면 현재 체중의 5\~10%를 줄여도 지질 수치가 눈에 띄게 좋아집니다.
-* **술은 줄이거나 끊으십시오.** 술이 HDL을 올린다는 이야기가 있지만, 전체적인 심혈관 위험을 고려하면 이득보다 해가 큽니다.
-
-#### <mark style="color:$primary;">약은 어떻게 복용해야 하나요?</mark>
-
-* 콜레스테롤 약(statin 등)은 **평생 꾸준히 복용하는 것이 원칙**인 경우가 많습니다. 수치가 좋아졌다고 임의로 중단하지 마십시오.
-* 저녁 복용이 권장되는 약과 시간에 상관없이 복용 가능한 약이 있으니, 처방받은 방법대로 매일 같은 시간에 복용하십시오.
-* 자몽이나 자몽 주스는 일부 콜레스테롤 약과 상호작용할 수 있으니 많이 섭취하지 않도록 주의하십시오.
-
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
-
-* 원인 없이 심한 **근육통이나 힘이 빠지는 느낌**이 들 때, 소변 색이 진해질 때
-* 피로감·입맛 저하·복통·눈이나 피부가 노랗게 변하는 증상(황달)이 나타날 때
-* 등으로 뻗치는 심한 복통이 있을 때 - 특히 중성지방이 매우 높다고 들으신 경우
-* 갑작스러운 가슴 통증, 팔·턱으로 퍼지는 통증, 편측 마비나 언어 장애가 생길 때 - 즉시 119
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### 임상 근거
 
@@ -924,6 +885,47 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 
 * 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 국내 제품별 적응증·용법·금기 및 허가 상태. [의약품안전나라](https://nedrug.mfds.go.kr/index)
 * 건강보험심사평가원. **약제 급여기준 및 약제급여평가 자료**. Evolocumab 등 약제별 인정 대상·치료 반응 요건과 급여평가 자료. [고지혈증치료제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20140301\&mtgMtrRegSno=4\&sno=1) · [Evolocumab 고시](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240301\&mtgMtrRegSno=0004\&sno=1)
-* 한국다이이찌산쿄. **넥스레톨정180mg 수입품목허가 안내**, 2026.10.15. [제조사 허가 공지](https://www.daiichisankyo.co.kr/news/notice/229)
+* 한국다이이찌산쿄. **넥스레톨정180㎎ 수입품목허가 안내**, 2026.10.15. [제조사 허가 공지](https://www.daiichisankyo.co.kr/news/notice/229)
 * FDA. **Statin의 임신 관련 경고 개정**, 2021. 국내 허가와 구분. [FDA 안전성 공지](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requests-removal-strongest-warning-against-using-cholesterol-lowering-statins-during-pregnancy)
 * FDA. **Lipfendra(enlicitide), NDA 220848 승인 자료 및 처방정보**. 미국 허가·용법 확인 자료로, 국내 허가와 구분. [FDA 승인 안내](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol) · [미국 처방정보](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=100ec543-fbd0-44fc-b740-db9cdff39145)
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**이상지질혈증, 증상이 없어도 관리가 필요합니다**
+
+콜레스테롤이나 중성지방 수치가 높다고 해서 당장 몸에 이상을 느끼지는 않습니다. 하지만 오랜 시간 방치하면 혈관 벽에 콜레스테롤이 쌓여 심근경색, 뇌졸중 같은 심각한 질환으로 이어질 수 있습니다. 꾸준한 관리가 미래의 큰 병을 예방하는 가장 확실한 방법입니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 콜레스테롤 수치가 높아지나요?</mark>
+
+* 유전적인 체질(가족성 고콜레스테롤혈증)이 원인일 수 있습니다.
+* 기름진 음식, 운동 부족, 비만, 과음, 흡연이 원인이 될 수 있습니다.
+* 갑상선 기능 저하, 당뇨병, 신장·간 질환이 있으면 이상지질혈증이 동반될 수 있습니다.
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* **금연하십시오.** 담배는 나쁜 콜레스테롤의 산화와 혈관 염증을 촉진하고 좋은 콜레스테롤(HDL)을 낮추며, 심근경색·뇌졸중 위험을 높입니다.
+* **포화지방과 트랜스지방을 줄이십시오.** 튀김류, 가공육, 버터·크림 대신 생선, 채소, 통곡물, 올리브유 위주의 식단을 권합니다.
+* **체력에 맞는 걷기 등 유산소 운동을 하십시오.** 주당 총 150분 이상을 목표로 나누어 시행하고, 비활동자·허약한 분은 짧은 시간부터 늘리십시오.
+* **적정 체중을 유지하십시오.** 과체중·비만이라면 현재 체중의 5\~10%를 줄여도 지질 수치가 눈에 띄게 좋아집니다.
+* **술은 줄이거나 끊으십시오. 중성지방이 500 ㎎/㎗ 이상이면 금주하십시오.** 술이 HDL을 올린다는 이야기가 있지만, 전체적인 심혈관 위험을 고려하면 이득보다 해가 큽니다.
+
+#### <mark style="color:$primary;">약은 어떻게 복용해야 하나요?</mark>
+
+* 콜레스테롤 약(statin 등)은 **평생 꾸준히 복용하는 것이 원칙**인 경우가 많습니다. 수치가 좋아졌다고 임의로 중단하지 마십시오.
+* 저녁 복용이 권장되는 약과 시간에 상관없이 복용 가능한 약이 있으니, 처방받은 방법대로 매일 같은 시간에 복용하십시오.
+* 자몽이나 자몽 주스는 일부 콜레스테롤 약과 상호작용할 수 있으니 많이 섭취하지 않도록 주의하십시오.
+* 임신을 계획하거나 임신이 확인되면 즉시 의료진에게 알리십시오. Statin은 임신·수유 중 사용하지 않습니다.
+* 중성지방이 매우 높다면 일반 식단과 다른 지방 제한이 필요할 수 있으므로 영양 상담을 받으십시오. 건강보조식품으로 처방약을 대신하지 마십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 원인 없이 심한 **근육통이나 힘이 빠지는 느낌**이 들 때, 소변 색이 진해질 때
+* 피로감·입맛 저하·복통·눈이나 피부가 노랗게 변하는 증상(황달)이 나타날 때
+* 등으로 뻗치는 심한 복통이 있을 때 - 특히 중성지방이 매우 높다고 들으신 경우
+* 갑작스러운 가슴 통증, 팔·턱으로 퍼지는 통증, 편측 마비나 언어 장애가 생길 때 - 즉시 119
+
+***

@@ -44,7 +44,7 @@
 * Blood vessel : peripheral arterial disease
 * Eye : retinopathy
 
-###  <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -164,7 +164,7 @@
 
 #### <mark style="color:$primary;">기립성 저혈압</mark> <mark style="color:$primary;">(Orthostatic hypotension)</mark>
 
-* 앙와위에서 5분 이상 안정 후 기립 1분 및 3분에 혈압·맥박을 측정; 3분 이내 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소 시 진단하며 증상은 필수 조건이 아님. 좌위 검사가 음성이어도 의심되면 앙와위에서 재검. 기립 SBP ＜90 ㎜Hg와 저관류 증상도 임상적으로 중요 (☞ [기립성 저혈압](096_-orthostatic-hypotension.md))
+* 앙와위에서 5분 이상 안정 후 기립 1분 및 3분에 혈압·맥박을 측정; 3분 이내 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소 시 진단하며 증상은 필수 조건이 아님. 좌위 검사가 음성이어도 의심되면 앙와위에서 재검. 기립 SBP ＜90 ㎜Hg와 저관류 증상도 임상적으로 중요 [(☞ 기립성 저혈압)](096_-orthostatic-hypotension.md)
 
 ## <mark style="color:green;">원인</mark>
 
@@ -249,40 +249,28 @@ _ARR=aldosterone-to-renin ratio_
 ***
 
 ```mermaid
-graph TD
-    A([진료실 혈압 측정])
-    A -->B1["<120/80"]--> C[정상 혈압]
-    A -->B2["SBP 120-129 및 DBP <80<br/>또는 SBP 130-139 또는 DBP 80-89"]--> D[주의혈압 또는 고혈압 전단계]
-    A -->B3[140-159/90-99]--> E[고혈압 1기]
-    A -->B4[160-179/100-109]--> F[고혈압 2기]
-    A -->B5["≥180/110"]--> G[고혈압 2기, 중증]
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef white fill:#fff,stroke:#333
-class B1,B2,B3,B4 white
-style C fill:#e3f2ff,stroke:#2196f3
-style D fill:#fef4f8,stroke:#f06baf
-style E fill:#fcd4e6,stroke:#e0448e
-style F fill:#f8a0c0,stroke:#d01f5a
-style G fill:#f06090,stroke:#c62828
-    
-    C --> H[40세 이상?]
-    H -->|NO| I[2년마다 검사]
-    H -->|YES| J[1년마다 검사]
-    D --> K[고위험 요인 보유?]
-    K -->|NO| J
-    K -->|YES| L[가정/활동 혈압 확인]
-    E --> L
-    F --> M[신속히 가정/<br/>활동 혈압 확인]
-    G --> N[고혈압성 응급<br/> 평가]
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class H,K yellow
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class I,J blue
-classDef peach fill:#ff9966,stroke:#cc5500
-class N,B5 peach
+flowchart TD
+    A["반복 진료실 혈압 측정"] --> B{"SBP ≥180 또는 DBP ≥110?"}
+    B -->|"예"| C{"급성 표적장기 손상 의심?"}
+    C -->|"예"| U["응급 평가 및 입원 치료"]
+    C -->|"아니오"| V["당일 평가; 경구 치료 조정·단기 추적"]
+    B -->|"아니오"| D{"SBP ≥160 또는 DBP ≥100?"}
+    D -->|"예"| E["고혈압 2기; 신속한 진료실 밖 혈압 확인·치료"]
+    D -->|"아니오"| F{"SBP ≥140 또는 DBP ≥90?"}
+    F -->|"예"| G["고혈압 1기; 가정·활동혈압 및 위험도 평가"]
+    F -->|"아니오"| H{"SBP ≥120 또는 DBP ≥80?"}
+    H -->|"예"| I["주의혈압·고혈압전단계; 위험도에 따른 평가·추적"]
+    H -->|"아니오"| J["정상 혈압; 연령·위험도에 따른 선별"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class B,C,D,F,H question
+    class V,E,G,I,J treatment
+    class U emergency
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
-<p align="center"><strong>고혈압 선별 검사 알고리즘</strong> <em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026 분류 기준 적용; 알고리듬 구조는 2023 ESH Guidelines</mark></em></p>
+<p align="center"><strong>고혈압 선별 검사 알고리즘</strong> <em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026 분류 기준 적용; 2023 ESH Guidelines를 참고하여 저자 재구성</mark></em></p>
 
 _서로 다른 범주에 속하면 높은 혈압 범주를 적용; 고혈압 범주를 먼저 판정함_
 
@@ -493,35 +481,39 @@ _서로 다른 범주에 속하면 높은 혈압 범주를 적용; 고혈압 범
 ***
 
 ```mermaid
-graph TD
-    S1([혈압 측정 및 기본 검사])
-style S1 fill:#eeeeee,stroke:#888888,stroke-width:2px
-    S2[≥140/90 ㎜Hg 이상<br/>또는 의심?¹⁾]
-    S3[가정혈압 또는 <br/>24시간 활동혈압²⁾]
-    S22["심혈관질환 또는<br/>DM·CKD·HMOD?"]
-    S23[130/80 ㎜Hg?]
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class S2,S22,S23 yellow
-    S4[이차성 고혈압 의심]
-    S5[심뇌혈관 위험도 평가³⁾]
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class S3,S5 lightGreen
-    S6[백의고혈압 또는 <br/>일시적 고혈압]
-    S7[이차성 고혈압 진단]
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class S6,S7 pink
-    S8[저위험군]
-    S9[중위험군, 고위험군 1기]
+flowchart TD
+    S1["혈압 측정 및 기본 검사"]
+
+    S2{"≥140/90 ㎜Hg 이상
+또는 의심?¹⁾"}
+    S3["가정혈압 또는 
+24시간 활동혈압²⁾"]
+    S22{"심혈관질환 또는
+DM·CKD·HMOD?"}
+    S23{"130/80 ㎜Hg?"}
+
+
+    S4["이차성 고혈압 의심"]
+    S5["심뇌혈관 위험도 평가³⁾"]
+
+
+    S6["백의고혈압 또는 
+일시적 고혈압"]
+    S7["이차성 고혈압 진단"]
+
+
+    S8["저위험군"]
+    S9["중위험군, 고위험군 1기"]
     
-    S10[원인에 따른 치료]
-    S11[생활 요법 or 약물 치료]
-    S12[생활 요법 & 약물 치료]
-    S13[생활 요법 & 추적 관찰]
-    S14["생활요법 및 약물 고려<br/>심혈관질환 없고 DM·CKD·HMOD만 있으면<br/>3개월 생활요법 후 ≥130/80 시 고려"]
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class S11,S13 sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class S10,S12,S14 blue
+    S10["원인에 따른 치료"]
+    S11["생활 요법 or 약물 치료"]
+    S12["생활 요법 & 약물 치료"]
+    S13["생활 요법 & 추적 관찰"]
+    S14["생활요법 및 약물 고려
+심혈관질환 없고 DM·CKD·HMOD만 있으면
+3개월 생활요법 후 ≥130/80 시 고려"]
+
+
     S1 --> S2
     S2 -- YES --> S3
     S2 -- NO --> S22
@@ -545,11 +537,17 @@ class S10,S12,S14 blue
     S9 --> S12
     S6 --> S5
     S6 --> S13
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class S2,S22,S23 question
+    class S3,S4,S5,S6,S7,S8,S9,S10,S11,S12,S13,S14 treatment
+    style S1 fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>고혈압 치료 계획</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026, 권고 8 및 그림 13을 바탕으로 재구성.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026, 권고 8 및 그림 13을 바탕으로 저자 재구성.</mark></em></p>
 
 　_¹⁾ 일부 환자는 목표 혈압에 따라 고혈압전단계부터 약물 치료를 고려함. ²⁾ 권장 검사._\
 　_³⁾ 심뇌혈관 위험도 평가 : 위험 인자, 무증상 장기 손상, 심혈관 질환 유무 평가_
@@ -564,7 +562,7 @@ class S10,S12,S14 blue
 
 * 단일제 또는 병용 여부는 시작 혈압, 목표와의 차이, HMOD, 노쇠도·기립성 저혈압 및 내약성에 따라 결정; 신장·심장 보호 적응증의 약물은 해당 질환 지침도 함께 적용
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활 요법 및 효과</mark>
 
@@ -580,7 +578,7 @@ class S10,S12,S14 blue
 
 ### <mark style="color:orange;">운동 요법</mark>
 
-　☞ [운동 지침](../231_/216_-physical-activity-guideline.md)
+　[(☞ 운동 지침)](../231_/216_-physical-activity-guideline.md)
 
 * 효과 : 수축기 및 이완기 혈압 감소, 심혈관 질환 발병 위험 감소
 * 유산소운동 : 중강도 150분/주 이상 또는 고강도 75분/주 이상 (걷기, 뛰기, 자전거타기, 수영 등); 주 5\~7일 분산 권고 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
@@ -615,7 +613,7 @@ class S10,S12,S14 blue
 
 #### <mark style="color:$primary;">DASH(Dietary Approaches to Stop Hypertension) diet</mark>
 
-　☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md)
+　[(☞ 영양 지침)](../231_/217_-nutritiondiet-guideline.md)
 
 * 권장 : 과일 및 채소(8\~10 serv./d), 저지방 유제품(2\~3 serv./d), 생선(2회/wk)
 * 제한 : 음주(금주 권고; 어려우면 남 ≤2 SD/d, 여 ≤1 SD/d 및 음주량 50% 이상 감소 <mark style="color:$info;">\[2025 ACC/AHA]</mark>), 소금(＜5 g/d, 나트륨으로 ＜2 g; 2022년 기준 6 g/d에서 하향 조정), 단순 당(예: 설탕), 포화지방, 붉은 고기
@@ -671,8 +669,6 @@ class S10,S12,S14 blue
 * ≥80세 : SBP 160 ㎜Hg; SBP 140\~160 ㎜Hg에서도 고려할 수 있음
 * CVD 병력이 있는 경우 : ≥130/80 ㎜Hg
 
-## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
-
 ### 항고혈압제 종류
 
 * 아래 표의 용량은 별도 표시가 없으면 성인 총 일일량(㎎/d)임. 초기 용량·유지 용량·최대 용량은 구분하며 신장·간 기능, 적응증 및 제형별 허가 제한을 적용함. 국내 미유통·국외 용법은 국내 제품의 허가 용법으로 해석하지 않음
@@ -697,7 +693,7 @@ class S10,S12,S14 blue
   * chlorthalidone·indapamide : HCTZ보다 강압 효과가 우수하다고 알려져 있으나, 저나트륨혈증·저칼륨혈증 등 전해질 이상 발생 주의
     * 강압 효과는 chlorthalidone ≥ indapamide ＞ HCTZ 순이라는 인식이 있으나, 실제 임상 결과(심혈관사건 감소) 면에서 우월성이 입증되지 않았고 부작용은 HCTZ보다 많다는 연구 결과가 나오면서 선호 제제를 지정할 근거가 없어짐
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스서방정]</mark></td><td>서방형 1.5 ㎎ [1]; 속방형 용량과 구분</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0450A0076" title="약학정보원: 다이크로짇정" data-kpic-body="1">다이크로짇</a>]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO1950" title="약학정보원: 하이그로톤정25mg" data-kpic-body="1">하이그로톤</a>]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0760A0079" title="약학정보원: 후루덱스서방정" data-kpic-body="1">후루덱스서방</a>]</mark></td><td>서방형 1.5 ㎎ [1]; 속방형 용량과 구분</td></tr><tr><td>metolazone</td><td>—</td><td>2.5~10 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Potassium-sparing agent</mark>
 
@@ -705,7 +701,7 @@ class S10,S12,S14 blue
 * 대상 : thiazide 사용 시 저칼륨혈증을 예방하기 위해 병용
 * 주의/금기 : 고칼륨혈증, 무뇨·중증 신장애 등 품목별 금기. eGFR ＜45에서는 고칼륨혈증 위험이 커지므로 전문적 판단 및 면밀한 K·Cr 추적 필요; 45를 계열 전체의 일률적 허가 금기 기준으로 적용하지 않음
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>-</td><td>25~100 [1~2]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0380B0212" title="약학정보원: 아미로정" data-kpic-body="1">아미로</a>]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>-</td><td>25~100 [1~2]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Loop diuretics</mark>
 
@@ -713,7 +709,7 @@ class S10,S12,S14 blue
 * 혈압 강하를 위한 단독 선택은 안 함
 * furosemide : 작용 시간이 짧고 전해질/체액 고갈을 초래할 수 있음
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>bumetanide</td><td>-</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>bumetanide</td><td>-</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0740A0095" title="약학정보원: 라식스정" data-kpic-body="1">라식스</a>]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td><a href="https://www.health.kr/drug/A11AOOOOO5349" title="약학정보원: 보령토르세미드정2.5mg" data-kpic-supplement="1">2.5</a>~<a href="https://www.health.kr/drug/A11AOOOOO5348" title="약학정보원: 보령토르세미드정5mg" data-kpic-supplement="1">5</a> [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Mineralocorticoid receptor antagonist (MRA, Aldosterone antagonist)</mark>
 
@@ -722,7 +718,7 @@ class S10,S12,S14 blue
 * 부작용 : K↑, 남성에서 여성형 유방, 발기 부전; 여성에서 월경불순
 * 주의/금기 : 신부전, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>-</td><td>25~100 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO3515" title="약학정보원: 알닥톤필름코팅정25mg" data-kpic-body="1">알닥톤</a>]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>-</td><td>25~100 [1]</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Baxdrostat (<mark style="color:blue;">[BAXFENDY]</mark>)** - aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리 부신에서 알도스테론 합성 자체를 억제함. 2026년 미국 FDA 승인: 다른 항고혈압제와 병용하여 다른 약제로 충분히 조절되지 않는 성인 고혈압의 혈압 강하에 사용; 초기 2 ㎎ 1일 1회(고칼륨혈증·저나트륨혈증 위험이 높은 경우 1 ㎎). 시작 전 및 치료 중 K·Na 모니터링이 필요하며, eGFR ＜45 ㎖/min/1.73㎡에서의 초기 투여 안전성·유효성은 확립되지 않음. 임상시험에서 고칼륨혈증 발생률은 1 ㎎ 투여군 6.6%, 2 ㎎ 투여군 10.2%로 보고됨. 국내는 2026년 9월 현재 품목허가 전으로 확인되므로 국내 처방 불가
@@ -750,11 +746,11 @@ class S10,S12,S14 blue
 
 **ACEI**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라프릴]</mark></td><td>초기 1~1.25 ㎎ [1], 유지 2.5~5 ㎎ [1]; 신성 고혈압은 더 낮은 용량으로 시작</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>고혈압 2.5~10 ㎎ [1]; 신장애·간장애·신증 적응증은 별도 감량·상한 적용</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1310A0254" title="약학정보원: 세타프릴정25mg" data-kpic-body="1">세타프릴</a>]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0930A0241" title="약학정보원: 카프릴정25mg" data-kpic-body="1">카프릴</a>]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라프릴]</mark></td><td>초기 1~1.25 ㎎ [1], 유지 2.5~5 ㎎ [1]; 신성 고혈압은 더 낮은 용량으로 시작</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AJJJJJ0525" title="약학정보원: 레니프릴정5mg" data-kpic-body="1">레니프릴</a>]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td>—</td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AKP08J0001" title="약학정보원: 아서틸정4mg" data-kpic-body="1">아서틸</a>]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0740A0369" title="약학정보원: 트리테이스정2.5mg" data-kpic-body="1">트리테이스</a>]</mark></td><td>고혈압 2.5~10 ㎎ [1]; 신장애·간장애·신증 적응증은 별도 감량·상한 적용</td></tr></tbody></table>
 
 **ARB**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[아타칸]</mark></td><td>8~32 [1 or 2]</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[테베텐]</mark></td><td>600 [1]</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[카나브]</mark></td><td>30~120 [1]</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[아프로벨]</mark></td><td>150~300 [1]</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[코자]</mark></td><td>25~100 [1 or 2]</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[올메텍]</mark></td><td>20~40 [1]</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[미카르디스]</mark></td><td>40~80 [1]</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[디오반]</mark></td><td>80~320 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB1383" title="약학정보원: 아타칸정8mg" data-kpic-body="1">아타칸</a>]</mark></td><td>8~32 [1 or 2]</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AJJJJJ0730" title="약학정보원: 테베텐정600mg" data-kpic-body="1">테베텐</a>]</mark></td><td>600 [1]</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/2010091000002" title="약학정보원: 카나브정60mg" data-kpic-body="1">카나브</a>]</mark></td><td>30~120 [1]</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0106" title="약학정보원: 아프로벨정150mg" data-kpic-body="1">아프로벨</a>]</mark></td><td>150~300 [1]</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A5950A0003" title="약학정보원: 코자정" data-kpic-body="1">코자</a>]</mark></td><td>25~100 [1 or 2]</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO4915" title="약학정보원: 올메텍정20mg" data-kpic-body="1">올메텍</a>]</mark></td><td>20~40 [1]</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA5249" title="약학정보원: 미카르디스정40mg" data-kpic-body="1">미카르디스</a>]</mark></td><td>40~80 [1]</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ALLLLL0076" title="약학정보원: 디오반필름코팅정80mg" data-kpic-body="1">디오반</a>]</mark></td><td>80~320 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">직접 레닌차단제 (Direct renin inhibitor)</mark>
 
@@ -777,18 +773,18 @@ class S10,S12,S14 blue
 
 **DHP 계**
 
-<table data-search="false"><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올데카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine ER</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>30~90(최대 120) [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0949" title="약학정보원: 노바스크정5mg" data-kpic-body="1">노바스크</a>]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AFFFFF0119" title="약학정보원: 올데카캡슐5mg" data-kpic-body="1">올데카</a>]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0690A0588" title="약학정보원: 코디핀정4mg" data-kpic-body="1">코디핀</a>]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0930A0468" title="약학정보원: 시나롱정10mg" data-kpic-body="1">시나롱</a>]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0740A0344" title="약학정보원: 무노발정5mg" data-kpic-body="1">무노발</a>]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/2009090300009" title="약학정보원: 박사르정2mg" data-kpic-body="1">박사르</a>]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB1502" title="약학정보원: 자니딥정" data-kpic-supplement="1">자니딥</a>]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1160A0199" title="약학정보원: 마디핀정10mg" data-kpic-body="1">마디핀</a>]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0150A0528" title="약학정보원: 동아페르디핀서방캡슐40mg" data-kpic-supplement="1">페르디핀</a>]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine ER</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0531" title="약학정보원: 아달라트오로스정30" data-kpic-body="1">아달라트오로스</a>]</mark></td><td>30~90(최대 120) [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO6283" title="약학정보원: 씨스코이알서방정10mg" data-kpic-body="1">씨스코</a>]</mark></td><td>10~60 [1]</td></tr></tbody></table>
 
 **non-DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[헤르벤]</mark></td><td>서방정: 90 ㎎ bid, 필요 시 1회 180 ㎎ bid까지; 서방캡슐: 180 ㎎ qd 시작, 필요 시 360 ㎎ qd까지; 속방정과 구분</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[이솦틴]</mark></td><td>120~360 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0100A0232" title="약학정보원: 헤르벤서방정90mg" data-kpic-body="1">헤르벤</a>]</mark></td><td>서방정: 90 ㎎ bid, 필요 시 1회 180 ㎎ bid까지; 서방캡슐: 180 ㎎ qd 시작, 필요 시 360 ㎎ qd까지; 속방정과 구분</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1130A0333" title="약학정보원: 일성이솦틴서방정180mg" data-kpic-body="1">이솦틴</a>]</mark></td><td>120~360 [1 or 2]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">β-차단제 (β-adrenergic receptor blocker, BB)</mark>
 
 * 효과 : 심박동 감소, 심박출량 감소
 * 단순 고혈압의 뇌졸중 예방 근거는 다른 1차 약제보다 불리할 수 있음(주로 atenolol 자료); 심근경색 후·HFrEF 등 적응증에서의 이득과 구분
 * 적응증 : 협심증, 심근경색 후, 박출률감소심부전(HFrEF), 심방세동의 치료 및 심박수 조절이 필요한 고혈압 환자에서 1차 적응증으로 권고
-* 세대 구분 : 적응증으로 사용 시 2세대 β1-선택성 베타차단제(bisoprolol, metoprolol, nebivolol 등) 또는 3세대 혈관확장성 베타차단제(carvedilol, nebivolol)를 우선 고려
+* 세대 구분 : 적응증으로 사용 시 2세대 β1-선택성 베타차단제(bisoprolol, metoprolol 등) 또는 3세대 혈관확장성 베타차단제(carvedilol, nebivolol)를 우선 고려
 * 부작용 : 서맥, 전도 장애, 좌심실부전, 기관지 경련 악화, 레이노 현상, 파행 악화, 코 막힘, 발기부전, 피로, 우울, 악몽, 흥분; 지질/당 대사 영향
 * 주의/금기 : 심한 서맥, 2~3도 전도 장애, 비대상성 HFrEF 등; 기관지천식·COPD, 말초혈관질환, 레이노병, 당뇨병에서는 약제의 선택성과 임상 상황을 고려하여 신중히 사용
   * 갑작스런 중단 시 급성 관상동맥 질환과 혈압의 상승을 유발하므로 tapering 필요
@@ -800,15 +796,15 @@ class S10,S12,S14 blue
 
 **Cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[테놀민]</mark></td><td>25~100 [1]</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[켈론]</mark></td><td>5~20 [1]</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[칼반]</mark></td><td>100~200 [2]</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[콩코르]</mark></td><td>2.5~10 [1]</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[셀렉틸]</mark></td><td>200~600 [1]</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[베타록]</mark></td><td>25~400 [1 or 2]</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[네비레트]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A3060B0004" title="약학정보원: 현대테놀민정25mg" data-kpic-body="1">테놀민</a>]</mark></td><td>25~100 [1]</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1310A0214" title="약학정보원: 부광켈론정10mg" data-kpic-body="1">켈론</a>]</mark></td><td>5~20 [1]</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A3324A0233" title="약학정보원: 칼반정100mg" data-kpic-body="1">칼반</a>]</mark></td><td>100~200 [2]</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AJJJJJ0165" title="약학정보원: 콩코르정2.5mg" data-kpic-body="1">콩코르</a>]</mark></td><td>2.5~10 [1]</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB1308" title="약학정보원: 셀렉톨정" data-kpic-supplement="1">셀렉톨</a>]</mark></td><td>200~600 [1]</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0450A0329" title="약학정보원: 베타록정100mg" data-kpic-body="1">베타록</a>]</mark></td><td>25~400 [1 or 2]</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO9370" title="약학정보원: 네비레트정" data-kpic-body="1">네비레트</a>]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 **Non-cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[미케란]</mark></td><td>2.5~10 [1]</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[인데랄]</mark></td><td>40~160 [2]</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A4270A0007" title="약학정보원: 미케란정" data-kpic-body="1">미케란</a>]</mark></td><td>2.5~10 [1]</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AKP08G2860" title="약학정보원: 인데랄정10mg" data-kpic-body="1">인데랄</a>]</mark></td><td>40~160 [2]</td></tr></tbody></table>
 
 **Combined α/β**²⁾
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[알마]</mark></td><td>10~30 [1 or 2]</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[딜라트렌]</mark></td><td>12.5~50 [1 or 2]</td></tr><tr><td>labetalol</td><td>-</td><td>-</td><td>200~800 [2] (경구제 국내 상업적 유통 없음; KOEDC 수입 필요)</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1160A0128" title="약학정보원: 알말정10mg" data-kpic-supplement="1">알말</a>]</mark></td><td>10~30 [1 or 2]</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0120A0673" title="약학정보원: 딜라트렌정12.5mg" data-kpic-body="1">딜라트렌</a>]</mark></td><td>12.5~50 [1 or 2]</td></tr><tr><td>labetalol</td><td>-</td><td>-</td><td>200~800 [2] (경구제 국내 상업적 유통 없음; KOEDC 수입 필요)</td></tr></tbody></table>
 
 　_¹⁾ 파행 환자에서 적용 가능_\
 　_²⁾ α/β 차단 작용으로 말초혈관 저항을 줄여줌_
@@ -821,7 +817,7 @@ class S10,S12,S14 blue
 
 **Selective α-blockers**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[카두라 엑스엘 서방정]</mark></td><td>4 ㎎ qd 시작, 필요 시 8 ㎎ qd; 서방정은 분할·분쇄 금지. 일반정 초기 1 ㎎ 및 최대 16 ㎎ 용법과 구분</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 [2 or 3]</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[하이트린]</mark></td><td>1~10 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA5795" title="약학정보원: 카두라엑스엘서방정4mg" data-kpic-body="1">카두라 엑스엘 서방</a>]</mark></td><td>4 ㎎ qd 시작, 필요 시 8 ㎎ qd; 서방정은 분할·분쇄 금지. 일반정 초기 1 ㎎ 및 최대 16 ㎎ 용법과 구분</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 [2 or 3]</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0950A0397" title="약학정보원: 일양하이트린정1mg" data-kpic-body="1">하이트린</a>]</mark></td><td>1~10 [1 or 2]</td></tr></tbody></table>
 
 **Nonselective α-blockers**
 
@@ -846,7 +842,7 @@ class S10,S12,S14 blue
 * 부작용 : hydralazine - 빈맥, 루프스양증후군; minoxidil - 안면부 발모, 심장막성 삼출
 * 주의/금기 : 심한 관상동맥병
 * hydralazine : 임신 중독에 의한 고혈압; 25\~50 ㎎/d #3\~4
-* minoxidil : 다른 모든 강압제에 저항을 보이는 신 기능 저하 환자; 5\~40 ㎎/d #1\~2 <mark style="color:blue;">\[미녹시딜]</mark>
+* minoxidil : 다른 모든 강압제에 저항을 보이는 신 기능 저하 환자; 5\~40 ㎎/d #1\~2 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3060A0229" title="약학정보원: 현대미녹시딜정" data-kpic-supplement="1">미녹시딜</a>]</mark>
 
 ### <mark style="color:orange;">안지오텐신수용체-네프릴리신억제제 (ARNI)</mark>
 
@@ -854,7 +850,7 @@ class S10,S12,S14 blue
 심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경 고려 가능 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
-* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토]</mark>
+* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2016041500013" title="약학정보원: 엔트레스토필름코팅정50mg" data-kpic-body="1">엔트레스토</a>]</mark>
 * Sacubitril : Neprilysin(중성 엔도펩티다제) 억제제
   * BNP, ANP(나트륨이뇨펩타이드), Bradykinin, Adrenomedullin, Substance P의 분해/불활성화 억제 → 이뇨·나트륨 배설↑, 혈관 확장, 심장 섬유화·비대 억제, 교감신경 억제
   * Angiotensin II도 분해하므로 단독 사용 시 Angiotensin II가 축적되어 RAS가 오히려 활성화되기 때문에 반드시 ARB와 병용
@@ -871,7 +867,7 @@ class S10,S12,S14 blue
 
 * 고혈압 단독의 1차 강압제로 대체하지 않으며, 심부전·CKD·제2형 당뇨병 등 약제별 허가 적응증에 따라 선택함. CKD의 시작 eGFR·알부민뇨 조건 및 급여는 성분별로 다름
 * 부가 강압 효과 : 평균 SBP 3\~5 ㎜Hg 감소
-* empagliflozin <mark style="color:blue;">\[자디앙]</mark>, dapagliflozin <mark style="color:blue;">\[포시가]</mark>, canagliflozin <mark style="color:blue;">\[인보카나]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* empagliflozin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014081300012" title="약학정보원: 자디앙정10mg" data-kpic-body="1">자디앙</a>]</mark>, dapagliflozin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023013100015" title="약학정보원: 다파엔정10mg" data-kpic-body="1">다파엔</a>]</mark>, canagliflozin <mark style="color:blue;">\[인보카나]</mark> [(☞ 당뇨병)](../226_/101_-dmdrugs.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor)
 * 주의 : 체액 감소·증상성 저혈압(특히 고령·이뇨제 병용 시); 체액 상태·기립혈압을 확인하고 필요 시 이뇨제 조정. 요로 감염, 생식기 진균 감염; eGFR ＜45에서 혈당 강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
 
 ## <mark style="color:green;">항고혈압제 선택 Tips</mark>
@@ -894,15 +890,7 @@ class S10,S12,S14 blue
    * 저용량 HCTZ로 조절이 안 되는 경우 증량 또는 chlorthalidone이나 indapamide 사용을 고려
    * 2제 요법을 증량하는 것보다 3제 요법이 효과적이라는 보고가 있음
 
-```mermaid
-graph LR
-    A["ACEI or ARB"] <==> C[CCB]
-    C <==> T
-    A <==> T[Thiazide]
-    A -. (1) .- B[β-blocker]
-    C <--(2)--> B
-    T <--(3)--> B
-```
+<table><thead><tr><th>병용</th><th>선택 원칙</th></tr></thead><tbody><tr><td>ACEI 또는 ARB + DHP-CCB / T·TL 이뇨제</td><td>우선 고려</td></tr><tr><td>ACEI 또는 ARB + β-차단제</td><td>HFrEF·관상동맥질환·맥박 조절 등 적응증이 있으면 병용</td></tr><tr><td>β-차단제 + non-DHP CCB</td><td>서맥·전도장애·심부전 위험으로 회피</td></tr><tr><td>T·TL 이뇨제 + 구세대 β-차단제</td><td>대사 위험을 고려하여 선택</td></tr></tbody></table>
 
 <p align="center"><strong>항고혈압제 병용 요법</strong></p>
 
@@ -915,21 +903,21 @@ _(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, �
 
 **ARB + Thiazide**
 
-* candesartan/HCTZ <mark style="color:blue;">\[아타칸 플러스]</mark>
-* losartan/HCTZ <mark style="color:blue;">\[코자 플러스]</mark>
-* telmisartan/HCTZ <mark style="color:blue;">\[미카르디스 플러스]</mark>
-* fimasartan/HCTZ <mark style="color:blue;">\[카나브 플러스]</mark>
-* olmesartan/HCTZ <mark style="color:blue;">\[올메텍 플러스]</mark>
-* valsartan/HCTZ <mark style="color:blue;">\[코디오반]</mark>
+* candesartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ALLLLL0033" title="약학정보원: 아타칸플러스정16/12.5mg" data-kpic-body="1">아타칸 플러스</a>]</mark>
+* losartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A5950A0004" title="약학정보원: 코자플러스정" data-kpic-body="1">코자 플러스</a>]</mark>
+* telmisartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO1299" title="약학정보원: 미카르디스플러스정40/12.5mg" data-kpic-body="1">미카르디스 플러스</a>]</mark>
+* fimasartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013010700003" title="약학정보원: 카나브플러스정60/12.5mg" data-kpic-body="1">카나브 플러스</a>]</mark>
+* olmesartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7592" title="약학정보원: 올메텍플러스정20/12.5mg" data-kpic-body="1">올메텍 플러스</a>]</mark>
+* valsartan/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5105" title="약학정보원: 코디오반정80/12.5mg" data-kpic-body="1">코디오반</a>]</mark>
 
 **ARB + CCB**
 
-* fimasartan/amlodipine <mark style="color:blue;">\[듀카브]</mark>
-* losartan/amlodipine <mark style="color:blue;">\[아모잘탄]</mark>
-* olmesartan/amlodipine <mark style="color:blue;">\[세비카]</mark>
-* telmisartan/amlodipine <mark style="color:blue;">\[트윈스타]</mark>
-* valsartan/amlodipine <mark style="color:blue;">\[엑스포지]</mark>
-* valsartan/lercanidipine <mark style="color:blue;">\[레바캄]</mark>
+* fimasartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2016053100043" title="약학정보원: 듀카브정30/5mg" data-kpic-body="1">듀카브</a>]</mark>
+* losartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08B0300" title="약학정보원: 아모잘탄정5/50mg" data-kpic-body="1">아모잘탄</a>]</mark>
+* olmesartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08G3122" title="약학정보원: 세비카정5/20mg" data-kpic-body="1">세비카</a>]</mark>
+* telmisartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010082000008" title="약학정보원: 트윈스타정40/5mg" data-kpic-body="1">트윈스타</a>]</mark>
+* valsartan/amlodipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP1064" title="약학정보원: 엑스포지정5/160mg" data-kpic-body="1">엑스포지</a>]</mark>
+* valsartan/lercanidipine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013072600012" title="약학정보원: 레바캄정10/80mg" data-kpic-body="1">레바캄</a>]</mark>
 
 **BB + Diuretics**
 
@@ -942,9 +930,9 @@ _(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, �
 
 **3제 복합제**
 
-* losartan/amlodipine/chlorthalidone <mark style="color:blue;">\[아모잘탄 플러스]</mark>
-* olmesartan/amlodipine/HCTZ <mark style="color:blue;">\[세비카 에이치씨티]</mark>
-* telmisartan/amlodipine/chlorthalidone <mark style="color:blue;">\[트루셋]</mark>
+* losartan/amlodipine/chlorthalidone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017063000014" title="약학정보원: 아모잘탄플러스정5/50/12.5mg" data-kpic-body="1">아모잘탄 플러스</a>]</mark>
+* olmesartan/amlodipine/HCTZ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012091400003" title="약학정보원: 세비카에이치씨티정5/40/12.5mg" data-kpic-body="1">세비카 에이치씨티</a>]</mark>
+* telmisartan/amlodipine/chlorthalidone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019090900206" title="약학정보원: 트루셋정40/5/12.5mg" data-kpic-body="1">트루셋</a>]</mark>
 
 <mark style="color:cyan;">**단일제형복합제**</mark><mark style="color:cyan;">(SPC,</mark> <mark style="color:cyan;">Single-Pill Combination)</mark> <mark style="color:cyan;">**분류 체계**</mark> <mark style="color:$info;">\[대한고혈압학회]</mark>
 
@@ -959,29 +947,34 @@ _(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, �
 ***
 
 ```mermaid
-graph TD
-    Start(["Monotherapy 조건¹⁾ 해당?"])
-style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    T0["<u>단일제 치료</u><br/>ACEi/ARB, CCB, Diuretic"]  
-    T1["<u>저용량 2제 요법</u><br/>ACEi/ARB + CCB/Diuretic"]  
-    T2["<u>저용량 3제 요법*</u><br/>ACEi/ARB + CCB + Diuretic"]
-    T3["<u>고용량 3제 요법*</u><br/>ACEi/ARB + CCB + Diuretic"]
-style T0 fill:#e3f2ff,stroke:#2196f3
-style T1 fill:#e3f2ff,stroke:#2196f3
-style T2 fill:#daeaff,stroke:#1e80d9
-style T3 fill:#d0e8ff,stroke:#1a6abf
-    Check0["BP 조절됨?²⁾"]
-    Check1["BP 조절됨?²⁾"]
-    Check2["BP 조절됨?²⁾"]
-    Check3["BP 조절됨?²⁾"]
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class Check0,Check1,Check2,Check3 yellow
+flowchart TD
+    Begin["약물 치료 계획"] --> Start{"Monotherapy 조건¹⁾ 해당?"}
+
+    T0["단일제 치료
+ACEi/ARB, CCB, Diuretic"]  
+    T1["저용량 2제 요법
+ACEi/ARB + CCB/Diuretic"]  
+    T2["저용량 3제 요법*
+ACEi/ARB + CCB + Diuretic"]
+    T3["고용량 3제 요법*
+ACEi/ARB + CCB + Diuretic"]
+
+
+    Check0{"BP 조절됨?²⁾"}
+    Check1{"BP 조절됨?²⁾"}
+    Check2{"BP 조절됨?²⁾"}
+    Check3{"BP 조절됨?²⁾"}
+
+
     Resistant["난치성 고혈압*"]
-style Resistant fill:#f8a0c0,stroke:#d01f5a
-    Action2["복약 순응도 확인<br/>Spironolactone 추가 고려<br/>또는 의뢰"]
-style Action2 fill:#fff3e0,stroke:#e65100
-    FU["안정 후 3~6개월 추적<br/>위험도·내약성에 따라 개별화"]
-style FU fill:#e8f8e8,stroke:#4caf50
+
+    Action2["복약 순응도 확인
+Spironolactone 추가 고려
+또는 의뢰"]
+
+    FU["안정 후 3~6개월 추적
+위험도·내약성에 따라 개별화"]
+
     Start --YES--> T0
 
     T0 --> Check0
@@ -1001,10 +994,15 @@ style FU fill:#e8f8e8,stroke:#4caf50
     Check3 -- NO --> Resistant
     
     Resistant --> Action2
-
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class Start,Check0,Check1,Check2,Check3 question
+    class T0,T1,T2,T3,Resistant,Action2,FU treatment
+    style Begin fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
-<p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
+<p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">2023 ESH Guidelines를 바탕으로 저자 재구성.</mark></em></p>
 
 _¹⁾ 약물 치료 적응증이 있으면서 목표에 가까운 경도 혈압 상승, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
 _²⁾ 시작·조정 후 2\~4주에 혈압·내약성 평가_\
@@ -1018,7 +1016,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 #### <mark style="color:$primary;">고혈압 약제의 절대적/상대적 금기</mark>
 
-<table><thead><tr><th>계열</th><th>금기·피해야 하는 상황</th><th>주의 / 예외</th></tr></thead><tbody><tr><td>ACEI</td><td>임신, ACEI 관련 혈관부종 병력</td><td>양측 또는 기능성 단일 신장의 신동맥협착·고칼륨혈증·저혈량에서는 피하거나 원인 교정 및 전문 평가</td></tr><tr><td>ARB</td><td>임신, 해당 ARB 관련 혈관부종 병력</td><td>ACEI 혈관부종 병력을 모든 ARB의 절대 금기로 일반화하지 않으며, 필요한 경우 위험 설명 후 신중히 대체; 신동맥협착·고칼륨혈증 주의</td></tr><tr><td>β-차단제</td><td>심한 서맥, 심박동기 없는 2~3도 방실차단, 쇼크·급성 비대상성 심부전; 비선택성 제제는 천식에서 피함</td><td>기관지경련 질환에서 반드시 필요한 경우 β1 선택성 제제의 적응증·제품별 금기 확인; COPD를 일괄 금기로 간주하지 않음</td></tr><tr><td>DHP-CCB</td><td>중증 저혈압·쇼크 등 제품별 금기</td><td>말초 부종; amlodipine 등의 HFrEF 사용을 non-DHP와 동일하게 금기 처리하지 않음</td></tr><tr><td>non-DHP CCB</td><td>HFrEF, 심한 서맥, 심박동기 없는 2~3도 방실차단</td><td>β-차단제와 병용 시 서맥·전도장애·심부전 위험</td></tr><tr><td>T/TL·loop 이뇨제</td><td>심한 체액·전해질 고갈, 무뇨 등 제품별 금기</td><td>통풍·고요산혈증은 대체약·요산 조절 여부를 고려; 저칼륨혈증을 교정하고 Na·K·Cr 추적</td></tr><tr><td>K 보존성 이뇨제·MRA</td><td>고칼륨혈증, 제품별 중증 신장애 금기</td><td>ACEI/ARB 병용 시 K·신 기능 면밀히 추적; 저칼륨혈증을 이 계열 전체의 금기로 쓰지 않음</td></tr></tbody></table>
+<table><thead><tr><th>계열</th><th>금기·피해야 하는 상황</th><th>주의 / 예외</th></tr></thead><tbody><tr><td>ACEI</td><td>임신, ACEI 관련 혈관부종 병력</td><td>양측 또는 기능성 단일 신장의 신동맥협착·고칼륨혈증·저혈량에서는 피하거나 원인 교정 및 전문 평가</td></tr><tr><td>ARB</td><td>임신, 해당 ARB 관련 혈관부종 병력</td><td>ACEI 혈관부종 후 ARB 대체의 임상 근거와 품목별 금기는 구분함. 이 장의 미카르디스·엑스포지는 ACEI 관련 혈관부종 병력도 금기이므로 사용하지 않음; 신동맥협착·고칼륨혈증 주의</td></tr><tr><td>β-차단제</td><td>심한 서맥, 심박동기 없는 2~3도 방실차단, 쇼크·급성 비대상성 심부전; 비선택성 제제는 천식에서 피함</td><td>기관지경련 질환에서 반드시 필요한 경우 β1 선택성 제제의 적응증·제품별 금기 확인; COPD를 일괄 금기로 간주하지 않음</td></tr><tr><td>DHP-CCB</td><td>중증 저혈압·쇼크 등 제품별 금기</td><td>말초 부종; amlodipine 등의 HFrEF 사용을 non-DHP와 동일하게 금기 처리하지 않음</td></tr><tr><td>non-DHP CCB</td><td>HFrEF, 심한 서맥, 심박동기 없는 2~3도 방실차단</td><td>β-차단제와 병용 시 서맥·전도장애·심부전 위험</td></tr><tr><td>T/TL·loop 이뇨제</td><td>심한 체액·전해질 고갈, 무뇨 등 제품별 금기</td><td>통풍·고요산혈증은 대체약·요산 조절 여부를 고려; 저칼륨혈증을 교정하고 Na·K·Cr 추적</td></tr><tr><td>K 보존성 이뇨제·MRA</td><td>고칼륨혈증, 제품별 중증 신장애 금기</td><td>ACEI/ARB 병용 시 K·신 기능 면밀히 추적; 저칼륨혈증을 이 계열 전체의 금기로 쓰지 않음</td></tr></tbody></table>
 
 ### <mark style="color:orange;">고혈압 약제의 대표적 부작용</mark>
 
@@ -1028,17 +1026,17 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 ### <mark style="color:orange;">당뇨병 치료제</mark>
 
-* 혈당 및 HbA1c 목표는 당뇨병의 유형, 연령, 동반 질환, 저혈당 위험 및 기대여명 등에 따라 개별화하며, 이 장에서는 고혈압 치료와 관련된 혈압 목표만 다룸 (☞ [당뇨병](../226_/101_.md))
+* 혈당 및 HbA1c 목표는 당뇨병의 유형, 연령, 동반 질환, 저혈당 위험 및 기대여명 등에 따라 개별화하며, 이 장에서는 고혈압 치료와 관련된 혈압 목표만 다룸 [(☞ 당뇨병)](../226_/101_-dmdrugs.md)
 
 ### <mark style="color:orange;">Aspirin</mark>
 
-　☞ [항혈소판제](../231_/214_-anti-thrombotics-anti-coagulants.md#aspirin)
+　[(☞ 항혈소판제)](../231_/214_-anti-thrombotics-anti-coagulants.md#aspirin)
 
 * 고혈압 자체는 aspirin의 적응증이 아님. 심혈관질환이 있는 경우에는 2차 예방 목적으로 사용
 * 1차 예방 : 출혈 위험이 낮은 40~70세의 고위험 고혈압 환자에서 개별적으로 고려할 수 있으나, routine 사용은 권고하지 않음; USPSTF는 ≥60세에서 1차 예방 목적으로 새로 시작하지 않도록 권고 (아래 국내 권고와 구분)
 * 금기 : 높은 위장 출혈 위험 (예: 활동성 소화성 궤양), 출혈성 소인, aspirin 과민
 * 용량 : 100 ㎎ (75\~162 ㎎)
-* aspirin 과민 ASCVD 환자에서 clopidogrel (75 ㎎/d) <mark style="color:blue;">\[플라빅스]</mark> 고려
+* aspirin 과민 ASCVD 환자에서 clopidogrel (75 ㎎/d) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0533" title="약학정보원: 플라빅스정75mg" data-kpic-body="1">플라빅스</a>]</mark> 고려
 
 **대한고혈압학회**
 
@@ -1056,7 +1054,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * 대상 : 중등도 이상 위험도를 가진 고혈압 환자, 심혈관 질환이 있는 고혈압 환자
 *   LDL-C 치료 시작과 목표 수치는 심혈관질환 발생 위험도와 기저 심혈관질환 유무에 따라 결정 <mark style="color:$info;">\[2026 대한고혈압학회]</mark> (이전 기준: CVD가 없는 경우 ＜130, CVD가 있는 경우 ＜70으로 고정)
 
-    (☞ 이상지질혈증 [LDL-C 목표](099_-dyslipidemia.md#undefined-11))
+    [(☞ 이상지질혈증: LDL-C 목표)](099_-dyslipidemia.md#ldl-goals)
 
 ## <mark style="color:green;">특별한 상황에서의 고혈압 관리</mark>
 
@@ -1073,7 +1071,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 <mark style="color:cyan;">**당뇨병 동반 비만 고혈압**</mark> <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 
 * [GLP-1 수용체작용제](../230_/191_-obesity.md#glp-1-receptor-agonist-glp-1-ra) : 체중 및 혈압 동시 감소 효과; ASCVD 동반 당뇨병에서 권고
-* [SGLT2 억제제](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor) : 체중 감량(약 2\~4 ㎏) + 혈압 강하(SBP 3\~5 ㎜Hg) + 심장·신장 보호 효과
+* [SGLT2 억제제](../226_/101_-dmdrugs.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor) : 체중 감량(약 2\~4 ㎏) + 혈압 강하(SBP 3\~5 ㎜Hg) + 심장·신장 보호 효과
 * 두 약제 병용 시 상가적 체중 감량 및 혈압 강하 효과 기대
 
 ### <mark style="color:orange;">고령자</mark>
@@ -1116,7 +1114,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
-<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>DUR 임부금기 2등급; 허가사항상 임부 신중 투여; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄; 국내 허가사항상 수유부는 여전히 투여 금지</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>-</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC를 통한 공급 가능 여부·소요 기간 확인 필요; 응급 치료 약제로 기다리지 않음</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>-</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
+<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>DUR 임부금기 2등급; 허가사항상 임부 신중 투여; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄; 국내 허가사항상 수유부는 여전히 투여 금지</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A3180A0297" title="약학정보원: 라베신주사" data-kpic-body="1">라베신 주</a>]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>-</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC를 통한 공급 가능 여부·소요 기간 확인 필요; 응급 치료 약제로 기다리지 않음</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>-</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
 
 <mark style="color:cyan;">**금기**</mark>
 
@@ -1163,7 +1161,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 ### <mark style="color:orange;">만성콩팥병</mark>
 
-* 목표 혈압 (☞ [만성콩팥병](../227_/112_-chronic-kidney-disease-ckd.md))
+* 목표 혈압 [(☞ 만성콩팥병)](../227_/112_-chronic-kidney-disease-ckd.md)
   * 만성콩팥병 동반 고혈압 : 내약 시 ＜130/80 ㎜Hg; 노쇠·증상성 OH·투석 등은 개별화
   * 비투석 CKD에서 표준화된 진료실혈압으로 측정하고 내약성이 있으면 SBP ＜120 ㎜Hg 목표 고려
 
@@ -1241,20 +1239,25 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 ```mermaid
 flowchart TD
-    Start1["확인된 SBP 130-149 또는 DBP 80-89<br/>단, SBP ≥150 또는 DBP ≥90이면 2제 분기"]
-    Start2["확인된 SBP ≥150 또는 DBP ≥90"]
-style Start1 fill:#e8f8e8,stroke:#4caf50
-style Start2 fill:#d5f5e3,stroke:#27ae60
+    Begin["당뇨병 동반 고혈압; 비임신 성인"] --> Q{"SBP ≥150 또는 DBP ≥90?"}
+    Q -->|"아니오"| Start1["확인된 SBP 130-149 또는 DBP 80-89
+단, SBP ≥150 또는 DBP ≥90이면 2제 분기"]
+    Q -->|"예"| Start2["확인된 SBP ≥150 또는 DBP ≥90"]
+
 
     Start1 --> S1["생활요법 + 단일 약제"]
     Start2 --> S2["생활습관 개선 + 2제 병용"]    
-    S1 --> Check1["알부민뇨 or CAD?¹⁾"]
-    Check1 -- NO --> Drugs1["ACEI/ARB, <br/>CCB²⁾, 이뇨제³⁾"]
+    S1 --> Check1{"알부민뇨 or CAD?¹⁾"}
+    Check1 -- NO --> Drugs1["ACEI/ARB, 
+CCB²⁾, 이뇨제³⁾"]
     Check1 -- YES --> Drugs2["ACEI/ARB"]
-    S2 --> Check2["알부민뇨 or CAD?¹⁾"]
-    Check2 -- NO --> Drugs3["ACEI/ARB, CCB²⁾, <br/>이뇨제³⁾ 중 2개"]
-    Check2 -- YES --> Drugs4["ACEI/ARB & <br/>CCB²⁾ 또는 이뇨제³⁾"]
-    Drugs1 & Drugs2 & Drugs3 & Drugs4 --> Eval1["혈압 강하 효과 및 <br/>부작용 평가"] 
+    S2 --> Check2{"알부민뇨 or CAD?¹⁾"}
+    Check2 -- NO --> Drugs3["ACEI/ARB, CCB²⁾, 
+이뇨제³⁾ 중 2개"]
+    Check2 -- YES --> Drugs4["ACEI/ARB & 
+CCB²⁾ 또는 이뇨제³⁾"]
+    Drugs1 & Drugs2 & Drugs3 & Drugs4 --> Eval1["혈압 강하 효과 및 
+부작용 평가"] 
     Eval1 --> Success["치료 순응 및 목표 달성"]
     Eval1 --> Fail["목표 달성 실패"]
     Eval1 --> SideEffect["부작용 발생"]
@@ -1262,25 +1265,23 @@ style Start2 fill:#d5f5e3,stroke:#27ae60
     Fail --> AddDrug["다른 계열 약제 추가"]
     SideEffect --> ChangeDrug["대체 약물 변경 고려"]
     AddDrug & ChangeDrug --> Eval2["효과 및 부작용 평가"]
-    Eval2 --> Success2["치료 순응 및 <br/>목표 달성"]
-    Eval2 --> Fail2["목표 달성 실패 or <br/>부작용 발생"]
+    Eval2 --> Success2["치료 순응 및 
+목표 달성"]
+    Eval2 --> Fail2["목표 달성 실패 or 
+부작용 발생"]
     Success2 --> Maintain2["치료 유지"]
     Fail2 --> Referral["MRA 추가 고려 또는 의뢰"]
-classDef white fill:#fff,stroke:#333
-class Success2,Success white
-classDef orange fill:#fdebd0,stroke:#e67e22
-class Fail,Fail2,SideEffect orange
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class Maintain2,Maintain blue
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class Check1,Check2,Eval2,Eval1 yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class S1,S2,Drugs1,Drugs2,Drugs3,Drugs4 sky
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class Q,Check1,Check2 question
+    class Start1,Start2,S1,S2,Drugs1,Drugs2,Drugs3,Drugs4,Eval1,Success,Fail,SideEffect,Maintain,AddDrug,ChangeDrug,Eval2,Success2,Fail2,Maintain2,Referral treatment
+    style Begin fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>당뇨병 동반 고혈압 치료 알고리듬 (ADA)</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Care in Diabetes 2026. 권고 10.6~10.9 및 Fig 10.2에 따라 재구성; 비임신 성인에 적용</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Care in Diabetes 2026. 권고 10.6~10.9 및 Fig 10.2에 따라 저자 재구성; 비임신 성인에 적용</mark></em></p>
 
 _CAD = coronary artery disease_\
 _¹⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
@@ -1351,7 +1352,7 @@ _³⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamid
 
 <mark style="color:cyan;">**임상 양상별 정맥내 강압제 선택**</mark>
 
-<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 첫 24시간 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 첫 24시간 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 130~＜140 ㎜Hg로 낮추어 ≥7일 유지; ＜130이면 강압제 보류</td><td>nicardipine, labetalol 등</td><td>2025 ACC/AHA 기준; 2022 AHA/ASA의 목표·유지 범위와 구분</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120 또는 장기 관류 유지 가능한 최저 혈압, HR 60~80/분</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + Mg sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
+<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 첫 24시간 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 첫 24시간 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 130~＜140 ㎜Hg로 낮추어 ≥7일 유지; ＜130이면 강압제 보류</td><td>nicardipine, labetalol 등</td><td>2025 ACC/AHA 기준; 2022 AHA/ASA의 목표·유지 범위와 구분</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120 또는 장기 관류 유지 가능한 최저 혈압, HR 60~80/분</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + ㎎ sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
 
 _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pressure, NTG=Nitroglycerin_
 
@@ -1380,79 +1381,11 @@ _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pre
 
 ***
 
-```mermaid
-flowchart LR
-    A["**Diagnosis**
-    ─────────────
-    • 환자 병력, 가족력
-    • 신체검사
-    • 외래 혈압 측정
-      (ABPM/HBPM)
-    • Basic/extended
-      lab test
-    • ECG
-    • CV risk &
-      HMOD 평가
-    • 생활 습관 중재,
-      약물 치료 시작"]
-
-    B["**Initiation Phase**
-    ─────────────
-    • 첫 3개월간 혈압으로
-      대면/비대면 진료
-    • 생활 습관 준수
-      여부 확인
-    • 필요시 선택적
-      lab test, ECG
-    • 필요시 치료
-      약물 조정"]
-
-    C["**Short-term F/U**
-    ─────────────
-    저위험(조절 양호):
-    → 3~6개월 간격 추적
-    고위험/조절 불량:
-    → 더 짧은 간격으로 개별화된 추적
-
-    Check-up program:
-    • HBPM, 생활 습관
-    • 외래 혈압 측정
-    • 필요시 신체검사
-    • Basic/extended
-      lab test, ECG
-    • CV risk &
-      HMOD 재평가
-    • 필요시 약물 조정"]
-
-    D["**Long-term F/U**
-    ─────────────
-    저위험(조절 양호):
-    → Basic: 매년
-    → Extended: ≥3년마다
-      HMOD 재평가
-
-    고위험/조절 불량:
-    → 개별화된
-      빈번한 추적 관찰"]
-
-    A --> B --> C --> D
-
-    E["HBPM 및 <br/>원격 진료 권고"]
-    A -. "관리 향상" .-> E
-    B -. "관리 향상" .-> E
-    C -. "관리 향상" .-> E
-    D -. "관리 향상" .-> E
-
-    style A fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style B fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style C fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
-    style D fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px
-
-```
+<table><thead><tr><th>단계</th><th>주요 확인</th></tr></thead><tbody><tr><td>진단</td><td>표준 혈압·가정/활동혈압, 기본 검사, 위험도·HMOD, 생활요법·치료 계획</td></tr><tr><td>시작·조정 후</td><td>통상 2~4주에 혈압·내약성 확인; 약제·위험도에 따른 전해질·신기능 검사</td></tr><tr><td>안정 후</td><td>통상 3~6개월 추적, 가정혈압·생활요법·순응도 확인; 고위험·조절 불량은 더 자주</td></tr><tr><td>장기 관리</td><td>동반질환·위험도에 맞춰 기본 검사·HMOD를 재평가하며 모든 검사를 일률 반복하지 않음</td></tr></tbody></table>
 
 <p align="center"><strong>고혈압 환자의 추적 관리</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 2023 ESH Guidelines. Fig 21.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">2023 ESH Guidelines Fig 21을 바탕으로 저자 재구성.</mark></em></p>
 
 ***
 
@@ -1513,51 +1446,64 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 > **처방례 1. 1기 고혈압, 단독 요법**
 >
 > ```
-> amlodipine 5 mg  1T  qd (아침)
+> 노바스크정5밀리그람 (amlodipine 5 ㎎/정)  1정  qd (아침)
 > ```
+>
+> 약제 정보: [노바스크정 5㎎](https://www.health.kr/drug/A11ABBBBB0949)
 >
 > _✽CCB 단독으로 시작; 2\~4주 후 혈압 재평가. 말초 부종 발생 시 ACEI/ARB로 전환 또는 병용 고려._
 
 > **처방례 2. 1기 고혈압, 고위험군 (당뇨병 동반 + 미세알부민뇨)**
 >
 > ```
-> telmisartan 40 mg  1T  qd (아침)
+> 미카르디스정40밀리그램 (telmisartan 40 ㎎/정)  1정  qd (아침)
 > ```
 >
-> _✽2026년 대한고혈압학회 기준 - 당뇨병 동반 고혈압은 조건 없이 모두 목표 혈압 ＜130/80 mmHg. 알부민뇨 동반 시 ARB 또는 ACEI 1차 선택. 4주 후 eGFR, K 재확인. 목표 달성 실패 시 amlodipine 추가._
+> 약제 정보: [미카르디스정 40㎎](https://www.health.kr/drug/A11AGGGGA5249)
+>
+> _✽2026년 대한고혈압학회 기준 - 당뇨병 동반 고혈압은 조건 없이 모두 목표 혈압 ＜130/80 ㎜Hg. 알부민뇨 동반 시 ARB 또는 ACEI 1차 선택. 시작·증량 2~4주 후 eGFR·K 확인; CKD·고령·저혈량 등 고위험이면 1~2주 내 확인. ACEI/ARB 관련 혈관부종 병력에서는 미카르디스를 사용하지 않음. 목표 달성 실패 시 amlodipine 추가._
 
-> **처방례 3. 2기 고혈압, 2제 병용요법 (CCB + ARB)**
+> **처방례 3. 2기 고혈압, 단독요법 미조절 후 2제 병용 전환 (CCB + ARB)**
 >
 > ```
-> valsartan/amlodipine (160/5 mg)  1T  qd (아침)
->     → 4주 후 혈압 미달 시 160/10 mg으로 증량 또는
+> 엑스포지정5/160밀리그램 (amlodipine/valsartan 5/160 ㎎/정)  1정  qd (아침)
+>     → 4주 후 혈압 미달 시 엑스포지정10/160밀리그램으로 증량 또는
 >       valsartan/amlodipine/HCTZ 복합제로 교체 고려
 > ```
 >
-> _✽단일 제형 복합제 선택으로 순응도 향상. 말초 부종은 체액 과다와 구분하여 CCB 감량·변경을 고려하고, 부종만을 이유로 이뇨제를 추가하지 않음._
+> 약제 정보: [엑스포지정 5/160㎎](https://www.health.kr/drug/A11APPPPP1064) · [엑스포지정 10/160㎎](https://www.health.kr/drug/A11APPPPP1062)
+>
+> _✽확인한 엑스포지의 적응증은 amlodipine 또는 valsartan 단독요법 미조절 환자임. 위 예는 amlodipine 5 ㎎ 또는 valsartan 160 ㎎ 단독요법에서 전환하는 처방이며, 지침의 초기 병용 권고를 이 제품의 초치료 허가로 해석하지 않음. 단일 제형 복합제 선택으로 순응도 향상. 말초 부종은 체액 과다와 구분하여 CCB 감량·변경을 고려하고, 부종만을 이유로 이뇨제를 추가하지 않음._
 
 > **처방례 4. 2기 고혈압, 2제 미조절 후 3제 병용 전환**
 >
 > ```
-> olmesartan/amlodipine/hydrochlorothiazide (40/5/12.5 mg)  1T  qd (아침)
+> 세비카에이치씨티정5/40/12.5밀리그램
+>   (amlodipine/olmesartan/HCTZ 5/40/12.5 ㎎/정)  1정  qd (아침)
 > ```
+>
+> 약제 정보: [세비카에이치씨티정 5/40/12.5㎎](https://www.health.kr/drug/2012091400003)
 >
 > _✽기존 2제 치료의 성분·용량과 목표 혈압을 확인한 후 전환하는 예이며, 초치료로 3제 복합제를 바로 투여하는 처방이 아님. 3제 복합제로 순응도 유지. eGFR, K, Na 정기 모니터링 필요. 3제 요법에도 불량 시 난치성(혹은 저항성) 고혈압 평가 및 의뢰 고려._
 
 > **처방례 5. 고혈압 + 만성콩팥병 (eGFR 35\~59, 미세알부민뇨)**
 >
 > ```
-> ramipril 1.25 mg  1T  qd (아침, 초기 용량)
-> amlodipine 5 mg  1T  qd (아침)
+> ramipril 1.25 ㎎ po qd (초기 성분 용량; 실제 제형·분할 가능 여부에 맞춰 조제)
+> 노바스크정5밀리그람 (amlodipine 5 ㎎/정)  1정  qd (아침)
 > ```
 >
-> _✽CKD stage 3 + 알부민뇨: ACEI 또는 ARB를 우선 선택하고 필요 시 CCB 등을 추가. 1~2주 내 K·Cr 확인 후 서서히 증량. 국내 허가상 CrCl 20~50 mL/min이면 초기 1.25 mg qd, 최대 5 mg/d; eGFR과 CrCl을 동일시하지 않음._
+> 약제 정보: [노바스크정 5㎎](https://www.health.kr/drug/A11ABBBBB0949)
+>
+> _✽CKD stage 3 + 알부민뇨: ACEI 또는 ARB를 우선 선택하고 필요 시 CCB 등을 추가. 1~2주 내 K·Cr 확인 후 서서히 증량. CrCl 20~50 mL/min이면 초기 1.25 ㎎ qd, 최대 5 ㎎/d; eGFR과 CrCl을 동일시하지 않음._
 
 > **처방례 6. 고령자 (75세) 수축기 단독 고혈압**
 >
 > ```
-> 후루덱스서방정 1.5 mg  1T  qd (아침)
+> 후루덱스서방정 (indapamide 1.5 ㎎/정)  1정  qd (아침)
 > ```
+>
+> 약제 정보: [후루덱스서방정 1.5㎎](https://www.health.kr/drug/A11A0760A0079)
 >
 > _✽고령자 저용량으로 시작, 기립성 저혈압 모니터링. DBP가 낮으면 증상·기립혈압·관상동맥질환·관류 상태를 함께 평가하여 조정; DBP ＜70만으로 자동 감량·중단하지 않음. 서방정은 쪼개지 않고 복용._
 
@@ -1566,15 +1512,65 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 * **규칙적 복용이 핵심** : 고혈압약은 혈압이 정상처럼 느껴져도 매일 같은 시간에 복용; 임의 중단 시 혈압이 급격히 상승하거나 심혈관 사고 위험이 있음
-* **이뇨제 (thiazide, furosemide)** : 탈수·저칼륨혈증 증상 (근육 경련, 피로, 불규칙 맥박) 발생 시 알릴 것; 야간 배뇨 증가를 줄이려면 아침에 복용
-* **ACEI (예: enalapril, ramipril)** : 마른기침이 생기면 ARB로 교체 가능; 임신 중에는 절대 복용하지 않음
+* **이뇨제 (thiazide, furosemide)** : 탈수·저칼륨혈증 증상 (근육 경련, 피로, 불규칙 맥박) 발생 시 알릴 것; 하루 한 번이면 대개 아침에 복용하고, 두 번 처방되면 두 번째 복용은 취침 직전을 피하도록 시간을 확인
+* **ACEI (예: enalapril, ramipril)** : 마른기침이 생기면 상담하여 약을 바꿀 수 있음. 입술·혀·목이 붓거나 숨이 차면 복용을 중단하고 즉시 응급실로 감; 임신 중에는 절대 복용하지 않음
 * **ARB (예: losartan, telmisartan)** : 기침은 드물지만 안면 붓기·호흡 곤란이 생기면 즉시 응급실 방문 (혈관부종); 임신 중 금기
 * **CCB (예: amlodipine)** : 발목 부종이 생길 수 있음; 일반적으로 위험하지 않으나 심하면 알릴 것; 자몽 주스와의 상호 작용 주의 (특히 felodipine, nifedipine)
 * **β-차단제 (예: bisoprolol, carvedilol)** : 갑자기 중단하면 혈압이 반등하거나 협심증이 악화될 수 있으므로 반드시 의사와 상의하여 서서히 감량; 천식·COPD가 있으면 복용 전 알릴 것
-* **성기능** : 이뇨제·β-차단제(nebivolol 제외)는 성기능 저하와 관련될 수 있으므로 불편하면 임의 중단하지 말고 상의; ARB가 가장 유리
+* **성기능** : 일부 이뇨제·β-차단제는 성기능 저하와 관련될 수 있으나 약제·환자별 차이가 있음. 불편하면 임의 중단하지 말고 대체약을 상담
+* **MRA·칼륨 보존성 이뇨제** : 알닥톤 등과 ACEI/ARB를 복용하면 칼륨이 높아질 수 있음. 칼륨 보충제·칼륨소금을 임의로 쓰지 말고, 시작·증량 후 정해진 채혈 일정을 지킬 것
+* **복용을 잊었을 때** : 다음 복용 시간이 가까우면 건너뛰고 두 배로 복용하지 않음. 약제별 안내를 따를 것
 * **가정 혈압 모니터링** : 아침(기상 후 1시간 이내, 혈압약 복용 전)과 저녁(취침 1시간 전)에 측정하여 기록; 측정 전 5분 이상 안정 필요
 * **생활 습관** : 저염식 (1일 소금 **5 g 이하**, 나트륨 2,000 ㎎ 이하), 음주 줄이기/가능하면 금주, 금연(전자담배 포함), 규칙적 운동 병행이 약물 효과를 높임
 * **기립성 저혈압 동반 시** : 소금·물을 임의로 늘리거나 혈압약을 중단하지 말고, 누운 혈압·선 혈압과 증상을 함께 기록하여 상담
+
+***
+
+## <mark style="color:green;">참고문헌</mark>
+
+### 임상 근거
+
+* Myers J, et al. Exercise Prescriptions for Cardiovascular Health in Adults: 2026 ACC Scientific Statement. JACC. Published online October 15, 2026. doi:10.1016/j.jacc.2026.09.008.
+  * https://doi.org/10.1016/j.jacc.2026.09.008
+
+* 대한고혈압학회. 고혈압 진료지침 2026. 제6판 수정본. - 국내 진단·목표 혈압·치료 시작, SPC 분류, 난치성 고혈압 및 임신 관리
+  * https://www.koreanhypertension.org/reference/guide?idno=10446&mode=read
+* Lee EM, et al. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension: what's new and what has changed. Clin Hypertens. 2026;32:e31.
+  * https://doi.org/10.5646/ch.2026.32.e31
+* AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. - PREVENT, 약물 치료 및 급성 ICH 혈압 관리
+  * https://doi.org/10.1161/CIR.0000000000001356
+* McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;45:3912–4018.
+  * https://doi.org/10.1093/eurheartj/ehae178
+* Mancia G, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41:1874–2071.
+  * https://doi.org/10.1097/HJH.0000000000003480
+* American Diabetes Association. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S216–S245.
+  * https://doi.org/10.2337/dc26-s010
+* KDIGO. 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD; 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. - 표준화 혈압, RAS 차단제 및 신장 보호 약물
+  * https://kdigo.org/guidelines/blood-pressure-in-ckd/
+  * https://kdigo.org/guidelines/ckd-evaluation-and-management/
+* Endocrine Society. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. 2025. - ARR 선별, 간섭 약물, 확진·편측성 평가
+  * https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2
+* Juraschek SP, et al. Orthostatic Hypotension in Adults With Hypertension: A Scientific Statement From the AHA. Hypertension. 2024;81:e16–e30.
+  * https://doi.org/10.1161/HYP.0000000000000236
+* AHA/ASA. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage; 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke. - 급성 뇌졸중 유형별 혈압 관리
+  * https://doi.org/10.1161/STR.0000000000000407
+  * https://doi.org/10.1161/STR.0000000000000513
+* USPSTF. Aspirin Use to Prevent Cardiovascular Disease: Preventive Medication. 2022. - 국내 권고와 연령 기준의 차이를 구분
+  * https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication
+
+### 허가·급여 확인 자료
+
+* 지침의 약물 시작·병용 권고와 건강보험 급여 인정은 별개임. ARNI의 고혈압 단독 사용은 허가 외이며, SGLT2 억제제·finerenone은 해당 동반 질환의 품목별 적응증·급여 조건을 적용함
+* 국내 제조·판매사 제품설명서 대조: cilazapril(경동제약 실라프릴), ramipril(한독 트리테이스프로텍트), doxazosin XL(비아트리스 카두라 엑스엘), diltiazem(이노엔 헤르벤). 제형별 투여 횟수·최대 용량을 구분함
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. 약제 급여기준 및 DUR 정보. - 고혈압약제 급여, 임부금기 및 용량·제형 관련 사항
+  * https://www.hira.or.kr
+* 한국희귀·필수의약품센터. - 국내 미유통 경구 labetalol·methyldopa 및 hydralazine 등 공급 경로
+  * https://www.kodc.or.kr/index
+* US FDA / DailyMed. BAXFENDY (baxdrostat) prescribing information, 2026. - 미국 승인 적응증·용법·전해질 모니터링; 국내 처방과 구분
+  * https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1fc1ee7-facc-4099-b3db-a4c1daeaa4be
 
 ***
 
@@ -1625,49 +1621,3 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 
 
 ***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### 임상 근거
-
-* Myers J, et al. Exercise Prescriptions for Cardiovascular Health in Adults: 2026 ACC Scientific Statement. JACC. Published online October 15, 2026. doi:10.1016/j.jacc.2026.09.008.
-  * https://doi.org/10.1016/j.jacc.2026.09.008
-
-* 대한고혈압학회. 고혈압 진료지침 2026. 제6판 수정본. - 국내 진단·목표 혈압·치료 시작, SPC 분류, 난치성 고혈압 및 임신 관리
-  * https://www.koreanhypertension.org/reference/guide?idno=10446&mode=read
-* Lee EM, et al. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension: what's new and what has changed. Clin Hypertens. 2026;32:e31.
-  * https://doi.org/10.5646/ch.2026.32.e31
-* AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. - PREVENT, 약물 치료 및 급성 ICH 혈압 관리
-  * https://doi.org/10.1161/CIR.0000000000001356
-* McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;45:3912–4018.
-  * https://doi.org/10.1093/eurheartj/ehae178
-* Mancia G, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41:1874–2071.
-  * https://doi.org/10.1097/HJH.0000000000003480
-* American Diabetes Association. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S216–S245.
-  * https://doi.org/10.2337/dc26-s010
-* KDIGO. 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD; 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. - 표준화 혈압, RAS 차단제 및 신장 보호 약물
-  * https://kdigo.org/guidelines/blood-pressure-in-ckd/
-  * https://kdigo.org/guidelines/ckd-evaluation-and-management/
-* Endocrine Society. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. 2025. - ARR 선별, 간섭 약물, 확진·편측성 평가
-  * https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2
-* Juraschek SP, et al. Orthostatic Hypotension in Adults With Hypertension: A Scientific Statement From the AHA. Hypertension. 2024;81:e16–e30.
-  * https://doi.org/10.1161/HYP.0000000000000236
-* AHA/ASA. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage; 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke. - 급성 뇌졸중 유형별 혈압 관리
-  * https://doi.org/10.1161/STR.0000000000000407
-  * https://doi.org/10.1161/STR.0000000000000513
-* USPSTF. Aspirin Use to Prevent Cardiovascular Disease: Preventive Medication. 2022. - 국내 권고와 연령 기준의 차이를 구분
-  * https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication
-
-### 허가·급여 확인 자료
-
-* 지침의 약물 시작·병용 권고와 건강보험 급여 인정은 별개임. ARNI의 고혈압 단독 사용은 허가 외이며, SGLT2 억제제·finerenone은 해당 동반 질환의 품목별 적응증·급여 조건을 적용함
-* 국내 제조·판매사 제품설명서 대조: cilazapril(경동제약 실라프릴), ramipril(한독 트리테이스프로텍트), doxazosin XL(비아트리스 카두라 엑스엘), diltiazem(이노엔 헤르벤). 제형별 투여 횟수·최대 용량을 구분함
-
-* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태
-  * https://nedrug.mfds.go.kr/index
-* 건강보험심사평가원. 약제 급여기준 및 DUR 정보. - 고혈압약제 급여, 임부금기 및 용량·제형 관련 사항
-  * https://www.hira.or.kr
-* 한국희귀·필수의약품센터. - 국내 미유통 경구 labetalol·methyldopa 및 hydralazine 등 공급 경로
-  * https://www.kodc.or.kr/index
-* US FDA / DailyMed. BAXFENDY (baxdrostat) prescribing information, 2026. - 미국 승인 적응증·용법·전해질 모니터링; 국내 처방과 구분
-  * https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1fc1ee7-facc-4099-b3db-a4c1daeaa4be
