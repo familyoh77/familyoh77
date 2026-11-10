@@ -222,7 +222,7 @@
 * 대상 : 화학요법 유발 구역/구토의 예방
 * 항암요법의 구토 유발 위험도에 맞춰 병용
 * 고위험 항암요법에서는 5-HT3 길항제 + NK1 길항제 + dexamethasone + olanzapine의 4제 예방요법을 권고 <mark style="color:$info;">\[MASCC/ESMO 2023]</mark> (olanzapine의 항구토 목적 사용은 허가 외 사용임)
-* **aprepitant** : CINV 예방 시 제1일 <a href="https://www.health.kr/drug/A11AOOOOO5502">125</a> ㎎, 제2\~3일 <a href="https://www.health.kr/drug/A11AOOOOO5503">80</a> ㎎ qd <mark style="color:blue;">\[</mark>[에멘드캡슐](https://health.kr/drug/A11AOOOOO5503)<mark style="color:blue;">]</mark>
+* **aprepitant** : CINV 예방 시 제1일 [125](https://www.health.kr/drug/A11AOOOOO5502) ㎎, 제2\~3일 [80](https://www.health.kr/drug/A11AOOOOO5503) ㎎ qd <mark style="color:blue;">\[</mark>[에멘드캡슐](https://health.kr/drug/A11AOOOOO5503)<mark style="color:blue;">]</mark>
 * fosaprepitant <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에멘드주</mark>](https://www.health.kr/drug/2011071500002)<mark style="color:blue;">]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아킨지오</mark>](https://www.health.kr/drug/2018062900002)<mark style="color:blue;">]</mark>, rolapitant(해외 약제)
 
 ### <mark style="color:orange;">위장관 신경조절제 (TCA·Mirtazapine)</mark> <a href="#tca" id="tca"></a>
@@ -230,8 +230,8 @@
 * 대상 : 초기 치료에도 증상이 지속되는 기능성 소화불량(FD), 만성 구역·구토 증후군 등에서 저용량으로 선택적으로 고려함(해당 소화기 증상에 허가 외 사용; 적응증별 근거 수준은 다름)
   * FD에서는 특히 상복부 통증이 두드러지는 경우 2차 치료로 고려함. 위장관 통증·감각 신호를 조절하는 목적으로 사용하며 항우울 치료 용량과 구분함 (☞ [소화불량](075_-indigestion-dyspepsia.md))
   * 2025 AGA 지침은 nortriptyline을 위마비의 일차치료로 사용하지 않도록 조건부 권고함
-* **amitriptyline** : <a href="https://www.health.kr/drug/A11A0570B0082">10</a>\~<a href="https://www.health.kr/drug/A11A0570A0148">25</a> ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[에트라빌]</mark>
-* **nortriptyline** : <a href="https://www.health.kr/drug/A11A1130A0032">10</a>\~<a href="https://www.health.kr/drug/A11A1130A0033">25</a> ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[센시발]</mark>
+* **amitriptyline** : [10](https://www.health.kr/drug/A11A0570B0082)\~[25](https://www.health.kr/drug/A11A0570A0148) ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[에트라빌]</mark>
+* **nortriptyline** : [10](https://www.health.kr/drug/A11A1130A0032)\~[25](https://www.health.kr/drug/A11A1130A0033) ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[센시발]</mark>
 * 고령에서는 항콜린 부작용·기립저혈압·심독성 때문에 가급적 피함. Amitriptyline은 부정맥·심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·MAO 억제제 투여 중 등에 금기; nortriptyline은 해당 품목의 금기·주의를 별도로 확인
 * Domperidone과 병용하지 않으며 다른 QT 연장 약제와의 상호작용도 확인. 초기 2\~4주에 내약성·기분 변화·복약 상태를 평가하고, 심한 두근거림·실신·요폐·눈 통증과 시야 흐림 발생 시 중단·즉시 평가
 * **Mirtazapine**은 TCA가 아닌 별도 계열의 항우울제로, 체중 감소·조기 포만감이 두드러지는 치료 불응성 FD에서 전문 진료를 통해 선택적으로 고려함(허가 외 사용; 근거 제한적). 상세 적응 상황과 치료 방향은 [소화불량](075_-indigestion-dyspepsia.md) 참조
@@ -240,7 +240,7 @@
 
 * 대상 : 예기성 항암화학요법 유발 구역·구토 등에서 제한적으로 사용하는 보조요법
   * 일반적인 불안 동반 구토의 일률적 치료제로 사용하지 않음
-* lorazepam <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0915">아티반</a>]</mark> 등은 예기성 구역·구토에서 항암치료 계획에 따라 제한적으로 병용(항구토 목적은 허가 외 사용)
+* lorazepam <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아티반</mark>](https://www.health.kr/drug/A11ABBBBB0915)<mark style="color:blue;">]</mark> 등은 예기성 구역·구토에서 항암치료 계획에 따라 제한적으로 병용(항구토 목적은 허가 외 사용)
 * 일반 외래 구토에 정규 반복 처방을 일률적으로 적용하지 않음
 * 회피 : 고령 - 낙상·진정·의존
 
@@ -251,7 +251,7 @@
 * IBS에 대해서는 지침 간 차이가 있음
   * AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 IBS 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고함. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단 <mark style="color:$info;">\[AGA 2020; J Neurogastroenterol Motil 2025]</mark>
 * 성인 급성 감염성 설사 : 지침 간 차이가 있음. IDSA 2017은 정상 면역 성인에서 선택적 사용을 약하게 권고하지만, ACG 2016은 항생제 관련 설사를 제외한 성인 급성 설사에서 사용을 권고하지 않음. 성인·균주별 근거가 제한적이므로 일상적으로 처방하지 않음 <mark style="color:$info;">\[IDSA 2017; ACG 2016]</mark>
-* 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019040500076">람노스산</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO9524">람노스과립</a>]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제
+* 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">람노스산</mark>](https://www.health.kr/drug/2019040500076)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">람노스과립</mark>](https://www.health.kr/drug/A11AOOOOO9524)<mark style="color:blue;">]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제
 * _Saccharomyces boulardii_ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">비오플250산</mark>](https://www.health.kr/drug/2010112500008)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">비오플250캡슐</mark>](https://www.health.kr/drug/2013031200010)<mark style="color:blue;">]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
 * _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">메디락에스산</mark>](https://www.health.kr/drug/A11A2140A0150)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">메디락에스</mark>](https://www.health.kr/drug/A11A2140A0147)<mark style="color:blue;">]</mark>
 
@@ -275,7 +275,7 @@
 ### <mark style="color:orange;">Simethicone</mark>
 
 * 기능성 팽만·영아 산통 등에서 일관된 효과 근거는 제한적이나 전신 흡수가 거의 없어 비교적 안전한 증상 완화제로 사용
-* 용법 : 40\~80 ㎎ tid 식후 또는 취침 시 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019101700032">가소콜액</a>]</mark>
+* 용법 : 40\~80 ㎎ tid 식후 또는 취침 시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">가소콜액</mark>](https://www.health.kr/drug/2019101700032)<mark style="color:blue;">]</mark>
 
 ### <mark style="color:orange;">비흡수성 항생제 (Non-absorbable antibiotic)</mark>
 
@@ -434,7 +434,7 @@
 
 * 작용 : serotonin 차단 → 위장관 motility·sensation 억제 → 설사형 IBS 개선
 * 부작용 : 변비, 허혈성 대장염(중대한 이상반응)
-* **ramosetron** : IBS-D 치료제로 허가. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2024122300007">이리콜</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/2025042900008">이리스탑</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/2025050200017">이리퀵</a>]</mark>
+* **ramosetron** : IBS-D 치료제로 허가. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리콜</mark>](https://www.health.kr/drug/2024122300007)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리스탑</mark>](https://www.health.kr/drug/2025042900008)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리퀵</mark>](https://www.health.kr/drug/2025050200017)<mark style="color:blue;">]</mark>
   * 변비·굳은 변 발생 시 감량·휴약·중단을 고려
   * 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가
   * CYP1A2 억제제(fluvoxamine 등) 병용 시 혈중 농도 상승, SSRI·SNRI 등 세로토닌성 약물 병용 시 신중 투여
@@ -467,9 +467,9 @@
 
 * 작용 : enkephalinase 억제로 과도한 장액 분비를 감소시킴
 * <mark style="color:blue;">\[하이드라섹]</mark> (비급여)
-  * 성인 캡슐 : <a href="https://www.health.kr/drug/2019012500080">100</a> ㎎ tid, 식전 복용. 정상 배변이 2회 있을 때까지 사용하며 최대 7일
+  * 성인 캡슐 : [100](https://www.health.kr/drug/2019012500080) ㎎ tid, 식전 복용. 정상 배변이 2회 있을 때까지 사용하며 최대 7일
   * 소아 산제 : 생후 3개월 이상. 1회 1.5 ㎎/㎏ 또는 체중별 포 단위로 1일 3회 일정한 간격으로 투여하며, 음식·물·분유에 섞으면 즉시 복용함; 정상 배변이 2회 있을 때까지 사용하며 최대 7일임
-    * 9 ㎏ 미만 - <a href="https://www.health.kr/drug/2014112100011">10</a> ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - <a href="https://www.health.kr/drug/2014112100010">30</a> ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
+    * 9 ㎏ 미만 - [10](https://www.health.kr/drug/2014112100011) ㎎ 1포; 9 ㎏ 이상\~13 ㎏ 미만 - 10 ㎎ 2포; 13 ㎏ 이상\~27 ㎏ 이하 - [30](https://www.health.kr/drug/2014112100010) ㎎ 1포; 27 ㎏ 초과 - 30 ㎎ 2포
 * 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
 * 금기 : 3개월 미만·혈변/화농성 변과 발열·항생제 관련 설사·만성 설사·조절되지 않는 구토·ACE 억제제에 의한 혈관부종 병력
 * 간·신장애 : 성인 캡슐은 신중 투여, 소아 산제는 금기
@@ -490,7 +490,7 @@
 
 ### <mark style="color:orange;">담즙산 결합제 (Bile acid sequestrant)</mark>
 
-* **cholestyramine** : 담즙산 설사(BAD)에 사용. <a href="https://www.kodc.or.kr/">한국희귀필수의약품센터</a> 공급 제품 <mark style="color:blue;">\[<a href="https://www.kodc.or.kr/KDCB101">에픽콜레스티라민현탁용산(라이트)</a>]</mark> 4 g/포; BAD에는 식약처 인정 범위 외 사용
+* **cholestyramine** : 담즙산 설사(BAD)에 사용. [한국희귀필수의약품센터](https://www.kodc.or.kr/) 공급 제품 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산(라이트)</mark>](https://www.kodc.or.kr/KDCB101)<mark style="color:blue;">]</mark> 4 g/포; BAD에는 식약처 인정 범위 외 사용
   * 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후 복용
   * 세부 용법·주의 (☞ [만성 설사](084_-chronic-diarrhea.md))
 * colesevelam : 유통 확인 안 됨
@@ -544,7 +544,7 @@
   * 경험적으로 사용할 때 2주 정도 사용해도 호전이 없으면 중단하고, _H. pylori_·NSAID 사용·경고 증상 등 원인을 재평가함
 * Na alginate : 점막 피복·역류 증상 완화; 부작용-변비·설사; 1\~3 g tid\~qid 공복 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">거드액</mark>](https://www.health.kr/drug/2018120300069)<mark style="color:blue;">]</mark>
 * benexate betadex : 400 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">울굿</mark>](https://www.health.kr/drug/A11A0340A0036)<mark style="color:blue;">]</mark>
-* ecabet : 1 g bid <mark style="color:blue;">\[가스트렉스과립]</mark>
+* ecabet : 1 g bid (유통제품없음)
 * irsogladine : 4 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">가스론엔</mark>](https://www.health.kr/drug/A11AKP08A0400)<mark style="color:blue;">]</mark>
 * polaprezinc : 75 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프로맥</mark>](https://www.health.kr/drug/2013061800005)<mark style="color:blue;">]</mark>
 * rebamipide : 100 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">무코스타</mark>](https://www.health.kr/drug/A11A4270A0014)<mark style="color:blue;">]</mark>
@@ -590,7 +590,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">ACG GERD �
 * 기전 : prodrug → 위 벽세포 산성 환경에서 활성화 → H⁺-K⁺-ATPase에 비가역적 결합
 * 산 분비 억제 : 표준 용량에서 강력한 위산 억제; 초회부터 작용하지만 충분한 효과까지 반복 투여가 필요하며 성분·용량·환자별 차이가 있음
 * 투여 시간 : 대부분의 일반형은 아침 첫 식사 30\~60분 전; bid는 아침·저녁 식전
-  * dexlansoprazole 및 <mark style="color:blue;">에소메졸디알</mark> <a href="https://www.health.kr/drug/2020100700006">20</a>·<a href="https://www.health.kr/drug/2020100700005">40</a> ㎎은 식사 무관
+  * dexlansoprazole 및 <mark style="color:blue;">에소메졸디알</mark> [20](https://www.health.kr/drug/2020100700006)·[40](https://www.health.kr/drug/2020100700005) ㎎은 식사 무관
 * 대사 : 간 CYP2C19·3A4. CYP2C19 유전형에 따라 약물 노출과 산 억제 효과가 달라짐(급속 대사형에서 효과 감소 가능). 영향의 크기는 성분별로 다르며 rabeprazole·esomeprazole에서 상대적으로 작음
 * 약물 상호작용 : CYP2C19 억제에 의한 clopidogrel 활성화 저해, 위산 의존 흡수 약제 흡수 감소; 일부 PPI는 diazepam·warfarin·phenytoin 등의 대사에도 영향
   * clopidogrel 병용 : 위장관 출혈 위험이 높아 예방이 필요한 환자(출혈 기왕력, 이중 항혈소판요법, 항응고제·스테로이드 병용, 고령 등)에서는 PPI를 과도하게 회피하지 않되, omeprazole과 esomeprazole 병용은 피하고 pantoprazole 등 대안을 우선 고려. 약력학적 항혈소판 효과 감소와 실제 심혈관 사건 증가 여부는 구분함. P-CAB도 성분별 상호작용이 있으며 vonoprazan은 CYP2C19 억제로 clopidogrel의 항혈소판 효과를 감소시킬 수 있음 <mark style="color:$info;">\[Eur J Clin Pharmacol 2022]</mark>
@@ -615,7 +615,7 @@ _<mark style="color:$info;">Ref. AGA PPI de-prescribing update. 2022; ATS/ERS/JR
 > _&#xD65C;동성 궤양 치료를 임의의 on-demand 투여로 대체하지 않음_
 
 * 위염의 위점막 병변 개선 : esomeprazole 10 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에스코텐</mark>](https://www.health.kr/drug/2021120100018)<mark style="color:blue;">]</mark>
-* <mark style="color:blue;">에소메졸디알</mark>(esomeprazole Mg trihydrate)은 20·40 ㎎ 이중방출 제형으로, ERD 치유 40 ㎎ qd ×4주(필요시 4주 추가), 유지 20 ㎎ qd. 식사 무관이며 위염용 <a href="https://www.health.kr/drug/2022100400002">10</a> ㎎ 제품 또는 제균·궤양 예방용 일반형과 구분
+* <mark style="color:blue;">에소메졸디알</mark>(esomeprazole Mg trihydrate)은 20·40 ㎎ 이중방출 제형으로, ERD 치유 40 ㎎ qd ×4주(필요시 4주 추가), 유지 20 ㎎ qd. 식사 무관이며 위염용 [10](https://www.health.kr/drug/2022100400002) ㎎ 제품 또는 제균·궤양 예방용 일반형과 구분
 
 {% hint style="info" %}
 **Omeprazole과 esomeprazole의 차이** : Omeprazole은 R형·S형 이성질체의 혼합물(racemate), esomeprazole은 S형 이성질체임. Esomeprazole은 동일 용량에서 평균 약물 노출(AUC)과 위산 억제 효과가 더 크며, CYP2C19 유전형에 따른 노출 변동이 상대적으로 적음
