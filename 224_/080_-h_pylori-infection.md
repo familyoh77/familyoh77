@@ -215,7 +215,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">표준 3제 요법 (Standard Triple Therapy)</mark>
 
-* 구성 : PPI 표준 용량 + amoxicillin 1 g <mark style="color:blue;">\[파목신]</mark> + clarithromycin 500 ㎎ <mark style="color:blue;">\[클래리시드]</mark>, 각각 bid
+* 구성 : PPI 표준 용량 + amoxicillin 1 g <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570A0284">파목신</a>]</mark> + clarithromycin 500 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1594">클래리시드</a>]</mark>, 각각 bid
 * clarithromycin 감수성 확인 시 국내 맞춤 치료 권고 기간은 7일
 * 감수성 검사 없이 사용하는 경험적 3제는 지역 clarithromycin 내성률 ＜15% 등 제한적 조건에서만 14일 고려. 고내성 환경의 일반적인 경험적 1차 선택으로 사용하지 않음
 
@@ -225,13 +225,13 @@ flowchart TD
 
 #### <mark style="color:$primary;">동시 치료 (Concomitant Therapy) - 10일</mark>
 
-* 구성 : PPI 표준 용량 + clarithromycin 500 ㎎ + amoxicillin 1 g + metronidazole 500 ㎎ <mark style="color:blue;">\[후라시닐]</mark>, 각각 bid × 10일 (2025년 국내 개정 지침의 주요 경험적 요법)
+* 구성 : PPI 표준 용량 + clarithromycin 500 ㎎ + amoxicillin 1 g + metronidazole 500 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0100A0080">후라시닐</a>]</mark>, 각각 bid × 10일 (2025년 국내 개정 지침의 주요 경험적 요법)
 * clarithromycin, metronidazole 이중내성에서는 제균율이 낮아질 수 있음
 * 순차 치료(sequential therapy)와 metronidazole 3제(PAM)는 2025년 국내 개정 지침의 권고 요법에서 제외되어 초치료 방법으로 제시하지 않음 <mark style="color:$info;">\[Korean J Gastroenterol 2026]</mark>
 
 #### <mark style="color:$primary;">Bismuth 4제 요법 (Bismuth Quadruple Therapy) - 10\~14일</mark>
 
-* 표준 구성 : PPI 표준 용량 bid + 비스무트시트르산염칼륨 300 ㎎(산화비스무트로서 120 ㎎) <mark style="color:blue;">\[데놀]</mark> qid + metronidazole 500 ㎎ tid + tetracycline 500 ㎎ qid <mark style="color:blue;">\[테라싸이클린]</mark>
+* 표준 구성 : PPI 표준 용량 bid + 비스무트시트르산염칼륨 300 ㎎(산화비스무트로서 120 ㎎) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0795">데놀</a>]</mark> qid + metronidazole 500 ㎎ tid + tetracycline 500 ㎎ qid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0035">테라싸이클린</a>]</mark>
 * 적용 : clarithromycin 내성 맞춤 치료는 10일
   * 경험적 사용은 10\~14일의 조건부 선택지이며 구제요법으로 남겨둘 필요도 고려
   * clarithromycin 포함 요법 실패 후 구제요법 국내 권고 기간은 10\~14일이며, 본 장의 처방례는 14일로 제시
@@ -251,7 +251,7 @@ flowchart TD
 
 * 약제마다 복용 원칙이 다름. 식사·취침 시각과 약제별 공복 복용 조건을 고려하여 개별 복약 시간표를 작성
 
-<table><thead><tr><th width="150">약제</th><th width="83">횟수</th><th>복용 원칙</th></tr></thead><tbody><tr><td><strong>PPI</strong></td><td>bid</td><td>아침·저녁 식전 30~60분(<mark style="color:blue;">판토록</mark>은 식전 1시간)</td></tr><tr><td><mark style="color:blue;"><strong>데놀</strong></mark></td><td>qid</td><td>매 식전 30분 및 늦은 저녁 등으로 분할; 투여 전후 30분 음식·음료 및 제산제 회피</td></tr><tr><td><strong>Metronidazole</strong><br><mark style="color:blue;">[후라시닐]</mark></td><td>tid</td><td>매 식후; 복용 중 및 종료 후 최소 3일까지 금주</td></tr><tr><td><strong>Tetracycline</strong><br><mark style="color:blue;">[테라싸이클린]</mark></td><td>qid</td><td>식전 1시간 또는 식후 2시간에 분할. 충분한 물과 복용하고 30분 이상 눕지 않음. 마지막 복용도 취침 직전은 피함; 유제품·제산제·철분제 등 다가양이온 함유 제제와 2시간 이상 분리</td></tr></tbody></table>
+<table><thead><tr><th width="150">약제</th><th width="83">횟수</th><th>복용 원칙</th></tr></thead><tbody><tr><td><strong>PPI</strong></td><td>bid</td><td>아침·저녁 식전 30~60분(<mark style="color:blue;"><a href="https://www.health.kr/drug/2010102700001">판토록</a></mark>은 식전 1시간)</td></tr><tr><td><mark style="color:blue;"><strong>데놀</strong></mark></td><td>qid</td><td>매 식전 30분 및 늦은 저녁 등으로 분할; 투여 전후 30분 음식·음료 및 제산제 회피</td></tr><tr><td><strong>Metronidazole</strong><br><mark style="color:blue;">[후라시닐]</mark></td><td>tid</td><td>매 식후; 복용 중 및 종료 후 최소 3일까지 금주</td></tr><tr><td><strong>Tetracycline</strong><br><mark style="color:blue;">[테라싸이클린]</mark></td><td>qid</td><td>식전 1시간 또는 식후 2시간에 분할. 충분한 물과 복용하고 30분 이상 눕지 않음. 마지막 복용도 취침 직전은 피함; 유제품·제산제·철분제 등 다가양이온 함유 제제와 2시간 이상 분리</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">페니실린 알레르기 환자</mark>
 
@@ -277,9 +277,9 @@ flowchart TD
 #### <mark style="color:$primary;">Bismuth 4제 실패 후 구제요법</mark>
 
 * bismuth 4제를 초치료로 사용했는지 2차로 사용했는지 구분하고, 감수성·이전 투여 이력에 따라 rifabutin 3제 또는 이전에 사용하지 않은 항생제를 활용한 변형 4제를 전문의와 결정
-* levofloxacin 3제 요법 14일 : PPI 표준 용량 bid + amoxicillin 1 g bid + levofloxacin 500 ㎎ qd (또는 250 ㎎ bid) <mark style="color:blue;">\[크라비트]</mark>
+* levofloxacin 3제 요법 14일 : PPI 표준 용량 bid + amoxicillin 1 g bid + levofloxacin 500 ㎎ qd (또는 250 ㎎ bid) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7621">크라비트</a>]</mark>
   * fluoroquinolone 내성률(37% 내외)이 높고 clarithromycin과 levofloxacin에 동시 내성인 균주도 보고되어, 이전 fluoroquinolone 투여력이 없거나 감수성이 확인된 경우에 한해 제한적으로 사용. 서로 다른 계열 간 동시 내성(co-resistance)을 동일한 내성 기전에 의한 교차내성(cross-resistance)과 구분
-* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 2025년 국내 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등 <mark style="color:blue;">\[마이코부틴]</mark>) 및 amoxicillin 용량이 다름
+* rifabutin 3제 요법 10\~14일 : bismuth 4제 실패 후 2025년 국내 개정 지침과 국제 지침에서 고려하는 구제요법. 국내 rifabutin 내성률은 0.8%로 매우 낮음. 지침·연구별 rifabutin(150 ㎎ bid 또는 300 ㎎ qd 등 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO4084">마이코부틴</a>]</mark>) 및 amoxicillin 용량이 다름
   * _H. pylori_ 제균 목적은 허가 외 사용에 해당하므로 전문의 협진하에 적용 여부·구체적 처방을 결정
   * 골수억제(호중구감소증), 포도막염 가능; 반복치료·혈액질환 등 고위험군에서 CBC 확인 고려
   * 활동성 결핵 또는 rifamycin 계열 치료력·치료 중인 환자는 내성 선택 위험을 고려하여 감염내과 협진
@@ -290,21 +290,21 @@ flowchart TD
 #### <mark style="color:$primary;">PPI 표준 용량</mark>
 
 * 아래는 성인 _H. pylori_ 제균요법에서 각 품목의 허가된 1회 용량·투여 횟수·기간임. 성분 간 산 억제력의 직접 환산표는 아님
-* omeprazole 20 ㎎ <mark style="color:blue;">\[오엠피]</mark> : 장용정; bid × 7일
-* esomeprazole 20 ㎎ <mark style="color:blue;">\[넥시움]</mark> : 장용정; bid × 7일
-* lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark> : 장용캡슐; bid × 7일(필요시 14일까지)
-* rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark> : 장용정; bid × 7일
+* omeprazole 20 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark> : 장용정; bid × 7일
+* esomeprazole 20 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5271">넥시움</a>]</mark> : 장용정; bid × 7일
+* lansoprazole 30 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0101A0362">란스톤</a>]</mark> : 장용캡슐; bid × 7일(필요시 14일까지)
+* rabeprazole 20 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ALLLLL0193">파리에트</a>]</mark> : 장용정; bid × 7일
 * pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark> : 장용정; bid × 7일
 * 일반형을 이중방출형·복합제로 자동 대체하지 않음
 
 #### <mark style="color:$primary;">P-CAB (Potassium-Competitive Acid Blocker)</mark>
 
-* tegoprazan : 50 ㎎ <mark style="color:blue;">\[케이캡]</mark>
+* tegoprazan : 50 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark>
   * 허가 병용요법 : tegoprazan 50 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, bid × 7일
   * PPI 대비 강력하고 안정적인 산 억제 효과; CYP2C19 대사 다형성 영향 적음 → 급속 대사자에서 유리
   * 7일 tegoprazan 기반 3제 요법은 lansoprazole 기반 3제 요법에 비열등했으나, clarithromycin 고내성 환경에서는 7일 요법의 절대 제균율이 충분하지 않을 수 있음. 2025년 국내 개정 지침 메타분석에서 tegoprazan 기반 요법의 제균율은 PPI와 유의한 차이가 없었음(79.3% vs 76.8%)
   * 14일 연장 요법의 제균율 향상 보고가 있음(허가 기간 7일을 벗어나는 사용임)
-* fexuprazan : 40 ㎎ <mark style="color:blue;">\[펙수클루]</mark>
+* fexuprazan : 40 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022010300016">펙수클루</a>]</mark>
   * 허가 병용요법 : fexuprazan 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, bid × 14일
   * 강력한 산 억제만으로 clarithromycin 내성을 충분히 극복할 수 없으므로 감수성 확인 원칙을 유지
   * 2026년 9월 단일기관 무작위 연구(79명)에서 7일 fexuprazan 3제와 14일 rabeprazole 3제의 FAS 제균율은 각각 80.0%, 82.1%였음. 소규모 연구의 군 간 유의차 부재만으로 비열등성이 확립되었다고 보지 않으며, 허가된 14일 요법을 7일로 일괄 단축하지 않음 <mark style="color:$info;">\[Medicine 2026]</mark>
@@ -383,6 +383,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > 후라시닐 250 ㎎/T   2T   bid   (아침·저녁 식후)
 > ※ 총 10일; metronidazole 복용 중 및 종료 후 최소 3일까지 금주
 > ```
+> 약제 정보: [판토록정 40㎎](https://www.health.kr/drug/2010102700001) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791) · [파목신캡슐 500㎎](https://www.health.kr/drug/A11A0570A0284) · [후라시닐정 250㎎](https://www.health.kr/drug/A11A0100A0080)
 >
 > _✽2025년 국내 개정 지침의 주요 경험적 요법. 과거 macrolide 투여 및 clarithromycin·metronidazole 이중내성 위험을 평가. 실패 후 고전적 bismuth 4제 구제요법 고려. 클래리시드 필름코팅정 250 ㎎ 2정이 1회 500 ㎎이며, 서방형(엑스엘)으로 대체하지 않음_
 
@@ -394,6 +395,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > 파목신 500 ㎎/C   2C   bid   (아침·저녁 식후)
 > ※ 총 7일; clarithromycin 감수성 확인이 전제
 > ```
+> 약제 정보: [판토록정 40㎎](https://www.health.kr/drug/2010102700001) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791) · [파목신캡슐 500㎎](https://www.health.kr/drug/A11A0570A0284)
 >
 > _✽국내 맞춤 치료 권고 기간은 7일. 감수성 미확인 환자에게 이 7일 처방을 경험적으로 적용하지 않음. 이하 amoxicillin 1 g/회는 파목신 500 ㎎ 2캡슐이며, 250 ㎎ 제형이면 4캡슐이므로 함량 확인_
 
@@ -408,6 +410,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > ※ 약제별 공복 복용 조건이 달라 개별 복약 시간표 안내. Tetracycline 마지막 복용은 취침 직전을 피하고, 충분한 물과 복용 후 30분 이상 눕지 않기
 > ※ 유제품·제산제·철분제와 2시간 이상 간격
 > ```
+> 약제 정보: [판토록정 40㎎](https://www.health.kr/drug/2010102700001) · [데놀정 300㎎](https://www.health.kr/drug/A11AOOOOO0795) · [후라시닐정 250㎎](https://www.health.kr/drug/A11A0100A0080) · [테라싸이클린캡슐 250㎎](https://www.health.kr/drug/A11A0120A0035)
 >
 > _✽후라시닐은 250 ㎎ 2정이 1회 500 ㎎, 테라싸이클린은 250 ㎎ 2캡슐이 1회 500 ㎎. Clarithromycin 내성 맞춤 초치료는 10일, 국내 구제요법은 10\~14일 권고. 이 예는 14일 처방이며 데놀·tetracycline의 지침 기반 병용과 품목 허가 차이는 본문 참조_
 
@@ -420,6 +423,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > ※ 총 14일; 이전 fluoroquinolone 투여력이 없거나 감수성 확인 시, 신기능·금기 점검 후 사용
 > ※ 철·아연·칼슘 제제, Al/Mg 제산제와 전후 2시간 간격
 > ```
+> 약제 정보: [판토록정 40㎎](https://www.health.kr/drug/2010102700001) · [크라비트정 500㎎](https://www.health.kr/drug/A11AOOOOO7621) · [파목신캡슐 500㎎](https://www.health.kr/drug/A11A0570A0284)
 >
 > _✽H. pylori 제균 목적의 levofloxacin 사용은 허가 외 사용. Bismuth 4제 실패 후 전문의 평가하에 선택. 건염·건파열, 신경계 이상 및 QT 연장 위험과 신기능에 따른 용량 조정 고려_
 
@@ -431,6 +435,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > 파목신 500 ㎎/C   2C   bid   (아침·저녁 식후)
 > ※ 총 7일; clarithromycin 감수성 확인
 > ```
+> 약제 정보: [케이캡정 50㎎](https://www.health.kr/drug/2018070600004) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791) · [파목신캡슐 500㎎](https://www.health.kr/drug/A11A0570A0284)
 >
 > _✽제균 허가 적응증은 소화성 궤양 및/또는 만성 위축성 위염, 기간은 7일. 급여는 소화성 궤양 환자의 허가 병용요법에 인정되며, 14일 연장 처방은 허가 외 사용으로 구분_
 
@@ -442,6 +447,7 @@ P-CAB 기반 3제의 허가 기간은 성분별로 다름. tegoprazan은 bid × 
 > 파목신 500 ㎎/C   2C   bid   (아침·저녁 식후)
 > ※ 총 14일; clarithromycin 감수성 확인
 > ```
+> 약제 정보: [펙수클루정 40㎎](https://www.health.kr/drug/2022010300016) · [클래리시드필름코팅정 250㎎](https://www.health.kr/drug/A11AOOOOO0791) · [파목신캡슐 500㎎](https://www.health.kr/drug/A11A0570A0284)
 >
 > _✽허가 병용요법은 fexuprazan 40 ㎎·amoxicillin 1 g·clarithromycin 500 ㎎ 각각 1일 2회 14일. Tegoprazan 7일 요법과 혼동하지 않으며, 제균 목적 fexuprazan은 현행 급여 인정 대상에 포함되지 않아 해당 약값 전액 본인부담 <mark style="color:$info;">\[품목 허가사항]</mark>_
 

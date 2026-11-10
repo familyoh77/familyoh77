@@ -399,13 +399,13 @@ flowchart TD
 * 약제 선택은 비용·순응도·약물 상호작용·CYP2C19 영향 등을 고려
   * 제제 간 산 억제력 차이는 있으나 적절한 용량에서 임상적 치유율 차이는 비교적 작음
 * 대표적 1일 용량(질환·치료 단계별 용량 차이 있음)
-  * omeprazole : 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>
-  * esomeprazole : 20\~40 ㎎ qd <mark style="color:blue;">\[넥시움]</mark>
+  * omeprazole : 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark>
+  * esomeprazole : 20\~40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5272">넥시움</a>]</mark>
   * lansoprazole : 15\~30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
-  * dexlansoprazole : NERD 30 ㎎ qd, ERD 치유 60 ㎎ qd <mark style="color:blue;">\[덱실란트디알]</mark>&#x20;
-  * pantoprazole : 40 ㎎ qd <mark style="color:blue;">\[판토록]</mark>
+  * dexlansoprazole : NERD 30 ㎎ qd, ERD 치유 60 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012102300008">덱실란트디알</a>]</mark>&#x20;
+  * pantoprazole : 40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark>
   * rabeprazole : 10\~20 ㎎ qd <mark style="color:blue;">\[파리에트]</mark>
-  * ilaprazole : 미란성 식도염 20 ㎎ qd × 8주, 식사 1시간 전 <mark style="color:blue;">\[놀텍]</mark>
+  * ilaprazole : 미란성 식도염 20 ㎎ qd × 8주, 식사 1시간 전 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08D0089">놀텍</a>]</mark>
 
 #### <mark style="color:$primary;">용법</mark>
 
@@ -442,12 +442,12 @@ flowchart TD
 
 #### <mark style="color:$primary;">약제</mark>
 
-* tegoprazan <mark style="color:blue;">\[케이캡]</mark>
+* tegoprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018070600004">케이캡</a>]</mark>
   * 흔한 이상반응(≥1%) : 구역, 설사, 소화불량, 흉부 불편감
   * 금기 : 성분·벤즈이미다졸류 과민반응 병력, atazanavir, nelfinavir, rilpivirine 병용. 경증 간장애(Child-Pugh A)는 용량 조절 불필요; 중증 간장애·신장애·고령자는 신중 투여
   * 약물 상호작용 : 위산 의존 흡수 약물의 농도 저하; 강한 CYP3A4 유도제(rifampicin 등) 병용 회피 및 억제제 병용 주의
   * 용법 : NERD 50 ㎎ qd × 4주; ERD 50 ㎎ qd × 4\~8주; 치유된 ERD 유지 25 ㎎ qd. 식사 무관
-* fexuprazan <mark style="color:blue;">\[펙수클루]</mark>
+* fexuprazan <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022010300016">펙수클루</a>]</mark>
   * 적응증 : ERD 치료; esomeprazole 대비 비열등한 EE 치유율
   * 용법 : ERD 40 ㎎ qd × 4\~8주; 식사 무관
 * zastaprazan <mark style="color:blue;">\[자큐보]</mark>
@@ -477,32 +477,32 @@ flowchart TD
 
 #### <mark style="color:$primary;">약제</mark>
 
-* cimetidine : 400 ㎎ bid 또는 800 ㎎ hs <mark style="color:blue;">\[에취투비]</mark>
-* famotidine : 역류성 식도염 20 ㎎ bid 또는 40 ㎎ hs <mark style="color:blue;">\[가스터]</mark>
-* lafutidine : 역류성 식도염 허가 용법 10 ㎎ bid <mark style="color:blue;">\[스토가]</mark>
+* cimetidine : 400 ㎎ bid 또는 800 ㎎ hs <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014082600003">에취투비</a>]</mark>
+* famotidine : 역류성 식도염 20 ㎎ bid 또는 40 ㎎ hs <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0150B0001">가스터</a>]</mark>
+* lafutidine : 역류성 식도염 허가 용법 10 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0584">스토가</a>]</mark>
 
 ### <mark style="color:orange;">제산제</mark>
 
 * 경증에서 가장 빠르게 속쓰림 증상을 완화. 지속 시간이 짧음(＜2시간)
 * 신기능 저하 환자에서는 Mg 또는 Al 함유 제산제의 반복·장기 사용을 피하거나 제한
 * 다른 약제의 흡수를 방해할 수 있어 병용약별 투여 간격 적용
-* [almagate](073_-gidrugs.md#antacid) <mark style="color:blue;">\[알마겔]</mark>
+* [almagate](073_-gidrugs.md#antacid) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0450A0370">알마겔</a>]</mark>
 
 ### <mark style="color:orange;">Alginate 및 점막 보호제</mark>
 
-* [sodium alginate](073_-gidrugs.md#gastric-mucosal-protective-agent) : 1\~3 g tid\~qid 공복 투여 <mark style="color:blue;">\[거드액]</mark> (1포 1.25 g/25 ㎖)
+* [sodium alginate](073_-gidrugs.md#gastric-mucosal-protective-agent) : 1\~3 g tid\~qid 공복 투여 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018120300069">거드액</a>]</mark> (1포 1.25 g/25 ㎖)
   * 식후 acid pocket 차단 근거는 주로 제산제가 포함된 alginate raft 제제의 결과임
   * breakthrough, regurgitation 증상에서 보조적으로 고려하되 제형·허가 용법 확인
   * 급여는 역류성 식도염의 자각증상 개선 등 고시상 대상에서 인정되며, 내시경 미란이 없는 NERD의 잔여 증상에 대한 보조 처방은 급여 인정과 구분 <mark style="color:$info;">\[복지부 고시 제2022-268호]</mark>
 * sucralfate : 일반 GERD의 routine 치료로 권고하지 않음 <mark style="color:$info;">\[ACG GERD 2022]</mark>
-* 애엽95%에탄올연조엑스(20→1; eupatilin 등을 함유한 추출물) <mark style="color:blue;">\[스티렌]</mark>·<mark style="color:blue;">\[스티렌투엑스]</mark>는 위염의 위점막 병변 개선제이며 GERD 자체의 치료제는 아님
+* 애엽95%에탄올연조엑스(20→1; eupatilin 등을 함유한 추출물) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5702">스티렌</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015110200032">스티렌투엑스</a>]</mark>는 위염의 위점막 병변 개선제이며 GERD 자체의 치료제는 아님
 
 ### <mark style="color:orange;">위장관 운동 촉진제</mark>
 
 * 객관적인 gastroparesis의 증거가 없는 한 GERD 치료 목적의 투여는 권고하지 않음 <mark style="color:$info;">\[ACG GERD 2022]</mark>
-* [metoclopramide](073_-gidrugs.md#dopamine-d2-receptor-antagonist) <mark style="color:blue;">\[맥페란]</mark> : 객관적 위마비가 확인된 경우 전문진료에서 제한적으로 고려. 경구제의 최대 권장 투여 기간은 5일이며 위마비 치료는 허가 외 사용. 추체외로 증상·지연운동이상증에 유의
-* itopride, mosapride <mark style="color:blue;">\[가스모틴]</mark>은 GERD에 routine으로 추가하지 않음
-* 현호색·견우자 추출물 <mark style="color:blue;">\[모티리톤]</mark>은 기능성 소화불량 치료제로 GERD 적응증이 아님
+* [metoclopramide](073_-gidrugs.md#dopamine-d2-receptor-antagonist) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570A0089">맥페란</a>]</mark> : 객관적 위마비가 확인된 경우 전문진료에서 제한적으로 고려. 경구제의 최대 권장 투여 기간은 5일이며 위마비 치료는 허가 외 사용. 추체외로 증상·지연운동이상증에 유의
+* itopride, mosapride <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AIIIII0006">가스모틴</a>]</mark>은 GERD에 routine으로 추가하지 않음
+* 현호색·견우자 추출물 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011051800003">모티리톤</a>]</mark>은 기능성 소화불량 치료제로 GERD 적응증이 아님
 
 ### <mark style="color:orange;">기타 약제</mark>
 
@@ -532,7 +532,7 @@ flowchart TD
 #### <mark style="color:$primary;">Simethicone</mark>
 
 * 위장관 가스에 의한 복부팽만 동반 시 증상 완화용이며, 역류·식도염 자체의 치료제는 아님
-* 80 ㎎(1정) 1일 3회 식후 또는 취침 시 씹어 복용 <mark style="color:blue;">\[까스앤프리츄]</mark> (비급여)
+* 80 ㎎(1정) 1일 3회 식후 또는 취침 시 씹어 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015121500001">까스앤프리츄</a>]</mark> (비급여)
 
 ### <mark style="color:orange;">임신 중 GERD</mark>
 
@@ -597,6 +597,7 @@ flowchart TD
 > 동아가스터정 20 ㎎/T   1T   bid   × 2주
 > 알마겔현탁액 15 ㎖/P(almagate 1 g)   1P   식후 30분~1시간 필요시
 > ```
+> 약제 정보: [동아가스터정 20㎎](https://www.health.kr/drug/A11A0150B0001) · [알마겔현탁액 1g/15㎖](https://www.health.kr/drug/A11A0450A0370)
 >
 > _✽경증 또는 NERD에서 H2RA를 1\~2주 단기 투여. 증상 호전 후 필요시(prn) 투여로 전환 가능. 제산제는 필요한 경우에만 단기 보조 사용하며 최대 1일 3회 및 필요시 취침 전 1회를 넘지 않음. 신기능·다른 경구약과의 간격을 확인. 불편한 증상이 지속되는 NERD는 PPI 또는 NERD 적응증이 있는 P-CAB 초기 치료를 우선 검토._
 
@@ -606,6 +607,7 @@ flowchart TD
 > 덱실란트디알캡슐 60 ㎎/C   1C   qd (식사 무관)   × 8주
 > 거드액 1.25 g/25 ㎖   1P   tid (공복, 잔여 증상 시 선택적 추가)
 > ```
+> 약제 정보: [덱실란트디알캡슐 60㎎](https://www.health.kr/drug/2012102300008) · [거드액 1.25g/25㎖](https://www.health.kr/drug/2018120300069)
 >
 > _✽ERD에 대한 dexlansoprazole 치유 용량 8주. dexlansoprazole은 이중 지연 방출로 복용 시간 제약이 적음. 거드액 25 ㎖ 1포는 알긴산나트륨 1.25 g. 잔여 역류 증상에 선택적으로 추가하며 필수 초기 병용은 아님. 알긴산나트륨 단일제는 공복 투여._
 
@@ -615,6 +617,7 @@ flowchart TD
 > 케이캡정 50 ㎎/T   1T   qd (식사 무관)   ×4주 후 평가(필요시 4주 추가)
 > 알마겔현탁액 15 ㎖/P(almagate 1 g)   1P   식후 30분~1시간 필요시
 > ```
+> 약제 정보: [케이캡정 50㎎](https://www.health.kr/drug/2018070600004) · [알마겔현탁액 1g/15㎖](https://www.health.kr/drug/A11A0450A0370)
 >
 > _✽LA grade C/D의 중증 EE, PPI 불충분 반응, CYP2C19 rapid/ultrarapid metabolizer(급속·초고속 대사형) 의심 또는 신속·지속적 산 억제가 필요한 경우 P-CAB을 선택할 수 있음. 4주 평가 후 미치유·증상 지속 시 4주 추가하는 허가 용법을 적용. 지침상 LA C/D 초치료는 8주이며, 증상 호전만으로 치료를 종료하지 않고 치료 약 8\~12주 후 치유 확인 및 지속 유지 전략을 평가. 치유 후 tegoprazan 유지가 필요하면 25 ㎎ qd로 조정할 수 있으며, 중증 식도염 재발·조절 불충분 시에는 유지 용량과 치료 전략을 재평가하되 허가 용량 초과 여부를 구분함. 제산제는 최대 1일 3회 및 필요시 취침 전 1회까지 단기 보조 사용하며 다른 약과의 간격·신기능을 확인._
 
@@ -624,6 +627,7 @@ flowchart TD
 > 넥시움정 40 ㎎/T   1T   qd   아침 식전 30~60분
 > 동아가스터정 20 ㎎/T   1T   취침 시   (단기 또는 필요시)
 > ```
+> 약제 정보: [넥시움정 40㎎](https://www.health.kr/drug/A11AGGGGA5272) · [동아가스터정 20㎎](https://www.health.kr/drug/A11A0150B0001)
 >
 > _✽복용 시간·순응도와 취침 전 식사를 먼저 확인. 최적 PPI에도 야간 가슴쓰림이 지속될 때 취침 전 H2RA를 단기 또는 필요시 추가할 수 있음. 장기 연속 병용 시 tachyphylaxis가 발생. 이 예시는 famotidine의 야간 증상 단기 보조 처방이며, 병용에 대한 급여 인정과 신기능에 따른 용량 조정은 별도로 적용함._
 

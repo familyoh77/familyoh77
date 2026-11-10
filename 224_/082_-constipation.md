@@ -273,9 +273,9 @@ flowchart TD
 {% hint style="info" %}
 **1차 선택**
 
-* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[마이락스산]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[마그밀]</mark> 또는 MgO <mark style="color:blue;">\[마그밀에스]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
-* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[둘코락스좌약]</mark> 또는 glycerin 관장
-* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[레졸로]</mark> (5-HT4 agonist)
+* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO8335">마이락스산</a>]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1168">마그밀</a>]</mark> 또는 MgO <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014072100012">마그밀에스</a>]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
+* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0760A0010">둘코락스좌약</a>]</mark> 또는 glycerin 관장
+* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012103000010">레졸로</a>]</mark> (5-HT4 agonist)
 * OIC (opioid 유발 변비) : 일반 하제를 우선하며 반응이 불충분하면 전문진료에서 표적 치료 검토; 아래 PAMORA는 해외 치료 선택지로 구분
 {% endhint %}
 
@@ -305,7 +305,7 @@ flowchart TD
 * 200 ㎖ 이상의 충분한 수분과 함께 복용
   * 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
 * 부작용 : 복부 가스, 팽만 (보통 수일 내 감소)
-* <mark style="color:blue;">\[아기오과립]</mark> 6 g/P 1\~2P qd 저녁 식후. 씹지 말고 물 1\~2컵과 함께 복용. 취침 직전·누운 자세 복용 금지
+* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1310A0185">아기오과립</a>]</mark> 6 g/P 1\~2P qd 저녁 식후. 씹지 말고 물 1\~2컵과 함께 복용. 취침 직전·누운 자세 복용 금지
   * 아기오는 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며, 차전자피 단일제와 용량을 동일하게 환산하지 않음. 심한 당뇨병에서는 금기이며, 장운동 억제 지사제 및 다른 하제와 병용하지 않음
 
 ### <mark style="color:orange;">삼투성 하제 (Osmotic laxatives)</mark>
@@ -336,7 +336,7 @@ flowchart TD
 * 기전 : 결장 세균에 의해 발효되어 삼투압 증가
 * PEG에 반응하지 않거나 불내성이 있는 경우 대체 옵션
 * 보통 1\~3일 내 반응; 부작용 : 배부름, 복부 가스 (발효 산물)
-* <mark style="color:blue;">\[듀락칸이지]</mark> 15 ㎖/P; 성인 초기 2\~3일은 15\~30 ㎖ qd 아침 식전, 이후 10\~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지 사용. 15 ㎖ 미만 용량은 계량 가능한 병 제형을 이용
+* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013010200015">듀락칸이지</a>]</mark> 15 ㎖/P; 성인 초기 2\~3일은 15\~30 ㎖ qd 아침 식전, 이후 10\~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지 사용. 15 ㎖ 미만 용량은 계량 가능한 병 제형을 이용
 
 ### <mark style="color:orange;">자극성 하제 (Stimulant laxatives)</mark>
 
@@ -346,10 +346,10 @@ flowchart TD
 * AGA-ACG 2023의 강한 권고는 주로 경구제의 단기·구제 사용 근거이며, rescue therapy 또는 다른 하제와 간헐적 병용을 우선
 * 임상적으로 장기 사용하기도 하나 최소 유효용량으로 효과·부작용을 정기 평가
 * 부작용 : 복통(경련), 설사
-* 경구 단일제 <mark style="color:blue;">\[신일비사코딜]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
+* 경구 단일제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A2070A0084">신일비사코딜</a>]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
   * 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음
 * <mark style="color:blue;">\[둘코락스좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과)
-* 경구 복합제 <mark style="color:blue;">\[둘코락스에스]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
+* 경구 복합제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2009092300055">둘코락스에스</a>]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
 
 <mark style="color:$primary;">**Sodium picosulfate**</mark>
 
@@ -362,7 +362,7 @@ flowchart TD
 * 저용량 시작, rescue therapy 또는 다른 하제와 병용, 필요시 장기 사용 가능
 * 자극성 하제 장기 복용이 장 기능을 손상시킨다는 'cathartic colon' 가설은 현재 근거가 불충분하며, 독립적 질환 개념으로서의 타당성도 확립되지 않음
 * 부작용 : 고용량에서 복통(경련)
-* <mark style="color:blue;">\[아락실과립]</mark>은 senna와 차전자 성분을 함유한 복합제
+* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1310A0162">아락실과립</a>]</mark>은 senna와 차전자 성분을 함유한 복합제
   * Senna의 장기 사용 근거를 이 복합제에 일률적으로 적용하지 않음. 약 1주 사용해도 증상이 개선되지 않으면 중단하고 원인을 재평가
 
 ### <mark style="color:orange;">연화제 (Stool softener)</mark>
@@ -394,7 +394,7 @@ flowchart TD
 * 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장, 투석이 필요한 신장애
 * 병용금기 : domperidone
 * 부작용 : 두통, 복통, 구역, 설사(주로 치료 초기에 발생 후 감소); 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 평가
-* <mark style="color:blue;">\[모비졸로]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
+* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019030800039">모비졸로</a>]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
 
 ### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
 
@@ -430,7 +430,7 @@ flowchart TD
 
 * 다른 치료 실패 시 또는 급성 fecal impaction; 직장점막 손상, 전해질 불균형 주의
 * 고령·신장질환·심부전 : 인산염 관장을 피하고 전해질 위험이 적은 관장액 선택; 비눗물 관장은 점막 손상 위험 때문에 피함
-* Glycerin 관장 <mark style="color:blue;">\[그린관장약]</mark> : 직장 자극 + 삼투성 기전; 15\~30분 내 효과. 제품 농도·용량을 구분하며 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
+* Glycerin 관장 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019102200016">그린관장약</a>]</mark> : 직장 자극 + 삼투성 기전; 15\~30분 내 효과. 제품 농도·용량을 구분하며 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
 ***
 
@@ -462,6 +462,7 @@ flowchart TD
 > ```
 > 아기오과립 6 g/P  1P  qd 저녁 식후  (반응에 따라 2P까지 조절)
 > ```
+> 약제 정보: [아기오과립 6g/포](https://www.health.kr/drug/A11A1310A0185)
 >
 > _✽씹지 말고 물 1\~2컵과 함께 복용; 취침 직전·누운 자세 복용 금지. 장폐색·협착·연하곤란·심한 당뇨병에서는 사용하지 않음._
 >
@@ -472,6 +473,7 @@ flowchart TD
 > ```
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > ```
+> 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335)
 >
 > _✽약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용; 식사와 무관. 보통 1\~4일 내 반응. 다른 경구약과 2시간 이상 간격을 두고 첫 사용 후 약 1주에도 호전이 없으면 중단·재평가._
 >
@@ -483,6 +485,7 @@ flowchart TD
 > 마그밀정 500 ㎎/T  1T  bid  (총 1,000 ㎎/d)
 > 둘코락스좌약 10 ㎎/개  1개  1일 1회 필요시 직장 투여
 > ```
+> 약제 정보: [마그밀정 500㎎](https://www.health.kr/drug/A11ABBBBB1168) · [둘코락스좌약 10㎎](https://www.health.kr/drug/A11A0760A0010)
 >
 > _✽마그밀은 신장애 금기; PEG 등 대체제 선택. Tetracycline계 항생제와 병용하지 않음._
 >
@@ -494,6 +497,7 @@ flowchart TD
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > 레졸로정 2 ㎎/T  1T  qd  (비급여; 식사와 무관)
 > ```
+> 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335) · [레졸로정 2㎎](https://www.health.kr/drug/2012103000010)
 >
 > _✽PEG는 약 240 ㎖에 녹여 다른 경구약(레졸로 포함)과 2시간 이상 간격을 두고 복용. 고령(≥65세)은 레졸로정 1 ㎎ 제형으로 1 ㎎/d부터 시작하여 필요시 2 ㎎/d로 증량._
 >
@@ -509,6 +513,7 @@ flowchart TD
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > 둘코락스좌약 10 ㎎/개  1개  1일 1회 필요시 직장 투여
 > ```
+> 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335) · [둘코락스좌약 10㎎](https://www.health.kr/drug/A11A0760A0010)
 >
 > _✽장폐쇄·분변매복 여부를 먼저 평가하고 증상·섭취 상태에 따라 조절. PEG는 다른 경구약과 2시간 이상 간격을 둠. 지속적인 OIC에서는 제품별 사용 기간을 고려하여 경구 자극성 하제 병용도 평가._
 >

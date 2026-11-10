@@ -251,7 +251,7 @@
 
 ### <mark style="color:orange;">장 운동 조절제 (Antimotility agents)</mark>
 
-* loperamide : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가 <mark style="color:blue;">\[로프민]</mark>
+* loperamide : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1660A0057">로프민</a>]</mark>
 * 성인 용법 : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 허가상 최대 16 ㎎/일. 이 책의 경증 외래·자가 치료 예시는 최대 8 ㎎/일, 최대 2일로 제한하며 허가 최대용량과 구분함
 * 사용 대상 : 충분히 수분을 보충한 정상 면역 성인의 무혈변·무발열 급성 수양성 설사
 * 소아 급성 감염성 설사에는 사용하지 않음(IDSA는 18세 미만에 권고하지 않음; 제품 허가 연령과는 별개의 임상 권고)
@@ -260,15 +260,15 @@
 
 ### <mark style="color:orange;">진경제</mark>
 
-* cimetropium : 항콜린 작용, 장경련 완화; 50 ㎎ bid\~tid <mark style="color:blue;">\[알피움]</mark>
+* cimetropium : 항콜린 작용, 장경련 완화; 50 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7809">알피움</a>]</mark>
   * 고령에서는 가능하면 회피. 전립선비대·요저류·녹내장·장폐색/협착·궤양성 대장염·거대결장·역류성 식도염·중증 근무력증은 금기. TCA·항히스타민제 등 항콜린 작용 약물과 병용하지 않음
-* tiropramide : 장 평활근 이완; 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>; 중증 간부전·위장관 협착·거대결장·허탈 금기, 녹내장·전립선비대 신중 투여
+* tiropramide : 장 평활근 이완; 100 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0430A0302">티로파</a>]</mark>; 중증 간부전·위장관 협착·거대결장·허탈 금기, 녹내장·전립선비대 신중 투여
 * 탈수·감염 치료를 대신하지 않으며, 복막 자극·장폐색·허혈성 장질환이 의심되는 심한 복통에는 투여하지 않음
 
 ### <mark style="color:orange;">분비 억제제</mark>
 
 * racecadotril : enkephalinase 억제 → 장 분비 억제; 장 운동 억제는 적음. ORS를 대신하지 않는 선택적 보조요법
-  * 성인 : 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[하이드라섹]</mark>(비급여); 정상 배변 2회까지, 최대 7일
+  * 성인 : 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019012500080">하이드라섹</a>]</mark>(비급여); 정상 배변 2회까지, 최대 7일
   * 소아 산제 : 생후 3개월 이상에서 ORS의 보조요법으로 허가; 1회 1.5 ㎎/㎏ tid 또는 허가된 체중별 포 단위 용법 사용. 최근 개정 품목정보에서는 기존 만 12세 미만 상한이 삭제됨 <mark style="color:blue;">\[하이드라섹산]</mark>
   * 산제 체중별 1회량 : ＜9 ㎏=10 ㎎ 1포, 9\~＜13 ㎏=10 ㎎ 2포, 13\~27 ㎏=30 ㎎ 1포, ＞27 ㎏=30 ㎎ 2포; 각각 1일 3회. 정상 배변 2회까지, 최대 7일
   * 혈변 또는 농성 변과 발열, 항생제 관련 설사, 만성 설사, 지속적·조절되지 않는 구토에는 투여하지 않음. 소아 산제는 신장애·간장애에도 투여하지 않으며 성인 캡슐은 신중 투여
@@ -277,12 +277,12 @@
 
 ### <mark style="color:orange;">Bismuth 제제</mark>
 
-* bismuth subsalicylate (BSS) <mark style="color:blue;">\[펩토무스현탁액]</mark> : 경증 급성 설사·여행자 설사에서 선택적으로 증상 완화에 사용. ORS를 대신하지 않음
+* bismuth subsalicylate (BSS) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023041200001">펩토무스현탁액</a>]</mark> : 경증 급성 설사·여행자 설사에서 선택적으로 증상 완화에 사용. ORS를 대신하지 않음
 * 용량·투여기간·금기·상호작용 및 임부·수유부 주의사항 (☞ [소화기계 약제 - Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate))
 
 ### <mark style="color:orange;">흡착제</mark>
 
-* dioctahedral smectite : 장 점막 보호·흡착 작용을 통한 선택적 증상 완화; ORS를 대신하지 않음; 3 g tid 식간 <mark style="color:blue;">\[스타빅현탁액]</mark>
+* dioctahedral smectite : 장 점막 보호·흡착 작용을 통한 선택적 증상 완화; ORS를 대신하지 않음; 3 g tid 식간 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021030800001">스타빅현탁액</a>]</mark>
   * 성인용; 납 노출 위험으로 2026년 소아 급성 설사 적응증이 삭제되어 만 19세 미만 소아·청소년은 사용하지 않음. 임부·임신 가능성이 있는 여성·수유부는 투여 금기
   * 다른 경구약과 2시간 이상 간격을 두고 복용
 
@@ -307,7 +307,7 @@
   * _S. boulardii_ : 항생제 관련 설사 예방 연구에서 일부 이득; 이미 발생한 설사의 치료 효과와 구분
   * _L. rhamnosus_ GG : 항생제 관련 설사 예방 연구가 있으나 결과가 일관되지 않으며 routine 치료를 정당화하지 않음
 * 용법 : 표준화된 용량·치료법 없음. 연구에 사용된 균주와 시판 제품을 동일하게 간주할 수 없음
-  * _S. boulardii_ : <mark style="color:blue;">\[비오플250산]</mark>·<mark style="color:blue;">\[비오플250캡슐]</mark>은 제형·연령별 허가 용법을 적용. 연구상 예방 용량·기간을 급성 설사 치료의 표준으로 제시하지 않음
+  * _S. boulardii_ : <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010112500008">비오플250산</a>]</mark>·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013031200010">비오플250캡슐</a>]</mark>은 제형·연령별 허가 용법을 적용. 연구상 예방 용량·기간을 급성 설사 치료의 표준으로 제시하지 않음
   * _L. rhamnosus_ GG 연구 용량을 다른 rhamnosus 균주·제품에 대입하지 않음. <mark style="color:blue;">\[람노스산]</mark> 등은 제품의 실제 균주·함량과 자체 허가 용법을 별도로 구분
 * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : 급성 감염성 설사·항생제 관련 설사 등은 연령·진단·제제에 따른 급여 제한이 있음; 성인 급성 설사에서 일률적인 급여 처방으로 제시하지 않음
 * 중증 면역저하, 중환자, 중심정맥관 보유 환자에서는 균혈증·진균혈증 위험 때문에 피함
@@ -320,7 +320,7 @@
 
 #### <mark style="color:$primary;">Lactase</mark>
 
-* β-galactosidase (lactase) : 유당불내증에 의한 설사에 적용; 콩류 등에 의한 가스에 사용하는 α-galactosidase와 구분 <mark style="color:blue;">\[갈타제산]</mark>
+* β-galactosidase (lactase) : 유당불내증에 의한 설사에 적용; 콩류 등에 의한 가스에 사용하는 α-galactosidase와 구분 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3060A0167">갈타제산</a>]</mark>
 
 ***
 
@@ -347,6 +347,7 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 > ```
 > 티로파정 100 ㎎/T　　1T  tid  필요시 단기간
 > ```
+> 약제 정보: [티로파정 100㎎](https://www.health.kr/drug/A11A0430A0302)
 >
 > _✽치료의 기본은 저삼투압 ORS와 조기 정상 식이. 진경제는 장경련이 불편할 때만 선택적으로 사용하며 복막 자극·장폐색·허혈성 장질환이 의심되는 통증에는 사용하지 않음. 성인 급성 설사에서 probiotics를 routine 기본 처방에 포함하지 않음._
 
@@ -356,6 +357,7 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 > 로프민 2 ㎎/C　　  처음 2C, 이후 묽은 변마다 1C
 > 　　　　　　　　　(최대 4C/일, 최대 2일)
 > ```
+> 약제 정보: [로프민캡슐 2㎎](https://www.health.kr/drug/A11A1660A0057)
 >
 > _✽ORS로 충분히 수분을 보충한 뒤, 정상 면역 성인의 혈변·발열·전신 독성·CDI 의심·IBD 활성기가 없는 수양성 설사에서만 단기간 사용. 혈변·발열·복부 팽만·심한 통증이 발생하거나 48시간 내 호전이 없으면 즉시 중단하고 재평가._
 

@@ -278,7 +278,7 @@ flowchart TD
 
 **치료 방향 전환**
 
-* [Prokinetics](073_-gidrugs.md#prokinetics) : 식후 충만감·조기 포만감이 주된 경우 운동 촉진제를 선택적으로 고려(mosapride, <mark style="color:blue;">모티리톤</mark>)
+* [Prokinetics](073_-gidrugs.md#prokinetics) : 식후 충만감·조기 포만감이 주된 경우 운동 촉진제를 선택적으로 고려(mosapride, <mark style="color:blue;"><a href="https://www.health.kr/drug/2011051800003">모티리톤</a></mark>)
   * 모든 PPI 불응 환자에게 일률적으로 추가하지 않음
 * 환자 교육 : 증상의 기전 설명, 경과 예측, 기능성 질환의 개념 설명
 * 식이·스트레스 관리 적극 병행
@@ -340,18 +340,18 @@ flowchart TD
 * 위산 중화를 통한 즉각적 증상 완화
 * 흡착·킬레이트 형성·위내 pH 변화로 다른 약의 흡수에 영향을 줄 수 있어 약제별 간격을 확인함(levothyroxine은 최소 4시간 분리)
 * Al 함유제 : 신장애에서 주의하고 중증 신장애에서는 회피
-  * aluminum hydroxide : 1회 300\~600 ㎎ tid 식간. 투석 환자 금기 <mark style="color:blue;">\[암포젤]</mark> (비급여)
-* MgO·Mg(OH)₂ : 신장애 환자 금기 <mark style="color:blue;">\[마그밀]</mark>
+  * aluminum hydroxide : 1회 300\~600 ㎎ tid 식간. 투석 환자 금기 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0341A0009">암포젤</a>]</mark> (비급여)
+* MgO·Mg(OH)₂ : 신장애 환자 금기 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1168">마그밀</a>]</mark>
 * almagate(Al·Mg 복합제) : 신장애에서 축적에 주의하여 장기·고용량 사용을 피함
-  * 1\~1.5 g tid, 식후 30분\~1시간; 필요시 취침 전 1회 추가. 1포(15 ㎖)에 1.5 g <mark style="color:blue;">\[알마겔에프현탁액]</mark>
+  * 1\~1.5 g tid, 식후 30분\~1시간; 필요시 취침 전 1회 추가. 1포(15 ㎖)에 1.5 g <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0450A0468">알마겔에프현탁액</a>]</mark>
 
 #### <mark style="color:$primary;">H2-수용체 차단제 (H2RAs)</mark>
 
 * 야간 위산 분비 억제에 효과적; PPI 대비 효과 제한적이나 단기·경증에 활용
 * 연속 사용 시 수일\~수주 내 내성이 생길 수 있으므로 효과 저하 시 진단·적응증 재평가
 * CYP 억제 작용 주의 : cimetidine은 여러 CYP 효소 억제로 warfarin, theophylline, phenytoin 등 다수의 약물 상호작용 위험이 있음; famotidine이 상호작용이 적고 더 안전한 대안
-* famotidine : 급성 위염 및 만성 위염의 급성 악화기에 나타나는 위점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs; 신기능에 따라 감량 <mark style="color:blue;">\[가스터]</mark>
-* cimetidine : 위염의 위점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd; 약물 상호작용 주의 <mark style="color:blue;">\[에취투비]</mark>
+* famotidine : 급성 위염 및 만성 위염의 급성 악화기에 나타나는 위점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs; 신기능에 따라 감량 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0150B0001">가스터</a>]</mark>
+* cimetidine : 위염의 위점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd; 약물 상호작용 주의 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014082600003">에취투비</a>]</mark>
 
 #### <mark style="color:$primary;">PPI (양성자 펌프 억제제)</mark>
 
@@ -362,7 +362,7 @@ flowchart TD
 * 명확한 장기 적응증이 없으면 증상 조절 후 step-down 또는 중단을 계획
 * 대부분의 일반형 PPI는 식전 30\~60분 복용으로 효과를 높일 수 있으나, 제형에 따라 식사 영향이 다름
 * clopidogrel 병용 시 omeprazole·esomeprazole은 피하고 pantoprazole 등을 고려함. P-CAB도 성분마다 상호작용이 다름 (☞ [소화기계 약제](073_-gidrugs.md#ppi))
-* esomeprazole : 10 ㎎ qd. 급성·만성 위염의 위점막 병변 개선 허가 <mark style="color:blue;">\[에스코텐]</mark>, 이중방출 서방형 10 ㎎(식사 무관 복용) <mark style="color:blue;">\[에소메졸디알]</mark>
+* esomeprazole : 10 ㎎ qd. 급성·만성 위염의 위점막 병변 개선 허가 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021120100018">에스코텐</a>]</mark>, 이중방출 서방형 10 ㎎(식사 무관 복용) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022100400002">에소메졸디알</a>]</mark>
 
 {% hint style="danger" %}
 **PPI 장기 복용 주의**: 드문 저마그네슘혈증과 장감염 위험에 유의함. 골절·폐렴·만성 신장질환·치매 등과의 연관성은 주로 관찰연구 자료이며 다수는 인과관계가 확립되지 않았음. 다만 급성 세뇨관간질성 신염은 인정되는 드문 약물이상반응으로, 의심 시 중단·평가함. 위축·장상피화생 등 위암 전구병변이 있는 환자에서는 뚜렷한 적응증 없이 PPI·P-CAB을 경험적으로 장기 사용하지 않음 <mark style="color:$info;">\[Gut 2026]</mark>. _H. pylori_ 감염이 동반된 위체부 우세 위염에서는 감염을 진단·치료하고, 명확한 적응증이 있으면 이론적 위험 때문에 필요한 PPI를 중단하지 않음. 정기적으로 적응증을 재평가하여 최소 유효 용량을 사용함.
@@ -372,23 +372,23 @@ flowchart TD
 
 * 초회부터 빠른 산 억제 발현, 대체로 식사 영향이 적고 CYP2C19 유전형 영향이 상대적으로 적음; CYP 관련 약물 상호작용이 없다는 뜻은 아님 (☞ [소화기계 약제](073_-gidrugs.md))
 * 약제별 허가 적응증과 용량이 서로 다르며, 위염의 위점막 병변 개선 허가는 fexuprazan·revaprazan에만 있음
-* fexuprazan : 급성·만성 위염의 위점막 병변 개선 10 ㎎ bid, 2주 <mark style="color:blue;">\[펙수클루]</mark>
-* revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd, 2주 <mark style="color:blue;">\[레바넥스]</mark>
+* fexuprazan : 급성·만성 위염의 위점막 병변 개선 10 ㎎ bid, 2주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022081900004">펙수클루</a>]</mark>
+* revaprazan : 급성·만성 위염의 위점막 병변 개선 200 ㎎ qd, 2주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0348">레바넥스</a>]</mark>
 * tegoprazan <mark style="color:blue;">\[케이캡]</mark>, vonoprazan <mark style="color:blue;">\[보신티]</mark>는 위염 적응증이 없음
 
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
 
 * 허가 범위에서 증상·점막 병변에 따라 한 제제를 단기간 선택할 수 있음. 다만 국내 위염 지침은 미란 소견의 호전만을 목적으로 점막보호제를 쓰는 것을 권하지 않음(약한 권고, 근거 수준 낮음) <mark style="color:$info;">\[J Korean Med Sci 2023]</mark>; 효과 근거가 부족해 일상적 사용을 권하지 않는다는 임상 권고이며, 허가·급여 여부와는 별개임
-* misoprostol : PGE1 유사체; NSAID 유발 위·십이지장염·궤양 예방은 총 400\~800 ㎍/d를 식사 시 및 취침 시 분할 투여; 설사·복통 흔함. Mg 함유 제산제 병용 회피 <mark style="color:blue;">\[싸이토텍]</mark>
-* rebamipide : 위 점막 PG 합성 촉진, 염증 억제; 100 ㎎ tid <mark style="color:blue;">\[무코스타]</mark>
-* 애엽95%에탄올연조엑스(20→1) : eupatilin 등을 함유한 생약 추출물이며 60·90 ㎎은 eupatilin 단일성분 용량이 아님. 60 ㎎ tid <mark style="color:blue;">\[스티렌]</mark>, 투엑스정 90 ㎎ bid(식후) <mark style="color:blue;">\[스티렌투엑스]</mark>
+* misoprostol : PGE1 유사체; NSAID 유발 위·십이지장염·궤양 예방은 총 400\~800 ㎍/d를 식사 시 및 취침 시 분할 투여; 설사·복통 흔함. Mg 함유 제산제 병용 회피 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4340A0040">싸이토텍</a>]</mark>
+* rebamipide : 위 점막 PG 합성 촉진, 염증 억제; 100 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4270A0014">무코스타</a>]</mark>
+* 애엽95%에탄올연조엑스(20→1) : eupatilin 등을 함유한 생약 추출물이며 60·90 ㎎은 eupatilin 단일성분 용량이 아님. 60 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5702">스티렌</a>]</mark>, 투엑스정 90 ㎎ bid(식후) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015110200032">스티렌투엑스</a>]</mark>
 
 #### <mark style="color:$primary;">위장관 운동 촉진제 (Prokinetics)</mark>
 
 * 위배출 지연·팽만감·구역이 동반되고 FD-PDS overlap이 의심되는 경우 단기간 선택적으로 고려
   * 조직학적 위염 자체를 치료하는 약제는 아님
 * 고령자 prokinetic 주의 : metoclopramide 등 중추 D2 수용체 길항제는 추체외로 증상(EPS: 손 떨림, 근경직, 지연성 운동이상증)을 유발할 수 있음. metoclopramide는 최대 5일, domperidone은 일반적으로 1주 이내로 사용함. domperidone은 QT 연장·심부전·중등도\~중증 간장애 등 금기를 확인하고, clarithromycin 등 강력한 CYP3A4 억제제 또는 ondansetron 등 QT 연장 약제와 병용하지 않음. mosapride도 환자별 금기·상호작용을 확인하고 이상반응 발생 시 중단
-* mosapride : 5-HT4 작용제; 위배출 촉진 (일반정 5 ㎎ tid, 식전 또는 식후; 서방형은 별도 용법) <mark style="color:blue;">\[가스모틴]</mark>
+* mosapride : 5-HT4 작용제; 위배출 촉진 (일반정 5 ㎎ tid, 식전 또는 식후; 서방형은 별도 용법) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AIIIII0006">가스모틴</a>]</mark>
 * corydalis + Pharbitis nil 복합 추출물 (30 ㎎ tid, 식전) <mark style="color:blue;">\[모티리톤]</mark>
 
 ### <mark style="color:orange;">증상 Phenotype별 처방 방향</mark>
@@ -438,6 +438,7 @@ flowchart TD
 > 알마겔에프현탁액 15 ㎖/P (almagate 1.5 g)
 > 1P  tid  (식후 30분~1시간), 필요시 취침 전 1회 추가
 > ```
+> 약제 정보: [알마겔에프현탁액 1.5g/15㎖](https://www.health.kr/drug/A11A0450A0468)
 >
 > _✽산 관련 속쓰림에 단기간 사용 후 반응을 재평가함. 2주 정도 복용해도 호전이 없으면 중단하고 재평가. 신장애에서는 축적에 주의하며 tetracycline계 항생제와 병용하지 않음. 팽만감이 주증상이면 FD 등 다른 원인을 평가함._
 
@@ -446,6 +447,7 @@ flowchart TD
 > ```
 > 가스터정 20 ㎎/T    1T  qd  (취침 전)   ×2주 후 평가
 > ```
+> 약제 정보: [동아가스터정 20㎎](https://www.health.kr/drug/A11A0150B0001)
 >
 > _✽단기간 사용 후 반응을 재평가함. 신기능 저하자는 용량 조정이 필요함. 조기 포만감·식후 충만감이 주증상이면 위염 약제를 중첩하기보다 FD-PDS 치료 원칙에 따라 운동 촉진제를 선택적으로 사용함._
 
@@ -454,6 +456,7 @@ flowchart TD
 > ```
 > 에스코텐정 10 ㎎/T    1T  qd  (아침 식전 30~60분)   ×2주 후 평가
 > ```
+> 약제 정보: [에스코텐정 10㎎](https://www.health.kr/drug/2021120100018)
 >
 > _✽가능하면 원인 NSAID를 중단·감량함. 국내 위염 지침은 NSAID 관련 미란성 위염에서 PPI를 선택적으로 고려하도록 했으며 근거 수준은 매우 낮음. 증상·병변이 호전되면 명확한 장기 적응증이 없는 한 중단을 계획함._
 
@@ -462,6 +465,7 @@ flowchart TD
 > ```
 > 넥시움정 20 ㎎/T    1T  qd  (아침 식전 30~60분) 
 > ```
+> 약제 정보: [넥시움정 20㎎](https://www.health.kr/drug/A11AGGGGA5271)
 >
 > _✽활동성 궤양·출혈이 없는 환자의 예방 처방. NSAID 필요성과 심혈관·신장 위험을 재평가하고, 궤양 출혈 기왕력 등 위험이 매우 높으면 NSAID 회피를 우선함. 궤양 치유 후에도 재투여가 불가피하고 금기가 없다면 COX-2 억제제 + PPI를 고려함. 활동성 궤양·위장관 출혈에서는 celecoxib를 사용하지 않음. 점막보호제를 예방 목적으로 일률적으로 추가하지 않음. Esomeprazole 20 ㎎은 NSAID 관련 궤양 예방 용량으로, 위염용 10 ㎎ 제품과 적응증·용량이 다름._
 

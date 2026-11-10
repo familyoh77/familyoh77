@@ -45,7 +45,7 @@
 * 알약을 소량의 물과 함께 또는 누운 상태에서 복용하면 발생
 * 증상(급작스러운 삼킴통증, 흉통, 삼킴곤란)은 복용 수 시간\~수일 내 나타날 수 있음
 
-<table data-search="false"><thead><tr><th width="164">대표 약물</th><th width="241">기전</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>Bisphosphonate (Alendronate)</strong></td><td>직접 점막 자극</td><td>약 200 ㎖ 이상의 물로 복용; 최소 30분 및 첫 음식 섭취 전까지 눕지 않음. 알렌드로네이트는 협착·이완불능증 등 식도 배출 지연 질환 또는 30분간 직립 유지 불가 시 금기; 제품별 허가사항 확인</td></tr><tr><td><strong>Doxycycline / Tetracycline</strong></td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>NSAIDs / Aspirin</strong></td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물로 복용; 위장관 위험은 별도 평가</td></tr><tr><td><strong>Clindamycin</strong></td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>Pinaverium</strong><br><mark style="color:blue;">[디세텔]</mark></td><td>식도에 정체될 때 점막 자극·궤양</td><td>식사 중 충분한 물과 함께 통째로 삼킴; 씹거나 빨지 않음. 누운 자세 또는 취침 직전 복용 회피</td></tr><tr><td><strong>Iron 제제, 칼륨제제</strong></td><td>직접 점막 자극</td><td>충분한 물로 복용; 제형 변경 고려</td></tr><tr><td><strong>고용량 비타민 C</strong></td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="164">대표 약물</th><th width="241">기전</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>Bisphosphonate (Alendronate)</strong></td><td>직접 점막 자극</td><td>약 200 ㎖ 이상의 물로 복용; 최소 30분 및 첫 음식 섭취 전까지 눕지 않음. 알렌드로네이트는 협착·이완불능증 등 식도 배출 지연 질환 또는 30분간 직립 유지 불가 시 금기; 제품별 허가사항 확인</td></tr><tr><td><strong>Doxycycline / Tetracycline</strong></td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>NSAIDs / Aspirin</strong></td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물로 복용; 위장관 위험은 별도 평가</td></tr><tr><td><strong>Clindamycin</strong></td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물로 복용</td></tr><tr><td><strong>Pinaverium</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0950A0197">디세텔</a>]</mark></td><td>식도에 정체될 때 점막 자극·궤양</td><td>식사 중 충분한 물과 함께 통째로 삼킴; 씹거나 빨지 않음. 누운 자세 또는 취침 직전 복용 회피</td></tr><tr><td><strong>Iron 제제, 칼륨제제</strong></td><td>직접 점막 자극</td><td>충분한 물로 복용; 제형 변경 고려</td></tr><tr><td><strong>고용량 비타민 C</strong></td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -334,7 +334,7 @@ flowchart TD
 [**PPI**](073_-gidrugs.md#proton-pump-inhibitor-ppi) **(proton pump inhibitor)**
 
 * 위산 분비 억제로 증상 호전 및 협착 재발 방지
-* omeprazole 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>; pantoprazole 40 ㎎ qd <mark style="color:blue;">\[판토록]</mark>; esomeprazole 20\~40 ㎎ qd <mark style="color:blue;">\[넥시움]</mark>. 적응증·중증도·반응에 따른 증량은 별도 판단
+* omeprazole 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark>; pantoprazole 40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2010102700001">판토록</a>]</mark>; esomeprazole 20\~40 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5272">넥시움</a>]</mark>. 적응증·중증도·반응에 따른 증량은 별도 판단
 * 대부분의 일반형 PPI는 아침 첫 식사 30\~60분 전 복용; bid이면 아침·저녁 식전
   * dexlansoprazole·에소메졸디알은 식사 무관
 * 소화성 협착·중증 미란성 식도염·PPI로 관해된 EoE는 유지 적응증이 될 수 있으므로 단순히 8주를 넘었다는 이유로 중단하지 않으며, 주기적으로 최저 유효 용량과 필요성을 재평가함
@@ -387,13 +387,13 @@ flowchart TD
 
 ### <mark style="color:orange;">감염성 식도염</mark>
 
-* **칸디다 식도염** : 전신 항진균제가 필요함. IDSA 지침 용량은 fluconazole 200\~400 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디푸루칸]</mark>
+* **칸디다 식도염** : 전신 항진균제가 필요함. IDSA 지침 용량은 fluconazole 200\~400 ㎎ qd × 14\~21일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0310A0230">디푸루칸</a>]</mark>
   * **허가 용량과 구분** : 디푸루칸캡슐50㎎의 식도 칸디다증 허가 용법은 50 ㎎ qd × 14\~30일, 난치성은 100 ㎎ qd로 증량임. 위 200\~400 ㎎ 요법은 지침 기반의 허가 범위 밖 용량임 <mark style="color:$info;">\[Clin Infect Dis 2016; 제품설명서]</mark>
   * 반복 투여 시 신기능에 따라 유지용량 조정(일반적으로 CrCl ≤50 ㎖/min이면 부하용량 이후 50%; 투석 환자는 별도 조정), 간독성·QT 연장·약물상호작용 확인. domperidone과 병용 금기이며 warfarin·sulfonylurea 등과도 상호작용을 확인함
   * 임상적으로 전형적인 선택된 환자에서 경험적 치료가 가능하나, 48\~72시간에 초기 반응·섭취 상태를 점검하되, 그 시점의 무반응만으로 치료 실패를 단정하지 않음. 적절한 항진균 치료에도 약 7일 이내 호전이 없으면 EGD·생검/배양 등으로 내성 또는 다른 원인을 평가함; 악화·출혈·섭취 불가 시 더 일찍 평가 <mark style="color:$info;">\[Clin Infect Dis 2016; NIH]</mark>. 구강 칸디다가 없어도 식도 감염을 배제할 수 없고, nystatin만으로는 식도 감염 치료가 불충분함
   * 경구 투여가 불가능하면 정맥 fluconazole 또는 echinocandin 등 전신 치료를 전문의와 결정하고, 경구 섭취가 가능해지면 전환을 검토함; 각 주사제의 식도 감염 용량·허가 및 급여는 별도 확인
 * **HSV 식도염** : 면역 상태·중증도·경구 섭취 가능 여부에 따라 acyclovir 경구 또는 정맥 치료를 선택함. 면역 정상 환자는 자연 호전될 수 있으며 항바이러스 치료의 비교시험 근거가 제한적이므로 단일 용법을 모든 환자에게 적용하지 않음 <mark style="color:$info;">\[Korean J Helicobacter Up Gastrointest Res 2025]</mark>
-  * 경구 섭취가 가능한 선택된 환자에서 acyclovir 400 ㎎ 1일 5회가 사용되며, 면역 저하자는 흔히 14\~21일 치료함 <mark style="color:blue;">\[메노바]</mark>. 경구 acyclovir의 통상 단순포진 치료는 200 ㎎ 1일 5회, 보통 5일이며, 중증 면역저하·흡수장애에서는 허가상 400 ㎎ 증량 또는 정맥 전환이 가능함. 식도염의 치료기간을 통상 피부·점막 단순포진의 5일 요법과 구분하여 결정함
+  * 경구 섭취가 가능한 선택된 환자에서 acyclovir 400 ㎎ 1일 5회가 사용되며, 면역 저하자는 흔히 14\~21일 치료함 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1184">메노바</a>]</mark>. 경구 acyclovir의 통상 단순포진 치료는 200 ㎎ 1일 5회, 보통 5일이며, 중증 면역저하·흡수장애에서는 허가상 400 ㎎ 증량 또는 정맥 전환이 가능함. 식도염의 치료기간을 통상 피부·점막 단순포진의 5일 요법과 구분하여 결정함
   * 중증·경구 섭취 불가 환자는 정맥 acyclovir(신기능 정상 성인 5\~10 ㎎/㎏ q8h, 중증도·침범 범위에 따라)를 고려함. 신기능 조정·수액 및 신독성·신경독성 감시, 감염내과 협진
 * **CMV 식도염** : ganciclovir 5 ㎎/㎏ IV q12h(신기능 정상 성인의 유도 용량 예); 신기능에 따른 용량 조정과 CBC·골수억제 모니터링. 기간은 면역 상태·중증도·반응에 따라 결정하며 HIV 관련 CMV 식도염의 NIH 권고는 21\~42일 및 증상·징후 해소까지임. 경구 섭취·흡수가 가능하면 valganciclovir 전환을 검토; 감염내과 협진 <mark style="color:$info;">\[NIH]</mark>
 * 면역저하자의 CMV·HSV 의심 식도염은 내시경·조직검사 등으로 원인을 확인. 혈중 CMV PCR 양성만으로 CMV 식도염을 확진하지 않음
@@ -435,6 +435,7 @@ flowchart TD
 > (최적 PPI에도 야간 역류 증상이 남는 선택된 환자에서만 단기·필요시 추가)
 > 가스터 20 ㎎/T   1T   취침 전; 신기능에 따라 조정
 > ```
+> 약제 정보: [넥시움정 40㎎](https://www.health.kr/drug/A11AGGGGA5272) · [동아가스터정 20㎎](https://www.health.kr/drug/A11A0150B0001)
 >
 > _✽ 지속성·진행성 식도성 삼킴곤란은 PPI 경험적 치료에 앞서 EGD로 기계적·점막 원인을 평가함. 이 예는 4주에 반응을 평가하고 필요시 총 8주까지 치유 치료를 시행함. 야간 역류 증상이 객관적으로 지속되면 취침 전 H₂ 차단제를 단기 추가할 수 있으나 tachyphylaxis에 주의. 중증 역류성 식도염 또는 협착 등 적응증이 있을 때 추적 EGD/확장술과 PPI 유지 기간을 결정함._
 
@@ -444,6 +445,7 @@ flowchart TD
 > 디푸루칸 50 ㎎/C   4~8C   qd   14~21일
 > (총 200~400 ㎎/일; 지침 용량, 식도 칸디다증 허가 용량과 다름)
 > ```
+> 약제 정보: [디푸루칸캡슐 50㎎](https://www.health.kr/drug/A11A0310A0230)
 >
 > _✽ IDSA 성인 지침 용량의 예임. 디푸루칸캡슐50㎎ 허가 용량은 50 ㎎ qd × 14\~30일, 난치성은 100 ㎎ qd로 증량이며 위 처방은 허가 범위 밖 용량임. 신기능에 따라 감량하고 QT 연장·간독성 및 warfarin, sulfonylurea 등 상호작용을 확인함. 48\~72시간에 초기 반응을 점검하고, 적절한 치료에도 약 7일 이내 호전이 없으면 내시경 등으로 재평가; 악화·출혈·섭취 불가 시 더 일찍 평가. 경구 섭취가 어렵거나 중증 면역 저하자는 전문과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
 
@@ -459,6 +461,7 @@ flowchart TD
 >   → EoE 치료 목적으로는 폐로 흡입하지 않음; 총 2 ㎎/일
 >   → 복용 후 30~60분 음식·음료 금지 / 구강 위생은 제형별 지시에 따름
 > ```
+> 약제 정보: [오엠피정 20㎎](https://www.health.kr/drug/A11A0120A0565) · [풀미코트레스퓰분무용현탁액 0.5㎎/2㎖](https://www.health.kr/drug/A11ABBBBB1672)
 >
 > _✽ EoE 허가 적응증이 없는 약물·제형은 허가 외 사용으로 구분함. PPI·swallowed topical steroid·덜 제한적인 경험적 제거식 중에서 공동 의사결정으로 초기 치료를 선택하며, 일률적인 순차 치료가 아님. 8\~12주 후 내시경·생검으로 재평가하고 관해 후 유지 치료를 결정함. 반복 food impaction·fibrostenotic EoE·초기 치료 불응 또는 다발성 아토피 질환 동반 시 EoE 허가 적응증이 없는 dupilumab의 사용 여부를 전문의가 판단함._
 

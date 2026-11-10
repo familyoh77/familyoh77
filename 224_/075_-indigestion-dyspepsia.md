@@ -351,7 +351,7 @@ flowchart TD
 
 > _H. pylori 검사 전 PPI/P-CAB은 ≥2주, 항생제·비스무트는 ≥4주 중단. 제균 성공은 항생제 종료 ≥4주 후 UBT 또는 대변 항원검사로 확인하며, 증상 호전만으로 판단하지 않음_
 >
-> _초기 약제는 우세 증상, 동반 GERD, 이전 반응과 부작용을 종합하여 선택; 아형별 고정 처방이나 일률적 병용은 피함. Mosapride는 보통 2주, 모티리톤은 4주, PPI는 4\~8주에 반응을 평가. 장-뇌 행동치료는 환자 선호에 따라 더 이른 단계에서도 고려하며, 새 Red Flag가 생기면 즉시 원인 평가_
+> _초기 약제는 우세 증상, 동반 GERD, 이전 반응과 부작용을 종합하여 선택; 아형별 고정 처방이나 일률적 병용은 피함. Mosapride는 보통 2주, <a href="https://www.health.kr/drug/2011051800003">모티리톤</a>은 4주, PPI는 4\~8주에 반응을 평가. 장-뇌 행동치료는 환자 선호에 따라 더 이른 단계에서도 고려하며, 새 Red Flag가 생기면 즉시 원인 평가_
 
 <p align="center"><strong>기능성 소화불량 치료 단계</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Oh JH 2020 J Neurogastroenterol Motil; Black CJ 2022 Gut; Chey WD 2024 Am J Gastroenterol)</mark></em></p>
 
@@ -448,7 +448,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 
 * FD의 단기 산 억제 치료에서 PPI의 대안으로 고려할 수 있으며, PPI를 사용하기 어렵거나 경증·간헐적 증상인 경우에도 선택 가능; PPI보다 열등하다는 충분한 근거는 없음
 * famotidine : FD 증상 완화를 위해 고려할 수 있음 (☞ [소화기계 약제](073_-gidrugs.md#h2-h2-receptor-antagonist-h2ra))
-  * <mark style="color:blue;">\[가스터]</mark> 위궤양·역류성식도염에서 20 ㎎ bid 또는 40 ㎎ hs, 급성위염·만성위염 급성악화기의 위점막병변 개선 목적으로 10 ㎎ bid 또는 20 ㎎ hs, 신기능 저하 시 감량·간격 조절
+  * <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0150B0001">가스터</a>]</mark> 위궤양·역류성식도염에서 20 ㎎ bid 또는 40 ㎎ hs, 급성위염·만성위염 급성악화기의 위점막병변 개선 목적으로 10 ㎎ bid 또는 20 ㎎ hs, 신기능 저하 시 감량·간격 조절
 * 연속 사용 시 빠르게 내성이 생겨 효과가 감소할 수 있으므로 불필요한 장기 지속·증량을 피함
 * cimetidine은 CYP 약물 상호작용 주의가 필요하며 현재 사용 감소 추세임
 * ranitidine은 NDMA 발생 문제로 시장 철수 상태임
@@ -457,7 +457,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 
 * GERD 등 허가 질환에서는 빠르고 강한 산 억제제로 사용하나, FD 자체는 허가 적응증이 아님
 * FD 연구는 제한적·이질적이며 제2차 아시아 합의안도 확정적 결론을 내리지 않음 <mark style="color:$info;">\[J Gastroenterol Hepatol 2026]</mark>
-* fexuprazan 10 ㎎ <mark style="color:blue;">\[펙수클루]</mark>는 급성·만성위염의 위점막 병변 개선 적응증(10 ㎎ bid, 2주)이 있으나 FD 적응증은 아님. 내시경 소견이 증상을 설명하지 못하는 경우 위염 적응증으로 FD를 대체하지 않음
+* fexuprazan 10 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022081900004">펙수클루</a>]</mark>는 급성·만성위염의 위점막 병변 개선 적응증(10 ㎎ bid, 2주)이 있으나 FD 적응증은 아님. 내시경 소견이 증상을 설명하지 못하는 경우 위염 적응증으로 FD를 대체하지 않음
 * 동반 GERD 등 별도의 허가 질환은 해당 질환·제형의 용량으로 치료하며, 구체적인 용법은 소화기계 약제 챕터 참조
 * CYP2C19 유전형의 영향을 덜 받는다는 이유만으로 clopidogrel과의 상호작용이 모든 P-CAB에서 없다고 단정하지 않음
 
@@ -470,14 +470,14 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
   * mosapride는 보통 2주, 모티리톤은 4주 투여에도 개선이 없으면 장기 투여하지 않음
   * 다른 약제들도 효과·이상반응을 조기에 확인하며 무반응 상태로 반복 처방하지 않음
 
-<table><thead><tr><th width="154">약물</th><th width="194">용량</th><th>상품명 / 특이사항</th></tr></thead><tbody><tr><td>mosapride</td><td>5 ㎎ tid (식전 또는 식후)<br>서방정 15 ㎎ qd (공복)</td><td><mark style="color:blue;">[가스모틴]</mark>, <mark style="color:blue;">[가스모틴에스알]</mark> - 보통 2주에 반응 재평가. 드물게 중증 간기능 장애·황달</td></tr><tr><td>itopride</td><td>50 ㎎ tid (식전)</td><td><mark style="color:blue;">[가나톤]</mark> - 비급여(2025. 2. 1. 급여 삭제); D2 차단 + AChE 억제; 고프로락틴혈증·유즙분비, 드물게 떨림</td></tr><tr><td>levosulpiride*</td><td>25 ㎎ tid (식전)</td><td><mark style="color:blue;">[레보프라이드]</mark> - D2 차단; 추체외로 증상·고프로락틴혈증; 고령자에서 가급적 회피, 장기 반복 처방 회피; 신기능 저하 시 주의; 임부·수유부 금기</td></tr><tr><td>현호색·견우자 엑스(DA-9701)</td><td>30 ㎎(1정) tid (식전)</td><td><mark style="color:blue;">[모티리톤]</mark> - 4주에 개선 없으면 중단·전환</td></tr></tbody></table>
+<table><thead><tr><th width="154">약물</th><th width="194">용량</th><th>상품명 / 특이사항</th></tr></thead><tbody><tr><td>mosapride</td><td>5 ㎎ tid (식전 또는 식후)<br>서방정 15 ㎎ qd (공복)</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AIIIII0006">가스모틴</a>]</mark>, <mark style="color:blue;">[<a href="https://www.health.kr/drug/2017120400002">가스모틴에스알</a>]</mark> - 보통 2주에 반응 재평가. 드물게 중증 간기능 장애·황달</td></tr><tr><td>itopride</td><td>50 ㎎ tid (식전)</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/2015050100105">가나톤</a>]</mark> - 비급여(2025. 2. 1. 급여 삭제); D2 차단 + AChE 억제; 고프로락틴혈증·유즙분비, 드물게 떨림</td></tr><tr><td>levosulpiride*</td><td>25 ㎎ tid (식전)</td><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1890A0158">레보프라이드</a>]</mark> - D2 차단; 추체외로 증상·고프로락틴혈증; 고령자에서 가급적 회피, 장기 반복 처방 회피; 신기능 저하 시 주의; 임부·수유부 금기</td></tr><tr><td>현호색·견우자 엑스(DA-9701)</td><td>30 ㎎(1정) tid (식전)</td><td><mark style="color:blue;">[모티리톤]</mark> - 4주에 개선 없으면 중단·전환</td></tr></tbody></table>
 
 > _위 약제들은 기능성 소화불량에 허가됨_
 >
 > _\*levosulpiride는 단기 사용을 원칙으로 하며, 고령자에서는 가급적 피하고 장기 반복 처방을 피함. 새로 생긴 떨림·서동·경직·보행장애는 약물 유발 파킨슨증 가능성을 평가 <mark style="color:$info;">\[Mov Disord 2009]</mark>_
 
 {% hint style="danger" %}
-**metoclopramide는 기능성 소화불량의 routine 장기 치료제로 사용하지 않음** : 맥페란정은 구역·구토 관련 허가 적응증에 **최대 5일** 사용하며 최소 유효 용량·최단기간을 적용. 급성 근긴장이상, 정좌불능, 파킨슨증 및 지연성 운동장애 위험이 있음. **파킨슨병, levodopa·dopamine 작용제 병용, 위장관 출혈·기계적 폐색·천공 등은 금기**; 고령자·항정신병약 병용 환자는 특히 이상반응 위험 평가
+**metoclopramide는 기능성 소화불량의 routine 장기 치료제로 사용하지 않음** : <a href="https://www.health.kr/drug/A11A0570A0089">맥페란정</a>은 구역·구토 관련 허가 적응증에 **최대 5일** 사용하며 최소 유효 용량·최단기간을 적용. 급성 근긴장이상, 정좌불능, 파킨슨증 및 지연성 운동장애 위험이 있음. **파킨슨병, levodopa·dopamine 작용제 병용, 위장관 출혈·기계적 폐색·천공 등은 금기**; 고령자·항정신병약 병용 환자는 특히 이상반응 위험 평가
 {% endhint %}
 
 #### <mark style="color:$primary;">위장관 신경조절제 (GI Neuromodulators)</mark>
@@ -488,7 +488,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 **저용량 삼환계 항우울제 (TCA)**
 
 * 내장 과민성을 줄이고 통증 역치를 높이는 목적으로 사용하며, 특히 상복부 통증이 두드러지는 FD에서 2차 치료제로 고려 (☞ [소화기계 약제](073_-gidrugs.md#tca))
-* amitriptyline <mark style="color:blue;">\[에트라빌]</mark> 10 ㎎ hs(취침 시)부터 시작하여 내약성과 반응에 따라 2\~3주 간격으로 서서히 증량(보통 30\~50 ㎎ 이하) <mark style="color:$info;">\[BSG 2022]</mark>; 2\~4주에 이상반응·순응도를 확인하고 가능하면 8\~12주에 효과 판정
+* amitriptyline <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570B0082">에트라빌</a>]</mark> 10 ㎎ hs(취침 시)부터 시작하여 내약성과 반응에 따라 2\~3주 간격으로 서서히 증량(보통 30\~50 ㎎ 이하) <mark style="color:$info;">\[BSG 2022]</mark>; 2\~4주에 이상반응·순응도를 확인하고 가능하면 8\~12주에 효과 판정
   * 금기 : 녹내장, 전립선비대 등 배뇨장애, 부정맥, 심근경색 회복 초기, MAO 저해제 투여 중
 * 졸림, 구강건조, 변비, 배뇨곤란, 기립저혈압·낙상, QT 연장에 주의. 고령자에서는 강한 항콜린 작용과 낙상 위험 때문에 가급적 피함. 심장질환·전도장애, QT 연장 약물 병용 등 위험이 있으면 시작 전 심전도·전해질 평가 고려
 * 효과가 있으면 6\~12개월 유지 후 서서히 감량을 고려; 기간은 재발·내약성에 따라 개별화 <mark style="color:$info;">\[BSG 2022]</mark>
@@ -501,7 +501,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 #### <mark style="color:$primary;">제산제 및 기타</mark>
 
 * 제산제 : 급성 증상 완화 목적의 단기 사용; magnesium hydroxide/aluminum hydroxide 복합제 등은 제품별 용법 적용. FD의 지속적 치료 근거는 부족함 (☞ [소화기계 약제](073_-gidrugs.md#antacid))
-  * 신기능 저하에서는 Mg·Al 축적 위험을 평가하며, 특히 중증 신기능 저하에서는 해당 제제를 가급적 피함. <mark style="color:blue;">마그밀</mark> 등 신장애 환자에게 금기인 품목은 투여하지 않음; 단순 감량·투여 간격 연장으로 대체하지 않음. 금기·주의 범위는 실제 처방 품목의 허가사항을 적용하며, 한 품목의 금기를 모든 Mg·Al 복합제에 일률적으로 확대하지 않음
+  * 신기능 저하에서는 Mg·Al 축적 위험을 평가하며, 특히 중증 신기능 저하에서는 해당 제제를 가급적 피함. <mark style="color:blue;"><a href="https://www.health.kr/drug/A11ABBBBB1168">마그밀</a></mark> 등 신장애 환자에게 금기인 품목은 투여하지 않음; 단순 감량·투여 간격 연장으로 대체하지 않음. 금기·주의 범위는 실제 처방 품목의 허가사항을 적용하며, 한 품목의 금기를 모든 Mg·Al 복합제에 일률적으로 확대하지 않음
 * simethicone (소포제) : 가스/팽만감의 단기 증상 완화에 선택적으로 사용하나 FD 자체에 대한 근거는 제한적
 * 프로바이오틱스/프리바이오틱스 : FD에서 일률적으로 권고할 근거가 부족하며 균주·용량·기간도 표준화되지 않음. 복부 팽만·팽창의 치료 목적으로는 프로바이오틱스를 권고하지 않음 <mark style="color:$info;">\[AGA 2023]</mark>
 
@@ -543,6 +543,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 > ```
 > 넥시움 20 ㎎/T  1T  qd  아침 식전 30분  4주  (FD: 허가 외 사용)
 > ```
+> 약제 정보: [넥시움정 20㎎](https://www.health.kr/drug/A11AGGGGA5271)
 >
 > _✽4주 후 증상 재평가; 소실 시 투약 중단 후 관찰; 재발 시 간헐적 투여 고려_\
 > _✽EPS 우세형(상복부 통증·작열감)에 우선 고려; PDS 우세형(식후 충만감·조기 포만감)에서는 prokinetics를 선택적으로 고려_
@@ -552,6 +553,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 > ```
 > 가스모틴 5 ㎎/T  1T  tid  식전 또는 식후  2주
 > ```
+> 약제 정보: [가스모틴정 5㎎](https://www.health.kr/drug/A11AIIIII0006)
 >
 > _✽보통 2주에 반응 확인; 개선이 없으면 장기 투여하지 않음. 식후 충만감, 조기 포만감이 주 증상인 PDS에서 고려; itopride 50 ㎎ tid 식전 \[가나톤] (비급여)으로 대체 가능_\
 > _✽식후 증상과 통증·작열감이 함께 있으면 우세 증상에 따라 단독치료부터 시작하고, 반응이 불충분하면 선택적으로 병용_
@@ -561,6 +563,7 @@ PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 
 > ```
 > 에트라빌 10 ㎎/T  1T  hs  취침 시  2주 (초기 처방)  (허가 외 사용)
 > ```
+> 약제 정보: [에트라빌정 10㎎](https://www.health.kr/drug/A11A0570B0082)
 >
 > _✽PPI가 효과 없으면 불필요하게 지속하지 않음. PPI 부분반응이나 동반 GERD 등 별도 적응증이 있을 때만 병용 고려_\
 > _✽저용량 TCA(보통 10\~50 ㎎)는 내장 과민성 억제 및 통증 역치 상향 목적; 우울증 치료와 다른 목적이며 낮은 용량부터 시작함을 환자에게 설명_\

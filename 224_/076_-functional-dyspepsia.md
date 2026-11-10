@@ -297,8 +297,8 @@ flowchart TD
 * FD 단독 치료는 허가 외 사용임. 동반되어 있는 GERD·소화성궤양 등은 해당 기준 적용
 * omeprazole·esomeprazole은 clopidogrel과의 병용을 피하고 필요시 pantoprazole 등 대안을 고려
 * 위산도 변화에 따른 흡수 상호작용과 다른 병용약도 확인
-* omeprazole : 20 ㎎ qd, 아침 공복 복용 <mark style="color:blue;">\[오엠피]</mark>
-* dexlansoprazole : 30 ㎎ qd, 식사와 관계없이 복용 가능 <mark style="color:blue;">\[덱실란트디알]</mark>
+* omeprazole : 20 ㎎ qd, 아침 공복 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0565">오엠피</a>]</mark>
+* dexlansoprazole : 30 ㎎ qd, 식사와 관계없이 복용 가능 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012102300007">덱실란트디알</a>]</mark>
 
 [**P-CAB**](073_-gidrugs.md#potassium-competitive-acid-blocker-p-cab)
 
@@ -312,25 +312,25 @@ flowchart TD
 * _H. pylori_ 제균 치료 또는 위산 억제 치료에도 증상이 지속되는 환자에서 고려할 수 있음
 * 수 주 단위 치료가 필요하면 중추·심장 부작용이 적은 mosapride, itopride, 현호색·견우자 추출물을 우선 고려
 * 위장관 운동 자극이 위험한 상황(위장관 출혈·기계적 폐색·천공)에서는 투여를 피하고 성분별 금기를 확인
-* mosapride 일반정 : 5 ㎎ tid, 식전 또는 식후; 5-HT4 수용체 작용제 <mark style="color:blue;">\[가스모틴]</mark>
+* mosapride 일반정 : 5 ㎎ tid, 식전 또는 식후; 5-HT4 수용체 작용제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AIIIII0006">가스모틴</a>]</mark>
   * 허가 효능 : 기능성 소화불량으로 인한 소화기 증상(속쓰림·구역·구토). 보통 2주 투여에도 개선이 없으면 장기간 지속하지 않음; 서방정과 용법을 혼동하지 않음
   * 설사·어지럼, 드문 중증 간기능장애에 유의. 항콜린제와 병용 시 운동 촉진 효과가 감소할 수 있음
-* 현호색·견우자 추출물(DA-9701) : 30 ㎎ tid 식전; D2 길항, 5-HT4 작용 등 복합 기전 <mark style="color:blue;">\[모티리톤]</mark>
+* 현호색·견우자 추출물(DA-9701) : 30 ㎎ tid 식전; D2 길항, 5-HT4 작용 등 복합 기전 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011051800003">모티리톤</a>]</mark>
   * 허가 효능 : 기능성 소화불량증. 약 4주 투여에도 개선이 없으면 중단·치료 전환을 고려
   * 변비·설사·어지럼, 간효소·prolactin 상승 등이 보고됨; 고령자는 신중 투여
-* itopride : 50 ㎎ tid 식전; D2 수용체 차단 + acetylcholinesterase 억제 <mark style="color:blue;">\[가나톤]</mark>(급여삭제)
+* itopride : 50 ㎎ tid 식전; D2 수용체 차단 + acetylcholinesterase 억제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015050100105">가나톤</a>]</mark>(급여삭제)
   * 효과가 없으면 장기간 지속하지 않음; 유즙 분비·여성형유방증 등 고프로락틴혈증에도 유의
-* levosulpiride : 25 ㎎ tid 식전; D2 수용체 차단제 <mark style="color:blue;">\[레보프라이드]</mark>
+* levosulpiride : 25 ㎎ tid 식전; D2 수용체 차단제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1890A0158">레보프라이드</a>]</mark>
   * 허가 효능 : 기능성 소화불량으로 인한 증상 완화
   * 추체외로증상·지연성 운동장애, 고프로락틴혈증 위험이 있어 단기 사용을 원칙으로 하고 고령자에서는 가급적 피함. 새로 발생한 떨림·서동·보행 장애는 약물 유발 파킨슨증 가능성을 평가 <mark style="color:$info;">\[Mov Disord 2009]</mark>
   * 주요 금기 : 간질·조증, 크롬친화세포종, 악성유선병증, 위장관 출혈·기계적 폐색·천공; 신배설 약제로 신기능 저하·고령에서 축적과 이상반응에 유의하고 용량·투여간격을 신중히 조정
-* domperidone : 성인 10 ㎎ tid 식전, 최대 30 ㎎/d; 말초 D2 수용체 차단제 <mark style="color:blue;">\[돔피돈]</mark>
+* domperidone : 성인 10 ㎎ tid 식전, 최대 30 ㎎/d; 말초 D2 수용체 차단제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570A0382">돔피돈</a>]</mark>
   * 허가 효능 : 구역·구토 증상 완화에 허가; FD 자체의 장기 치료제로 사용하지 않음
   * QT 연장·심실성 부정맥 위험으로 최소 유효 용량·최단기간 사용하며 일반적으로 1주를 초과하지 않음
   * 금기 : 프로락틴분비종양, QT 연장·서맥·심부전 등 심장 기저질환·유의한 전해질 이상, 중등도\~중증 간장애, amitriptyline, ondansetron, clarithromycin 등 QT 연장 약제 또는 강력한 CYP3A4 억제제와 병용 금기
   * 심한 신장애에서 반복 투여가 필요하면 투여 횟수 감소 등 제품별 조정 기준 확인
 * metoclopramide : 추체외로증상과 지연성 운동장애 위험 때문에 만성 FD에 routine 사용하지 않음. 다른 원인을 평가한 심한 구역·구토에 불가피하게 사용할 때만 허가 적응증에 따라 최소 용량·최단기간 사용하며 최대 5일을 넘기지 않음. 투여 간격은 최소 6시간 유지
-  * FD·위마비 자체는 허가 적응증이 아님 <mark style="color:blue;">\[맥페란]</mark>
+  * FD·위마비 자체는 허가 적응증이 아님 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570A0089">맥페란</a>]</mark>
 * acotiamide : 100 ㎎ tid ×4wk; acetylcholinesterase 억제 등을 통한 말초 콜린성 신경 조절. PDS에서 유효성이 보고 (국내 미유통)
 
 ### <mark style="color:orange;">제산제</mark>
@@ -346,7 +346,7 @@ flowchart TD
 ### <mark style="color:orange;">점막 보호제</mark>
 
 * 일부 약제에서 증상 개선이 보고되었으나 근거가 제한적이며, EPS에서 위산 억제제와의 routine 병용이 단독요법보다 우월하다고 확립되지 않음 (☞ [점막보호제](073_-gidrugs.md#gastric-mucosal-protective-agent))
-* 애엽95%에탄올연조엑스 <mark style="color:blue;">\[스티렌]</mark>, benexate <mark style="color:blue;">\[울굿]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark>
+* 애엽95%에탄올연조엑스 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO5702">스티렌</a>]</mark>, benexate <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0340A0036">울굿</a>]</mark>, rebamipide <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4270A0014">무코스타</a>]</mark>
 * FD 단독 치료는 적응증 아님. 위염, 위궤양 등에 대하여 적용
 
 ### <mark style="color:orange;">위저부 이완제 (Fundus relaxant drug)</mark>
@@ -355,7 +355,7 @@ flowchart TD
 * 위 적응 개선을 목적으로 연구되었으나 통상적인 FD 일차 치료제는 아님
 * 일부 소규모 연구에서 위 적응·증상 개선이 보고됐지만 효과는 확립되지 않음
 * tandospirone : 10 ㎎ tid ×4wk; 소규모 RCT와 간접 비교에서 유효 가능성이 보고되었으나 근거 수준은 낮고, buspirone보다 우월하다는 직접 비교 RCT는 없음 (국내 미유통)
-* buspirone : 10 ㎎ tid ×4wk; 식사 15분 전 복용. 일부 소규모 연구에서 gastric accommodation 및 조기 포만감 개선이 보고되었으나 결과가 일관되지 않음. FD 단독 치료는 적응증이 아님 <mark style="color:blue;">\[부스파]</mark>
+* buspirone : 10 ㎎ tid ×4wk; 식사 15분 전 복용. 일부 소규모 연구에서 gastric accommodation 및 조기 포만감 개선이 보고되었으나 결과가 일관되지 않음. FD 단독 치료는 적응증이 아님 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0930A0245">부스파</a>]</mark>
 
 ### <mark style="color:orange;">항우울제 (Gut-brain neuromodulator)</mark>
 
@@ -366,11 +366,11 @@ flowchart TD
 * TCA는 낮은 용량부터 서서히 증량하고 초기 2\~4주에 내약성·복약 상태를 확인; 충분한 기간의 치료 후 효과를 판단. 유효하면 6\~12개월 유지 후 점진적 감량을 고려 <mark style="color:$info;">\[BSG 2022]</mark>; TCA의 항콜린 작용은 일부 prokinetics의 운동 촉진 효과를 낮출 수 있어 병용 필요성을 재평가
 * SSRI/SNRI는 FD 증상 자체의 치료 효과가 확립되어 있지 않음; 동반 불안·우울장애는 별도로 평가·치료 <mark style="color:$info;">\[BSG 2022]</mark>
 * 저용량으로 시작하여 내약성에 따라 증량. 고령자에서는 amitriptyline, imipramine을 가급적 피함; 강한 항콜린 작용, 진정, 기립저혈압·낙상 위험을 먼저 평가 <mark style="color:$info;">\[AGS Beers 2023]</mark>
-* amitriptyline : 일반 성인 10 ㎎ 취침 시부터 시작하여 반응·내약성에 따라 10\~25 ㎎ 등으로 조정하고, 필요시 30\~50 ㎎/d까지 신중히 증량 고려 <mark style="color:blue;">\[에트라빌]</mark>
+* amitriptyline : 일반 성인 10 ㎎ 취침 시부터 시작하여 반응·내약성에 따라 10\~25 ㎎ 등으로 조정하고, 필요시 30\~50 ㎎/d까지 신중히 증량 고려 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570B0082">에트라빌</a>]</mark>
   * 고령자에서는 대안이 없고 이득이 위험보다 클 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작; 낮은 용량도 위험을 없애지는 못함
   * 주요 금기 : 부정맥, 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, MAO 억제제 투여 중 등. 고령자·심질환·QT 연장 위험 또는 관련 약물 병용 시 처방 전 심전도·전해질 및 상호작용 평가; 양극성장애·자살위험도 확인. domperidone과 병용하지 않음
 * imipramine : 25 ㎎ 취침 시 시작하여 필요시 50 ㎎까지 고려 <mark style="color:blue;">\[이미프라민]</mark>
-* mirtazapine : 15 ㎎ 취침 시 <mark style="color:blue;">\[레메론]</mark>
+* mirtazapine : 15 ㎎ 취침 시 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1118">레메론</a>]</mark>
   * 조기 포만감과 체중감소가 두드러진 난치성 FD에서 전문의 판단하에 고려; 일률적 사용을 권고할 근거는 부족
   * 졸림·체중 증가 및 대사 부작용 주의
 
@@ -400,6 +400,7 @@ flowchart TD
 > ```
 > 오엠피정 20 ㎎/T   1T   qd   아침 식전 30~60분   ×4주 후 평가   (FD: 허가 외 사용·보험주의)
 > ```
+> 약제 정보: [오엠피정 20㎎](https://www.health.kr/drug/A11A0120A0565)
 >
 > _✽상복부 통증·작열감이 우세하면 저용량 또는 표준용량 PPI를 4\~8주 시도할 수 있음. 이 예는 4주에 반응을 평가하고 필요시 총 8주까지 치료. 증상 호전 시 중단 또는 필요시 최소 유효 용량으로 조정하며 점막보호제의 routine 병용은 필요하지 않음. 오엠피는 장용정으로 씹거나 분쇄하지 않음. Clopidogrel 복용 중이면 omeprazole을 피하고 대안을 선택함_
 
@@ -408,6 +409,7 @@ flowchart TD
 > ```
 > 가스모틴정 5 ㎎/T    3T   #3   식전 또는 식후   ×2주 후 평가
 > ```
+> 약제 정보: [가스모틴정 5㎎](https://www.health.kr/drug/A11AIIIII0006)
 >
 > _✽식후 충만감·조기 포만감이 우세하면 prokinetic을 초기 약제로 선택할 수 있음. 1회 1T씩 1일 3회 복용. 보통 2주에 반응을 평가하며 호전이 없으면 장기간 지속하지 않음. 제산제는 PDS 기본 처방에 일괄 포함하지 않음_
 
@@ -416,6 +418,7 @@ flowchart TD
 > ```
 > 에트라빌정 10 ㎎/T    1T   qd   취침 시   ×2주(초기)   (허가 외 사용)
 > ```
+> 약제 정보: [에트라빌정 10㎎](https://www.health.kr/drug/A11A0570B0082)
 >
 > _✽진단·복약 순응도를 재평가한 뒤 저용량 TCA를 gut-brain neuromodulator로 고려. 불안·우울 동반 자체가 처방 기준은 아니며 별도의 정신질환은 해당 진단에 따라 치료함. 고령자에서는 가급적 피함. 예외적으로 대안이 없고 이득이 위험보다 크다고 판단할 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작함. 금기·상호작용을 먼저 확인하고 초기 2주에 내약성을 평가하여 필요시 서서히 증량함. 2주는 첫 재평가 시점이며 효과 판정·전체 치료기간을 뜻하지 않음; 유효하면 6\~12개월 유지 후 감량 고려_
 
