@@ -242,7 +242,7 @@ flowchart TD
 * 아래 용량은 정상 신기능 성인 기준의 임상 프로토콜 예이며 소아·임신부에 그대로 적용하지 않음. 신기능·체중·간기능과 제품별 허가사항에 따라 조정
 * 기존 주요 임상시험은 초기 IV 후 경구 전환하여 총 7\~10일을 주로 사용했으나 최적 약제·기간에 단일 표준은 없음. 퇴원 처방은 입원 중 투여일을 포함한 총 치료기간으로 계산
 
-<table><thead><tr><th width="150">상황</th><th width="272.6314697265625">예시 약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>비복잡성<br>초기 IV</td><td>ceftriaxone + metronidazole</td><td>ceftriaxone 2 g qd IV +<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td>대안</td><td>ampicillin-sulbactam <mark style="color:blue;">[유나신]</mark></td><td>3 g q6h IV<br>단, 지역 <em>E. coli</em> 감수성이 뒷받침될 때 사용</td></tr><tr><td>복잡성·중증</td><td>piperacillin-tazobactam 등</td><td>4.5 g q6h IV 등 병원 프로토콜<br>q8h 연장주입 요법은 주입시간·신기능을 포함한 기관 프로토콜에 따름<br>ESBL 감염이 의심·확인된 중환자에서는 meropenem 또는 imipenem-cilastatin 우선 고려</td></tr><tr><td>안정적이며 ESBL 위험이 있는 경우</td><td>ertapenem <mark style="color:blue;">[인반즈]</mark></td><td>1 g qd IV, 선택적 사용<br>중환자·저알부민혈증에서는 다른 carbapenem 우선 고려</td></tr><tr><td>경구 전환</td><td>amoxicillin-clavulanate <mark style="color:blue;">[오구멘틴]</mark></td><td>500/125 ㎎(총 625 ㎎) tid, 식사 시작 때<br>임상 호전·경구 섭취 가능 및 감수성 자료가 뒷받침될 때 선택; 입원 중 투여기간 포함</td></tr><tr><td>중증 β-lactam 알레르기</td><td>ciprofloxacin + metronidazole</td><td>ciprofloxacin 500 ㎎ bid + metronidazole 500 ㎎ tid<br>지역 fluoroquinolone 내성률·금기·이상반응 확인</td></tr></tbody></table>
+<table><thead><tr><th width="150">상황</th><th width="272.6314697265625">예시 약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>비복잡성<br>초기 IV</td><td>ceftriaxone + metronidazole</td><td>ceftriaxone 2 g qd IV +<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td>대안</td><td>ampicillin-sulbactam <mark style="color:blue;">[유나신]</mark></td><td>3 g q6h IV<br>단, 지역 <em>E. coli</em> 감수성이 뒷받침될 때 사용</td></tr><tr><td>복잡성·중증</td><td>piperacillin-tazobactam 등</td><td>4.5 g q6h IV 등 병원 프로토콜<br>q8h 연장주입 요법은 주입시간·신기능을 포함한 기관 프로토콜에 따름<br>ESBL 감염이 의심·확인된 중환자에서는 meropenem 또는 imipenem-cilastatin 우선 고려</td></tr><tr><td>안정적이며 ESBL 위험이 있는 경우</td><td>ertapenem <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO0568" title="약학정보원: 인반즈주1g" data-kpic-body="1">인반즈</a>]</mark></td><td>1 g qd IV, 선택적 사용<br>중환자·저알부민혈증에서는 다른 carbapenem 우선 고려</td></tr><tr><td>경구 전환</td><td>amoxicillin-clavulanate <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1130A0289" title="약학정보원: 오구멘틴정625mg" data-kpic-body="1">오구멘틴</a>]</mark></td><td>500/125 ㎎(총 625 ㎎) tid, 식사 시작 때<br>임상 호전·경구 섭취 가능 및 감수성 자료가 뒷받침될 때 선택; 입원 중 투여기간 포함</td></tr><tr><td>중증 β-lactam 알레르기</td><td>ciprofloxacin + metronidazole</td><td>ciprofloxacin 500 ㎎ bid + metronidazole 500 ㎎ tid<br>지역 fluoroquinolone 내성률·금기·이상반응 확인</td></tr></tbody></table>
 
 * amoxicillin/clavulanate는 지역 장내세균 감수성 또는 배양 결과가 뒷받침되어야 하며 모든 비수술 환자의 기본 경구약으로 간주하지 않음. β-lactam 중증 과민반응 또는 이 약에 의한 황달·간장애 병력이 있으면 사용하지 않음
 * ciprofloxacin은 국내 장내세균의 fluoroquinolone 내성을 고려하여 감수성이 뒷받침될 때 제한적으로 사용. 중증 지연형 β-lactam 반응은 별도 전문 평가가 필요하며, 단순 경증 발진 병력을 일괄 ‘중증 알레르기’로 분류하지 않음
@@ -280,6 +280,8 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > 오구멘틴정625㎎ (amoxicillin/clavulanate 500/125 ㎎)  1정  tid  식사 시작 때  × 퇴원 계획에 따른 잔여 치료기간
 > ```
 >
+> 약제 정보: [오구멘틴정 625㎎](https://www.health.kr/drug/A11A1130A0289) · [후라시닐정 250㎎](https://www.health.kr/drug/A11A0100A0080)
+>
 > _✽영상으로 비복잡성 충수염을 확인하고 외과·응급의학과에서 비수술 치료를 결정한 환자의 연속 처방 예. 입원 중 항생제 투여기간을 포함하여 총 치료기간을 계산하고, 퇴원 시 지정한 약제·기간을 따름. 오구멘틴은 감수성 자료가 뒷받침될 때 사용하며, β-lactam 중증 과민반응 또는 해당 약에 의한 황달·간장애 병력이 있으면 사용하지 않음. 중증 β-lactam 알레르기 시 ciprofloxacin 500 ㎎ bid + metronidazole [후라시닐정 250 ㎎/정, 1회 2정] 500 ㎎ tid는 감수성이 뒷받침될 때 병원에서 결정하는 대안이며 임의로 전환하지 않음. 증상 악화 시 즉시 재내원_
 
 > **처방례 2. 수술 후 통증 관리 (경증-중등도)**
@@ -288,6 +290,8 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > 부루펜정400㎎ 400 ㎎/정  1정  필요시 식후, 하루 최대 3회  × 최대 3~5일
 > 타이레놀정500밀리그람 500 ㎎/정  1~2정  필요시, 최소 6시간 간격 (하루 최대 6정)
 > ```
+>
+> 약제 정보: [부루펜정 400㎎](https://www.health.kr/drug/A11A0500A0131) · [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽Acetaminophen은 허가상 최소 4~6시간 간격·1일 최대 4 g이나, 위 예시는 최소 6시간 간격·1일 최대 3 g의 보수적 사용 예임. NSAID와 acetaminophen은 필요 시 함께 또는 시간차를 두고 사용 가능. 고령·저체중·영양불량·간질환·과음 환자는 acetaminophen 최대용량을 더 낮추며, 다른 복합제에 포함된 동일 성분의 중복을 확인. 부루펜은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 심한 간·신장·심장기능부전·고혈압, 임신 말기 3개월 등 국내 허가 금기를 확인. 탈수·급성 신손상이 있으면 피하며, 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험으로 원칙적으로 피함. 최저 유효용량을 최단기간 사용_
 >
@@ -298,6 +302,8 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > ```
 > 타이레놀정500밀리그람 500 ㎎/정  1~2정  1회 (필요시 의뢰 전 투여)
 > ```
+>
+> 약제 정보: [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽충수염 의심 시 금식하고 신속히 의뢰함. 경구약은 구토·흡인 위험 및 수술 가능성을 고려하여 필요한 경우에만 소량의 물과 투여하며, 경구 투여가 부적절하면 비경구 진통을 고려함. 진통제 투여 때문에 평가·이송을 지연하지 않으며, 구토·탈수 시 필요하면 정맥 수액을 시작_
 

@@ -234,7 +234,7 @@ flowchart TD
 #### <mark style="color:$primary;">Macrolide</mark>&#x20;
 
 * 1차 선택 (이질성·발열성·중증·동남아)
-* azithromycin : 500 ㎎ qd × 3일, 또는 1 g 단회 <mark style="color:blue;">\[지스로맥스]</mark>
+* azithromycin : 500 ㎎ qd × 3일, 또는 1 g 단회 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5794" title="약학정보원: 지스로맥스정250mg" data-kpic-body="1">지스로맥스</a>]</mark>
   * 국내 정제는 250 ㎎/정 기준으로 500 ㎎은 2정, 1 g은 4정임. 여행자설사는 국내 지스로맥스정 허가 적응증에 포함되지 않아 허가 외 사용임
   * QT 연장·저칼륨혈증·저마그네슘혈증, 부정맥 병력 및 QT 연장 약물 병용을 확인함. 탈수·전해질 이상이 있으면 위험이 커질 수 있음
   * 태국 등 Campylobacter 고위험 지역에서 1차 선택제
@@ -247,7 +247,7 @@ flowchart TD
 * 전신 흡수가 적으나 rifamycin계 과민반응, CDI 및 중증 간장애·병용약물에 대한 주의는 필요함
 * 발열·혈변·이질성 설사에서 사용하지 않음. 전신 흡수가 거의 없어 <em>Campylobacter, Shigella, Salmonella</em> 등 침습성 병원체에 대한 효과가 제한적
 * 여행자가 침습성 여부를 정확히 구분하기 어려워 경험적 단일 비상약으로서 유용성이 제한됨. 복용 중 발열·혈변이 생기면 중단하고 재평가. 혈변·심한 복통 등 STEC 의심 소견이 있으면 항생제를 임의로 추가·교체하지 말고 즉시 진료
-* rifaximin : 200 ㎎ tid × 3일 <mark style="color:blue;">\[노르믹스]</mark> — CDC TD 지침 용법
+* rifaximin : 200 ㎎ tid × 3일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0736" title="약학정보원: 노르믹스정" data-kpic-body="1">노르믹스</a>]</mark> — CDC TD 지침 용법
   * 국내 허가의 설사 기본 용법은 12세 이상에서 200 ㎎을 6시간마다 투여하며, 의사 지시에 따라 용량·횟수 증감이 가능함. 위 tid × 3일은 국제 TD 지침 요법으로 구분하여 처방함
 * rifamycin SV : 388 ㎎ bid × 3일 (국내 미출시, 해외 가이드라인 옵션; 성인 ≥18세)
 
@@ -258,8 +258,8 @@ flowchart TD
 {% endhint %}
 
 * 대체 옵션 (현재 사용 감소)
-* ciprofloxacin : 750 ㎎ 단회, 또는 500 ㎎ bid × 3일 <mark style="color:blue;">\[씨프로바이]</mark>
-* levofloxacin : 500 ㎎ qd × 1\~3일 <mark style="color:blue;">\[크라비트]</mark>
+* ciprofloxacin : 750 ㎎ 단회, 또는 500 ㎎ bid × 3일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019081900007" title="약학정보원: 씨프로바이정250mg" data-kpic-body="1">씨프로바이</a>]</mark>
+* levofloxacin : 500 ㎎ qd × 1\~3일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7621" title="약학정보원: 크라비트정500mg" data-kpic-body="1">크라비트</a>]</mark>
 
 {% hint style="info" %}
 TMP/SMX, doxycycline은 일반적인 세균성 TD의 경험적 치료에 권고하지 않음. 단, 확진된 Cyclospora에는 TMP/SMX 등 원인균별 표적 치료를 적용함.
@@ -285,29 +285,29 @@ TMP/SMX, doxycycline은 일반적인 세균성 TD의 경험적 치료에 권고�
 
 ### <mark style="color:orange;">장 운동 조절제</mark>
 
-* loperamide <mark style="color:blue;">\[로프민]</mark>
+* loperamide <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1660A0057" title="약학정보원: 로프민캡슐" data-kpic-body="1">로프민</a>]</mark>
 * 성인 용법 : 처음 4 ㎎, 이후 묽은 변마다 2 ㎎; 국내 로프민 허가상 최대 16 ㎎/일. 이 책에서는 일반 외래·여행 중 자가 치료 시 최대 8 ㎎/일, 최대 2일로 보수적으로 사용하며, 이는 허가 최대용량과 구분함
 * 사용 대상 : 충분히 수분을 보충한 정상 면역 성인의 무혈변·무발열 급성 수양성 설사
 * 혈변·발열·전신 독성·침습성 장염·STEC 또는 CDI 의심·급성 중증 대장염·장폐색 위험이 있으면 사용하지 않음. 복부 팽만·변비·심한 통증이 생기거나 48시간 내 호전이 없으면 중단하고 재평가
 * 권장량 초과 시 QT 연장·심실성 부정맥 위험이 있으므로 임의로 증량하지 않음
   * CDC는 일부 성인 TD에서 적절한 항생제와의 병용을 허용하나 국내 제품의 출혈성 대장염 등 금기를 해제하는 의미는 아님. 이 책의 자가 치료에서는 발열·혈변이 생기면 중단하고 진료하며, 항생제와 함께 임의로 다시 복용하지 않음
-* racecadotril : 성인 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[하이드라섹]</mark>; 정상 배변 2회까지, 최대 7일 (TD 표준 권고 약제는 아니며 ORS의 선택적 보조요법)
+* racecadotril : 성인 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019012500080" title="약학정보원: 하이드라섹캡슐100mg" data-kpic-body="1">하이드라섹</a>]</mark>; 정상 배변 2회까지, 최대 7일 (TD 표준 권고 약제는 아니며 ORS의 선택적 보조요법)
   * 순수 항분비 작용(엔케팔린 분해 억제); 장 운동 억제 없음
   * loperamide보다 변비가 적을 수 있으나 세균 배출에 미치는 영향과 TD에서의 근거는 제한적
   * 혈변 또는 농성 변과 발열, 항생제 관련 설사, 만성 설사, 지속적·조절되지 않는 구토, 임부·수유부에는 투여하지 않음
   * ACE 억제제 병용 시 혈관부종 위험 증가; ACE 억제제로 인한 혈관부종 병력은 금기. 얼굴·혀 부종·호흡곤란 또는 전신 발진·발열이면 즉시 중단·평가
   * 소아 산제는 생후 3개월 이상에서 별도 체중별 허가 용법 적용 [(☞ 급성 설사)](083_-acute-diarrhea.md)
-* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
+* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7809" title="약학정보원: 알피움정" data-kpic-supplement="1">알피움</a>]</mark>
   * 항콜린성 진경제는 고령에서 가능한 회피하며, 전립선비대·요폐·협우각 녹내장 및 다른 항콜린 약물 병용에 주의
-* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
-* phloroglucinol : 160 ㎎ tid <mark style="color:blue;">\[후로스판]</mark>
+* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0430A0302" title="약학정보원: 티로파정" data-kpic-body="1">티로파</a>]</mark>
+* phloroglucinol : 160 ㎎ tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1560A0119" title="약학정보원: 후로스판정" data-kpic-body="1">후로스판</a>]</mark>
 
 ### <mark style="color:orange;">항구토제</mark>
 
 * 구토로 수분 섭취가 어려운 경우 구강붕해정(ODT) 형태의 항구토제를 제한적으로 고려할 수 있으나, 급성 감염성 설사·TD에는 허가 외 사용이며 QT 연장 위험과 병용 약물을 확인
-* ramosetron ODT : 0.1 ㎎(100 ㎍) 제형 <mark style="color:blue;">\[나제아오디]</mark> (허가 외; 국내 허가 용법과 환자별 위험 확인)
+* ramosetron ODT : 0.1 ㎎(100 ㎍) 제형 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGG5333" title="약학정보원: 나제아오디정0.1mg" data-kpic-body="1">나제아오디</a>]</mark> (허가 외; 국내 허가 용법과 환자별 위험 확인)
   * TD의 표준 비상약으로 권고할 근거가 부족하여 일괄 처방하지 않음. 항구토용 제형으로, IBS-D의 2.5\~5 ㎍ 정제와 구분하며 용량을 서로 대입하지 않음. 지속 구토 시 임의로 반복 투여하지 말고 재평가
-* ondansetron ODT : 4\~8 ㎎ prn <mark style="color:blue;">\[조프란 구강붕해 제형]</mark> (허가 외)
+* ondansetron ODT : 4\~8 ㎎ prn <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1538" title="약학정보원: 조프란자이디스정4mg" data-kpic-body="1">조프란 구강붕해 제형</a>]</mark> (허가 외)
 
 {% hint style="info" %}
 ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여가 보장되는 제형은 아님. 반복 구토, 탈수 또는 약물을 유지하지 못하면 반복 복용하지 말고 의료기관 방문
@@ -316,12 +316,12 @@ ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여�
 ### <mark style="color:orange;">흡착제</mark>
 
 * bismuth subsalicylate (BSS) : 경증 급성 설사·여행자 설사의 선택적 증상 완화
-  * 성인 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용; 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[펩토무스]</mark>
+  * 성인 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용; 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023041200001" title="약학정보원: 펩토무스현탁액" data-kpic-body="1">펩토무스</a>]</mark>
   * Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용에서는 사용하지 않음. 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
   * 신기능 저하 환자는 자가사용을 피하고 의료진과 상의. 항응고제·methotrexate·probenecid 복용자, 통풍 환자 및 임부·수유부는 대체 치료를 우선 고려
   * 혀·변의 일시적 흑색 변색이 생길 수 있음; 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
 
-* diosmectite : 3 g tid, 식간 복용 <mark style="color:blue;">\[스타빅]</mark> (성인용; 만 19세 미만 소아·청소년 사용 제한, 임부·임신 가능성이 있는 여성·수유부 금기)
+* diosmectite : 3 g tid, 식간 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021030800001" title="약학정보원: 스타빅현탁액(3g/20mL)" data-kpic-body="1">스타빅</a>]</mark> (성인용; 만 19세 미만 소아·청소년 사용 제한, 임부·임신 가능성이 있는 여성·수유부 금기)
   * 다른 약물의 흡수를 방해할 수 있으므로 2시간 이상 간격을 둠. TD 예방 목적으로는 권고하지 않음
 
 <mark style="color:$info;">허가: 식품의약품안전처 의약품안전평가과-4526호(2026. 7. 6) 및 대한약사회·인천시약사회 정정 안내 — 소아 급성 설사 적응증 삭제, 만 19세 미만 소아·청소년 사용 제한.</mark>
@@ -352,6 +352,8 @@ ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여�
 > 스타빅현탁액 3 g/포    1포   tid   (식간; 다른 약과 2시간 이상 간격)
 > ```
 >
+> 약제 정보: [로프민캡슐 2㎎](https://www.health.kr/drug/A11A1660A0057) · [스타빅현탁액 3g/20㎖](https://www.health.kr/drug/2021030800001)
+>
 > _✽ 경증에서는 항생제 불필요. 독소형(잠복기 1\~6시간, 발열 없음)은 대증 치료만으로 충분. 진경제·흡착제는 증상에 따라 선택적으로 사용. 발열·혈변 발생 시 지사제를 중단하고 재평가. 혈변·심한 복통이면 STEC 가능성 때문에 비상용 항생제를 임의로 시작하지 말고 진료._
 
 > **처방례 2. 중등증 (비이질성 세균성, 열·혈변 없음)**
@@ -362,6 +364,8 @@ ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여�
 > 스타빅현탁액 3 g/포    1포   tid   (선택; 다른 경구약과 2시간 이상 간격)
 > ```
 >
+> 약제 정보: [노르믹스정 200㎎](https://www.health.kr/drug/A11AOOOOO0736) · [티로파정 100㎎](https://www.health.kr/drug/A11A0430A0302) · [스타빅현탁액 3g/20㎖](https://www.health.kr/drug/2021030800001)
+>
 > _✽ 항생제는 선택적 사용임. 이 처방은 CDC 지침 용법이며 국내 허가 기본 용법(200 ㎎, 6시간마다)과 구분함. 발열·혈변 없는 비침습성 중등증에서 rifaximin을 대안으로 고려. 침습성 여부를 확실히 구분하기 어려우므로 동남아(태국 포함) 여행자 또는 단일 비상약 전략에서는 처방례 3의 azithromycin을 우선 고려. 복용 중 발열·혈변이 생기면 즉시 중단하고 재평가._
 
 > **처방례 3. 중증·이질성 또는 발열성 설사 (또는 동남아 여행)**
@@ -369,6 +373,8 @@ ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여�
 > ```
 > 지스로맥스정250㎎ 250 ㎎/정    2정   qd   × 3일   (오심 심한 경우 표준 3일 요법 권장)
 > ```
+>
+> 약제 정보: [지스로맥스정 250㎎](https://www.health.kr/drug/A11AGGGGA5794)
 >
 > _✽ 국내 지스로맥스정의 TD 치료는 허가 외 사용임. 1 g(250 ㎎ 정제 4정) 단회 요법은 편리하나 오심이 흔하므로 1 g을 같은 날 2회로 나누거나 500 ㎎ qd × 3일 요법을 선택할 수 있음. 혈변 또는 발열성 설사에서는 자가 loperamide를 중단하고 평가. 혈변·심한 복통 등 STEC 의심 시 항생제·loperamide를 임의 복용하지 말고 즉시 진료; 발열만으로 STEC를 배제하지 않음. 24\~48시간 내 호전 없으면 의료기관 방문._
 
@@ -382,6 +388,8 @@ ODT는 입에서 녹지만 삼킨 뒤 흡수되므로 지속 구토 시 투여�
 > ■ 중증·이질성 또는 발열성 설사용 (또는 동남아 여행 시 우선)
 > 지스로맥스정250㎎ 250 ㎎/정    2정   qd   × 3일
 > ```
+>
+> 약제 정보: [노르믹스정 200㎎](https://www.health.kr/drug/A11AOOOOO0736) · [로프민캡슐 2㎎](https://www.health.kr/drug/A11A1660A0057) · [지스로맥스정 250㎎](https://www.health.kr/drug/A11AGGGGA5794)
 >
 > _✽ 경증에서는 항생제를 사용하지 않음. Rifaximin은 CDC 지침 용법으로 국내 허가 기본 용법과 구분하며, azithromycin의 TD 치료는 국내 허가 외 사용임. 발열성·이질성 설사는 의료기관 평가를 우선하며, 비상용 azithromycin은 사전 지시 범위에서 사용. 혈변·심한 복통 등 STEC 의심 시 항생제와 loperamide를 임의 복용하지 않고 즉시 진료하며, 발열만으로 STEC를 배제하지 않음. 자가 치료 환경에서 loperamide는 최대 4캡슐/일로 제한. rifaximin 복용 중 발열·혈변 발생 시 중단하고 재평가._
 

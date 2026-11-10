@@ -176,7 +176,7 @@ flowchart TD
 #### <mark style="color:$primary;">식이 및 수분</mark>
 
 * 식이 섬유 충분히 섭취 : 25\~30 g/일; 복부 가스 등 불편하면 서서히 증량 또는 감량 조절
-  * 필요시 보충제 사용 (예: 차전자 <mark style="color:blue;">\[아기오과립]</mark>)
+  * 필요시 보충제 사용 (예: 차전자 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1310A0185" title="약학정보원: 아기오과립" data-kpic-body="1">아기오과립</a>]</mark>)
 * 수분 : 갈증과 건강 상태를 고려하여 충분히 섭취; 심부전·신장질환 등으로 수분 제한이 필요한 경우 개별화
 * 가스·복부팽만이 심하면 유발 식품의 양을 개별 조절하되, 콩류 등 식이섬유 식품을 일률적으로 제한하지 않음
 
@@ -208,8 +208,8 @@ flowchart TD
 **용법**
 
 * 제품별 허가 용법·용량에 따라 사용; 증상 완화 목적의 단기간 사용을 원칙으로 함
-  * <mark style="color:blue;">\[푸레파인 마일드 좌제]</mark> : 1개 중 lidocaine 60 ㎎, tetrahydrozoline hydrochloride 1 ㎎, chlorhexidine hydrochloride 5 ㎎; 만 15세 이상·성인 1회 1개, 1일 3회 이내 직장 내 삽입
-  * <mark style="color:blue;">\[푸레파인 연고]</mark> : 1 g 중 lidocaine 30 ㎎, allantoin 10 ㎎, tetrahydrozoline hydrochloride 0.5 ㎎, chlorhexidine hydrochloride 5 ㎎, L-menthol 5 ㎎; 만 15세 이상·성인 1일 3회 이내 환부 도포. 직장 내 주입은 1회 2 g, 1일 3회 이내
+  * <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020041700008" title="약학정보원: 푸레파인마일드좌제" data-kpic-body="1">푸레파인 마일드 좌제</a>]</mark> : 1개 중 lidocaine 60 ㎎, tetrahydrozoline hydrochloride 1 ㎎, chlorhexidine hydrochloride 5 ㎎; 만 15세 이상·성인 1회 1개, 1일 3회 이내 직장 내 삽입
+  * <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017071800005" title="약학정보원: 푸레파인연고" data-kpic-body="1">푸레파인 연고</a>]</mark> : 1 g 중 lidocaine 30 ㎎, allantoin 10 ㎎, tetrahydrozoline hydrochloride 0.5 ㎎, chlorhexidine hydrochloride 5 ㎎, L-menthol 5 ㎎; 만 15세 이상·성인 1일 3회 이내 환부 도포. 직장 내 주입은 1회 2 g, 1일 3회 이내
   * 두 제품 모두 스테로이드가 없는 제제임. 심장질환·고혈압·갑상선질환·당뇨병·전립샘비대증으로 인한 배뇨곤란 환자는 사용하지 않음
   * 허가사항상 혈압강하제·항우울약 및 dl-메틸에페드린염산염·스코폴리아엑스·글리시리진산 함유 좌제·연고·크림과 병용하지 않음. 기존 처방약을 임의로 중단하지 말고 다른 증상 조절 방법을 선택함
   * 임부·임신 가능 여성은 사용 전 상담. 자극·알레르기, 출혈 또는 약 7일 사용 후에도 호전이 없으면 중단하고 평가함
@@ -219,22 +219,22 @@ flowchart TD
 * 제안된 기전 : 정맥 긴장도·림프 배액 개선, 모세혈관 투과성 감소 등; 기전이 완전히 확립된 것은 아니며 급성 또는 만성 치핵의 증상 완화에 사용
 * 출혈·가려움·분비물 등 일부 증상의 단기 완화에 도움이 될 수 있으나 제제별 근거가 이질적이며, 통증 개선과 장기 재발 예방 효과는 확실하지 않음 <mark style="color:$info;">[ASCRS 2024]</mark>
 * diosmin : flavonoid 계열의 정맥순환개선제; 치핵 증상의 단기 완화를 위한 보조제로 선택할 수 있으며 구조적 탈출을 교정하지는 않음
-  * diosmin 300 ㎎ : <mark style="color:blue;">\[치센]</mark> 1C bid(점심·저녁 식사 시); 치질의 재발·악화 시 1일 4C\~6C까지 증량 가능
-  * MPFF 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎) : <mark style="color:blue;">\[베니톨]</mark> 급성치질에는 1회 3T bid × 4일 → 1회 2T bid × 3일
+  * diosmin 300 ㎎ : <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017032200005" title="약학정보원: 치센캡슐" data-kpic-body="1">치센</a>]</mark> 1C bid(점심·저녁 식사 시); 치질의 재발·악화 시 1일 4C\~6C까지 증량 가능
+  * MPFF 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎) : <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A2261A0497" title="약학정보원: 베니톨정" data-kpic-body="1">베니톨</a>]</mark> 급성치질에는 1회 3T bid × 4일 → 1회 2T bid × 3일
 * 치센은 수유부에게 투여하지 않으며, 임부는 필요한 경우에만 개별적으로 투여를 고려함. 베니톨은 예방적으로 임신 중 사용을 피하는 것이 바람직하며, 치료가 필요하면 수유 지속 여부와 투약 여부를 이득·위험에 따라 결정함
 
 ### <mark style="color:orange;">진통제</mark>
 
-* acetaminophen <mark style="color:blue;">\[타이레놀]</mark> : 통증 완화의 1차 선택; 복합제 성분 중복·간질환·과음 등 위험을 확인. 발열이 동반되면 농양 등 다른 원인을 평가
+* acetaminophen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021082400002" title="약학정보원: 타이레놀정500mg" data-kpic-body="1">타이레놀</a>]</mark> : 통증 완화의 1차 선택; 복합제 성분 중복·간질환·과음 등 위험을 확인. 발열이 동반되면 농양 등 다른 원인을 평가
   * 출혈 경향이 있는 치핵에서는 NSAIDs보다 acetaminophen이 우선
-* ibuprofen <mark style="color:blue;">\[부루펜]</mark>, dexibuprofen <mark style="color:blue;">\[애니펜]</mark> : 출혈이 없고 금기가 없는 환자에서 필요 시 단기 사용. 활동성 출혈 시 acetaminophen을 우선하며, 애니펜 허가사항상 출혈이 있는 환자는 투여 금기
+* ibuprofen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0131" title="약학정보원: 부루펜정400mg" data-kpic-body="1">부루펜</a>]</mark>, dexibuprofen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2018062100013" title="약학정보원: 애니펜정400mg" data-kpic-body="1">애니펜</a>]</mark> : 출혈이 없고 금기가 없는 환자에서 필요 시 단기 사용. 활동성 출혈 시 acetaminophen을 우선하며, 애니펜 허가사항상 출혈이 있는 환자는 투여 금기
   * 애니펜 400 ㎎ : 성인 1회 400 ㎎, 1일 2\~3회; 최대 1,200 ㎎/일. Ibuprofen과 동시 사용하지 않음
 
 ### <mark style="color:orange;">변비 치료 (동반 시)</mark>
 
-* 1차 선택 : 식이 섬유 보충제 (Bulk-forming laxative) - 변의 부피와 수분을 늘려 배변 시 힘주기를 줄이며 치핵 출혈 감소에 근거가 있음 <mark style="color:blue;">\[무타실], \[아기오]</mark> [(☞ 변비)](082_-constipation.md)
+* 1차 선택 : 식이 섬유 보충제 (Bulk-forming laxative) - 변의 부피와 수분을 늘려 배변 시 힘주기를 줄이며 치핵 출혈 감소에 근거가 있음 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0950A0418" title="약학정보원: 무타실산" data-kpic-body="1">무타실</a>], \[아기오]</mark> [(☞ 변비)](082_-constipation.md)
   * 아기오과립 : 만 15세 이상·성인에서 사용. 차전자 3.9 g + 차전자피 0.13 g/6 g; 성인 1회 1\~2포, 1일 1회 저녁 식후, 물 1\~2컵과 함께 복용
-* Osmotic laxative : magnesium hydroxide <mark style="color:blue;">\[마그밀]</mark> - 변비 동반 시 사용 가능; 성인 1일 1\~2 g을 1\~2회 분할 투여
+* Osmotic laxative : magnesium hydroxide <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1168" title="약학정보원: 마그밀정" data-kpic-body="1">마그밀</a>]</mark> - 변비 동반 시 사용 가능; 성인 1일 1\~2 g을 1\~2회 분할 투여
   * 신장애 환자에서는 고마그네슘혈증 위험 때문에 사용하지 않으며, 다른 경구약의 흡수에 영향을 줄 수 있으므로 제품 허가사항에 따라 복용 간격을 조정
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -304,6 +304,8 @@ K64.9 상세불명의 치핵
 > 아기오과립 6 g/포   1포   qd   저녁 식후   (변비 동반 시)
 > ```
 >
+> 약제 정보: [베니톨정 500㎎](https://www.health.kr/drug/A11A2261A0497) · [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002) · [아기오과립 6g](https://www.health.kr/drug/A11A1310A0185)
+>
 > _✽베니톨은 급성 치핵의 증상 완화를 위한 경구 flavonoid 제제이며, 급성치질 허가 용법은 처음 4일간 1회 3정 bid, 이후 3일간 1회 2정 bid이다._\
 > _✽아기오과립은 차전자·차전자피 제제로 1회 1~2포, 1일 1회 저녁 식후에 물 1~2컵과 함께 복용한다._
 
@@ -315,6 +317,8 @@ K64.9 상세불명의 치핵
 > 타이레놀정500밀리그람 500 ㎎/정   1~2정   tid   prn   (통증 시; 최소 6시간 간격, 하루 최대 3 g)
 > 마그밀정 500 ㎎/정   1정   bid   (변비 조절; 대변 상태에 따라 조절)
 > ```
+>
+> 약제 정보: [치센캡슐 300㎎](https://www.health.kr/drug/2017032200005) · [푸레파인연고](https://www.health.kr/drug/2017071800005) · [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002) · [마그밀정 500㎎](https://www.health.kr/drug/A11ABBBBB1168)
 >
 > _✽푸레파인연고는 만 15세 이상에서 사용하며 고혈압·심장질환·갑상선질환·당뇨병·전립샘비대증에 의한 배뇨곤란이 있으면 제외함. 혈압강하제·항우울약 등 허가상 병용 제한을 확인함._\
 > _✽변비가 주된 악화 인자인 경우 변비 치료 (☞_ [_변비_](082_-constipation.md)_)가 핵심이다. 식이섬유 보충제 또는 필요시 삼투성 하제를 병행한다._\
@@ -329,6 +333,8 @@ K64.9 상세불명의 치핵
 > 치센캡슐 300 ㎎/캡슐   2캡슐   bid   점심·저녁 식사 시   × 7일   (필요 시 보조적 증상 완화 목적)
 > ```
 >
+> 약제 정보: [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002) · [애니펜정 400㎎](https://www.health.kr/drug/2018062100013) · [치센캡슐 300㎎](https://www.health.kr/drug/2017032200005)
+>
 > _✽타이레놀과 애니펜은 이 처방례에서 대안으로 제시한 것이며, 처음부터 두 약을 일률적으로 병용하지 않음._\
 > _✽혈전성 외치핵은 발병 초기이고 통증이 심한 경우 조기 절제를 고려할 수 있다. 72시간은 절대적인 수술 기준이 아니다._\
 > _✽보존적 치료를 선택하면 진통·배변 조절 및 필요 시 좌욕으로 증상을 완화한다. 외부 병변에 직장 좌제를 일률적으로 처방하지 않는다. 수일 내 통증 경과를 확인하고 악화·심한 통증 지속 시 조기 재평가한다. 애니펜은 dexibuprofen이며 출혈이 있는 환자는 사용하지 않는다._
@@ -340,6 +346,8 @@ K64.9 상세불명의 치핵
 > 아기오과립 6 g/포   1포   qd   저녁 식후   (변비 동반 시)
 >    ※ 물 1~2컵과 함께 복용
 > ```
+>
+> 약제 정보: [타이레놀정 500㎎](https://www.health.kr/drug/2021082400002) · [아기오과립 6g](https://www.health.kr/drug/A11A1310A0185)
 >
 > _✽임신 중 치핵은 우선 식이섬유·수분·배변 습관 교정과 증상 조절을 시행하며, 분만 후 호전되는 경우가 많다._\
 > _✽임신 중 경구 venotonic은 일률적으로 처방하지 않는다. 치센은 임부에서 필요한 경우에만 개별적으로 고려하며 수유부는 금기이다. 베니톨은 예방적으로 임신 중 사용을 피하는 것이 바람직하다._\

@@ -199,7 +199,7 @@ flowchart TD
 * 알코올 사용 장애(AUD) 치료 통합 : 행동 치료(동기 강화 면담·인지행동치료 등)와 약물 치료 병행. 금주 유지가 장기 예후의 핵심이며, 관찰연구에서 AUD 약물치료는 간경변 비대상화 위험 감소와 연관됨; 약제별 관찰연구의 OR를 직접 비교하여 우열을 결정하지 않음 <mark style="color:$info;">[ACG 2024]</mark>
   * naltrexone : AUD 치료제. 대상성 간경변증에서도 간기능·신기능과 금기를 먼저 평가함. 레비아는 급성 간염·간부전·중증 간장애, 신장애, 고령자, 18세 미만에서 금기임. 급성 AH·비대상성 간경변증에서는 회피함. 현재 opioid 사용·의존 또는 급성 opioid 금단에서도 사용하지 않음
   * naltrexone 시작 전 opioid(트라마돌 포함) 복용·의존 및 향후 진통 필요성을 확인함. 최소 7~10일간 opioid를 사용하지 않았음을 확인하며, 메타돈·부프레노르핀 사용자는 더 긴 기간이 필요할 수 있어 전문의가 평가함. 차단 효과를 이기려고 opioid를 증량하면 치명적 과량투여가 발생할 수 있음
-  * acamprosate : 간 대사 부담이 적은 금주 유지 약제 <mark style="color:blue;">\[명인아캄프로세이트]</mark>. 국내 허가 적응증은 심리적 상담과 병행하는 **해독 후 금주 유지**이며 해독기간 중에는 사용하지 않음. 해당 품목은 **CrCl ≤30 mL/min, Child-Pugh C 중증 간부전, 임부·임신하고 있을 가능성이 있는 여성·수유부, 소아·고령자(65세 이상), 성분 과민반응**에 금기임. 미국의 CrCl 30 초과∼50 mL/min 감량 기준을 국내 허가 용량으로 표기하지 않음 <mark style="color:$info;">[식약처 품목허가정보, 2026-11-09 확인]</mark>
+  * acamprosate : 간 대사 부담이 적은 금주 유지 약제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019020700075" title="약학정보원: 명인아캄프로세이트정333mg" data-kpic-body="1">명인아캄프로세이트</a>]</mark>. 국내 허가 적응증은 심리적 상담과 병행하는 **해독 후 금주 유지**이며 해독기간 중에는 사용하지 않음. 해당 품목은 **CrCl ≤30 mL/min, Child-Pugh C 중증 간부전, 임부·임신하고 있을 가능성이 있는 여성·수유부, 소아·고령자(65세 이상), 성분 과민반응**에 금기임. 미국의 CrCl 30 초과∼50 mL/min 감량 기준을 국내 허가 용량으로 표기하지 않음 <mark style="color:$info;">[식약처 품목허가정보, 2026-11-09 확인]</mark>
   * disulfiram : FDA 승인이나 간독성 위험으로 **ALD 환자에게는 권장하지 않음**
   * baclofen : 간경변증 환자에서 금주 유지 RCT 근거가 있는 허가 외 AUD 치료 선택지. 신장 배설이므로 신기능 저하 시 축적·진정·신경독성 위험을 평가하고 간성 뇌병증이 있거나 위험이 높으면 특히 신중히 사용. 저용량부터 개별 적정하며 갑자기 중단하지 않음. 2026년 관찰연구에서 acamprosate 대비 간성 뇌병증 위험 증가와 연관되었으나, 무작위 비교 근거는 아니므로 약제 선택은 개별화 <mark style="color:$info;">[ACG 2024; Yeo 2026]</mark>
   * gabapentin : 허가 외 대안으로 선택적으로 고려; 신기능에 따른 감량과 진정·간성 뇌병증 위험을 평가
@@ -257,9 +257,9 @@ flowchart TD
 
 <table><thead><tr><th width="402.42108154296875">임상 상황</th><th align="center">Prednisolone</th></tr></thead><tbody><tr><td>Severe AH (MELD ＞20) + steroid 금기 없음</td><td align="center">✅ 고려/권장</td></tr><tr><td>감염 치료 완료 후 안정화</td><td align="center">⚠️ 신중 가능</td></tr><tr><td>조절되지 않는 패혈증</td><td align="center">❌ 보류</td></tr><tr><td>활동성 GI 출혈</td><td align="center">❌ 지혈 후 재평가</td></tr><tr><td>중증 AKI / HRS-AKI</td><td align="center">⚠️ 보류 후 원인 치료·재평가</td></tr><tr><td>MELD 25\~39</td><td align="center">✅ 최대 이득</td></tr><tr><td>MELD ＞50</td><td align="center">⚠️ 이득 제한적; 위험·이득을 신중히 평가</td></tr><tr><td>Lille ≤0.45 (7일 반응)</td><td align="center">✅ 4주 유지</td></tr><tr><td>Lille ＞0.45 (비반응)</td><td align="center">❌ 중단, 간이식 평가</td></tr></tbody></table>
 
-* prednisolone : 40 ㎎/d po × 4주 <mark style="color:blue;">\[소론도]</mark>\
+* prednisolone : 40 ㎎/d po × 4주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4290B0015" title="약학정보원: 소론도정" data-kpic-body="1">소론도</a>]</mark>\
   ✽ 위 용법은 전통적인 고정용량 치료이며, Day 4 또는 7 비반응 시 조기 중단. **4주 치료를 마친 뒤** 중단·감량 방식의 우열을 확정할 근거는 제한적이므로 노출 기간·부신억제 위험·기관 프로토콜에 따라 결정
-* methylprednisolone : 32 ㎎/d IV (경구 불가 시; 반응에 따라 최대 4주) <mark style="color:blue;">\[솔루메드롤주]</mark> 등 주사제 사용
+* methylprednisolone : 32 ㎎/d IV (경구 불가 시; 반응에 따라 최대 4주) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3770A0039" title="약학정보원: 솔루메드롤주125mg" data-kpic-body="1">솔루메드롤주</a>]</mark> 등 주사제 사용
 * 반응 평가 : **Day 4 또는 Day 7 Lille score** 계산 → Lille ＞0.45 시 지속 이득 가능성이 낮아 **steroid 중단 권고**
   * 비반응 환자는 감염 및 AKI 발생 위험이 특히 높음 - 조기 완화 치료 및 간이식 평가 병행
 
@@ -392,6 +392,8 @@ K70.9 상세불명의 알코올성 간질환
 > ※ 감염·AKI·위장관 출혈 등 steroid 관련 위험을 투여 중 면밀히 감시
 > ※ 반응 환자의 치료 중 감량요법은 STASH 근거와 기관 프로토콜에 따라 별도 결정
 > ```
+>
+> 약제 정보: [소론도정 5㎎](https://www.health.kr/drug/A11A4290B0015)
 >
 > _✽중증 AH에서는 감염을 평가하고, 활동성 감염·중증 AKI·활동성 위장관 출혈 등 주요 금기가 없을 때 prednisolone을 고려함. 비반응 환자는 조기 간이식 평가와 완화 치료 가능성을 함께 검토함._
 

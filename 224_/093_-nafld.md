@@ -327,7 +327,7 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
 #### <mark style="color:$primary;">Pioglitazone (TZD 계열)</mark>
 
 * T2DM 동반 MASH에서 간 조직 소견 개선 근거가 있으며, 비당뇨 MASH에서도 연구되었으나 현재 일반적인 MASH 치료의 1차 약제로 일률적으로 권고하지 않음
-* MASH 임상연구 용량 : 30∼45 ㎎/d. 국내 T2DM 처방은 <mark style="color:blue;">\[액토스]</mark> 등 제품별 허가 용량에 따라 시작·증량하며, 연구 용량을 그대로 적용하지 않음
+* MASH 임상연구 용량 : 30∼45 ㎎/d. 국내 T2DM 처방은 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ALLLLL0141" title="약학정보원: 액토스정15mg" data-kpic-body="1">액토스</a>]</mark> 등 제품별 허가 용량에 따라 시작·증량하며, 연구 용량을 그대로 적용하지 않음
 * 주의사항 : 체중 증가·부종·심부전 악화 위험; 국내 제품의 심부전·심부전 병력 금기를 적용하고, 활동성 방광암·방광암 병력 또는 원인 미확인 육안적 혈뇨에서는 사용하지 않음; 골다공증 위험이 높은 고령 여성에서 골절 위험 증가 - 골밀도 평가 병행 고려
 * 시작 전 간기능·부종·심부전 병력 확인. 국내 액토스 허가사항의 간장애·중증 신장애 금기를 적용하며, 활동성 간질환 또는 ALT 정상 상한의 2.5배 이상에서는 시작하지 않음. MASH 연구 대상과 국내 품목 금기를 구분함
 * T2DM 동반 시 혈당강하 치료와 함께 선택적으로 고려; 체중 증가·부종·심부전·골절 위험을 환자별로 평가
@@ -335,7 +335,7 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
 #### <mark style="color:$primary;">Metformin</mark>
 
 * MASH의 유의한 조직학적 개선 근거가 없어 MASH 치료제로 권고하지 않음
-* 단, T2DM 동반 시 혈당 조절 목적으로 병용 가능 <mark style="color:blue;">\[글루코파지]</mark>
+* 단, T2DM 동반 시 혈당 조절 목적으로 병용 가능 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO3089" title="약학정보원: 글루코파지정500mg" data-kpic-body="1">글루코파지</a>]</mark>
 
 ### <mark style="color:orange;">GLP-1 수용체 작용제 (GLP-1 RA)</mark>
 
@@ -344,8 +344,8 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
 * T2DM 또는 비만 동반 MASLD에서는 해당 대사 적응증에 따라 고려; MASH 치료는 별도의 허가 적응증과 용량을 확인
 * NASH 2상 (NEJM 2021) : semaglutide 0.4 ㎎/일에서 MASH resolution without worsening fibrosis 59% vs 위약 17%; 섬유화 개선은 통계적으로 유의하지 않았음
 * ESSENCE 3상 중간분석(72주, semaglutide 2.4 ㎎/주) : MASH resolution without worsening fibrosis 63% vs 위약 34%; fibrosis improvement without worsening MASH 37% vs 22%. 간 관련 임상사건 감소는 240주 추적 중
-* 미국 Wegovy(2025년 가속 승인)와 EU Kayshild(2026년 3월 조건부 허가)는 비간경화 MASH F2∼F3에 semaglutide 2.4 ㎎/주를 사용. 국내 제품의 대사 적응증과 해외 MASH 적응증·용량을 구분하며, 오젬픽의 T2DM 용량을 MASH 승인 용량과 동일시하지 않음 <mark style="color:$info;">[FDA Wegovy; EMA Kayshild]</mark>
-* 투여 : 주 1회 피하주사 0.25 ㎎으로 시작하여 통상 4주 간격으로 0.5 → 1.0 → 1.7 → 2.4 ㎎으로 증량; 내약성에 따라 증량 지연. 국내 비만 치료 시에는 <mark style="color:blue;">[위고비]</mark> 허가 BMI 기준(성인 ≥30, 또는 ≥27이면서 체중 관련 동반질환 ≥1개)을 적용하며 MASLD의 BMI ≥23 진단 기준과 혼동하지 않음
+* 미국 Wegovy(2025년 가속 승인)와 EU Kayshild(2026년 3월 조건부 허가)는 비간경화 MASH F2∼F3에 semaglutide 2.4 ㎎/주를 사용. 국내 제품의 대사 적응증과 해외 MASH 적응증·용량을 구분하며, <a href="https://www.health.kr/drug/2022042900013" title="약학정보원: 오젬픽프리필드펜(1.5mL)" data-kpic-body="1">오젬픽</a>의 T2DM 용량을 MASH 승인 용량과 동일시하지 않음 <mark style="color:$info;">[FDA Wegovy; EMA Kayshild]</mark>
+* 투여 : 주 1회 피하주사 0.25 ㎎으로 시작하여 통상 4주 간격으로 0.5 → 1.0 → 1.7 → 2.4 ㎎으로 증량; 내약성에 따라 증량 지연. 국내 비만 치료 시에는 <mark style="color:blue;">[<a href="https://www.health.kr/drug/2023042800003" title="약학정보원: 위고비프리필드펜2.4mg" data-kpic-body="1">위고비</a>]</mark> 허가 BMI 기준(성인 ≥30, 또는 ≥27이면서 체중 관련 동반질환 ≥1개)을 적용하며 MASLD의 BMI ≥23 진단 기준과 혼동하지 않음
 * 임부·수유부에게 사용하지 않으며 임신 계획 최소 2개월 전에 중단. 다른 semaglutide 제품·GLP-1 RA와 중복 투여하지 않음 <mark style="color:$info;">[국내 위고비 허가사항]</mark>
 * 경구 semaglutide는 MASH 치료제로 정립되지 않았으며, MASH 승인 용량·제형과 구분해야 함
 * AASLD 2025 업데이트 : 비간경화 F2∼F3 환자 선별에 NIT를 활용할 수 있으며 대부분의 환자에서 간생검이 필수는 아님. VCTE 8∼15 kPa 등 치료 대상 선별 범위는 일반 섬유화 선별검사의 저·고위험 컷오프와 구분하고, 간경변증 가능성을 먼저 평가 <mark style="color:$info;">[AASLD Semaglutide 2025]</mark>
@@ -355,7 +355,7 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
 
 * SYNERGY-NASH 2상(2024) : 52주 시점 MASH resolution without worsening fibrosis가 5 ㎎ 44%, 10 ㎎ 56%, 15 ㎎ 62% vs 위약 10%; fibrosis improvement without worsening MASH는 각각 55%, 51%, 51% vs 위약 30%
 * Tirzepatide는 아직 MASH 적응증이 승인되지 않았으며, 비만·T2DM 치료와 체중감량에 따른 간 개선 효과를 구분하여 설명
-* 국내 <mark style="color:blue;">\[마운자로]</mark> : T2DM뿐 아니라 허가 기준을 충족하는 비만·과체중 성인의 만성 체중관리에도 사용. <mark style="color:blue;">\[젭바운드]</mark>는 미국의 체중관리 상품명이며 국내 상품명 구분과 혼용하지 않음. MASH 적응증은 미승인 <mark style="color:$info;">[한국릴리 품목정보]</mark>
+* 국내 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023062900005" title="약학정보원: 마운자로프리필드펜주2.5mg/0.5mL" data-kpic-body="1">마운자로</a>]</mark> : T2DM뿐 아니라 허가 기준을 충족하는 비만·과체중 성인의 만성 체중관리에도 사용. <mark style="color:blue;">\[젭바운드]</mark>는 미국의 체중관리 상품명이며 국내 상품명 구분과 혼용하지 않음. MASH 적응증은 미승인 <mark style="color:$info;">[한국릴리 품목정보]</mark>
 
 {% hint style="info" %}
 GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량·간 조직 개선을 동시에 기대할 수 있어 가장 유망한 약제군으로 부상
@@ -447,6 +447,8 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 > 액토스정15밀리그램 (pioglitazone 15 ㎎/정)  1정  qd  식사와 무관 (필요 시 30 ㎎/일까지 증량)
 > ```
 >
+> 약제 정보: [액토스정 15㎎](https://www.health.kr/drug/A11ALLLLL0141)
+>
 > _✽T2DM의 혈당 조절을 위한 선택 예이며, MASH 개선만을 목적으로 한 사용은 허가 외임. 심부전·심부전 병력, 방광암·방광암 병력, 조사되지 않은 육안적 혈뇨, 간장애·중증 신장애에서는 사용하지 않음. 시작 전 간기능과 임상 상태를 평가하며 활동성 간질환 또는 ALT ≥2.5×ULN이면 시작하지 않음. 부종·체중 증가에 주의. **골다공증 위험이 높은 고령 여성에서는 골절 위험 증가 - 신중 사용 및 골밀도 평가 고려.** 시작·증량 후 체중·부종·호흡곤란을 조기에 확인하며 간기능은 임상 상황에 따라 추적함._
 
 > **처방례 3. MASLD + T2DM + 비만 - Semaglutide 기반**
@@ -456,6 +458,8 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 > → 0.5 ㎎ 주 1회; 최소 4주 후 필요 시 1 ㎎ 주 1회 (확인한 제품의 최대 권장량 1 ㎎/주)
 > ```
 >
+> 약제 정보: [오젬픽프리필드펜 1.5㎖](https://www.health.kr/drug/2022042900013) · [오젬픽프리필드펜 3㎖](https://www.health.kr/drug/2026012800015)
+>
 > _✽0.25 ㎎은 시작 용량이며 장기 유지 용량이 아님. 인슐린·설포닐우레아 병용 시 저혈당을 확인하고 필요 시 해당 병용약을 감량함. 오젬픽은 T2DM 치료 용량으로 사용하며 이 처방을 MASH 승인 용량과 동일시하지 않는다. 미국 Wegovy는 비간경화 MASH F2∼F3에 2.4 ㎎/주로 승인되었고, ESSENCE 72주 중간분석에서 MASH 소실 63%, 섬유화 개선 37%를 보였다. 국내 대사 적응증 및 급여 범위와 해외 MASH 적응증을 구분한다._
 
 > **처방례 4. MASLD + 이상지질혈증 - CVD 위험 감소**
@@ -463,6 +467,8 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 > ```
 > 크레스토정10밀리그램 (rosuvastatin 10 ㎎/정)  1정  qd  (유지용량 예)
 > ```
+>
+> 약제 정보: [크레스토정 10㎎](https://www.health.kr/drug/A11AOOOOO2172)
 >
 > _✽확인한 크레스토 제품의 초회용량은 5 ㎎ qd이며, 위 10 ㎎은 LDL-C 목표·반응에 따라 조절한 유지용량 예임. 활동성 간질환 또는 원인 불명 간효소가 지속적으로 ＞3×ULN인 경우, 중증 신장애 등 금기를 배제함. MASLD에서 이상지질혈증 및 ASCVD 위험 감소 목적으로 statin을 사용할 수 있다. 지방간 자체는 statin의 금기가 아니다. 저녁 복용이 필수는 아니며 매일 일정한 시간에 복용한다. 근육통·근력저하·진한 소변 또는 간손상 증상이 있으면 평가한다._
 

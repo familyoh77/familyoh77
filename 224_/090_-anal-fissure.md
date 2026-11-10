@@ -187,7 +187,7 @@ flowchart TD
 * 효과 : CCB와 대체로 유사한 치유 효과
 * 부작용 : 두통이 흔하며, 이로 인해 치료 중단이 증가할 수 있음
 * 주의 : 저혈압·어지럼이 나타날 수 있으므로 고령자나 혈압강하제 병용 환자에서 주의. 소량을 자주 사용하는 것이 더 효과적이라는 근거는 부족하므로 허가된 용법을 따름.
-* **중요 상호작용/금기** : sildenafil, tadalafil, vardenafil, avanafil, udenafil, mirodenafil 등 PDE5 억제제와 병용 금기. 다른 질산염 제제와 병용하지 않으며, riociguat 등 soluble guanylate cyclase stimulator, ergotamine(카페인 복합제 포함)·dihydroergotamine과도 병용하지 않음. 국내 파사렉트연고 허가사항상 심한 빈혈, 저혈압, 높은 뇌압, 녹내장, 임부·수유부·소아 등은 사용하지 않음. 니트로글리세린 또는 첨가제 과민반응 병력도 금기임. 음주는 저혈압·실신 위험을 높이므로 피함.
+* **중요 상호작용/금기** : sildenafil, tadalafil, vardenafil, avanafil, udenafil, mirodenafil 등 PDE5 억제제와 병용 금기. 다른 질산염 제제와 병용하지 않으며, riociguat 등 soluble guanylate cyclase stimulator, ergotamine(카페인 복합제 포함)·dihydroergotamine과도 병용하지 않음. 국내 <a href="https://www.health.kr/drug/2009092300117" title="약학정보원: 파사렉트연고" data-kpic-body="1">파사렉트연고</a> 허가사항상 심한 빈혈, 저혈압, 높은 뇌압, 녹내장, 임부·수유부·소아 등은 사용하지 않음. 니트로글리세린 또는 첨가제 과민반응 병력도 금기임. 음주는 저혈압·실신 위험을 높이므로 피함.
 
 **용법**
 
@@ -196,7 +196,7 @@ flowchart TD
 #### <mark style="color:$primary;">국소 마취제</mark>
 
 * lidocaine 함유 연고 : 통증 완화를 위한 단기간의 증상 치료로 사용; 열창 자체의 치유를 촉진하는 치료는 아님
-* <mark style="color:blue;">[푸레파인마일드연고]</mark> : lidocaine 30 ㎎/g + allantoin 10 ㎎/g + chlorhexidine hydrochloride 5 ㎎/g + tetrahydrozoline hydrochloride 0.5 ㎎/g의 복합제. 치열·치핵 증상의 일시적 완화 및 소독에 사용하며 **혈관수축제 tetrahydrozoline을 포함**하므로 lidocaine 단일제와 구분
+* <mark style="color:blue;">[<a href="https://www.health.kr/drug/2020041000013" title="약학정보원: 푸레파인마일드연고" data-kpic-body="1">푸레파인마일드연고</a>]</mark> : lidocaine 30 ㎎/g + allantoin 10 ㎎/g + chlorhexidine hydrochloride 5 ㎎/g + tetrahydrozoline hydrochloride 0.5 ㎎/g의 복합제. 치열·치핵 증상의 일시적 완화 및 소독에 사용하며 **혈관수축제 tetrahydrozoline을 포함**하므로 lidocaine 단일제와 구분
   * 만 15세 이상 : 환부 도포는 1일 3회 이내; 직장 내 주입은 1회 2 g, 1일 3회 이내. 통증이 심하면 억지로 주입하지 않음
   * 심장질환·고혈압·갑상선질환·당뇨병·전립샘비대증에 의한 배뇨곤란 환자는 사용하지 않음
   * 허가사항상 혈압강하제·항우울약 및 특정 다른 치질 국소제와 병용하지 않음. CCB 등 다른 약을 함께 처방할 때도 성분·용도·상호작용을 확인하며 일률적으로 병용하지 않음
@@ -206,7 +206,7 @@ flowchart TD
 #### <mark style="color:$primary;">전신 진통제</mark>
 
 * acetaminophen 또는 NSAIDs 경구 : 급성 통증 시 단기 사용 [(☞ 통증)](../220_/001_-pain.md)
-  * 활동성 항문 출혈이 있으면 acetaminophen을 우선 고려. NSAID는 출혈·위궤양·신기능 저하 등 금기·위험을 확인하며, 출혈 환자 투여가 금기인 제품(예: dexibuprofen [애니펜])은 사용하지 않음
+  * 활동성 항문 출혈이 있으면 acetaminophen을 우선 고려. NSAID는 출혈·위궤양·신기능 저하 등 금기·위험을 확인하며, 출혈 환자 투여가 금기인 제품(예: dexibuprofen [<a href="https://www.health.kr/drug/2018062100013" title="약학정보원: 애니펜정400mg" data-kpic-body="1">애니펜</a>])은 사용하지 않음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -258,6 +258,8 @@ K60.2 상세불명의 항문열창 — Anal fissure, unspecified
 > 푸레파인마일드연고   적량   통증 시 환부 도포, 1일 3회 이내·단기간 (비급여)
 > ```
 >
+> 약제 정보: [마그밀에스정 250㎎](https://www.health.kr/drug/2014072100012) · [푸레파인마일드연고](https://www.health.kr/drug/2020041000013)
+>
 > _✽ 대변이 단단한 경우 식이섬유를 점진적으로 늘리고, 수분 제한이 없다면 충분히 섭취하도록 지도함. 좌욕은 증상 완화를 위해 필요에 따라 시행함. 마그밀에스는 산화마그네슘 250 ㎎/정이며 수산화마그네슘 500 ㎎/정인 마그밀과 구분함. 변비 허가 용법은 1일 2 g을 1~2회 분복하되 초회 최소량부터 적정함; 위 예시는 1일 1 g으로 시작한 예임. 대변 상태에 따라 용량을 조절하며 묽은 변이 생기면 감량 또는 중단함. 증상완화제를 약 7일 사용해도 호전이 없으면 재평가하고, 보존적 치료 약 4주 후에도 미호전이면 국소 CCB 등 치료를 고려함._
 >
 > _⚠️ 산화마그네슘 : 신장애·설사 환자에게 사용하지 않음. 고령자·장기 복용 시 고마그네슘혈증 위험에 주의_
@@ -271,6 +273,8 @@ K60.2 상세불명의 항문열창 — Anal fissure, unspecified
 > Nifedipine 0.2% ointment (조제·허가 외 사용)   소량   tid, 항문 주위 또는 항문관 내 도포
 > ```
 >
+> 약제 정보: [마그밀에스정 250㎎](https://www.health.kr/drug/2014072100012)
+>
 > _✽ CCB는 NTG와 치유 효과가 대체로 유사하면서 두통 등 부작용이 적어 1차 국소 치료제로 선호됨. 도포 위치와 횟수는 조제 약사의 지시와 처방에 따름. 통증 때문에 삽입이 어렵다면 억지로 깊게 넣지 않음. 6~8주 후 치유 여부를 평가하되 이상반응·통증 악화 시 조기 재평가함. 통증 완화를 위한 국소제를 추가할 때는 복합제의 혈관수축제·금기·병용약을 확인하며 푸레파인마일드를 일률적으로 병용하지 않음._
 >
 > _⚠️ 산화마그네슘 : 묽은 변이 생기면 용량을 감량하거나 중단함. 신장애·설사 환자에게 사용하지 않음. 고령자는 고마그네슘혈증 위험에 주의_
@@ -281,6 +285,8 @@ K60.2 상세불명의 항문열창 — Anal fissure, unspecified
 > 마그밀에스정 250 ㎎/정   2정   bid (변비 동반 시 초회 감량 예; 대변 상태에 따라 조절)
 > 파사렉트연고 0.2% (니트로글리세린 2 ㎎/g), 30 g/튜브   1~1.5 cm   tid, 항문 내 최소 1 cm 깊이 도포 (비급여)
 > ```
+>
+> 약제 정보: [마그밀에스정 250㎎](https://www.health.kr/drug/2014072100012) · [파사렉트연고 0.2%](https://www.health.kr/drug/2009092300117)
 >
 > _✽ 파사렉트는 성인 1일 3회, 1~1.5 cm를 항문 내 최소 1 cm 깊이로 사용하는 국내 허가사항에 따름. PDE5 억제제(sildenafil, tadalafil 등), 다른 질산염 제제, riociguat 또는 ergotamine·dihydroergotamine을 사용하는 환자에게는 사용하지 않음. 저혈압·심한 빈혈·높은 뇌압·녹내장 환자 및 임부·수유부·소아도 국내 허가사항상 사용하지 않음. 두통·무력감·현기증이 나타날 수 있으며, 증상이 심하면 중단하고 상담함. CCB 또는 NTG를 적절히 사용한 뒤에도 치유되지 않으면 보툴리눔 독소 또는 수술 치료를 위해 대장항문외과에 의뢰함._
 >

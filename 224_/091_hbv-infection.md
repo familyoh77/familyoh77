@@ -228,10 +228,10 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 실제 검사실 UL
 
 **High genetic barrier (1차 치료제)**
 
-* 아래 용량은 성인 기준이며 소아에게 일률적으로 적용하지 않음. 베믈리디 국내 허가는 성인 및 6세 이상·체중 ≥25 kg 소아이며, 소아 급여 범위는 허가와 별개임
+* 아래 용량은 성인 기준이며 소아에게 일률적으로 적용하지 않음. <a href="https://www.health.kr/drug/2017051700029" title="약학정보원: 베믈리디정" data-kpic-body="1">베믈리디</a> 국내 허가는 성인 및 6세 이상·체중 ≥25 kg 소아이며, 소아 급여 범위는 허가와 별개임
 * Tenofovir AF (TAF), Tenofovir DF (TDF), Entecavir (ETV), Besifovir (BSV)는 높은 유전자 장벽을 가지며 2026 대한간학회에서 만성 B형간염 초치료 약제로 권고함.
 
-<table><thead><tr><th width="120">성분명</th><th width="130">용량</th><th width="170">주요 특징</th><th>복용·모니터링</th></tr></thead><tbody><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>신장·골 안전성이 TDF보다 우수</td><td>식사와 관계없이 복용 가능; 정기적 신기능 모니터링</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>강력한 바이러스 억제; 임신 관련 자료 풍부</td><td>식사와 관계없이 복용 가능; 신기능·혈중 P 모니터링; 골밀도는 위험에 따라 평가</td></tr><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd¹⁾</td><td>신장·골 안전성 우수</td><td>공복 복용; 신기능에 따라 용량 조절</td></tr><tr><td>Besifovir (BSV)<br><mark style="color:blue;">[베시보]</mark></td><td>150 ㎎ qd</td><td>신장·골 안전성 유리</td><td>L-carnitine 660 ㎎ qd 병용; 식사와 관계없이 복용 가능</td></tr></tbody></table>
+<table><thead><tr><th width="120">성분명</th><th width="130">용량</th><th width="170">주요 특징</th><th>복용·모니터링</th></tr></thead><tbody><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>신장·골 안전성이 TDF보다 우수</td><td>식사와 관계없이 복용 가능; 정기적 신기능 모니터링</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2010062500026" title="약학정보원: 비리어드정" data-kpic-body="1">비리어드</a>]</mark></td><td>300 ㎎ qd</td><td>강력한 바이러스 억제; 임신 관련 자료 풍부</td><td>식사와 관계없이 복용 가능; 신기능·혈중 P 모니터링; 골밀도는 위험에 따라 평가</td></tr><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11APPPPP0403" title="약학정보원: 바라크루드정0.5mg" data-kpic-body="1">바라크루드</a>]</mark></td><td>0.5 ㎎ qd¹⁾</td><td>신장·골 안전성 우수</td><td>공복 복용; 신기능에 따라 용량 조절</td></tr><tr><td>Besifovir (BSV)<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2017051600001" title="약학정보원: 베시보정" data-kpic-body="1">베시보</a>]</mark></td><td>150 ㎎ qd</td><td>신장·골 안전성 유리</td><td>L-carnitine 660 ㎎ qd 병용; 식사와 관계없이 복용 가능</td></tr></tbody></table>
 
 _¹⁾ 비대상성 간질환의 ETV 성인 권장 용량은 신기능 정상 시 1 ㎎ qd. 과거 LAM·ADV·TBV 노출 환자는 ETV보다 TAF/TDF를 우선 선택하며, 신장애에서는 투여량 또는 간격을 조절_
 
@@ -567,6 +567,8 @@ flowchart TD
 > 바라크루드정0.5밀리그램 0.5 ㎎/정  1정  qd  (공복 복용)
 > ```
 >
+> 약제 정보: [바라크루드정 0.5㎎](https://www.health.kr/drug/A11APPPPP0403)
+>
 > _✽ 신기능 정상이고 과거 lamivudine·adefovir·telbivudine 노출이 없는 초치료 환자에서 선택할 수 있음. 식사와 관계없이 복용할 수 있는 TAF/TDF/BSV와 달리 ETV는 공복 복용이 필요하다._
 
 > **처방례 3. 만성 B형간염 - 항바이러스 치료 (TAF; 신장·골 위험)**
@@ -574,6 +576,8 @@ flowchart TD
 > ```
 > 베믈리디정 25 ㎎/정  1정  qd  (식사와 관계없이)
 > ```
+>
+> 약제 정보: [베믈리디정 25㎎](https://www.health.kr/drug/2017051700029)
 >
 > _✽ 신장애 또는 골대사질환이 있거나 발생 위험이 높은 경우 TAF를 우선 선택할 수 있음. TDF에 비해 신장·골 안전성이 우수하다._
 
@@ -587,6 +591,8 @@ flowchart TD
 > 비리어드정 300 ㎎/정  1정  qd  (임신 24~32주부터 출산 후 2~12주까지)
 > ```
 >
+> 약제 정보: [비리어드정 300㎎](https://www.health.kr/drug/2010062500026)
+>
 > _✽ TDF 또는 TAF를 1차 약제로 권고함. 수직감염 예방 목적으로만 투여한 경우 출산 후 중단할 수 있으나, 중단 후 간기능과 HBV DNA를 면밀히 추적함. 신생아는 출생 후 12시간 이내 HBIG와 백신을 서로 다른 부위에 투여함. 산모의 약 복용이 신생아 예방처치를 대체하지 않음._
 
 > **처방례 6. 면역억제제(rituximab 등) 투여 전 HBV 재활성화 예방**
@@ -594,6 +600,8 @@ flowchart TD
 > ```
 > 바라크루드정0.5밀리그램 0.5 ㎎/정  1정  qd  (공복 복용)
 > ```
+>
+> 약제 정보: [바라크루드정 0.5㎎](https://www.health.kr/drug/A11APPPPP0403)
 >
 > _✽ Rituximab 등 고위험 치료 예정인 HBsAg 양성 또는 HBsAg 음성/anti-HBc 양성 환자의 예방투여 예임. 정상 신기능·이전 LAM/ADV/TBV 노출이 없는 경우의 ETV 용량이며, 비대상성 간질환·기존 내성은 별도 평가함. 면역억제 치료 전 또는 동시에 시작함. TAF, TDF, ETV 중 환자의 HBV DNA, 신기능 및 골대사 위험을 고려하여 선택함. Rituximab 등 B-cell depleting agents 사용 시 면역억제 종료 후 최소 12개월까지 유지하고, 종료 후에도 최소 12개월간 HBV DNA를 추적함._
 

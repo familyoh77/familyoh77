@@ -227,7 +227,7 @@ flowchart TD
 
 대한간학회 2025 지침에서 사용하는 주요 범유전자형 DAA는 다음과 같음. 아래는 성인 용량이며, SOF/VEL/VOX는 주로 DAA 치료 실패 후 재치료에 사용함. 과거의 유전자형별 요법은 현재 1차 표준 치료에서 우선하지 않음
 
-<table data-header-hidden><thead><tr><th width="391">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>Sofosbuvir/velpatasvir (SOF/VEL) <mark style="color:blue;">[엡클루사]</mark></td><td>400/100 ㎎ 1정 qd, 식사 무관</td></tr><tr><td>Glecaprevir/pibrentasvir (G/P) <mark style="color:blue;">[마비렛]</mark></td><td>100/40 ㎎ 3정 qd, 반드시 식사와 함께</td></tr><tr><td>Sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) <mark style="color:blue;">[보세비]</mark></td><td>400/100/100 ㎎ 1정 qd, 식사와 함께</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="391">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>Sofosbuvir/velpatasvir (SOF/VEL) <mark style="color:blue;">[<a href="https://www.health.kr/drug/2022022300012" title="약학정보원: 엡클루사정" data-kpic-body="1">엡클루사</a>]</mark></td><td>400/100 ㎎ 1정 qd, 식사 무관</td></tr><tr><td>Glecaprevir/pibrentasvir (G/P) <mark style="color:blue;">[<a href="https://www.health.kr/drug/2018012200011" title="약학정보원: 마비렛정" data-kpic-body="1">마비렛</a>]</mark></td><td>100/40 ㎎ 3정 qd, 반드시 식사와 함께</td></tr><tr><td>Sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) <mark style="color:blue;">[<a href="https://www.health.kr/drug/2022032400004" title="약학정보원: 보세비정" data-kpic-body="1">보세비</a>]</mark></td><td>400/100/100 ㎎ 1정 qd, 식사와 함께</td></tr></tbody></table>
 
 * SOF/VEL : NS5B 중합효소 억제제 sofosbuvir + NS5A 억제제 velpatasvir
 * G/P : NS3/4A protease inhibitor glecaprevir + NS5A inhibitor pibrentasvir
@@ -402,6 +402,8 @@ B18.2 만성 바이러스C형간염 Chronic viral hepatitis C
 > ※ 이전 HCV 치료력, HBsAg 양성 HBV 동반감염, 임신, HCC, 간이식 후 등은 단순화 치료 대상이 아니므로 개별 평가
 > ```
 >
+> 약제 정보: [마비렛정 100/40㎎](https://www.health.kr/drug/2018012200011)
+>
 > _✽비경변성 및 대상성 간경변증의 초치료에서 유전자형에 관계없이 사용할 수 있는 표준 pangenotypic 요법. SVR 달성률은 대부분 95% 이상._
 
 > **처방례 2.** 비경변성·초치료·대안 요법 (SOF/VEL)
@@ -411,6 +413,8 @@ B18.2 만성 바이러스C형간염 Chronic viral hepatitis C
 > ※ 위산억제제 병용 시 약물상호작용 확인
 > ※ 대상성 간경변증에서 SOF/VEL 선택 시 유전자형 확인; GT3은 Y93H 평가 후 요법 결정(AASLD/IDSA 단순화 전략)
 > ```
+>
+> 약제 정보: [엡클루사정 400/100㎎](https://www.health.kr/drug/2022022300012)
 >
 > _✽비경변성 및 대상성 간경변증의 초치료에서 사용할 수 있는 pangenotypic 요법._
 
@@ -425,6 +429,8 @@ B18.2 만성 바이러스C형간염 Chronic viral hepatitis C
 > ※ PI 함유 약제(마비렛·보세비 등) 사용하지 않음
 > ※ 반드시 소화기내과 전문의/간이식 기관과 협진
 > ```
+>
+> 약제 정보: [엡클루사정 400/100㎎](https://www.health.kr/drug/2022022300012) · [바이라미드캡슐 200㎎](https://www.health.kr/drug/A11APPPPP0888)
 >
 > _✽HCV RNA 양성 비대상성 간경변증(Child-Pugh B/C)은 전문의 또는 간이식 기관에 의뢰한다. MELD 점수와 간이식 가능성을 함께 평가함_
 
