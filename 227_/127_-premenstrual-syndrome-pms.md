@@ -51,21 +51,21 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 현재 자살 의도·구체적 계획·수단 접근, 최근 자살 시도 또는 안전 확보 불가  <mark style="color:$danger;">[응급]</mark>
-* 급성 정신병적 증상 또는 조증과 자해·타해 위험, 심각한 행동 장애 동반  <mark style="color:$danger;">[응급]</mark>
-* 심한 출혈과 실신·저혈압, 갑작스러운 심한 골반통 또는 임신 가능성과 골반통·출혈 동반(자궁외임신 등 감별)  <mark style="color:$danger;">[응급]</mark>
+* 현재 자살 의도·구체적 계획·수단 접근, 최근 자살 시도 또는 안전 확보 불가  <mark style="color:$danger;">[즉각 조치]</mark>
+* 급성 정신병적 증상 또는 조증과 자해·타해 위험, 심각한 행동 장애 동반  <mark style="color:$danger;">[즉각 조치]</mark>
+* 심한 출혈과 실신·저혈압, 갑작스러운 심한 골반통 또는 임신 가능성과 골반통·출혈 동반(자궁외임신 등 감별)  <mark style="color:$danger;">[즉각 조치]</mark>
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 새로 생겼거나 악화된 자살·자해 생각: 임박한 위험이 확인되지 않아도 **당일** 안전성 평가  <mark style="color:$warning;">[당일]</mark>
-* 심하거나 빠르게 악화되는 정신 증상·기능 장애, 새로 발생한 조증·경조증 의심 증상  <mark style="color:$warning;">[당일]</mark>
-* 비정상 자궁 출혈 또는 반복되는 골반통·성교통: 중증도와 임신 가능성에 따라 평가 시기 결정  <mark style="color:$warning;">[당일~수일]</mark>
+* 새로 생겼거나 악화된 자살·자해 생각: 임박한 위험이 확인되지 않아도 **당일** 안전성 평가  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
+* 심하거나 빠르게 악화되는 정신 증상·기능 장애, 새로 발생한 조증·경조증 의심 증상  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
+* 비정상 자궁 출혈 또는 반복되는 골반통·성교통: 중증도와 임신 가능성에 따라 평가 시기 결정  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 월경 전 외에도 지속되거나 월경 후 충분히 완화되지 않는 증상(PME·원발 질환 가능성)  <mark style="color:$info;">[감별]</mark>
-* 월경 전으로만 설명하기 어려운 체중 변화·유즙 분비·월경불순 등 새로운 전신 또는 내분비 증상  <mark style="color:$info;">[감별]</mark>
-* 초기 치료 후 지속되는 기능 장애 또는 약물 부작용: 1\~2주기 내 반응을 평가하고 악화 시 앞당겨 진료  <mark style="color:$info;">[추적]</mark>
+* 월경 전 외에도 지속되거나 월경 후 충분히 완화되지 않는 증상(PME·원발 질환 가능성)  <mark style="color:$info;">[조기 평가 및 추적]</mark>
+* 월경 전으로만 설명하기 어려운 체중 변화·유즙 분비·월경불순 등 새로운 전신 또는 내분비 증상  <mark style="color:$info;">[조기 평가 및 추적]</mark>
+* 초기 치료 후 지속되는 기능 장애 또는 약물 부작용: 1\~2주기 내 반응을 평가하고 악화 시 앞당겨 진료  <mark style="color:$info;">[조기 평가 및 추적]</mark>
 
 ***
 
@@ -132,9 +132,12 @@ G. 이 증상들은 물질(예: 약물, 약물 남용, 다른 치료)의 생리�
 
 ```mermaid
 graph TD
-    Start(["월경 전 반복 증상"]) --> Safety{"자살·자해 생각 또는 급성 위험?"}
-    Safety -- "있음" --> Triage["당일 안전성 평가; 임박한 위험은 응급 조치"]
-    Safety -- "없음" --> Chart["전향적 일일 기록 최소 2주기; 필요한 치료 병행"]
+    Start(["월경 전 반복 증상"]) --> Safety{"임박한 자살 위험 또는 급성 응급 징후?"}
+    Safety -- "있음" --> Triage["즉각 안전 확보·응급 평가"]
+    Safety -- "없음" --> Urgent{"새 자살·자해 생각 또는 심한 정신 증상?"}
+    Urgent -- "있음" --> Day["당일 안전성 평가·치료 계획"]
+    Day -- "안전 확보 후" --> Chart
+    Urgent -- "없음" --> Chart["전향적 일일 기록 최소 2주기; 필요한 치료 병행"]
     Triage -- "안전 확보 후" --> Chart
     Chart --> Pattern{"대상 증상의 월경 후 소실·최소 구간?"}
     Pattern -- "없음·불분명" --> Diff["기록 보완; 원발 질환·PME·약제 영향 평가"]
@@ -145,22 +148,24 @@ graph TD
     Choice -- "생활·대증 관리로 시작 가능" --> Step1["교육·생활 요법·CBT·통증 조절"]
     Choice -- "정서 증상·기능 장애 뚜렷" --> Step2["SSRI 조기 고려; 피임 원하면 적합한 COC"]
     Step1 -- "불충분" --> Step2
-    Step2 --> Reassess["1~2주기 평가; 복용·용량·진단 재검토"]
+    Step2 --> Reassess{"1~2주기 반응 평가·복약 및 진단 재검토"}
     Reassess -- "호전" --> Follow["유효 치료 유지·정기 재평가"]
     Reassess -- "최적화 후에도 중증 지속" --> Step3["전문의: GnRH 작용제와 add-back 등 검토"]
     Step3 --> Surgery["치료 실패한 성인: GnRH 반응 확인 후 수술 예외적 검토"]
 
     classDef branch fill:#fff9c4,stroke:#ffe082
-    classDef mainDx fill:#f96,stroke:#e65100,stroke-width:2px
+    classDef care fill:#e3f2fd,stroke:#64b5f6
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
     class Start startNode
-    class Dx mainDx
-    class Pattern,Impact,Choice branch
+    class Day,Chart,Diff,Physiologic,Dx,Step1,Step2,Follow,Step3,Surgery care
+    class Triage emergency
+    class Safety,Urgent,Pattern,Impact,Choice,Reassess branch
 ```
 
 <p align="center"><strong>진단 및 단계별 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. [ACOG Clinical Practice Guideline No. 7, 2023]; [RCOG Green-top Guideline No. 48, 2016/2017]</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: ACOG Clinical Practice Guideline No. 7, 2023; RCOG Green-top Guideline No. 48, 2016/2017)</mark></em></p>
 
 ***
 
@@ -175,7 +180,7 @@ graph TD
 * 약물 요법 : SSRI, 적합한 복합 경구 피임제, 증상별 진통제; 난치성 중증에서는 전문의 배란 억제 요법
 * 일지를 치료 후에도 유지하여 증상뿐 아니라 직장·학교·대인관계 기능과 부작용을 함께 비교. 4\~6주에 초기 점검하고, 생활 요법·CBT·보조 요법의 충분한 반응 평가는 대개 2\~3주기에 걸쳐 시행
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 스트레스 관리 : 이완, 심호흡, 마사지, 음악, 따뜻한 목욕
 * 규칙적인 운동(걷기·자전거 타기 등 유산소 운동, 요가·필라테스 등) - Conditional recommendation, 근거 수준 낮음  <mark style="color:$info;">[ACOG 2023]</mark>
@@ -189,7 +194,7 @@ graph TD
 
 ### <mark style="color:orange;">Serotonergic antidepressant</mark>
 
-* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 - Strong recommendation  <mark style="color:$info;">[ACOG 2023]</mark> (☞ p.1146)
+* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 - Strong recommendation  <mark style="color:$info;">[ACOG 2023]</mark> (약제별 세부사항은 항우울제 항목 참조)
 * 국내 PMDD 적응증은 제품·제형별로 다름. fluoxetine·sertraline 및 paroxetine CR의 허가 제품을 선택할 수 있음. 아래 escitalopram·paroxetine 일반정·venlafaxine의 PMS/PMDD 치료 목적 사용은 허가 외임. PMDD 적응증을 PMS 전체 또는 소아·청소년에 그대로 확대 적용하지 않으며, 허가와 급여 인정은 별도로 확인
 * 용량 : 최소 유효 용량 유지
   * 이전 치료에서 효과가 있었던 용량을 이후에 적용; 이전 치료에서 반응이 적었던 경우 다음 치료에서는 증량 또는 다른 약제 선택
@@ -207,12 +212,12 @@ graph TD
   * 대처 : 내약성에 따라 감량·투여 방식 조정 또는 약물 교체
   * 병용 주의 : MAO 억제제·linezolid, tramadol·St. John's wort 등 세로토닌성 약물, NSAID·항응고제 등 출혈 위험 약물을 확인. 고열·초조·진전·근간대경련 등 세로토닌증후군 의심 시 즉시 평가
 * 아래 용량은 문헌상 대표적인 권장 범위이며, 교과서·연구에 따라 다소 차이가 있을 수 있어 참고치로 활용
-* fluoxetine : 20 ㎎/d  <mark style="color:blue;">\[푸록틴확산정20㎎]</mark> - 국내 해당 제품 허가 용법은 1일 20 ㎎, 6개월 후 치료 필요성 재평가. 황체기 간헐 투여는 문헌상 근거가 있으나 해당 제품 허가 용법에는 명시되어 있지 않음
-* escitalopram : 10\~20 ㎎/d(허가 외)  <mark style="color:blue;">\[렉사프로]</mark>
-* sertraline : PMDD에 50 ㎎/d로 시작; 지속 투여 시 다음 주기부터 필요에 따라 50 ㎎씩 증량, 최대 150 ㎎/d. 황체기 투여 시 최대 100 ㎎/d이며, 100 ㎎ 투여 주기의 첫 3일은 50 ㎎, 4일째부터 월경 시작까지 100 ㎎  <mark style="color:blue;">\[졸로푸트]</mark>
-* paroxetine : 일반정 10\~20 ㎎/d  <mark style="color:blue;">\[세로자트]</mark>(허가 외); CR 12.5 ㎎/d로 시작, 12.5\~25 ㎎/d  <mark style="color:blue;">\[파로자트씨알]</mark>(국내 PMDD 허가 제품 예; 지속 또는 황체기 투여, 용량 변경은 최소 1주 간격)
+* fluoxetine : 20 ㎎/d  <mark style="color:blue;">[푸록틴 20 ㎎](https://www.health.kr/drug/A11APPPPP0558)</mark> - 국내 해당 제품 허가 용법은 1일 20 ㎎, 6개월 후 치료 필요성 재평가. 황체기 간헐 투여는 문헌상 근거가 있으나 해당 제품 허가 용법에는 명시되어 있지 않음
+* escitalopram : 10\~[20 ㎎](https://www.health.kr/drug/2009090700007)/d(허가 외)  <mark style="color:blue;">[렉사프로](https://www.health.kr/drug/A11AOOOOO5474)</mark>
+* sertraline : PMDD에 50 ㎎/d로 시작; 지속 투여 시 다음 주기부터 필요에 따라 50 ㎎씩 증량, 최대 150 ㎎/d. 황체기 투여 시 최대 [100 ㎎](https://www.health.kr/drug/2010122700001)/d이며, 100 ㎎ 투여 주기의 첫 3일은 50 ㎎, 4일째부터 월경 시작까지 100 ㎎  <mark style="color:blue;">[졸로푸트](https://www.health.kr/drug/A11A0310A0239)</mark>
+* paroxetine : 일반정 10\~20 ㎎/d  <mark style="color:blue;">[세로자트](https://www.health.kr/drug/A11A0740A0377)</mark>(허가 외); CR 12.5 ㎎/d로 시작, 12.5\~[25 ㎎](https://www.health.kr/drug/2021062400006)/d  <mark style="color:blue;">[파로자트씨알](https://www.health.kr/drug/2021062400005)</mark>(국내 PMDD 허가 제품 예; 지속 또는 황체기 투여, 용량 변경은 최소 1주 간격)
   * ✽임신 계획이 있으면 paroxetine의 생식 안전성·중단 증상을 고려하여 다른 약제를 우선 검토. 임신 확인 시 임의 중단하지 말고 PMS/PMDD 단독인지 동반 정신 질환 치료도 필요한지 구분하여 재평가
-* venlafaxine : SNRI; SSRI 불내약·반응 불충분 시 대안으로 37.5\~75 ㎎/d에서 시작하여 반응에 따라 조정(문헌상 연구 범위 50\~200 ㎎/d; 통상 75\~150 ㎎/d, 허가 외)  <mark style="color:blue;">\[이팩사 XR]</mark>
+* venlafaxine : SNRI; SSRI 불내약·반응 불충분 시 대안으로 37.5\~[75 ㎎](https://www.health.kr/drug/A11ABBBBB1493)/d에서 시작하여 반응에 따라 조정(문헌상 연구 범위 50\~200 ㎎/d; 통상 75\~150 ㎎/d, 허가 외)  <mark style="color:blue;">[이팩사 XR](https://www.health.kr/drug/A11ADDDDD0700)</mark>
 * 2026년 네트워크 메타분석은 지속 paroxetine과 drospirenone/EE 24+4의 유효성을 뒷받침하였으나, 네트워크 분석 포함 연구가 5편에 불과하고 직접 비교 근거가 제한적임. 순위만으로 특정 SSRI를 일률적으로 우선하지 않으며 생식 계획·내약성·이전 반응을 함께 고려  <mark style="color:$info;">[Berni 2026]</mark>
 
 ### <mark style="color:orange;">피임제</mark>
@@ -226,7 +231,7 @@ graph TD
 #### <mark style="color:$primary;">경구제</mark>
 
 * 근거는 제제·투여법별로 다르며 모든 복합 피임제의 효과가 같다고 단정하지 않음. 휴약 기간을 짧게 하거나 없애는 방법을 고려할 수 있으나 우월성 근거는 제한적이며, 일부 환자에서는 기분 증상이 악화될 수 있음
-  * <mark style="color:blue;">\[야즈]</mark> (28T; 활성정 1정당 drospirenone 3 ㎎/ethinyl estradiol 0.02 ㎎) : 24일간 연분홍색 → 4일간 흰색(위약) 복용 - drospirenone/EE 24+4 요법으로 PMDD에 대한 근거가 가장 확립된 조합. 국내 PMDD 허가는 **피임법으로 경구피임약을 사용하고자 하는 여성**의 증상 치료에 해당
+  * <mark style="color:blue;">[야즈](https://health.kr/drug/A11AKP08G3788)</mark> (28T; 활성정 1정당 drospirenone 3 ㎎/ethinyl estradiol 0.02 ㎎) : 24일간 연분홍색 → 4일간 흰색(위약) 복용 - drospirenone/EE 24+4 요법으로 PMDD에 대한 근거가 가장 확립된 조합. 국내 PMDD 허가는 **피임법으로 경구피임약을 사용하고자 하는 여성**의 증상 치료에 해당
   * 위약 기간을 생략하고 복합 경구 피임제를 연속 복용하는 방법을 고려할 수 있으나, 해당 제품의 허가된 24+4 복용법과 구분하고 부정출혈·내약성 등을 상담
 * 치료 시작 후 약 3주기에 증상·기능 변화를 평가. drospirenone/EE의 다른 복합 피임제 대비 우월성과 장기 PMDD 효과는 충분히 확립되지 않음
 * ✽Progestogen 단독 요법은 PMS 치료 근거가 부족하며 일부 환자에서 PMS 유사 증상을 유발하거나 악화시킬 수 있어 표준 치료로 권장하지 않음  <mark style="color:$info;">[RCOG GTG48]</mark>
@@ -234,7 +239,7 @@ graph TD
 #### <mark style="color:$primary;">비경구제</mark>
 
 * DMPA는 배란을 억제하지만 기분 증상이 지속·악화될 수 있어 PMS/PMDD의 1차 치료로 권장되지 않음  <mark style="color:$info;">[RCOG GTG48]</mark>
-* etonogestrel 피하 이식제  <mark style="color:blue;">\[임플라논 엔엑스티 이식제]</mark> 및 LNG-IUS 단독은 PMS/PMDD 치료 효과가 확립되지 않음. **LNG-IUS로 무월경이 되어도 난소 활동·월경전 증상이 지속될 수 있음**; 피임 목적의 선택과 PMS/PMDD 치료 목적을 구분
+* etonogestrel 피하 이식제  <mark style="color:blue;">[임플라논 엔엑스티](https://www.health.kr/drug/A11AIIIII0018)</mark> 및 LNG-IUS 단독은 PMS/PMDD 치료 효과가 확립되지 않음. **LNG-IUS로 무월경이 되어도 난소 활동·월경전 증상이 지속될 수 있음**; 피임 목적의 선택과 PMS/PMDD 치료 목적을 구분
 
 ### <mark style="color:orange;">GnRH 작용제 및 경피 호르몬 요법</mark>
 
@@ -246,22 +251,22 @@ graph TD
   * 치료 전 골절·골다공증 위험, 호르몬 요법 금기 및 골밀도 평가 필요성을 확인. 장기 치료 시 DXA 등 골건강을 추적하며 유의한 골밀도 감소 시 재평가; RCOG는 장기 사용 시 연례 골밀도 측정을 제시
   * GnRH 작용제 및 add-back 자체를 신뢰할 수 있는 피임법으로 간주하지 않으며, 필요 시 비호르몬 피임을 병행
 * **2025 Cochrane 검토** : 11개 RCT, 265명. Add-back 없는 GnRH 작용제의 전반적 PMS 증상 감소는 높은 확실성의 근거이나 저에스트로겐 부작용·부작용에 따른 중단이 증가. Add-back 병행 대 위약의 유효성 근거는 낮은 확실성이며, 최적 보충 용법·용량과 장기 안전성은 불확실함. 해당 검토에는 GnRH 길항제 RCT가 없어 작용제 결과를 길항제로 확대하지 않음  <mark style="color:$info;">[Cochrane 2025]</mark>
-* leuprolide(leuprorelin) acetate : 문헌상 3.75 ㎎ depot, **4주 간격**; 해당 국내 제품은 피하 투여 제제  <mark style="color:blue;">\[루피어데포주3.75㎎]</mark>
-* goserelin : 3.6 ㎎ depot, **28일 간격** 전복벽 피하 투여  <mark style="color:blue;">\[졸라덱스데포주]</mark>. 4주·28일을 달력상 매월과 혼용하지 않음
+* leuprolide(leuprorelin) acetate : 문헌상 3.75 ㎎ depot, **4주 간격**; 해당 국내 제품은 피하 투여 제제  <mark style="color:blue;">[루피어데포 3.75 ㎎](https://www.health.kr/drug/A11AOOOOO3095)</mark>
+* goserelin : 3.6 ㎎ depot, **28일 간격** 전복벽 피하 투여  <mark style="color:blue;">[졸라덱스데포](https://www.health.kr/drug/A11ACCCCC0529)</mark>. 4주·28일을 달력상 매월과 혼용하지 않음
 * 경피 estradiol에 의한 배란 억제도 전문의 대안이나 용량·장기 안전성 자료가 제한적임. 자궁이 있으면 적절한 기간·용량의 progesterone/progestogen 또는 **52 ㎎ LNG-IUS** 등으로 자궁내막 보호가 필요; PMS 유사 증상을 줄이기 위해 보충 호르몬을 임의로 부족하게 투여하지 않음. LNG-IUS도 초기 기분 증상을 유발할 수 있음  <mark style="color:$info;">[RCOG GTG48]</mark>. **경피 estradiol 자체는 피임제가 아니며**, 국내 제품의 허가·가용성 확인 (☞ [폐경기증후군](../226_/108_-menopause-syndrome.md))
 
 ### <mark style="color:orange;">진통제</mark>
 
 * 통증에 대한 대증 치료. 정서 증상 치료를 목적으로 NSAID를 사용하지 않으며, 필요한 기간에 최소 유효 용량 사용. SSRI 병용 시 위장관 출혈 위험을 함께 고려
-* naproxen sodium : 초회 550 ㎎ → 이후 필요 시 275 ㎎ q6\~8h  <mark style="color:blue;">\[아나프록스]</mark>
+* naproxen sodium : 초회 550 ㎎ → 이후 필요 시 275 ㎎ q6\~8h  <mark style="color:blue;">[아나프록스](https://www.health.kr/drug/A11ABBBBB2070)</mark>
   * 제조사 공개 제품정보의 1일 상한은 1,375 ㎎이나, 식약처 DUR 성분별 용량주의 기준은 1,350 ㎎으로 자료 간 차이가 있음. 실제 처방 시 최신 해당 품목 허가와 DUR을 함께 확인하며, 아래 단기 처방례는 총 1,100 ㎎/d 이내로 제시
-* ibuprofen : 필요 시 400 ㎎ tid  <mark style="color:blue;">\[부루펜]</mark>
+* ibuprofen : 필요 시 400 ㎎ tid  <mark style="color:blue;">[부루펜](https://www.health.kr/drug/A11A0500A0131)</mark>
 * 위궤양·출혈 병력, 신장병·탈수, 항응고제 병용, NSAID 과민반응·천식 및 임신 여부를 확인. 부루펜은 국내 허가상 기관지천식 또는 그 병력 자체가 금기이며, 위장관궤양·출혈 또는 그 병력, 심한 간·신장·심장기능장애·고혈압 등 제품별 금기를 적용함. 다른 NSAID와 중복하지 않음
-* NSAID를 쓸 수 없으면 acetaminophen 등 대안을 고려하되 타이레놀 일반정·ER 등은 소화성궤양, 심한 간·신장애·심장기능저하, 아스피린 천식 또는 그 병력, TCA·바르비탈계 약물 복용 환자 등에서 국내 허가상 금기임. 궤양 병력과 현재 궤양, 감량 가능한 신기능 저하와 심한 신장애를 구분하며 NSAID 금기라는 이유로 자동 대체하지 않음(001 참조)
+* NSAID를 쓸 수 없으면 acetaminophen 등 대안을 고려하되 [타이레놀](https://www.health.kr/drug/2021082400002) 일반정·[ER](https://www.health.kr/drug/2022020300026) 등은 소화성궤양, 심한 간·신장애·심장기능저하, 아스피린 천식 또는 그 병력, TCA·바르비탈계 약물 복용 환자 등에서 금기임. 궤양 병력과 현재 궤양, 감량 가능한 신기능 저하와 심한 신장애를 구분하며 NSAID 금기라는 이유로 자동 대체하지 않음(☞ [통증](001_-pain.md))
 
 ### <mark style="color:orange;">진경제</mark>
 
-* 진경제는 PMS/PMDD 또는 원발성 월경통의 표준 1차 치료가 아님. 다른 경련성 복통이 동반되면 원인을 평가한 후 해당 약제의 적응증에 따라 선택적으로 고려 (☞ p.371)
+* 진경제는 PMS/PMDD 또는 원발성 월경통의 표준 1차 치료가 아님. 다른 경련성 복통이 동반되면 원인을 평가한 후 해당 약제의 적응증에 따라 선택적으로 고려 (☞ [소화기계 약제](073_-gidrugs.md))
 * PMS 처방례에 진경제를 일률적으로 추가하지 않음. 지속·국소화되는 복통은 원인 질환 평가가 우선
 
 ### <mark style="color:orange;">기타</mark>
@@ -270,11 +275,11 @@ graph TD
 * Vit B6는 효과 근거가 불확실하므로 일률적인 고용량 보충을 권장하지 않음. 과거 PMS 연구에는 50\~100 ㎎/d가 사용되었으나 이 범위도 장기 복용 시 안전하다고 단정할 수 없음
   * ✽말초신경병증이 50 ㎎/d 미만에서도 보고되었고, EFSA(2023)의 성인 장기 섭취 상한은 12 ㎎/d임. 여러 영양제에 포함된 B6를 합산하고, 손발 저림·화끈거림이 생기면 중단 후 평가. 이 상한은 일반인의 장기 섭취 기준으로, 개별 의학적 치료 용량과 동일한 개념은 아님
 * chasteberry(Vitex agnus-castus) : 효과는 **추출물별**로 해석. ACOG(2023)는 일률적 권고에 추가 연구가 필요하다고 평가하나, EMA는 특정 건조 추출물의 PMS 사용을 인정하며 국내에도 PMS 허가 일반의약품이 있음
-  * 표준화 건조 추출물 20 ㎎(콜로이드성이산화규소 혼합물로서 40 ㎎) 1일 1회 1정  <mark style="color:blue;">\[프리페민]</mark>; 제조사 허가 안내는 적어도 3개월 지속 복용. 일반 chasteberry 보충제와 용량·효과를 동일시하지 않음
+  * 표준화 건조 추출물 20 ㎎(콜로이드성이산화규소 혼합물로서 40 ㎎) 1일 1회 1정  <mark style="color:blue;">[프리페민](https://www.health.kr/drug/2013061000010)</mark>; 제조사 허가 안내는 적어도 3개월 지속 복용. 일반 chasteberry 보충제와 용량·효과를 동일시하지 않음
   * PMDD의 중증 정서 증상·자살 위험에 대한 표준 치료를 대체하지 않음. 임신·수유 중 사용은 피하고, 도파민계 약물·호르몬제 병용 또는 뇌하수체 질환 등이 있으면 사전 상담
 * omega-3 fatty acids : 일부 연구에서 증상 개선이 보고되었으나 근거가 제한적이어서 표준 치료로 권고하기에는 불충분 - 처방용 omega-3-acid ethyl esters(고중성지방혈증 치료제)를 PMS 목적으로 상품명까지 특정하여 처방하는 것은 적응증 외 사용에 해당하므로 주의
-* alprazolam  <mark style="color:blue;">\[자낙스]</mark> : 일부 효과 보고는 있으나 의존·내성·인지기능 영향 위험 때문에 PMS/PMDD의 통상 치료로 권장하지 않음. 예외적 사용은 위험·유익성과 사용 기간을 개별 평가
-* spironolactone  <mark style="color:blue;">\[알닥톤]</mark> : 부종·복부 팽만 등 체액 저류 증상이 현저한 일부 환자에서 고려할 수 있으나 PMS 치료 근거가 제한적인 허가 외 사용. 신기능·혈중 칼륨 및 병용 약물을 확인하고 drospirenone 함유 피임제와 병용 시 고칼륨혈증 위험에 주의
+* alprazolam  <mark style="color:blue;">[자낙스](https://www.health.kr/drug/A11ABBBBB0920)</mark> : 일부 효과 보고는 있으나 의존·내성·인지기능 영향 위험 때문에 PMS/PMDD의 통상 치료로 권장하지 않음. 예외적 사용은 위험·유익성과 사용 기간을 개별 평가
+* spironolactone  <mark style="color:blue;">[알닥톤](https://www.health.kr/drug/A11AOOOOO3515)</mark> : 부종·복부 팽만 등 체액 저류 증상이 현저한 일부 환자에서 고려할 수 있으나 PMS 치료 근거가 제한적인 허가 외 사용. 신기능·혈중 칼륨 및 병용 약물을 확인하고 drospirenone 함유 피임제와 병용 시 고칼륨혈증 위험에 주의
 * Mg, Vit D, Vit E, Mn, St. John's wort, soy isoflavone, ginkgo, saffron 등은 연구의 질·제제·결과가 일정하지 않아 표준 치료로 일률적 권고하기 어려움. 확인된 영양 결핍은 별도 적응증에 따라 교정
   * St. John's wort는 SSRI/SNRI와 세로토닌성 독성 위험이 있고 피임제 효과를 낮출 수 있어 자가 병용하지 않음. Ginkgo는 출혈 위험 약물과의 병용에 주의
 
@@ -302,25 +307,32 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 > **처방례 1.** 정서 증상이 뚜렷한 중등도 PMS/PMDD
 >
 > ```
-> 졸로푸트 50 ㎎/T  1T  qd
+> 졸로푸트정 50 ㎎/T  1T  qd  매일 지속 투여
 > ```
 >
-> _✽성인 처방 예. PMDD 또는 정서 증상이 뚜렷한 PMS에서 SSRI 고려(PMS 자체의 치료 목적은 허가 외). 졸로푸트는 50 ㎎/d로 시작하여 지속 투여 또는 황체기 투여 가능; 이후 증량 한도는 각 용법별 허가사항에 따름. 통증 동반 시 NSAID는 필요한 기간에만 사용하고 위장관 출혈 위험을 확인_
+> 약제 정보: [졸로푸트정·50 ㎎](https://www.health.kr/drug/A11A0310A0239)
+>
+> _✽성인 처방 예. PMDD 또는 정서 증상이 뚜렷한 PMS에서 SSRI 고려(PMS 자체의 치료 목적은 허가 외). 위 처방은 지속 투여 예시. 황체기 투여를 선택하면 월경 예정일 약 14일 전부터 월경 시작까지 50 ㎎/d를 투여하고, 시작·종료 시점을 처방에 별도로 명시; 이후 증량 한도는 각 용법별 허가사항에 따름. 통증 동반 시 NSAID는 필요한 기간에만 사용하고 위장관 출혈 위험을 확인_
 
 > **처방례 2.** 피임을 원하며 복합 경구 피임제에 적합한 PMDD
 >
 > ```
-> 야즈 28T  1T  qd
+> 야즈정 28정/팩  1T  qd  포장 순서대로 매일 같은 시각
+> 활성정 24일 → 위약 4일 → 추가 휴약 없이 다음 포장 시작
 > ```
 >
-> _✽피임법으로 경구피임약을 사용하고자 하는 PMDD 환자에서 고려. 처방 전 혈압·흡연·조짐편두통·혈전 병력·신기능·병용 약물 등 금기와 위험 요인을 확인; drospirenone/EE 24+4 요법_
+> 약제 정보: [야즈정·drospirenone 3 ㎎/ethinyl estradiol 0.02 ㎎](https://health.kr/drug/A11AKP08G3788)
+>
+> _✽피임법으로 경구피임약을 사용하고자 하는 PMDD 환자에서 고려. 처방 전 혈압·흡연·조짐편두통·혈전 병력·신기능·병용 약물 등 금기와 위험 요인을 확인; drospirenone/EE 24+4 요법. 월경 첫날 이후 시작하면 첫 7일간 콘돔 등 비호르몬 피임을 병행. 복용 누락·구토·설사 시 제품의 별도 지침을 적용_
 
 > **처방례 3.** 신체 증상(경련성 통증) 동반
 >
 > ```
-> 아나프록스 275 ㎎/T  초회 2T, 이후 필요시 6\~8시간마다 1T
+> 아나프록스정 275 ㎎/T  초회 2T, 이후 필요시 6~8시간마다 1T
 >                         초회량 포함 1일 총 4T(1,100 ㎎) 이내
 > ```
+>
+> 약제 정보: [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070)
 >
 > _✽통증에 대한 단기 대증 처방. 지속하거나 기능 장애가 큰 정서 증상이 있으면 PMS/PMDD 평가 및 CBT·SSRI 등 근거에 기반한 치료를 고려. NSAID 금기와 출혈 위험 확인_
 
@@ -338,6 +350,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 >
 > * 피임 필요성·선호를 확인하고 혈압, 흡연, 조짐편두통, 혈전 병력 및 기타 금기를 검토. drospirenone 함유 제품과 칼륨 상승 약물을 함께 쓰는 경우 신기능·칼륨 확인
 > * 휴약 기간이 짧거나 없는 방식이 일부 환자에서 증상 조절에 유리할 수 있으나, 제품별 허가 용법과 구분하고 부정출혈·기분 변화 여부를 관찰
+> * 야즈는 활성정 24정과 위약 4정을 순서대로 복용하고, 28정을 다 먹은 다음 날 새 포장을 시작합니다. 위약 4일 외에 별도의 휴약기를 더하지 않습니다. 복용을 빠뜨리거나 구토·심한 설사를 하면 추가 피임 필요성을 제품 지침에 따라 확인합니다
 > * 한쪽 다리의 통증·부종, 갑작스러운 흉통·호흡곤란, 새 신경학적 증상은 혈전색전증 가능성이 있어 즉시 응급 평가
 > * progestogen 단독 제제(고용량 progestin 경구, DMPA 등)는 근거가 약하고 일부 환자에서 증상을 악화시킬 수 있음을 처방 전 인지
 
@@ -374,7 +387,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+* 식품의약품안전처. [의약품안전나라 - 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
 * 식품의약품안전처. [푸록틴확산정20㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611019), [영진설트랄린정50㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902446), [파로자트씨알정12.5㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104810), [야즈정](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807400). 제품별 PMDD 적응증·용법·주의사항 확인 자료; 성분이 같아도 실제 처방 품목의 허가사항 확인.
 * 식품의약품안전처. [나프록센나트륨 DUR 용량주의 정보](https://nedrug.mfds.go.kr/pbp/CCBAJ01/getInfo?durSeq=2909&typeCode=D). 1일 1,350 ㎎ 기준; 제조사 아나프록스 제품정보의 1,375 ㎎과 차이 있음.
 * 종근당. [아나프록스정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000045), [프리페민정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000283).
@@ -384,7 +397,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 * EMA. [Agni casti fructus](https://www.ema.europa.eu/en/medicines/herbal/agni-casti-fructus). 특정 추출물의 PMS 사용 근거·제제별 차이 확인.
 * 국가데이터처(고시 당시 통계청). [제9차 한국표준질병·사인분류 개정고시](https://www.mods.go.kr/board.es?act=view&bid=246&list_no=437418&mid=a10301150000). 2026-01-01 시행. PMDD 세부 코드 및 실제 약제 급여 인정은 처방 시 현행 분류표·색인·심사평가원 기준으로 최종 확인.
 
-✽검토 기준일: 2026-10-28. RCOG GTG48은 2016년 발행/2017년 학술지 수록, 2023년 검토 후 개정 진행 중인 지침으로 확인됨. 약제 허가가 곧 급여 인정을 뜻하지 않음.
+✽검토 기준일: 2026-11-11. RCOG GTG48은 2016년 발행/2017년 학술지 수록, 2023년 검토 후 개정 진행 중인 지침으로 확인됨. 약제 허가가 곧 급여 인정을 뜻하지 않음.
 
 ***
 
@@ -410,9 +423,9 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
-* 정서 증상이 심한 경우 SSRI(항우울제 계열)를 사용하며, 매일 복용하거나 월경 전에만 복용하는 방법을 약에 따라 선택할 수 있습니다. 비교적 빠르게 효과가 나타날 수 있지만 용량 조정이나 약 변경 여부는 1\~2번의 주기에 걸쳐 담당 의사와 함께 판단합니다. 복용 중 새로운 자살·자해 생각이 들면 **그날 바로 안전성 평가**를 받으십시오.
-* 피임을 원하거나 다른 치료만으로 조절이 안 되는 경우 복합 경구 피임제를 고려할 수 있습니다. 처방 전 혈압·흡연·편두통·혈전 병력 등을 확인해야 합니다.
-* 칼슘 섭취를 늘리는 것이 도움이 될 수 있습니다. **비타민 B6는 하루 100 ㎎ 이하라도 오래 복용하면 손발 저림 등 신경 부작용이 생길 수 있습니다.** 복합 영양제에 든 양도 확인하고 임의로 고용량을 복용하지 마십시오.
+* 정서 증상이 심한 경우 SSRI(항우울제 계열)를 사용하며, 매일 복용하거나 월경 전에만 복용하는 방법을 약에 따라 선택할 수 있습니다. 비교적 빠르게 효과가 나타날 수 있지만 용량 조정이나 약 변경 여부는 1\~2번의 주기에 걸쳐 담당 의사와 함께 판단합니다. 복용 중 새로운 자살·자해 생각이 들면 **그날 바로 안전성 평가**를 받으십시오. 지속 복용 중인 약을 중단할 때는 의료진과 감량 계획을 정하십시오. 월경 전에만 복용하기로 한 경우에는 정해진 시작·종료일을 따르십시오.
+* 피임을 원하거나 다른 치료만으로 조절이 안 되는 경우 복합 경구 피임제를 고려할 수 있습니다. 처방 전 혈압·흡연·편두통·혈전 병력 등을 확인해야 합니다. 야즈는 분홍색 24정, 흰색 위약 4정을 순서대로 매일 복용하고 다음 날 바로 새 포장을 시작합니다. 복용을 빠뜨리거나 구토·심한 설사를 하면 의료진·약사에게 추가 피임 방법을 확인하십시오.
+* 칼슘 섭취를 늘리는 것이 도움이 될 수 있습니다. **비타민 B6는 비교적 적은 용량에서도 손발 저림 등 신경 부작용이 보고됩니다.** 복합 영양제에 든 양도 확인하고 임의로 고용량을 복용하지 마십시오.
 
 ### <mark style="color:orange;">이럴 때는 도움을 받으세요</mark>
 

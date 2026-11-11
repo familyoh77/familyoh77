@@ -60,7 +60,7 @@
 
 #### <mark style="color:$primary;">Cystine stone</mark>
 
-* 성인 요로결석의 약 1–2%, 소아 결석의 약 6–8%를 차지함; 환자군에 따라 다름 <mark style="color:$info;">[EAU Urolithiasis, 2026]</mark>
+* 성인 요로결석의 약 1-2%, 소아 결석의 약 6-8%를 차지함; 환자군에 따라 다름 <mark style="color:$info;">[EAU Urolithiasis, 2026]</mark>
 * 원인 : cystinuria(autosomal recessive disorder에 기인)
 
 ***
@@ -168,78 +168,65 @@
 ***
 
 ```mermaid
-flowchart LR
-    subgraph Col1 [" "]
-        direction TB
-
-        NodeA["급성 renal colic 의심"] --> NodeB["진통 병행 · 병력·진찰 및 소변·혈액검사"]
-
-        NodeB --> NodeC{"감염 의심·무뇨·신기능 악화·단일신 또는 양측 폐쇄?"}
-
-        NodeC -- yes --> NodeD["즉시 영상검사 · 비뇨의학과 평가"]
-
-        NodeD --> NodeE{"감염성 폐쇄 또는 폐쇄성 무뇨?"}
-        NodeE -- yes --> NodeF["응급 감압; 감염 시 즉시 항생제"]
-        NodeE -- no --> NodeG["단일신·양측 폐쇄·급성 신손상 평가; 필요 시 신속 감압"]
-
-        NodeC -- no --> NodeH["US 또는 NCCT로 결석·폐쇄 평가"]
-
-        NodeH --> NodeI{"요관결석 확인?"}
-        NodeI -- no --> NodeJ["다른 진단 평가"]
-        NodeI -- yes --> NodeK(("A"))
-    end
-
-    subgraph Col2 [" "]
-        direction TB
-
-        NodeK2(("A")) --> NodeL{"지속 폐쇄·통증·신기능 저하 또는 낮은 배출 가능성?"}
-
-        NodeL -- yes --> NodeM["비뇨의학과 의뢰 · URS/SWL 등 고려"]
-        NodeL -- no --> NodeN["보존적 치료: 진통·정상 수분섭취·결석 회수"]
-
-        NodeN --> NodeO{"MET 고려 대상? · 주로 5~10 ㎜ 원위 요관결석"}
-        NodeO -- yes --> NodeP["Tamsulosin 0.4 ㎎ qd 식후 고려; 허가 외"]
-        NodeO -- no --> NodeQ["경과 관찰"]
-
-        NodeP --> NodeR{"경과 악화?"}
-        NodeQ --> NodeR
-
-        NodeR -- "발열/UTI 또는 sepsis 의심" --> NodeD
-        NodeR -- "무뇨·급성 신손상" --> NodeD
-        NodeR -- "난치성 통증·신기능 악화·지속 구토" --> NodeM
-        NodeR -- no --> NodeS{"결석 배출 확인?"}
-
-        NodeS -- yes --> NodeT["stone analysis · 재발 위험도 평가"]
-        NodeS -- no --> NodeU["계획된 재평가·영상; 약 30일 미배출 시 치료 상담"]
-
-        NodeU --> NodeV{"자연 배출 실패 또는 지속 폐쇄/증상?"}
-        NodeV -- yes --> NodeM
-        NodeV -- no --> NodeR
-    end
-
-    NodeK --> NodeK2
-
-    style Col1 fill:none,stroke:none
-    style Col2 fill:none,stroke:none
-
-    classDef startNode fill:#ECE6F4,stroke:#D1C4E9,stroke-width:1px;
-    classDef decision fill:#FEFCE8,stroke:#FEF08A,stroke-width:1px;
-    classDef alert fill:#FEE2E2,stroke:#FCA5A5,stroke-width:1px,color:#991B1B;
-    classDef greenBox fill:#DCFCE7,stroke:#86EFAC,stroke-width:1px;
-    classDef blueBox fill:#E0F2FE,stroke:#7DD3FC,stroke-width:1px;
-    classDef conn fill:#475569,stroke:#334155,stroke-width:1px,color:#FFFFFF;
-
-    class NodeA startNode;
-    class NodeC,NodeE,NodeI,NodeL,NodeO,NodeR,NodeS,NodeV decision;
-    class NodeD,NodeF,NodeG,NodeJ,NodeM alert;
-    class NodeB,NodeH,NodeT,NodeU greenBox;
-    class NodeN,NodeP,NodeQ blueBox;
-    class NodeK,NodeK2 conn;
+flowchart TD
+    A["급성 요관 산통 의심"] --> B["진통·병력·진찰·소변·혈액검사"]
+    B --> C{"즉각 조치 항목·감염성 폐쇄 의심?"}
+    C -- "예" --> D["즉시 영상·비뇨의학과 평가"]
+    D --> E{"감염성 폐쇄?"}
+    E -- "예" --> F["배양·즉시 항생제·응급 감압"]
+    E -- "아니오" --> G["무뇨·단일신·양측 폐쇄·AKI 평가 및 신속 감압"]
+    C -- "아니오" --> H["US·NCCT로 결석·폐쇄 평가"]
+    H --> I{"요관결석 확인?"}
+    I -- "아니오" --> J["다른 진단 평가"]
+    I -- "예" --> K{"지속 폐쇄·난치성 통증·신기능 저하·낮은 배출 가능성?"}
+    K -- "예" --> L["비뇨의학과 평가·URS/SWL 등 치료"]
+    K -- "아니오" --> M["아래 보존적 치료·MET 경로"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef care fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class C,E,I,K question
+    class F,G emergency
+    class B,D,H,J,L,M care
 ```
 
-<p align="center"><strong>급성 요관결석의 진단 및 초기 관리 알고리듬</strong></p>
+<p align="center"><strong>급성 요관결석의 진단·치료 선택</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. EAU Guidelines on Urolithiasis, 2026; AUA Surgical Management of Kidney and Ureteral Stones Guideline, 2026.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: EAU Urolithiasis 2026; AUA Surgical Management 2026)</mark></em></p>
+
+***
+
+```mermaid
+flowchart TD
+    A["합병증 없는 요관결석"] --> B["진통·정상 수분 섭취·결석 회수·재평가 일정"]
+    B --> C{"MET 적합·선택?"}
+    C -- "예" --> D["주로 원위부 5~10 ㎜·tamsulosin 0.4 ㎎ qd 식후 고려"]
+    C -- "아니오" --> E["경과 관찰"]
+    D --> F{"경과 악화?"}
+    E --> F
+    F -- "예" --> G{"감염성 폐쇄 의심·무뇨·폐쇄성 AKI?"}
+    G -- "예" --> H["즉시 응급 평가·필요 시 항생제·감압"]
+    G -- "아니오" --> I["난치성 통증·지속 구토 등 당일 전문 평가"]
+    F -- "아니오" --> J{"결석 배출 확인?"}
+    J -- "예" --> K["성분 분석·폐쇄 해소·재발 위험도 평가"]
+    J -- "아니오" --> L["예약된 영상·신기능 재평가"]
+    L --> M{"약 30일 미배출·지속 폐쇄 또는 증상?"}
+    M -- "예" --> N["보존적 치료 종료·제거 치료 상담"]
+    M -- "아니오" --> B
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef care fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class C,F,G,J,M question
+    class H emergency
+    class B,D,E,I,K,L,N care
+```
+
+<p align="center"><strong>합병증 없는 요관결석의 보존적 치료·MET 추적 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: EAU Urolithiasis 2026; AUA Surgical Management 2026)</mark></em></p>
 
 ***
 
@@ -287,26 +274,26 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 * EAU : 5\~10 ㎜ 원위부 요관결석에서 이득이 가장 뚜렷하며, 적극적 제거술 적응증이 없는 환자에서 고려
 * AUA 2026 : ≤10 ㎜ 원위부 요관결석에서 α-blocker MET를 권고, 중부·근위부 ≤10 ㎜에서는 선택적으로 고려 가능
 * **국내 요로결석에 대한 α-blocker 사용은 off-label**임을 설명
-* 부작용 : 기립성 저혈압·어지럼, 정액량 감소·무정액 사정 등. Tamsulosin 관련 사정 장애는 정액 방출 억제일 수 있어 모두 역행성사정으로 설명하지 않음(☞ 성기능장애)
+* 부작용 : 기립성 저혈압·어지럼, 정액량 감소·무정액 사정 등. Tamsulosin 관련 사정 장애는 정액 방출 억제일 수 있어 모두 역행성사정으로 설명하지 않음(☞ [성기능장애](132_-sexual-dysfunction.md))
 * 감염, refractory pain, renal function deterioration 등이 발생하면 MET 중단 후 적극적 치료 평가
 * AUA 2026 기준 약 30일(4주)간 MET를 시행 후 재평가하되, 합병증 발생 시 기간을 기다리지 않고 즉시 재평가
 
 #### <mark style="color:$primary;">α1-차단제</mark>
 
-* tamsulosin : 0.4 ㎎ qd 식후 <mark style="color:blue;">\[한미탐스캡슐 0.4 ㎎]</mark>
+* tamsulosin : 0.4 ㎎ qd 식후 <mark style="color:blue;">[한미탐스](https://www.health.kr/drug/2016010500011)</mark> 0.4 ㎎
   * 제품별 함량·제형 확인(하루날디정은 0.2 ㎎ 제형임)
-  * 선택한 캡슐은 통째로 복용; 기립성 저혈압 환자·중증 간장애 환자·임부/임신 가능성이 있는 여성에서는 금기, 혈압강하제·PDE5 억제제 병용 시 저혈압 주의 (☞ [전립선비대증](124_-benign-prostatic-hyperplasia-bph.md#a1-a1-adrenoceptor-antagonist))
+  * 선택한 캡슐은 통째로 복용; 기립성 저혈압 환자·중증 간장애 환자·임부/임신 가능성이 있는 여성에서는 금기, 혈압강하제·PDE5 억제제 병용 시 저혈압 주의 (☞ [전립선비대증](124_-bph.md#a1-a1-adrenoceptor-antagonist))
   * 기존 PDE5i·다른 α-차단제 및 조루약(dapoxetine/clomipramine) 복용 여부도 확인; 여러 약을 동시에 시작하거나 증량할 때 기립성 저혈압·실신 위험을 함께 평가함
 
 ### <mark style="color:orange;">통증 완화</mark>
 
 #### <mark style="color:$primary;">NSAID - 1차 선택</mark>
 
-* ibuprofen : 200\~400 ㎎ 1일 3–4회 필요 시(예: 400 ㎎ tid) <mark style="color:blue;">\[부루펜]</mark>
-* dexibuprofen : 300 ㎎ tid 필요 시 <mark style="color:blue;">\[애니펜]</mark>; 국내 허가 최대 1,200 ㎎/d
-* naproxen : 500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
+* ibuprofen : 200\~[400 ㎎](https://www.health.kr/drug/A11A0500A0131) 1일 3-4회 필요 시(예: 400 ㎎ tid) <mark style="color:blue;">[부루펜](https://www.health.kr/drug/A11A0500A0097)</mark>
+* dexibuprofen : 300 ㎎ tid 필요 시 <mark style="color:blue;">[애니펜](https://www.health.kr/drug/A11AEEEEE0492)</mark>; 국내 허가 최대 1,200 ㎎/d
+* naproxen : 500 ㎎ bid <mark style="color:blue;">[낙센](https://www.health.kr/drug/A11A0120A0286)</mark>
 * 최소 유효용량을 최단기간 사용; 통증 소실 후 일률적인 장기 복용은 피함
-* **NSAID끼리 병용하지 않음**; 마이폴에 포함된 ibuprofen도 NSAID임
+* **NSAID끼리 병용하지 않음**; [마이폴](https://www.health.kr/drug/A11AOOOOO1290)에 포함된 ibuprofen도 NSAID임
 * AKI·중증 신기능 저하 및 탈수에서는 NSAID에 의한 신기능 악화 위험을 특히 평가
 * 부루펜·애니펜 국내 허가상 **기관지천식 또는 그 병력, NSAID 과민반응 병력, 위장관궤양/출혈 관련 병력, 심한 간·신·심장기능장애·고혈압** 등은 금기이며 품목별 범위를 적용함. 애니펜은 **크론병·궤양성대장염, 임신 6개월 이상**도 금기
 * 임신 20주 이후 NSAID는 태아 신기능장애·양수과소증 위험으로 원칙적으로 피하고, 임신 중 약제 선택은 산과와 상의함; 국내 품목별 임부 금기를 우선 적용 <mark style="color:$info;">[국내 허가사항; FDA NSAID 안전성 정보]</mark>
@@ -314,8 +301,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 #### <mark style="color:$primary;">Acetaminophen</mark>
 
-* NSAID 금기 또는 추가 진통이 필요한 경우 제품별 허가사항을 확인한 뒤 고려. 타이레놀8시간이알서방정은 다른 소염진통제와의 병용을 피하도록 되어 있으므로 NSAID에 일률적으로 추가하지 않음. 급성 심한 산통에서는 정맥주사 acetaminophen 등 의료기관 치료를 고려하며, 경구 ER 제품의 병용 문구를 모든 acetaminophen 제형의 절대적 병용금기로 확대하지 않음
-* acetaminophen 서방정 650 ㎎ : 1회 2정, 8시간 간격 필요 시; **24시간 최대 6정(3,900 ㎎)** <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>
+* NSAID 금기 또는 추가 진통이 필요한 경우 제품별 허가사항을 확인한 뒤 고려. [타이레놀8시간이알](https://www.health.kr/drug/2022020300026)서방정은 다른 소염진통제와의 병용을 피하도록 되어 있으므로 NSAID에 일률적으로 추가하지 않음. 급성 심한 산통에서는 정맥주사 acetaminophen 등 의료기관 치료를 고려하며, 경구 ER 제품의 병용 문구를 모든 acetaminophen 제형의 절대적 병용금기로 확대하지 않음
+* acetaminophen 서방정 650 ㎎ : 1회 2정, 8시간 간격 필요 시; **24시간 최대 6정(3,900 ㎎)** <mark style="color:blue;">타이레놀8시간이알</mark>
 * 타이레놀8시간이알은 국내 허가상 **다른 acetaminophen 함유제와 병용하지 않음**; 약제 변경 시에도 이미 복용한 전체 용량 확인. 간질환·과음·저체중/쇠약 환자는 더 낮은 한도를 개별 적용; 서방정은 쪼개거나 씹지 않음
 * 국내 타이레놀8시간이알 허가사항은 TCA(clomipramine·amitriptyline 등)·바르비탈계 복용자를 금기로 규정함. NSAID 금기라는 이유로 자동 대체하지 않으며 소화성궤양·심한 간·신장애·심한 심장기능저하·아스피린 천식 등 해당 제품의 금기도 적용함 <mark style="color:$info;">[타이레놀8시간이알 국내 허가사항]</mark>
 
@@ -326,12 +313,12 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 #### <mark style="color:$primary;">마약성 진통제</mark>
 
 * NSAID로 조절되지 않거나 NSAID를 사용할 수 없는 경우 선택적으로 고려; NICE는 이때 정맥주사 acetaminophen을 우선 제시하고, 이것도 불충분하거나 금기이면 opioid를 고려함
-* ibuprofen/codeine/acetaminophen <mark style="color:blue;">\[마이폴캡슐]</mark> : 기존 NSAID에 추가하지 않고 **대체**할 때 선택적으로 고려; NSAID 금기 환자에게는 사용하지 않음
-* hydrocodone/acetaminophen <mark style="color:blue;">\[하이코돈정5 ㎎(5/325 ㎎)]</mark> : 함량을 명시하고 최저 용량·최단기간 사용; 간·신장 기능 및 호흡억제 위험에 따라 조절
+* ibuprofen/codeine/acetaminophen <mark style="color:blue;">마이폴</mark> : 기존 NSAID에 추가하지 않고 **대체**할 때 선택적으로 고려; NSAID 금기 환자에게는 사용하지 않음
+* hydrocodone/acetaminophen <mark style="color:blue;">[하이코돈](https://www.health.kr/drug/2012040200006)</mark> 5/325 ㎎ : 함량을 명시하고 최저 용량·최단기간 사용; 간·신장 기능 및 호흡억제 위험에 따라 조절
 * 마이폴은 **중증 호흡억제·중증 간/신장애·기관지천식·수유부·CYP2D6 초고속 대사자** 등에서 금기; 단순히 NSAID가 포함되었다는 점만으로 안전성을 판단하지 않음
 * 졸림·호흡억제·변비·의존성 주의; 음주 및 benzodiazepine 등 진정제 병용을 피하고 운전 금지
 * 난치성 통증을 경구 opioid 증량만으로 관리하지 않으며 감압/제거술 적응증 재평가
-* meperidine <mark style="color:blue;">\[데메롤]</mark>은 구역/구토 등 부작용 때문에 가급적 피함
+* meperidine은 구역/구토 등 부작용 때문에 가급적 피함
 
 ### <mark style="color:orange;">구역, 구토 조절</mark>
 
@@ -357,22 +344,22 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 * Hypercalciuria 및 재발성 calcium stone
   * 우선 sodium 섭취 제한
   * 지속되는 hypercalciuria에서 thiazide 계열 고려
-    * hydrochlorothiazide : 25 ㎎ qd <mark style="color:blue;">\[다이크로짇]</mark>
+    * hydrochlorothiazide : 25 ㎎ qd <mark style="color:blue;">[다이크로짇](https://www.health.kr/drug/A11A0450A0076)</mark>
     * 24시간 소변 Ca·Na, 혈압·전해질 및 재발 상태를 확인한 뒤 증량/변경 판단; 필요 시 25 ㎎ bid(50 ㎎/d) 또는 indapamide, chlorthalidone 등 장시간 작용 제제 고려(국내 제품 가용성·허가·급여 확인)
     * CARI는 식이 교정 후 지속 고칼슘뇨·재발에서 조건부로 thiazide를 권고하며 장시간 작용 제제를 선호함; HCTZ 반응 불충분 시 자동 증량하지 않음
     * 국내 hydrochlorothiazide의 결석 예방 사용은 허가 외임
     * NOSTONE 시험(NEJM 2023)에서 HCTZ 12.5·25·50 ㎎/d의 복합 재발 지표는 위약보다 유의하게 감소하지 않았음. EAU 2026은 고칼슘뇨에서 thiazide를 계속 권고하므로, 식이 교정 후에도 고칼슘뇨·재발이 지속되는 환자에서 이득·위험을 상의하여 선택함
-    * 시작 전 혈압·Na·K·Cr/eGFR·요산·혈당 확인; **시작 또는 용량 조절 후 4주 이내 Na·K·Cr 재검**(위험군은 더 일찍), 안정 후 대체로 6–12개월마다 확인 <mark style="color:$info;">[AUA Medical Management 2026]</mark>
+    * 시작 전 혈압·Na·K·Cr/eGFR·요산·혈당 확인; **시작 또는 용량 조절 후 4주 이내 Na·K·Cr 재검**(위험군은 더 일찍), 안정 후 대체로 6-12개월마다 확인 <mark style="color:$info;">[AUA Medical Management 2026]</mark>
     * 저나트륨혈증·저칼륨혈증·통풍·내당능 악화 주의; HCTZ 장기 복용 시 자외선 차단·피부 병변 확인
     * 급성 통증기 약물이 아님; 단순히 소변 Ca가 감소했다는 이유만으로 임상적 재발 예방 효과를 단정하지 않음
   * hypocitraturia가 동반되면 potassium citrate 병용 고려
 * Hypocitraturia
-  * potassium citrate <mark style="color:blue;">\[유로시트라케이10mEq서방정; 10 mEq/정]</mark>
-  * 국내 허가 초회량 : 요중 citrate 150 ㎎/d 이상인 경증·중등도는 **10 mEq tid(30 mEq/d)**, 150 ㎎/d 이하인 중증은 **총 60 mEq/d를 3–4회 분복**(예: 20 mEq tid). 국내 문구는 150 ㎎/d에서 두 범위가 겹치므로 그 값에서는 전체 대사 상태·신기능·반응에 따라 선택함
+  * potassium citrate <mark style="color:blue;">[유로시트라케이](https://www.health.kr/drug/A11AOOOOO9528)</mark> 10 mEq/정
+  * 국내 허가 초회량 : 요중 citrate 150 ㎎/d 이상인 경증·중등도는 **10 mEq tid(30 mEq/d)**, 150 ㎎/d 이하인 중증은 **총 60 mEq/d를 3-4회 분복**(예: 20 mEq tid). 국내 문구는 150 ㎎/d에서 두 범위가 겹치므로 그 값에서는 전체 대사 상태·신기능·반응에 따라 선택함
   * 식사 중 또는 식후에 통째로 복용; urine citrate·pH에 따라 조절하되 **100 mEq/d 초과 투여하지 않음**
   * 과도한 알칼리화는 Ca phosphate stone 위험을 높일 수 있어 pH 모니터링
-  * **고칼륨혈증, 만성 신부전, 급성 탈수, 중증 심부전/심근손상 등 칼륨 배설 저하 위험, 칼륨보존성 이뇨제 병용에서는 금기**; 연하·위장관 통과 장애, 항콜린제 투여, 위궤양 및 칼슘/감염 결석 관련 활동성 요로감염 등 국내 허가상 금기도 확인
-  * 항콜린작용이 있는 clomipramine·amitriptyline 등과의 병용은 피함(고형 potassium citrate 서방정 허가상 항콜린제 병용 금기). Drospirenone 함유 피임약(슬린다·야스민·야즈 등)도 고칼륨혈증 위험을 높일 수 있어 K·신기능 및 각 제품의 제한을 함께 평가함 <mark style="color:$info;">[유로시트라케이·drospirenone 제제 국내 허가사항]</mark>
+  * **고칼륨혈증, 만성 신부전, 급성 탈수, 중증 심부전/심근손상 등 칼륨 배설 저하 위험, 칼륨보존성 이뇨제 병용에서는 금기**; 연하·위장관 통과 장애, 항콜린제 투여, 위궤양 및 칼슘/감염 결석 관련 활동성 요로감염 등 금기도 확인
+  * 항콜린작용이 있는 clomipramine·amitriptyline 등과의 병용은 피함(고형 potassium citrate 서방정 허가상 항콜린제 병용 금기). Drospirenone 함유 피임약([슬린다](https://www.health.kr/drug/2024081400006)·[야스민](https://www.health.kr/drug/A11AKP08F0334)·[야즈](https://www.health.kr/drug/A11AKP08G3788) 등)도 고칼륨혈증 위험을 높일 수 있어 K·신기능 및 각 제품의 제한을 함께 평가함 <mark style="color:$info;">[유로시트라케이·drospirenone 제제 국내 허가사항]</mark>
   * 투여 전 및 투여 중 혈청 K·Cr/eGFR 등 확인; ACE 억제제/ARB·NSAID 등 병용 시 고칼륨혈증 주의
   * 허가사항은 전해질·Cr·CBC를 4개월마다 검사하도록 제시하며, 시작·증량 후 및 위험요인이 있으면 더 일찍 확인
 * Hyperuricosuric calcium oxalate stone : 식이 조절 후에도 재발하면 allopurinol을 선택적으로 고려; 고요산뇨·정상 칼슘뇨 환자의 근거가 중심이며, 혈청 요산 상승만으로 일률적으로 처방하지 않음. EAU는 고요산뇨에서 권고하지만 CARI 2026은 통풍이 없는 재발 결석에서 일상적 사용에 신중하므로 결석 성분·소변 대사 상태·이득과 위해를 함께 판단함
@@ -404,13 +391,13 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 * 충분한 수분 섭취 및 purine 과다 섭취 제한
 * 지속적인 산성뇨 교정을 위해 alkaline citrate 사용; 대체로 urine pH **6.0~6.5**를 목표로 개별화함(AUA 기준; EAU 2026 Fig. 4.7은 6.2~6.8 제시). 용해 목적의 높은 pH를 계속 유지하지 않음
 * 소변 pH·수분·식이를 교정한 뒤에도 고요산뇨와 재발이 지속되거나 통풍 적응증이 있으면 allopurinol 고려
-  * allopurinol : 100\~300 ㎎/d <mark style="color:blue;">\[자이로릭]</mark> - 저용량으로 시작하고 신기능에 따라 조절; 단순 산성뇨만 있는 환자의 1차 치료는 알칼리화임
+  * allopurinol : 100\~300 ㎎/d <mark style="color:blue;">[자이로릭](https://www.health.kr/drug/A11A0500A0069)</mark> - 저용량으로 시작하고 신기능에 따라 조절; 단순 산성뇨만 있는 환자의 1차 치료는 알칼리화임
   * 발진·발열·점막 병변 발생 시 즉시 중단·평가; 한국인 등 HLA-B*58:01 위험군, 특히 CKD 동반 시 투여 전 검사 필요성 검토
 
 #### <mark style="color:$primary;">Cystine stone</mark>
 
 * 성인 목표 소변량 **＞3 L/d**; 하루 동안 분산하여 수분 섭취하고 밤 동안의 농축도 줄이도록 교육
-* potassium citrate 등으로 알칼리화; **EAU는 urine pH ＞7.5, AUA 내과적 관리 2026은 7.0–7.5**를 제시함. 전문의가 소변 cystine·결석 재발·Ca phosphate 위험을 보며 목표를 정하고, ＞7.5를 모든 환자의 공통 기준으로 적용하지 않음 <mark style="color:$info;">[EAU 2026; AUA Medical Management 2026]</mark>
+* potassium citrate 등으로 알칼리화; **EAU는 urine pH ＞7.5, AUA 내과적 관리 2026은 7.0-7.5**를 제시함. 전문의가 소변 cystine·결석 재발·Ca phosphate 위험을 보며 목표를 정하고, ＞7.5를 모든 환자의 공통 기준으로 적용하지 않음 <mark style="color:$info;">[EAU 2026; AUA Medical Management 2026]</mark>
 * cystine stone에 대한 유로시트라케이 사용은 국내 허가 외임; 소금·동물성 단백질 제한 병행
 * 충분한 수분·알칼리화로 조절되지 않는 고위험 cystinuria에서는 **tiopronin** 등 cystine-binding thiol drug를 전문의 영역에서 고려
 * thiol drug 사용 전·중 요단백 및 약제별 혈액검사 등 모니터링; D-penicillamine은 부작용 때문에 제한적으로 사용
@@ -425,7 +412,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 #### <mark style="color:$primary;">결석 종류별 목표 urine pH</mark>
 
-<table><thead><tr><th width="180">결석/상황</th><th>urine pH 목표 또는 주의</th></tr></thead><tbody><tr><td>Uric acid stone 용해</td><td>EAU 2026 §3.4.4: 7.0~7.2, Fig. 4.7: 6.5~7.2; AUA 내과적 관리 2026: 6.5~7.0; 전문의가 개별화</td></tr><tr><td>Uric acid stone 재발 예방</td><td>대체로 6.0~6.5(AUA); EAU 2026 Fig. 4.7은 6.2~6.8; 개별화, 과도한 알칼리화 주의</td></tr><tr><td>Cystine stone</td><td>EAU ＞7.5; AUA 2026 7.0–7.5; 전문의가 개별화, 과도한 알칼리화 주의</td></tr><tr><td>Calcium oxalate + hypocitraturia</td><td>citrate 보충 시 과도한 pH 상승 주의</td></tr><tr><td>Calcium phosphate stone</td><td>높은 urine pH가 결석 형성을 촉진할 수 있어 과도한 알칼리화 주의</td></tr></tbody></table>
+<table><thead><tr><th width="180">결석/상황</th><th>urine pH 목표 또는 주의</th></tr></thead><tbody><tr><td>Uric acid stone 용해</td><td>EAU 2026 §3.4.4: 7.0~7.2, Fig. 4.7: 6.5~7.2; AUA 내과적 관리 2026: 6.5~7.0; 전문의가 개별화</td></tr><tr><td>Uric acid stone 재발 예방</td><td>대체로 6.0~6.5(AUA); EAU 2026 Fig. 4.7은 6.2~6.8; 개별화, 과도한 알칼리화 주의</td></tr><tr><td>Cystine stone</td><td>EAU ＞7.5; AUA 2026 7.0-7.5; 전문의가 개별화, 과도한 알칼리화 주의</td></tr><tr><td>Calcium oxalate + hypocitraturia</td><td>citrate 보충 시 과도한 pH 상승 주의</td></tr><tr><td>Calcium phosphate stone</td><td>높은 urine pH가 결석 형성을 촉진할 수 있어 과도한 알칼리화 주의</td></tr></tbody></table>
 
 ***
 
@@ -471,7 +458,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
   * 약 30일 MET 후 미배출이면 적극적 치료 상담; 지속 폐쇄·신기능 악화 등에서는 기다리지 않음
   * 발열/UTI, refractory pain, renal function deterioration, 지속 구토가 발생하면 즉시 재평가
 * 적극적 치료 후 잔류 결석 평가 : 시술 종류와 임상 상황에 따라 US/KUB/NCCT 선택; 통상 약 4주 후 영상을 고려하되 증상·감염·폐쇄 의심 시 앞당김. 잔류 결석 ＞4 ㎜는 추가 치료를 적극 검토
-* 무증상 비폐쇄 신결석 : 크기·위치·성분·재발 위험에 따라 영상 추적; 성장·증상·감염·폐쇄 발생 시 치료 상담. 예방 치료 후 초기 영상은 대체로 6–12개월 간격을 고려하되 임상적 결석 활동도에 따라 조절 <mark style="color:$info;">[AUA Medical Management 2026]</mark>
+* 무증상 비폐쇄 신결석 : 크기·위치·성분·재발 위험에 따라 영상 추적; 성장·증상·감염·폐쇄 발생 시 치료 상담. 예방 치료 후 초기 영상은 대체로 6-12개월 간격을 고려하되 임상적 결석 활동도에 따라 조절 <mark style="color:$info;">[AUA Medical Management 2026]</mark>
 * 방광 결석 : BPH·신경인성 방광·도뇨관/이물 등 원인 평가 및 치료; 요관결석 MET를 그대로 적용하지 않음
 * 대사 예방 치료 후 : 약물 예방 치료 시작 8\~12주 후 24시간 소변 재검 → 이상 소견이 지속되면 치료 조정 후 재검; 정상화되면 대체로 연 1회 평가
 
@@ -481,7 +468,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 <table><thead><tr><th>코드</th><th>KCD-9 정식 명칭</th><th>적용 참고</th></tr></thead><tbody><tr><td>N20.0</td><td>신장의 결석</td><td>신결석</td></tr><tr><td>N20.1</td><td>요관의 결석</td><td>요관결석</td></tr><tr><td>N20.2</td><td>요관결석을 동반한 신장결석</td><td>신장·요관 모두 결석</td></tr><tr><td>N20.9</td><td>상세불명의 요로결석</td><td>위치 불명</td></tr><tr><td>N21.0</td><td>방광의 결석</td><td>방광결석</td></tr><tr><td>N21.1</td><td>요도결석</td><td>요도 위치</td></tr><tr><td>N21.8</td><td>기타 하부요로결석</td><td>해당 진단이 확인된 경우</td></tr><tr><td>N21.9</td><td>상세불명의 하부요로결석</td><td>하부요로로 확인되나 위치 불명</td></tr><tr><td>N13.2</td><td>신장 및 요관의 결석성 폐색을 동반한 수신증</td><td>결석성 폐색과 수신증 동반</td></tr><tr><td>N23</td><td>상세불명의 신장 급통증</td><td>원인 미확정 신산통</td></tr></tbody></table>
 
-* 저장된 `KCD9_251216(6).xlsx`의 「상병분류기호(완전코드)」와 직접 대조함(엑셀은 소수점 없는 코드 형식).
+* 저장된 `KCD9_251216(7).xlsx`의 「상병분류기호(완전코드)」와 직접 대조함(엑셀은 소수점 없는 코드 형식).
 * 결석성 폐색에 의한 수신증이 확인되면 N13.2 적용을 검토함. 코드의 존재·명칭 확인과 주상병/부상병·중복 청구 결정은 구분하며 실제 확정 진단과 분류 지침에 따라 선택함.
 
 ***
@@ -496,6 +483,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > 애니펜정 300 ㎎/T[dexibuprofen]  1T tid  통증 시, 식후, 단기간
 > ```
 >
+> 약제 정보: [애니펜정·300 ㎎](https://www.health.kr/drug/A11AEEEEE0492)
+>
 > _✽NSAID는 한 가지만 사용하고 타이레놀 ER을 일률적으로 추가하지 않음. 통증 조절이 불충분하면 감염·폐쇄·신기능 악화 및 감압/제거술 적응증을 재평가하고, 의료기관에서 정맥주사 acetaminophen 등 제품별 허가사항에 맞는 추가 진통 전략을 검토함. 타이레놀 ER로 변경하는 경우에도 TCA·바르비탈계 복용 등 금기와 이미 복용한 acetaminophen 총량을 확인함._
 
 > **처방례 2. MET(주로 5\~10 ㎜ 원위 요관결석)**
@@ -505,14 +494,18 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > 애니펜정 300 ㎎/T[dexibuprofen]  1T tid  통증 시, 식후, 단기간
 > ```
 >
+> 약제 정보: [한미탐스캡슐·0.4 ㎎](https://www.health.kr/drug/2016010500011) · [애니펜정·300 ㎎](https://www.health.kr/drug/A11AEEEEE0492)
+>
 > _✽tamsulosin의 요로결석 사용은 국내 허가 외. 약 30일 이내 재평가하되 중간 경과 확인을 계획하고, 감염·신기능 악화·난치성 통증이면 즉시 중단·의뢰. 기립성 저혈압 및 사정 장애 안내._
 
 > **처방례 3. NSAID 단독 효과가 불충분하여 복합제로 대체하는 경우**
 >
 > ```
-> 마이폴캡슐[acetaminophen 250 ㎎+ibuprofen 200 ㎎+codeine phosphate 10 ㎎]/C
+> 마이폴캡슐[acetaminophen 250 ㎎+ibuprofen 200 ㎎+codeine phosphate hydrate 10 ㎎]/C
 > 1C tid  필요 시, 단기간  (기존 NSAID 중단)
 > ```
+>
+> 약제 정보: [마이폴캡슐·acetaminophen 250 ㎎/ibuprofen 200 ㎎/codeine phosphate hydrate 10 ㎎](https://www.health.kr/drug/A11AOOOOO1290)
 >
 > _✽기존 NSAID에 추가하지 않음. NSAID 금기 환자에게 사용하지 않으며, acetaminophen 총량·졸림·호흡억제·변비를 확인함. 조절되지 않는 산통은 약제 변경만으로 지연하지 않고 감압/제거술 평가._
 
@@ -523,6 +516,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > 1T q6h prn  단기간
 > ```
 >
+> 약제 정보: [하이코돈정·hydrocodone tartrate 5 ㎎/acetaminophen 325 ㎎](https://www.health.kr/drug/2012040200006)
+>
 > _✽최저 용량의 예시. 중증 신·간장애에서는 축적 위험이 있어 별도 조절·평가가 필요하며, NSAID 금기라는 이유만으로 자동 선택하지 않음. 다른 opioid·진정제·음주와 병용하지 않으며 운전 금지. 복합제의 acetaminophen도 총량에 포함함._
 
 > **처방례 4. 재발성 calcium stone + 지속 고칼슘뇨**
@@ -530,6 +525,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > ```
 > 다이크로짇정 25 ㎎/T[hydrochlorothiazide]  1T qd  아침
 > ```
+>
+> 약제 정보: [다이크로짇정·25 ㎎](https://www.health.kr/drug/A11A0450A0076)
 >
 > _✽저염식 후에도 고칼슘뇨·재발이 지속될 때 이득·위험을 상의하여 선택하는 국내 허가 외 처방. 혈압·Na·K·Cr·요산·혈당 확인. Citrate를 일률적으로 병용하지 않으며 저구연산염뇨 등 별도 적응증이 있을 때 추가함._
 
@@ -540,6 +537,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > 중증 저구연산염뇨 시 : 2T tid(60 mEq/d)로 시작 고려
 > ```
 >
+> 약제 정보: [유로시트라케이10mEq서방정·10 mEq](https://www.health.kr/drug/A11AOOOOO9528)
+>
 > _✽24시간 urine citrate·pH와 혈청 K·신기능에 따라 조절; 100 mEq/d 초과 금지. 서방정이므로 포 단위로 쓰지 않으며 분할·분쇄·씹기 금지. 고칼륨혈증·만성 신부전·항콜린제 병용 등 금기 및 drospirenone 피임약 복용 확인._
 
 > **처방례 5. Uric acid stone - 경구 용해 치료**
@@ -548,6 +547,8 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 > 유로시트라케이10mEq서방정 10 mEq/T  2T tid(60 mEq/d)  식사 중/식후
 > 소변 pH 및 K·신기능에 따라 조절, 100 mEq/d 초과 금지
 > ```
+>
+> 약제 정보: [유로시트라케이10mEq서방정·10 mEq](https://www.health.kr/drug/A11AOOOOO9528)
 >
 > _✽초기 용량의 예시이며 전문의와 치료 계획 수립. pH 7.0\~7.2는 EAU §3.4.4 용해 목표(Fig. 4.7은 6.5\~7.2)이며 AUA 내과적 관리 2026은 6.5\~7.0을 제시함(국내 허가 일반 목표 6.0\~7.0과 구분). 자가 pH 및 영상으로 용해·폐쇄 해소 확인; 폐쇄 시 배액 병행, 감염성 폐쇄는 응급 감압을 우선함._
 
@@ -562,21 +563,25 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 > **α1-차단제(한미탐스 0.4 ㎎ 등, MET)**
 >
-> * 선택한 한미탐스캡슐은 하루 한 번 식후 복용합니다. 어지럼·실신 위험이 있으므로 천천히 일어나며, 심한 어지럼이나 실신이 생기면 복용을 중단하고 진료를 받습니다.
+> * 선택한 한미탐스캡슐은 하루 한 번 식후 통째로 삼키며, 열거나 씹거나 부수지 않습니다. 어지럼·실신 위험이 있으므로 천천히 일어나며, 심한 어지럼이나 실신이 생기면 복용을 중단하고 진료를 받습니다.
 > * 정액량이 줄거나 정액이 나오지 않을 수 있음을 설명합니다. 모두 정액이 방광으로 역류하는 현상은 아니며, 임신 계획이 있다면 미리 알립니다.
-> * 국내 허가 외 사용(off-label)임을 설명하고, 약 30일(4주) 복용해도 결석이 배출되지 않으면 재평가가 필요합니다.
+> * 허가 외 사용(off-label)임을 설명하고 진단 시 정한 중간 재평가 일정을 지킵니다. 약 30일(4주) 이내 배출 여부를 확인하며, 발열·소변량 감소·난치성 통증이 생기면 약을 중단하고 즉시 평가받습니다.
+> * 기존 전립선약·혈압약·발기부전약·조루약을 미리 알립니다. 같은 성분이나 다른 α-차단제를 임의로 추가하지 않습니다.
 
 > **재발 예방 약물(thiazide, citrate)**
 >
 > * 재발 예방 목적으로 처방받았다면 정기검사로 효과와 부작용을 확인하면서 복용합니다. Citrate는 요산결석을 녹이는 치료에도 쓰이므로 처방 목적에 따라 용량과 기간이 다릅니다.
 > * thiazide는 시작·증량 후 4주 이내 전해질·신기능을 확인하고, 혈압·요산·혈당도 추적합니다. Citrate는 혈청 K·신기능과 소변 pH·citrate를 확인합니다.
-> * 유로시트라케이는 서방정으로 식사 중/식후 통째로 삼키며, 쪼개거나 씹지 않습니다. 신부전·고칼륨혈증, 칼륨보존성 이뇨제, 네노마 등 항콜린작용 약물 또는 drospirenone 피임약 복용 여부를 처방 전에 알립니다.
+> * 유로시트라케이는 서방정으로 처방에 따라 식사 중 또는 식후 30분 이내 통째로 삼키며, 쪼개거나 씹지 않습니다. 신부전·고칼륨혈증, 칼륨보존성 이뇨제, 네노마 등 항콜린작용 약물 또는 drospirenone 피임약 복용 여부를 처방 전에 알립니다.
+
+> * 유로시트라케이 복용 중 심한 구토·복통·검은 변·피 토함이 생기면 복용을 중단하고 즉시 평가받습니다. 칼륨 보충제나 칼륨 함유 소금 대체품을 임의로 추가하지 않습니다. 요산결석 용해 치료는 정해진 pH 측정·용량 조절 계획을 따르고 영상 재검을 받습니다.
 
 > **복합 진통제 사용 시 acetaminophen 중복 주의**
 >
 > * 타이레놀8시간이알에 애니펜·부루펜·낙센 등 소염진통제를 임의로 추가하지 마십시오. 병용·변경은 실제 처방받은 제품과 의료진의 지시에 따르십시오.
 > * 타이레놀8시간이알은 다른 acetaminophen 함유제와 함께 복용하지 않습니다. 마이폴(250 ㎎/캡슐), 하이코돈5 ㎎(325 ㎎/정)에도 같은 성분이 들어 있으므로 진통제를 바꿀 때 이미 복용한 양을 포함해 총량을 확인합니다. 타이레놀 650 ㎎ 서방정 자체는 24시간 6정(3,900 ㎎) 이내이며, 간질환·과음·쇠약 시에는 더 낮은 한도를 정합니다.
 > * 마이폴에는 ibuprofen이 있으므로 애니펜·부루펜·낙센 등 다른 NSAID와 함께 복용하지 않습니다.
+> * 마이폴·하이코돈은 졸림·호흡억제를 일으킬 수 있습니다. 운전·음주를 피하고 수면제·항불안제·다른 opioid를 임의로 함께 복용하지 않습니다. 깨우기 어렵거나 호흡이 느려지면 즉시 119/응급실에 연락합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -601,13 +606,13 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 * [Surgical Management of Kidney and Ureteral Stones: AUA Guideline (2026)](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/Surgical%20Stones%20Unabridged%202026.pdf)
 * [FDA. NSAIDs in pregnancy at 20 weeks or later](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic)
 * [NICE NG118. Renal and ureteric stones: assessment and management](https://www.nice.org.uk/guidance/ng118/chapter/recommendations)
-* [Dhayat NA, et al. Hydrochlorothiazide and Prevention of Kidney-Stone Recurrence. NEJM 2023;388:781–791.](https://pubmed.ncbi.nlm.nih.gov/36856614/)
+* [Dhayat NA, et al. Hydrochlorothiazide and Prevention of Kidney-Stone Recurrence. NEJM 2023;388:781-791.](https://pubmed.ncbi.nlm.nih.gov/36856614/)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/): 국내 품목별 효능·효과, 용법·용량, 금기·주의사항 확인 자료.
 * 본문 관련 국내 품목: 부루펜정, 애니펜정300밀리그램, 한미탐스캡슐0.4밀리그램, 유로시트라케이10mEq서방정, 타이레놀8시간이알서방정, 마이폴캡슐, 하이코돈정5밀리그램, 다이크로짇정.
-* 질병코드: 저장된 `KCD9_251216(6).xlsx`, 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」(대조일: 2026-10-29).
+* 질병코드: 저장된 `KCD9_251216(7).xlsx`, 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」(대조일: 2026-11-11).
 
 ***
 
@@ -636,13 +641,15 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 통증약은 처방된 용량으로 필요한 기간에만 복용하며, 다른 소염진통제를 추가하지 마십시오. 검은 변·피 토함·소변량 감소가 있으면 바로 진료를 받으십시오.
-* 배출을 돕는 약(한미탐스캡슐)은 하루 한 번 식후 복용하고 일어날 때 천천히 움직이십시오. 심한 어지럼·실신이 생기면 복용을 중단하고 진료를 받으십시오.
+* 배출을 돕는 약(한미탐스)은 하루 한 번 식후 캡슐을 통째로 삼키고 일어날 때 천천히 움직이십시오. 심한 어지럼·실신이 생기면 복용을 중단하고 진료를 받으십시오.
+* 마이폴·하이코돈 같은 진통제는 졸리거나 호흡이 느려질 수 있어 운전·음주를 피하고, 다른 진통제·수면제를 임의로 추가하지 마십시오. 깨우기 어렵거나 숨이 느려지면 즉시 응급 도움을 요청하십시오.
 * 재발 방지약은 정기검사로 효과와 부작용을 확인하며 복용합니다. 구연산염(citrate) 약은 요산결석을 녹이는 데에도 쓰이므로, 복용 목적·용량·기간은 처방한 의사의 안내를 따르십시오.
+* 유로시트라케이는 정제를 통째로 삼킵니다. 소변 pH 측정·용량 조절 계획을 따르고 칼륨 보충제를 임의로 더하지 마십시오. 심한 복통·구토·검은 변·피 토함이 생기면 복용을 중단하고 바로 진료받으십시오.
 * 가능하면 소변으로 나온 돌을 체로 걸러 모아 성분 검사를 받으십시오. **통증이 없어져도 결석이 나왔다고 단정할 수 없으므로 예약된 재검사를 받으십시오.**
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
-* **발열·오한, 심한 무기력, 의식 변화**가 함께 있는 경우(열이 높지 않아도 기다리지 마십시오)
+* **발열·오한, 심한 무기력 또는 의식 변화 중 하나라도 생긴 경우**에는 즉시 진료받으십시오. 여러 증상이 함께 생길 때까지 기다리지 마십시오.
 * 진통제를 먹어도 **참기 힘든 통증**이거나 **구토가 반복**되는 경우
 * 소변이 거의 나오지 않는 경우
 

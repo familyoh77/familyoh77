@@ -160,7 +160,7 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 * office endometrial biopsy에서 검체가 불충분하거나, 음성이어도 출혈이 지속/재발하거나 focal lesion이 의심되면 hysteroscopy ± directed biopsy/D\&C 고려
 
 {% hint style="info" %}
-**조직검사 방법과 최신 지침** : 기존 ACOG 지침은 연령·위험도에 따라 office sampling(예: Pipelle biopsy)을 사용할 수 있도록 하며, NICE NG88은 HMB의 조직검사를 diagnostic hysteroscopy 과정에서 시행하도록 권고합니다. **2026 AAGL–ESGE–GCH 공동지침은 AUB/PMB에서 조직 평가가 필요할 때 자궁경 관찰하 표적 생검을 blind sampling보다 선호**하며, 특히 국소 병변 또는 불충분한 선행 검사에서 유용합니다. 자궁경 육안 관찰만으로 과형성·암을 확진하거나 배제하지 않으며 병리 검체를 확보해야 합니다. 검사 접근성을 고려해 방법을 결정하되 필요한 조직 평가를 지연하지 않습니다.
+**조직검사 방법과 최신 지침** : 기존 ACOG 지침은 연령·위험도에 따라 office sampling(예: Pipelle biopsy)을 사용할 수 있도록 하며, NICE NG88은 HMB의 조직검사를 diagnostic hysteroscopy 과정에서 시행하도록 권고합니다. **2026 AAGL-ESGE-GCH 공동지침은 AUB/PMB에서 조직 평가가 필요할 때 자궁경 관찰하 표적 생검을 blind sampling보다 선호**하며, 특히 국소 병변 또는 불충분한 선행 검사에서 유용합니다. 자궁경 육안 관찰만으로 과형성·암을 확진하거나 배제하지 않으며 병리 검체를 확보해야 합니다. 검사 접근성을 고려해 방법을 결정하되 필요한 조직 평가를 지연하지 않습니다.
 {% endhint %}
 
 ### <mark style="color:orange;">감별 진단</mark>
@@ -171,40 +171,37 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 
 ```mermaid
 flowchart TD
-    A["생식연령의 비정상 출혈"] ---> B{"혈역학적으로 안정?"}
-    B -- "아니오" ---> C["즉시 안정화와 산부인과 협진; 임신 평가 동시 진행"]
-    B -- "예" ---> D["hCG와 병력·진찰·CBC; 필요시 ferritin 등"]
-    D ---> E{"임신 양성 또는 의심 지속?"}
-    E -- "예" ---> F["임신 관련 출혈 평가; 통증·실신 시 응급 의뢰"]
-    E -- "아니오" ---> G["조직검사 적응증과 구조적 병변을 함께 평가"]
-    G ---> H{"＞45세, 고위험, 지속 출혈 또는 치료 실패?"}
-    H -- "예" ---> I["자궁내막 조직검사; 자궁경 표적 생검 우선 고려"]
-    H -- "아니오" ---> J["배란·응고·약물 원인 평가와 치료"]
-    G ---> K{"구조적 병변 의심 또는 출혈 지속?"}
-    K -- "예" ---> L["TVUS 또는 자궁강 병변 의심 시 자궁경검사"]
-    K -- "아니오" ---> J
-    I ---> M{"검체 불충분, 출혈 지속·재발 또는 국소 병변?"}
-    M -- "예" ---> N["자궁경검사와 표적 조직검사 ± D&C"]
-    L ---> O{"자궁강 병변 또는 평가 불충분?"}
-    O -- "예" ---> N
-    O -- "아니오" ---> J
-    M -- "아니오" ---> P["병리 결과에 따른 치료"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style E fill:#fff9c4,stroke:#ffe082
-    style H fill:#fff9c4,stroke:#ffe082
-    style K fill:#fff9c4,stroke:#ffe082
-    style C fill:#FFEBEE,stroke:#EB5757
-    style F fill:#FFEBEE,stroke:#EB5757
-    style I fill:#E8F5E9,stroke:#6FCF97
-    style L fill:#E8F5E9,stroke:#6FCF97
-    style N fill:#E8F5E9,stroke:#6FCF97
+    A["생식연령의 비정상 출혈"] --> B{"혈역학적으로 안정?"}
+    B -- "아니오" --> C["즉시 안정화와 산부인과 협진; 임신 평가 동시 진행"]
+    B -- "예" --> D["hCG와 병력·진찰·CBC; 필요시 ferritin 등"]
+    D --> E{"임신 양성 또는 의심 지속?"}
+    E -- "예" --> F["임신 관련 출혈 평가·원인별 진료"]
+    E -- "아니오" --> G["조직검사 적응증과 구조적 병변을 함께 평가"]
+    G --> H{"＞45세, 고위험, 지속 출혈 또는 치료 실패?"}
+    H -- "예" --> I["자궁내막 조직검사; 자궁경 표적 생검 우선 고려"]
+    H -- "아니오" --> J["배란·응고·약물 원인 평가와 치료"]
+    G --> K{"구조적 병변 의심 또는 출혈 지속?"}
+    K -- "예" --> L["TVUS 또는 자궁강 병변 의심 시 자궁경검사"]
+    K -- "아니오" --> J
+    I --> M{"검체 불충분, 출혈 지속·재발 또는 국소 병변?"}
+    M -- "예" --> N["자궁경검사와 표적 조직검사 ± D&C"]
+    L --> O{"자궁강 병변 또는 평가 불충분?"}
+    O -- "예" --> N
+    O -- "아니오" --> J
+    M -- "아니오" --> P["병리 결과에 따른 치료"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef care fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class B,E,H,K,M,O question
+    class C emergency
+    class D,F,G,I,J,L,N,P care
 ```
 
 <p align="center"><strong>생식연령 AUB 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. FIGO Systems 1 and 2; ACOG No. 128/557; NICE NG88; AAGL–ESGE–GCH 2026</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: FIGO Systems 1 and 2; ACOG No. 128/557; NICE NG88; AAGL-ESGE-GCH 2026)</mark></em></p>
 
 ***
 
@@ -241,7 +238,7 @@ flowchart TD
 flowchart TD
     A["폐경 후 출혈"] --> B["출혈원 확인; 암 위험과 추적 가능성 평가"]
     B --> C["TVUS; 대부분의 환자는 자궁내막 조직검사 병행"]
-    C --> D{"단일 출혈, 내막 완전 관찰 ≤4 ㎜, 강한 위험 인자 없음, 신속한 추적 가능의 4조건 모두 충족?"}
+    C --> D{"TVUS 단독 평가의 4조건 모두 충족?"}
     D -- "예" --> E["설명과 공동 결정 후 조직검사 생략 가능"]
     D -- "아니오" --> F["자궁내막 조직검사; 자궁경 표적 생검 우선 고려"]
     E --> G{"출혈 지속·재발?"}
@@ -250,23 +247,24 @@ flowchart TD
     F --> I{"검체 불충분, 음성이지만 출혈 지속·재발 또는 국소 병변?"}
     I -- "예" --> J["자궁경검사와 표적 생검 ± D&C"]
     I -- "아니오" --> K["병리·영상 결과에 따른 치료"]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style D fill:#fff9c4,stroke:#ffe082
-    style G fill:#fff9c4,stroke:#ffe082
-    style I fill:#fff9c4,stroke:#ffe082
-    style F fill:#E8F5E9,stroke:#6FCF97
-    style J fill:#E8F5E9,stroke:#6FCF97
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef care fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class D,G,I question
+    class B,C,E,F,H,J,K care
 ```
 
 <p align="center"><strong>폐경 후 출혈 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ACOG Clinical Practice Update 2026; AAGL–ESGE–GCH 2026</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: ACOG Clinical Practice Update 2026; AAGL-ESGE-GCH 2026)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 과체중·비만이 있으면 체중 관리와 규칙적인 운동을 권고; 저체중·섭식 장애·과도한 운동에 의한 배란 장애에서는 영양 회복과 운동량 조절이 필요
 * 철분이 풍부한 식이는 도움이 되나, 확인된 철결핍/빈혈의 약물 보충을 대신하지 못함
@@ -275,7 +273,7 @@ flowchart TD
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 {% hint style="info" %}
-국내 허가 용법과 지침·연구에서 사용하는 용법을 구분합니다. **허가와 건강보험 급여는 별개의 판단**이며, 급여는 제품·적응증별 현행 기준을 확인합니다. 급성 AUB의 고용량 COC/MPA, 야즈·야스민의 AUB/HMB 치료, NSAID의 HMB 감소 목적 사용 등은 허가 외 사용입니다. 피임·월경통 등 각 제품에 허가된 적응증과 구분하고, 임신 및 중요한 구조적·악성 원인과 약물별 금기를 확인한 뒤 선택합니다.
+국내 허가 용법과 지침·연구에서 사용하는 용법을 구분합니다. **허가와 건강보험 급여는 별개의 판단**이며, 급여는 제품·적응증별 현행 기준을 확인합니다. 급성 AUB의 고용량 COC/MPA, [야즈](https://www.health.kr/drug/A11AKP08G3788)·야스민의 AUB/HMB 치료, NSAID의 HMB 감소 목적 사용 등은 허가 외 사용입니다. 피임·월경통 등 각 제품에 허가된 적응증과 구분하고, 임신 및 중요한 구조적·악성 원인과 약물별 금기를 확인한 뒤 선택합니다.
 {% endhint %}
 
 ### <mark style="color:orange;">철결핍/빈혈의 동반 치료</mark>
@@ -302,9 +300,9 @@ flowchart TD
 * 고용량 복합 경구 피임제(COC) 또는 고용량 progestin을 1차 약물요법으로 고려; 안정적이어도 상당량의 진행 중 출혈·중증 빈혈·경구 섭취 불가 또는 추적 곤란이면 병원 평가/입원 고려
 * COC 예(허가 외 용법) : monophasic COC의 활성정(EE 30\~35 ㎍ 함유) 1T tid ×7일 후 1T qd로 감량/유지; 위약은 고용량 치료에 사용하지 않으며, 제제별 적합성과 estrogen 금기·VTE 위험을 확인
   * 근거 RCT는 norethindrone 1 ㎎ + EE 35 ㎍ 제제를 사용함; 국내 다른 조성의 COC에 적용할 때는 산부인과·기관 프로토콜에 따름
-  * 다상성 제제(클래라 등)와 EE 20 ㎍ 유지요법 제제(야즈 등)를 이 고용량 단상성 regimen에 임의로 대입하지 않음; 구역·구토가 심하면 항구토제 고려
-* medroxyprogesterone acetate(MPA) : 20 ㎎ PO tid ×7일(급성 AUB의 허가 외 고용량 용법) <mark style="color:blue;">\[프로베라]</mark>
-  * estrogen을 피해야 하는 경우의 대안이나, 프로베라의 국내 허가사항상 VTE/혈전성향증·중증 간질환·유방암 등은 별도 금기이므로 estrogen 금기 환자 모두에게 사용 가능한 것은 아님
+  * 다상성 제제([클래라](https://www.health.kr/drug/2012042300003) 등)와 EE 20 ㎍ 유지요법 제제(야즈 등)를 이 고용량 단상성 regimen에 임의로 대입하지 않음; 구역·구토가 심하면 항구토제 고려
+* medroxyprogesterone acetate(MPA) : 20 ㎎ PO tid ×7일(급성 AUB의 허가 외 고용량 용법) <mark style="color:blue;">[프로베라](https://www.health.kr/drug/A11ABBBBB1687)</mark>
+  * estrogen을 피해야 하는 경우의 대안이나, 프로베라의 허가사항상 VTE/혈전성향증·중증 간질환·유방암 등은 별도 금기이므로 estrogen 금기 환자 모두에게 사용 가능한 것은 아님
   * 출혈 조절 후 감량·유지요법으로 전환; 근거 RCT의 예는 이후 20 ㎎ qd ×3주이며, 원인과 반응에 따라 산부인과에서 조정
   * 경구 MPA의 급성·주기요법은 피임법이 아니므로 피임이 필요하면 별도 대책 마련
 * tranexamic acid는 estrogen 금기이거나 보조적 지혈이 필요한 경우 고려할 수 있음; 급성기 특정 고용량 경구 regimen은 근거가 확립되어 있지 않으므로 제형·신기능 및 제품 허가사항에 따라 용량을 결정
@@ -313,19 +311,19 @@ flowchart TD
 
 * 원인, 임신 희망 여부, 피임 필요성, 동반 질환 및 환자 선호에 따라 선택
 * 복합 경구 피임제 : 주기 조절 및 출혈량 감소; **제품별 HMB 허가 여부가 다름**
-  * estradiol valerate/dienogest 다상성 제제 <mark style="color:blue;">\[클래라]</mark> : 국내에서 **경구 피임제를 선택한 여성에 한하여 기질적 원인이 없는 월경과다**에 허가. 1T qd, 28일간 포장 순서대로 복용 후 휴약 없이 다음 포장 시작; 급성 AUB 고용량 요법으로 사용하지 않음
-  * 야스민·야즈의 AUB/HMB 치료 목적 사용은 허가 외이며 피임 적응증과 구분
+  * estradiol valerate/dienogest 다상성 제제 <mark style="color:blue;">클래라</mark> : 국내에서 **경구 피임제를 선택한 여성에 한하여 기질적 원인이 없는 월경과다**에 허가. 1T qd, 28일간 포장 순서대로 복용 후 휴약 없이 다음 포장 시작; 급성 AUB 고용량 요법으로 사용하지 않음
+  * [야스민](https://www.health.kr/drug/A11AKP08F0334)·야즈의 AUB/HMB 치료 목적 사용은 허가 외이며 피임 적응증과 구분
   * 시작 전 혈압과 VTE 위험을 평가; 조짐편두통, 혈전색전증/혈전성향증, 중증 고혈압, 유방암·중증 간질환 등의 금기 확인. 야즈·야스민은 35세 이상 흡연자에게 투여하지 않음
   * drospirenone 제제(야즈·야스민)는 levonorgestrel 함유 COC보다 VTE 위험이 높을 수 있어 개인별 위험도를 고려. 신장애·부신기능부전 등 금기와 고칼륨혈증 위험을 확인하며, 칼륨을 높이는 약물(ACEI/ARB, spironolactone 등)을 장기 병용하면 첫 주기에 혈청 K 검사 시행
-  * <mark style="color:blue;">\[야스민]</mark> : ethinyl estradiol(EE) 30 ㎍ + drospirenone 3 ㎎; 21일 복용 → 7일 휴약
-  * <mark style="color:blue;">\[야즈]</mark> : EE 20 ㎍ + drospirenone 3 ㎎; 24일 활성정 → 4일 위약
+  * <mark style="color:blue;">야스민</mark> : ethinyl estradiol(EE) 30 ㎍ + drospirenone 3 ㎎; 21일 복용 → 7일 휴약
+  * <mark style="color:blue;">야즈</mark> : EE 20 ㎍ + drospirenone 3 ㎎; 24일 활성정 → 4일 위약
 * progestin 단독
-  * medroxyprogesterone acetate(MPA) : 국내 기능성 자궁출혈 허가 용법은 주기 제16일 또는 제21일부터 5\~10 ㎎ qd ×5\~10일; 예: 제16일부터 10 ㎎ qd ×10일 <mark style="color:blue;">\[프로베라]</mark>
+  * medroxyprogesterone acetate(MPA) : 국내 기능성 자궁출혈 허가 용법은 주기 제16일 또는 제21일부터 [5](https://www.health.kr/drug/A11A3770A0075)\~10 ㎎ qd ×5\~10일; 예: 제16일부터 10 ㎎ qd ×10일 <mark style="color:blue;">\[프로베라]</mark>
   * depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM q3개월 - 장기 월경 억제의 선택지(국외 지침 용법; 국내 제형·적응증·가용성 별도 확인). 초기 불규칙 출혈, 골밀도 감소 및 임신능 회복 지연을 고려하며 급성 지혈의 단독 1차 약제로 사용하지 않음
   * 장기 DMPA 등 주사 MPA는 수막종 위험 신호가 있어 수막종 병력과 관련 증상을 확인; EMA 2024 안전성 조치의 대상은 모든 주사제 및 ≥100 ㎎ 경구 제형이며, 이를 짧은 기간의 저용량 경구 주기요법과 동일한 위험으로 해석하지 않음
   * 짧은 주기요법은 무배란성 자궁내막 보호·소퇴성 출혈 유도가 주목적이며, HMB 감소 효과가 LNG-IUS나 더 긴 progestin 요법과 같지는 않음
   * norethindrone/norethisterone 계열은 제형·성분별 용량이 다르므로 norethindrone acetate와 0.35 ㎎ norethindrone POP를 혼용하지 않도록 주의
-* levonorgestrel-releasing intrauterine system(LNG-IUS) : 52 ㎎ 제제는 효과적인 장기 HMB 치료 <mark style="color:blue;">\[미레나]</mark>
+* levonorgestrel-releasing intrauterine system(LNG-IUS) : 52 ㎎ 제제는 효과적인 장기 HMB 치료 <mark style="color:blue;">[미레나](https://www.health.kr/drug/A11ABBBBB1200)</mark>
   * NICE NG88의 우선 고려 대상 : 뚜렷한 병변이 없는 HMB, 자궁강 변형이 없는 ＜3 ㎝ 근종 또는 선근증; 큰 근종·자궁강 변형은 산부인과에서 별도 평가
   * 미레나 국내 허가 유효기간 : 월경과다·월경곤란증 치료 및 estrogen 대체요법시 내막 보호는 5년, 피임은 8년; 저용량 LNG-IUS의 피임 허가를 HMB 치료 허가로 혼동하지 않음
   * 삽입 전 임신, 활동성 골반감염, 설명되지 않은 출혈·악성 병변(유방암 등 progestin 의존성 종양 포함) 및 자궁강 변형을 확인; 초기 불규칙 출혈을 설명하고 안정적인 경우 효과 평가에 약 6주기 허용
@@ -340,7 +338,7 @@ flowchart TD
 #### <mark style="color:$primary;">Tranexamic acid</mark>
 
 * antifibrinolytic 작용; 월경 시작과 함께 복용하여 HMB 기간에만 사용
-* 국내 도란사민캡슐 : 250 ㎎/C; 통상 성인 1일 750\~2,000 ㎎을 3\~4회 분복하며 연령·증상에 따라 조정. 성기출혈이 허가 효능에 포함됨
+* <mark style="color:blue;">[도란사민](https://www.health.kr/drug/A11ABBBBB1075)</mark> : 250 ㎎/C; 통상 성인 1일 750\~2,000 ㎎을 3\~4회 분복하며 연령·증상에 따라 조정. 성기출혈이 허가 효능에 포함됨
 * 국외 HMB 요법인 1,000\~1,300 ㎎ tid ×최대 4\~5일은 국내 통상 용량과 구분; 국내 제품에 그대로 옮겨 통상 허가 용법으로 제시하지 않음
 * HMB에서는 출혈이 많은 월경 기간에만 단기간 사용; 처방례의 4\~5일은 치료 예시이며 국내 허가상 일률적인 최대 사용기간은 아님
 * 활동성 혈전색전증, 중증 신부전 및 thrombin 병용은 국내 금기; 신기능 저하에서는 축적 위험과 감량 필요성 평가
@@ -352,9 +350,9 @@ flowchart TD
 
 * prostaglandin 생성 억제 → 월경 출혈량과 dysmenorrhea 감소; 아래 NSAID의 HMB 감소 목적 사용은 허가 외(월경통 적응증과 구분)
 * 월경 시작 또는 직전부터 출혈이 많은 기간 동안 사용
-* ibuprofen : 400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
-* naproxen sodium : 275 ㎎ tid <mark style="color:blue;">\[아나프록스]</mark>
-* 소화성 궤양, 신기능 저하, NSAID 과민증 등 금기/주의 확인; 다른 NSAID와 중복하지 않음. 부루펜은 국내 허가상 기관지천식 또는 그 병력 자체가 금기이며, 위장관궤양·출혈 또는 그 병력, 심한 간·신장·심장기능장애·고혈압 등 제품별 금기를 적용함(001 참조)
+* ibuprofen : 400 ㎎ tid <mark style="color:blue;">[부루펜](https://www.health.kr/drug/A11A0500A0131)</mark>
+* naproxen sodium : 275 ㎎ tid <mark style="color:blue;">[아나프록스](https://www.health.kr/drug/A11ABBBBB2070)</mark>
+* 소화성 궤양, 신기능 저하, NSAID 과민증 등 금기/주의 확인; 다른 NSAID와 중복하지 않음. 부루펜은 국내 허가상 기관지천식 또는 그 병력 자체가 금기이며, 위장관궤양·출혈 또는 그 병력, 심한 간·신장·심장기능장애·고혈압 등 제품별 금기를 적용함(☞ [통증](001_-pain.md))
 * VWD·혈소판 기능장애 등 출혈장애가 확인되었거나 의심되는 HMB에서는 NSAID를 일상적으로 사용하지 않고 혈액내과와 상의; 항응고제 복용 시에도 출혈 위험을 확인
 
 #### <mark style="color:$primary;">출혈장애·항응고제 관련 HMB</mark>
@@ -368,7 +366,7 @@ flowchart TD
 
 * LNG-IUS, tranexamic acid, NSAID, hormonal contraception 등을 근종의 크기·위치와 자궁강 변형 여부에 따라 선택
 * GnRH agonist/antagonist는 수술 전 또는 중등도\~중증 증상에서 산부인과 영역에서 고려
-* 국외에서는 relugolix–estradiol–norethisterone acetate 복합제 및 linzagolix 등이 선택지(NICE TA832/TA996). 경구 GnRH antagonist ± add-back therapy는 국가·제품별 허가, 최대 투여 기간, 골밀도·혈전 위험 관련 제한이 다르므로 **국외 허가·권고를 국내 허가로 간주하지 않고 제품별 국내 허가·공급을 확인 후 사용**
+* 국외에서는 relugolix-estradiol-norethisterone acetate 복합제 및 linzagolix 등이 선택지(NICE TA832/TA996). 경구 GnRH antagonist ± add-back therapy는 국가·제품별 허가, 최대 투여 기간, 골밀도·혈전 위험 관련 제한이 다르므로 **국외 허가·권고를 국내 허가로 간주하지 않고 제품별 국내 허가·공급을 확인 후 사용**
 * danazol은 HMB 감소 효과가 있으나 androgenic adverse effect 때문에 현재 일반적인 1차 치료로는 거의 사용하지 않음
 
 #### <mark style="color:$primary;">임신을 원하는 배란 장애/PCOS 환자</mark>
@@ -412,7 +410,7 @@ N92 과다, 빈발 및 불규칙 월경 Excessive, frequent and irregular menstr
 
 N93 기타 이상 자궁 및 질 출혈 Other abnormal uterine and vaginal bleeding
 
-N95.0 폐경 후 출혈 Postmenopausal bleeding
+N95.0 폐경후출혈 Postmenopausal bleeding
 
 * N92·N93은 범주 코드이므로 실제 진료·청구에서는 출혈 유형에 맞는 세부코드를 선택; 원인이 확정되면 원인 질환 코드를 함께 검토
 * 임신 관련 출혈은 N92/N93으로 일괄 분류하지 않으며 해당 임신 관련 코드를 적용. KCD-9(2026-01-01 시행)와 현행 상병마스터 기준으로 최종 선택
@@ -424,41 +422,51 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 > **처방례 1. 경증 HMB(비응급) - 비호르몬 치료**
 >
 > ```
-> 부루펜 200 ㎎/T 2T tid  월경 시작부터 출혈이 많은 기간
+> 부루펜정 200 ㎎/T 2T tid  월경 시작부터 출혈이 많은 기간
 > 또는 도란사민캡슐 250 ㎎/C 2C tid  출혈이 많은 월경 기간 4~5일
 > ```
+>
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097) · [도란사민캡슐·250 ㎎](https://www.health.kr/drug/A11ABBBBB1075)
 >
 > _✽원인 평가 후 규칙적인 HMB에 사용하는 대안 처방 예시. 부루펜의 HMB 감소 목적은 허가 외이며 출혈장애에서는 피함. 도란사민 예시는 1일 1,500 ㎎으로 국내 통상 허가 용량 범위이며, 국외 고용량 HMB 요법과 효과가 동등하다고 단정하지 않음. 신기능·위장관·혈전 위험과 호르몬 피임제 병용 여부를 확인하고 반응에 따라 조정._
 
 > **처방례 2. 배란 장애 AUB - 주기 조절 및 피임 목적**
 >
 > ```
-> 야즈 28T 1T qd
+> 야즈정 28정/포장 1T qd
 > ```
+>
+> 약제 정보: [야즈정·drospirenone 3 ㎎/EE 0.02 ㎎](https://www.health.kr/drug/A11AKP08G3788)
 >
 > _✽AUB 치료 목적은 허가 외이며 피임 적응증과 구분. 24일 활성정과 4일 위약을 순서대로 복용하고 한 포장 종료 후 다음 포장을 이어서 복용. 혈압·혈전 위험을 확인하고 조짐편두통, VTE/혈전성향증, 35세 이상 흡연, 신장애·부신기능부전 등 금기를 확인. 야즈의 저용량 EE 20 ㎍ 1일 1정 유지 처방을 급성 출혈의 고용량 COC 요법과 혼동하지 않음._
 
 > **처방례 3. 혈역학적으로 안정된 급성 AUB - MPA 고용량 요법(허가 외 용법)**
 >
 > ```
-> 프로베라 10 ㎎/T 2T tid  ×7일
+> 프로베라정 10 ㎎/T 2T tid  ×7일
 > ```
+>
+> 약제 정보: [프로베라정·10 ㎎](https://www.health.kr/drug/A11ABBBBB1687)
 >
 > _✽MPA 20 ㎎ tid ×7일은 국내 기능성 자궁출혈 허가 용량을 초과하는 연구·지침 요법. 48\~72시간 내 반응을 확인하고, 출혈 조절 후 감량·유지요법(연구 예: 20 ㎎ qd ×3주)을 산부인과에서 결정. 7일 복용 후 유지계획 없이 종료하지 않음. VTE 병력·혈전성향증·간질환·유방암 등 제품 금기 확인. 경구 MPA는 피임 효과를 보장하지 않음._
 
 > **처방례 4. 배란 장애 AUB - progestin 주기요법**
 >
 > ```
-> 프로베라 10 ㎎/T 1T qd  월경주기 제16일부터 10일간
+> 프로베라정 10 ㎎/T 1T qd  월경주기 제16일부터 10일간
 > ```
+>
+> 약제 정보: [프로베라정·10 ㎎](https://www.health.kr/drug/A11ABBBBB1687)
 >
 > _✽국내 기능성 자궁출혈 허가 용법에 맞춘 예시. 주기적 자궁내막 보호·소퇴성 출혈 유도가 목적이며, 주기를 산정하기 어려운 무배란 환자에서는 임신을 배제하고 시작일을 개별 결정. 피임 목적으로 사용하지 않으며 장기 HMB 관리에는 LNG-IUS 등 별도 선택지를 고려._
 
 > **처방례 5. 기질적 원인이 없는 HMB - 경구 피임제를 선택한 경우(국내 허가 적응증)**
 >
 > ```
-> 클래라 28T 1T qd  포장 순서대로 복용, 한 포장 종료 다음 날 새 포장 시작
+> 클래라정 28정/포장 1T qd  포장 순서대로 복용, 한 포장 종료 다음 날 새 포장 시작
 > ```
+>
+> 약제 정보: [클래라정·estradiol valerate/dienogest 3/0→2/2→2/3→1/0 ㎎ 및 위약](https://www.health.kr/drug/2012042300003)
 >
 > _✽다상성 estradiol valerate/dienogest 제제. 임신·기질적 원인과 COC 금기를 확인. 색깔별 정제의 성분/용량이 달라 임의로 순서를 바꾸지 않으며, 피임 시작·전환 및 누락 시 대처는 제품 설명서에 따름(상황에 따라 첫 9일간 추가 피임 필요). 급성 출혈의 다회 고용량 요법으로 사용하지 않음._
 
@@ -472,14 +480,20 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 > * 시작·전환·복용 누락 시 추가 피임의 필요 기간은 제제에 따라 다릅니다. 처방받은 제품의 안내를 따릅니다.
 > * 클래라는 색깔별 정제를 포장 순서대로 복용하며, 다른 피임약의 누락 대처법을 그대로 적용하지 않습니다.
 > * 복용 시작 후 첫 1\~3개월에는 breakthrough bleeding이 흔하며 대개 호전됩니다.
-> * 흉통, 호흡곤란, 한쪽 다리의 갑작스러운 부종/통증, 신경학적 증상이 발생하면 즉시 진료를 받습니다.
+> * 갑작스러운 흉통·호흡곤란, 한쪽 다리의 부종/통증 또는 새 신경학적 증상이 발생하면 복용을 중단하고 즉시 응급 진료를 받습니다.
+
+> **경구 MPA(프로베라) 복용 안내**
+>
+> * 급성 출혈의 고용량 요법과 주기 조절용 저용량 요법은 다릅니다. 처방된 용량·시작일·기간을 따릅니다.
+> * 급성 출혈의 고용량 치료는 48~72시간 내 반응을 확인하고, 초기 7일 치료 후 감량·유지 계획을 확인합니다. 주기요법은 정해진 종료일을 따릅니다.
+> * 경구 MPA는 피임약이 아니므로 피임이 필요하면 별도 방법을 상담합니다.
 
 > **Tranexamic acid(도란사민) 복용 안내**
 >
 > * 월경 시작과 동시에 복용하여 출혈이 많은 기간에만 사용합니다.
 > * 처방된 기간과 용량에 맞추어 복용하고 월경이 없는 기간까지 임의로 계속 복용하지 않습니다.
 > * 호르몬 피임약을 복용 중이거나 신장질환이 있으면 미리 알리십시오.
-> * 혈전색전증 병력 또는 고위험 인자가 있는 경우 반드시 의료진과 상의합니다.
+> * 혈전색전증 병력 또는 고위험 인자가 있는 경우 반드시 의료진과 상의합니다. 갑작스러운 시력 변화·흉통·호흡곤란·편측 다리 부종이 생기면 복용을 중단하고 즉시 평가받습니다.
 
 > **NSAID 복용 안내**
 >
@@ -494,11 +508,11 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 어지럼증, 실신/전실신, 흉통, 호흡곤란 등 심한 빈혈·혈역학적 불안정 소견 - 즉시 진료
+> * 심한 어지럼증·실신/전실신, 흉통 또는 안정 시 호흡곤란 등 순환부전 의심 소견 - 즉시 응급 진료
 > * 1시간 이내에 패드가 흠뻑 젖는 출혈이 반복되면 당일 진료; 어지럼증·실신·흉통·호흡곤란이 함께 있으면 즉시 응급 진료
 > * 급성 출혈 치료 후 48\~72시간 내 뚜렷한 출혈 감소가 없으면 신속히 재평가
 > * 치료에도 출혈이 지속 또는 악화되거나 수주\~3개월 내 뚜렷한 호전이 없는 경우 - 재평가
-> * 폐경 후 출혈이 처음 발생하거나 다시 발생한 경우 - 양이 적더라도 조기 평가
+> * 폐경 후 출혈이 처음 발생하거나 다시 발생한 경우 - 양이 적더라도 당일~수일 내 연락·진료하여 평가 계획 수립
 
 ***
 
@@ -513,7 +527,7 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 * ACOG Committee Opinion No. 651. [Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign](https://pubmed.ncbi.nlm.nih.gov/26595586/) (2015).
 * ACOG Committee Opinion No. 785. [Screening and Management of Bleeding Disorders in Adolescents With Heavy Menstrual Bleeding](https://pubmed.ncbi.nlm.nih.gov/31441825/) (2019).
 * ACOG Clinical Practice Update. [Updated Guidance Regarding The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Individuals With Postmenopausal Bleeding](https://pubmed.ncbi.nlm.nih.gov/41990335/) (2026; 온라인 발표 2026-04-16).
-* AAGL–ESGE–GCH. [Visually directed hysteroscopic biopsy in the evaluation of abnormal uterine bleeding and postmenopausal bleeding: a Joint Society Practice Guideline](https://pubmed.ncbi.nlm.nih.gov/42522756/) (2026-07-29 온라인 발표; 2026-09 게재).
+* AAGL-ESGE-GCH. [Visually directed hysteroscopic biopsy in the evaluation of abnormal uterine bleeding and postmenopausal bleeding: a Joint Society Practice Guideline](https://pubmed.ncbi.nlm.nih.gov/42522756/) (2026-07-29 온라인 발표; 2026-09 게재).
 * NICE NG88. [Heavy menstrual bleeding: assessment and management](https://www.nice.org.uk/guidance/ng88) (2018; 2026-07-07 개정, ferritin 관련 기존 비권고 삭제).
 * Munro MG, et al. [Oral medroxyprogesterone acetate and combination oral contraceptives for acute uterine bleeding: a randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/17012455/) (2006).
 * Southern California Permanente Medical Group. [Acute Uterine Bleeding Unrelated to Pregnancy: A Practice Guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC3783080/) (2013).
@@ -532,9 +546,10 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 * 한국화이자. [프로베라정 국내 제품설명서](https://labeling.pfizer.com/ShowLabeling.aspx?id=16179) (2025-06-09 개정본).
 * EMA. [Medroxyprogesterone-containing medicines: risk of meningioma and measures to minimise this risk](https://www.ema.europa.eu/en/medicines/dhpc/medroxyprogesterone-acetate) (2024).
 * 건강보험심사평가원. [보험인정기준](https://www.hira.or.kr/). 허가와 별도로 현행 제품·적응증별 급여 기준 확인.
+* 질병코드 명칭은 제공된 KCD9_251216(7).xlsx와 대조함(2026-11-11).
 * KCD-9 시행 및 청구 원칙 : [건강보험심사평가원 2026 질병군 청구 안내](https://www.hira.or.kr/ebooksc/2026/03/BZ202603123071288.pdf). 세부코드는 현행 상병마스터와 대조.
 
-* 문헌·허가정보 확인일 : **2026-10-29**. 국외 지침과 국내 허가·급여를 구분하여 적용하며, 공급 여부를 확인하지 못한 국외 제제는 국내 처방례로 제시하지 않음.
+* 문헌·허가정보 확인일 : **2026-11-11**. 국외 지침과 국내 허가·급여를 구분하여 적용하며, 공급 여부를 확인하지 못한 국외 제제는 국내 처방례로 제시하지 않음.
 
 ***
 
@@ -561,7 +576,7 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* 호르몬제는 임의로 중단하거나 용량을 변경하지 않습니다.
+* 호르몬제는 정해진 용량·기간을 따릅니다. 경구 프로베라는 피임 효과가 보장되지 않습니다. 갑작스러운 흉통·숨참, 한쪽 다리 부종 또는 말이 어눌해지는 증상이 생기면 약 복용을 중단하고 즉시 응급 진료를 받으십시오.
 * 항응고제를 복용한다면 출혈 때문에 임의로 건너뛰거나 중단하지 말고 처방한 의료진과 바로 상의합니다.
 * tranexamic acid와 NSAID는 주로 월경 출혈이 있는 기간에 맞추어 복용합니다.
 * 약을 복용해도 출혈이 계속되거나 더 심해지면 예정된 추적 시점까지 기다리지 말고 다시 진료를 받습니다.
