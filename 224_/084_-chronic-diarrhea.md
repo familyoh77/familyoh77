@@ -1,6 +1,6 @@
 # 만성 설사 Chronic Diarrhea
 
-<mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 정의 : 묽거나 수양성인 변([Bristol stool scale](083_-acute-diarrhea.md#undefined-2) 6\~7형)이 ≥4주 반복되는 상태로, 배변 횟수 증가·절박변 또는 변실금이 동반될 수 있음
 * 기간 구분 : 만성 ≥4주, 지속성 ≥14일\~＜4주, 급성 ＜14일 <mark style="color:$info;">\[BSG 2018]</mark>
@@ -311,7 +311,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이지만, 복통 dominant 
   * 변비가 생기면 감량·휴약
   * 장폐색 징후가 있으면 장운동 저하로 진행성 장폐색이 가려질 수 있어 신중 투여·관찰
   * 선천성 QT 연장 증후군에서는 회피하고, 저칼륨·저마그네슘혈증은 교정
-* ramosetron : IBS-D 치료 허가약제 <mark style="color:blue;">\[</mark><mark style="color:blue;">이리퀵]</mark>
+* ramosetron : IBS-D 치료 허가약제 <mark style="color:blue;">\[이리퀵]</mark>
   * 성인 남성 [5 ㎍](https://www.health.kr/drug/2025050200021) qd(2.5\~10 ㎍/일), 성인 여성 [2.5 ㎍](https://www.health.kr/drug/2025050200017) qd(불충분 시 최대 5 ㎍/일);  항구토용 0.1 ㎎(100 ㎍) 제형과 구분
   * 변비·굳은 변 발생 시 감량·휴약·중단을 고려하고, 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가
   * CYP1A2 억제제(fluvoxamine 등) 병용 시 혈중 농도 상승, SSRI·SNRI 등 세로토닌성 약물 병용 시 신중 투여
@@ -336,9 +336,8 @@ Loperamide 단독은 urgency·묽은 변에 효과적이지만, 복통 dominant 
 
 #### <mark style="color:$primary;">비흡수성 항생제</mark>
 
-* rifaximin : bloating prominent IBS-D에서 고려
-  * IBS-D의 대표 임상시험 용법은 550 ㎎ tid × 14일이지만, 550 ㎎ 정제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">틱스타</mark>](https://www.health.kr/drug/2023080800002)<mark style="color:blue;">]</mark>는 현성 간성뇌증 재발 감소에 허가된 제품으로 IBS-D에는 허가 외 사용. 200 ㎎ 정제를 이용한 용법은 근거·허가·급여가 550 ㎎ 정제와동일하지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">노르믹스</mark>](https://www.health.kr/drug/A11AOOOOO0736)<mark style="color:blue;">]</mark>
-  * post-infectious IBS를 별도 확립 적응증으로 간주하지 않음
+* rifaximin : bloating prominent IBS-D에서 고려(허가 외 사용); 제품·용법은 아래 ☞ 항생제 (SIBO 치료)
+  * 허가 외 사용 및 급여 제한을 설명하고, post-infectious IBS를 별도 확립 적응증으로 간주하지 않음
 
 ### <mark style="color:orange;">α-2 Adrenergic agonist</mark>
 
@@ -361,28 +360,20 @@ Loperamide 단독은 urgency·묽은 변에 효과적이지만, 복통 dominant 
 
 * 대상 : 담즙산 설사(BAD) - 담낭절제술 후, 제한된 terminal ileum 질환·절제 후, 특발성 BAD
   * 광범위 회장 절제·질환으로 담즙산 풀이 고갈되고 지방변이 있는 경우 담즙산 결합제가 지방변·열량 소실을 악화시킬 수 있음
-* cholestyramine : BAD의 초기 치료로 고려. [한국희귀필수의약품센터](https://www.kodc.or.kr/) 공급 제품이 있으며 병원 처방 사례가 확인됨 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산(라이트)</mark>](https://www.kodc.or.kr/KDCB101)<mark style="color:blue;">]</mark>
+* cholestyramine : BAD의 초기 치료로 고려. 한국희귀필수의약품센터 공급 제품이 있으며 병원 처방 사례가 확인됨 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산</mark>](https://www.kodc.or.kr/drugInfo/6640016829?totalPages=1\&page=1\&searchYn=true\&limit=5\&medcinCtgryCode=ALL\&searchType=medcinName\&searchKeyword=%EC%97%90%ED%94%BD%EC%BD%9C%EB%A0%88%EC%8A%A4%ED%8B%B0%EB%9D%BC%EB%AF%BC%ED%98%84%ED%83%81%EC%9A%A9%EC%82%B0)<mark style="color:blue;">(라이트)]</mark>
   * cholestyramine resin 성분량 기준 2\~4 g/d의 저용량으로 시작하여 반응·내약성에 따라 점진적으로 증량; 최저 유효용량 유지. 분말은 제품 지침에 따라 액체에 충분히 분산하여 복용하며 마른 분말을 그대로 삼키지 않음
   * 변비·복부팽만에 주의. 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후로 분리
   * 담즙산 설사에는 식약처 인정 범위 외 사용. 2026년 5월 신설된 급여기준은 혈청 콜레스테롤 수치 감소에 관한 것으로, BAD 치료에 대한 급여 인정과 구분함
-* colesevelam : cholestyramine 불내약 시 대안으로 고려되나 유통 확인 안 됨
-* 결합제 사용이 어렵거나 내약성이 나쁘면 loperamide 등으로 증상 조절 (☞ 처방례 4) <mark style="color:$info;">\[CAG 2020]</mark>
+* colesevelam : cholestyramine 불내약 시 대안으로 고려되지만 국내 유통제품 없음
+* 결합제 사용이 어렵거나 내약성이 나쁘면 loperamide 등으로 증상 조절 <mark style="color:$info;">\[CAG 2020]</mark>
 
-- 대상 : 담즙산 설사(BAD) - 담낭절제술 후, 제한된 terminal ileum 질환·절제 후, 특발성 BAD
-  * 광범위 회장 절제·질환으로 담즙산 풀이 고갈되고 지방변이 있는 경우 담즙산 결합제가 지방변·열량 소실을 악화시킬 수 있음
-- cholestyramine : BAD의 초기 치료로 고려. 한국희귀필수의약품센터 공급 제품이 있으며 병원 처방 사례가 확인됨 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산</mark>](https://www.kodc.or.kr/drugInfo/6640016829?totalPages=1\&page=1\&searchYn=true\&limit=5\&medcinCtgryCode=ALL\&searchType=medcinName\&searchKeyword=%EC%97%90%ED%94%BD%EC%BD%9C%EB%A0%88%EC%8A%A4%ED%8B%B0%EB%9D%BC%EB%AF%BC%ED%98%84%ED%83%81%EC%9A%A9%EC%82%B0)<mark style="color:blue;">(라이트)]</mark>
-  * cholestyramine resin 성분량 기준 2\~4 g/d의 저용량으로 시작하여 반응·내약성에 따라 점진적으로 증량; 최저 유효용량 유지. 분말은 제품 지침에 따라 액체에 충분히 분산하여 복용하며 마른 분말을 그대로 삼키지 않음
-  * 변비·복부팽만에 주의. 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후로 분리
-  * 담즙산 설사에는 식약처 인정 범위 외 사용. 2026년 5월 신설된 급여기준은 혈청 콜레스테롤 수치 감소에 관한 것으로, BAD 치료에 대한 급여 인정과 구분함
-- colesevelam : cholestyramine 불내약 시 대안으로 고려되나 유통 확인 안 됨
-- 결합제 사용이 어렵거나 내약성이 나쁘면 loperamide 등으로 증상 조절 (☞ 처방례 4) <mark style="color:$info;">\[CAG 2020]</mark>
+### <mark style="color:orange;">항생제</mark>
 
-### <mark style="color:orange;">항생제 (SIBO 치료)</mark>
-
-* 대상 : 소장 세균 과증식
+* 대상 : 소장 세균 과증식(SIBO); IBS-D에서의 적응증 판단은 ☞ IBS-D 표적 치료제
 * rifaximin : 흡수가 적어 흔히 우선 고려하지만 근거의 질이 높지 않고 연구마다 용량·기간이 다양함. 위험 인자와 진단 근거 없이 경험적으로 반복하지 않음
-  * 200 ㎎ 2T tid (1,200 ㎎/d) × 7\~14일 <mark style="color:blue;">\[노르믹스]</mark>; SIBO에는 허가 외 사용이며 최적 용량·기간은 확립되지 않음
-  * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 인용된 과거 기준은 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자에 관한 것. SIBO의 14일 치료에 급여가 자동 적용되는 의미는 아니며 처방 시 현행 기준을 별도로 확인
+  * 200 ㎎ 2T tid (1,200 ㎎/d) × 7\~14일 <mark style="color:blue;">\[노르믹스]</mark>; SIBO·IBS-D 모두 허가 외 사용이며 최적 용량·기간은 확립되지 않음
+  * IBS-D의 대표 임상시험 용법은 550 ㎎ tid × 14일. 550 ㎎ 정제 <mark style="color:blue;">\[틱스타]</mark>는 현성 간성뇌증 재발 감소에 허가된 제품이며, 200 ㎎ 정제를 이용한 용법과 근거·허가·급여가 동일하지 않음
+  * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 급여는 급성 장염 또는 장내 세균총 이상으로 인한 설사(여름철 설사·여행자 설사·소장결장염)에서 동일 효능의 다른 약제로 호전되지 않는 경우와 고암모니아혈증 보조요법·위장관 수술 전후 투여에 인정되며, 그 밖의 사용은 약값 전액 본인부담. SIBO·IBS-D의 14일 치료가 이 기준에 그대로 해당하는 것은 아님
   * 재발 시 진단과 원인을 재평가한 뒤 반복 치료를 고려하며, 장 운동 장애·해부학적 이상 교정이 재발 방지의 핵심
 * ciprofloxacin·metronidazole 등 전신 항생제는 내성, _C. difficile_ 감염, fluoroquinolone 중대 이상반응 및 metronidazole 누적 신경독성을 고려하여 routine 대체제로 사용하지 않음
 
@@ -390,27 +381,26 @@ Loperamide 단독은 urgency·묽은 변에 효과적이지만, 복통 dominant 
 
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
 * 발병과 시간적 연관성이 의심되는 약물(NSAID, PPI, SSRI 등)을 확인하고 적응증·대체 가능성을 검토하여 중단 또는 교체; 모든 환자에서 일률적 동시 중단이 필수인 것은 아님
-* budesonide : 1차 선택; 9 ㎎ qd × 6\~8주 <mark style="color:$info;">\[AGA 2016]</mark> <mark style="color:$info;">\[UEG 2021]</mark>. 유도 요법 후 일률적 감량은 필요하지 않으며, 재발 여부에 따라 유지 요법을 결정
-  * 현미경적 결장염에 쓰는 경구 budesonide(회장·대장 방출형) 제품은 유통 확인 안 됨. IgA 신병증용 표적 방출 제제 네페콘은 방출 부위·용량 단위가 달라 대체하지 않음
-  * 중단 후 재발이 흔하며, 재발 환자는 최저 유효용량(예: 3 ㎎/d 또는 격일) 유지 고려
-* budesonide 사용이 어려울 때의 대안은 전문의와 결정. AGA 2016은 bismuth subsalicylate 또는 prednisolone을 무치료보다 나은 선택으로 조건부 제안했으나, UEG/EMCG는 전신 스테로이드를 권고하지 않고 bismuth도 근거가 불충분하다고 평가함 <mark style="color:$info;">\[AGA 2016]</mark> <mark style="color:$info;">\[UEG 2021]</mark>; bismuth의 일반 안전성 주의 사항은 (☞ [소화기계 약제](073_-gidrugs.md#bismuth-subsalicylate)) - 급성 설사 용법·최대 2일 사용 기준을 현미경적 결장염 치료에 그대로 적용하지 않음
-* 흡연은 발병 위험 증가와 연관되어 금연 권고; 금연이 현미경적 결장염의 질병 경과에 미치는 효과는 근거가 충분하지 않음
-* budesonide 의존·불응 시 소화기내과에서 면역조절제·생물학제제 고려
+* budesonide : 1차 선택; 9 ㎎ qd × 6\~8주 <mark style="color:$info;">\[AGA 2016]</mark> <mark style="color:$info;">\[UEG 2021]</mark> (국내 유통제품 없음)&#x20;
+* budesonide 사용이 어려울 때의 대안은 전문의와 결정. AGA 2016은 bismuth subsalicylate 또는 prednisolone을 치료하지 않는 것보다 나은 선택으로 조건부 제안했으나, UEG/EMCG는 전신 스테로이드를 권고하지 않고 bismuth도 근거가 불충분하다고 평가함 <mark style="color:$info;">\[AGA 2016]</mark> <mark style="color:$info;">\[UEG 2021]</mark>; bismuth의 일반 안전성 주의 사항은 [소화기계 약제](073_-gidrugs.md#bismuth-subsalicylate) 참조 - 급성 설사 용법·최대 2일 사용 기준을 현미경적 결장염 치료에 그대로 적용하지 않음
+* 흡연은 발병 위험 증가와 연관되어 금연 권고
+  * 단, 금연이 현미경적 결장염의 질병 경과에 미치는 효과는 근거가 충분하지 않음
 * 조직검사 확진 후 소화기내과에서 치료하는 것을 원칙으로 함
 
-### <mark style="color:orange;">췌장 외분비 기능 부전의 치료</mark>
+### <mark style="color:orange;">췌장 외분비 기능 부전(EPI)의 치료</mark>
 
 * EPI가 진단되면 췌장효소 대체요법(PERT)과 영양 평가를 시행. 효소는 식사·간식과 함께 복용
-  * 성인 주식사당 lipase 최소 40,000 USP 단위(간식은 절반)로 시작하여 증상·체중에 따라 조절
+  * 성인 주 식사당 lipase 40,000 Ph.Eur. 단위(간식은 절반)로 시작하여 증상·체중에 따라 조절 <mark style="color:$info;">\[AGA 2023]</mark> <mark style="color:blue;">\[크레온]</mark>; 허가 용법은 식사당 [20,000](https://health.kr/drug/2012060500005)\~[40,000](https://health.kr/drug/2012060500008) 단위이며 1일 체중 ㎏당 15,000\~20,000 단위를 넘지 않도록 함
+  * 판크레아틴 제제는 비급여 일반의약품
+  * 캡슐은 씹거나 열지 않고 식사 중 또는 직후 충분한 물과 함께 복용
 * 효소 치료에 대한 반응만으로 EPI를 진단하지 않음. 지속되는 지방변·체중 감소에서는 복약 순응도·식사 중 복용 여부를 먼저 확인하고 다른 동반 원인(BAD, SIBO, 셀리악병 등)도 재평가
 * 체중·영양 상태·지용성 비타민을 추적하며, 과도한 지방 제한으로 영양 결핍을 악화시키지 않음
-* <mark style="color:$info;">\[AGA 2023]</mark> <mark style="color:$info;">\[UEG 2025]</mark>
 
 ### <mark style="color:orange;">Fiber supplement</mark>
 
 * 대상 : 소량의 물 설사, 대변실금 동반 기능성 설사
 * 작용 : 수용성 식이섬유 → 장 내용물 점도↑ → 대변 수분 흡수↑
-* psyllium : 차전자피 성분량 기준 소량(예: 3\~5 g/d)부터 시작해 반응·내약성에 따라 증량. 제품 총 분말량과 차전자피 함량을 구분하고 제품 용법을 따름(충분한 수분과 함께)
+* [psyllium](073_-gidrugs.md#bulk-forming) : 차전자피 성분량 기준 소량(예: 3\~5 g/d)부터 시작해 반응·내약성에 따라 증량. 제품 총 분말량과 차전자피 함량을 구분하고 제품 용법을 따름(충분한 수분과 함께) (복합제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아기오과립</mark>](https://www.health.kr/drug/A11A1310A0185)<mark style="color:blue;">]</mark>)
 * calcium polycarbophil : 1.25\~2.5 g/d에서 시작하여 반응에 따라 증량, 최대 5 g/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">웰콘정</mark>](https://www.health.kr/drug/A11AOOOOO6150)<mark style="color:blue;">]</mark>; 처음부터 최대용량을 일률적으로 투여하지 않음. 중증 비투석 신부전·고칼슘혈증·신장결석·장폐색/협착·중증 탈수 등은 금기, 투석 또는 경증 신부전은 신중 투여. 다른 경구약과 최소 2시간 분리하고 PPI·H2RA·제산제에 의한 효과 감소 가능성 확인
 
 ### <mark style="color:orange;">Probiotics</mark>

@@ -243,7 +243,7 @@ flowchart TD
   * 수용성 섬유 식품 : 귀리, 보리, 콩류, 사과·감귤류의 펙틴 등 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
   * 불용성 섬유 식품 : 전곡류, 짙은 색 채소, 단단한 줄기, 밀기울, 사과/배의 껍질, 감자류
   * 복부 팽만·가스 유발 가능 - 7\~10일에 걸쳐 점진적으로 증량, 불편하면 일시 감량
-* 연구된 섬유 보충제 중에는 [psyllium](073_-gidrugs.md#bulk-forming)(차전자피)의 효과 근거가 가장 분명함
+* 연구된 섬유 보충제 중에는 psyllium(차전자피)의 효과 근거가 가장 분명함&#x20;
 * 키위 : 껍질을 벗긴 키위 2\~3개/d를 최소 4주 시도 가능; psyllium으로 가스·팽만이 불편한 경우 식이 선택지로 고려. 껍질 섭취의 추가 효과는 확립되지 않음 <mark style="color:$info;">\[BDA 2025]</mark>
 * 프룬 : 개인별 식이 선택지로 시도할 수 있으나, psyllium과 같거나 더 낫다는 근거는 확립되지 않음
 * 호밀빵 : 배변 횟수를 늘릴 수 있으나 연구 섭취량(6\~8조각/d)이 많고 복부 팽만 등 위장관 증상을 악화시킬 수 있어 내약성을 확인
@@ -275,9 +275,9 @@ flowchart TD
 {% hint style="info" %}
 **1차 선택**
 
-* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마이락스산</mark>](https://www.health.kr/drug/A11AOOOOO8335)<mark style="color:blue;">]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀</mark>](https://www.health.kr/drug/A11ABBBBB1168)<mark style="color:blue;">]</mark> 또는 MgO <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀에스</mark>](https://www.health.kr/drug/2014072100012)<mark style="color:blue;">]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
-* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스좌약</mark>](https://www.health.kr/drug/A11A0760A0010)<mark style="color:blue;">]</mark> 또는 glycerin 관장
-* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레졸로</mark>](https://www.health.kr/drug/2012103000010)<mark style="color:blue;">]</mark> (5-HT4 agonist)
+* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[마이락스산]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[마그밀]</mark> 또는 MgO <mark style="color:blue;">\[마그밀에스]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
+* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[둘코락스좌약]</mark> 또는 glycerin 관장
+* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[레졸로]</mark> (5-HT4 agonist)
 * OIC (opioid 유발 변비) : 일반 하제를 우선하며 반응이 불충분하면 전문진료에서 표적 치료 검토; 아래 PAMORA는 해외 치료 선택지로 구분
 {% endhint %}
 
@@ -301,9 +301,9 @@ flowchart TD
 
 ### <mark style="color:orange;">부피 형성 하제 (Bulk-forming laxatives)</mark>
 
-<mark style="color:$primary;">**Psyllium (차전자피)**</mark>
+[<mark style="color:cyan;">**Psyllium**</mark>](073_-gidrugs.md#bulk-forming) <mark style="color:cyan;">**(차전자피)**</mark>
 
-* AGA-ACG 2023의 조건부 권고 대상은 섬유 보충제이며, 평가된 보충제 중 psyllium의 효과 근거가 가장 분명함
+* AGA-ACG 2023의 조건부 권고 대상은 섬유 보충제이며, 평가된 보충제 중 psyllium의 효과 근거가 가장 분명함 (단일제제 의약품 없음. 식품으로도 유통됨)
 * 200 ㎖ 이상의 충분한 수분과 함께 복용
   * 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
 * 부작용 : 복부 가스, 팽만 (보통 수일 내 감소)
@@ -312,27 +312,27 @@ flowchart TD
 
 ### <mark style="color:orange;">삼투성 하제 (Osmotic laxatives)</mark>
 
-<mark style="color:$primary;">**Polyethylene glycol (PEG 3350)**</mark>
+<mark style="color:cyan;">**Polyethylene glycol (PEG 3350)**</mark>
 
 * 효과·내약성 및 유지치료 근거가 축적된 삼투성 하제 (강한 권고) <mark style="color:$info;">\[AGA-ACG 2023]</mark>
 * 장내 흡수가 거의 없어 전신 노출이 적음; 임신 중 사용은 위의 별도 항목 참조
 * 첫 사용 후 약 1주에도 호전이 없으면 중단하고 재평가
 * 반응과 내약성을 평가하면서 장기 유지 치료 사용 가능
 * 부작용 : 복부 팽만, 무른 변, 복부 가스, 구역 (용량 의존)
-* <mark style="color:blue;">\[마이락스산]</mark> PEG 3350 17 g/P 1P qd. 약 240 ㎖의 물이나 음료에 녹여 가급적 아침에 복용. 식사와 무관
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마이락스산</mark>](https://health.kr/drug/A11AOOOOO8335)<mark style="color:blue;">]</mark> PEG 3350 17 g/P 1P qd. 약 240 ㎖의 물이나 음료에 녹여 가급적 아침에 복용. 식사와 무관
   * 보통 1\~4일 내 효과 (비급여)
 * 다른 경구약의 흡수 감소·지연 가능성 때문에 2시간 이상 간격을 둠
 
-<mark style="color:$primary;">**Magnesium hydroxide · Magnesium oxide**</mark>
+<mark style="color:cyan;">**Magnesium hydroxide · Magnesium oxide**</mark>
 
 * 기전 : 삼투압 기전으로 장내 수분을 증가시킴
 * 저용량부터 대변 굳기·빈도와 이상반응에 따라 조절
-* 수산화마그네슘\[Mg(OH)₂] : <mark style="color:blue;">\[마그밀]</mark> 500 ㎎/T; 예: 2T/d를 2회 분복하여 시작 후 반응에 따라 조절
-* 산화마그네슘(MgO) : <mark style="color:blue;">\[마그밀에스]</mark> 250 ㎎/T; 500\~1,000 ㎎/d 등 저용량으로 시작
+* 수산화마그네슘\[Mg(OH)₂] : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀</mark>](https://www.health.kr/drug/A11ABBBBB1168)<mark style="color:blue;">]</mark> 500 ㎎/T; 예: 2T/d를 2회 분복하여 시작 후 반응에 따라 조절
+* 산화마그네슘(MgO) : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀에스</mark>](https://www.health.kr/drug/2014072100012)<mark style="color:blue;">]</mark> 250 ㎎/T; 500\~1,000 ㎎/d 등 저용량으로 시작
   * 두 성분은 동일 중량으로 환산하지 않음. AGA-ACG 2023의 조건부 권고는 MgO에 대한 근거이며 수산화마그네슘에 그대로 적용하지 않음 <mark style="color:$info;">\[AGA-ACG 2023]</mark>
 * <mark style="color:blue;">마그밀·마그밀에스</mark>는 신장애 환자에게 금기이며 eGFR ＜30인 경우로 한정하지 않음. PEG 등 대체제를 선택. 고령·고용량 또는 장기 사용·장운동 저하에서도 고마그네슘혈증에 주의하고 신기능·혈청 Mg 확인 고려
 
-<mark style="color:$primary;">**Lactulose**</mark>
+<mark style="color:cyan;">**Lactulose**</mark>
 
 * 비흡수성 이당류
 * 기전 : 결장 세균에 의해 발효되어 삼투압 증가
@@ -342,7 +342,7 @@ flowchart TD
 
 ### <mark style="color:orange;">자극성 하제 (Stimulant laxatives)</mark>
 
-<mark style="color:$primary;">**Bisacodyl**</mark>
+<mark style="color:cyan;">**Bisacodyl**</mark>
 
 * 기전 : 결장 점막에 작용하여 연동 운동 촉진 + 수분 분비 증가
 * AGA-ACG 2023의 강한 권고는 주로 경구제의 단기·구제 사용 근거이며, rescue therapy 또는 다른 하제와 간헐적 병용을 우선
@@ -350,15 +350,15 @@ flowchart TD
 * 부작용 : 복통(경련), 설사
 * 경구 단일제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">신일비사코딜</mark>](https://www.health.kr/drug/A11A2070A0084)<mark style="color:blue;">]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
   * 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음
-* <mark style="color:blue;">\[둘코락스좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과)
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스좌약</mark>](https://www.health.kr/drug/A11A0760A0010)<mark style="color:blue;">]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과)
 * 경구 복합제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스에스</mark>](https://www.health.kr/drug/2009092300055)<mark style="color:blue;">]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
 
-<mark style="color:$primary;">**Sodium picosulfate**</mark>
+<mark style="color:cyan;">**Sodium picosulfate**</mark>
 
 * 경구 투여 후 결장에서 활성형으로 전환; bisacodyl과 유사한 기전 및 효과 (변비 치료용 단일제는 국내 유통 제품 없음)
 * 부작용 : 복통(경련), 설사
 
-<mark style="color:$primary;">**Senna (sennosides)**</mark>
+<mark style="color:cyan;">**Senna (sennosides)**</mark>
 
 * 안트라퀴논 유도체; 결장 연동 운동 촉진
 * 저용량 시작, rescue therapy 또는 다른 하제와 병용, 필요시 장기 사용 가능
@@ -369,7 +369,7 @@ flowchart TD
 
 ### <mark style="color:orange;">연화제 (Stool softener)</mark>
 
-<mark style="color:$primary;">**Docusate sodium**</mark>
+<mark style="color:cyan;">**Docusate sodium**</mark>
 
 * 기전 : 대변에 수분을 침투시켜 연화
 * 단독 효과는 근거가 매우 제한적이며 만성 변비의 표준 치료로 권고되지 않음. 복합제로 유통됨
@@ -386,7 +386,7 @@ flowchart TD
 
 ### <mark style="color:orange;">장 운동 촉진제 - 5-HT4 agonist</mark>
 
-<mark style="color:$primary;">**Prucalopride**</mark>
+<mark style="color:cyan;">**Prucalopride**</mark>
 
 * 기전 : 선택적 5-HT4 수용체 작용제 → 대장의 추진성 운동 촉진
 * 일반 하제에 반응하지 않는 경우 대체 또는 추가; 4주 전후 반응을 평가하고 유효하면 유지 가능
@@ -396,18 +396,18 @@ flowchart TD
 * 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장, 투석이 필요한 신장애
 * 병용금기 : domperidone
 * 부작용 : 두통, 복통, 구역, 설사(주로 치료 초기에 발생 후 감소); 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 평가
-* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">모비졸로</mark>](https://www.health.kr/drug/2019030800039)<mark style="color:blue;">]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">모비졸로</mark>](https://www.health.kr/drug/2019030800039)<mark style="color:blue;">]</mark> (급여), <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레졸로</mark>](https://www.health.kr/drug/2012103000010)<mark style="color:blue;">]</mark> (비급여)
 
 ### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
 
-<mark style="color:$primary;">**Lubiprostone**</mark>
+<mark style="color:cyan;">**Lubiprostone**</mark>
 
 * 기전 : 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
 * 해외에서는 일반 하제에 반응하지 않는 만성 특발성 변비에 사용; 4주 전후 효과와 이상반응 재평가
 * 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
 * 해외 성인 CIC 용법 : 24 ㎍ bid, 음식·물과 함께 복용
 
-<mark style="color:$primary;">**Linaclotide · Plecanatide**</mark>
+<mark style="color:cyan;">**Linaclotide · Plecanatide**</mark>
 
 * 기전 : guanylate cyclase-C (GC-C) agonist → cGMP 증가 → 장 분비 증가 및 장 통과 촉진
 * 해외에서는 일반 하제에 반응하지 않는 경우 대체 또는 추가하고 4\~12주에 효과·설사 여부를 재평가; 고정된 12주 치료로 제한하지 않음
@@ -416,7 +416,7 @@ flowchart TD
 
 ### <mark style="color:orange;">IBAT 억제제 (Ileal bile acid transporter inhibitor)</mark>
 
-<mark style="color:$primary;">**Elobixibat**</mark>
+<mark style="color:cyan;">**Elobixibat**</mark>
 
 * 기전 : 회장 담즙산 운반체(ASBT/IBAT) 억제 → 회장 담즙산 재흡수 감소 → 결장 내 담즙산 증가 → 수분 분비 및 대장 운동 촉진
 * 용법 : 10 ㎎ qd 식전; 아침 식전으로 제한하지 않음
