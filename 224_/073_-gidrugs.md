@@ -195,7 +195,7 @@
 {% hint style="info" %}
 **임신 구토의 약물 선택**
 
-* doxylamine/pyridoxine <mark style="color:blue;">\[디클렉틴]</mark>이 일차 선택지임. pyridoxine 10\~25 ㎎ q6\~8h 단독 사용도 가능 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">피리독신정</mark>](https://health.kr/drug/A11A2070B0077)<mark style="color:blue;">]</mark>
+* doxylamine/pyridoxine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">디클렉틴</mark>](https://health.kr/drug/2015120100015)<mark style="color:blue;">]</mark>이 일차 선택지임. pyridoxine 10\~25 ㎎ q6\~8h 단독 사용도 가능 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">피리독신정</mark>](https://health.kr/drug/A11A2070B0077)<mark style="color:blue;">]</mark>
 * 경증 임신성 구역·구토에서는 생강 250 ㎎ q6h 또는 총 1 g/d를 보조적으로 고려 가능(식품·보충제 근거 용량); 출혈 위험 약제 병용·응고장애에서 주의. 임신오조의 치료로는 권하지 않으며 효과적인 항구토 치료·수액 치료를 지연하지 않음
 * 반응 불충분 시 metoclopramide를 이차 선택지로 고려할 수 있음. 추체외로 이상반응에 주의하고 최소 유효 용량으로 최대 5일 사용함
 * Ondansetron은 허가 외 이차 선택지로 사용함. 임신 초기 노출 시 구순·구개열의 작은 절대위험 증가 가능성(한 대규모 관찰연구에서 출생 1만 건당 약 11건 → 14건)이 보고되었으나 심장기형 증가가 일관되게 확인된 것은 아님. 조절되지 않는 임신오조의 위험과 비교하여 설명하고 결정함
@@ -434,7 +434,7 @@
 
 * 작용 : serotonin 차단 → 위장관 motility·sensation 억제 → 설사형 IBS 개선
 * 부작용 : 변비, 허혈성 대장염(중대한 이상반응)
-* **ramosetron** : IBS-D 치료제로 허가. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리콜</mark>](https://www.health.kr/drug/2024122300007)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리스탑</mark>](https://www.health.kr/drug/2025042900008)<mark style="color:blue;">]</mark>·<mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리퀵</mark>](https://www.health.kr/drug/2025050200017)<mark style="color:blue;">]</mark>
+* **ramosetron** : IBS-D 치료제로 허가. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이리퀵</mark>](https://www.health.kr/drug/2025050200017)<mark style="color:blue;">]</mark>
   * 변비·굳은 변 발생 시 감량·휴약·중단을 고려
   * 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가
   * CYP1A2 억제제(fluvoxamine 등) 병용 시 혈중 농도 상승, SSRI·SNRI 등 세로토닌성 약물 병용 시 신중 투여
@@ -489,8 +489,17 @@
 
 * **cholestyramine** : 담즙산 설사(BAD)에 사용. [한국희귀필수의약품센터](https://www.kodc.or.kr/) 공급 제품 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산(라이트)</mark>](https://www.kodc.or.kr/KDCB101)<mark style="color:blue;">]</mark> 4 g/포; BAD에는 식약처 인정 범위 외 사용
   * 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후 복용
+  * aspartame을 사용한 저당(라이트) 제형으로, 페닐케톤뇨증 환자에서는 phenylalanine 함유에 주의
   * 세부 용법·주의 (☞ [만성 설사](084_-chronic-diarrhea.md))
 * colesevelam : 유통 확인 안 됨
+
+## <mark style="color:green;">췌장 효소제 (Pancreatic enzyme)</mark>
+
+* **pancreatin** : 췌장 외분비 기능 부전(EPI)의 효소 대체요법. 성인 식사당 lipase 20,000\~40,000 Ph.Eur. 단위(허가 용법); 1일 체중 ㎏당 15,000\~20,000 단위를 넘지 않도록 함 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">크레온</mark>](https://health.kr/drug/2012060500008)<mark style="color:blue;">]</mark>
+  * 비급여 일반의약품
+  * 식사 중 또는 직후 충분한 물과 함께 캡슐을 통째로 복용. 삼키기 어려우면 개봉하여 pH＜5.5의 액체나 부드러운 음식에 섞은 즉시 복용하되, 내용물은 씹지 않음
+  * 내용물 미세분말은 흡입 시 코 점막·호흡기를 자극하고 천식을 유발할 수 있음
+  * 세부 시작 용량·처방례 (☞ [만성 설사](084_-chronic-diarrhea.md))
 
 ## <mark style="color:green;">제산제 (Antacid)</mark>
 
@@ -520,7 +529,7 @@
 
 * 작용 : 점막 보호; _H. pylori_ 항균 작용
 * 부작용 : 변비, 검은 변; 고용량·장기 사용 시 신경 독성
-* tripotassium bismuth dicitrate : 300 ㎎/T(산화비스무트로서 120 ㎎), 1T qid <mark style="color:blue;">\[데놀]</mark>
+* tripotassium bismuth dicitrate : 300 ㎎/T(산화비스무트로서 120 ㎎), 1T qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">데놀</mark>](https://health.kr/drug/A11AOOOOO0795)<mark style="color:blue;">]</mark>
   * 투여 전후 30분 음식·음료·제산제 회피
   * 허가 적응증 : 위·십이지장궤양 환자에서 _H. pylori_ 박멸을 위한 항생제 병용요법
   * 금기 : 신장애
