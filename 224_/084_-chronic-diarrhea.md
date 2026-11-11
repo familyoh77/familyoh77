@@ -46,7 +46,7 @@
 
 #### <mark style="color:$primary;">약물 유발 설사</mark>
 
-* 마그네슘 함유 보충제·제산제, cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, GLP-1RA, colchicine, mycophenolate, 면역관문억제제, allopurinol, orlistat&#x20;
+* 마그네슘 함유 보충제·제산제, cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, GLP-1RA, colchicine, mycophenolate, 면역관문억제제, allopurinol, orlistat
   * olmesartan-associated enteropathy : olmesartan 복용 수개월\~수년 후 셀리악병과 유사한 중증 장병증 발생 가능; 심한 만성 설사·체중 감소·흡수 장애 → olmesartan 중단 후 호전
   * GLP-1 수용체 작용제 / GIP·GLP-1 이중 작용제 (semaglutide, liraglutide, tirzepatide 등) : 장 운동 변화 및 장 내 분비 변화로 오심·복부 팽만·설사 또는 변비 유발 가능
     * 설사와 변비의 빈도는 제제·용량에 따라 다르며, 주로 치료 시작 또는 용량 증량기에 발생
@@ -62,7 +62,7 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : _Clostridioides difficile_, _Mycobacterium avium_ complex (MAC)&#x20;
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium_ complex (MAC)
   * 면역 저하자에서 주로 발생 - HIV, 장기이식, 고용량 스테로이드 복용자
 * 바이러스 : cytomegalovirus (면역 저하자에서 주로 발생)
 * 기생충 : _Giardia duodenalis_ (_G. lamblia_), _Cryptosporidium_, _Cystoisospora belli_ (구 _Isospora belli_), _Strongyloides_
@@ -154,7 +154,7 @@
 <table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td><strong>＜50</strong> mOsm/㎏</td><td>분비성 설사 (secretory) - 금식 중에도 지속 가능</td></tr><tr><td><strong>50~100</strong></td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td><strong>＞100</strong>*</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
 > _\*삼투압성 설사의 gap 기준을 ＞125로 쓰는 문헌도 있음._\
-> _ap 해석 전 검체 확인 : 측정 대변 삼투압(gap이 아님)이 ＜250 mOsm/kg이면 물·희석뇨 오염 검체로 보고 gap을 해석하지 않음_
+> _&#x61;p 해석 전 검체 확인 : 측정 대변 삼투압(gap이 아님)이 ＜250 mOsm/kg이면 물·희석뇨 오염 검체로 보고 gap을 해석하지 않음_
 
 <mark style="color:cyan;">**분변 칼프로텍틴(fecal calprotectin)**</mark>
 
@@ -253,23 +253,24 @@
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 원인 질환 치료 : 감염, IBD, 췌장 기능 부전, 갑상선 기능 항진 등 기저 원인 교정&#x20;
+* 원인 질환 치료 : 감염, IBD, 췌장 기능 부전, 갑상선 기능 항진 등 기저 원인 교정
   * 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것
 * 경고 징후가 없고, 기본 평가 후 기능성 설사/IBS로 판단되면 증상에 맞춘 치료 시행
 * 탈수 관리·영양 공급 : 경증은 물과 식사를 병행하고, 의미 있는 수분·전해질 소실에는 적절한 조성의 ORS 사용
   * 고당분 스포츠음료는 ORS를 대체하지 못함
-* 유발 식품 회피 ([음식 일기](084_-chronic-diarrhea.md#undefined-24) 작성 권고)
+* 유발 식품 회피 ([음식 일기](084_-chronic-diarrhea.md#diary) 작성 권고)
   * 유당 불내성 → lactose-free 식이; lactase 보충제 고려
   * 식이 제한 : low-FODMAP 식이(IBS-D), gluten 제거(확진된 셀리악병), sorbitol·fructose 제한
   * 셀리악병 검사를 계획한 환자에서는 혈청검사·조직검사 전에 gluten-free 식이를 시작하지 않음
 * 약물 재검토 : PPI, NSAID, SSRI, GLP-1 RA, olmesartan 등 설사 유발 약물 확인 후 중단 또는 교체
-* 항문 주위 피부 보호 : zinc oxide 연고 <mark style="color:blue;">\[보소미연고]</mark>, 피부 방수제 <mark style="color:blue;">\[카빌론]</mark> 고려
+* 항문 주위 피부 보호 : zinc oxide 연고 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">보소미연고</mark>](https://www.druginfo.co.kr/detail/product_cp_cancer.aspx?pid=34971)<mark style="color:blue;">]</mark>, 피부 방수제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카빌론</mark>](https://www.solventum.com/ko-kr/home/medical/advanced-wound-care/advanced-skin-care/cavilon/)<mark style="color:blue;">]</mark> 고려
 * 위생 관리 : 특히 감염성 원인 배제 전까지 손 위생 철저
-* 기본 평가 후 식이·기능성 질환 치료에 4\~6주간 반응이 없으면 추가 검사 또는 의뢰; loperamide 무반응은 10일 이내 중단·재평가 기준을 따름
+* 기본 평가 후 식이·기능성 질환 치료에 4\~6주간 반응이 없으면 추가 검사 또는 의뢰
+  * loperamide 무반응은 10일 이내 중단·재평가 기준을 따름
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 저-FODMAP 식이 : 주로 IBS-D에서 제한 기간 동안 시도하며, 기능성 설사에서의 근거는 상대적으로 제한적 (☞ [IBS](087_-irritable-bowel-syndrome.md))
+* [Low-FODMAP 식이](087_-ibs.md#low-fodmap) : 주로 IBS-D에서 제한 기간 동안 시도하며, 기능성 설사에서의 근거는 상대적으로 제한적&#x20;
   * 2\~6주 식이제한 후 단계적 재도입으로 개인 내성 식품 확인
 * 유당 제한 : 유당 불내성 확인 후 lactose-free 제품으로 전환 또는 lactase 효소 보충
 * 수분 보충 : 탈수 예방; 카페인·알코올·고당분 음료 제한
@@ -632,7 +633,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * **담즙산 문제** : 담낭 절제 후 담즙산의 저장·방출 양상이 달라져 대장으로 전달되는 담즙산이 증가하면 설사가 생길 수 있습니다. 담낭 절제술 후 지속되는 설사에서 고려해야 할 원인입니다.
 * **흡수 장애** : 장이 영양분을 제대로 흡수하지 못하는 경우 (지방 흡수 장애 시 악취 나는 기름진 변이 특징)
 
-#### <mark style="color:$primary;">음식 일기를 써 보세요</mark><a href="#diary" id="diary"></a>
+#### <mark style="color:$primary;">음식 일기를 써 보세요</mark> <a href="#diary" id="diary"></a>
 
 무엇을 먹었을 때 설사가 생기는지 **2\~4주 음식 일기**를 작성하면 원인을 찾는 데 큰 도움이 됩니다.
 
