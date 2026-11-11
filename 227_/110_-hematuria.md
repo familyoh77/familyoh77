@@ -23,7 +23,7 @@
 
 #### <mark style="color:$primary;">비사구체성 혈뇨 (Non-glomerular hematuria)</mark>
 
-* 상부요로 : [요로결석](133_-urolithiasis.md), [신우신염](119_-acute-pyelonephritis-uncomplicated.md), 신세포암, 상부요로 요로상피암, 요로 폐쇄, 다낭콩팥병, 신경색, 신유두괴사, 콩팥 동정맥기형, 호두까기증후군
+* 상부요로 : [요로결석](133_-urolithiasis.md), [신우신염](119_-apn-uncomplicated.md), 신세포암, 상부요로 요로상피암, 요로 폐쇄, 다낭콩팥병, 신경색, 신유두괴사, 콩팥 동정맥기형, 호두까기증후군
 * 하부요로 : [세균성 방광염](118_-acute-cystitis.md)(UTI), 방광 요로상피암, 전립선비대증(BPH), 급성 전립선염, [요도염](115_-urethritis.md), 요로 조작(카테터 삽입·최근 시술), 출혈성 방광염(cyclophosphamide·골반 방사선 치료·BK 바이러스 등)
 * 기타 비종양성 원인 : 발열과 동반된 일시적 혈뇨, interstitial cystitis/bladder pain syndrome, trigonitis, 요로 자궁내막증
 * 출혈 증폭·동반 요인 : 응고장애, 항응고제·항혈소판제 - 약물 영향으로만 단정하지 않고 기저 원인을 동일하게 평가
@@ -47,27 +47,27 @@
   * 초기 혈뇨(initial hematuria) : 배뇨 시작 시에만 두드러짐 → 요도 병변 시사
   * 종말 혈뇨(terminal hematuria) : 배뇨 말기에 두드러짐 → 방광경부·삼각부·전립선·후부요도 병변 시사
   * 전 배뇨 혈뇨(total hematuria) : 배뇨 전 과정에 걸쳐 균일 → 방광 또는 상부요로 병변 시사
-* 응괴(clot)의 모양도 단서 : 지렁이 모양의 긴 응괴는 요관·상부요로 기원을, 무정형의 큰 응괴는 방광 기원을 시사
-* 배뇨 시점·소변색·응괴 모양은 보조 단서이며, 이것만으로 출혈 부위나 원인 질환을 확정하지 않음
+* 혈괴(clot)의 모양도 단서 : 지렁이 모양의 긴 혈괴는 요관·상부요로 기원을, 무정형의 큰 혈괴는 방광 기원을 시사
+* 배뇨 시점·소변색·혈괴 모양은 보조 단서이며, 이것만으로 출혈 부위나 원인 질환을 확정하지 않음
 
 ### 🚩Red Flags
 
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 응괴에 의한 급성 요폐(clot retention), 지속되는 다량 출혈 또는 혈역학적 불안정(빈맥·저혈압·실신) → 응급실·비뇨의학과 의뢰  <mark style="color:$danger;">즉각 조치</mark>
+* 혈괴에 의한 급성 요폐(clot retention), 지속되는 다량 출혈 또는 혈역학적 불안정(빈맥·저혈압·실신) → 응급실·비뇨의학과 의뢰  <mark style="color:$danger;">즉각 조치</mark>
 * 급격한 s-Cr 상승 또는 핍뇨~무뇨를 동반하는 혈뇨 → 급성콩팥손상·요로 폐쇄 평가  <mark style="color:$danger;">즉각 조치</mark>
 * 발열·오한과 옆구리 통증, 요로 폐쇄 의심 → 폐쇄성 신우신염·요로패혈증 평가; 항균제와 함께 응급 요로 감압이 필요할 수 있음  <mark style="color:$danger;">즉각 조치</mark>
 * 혈뇨와 객혈·호흡곤란·폐침윤 또는 급격한 콩팥기능 저하 → 폐–콩팥증후군(anti-GBM병, ANCA 연관 혈관염 등) 의심  <mark style="color:$danger;">즉각 조치</mark>
 * 유의한 복부·옆구리·골반 외상 후 혈뇨, 특히 쇼크·심한 압통·요도구 출혈 동반 → 비뇨계 손상 평가  <mark style="color:$danger;">즉각 조치</mark>
 
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 성인에서 새로 발생한 원인 불명의 육안혈뇨 → 통증 유무와 관계없이 신속한 비뇨의학과 평가; 단 한 번 발생 후 소실되어도 확인  <mark style="color:$warning;">당일~수일 내 평가</mark>
 * 소아청소년 육안혈뇨 → 임상·요검사와 신장·방광 초음파로 평가; 부종·고혈압·소변량 감소 동반 시 **당일** 평가  <mark style="color:$warning;">당일~수일 내 평가</mark>
 * 적혈구 원주, dysmorphic RBC(특히 acanthocyte ≥5%), 의미 있는 단백뇨·알부민뇨 또는 새로 동반된 고혈압 → 사구체질환 평가·신장내과 또는 소아신장 전문가 의뢰  <mark style="color:$warning;">당일~수일 내 평가</mark>
 * 급성은 아니지만 s-Cr 상승·eGFR 감소를 동반하는 혈뇨  <mark style="color:$warning;">당일~수일 내 평가</mark>
 
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 원인 미상의 무증상 현미경혈뇨가 지속; 소아청소년은 적어도 2주 간격으로 3회 이상 지속 시 소아신장 전문가 의뢰 고려  <mark style="color:$info;">조기 평가 및 추적</mark>
 * 골반 방사선 치료, cyclophosphamide/ifosfamide 치료 또는 직업적 화학 물질 노출 병력  <mark style="color:$info;">조기 평가 및 추적</mark>
@@ -107,7 +107,7 @@
 * 신선하지 않은 검체에서는 dysmorphic RBC가 관찰될 수 있으므로 위양성에 주의(반드시 신선한 검체로 판정)
 * 시험지봉 검사(+) & 현미경 검사(-)인 경우, 진단이 애매하면 임상 판단에 따라 새 검체로 재검할 수 있음 - 처음 확인된 MH는 반복 현미경 검사로 재확인을 고려
 * 전체 적혈구 중 dysmorphic RBC가 ＞50\~80%이거나 acanthocyte(고리 모양 세포막 돌출을 가진 적혈구)가 ≥5%이면 사구체성 혈뇨를 강하게 시사; 검사법·검사자에 따라 문턱값과 정확도가 달라질 수 있으며 정상 형태의 RBC가 많다고 사구체질환을 배제하지 않음
-* 응괴(clot)는 사구체 출혈보다는 요로 출혈 가능성이 높음
+* 혈괴(clot)는 사구체 출혈보다는 요로 출혈 가능성이 높음
 
 <table><thead><tr><th width="100">구분</th><th width="134.7618408203125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="125.238037109375">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>적갈색·차색·콜라색이 흔함</td><td>대개 없음</td><td>동반될 수 있으며, 동반 시 사구체질환 가능성이 증가함; 단독 혈뇨도 가능</td><td><strong>dysmorphic</strong></td><td><strong>관찰될 수 있음</strong></td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td><strong>동반 가능</strong></td><td>대개 없거나 경미함</td><td>isomorphic</td><td>없음</td></tr></tbody></table>
 
@@ -123,7 +123,7 @@ _✽사구체성 혈뇨를 판단하는 단일 단백뇨 문턱은 없음. 혈�
 
 #### <mark style="color:$primary;">육안혈뇨의 평가 순서</mark>
 
-1. 활력징후, 혈역학적 안정성, 소변 배출 여부와 응괴 동반 여부를 먼저 평가
+1. 활력징후, 혈역학적 안정성, 소변 배출 여부와 혈괴 동반 여부를 먼저 평가
 2. 시험지봉·현미경 검사로 혈뇨를 확인하고 색소뇨·오염을 배제
 3. RBC 형태·원주·단백뇨·콩팥기능으로 사구체성/비사구체성 원인을 감별
 4. 성인의 원인 불명 육안혈뇨는 통증 유무와 관계없이 요로 악성종양을 배제하도록 비뇨기과 평가; 특히 무통성 육안혈뇨에 유의하고 사구체성 소견이 있으면 신장내과 평가를 병행
@@ -177,34 +177,41 @@ _대한신장학회 2023 지침에 수용된 AUA/SUFU 2020 위험도 분류. 둘
 ```mermaid
 flowchart TD
     A(["성인 현미경혈뇨 의심"]) --> B["현미경 검사로 확인: RBC ≥3/HPF"]
-    B --> C{"응급 소견 또는 현재 육안혈뇨?"}
-    C -->|예| X(["응급 처치 또는 육안혈뇨 평가 경로"])
-    C -->|아니오| D["병력·진찰·혈압, 요침사·uACR/uPCR, s-Cr/eGFR"]
+    B --> C{"응급 소견?"}
+    C -- "예" --> X(["즉시 응급 평가·처치"])
+    C -- "아니오" --> G{"현재 육안혈뇨?"}
+    G -- "예" --> GX["육안혈뇨 평가 경로로"]
+    G -- "아니오" --> D["병력·진찰·혈압, 요침사·uACR/uPCR, s-Cr/eGFR"]
     D --> R{"사구체질환 의심?"}
-    R -->|예| N["신장내과 의뢰와 요로암 위험도 평가 병행"]
-    R -->|아니오| T{"오염·일시적 원인·감염?"}
+    R -- "예" --> N["신장내과 의뢰와 요로암 위험도 평가 병행"]
+    R -- "아니오" --> T{"오염·일시적 원인·감염?"}
     N --> T
-    T -->|예| U["원인 해소·치료 후 현미경 요검사"]
-    U -->|소실| Z(["위험인자·동반 이상에 따라 추적 결정"])
-    U -->|지속| V["요로암 위험도 분류: 국내 2023 기준"]
-    T -->|아니오| V
+    T -- "예" --> U["원인 해소·치료 후 현미경 요검사"]
+    U -- "소실" --> Z(["위험인자·동반 이상에 따라 추적 결정"])
+    U -- "지속" --> V["요로암 위험도 분류: 국내 2023 기준"]
+    T -- "아니오" --> V
     V --> L["저위험: 공동의사결정"]
     V --> M["중등도 위험: 방광경+콩팥 초음파"]
     V --> H["고위험: 방광경+상부요로 영상검사"]
     L --> L1["6개월 내 현미경 요검사"]
     L --> M
-    L1 -->|소실| Z
-    L1 -->|지속| P(["위험인자 재평가·공동의사결정 및 검사 계획 확정"])
+    L1 -- "소실" --> Z
+    L1 -- "지속" --> P(["위험인자 재평가·공동의사결정 및 검사 계획 확정"])
     M --> F["결과 평가"]
     H --> F
-    F -->|원인 확인| W(["해당 질환 치료·추적"])
-    F -->|음성| Q(["재검 여부·시기 결정: 추적 검사 절 참조"])
-    classDef assess fill:#e8f8e8,stroke:#4caf50
-    classDef decision fill:#fff9c4,stroke:#d9b800
-    classDef endNode fill:#e3f2ff,stroke:#2196f3
+    F -- "원인 확인" --> W(["해당 질환 치료·추적"])
+    F -- "음성" --> Q(["재검 여부·시기 결정: 추적 검사 절 참조"])
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef assess fill:#e3f2fd,stroke:#1976d2
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef endNode fill:#e3f2fd,stroke:#1976d2
     class B,D,N,U,V,L,M,H,F assess
-    class C,R,T decision
-    class X,Z,P,W,Q endNode
+    class A start
+    class X emergency
+    class C,G,R,T,V,F decision
+    class GX,Z,P,W,Q endNode
+    class L1 assess
 ```
 
 * 고위험 상부요로 영상 : 요로조영 CT 우선; 금기 시 요로조영 MR. 두 검사 모두 시행할 수 없으면 **역행성 신우조영술과 비조영 단면영상 또는 콩팥 초음파를 병합**하는 대안을 비뇨의학과·영상의학과와 결정. 비조영 CT·초음파만으로 상부요로 요로상피 평가가 완료되었다고 판단하지 않음
@@ -213,7 +220,7 @@ flowchart TD
 
 <p align="center"><strong>성인 무증상 현미경혈뇨의 위험도 기반 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한신장학회 2023 현미경혈뇨 진료지침을 바탕으로 재구성; AUA/SUFU 2025 변경 사항 별도 표시.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: 대한신장학회 2023 현미경혈뇨 진료지침). AUA/SUFU 2025 변경 사항 별도 표시.</mark></em></p>
 
 ***
 
@@ -234,7 +241,7 @@ flowchart TD
 * 소변 : 현미경 검사(RBC 형태·원주·결정), 기상 직후 첫 소변 uPCR 또는 uACR, 소변 calcium/creatinine ratio, 감염 의심 시 소변배양
 * 혈액 : BUN, creatinine와 소아 eGFR; 임상 소견에 따라 CBC, albumin, C3/C4, ANA·anti-dsDNA·ANCA 등 추가
 
-<table><thead><tr><th>소아청소년 임의뇨 정량검사</th><th>이상 기준</th></tr></thead><tbody><tr><td><strong>첫 아침 소변 uPCR</strong></td><td>2세 이상 ＞0.2 ㎎/㎎; 6\~24개월 ＞0.5 ㎎/㎎; 6개월 미만은 연령별 기준·임상상으로 판단</td></tr><tr><td><strong>첫 아침 소변 uACR</strong></td><td>≥30 ㎍/㎎ Cr(=30 ㎎/g Cr)</td></tr><tr><td><strong>소변 calcium/creatinine ratio</strong></td><td>선별 기준 예: 2세 이상 ＞0.2 ㎎/㎎. 영유아는 정상 상한이 더 높으며 연령·검사실 참고치를 적용. 한 차례 상승만으로 고칼슘뇨증을 확정하지 않음</td></tr></tbody></table>
+<table><thead><tr><th>소아청소년 임의뇨 정량검사</th><th>이상 기준</th></tr></thead><tbody><tr><td><strong>첫 아침 소변 uPCR</strong></td><td>2세 이상 ＞0.2 ㎎/㎎; 6\~＜24개월 ＞0.5 ㎎/㎎; 6개월 미만은 연령별 기준·임상상으로 판단</td></tr><tr><td><strong>첫 아침 소변 uACR</strong></td><td>≥30 ㎍/㎎ Cr(=30 ㎎/g Cr)</td></tr><tr><td><strong>소변 calcium/creatinine ratio</strong></td><td>선별 기준 예: ＞0.2 ㎎/㎎이면 재검. 어린 연령에서는 정상 상한이 더 높을 수 있으므로 연령·검사실 참고치를 우선 적용. 한 차례 상승만으로 고칼슘뇨증을 확정하지 않음</td></tr></tbody></table>
 
 {% hint style="info" %}
 소아청소년은 기립성 단백뇨가 흔하므로 단백뇨·알부민뇨는 **기상 직후 첫 소변**으로 평가함. 혈뇨에 단백뇨·알부민뇨가 동반되면 치료가 필요한 사구체질환 가능성이 높아짐. 소변 calcium/creatinine ratio가 높으면 반복 검사하고, 지속 상승 시 채뇨 가능한 소아에서는 24시간 요칼슘(일반적으로 ＞4 ㎎/㎏/d) 등으로 확인함.
@@ -276,7 +283,7 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 응괴에 의한 요폐 또는 혈역학적 불안정 → 즉시 응급실·비뇨기과 의뢰
+* 혈괴에 의한 요폐 또는 혈역학적 불안정 → 즉시 응급실·비뇨기과 의뢰
 * 성인의 원인 불명 육안혈뇨 → 통증 유무와 관계없이 단 한 번이라도 요로 악성종양을 배제하도록 비뇨기과 평가; 특히 무통성 육안혈뇨에 유의
 * 소아청소년 육안혈뇨 → 신장·방광 초음파 우선; 임상·검사 소견에 따라 소아신장·소아비뇨의학과 의뢰
 * 사구체성 혈뇨 → 신장내과 또는 소아신장 전문가 의뢰; 원인 질환 치료 (☞ [콩팥질환의 진단](109_-kidneydz.md))
@@ -292,7 +299,7 @@ flowchart TD
 
 ### <mark style="color:orange;">의뢰 기준</mark>
 
-* 비뇨기과 : 성인 육안혈뇨, 중등\~고위험 성인 무증상 MH, 요폐/응괴, 신세포암 가족력·유전성 콩팥종양 증후군·Lynch 증후군 의심
+* 비뇨기과 : 성인 육안혈뇨, 중등\~고위험 성인 무증상 MH, 요폐/혈괴, 신세포암 가족력·유전성 콩팥종양 증후군·Lynch 증후군 의심
 * 신장내과 : 단백뇨·알부민뇨, dysmorphic RBC·세포원주 등 사구체성 소견, 고혈압, s-Cr 상승 또는 급성콩팥손상 의심
   * IgA 신증이 의심되는 성인에서 단백뇨 ≥0.5 g/d 또는 이에 상응하는 uPCR(대략 ≥0.5 g/g)이면 생검 금기가 없으면 생검 평가를 고려 <mark style="color:$info;">\[KDIGO IgAN 2025]</mark>
   * 사구체질환이 의심되어도 성인 요로암 위험이 있으면 비뇨의학과 평가를 병행함
@@ -310,7 +317,7 @@ flowchart TD
 
 ### <mark style="color:orange;">시술 및 기타 처치</mark>
 
-* 응괴 요폐는 즉시 비뇨의학과 처치가 필요하며, 도뇨관을 이용한 응괴 제거·방광 세척 또는 내시경 처치가 필요할 수 있음
+* 혈괴 요폐는 즉시 비뇨의학과 처치가 필요하며, 도뇨관을 이용한 혈괴 제거·방광 세척 또는 내시경 처치가 필요할 수 있음
 * 감염된 요로 폐쇄는 항균제 치료와 함께 요관 스텐트·경피적 신루술 등 응급 배액을 평가. 요도 손상이 의심되면 무리한 도뇨관 삽입을 피하고 전문 평가를 우선함
 
 ***
@@ -347,7 +354,7 @@ flowchart TD
 >
 > * 소변에 피가 섞이거나 붉게 보이는 육안혈뇨가 새로 발생한 경우
 > * 옆구리·아랫배의 심한 통증, 발열이 동반되는 경우 - 즉시 내원
-> * 소변을 보기 힘들거나 전혀 나오지 않는 경우(요폐), 소변량이 현저히 줄거나 나오지 않는 경우(핍뇨·무뇨), 덩어리(응괴)가 나오는 경우 - 즉시 내원; 물을 억지로 많이 마시며 기다리지 않음
+> * 소변을 보기 힘들거나 전혀 나오지 않는 경우(요폐), 소변량이 현저히 줄거나 나오지 않는 경우(핍뇨·무뇨), 덩어리(혈괴)가 나오는 경우 - 즉시 내원; 물을 억지로 많이 마시며 기다리지 않음
 > * 정기 추적 요검사에서 혈뇨가 지속되거나 새로운 증상(체중 감소 등)이 생긴 경우
 
 ***
@@ -363,7 +370,7 @@ flowchart TD
 * Torra R, et al. Diagnosis, management and treatment of the Alport syndrome – 2024 guideline on behalf of ERKNet, ERA and ESPN. Nephrol Dial Transplant. 2025;40:1091–1106. [DOI](https://doi.org/10.1093/ndt/gfae265)
 * AUA. Medical Student Curriculum: Urologic Emergencies. [응급 처치 자료](https://www.auanet.org/Documents/education/medical%20student%20curriculum/Urologic-%20Emergencies-AUA-Med-Student.pdf)
 * EAU. Guidelines on Paediatric Urology. Urinary Stone Disease. [지침](https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease)
-* AUA/SUFU. Microhematuria Guideline (2020, Amended 2025). [지침 전문](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/MH%20Unabridged%2002.2025FINAL3-1.pdf)
+* AUA/SUFU. Microhematuria Guideline (2020, Amended 2025). [지침 전문](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/MH%20Unabridged%20FINAL.pdf)
 * Barocas DA, et al. Updates to Microhematuria: AUA/SUFU Guideline (2025). J Urol. 2025;213(5):547–557. [DOI](https://doi.org/10.1097/JU.0000000000004490)
 
 ### 허가·급여 확인 자료
@@ -402,3 +409,8 @@ flowchart TD
 * 옆구리나 아랫배의 심한 통증, 발열이 함께 있을 때
 * 어지럼증, 가슴 두근거림 등 출혈에 의한 전신 증상이 있을 때
 
+
+### <mark style="color:orange;">약과 수분 섭취는 어떻게 하나요?</mark>
+
+* 항응고제·항혈소판제를 복용 중이면 의료진에게 알려 주세요. 혈뇨가 생겨도 약을 임의로 끊지 말고 처방한 의사와 상의하십시오
+* 소변이 잘 나오지 않을 때 물을 억지로 많이 마시며 기다리지 마십시오

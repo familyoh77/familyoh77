@@ -14,7 +14,7 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 새로 발생한 무뇨(성인에서 통상 ＜100 ㎖/day) 또는 갑작스런 현저한 요량 감소; AKI에 동반된 쇼크·폐부종 <mark style="color:$danger;">\[응급 평가]</mark>
-* 육안적 혈뇨 + 혈전·하복부 팽만·배뇨 불능 → 혈전 요폐 의심 <mark style="color:$danger;">\[응급 비뇨의학과 평가]</mark>
+* 육안적 혈뇨 + 혈괴·하복부 팽만·배뇨 불능 → 혈괴에 의한 요폐 의심 <mark style="color:$danger;">\[응급 비뇨의학과 평가]</mark>
 * K ≥6.5 mmol/L 또는 심전도 변화를 동반한 고칼륨혈증; 정상 심전도만으로 중증 고칼륨혈증의 위험을 배제하지 않음 <mark style="color:$danger;">\[응급 평가·치료]</mark>
 * 요독성 뇌병증·심낭염 의심(의식 변화, 흉통 ± 심낭마찰음), 중증 산증 또는 조절되지 않는 용적과다 <mark style="color:$danger;">\[응급 신장내과 평가]</mark>
 * 빠른 Cr 상승 + 혈뇨·단백뇨 ± 적혈구 원주·핍뇨, 특히 객혈·폐출혈·자반 동반 → 급속 진행성 사구체신염·혈관염·항GBM병 의심 <mark style="color:$danger;">\[응급 신장내과 평가]</mark>
@@ -22,14 +22,14 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* Cr이 48시간 내 ≥0.3 ㎎/㎗ 상승하거나 7일 내 기저치 대비 ≥1.5배 상승, 또는 요량 ＜0.5 ㎖/㎏/h가 ≥6시간 지속 → AKI 평가 <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark><mark style="color:$warning;">]</mark>
-* K 6.0\~6.4 mmol/L → 심전도·신속 재검 및 급성 악화 여부 확인; AKI·증상·심전도 이상이 있으면 즉각 조치 <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark><mark style="color:$warning;">]</mark>
+* Cr이 48시간 내 ≥0.3 ㎎/㎗ 상승하거나 7일 내 기저치 대비 ≥1.5배 상승, 또는 요량 ＜0.5 ㎖/㎏/h가 ≥6시간 지속 → AKI 평가 <mark style="color:$warning;">\[당일]</mark>
+* K 6.0\~6.4 mmol/L → 심전도·신속 재검 및 급성 악화 여부 확인; AKI·증상·심전도 이상이 있으면 즉각 조치 <mark style="color:$warning;">\[당일]</mark>
 * 신규 eGFR ＜30 ㎖/분/1.73㎡ → 과거 결과·Cr 변화·요량·전해질을 우선 확인; 급성 악화이면 당일 평가, 안정된 CKD G4\~G5도 신장내과 의뢰 계획 수립 <mark style="color:$warning;">\[신속 평가·의뢰]</mark>
 * 지속적인 GFR ＞20% 감소(혈역학적 작용 약물 시작 후에는 ＞30% 감소), 또는 원인 불명의 빠른 기능 저하 <mark style="color:$warning;">\[원인 평가·의뢰]</mark>
 * 고도 증가 알부민뇨와 혈뇨 동반, 지속적인 ACR ＞700 ㎎/g, 적혈구 원주 또는 설명되지 않는 지속적 RBC ＞20/HPF; 고도 알부민뇨 추적 중 ≥2배 증가 <mark style="color:$warning;">\[신장내과 평가]</mark>
 * CKD에서 ≥4제 항고혈압제에도 조절되지 않는 고혈압, 지속적 K 이상·산증 등 합병증; 고혈압성 응급이면 즉각 조치 <mark style="color:$warning;">\[원인 평가·의뢰]</mark>
-* 옆구리 통증 + 발열·오한·전신 증상 ± 농뇨 → 신우신염·전신 UTI 평가; 임신 중 신우신염 의심은 입원 필요성 평가 <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark><mark style="color:$warning;">]</mark>
-* 임신부의 증상성 하부 UTI <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">평가·치료]</mark>
+* 옆구리 통증 + 발열·오한·전신 증상 ± 농뇨 → 신우신염·전신 UTI 평가; 임신 중 신우신염 의심은 입원 필요성 평가 <mark style="color:$warning;">\[당일]</mark>
+* 임신부의 증상성 하부 UTI <mark style="color:$warning;">\[당일 평가·치료]</mark>
 * 설명되지 않는 육안적 혈뇨(통증이 없어도 포함), UTI 치료 후에도 지속·재발하는 혈뇨 <mark style="color:$warning;">\[비뇨의학과 평가 계획]</mark>
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -68,7 +68,7 @@
 * AKI 후에는 회복 상태에 따라 조기에 Cr·K·요량을 재평가하고, 3개월 시점에 회복·새로운 CKD·기존 CKD 악화 여부를 확인 <mark style="color:$info;">\[KDIGO AKI 2012]</mark>
 
 {% hint style="info" %}
-**2026년 지침 확인 :** 2026-10-27 확인한 KDIGO 공식 AKI/AKD 페이지는 2026 개정 지침을 공개 검토 후 출판 준비 중으로 안내함. 본문의 AKI 정의·병기는 확정된 KDIGO 2012 기준을 유지하며, 2026 초안의 손상 바이오마커·새 분류를 확정 기준으로 적용하지 않음.
+**2026년 지침 확인 :** 2026-11-11 확인한 KDIGO 공식 AKI/AKD 페이지는 2026 개정 지침을 공개 검토 후 출판 준비 중으로 안내함. 본문의 AKI 정의·병기는 확정된 KDIGO 2012 기준을 유지하며, 2026 초안의 손상 바이오마커·새 분류를 확정 기준으로 적용하지 않음.
 {% endhint %}
 
 #### <mark style="color:$primary;">CKD 병기</mark>
@@ -76,7 +76,7 @@
 * 원인(Cause), GFR 병기(G1\~G5), 알부민뇨 병기(A1\~A3)를 함께 사용해 "CGA" 방식으로 분류
   * 원인(Cause)-GFR-알부민뇨(CGA) 표기 예 : diabetic kidney disease G3aA2
 * 진행·합병증 위험은 eGFR이 낮고 알부민뇨가 많을수록 증가하며, G 병기 숫자(G1→G5)와 A 병기 숫자(A1→A3)가 커질수록 위험이 높아짐
-* 성인 CKD G3~~G5에서는 해당 집단에서 검증된 콩팥기능상실 위험예측식(KFRE)을 활용. 4변수 KFRE는 나이·성별·eGFR·uACR을 사용하며, 5년 위험 3~~5%는 eGFR·ACR·임상 소견과 함께 신장내과 의뢰를 결정하는 보조 기준임
+* 성인 CKD G3\~G5에서는 해당 집단에서 검증된 콩팥기능상실 위험예측식(KFRE)을 활용. 4변수 KFRE는 나이·성별·eGFR·uACR을 사용하며, 5년 위험 3\~5%는 eGFR·ACR·임상 소견과 함께 신장내과 의뢰를 결정하는 보조 기준임
 * KFRE를 AKI, CKD G1\~G2 또는 소아에 그대로 적용하지 않음. 임상적 긴급 의뢰가 필요한 상황에서는 위험도 계산 때문에 의뢰를 지연하지 않음
 
 <table><thead><tr><th width="180.4761962890625">GFR 병기 (㎖/분/1.73㎡)</th><th width="139.5238037109375">A1 (＜30 ㎎/g)</th><th width="160.4761962890625">A2 (30~＜300 ㎎/g)</th><th width="149.84283447265625">A3 (≥300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G2 (60~89)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G3a (45~59)</td><td>중등도 위험</td><td>고위험</td><td>매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr></tbody></table>
@@ -92,28 +92,32 @@ _\*요검사·영상 검사 등에서 다른 콩팥 손상 증거 없으면 CKD 
 ```mermaid
 flowchart TD
     Start["AKI 의심: Cr 상승 또는 요량 감소"] --> Urgent{"쇼크·폐부종·중증 전해질 이상·요독 증상·감염성 폐쇄?"}
-    Urgent -->|있음| Emergency["응급 평가·치료 및 전문과 협진"]
-    Urgent -->|없음| A["활력징후·체액 상태·기저 Cr·약물·감염 확인"]
+    Urgent -- "있음" --> Emergency["응급 평가·치료 및 전문과 협진"]
+    Urgent -- "없음" --> A["활력징후·체액 상태·기저 Cr·약물·감염 확인"]
     A --> B["Cr·전해질·요검사·요침사 및 필요한 추가 검사"]
     B --> C{"요로 폐쇄 위험 또는 원인 불명?"}
-    C -->|있음| D["방광스캔·콩팥/방광 초음파"]
-    D -->|폐쇄 확인| Post["폐쇄성 AKI 평가·비뇨의학과 협진"]
-    C -->|없음| E["임상 경과와 요침사를 종합해 감별"]
-    D -->|폐쇄 미확인| E
+    C -- "있음" --> D["방광스캔·콩팥/방광 초음파"]
+    D -- "폐쇄 확인" --> Post["폐쇄성 AKI 평가·비뇨의학과 협진"]
+    C -- "없음" --> E["임상 경과와 요침사를 종합해 감별"]
+    D -- "폐쇄 미확인" --> E
     E --> F{"주요 단서"}
-    F -->|저혈량·저관류 또는 울혈| Pre["혈역학적 원인 평가·교정·재평가"]
-    F -->|변형 RBC·RBC 원주·단백뇨| Int1["사구체신염·혈관염 평가·신속 신장내과 협진"]
-    F -->|갈색 과립원주·세뇨관 상피세포| Int2["급성 세뇨관손상 평가·허혈·신독성 노출 확인"]
-    F -->|원인 약물·무균성 농뇨 등| Int3["간질성 신염 등 평가·신장내과 협진"]
+    F -- "저혈량·저관류 또는 울혈" --> Pre["혈역학적 원인 평가·교정·재평가"]
+    F -- "변형 RBC·RBC 원주·단백뇨" --> Int1["사구체신염·혈관염 평가·신속 신장내과 협진"]
+    F -- "갈색 과립원주·세뇨관 상피세포" --> Int2["급성 세뇨관손상 평가·허혈·신독성 노출 확인"]
+    F -- "원인 약물·무균성 농뇨 등" --> Int3["간질성 신염 등 평가·신장내과 협진"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef action fill:#fde8f0,stroke:#e91e8c
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef action fill:#e3f2fd,stroke:#1976d2
     class Start start
-    class Emergency,Post,Pre,Int1,Int2,Int3 action
+    class Urgent,C,F question
+    class Emergency emergency
+    class A,B,D,E,Post,Pre,Int1,Int2,Int3 action
 ```
 
 <p align="center"><strong>AKI 원인 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성: KDIGO AKI 2012; NICE NG148(2024 개정)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: KDIGO AKI 2012; NICE NG148, 2024 개정)</mark></em></p>
 
 * 패혈증·심부전에서는 혈역학적 원인과 세뇨관손상이 함께 존재할 수 있으며, 정상에 가까운 요침사만으로 콩팥 자체 손상을 배제하지 않음
 * AIN의 발열·발진·호산구증가증은 없을 수 있음. 요중 호산구는 확진·배제에 사용하지 않음
@@ -385,13 +389,13 @@ AKI에서는 체액 고갈과 울혈을 구분함. 심부전·폐부종 환자�
 
 ### <mark style="color:$primary;">검사 결과가 이상하다고 나오면 어떻게 하나요?</mark>
 
-* 한 번의 이상 소견만으로 병이라고 단정하지 않습니다. 물을 충분히 마시지 않았거나, 운동 직후, 발열 시에도 일시적으로 이상 소견이 나올 수 있습니다.
+* 한 번의 이상 소견만으로 만성콩팥병이라고 단정하지 않습니다. 물을 충분히 마시지 않았거나, 운동 직후, 발열 시에도 일시적으로 이상 소견이 나올 수 있습니다.
 * 검사 종류와 이상 정도에 따라 며칠\~수개월 안에 재검할 수 있습니다. 3개월 이상 지속되는 콩팥 구조 또는 기능 이상은 만성콩팥병을 시사하지만, 한 번의 이상 검사만으로 3개월을 기다리는 것은 아닙니다.
 
 ### <mark style="color:$primary;">이런 증상이 있으면 바로 병원에 가세요</mark> 🚨
 
 * 소변량이 갑자기 줄었거나 거의 나오지 않습니다
-* 붉은 소변에 덩어리(혈전)가 섞여 나오면서 아랫배가 아프고 팽팽합니다
+* 붉은 소변에 핏덩어리(혈괴)가 섞여 나오면서 아랫배가 아프고 팽팽합니다
 * 평소와 다르게 숨이 차거나 의식이 흐릿합니다
 * 열·오한과 옆구리 통증이 함께 있거나, 열이 나면서 소변이 잘 나오지 않습니다
 

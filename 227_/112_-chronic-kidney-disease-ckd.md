@@ -44,7 +44,7 @@ _✽G1·G2의 A1은 다른 콩팥 손상 증거가 없으면 CKD가 아님._
 * 고혈압, 부종, 호흡 곤란(volume overload, RAAS 활성화 등)
 * hyperkalemia(GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
 * acidosis(ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
-* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 또는 다뇨), 야뇨; 원인 질환에 따라 혈뇨·단백뇨 동반
+* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 또는 다뇨), 야간뇨; 원인 질환에 따라 혈뇨·단백뇨 동반
 
 **요독증 및 전신 증상**
 
@@ -78,33 +78,33 @@ _✽G1·G2의 A1은 다른 콩팥 손상 증거가 없으면 CKD가 아님._
 
 ### 🚩 Red Flags
 
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급격한 s-Cr 상승에 핍뇨·무뇨·혈역학적 불안정·중증 전해질 이상 또는 폐–콩팥증후군 소견 동반 → 중증 AKI/급속진행사구체신염 가능성  `$danger`
-* 중증 고칼륨혈증(K ≥6.5 mmol/L) 또는 심전도 이상(peaked T wave, widened QRS 등) 동반 고칼륨혈증  `$danger`
-* 체액 과다에 의한 급성 폐부종/호흡 곤란  `$danger`
-* 의식 변화, 발작 → 요독성 뇌증  `$danger`
-* 흉막성 흉통(누우면 악화, 앉아서 앞으로 숙이면 완화) 또는 심낭 마찰음 → 요독성 심낭염  `$danger`
-* Kussmaul 호흡(깊고 빠른 호흡), 혈역학적 불안정 또는 의식 변화를 동반한 산증 → 중증 대사성 산증; 무기력·구역 단독은 비특이적이므로 검사·임상상으로 판단  `$danger`
+* 급격한 s-Cr 상승에 핍뇨·무뇨·혈역학적 불안정·중증 전해질 이상 또는 폐–콩팥증후군 소견 동반 → 중증 AKI/급속진행사구체신염 가능성  <mark style="color:$danger;">[응급]</mark>
+* 중증 고칼륨혈증(K ≥6.5 mmol/L) 또는 심전도 이상(peaked T wave, widened QRS 등) 동반 고칼륨혈증  <mark style="color:$danger;">[응급]</mark>
+* 체액 과다에 의한 급성 폐부종/호흡 곤란  <mark style="color:$danger;">[응급]</mark>
+* 의식 변화, 발작 → 요독성 뇌증  <mark style="color:$danger;">[응급]</mark>
+* 흉막성 흉통(누우면 악화, 앉아서 앞으로 숙이면 완화) 또는 심낭 마찰음 → 요독성 심낭염  <mark style="color:$danger;">[응급]</mark>
+* Kussmaul 호흡(깊고 빠른 호흡), 혈역학적 불안정 또는 의식 변화를 동반한 산증 → 중증 대사성 산증; 무기력·구역 단독은 비특이적이므로 검사·임상상으로 판단  <mark style="color:$danger;">[응급]</mark>
 
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* AKI 기준에 해당하는 Cr 상승(48시간 내 ≥0.3 ㎎/㎗ 또는 7일 내 ≥1.5배), G5 신규 발견 또는 G4에서 급격한 악화·요독 증상 동반 → **당일 평가**  `$warning`
-* 신규 eGFR ＜30(안정된 G4 포함) → 급성 악화·전해질 이상 여부를 확인하고 수일 내 신장내과 의뢰 계획  `$warning`
-* K 6.0\~6.4 mmol/L → **당일** 심전도·재검 및 급성 악화 여부 평가; AKI·증상·심전도 이상이 있으면 즉각 조치  `$warning`
-* 새로 발생한 육안적 혈뇨 → 가능한 원인에 따라 당일~수일 내 평가; 혈괴에 의한 요폐·혈역학적 불안정·중증 출혈이 동반되면 즉각 조치  `$warning`
-* 혈뇨와 (uACR ≥300 ㎎/g 또는 uPCR ≥500 ㎎/g) 동반, 지속 uACR ＞700 ㎎/g, 적혈구 원주 또는 설명되지 않는 지속 RBC ＞20/HPF → 신장내과 의뢰  `$warning`
-* 이뇨제를 포함한 적절한 3제 치료에도 조절되지 않는 고혈압 → 순응도·가정혈압·이차 원인 평가; 특히 4제 이상에도 조절되지 않으면 신장내과 의뢰  `$warning`
-* 지속 eGFR ＞20% 감소(혈역학적 작용 약물 시작 후 ＞30%) 또는 유의한 알부민뇨 환자에서 uACR 2배 이상 증가 → 가역적 원인 평가·의뢰  `$warning`
-* 전신 질환 또는 유전 질환이 의심되는 소견 동반 (예: SLE, ANCA 관련 혈관염 시사 소견)  `$warning`
-* 갑자기 발생한 신증후군 (nephrotic syndrome, 심한 단백뇨 + 저알부민혈증 + 부종)  `$warning`
-* 지속되거나 진행하는 산-염기 및 전해질 이상  `$warning`
+* AKI 기준에 해당하는 Cr 상승(48시간 내 ≥0.3 ㎎/㎗ 또는 7일 내 ≥1.5배), G5 신규 발견 또는 G4에서 급격한 악화·요독 증상 동반 → **당일 평가**  <mark style="color:$warning;">[신속 평가]</mark>
+* 신규 eGFR ＜30(안정된 G4 포함) → 급성 악화·전해질 이상 여부를 확인하고 수일 내 신장내과 의뢰 계획  <mark style="color:$warning;">[신속 평가]</mark>
+* K 6.0\~6.4 mmol/L → **당일** 심전도·재검 및 급성 악화 여부 평가; AKI·증상·심전도 이상이 있으면 즉각 조치  <mark style="color:$warning;">[신속 평가]</mark>
+* 새로 발생한 육안적 혈뇨 → 가능한 원인에 따라 당일~수일 내 평가; 혈괴에 의한 요폐·혈역학적 불안정·중증 출혈이 동반되면 즉각 조치  <mark style="color:$warning;">[신속 평가]</mark>
+* 혈뇨와 (uACR ≥300 ㎎/g 또는 uPCR ≥500 ㎎/g) 동반, 지속 uACR ＞700 ㎎/g, 적혈구 원주 또는 설명되지 않는 지속 RBC ＞20/HPF → 신장내과 의뢰  <mark style="color:$warning;">[신속 평가]</mark>
+* 이뇨제를 포함한 적절한 3제 치료에도 조절되지 않는 고혈압 → 순응도·가정혈압·이차 원인 평가; 특히 4제 이상에도 조절되지 않으면 신장내과 의뢰  <mark style="color:$warning;">[신속 평가]</mark>
+* 지속 eGFR ＞20% 감소(혈역학적 작용 약물 시작 후 ＞30%) 또는 유의한 알부민뇨 환자에서 uACR 2배 이상 증가 → 가역적 원인 평가·의뢰  <mark style="color:$warning;">[신속 평가]</mark>
+* 전신 질환 또는 유전 질환이 의심되는 소견 동반 (예: SLE, ANCA 관련 혈관염 시사 소견)  <mark style="color:$warning;">[신속 평가]</mark>
+* 갑자기 발생한 신증후군 (nephrotic syndrome, 신증후군 범위 단백뇨 + 저알부민혈증 ± 부종)  <mark style="color:$warning;">[신속 평가]</mark>
+* 지속되거나 진행하는 산-염기 및 전해질 이상  <mark style="color:$warning;">[신속 평가]</mark>
 
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* G3 이상에서 원인 평가·교정 후에도 빈혈이 지속되거나 진행하는 경우  `$info`
-* 칼슘·인 이상과 Vit D 결핍 등 교정 가능한 인자를 교정했음에도 PTH가 지속적으로 상승하거나 점진적으로 증가하는 경우  `$info`
-* 원인 미상의 안정된 G3, 또는 중등도 증가 알부민뇨(A2) 지속 → 원인·진행 위험 평가; 혈뇨·활성 요침사·진행성 기능 저하 동반 시 상위 단계로 평가  `$info`
+* G3 이상에서 원인 평가·교정 후에도 빈혈이 지속되거나 진행하는 경우  <mark style="color:$info;">[조기 평가]</mark>
+* 칼슘·인 이상과 Vit D 결핍 등 교정 가능한 인자를 교정했음에도 PTH가 지속적으로 상승하거나 점진적으로 증가하는 경우  <mark style="color:$info;">[조기 평가]</mark>
+* 원인 미상의 안정된 G3, 또는 중등도 증가 알부민뇨(A2) 지속 → 원인·진행 위험 평가; 혈뇨·활성 요침사·진행성 기능 저하 동반 시 상위 단계로 평가  <mark style="color:$info;">[조기 평가]</mark>
 
 ✽ 신장 전문의 진료 이후 치료 계획이 수립된 환자는 1차 의료기관에서 정기적인 추적을 담당할 수 있음
 
@@ -179,30 +179,34 @@ _✽빈혈 치료 전의 최소 선별 간격이며 eGFR 추적 간격과 동일
 
 ```mermaid
 flowchart TD
-    A(["CKD 의심: eGFR 저하·알부민뇨 또는 구조 이상"]) --> B{"응급 소견 또는 AKI 의심?"}
-    B -- 예 --> C(["즉각 조치 또는 당일 평가·의뢰"])
-    B -- 아니오 --> D{"3개월 이상 지속 또는 만성성 근거?"}
-    D -- 불확실 --> E["과거 기록·영상·재검으로 확인<br/>급성 원인 평가 및 필요한 치료 병행"]
-    E -- CKD 확인 --> F["원인·G/A 병기 분류<br/>G3~G5에서 KFRE 평가"]
-    D -- 예 --> F
-    E -- CKD 근거 없음 --> J(["위험 인자 관리·추적 재평가"])
+    A(["CKD 의심: eGFR 저하·알부민뇨 또는 구조 이상"]) --> B{"응급 소견?"}
+    B -- "예" --> C(["즉시 응급 평가·조치"])
+    B -- "아니오" --> AK{"AKI 의심?"}
+    AK -- "예" --> AKR["당일 AKI 평가·필요시 의뢰"]
+    AK -- "아니오" --> D{"3개월 이상 지속 또는 만성성 근거?"}
+    D -- "불확실" --> E["과거 기록·영상·재검으로 확인 · 급성 원인 평가 및 필요한 치료 병행"]
+    E -- "CKD 확인" --> F["원인·G/A 병기 분류 · G3~G5에서 KFRE 평가"]
+    D -- "예" --> F
+    E -- "CKD 근거 없음" --> J(["위험 인자 관리·추적 재평가"])
     F --> G{"신장내과 의뢰 기준 해당?"}
-    G -- 예 --> H(["위험도에 맞추어 신장내과 의뢰·공동 관리"])
-    G -- 아니오 --> I["1차 의료 관리<br/>원인·혈압·혈당·알부민뇨 및 합병증 치료"]
+    G -- "예" --> H(["위험도에 맞추어 신장내과 의뢰·공동 관리"])
+    G -- "아니오" --> I["1차 의료 관리 · 원인·혈압·혈당·알부민뇨 및 합병증 치료"]
     I --> K{"위험도별 추적에서 악화?"}
-    K -- 예 --> H
-    K -- 아니오 --> I
+    K -- "예" --> H
+    K -- "아니오" --> I
     classDef decision fill:#fff9c4,stroke:#ffe082
-    class B,D,G,K decision
+    class B,AK,D,G,K decision
+    classDef action fill:#e3f2fd,stroke:#1976d2
+    class E,F,H,I,J,AKR action
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffcdd2,stroke:#c62828
-    style H fill:#ffcdd2,stroke:#c62828
-    style I fill:#e3f2ff,stroke:#2196f3
+    style C fill:#ffdddd,stroke:#d32f2f
+
+    style I fill:#e3f2fd,stroke:#1976d2
 ```
 
 <p align="center"><strong>CKD 병기 분류 및 신장내과 의뢰 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em><br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: KDIGO 2024 CKD Guideline; 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022).</mark></em></p>
 
 ***
 
@@ -223,7 +227,7 @@ flowchart TD
 5. 합병증 (빈혈, 골대사이상, 고칼륨혈증, 요독증) 관리
 6. G4\~G5에서 신장 대체 요법 준비
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 싱겁게 먹고 단백질은 CKD 병기·영양 상태·투석 여부에 맞추어 섭취한다.
 * 칼륨이 많은 음식의 지나친 섭취를 피한다(고칼륨혈증 위험이 있는 경우에 한함).
@@ -284,7 +288,7 @@ _✽함량은 1회 섭취량·품종·조리법에 따라 달라 아래 목록�
 
 #### <mark style="color:$primary;">SGLT2 억제제 - 신장 보호</mark>
 
-* dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_-dmdrugs.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * 권고는 SGLT2 억제제 계열에 대한 것이나, CKD 임상 결과와 허가가 확인된 dapagliflozin·empagliflozin을 선택하며 제품별 적응증·시작 eGFR 하한을 구분
 * KDIGO 2024 권고 : 제2형 당뇨병 동반 CKD는 eGFR ≥20에서 권고(알부민뇨 문턱 없음). 당뇨병과 무관하게 eGFR ≥20 + uACR ≥200 ㎎/g, 또는 심부전 동반 CKD에도 권고. eGFR 20\~45 + uACR ＜200 ㎎/g에서는 사용을 제안(2B)
 * 이미 투여 중인 경우 내약성이 양호하면 eGFR이 20 미만으로 떨어지더라도 투석·이식(KRT)을 시작하기 전까지 지속 가능 <mark style="color:$info;">\[KDIGO]</mark>
@@ -292,41 +296,41 @@ _✽함량은 1회 섭취량·품종·조리법에 따라 달라 아래 목록�
 * 부작용 : 생식기 진균 감염, 체액 감소, 드물게 정상혈당 케톤산증(euglycemic DKA). 장기 금식·수술·중증 급성 질환에서 일시 중단하며, 단순 감기 등 모든 급성 질환에서 자동 중단하는 것은 아님
 * 제1형 당뇨병·다낭콩팥병·최근 면역억제치료를 받는 활동성 콩팥 질환 등에는 본 일반 CKD 권고를 일괄 적용하지 않으며 제품별 허가 범위를 확인
 * 국내 CKD 급여(비당뇨 환자 기준, eGFR 단위 ㎖/min/1.73㎡) : 두 약제 모두 ACEI 또는 ARB 최대 내약 용량을 4주 이상 안정적으로 투여 중이어야 함. 당뇨병 환자는 당뇨병용제 일반원칙을 별도 적용
-  * dapagliflozin 10 ㎎ qd [다파엔] : eGFR 25\~75, dipstick ≥1+ 또는 uACR ≥200 ㎎/g <mark style="color:$info;">\[심평원 고시 제2025-102호]</mark>
-  * empagliflozin 10 ㎎ qd [자디앙] : eGFR 20\~＜45에서는 알부민뇨 문턱 없이, eGFR 45\~90에서는 uACR ≥200 또는 uPCR ≥300 ㎎/g <mark style="color:$info;">\[심평원 고시 제2026-159호]</mark>
+  * dapagliflozin 10 ㎎ qd [다파엔](https://health.kr/drug/2023013100015) : eGFR 25\~75, dipstick ≥1+ 또는 uACR ≥200 ㎎/g <mark style="color:$info;">\[심평원 고시 제2025-102호]</mark>
+  * empagliflozin 10 ㎎ qd [자디앙](https://health.kr/drug/2014081300012) : eGFR 20\~＜45에서는 알부민뇨 문턱 없이, eGFR 45\~90에서는 uACR ≥200 또는 uPCR ≥300 ㎎/g <mark style="color:$info;">\[심평원 고시 제2026-159호]</mark>
   * 신규 시작 허가 하한은 dapagliflozin eGFR ≥25, empagliflozin ≥20으로 구분함. 계열 권고 eGFR ≥20을 모든 제품의 신규 시작 허가로 해석하지 않음
 
 #### <mark style="color:$primary;">비스테로이드성 MRA - 국내 CKD 허가는 제2형 당뇨병 동반</mark>
 
-* finerenone : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소 <mark style="color:blue;">\[케렌디아]</mark>
+* finerenone : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소 [케렌디아](https://health.kr/drug/2022051100011)
 * 대상 : 제2형 당뇨병, 지속성 알부민뇨(uACR ≥30 ㎎/g), 최대 내약 ACEI/ARB 사용 중인 성인. KDIGO 권고의 eGFR 표기는 ＞25이며, 국내 허가상 신규 시작은 ≥25에서 가능
-* CKD 용량 : eGFR 25\~＜60이면 10 ㎎ qd, ≥60이면 20 ㎎ qd로 시작; 목표 최대 20 ㎎/d. K ≤4.8 mmol/L에서 시작을 권장; K ＞5.0이면 시작하지 않고, 4.8＜K≤5.0에서는 추가 모니터링하에 선택적으로 고려
+* CKD 용량 : eGFR 25\~＜60이면 10 ㎎ qd, ≥60이면 [20 ㎎](https://www.health.kr/drug/2022051100010) qd로 시작; 목표 최대 20 ㎎/d. K ≤4.8 mmol/L에서 시작을 권장; K ＞5.0이면 시작하지 않고, 4.8＜K≤5.0에서는 추가 모니터링하에 선택적으로 고려
 * 시작·재시작·증량 4주 후 K·eGFR 확인. K ≤4.8이고 이전 검사 대비 eGFR 감소 ＜30%이면 10→20 ㎎ 증량 가능; 4.8＜K≤5.5이면 현 용량 유지, K ＞5.5이면 일시 중단하고 ≤5.0이면 10 ㎎ qd로 재시작
 * 강력한 CYP3A4 억제제(clarithromycin, itraconazole, ritonavir 등) 병용은 금기. 다른 MRA·칼륨 보존성 이뇨제 병용은 피하고, 칼륨 보충제·trimethoprim 사용 시 고칼륨혈증에 주의. 자몽을 피하며, 중등도 CYP3A4 억제제(verapamil 등) 병용 시 K를 추가 감시
 * 국내에서 LVEF ≥40% 만성 심부전 적응증도 허가되어 있으나, 심부전의 40 ㎎ 용량을 당뇨병 동반 CKD 용량에 적용하지 않음 <mark style="color:$info;">\[국내 finerenone 허가사항]</mark>
 * CONFIDENCE(2025) : RAS 억제제 투여 중인 제2형 당뇨병·CKD(eGFR 30\~90, uACR 100\~5,000)에서 finerenone+empagliflozin 동시 시작은 180일 uACR을 각 단독군보다 더 감소시킴. 이는 단기 대리지표 결과이며 병용의 추가적인 신부전·사망 감소를 확증한 결과로 해석하지 않음; K·eGFR 모니터링은 계속 필요 <mark style="color:$info;">\[CONFIDENCE 2025]</mark>
 * 국내 당뇨병 동반 CKD 급여 : ACEI 또는 ARB 최대 내약 용량을 4주 이상 안정적으로 투여 중이며, ① uACR ＞300 ㎎/g 또는 dipstick ≥1+, ② eGFR 25\~＜75 ㎖/min/1.73㎡를 모두 충족하는 제2형 당뇨병 성인. 지속적인 증상이 있는 만성 심부전(NYHA II\~IV)은 이 CKD 급여기준에서 제외하며, eGFR ＜15이면 중단함 <mark style="color:$info;">\[심평원 고시 제2024-20호]</mark>
 
-* **FIND-CKD(2026)** : RAS 억제제를 사용 중인 비당뇨병성 CKD(eGFR 25~＜90, uACR 200~3,500 ㎎/g) 성인 1,584명에서 finerenone은 32개월간 연간 eGFR 감소를 완화(군 간 차이 0.7 ㎖/min/1.73㎡/년)하고 콩팥·심혈관 복합 사건을 감소시킴(HR 0.77, 95% CI 0.60~0.99). 콩팥 사건만의 복합 결과는 CI가 1을 포함하였으며, 고칼륨혈증은 증가. **2026-10-27 확인 국내 허가상 비당뇨병성 CKD 자체의 신장 보호 목적 사용은 허가 외이며, 기존 제2형 당뇨병 동반 CKD 급여를 적용하지 않음** <mark style="color:$info;">\[FIND-CKD 2026; 국내 허가사항]</mark>
+* **FIND-CKD(2026)** : RAS 억제제를 사용 중인 비당뇨병성 CKD(eGFR 25~＜90, uACR 200~3,500 ㎎/g) 성인 1,584명에서 finerenone은 32개월간 연간 eGFR 감소를 완화(군 간 차이 0.7 ㎖/min/1.73㎡/년)하고 콩팥·심혈관 복합 사건을 감소시킴(HR 0.77, 95% CI 0.60~0.99). 콩팥 사건만의 복합 결과는 CI가 1을 포함하였으며, 고칼륨혈증은 증가. **2026-11-11 확인 품목허가에서 비당뇨병성 CKD 자체의 신장 보호 목적 사용은 허가 외이며, 기존 제2형 당뇨병 동반 CKD 급여를 적용하지 않음** <mark style="color:$info;">\[FIND-CKD 2026; 국내 허가사항]</mark>
 
-_✽KDIGO 2027 CKD 약물치료 집중 개정안은 2026-10-27 현재 공개 검토 초안이며 확정 지침으로 인용하지 않음. 본문은 KDIGO 2024 확정 지침에 이후 발표된 개별 연구·ADA 2026·국내 지침을 구분하여 반영._
+_✽KDIGO 2027 CKD 약물치료 집중 개정안은 2026-11-11 현재 공개 검토 종료 후 수정 중인 초안이며 확정 지침으로 인용하지 않음. 본문은 KDIGO 2024 확정 지침에 이후 발표된 개별 연구·ADA 2026·국내 지침을 구분하여 반영._
 
 #### <mark style="color:$primary;">혈당 관리</mark>
 
 * 당화혈색소 목표는 대체로 ＜6.5\~＜8.0% 범위에서 연령, 동반질환, 저혈당 위험, 기대여명 및 치료 부담을 고려해 개별화
-* [metformin](../226_/101_.md#metformin-mtf) : **국제 지침과 국내 품목허가를 구분**. KDIGO/ADA는 eGFR ≥30에서 사용 가능하며 30~44에서는 통상 1일 최대 1,000 ㎎으로 감량하나, 국내 다이아벡스정500밀리그램 허가는 eGFR/CrCl ＜45에서 금기·중단이고 45~＜60에서도 감량·면밀한 추적을 요구함. 따라서 국제 지침의 30~44 감량 용법을 국내 모든 제품의 허가 용법으로 안내하지 않음. eGFR ＜30·투석에서는 사용하지 않으며 탈수·저산소증·급성 악화 시 일시 중단 <mark style="color:$info;">\[KDIGO 당뇨병 2022/ADA 합의; 국내 다이아벡스 허가사항]</mark>
+* [metformin](../226_/101_-dmdrugs.md#metformin-mtf) : **국제 지침과 국내 품목허가를 구분**. KDIGO/ADA는 eGFR ≥30에서 사용 가능하며 30~44에서는 통상 1일 최대 1,000 ㎎으로 감량하나, 국내 [다이아벡스 500 ㎎](https://health.kr/drug/A11ABBBBB1043) 허가는 eGFR/CrCl ＜45에서 금기·중단이고 45~＜60에서도 감량·면밀한 추적을 요구함. 따라서 국제 지침의 30~44 감량 용법을 국내 모든 제품의 허가 용법으로 안내하지 않음. eGFR ＜30·투석에서는 사용하지 않으며 탈수·저산소증·급성 악화 시 일시 중단 <mark style="color:$info;">\[KDIGO 당뇨병 2022/ADA 합의; 국내 다이아벡스 허가사항]</mark>
 * metformin 장기 사용자는 B12 결핍을 확인하며, 다이아벡스 허가상 혈청 B12는 매년 모니터링 권고. 빈혈·말초신경병증이 있으면 적극 평가
 * G4~G5·투석 및 ESA 치료 중에는 HbA1c의 신뢰도가 낮아질 수 있어 자가혈당·연속혈당측정(CGM)을 함께 활용. 신기능 감소에 따라 인슐린·설포닐우레아의 저혈당 위험을 재평가
 * SGLT2 억제제, GLP-1 수용체 작용제는 혈당 조절과 별개로 신장·심혈관 보호 효과가 있어 당뇨병 동반 CKD에서 우선 고려되는 계열임
-* [GLP-1 수용체 작용제](../226_/101_.md#glp-1-ra-glucagon-like-peptide-1-receptor-agonist) : 제2형 당뇨병 동반 CKD에서 신장·심혈관 이득이 입증된 제제를 개별 HbA1c와 별개로 고려할 수 있음. semaglutide는 FLOW에서 주요 콩팥 사건 위험 감소가 확인됨. metformin+SGLT2 억제제 치료 실패를 필수 선행조건으로 단정하지 않으며, 비당뇨병 CKD 전체에 같은 근거를 확대하지 않음 <mark style="color:$info;">\[FLOW 2024; ADA 2026]</mark>
+* [GLP-1 수용체 작용제](../226_/101_-dmdrugs.md#glp-1-ra-glucagon-like-peptide-1-receptor-agonist) : 제2형 당뇨병 동반 CKD에서 신장·심혈관 이득이 입증된 제제를 개별 HbA1c와 별개로 고려할 수 있음. semaglutide는 FLOW에서 주요 콩팥 사건 위험 감소가 확인됨. metformin+SGLT2 억제제 치료 실패를 필수 선행조건으로 단정하지 않으며, 비당뇨병 CKD 전체에 같은 근거를 확대하지 않음 <mark style="color:$info;">\[FLOW 2024; ADA 2026]</mark>
 
 #### <mark style="color:$primary;">고칼륨혈증 관리</mark>
 
 * K를 안전한 범위로 유지
 * 가성 고칼륨혈증을 확인하고 식이·변비·산증·원인 약물을 교정하며, 체액 상태에 따라 이뇨제·칼륨 결합제를 고려. ACEI/ARB는 가능한 유지하되 치료로 조절되지 않으면 감량·중단함. finerenone은 K ＞5.5 mmol/L 시 일시 중단 기준을 적용하며, SGLT2 억제제를 고칼륨혈증 유발 약물로 일괄 취급하지 않음 <mark style="color:$info;">\[KDIGO 2024; 대한신장학회 2025 고혈압콩팥병 진료지침]</mark>
 * 칼륨 결합제
-  * polystyrene sulfonate calcium : 경구·직장 투여 제제. **국내 카리메트 허가상 고칼슘혈증·부갑상선기능항진증·다발골수종·사르코이드증/전이성 암종·폐색성 장질환 등은 금기**. 심한 변비·지속 복통·구토 시 중단하고 장폐색·천공을 평가; 장운동 저하 시 피함. K·Ca를 감시하고 K ≤5.0 mmol/L이면 중단. 소르비톨 병용을 피하며 특히 소르비톨 현탁액의 직장 투여는 사용하지 않음 <mark style="color:blue;">[카리메트]</mark>
-  * sodium zirconium cyclosilicate(SZC) : RAAS 차단제 유지가 필요한 비응급 고칼륨혈증의 교정·유지에 고려. 혈청 K는 비교적 빠르게 감소할 수 있지만 생명을 위협하는 급성 고칼륨혈증의 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 <mark style="color:blue;">[로켈마]</mark>
+  * polystyrene sulfonate calcium : 경구·직장 투여 제제. **국내 [카리메트](https://health.kr/drug/A11A0720A0460) 허가상 고칼슘혈증·부갑상선기능항진증·다발골수종·사르코이드증/전이성 암종·폐색성 장질환 등은 금기**. 심한 변비·지속 복통·구토 시 중단하고 장폐색·천공을 평가; 장운동 저하 시 피함. K·Ca를 감시하고 K ≤5.0 mmol/L이면 중단. 소르비톨 병용을 피하며 특히 소르비톨 현탁액의 직장 투여는 사용하지 않음 카리메트
+  * sodium zirconium cyclosilicate(SZC) : RAAS 차단제 유지가 필요한 비응급 고칼륨혈증의 교정·유지에 고려. 혈청 K는 비교적 빠르게 감소할 수 있지만 생명을 위협하는 급성 고칼륨혈증의 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 [로켈마](https://www.health.kr/drug/2025120100002)
 
 #### <mark style="color:$primary;">신성 빈혈</mark>
 
@@ -359,7 +363,7 @@ _✽KDIGO 2027 CKD 약물치료 집중 개정안은 2026-10-27 현재 공개 검
   * 부작용 : 변비, 식욕 감퇴, 구역·구토, 복부팽만감 등; 타 약제 흡수 저해 가능
   * 금기 : 소화관 통과장애. 신중 투여 : 소화관궤양, 식도정맥류, 변비 경향
   * 타 약물과 동시 복용을 피함. 국내 허가에는 고정된 2시간 간격이 명시되어 있지 않으므로 약제별 흡수 특성에 따라 복용 시간을 조정. 약 6개월 시점에 효과와 지속 필요성을 재평가
-  * 용법 : 2 g tid <mark style="color:blue;">[크레메진]</mark> ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220601\&sno=5\&mtgMtrRegSno=0005) : 투석 전 진행성 CKD 환자 중 s-Cr 2\~5 ㎎/㎗인 환자)
+  * 용법 : 2 g tid [크레메진](https://health.kr/drug/A11AOOOOO5006) ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220601\&sno=5\&mtgMtrRegSno=0005) : 투석 전 진행성 CKD 환자 중 s-Cr 2\~5 ㎎/㎗인 환자)
 
 #### <mark style="color:$primary;">대사성 산증</mark>
 
@@ -479,11 +483,11 @@ _✽KDIGO 2027 CKD 약물치료 집중 개정안은 2026-10-27 현재 공개 검
 * 조영 CT가 반드시 필요한 경우, CKD가 있다는 이유만으로 검사를 포기하지 않음 - 위험도를 평가하고 예방적 조치를 함께 시행하는 것이 원칙
 * 잔여 신기능이 남아있는 경우 조영제 유발 급성 신손상 위험을 평가 (무뇨 혈액투석 환자는 상대적으로 위험이 낮으나 여전히 주의)
 * AKI 또는 eGFR ＜30인 비투석 환자 등에서는 금기가 없으면 등장성 수액 예방을 고려하되 체액 과다 위험에 맞추어 조정. 무뇨 투석 환자에게 예방 목적의 일률적 수액·추가 투석을 시행하지 않음; 잔여 신기능이 있으면 보존 필요성을 별도로 평가
-* metformin은 조영제 종류·경로·AKI 여부와 국내 제품 허가를 확인. 다이아벡스 허가상 정맥 요오드 조영제 검사 전 또는 검사 시 중단하고, 최소 48시간 후 신기능을 재평가하여 추가 손상 위험이 없을 때 재시작(투석 환자에서는 사용 금기)
+* metformin은 조영제 종류·경로·AKI 여부와 국내 제품 허가를 확인. 다이아벡스 허가에서는 eGFR 45~60 ㎖/min/1.73㎡이면 정맥 요오드 조영제 투여 48시간 전에 중단하며, eGFR ＞60이면 검사 전 또는 검사 시 중단함. 검사 후 최소 48시간이 지난 뒤 신기능을 재평가하여 추가 손상 위험이 없을 때 재시작(투석 환자에서는 사용 금기)
 
 <mark style="color:cyan;">**통증 관리**</mark>
 
-* 임상 지침상 acetaminophen을 우선 고려할 수 있으나 실제 사용할 품목·제형의 국내 허가사항을 함께 적용함. 타이레놀 일반정·ER 등 일부 국내 품목은 심한 신장애에서 투여 금기이므로 해당 품목을 단순 감량하여 사용하는 것으로 안내하지 않음. 투석 환자는 신장내과와 품목·제형·투여간격·치료 계획을 확인함. 임상 지침의 투석 환자 사용 권고 자체와 개별 제품의 허가상 금기는 구분함(001 참조)
+* 임상 지침상 acetaminophen을 우선 고려할 수 있으나 실제 사용할 품목·제형의 국내 허가사항을 함께 적용함. [타이레놀 500 ㎎](https://www.health.kr/drug/2021082400002)·[타이레놀8시간이알서방 650 ㎎](https://www.health.kr/drug/2022020300026) 등 일부 품목은 심한 신장애에서 투여 금기이므로 해당 품목을 단순 감량하여 사용하는 것으로 안내하지 않음. 투석 환자는 신장내과와 품목·제형·투여간격·치료 계획을 확인함. 임상 지침의 투석 환자 사용 권고 자체와 개별 제품의 허가상 금기는 구분함(☞ [통증](../220_/001_-pain.md))
 * NSAID는 잔여 신기능 저하 및 (이식의 경우) 이식신 손상 위험이 있어 가능한 회피
 * gabapentin, pregabalin은 신기능 (투석 환자는 투석 제거율)에 따라 감량하고, 투석 스케줄에 맞추어 투여 시점을 조정 (예: 투석 후 복용)
 * opioid는 신기능에 따른 용량 조절이 필요 - morphine은 활성 대사산물이 축적될 수 있어 상대적으로 피하고 대안을 신중히 고려
@@ -517,26 +521,6 @@ _✽KDIGO 2027 CKD 약물치료 집중 개정안은 2026-10-27 현재 공개 검
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
-
-N18 만성 콩팥병 Chronic kidney disease
-
-N18.1 만성 콩팥병, 1기 Chronic kidney disease, stage 1
-
-N18.2 만성 콩팥병, 2기(경도) Chronic kidney disease, stage 2 (mild)
-
-N18.3 만성 콩팥병, 3기(중등도) Chronic kidney disease, stage 3 (moderate)
-
-N18.4 만성 콩팥병, 4기(중증) Chronic kidney disease, stage 4 (severe)
-
-N18.5 만성 콩팥병, 5기 Chronic kidney disease, stage 5
-
-N18.9 만성 콩팥병, 상세불명 Chronic kidney disease, unspecified
-
-_✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 N18.6을 국내 KCD 코드로 사용하지 않음. 투석 의존 상태는 필요시 Z99.2를 함께 기재._
-
-***
-
 ## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 단백뇨 동반 고혈압 - RAAS 차단제**
@@ -544,6 +528,8 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 > ```
 > 코자정 50 ㎎/T　1T　qd
 > ```
+>
+> 약제 정보: [코자정·50 ㎎](https://www.health.kr/drug/A11A5950A0003)
 >
 > _✽ARB/ACEI는 강압 효과 외에 사구체내압 감소를 통한 알부민뇨 감소 및 콩팥 기능 보호 효과가 있음. 혈압·내약성을 보며 최대 허가·내약 용량으로 증량하고, 시작·증량 후 2\~4주 내 s-Cr, K 재검. 4주 이내 s-Cr이 기저치 대비 ＞30% 상승하면 탈수, NSAID, 이뇨제, 신동맥협착 등 가역적 원인을 평가한 뒤 감량·중단 여부 결정_
 
@@ -553,6 +539,8 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 > 다파엔정 10 ㎎/T　1T　qd
 > ```
 >
+> 약제 정보: [다파엔정·10 ㎎](https://health.kr/drug/2023013100015)
+>
 > _✽비당뇨병 CKD의 dapagliflozin 급여 예시: ACEI 또는 ARB 최대 내약 용량 4주 이상 + eGFR 25\~75 + dipstick ≥1+ 또는 uACR ≥200 ㎎/g. empagliflozin의 2026.8.1. 확대 기준과 구분(위 SGLT2 억제제 항목 참조)_
 
 > **처방례 3. 제2형 당뇨병 동반 만성콩팥병 - 비스테로이드성 MRA 추가**
@@ -561,15 +549,20 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 > 케렌디아정 10 ㎎/T　1T　qd
 > ```
 >
+> 약제 정보: [케렌디아정·10 ㎎](https://health.kr/drug/2022051100011) · [케렌디아정·20 ㎎](https://www.health.kr/drug/2022051100010)
+>
 > _✽제2형 당뇨병 동반 성인 CKD에서 최대 내약 용량 ACEI/ARB에도 알부민뇨가 지속되고 K가 정상인 경우 추가. 시작 용량은 eGFR 25\~＜60이면 10 ㎎ qd, eGFR ≥60이면 20 ㎎ qd이며, eGFR ＜25에서는 시작하지 않음. K ＞5.0이면 시작하지 않고, 시작·재시작·증량 4주 후 K·eGFR 확인; K ＞5.5이면 중단, ≤5.0이면 10 ㎎ 재시작. 국내 CKD 급여 세부 조건은 위 finerenone 항목 참조_
 
 > **처방례 4. RAAS 차단제 유지 중 고칼륨혈증 동반**
 >
 > ```
-> 로켈마현탁용분말 10 g　tid (교정기 48시간)
+> 로켈마현탁용분말 10 g/포　1포　tid (교정기 48시간)
 > ※ 48시간 후 고칼륨혈증이 지속되면 24시간 추가 가능; 72시간 후에도 미교정 시 다른 치료 고려
 > ※ 이후 유지 용량 5 g qd, 필요시 10 g qd 또는 5 g 격일로 조정(1일 최대 10 g)
+> ※ 매회 물 약 45 ㎖에 잘 현탁하여 즉시 복용; 잔에 남은 분말도 물을 더해 모두 복용
 > ```
+>
+> 약제 정보: [로켈마현탁용분말·10 g](https://www.health.kr/drug/2025120100003) · [로켈마현탁용분말·5 g](https://www.health.kr/drug/2025120100002)
 >
 > _✽비응급 고칼륨혈증에서 ACEI/ARB 지속을 돕기 위한 예시임. 조절되지 않는 고칼륨혈증에서는 원인 약물 감량·중단이 필요하며 finerenone의 K별 중단 기준은 별도 적용. 혈청 K·부종·나트륨 부하를 감시하고, 생명을 위협하는 고칼륨혈증의 표준 응급 처치를 대체하지 않음. 이 예시는 비투석 환자 용법이며 유지혈액투석에서는 비투석일 전용 용법을 적용_
 
@@ -580,7 +573,29 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 > ※ 타 약물과 동시 복용을 피하고 약제별로 복용 시간을 조정
 > ```
 >
+> 약제 정보: [크레메진세립·2 g/포](https://health.kr/drug/A11AOOOOO5006)
+>
 > _✽s-Cr 2\~5 ㎎/㎗ 범위의 투석 전 진행성 CKD 환자에서 급여 인정. 허가 효능과 달리 대규모 무작위시험에서 투석 지연 효과가 확증되지는 않았으며, 투석 적응증 평가를 지연하지 않음. 변비·식욕 감퇴와 타 약물 흡수 저해 가능성을 교육_
+
+***
+
+### <mark style="color:red;">질병코드</mark>
+
+N18 만성 콩팥병 Chronic kidney disease
+
+N18.1 만성 콩팥병(1기) Chronic kidney disease, stage 1
+
+N18.2 만성 콩팥병(2기) Chronic kidney disease, stage 2
+
+N18.3 만성 콩팥병(3기) Chronic kidney disease, stage 3
+
+N18.4 만성 콩팥병(4기) Chronic kidney disease, stage 4
+
+N18.5 만성 콩팥병(5기) Chronic kidney disease, stage 5
+
+N18.9 상세불명의 만성 콩팥병 Chronic kidney disease, unspecified
+
+_✽N18은 상위 분류이며 병기에 맞는 완전코드를 선택함. 국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 N18.6을 국내 KCD 코드로 사용하지 않음. 투석 의존 상태는 필요시 Z99.2를 함께 기재._
 
 ***
 
@@ -590,7 +605,7 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 >
 > * 시작 또는 증량 2\~4주 후 s-Cr, K 재검이 필요하며, 고위험 환자는 더 일찍 검사할 수 있습니다.
 > * 4주 이내 s-Cr이 기저치 대비 ＞30% 상승하면 탈수·동반 약물 등 가역적 원인을 먼저 확인하고 감량 또는 중단 여부를 결정합니다.
-> * 임신 중이거나 임신 계획이 있는 경우 즉시 알려야 합니다(임신 시 금기).
+> * 임신을 계획하면 미리 대체 약제를 상담하십시오. 복용 중 임신이 확인되면 즉시 중단하고 진료를 받으십시오.
 
 > **SGLT2 억제제 복용**
 >
@@ -599,10 +614,16 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 > * 생식기 부위 청결을 유지하고, 가려움이나 분비물 등 진균 감염 증상 발생 시 알리도록 합니다.
 > * 드물지만 혈당이 정상이어도 케톤산증이 발생할 수 있어(euglycemic DKA), 구역·구토·복통·과호흡 시 즉시 내원하도록 안내합니다.
 
+> **finerenone(케렌디아) 복용**
+>
+> * 시작·재시작·용량 변경 4주 후 칼륨·콩팥 기능 검사를 받고 이후에도 정기적으로 확인하십시오. 고칼륨혈증은 증상이 없을 수 있습니다.
+> * 칼륨 보충제·칼륨 함유 저염 소금은 상담 없이 사용하지 마십시오. 자몽·자몽주스는 피하고 새로 복용할 약은 의료진에게 확인하십시오.
+
 > **칼륨 결합제(카리메트, 로켈마) 복용**
 >
 > * 카리메트 복용 중 심한 변비·지속 복통·구토가 생기면 복용을 중단하고 즉시 진료받으십시오. 부갑상선기능항진증·고칼슘혈증·장폐색 병력이 있으면 처방 전에 알려주십시오.
 > * 카리메트는 다른 경구약과 적어도 3시간 간격(위배출 지연 시 6시간)을 두십시오. 로켈마는 pH 의존성 흡수 약물과 tacrolimus의 전후 2시간 간격이 필요하며, 모든 경구약에 일률적으로 같은 간격을 적용하지 않습니다.
+> * 로켈마는 물 약 45 ㎖에 잘 저어 즉시 마시며, 컵에 분말이 남으면 물을 더해 전량 복용하십시오. 부종·체중 증가를 알려 주고 칼륨 재검 일정을 지키십시오.
 > * 로켈마는 생명을 위협하는 고칼륨혈증의 단독 응급 치료로 사용하지 않습니다. 심전도 안정화·세포 내 칼륨 이동·필요시 투석 등 응급 처치를 먼저 시행하고 보조적으로 병용할 수 있습니다.
 
 > **크레메진(구형흡착탄) 복용**
@@ -623,7 +644,7 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 
 ### &lt;임상 근거&gt;
 
-* KDIGO CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117–S314. [지침](https://kdigo.org/guidelines/ckd--evaluation-and-management/)
+* KDIGO CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117–S314. [지침](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 * 대한고혈압학회. 2026년 제6판 고혈압 진료지침(수정본). [지침](https://www.koreanhypertension.org/reference/guide?idno=10446&mode=read)
 * Lee EM, et al. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension. [논문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13197191/)
 * 대한신장학회. 2025 고혈압콩팥병 진료지침. [지침](https://ksn.or.kr/bbs/skin/publication/download.php?code=guideline_k&number=2252)
@@ -632,7 +653,7 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 * American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S246–S260. [DOI](https://doi.org/10.2337/dc26-S011)
 * Agarwal R, et al. Finerenone with Empagliflozin in Chronic Kidney Disease and Type 2 Diabetes. N Engl J Med. 2025;393:533–543. [DOI](https://doi.org/10.1056/NEJMoa2410659) — 병용 시 단기 uACR 감소 근거.
 * Heerspink HJL, et al. Finerenone in Persons with Chronic Kidney Disease without Diabetes. N Engl J Med. 2026;395:533–545. [DOI](https://doi.org/10.1056/NEJMoa2604625) — FIND-CKD; 국내 비당뇨병성 CKD 허가와 구분.
-* KDIGO. CKD 약물치료 집중 개정 현황. 2027 집중 개정안은 2026-10-27 현재 공개 검토 초안. [개정 현황](https://kdigo.org/guidelines/ckd--evaluation-and-management/)
+* KDIGO. CKD 약물치료 집중 개정 현황. 2027 집중 개정안은 2026-11-11 현재 공개 검토 종료 후 수정 중인 초안. [개정 현황](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 * Perkovic V, et al. Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes. N Engl J Med. 2024;391:109–121. [DOI](https://doi.org/10.1056/NEJMoa2403347)
 * Schulman G, et al. Randomized Placebo-Controlled EPPIC Trials of AST-120 in CKD. J Am Soc Nephrol. 2015;26:1732–1746. [DOI](https://doi.org/10.1681/ASN.2014010042)
 * KDIGO CKD-MBD Update Work Group. KDIGO 2017 Clinical Practice Guideline Update for CKD–Mineral and Bone Disorder. Kidney Int Suppl. 2017;7:1–59. [지침](https://kdigo.org/wp-content/uploads/2017/02/2017-KDIGO-CKD-MBD-GL-Update.pdf)
@@ -682,6 +703,9 @@ _✽국내 말기콩팥병은 N18.5 범주에 포함하며, 미국 ICD-10-CM의 
 * 최근에는 당뇨병 여부와 관계없이 콩팥 기능 저하를 늦추는 새로운 약(SGLT2 억제제 등)이 함께 처방되는 경우가 늘고 있습니다. 의료진이 안내한 대로 꾸준히 복용하십시오.
 * **구토, 설사, 고열 등으로 탈수가 있을 때는 혈압약(ACEI/ARB), SGLT2 억제제, 이뇨제, 당뇨약(metformin) 등 일부 약을 일시적으로 중단해야 할 수 있습니다.** 이런 상황이면 미리 담당 의료진에게 문의하여 어떤 약을 언제까지 쉬어야 하는지 확인하십시오.
 * 새로 처방받은 약이나 다른 병원에서 처방받은 약을 복용하기 전에는 반드시 담당 의료진에게 알리십시오.
+* ACEI/ARB 복용 중 임신이 확인되면 즉시 중단하고 진료를 받으십시오. 임신 계획도 미리 알려 주세요.
+* SGLT2 억제제는 계획 수술 적어도 3일 전부터 중단하며, 구역·구토·복통·숨참이 생기면 혈당이 높지 않아도 즉시 진료를 받으십시오.
+* 약을 시작하거나 용량을 바꾼 뒤 정해진 칼륨·콩팥 기능 검사를 받으십시오. 칼륨 이상은 증상이 없을 수 있습니다.
 * 일시 중단했던 약을 계속 빠뜨리지 않도록 회복 후 재시작 시점을 의료진과 확인하십시오.
 * **조영제를 사용하는 CT 검사, 심혈관 시술, 또는 다른 수술이 예정되어 있다면, 콩팥병이 있다는 사실을 검사·시술·수술 담당 의료진에게 반드시 미리 알리십시오.** 조영제나 일부 약물이 콩팥에 부담을 줄 수 있어 사전 대비가 필요합니다.
 

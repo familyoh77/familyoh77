@@ -69,7 +69,7 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 * 시험지봉 검사 1+ 이상 : 아침 첫 소변으로 uPCR과 uACR, 요검사를 함께 시행
   * 2세 이상에서 uPCR ＜200 ㎎/g이고 uACR ＜30 ㎎/g이며 요검사가 정상이면 일과성 또는 기립성 단백뇨 가능성이 높으므로 1년 후 재검 고려
   * 2세 이상은 건강한 상태에서 반복한 아침 첫 소변에서 uACR ≥30 ㎎/g 또는 uPCR ≥200 ㎎/g이면 소아신장 전문가 의뢰. 혈뇨·고혈압·eGFR 저하 등이 있으면 단백량과 무관하게 평가. 과거 실무 알고리듬의 uPCR ≤200 ㎎/g 정상 기준과 경계값이 다르므로, 정확히 200이면 재검 후 지속 시 의뢰 <mark style="color:$info;">[KDIGO 2024, PP 5.1.2]</mark>
-  * 생후 6\~24개월은 첫 아침 uPCR ≤500 ㎎/g을 참고하며 위의 2세 이상 문턱값을 그대로 적용하지 않음. 6개월 미만은 연령별 정상범위와 임상상으로 판단. 혈뇨·부종·고혈압·eGFR 저하가 있으면 경계값과 무관하게 소아신장 전문가 평가
+  * 생후 6\~＜24개월은 첫 아침 uPCR ≤500 ㎎/g을 참고하며 위의 2세 이상 문턱값을 그대로 적용하지 않음. 6개월 미만은 연령별 정상범위와 임상상으로 판단. 혈뇨·부종·고혈압·eGFR 저하가 있으면 경계값과 무관하게 소아신장 전문가 평가
 
 * 학교 선별검사의 반복 양성 여부와 임상적 지속성 단백뇨 진단을 구분하며, 첫 아침 정량검사와 혈압·요침사로 평가
 
@@ -217,30 +217,34 @@ _✽시험지봉 검사는 소변 농축도와 제품별 판독 기준에 영향
 
 ```mermaid
 flowchart TD
-    D1["단백뇨 의심 또는 CKD 위험군 선별"] --> Q{"응급 소견 또는 임신성 고혈압질환 의심?"}
-    Q -->|예| ER["응급 조치 또는 당일 전문 평가"]
-    Q -->|아니요| U1["uACR · 필요시 uPCR · 요침사 · eGFR · 혈압"]
+    D1["단백뇨 의심 또는 CKD 위험군 선별"] --> Q{"응급 소견?"}
+    Q -- "예" --> ER["즉시 응급 평가·조치"]
+    Q -- "아니오" --> PQ{"임신부의 신규 단백뇨 또는 임신성 고혈압질환 의심?"}
+    PQ -- "예" --> OB["당일 산과 평가"]
+    PQ -- "아니오" --> U1["uACR · 필요시 uPCR · 요침사 · eGFR · 혈압"]
     U1 --> H{"신증후군 · 활성 요침사 · 빠른 기능 저하 등 고위험 소견?"}
-    H -->|예| Ref["신속 의뢰 및 원인 평가"]
-    H -->|아니요| C{"일시적 증가 요인?"}
-    C -->|예| R["원인 해소 후 정량 재검"]
-    C -->|아니요| A{"정량 결과"}
+    H -- "예" --> Ref["신속 의뢰 및 원인 평가"]
+    H -- "아니오" --> C{"일시적 증가 요인?"}
+    C -- "예" --> R["원인 해소 후 정량 재검"]
+    C -- "아니오" --> A{"정량 결과"}
     R --> A
-    A -->|"A1 · 측정한 uPCR도 정상"| E1["eGFR · 다른 손상 표지 평가 후 위험도에 따라 추적"]
-    A -->|"A2~A3 또는 uPCR 증가"| P["원인 평가와 반복 확인 · 과거 자료로 만성성 검토"]
+    A -- "A1 · 측정한 uPCR도 정상" --> E1["eGFR · 다른 손상 표지 평가 후 위험도에 따라 추적"]
+    A -- "A2~A3 또는 uPCR 증가" --> P["원인 평가와 반복 확인 · 과거 자료로 만성성 검토"]
     P --> K{"지속성 또는 다른 CKD 근거?"}
-    K -->|없음| F1["일과성 · 기립성 여부 확인 후 추적"]
-    K -->|있음| CKD["원인 · GFR · 알부민뇨에 따른 CKD 평가"]
+    K -- "없음" --> F1["일과성 · 기립성 여부 확인 후 추적"]
+    K -- "있음" --> CKD["원인 · GFR · 알부민뇨에 따른 CKD 평가"]
     CKD --> Tx["적응증별 치료 · 의뢰"]
     Tx --> FU["uACR · eGFR · 혈압 · 약제별 칼륨 추적"]
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef evaluation fill:#e8f8e8,stroke:#4caf50
-    classDef endpoint fill:#d0e8ff,stroke:#1a6abf
-    class Q,H,C,A,K decision
-    class U1,P,CKD evaluation
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#e3f2fd,stroke:#1976d2
+    classDef endpoint fill:#e3f2fd,stroke:#1976d2
+    class D1 start
+    class Q,PQ,H,C,A,K decision
+    class U1,R,P,CKD,Tx,OB evaluation
     class E1,F1,FU endpoint
-    style ER fill:#f8d7da,stroke:#c82333,stroke-width:2px
-    style Ref fill:#ffe5cc,stroke:#e67e22,stroke-width:2px
+    style ER fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    style Ref fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
 ```
 
 <p align="center"><strong>단백뇨(알부민뇨) 평가 알고리듬</strong></p>
@@ -258,11 +262,11 @@ flowchart TD
   * 당뇨병 동반 CKD에서 uACR ≥300 ㎎/g이면 기저 대비 ≥30% 감소를 목표로 치료 반응 평가 <mark style="color:$info;">[ADA 2026, 11.2]</mark>
   * IgA 신증 : 단백뇨 ≥0.5 g/d(또는 이에 상응하는 uPCR)인 성인에서 IgA 신증이 의심되면 신장내과 의뢰하여 생검을 고려. 확진 후 단백뇨 목표는 ＜0.5 g/d, 가능하면 ＜0.3 g/d이며 eGFR 안정화를 함께 목표로 함 <mark style="color:$info;">\[KDIGO IgAN 2025]</mark>
   * <mark style="color:$info;">\[KDIGO]</mark> 알부민뇨 정도(A1\~A3)와 eGFR(G1\~G5)을 함께 고려한 위험도(heat map) 기반으로 치료 강도와 추적 간격 결정
-* 혈압 목표 : 비투석·비이식 성인 CKD의 고혈압에서 KDIGO 2024·대한신장학회 2025는 표준화된 진료실 혈압 기준 내약 시 SBP ＜120 ㎜Hg를 제안(2B). 일상 진료실·가정혈압에 같은 문턱을 그대로 적용하지 않으며, 연령·허약·기립성 저혈압·낙상 위험에 따라 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
+* 혈압 목표 : 대한고혈압학회 2026은 고혈압 동반 비투석 성인 CKD에서 내약 시 ＜130/80 ㎜Hg를 권고하며, 표준화된 진료실 측정에서는 SBP ＜120 ㎜Hg를 고려함. KDIGO 2024·대한신장학회 2025도 표준화 측정 기준 내약 시 SBP ＜120 ㎜Hg를 제안(2B). 일상 진료실·가정혈압에 이 문턱을 그대로 적용하지 않으며, 연령·허약·기립성 저혈압·낙상 위험에 따라 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
 * 콩팥 독성 약물·불필요한 보충제를 줄이고 약제의 eGFR별 용량·상호작용을 점검 (예: NSAID, aminoglycoside)
 * 추적 : CKD에서는 적어도 매년 uACR·eGFR을 평가하며, 고위험·진행·치료 변경 시 간격을 단축. 유의한 알부민뇨의 2배 증가, 지속적 eGFR 감소, 조절되지 않는 고혈압·칼륨 이상은 원인 재평가 및 협진
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 단백질 섭취 : 성인 비투석 CKD G3\~G5에서 0.8 g/㎏/d 유지 권고; 진행 위험이 있는 경우 1.3 g/㎏/d 초과 섭취는 피함. 고령·허약·근감소증 환자는 영양 상태에 따라 단백질·열량 목표를 상향 조정
 * Na 섭취 제한 : 성인 CKD에서 ＜2 g/d(소금으로 5 g/d); 소아·염분 소실성 질환은 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
@@ -282,7 +286,7 @@ flowchart TD
 
 ### <mark style="color:orange;">non-DHP CCB</mark>
 
-* diltiazem <mark style="color:blue;">\[헤르벤]</mark>, verapamil <mark style="color:blue;">\[이솦틴]</mark> (☞ [고혈압](../225_/095_-hypertension.md#calcium-channel-blocker-ccb))
+* diltiazem [헤르벤](https://health.kr/drug/A11A0100A0199), verapamil [일성이솦틴](https://health.kr/drug/A11A1130B0001) (☞ [고혈압](../225_/095_-hypertension.md#calcium-channel-blocker-ccb))
 * 혈압 추가 조절이 필요하거나 RAAS 억제제 사용이 제한되는 경우 선택적으로 고려할 수 있으나, ACEI/ARB를 대체하는 일률적인 1차 신보호 치료는 아님; 서맥·방실차단에 주의하고 수축기 기능 저하 심부전에서는 회피. finerenone과 병용 시 CYP3A4 억제로 노출이 증가할 수 있으므로 칼륨 추가 모니터링
 
 ### <mark style="color:orange;">SGLT2 억제제</mark>
@@ -292,7 +296,7 @@ flowchart TD
   * eGFR ≥20 mL/min/1.73㎡이면서 uACR ≥200 ㎎/g
   * 심부전 동반(알부민뇨 수준과 무관; 신규 시작은 제품별 eGFR 허가 기준 적용)
 * eGFR 20\~45 mL/min/1.73㎡이면서 uACR ＜200 ㎎/g인 성인 CKD에서도 치료 고려
-* CKD 신보호 용량은 dapagliflozin·empagliflozin 모두 10 ㎎ qd. 종류 : dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* CKD 신보호 용량은 dapagliflozin·empagliflozin 모두 10 ㎎ qd. 종류 : dapagliflozin [다파엔](https://health.kr/drug/2023013100015), empagliflozin [자디앙](https://health.kr/drug/2014081300012) (☞ [당뇨병](../226_/101_-dmdrugs.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * 투여 시작 후에는 eGFR이 20 미만으로 감소해도 내약성이 좋으면 신대체요법(KRT) 개시 전까지 유지 가능(practice point). 예상되는 작은 초기 eGFR 감소만으로 중단하지 않으며 체액 감소·증상·큰 감소는 별도 평가
 * 장기 금식·수술·중증 급성질환에서는 일시 중단. 계획 수술 전 dapagliflozin·empagliflozin은 적어도 3일 전부터 중단하고, 식사·수분 섭취 및 전신 상태가 회복되고 케톤산증 위험 요인이 해소된 뒤 재시작 <mark style="color:$info;">[ADA 2026, 입원 진료]</mark>
 * 생식기 진균감염·체액 감소·정상혈당 케톤산증 교육. 제1형 당뇨병의 단백뇨에 일률적으로 사용하지 않으며, 다낭콩팥병·최근 면역억제치료 등 근거·허가가 제한된 상황은 전문 평가
@@ -303,20 +307,20 @@ flowchart TD
 
 ### <mark style="color:orange;">비스테로이드성 무기질코르티코이드 수용체 길항제 (ns-MRA)</mark>
 
-* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 최대 내약 용량 ACEI 또는 ARB를 사용 중인데도 알부민뇨(uACR ≥30 ㎎/g)가 지속되는 2형 당뇨병 동반 CKD(국내 시작 기준 eGFR ≥25 mL/min/1.73㎡, 혈청 칼륨 확인)에서 콩팥·심혈관 사건 위험 감소
-* 국내 제2형 당뇨병 동반 CKD 용량(심부전 용법과 구별) : eGFR 25\~＜60이면 10 ㎎ qd, ≥60이면 20 ㎎ qd로 시작; ＜25이면 시작하지 않음. K ≤4.8 mmol/L에서 시작 권장, 4.8＜K≤5.0에서는 첫 4주 내 추가 모니터링을 전제로 고려; K ＞5.0이면 시작하지 않음
+* finerenone [케렌디아](https://health.kr/drug/2022051100011) : 최대 내약 용량 ACEI 또는 ARB를 사용 중인데도 알부민뇨(uACR ≥30 ㎎/g)가 지속되는 2형 당뇨병 동반 CKD(국내 시작 기준 eGFR ≥25 mL/min/1.73㎡, 혈청 칼륨 확인)에서 콩팥·심혈관 사건 위험 감소
+* 국내 제2형 당뇨병 동반 CKD 용량(심부전 용법과 구별) : eGFR 25\~＜60이면 10 ㎎ qd, ≥60이면 [20 ㎎](https://www.health.kr/drug/2022051100010) qd로 시작; ＜25이면 시작하지 않음. K ≤4.8 mmol/L에서 시작 권장, 4.8＜K≤5.0에서는 첫 4주 내 추가 모니터링을 전제로 고려; K ＞5.0이면 시작하지 않음
 * 시작·재시작·용량 조절 4주 후 K·eGFR 확인. K ≤4.8이고 이전 대비 eGFR 감소가 ＜30%이면 10→20 ㎎ 증량; 4.8＜K≤5.5이면 현 용량 유지. K ＞5.5이면 중단하고 ≤5.0이면 10 ㎎ qd로 재시작
 * 금기·상호작용 : 강력한 CYP3A4 억제제(clarithromycin·itraconazole 등), 애디슨병 등. 다른 MRA·칼륨보존 이뇨제·칼륨 보충제 병용은 피하고, verapamil·diltiazem·trimethoprim 병용 시 K 추가 검사; 자몽·자몽주스 회피, 중증 간장애에서는 투여 회피 <mark style="color:$info;">[국내 finerenone 허가사항]</mark>
 * finerenone은 ACEI 또는 ARB 및 SGLT2 억제제에 추가 가능. ADA 2026은 RAS 억제제를 사용 중인 제2형 당뇨병에서 uACR ≥100 ㎎/g, eGFR 30~90이면 SGLT2 억제제와 finerenone의 동시 시작도 고려하도록 제시함. CONFIDENCE(2025)의 병용 이득은 180일 uACR 감소 근거이며 추가 신부전·사망 감소의 확증은 아님; 국내 급여 인정 범위와 별도 판단 <mark style="color:$info;">[ADA 2026, 11.9; CONFIDENCE 2025]</mark>
 * 국내 당뇨병 동반 CKD 급여 : ACEI 또는 ARB 최대 내약 용량을 4주 이상 안정적으로 투여 중이며, ① uACR ＞300 ㎎/g 또는 dipstick ≥1+, ② eGFR 25\~＜75 mL/min/1.73㎡를 모두 충족하는 제2형 당뇨병 성인. 지속적인 증상이 있는 만성 심부전(NYHA II\~IV)은 이 CKD 급여기준에서 제외하며, eGFR ＜15이면 중단함 <mark style="color:$info;">\[심평원 고시 제2024-20호]</mark>
 
 {% hint style="info" %}
-**적응증 및 최신 연구의 구별(2026.10.27. 확인)**
+**적응증 및 최신 연구의 구별(2026.11.11. 확인)**
 
 * 국내 finerenone에는 만성 심부전(LVEF ≥40%) 적응증도 있으나, 본 항목은 제2형 당뇨병 동반 CKD의 용량·칼륨 기준임. 심부전의 최대 40 ㎎ 용량 및 칼륨 조절표를 CKD 처방에 적용하지 않음 (☞ [심부전](../225_/098_-heart-failure.md))
 * **FIND-CKD(2026)** : RAS 억제제를 사용 중인 비당뇨병 CKD(eGFR 25~＜90, uACR 200~≤3,500 ㎎/g) 성인 1,584명에서 finerenone이 32개월 eGFR 감소를 늦춤(연간 기울기 차이 0.7 mL/min/1.73㎡). 콩팥·심혈관 복합 결과 HR 0.77(95% CI 0.60~0.99)이었으나 콩팥 결과 단독 HR 0.78의 95% CI는 0.60~1.01이었으며 고칼륨혈증에 주의. 이 연구만으로 비당뇨병 단백뇨의 국내 허가·급여가 확대된 것으로 해석하지 않음
 * **FINE-ONE(2026)** : 제1형 당뇨병 CKD에서 6개월 uACR이 위약 대비 25% 더 감소했으나 장기 콩팥기능상실·사망 감소를 검증한 연구는 아님. 제1형 당뇨병 CKD 적응증으로 자동 확대하지 않음
-* KDIGO 약물치료 focused update는 현재 **2027 지침 공개검토 초안** 단계이므로 확정 권고로 인용하지 않음. 본문의 확정 지침 근거는 KDIGO 2024와 ADA 2026임
+* KDIGO 약물치료 focused update는 현재 **2027 지침 공개검토 종료 후 수정** 단계이므로 확정 권고로 인용하지 않음. 본문의 확정 지침 근거는 KDIGO 2024와 ADA 2026임
 {% endhint %}
 
 ### <mark style="color:orange;">GLP-1 수용체 작용제</mark>
@@ -344,6 +348,8 @@ flowchart TD
 > ※ 2~4주 후 혈압·혈청 크레아티닌·칼륨 재검
 > ```
 >
+> 약제 정보: [코자정·50 ㎎](https://www.health.kr/drug/A11A5950A0003) · [코자정·100 ㎎](https://www.health.kr/drug/A11AHHHHH0364)
+>
 > _✽지속성 CKD A2 이상에서는 정상 혈압이라도 신보호 목적으로 ACEI/ARB 시작을 고려하되, 저혈압·고칼륨혈증·AKI 위험을 평가_
 
 > **처방례 2. 2형 당뇨병 동반 CKD(A3), eGFR 25\~＜60, ACEI 또는 ARB 최대 내약 용량 사용 중**
@@ -352,10 +358,12 @@ flowchart TD
 > 케렌디아정 10 ㎎/T  1T  qd
 > ※ 4주 후 K ≤4.8 및 이전 대비 eGFR 감소 ＜30%이면 20 ㎎ qd로 증량
 > ※ eGFR ≥60이면 CKD 용량 20 ㎎ qd로 시작; eGFR ＜25이면 시작 권장하지 않음
-> ※ 시작 전 K 확인: ≤4.8 mEq/L에서 권장, 4.8＜K≤5.0이면 조기 추가 검사 조건으로 고려, ＞5.0이면 시작하지 않음
+> ※ 시작 전 K 확인: ≤4.8 mmol/L에서 권장, 4.8＜K≤5.0이면 조기 추가 검사 조건으로 고려, ＞5.0이면 시작하지 않음
 > ※ 시작·재시작·용량 조절 4주 후 K·eGFR 재검; 4.8＜K≤5.5이면 현 용량 유지
 > ※ ACEI 또는 ARB 한 가지에 추가; 급여 세부 조건은 위 ns-MRA 항목 참조. K ＞5.5이면 중단, ≤5.0이면 10 ㎎으로 재시작
 > ```
+>
+> 약제 정보: [케렌디아정·10 ㎎](https://health.kr/drug/2022051100011) · [케렌디아정·20 ㎎](https://www.health.kr/drug/2022051100010)
 >
 > _✽고칼륨혈증 위험으로 칼륨보존 이뇨제·다른 MRA·칼륨 보충제 병용은 피함_
 
@@ -377,7 +385,11 @@ N08.3* 당뇨병에서의 사구체 장애 Glomerular disorders in diabetes mell
 
 _✽N08.3*은 기저 당뇨병의 콩팥 합병증 코드를 우선 입력하고 함께 사용하는 발현 코드로, 단독 사용하지 않음_
 
-R80 고립된 단백뇨 Isolated proteinuria
+R80.0 미세알부민뇨 Microalbuminuria
+
+R80.8 기타 및 상세불명 고립성 단백뇨 Other and unspecified isolated proteinuria
+
+_✽R80은 상위 분류이며 완전코드 R80.0 또는 R80.8을 사용함. R80.0에는 알부민뇨 NOS도 포함됨. 코드의 공식 명칭인 “미세알부민뇨”와 본문의 임상 용어 “중등도 증가 알부민뇨(A2)”를 구분함._
 
 ***
 
@@ -391,7 +403,7 @@ R80 고립된 단백뇨 Isolated proteinuria
 
 > **finerenone(케렌디아) 처방 시 확인할 점**
 >
-> * 제2형 당뇨병 동반 CKD에서는 시작 전 K ≤4.8 mEq/L이 권장되며, 4.8＜K≤5.0이면 조기 추가 검사 조건으로 고려합니다. 5.0을 초과하면 시작하지 마십시오
+> * 제2형 당뇨병 동반 CKD에서는 시작 전 K ≤4.8 mmol/L이 권장되며, 4.8＜K≤5.0이면 조기 추가 검사 조건으로 고려합니다. 5.0을 초과하면 시작하지 마십시오
 > * ACEI 또는 ARB 한 가지와 병용하며, ACEI·ARB·DRI 중 두 가지 이상을 함께 사용하지 마십시오
 > * 시작·재시작·용량 변경 4주 후 혈청 칼륨과 콩팥 기능을 검사하고, 이후에도 정기 검사를 받으십시오. 고칼륨혈증은 증상이 없어도 발생할 수 있습니다
 
@@ -416,6 +428,7 @@ R80 고립된 단백뇨 Isolated proteinuria
 
 * KDIGO. KDIGO 2025 Clinical Practice Guideline for the Management of IgAN and IgAV. Kidney Int. 2025;108(Suppl 4S):S1–S71. [지침](https://kdigo.org/guidelines/iga-nephropathy/)
 * KDIGO CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117–S314. [지침](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
+* Lee EM, et al. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension. [논문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13197191/)
 * 대한신장학회. 2025 고혈압콩팥병 진료지침. [지침](https://ksn.or.kr/bbs/skin/publication/download.php?code=guideline_k&number=2252)
 * American Diabetes Association Professional Practice Committee. 16. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026. [DOI](https://doi.org/10.2337/dc26-S016) — SGLT2 억제제 수술 전 중단.
 * American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S246–S260. [DOI](https://doi.org/10.2337/dc26-S011)
@@ -426,7 +439,7 @@ R80 고립된 단백뇨 Isolated proteinuria
 * NICE. Hypertension in pregnancy: diagnosis and management. NG133. 단백뇨 정량검사·전자간증 평가. [권고](https://www.nice.org.uk/guidance/ng133/chapter/recommendations)
 * Heerspink HJL, et al. Finerenone in Persons with Chronic Kidney Disease without Diabetes. N Engl J Med. 2026;395:533–545. [DOI](https://doi.org/10.1056/NEJMoa2604625) — FIND-CKD, 비당뇨병 CKD 연구.
 * Heerspink HJL, et al. Finerenone in Type 1 Diabetes and Chronic Kidney Disease. N Engl J Med. 2026;394:947–957. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41780000/) — FINE-ONE, 6개월 uACR 대리지표 연구.
-* KDIGO. 2027 CKD Guideline Focused Update — Public Review Draft. 2026.10.27. 현재 공개검토 중, 확정 지침으로 적용하지 않음. [현황](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
+* KDIGO. 2027 CKD Guideline Focused Update — Public Review Draft. 2026.11.4. 공개검토 종료 후 수정 중이며, 확정 지침으로 적용하지 않음. [현황](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 
 ### ＜허가·급여 확인 자료＞
 
@@ -465,7 +478,10 @@ _확인 기준일: 2026.10.27. 임상 권고, 국내 허가 및 급여 문턱값
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
 * 혈압약(ACEI/ARB 계열)은 혈압을 낮추는 효과 외에 단백뇨 자체를 줄여 콩팥을 보호하는 효과가 있어, 혈압이 정상이어도 처방될 수 있습니다
-* 약 복용을 임의로 중단하지 마시고, 처방받은 대로 꾸준히 복용하십시오
+* 처방받은 대로 복용하고 정해진 혈액검사로 콩팥 기능과 칼륨을 확인하십시오. 칼륨이 높아져도 증상이 없을 수 있습니다
+* ACEI/ARB 복용 중 임신이 확인되면 즉시 중단하고 진료를 받으십시오. 임신을 계획할 때에도 미리 상담하십시오
+* SGLT2 억제제를 복용한다면 계획 수술 전 적어도 3일 전부터 중단합니다. 심한 구토·설사나 금식으로 먹고 마시기 어려울 때는 중단·재개 시점을 의료진과 상의하십시오
+* 칼륨 보충제나 칼륨이 든 저염 소금은 의료진과 상의 없이 사용하지 마십시오
 
 ### <mark style="color:orange;">이럴 때는 즉시 병원을 방문하세요</mark>
 

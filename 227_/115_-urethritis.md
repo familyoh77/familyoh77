@@ -14,7 +14,7 @@
 * 전염 경로 : 성관계, 질식 분만 수직 감염
 * 대부분 무증상(특히 여성에서)으로, 진단되지 않은 상태로 전파될 수 있음
 * 감염 빈도는 지역·연령·대상집단에 따라 다르며 젊은 연령에서 높음
-* 유발 질환 : \[여성] 자궁경부염, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염, 전립선염·반응성 관절염; \[신생아] 결막염, 폐렴
+* 유발 질환 : \[여성] 자궁경부염, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염·반응성 관절염; \[신생아] 결막염, 폐렴
 
 #### <mark style="color:$primary;">여성 요도증후군 (Female urethral syndrome)</mark>
 
@@ -57,13 +57,13 @@
 
 ### 🚩Red Flags
 
-**즉각 조치**
+**<mark style="color:$danger;">즉각 조치</mark>**
 
 * 갑자기 발생한 심한 한쪽 음낭통 → 고환 염전 응급 평가; 고환의 높은 위치·고환거근반사 소실이 없어도 배제할 수 없음  <mark style="color:$danger;">[응급]</mark>
 * 저혈압·의식 변화·전신 상태 악화를 동반한 발열, 오한, 옆구리 통증 → 패혈증·전신 요로감염 응급 평가  <mark style="color:$danger;">[응급]</mark>
 * 배뇨 불능과 심한 하복부 팽만·통증 → 급성 요폐 즉시 평가  <mark style="color:$danger;">[응급]</mark>
 
-**당일~수일 내 평가**
+**<mark style="color:$warning;">당일~수일 내 평가</mark>**
 
 * 발열·오한·옆구리 통증 **(당일)** → 신우신염·급성 전립선염 등 평가  <mark style="color:$warning;">[당일 평가]</mark>
 * 이동성 다발관절통·건초염·농포성 피부 병변 또는 급성 관절 종창 **(당일)** → 발열이 없어도 파종성 임균 감염 평가·의뢰  <mark style="color:$warning;">[당일 평가]</mark>
@@ -73,7 +73,7 @@
 * 임신부의 STI 의심·확진 또는 임신한 파트너의 노출 → 약제 선택과 산과적 평가·파트너 치료를 신속히 계획  <mark style="color:$warning;">[신속 평가]</mark>
 * 심한 배뇨장애·혈뇨 또는 협착·이물 의심 → 비뇨의학과 평가  <mark style="color:$warning;">[신속 평가]</mark>
 
-**조기 평가 및 추적**
+**<mark style="color:$info;">조기 평가 및 추적</mark>**
 
 * 치료 완료 후 요도 분비물·배뇨통 지속 또는 재발 → 염증·원인균·복약·재노출 재평가  <mark style="color:$info;">[재평가]</mark>
 * 파트너의 불완전한 치료 또는 재노출 → 파트너 진료·재감염 평가  <mark style="color:$info;">[추적]</mark>
@@ -119,30 +119,33 @@
 
 ```mermaid
 flowchart TD
-    A["초치료 후 지속·재발 요도염 의심"] --> B{"발열·급성 음낭통·요폐 등 위험 신호?"}
-    B -- 있음 --> C["응급 또는 당일 평가·의뢰"]
-    B -- 없음 --> D["염증 재확인·임균과 클라미디아 결과 확인"]
-    D --> E{"염증 또는 치료가 필요한 원인균 확인?"}
-    E -- 없음 --> F["항생제 반복 없이 다른 원인 평가·추적"]
-    E -- 있음 --> G{"복약 불이행·재노출?"}
-    G -- 있음 --> H["기존 요법 재시행 고려·파트너 치료"]
-    G -- 없음 --> I["원인균·내성 기반 평가"]
-    I --> J["임균 실패 의심: 재치료 전 배양·감수성 검사"]
-    I --> K["M. genitalium NAAT·내성 검사, 위험도별 T. vaginalis 검사"]
+    A["지속·재발 요도염 증상"] --> B{"염전·패혈증·급성 요폐 의심?"}
+    B -- "예" --> C["즉시 응급 평가"]
+    B -- "아니오" --> N{"발열·음낭통·골반통 등 동반?"}
+    N -- "예" --> O["당일 합병증 평가"]
+    N -- "아니오" --> D["염증·임균·클라미디아 결과 확인"]
+    D --> E{"염증 또는 치료할 원인균 확인?"}
+    E -- "아니오" --> F["다른 원인 평가·추적"]
+    E -- "예" --> G{"복약 불이행·재노출?"}
+    G -- "예" --> H["재치료 고려·파트너 진료"]
+    G -- "아니오" --> I["원인균·내성 검사 선택"]
+    I -- "임질 치료 실패 의심" --> J["재치료 전 배양·감수성 검사"]
+    I -- "지속 NGU" --> K["M. genitalium·위험도별 T. vaginalis 검사"]
     J --> L["결과에 따른 치료·전문 진료"]
     K --> L
-    H --> M["증상·파트너 관리, 적응증별 완치검사"]
+    H --> M["증상·파트너 추적·적응증별 완치검사"]
     L --> M
-    classDef danger fill:#ffebee,stroke:#c62828
-    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef danger fill:#ffdddd,stroke:#d32f2f
     classDef action fill:#e3f2fd,stroke:#1976d2
-    class B,E,G decision
+    class B,N,E,G decision
     class C danger
-    class H,J,K,L,M action
+    class O,D,F,H,I,J,K,L,M action
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>초치료 후 지속되는 남성 요도염 증상의 평가</strong></p>
-<p align="center"><em><mark style="color:$info;">Ref. 국내 성매개감염 진료지침 2023; CDC STI Treatment Guidelines 2021; BASHH NGU 2026</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: 성매개감염 진료지침 2023; CDC 2021; BASHH NGU 2026)</mark></em></p>
 
 ***
 
@@ -186,7 +189,7 @@ flowchart TD
 
 ***
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 성 파트너 검사 및 치료 : 위 CDC 60일 기준과 국내 클라미디아의 8주/6개월 기준을 구분하여 병원체별로 적용. 파트너의 직접 진료·처방을 안내
 * 콘돔의 일관되고 올바른 사용 : 재감염 위험을 크게 낮춤
@@ -205,13 +208,13 @@ flowchart TD
 
 ### <mark style="color:orange;">1차 선택제</mark>
 
-* doxycycline : 100 ㎎ bid ×7d <mark style="color:blue;">\[독시사이클린]</mark>
-  * 성인 비임신자의 일반 요법. 국내 doxycycline 허가상 임부·수유부 및 12세 미만 금기이므로 해당 대상에게 일률 적용하지 않음
+* doxycycline : 100 ㎎ bid ×7d [국제독시사이클린하이클레이트수화물](https://health.kr/drug/A11A0300A0226)
+  * 성인 비임신자의 일반 요법. Doxycycline은 임부·수유부·12세 미만, 신부전·중증 간기능 이상·중증 근육무력증 및 레티노이드 병용에서 금기. 해당 대상에게 일률 적용하지 않음
   * 임신부의 클라미디아 : azithromycin 1 g 경구 1회. 사용할 수 없으면 amoxicillin 500 ㎎ tid ×7d를 대안으로 고려; 이는 클라미디아에 대한 요법이며 임균·_M. genitalium_ 치료를 대체하지 않음
 
 _plus (임균 감염이 배제되지 않은 경우)_
 
-* ceftriaxone : 체중 ＜100 ㎏이면 500 ㎎ IM 또는 IV 1회, ≥100 ㎏이면 1 g IV 1회 <mark style="color:blue;">\[트리악손]</mark> <mark style="color:$info;">[국내 학회 지침 해설, Yang 등 2024]</mark>
+* ceftriaxone : 체중 ＜100 ㎏이면 500 ㎎ IM 또는 IV 1회, ≥100 ㎏이면 1 g IV 1회 [트리악손](https://health.kr/drug/A11A2140A0160) <mark style="color:$info;">[국내 학회 지침 해설, Yang 등 2024]</mark>
   * 국내 2023 진료지침 PDF 치료표 자체는 체중 경계값 없이 500 ㎎ IM/IV 또는 1 g IV를 제시하며, 100 ㎏ 경계는 국내 학회 지침 해설 논문(ICU 2024)에 명시됨. CDC 2021은 ＜150 ㎏ 500 ㎎ IM, ≥150 ㎏ 1 g IM; WHO 2024는 1 g IM으로 차이가 있음. 본문·처방례는 국내 학회 해설의 체중 기준 적용
   * **허가 용법과 구분** : 트리악손의 공개 허가정보에는 임질 250 ㎎ IM 1회로 기재되어 있어 본문의 500 ㎎/1 g 및 IV 요법은 진료지침에 근거한 허가 용법 외 사용임. 내성 대응을 위한 지침 용량을 임의로 250 ㎎으로 낮추지 않음
   * Ceftriaxone·cephalosporin 중증 과민반응 병력은 대체요법·전문 진료를 고려. Lidocaine으로 조제한 IM 용액은 IV 투여 금지
@@ -219,7 +222,7 @@ _plus (임균 감염이 배제되지 않은 경우)_
 
 ### <mark style="color:orange;">대체제</mark>
 
-* azithromycin : 500 ㎎ 1회, 이후 250 ㎎ qd ×4d **또는** 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> <mark style="color:$info;">[CDC 2021 NGU 대체 요법]</mark>. 내성 선택·클라미디아 치료 실패를 고려해 doxycycline이 어려울 때 제한적으로 선택
+* azithromycin : 500 ㎎ 1회, 이후 250 ㎎ qd ×4d **또는** 1 g 1회 [지스로맥스](https://health.kr/drug/A11AGGGGA5794) <mark style="color:$info;">[CDC 2021 NGU 대체 요법]</mark>. 내성 선택·클라미디아 치료 실패를 고려해 doxycycline이 어려울 때 제한적으로 선택
   * 지침 차이 : BASHH 2026은 NGU의 azithromycin 1 g 단회 요법을 권하지 않으며, 대체 요법으로 첫날 1 g + 500 ㎎ qd ×2d를 제시; 이 경로를 선택하면 투여 시작 후 14일 및 증상 소실·파트너 치료 완료까지 성관계 제한. 임신 중 클라미디아는 별도 임신부 지침 적용
 * levofloxacin은 **클라미디아 확진** 시 대체제가 될 수 있으나 원인 미확정 NGU에는 권하지 않음. Ofloxacin을 NGU 일반 대체제나 임균 경험적 치료제로 사용하지 않음
 
@@ -227,30 +230,30 @@ _plus (임균 감염이 배제되지 않은 경우)_
 
 * _M. genitalium_ **NAAT 양성** 시 가능한 macrolide 내성 검사에 따라 치료 선택
   * macrolide **감수성 확인** : doxycycline 100 ㎎ bid ×7d → azithromycin 첫날 1 g + 500 ㎎ qd ×3d(총 2.5 g)
-  * macrolide **내성 확인** : doxycycline 100 ㎎ bid ×7d → moxifloxacin 400 ㎎ qd ×7d <mark style="color:blue;">\[아벨록스]</mark>(국내 _M. genitalium_ 치료는 허가 외 사용; QT 연장·건병증 등 확인)
+  * macrolide **내성 확인** : doxycycline 100 ㎎ bid ×7d → moxifloxacin 400 ㎎ qd ×7d [아벨록스](https://health.kr/drug/A11AGGGGA2033)(국내 _M. genitalium_ 치료는 허가 외 사용; QT 연장·건병증 등 확인)
   * **내성 검사 불가** : CDC 2021은 _M. genitalium_ 양성 시 doxycycline → moxifloxacin을 권고. 국내 성매개감염 진료지침 2023은 재발·치료 실패 시 doxycycline(또는 minocycline) → azithromycin 총 2.5 g과 **치료 완료 21일 후 완치검사**를 제시. 내성 미확인을 감수성 확인으로 간주하지 않으며, 선행 azithromycin 실패가 있으면 같은 약제를 경험적으로 반복하지 않음. CDC의 doxycycline → azithromycin 총 2.5 g 대안은 moxifloxacin을 사용할 수 없고 추적 완치검사가 가능한 경우에 한해 고려. 국내 내성 양상·금기·선행 약제·검사 가능성에 따라 경로를 명시하여 선택
   * 선행 NGU 치료로 doxycycline 7일을 이미 완료했다면 경과와 후속 약제 시작 시점을 확인하여 반복 투여 여부 판단. 순차 요법은 후속 약제를 가능한 한 바로 이어서 사용. 국내 doxycycline의 적응증에는 요도염이 포함되지만, azithromycin·moxifloxacin의 _M. genitalium_ 치료는 허가 외 사용으로 설명
   * **Azithromycin 1 g 단회는 _M. genitalium_ 치료에 사용하지 않음.** Azithromycin 실패 후 단순 증량·반복 처방을 피하고 내성·재감염을 평가. Moxifloxacin 실패·금기 또는 반복 실패 시 비뇨의학과/감염내과 의뢰
   * 현재 순차 요법은 **합병증 없는 요도 감염** 기준. _M. genitalium_ 관련 골반염·부고환염 및 임신 중 감염은 별도 전문 진료
   * BASHH 2025는 내성 미확인 시의 약제 선택과 azithromycin 총량이 국내·CDC 경로와 다르므로 서로 다른 지침의 용량을 섞지 않음
 * _T. vaginalis_(아래 단회요법은 남성 요도염 기준) : 이성 파트너가 있고 지역·집단 유병률이 높거나 파트너 감염이 확인된 지속·재발 요도염에서 검사 및 경험적 치료 고려
-  * metronidazole : 2 g 경구 **1회** <mark style="color:blue;">\[후라시닐]</mark>; 지침상 남성 요법이며 국내 후라시닐정의 트리코모나스증 허가 용법(250 ㎎ bid ×10일)과 다름
-  * tinidazole : 2 g 경구 **1회** <mark style="color:blue;">\[티니다진]</mark>; 국내 성인 트리코모나스증 허가 용법에 포함. 500 ㎎ 정제 4정을 식사와 함께 복용
+  * metronidazole : 2 g 경구 **1회** [후라시닐](https://health.kr/drug/A11A0100A0080); 지침상 남성 요법이며 국내 후라시닐정의 트리코모나스증 허가 용법(250 ㎎ bid ×10일)과 다름
+  * tinidazole : 2 g 경구 **1회** [티니다진](https://health.kr/drug/A11A2070A0134); 국내 성인 트리코모나스증 허가 용법에 포함. 500 ㎎ 정제 4정을 식사와 함께 복용
   * 여성 트리코모나스증은 metronidazole 500 ㎎ bid ×7d를 우선 사용(국내 2023·CDC); 남성 2 g 단회요법을 여성에게 일률 적용하지 않음. 후라시닐의 해당 지침 용법은 국내 허가 용법과 다름
   * 남성이 metronidazole 2 g 단회 후 지속 감염 : 재노출 시 같은 단회요법 재시행, 재노출이 없으면 metronidazole 500 ㎎ bid ×7d 고려(CDC)
-  * 임부·수유부 : 티니다진은 국내 허가상 금기. 후라시닐은 임신 첫 3개월 금기이고 수유 중단 안내가 있어, 해외 임신부 권고를 그대로 적용하지 말고 산부인과와 치료·수유 계획을 결정
+  * 임부·수유부 : 티니다진은 금기. 후라시닐은 임신 첫 3개월 금기이고 수유 중단 안내가 있어, 해외 임신부 권고를 그대로 적용하지 말고 산부인과와 치료·수유 계획을 결정
   * 파트너 평가·치료. 국내 후라시닐·티니다진 허가정보에 따라 투여 중·종료 후 최소 3일간 금주
 * 초치료 불이행 또는 치료받지 않은 파트너와 재노출 → 객관적 염증·병력 확인 후 초치료 재시행 고려
 
 ### <mark style="color:orange;">여성에서 배뇨통이 지속될 때</mark>
 
 * 자궁경부염·질염·성매개감염, 단순 방광염, 폐경 관련 비뇨생식기증후군, 방광통증증후군, 골반저 기능 이상 등을 감별
-* STI 확인 시 병원체별 치료와 파트너 평가. **단순 방광염으로 진단한 경우에만** 방광염 권고 항생제를 선택(☞ 급성 방광염 챕터)
+* STI 확인 시 병원체별 치료와 파트너 평가. **단순 방광염으로 진단한 경우에만** 방광염 권고 항생제를 선택(☞ [급성 방광염](118_-acute-cystitis.md))
 * 감염과 방광염이 배제된 여성 요도증후군에 TMP/SMX·nitrofurantoin·fosfomycin·pivmecillinam을 일률적으로 처방하지 않음. 자극물 회피, 배뇨 양상·폐경 관련 증상·골반저 평가 등 원인 중심 관리
 
 ### <mark style="color:orange;">주요 안전성 확인</mark>
 
-* Azithromycin·moxifloxacin : QT 연장, 저칼륨혈증, 부정맥 병력과 다른 QT 연장 약제(일부 항부정맥제·항정신병약·항우울제 등)를 확인; 위험 시 심전도·전해질 평가. Moxifloxacin은 QT 연장·교정되지 않은 저칼륨혈증·해당 QT 연장 약제 병용 등 국내 허가상 금기에 해당하면 사용하지 않음
+* Azithromycin·moxifloxacin : QT 연장, 저칼륨혈증, 부정맥 병력과 다른 QT 연장 약제(일부 항부정맥제·항정신병약·항우울제 등)를 확인; 위험 시 심전도·전해질 평가. Moxifloxacin은 QT 연장·교정되지 않은 저칼륨혈증·해당 QT 연장 약제 병용 등 금기에 해당하면 사용하지 않음
 * Moxifloxacin : 건병증·건파열, 말초신경병증·중추신경계 이상 등 중대한 fluoroquinolone 이상반응을 설명. 건 통증·저림·감각 이상·심한 신경정신 증상 발생 시 중단하고 즉시 평가
 * Metronidazole·tinidazole : warfarin의 항응고 효과 증강에 주의. 후라시닐은 lithium 병용과 최근 2주 내 disulfiram 복용도 확인
 * 통증 조절은 필요할 때 환자의 금기·동반 질환에 맞춰 개별 선택하며 소염진통제를 항생제 처방에 통상 묶어 투여하지 않음
@@ -266,11 +269,13 @@ _plus (임균 감염이 배제되지 않은 경우)_
 
 N34.1 비특이성 요도염
 
-A56.0 하부 비뇨생식기관의 클라미디아 감염
+A56.0 하부비뇨생식관의 클라미디아감염
 
-A54.0 요도주위 및 부속선 농양을 동반하지 않은 하부 비뇨생식기관의 임균 감염
+A54.0 요도주위 또는 부속선에 농양이 없는 하부 비뇨생식관의 임균감염
 
-A59.0 비뇨생식기 트리코모나스증
+A59.08 기타 및 상세불명의 비뇨생식기계 편모충증
+
+* A59.0은 상위 분류. 여성의 편모충성 외음질염은 A59.00을 적용
 
 A64 상세불명의 성매개질환
 
@@ -283,35 +288,44 @@ A64 상세불명의 성매개질환
 > **처방례 1. 비-임균성 요도염**
 >
 > ```
-> 독시사이클린 100 ㎎/C  2C  #2 ×7d
+> 국제독시사이클린하이클레이트수화물캡슐 100 ㎎/C  1C  1일 2회 ×7d
 > ```
+>
+> 약제 정보: [국제독시사이클린하이클레이트수화물캡슐·100 ㎎](https://health.kr/drug/A11A0300A0226)
 >
 > _✽비임균성 요도염의 1차 선택제. 복용을 마치고 증상이 없어지며 파트너도 치료받을 때까지 성관계 제한_
 
 > **처방례 2. 미확정 요도염 (임균 감염이 배제되지 않은 경우)**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 또는 IV 1회 (체중 ＜100 ㎏)
-> 체중 ≥100 ㎏이면 트리악손 주 1 g  IV 1회
-> 독시사이클린 100 ㎎/C  2C  #2 ×7d  (Chlamydia 동반이 배제되지 않은 경우)
+> 트리악손주사 500 ㎎/V  1V  IM 또는 IV 1회 (체중 ＜100 ㎏)
+> 체중 ≥100 ㎏이면 트리악손주사 500 ㎎/V  2V(총 1 g)  IV 1회
+> 국제독시사이클린하이클레이트수화물캡슐 100 ㎎/C  1C  1일 2회 ×7d  (Chlamydia 동반이 배제되지 않은 경우)
 > ```
+>
+> 약제 정보: [트리악손주사·500 ㎎](https://health.kr/drug/A11A2140A0160) · [국제독시사이클린하이클레이트수화물캡슐·100 ㎎](https://health.kr/drug/A11A0300A0226)
 >
 > _✽국내 학회 지침 해설 논문의 체중 100 ㎏ 증량 기준 적용(CDC는 150 ㎏ 기준). 단순 임질에 azithromycin을 통상 병용하지 않으며, Chlamydia가 배제되지 않으면 비임신자는 doxycycline 병용. 지침 용량·IV 경로는 트리악손 임질 허가 용법(250 ㎎ IM 1회)과 다름. Lidocaine으로 조제한 IM 주사액은 IV로 투여하지 않음_
 
 > **처방례 3. 남성의 지속·재발 요도염 (T. vaginalis 의심/확진)**
 >
 > ```
-> 후라시닐 250 ㎎/T  8T  #1 ×1d
+> 후라시닐정 250 ㎎/T  8T  1회 복용
 > ```
+>
+> 약제 정보: [후라시닐정·250 ㎎](https://health.kr/drug/A11A0100A0080)
 >
 > _✽metronidazole 2 g(후라시닐 250 ㎎ 8정)을 한 번에 복용하는 지침 요법으로 국내 제품 허가 용법(250 ㎎ bid ×10일)과 구분. 투여 중·종료 후 3일간 금주_
 
 > **처방례 4. 지속성 요도염 (_M. genitalium_ 양성, macrolide 감수성 확인)**
 >
 > ```
-> 독시사이클린 100 ㎎/C  2C  #2 ×7d  선행 투여
-> 지스로맥스 250 ㎎/T  4T  #1 ×1d, 이후 250 ㎎/T  2T  #1 ×3d
+> 국제독시사이클린하이클레이트수화물캡슐 100 ㎎/C  1C  1일 2회 ×7d  선행 투여
+> doxycycline 7일 완료 후 지스로맥스정 250 ㎎/T
+> 첫날 4T  1회, 이후 2T  1일 1회 ×3d
 > ```
+>
+> 약제 정보: [국제독시사이클린하이클레이트수화물캡슐·100 ㎎](https://health.kr/drug/A11A0300A0226) · [지스로맥스정·250 ㎎](https://health.kr/drug/A11AGGGGA5794)
 >
 > _✽감수성 확인 시의 순차 요법. doxycycline을 이미 완료했다면 재투여와 후속 약제 시점 판단. 국내 지침에 따라 치료 완료 21일 이후 완치검사. 감수성 미확인 시 본문에 구분한 국내·CDC 경로 적용_
 
@@ -339,6 +353,8 @@ A64 상세불명의 성매개질환
 
 > **moxifloxacin을 처방받은 경우**
 >
+> * 마그네슘·알루미늄 제산제, 수크랄페이트, 철·아연 제제 등을 복용한다면 아벨록스는 해당 제제보다 적어도 4시간 먼저 또는 8시간 뒤에 복용하십시오.
+>
 > * 힘줄 통증·부종, 새로 발생한 저림·감각 저하, 심한 신경정신 증상이 있으면 복용을 중단하고 바로 진료받으십시오. 실신·심한 두근거림이 생기면 즉시 진료받으십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -362,24 +378,24 @@ A64 상세불명의 성매개질환
   [공식 지침 PDF](https://www.bashh.org/_userfiles/pages/files/resources/ngu_2026.pdf)
 
 * Soni S, et al. BASHH National guideline for the management of infection with Mycoplasma genitalium, 2025.
-  [공식 지침 PDF](https://www.bashh.org/_userfiles/pages/files/bashh_mgen_2025.pdf) — 검사 대상·순차 요법·fluoroquinolone 안전성·완치검사 기준 대조.
+  [공식 지침 PDF](https://www.bashh.org/_userfiles/pages/files/bashh_mgen_2025.pdf) - 검사 대상·순차 요법·fluoroquinolone 안전성·완치검사 기준 대조.
 
 * NYSDOH AIDS Institute. Mycoplasma genitalium Management in Adults, 2026.
-  [공식 지침](https://www.hivguidelines.org/guideline/m-gen-infection/) — 현재 파트너의 검사·양성자 치료, 내성 기반 치료 확인.
+  [공식 지침](https://www.hivguidelines.org/guideline/m-gen-infection/) - 현재 파트너의 검사·양성자 치료, 내성 기반 치료 확인.
 
-* CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. — 국내 지침과 용량·완치검사 기준이 다른 부분을 구분.
+* CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. - 국내 지침과 용량·완치검사 기준이 다른 부분을 구분.
   [요도염](https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm) · [클라미디아](https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm) · [임질](https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm) · [M. genitalium](https://www.cdc.gov/std/treatment-guidelines/mycoplasmagenitalium.htm) · [트리코모나스증](https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm)
 
 ### ＜허가·급여 확인 자료＞
 
-* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+* 식품의약품안전처. 의약품안전나라 - 국내 제품별 적응증·용법·금기 및 허가 상태.
   [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
 
 * 국내 허가정보 대조 : 트리악손(임질 250 ㎎ IM 단회), 후라시닐(트리코모나스증 250 ㎎ bid ×10일), 티니다진(성인 트리코모나스증 2 g 단회·임부/수유부 금기). 의약품안전나라 직접 원문 접근이 제한되어 식약처 자료출처를 명시한 공개 허가정보 전재본을 함께 대조함. 허가정보 등재가 현재 공급을 보증하지는 않음.
 
-* 국가데이터처(구 통계청). [제9차 한국표준질병·사인분류 개정고시](https://www.mods.go.kr/board.es?act=view&bid=246&list_no=437418&mid=a10301150000) — 2026년 1월 1일 시행.
+* 국가데이터처(구 통계청). [제9차 한국표준질병·사인분류 개정고시](https://www.mods.go.kr/board.es?act=view&bid=246&list_no=437418&mid=a10301150000) - 2026년 1월 1일 시행.
 
-* 확인 기준일 : 2026년 10월 27일.
+* 확인 기준일 : 2026년 11월 11일.
 
 ***
 
@@ -402,6 +418,7 @@ A64 상세불명의 성매개질환
 * **처방된 항생제는 정해진 기간 복용하십시오.** 심한 알레르기 반응이나 약제별로 안내받은 중대한 이상반응이 생기면 중단하고 즉시 진료받으십시오.
 * 검사 결과와 염증 소견에 따라 항생제가 필요하지 않을 수도 있습니다. 증상이 남았다는 이유로 남은 항생제를 임의로 더 복용하지 마십시오.
 * **7일 요법은 모두 복용할 때까지, 1회 요법은 치료 후 7일간 성관계를 피하십시오.** 증상이 없어지고 파트너도 치료와 필요한 대기 기간을 마친 뒤 관계를 재개하십시오.
+* 해외 BASHH 방식의 azithromycin 연장요법을 처방받았다면, 시작 후 14일까지 성관계를 피하라는 별도 안내를 따르십시오.
 * **최근 성 파트너에게도 알리고 진료를 받도록 하십시오.** 필요한 검사·치료 범위는 확인된 원인균에 따라 의료진이 안내합니다. 성매개감염은 오래 무증상일 수 있어 검사 양성만으로 감염 시점이나 상대를 단정할 수 없습니다.
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
@@ -411,15 +428,14 @@ A64 상세불명의 성매개질환
 
 #### <mark style="color:$primary;">치료 후 언제 다시 검사받아야 하나요?</mark>
 
-* 클라미디아·임질에 감염되었던 경우, 재감염 여부 확인을 위해 치료 3개월 후 재검사를 받는 것이 좋습니다.
+* 클라미디아·임질에 감염되었던 경우, 재감염 여부 확인을 위해 치료 3개월 후 재검사를 받으십시오.
 * 완치검사의 필요성과 시점은 원인균에 따라 다릅니다. 임신 중 클라미디아는 치료 완료 약 4주 후, 인두 임질은 치료 후 7\~14일, 마이코플라즈마 제니탈리움은 국내 지침에 따라 치료 완료 3주 이후 검사합니다.
 
 #### <mark style="color:$primary;">이럴 때는 다시 진료받으세요</mark>
 
 * 치료 후에도 분비물이나 배뇨통이 계속되거나 다시 생기는 경우(재평가 필요)
-* 열이 나거나 옆구리·아랫배가 심하게 아픈 경우 — 즉시 진료
-* 갑자기 고환이 심하게 아프거나 소변이 전혀 나오지 않는 경우 — 즉시 응급 평가
-* 관절통·피부 발진이 새로 생긴 경우 — 즉시 진료
-* 해외 BASHH 방식의 azithromycin 연장요법을 처방받았다면, 시작 후 14일까지 성관계를 피하라는 별도 안내를 따르십시오.
+* 열이 나거나 옆구리·아랫배가 심하게 아픈 경우 - 즉시 진료
+* 갑자기 고환이 심하게 아프거나 소변이 전혀 나오지 않는 경우 - 즉시 응급 평가
+* 관절통·피부 발진이 새로 생긴 경우 - 즉시 진료
 
 ***
