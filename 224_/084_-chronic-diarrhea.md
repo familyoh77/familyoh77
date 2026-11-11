@@ -343,7 +343,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * 대상 : 담즙산 설사(BAD) - 담낭절제술 후, 제한된 terminal ileum 질환·절제 후, 특발성 BAD
   * 광범위 회장 절제·질환으로 담즙산 풀이 고갈되고 지방변이 있는 경우 담즙산 결합제가 지방변·열량 소실을 악화시킬 수 있음
 * cholestyramine : BAD의 초기 치료로 고려. [한국희귀필수의약품센터](https://www.kodc.or.kr/) 공급 제품이 있으며 병원 처방 사례가 확인됨 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에픽콜레스티라민현탁용산(라이트)</mark>](https://www.kodc.or.kr/KDCB101)<mark style="color:blue;">]</mark>
-  * Cholestyramine resin 성분량 기준 2\~4 g/d의 저용량으로 시작하여 반응·내약성에 따라 점진적으로 증량; 최저 유효용량 유지. 분말은 제품 지침에 따라 액체에 충분히 분산하여 복용하며 마른 분말을 그대로 삼키지 않음
+  * cholestyramine resin 성분량 기준 2\~4 g/d의 저용량으로 시작하여 반응·내약성에 따라 점진적으로 증량; 최저 유효용량 유지. 분말은 제품 지침에 따라 액체에 충분히 분산하여 복용하며 마른 분말을 그대로 삼키지 않음
   * 변비·복부팽만에 주의. 다른 경구약은 결합제 복용 최소 1시간 전 또는 4\~6시간 후로 분리
   * 담즙산 설사에는 식약처 인정 범위 외 사용. 2026년 5월 신설된 급여기준은 혈청 콜레스테롤 수치 감소에 관한 것으로, BAD 치료에 대한 급여 인정과 구분함
 * colesevelam : cholestyramine 불내약 시 대안으로 고려되나 유통 확인 안 됨
