@@ -88,19 +88,19 @@
   * **TSH 정상 또는↑** 시 K-TIRADS에 따라 FNA 시행 여부 결정
     * 병리진단검사 결과가 미결정 범주이면 반복 FNA, CNB 또는 분자표지자검사 고려 (☞ [분자표지자검사](107_-thyroid-nodule.md#molecular-tests))
 
-#### <mark style="color:$primary;">혈액 검사</mark> <a id="blood-tests"></a>
+#### <mark style="color:$primary;">혈액 검사</mark> <a href="#blood-tests" id="blood-tests"></a>
 
 * **TSH를 포함한 갑상선기능검사**를 초기 검사로 시행. TSH↓이면 free T4·필요 시 T3로 갑상선중독증 정도를 확인하고 갑상선스캔을 시행; TSH↑이면 free T4 및 임상 소견에 따라 TPOAb 등으로 기능저하증·갑상선염을 평가
 * 혈청 갑상선글로불린(Tg)의 일률적 측정은 권고하지 않음 - 양성·악성 모두에서 상승 가능해 민감도·특이도가 낮음
 * 혈청 칼시토닌 : 모든 갑상선결절에서 일률적으로 측정하지 않으며, 갑상선수질암 의심, 수질암 가족력·MEN2 가능성, 수술 또는 비수술적절제 치료 전 측정을 고려 - ＞100 pg/㎖이면 수질암을 강하게 시사하지만 검사법·성별에 따른 참고범위와 흡연, proton pump inhibitor 사용, 신기능 저하, 만성 갑상선염 등 교란 요인을 함께 고려; 경도 상승은 재검과 원인 평가 후 해석
 
-#### <mark style="color:$primary;">갑상선 스캔 (Thyroid Scintigraphy)</mark> <a id="thyroid-scintigraphy"></a>
+#### <mark style="color:$primary;">갑상선 스캔 (Thyroid Scintigraphy)</mark> <a href="#thyroid-scintigraphy" id="thyroid-scintigraphy"></a>
 
 * 대상 : 혈청 **TSH↓ 시** 시행; TSH 정상/상승에서는 결절 감별을 위해 일률적으로 시행하지 않음. 이소성 갑상선 조직·흉골뒤갑상선종 등은 목적에 따라 전문의가 선택
 * 열결절(hot/hyperfunctioning) : 초음파상 결절과 스캔상 열결절이 명확히 일치하면 원칙적으로 FNA 대상이 아니며 갑상선항진증 치료를 시행; 초음파-스캔 불일치, 별도의 비기능성 의심 결절 또는 악성 의심 림프절이 있으면 해당 병변을 별도로 평가
 * 냉결절(cold/nonfunctioning) : 스캔 소견만으로 악성 위험을 결정하지 않고 K-TIRADS 및 임상 위험 인자에 따라 FNA 여부를 결정
 
-#### <mark style="color:$primary;">갑상선 초음파검사</mark> <a id="thyroid-ultrasound"></a>
+#### <mark style="color:$primary;">갑상선 초음파검사</mark> <a href="#thyroid-ultrasound" id="thyroid-ultrasound"></a>
 
 * 대상 : 결절이 촉진되거나 영상검사에서 우연히 발견되는 등 갑상선결절이 존재하거나 의심되는 모든 환자; TSH가 낮으면 초음파와 함께 갑상선스캔을 추가하여 기능 여부를 확인
 * 갑상선결절이 존재하거나 의심되는 모든 환자에서 경부 림프절 평가를 포함한 초음파검사를 권고
@@ -119,7 +119,7 @@
 * 경부 림프절의 낭성 변화·점상 고에코·비정상 혈류 등 전이 의심 소견은 결절 크기와 별도로 평가; 필요 시 림프절 FNA와 세척액 Tg 검사를 시행. 혈청 Tg의 선별 측정과 구분함
 * 지속되는 애성·성대마비 의심 시 후두경검사, 흉골뒤 확장·기관 압박 또는 침범 의심 시 경부/흉부 CT 등을 선택적으로 추가
 
-#### <mark style="color:$primary;">병리진단검사 - 세침흡인검사(FNA)·중심바늘생검(CNB)</mark> <a id="fna-cnb"></a>
+#### <mark style="color:$primary;">병리진단검사 - 세침흡인검사(FNA)·중심바늘생검(CNB)</mark> <a href="#fna-cnb" id="fna-cnb"></a>
 
 * 시행 시점 : 초음파 위험도(K-TIRADS)에 따른 시행 기준(크기 cutoff)을 충족하는 결절에서 FNA 시행 여부를 결정
 * FNA는 갑상선결절 병리진단의 1차 검사
@@ -128,7 +128,7 @@
 
 <table><thead><tr><th width="136.66668701171875">진단 범주</th><th width="130.4761962890625">성인 암 위험도</th><th width="132.3809814453125">소아 암 위험도</th><th>성인에서 주된 후속 조치</th></tr></thead><tbody><tr><td>I. 비진단적</td><td>13% (5~20)</td><td>14% (0~33)</td><td>초음파유도하 병리진단검사 재시행</td></tr><tr><td>II. 양성</td><td>4% (2~7)</td><td>6% (0~27)</td><td>즉각적 추가 검사·치료 불필요</td></tr><tr><td>III. 비정형(AUS)</td><td>22% (13~30)</td><td>28% (11~54)</td><td>반복 FNA/CNB 또는 분자표지자검사 후 초음파 추적 또는 수술 결정</td></tr><tr><td>IV. 여포종양</td><td>30% (23~34)</td><td>50% (28~100)</td><td>진단적 엽절제 우선 고려; 선택적으로 분자검사·관찰</td></tr><tr><td>V. 악성의심</td><td>74% (67~83)</td><td>81% (40~100)</td><td>종양 종류에 따른 수술 평가; 저위험 미세유두암 의심은 적극적 관찰 고려</td></tr><tr><td>VI. 악성</td><td>97% (97~100)</td><td>98% (86~100)</td><td>종양 종류별 치료; 저위험 미세유두암은 적극적 관찰 고려</td></tr></tbody></table>
 
-* 표의 위험도는 NIFTP를 포함한 수술 표본 중심의 평균(범위)로, 선택 편향과 기관별 차이가 있음. 특히 양성 FNA의 4%를 모든 양성 결절에 그대로 적용하지 않으며, 장기 추적 기반 위험은 약 1\~2%임. NIFTP를 악성에서 제외한 성인 평균 추정치는 I~VI 순서로 12%, 2%, 16%, 23%, 65%, 94% <mark style="color:$info;">\[Bethesda 2023, Tables 2~4]</mark>
+* 표의 위험도는 NIFTP를 포함한 수술 표본 중심의 평균(범위)로, 선택 편향과 기관별 차이가 있음. 특히 양성 FNA의 4%를 모든 양성 결절에 그대로 적용하지 않으며, 장기 추적 기반 위험은 약 1\~2%임. NIFTP를 악성에서 제외한 성인 평균 추정치는 I~~VI 순서로 12%, 2%, 16%, 23%, 65%, 94% <mark style="color:$info;">\[Bethesda 2023, Tables 2</mark>~~4]
 * 표는 **FNA의 Bethesda 체계**이며, CNB는 대한갑상선학회의 별도 6범주 진단체계를 사용; 범주가 유사해도 암 위험도를 동일하게 적용하지 않음
 * CNB는 반복 FNA보다 비진단적 결과를 줄일 수 있고 여포성 종양·림프종 등의 평가에 유용. 여포선종과 여포암의 확정 감별에는 수술 검체에서 피막·혈관 침범 확인이 필요
 * 첫 비진단적 결과는 초음파유도 FNA 재검 또는 선택적 CNB를 계획; 높은의심은 대개 6개월 이내, 낮은/중간의심은 12개월 이내에 재검. 임상적으로 암이 의심되면 더 일찍 시행하며, 재검을 위해 일률적으로 3개월을 기다릴 필요는 없음 <mark style="color:$info;">\[KSThR 2021]</mark>
@@ -136,7 +136,7 @@
 * 비정형(AUS, Atypia of Undetermined Significance) : 경험 많은 병리의 재판독을 고려; 핵 비정형(nuclear atypia)은 기타 비정형보다 악성 위험이 높음. 반복 FNA/CNB 또는 분자표지자검사로 재평가 후 추적 또는 수술 결정
 * 여포종양(Bethesda IV) : 진단적 엽절제를 우선 고려. 크기가 클수록 위험이 높아질 수 있으나 2 ㎝ 미만이라고 악성을 배제하지 못함; 분자검사·초음파·임상 위험과 선호도를 반영해 개별화
 
-#### <mark style="color:$primary;">분자표지자검사</mark> <a id="molecular-tests"></a>
+#### <mark style="color:$primary;">분자표지자검사</mark> <a href="#molecular-tests" id="molecular-tests"></a>
 
 * 검사 대상 : 병리진단검사에서 비정형(AUS)·여포종양·악성의심 등 미결정(indeterminate) 범주로 나온 결절 - 임상적 위험 요소, 세포검사 결과, 초음파 소견, 환자 선호도를 종합하여 시행 여부를 결정
 * BRAF<sup>V600E</sup> : 유두암 진단 특이도가 높지만, **음성 결과만으로 암을 배제하지 못함**
@@ -335,7 +335,7 @@ C73 갑상선의 악성 신생물 Malignant neoplasm of thyroid gland
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark> <a id="medication-counseling"></a>
+### <mark style="color:$success;">핵심 복약 지도</mark> <a href="#medication-counseling" id="medication-counseling"></a>
 
 > **검사 결과를 어떻게 설명할까요?**
 >
@@ -382,7 +382,7 @@ C73 갑상선의 악성 신생물 Malignant neoplasm of thyroid gland
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark> <a id="patient-guide"></a>
+### <mark style="color:blue;">환자 안내서</mark> <a href="#patient-guide" id="patient-guide"></a>
 
 {% hint style="info" %}
 **갑상선결절, 대부분은 걱정하지 않아도 됩니다**
@@ -399,7 +399,7 @@ C73 갑상선의 악성 신생물 Malignant neoplasm of thyroid gland
 #### <mark style="color:$primary;">검사는 어떻게 진행되나요?</mark>
 
 * 혈액검사로 갑상선 기능을 먼저 확인하고, 초음파로 결절의 모양을 평가합니다.
-* 초음파 모양에 따른 크기 기준과 림프절 등 위험 소견을 함께 판단하여 **가는 바늘로 세포를 채취하는 검사(FNA)**가 필요한지 결정합니다. 바늘이 가늘어 대부분 통증이 크지 않습니다.
+* 초음파 모양에 따른 크기 기준과 림프절 등 위험 소견을 함께 판단하여 \*\*가는 바늘로 세포를 채취하는 검사(FNA)\*\*가 필요한지 결정합니다. 바늘이 가늘어 대부분 통증이 크지 않습니다.
 * 검사 결과가 "애매하다"고 나올 수 있는데, 이는 암이라는 뜻이 아니라 조금 더 지켜보거나 추가 검사가 필요하다는 의미입니다.
 
 #### <mark style="color:$primary;">치료가 필요한가요?</mark>
@@ -407,7 +407,7 @@ C73 갑상선의 악성 신생물 Malignant neoplasm of thyroid gland
 * 양성으로 확인되면 대부분 치료가 필요하지 않습니다. 초음파 모양과 병리 결과에 따라 정기적으로 추적하거나, 추가 초음파가 필요하지 않을 수도 있습니다.
 * 갑상선호르몬제를 결절을 줄이려는 목적으로 복용하는 것은 권장하지 않습니다. 다만 기능저하증 때문에 처방받은 약은 임의로 끊지 마십시오.
 * 결절이 커서 목이 눌리거나 미용적으로 불편하면 고주파·레이저절제술 같은 비수술적 치료나 수술을 상의할 수 있습니다.
-* 암으로 진단되면 대부분 수술을 하지만, 매우 작고 위험도가 낮은 갑상선유두암은 **당장 수술하지 않고 정기적으로 지켜보는 방법(적극적 관찰)**을 선택할 수도 있습니다.
+* 암으로 진단되면 대부분 수술을 하지만, 매우 작고 위험도가 낮은 갑상선유두암은 \*\*당장 수술하지 않고 정기적으로 지켜보는 방법(적극적 관찰)\*\*을 선택할 수도 있습니다.
 
 #### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
 

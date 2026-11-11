@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 정의 : 희발 배변(주 ＜3회), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위한 수지 조작이 필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
-* 유병률 : Rome IV 기준 기능성 변비의 전 세계 성인 유병률은 약 10.1%; 진단 기준·지역·연령에 따라 차이가 크며 고령에서는 동반 질환, 활동·식사량 감소, 복용 약물 등의 요인이 관여  <mark style="color:$info;">\[Lancet Gastroenterol Hepatol 2021]</mark>
+* 유병률 : Rome IV 기준 기능성 변비의 전 세계 성인 유병률은 약 10.1%; 진단 기준·지역·연령에 따라 차이가 크며 고령에서는 동반 질환, 활동·식사량 감소, 복용 약물 등의 요인이 관여 <mark style="color:$info;">\[Lancet Gastroenterol Hepatol 2021]</mark>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -32,7 +32,7 @@
 
 * 기전 : 배변 시 골반저·항문괄약근의 이완 부전·역설적 수축 및/또는 불충분한 추진력 형성
 * 특징 : 과도한 힘주기, 막힌 느낌, 불완전한 배출감, 수지 조작; 부드러운 대변조차 배변 곤란
-* 진단 : 배출 곤란 증상과 ARM·BET·배변조영술 중 하나 이상에서 객관적인 배출 장애 확인 (☞ [배변협동장애 진단 기준](#dyssynergic-defecation-criteria))
+* 진단 : 배출 곤란 증상과 ARM·BET·배변조영술 중 하나 이상에서 객관적인 배출 장애 확인 (☞ [배변협동장애 진단 기준](082_-constipation.md#dyssynergic-defecation-criteria))
 * 치료 : 바이오피드백 우선
 
 ### <mark style="color:orange;">2차성</mark>
@@ -53,27 +53,29 @@
 * 불완전한 배출감, 항문 폐쇄감
 * 하복부 불편감/팽만감
 
+<figure><img src="../.gitbook/assets/배변 상태 7가지 유형 안내.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 심한 복통과 복막 자극 징후(복근 강직, 반발통)  `장천공` `복막염`
-* 심한 복부 팽창, 지속적인 구역·구토, 대변·가스 배출 중단 ± 장음 변화  `기계적 장폐색` `대장 염전`
-* 활력징후가 불안정한 대량 직장 출혈  `하부 위장관 출혈`
+* 급성 심한 복통과 복막 자극 징후(복근 강직, 반발통) `장천공` `복막염`
+* 심한 복부 팽창, 지속적인 구역·구토, 대변·가스 배출 중단 ± 장음 변화 `기계적 장폐색` `대장 염전`
+* 활력징후가 불안정한 대량 직장 출혈 `하부 위장관 출혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 흑색변  `상부 위장관 출혈`
-* **(당일)** 고령자에서 overflow diarrhea·요폐·급성 섬망을 동반한 변비  `분변매복`
-* 혈변 또는 철결핍빈혈  `대장암` `하부 위장관 출혈`
-* 설명되지 않는 체중 감소 또는 지속적·진행성 배변 습관 변화, 특히 중·고령에서 새로 발생한 경우  `대장암`
-* 지속적인 발열·전신 증상과 함께 새로 발생한 변비  `복강 내 염증` `악성 종양`
-* 직장 탈출 또는 반복적 직장 출혈  `직장탈출증` `직장 종괴`
+* **(당일)** 흑색변 `상부 위장관 출혈`
+* **(당일)** 고령자에서 overflow diarrhea·요폐·급성 섬망을 동반한 변비 `분변매복`
+* 혈변 또는 철결핍빈혈 `대장암` `하부 위장관 출혈`
+* 설명되지 않는 체중 감소 또는 지속적·진행성 배변 습관 변화, 특히 중·고령에서 새로 발생한 경우 `대장암`
+* 지속적인 발열·전신 증상과 함께 새로 발생한 변비 `복강 내 염증` `악성 종양`
+* 직장 탈출 또는 반복적 직장 출혈 `직장탈출증` `직장 종괴`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 초기 치료를 재평가·조정하였으나 적절한 식이·하제 치료에 4\~8주 이상 반응 없음  `배변협동장애` `2차성 변비`
-* 대장암 고위험 가족력이 있는 환자의 지속적인 변비·배변 습관 변화  `대장암`
+* 초기 치료를 재평가·조정하였으나 적절한 식이·하제 치료에 4\~8주 이상 반응 없음 `배변협동장애` `2차성 변비`
+* 대장암 고위험 가족력이 있는 환자의 지속적인 변비·배변 습관 변화 `대장암`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -121,7 +123,7 @@
 
 #### <mark style="color:$primary;">영상 및 기타 검사</mark>
 
-<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td><strong>직장 수지 검사</strong></td><td>분변매복, 괄약근 긴장, 직장항문 종괴, 직장탈출·직장류를 확인하고 배변장애를 조기에 시사하는 중요한 검사; 배변 시뮬레이션에서 치골직장근의 역설적 수축 또는 괄약근 이완 부전이 관찰되면 배변장애 의심. 정상 소견만으로 배변장애를 배제할 수 없음</td></tr><tr><td><strong>대장내시경</strong></td><td>대장암 의심 소견, 혈변, 철결핍빈혈, 설명되지 않는 체중 감소·지속적인 배변 습관 변화 또는 대장암 선별검사 적응이 있을 때 시행</td></tr><tr><td><strong>CT colonography</strong></td><td>대장내시경이 불가능하거나 불완전한 경우 해부학적 이상·종양 평가의 대안; 조직검사·치료는 불가능</td></tr><tr><td><strong>Anorectal manometry</strong><br><strong>+ balloon expulsion test</strong></td><td>배변협동장애가 의심되거나 적절한 하제 치료에 반응하지 않을 때 함께 시행; 증상과 검사 소견을 함께 해석 (☞ <a href="#dyssynergic-defecation-criteria">배변협동장애 진단 기준</a>)</td></tr><tr><td><strong>Defecography</strong></td><td>ARM·BET 결과가 불일치하거나 직장류·직장탈출 등 구조적 배출장애가 의심될 때 추가</td></tr><tr><td><strong>Colonic transit test</strong></td><td>배변장애 평가·치료 후에도 증상이 지속될 때 고려; 방사선비투과 표지자 검사 등 검사법별 정상범위와 표지자 분포를 함께 해석</td></tr></tbody></table>
+<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td><strong>직장 수지 검사</strong></td><td>분변매복, 괄약근 긴장, 직장항문 종괴, 직장탈출·직장류를 확인하고 배변장애를 조기에 시사하는 중요한 검사; 배변 시뮬레이션에서 치골직장근의 역설적 수축 또는 괄약근 이완 부전이 관찰되면 배변장애 의심. 정상 소견만으로 배변장애를 배제할 수 없음</td></tr><tr><td><strong>대장내시경</strong></td><td>대장암 의심 소견, 혈변, 철결핍빈혈, 설명되지 않는 체중 감소·지속적인 배변 습관 변화 또는 대장암 선별검사 적응이 있을 때 시행</td></tr><tr><td><strong>CT colonography</strong></td><td>대장내시경이 불가능하거나 불완전한 경우 해부학적 이상·종양 평가의 대안; 조직검사·치료는 불가능</td></tr><tr><td><strong>Anorectal manometry</strong><br><strong>+ balloon expulsion test</strong></td><td>배변협동장애가 의심되거나 적절한 하제 치료에 반응하지 않을 때 함께 시행; 증상과 검사 소견을 함께 해석 (☞ <a href="082_-constipation.md#dyssynergic-defecation-criteria">배변협동장애 진단 기준</a>)</td></tr><tr><td><strong>Defecography</strong></td><td>ARM·BET 결과가 불일치하거나 직장류·직장탈출 등 구조적 배출장애가 의심될 때 추가</td></tr><tr><td><strong>Colonic transit test</strong></td><td>배변장애 평가·치료 후에도 증상이 지속될 때 고려; 방사선비투과 표지자 검사 등 검사법별 정상범위와 표지자 분포를 함께 해석</td></tr></tbody></table>
 
 * Rome V의 직장 감각장애 : 불응성 환자의 항문직장 검사에서는 직장 감각저하·감각과민도 평가할 수 있으며, 확인된 감각 이상은 감각 바이오피드백 등 전문치료 선택에 참고
 
@@ -273,9 +275,9 @@ flowchart TD
 {% hint style="info" %}
 **1차 선택**
 
-* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO8335">마이락스산</a>]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1168">마그밀</a>]</mark> 또는 MgO <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014072100012">마그밀에스</a>]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
-* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0760A0010">둘코락스좌약</a>]</mark> 또는 glycerin 관장
-* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012103000010">레졸로</a>]</mark> (5-HT4 agonist)
+* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마이락스산</mark>](https://www.health.kr/drug/A11AOOOOO8335)<mark style="color:blue;">]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀</mark>](https://www.health.kr/drug/A11ABBBBB1168)<mark style="color:blue;">]</mark> 또는 MgO <mark style="color:blue;">\[</mark>[<mark style="color:blue;">마그밀에스</mark>](https://www.health.kr/drug/2014072100012)<mark style="color:blue;">]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
+* 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스좌약</mark>](https://www.health.kr/drug/A11A0760A0010)<mark style="color:blue;">]</mark> 또는 glycerin 관장
+* 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레졸로</mark>](https://www.health.kr/drug/2012103000010)<mark style="color:blue;">]</mark> (5-HT4 agonist)
 * OIC (opioid 유발 변비) : 일반 하제를 우선하며 반응이 불충분하면 전문진료에서 표적 치료 검토; 아래 PAMORA는 해외 치료 선택지로 구분
 {% endhint %}
 
@@ -305,7 +307,7 @@ flowchart TD
 * 200 ㎖ 이상의 충분한 수분과 함께 복용
   * 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
 * 부작용 : 복부 가스, 팽만 (보통 수일 내 감소)
-* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1310A0185">아기오과립</a>]</mark> 6 g/P 1\~2P qd 저녁 식후. 씹지 말고 물 1\~2컵과 함께 복용. 취침 직전·누운 자세 복용 금지
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아기오과립</mark>](https://www.health.kr/drug/A11A1310A0185)<mark style="color:blue;">]</mark> 6 g/P 1\~2P qd 저녁 식후. 씹지 말고 물 1\~2컵과 함께 복용. 취침 직전·누운 자세 복용 금지
   * 아기오는 1포에 차전자 3.9 g·차전자피 0.13 g을 포함하며, 차전자피 단일제와 용량을 동일하게 환산하지 않음. 심한 당뇨병에서는 금기이며, 장운동 억제 지사제 및 다른 하제와 병용하지 않음
 
 ### <mark style="color:orange;">삼투성 하제 (Osmotic laxatives)</mark>
@@ -336,7 +338,7 @@ flowchart TD
 * 기전 : 결장 세균에 의해 발효되어 삼투압 증가
 * PEG에 반응하지 않거나 불내성이 있는 경우 대체 옵션
 * 보통 1\~3일 내 반응; 부작용 : 배부름, 복부 가스 (발효 산물)
-* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013010200015">듀락칸이지</a>]</mark> 15 ㎖/P; 성인 초기 2\~3일은 15\~30 ㎖ qd 아침 식전, 이후 10\~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지 사용. 15 ㎖ 미만 용량은 계량 가능한 병 제형을 이용
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">듀락칸이지</mark>](https://www.health.kr/drug/2013010200015)<mark style="color:blue;">]</mark> 15 ㎖/P; 성인 초기 2\~3일은 15\~30 ㎖ qd 아침 식전, 이후 10\~15 ㎖/d로 조절; 심한 경우 45 ㎖/d까지 사용. 15 ㎖ 미만 용량은 계량 가능한 병 제형을 이용
 
 ### <mark style="color:orange;">자극성 하제 (Stimulant laxatives)</mark>
 
@@ -346,10 +348,10 @@ flowchart TD
 * AGA-ACG 2023의 강한 권고는 주로 경구제의 단기·구제 사용 근거이며, rescue therapy 또는 다른 하제와 간헐적 병용을 우선
 * 임상적으로 장기 사용하기도 하나 최소 유효용량으로 효과·부작용을 정기 평가
 * 부작용 : 복통(경련), 설사
-* 경구 단일제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A2070A0084">신일비사코딜</a>]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
+* 경구 단일제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">신일비사코딜</mark>](https://www.health.kr/drug/A11A2070A0084)<mark style="color:blue;">]</mark> 5 ㎎/T : 성인 10 ㎎ qd 취침 시. 장용정을 씹거나 부수지 않으며 우유·제산제와 1시간 이상 간격. 품목정보는 1주 이상 연속 사용하지 않도록 안내하며, 더 오래 필요하면 원인과 약제 선택을 재평가
   * 이뇨제·부신피질호르몬제 및 다형성 심실빈맥을 초래하는 약물과 병용하지 않음
 * <mark style="color:blue;">\[둘코락스좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 효과)
-* 경구 복합제 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2009092300055">둘코락스에스</a>]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
+* 경구 복합제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">둘코락스에스</mark>](https://www.health.kr/drug/2009092300055)<mark style="color:blue;">]</mark>는 bisacodyl + docusate sodium으로 단일제와 구분
 
 <mark style="color:$primary;">**Sodium picosulfate**</mark>
 
@@ -362,7 +364,7 @@ flowchart TD
 * 저용량 시작, rescue therapy 또는 다른 하제와 병용, 필요시 장기 사용 가능
 * 자극성 하제 장기 복용이 장 기능을 손상시킨다는 'cathartic colon' 가설은 현재 근거가 불충분하며, 독립적 질환 개념으로서의 타당성도 확립되지 않음
 * 부작용 : 고용량에서 복통(경련)
-* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1310A0162">아락실과립</a>]</mark>은 senna와 차전자 성분을 함유한 복합제
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아락실과립</mark>](https://www.health.kr/drug/A11A1310A0162)<mark style="color:blue;">]</mark>은 senna와 차전자 성분을 함유한 복합제
   * Senna의 장기 사용 근거를 이 복합제에 일률적으로 적용하지 않음. 약 1주 사용해도 증상이 개선되지 않으면 중단하고 원인을 재평가
 
 ### <mark style="color:orange;">연화제 (Stool softener)</mark>
@@ -394,7 +396,7 @@ flowchart TD
 * 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장, 투석이 필요한 신장애
 * 병용금기 : domperidone
 * 부작용 : 두통, 복통, 구역, 설사(주로 치료 초기에 발생 후 감소); 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 평가
-* <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019030800039">모비졸로</a>]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
+* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">모비졸로</mark>](https://www.health.kr/drug/2019030800039)<mark style="color:blue;">]</mark> (급여), <mark style="color:blue;">\[레졸로]</mark> (비급여)
 
 ### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
 
@@ -417,7 +419,7 @@ flowchart TD
 <mark style="color:$primary;">**Elobixibat**</mark>
 
 * 기전 : 회장 담즙산 운반체(ASBT/IBAT) 억제 → 회장 담즙산 재흡수 감소 → 결장 내 담즙산 증가 → 수분 분비 및 대장 운동 촉진
-* 용법 : 10 ㎎ qd 식전; 아침 식전으로 제한하지 않음&#x20;
+* 용법 : 10 ㎎ qd 식전; 아침 식전으로 제한하지 않음
 * 특징 : 전신 흡수 최소; 일본 등 일부 국가에서 사용하는 해외 약제 (국내 유통 제품 없음)
 * 부작용 : 복통, 설사, 복부 팽만 (대부분 경증)
 
@@ -430,7 +432,7 @@ flowchart TD
 
 * 다른 치료 실패 시 또는 급성 fecal impaction; 직장점막 손상, 전해질 불균형 주의
 * 고령·신장질환·심부전 : 인산염 관장을 피하고 전해질 위험이 적은 관장액 선택; 비눗물 관장은 점막 손상 위험 때문에 피함
-* Glycerin 관장 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019102200016">그린관장약</a>]</mark> : 직장 자극 + 삼투성 기전; 15\~30분 내 효과. 제품 농도·용량을 구분하며 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
+* Glycerin 관장 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">그린관장약</mark>](https://www.health.kr/drug/2019102200016)<mark style="color:blue;">]</mark> : 직장 자극 + 삼투성 기전; 15\~30분 내 효과. 제품 농도·용량을 구분하며 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
 ***
 
@@ -462,6 +464,7 @@ flowchart TD
 > ```
 > 아기오과립 6 g/P  1P  qd 저녁 식후  (반응에 따라 2P까지 조절)
 > ```
+>
 > 약제 정보: [아기오과립 6g/포](https://www.health.kr/drug/A11A1310A0185)
 >
 > _✽씹지 말고 물 1\~2컵과 함께 복용; 취침 직전·누운 자세 복용 금지. 장폐색·협착·연하곤란·심한 당뇨병에서는 사용하지 않음._
@@ -473,6 +476,7 @@ flowchart TD
 > ```
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > ```
+>
 > 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335)
 >
 > _✽약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용; 식사와 무관. 보통 1\~4일 내 반응. 다른 경구약과 2시간 이상 간격을 두고 첫 사용 후 약 1주에도 호전이 없으면 중단·재평가._
@@ -485,6 +489,7 @@ flowchart TD
 > 마그밀정 500 ㎎/T  1T  bid  (총 1,000 ㎎/d)
 > 둘코락스좌약 10 ㎎/개  1개  1일 1회 필요시 직장 투여
 > ```
+>
 > 약제 정보: [마그밀정 500㎎](https://www.health.kr/drug/A11ABBBBB1168) · [둘코락스좌약 10㎎](https://www.health.kr/drug/A11A0760A0010)
 >
 > _✽마그밀은 신장애 금기; PEG 등 대체제 선택. Tetracycline계 항생제와 병용하지 않음._
@@ -497,6 +502,7 @@ flowchart TD
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > 레졸로정 2 ㎎/T  1T  qd  (비급여; 식사와 무관)
 > ```
+>
 > 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335) · [레졸로정 2㎎](https://www.health.kr/drug/2012103000010)
 >
 > _✽PEG는 약 240 ㎖에 녹여 다른 경구약(레졸로 포함)과 2시간 이상 간격을 두고 복용. 고령(≥65세)은 레졸로정 1 ㎎ 제형으로 1 ㎎/d부터 시작하여 필요시 2 ㎎/d로 증량._
@@ -513,6 +519,7 @@ flowchart TD
 > 마이락스산 17 g/P  1P  qd  (비급여)
 > 둘코락스좌약 10 ㎎/개  1개  1일 1회 필요시 직장 투여
 > ```
+>
 > 약제 정보: [마이락스산 17g/포](https://www.health.kr/drug/A11AOOOOO8335) · [둘코락스좌약 10㎎](https://www.health.kr/drug/A11A0760A0010)
 >
 > _✽장폐쇄·분변매복 여부를 먼저 평가하고 증상·섭취 상태에 따라 조절. PEG는 다른 경구약과 2시간 이상 간격을 둠. 지속적인 OIC에서는 제품별 사용 기간을 고려하여 경구 자극성 하제 병용도 평가._
@@ -568,39 +575,30 @@ flowchart TD
 *   <mark style="color:$info;">Rome Foundation. Rome V Criteria. 2026. - 만성 변비·IBS·배변협동장애 진단 기준</mark>
 
     [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
-
 *   <mark style="color:$info;">Rao SSC, et al. Anorectal Disorders. Gastroenterology. 2026;170:1318-1346. - 배변협동장애의 probable/definite 구분 및 직장 감각장애</mark>
 
     [https://doi.org/10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)
-
 *   <mark style="color:$info;">Chang L, et al. AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. Gastroenterology. 2023;164:1086-1106. - 성인 CIC 약물치료; IBS-C·임신·OIC 근거와 구분</mark>
 
     [https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/)
-
 *   <mark style="color:$info;">Staller K, et al. AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review. Clin Gastroenterol Hepatol. 2026;24:296-305. - 배변장애 평가·바이오피드백, 통과검사 및 수술 전 평가</mark>
 
     [https://pubmed.ncbi.nlm.nih.gov/41504675/](https://pubmed.ncbi.nlm.nih.gov/41504675/)
-
 *   <mark style="color:$info;">Cho YS, et al. 2022 Seoul Consensus on Clinical Practice Guidelines for Functional Constipation. J Neurogastroenterol Motil. 2023;29:271-305. 국문판: 만성변비의 진단과 치료에 관한 서울 진료지침. Korean J Gastroenterol. 2025;85:319-344. - 진단·검사·약물·바이오피드백 및 보조치료</mark>
 
     [영문판](https://doi.org/10.5056/jnm23066) · [국문판](https://doi.org/10.4166/kjg.2024.156)
-
 *   <mark style="color:$info;">Dimidi E, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet. 2025;38:e70133. - 섬유 종류·식품·probiotics별 효과와 근거 한계</mark>
 
     [https://doi.org/10.1111/jhn.70133](https://doi.org/10.1111/jhn.70133)
-
 *   <mark style="color:$info;">Barberio B, et al. Global prevalence of functional constipation according to the Rome criteria: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2021;6:638-648. - Rome IV 기준 통합 유병률 10.1%</mark>
 
     [https://pubmed.ncbi.nlm.nih.gov/34090581/](https://pubmed.ncbi.nlm.nih.gov/34090581/)
-
 *   <mark style="color:$info;">UKTIS. Treatment of Constipation in Pregnancy. 2026. - 임신 중 비약물 치료와 하제 선택의 근거·한계</mark>
 
     [https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/](https://uktis.org/monographs/treatment-of-constipation-in-pregnancy/)
-
 *   <mark style="color:$info;">NHS Specialist Pharmacy Service. Using laxatives during breastfeeding. 2023. - 만삭·건강한 영아 수유 시 하제 선택과 영아 관찰</mark>
 
     [https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/](https://www.sps.nhs.uk/articles/using-laxatives-during-breastfeeding/)
-
 *   <mark style="color:$info;">MHRA. Clozapine: reminder of potentially fatal risk of intestinal obstruction, faecal impaction, and paralytic ileus. 2017. - 새 변비의 조기 확인·적극적 치료</mark>
 
     [https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus](https://www.gov.uk/drug-safety-update/clozapine-reminder-of-potentially-fatal-risk-of-intestinal-obstruction-faecal-impaction-and-paralytic-ileus)
@@ -608,15 +606,12 @@ flowchart TD
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기·허가 상태 및 DUR 병용금기 확인
-
 *   <mark style="color:$info;">건강보험심사평가원. 약제급여기준 및 약제급여목록. - Prucalopride 성분 급여기준과 품목별 등재 구분</mark>
 
     [https://www.hira.or.kr](https://www.hira.or.kr)
-
 *   <mark style="color:$info;">통계청. 한국표준질병·사인분류(KCD) 제9차 개정. - K59.0 하위코드, K56.4 및 K58.2 확인</mark>
 
     [https://kssc.kostat.go.kr](https://kssc.kostat.go.kr)
-
 *   <mark style="color:$info;">일본 PMDA. Elobixibat review report. - 성인 1일 1회 식전 용법</mark>
 
     [https://www.pmda.go.jp/files/000232054.pdf](https://www.pmda.go.jp/files/000232054.pdf)
