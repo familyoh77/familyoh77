@@ -190,40 +190,48 @@ _✽유형별 일률적인 WBC 절단값이나 모든 검체의 배양 +/- 조�
 
 ```mermaid
 graph TD
-    Start(["급성 세균성 전립선염 의심"]) --> Tests["중간뇨 배양·감수성, U/A, CBC; STI 의심 시 첫소변 NAAT"]
-    Tests --> Severity{"중증도·요폐·경구 섭취·내성 위험·추적 가능성"}
-    Severity -->|"안정적·경구 가능·면밀한 추적"| OPD["외래 고려: 이전 배양·지역 내성률을 반영한 경구 항생제"]
-    Severity -->|"패혈증·요폐·경구 불가·고위험"| IPD["입원·혈액배양·정맥 항생제; 배양 채취로 치료 지연 금지, 폐쇄 시 배액"]
+    Start(["급성 세균성 전립선염 의심"]) --> Emergency{"패혈증·급성 요폐 등 응급 징후?"}
+    Emergency -- "예" --> Rescue["즉각 병원 평가·안정화 및 배액 판단"]
+    Emergency -- "아니오" --> Tests["중간뇨 배양·감수성, U/A, CBC; STI 의심 시 첫소변 NAAT"]
+    Tests --> Severity{"안정적·경구 가능·요폐 없음 및 유효 약제·추적 가능?"}
+    Severity -- "예" --> OPD["외래 고려: 이전 배양·지역 내성률을 반영한 경구 항생제"]
+    Severity -- "아니오" --> IPD["입원·혈액배양·정맥 항생제; 배양 채취로 치료 지연 금지, 폐쇄 시 배액"]
     OPD --> STI{"임질·클라미디아 의심?"}
-    STI -->|"예"| AddSTI["NAAT 채취; 높은 임상 의심 시 STI 치료 병행. 단회 ceftriaxone·7일 doxycycline만으로 ABP 치료를 끝내지 않음"]
-    STI -->|"아니오"| Review["배양·감수성 결과 확인; 외래 시작 48시간 이내 초기 반응 평가"]
+    STI -- "예" --> AddSTI["NAAT 채취; 높은 임상 의심 시 STI 치료 병행. 단회 ceftriaxone·7일 doxycycline만으로 ABP 치료를 끝내지 않음"]
+    STI -- "아니오" --> Review{"배양·감수성 확인 및 외래 시작 48시간 내 호전?"}
     AddSTI --> Review
     IPD --> Risk{"패혈증·ESBL/MDR 위험?"}
-    Risk -->|"낮음"| IV["지역 내성률에 맞는 3세대 cephalosporin 등 정맥 요법"]
-    Risk -->|"높음/중증"| Broad["이전 배양·내성 위험에 맞춰 광범위 정맥 요법; ESBL 위험이 높고 중증이면 carbapenem 평가"]
+    Risk -- "낮음" --> IV["지역 내성률에 맞는 3세대 cephalosporin 등 정맥 요법"]
+    Risk -- "높음/중증" --> Broad["이전 배양·내성 위험에 맞춰 광범위 정맥 요법; ESBL 위험이 높고 중증이면 carbapenem 평가"]
     IV --> Review
     Broad --> Review
-    Review -->|"호전"| Step["감수성에 따라 좁혀 경구 전환; 통상 총 2~4주, 14일에 종료·연장 재평가"]
-    Review -->|"호전 없음/악화"| Image["당일 병원 평가: 내성·폐쇄·다른 감염원 확인; 지속 증상 48~72시간 또는 악화 시 CT/MRI·TRUS로 농양 평가"]
+    Review -- "호전" --> Step["감수성에 따라 좁혀 경구 전환; 통상 총 2~4주, 14일에 종료·연장 재평가"]
+    Review -- "호전 없음/악화" --> Image["당일 병원 평가: 내성·폐쇄·다른 감염원 확인; 지속 증상 48~72시간 또는 악화 시 CT/MRI·TRUS로 농양 평가"]
     Image --> Abs{"농양 확인?"}
-    Abs -->|"예"| Drain["크기·경과에 따라 항생제 단독 또는 흡인·배농 결정"]
-    Abs -->|"아니오"| Revise["원인균·감수성·폐쇄 및 감별진단에 따라 치료 조정"]
+    Abs -- "예" --> Drain["크기·경과에 따라 항생제 단독 또는 흡인·배농 결정"]
+    Abs -- "아니오" --> Revise["원인균·감수성·폐쇄 및 감별진단에 따라 치료 조정"]
     Drain --> Stable{"임상 안정·경구 전환 가능?"}
     Revise --> Stable
-    Stable -->|"예"| Step
-    Stable -->|"아니오"| IPD
+    Stable -- "예" --> Step
+    Stable -- "아니오" --> IPD
     Step --> Follow["증상·재발 위험에 따라 추적; 무증상 시 정례 치료 후 배양은 필수 아님"]
     classDef decision fill:#fff9c4,stroke:#ffe082
-    class Severity,STI,Risk,Abs,Stable decision
+    class Severity,STI,Risk,Abs,Stable,Review decision
     classDef treatment fill:#e3f2ff,stroke:#2196f3
-    class OPD,IPD,IV,Broad,AddSTI,Step treatment
+    class OPD,IV,Broad,AddSTI,Step,Drain,Revise,Follow,Image treatment
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    class Rescue emergency
+    class IPD treatment
+    class Emergency decision
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef evaluation fill:#e8f8e8,stroke:#4caf50
-    class Tests,Review,Image,Follow evaluation
+    class Tests evaluation
+    Rescue --> IPD
 ```
 
 <p align="center"><strong>급성 세균성 전립선염의 진단 및 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 국내 지역사회획득 요로감염 항생제 지침(2018); EAU Urological Infections Guideline(2026); IDSA cUTI Guideline(2025)의 적용 범위를 구분하여 반영</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: 국내 요로감염 지침 2018; EAU 2026; NICE NG110; IDSA 2025)</mark></em></p>
 
 ***
 
@@ -232,8 +240,8 @@ graph TD
     Start(["CP/CPPS 의심 - 3개월 이상 골반·비뇨생식기 통증"]) --> Eval["종합 평가: 병력·배뇨·성기능·심리사회력, 신경·근골격 선별, 직장수지·골반저근 촉진"]
     Eval --> Lab["U/A·중간뇨 배양; STI 위험 시 NAAT; 잔뇨 평가"]
     Lab --> ExclQ{"증상을 설명할 감염·다른 질환?"}
-    ExclQ -->|"확인된 질환 있음"| Confusable["확인 질환 치료; 만성 통증이 공존하면 CP/CPPS 평가·관리 병행"]
-    ExclQ -->|"충분히 설명되지 않음: CP/CPPS 임상 진단"| Domain["우세 증상 영역 파악"]
+    ExclQ -- "확인된 질환 있음" --> Confusable["확인 질환 치료; 만성 통증이 공존하면 CP/CPPS 평가·관리 병행"]
+    ExclQ -- "충분히 설명되지 않음: CP/CPPS 임상 진단" --> Domain["우세 증상 영역 파악"]
     Domain --> Voiding["배뇨 증상 우세"]
     Domain --> Pain["통증 우세"]
     Domain --> PFM["골반저근 압통"]
@@ -246,32 +254,32 @@ graph TD
     TxPain --> Adjunct
     TxPFM --> Adjunct
     TxPsych --> Adjunct
-    Adjunct --> Reassess["주기적 재평가"]
-    Reassess -->|"호전"| Continue["효과 있는 치료 유지,  무효 치료는 중단"]
-    Reassess -->|"무반응"| MDT["통증클리닉/다학제 의뢰;  진단 재검토"]
+    Adjunct --> Reassess{"주기적 재평가: 호전?"}
+    Reassess -- "호전" --> Continue["효과 있는 치료 유지,  무효 치료는 중단"]
+    Reassess -- "무반응" --> MDT["통증클리닉/다학제 의뢰;  진단 재검토"]
 
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
-	class ExclQ,Reassess,Domain yellow
+	class ExclQ,Reassess yellow
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
 	class Eval,Lab lightGreen
 classDef sky fill:#e3f2ff,stroke:#2196f3
-	class TxVoid,TxPain,TxPFM,TxPsych,Adjunct sky
+	class TxVoid,TxPain,TxPFM,TxPsych,Adjunct,Domain,MDT sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
 	class Confusable,Continue blue
-style MDT fill:#fdebd0,stroke:#e67e22
+
 ```
 
 <p align="center"><strong>만성 골반통증증후군(CP/CPPS)의 진단·다면적 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Diagnosis and Management of Male Chronic Pelvic Pain(CP/CPPS and CSCP): AUA Guideline(2025)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: AUA 남성 만성 골반통 지침 2025)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="danger" %}
-**Fluoroquinolone 사용 시 주의** : Ciprofloxacin·levofloxacin은 감수성 세균성 전립선염의 주요 선택지이나 건염·건 파열, 말초신경병증, 중추신경계 이상, 중증 근무력증 악화, 혈당 이상·QT 연장 및 대동맥류/박리 관련 경고를 확인. 고령·신장애·스테로이드 병용·대동맥질환은 대체제 필요성을 특히 평가. **Ciprofloxacin과 tizanidine·ketoprofen/dexketoprofen은 병용 금기**이므로 골반통·근육통 약제를 함께 확인. Duloxetine도 경구·전신 ciprofloxacin의 CYP1A2 억제로 노출이 증가할 수 있으므로 병용을 피하고 항생제 대안을 검토함(001 참조) <mark style="color:$info;">[식약처 허가사항·DUR]</mark>
+**Fluoroquinolone 사용 시 주의** : Ciprofloxacin·levofloxacin은 감수성 세균성 전립선염의 주요 선택지이나 건염·건 파열, 말초신경병증, 중추신경계 이상, 중증 근무력증 악화, 혈당 이상·QT 연장 및 대동맥류/박리 관련 경고를 확인. 고령·신장애·스테로이드 병용·대동맥질환은 대체제 필요성을 특히 평가. **Ciprofloxacin과 tizanidine·ketoprofen/dexketoprofen은 병용 금기**이므로 골반통·근육통 약제를 함께 확인. Duloxetine도 경구·전신 ciprofloxacin의 CYP1A2 억제로 노출이 증가할 수 있으므로 병용을 피하고 항생제 대안을 검토함(☞ [통증](../220_/001_-pain.md)) <mark style="color:$info;">[식약처 허가사항·DUR]</mark>
 {% endhint %}
 
 {% hint style="danger" %}
@@ -282,7 +290,7 @@ style MDT fill:#fdebd0,stroke:#e67e22
 ・적절한 의학적 평가 없이 신체화(somatization)로 단정해 심리적 개입으로만 보내지 않음
 {% endhint %}
 
-### <mark style="color:orange;">비-약물 치료 및 예방</mark>
+### <mark style="color:orange;">비약물 치료 및 예방</mark>
 
 * 탈수를 피하도록 수분을 섭취하되 심부전·신장질환의 제한과 배뇨 증상을 고려하여 개별화; 증상을 악화시킬 정도의 과도한 음수를 권하지 않음
 * 장시간 앉기·자전거 타기 등 증상을 유발하는 활동은 일시적으로 줄이고, 개인별 유발 요인을 확인
@@ -299,12 +307,12 @@ style MDT fill:#fdebd0,stroke:#e67e22
 
 #### <mark style="color:$primary;">Ⅰ. 급성 세균성 전립선염 (ABP)</mark>
 
-* 성매개감염 의심 동반 : 중간뇨 배양과 임질·클라미디아 첫소변 NAAT를 먼저 채취. 동반 단순 임질이 확인되거나 강하게 의심되면 ceftriaxone **체중 ＜100 ㎏ 500 ㎎ IM/IV 1회, ≥100 ㎏ 1 g IV 1회** <mark style="color:blue;">[트리악손]</mark>(국내 학회 지침 해설 기준; CDC는 150 ㎏ 경계). 클라미디아가 배제되지 않으면 doxycycline 100 ㎎ bid <mark style="color:blue;">[독시사이클린]</mark> ×7일 병용 (☞ [임질](115_-2.gonorrhea.md), [클라미디아](115_-4.chlamydia.md)) <mark style="color:$info;">[KAUTII 지침 해설 2024; CDC 2021]</mark>
+* 성매개감염 의심 동반 : 중간뇨 배양과 임질·클라미디아 첫소변 NAAT를 먼저 채취. 동반 단순 임질이 확인되거나 강하게 의심되면 ceftriaxone **체중 ＜100 ㎏ 500 ㎎ IM/IV 1회, ≥100 ㎏ 1 g IV 1회** <mark style="color:blue;">[트리악손](https://www.health.kr/drug/A11A2140A0160)</mark>(국내 학회 지침 해설 기준; CDC는 150 ㎏ 경계). 클라미디아가 배제되지 않으면 doxycycline 100 ㎎ bid <mark style="color:blue;">[국제독시사이클린](https://www.health.kr/drug/A11A0300A0226)</mark> ×7일 병용 (☞ [임질](115_-2.gonorrhea.md), [클라미디아](115_-4.chlamydia.md)) <mark style="color:$info;">[KAUTII 지침 해설 2024; CDC 2021]</mark>
   * 이는 **동반 비복잡성 임질·클라미디아 치료 용법**으로, 급성 세균성 전립선염 전체 치료의 대체 처방이 아님. 전립선 감염은 장내세균 가능성·전신 상태·배양 결과에 따라 별도 치료 계획을 세우고, 확인된 STI의 성 파트너 평가·치료와 HIV·매독 검사도 고려
   * 임질 대체요법인 cefixime 800 ㎎ PO 1회도 비복잡성 임질용이며 전립선염 완결 요법으로 사용하지 않음. 임질이 확인되거나 강하게 의심되면서 전립선 감염이 지속되면 비뇨의학과·감염내과 협진을 고려
   * 위 용법은 **동반 단순 점막 STI**의 추가 치료임. 부고환염이 함께 있으면 [급성 부고환염](121_-acute-epididymitis.md)의 질환별 요법을 적용하며, 단순 임질 용량·클라미디아 7일 요법을 그대로 적용하지 않음. 이미 ceftriaxone 정주 치료 중이면 단회 IM/IV를 기계적으로 중복하지 않으며 병용·중복 항균제를 조정
-* 장내세균성 감염이 의심되고 외래 경구 치료가 가능한 환자 : 소변배양 검체를 먼저 채취하고 이전 감수성 결과·지역 내성률·최근 fluoroquinolone 노출을 고려하여 ciprofloxacin 500 ㎎ bid <mark style="color:blue;">\[씨프로바이]</mark> or levofloxacin 500 ㎎ qd <mark style="color:blue;">\[크라비트]</mark>; 감수성 확인 시 대체 TMP/SMX 160/800 ㎎ bid (<mark style="color:blue;">셉트린정</mark> SMX/TMP 400/80 ㎎ 2T bid)
-  * 경험적 FQ는 최근 6개월 FQ 사용력·비뇨의학과 의료 관련 감염·높은 지역 내성률이 있으면 피하고, 적절한 초기 정주 요법 또는 전문과 평가를 우선 고려. 이후 감수성이 확인되면 표적 경구 치료로 사용할 수 있음 <mark style="color:$info;">[EAU 2026]</mark>
+* 장내세균성 감염이 의심되고 외래 경구 치료가 가능한 환자 : 소변배양 검체를 먼저 채취하고 이전 감수성 결과·지역 내성률·최근 fluoroquinolone 노출을 고려하여 ciprofloxacin 500 ㎎ bid <mark style="color:blue;">[씨프로바이](https://www.health.kr/drug/2019081900007)</mark> or levofloxacin 500 ㎎ qd <mark style="color:blue;">[크라비트](https://www.health.kr/drug/A11AOOOOO7621)</mark>; 감수성 확인 시 대체 TMP/SMX 160/800 ㎎ bid (<mark style="color:blue;">[셉트린](https://www.health.kr/drug/A11A0500A0065)</mark> SMX/TMP 400/80 ㎎ 2T bid)
+  * 경험적 FQ는 최근 FQ 사용력(EAU 6개월, IDSA 2025 12개월)·비뇨의학과 의료 관련 감염·높은 지역 내성률이 있으면 피하고, 적절한 초기 정주 요법 또는 전문과 평가를 우선 고려. 이후 감수성이 확인되면 표적 경구 치료로 사용할 수 있음 <mark style="color:$info;">[EAU 2026]</mark>
   * Levofloxacin 500 ㎎ qd는 ABP 지침 용법이며, 국내 크라비트의 CBP 28일 허가 용법·신기능 조정표 및 다른 UTI 적응증의 용법을 구분하여 확인
   * 본 챕터의 안정적 외래 환자는 **14일 치료 후 재평가하여 종료 또는 추가 14일**을 결정하는 NICE 경로를 적용. EAU는 총 2\~4주를 제시. IDSA 2025는 전립선염 의심 발열성 남성 UTI에서 10\~14일의 가능성도 언급하나 근거가 부족하며, 일반 cUTI 5\~7일 권고를 확진 ABP에 자동 적용하지 않음. 농양·지연 반응·지속 감염은 별도 개별화. 효과 있는 항생제를 투여한 첫날부터 기간을 계산 <mark style="color:$info;">[NICE NG110; EAU 2026; IDSA 2025]</mark>
 * 입원·정맥 치료 고려 : 패혈증/혈역학적 불안정, 요폐 또는 폐쇄, 경구 섭취 불가, 중증 전신 증상, 내성균 위험, 외래 치료 실패 또는 신속한 재평가가 어려운 경우. 국내 지침(2018)은 입원·정맥 치료를 강하게 권고하므로 외래 치료는 안정적이고 추적 가능한 경증 환자에서 신중히 선택
@@ -348,20 +356,20 @@ style MDT fill:#fdebd0,stroke:#e67e22
 
 * α-차단제, 배뇨 증상이 있으면 투여를 권고 <mark style="color:$info;">[AUA 2025]</mark>; 4\~6주에 초기 효과·이상반응을 재평가하고 필요 시 8\~12주까지 반응을 확인하되, 모든 환자에게 12주 지속을 의무화하지 않음
   * 아래 α-차단제의 CP/CPPS 목적 사용은 국내 BPH 적응증과 구분되는 허가 외 사용임
-  * tamsulosin : 0.2 ㎎ qd 식후 복용으로 시작하여 반응·내약성에 따라 0.4 ㎎ qd 고려 <mark style="color:blue;">\[하루날 디]</mark>. 기립저혈압·어지럼·사정 장애에 유의; 백내장 수술 예정 시 과거·현재 복용력을 안과에 알림
-  * alfuzosin : 서방정 10 ㎎ qd 식후 <mark style="color:blue;">[자트랄 엑스엘]</mark>; 씹거나 부수지 않음
+  * tamsulosin : 0.2 ㎎ qd 식후 복용으로 시작하여 반응·내약성에 따라 0.4 ㎎ qd 고려 <mark style="color:blue;">[하루날디](https://www.health.kr/drug/A11AOOOOO9776)</mark>. 기립저혈압·어지럼·사정 장애에 유의; 백내장 수술 예정 시 과거·현재 복용력을 안과에 알림
+  * alfuzosin : 서방정 10 ㎎ qd 저녁식사 직후 <mark style="color:blue;">[자트랄엑스엘](https://www.health.kr/drug/A11AJJJJJ0228)</mark>; 씹거나 부수지 않음
 * BPH 동반 시 : 전립선 비대·LUTS가 있는 경우 5ARI 고려(CP/CPPS 자체의 치료제가 아니라 동반된 BPH/LUTS를 겨냥한 것임에 유의; 근거 수준 낮음 <mark style="color:$info;">[AUA 2025, Expert Opinion]</mark>); 6개월 이상 반응을 평가하고 효과가 있으면 BPH 경과에 따라 지속 (☞ [BPH](124_-benign-prostatic-hyperplasia-bph.md))
-  * finasteride : 5 ㎎ qd <mark style="color:blue;">\[프로스카]</mark>
-  * dutasteride : 0.5 ㎎ qd <mark style="color:blue;">\[아보다트]</mark>
+  * finasteride : 5 ㎎ qd <mark style="color:blue;">[프로스카](https://www.health.kr/drug/A11ABBBBB0944)</mark>
+  * dutasteride : 0.5 ㎎ qd <mark style="color:blue;">[아보다트](https://www.health.kr/drug/A11AOOOOO4032)</mark>
 
 **통증**
 
 * NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용 (☞ [통증](../220_/001_-pain.md))
-* 작열통·이질통·감각 이상 및 신경해부학적 분포 등을 평가하여 신경병증성 통증 약제를 선택적으로 고려. 통증이 심하거나 진찰 소견에 비해 크다는 이유만으로 신경병증으로 단정하지 않음. Duloxetine 등 SNRI 사용은 일반 신경병증성 통증 근거를 외삽한 것으로 CP/CPPS에서 확립된 우선약은 아님. 선택 시 간질환, CrCl ＜30 ㎖/min·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 및 MAOI 병용 등 국내 제품 금기를 먼저 확인하며, 경구·전신 ciprofloxacin 병용을 피함(001 참조) <mark style="color:$info;">[AUA 2025; EAU 만성 골반통 2026]</mark>
-  * gabapentinoids : gabapentin 100\~300 ㎎ 취침 시부터 내약성에 따라 분할·증량 <mark style="color:blue;">[뉴론틴]</mark>; pregabalin 75 ㎎ bid 등 저용량부터 개별 조정 <mark style="color:blue;">[리리카]</mark>. 고령·신장애는 더 낮게 시작하고 CrCl별 용량 조정. **CP/CPPS 목적은 허가 외 사용**이며 국내 개별 신경병증성 통증 적응증·급여와 구분
-  * TCA : nortriptyline 10 ㎎ 취침 시 <mark style="color:blue;">\[센시발]</mark> 또는 amitriptyline 10 ㎎ 취침 시부터 점차 증량. 센시발은 nortriptyline 제제이며 CP/CPPS 목적 TCA 처방은 허가 외 사용임. 항콜린성 배뇨곤란·요폐, 진정·기립저혈압·QT 연장 위험을 평가하며 배뇨 증상만 있는 환자에게 통상 병용하지 않음. 국내 amitriptyline(에트라빌)은 전립선비대 등 배뇨장애·녹내장·부정맥 등에서 투여 금기이므로 단순 주의·관찰로 대체하지 않음. CP/CPPS 자체를 일률적 금기로 보는 것은 아니며 동반 질환과 제품별 금기를 구분하고, nortriptyline에는 해당 제품의 허가사항을 별도 적용(001 참조)
+* 작열통·이질통·감각 이상 및 신경해부학적 분포 등을 평가하여 신경병증성 통증 약제를 선택적으로 고려. 통증이 심하거나 진찰 소견에 비해 크다는 이유만으로 신경병증으로 단정하지 않음. Duloxetine 등 SNRI 사용은 일반 신경병증성 통증 근거를 외삽한 것으로 CP/CPPS에서 확립된 우선약은 아님. 선택 시 간질환, CrCl ＜30 ㎖/min·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 및 MAOI 병용 등 국내 제품 금기를 먼저 확인하며, 경구·전신 ciprofloxacin 병용을 피함(☞ [통증](../220_/001_-pain.md)) <mark style="color:$info;">[AUA 2025; EAU 만성 골반통 2026]</mark>
+  * gabapentinoids : gabapentin 100\~[300 ㎎](https://www.health.kr/drug/A11ABBBBB1034) 취침 시부터 내약성에 따라 분할·증량 <mark style="color:blue;">[뉴론틴](https://www.health.kr/drug/A11ABBBBB1033)</mark>; pregabalin 75 ㎎ bid 등 저용량부터 개별 조정 <mark style="color:blue;">[리리카](https://www.health.kr/drug/A11AOOOOO8537)</mark>. 고령·신장애는 더 낮게 시작하고 CrCl별 용량 조정. **CP/CPPS 목적은 허가 외 사용**이며 국내 개별 신경병증성 통증 적응증·급여와 구분
+  * TCA : nortriptyline 10 ㎎ 취침 시 <mark style="color:blue;">[센시발](https://www.health.kr/drug/A11A1130A0032)</mark> 또는 amitriptyline 10 ㎎ 취침 시부터 점차 증량. 센시발은 nortriptyline 제제이며 CP/CPPS 목적 TCA 처방은 허가 외 사용임. 항콜린성 배뇨곤란·요폐, 진정·기립저혈압·QT 연장 위험을 평가하며 배뇨 증상만 있는 환자에게 통상 병용하지 않음. 국내 amitriptyline([에트라빌](https://www.health.kr/drug/A11A0570B0082))은 전립선비대 등 배뇨장애·녹내장·부정맥 등에서 투여 금기이므로 단순 주의·관찰로 대체하지 않음. CP/CPPS 자체를 일률적 금기로 보는 것은 아니며 동반 질환과 제품별 금기를 구분하고, nortriptyline에는 해당 제품의 허가사항을 별도 적용(☞ [통증](../220_/001_-pain.md))
   * Pregabalin은 CP/CPPS 무작위시험에서 1차 평가변수(6주 NIH-CPSI ≥6점 감소)를 충족하지 못함. 모든 CP/CPPS 환자의 표준 진통제로 사용하지 않으며, gabapentinoid는 선택적 시험 투여 후 효과·졸림·부종을 평가하고 신기능에 맞춰 조정. 국내 pregabalin의 성인 신경병증성 통증 적응증과 CP/CPPS 진단 자체를 동일시하지 않음 <mark style="color:$info;">[Pontari 등 2010; AUA 2025; EAU 2026]</mark>
-* PDE5 억제제 : 발기부전 동반 여부와 무관하게 tadalafil 5 ㎎ qd <mark style="color:blue;">\[시알리스]</mark>를 고려 가능(AUA 조건부 권고, 근거 B). **CP/CPPS 증상 개선 목적은 국내 허가 외 사용**이며, 국내 ED·BPH 적응증과 구분. 질산염·riociguat 병용 금기 및 α-차단제 병용 시 저혈압 위험 확인 <mark style="color:$info;">[AUA 2025]</mark>
+* PDE5 억제제 : 발기부전 동반 여부와 무관하게 tadalafil 5 ㎎ qd <mark style="color:blue;">[시알리스](https://www.health.kr/drug/A11AKP08G3782)</mark>를 고려 가능(AUA 조건부 권고, 근거 B). **CP/CPPS 증상 개선 목적은 국내 허가 외 사용**이며, 국내 ED·BPH 적응증과 구분. 질산염·riociguat 병용 금기 및 α-차단제 병용 시 저혈압 위험 확인 <mark style="color:$info;">[AUA 2025]</mark>
 * Phytotherapeutics : saw palmetto·quercetin·pollen extract를 보조적으로 고려 가능(AUA 조건부 권고, 근거 B). 연구에 사용한 추출물·표준화 제형의 결과를 성분·함량이 다른 국내 건강기능식품 전체에 일반화하지 않음 <mark style="color:$info;">[AUA 2025]</mark>
 
 **골반저근 근육통**
@@ -413,44 +421,54 @@ _✽상병코드 확인과 약제 급여 인정은 별개임. 증상 코드를 �
 > **처방례 1. 급성 세균성 전립선염에 임질·클라미디아 감염이 의심되는 경우의 STI 추가 치료**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 또는 IV 1회 (체중 <100 ㎏)
-> 체중 ≥100 ㎏이면 트리악손 주 1 g  IV 1회
-> 독시사이클린 100 ㎎/C  1C bid  7일간 (C. trachomatis 배제 안 된 경우)
+> 트리악손주사 500 ㎎  IM 또는 IV 1회 (체중 ＜100 ㎏)
+> 체중 ≥100 ㎏이면 트리악손주사 500 ㎎/병  2병(총 1 g)  IV 1회
+> 국제독시사이클린하이클레이트수화물캡슐 100 ㎎/C  1C bid  7일간 (C. trachomatis 배제 안 된 경우)
 > ```
+>
+> 약제 정보: [트리악손주사 500 ㎎](https://www.health.kr/drug/A11A2140A0160) · [국제독시사이클린하이클레이트수화물캡슐 100 ㎎](https://www.health.kr/drug/A11A0300A0226)
 >
 > _✽중간뇨 배양과 임질·클라미디아 첫소변 NAAT를 먼저 채취. 위 두 약제는 동반 비복잡성 STI 치료를 위한 **추가 처방**이며, 이것만으로 급성 세균성 전립선염 치료를 끝내지 않음. 전립선염의 원인균·중증도에 맞춘 별도 항생제 계획을 즉시 세우고 배양 결과에 따라 조정. STI의 성 파트너 평가·치료와 HIV·매독 검사도 고려. Ceftriaxone은 국내 학회 해설의 100 ㎏ 기준을 적용(CDC 단순 임질은 150 ㎏). IM용 lidocaine 조제액은 IV 투여 금지; 이미 ceftriaxone 정주 중이면 기계적으로 중복 투여하지 않음_
 
 > **처방례 2. 안정적인 경증 급성 세균성 전립선염, 장내세균 감염 의심·외래 치료 가능**
 >
 > ```
-> 씨프로바이 250 ㎎/T  2T bid 식간  14일 후 재평가
+> 씨프로바이정 250 ㎎/T  2T bid 식간  14일 후 재평가
 > ```
 >
-> _✽치료 전 중간뇨 배양 채취. 이전 배양·지역 내성률·최근 6개월 FQ 노출을 확인. 내성이 높거나 최근 FQ 사용력이 있으면 이 처방을 경험적으로 적용하지 말고 초기 정주 치료·병원 평가를 고려. 결과에 따라 조정. 48시간 이내 초기 임상 경과를 확인하며, 14일 시점에 종료 또는 추가 14일 치료를 결정(전립선 침범·중증도·합병증에 따라 총 2\~4주 고려). 지속 발열·악화 시 기간만 연장하지 말고 즉시 재평가. TMP/SMX는 감수성 확인 시 대안_
+> 약제 정보: [씨프로바이정 250 ㎎](https://www.health.kr/drug/2019081900007)
+>
+> _✽치료 전 중간뇨 배양 채취. 이전 배양·지역 내성률·최근 FQ 노출(EAU 6개월, IDSA 12개월)을 확인. 내성이 높거나 최근 FQ 사용력이 있으면 이 처방을 경험적으로 적용하지 말고 초기 정주 치료·병원 평가를 고려. 결과에 따라 조정. 48시간 이내 초기 임상 경과를 확인하며, 14일 시점에 종료 또는 추가 14일 치료를 결정(전립선 침범·중증도·합병증에 따라 총 2\~4주 고려). 지속 발열·악화 시 기간만 연장하지 말고 즉시 재평가. TMP/SMX는 감수성 확인 시 대안_
 
 > **처방례 3. 만성 세균성 전립선염**
 >
 > ```
-> 크라비트 500 ㎎/T  1T qd  28일 후 재평가 (CrCl >80 ㎖/min인 예)
-> 부루펜 200 ㎎/T  2T tid 식후 필요 시  최대 3일간
+> 크라비트정 500 ㎎/T  1T qd  28일 후 재평가 (CrCl ＞80 ㎖/min인 예)
+> 부루펜정 200 ㎎/T  2T tid 식후 필요 시  최대 3일간
 > ```
+>
+> 약제 정보: [크라비트정 500 ㎎](https://www.health.kr/drug/A11AOOOOO7621) · [부루펜정 200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽감수성 확인 및 국내 제품의 신기능별 감량표 적용. 크라비트의 국내 허가 기간은 28일, EAU의 4\~6주와 구분. 부루펜은 항생제 기간 내내 정규 복용하는 처방이 아니며 최소 유효 기간 사용. 4\~6주 후에도 증상·배양 양성이 지속되면 재감염·농양·폐쇄 등 원인을 평가하고, 감수성에 따라 치료 변경 또는 전문가 의뢰를 고려. 항생제를 일률적으로 3개월까지 연장하지 않음_
 
 > **처방례 4. 만성 골반통증증후군 - 배뇨 증상 우세형**
 >
 > ```
-> 하루날 디 0.2 ㎎/T  1T qd 식후
+> 하루날디정 0.2 ㎎/T  1T qd 식후
 > 반응·내약성에 따라 0.4 ㎎ qd 고려
 > ```
+>
+> 약제 정보: [하루날디정 0.2 ㎎](https://www.health.kr/drug/A11AOOOOO9776)
 >
 > _✽배뇨 증상 우세형에서의 선택적 처방이며 CP/CPPS 목적은 허가 외 사용. 항우울제·신경병증성 통증 약제를 자동 병용하지 않음. 기립저혈압·어지럼을 확인하고 4\~6주부터 반응을 평가하며 효과가 없으면 진단·증상 영역을 재검토._
 
 > **처방례 5. 신경병증성 통증 소견을 동반한 CP/CPPS의 선택적 약물 시험**
 >
 > ```
-> 리리카 75 ㎎/C  1C bid (신기능 정상 성인의 선택적 시작 용량 예)
+> 리리카캡슐 75 ㎎/C  1C bid (신기능 정상 성인의 선택적 시작 용량 예)
 > ```
+>
+> 약제 정보: [리리카캡슐 75 ㎎](https://www.health.kr/drug/A11AOOOOO8537)
 >
 > _✽CP/CPPS 목적은 허가 외 사용이며, 전체 환자에서 효과가 확립된 표준약이 아니므로 통증 소견·환자 선호에 따라 선택하고, 신장애 감량·졸림·부종을 확인. 중단할 때는 갑자기 끊지 말고 최소 1주 이상 감량. 4\~6주 반응이 없으면 저강도 체외충격파 치료(LI-ESWT) 또는 통증클리닉/다학제 의뢰를 고려; 골반저근 압통이 동반되면 골반저 물리치료 병행. phytotherapy를 고려한다면 quercetin 등 연구 제제와 성분·함량·표준화가 같은지 확인. Diosmin/hesperidin 제제는 성분이 달라 quercetin 연구 결과를 그대로 적용할 수 없음_
 
@@ -475,6 +493,12 @@ _✽상병코드 확인과 약제 급여 인정은 별개임. 증상 코드를 �
 > * Ciprofloxacin을 우유·요구르트·칼슘 강화음료만으로 복용하지 않음; 식사에 포함된 칼슘을 모두 제한할 필요는 없음
 > * 근이완제 tizanidine, NSAID ketoprofen/dexketoprofen 등은 ciprofloxacin 병용 금기임을 확인
 
+> **선택 약제별 복약법**
+>
+> * Doxycycline은 충분한 물과 함께 복용하고 최소 30분간 눕지 않으며 취침 최소 1시간 전에 복용. 철분·제산제 등과 복용 간격을 확인하고 햇빛 노출에 주의
+> * Tamsulosin 복용 초기에는 천천히 일어서고 어지럼·실신에 주의. 백내장 수술 전 현재·과거 복용력을 알림
+> * Pregabalin은 졸림·어지럼을 유발할 수 있어 반응을 알기 전 운전·위험 작업을 피함. 술·다른 진정제와 병용을 피하고 중단은 최소 1주 이상 감량
+>
 > **CP/CPPS는 통증·기능·삶의 질의 회복을 함께 목표로 함**
 >
 > * 단일 약제로 극적인 효과를 기대하기보다, 배뇨·통증·골반저근·심리사회 등 우세한 증상 영역에 맞춘 다면적 치료를 함께 시행해야 함
@@ -492,31 +516,31 @@ _✽상병코드 확인과 약제 급여 인정은 별개임. 증상 코드를 �
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-_확인 기준일 : 2026-10-28. 지침 권고·연구 용법은 국내 제품별 허가·급여와 구분._
+_확인 기준일 : 2026-11-11. 지침 권고·연구 용법은 국내 제품별 허가·급여와 구분._
 
 ### 임상 근거
 
-* EAU. [Urological Infections 2026 — bacterial prostatitis·systemic UTI](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
+* EAU. [Urological Infections 2026 - bacterial prostatitis·systemic UTI](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 * AUA. [Diagnosis and Management of Male Chronic Pelvic Pain, 2025](https://www.auanet.org/guidelines-and-quality/guidelines/male-chronic-pelvic-pain); [공식 지침 PDF](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/CPP%20Unabridged%20041025.pdf).
-* EAU. [Chronic Pelvic Pain 2026 — management](https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/management); [diagnostic evaluation](https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/diagnostic-evaluation).
+* EAU. [Chronic Pelvic Pain 2026 - management](https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/management); [diagnostic evaluation](https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/diagnostic-evaluation).
 * NICE. [NG110: Prostatitis (acute), antimicrobial prescribing](https://www.nice.org.uk/guidance/ng110/chapter/Recommendations).
 * IDSA. [Complicated UTI Guideline 2025](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/); [AMR Gram-negative Infections Guidance 2026](https://www.idsociety.org/practice-guideline/amr-guidance/).
-* Kulkarni PA, et al. [State-of-the-Art Review: Diagnosis and Management of Acute and Chronic Bacterial Prostatitis](https://pubmed.ncbi.nlm.nih.gov/41657226/). Clin Infect Dis. 2026;82:1–13. doi:10.1093/cid/ciaf483.
-* Kang CI, et al. [Clinical Practice Guidelines for the Antibiotic Treatment of Community-Acquired Urinary Tract Infections](https://pmc.ncbi.nlm.nih.gov/articles/PMC5895837/). Infect Chemother. 2018;50:67–100.
-* 대한요로생식기감염학회·질병관리청. [성매개감염 진료지침 2023](https://www.uti.or.kr/include/pdf/KOREAN_STI_GUIDELINES_2023.pdf); Yang HJ, et al. [국내 임질 지침 해설](https://www.icurology.org/DOIx.php?id=10.4111/icu.20230265). Investig Clin Urol. 2024;65:1–8.
-* Pontari MA, et al. [Pregabalin for CP/CPPS: randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC3767281/). Arch Intern Med. 2010;170:1586–1593.
-* Karaiskos I, et al. [Oral fosfomycin for the treatment of chronic bacterial prostatitis](https://pubmed.ncbi.nlm.nih.gov/30796442/). J Antimicrob Chemother. 2019;74:1430–1437. doi:10.1093/jac/dkz015. (관찰연구)
-* Propert KJ, et al. [Responsiveness of the NIH-CPSI](https://pubmed.ncbi.nlm.nih.gov/16468084/). Qual Life Res. 2006;15:299–305; BAUS. [NIH-CPSI 원문 서식](https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/NIH-CPSI.pdf).
-* Suskind AM, et al. [RICE male study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3894747/). J Urol. 2013;189:141–145.
+* Kulkarni PA, et al. [State-of-the-Art Review: Diagnosis and Management of Acute and Chronic Bacterial Prostatitis](https://pubmed.ncbi.nlm.nih.gov/41657226/). Clin Infect Dis. 2026;82:1-13. doi:10.1093/cid/ciaf483.
+* Kang CI, et al. [Clinical Practice Guidelines for the Antibiotic Treatment of Community-Acquired Urinary Tract Infections](https://pmc.ncbi.nlm.nih.gov/articles/PMC5895837/). Infect Chemother. 2018;50:67-100.
+* 대한요로생식기감염학회·질병관리청. [성매개감염 진료지침 2023](https://www.uti.or.kr/include/pdf/KOREAN_STI_GUIDELINES_2023.pdf); Yang HJ, et al. [국내 임질 지침 해설](https://www.icurology.org/DOIx.php?id=10.4111/icu.20230265). Investig Clin Urol. 2024;65:1-8.
+* Pontari MA, et al. [Pregabalin for CP/CPPS: randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC3767281/). Arch Intern Med. 2010;170:1586-1593.
+* Karaiskos I, et al. [Oral fosfomycin for the treatment of chronic bacterial prostatitis](https://pubmed.ncbi.nlm.nih.gov/30796442/). J Antimicrob Chemother. 2019;74:1430-1437. doi:10.1093/jac/dkz015. (관찰연구)
+* Propert KJ, et al. [Responsiveness of the NIH-CPSI](https://pubmed.ncbi.nlm.nih.gov/16468084/). Qual Life Res. 2006;15:299-305; BAUS. [NIH-CPSI 원문 서식](https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/NIH-CPSI.pdf).
+* Suskind AM, et al. [RICE male study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3894747/). J Urol. 2013;189:141-145.
 
-* CDC. [STI Treatment Guidelines — urethritis and cervicitis](https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm).
+* CDC. [STI Treatment Guidelines - urethritis and cervicitis](https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm).
 
 ### 허가·급여 및 질병분류 확인 자료
 
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/index); [크라비트정500밀리그람 허가사항 — 품목기준코드 200600109](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600109); [하루날디정0.2밀리그람 — 품목기준코드 200606210](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606210).
-* 식품의약품안전처. [씨프로바이정250밀리그램 — 품목기준코드 201905731](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905731); [리리카캡슐75밀리그램 — 품목기준코드 200511057](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511057).
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/index); [크라비트정500밀리그람 허가사항 - 품목기준코드 200600109](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600109); [하루날디정0.2밀리그람 - 품목기준코드 200606210](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606210).
+* 식품의약품안전처. [씨프로바이정250밀리그램 - 품목기준코드 201905731](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905731); [리리카캡슐75밀리그램 - 품목기준코드 200511057](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511057).
 * 건강보험심사평가원. [약제 급여기준 조회](https://www.hira.or.kr/). CP/CPPS 목적 α-차단제·tadalafil·신경병증성 통증 약제의 급여는 동반 질환·개별 기준에 따라 별도 확인하며, 허가 외 사용이나 상병코드 기재만으로 급여를 보장하지 않음.
-* 한국표준질병·사인분류 제9차(KCD-9). 사용자 제공 「KCD9_251216(2).xlsx」의 「상병분류기호(전체)」·「상병분류기호(완전코드)」 시트로 코드·명칭·완전코드 여부 대조.
+* 한국표준질병·사인분류 제9차(KCD-9). 사용자 제공 「KCD9_251216(7).xlsx」의 「상병분류기호(전체)」·「상병분류기호(완전코드)」 시트로 코드·명칭·완전코드 여부 대조.
 * [통계분류포털](https://kssc.kostat.go.kr/). 검표(†)·별표(*) 이원분류는 원인 질환과 발현 병태의 분류 원칙에 따라 적용.
 
 ***
@@ -529,12 +553,12 @@ _확인 기준일 : 2026-10-28. 지침 권고·연구 용법은 국내 제품별
 전립선염이라는 이름은 세균이 전립선에 감염된 질환과, 감염이나 뚜렷한 전립선 염증이 확인되지 않아도 골반·회음부 통증이 지속되는 증후군을 함께 가리킬 때 쓰입니다. 두 경우 모두 배뇨 불편감이나 골반·회음부 통증을 일으키지만, 치료 방법과 경과는 크게 다릅니다.
 {% endhint %}
 
-#### <mark style="color:$primary;">왜 전립선염이 생기나요?</mark>
+### <mark style="color:$primary;">왜 전립선염이 생기나요?</mark>
 
 * 급성·만성 세균성 전립선염은 대장균 등 세균이 요도를 통해 전립선으로 들어가 감염을 일으켜 생깁니다.
 * 반면 만성 골반통증증후군은 세균 감염이 확인되지 않는 경우가 대부분입니다. 염증, 신경 과민, 골반 근육 긴장, 스트레스 등 여러 요인이 함께 작용하는 것으로 알려져 있으며, **감염이 없다고 해서 통증이 가짜인 것은 아닙니다.**
 
-#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
 * **오래 앉아 있거나 자전거 타는 것이 증상을 악화시킨다면 그 시간을 줄여보십시오.** 사람마다 증상을 유발하는 활동이 다를 수 있으니 본인에게 맞는 요인을 확인해 보십시오.
 * **카페인, 술, 맵고 신 음식이 증상을 악화시키면 줄이십시오.** 음식에 대한 반응은 개인마다 다르며, 증상과 관련이 없는 음식까지 광범위하게 제한할 필요는 없습니다.
@@ -542,17 +566,18 @@ _확인 기준일 : 2026-10-28. 지침 권고·연구 용법은 국내 제품별
 * 규칙적인 유산소 운동과 스트레스 관리는 증상 완화에 도움이 됩니다. 골반 근육이 과도하게 긴장된 경우에는 이완·호흡·스트레칭을 배우고, 케겔 운동을 무리하게 반복하지 마십시오.
 * 갈증과 활동량에 맞춰 적절히 물을 섭취하십시오. 증상이 악화될 정도로 과도하게 마시지는 않도록 합니다.
 
-#### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
+### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 세균 감염으로 인한 전립선염이라면, **의료진이 정한 기간과 재진 일정을 지켜 항생제를 복용**하십시오. 검사 결과에 따라 약이나 기간을 바꿀 수 있으므로 임의로 중단·연장하지 마십시오. 힘줄 통증·손발 저림 등 중대한 부작용이 의심되면 복용을 중단하고 바로 진료받으십시오.
+* 배뇨 개선약은 어지럼을 일으킬 수 있으므로 천천히 일어서십시오. Pregabalin 같은 통증약은 졸림을 일으킬 수 있으며 갑자기 끊지 말고 의료진과 감량하십시오.
 * 만성 골반통증증후군은 한 가지 약으로 한 번에 좋아지기보다, 배뇨·통증·근육 긴장 등 본인의 주된 불편함에 맞춘 여러 치료를 함께 시도하며 몇 주에 걸쳐 효과를 지켜보는 경우가 많습니다.
 
-#### <mark style="color:$primary;">만성 골반통증증후군, 왜 잘 낫지 않는 것 같나요?</mark>
+### <mark style="color:$primary;">만성 골반통증증후군, 왜 잘 낫지 않는 것 같나요?</mark>
 
 * 만성 골반통증증후군은 여러 요인이 함께 작용하여 호전과 악화가 반복될 수 있지만, **통증을 줄이고 일상생활을 회복할 수 있습니다.** 본인에게 효과 있는 치료를 찾고 주기적으로 조정하는 것이 중요합니다.
 * 통증이 오래 지속되면 신경이 통증에 더 예민해지는 경우가 있는데, 이는 "마음의 문제"가 아니라 실제로 몸에서 일어나는 변화입니다. 필요하다면 통증클리닉, 골반저 물리치료, 정신건강 상담 등 여러 전문 분야의 도움을 함께 받는 것이 회복에 도움이 됩니다.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 갑작스러운 고열·오한, 의식 변화와 함께 통증이 심해지는 경우
 * 외래 항생제 복용 시작 48시간 이내 호전이 시작되지 않는 경우에는 당일 다시 진료받으십시오

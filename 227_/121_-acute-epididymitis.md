@@ -101,20 +101,27 @@ _Ref. CDC STI Treatment Guidelines 2021; EAU Paediatric Urology 2026, Acute scro
 
 ```mermaid
 flowchart TD
-    Start([급성 부고환염 의심: 음낭 통증·종창]) --> Risk{응급 원인 의심?}
-    Risk -->|염전 배제 불가·괴저·불안정| Urgent([즉시 응급·비뇨의학과 평가])
-    Risk -->|가능성 낮음| Work[진찰·첫소변 NAAT·중간뇨 배양]
-    Work --> Severe{심한 통증·고열·농양 또는 경구 치료 불가?}
-    Severe -->|예| Admit([당일 전문과 평가·입원 고려])
-    Severe -->|아니요| Treat[원인 위험에 따른 경험적 항생제·대증 치료]
-    Treat --> Review{48~72시간 내 호전?}
-    Review -->|아니요·악화| Recheck([진단·감수성 재평가·필요 시 초음파·의뢰])
-    Review -->|예| Finish([처방 기간 완료·잔여 증상 및 파트너 추적])
+    Start["급성 부고환염 의심: 음낭 통증·종창"] --> Risk{"염전 배제 불가·괴저·혈역학적 불안정?"}
+    Risk -- "예" --> Urgent["즉시 응급·비뇨의학과 평가"]
+    Risk -- "아니오" --> Work["진찰·첫소변 NAAT·중간뇨 배양"]
+    Work --> Severe{"심한 통증·고열·농양 또는 경구 치료 불가?"}
+    Severe -- "예" --> Admit["당일 전문과 평가·입원 고려"]
+    Severe -- "아니오" --> Treat["원인 위험에 따른 경험적 항생제·대증 치료"]
+    Treat --> Review{"72시간 이내 호전?"}
+    Review -- "아니오·언제든 악화" --> Recheck["진단·감수성 재평가 및 초음파·의뢰 판단"]
+    Review -- "예" --> Finish["처방 기간 완료·잔여 증상 및 파트너 추적"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef treatment fill:#e3f2fd,stroke:#2196f3
+    class Risk,Severe,Review question
+    class Urgent emergency
+    class Admit,Treat,Recheck,Finish treatment
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>급성 음낭통 감별 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">✽초음파를 기다리느라 수술적 평가를 늦추지 않으며, 증상 시작 후 6시간이 지났어도 긴급 평가가 필요함. Ref. CDC STI Treatment Guidelines 2021; EAU Paediatric Urology 2026</mark></em></p>
+<p align="center"><em><mark style="color:$info;">✽초음파를 기다리느라 수술적 평가를 늦추지 않으며, 증상 시작 후 6시간이 지났어도 긴급 평가가 필요함. 저자 재구성(참고 문헌: CDC 2021; EAU 소아비뇨의학 2026)</mark></em></p>
 
 ***
 
@@ -128,7 +135,7 @@ flowchart TD
 * STI 관련 부고환염에서는 본인·파트너 모두 해당 치료를 완료하고 증상이 소실될 때까지 성관계 중단. 단순 클라미디아의 7일 치료 후 재개 기준을 본인 부고환염의 10일 치료에 그대로 적용하지 않음
   * CDC 부고환염 기준은 증상 발생 전 60일 이내 파트너 및 그 이전이라도 가장 최근 파트너를 평가·검사·추정 치료. 국내 클라미디아 지침은 유증상 8주·무증상 6개월로 차이가 있으므로 확진 병원체와 파트너 상황에 따라 [클라미디아](115_-4.chlamydia.md) 챕터 기준도 적용. 파트너는 직접 진료를 연계 <mark style="color:$info;">[CDC 2021; 국내 STI 2023]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 대증 치료 : 안정/활동 제한, 음낭 거상·지지(예: scrotal supporter), 냉찜질. 냉팩은 수건으로 감싸 한 번에 10~15분 정도 적용하고 피부에 직접 대거나 잠든 채 사용하지 않음. 통증·발열에 대한 약제는 아래 약물 치료 참조
 * 예방
@@ -142,7 +149,7 @@ flowchart TD
 
 ### <mark style="color:orange;">항생제 \[CDC 2021 중심]</mark>
 
-* 아래 처방례는 성인 기준이며 소아·청소년에는 그대로 적용하지 않음. 국내 크라비트정은 소아 및 18세 이하 성장 중인 청소년에서 금기이며, doxycycline은 국내 허가상 12세 미만 금기(테트라사이클린 계열의 전통적인 8세 기준과 구분)
+* 아래 처방례는 성인 기준이며 소아·청소년에는 그대로 적용하지 않음. 국내 [크라비트정](https://www.health.kr/drug/A11AOOOOO7621)은 소아 및 18세 이하 성장 중인 청소년에서 금기이며, doxycycline은 12세 미만 금기(테트라사이클린 계열의 전통적인 8세 기준과 구분)
 
 {% hint style="info" %}
 **Ceftriaxone 용량 - 지침별 차이**\
@@ -152,16 +159,16 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 국내 성매개감염 진료지침 2023의 임균 감염 치료 용량 : ceftriaxone 500 ㎎ IM/IV 또는 1 g IV ×1회(부고환염 전용 요법은 아님). 아래 처방례는 **CDC 2021 부고환염 전용 요법**에 따르며, 단순 임질 챕터의 국내 학회 100 kg 기준을 부고환염에 자동 대입하지 않음. Doxycycline 10일과 단순 클라미디아 7일 요법의 차이도 질환에 따른 것임
 {% endhint %}
 
-* STI(Chlamydia or Gonorrhea) 의심 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 ㎏은 1 g IM) <mark style="color:blue;">\[트리악손]</mark> plus doxycycline 100 ㎎ bid ×10d <mark style="color:blue;">\[독시사이클린]</mark>
+* STI(Chlamydia or Gonorrhea) 의심 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 ㎏은 1 g IM) <mark style="color:blue;">[트리악손](https://www.health.kr/drug/A11A2140A0160)</mark> plus doxycycline 100 ㎎ bid ×10d <mark style="color:blue;">[국제독시사이클린](https://www.health.kr/drug/A11A0300A0226)</mark>
 * Insertive anal sex 등으로 STI와 장내 균주가 모두 의심 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 ㎏은 1 g IM) plus levofloxacin 500 ㎎ qd ×10d
-* 장내 균주만 의심 : 임균 가능성이 낮고 임균을 배제한 경우 levofloxacin 500 ㎎ qd ×10d <mark style="color:blue;">\[크라비트]</mark> 단독. 요도 분비물이 없거나 그람염색이 음성이라는 이유만으로 무증상 임균 감염을 배제하지 말고 성접촉 병력·NAAT를 함께 고려; 배양·감수성 결과에 따라 조정
-* Mycoplasma genitalium이 검출되고 다른 원인 및 동반감염을 평가하여 관련 부고환염으로 판단한 경우 : moxifloxacin 400 ㎎ qd ×14d <mark style="color:blue;">\[아벨록스]</mark> (IUSTI 2021 및 BASHH 2025 복잡 감염 권고, Grade 1C). 균 검출만으로 부고환염의 원인이라고 단정하지 않으며 전문의와 상의하여 적용. 국내 아벨록스정 허가 적응증에 부고환염이 없어 허가 외 사용에 해당; QT 연장·저칼륨혈증·병용약 확인. BASHH 2025에서는 이 복잡 감염 요법 전에 doxycycline을 의무적으로 선행할 필요는 없다고 함. levofloxacin/ofloxacin은 M. genitalium 대체제로 권장하지 않음
+* 장내 균주만 의심 : 임균 가능성이 낮고 임균을 배제한 경우 levofloxacin 500 ㎎ qd ×10d <mark style="color:blue;">크라비트</mark> 단독. 요도 분비물이 없거나 그람염색이 음성이라는 이유만으로 무증상 임균 감염을 배제하지 말고 성접촉 병력·NAAT를 함께 고려; 배양·감수성 결과에 따라 조정
+* Mycoplasma genitalium이 검출되고 다른 원인 및 동반감염을 평가하여 관련 부고환염으로 판단한 경우 : moxifloxacin 400 ㎎ qd ×14d <mark style="color:blue;">[아벨록스](https://www.health.kr/drug/A11AGGGGA2033)</mark> (IUSTI 2021 및 BASHH 2025 복잡 감염 권고, Grade 1C). 균 검출만으로 부고환염의 원인이라고 단정하지 않으며 전문의와 상의하여 적용. 국내 아벨록스정 허가 적응증에 부고환염이 없어 허가 외 사용에 해당; QT 연장·저칼륨혈증·병용약 확인. BASHH 2025에서는 이 복잡 감염 요법 전에 doxycycline을 의무적으로 선행할 필요는 없다고 함. levofloxacin/ofloxacin은 M. genitalium 대체제로 권장하지 않음
 * 위 levofloxacin 500 ㎎ qd ×10일은 **CDC 부고환염 지침 요법**으로, 국내 크라비트정500㎎에는 부고환염이 별도 허가 적응증으로 명시되어 있지 않아 허가 외 사용임. 신기능·배양 감수성을 반영하며 국내 제품별 신기능 조정표를 따름; 만성 전립선염의 국내 허가 용법은 해당 챕터 참조 <mark style="color:$info;">[CDC 2021; 식약처 크라비트정500㎎]</mark>
 * 세팔로스포린 중증 과민반응, 특히 임균 치료에 ceftriaxone을 사용할 수 없는 경우는 전문과와 대안을 결정. 단순 임질의 gentamicin+azithromycin 단회 처방을 부고환염의 완결 요법으로 전용하지 않음 <mark style="color:$info;">[CDC 2021]</mark>
 * **FQ를 사용할 수 없는 경우의 EAU 2026 대안** : 임균을 배제하고 장내세균 감수성을 고려하여 선택. 임균 가능성이 남아 있으면 아래 요법만으로 치료하지 않음
   * 장내세균만 원인으로 판단 : TMP/SMX 160/800 ㎎ bid ×10~14일
   * 임균 위험이 낮으나 클라미디아와 장내세균을 모두 포괄해야 함 : doxycycline(초회 200 ㎎ 후 100 ㎎ bid) + TMP/SMX 160/800 ㎎ bid ×10~14일. 병원체와 반응에 따라 기간 조정
-  * TMP/SMX 160/800 ㎎은 국내 셉트린정(TMP 80 ㎎/SMX 400 ㎎) **1회 2정**에 해당. 국내 해당 제품에 부고환염은 별도 허가 적응증이 없어 허가 외 사용; 설폰아미드 과민반응·신기능·혈구감소·고칼륨혈증 및 ACE 억제제/ARB·spironolactone·warfarin 등 병용약 확인. 국내 허가상 CrCl 15~30 mL/min은 정상 용량의 1/2, 15 mL/min 이하는 투여가 권장되지 않음. 경계값·제형은 제품표 확인
+  * TMP/SMX 160/800 ㎎은 국내 [셉트린정](https://www.health.kr/drug/A11A0500A0065)(TMP 80 ㎎/SMX 400 ㎎) **1회 2정**에 해당. 국내 해당 제품에 부고환염은 별도 허가 적응증이 없어 허가 외 사용; 설폰아미드 과민반응·신기능·혈구감소·고칼륨혈증 및 ACE 억제제/ARB·spironolactone·warfarin 등 병용약 확인. CrCl 15~30 mL/min은 정상 용량의 1/2, 15 mL/min 이하는 투여가 권장되지 않음. 경계값·제형은 제품표 확인
 
 {% hint style="warning" %}
 **Levofloxacin 신기능 조정은 국내 제품표를 확인**
@@ -183,9 +190,9 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 ### <mark style="color:orange;">통증</mark>
 
 * NSAID는 최소 유효 용량·기간으로 선택하고 신·위장관·심혈관 위험 및 탈수를 평가. 여러 NSAID를 병용하지 않으며 FQ와 NSAID 병용 시 경련 위험 인자를 확인
-* NSAID : naproxen <mark style="color:blue;">\[낙센]</mark>, ibuprofen <mark style="color:blue;">\[부루펜]</mark>. 부루펜은 국내 허가상 위장관궤양/출혈, 중증 간·신·심장기능장애, 심한 고혈압, 기관지천식 및 aspirin/NSAID 유발 천식·두드러기·알레르기 반응 병력 등에서 금기. 궤양·출혈 병력 등 제품별 상세 금기는 통증 챕터 참조
-* dexibuprofen <mark style="color:blue;">\[애니펜]</mark> : NSAID 대안; 1회 300 ㎎, 1일 2~4회(최대 1,200 ㎎/일). 기저 신장·위장관·심혈관 위험 및 제품별 금기를 확인하여 단기간 사용
-* NSAID 사용이 어렵거나 추가 진통이 필요하면 제품별 허가사항을 확인한 뒤 acetaminophen 등을 고려(☞ [통증](../220_/001_-pain.md)). 타이레놀 ER은 다른 소염진통제와의 병용을 피하도록 되어 있으므로 NSAID에 일률적으로 추가하지 않음. 타이레놀 일반정·ER 등은 소화성궤양, 심한 간·신장애·심장기능저하, 아스피린 천식 또는 그 병력, TCA·바르비탈계 약물 복용 환자 등에서 국내 허가상 금기임. 궤양 병력과 현재 궤양, 감량 가능한 신기능 저하와 심한 신장애를 구분하며 NSAID 금기라는 이유로 자동 대체하지 않음(001 참조). 심한 통증은 약제를 강화하기 전에 염전·농양·경색을 재평가하며 opioid 복합제를 통상 처방으로 제시하지 않음
+* NSAID : naproxen <mark style="color:blue;">[낙센](https://www.health.kr/drug/A11A0120A0286)</mark>, ibuprofen <mark style="color:blue;">[부루펜](https://www.health.kr/drug/A11A0500A0097)</mark>. 부루펜은 위장관궤양/출혈, 중증 간·신·심장기능장애, 심한 고혈압, 기관지천식 및 aspirin/NSAID 유발 천식·두드러기·알레르기 반응 병력 등에서 금기. 궤양·출혈 병력 등 제품별 상세 금기는 통증 챕터 참조
+* dexibuprofen <mark style="color:blue;">[애니펜](https://www.health.kr/drug/A11AEEEEE0492)</mark> : NSAID 대안; 1회 300 ㎎, 1일 2~4회(최대 1,200 ㎎/일). 기저 신장·위장관·심혈관 위험 및 제품별 금기를 확인하여 단기간 사용
+* NSAID 사용이 어렵거나 추가 진통이 필요하면 제품별 허가사항을 확인한 뒤 acetaminophen 등을 고려(☞ [통증](../220_/001_-pain.md)). 타이레놀 ER은 다른 소염진통제와의 병용을 피하도록 되어 있으므로 NSAID에 일률적으로 추가하지 않음. 타이레놀 일반정·ER 등은 소화성궤양, 심한 간·신장애·심장기능저하, 아스피린 천식 또는 그 병력, TCA·바르비탈계 약물 복용 환자 등에서 금기임. 궤양 병력과 현재 궤양, 감량 가능한 신기능 저하와 심한 신장애를 구분하며 NSAID 금기라는 이유로 자동 대체하지 않음(☞ [통증](../220_/001_-pain.md)). 심한 통증은 약제를 강화하기 전에 염전·농양·경색을 재평가하며 opioid 복합제를 통상 처방으로 제시하지 않음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -215,7 +222,7 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
   * 클라미디아 부고환염 : A56.1†, 발현 코드 N51.1*
   * 결핵성 부고환염 : A18.14†, 발현 코드 N51.1*
 * †는 원인 질환, *는 달리 분류된 질환의 발현 코드로 *코드만 단독 사용하지 않음. 위 확진 원인 질환을 단순히 N45 또는 하부요로감염 코드 A54.0/A56.0으로 대체하지 않음
-* 확인 자료 : 제공된 KCD9_251216(2).xlsx의 「상병분류기호(완전코드)」 및 포함 항목
+* 확인 자료 : 제공된 KCD9_251216(7).xlsx의 「상병분류기호(완전코드)」 및 포함 항목
 
 ***
 
@@ -224,40 +231,48 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 > **처방례 1. STI(클라미디아/임균) 의심**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 1회 (체중 ＜150 ㎏)
-> 체중 ≥150 ㎏이면 트리악손 주 1 g  IM 1회
-> 국제독시사이클린 100 ㎎/C  1C bid  10일간
-> 애니펜 300 ㎎/T  1T tid 필요 시  3일간
+> 트리악손주사 500 ㎎  IM 1회 (체중 ＜150 ㎏)
+> 체중 ≥150 ㎏이면 트리악손주사 500 ㎎/병  2병(총 1 g)  IM 1회
+> 국제독시사이클린하이클레이트수화물캡슐 100 ㎎/C  1C bid  10일간
+> 애니펜정 300 ㎎/T  1T tid 필요 시  3일간
 > ```
+>
+> 약제 정보: [트리악손주사 500 ㎎](https://www.health.kr/drug/A11A2140A0160) · [국제독시사이클린하이클레이트수화물캡슐 100 ㎎](https://www.health.kr/drug/A11A0300A0226) · [애니펜정 300 ㎎](https://www.health.kr/drug/A11AEEEEE0492)
 >
 > _✽체중 ≥150 ㎏은 ceftriaxone 1 g IM. Lidocaine으로 조제한 IM 주사액은 IV 투여 금지. Ceftriaxone 500 ㎎ IM 1회 + doxycycline 100 ㎎ bid ×10d 병용(CDC 2021 부고환염 요법); 애니펜은 dexibuprofen으로 통증 조절용 NSAID_
 
 > **처방례 2. 장내 균주만 의심·임균 배제**
 >
 > ```
-> 크라비트 500 ㎎/T  1T qd  ×10d
-> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
+> 크라비트정 500 ㎎/T  1T qd  ×10d
+> 부루펜정 200 ㎎/T  2T tid 필요 시  3일간
 > ```
+>
+> 약제 정보: [크라비트정 500 ㎎](https://www.health.kr/drug/A11AOOOOO7621) · [부루펜정 200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽levofloxacin은 국내 해당 제품의 부고환염 허가 외 사용이며 신기능별 용량 조정. 단독 요법(CDC 2021); 장내세균 원인이 유력하고 임균 가능성을 평가·배제한 경우에만 사용. 배양·감수성 결과에 따라 조정_
 
 > **처방례 3. STI + 장내 균주 동시 의심**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 1회 (체중 ＜150 ㎏)
-> 체중 ≥150 ㎏이면 트리악손 주 1 g  IM 1회
-> 크라비트 500 ㎎/T  1T qd  ×10d
-> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
+> 트리악손주사 500 ㎎  IM 1회 (체중 ＜150 ㎏)
+> 체중 ≥150 ㎏이면 트리악손주사 500 ㎎/병  2병(총 1 g)  IM 1회
+> 크라비트정 500 ㎎/T  1T qd  ×10d
+> 부루펜정 200 ㎎/T  2T tid 필요 시  3일간
 > ```
+>
+> 약제 정보: [트리악손주사 500 ㎎](https://www.health.kr/drug/A11A2140A0160) · [크라비트정 500 ㎎](https://www.health.kr/drug/A11AOOOOO7621) · [부루펜정 200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽체중 ≥150 ㎏은 ceftriaxone 1 g IM. Levofloxacin은 국내 해당 제품의 부고환염 허가 외 사용. Ceftriaxone 500 ㎎ IM 1회 + levofloxacin 500 ㎎ qd ×10d 병용(CDC 2021 부고환염 요법); 임균·클라미디아와 장내세균이 모두 의심되는 경우(예: 삽입 항문성교). 국내 임균 지침과 유럽 부고환염 지침의 ceftriaxone 용량 차이는 상단 hint 참조_
 
 > **처방례 4. M. genitalium 관련 부고환염으로 판단된 경우**
 >
 > ```
-> 아벨록스 400 ㎎/T  1T qd  ×14d
-> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
+> 아벨록스정 400 ㎎/T  1T qd  ×14d
+> 부루펜정 200 ㎎/T  2T tid 필요 시  3일간
 > ```
+>
+> 약제 정보: [아벨록스정 400 ㎎](https://www.health.kr/drug/A11AGGGGA2033) · [부루펜정 200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽M. genitalium 검출만으로 인과관계를 확정하지 않음. 다른 원인·동반감염을 평가하고 M. genitalium 관련 복잡 감염으로 판단한 경우 IUSTI 2021/BASHH 2025 복잡 감염 권고(Grade 1C)에 따름. 국내 허가 외 사용으로 QT 연장 위험·병용약 확인 및 완치검사 여부를 포함한 추적 계획 필요_
 
@@ -267,11 +282,12 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 
 > **항생제, 처방된 기간까지 반드시 완료하세요**
 >
-> * 처방된 항생제는 정해진 용량과 기간에 따라 복용하고, 증상이 좋아졌다고 임의로 중단하거나 남은 약을 임의로 연장하지 않도록 안내
+> * 중대한 이상반응이 의심되면 복용을 중단하고 즉시 평가. 그 외에는 처방된 항생제를 정해진 용량과 기간에 따라 복용하고, 증상이 좋아졌다고 임의로 중단하거나 남은 약을 임의로 연장하지 않도록 안내
 > * 치료 시작 후 72시간 이내 호전이 없거나 악화하면 치료 종료를 기다리지 말고 재평가; 치료 종료 후에도 뚜렷한 부종·압통이 남거나 악화할 때도 평가 필요
 > * doxycycline 복용 시 충분한 물과 함께 복용, 앉거나 선 자세로 복용하며 취침 최소 1시간 전에 복용하도록 안내(식도 자극 예방); 광과민 반응 주의(자외선 차단)
 > * levofloxacin·moxifloxacin 복용 중 새로 생긴 힘줄 통증·부종, 저림·감각 이상 등이 나타나면 복용을 중단하고 즉시 처방의와 상담. levofloxacin은 신기능 저하 시 용량 조정 여부 확인
 > * doxycycline과 levofloxacin은 철분·아연·제산제 등과 2시간 이상 간격을 두고 복용; 다른 약도 복용한다면 약제별 간격 확인
+> * Moxifloxacin은 철·아연·제산제·수크랄페이트 등과 이러한 제제 복용 4시간 전 또는 8시간 후에 복용하며, 두근거림·실신 또는 심한 정신·신경 증상이 생기면 중단하고 즉시 평가
 > * NSAID는 항생제 복용 기간 내내 자동으로 복용하지 말고 필요한 최소 기간만 사용; 진통제를 늘려야 할 정도로 통증이 지속되면 재평가
 > * STI가 원인으로 확인/의심되는 경우, 본인과 성 파트너의 치료가 모두 완료되고 증상이 소실될 때까지 성관계 금지; 최근 성 파트너도 함께 검사·치료 받도록 안내
 
@@ -298,13 +314,13 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 
 * EAU. [Urological Infections 2026: acute epididymitis](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
-* Justice ED, et al. [The 2024 European guideline on epididymo-orchitis](https://pubmed.ncbi.nlm.nih.gov/40698982/). J Eur Acad Dermatol Venereol. 2026;40(2):166–173. doi:10.1111/jdv.20865 (온라인 2025).
+* Justice ED, et al. [The 2024 European guideline on epididymo-orchitis](https://pubmed.ncbi.nlm.nih.gov/40698982/). J Eur Acad Dermatol Venereol. 2026;40(2):166-173. doi:10.1111/jdv.20865 (온라인 2025).
 
-* Jensen JS, et al. [2021 European guideline on Mycoplasma genitalium infections](https://iusti.org/wp-content/uploads/2022/03/Jensen-et-al_Published.pdf). J Eur Acad Dermatol Venereol. 2022;36:641–650. doi:10.1111/jdv.17972.
+* Jensen JS, et al. [2021 European guideline on Mycoplasma genitalium infections](https://iusti.org/wp-content/uploads/2022/03/Jensen-et-al_Published.pdf). J Eur Acad Dermatol Venereol. 2022;36:641-650. doi:10.1111/jdv.17972.
 
 * 질병관리청·대한요로생식기감염학회. [성매개감염 진료지침 2023](https://stiguide.kr/wp-content/uploads/2023/04/Korean_STI_Guidelines_2023.pdf).
 
-* BASHH. Soni S, et al. [Mycoplasma genitalium guideline 2025](https://www.bashh.org/_userfiles/pages/files/bashh_mgen_2025.pdf). Int J STD AIDS. 2026;37(6):576–588. doi:10.1177/09564624251359054 (온라인 2025).
+* BASHH. Soni S, et al. [Mycoplasma genitalium guideline 2025](https://www.bashh.org/_userfiles/pages/files/bashh_mgen_2025.pdf). Int J STD AIDS. 2026;37(6):576-588. doi:10.1177/09564624251359054 (온라인 2025).
 
 * EAU/ESPU. [Paediatric Urology 2026: Acute scrotum](https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum).
 
@@ -312,14 +328,14 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 
 ### ＜허가·급여 확인 자료＞
 
-* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태(허가 외 사용의 급여 인정 여부와는 별개). 크라비트정500밀리그람, 아벨록스정400밀리그람, 국제독시사이클린하이클레이트수화물캡슐100밀리그램, 셉트린정, 애니펜정300밀리그램, 부루펜정200밀리그램 대조(2026-10-28).
+* 식품의약품안전처. 의약품안전나라 - 국내 제품별 적응증·용법·금기 및 허가 상태(허가 외 사용의 급여 인정 여부와는 별개). 크라비트정500밀리그람, 아벨록스정400밀리그람, 국제독시사이클린하이클레이트수화물캡슐100밀리그램, 셉트린정, 애니펜정300밀리그램, 부루펜정200밀리그램 대조(2026-11-11).
   [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
 
-* 질병코드 확인 : 제공된 KCD9_251216(2).xlsx(2026년 시행 KCD-9), 상병분류기호(완전코드).
+* 질병코드 확인 : 제공된 KCD9_251216(7).xlsx(2026년 시행 KCD-9), 상병분류기호(완전코드).
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **부고환염, 대부분 항생제 치료로 잘 낫습니다**
@@ -327,20 +343,20 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 부고환염은 고환 뒤쪽에 있는 '부고환'이라는 관에 염증이 생기는 질환입니다. 방광염처럼 세균 감염이 원인인 경우가 많고, 적절한 항생제 치료를 받으면 대부분 좋아집니다.
 {% endhint %}
 
-#### <mark style="color:$primary;">왜 생기나요?</mark>
+### <mark style="color:$primary;">왜 생기나요?</mark>
 
 * 요로의 장내세균이나 성 접촉을 통해 옮는 세균(클라미디아·임균 등)이 원인이 될 수 있습니다. 나이만으로 원인을 단정할 수 없어 검사와 병력을 함께 봅니다.
 * 드물게 감염이 없는 염증도 생길 수 있지만, 감염을 평가한 뒤 판단합니다.
 * 성매개감염이 원인이라면 성 파트너도 검사·치료가 필요합니다.
 
-#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
 * **음낭을 받쳐 올려주는 서포터(scrotal supporter)를 착용하십시오.** 통증과 부종을 줄여줍니다.
 * **최대한 안정을 취하고 심한 신체 활동은 피하십시오.**
 * **초기에는 냉찜질을 하십시오.** 냉팩은 수건에 감싸 한 번에 10~15분 정도 사용하고 피부에 직접 대거나 잠든 채 사용하지 마십시오.
 * 불편감을 악화시키는 활동은 회복될 때까지 줄이십시오. 배뇨장애가 있다면 진료 시 알려주십시오.
 
-#### <mark style="color:$primary;">항생제는 어떻게 써야 하나요?</mark>
+### <mark style="color:$primary;">항생제는 어떻게 써야 하나요?</mark>
 
 * **처방된 항생제는 정해진 용량과 기간에 따라 복용하고, 증상이 좋아졌다고 임의로 중단하거나 남은 약을 임의로 연장하지 마십시오.** 중간에 끊으면 치료가 불완전해지고 재발할 수 있습니다.
 * 원인이 성 접촉으로 인한 감염으로 확인·의심되는 경우, **본인과 성 파트너의 치료가 모두 끝나고 증상이 없어질 때까지 성관계를 피하십시오.** 최근 성 파트너도 검사와 치료를 받아야 합니다.
@@ -348,7 +364,7 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 * 레보플록사신·목시플록사신 복용 중 힘줄이 아프거나 붓고, 저림·감각 이상이 새로 생기면 복용을 중단하고 즉시 처방의와 상담하십시오.
 * 통증은 수일 안에 호전되기 시작하지만 부기·불편감은 수 주간 남을 수 있습니다. 남은 증상만으로 항생제를 임의로 연장하지 말고 경과를 확인받으십시오.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * **갑자기 고환 통증이 매우 심해지거나 고환이 평소보다 위로 당겨 올라간 느낌이 들 때**
 * 심한 발열, 오한이 동반될 때

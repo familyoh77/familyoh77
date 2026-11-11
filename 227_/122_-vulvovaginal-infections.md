@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-_임상 근거 및 제품 정보 확인: 2026-10-28. 국제 지침의 권고 요법과 국내 제품별 허가사항이 다른 경우를 구분하여 기술함._
+_임상 근거 및 제품 정보 확인: 2026-11-11. 국제 지침의 권고 요법과 국내 제품별 허가사항이 다른 경우를 구분하여 기술함._
 
 * 비정상적인 질 분비물, 악취, 가려움, 작열감 등의 증상을 일으키는 감염, 염증, 또는 normal flora 변화와 관련된 외음질의 질환군
 * vaginosis - 질내균총 불균형이 중심이며 뚜렷한 염증은 대개 적음; vaginitis - 질 염증 소견 동반
@@ -96,10 +96,10 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 집락되�
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 골반통·하복통과 자궁경부 운동통·자궁 압통·부속기 압통 중 하나 이상; 발열은 필수 조건이 아님 <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">PID 평가·치료]</mark>
+* 골반통·하복통과 자궁경부 운동통·자궁 압통·부속기 압통 중 하나 이상; 발열은 필수 조건이 아님 <mark style="color:$warning;">\[당일 PID 평가·치료]</mark>
 * 폐경 후 새로운 질 출혈; 다량 출혈·실신·혈역학적 불안정 시에는 즉각 조치 <mark style="color:$warning;">\[수일 내 출혈 원인 평가]</mark>
 * 새로운 질·외음부 궤양·수포, 지속성 미란, 비정형 병변 또는 종괴 <mark style="color:$warning;">\[조기 STI 검사·종양 감별]</mark>
-* 면역저하 상태에서 심하거나 비정형적인 감염, 또는 소아에서 성매개감염·학대 가능성이 의심됨 <mark style="color:$warning;">\[</mark><mark style="color:$warning;">**당일**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">전문 평가]</mark>
+* 면역저하 상태에서 심하거나 비정형적인 감염, 또는 소아에서 성매개감염·학대 가능성이 의심됨 <mark style="color:$warning;">\[당일 전문 평가]</mark>
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -123,7 +123,7 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 집락되�
 * 배양 검사 : polymicrobial infection이 흔하므로 BV 진단을 위한 일상적 배양 검사는 권고하지 않음(단, 재발성 칸디다증에서 균종 확인 목적의 배양은 권고)
 * 질 분비물 생리식염수 습식 도말 : 움직이는 T. vaginalis, clue cell, 백혈구·방기저세포 등을 확인. 트리코모나스 습식 검경은 민감도가 낮고 채취 후 지연 시 더 낮아지므로 즉시 관찰하며, 음성이라도 의심되면 NAAT 시행
 * KOH 현미경 검사 : blastospore 또는 pseudohyphae 관찰 - 칸디다증 진단(민감도 약 50%로 낮아 임상적으로 의심되나 음성일 때 배양 검사 고려)
-* ✽골반통·하복통에 위 압통 소견이 동반되고 다른 원인으로 설명되지 않으면 PID 경험적 치료를 지체하지 않음. 임신 가능성이 있는 복통·출혈은 임신 검사와 자궁외임신 감별이 필요함 <mark style="color:$info;">\[CDC 2021, PID]</mark>
+* ✽골반통·하복통에 자궁경부 운동통·자궁 압통·부속기 압통 중 하나 이상이 동반되고 다른 원인으로 설명되지 않으면 PID 경험적 치료를 지체하지 않음. 임신 가능성이 있는 복통·출혈은 임신 검사와 자궁외임신 감별이 필요함 <mark style="color:$info;">\[CDC 2021, PID]</mark>
 * NAAT(핵산증폭검사) : 트리코모나스 진단에 우선 고려. 자궁경부 세포검사(Pap)에서 우연히 트리코모나스가 보고되면 민감한 진단 검사로 확인한 뒤 치료 <mark style="color:$info;">\[CDC 2021]</mark>
 * BV 분자진단은 일반적으로 증상성 여성에서 검증된 BV 알고리듬·패널을 사용. Gardnerella 단독 PCR 양성은 BV 확진이 아님. 다중 PCR에서 M. hominis·Ureaplasma spp.가 검출되더라도 이 결과만으로 질염 원인으로 단정하거나 제균하지 않음 <mark style="color:$info;">\[CDC 2021; IUSTI position statement 2018]</mark>
 * AV/DIV : 현미경에서 lactobacilli 감소, 염증·독성 백혈구, 방기저세포를 평가. 호기성 균 배양이나 pH 상승만으로 진단하지 않음
@@ -147,34 +147,39 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 집락되�
 ***
 
 ```mermaid
-graph TD
-    Start(["질 분비물·가려움·악취"]) --> RF{"Red Flags 확인"}
-    RF -- "해당" --> Urgent["위험도별 긴급 평가·치료"]
-    RF -- "해당 없음" --> Exam["진찰·pH·현미경 ± NAAT·배양"]
+flowchart TD
+    Start["질 분비물·가려움·악취"] --> RF{"응급 Red Flags?"}
+    RF -- "예" --> Urgent["즉각 평가·응급 의뢰"]
+    RF -- "아니오" --> Soon{"당일·수일 내 평가 항목?"}
+    Soon -- "예" --> Early["PID·출혈·병변 등 원인 평가 및 치료"]
+    Soon -- "아니오" --> Exam["진찰·pH·현미경 및 필요한 NAAT·배양"]
     Exam --> BV["BV: Amsel·Nugent·검증된 분자검사"]
     Exam --> VVC["VVC: 증상·염증과 효모 검출"]
     Exam --> TV["트리코모나스: NAAT·운동성 원충"]
     Exam --> Other["AV/DIV·위축·다른 원인"]
-    BV --> BVtx["BV 치료, 재발 시 억제·파트너 치료 검토"]
-    VVC --> VVCtx["azole계: 중증·재발·임신에 따라 용법 구분"]
+    BV --> BVtx["BV 치료 및 재발 시 억제·파트너 치료 검토"]
+    VVC --> VVCtx["중증·재발·임신에 따라 항진균 용법 선택"]
     TV --> TVtx["경구 치료·파트너 치료·3개월 재검"]
-    Other --> Reassess["원인별 치료 또는 전문의 의뢰"]
+    Other --> Reassess["원인 치료 또는 전문의 의뢰"]
     Exam -. "검사 음성·불일치·치료 실패" .-> Reassess
-    style RF fill:#fff9c4,stroke:#ffe082
-    style Exam fill:#fff9c4,stroke:#ffe082
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
+    classDef treatment fill:#e3f2fd,stroke:#2196f3
+    class RF,Soon question
+    class Urgent emergency
+    class Early,BVtx,VVCtx,TVtx,Reassess treatment
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Urgent fill:#ffccbc,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>질 분비물/외음질 증상 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. [CDC 2021; IUSTI 2023; ACOG 2025; NYSDOH 2026]. pH·분비물 외양은 보조 소견이며 정상 pH도 트리코모나스를 배제하지 못함. BV·VVC는 증상과 검사 결과를 함께 해석하고, 현미경 음성이라도 의심이 지속되면 NAAT·배양 등 추가 검사.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: CDC 2021; IUSTI 2023; ACOG 2025; NYSDOH 2026). pH·분비물 외양은 보조 소견이며 정상 pH도 트리코모나스를 배제하지 못함. BV·VVC는 증상과 검사 결과를 함께 해석하고, 현미경 음성이라도 의심이 지속되면 NAAT·배양 등 추가 검사.</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 위험 요인 회피 : 잦은 질 세척 중단, 금연, 성관계 시 콘돔 사용(질 내 제제 사용 중·후에는 제품별 라텍스 주의사항 확인)
 * 물리적/화학적 자극 회피 : 질 세정제, 향수 비누, 조이는 옷, 불필요한 질 내 제품 사용
@@ -187,7 +192,7 @@ graph TD
 
 {% hint style="info" %}
 **metronidazole·tinidazole 복용 중 금주 지침 업데이트**\
-CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하여 metronidazole·tinidazole 모두 금주가 의학적으로 필수는 아니라고 설명함. 그러나 **국내 처방 시에는 실제 제품의 첨부문서(허가사항)에 기재된 금주 기간을 확인하여 안내**할 것. 예를 들어 후라시닐정의 국내 복약 안내는 투여 중 및 종료 후 3일간 금주를 명시함 <mark style="color:$info;">\[CDC 2021; 국내 제품 안내]</mark>
+CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하여 metronidazole·tinidazole 모두 금주가 의학적으로 필수는 아니라고 설명함. 그러나 **국내 처방 시에는 실제 제품의 첨부문서(허가사항)에 기재된 금주 기간을 확인하여 안내**할 것. 예를 들어 [후라시닐](https://www.health.kr/drug/A11A0100A0080)정의 국내 복약 안내는 투여 중 및 종료 후 3일간 금주를 명시함 <mark style="color:$info;">\[CDC 2021; 국내 제품 안내]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">세균성 질증(Bacterial vaginosis)</mark>
@@ -201,15 +206,15 @@ CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하
 
 #### <mark style="color:$primary;">1차 선택제</mark>
 
-* metronidazole : 500 ㎎ bid ×7d <mark style="color:blue;">\[후라시닐]</mark>
-* metronidazole 겔 : 0.75%, 5 g 질 내 도포 qd ×5d <mark style="color:blue;">\[메로겔]</mark> - 국내 허가 용법은 5 g 1일 1\~2회 ×5일이며, 여기서는 지침의 1일 1회 요법을 제시
-* clindamycin 크림 : 2%, 5 g 질 내 도포 qd ×7d <mark style="color:blue;">\[크레오신 질크림]</mark>
+* metronidazole : 500 ㎎ bid ×7d <mark style="color:blue;">후라시닐</mark>
+* metronidazole 겔 : 0.75%, 5 g 질 내 도포 qd ×5d <mark style="color:blue;">[메로겔](https://www.health.kr/drug/2019020100013)</mark> - 국내 허가 용법은 5 g 1일 1\~2회 ×5일이며, 여기서는 지침의 1일 1회 요법을 제시
+* clindamycin 크림 : 2%, 5 g 질 내 도포 qd ×7d <mark style="color:blue;">[크레오신 질크림](https://www.health.kr/drug/A11ABBBBB1581)</mark>
 
 #### <mark style="color:$primary;">대체제</mark>
 
-* clindamycin : 300 ㎎ bid ×7d <mark style="color:blue;">\[훌그램]</mark>
+* clindamycin : 300 ㎎ bid ×7d <mark style="color:blue;">[훌그램](https://www.health.kr/drug/A11A1270A0184?view=leaflet)</mark>
 * ✽CDC의 clindamycin 질좌제 100 ㎎ qd ×3d는 국외 regimen임. 국내에서 사용 가능한 해당 함량의 질 내 제제가 확인되지 않아 상품명·처방례로 제시하지 않음
-* tinidazole : 2 g qd ×2d, 또는 1 g qd ×5d <mark style="color:blue;">\[티니다진]</mark> - 지침 요법이며 국내 처방 제품의 허가 용법·금주·임신·수유 제한을 별도로 확인
+* tinidazole : 2 g qd ×2d, 또는 1 g qd ×5d <mark style="color:blue;">[티니다진](https://www.health.kr/drug/A11A2070A0134)</mark> - 지침 요법이며 국내 처방 제품의 허가 용법·금주·임신·수유 제한을 별도로 확인
 * secnidazole 2 g 경구 과립 1회 요법(국외 요법) - 비용이 높고 장기 성적 자료가 제한적이어서 대체제로 분류 <mark style="color:$info;">\[CDC 2021]</mark>
 * ✽국외 비항생제 옵션 : dequalinium chloride 10 ㎎ 질정 qd ×6d는 2024년 무작위시험에서 초기 임상적 치유율에서 metronidazole 대비 비열등성을 보였음. 소규모·단기 결과를 장기 재발 예방 효과로 해석하지 않으며, 국내 처방례에는 포함하지 않음 <mark style="color:$info;">\[Raba 2024]</mark>
 
@@ -242,9 +247,9 @@ CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하
 
 #### <mark style="color:$primary;">Uncomplicated</mark>
 
-* 경구제 : fluconazole 150 ㎎ 1회 <mark style="color:blue;">\[푸루나졸]</mark> 또는 itraconazole 200 ㎎ bid ×1d <mark style="color:blue;">\[스포라녹스]</mark>(캡슐은 식사 직후 복용)
+* 경구제 : fluconazole 150 ㎎ 1회 <mark style="color:blue;">[대웅푸루나졸](https://www.health.kr/drug/A11AOOOOO9950)</mark> 또는 itraconazole 200 ㎎ bid ×1d <mark style="color:blue;">[스포라녹스](https://www.health.kr/drug/2021071200003)</mark>(캡슐은 식사 직후 복용)
 * 국소제(질 내) - 아래 clotrimazole 제품과 국외 제형·요법을 구분
-  * clotrimazole 질정 : 500 ㎎ 1정 1회 <mark style="color:blue;">\[카네스텐1 질정]</mark>; 100 ㎎ 1정 qd ×6d 또는 100 ㎎ 2정 qd ×3d <mark style="color:blue;">\[카네스텐 질정 100 ㎎]</mark>
+  * clotrimazole 질정 : 500 ㎎ 1정 1회 <mark style="color:blue;">[카네스텐1 질정](https://www.health.kr/drug/A11A1380A0054)</mark>; 100 ㎎ 1정 qd ×6d 또는 100 ㎎ 2정 qd ×3d <mark style="color:blue;">[카네스텐 100 ㎎](https://www.health.kr/drug/A11A1380A0032)</mark>
   * 국외 제형·요법(IUSTI 2023) - miconazole 질정 : 1200 ㎎ 1회 또는 400 ㎎ qd ×3d
   * 국외 제형·요법(IUSTI 2023) - econazole pessary : 150 ㎎ 1회
   * 국외 질용 크림 요법(CDC 2021) - clotrimazole 크림 : 1% 5 g 질 내 qd ×7\~14d 또는 2% 5 g 질 내 qd ×3d
@@ -289,7 +294,7 @@ CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하
 #### <mark style="color:$primary;">임신</mark>
 
 * 임신 중 VVC는 국소 azole계만 7일 사용. 비임신용 1회·3일 질정 요법을 그대로 적용하지 말고 임신부에게 적절한 질용 제형·기간을 선택하며, 국내 제품 첨부문서의 임부 사용 지침도 확인. clotrimazole 질정은 임신 중 삽입기구 사용을 피함. 경구 fluconazole 150 ㎎ 단회도 자연유산·선천기형 관련성 때문에 사용하지 않음 <mark style="color:$info;">\[CDC 2021]</mark>
-* ✽푸루나졸정의 국내 허가상 임부·임신하고 있을 가능성이 있는 여성 및 수유부는 금기임. 이는 가임 여성 전체를 금기로 의미하지는 않음. 국내 질칸디다증 허가 용법은 150 ㎎ 1회로, 위 중증·재발성의 다회·장기 요법은 해당 허가 용법과 다름. 다회 투여는 신기능·상호작용도 평가하며, 단회 요법과 신기능에 따른 용량 조절 원칙이 다름 <mark style="color:$info;">\[국내 제품 허가사항]</mark>
+* ✽푸루나졸정의 임부·임신하고 있을 가능성이 있는 여성 및 수유부는 금기임. 이는 가임 여성 전체를 금기로 의미하지는 않음. 국내 질칸디다증 허가 용법은 150 ㎎ 1회로, 위 중증·재발성의 다회·장기 요법은 해당 허가 용법과 다름. 다회 투여는 신기능·상호작용도 평가하며, 단회 요법과 신기능에 따른 용량 조절 원칙이 다름 <mark style="color:$info;">\[국내 제품 허가사항]</mark>
 
 ### <mark style="color:orange;">편모충 질염(Trichomonal vaginitis)</mark>
 
@@ -319,9 +324,9 @@ CDC 2021 지침은 metronidazole의 disulfiram 유사 반응 근거가 부족하
 
 * ✽Genitourinary Syndrome of Menopause(GSM)는 폐경 관련 외음질·하부요로 증상 전반을 포괄. 수유기의 저에스트로겐성 위축을 모두 GSM이라고 부르지는 않음
 * 국소(질 내) estrogen - 위축성 질염/GSM의 표준 치료. 전신 노출은 일반적으로 전신요법보다 낮지만 제형·용량·초기 위축 정도에 따라 차이가 있으며, 개별 제품의 국내 금기를 면제하는 의미는 아님
-  * estriol 0.5 ㎎ 질좌제 : 1일 1회 취침 시 질 내 삽입, 증상 호전까지 보통 3주 → 이후 유지 요법(주 2회) <mark style="color:blue;">\[오베스틴 질좌제]</mark>\
+  * estriol 0.5 ㎎ 질좌제 : 1일 1회 취침 시 질 내 삽입, 증상 호전까지 보통 3주 → 이후 유지 요법(주 2회) <mark style="color:blue;">[오베스틴 질좌제](https://www.health.kr/drug/A11ABBBBB2502)</mark>\
     ✽가능한 최소 기간·최소 용량으로 투여; 유지 요법 지속 여부 판단을 위해 2\~3개월마다 4주간 휴약 후 재평가 - 오베스틴 질좌제 제품 첨부문서 상 용법(다른 vaginal estrogen 제제는 첨부문서 별도 확인)
-  * estriol 0.03 ㎎ + Lactobacillus acidophilus 동결건조물 50 ㎎ 복합 질정 <mark style="color:blue;">\[지노프로 질정]</mark>, estriol 1 ㎎/g 질크림 <mark style="color:blue;">\[유센스 질크림]</mark> 등의 국내 제형이 있음. 함량·적응증·용법이 다르므로 오베스틴 용법을 그대로 적용하지 않으며, estrogen 함유 복합 질정을 일반 프로바이오틱스와 구분
+  * estriol 0.03 ㎎ + Lactobacillus acidophilus 동결건조물(현행 품목정보의 역가 표기 10,000 kIU) 복합 질정 <mark style="color:blue;">[지노프로 질정](https://www.health.kr/drug/A11ABBBBB2593)</mark>, estriol 1 ㎎/g 질크림 <mark style="color:blue;">[유센스 질크림](https://www.health.kr/drug/2023011800013)</mark> 등의 국내 제형이 있음. 함량·적응증·용법이 다르므로 오베스틴 용법을 그대로 적용하지 않으며, estrogen 함유 복합 질정을 일반 프로바이오틱스와 구분
 * 저용량 질 estrogen만으로 GSM을 치료하는 경우 통상 progestogen을 일률적으로 병용하지 않음. 불규칙 출혈·폐경 후 출혈은 별도로 평가하며, 이를 전신 estrogen 단독요법에 적용하지 않음 <mark style="color:$info;">\[대한폐경학회 2025]</mark>
 * ospemifene(경구 SERM), prasterone(DHEA) 질 내 제제 : 국외 GSM 치료 옵션. 대한폐경학회 2025 지침에서는 국내 미허가로 기술함 <mark style="color:$info;">\[대한폐경학회 2025]</mark>
 * ✽국내 오베스틴질좌제는 유방암 및 estrogen 의존성 종양의 현재·의심·병력, 정맥 혈전색전증 현재·병력, 원인 미상 생식기 출혈, 임부·수유부 등이 금기임. 유방암 생존자의 저용량 질 estrogen에 관한 국외 지침의 개별화 권고를 오베스틴의 허가 내 사용으로 해석하지 않으며, 비호르몬 치료 우선 후 전문기관에서 판단함 <mark style="color:$info;">\[국내 제품 허가사항; AUA/SUFU/AUGS 2025]</mark>
@@ -352,7 +357,7 @@ N77.1\* 달리 분류된 감염성 및 기생충성 질환에서의 질염, 외�
 
 N95.2 폐경후 위축성 질염
 
-✽BV는 임상 경과에 따라 N76.0 또는 N76.1 등을 선택. †는 원인질환, \*는 발현 부위의 추가 분류를 뜻하며 두 코드를 모든 상황에서 의무적으로 병기한다는 의미는 아님. 2026년 적용 분류는 KCD-9이며, 최종 청구 시 현행 분류표·색인과 기관의 청구 기준을 확인
+✽KCD9_251216(7).xlsx의 전체·완전코드 시트와 대조(2026-11-11). BV는 임상 경과에 따라 N76.0 또는 N76.1 등을 선택. †는 원인질환, \*는 발현 부위의 추가 분류를 뜻하며 두 코드를 모든 상황에서 의무적으로 병기한다는 의미는 아님. 2026년 적용 분류는 KCD-9이며, 최종 청구 시 현행 분류표·색인과 기관의 청구 기준을 확인
 
 ***
 
@@ -361,54 +366,68 @@ N95.2 폐경후 위축성 질염
 > **처방례 1. 세균성 질증(경구)**
 >
 > ```
-> 후라시닐 250 ㎎/T  4T  #2  ×7d
+> 후라시닐정 250 ㎎/T  1회 2T(500 ㎎)  bid  ×7일 (총 28T)
 > ```
+>
+> 약제 정보: [후라시닐정 250 ㎎](https://www.health.kr/drug/A11A0100A0080)
 >
 > _✽1차 선택 regimen 중 하나를 단독으로 선택하는 것이 원칙(경구·국소 병용이 표준 regimen은 아님); 금주는 국내 후라시닐정 첨부문서의 투여 중·종료 후 기간을 안내_
 
 > **처방례 1-1. 세균성 질증(국소, 경구 선호하지 않는 경우)**
 >
 > ```
-> 크레오신 질크림 40 g/tube  5 g  취침 시 질 내 도포  ×7d
+> 크레오신질크림 2% 40 g/tube  5 g  취침 시 질 내 도포  ×7d
 > ```
+>
+> 약제 정보: [크레오신질크림 2%](https://www.health.kr/drug/A11ABBBBB1581)
 >
 > _✽오일 기반 제제로 사용 중 및 종료 후 5일간 라텍스 콘돔/다이아프램 약화 가능 <mark style="color:$info;">\[CDC 2021]</mark>_
 
 > **처방례 2. 외음질 칸디다증, Uncomplicated(경구)**
 >
 > ```
-> 푸루나졸 150 ㎎/T  1T  1회
+> 대웅푸루나졸정 150 ㎎/T  1T  1회
 > ```
 >
-> _✽비임신 성인 예시. 푸루나졸정은 임부·임신하고 있을 가능성이 있는 여성·수유부에게 국내 허가상 금기. 경구·국소 중 하나를 선택하며, 국소 증상이 뚜렷하면 국소제 단독 처방도 가능_
+> 약제 정보: [대웅푸루나졸정 150 ㎎](https://www.health.kr/drug/A11AOOOOO9950)
+>
+> _✽비임신 성인 예시. 푸루나졸정은 임부·임신하고 있을 가능성이 있는 여성·수유부에게 금기. 경구·국소 중 하나를 선택하며, 국소 증상이 뚜렷하면 국소제 단독 처방도 가능_
 
 > **처방례 2-1. 외음질 칸디다증, Uncomplicated(국소)**
 >
 > ```
-> 카네스텐1 질정 500 ㎎/T  1T  취침 시 질 내 삽입, 1회
+> 카네스텐1질정 500 ㎎/T  1T  취침 시 질 내 삽입, 1회
 > ```
+>
+> 약제 정보: [카네스텐1질정 500 ㎎](https://www.health.kr/drug/A11A1380A0054)
 
 > **처방례 3. 트리코모나스 질염**
 >
 > ```
-> 후라시닐 250 ㎎/T  4T  #2  ×7d
+> 후라시닐정 250 ㎎/T  1회 2T(500 ㎎)  bid  ×7일 (총 28T)
 > ```
 >
-> _✽국내 트리코모나스증 허가 용법(250 ㎎ bid ×10d)과 다른 국내 STI 2023·CDC 권고 요법임. 임신 첫 3개월 이내는 후라시닐정 국내 허가상 금기. 4T #2 ×7d = 1회 500 ㎎ bid, 1일 1,000 ㎎(여성 표준 용량); 여성에서는 2 g 단회 요법보다 7일 요법이 권고됨 <mark style="color:$info;">\[CDC 2021]</mark>; T. vaginalis는 요도·Skene선까지 침범하므로 국소 질정/좌제만으로는 치료 농도에 도달하지 못함 - 경구 전신 치료가 핵심이며 국소 항균제 병용은 권고되지 않음 <mark style="color:$info;">\[CDC 2021]</mark>; 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함_
+> 약제 정보: [후라시닐정 250 ㎎](https://www.health.kr/drug/A11A0100A0080)
+>
+> _✽국내 트리코모나스증 허가 용법(250 ㎎ bid ×10d)과 다른 국내 STI 2023·CDC 권고 요법임. 임신 첫 3개월 이내는 후라시닐정 금기. 1회 2T ×하루 2회 ×7일 = 1회 500 ㎎ bid, 1일 1,000 ㎎(여성 표준 용량); 여성에서는 2 g 단회 요법보다 7일 요법이 권고됨 <mark style="color:$info;">\[CDC 2021]</mark>; T. vaginalis는 요도·Skene선까지 침범하므로 국소 질정/좌제만으로는 치료 농도에 도달하지 못함 - 경구 전신 치료가 핵심이며 국소 항균제 병용은 권고되지 않음 <mark style="color:$info;">\[CDC 2021]</mark>; 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함_
 
 > **처방례 4. 위축성 질염(폐경 후)**
 >
 > ```
-> 오베스틴 질좌제 0.5 ㎎/개  1개  취침 시 질 내 삽입  매일 ×3주 → 이후 주 2회
+> 오베스틴질좌제 0.5 ㎎/개  1개  취침 시 질 내 삽입  매일 ×3주 → 이후 주 2회
 > ```
+>
+> 약제 정보: [오베스틴질좌제 0.5 ㎎](https://www.health.kr/drug/A11ABBBBB2502)
 >
 > _✽가능한 최소 기간·최소 용량으로 투여; 유지요법 지속 중에도 2\~3개월마다 4주간 휴약 후 계속 투여 필요성을 재평가 - 오베스틴 질좌제 제품 첨부문서 상 용법; 오베스틴은 유방암·혈전색전증 병력, 원인 미상 출혈, 임부·수유부 등 국내 허가 금기가 있음. 유방암 병력의 난치성 GSM은 비호르몬 치료 우선 후 전문기관에서 개별 판단; 4\~6주 내 호전 없으면 부인과 의뢰_
 
 > **처방례 5. Aerobic vaginitis(현미경 진단 후 고려, 허가 외 사용)**
 >
 > ```
-> 크레오신 질크림 2%  5 g  취침 시 질 내 도포  ×7d
+> 크레오신질크림 2%  5 g  취침 시 질 내 도포  ×7d
 > ```
+>
+> 약제 정보: [크레오신질크림 2%](https://www.health.kr/drug/A11ABBBBB1581)
 >
 > _✽IUSTI 2023의 7\~21일 국소 clindamycin 요법 중 초기 7일 예시. AV 치료는 국내 허가 외 사용임. 현미경 소견과 염증·위축 정도로 치료를 개별화하며, 무반응 시 재평가·부인과 의뢰; steroid 병용은 진단 후 전문의가 판단_
 
@@ -423,16 +442,20 @@ N95.2 폐경후 위축성 질염
 
 > **주요 안전성**
 >
-> * 임신·수유 여부를 처방 전에 확인. 후라시닐정은 국내 허가상 임신 첫 3개월 이내 금기이며, 수유는 투여 중 및 투여 이후 24시간 이상 중단
+> * 임신·수유 여부를 처방 전에 확인. 후라시닐정은 임신 첫 3개월 이내 금기이며, 수유는 투여 중 및 투여 이후 24시간 이상 중단
 > * clindamycin 질크림도 전신 흡수 및 C. difficile 대장염 위험이 있음. 항생제 관련 대장염 병력에서는 피하고, 지속적·혈성 설사 시 사용 중단 후 평가
 > * warfarin 복용자는 metronidazole·fluconazole 병용 시 INR 상승에 유의
-> * 메로겔도 국내 허가상 수유부 금기이며 투여 중 수유 중단을 명시. 국소제의 낮은 전신 노출만으로 안전성을 단정하지 않음
+> * 메로겔도 수유부 금기이며 투여 중 수유 중단을 명시. 국소제의 낮은 전신 노출만으로 안전성을 단정하지 않음
 > * metronidazole 장기·고용량 치료 중 감각이상·운동실조 등 신경 증상, 또는 항균제 사용 중 지속적·혈성 설사는 즉시 평가
 
 > **질 크림/좌제와 라텍스 제품**
 >
 > * clindamycin 질크림은 사용 중 및 사용 후 5일, clindamycin 질좌제는 사용 후 72시간 동안 라텍스 제품을 피함. 항진균 질 제제는 제품별 주의사항 확인; 필요한 경우 다른 피임법을 사용하거나 성관계를 자제
 
+> **Fluconazole의 투여 일정 확인**
+>
+> * 단순 VVC의 150 ㎎ 1회, 중증의 72시간 간격 2회, 재발성 유도요법의 1·4·7일 투여와 주 1회 유지요법을 구분. 임의로 매일 반복 복용하지 않도록 실제 처방일을 지정
+>
 > **붕산(Boric acid) 처방 시 필수 안내**
 >
 > * 질 내 삽입 전용, 절대 경구 복용 금지(치명적 독성 가능) - 소아 접근 금지 보관
@@ -470,14 +493,14 @@ N95.2 폐경후 위축성 질염
 * 질병관리청·대한요로생식기감염학회. 성매개감염 진료지침 2023. 질염·트리코모나스 치료. [지침 원문](https://stiguide.kr/wp-content/uploads/2023/04/Korean_STI_Guidelines_2023.pdf)
 * CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. [Bacterial Vaginosis](https://www.cdc.gov/std/treatment-guidelines/bv.htm), [Vulvovaginal Candidiasis](https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm), [Trichomoniasis](https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm), [Pelvic Inflammatory Disease](https://www.cdc.gov/std/treatment-guidelines/pid.htm).
 * Sherrard J, et al. 2018 European (IUSTI/WHO) guideline on the management of vaginal discharge; minor revision 2023. AV/DIV·질분비물 감별·국외 질용 제형 요법. [지침 원문](https://iusti.org/wp-content/uploads/2023/04/IUSTI-vaginal-discharge-guidelines_2023.pdf)
-* Vodstrcil LA, et al. Male-Partner Treatment to Prevent Recurrence of Bacterial Vaginosis. N Engl J Med. 2025;392:947–957. doi:10.1056/NEJMoa2405404. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40043236/)
+* Vodstrcil LA, et al. Male-Partner Treatment to Prevent Recurrence of Bacterial Vaginosis. N Engl J Med. 2025;392:947-957. doi:10.1056/NEJMoa2405404. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40043236/)
 * ACOG. Concurrent Sexual Partner Therapy to Prevent Bacterial Vaginosis Recurrence. Clinical Practice Update. 2025. [ACOG 안내](https://www.acog.org/news/news-releases/2025/10/acog-recommends-concurrent-sexual-partner-treatment-recurrent-bacterial-vaginosis-first-time)
-* ISSVD. Partner treatment in women with bacterial vaginosis: an update to the International Society for the Study of Vulvovaginal Disease (ISSVD) recommendations. Sex Transm Infect. 2026;102:195–197. doi:10.1136/sextrans-2025-056813. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41741199/)
-* 대한폐경학회. The 2025 Menopausal Hormone Therapy Guidelines. J Menopausal Med. 2025;31:53–84. doi:10.6118/jmm.25103. GSM 치료·국내 사용 가능 약제. [원문](https://www.e-jmm.org/search.php?code=3165JMM\&id=10.6118%2Fjmm.25103\&vmode=FULL\&where=aview)
+* ISSVD. Partner treatment in women with bacterial vaginosis: an update to the International Society for the Study of Vulvovaginal Disease (ISSVD) recommendations. Sex Transm Infect. 2026;102:195-197. doi:10.1136/sextrans-2025-056813. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41741199/)
+* 대한폐경학회. The 2025 Menopausal Hormone Therapy Guidelines. J Menopausal Med. 2025;31:53-84. doi:10.6118/jmm.25103. GSM 치료·국내 사용 가능 약제. [원문](https://www.e-jmm.org/search.php?code=3165JMM\&id=10.6118%2Fjmm.25103\&vmode=FULL\&where=aview)
 * AUA/SUFU/AUGS. Genitourinary Syndrome of Menopause Guideline. 2025. [지침](https://www.auanet.org/guidelines-and-quality/guidelines/genitourinary-syndrome-of-menopause)
 * WHO. Recommendations for the treatment of Trichomonas vaginalis, Mycoplasma genitalium, Candida albicans, bacterial vaginosis and human papillomavirus (anogenital warts). 2024. [지침](https://www.who.int/publications/i/item/9789240096370)
 * NYSDOH AIDS Institute. Guidance: Partner Treatment to Prevent Recurrent Bacterial Vaginosis. 2026-02-19. 남성 파트너의 500 ㎎ 경구·2% 크림 병용 및 상담. [지침](https://www.hivguidelines.org/guideline/sti-bv/)
-* Horner P, et al. Should we be testing for urogenital Mycoplasma hominis, Ureaplasma parvum and Ureaplasma urealyticum in men and women? A position statement from the European STI Guidelines Editorial Board. J Eur Acad Dermatol Venereol. 2018;32:1845–1851. doi:10.1111/jdv.15146. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29924422/)
+* Horner P, et al. Should we be testing for urogenital Mycoplasma hominis, Ureaplasma parvum and Ureaplasma urealyticum in men and women? A position statement from the European STI Guidelines Editorial Board. J Eur Acad Dermatol Venereol. 2018;32:1845-1851. doi:10.1111/jdv.15146. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29924422/)
 * Raba G, et al. Efficacy of Dequalinium Chloride vs Metronidazole for the Treatment of Bacterial Vaginosis: A Randomized Clinical Trial. JAMA Netw Open. 2024;7:e248661. doi:10.1001/jamanetworkopen.2024.8661. [원문](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818221)
 * ISSVD. Recommendations for the Diagnosis and Treatment of Vaginitis. 2023. AV/DIV·질분비물·비감염성 원인 감별. [원문](https://www.issvd.org/application/files/1116/8424/6364/ISSVD_recommendations_for_the_diagnosis_and_treatment_of_vaginitis.pdf)
 * FDA. VIVJOA (oteseconazole) prescribing information. 국외 승인 대상과 생식독성 관련 금기. [허가정보](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/215888s002lbl.pdf)
@@ -524,13 +547,14 @@ N95.2 폐경후 위축성 질염
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
-* 처방된 기간을 다 채워 복용/사용하십시오. 증상이 먼저 좋아져도 중간에 중단하면 재발하기 쉽습니다.
+* 심한 발진·호흡곤란 또는 지속적·혈성 설사가 생기면 약 사용을 중단하고 즉시 진료받으십시오. 그 외에는 처방된 기간과 일정대로 복용/사용하십시오. 증상이 먼저 좋아져도 중간에 중단하면 재발하기 쉽습니다.
 * 하루 1회 사용하는 질정·질크림은 보통 취침 전 삽입합니다. 피부용 크림을 임의로 질 안에 넣지 마십시오. 임신 중 질정 사용 방법은 의료진의 안내를 받으십시오.
-* 처방 약에 따라 금주가 필요합니다. clindamycin 질크림 등은 라텍스 콘돔을 약하게 만들 수 있으므로 치료 중 성관계·피임 방법을 의료진과 상의하십시오.
-* 트리코모나스 질염으로 진단된 경우 파트너도 함께 치료받아야 하며, 그렇지 않으면 서로 재감염을 주고받을 수 있습니다.
+* 처방 약에 따라 금주가 필요합니다. Clindamycin 질크림은 사용 중 및 마지막 사용 후 5일 동안 라텍스 콘돔·다이아프램을 약하게 만들 수 있으므로 성관계·피임 방법을 의료진과 상의하십시오.
+* 트리코모나스 질염은 파트너도 함께 치료받고, **양쪽 모두 치료를 마치고 증상이 없어질 때까지 성관계를 피하십시오.**
 * 트리코모나스 질염 치료를 마친 후에는 증상이 없어도 약 3개월 뒤 재검사를 받는 것이 권장됩니다(재감염 확인 목적). 만약 치료 효과가 의심되어 더 일찍 검사하는 경우에는 치료 종료 후 최소 3주가 지난 뒤 핵산증폭검사(NAAT)를 시행해야 잔존 핵산에 의한 위양성을 줄일 수 있습니다.
 * 임신 중이거나 임신 가능성 또는 수유 중인 경우 약을 사용하기 전에 반드시 알리십시오.
 * 세균성 질증이 반복된다면 증상이 없는 파트너도 동시 치료가 도움이 될 수 있으므로 의료진과 상의하십시오. 균이 서로 공유될 수 있다는 사실이 외도나 최근 성접촉을 의미하지는 않습니다.
+* 붕산 질캡슐을 처방받았다면 질 안에만 사용하고 절대 삼키지 마십시오. 어린이 손이 닿지 않게 보관하고 임신 가능성이 있으면 사용 전에 알리십시오.
 * 유방암 병력이 있는 분은 위축성 질염(질 건조증) 치료 전 담당 의료진과 상의해 주세요.
 
 ### <mark style="color:orange;">이럴 때는 즉시 진료를 받으세요</mark>

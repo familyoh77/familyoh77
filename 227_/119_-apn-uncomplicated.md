@@ -4,14 +4,14 @@
 
 * kidney parenchyma와 renal pelvis를 포함하는 신장의 감염에 따른 증상 증후군
 * 다른 이름 : 상부 요로감염(upper UTI)
-  * 분류 체계 참고 : 최신 지침(EAU 2026, 질병관리청 2026 요로감염 항생제 적정사용 실무지침)은 방광에 국한된 국소 요로감염(cystitis)과 구분해, 급성 신우신염을 포함한 발열·전신증상 동반 감염을 전신 요로감염(systemic UTI) 범주로 묶어 치료 원칙을 공유함
+  * 분류 체계 참고 : 최신 지침(EAU 2026, 질병관리청 2025 요로감염 항생제 사용 지침(2026 배포본))은 방광에 국한된 국소 요로감염(cystitis)과 구분해, 급성 신우신염을 포함한 발열·전신증상 동반 감염을 전신 요로감염(systemic UTI) 범주로 묶어 치료 원칙을 공유함
 * 경증부터 중증(패혈증)까지 다양한 수준의 임상 증상 발생
 * 발생률 : 국내 건강보험 자료(2010\~2014)에서 연평균 39.1례/10,000명(여성 약 71.3례, 남성 약 6.5례); 해당 기간의 진단·청구 자료에 근거한 수치로 현재 발생률과 동일시하지 않음
   * 같은 연구에서 12개월 내 재발률 15.8%(남성 13.1%, 여성 16.1%). 재원 중 사망은 전체 신우신염 발생 1,000건당 0.6건(입원 환자만을 분모로 한 수치가 아님); 패혈증이 주진단인 중증 사례가 누락되었을 가능성 있음
 * 합병증 : 신/신주위 농양(renal/perinephric abscess), 기종성 신우신염(emphysematous PN, 특히 당뇨병 환자), 패혈증·패혈성 쇼크, 급성신손상(AKI), 반복 감염에 역류·폐쇄 등 요로 이상이 동반되면 콩팥 반흔·만성콩팥병 위험 증가, 만성 폐쇄 동반 시 황색육아종성 신우신염(xanthogranulomatous PN)
 * 본 챕터는 요로의 구조적·기능적 이상, 요로 폐쇄, 유치 도뇨관, 최근 요로기구 사용, 면역 저하, 임신 등이 없는 성인의 급성 신우신염을 중심으로 기술함; 남성·고령·당뇨병은 그 자체만으로 일률적으로 complicated로 분류하기보다, 전립선 침범 가능성·요로 이상·중증도·내성균 위험을 함께 평가. 이 장의 Uncomplicated는 전통적인 임상 범위를 뜻함. **IDSA 2025에서는 신우신염 자체를 방광 밖으로 진행한 cUTI로 분류**하며, EAU 2026에서는 전신 요로감염으로 분류함. 기저 위험 인자 유무와 감염의 범위를 구분하여 기술함
 
-**2026 요로감염 항생제 적정사용 실무지침 분류 체계** \[질병청]
+**2025 요로감염 항생제 사용 지침 분류 체계(2026 배포본)** \[질병청]
 
 <table><thead><tr><th width="125.71429443359375">구분</th><th width="330.4761962890625">정의</th><th>비고</th></tr></thead><tbody><tr><td>국소 요로감염</td><td>방광에 국한된 급성 요로 증상(배뇨통·빈뇨·절박뇨·치골상부 압통 등) + (농뇨 또는 세균뇨)</td><td>기존 단순 방광염</td></tr><tr><td>전신 요로감염*</td><td>발열·오한·옆구리 통증·CVA 압통·혈역학적 불안정 등 전신 증상 ± 방광 증상</td><td>기존 단순/복잡 신우신염, 상부 요로감염 포함</td></tr></tbody></table>
 
@@ -88,7 +88,7 @@ _\*전신 요로감염에는 신우신염 외에 급성 전립선염·요로패�
   * 악화 시 즉시, 적절한 치료에도 48\~72시간 내 전반적 호전이 없으면 CT 등 추가 검사. 결석은 비조영 CT, 신실질 합병증·신/신주위 농양은 조영증강 CT가 유용; 임신은 초음파 우선, 추가 검사 필요 시 MRI 등을 전문의와 결정 (☞ [콩팥질환의 진단](109_-kidneydz.md))
 
 {% hint style="info" %}
-**중증도 선별** : 활력징후, 의식 상태 및 장기 기능 이상을 종합적으로 평가. qSOFA(의식 변화, 수축기 혈압 ≤100 ㎜Hg, 호흡수 ≥22회/분)는 중증 감염 환자의 위험도 평가에 참고할 수 있으나, 패혈증 선별·진단을 위한 단독 도구로 사용하지 않음. 가능하면 [SOFA 점수](https://www.mdcalc.com/calc/691/sequential-organ-failure-assessment-sofa-score)의 정식 평가를 함께 고려.
+**중증도 선별** : 활력징후, 의식 상태 및 장기 기능 이상을 종합적으로 평가. qSOFA(의식 변화, 수축기 혈압 ≤100 ㎜Hg, 호흡수 ≥22회/분 중 각 1점)는 중증 감염 환자의 위험도 평가에 참고할 수 있으나, 패혈증 선별·진단을 위한 단독 도구로 사용하지 않음. 가능하면 [SOFA 점수](https://www.mdcalc.com/calc/691/sequential-organ-failure-assessment-sofa-score)의 정식 평가를 함께 고려.
 
 **패혈증** : 감염으로 인한 생명을 위협하는 장기 기능 장애(SOFA 점수가 기저치 대비 ≥2점 증가)\
 **패혈성 쇼크** : 적절한 수액 요법에도 평균동맥압 ≥65 ㎜Hg를 유지하기 위한 승압제가 필요하고 혈중 젖산 ＞2 mmol/L인 경우
@@ -104,31 +104,32 @@ _\*전신 요로감염에는 신우신염 외에 급성 전립선염·요로패�
 
 ```mermaid
 graph TD
-    Start(["신우신염 의심<br>발열·오한·옆구리 통증/CVA 압통<br>± 방광 자극 증상"]) --> UA["요검사·항생제 투여 전 요배양<br>활력징후·의식·장기 기능 평가<br>중증·발열 시 혈액배양 고려"]
-    UA --> Q1{"쇼크·중증 감염 또는<br>감염성 폐쇄 의심?"}
-    Q1 -->|Yes| Admit1["즉각 평가·입원/정주 치료<br>폐쇄 시 응급 배액<br>이전 배양·기관 감수성에 맞춰 항생제 선택"]
-    Q1 -->|No| Q2{"안정적·경구 복용 가능<br>폐쇄 등 긴급 위험 없음<br>유효한 항생제·추적 가능?"}
-    Q2 -->|Yes| OP["외래 치료<br>내성 위험·과거 배양을 반영한<br>경구 항생제"]
-    Q2 -->|No| Admit2["당일 평가·입원 고려<br>필요 시 정주 치료 후 경구 전환"]
-    OP --> FU["48~72시간 임상 반응·배양 결과 확인"]
+    Start(["신우신염 의심 - 발열·오한·옆구리 통증/CVA 압통 - ± 방광 자극 증상"]) --> UA["요검사·항생제 투여 전 요배양 - 활력징후·의식·장기 기능 평가 - 중증·발열 시 혈액배양 고려"]
+    UA --> Q1{"쇼크·중증 감염 또는 - 감염성 폐쇄 의심?"}
+    Q1 -- "예" --> Admit1["즉각 평가·입원/정주 치료 - 폐쇄 시 응급 배액 - 이전 배양·기관 감수성에 맞춰 항생제 선택"]
+    Q1 -- "아니오" --> Q2{"안정적·경구 복용 가능 - 폐쇄 등 긴급 위험 없음 - 유효한 항생제·추적 가능?"}
+    Q2 -- "예" --> OP["외래 치료 - 내성 위험·과거 배양을 반영한 - 경구 항생제"]
+    Q2 -- "아니오" --> Admit2["당일 평가·입원 고려 - 필요 시 정주 치료 후 경구 전환"]
+    OP --> FU["48시간 내 호전 시작·배양 결과 확인"]
     Admit1 --> FU
     Admit2 --> FU
     FU --> Q3{"임상적으로 호전?"}
-    Q3 -->|Yes| Complete(["배양 결과로 표적치료<br>유효 치료 첫날부터 기간 산정<br>FQ 5~7일 / 기타 7일*<br>남성·임신·전립선염 등 별도 평가"])
-    Q3 -->|No| Image["당일 재평가<br>배양·내성·폐쇄·농양·다른 진단 확인<br>필요 시 CT/초음파"]
-    Image --> Adjust(["항생제 조정·배액<br>비뇨의학과/감염내과 협진"])
+    Q3 -- "예" --> Complete(["배양 결과로 표적치료 - 유효 치료 첫날부터 기간 산정 - FQ 5~7일 / 기타 통상 7일* - 남성·임신·전립선염 등 별도 평가"])
+    Q3 -- "아니오" --> Image["당일 재평가 - 배양·내성·폐쇄·농양·다른 진단 확인 - 필요 시 CT/초음파"]
+    Image --> Adjust(["항생제 조정·배액 - 비뇨의학과/감염내과 협진"])
 
     classDef neutral fill:#eeeeee,stroke:#888888
     classDef test fill:#e8f8e8,stroke:#4caf50
     classDef decision fill:#fff9c4,stroke:#ffe082
     classDef outpatient fill:#e3f2ff,stroke:#2196f3
-    classDef admission fill:#fdebd0,stroke:#e67e22
+    classDef emergency fill:#ffdddd,stroke:#d32f2f
     classDef result fill:#d0e8ff,stroke:#1a6abf
-    class Start neutral
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     class UA,Image test
     class Q1,Q2,Q3 decision
     class OP outpatient
-    class Admit1,Admit2 admission
+    class Admit1 emergency
+    class Admit2 outpatient
     class Complete,Adjust result
 ```
 
@@ -136,7 +137,7 @@ _\*단기요법은 효과적인 항생제 투여, 임상적 호전, 해부학적
 
 <p align="center"><strong>급성 신우신염 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 2026 요로감염 항생제 적정사용을 위한 실무지침(질병관리청·대한항균요법학회);</mark></em><br><em><mark style="color:$info;">EAU Guidelines on Urological Infections (2026); IDSA cUTI Guideline (2025)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: 질병관리청·대한항균요법학회 2025 지침; EAU 2026; IDSA 2025)</mark></em></p>
 
 ***
 
@@ -152,7 +153,7 @@ _\*단기요법은 효과적인 항생제 투여, 임상적 호전, 해부학적
   * 균혈증 동반 시에도 해열·혈역학적 안정 및 폐쇄 등 감염원 조절을 확인한 뒤 경구 전환을 고려할 수 있음. 경구약은 원인균 감수성뿐 아니라 흡수·용량을 검토하여 **혈액·소변·감염 조직에서 유효 농도를 확보**할 수 있어야 함; 요중 농도만으로 선택하지 않음
 * 임신부 신우신염은 **초기 입원·정주 항생제 치료**를 원칙으로 산과와 협진함(ACOG). ACOG는 총 14일 치료를 권고하므로 본 챕터의 비임신 성인 단기요법을 그대로 적용하지 않음
 
-### <mark style="color:orange;">비-약물 치료 및 예방</mark>
+### <mark style="color:orange;">비약물 치료 및 예방</mark>
 
 * 탈수를 교정하되 억지로 과량의 수분을 투여하지 않음. 심부전·신기능 저하에서는 수액량을 개별화; 쇼크·장기 관류 저하는 응급실/입원 환경에서 평가
 * 증상이 호전될 때까지 휴식, 배뇨를 과도하게 참지 않기. 재발하면 잔뇨·결석·폐쇄·전립선 질환 등 원인 교정
@@ -174,7 +175,7 @@ _\*단기요법은 효과적인 항생제 투여, 임상적 호전, 해부학적
 * **Nitrofurantoin·경구 fosfomycin·pivmecillinam은 신실질 감염의 초기 치료로 권장하지 않음.** Methenamine은 일부 재발성 하부 UTI의 예방약이며 급성 신우신염 치료제가 아님
   * 최신 예외(IDSA AMR 2026): 다른 유효 경구 대안이 없는 일부 **ESBL 생성&#x20;**_**E. coli**_ cUTI에서 초기 유효 정주 치료 후 임상적으로 호전되면 다회 경구 fosfomycin 전환을 전문의가 제한적으로 고려할 수 있음. 근거가 충분하지 않은 허가 외 선택으로, 방광염의 3 g 단회요법을 신우신염에 적용하지 않음. 정주 fosfomycin과도 구분
 
-<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin<br><mark style="color:blue;">[씨프로바이]</mark></td><td>500 ㎎ bid ×7일</td><td>씨프로바이정 250 ㎎은 1회 2정. 선택지; 감수성이 확인되었거나 경험적 사용 시 지역/기관 내성률 ＜10%인 경우. Tizanidine 병용 금기; 퀴놀론 관련 힘줄질환 병력·중증 근무력증 등 금기 확인; 최근 12개월 내 사용력이 있으면 경험적 사용 회피; 임부·수유부 금기</td></tr><tr><td>levofloxacin</td><td>750 ㎎ qd ×5일</td><td>국내 지침 고용량 단기요법; 기관별 내성률·최근 12개월 내 사용력 확인. 제품마다 정제 규격과 허가 용법이 다르므로 처방 전 확인(크라비트정은 250·500 ㎎이며 식약처 허가사항의 신우신염 용법은 250 ㎎ qd ×10일; 아래 주석 참조)</td></tr><tr><td>TMP/SMX<br><mark style="color:blue;">[셉트린정]</mark></td><td>160/800 ㎎ bid ×7일</td><td>감수성 확인 후 표적치료 우선; 비중증·임상 호전 시 7일 고려. 국내 셉트린정은 TMP/SMX 80/400 ㎎/정이므로 1회 2정; 임부·수유부 금기</td></tr><tr><td>cefpodoxime<br><mark style="color:blue;">[바난]</mark></td><td>200 ㎎ bid, 식후 ×7일</td><td>대안(국내 2026 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히. 정제는 식후 복용</td></tr><tr><td>amoxicillin<br>/clavulanate<br><mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎(500/125 ㎎) tid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 감수성 확인 후 표적 치료로 사용(비-ESBL 감염에서 고려); 기존 amox/clav 관련 황달·간기능 장애 병력은 금기</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin<br><mark style="color:blue;"><a href="https://www.health.kr/drug/2019081900007">씨프로바이</a></mark></td><td>500 ㎎ bid ×7일</td><td>씨프로바이정 250 ㎎은 1회 2정. 선택지; 감수성이 확인되었거나 경험적 사용 시 지역/기관 내성률 ＜10%인 경우. Tizanidine 병용 금기; 퀴놀론 관련 힘줄질환 병력·중증 근무력증 등 금기 확인; 최근 12개월 내 사용력이 있으면 경험적 사용 회피; 임부·수유부 금기</td></tr><tr><td>levofloxacin</td><td>750 ㎎ qd ×5일</td><td>국내 지침 고용량 단기요법; 기관별 내성률·최근 12개월 내 사용력 확인. 제품마다 정제 규격과 허가 용법이 다르므로 처방 전 확인(크라비트정은 <a href="https://www.health.kr/drug/A11AOOOOO7622">250</a>·<a href="https://www.health.kr/drug/A11AOOOOO7621">500 ㎎</a>이며 식약처 허가사항의 신우신염 용법은 250 ㎎ qd ×10일; 아래 주석 참조)</td></tr><tr><td>TMP/SMX<br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11A0500A0065">셉트린</a></mark></td><td>160/800 ㎎ bid ×7일</td><td>감수성 확인 후 표적치료 우선; 비중증·임상 호전 시 7일 고려. 국내 셉트린정은 TMP/SMX 80/400 ㎎/정이므로 1회 2정; 임부·수유부 금기</td></tr><tr><td>cefpodoxime<br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11A0100A0334">바난</a></mark></td><td>200 ㎎ bid, 식후 ×7일</td><td>대안(국내 2026 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히. 정제는 식후 복용</td></tr><tr><td>amoxicillin<br>/clavulanate<br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11A1130A0289">오구멘틴</a></mark></td><td>625 ㎎(500/125 ㎎) tid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 감수성 확인 후 표적 치료로 사용(비-ESBL 감염에서 고려); 기존 amox/clav 관련 황달·간기능 장애 병력은 금기</td></tr></tbody></table>
 
 ✽경구 표의 기간은 비임신 성인 여성의 비중증 감염에서 임상적 호전이 확인된 경우를 중심으로 함. 남성·임신·전립선염·농양 등의 예외는 「치료 방침」을 따름.
 
@@ -192,7 +193,7 @@ _✽본 챕터의 7일 요법은 국내 2026 지침에 따른 선택임. 모든 
 
 <mark style="color:cyan;">**정주(입원) - 중등도\~중증**</mark>
 
-<table data-search="false"><thead><tr><th width="226">성분명</th><th width="150">용법</th><th>비고</th></tr></thead><tbody><tr><td>ceftriaxone <mark style="color:blue;">[트리악손]</mark></td><td>2 g IV qd</td><td>신장애 단독에서는 보통 감량 불필요; 중증 신·간장애 동반 시 별도 평가</td></tr><tr><td>cefotaxime <mark style="color:blue;">[클래포란]</mark></td><td>1~2 g IV q8h</td><td>1차 선택</td></tr><tr><td>cefepime <mark style="color:blue;">[맥세핌]</mark></td><td>1~2 g IV q8~12h<br>중증·녹농균 감염: 2 g IV q8h</td><td>AmpC 위험균(<em>Enterobacter cloacae</em> complex, <em>Citrobacter freundii</em> 등) 의심 시 고려; ESBL 생성균으로 확인되면 회피</td></tr><tr><td>piperacillin/tazobactam<br><mark style="color:blue;">[타조신]</mark></td><td>4.5 g IV q6~8h</td><td>기관 감수성·중증도에 따라 선택; ESBL 감염에서는 감수성이 확인된 비중증·비균혈증 환자의 대안으로 제한(IDSA AMR 2026); 중증 또는 균혈증이면 회피</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">[씨프로바이]</mark></td><td>400 ㎎ IV q12h</td><td>기관별 내성률이 낮고 12개월 내 fluoroquinolone 사용력이 없는 경우, 임부·수유부 금기</td></tr><tr><td>amikacin <mark style="color:blue;">[아미카신]</mark></td><td>15 ㎎/㎏ IV qd</td><td>대안; older aminoglycoside로 1차 옵션보다 후순위(IDSA 2025), ESBL 등 다제내성 의심 시 감수성 확인 후 사용, 신독성·이독성 주의. qd 요법은 신기능·체중·혈중농도(TDM)에 따른 기관 프로토콜로 적용</td></tr><tr><td>ertapenem</td><td>1 g IV qd</td><td>ESBL 감염 등에서 감수성·중증도에 따라 선택; 녹농균에는 효과 없음. 중환자·저알부민혈증에서는 meropenem 등을 우선 고려</td></tr><tr><td>meropenem</td><td>1 g IV q8h</td><td>중증·패혈증, ESBL 위험 또는 녹농균 치료 필요 시 감수성에 따라 선택. 내성균·중증 감염에서는 연장 주입 등 병원 프로토콜 적용; 결과 확인 후 치료 범위 축소</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="226">성분명</th><th width="150">용법</th><th>비고</th></tr></thead><tbody><tr><td>ceftriaxone <mark style="color:blue;"><a href="https://www.health.kr/drug/2018031900021">트리악손</a></mark></td><td>2 g IV qd</td><td>신장애 단독에서는 보통 감량 불필요; 중증 신·간장애 동반 시 별도 평가</td></tr><tr><td>cefotaxime <mark style="color:blue;"><a href="https://www.health.kr/drug/A11A0740A0282">크라포란</a></mark></td><td>1~2 g IV q8h</td><td>1차 선택</td></tr><tr><td>cefepime <mark style="color:blue;"><a href="https://www.health.kr/drug/A11A0930A0459">보령맥스핌</a></mark></td><td>1~<a href="https://health.kr/drug/A11A0930A0460">2 g</a> IV q8~12h<br>중증·녹농균 감염: 2 g IV q8h</td><td>AmpC 위험균(<em>Enterobacter cloacae</em> complex, <em>Citrobacter freundii</em> 등) 의심 시 고려; ESBL 생성균으로 확인되면 회피</td></tr><tr><td>piperacillin/tazobactam<br><mark style="color:blue;"><a href="https://www.health.kr/drug/2012070400002">타조신</a></mark></td><td>4.5 g IV q6~8h</td><td>기관 감수성·중증도에 따라 선택; ESBL 감염에서는 감수성이 확인된 비중증·비균혈증 환자의 대안으로 제한(IDSA AMR 2026); 중증 또는 균혈증이면 회피</td></tr><tr><td>ciprofloxacin</td><td>400 ㎎ IV q12h</td><td>기관별 내성률이 낮고 12개월 내 fluoroquinolone 사용력이 없는 경우, 임부·수유부 금기</td></tr><tr><td>amikacin</td><td>15 ㎎/㎏ IV qd</td><td>대안; older aminoglycoside로 1차 옵션보다 후순위(IDSA 2025), ESBL 등 다제내성 의심 시 감수성 확인 후 사용, 신독성·이독성 주의. qd 요법은 신기능·체중·혈중농도(TDM)에 따른 기관 프로토콜로 적용</td></tr><tr><td>ertapenem</td><td>1 g IV qd</td><td>ESBL 감염 등에서 감수성·중증도에 따라 선택; 녹농균에는 효과 없음. 중환자·저알부민혈증에서는 meropenem 등을 우선 고려</td></tr><tr><td>meropenem</td><td>1 g IV q8h</td><td>중증·패혈증, ESBL 위험 또는 녹농균 치료 필요 시 감수성에 따라 선택. 내성균·중증 감염에서는 연장 주입 등 병원 프로토콜 적용; 결과 확인 후 치료 범위 축소</td></tr></tbody></table>
 
 ✽표는 정상 신기능 성인 기준임. Cefepime, cefotaxime, piperacillin/tazobactam, fluoroquinolone, TMP/SMX, aminoglycoside, 대부분의 carbapenem·경구 β-lactam은 신기능에 따라 용량/간격 조정이 필요함; cefepime 신경독성과 aminoglycoside 신·이독성에 유의. Ceftriaxone은 신장애 단독 시 보통 감량하지 않으나 중증 간장애 동반 시 별도 평가
 
@@ -227,7 +228,7 @@ N10 급성 세뇨관-간질신장염(급성 신우신염 포함)
 
 N12 급성 또는 만성으로 명시되지 않은 세뇨관-간질신장염
 
-✽급성 신우신염으로 명시된 경우 N10, 급성·만성 여부가 명시되지 않은 경우 N12. 한국표준질병·사인분류 제9차 개정(2026년 시행) 기준; 제공된 KCD9\_251216(1).xlsx의 N10·N12 항목과 대조함
+✽급성 신우신염으로 명시된 경우 N10, 급성·만성 여부가 명시되지 않은 경우 N12. 한국표준질병·사인분류 제9차 개정(2026년 시행) 기준; 제공된 KCD9_251216(7).xlsx의 N10·N12 항목과 대조함
 
 ***
 
@@ -240,22 +241,28 @@ N12 급성 또는 만성으로 명시되지 않은 세뇨관-간질신장염
 > 타이레놀8시간이알서방정 650 ㎎/T  2T q8h 필요시(1일 최대 6정)
 > ```
 >
-> _✽비임신 성인으로 경구 섭취와 추적이 가능하고 폐쇄·중증 위험이 낮은 경우의 예시. 원인균 감수성 확인 후 사용을 우선하며, 경험적 단독 경구 사용은 최근 12개월 내 fluoroquinolone 사용력이 없고 지역/기관 내성률 ＜10%인 경우에 한함. 해열·진통에는 acetaminophen 우선. 위 서방정 용법은 중증 간·신장애 등 금기 없는 성인 기준이며, 다른 acetaminophen 함유제와 중복 복용하지 않음_
+> 약제 정보: [씨프로바이정 250 ㎎](https://www.health.kr/drug/2019081900007) · [타이레놀8시간이알서방정 650 ㎎](https://www.health.kr/drug/2022020300026)
+>
+> _✽비임신 성인 여성으로 경구 섭취와 추적이 가능하고 폐쇄·중증 위험이 낮은 경우의 예시. 원인균 감수성 확인 후 사용을 우선하며, 경험적 단독 경구 사용은 최근 12개월 내 fluoroquinolone 사용력이 없고 지역/기관 내성률 ＜10%인 경우에 한함. 해열·진통에는 acetaminophen 우선. 위 서방정 용법은 중증 간·신장애 등 금기 없는 성인 기준이며, 다른 acetaminophen 함유제와 중복 복용하지 않음_
 
-> **처방례 2. TMP/SMX 감수성 확인 후 표적치료(비임신 성인, 비중증)**
+> **처방례 2. TMP/SMX 감수성 확인 후 표적치료(비임신 성인 여성, 비중증)**
 >
 > ```
 > 셉트린정 80/400 ㎎/T  2T bid ×7일
 > ```
 >
+> 약제 정보: [셉트린정 TMP/SMX 80/400 ㎎](https://www.health.kr/drug/A11A0500A0065)
+>
 > _✽감수성이 확인되고 임상 호전이 있는 경우 총 7일 치료를 고려하는 예시. 초기 유효 정주 항생제를 투여했다면 그 기간을 포함하여 산정함. 감수성 미확인 시 TMP/SMX 경험적 단독요법은 피하고 초기 유효 정주 치료를 고려함. 셉트린정 1정은 TMP/SMX 80/400 ㎎이며, 신기능·칼륨·병용약을 확인함_
 
-> **처방례 3. 배양 결과 확인 후 경구 β-lactam 표적치료(비중증)**
+> **처방례 3. 배양 결과 확인 후 경구 β-lactam 표적치료(비임신 성인 여성, 비중증)**
 >
 > ```
 > 바난정 100 ㎎/T  2T bid 식후 ×5일
 > 타이레놀8시간이알서방정 650 ㎎/T  2T q8h 필요시(1일 최대 6정)
 > ```
+>
+> 약제 정보: [바난정 100 ㎎](https://www.health.kr/drug/A11A0100A0334) · [타이레놀8시간이알서방정 650 ㎎](https://www.health.kr/drug/2022020300026)
 >
 > _✽원인균에 대한 cefpodoxime 감수성, 경구 섭취 및 임상 호전을 확인한 경우의 예시. 유효한 정주 항생제를 먼저 2일 투여하고 경구로 전환해 총 7일을 채우는 예시이며, 치료기간은 유효한 정주 항생제의 첫날부터 계산함. 초기부터 이 약제를 경험적 단독요법으로 사용하는 예시가 아니며, 경구 β-lactam 단기요법의 근거가 상대적으로 제한적이므로 중증도·반응에 따라 기간을 개별화(국내 지침 7일, EAU 10일). 해열·진통에는 acetaminophen을 우선 고려._
 
@@ -277,6 +284,7 @@ _✽최근 ESBL 생성균 분리력이나 패혈증 등 내성·중증 위험이
 > **항생제 주의사항**
 >
 > * Ciprofloxacin·levofloxacin 처방 시 제산제와 철·아연·칼슘 보충제의 동시 복용을 피하도록 복용 간격을 확인합니다. Ciprofloxacin과 tizanidine은 병용 금기이며, ketoprofen 등 NSAID 병용 금기도 확인합니다. 힘줄 통증·부종, 저림 등 중대한 이상반응이 나타나면 복용을 중단하고 곧바로 상담하도록 안내합니다.
+> * 항생제 복용 중 호흡곤란·얼굴 부종·심한 발진이 나타나면 중단하고 즉시 진료받도록 안내합니다. TMP/SMX의 새 발진은 점막 병변이 없어도 중단하고 신속히 평가합니다.
 > * TMP/SMX 처방 시 신기능과 칼륨 상승 위험(특히 ACE 억제제·ARB·spironolactone 병용), warfarin 상호작용 및 중증 피부반응을 확인합니다. 발진에 발열·점막 병변이 동반되면 복용을 중단하고 즉시 평가받도록 합니다.
 
 > **진통·해열제 선택**
@@ -296,27 +304,27 @@ _✽최근 ESBL 생성균 분리력이나 패혈증 등 내성·중증 위험이
 
 ### 〈임상 근거〉
 
-* 질병관리청·대한항균요법학회. 2026 요로감염 항생제 적정사용을 위한 실무지침. — 국내 국소형/전신형 분류, 약제 선택 및 기간. [공식 지침](https://www.kdca.go.kr/bbs/kdca/263/307010/download.do)
-* IDSA. 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections. — 단기요법·경구 전환과 적용 제외군. [공식 지침](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
-* Nagarajan PV, Davis AM, Bell EF. Therapy for Adults With Complicated Urinary Tract Infection. JAMA. Published online October 19, 2026. doi:10.1001/jama.2026.17754. — IDSA 2025 지침 요약; 세부 약제 선택과 적용 범위는 IDSA 원문을 우선함. [논문](https://doi.org/10.1001/jama.2026.17754)
+* 질병관리청·대한항균요법학회. 2025 요로감염 항생제 사용 지침(2026 배포본). - 국내 국소형/전신형 분류, 약제 선택 및 기간. [공식 지침](https://www.kdca.go.kr/bbs/kdca/55/306854/download.do)
+* IDSA. 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections. - 단기요법·경구 전환과 적용 제외군. [공식 지침](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
+* Nagarajan PV, Davis AM, Bell EF. Therapy for Adults With Complicated Urinary Tract Infection. JAMA. Published online October 19, 2026. doi:10.1001/jama.2026.17754. - IDSA 2025 지침 요약; 세부 약제 선택과 적용 범위는 IDSA 원문을 우선함. [논문](https://doi.org/10.1001/jama.2026.17754)
 * European Association of Urology. EAU Guidelines on Urological Infections. 2026. [공식 지침](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline)
-* Yu SH, et al. Antimicrobial Resistance of Escherichia coli for Uncomplicated Cystitis: Korean Antimicrobial Resistance Monitoring System. Antibiotics. 2024;13(11):1075. — 2023년 E. coli 감수성 자료; 전체 원인균 분석 논문(Investig Clin Urol 2025)과 구분. [https://doi.org/10.3390/antibiotics13111075](https://doi.org/10.3390/antibiotics13111075)
-* IDSA. 2026 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections. — ESBL 신우신염 표적치료, piperacillin/tazobactam의 제한적 대안 위치, cefepime 단독 회피 및 경구 fosfomycin 전환 예외. [공식 지침](https://www.idsociety.org/practice-guideline/amr-guidance/)
-* Kim B, et al. Descriptive Epidemiology of Acute Pyelonephritis in Korea, 2010–2014: Population-based Study. J Korean Med Sci. 2018;33:e310. — 발생률·재발률·사망률의 원자료. [원저](https://doi.org/10.3346/jkms.2018.33.e310)
+* Yu SH, et al. Antimicrobial Resistance of Escherichia coli for Uncomplicated Cystitis: Korean Antimicrobial Resistance Monitoring System. Antibiotics. 2024;13(11):1075. - 2023년 E. coli 감수성 자료; 전체 원인균 분석 논문(Investig Clin Urol 2025)과 구분. [https://doi.org/10.3390/antibiotics13111075](https://doi.org/10.3390/antibiotics13111075)
+* IDSA. 2026 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections. - ESBL 신우신염 표적치료, piperacillin/tazobactam의 제한적 대안 위치, cefepime 단독 회피 및 경구 fosfomycin 전환 예외. [공식 지침](https://www.idsociety.org/practice-guideline/amr-guidance/)
+* Kim B, et al. Descriptive Epidemiology of Acute Pyelonephritis in Korea, 2010-2014: Population-based Study. J Korean Med Sci. 2018;33:e310. - 발생률·재발률·사망률의 원자료. [원저](https://doi.org/10.3346/jkms.2018.33.e310)
 * ACOG. Urinary Tract Infections in Pregnant Individuals. Clinical Consensus No. 4. 2023. [공식 권고문](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals)
 * NICE. Pyelonephritis (acute): antimicrobial prescribing. NG111. [권고문](https://www.nice.org.uk/guidance/ng111/chapter/Recommendations)
 
 ### 〈허가·급여 확인 자료〉
 
-* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태. 크라비트정의 250 ㎎ qd ×10일 허가 용법과 지침의 750 ㎎ qd ×5일을 구분; acetaminophen 서방정의 8시간 간격·1일 최대 6정 확인. [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
-* 질병관리청 2026 실무지침의 국내 항생제 급여 관련 설명 — 국소 요로감염에서 ciprofloxacin 1차 사용 제한을 신우신염에 동일하게 적용하는 것으로 오해하지 않음.
-* 건강보험심사평가원 상병마스터. 한국표준질병·사인분류 제9차 개정 반영 자료(2026년 시행) — 제공된 KCD9\_251216(1).xlsx의 N10·N12 항목 확인.
+* 식품의약품안전처. 의약품안전나라 - 국내 제품별 적응증·용법·금기 및 허가 상태. 크라비트정의 250 ㎎ qd ×10일 허가 용법과 지침의 750 ㎎ qd ×5일을 구분; acetaminophen 서방정의 8시간 간격·1일 최대 6정 확인. [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+* 질병관리청 2026 실무지침의 국내 항생제 급여 관련 설명 - 국소 요로감염에서 ciprofloxacin 1차 사용 제한을 신우신염에 동일하게 적용하는 것으로 오해하지 않음.
+* 건강보험심사평가원 상병마스터. 한국표준질병·사인분류 제9차 개정 반영 자료(2026년 시행) - 제공된 KCD9_251216(7).xlsx의 N10·N12 항목 확인.
 
-_임상 근거·주요 제품 허가사항 확인일: 2026-10-28. JAMA cUTI 요약 및 IDSA 2025 치료 원칙 추가 검토·보완일: 2026-11-03._
+_임상 근거·주요 제품 허가사항 확인일: 2026-10-28. JAMA cUTI 요약 및 IDSA 2025 치료 원칙 추가 검토·보완일: 2026-11-11._
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **급성 신우신염, 콩팥까지 번진 요로감염입니다**
@@ -324,18 +332,19 @@ _임상 근거·주요 제품 허가사항 확인일: 2026-10-28. JAMA cUTI 요�
 방광염을 일으키는 세균이 콩팥(신장)까지 올라가 염증을 일으킨 상태로, 발열과 옆구리 통증이 특징입니다. 적절한 항생제 치료로 대부분 좋아지지만, 처방 기간을 반드시 지켜야 합니다.
 {% endhint %}
 
-#### <mark style="color:$primary;">왜 신우신염이 생기나요?</mark>
+### <mark style="color:$primary;">왜 신우신염이 생기나요?</mark>
 
 * 방광 안의 세균이 요관을 타고 거슬러 올라가 콩팥까지 감염을 일으키기 때문에 생깁니다.
 * 여성, 임신, 요로결석, 방광 기능 이상, 당뇨병이 있으면 더 잘 생길 수 있습니다.
 
-#### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
+### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
 
 * **증상이 좋아졌더라도 의사와 상의 없이 항생제를 임의로 중단하거나 복용 기간을 바꾸지 마십시오.** 소변 검사(배양) 결과에 따라 항생제의 종류나 복용 기간이 바뀔 수 있습니다.
+* 항생제 복용 중 숨이 차거나 얼굴이 붓고 심한 발진이 생기면 복용을 중단하고 즉시 진료받으십시오.
 * 탈수가 생기지 않도록 물을 나누어 마시되, 억지로 과량의 물을 마실 필요는 없습니다. 심장이나 콩팥 질환으로 수분 제한을 안내받았다면 그 계획을 따르십시오. 무리한 활동은 피하고 안정을 취하십시오.
-* 탈수되어 있거나 몸 상태가 좋지 않을 때는 이부프로펜 같은 소염진통제가 콩팥에 부담을 줄 수 있어 사용 전 반드시 의사와 상의하십시오. 열과 통증에는 아세트아미노펜(타이레놀 등)을 우선 사용하십시오.
+* 탈수되어 있거나 몸 상태가 좋지 않을 때는 이부프로펜 같은 소염진통제가 콩팥에 부담을 줄 수 있어 사용 전 반드시 의사와 상의하십시오. 열과 통증에는 처방·안내받은 아세트아미노펜을 사용하고, 감기약 등 같은 성분의 약을 함께 먹지 마십시오. 서방정은 씹거나 부수지 마십시오.
 
-#### <mark style="color:$primary;">언제 다시 진료를 받아야 하나요?</mark>
+### <mark style="color:$primary;">언제 다시 진료를 받아야 하나요?</mark>
 
 * 항생제 치료 후 이틀(48시간) 안에 전반적인 증상이 좋아지기 시작하지 않으면 다시 연락하거나 진료받으십시오. 그 전에라도 열·통증이 더 심해지면 즉시 진료받으십시오.
 * **즉시 진료 또는 응급실 방문:** 심한 오한, 어지러움·혼돈, 심해지는 통증, 약을 먹을 수 없을 정도의 구토 또는 갑작스런 소변량 감소
