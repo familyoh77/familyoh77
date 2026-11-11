@@ -356,7 +356,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이지만, 복통 dominant 
 
 #### <mark style="color:$primary;">5-HT3 receptor antagonists</mark>
 
-* ondansetron : 4 ㎎ qd에서 시작하여 변 형태·빈도에 따라 감량 또는 증량(예: bid) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조프란</mark>](https://www.health.kr/drug/A11ABBBBB1538)<mark style="color:blue;">]</mark>&#x20;
+* ondansetron : 4 ㎎ qd에서 시작하여 변 형태·빈도에 따라 감량 또는 증량(예: bid) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조프란자이디스</mark>](https://www.health.kr/drug/A11ABBBBB1538)<mark style="color:blue;">]</mark>&#x20;
   * 장 통과시간 지연 → urgency·묽은 변 개선; IBS-D에서 RCT·메타분석 근거가 있으나 복통 개선 근거는 없음 <mark style="color:$info;">\[Gut 2014]</mark> <mark style="color:$info;">\[Aliment Pharmacol Ther 2023]</mark>. (IBS-D에는 허가 외 사용)
   * 기능성 설사의 일률적 1차 약제로 사용하지 않음
   * 변비가 생기면 감량·휴약

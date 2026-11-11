@@ -143,7 +143,7 @@ _**Clostridioides difficile**_**&#x20;infection (CDI)** \
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
 
-<table data-search="false"><thead><tr><th width="334">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력</td><td>여행자 설사(ETEC, <em>Campylobacter, Shigella</em>, 원충 등)</td></tr><tr><td>최근 항생제 또는 의료기관 노출</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td><em>Vibrio</em>, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 후 1~6시간 내 발병</td><td>독소형 식중독(<em>S. aureus, B. cereus</em> 구토형)</td></tr><tr><td>8~16시간 후 복통·수양성 설사</td><td><em>C. perfringens, B. cereus</em> 설사형</td></tr><tr><td>12~48시간 후 구토·수양성 설사</td><td>노로바이러스 등</td></tr><tr><td>혈변 + 발열</td><td>침습성 세균(<em>Salmonella, Shigella, Campylobacter, Yersinia</em>)과 STEC 모두 고려</td></tr><tr><td>혈변 + 심한 복통 + 발열 미약·무발열</td><td>STEC 가능성 증가 - 항생제·loperamide 회피(HUS 위험)*</td></tr><tr><td>고령·죽상경화 위험 + 갑작스러운 복통·혈변</td><td>허혈성 대장염·장간막 허혈</td></tr><tr><td>임신부·고령자·면역 저하자 + 관련 식품 노출 후 발열·전신 증상</td><td><em>Listeria monocytogenes</em> - 혈액 배양 고려; 대변 배양은 권고하지 않음</td></tr><tr><td>의료기관 입원 중 새로 발생</td><td><em>C. difficile</em>, 약물, 경장영양 등</td></tr><tr><td>면역 저하 상태</td><td><em>Cryptosporidium, Cyclospora, Cystoisospora</em>, CMV, microsporidia, MAC 등</td></tr><tr><td>반복성·지속성 경과</td><td>원충 감염, IBD, 약물, 감염 후 IBS 등 (☞ <a href="084_-chronic-diarrhea.md">만성 설사</a>)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="334">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력</td><td>여행자설사(ETEC, <em>Campylobacter, Shigella</em>, 원충 등)</td></tr><tr><td>최근 항생제 또는 의료기관 노출</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td><em>Vibrio</em>, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 후 1~6시간 내 발병</td><td>독소형 식중독(<em>S. aureus, B. cereus</em> 구토형)</td></tr><tr><td>6~24시간 후 복통·수양성 설사</td><td><em>C. perfringens, B. cereus</em> 설사형</td></tr><tr><td>12~48시간 후 구토·수양성 설사</td><td>노로바이러스 등</td></tr><tr><td>혈변 + 발열</td><td>침습성 세균(<em>Salmonella, Shigella, Campylobacter, Yersinia</em>)과 STEC 모두 고려</td></tr><tr><td>혈변 + 심한 복통 + 발열 미약·무발열</td><td>STEC 가능성 증가 - 항생제·loperamide 회피(HUS 위험)*</td></tr><tr><td>고령·죽상경화 위험 + 갑작스러운 복통·혈변</td><td>허혈성 대장염·장간막 허혈</td></tr><tr><td>임신부·고령자·면역 저하자 + 관련 식품 노출 후 발열·전신 증상</td><td><em>Listeria monocytogenes</em> - 혈액 배양 고려; 대변 배양은 권고하지 않음</td></tr><tr><td>의료기관 입원 중 새로 발생</td><td><em>C. difficile</em>, 약물, 경장영양 등</td></tr><tr><td>면역 저하 상태</td><td><em>Cryptosporidium, Cyclospora, Cystoisospora</em>, CMV, microsporidia, MAC 등</td></tr><tr><td>반복성·지속성 경과</td><td>원충 감염, IBD, 약물, 감염 후 IBS 등 (☞ <a href="084_-chronic-diarrhea.md">만성 설사</a>)</td></tr></tbody></table>
 
 > _**\*STEC** (Shiga toxin 생성 대장균) 유의 사항 : 혈변·심한 복통이 있고 발열이 뚜렷하지 않으면 가능성이 증가하지만 발열만으로 배제할 수 없음. 항생제와 loperamide는 HUS 및 합병증 위험을 높일 수 있어 피함. O157 배양과 비-O157를 포함하는 Shiga toxin/독소 유전자 검사를 시행하고, Hb·혈소판·전해질·BUN/Cr·소변량을 반복 추적; HUS 의심 시 말초혈액도말·LDH·bilirubin·haptoglobin 평가. 조기 탈수 교정이 중요하며, 소아 STEC에서는 발병 초기 정맥 수액이 신부전 위험을 낮출 가능성이 있음. 수액 경로·투여량은 탈수·신기능·소변량에 따라 결정하고 HUS/핍뇨 발생 시 과부하에 주의_
 
@@ -188,7 +188,7 @@ flowchart TD
     class Emergency emergency
 ```
 
-> _모든 경로에서 탈수 정도에 따른 수분 보충과 가능한 조기 정상 식이를 병행. 혈성·염증성 설사 경로에서는 loperamide 등 장 운동 억제제를 사용하지 않음. 경험적 항생제는 전형적 중증 세균성이질, 고열(≥38.5℃) 또는 패혈증을 동반한 여행자 설사, 면역 저하자의 중증 혈성 설사·전신 감염 등 제한적 적응에서 고려하며, 중증 수양성 설사의 면역 저하자는 임상상에 따라 개별 판단. 일반적인 외래 경로는 48\~72시간 내 재평가하되 악화·탈수·혈변은 즉시 평가. STEC는 설사 호전 후에도 혈소판·Cr 변화를 추적. 전격성 CDI 의심 또는 검사 확정의 상당한 지연이 예상되는 경우 확진 전 치료를 고려하며, 전격성 의심 시 즉시 의뢰·치료 (☞ [감염성 설사 - CDI](085_-acute-infectious-diarrhea.md#cdi))_
+> _모든 경로에서 탈수 정도에 따른 수분 보충과 가능한 조기 정상 식이를 병행. 혈성·염증성 설사 경로에서는 loperamide 등 장 운동 억제제를 사용하지 않음. 경험적 항생제는 전형적 중증 세균성이질, 고열(≥38.5℃) 또는 패혈증을 동반한 여행자설사, 면역 저하자의 중증 혈성 설사·전신 감염 등 제한적 적응에서 고려하며, 중증 수양성 설사의 면역 저하자는 임상상에 따라 개별 판단. 일반적인 외래 경로는 48\~72시간 내 재평가하되 악화·탈수·혈변은 즉시 평가. STEC는 설사 호전 후에도 혈소판·Cr 변화를 추적. 전격성 CDI 의심 또는 검사 확정의 상당한 지연이 예상되는 경우 확진 전 치료를 고려하며, 전격성 의심 시 즉시 의뢰·치료 (☞ [감염성 설사 - CDI](085_-acute-infectious-diarrhea.md#cdi))_
 
 <p align="center"><strong>급성 설사 평가·치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IDSA 2017; IDSA/SHEA CDI 2017 update)</mark></em></p>
 
@@ -202,7 +202,7 @@ flowchart TD
 * 식이 조절 : 과도한 음식 제한은 회복을 지연시킴; 탈수 교정 후 가능한 한 빨리 정상 식이로 복귀 권장
 * 약물 치료 : 증상 완화 목적 (지사제, 항구토제)
 * 항생제 : 대부분 불필요; 선택적으로만 적용
-* 예방 (☞ [여행자 설사](086_-travelers-diarrhea.md))
+* 예방 (☞ [여행자설사](086_-travelers-diarrhea.md))
 * 외래 치료 가능 : 다음 조건을 모두 충족 시 - 무혈변, 발열 없음, 경구 수분 가능, 경증 탈수
   * → ORS + 조기 식이 + 증상 완화 치료
 * 당일 재평가 필요 : Red Flags 「당일 평가」 항목, 임신부·면역 저하자, 가정에서 관리·추적이 어려운 경우
@@ -212,7 +212,7 @@ flowchart TD
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
-<table><thead><tr><th>표현형</th><th>시사 원인</th><th>치료 방향</th><th>주의</th></tr></thead><tbody><tr><td><strong>수양성 + 무발열 + 무혈변</strong></td><td>바이러스·비침습성 세균</td><td><p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p></td><td>항생제 불필요</td></tr><tr><td><strong>수양성 + 구토 우세</strong></td><td>바이러스·독소형 식중독</td><td><p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p></td><td>항생제 불필요</td></tr><tr><td><strong>혈변·점액변 ± 발열</strong></td><td>침습성 세균, STEC, 허혈성 대장염, IBD 등</td><td><p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p></td><td><p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p></td></tr><tr><td><strong>전형적 중증 세균성이질·고열 여행자 설사·패혈증·면역 저하자의 중증 혈성 설사 또는 전신 감염 의심</strong></td><td><em>Shigella, Campylobacter</em>, 장티푸스 등</td><td>가능하면 대변·혈액 배양 후 경험적 항생제 고려</td><td>지역 내성·여행지·STEC 가능성 반영</td></tr><tr><td><strong>항생제·의료기관 노출 후 새 설사</strong></td><td>AAD 또는 CDI</td><td><p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p></td><td>NAAT 양성만으로 보균과 감염을 구분할 수 없음</td></tr><tr><td><strong>고령·면역 저하·패혈증 의심</strong></td><td>다양(기회감염·비감염성 원인 포함)</td><td>위험에 따른 선택 검사; 입원·전원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
+<table><thead><tr><th>표현형</th><th>시사 원인</th><th>치료 방향</th><th>주의</th></tr></thead><tbody><tr><td><strong>수양성 + 무발열 + 무혈변</strong></td><td>바이러스·비침습성 세균</td><td><p>ORS + 조기 정상 식이<br>필요시 성인 loperamide 단기간</p></td><td>항생제 불필요</td></tr><tr><td><strong>수양성 + 구토 우세</strong></td><td>바이러스·독소형 식중독</td><td><p>ORS를 소량씩 반복<br>ORS가 어려운 심한 구토에서 항구토제 선택적 고려</p></td><td>항생제 불필요</td></tr><tr><td><strong>혈변·점액변 ± 발열</strong></td><td>침습성 세균, STEC, 허혈성 대장염, IBD 등</td><td><p>대변 배양/분자검사 + Shiga toxin 검사<br>필요시 CBC·혈소판·Cr</p></td><td><p>STEC 의심 시 항생제 회피<br>그 외에도 경험적 항생제는 제한적 적응에서만<br>loperamide 회피</p></td></tr><tr><td><strong>전형적 중증 세균성이질·고열 여행자설사·패혈증·면역 저하자의 중증 혈성 설사 또는 전신 감염 의심</strong></td><td><em>Shigella, Campylobacter</em>, 장티푸스 등</td><td>가능하면 대변·혈액 배양 후 경험적 항생제 고려</td><td>지역 내성·여행지·STEC 가능성 반영</td></tr><tr><td><strong>항생제·의료기관 노출 후 새 설사</strong></td><td>AAD 또는 CDI</td><td><p>불필요한 원인 항생제 중단<br>CDI 검사 적응 평가<br>확진 시 중증도별 치료</p></td><td>NAAT 양성만으로 보균과 감염을 구분할 수 없음</td></tr><tr><td><strong>고령·면역 저하·패혈증 의심</strong></td><td>다양(기회감염·비감염성 원인 포함)</td><td>위험에 따른 선택 검사; 입원·전원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
@@ -286,7 +286,7 @@ flowchart TD
 
 * 대부분의 급성 설사에서는 항생제가 필요하지 않음
   * 원인균·중증도·위험 인자에 따른 항균제 선택과 용법 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md#drug-treatment))
-* 전형적 중증 세균성이질, 고열 또는 패혈증을 동반한 여행자 설사, 중증 혈성 설사를 보이는 면역 저하자, 장티푸스성 패혈증 의심 등에서는 검사·배양과 함께 경험적 항생제를 고려
+* 전형적 중증 세균성이질, 고열 또는 패혈증을 동반한 여행자설사, 중증 혈성 설사를 보이는 면역 저하자, 장티푸스성 패혈증 의심 등에서는 검사·배양과 함께 경험적 항생제를 고려
   * 패혈증이 의심되면 배양 채취 때문에 치료를 지연하지 않음
 * 정상 면역 성인의 혈성 설사에는 원칙적으로 검사 결과 전 routine 경험적 항생제를 권고하지 않음
   * STEC 의심·확진 시에는 HUS 위험 때문에 항생제를 피하며, 바이러스성·경증 자기제한적 설사에도 사용하지 않음
@@ -327,12 +327,12 @@ flowchart TD
 
 ### <mark style="color:orange;">Bismuth 제제</mark>
 
-* bismuth subsalicylate (BSS) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark> : 경증 급성 설사·여행자 설사에서 선택적으로 증상 완화에 사용. ORS를 대신하지 않음
+* bismuth subsalicylate (BSS) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark> : 경증 급성 설사·여행자설사에서 선택적으로 증상 완화에 사용. ORS를 대신하지 않음
 * 용량·투여기간·금기·상호작용 (☞ [소화기계 약제 - Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate))
 
 ### <mark style="color:orange;">흡착제</mark>
 
-* dioctahedral smectite : 유통 확인 안 됨 (☞ [소화기계 약제 - 흡착제](073_-gidrugs.md#adsorbent))
+* dioctahedral smectite : 성인 급성 설사의 선택적 증상 완화 보조요법 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">포타겔현탁액</mark>](https://www.health.kr/drug/2019102400021)<mark style="color:blue;">]</mark>. 경구 수분 보충을 대체하지 않음. 용량·주의사항 (☞ [소화기계 약제 - 흡착제](073_-gidrugs.md#adsorbent))
 
 ### <mark style="color:orange;">항구토제</mark>
 
@@ -443,7 +443,7 @@ K59.1 기능성 설사는 급성 설사의 일반 코드로 사용하지 않음.
 
 [https://doi.org/10.1053/j.gastro.2020.05.059](https://doi.org/10.1053/j.gastro.2020.05.059)
 
-* <mark style="color:$info;">CDC Yellow Book 2026. Travelers’ Diarrhea. - 여행자 설사의 일반 원칙</mark>
+* <mark style="color:$info;">CDC Yellow Book 2026. Travelers’ Diarrhea. - 여행자설사의 일반 원칙</mark>
 
 [https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html)
 

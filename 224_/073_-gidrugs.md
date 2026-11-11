@@ -292,7 +292,7 @@
 ### <mark style="color:orange;">Bismuth</mark>
 
 * **Bismuth subsalicylate** : 악취 방귀 완화에 대하여 제한적 근거가 있으나, 일상적으로 권하지 않음(허가 외 사용)
-  * 급성 설사·여행자 설사의 용법과 주의사항 ☞ 아래 [Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate) 참조
+  * 급성 설사·여행자설사의 용법과 주의사항 ☞ 아래 [Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate) 참조
 
 ## <mark style="color:green;">변비 치료제 (Laxative)</mark>
 
@@ -450,8 +450,12 @@
 
 #### <mark style="color:$primary;">Dioctahedral smectite</mark>
 
-* 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토; 장점막 보호·흡착 작용. 유통 확인 안 됨
-* 별도로 2026년 7월 허가 변경에서 소아 급성 설사 적응증이 삭제되고 만 19세 미만 소아·청소년 사용이 제한됨
+* 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토; 장점막 보호·흡착 작용
+* 성인 : 3 g(20 ㎖, 1포) tid, 식간 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스타빅현탁액</mark>](https://www.health.kr/drug/2021030800001)<mark style="color:blue;">]</mark>
+* 복용 전 잘 흔들며, 다른 경구약의 흡수를 방해할 수 있으므로 통상 2시간 이상 간격을 둠
+* 변비·장폐색 병력에서 주의; 변비·복부 팽만이 생기면 중단·평가
+* 경구수분·전해질 보충의 보조요법이며 수분 보충을 대체하지 않음
+* 2026년 7월 허가 변경에서 소아 급성 설사 적응증이 삭제되고 만 19세 미만 소아·청소년 사용이 제한됨
 
 #### <mark style="color:$primary;">Kaolin-pectin</mark>
 
@@ -475,8 +479,8 @@
 
 #### <mark style="color:$primary;">Bismuth subsalicylate</mark> <a href="#bismuth-subsalicylate" id="bismuth-subsalicylate"></a>
 
-* 작용 : 항분비·항염·항균 작용을 통한 경증 급성 설사·여행자 설사의 증상 완화
-* 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용
+* 작용 : 항분비·항염·항균 작용을 통한 경증 급성 설사·여행자설사의 증상 완화
+* 급성 설사·여행자설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용
   * 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark>
 * Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용 시 사용하지 않음
 * 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
