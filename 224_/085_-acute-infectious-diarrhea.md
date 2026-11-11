@@ -41,7 +41,7 @@
 
 ++=흔함, +=발생함, ±=변이, NC=전형적이지 않음, 0=드물거나 없음. STEC=Shiga toxin-producing _E. coli_.\
 Norovirus: 구토 우세, 짧은 잠복기(12\~48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음.\
-비콜레라 _Vibrio_는 주로 장염비브리오(_V. parahaemolyticus_)를 뜻함. 콜레라는 전형적으로 혈변 없는 다량의 물 설사이며, _V. vulnificus_는 패혈증 경고(위 hint) 참조.\
+비콜레라 \_Vibrio\_는 주로 장염비브리오(_V. parahaemolyticus_)를 뜻함. 콜레라는 전형적으로 혈변 없는 다량의 물 설사이며, \_V. vulnificus\_는 패혈증 경고(위 hint) 참조.\
 \*STEC: 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 혈성 설사와 심한 복통이 특징이나 초기에는 비혈성 설사일 수 있음. 대변 백혈구 검사는 원인 병원체를 판별하는 데 권고되지 않음.
 
 <p align="center"><em><mark style="color:$info;">Ref. NEJM 2004;350, Table 1</mark></em></p>
@@ -60,7 +60,7 @@ Norovirus: 구토 우세, 짧은 잠복기(12\~48시간), 폭발적 집단 발�
 
 <table data-header-hidden><thead><tr><th width="147"></th><th width="131"></th><th></th></tr></thead><tbody><tr><td><strong>원인균</strong></td><td><strong>증상 / 설사 특징</strong></td><td><strong>원인 음식 / 관련 인자</strong></td></tr><tr><td><em>Vibrio cholerae</em></td><td>물 설사</td><td>어패류, 물</td></tr><tr><td>ETEC</td><td>물 설사</td><td>샐러드, 치즈, 육류, 물; 여행</td></tr><tr><td>STEC</td><td>혈성 설사</td><td>소고기, 살라미, 비살균 우유/채소, 사과 주스; 단체 생활, 고령</td></tr><tr><td><em>Salmonella</em></td><td>염증성 설사</td><td>소고기, 가금류, 계란, 유제품</td></tr><tr><td><em>Campylobacter</em></td><td>염증성 설사</td><td>가금류, 비살균 우유; 여행, 동물 접촉</td></tr><tr><td><em>Shigella</em></td><td>dysentery</td><td>감자/계란 샐러드, 상추, 비살균 채소; 밀집 생활, 여행</td></tr><tr><td><em>V. parahaemolyticus</em></td><td>주로 물 설사; 때때로 혈변</td><td>연체동물, 갑각류</td></tr><tr><td>Norovirus</td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변/구토물에 오염; 레스토랑, 단체 시설</td></tr><tr><td>Rotavirus</td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변에 오염; 단체 시설, 어린이 시설</td></tr></tbody></table>
 
-ETEC=Enterotoxigenic _E. coli_. 위 시간대는 대략적인 경향임. Norovirus는 12\~48시간, 비티푸스 _Salmonella_는 6시간\~6일, 장염비브리오는 4\~96시간에도 발병하므로 '16시간 초과'로 일률 분류하지 않음.
+ETEC=Enterotoxigenic _E. coli_. 위 시간대는 대략적인 경향임. Norovirus는 12\~48시간, 비티푸스 \_Salmonella\_는 6시간\~6일, 장염비브리오는 4\~96시간에도 발병하므로 '16시간 초과'로 일률 분류하지 않음.
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine 21st ed. 2022</mark></em></p>
 
@@ -84,29 +84,29 @@ ETEC=Enterotoxigenic _E. coli_. 위 시간대는 대략적인 경향임. Norovir
 * _Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_ → 반응성 관절염
 * 세균성 장염·_Giardia_ 등 → 감염 후 IBS
 
-### <mark style="color:$danger;">🚩  Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 저혈압·말초 순환 부전·의식 변화·무뇨 또는 현저한 핍뇨, 경구 수분 섭취 불가  `중증 탈수` `쇼크`
-* 발열 또는 저체온에 저혈압·의식 변화·장기 기능 이상 동반  `패혈증`
-* 심한 복통과 복막 자극 징후·복벽 강직  `장 천공` `장 허혈`
-* 혈성 설사 중 또는 호전 후 소변 감소·창백·멍·혈소판 감소·신기능 악화  `HUS`
-* 면역 저하자의 심한 설사·발열에 활력징후 불안정 또는 장기 기능 이상 동반  `중증 감염`
-* 만성 간질환 환자의 날 해산물 섭취 후 발열·저혈압·통증성 수포성 피부 병변  `V. vulnificus 패혈증`
+* 저혈압·말초 순환 부전·의식 변화·무뇨 또는 현저한 핍뇨, 경구 수분 섭취 불가 `중증 탈수` `쇼크`
+* 발열 또는 저체온에 저혈압·의식 변화·장기 기능 이상 동반 `패혈증`
+* 심한 복통과 복막 자극 징후·복벽 강직 `장 천공` `장 허혈`
+* 혈성 설사 중 또는 호전 후 소변 감소·창백·멍·혈소판 감소·신기능 악화 `HUS`
+* 면역 저하자의 심한 설사·발열에 활력징후 불안정 또는 장기 기능 이상 동반 `중증 감염`
+* 만성 간질환 환자의 날 해산물 섭취 후 발열·저혈압·통증성 수포성 피부 병변 `V. vulnificus 패혈증`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 혈변·농변 또는 ≥38.5℃ 발열에 심한 복통·전신 증상 동반  `침습성 장염` `STEC`
-* ≥6회/24시간의 설사 지속과 기립 시 어지럼·빈맥 등 탈수 진행  `탈수`
-* 고령·허약, 임신, 영아 또는 면역 저하자의 중등도 이상 설사  `중증화 고위험군`
-* 최근 3개월 내 항생제 사용 후 새 설사에 발열·복통 동반  `C. difficile 감염`
+* 혈변·농변 또는 ≥38.5℃ 발열에 심한 복통·전신 증상 동반 `침습성 장염` `STEC`
+* ≥6회/24시간의 설사 지속과 기립 시 어지럼·빈맥 등 탈수 진행 `탈수`
+* 고령·허약, 임신, 영아 또는 면역 저하자의 중등도 이상 설사 `중증화 고위험군`
+* 최근 3개월 내 항생제 사용 후 새 설사에 발열·복통 동반 `C. difficile 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 대증 치료 48\~72시간 후에도 호전이 없거나 7일 이상 지속되는 설사  `원충 감염` `약물성 설사`
-* 14일 이상 지속되는 설사  `지속성 설사` `IBD` `감염 후 IBS`
-* 설사 소실 후에도 지속되는 체중 감소·복통  `흡수 불량` `IBD` `악성 종양`
+* 대증 치료 48\~72시간 후에도 호전이 없거나 7일 이상 지속되는 설사 `원충 감염` `약물성 설사`
+* 14일 이상 지속되는 설사 `지속성 설사` `IBD` `감염 후 IBS`
+* 설사 소실 후에도 지속되는 체중 감소·복통 `흡수 불량` `IBD` `악성 종양`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -188,7 +188,7 @@ ETEC=Enterotoxigenic _E. coli_. 위 시간대는 대략적인 경향임. Norovir
 * 여행자 14일 이상 설사 지속 : 기생충 검사
 * 설사 발생 전 8\~12주 내 항생제 복용력 : 임상적 검사 적응증을 충족하면 _C. difficile_ 검사; 항생제·입원력이 없어도 지역사회 CDI 가능
 * 대변 백혈구·lactoferrin·잠혈만으로 세균성 원인을 확정하거나 항생제 여부를 결정하지 않음
-* 기생충 일반 충란 검사만으로 _Cryptosporidium_·_Cyclospora_가 빠질 수 있어 의심 병원체의 항원·PCR 또는 특수 염색을 별도 의뢰
+* 기생충 일반 충란 검사만으로 _Cryptosporidium_·\_Cyclospora\_가 빠질 수 있어 의심 병원체의 항원·PCR 또는 특수 염색을 별도 의뢰
 
 #### <mark style="color:$primary;">기타 검사</mark>
 
@@ -200,35 +200,6 @@ ETEC=Enterotoxigenic _E. coli_. 위 시간대는 대략적인 경향임. Norovir
 ***
 
 ```mermaid
-flowchart TD
-    A["급성 감염성 설사 의심<br/>묽은 변·수양변 ＜14일"] --> U["쇼크·중증 탈수·의식 변화<br/>복막 자극·패혈증?"]
-    U -- "예" --> E["응급 이송·수액 소생<br/>배양 등 평가와 필요한 즉시 치료"]
-    U -- "아니오" --> P["주요 임상 양상?"]
-    P -- "혈변·발열·심한 복통" --> B["대변 배양/분자검사<br/>Shiga toxin·혈소판·신기능 평가<br/>CDI 의심 시 CDI 검사 포함"]
-    B -- "CDI로 판단" --> CD
-    B -- "다른 원인 평가" --> Q["STEC 임상적 의심?<br/>발열만으로 배제하지 않음"]
-    Q -- "예" --> S["항생제·장운동억제제 회피<br/>수분 보충·HUS 반복 추적"]
-    Q -- "아니오" --> I["경험적 항생제 적응증?"]
-    I -- "예" --> AB["배양 채취 후 제한적 항생제<br/>전형적 중증 이질·고열 여행자 등"]
-    I -- "아니오" --> W1["ORS·조기 식이와 경과 관찰"]
-    P -- "주로 수양변·구토" --> C["CDI 임상적 의심?<br/>항생제·입원력 없어도 가능"]
-    C -- "예" --> CT["CDI 다단계 검사<br/>증상·대체 원인과 통합 해석"]
-    CT --> CD["CDI 확인 시 중증도별 치료<br/>불필요한 원인 항생제 중단 검토"]
-    C -- "아니오" --> T["해외여행·고위험군<br/>집단 발생·장기화 등?"]
-    T -- "예" --> X["노출·기능적 중증도 평가<br/>선택 검사 및 치료 적응증 판단"]
-    X --> N["원인별 치료 단계로<br/>경증 여행자 설사는 항생제 불필요"]
-    T -- "아니오" --> W2["ORS·조기 식이와 경과 관찰"]
-
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef emergency fill:#ffdddd,stroke:#d32f2f
-    class A neutral
-    class U,P,Q,I,C,T question
-    class B,CT,X test
-    class S,AB,CD,W1,W2,N treatment
-    class E emergency
 ```
 
 > _치료 시작 48\~72시간 내 반응을 평가하고, 악화·탈수·혈변은 즉시 재평가. STEC은 설사 호전 뒤에도 HUS 징후를 확인._
@@ -298,19 +269,19 @@ flowchart TD
 
 ### <mark style="color:orange;">항생제</mark>
 
-* 아래 용법은 성인 지침 용법이며 허가 용법·급여와 구분함. Azithromycin의 감염성 설사·여행자 설사 치료는 허가 외 사용임 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AGGGGA5794">지스로맥스</a>]</mark> (유효균종에 _Campylobacter_가 기재되어 있어도 장염 적응증 허가를 의미하지 않음)
+* 아래 용법은 성인 지침 용법이며 허가 용법·급여와 구분함. Azithromycin의 감염성 설사·여행자 설사 치료는 허가 외 사용임 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">지스로맥스</mark>](https://www.health.kr/drug/A11AGGGGA5794)<mark style="color:blue;">]</mark> (유효균종에 \_Campylobacter\_가 기재되어 있어도 장염 적응증 허가를 의미하지 않음)
 * 항생제 적응증 : 패혈증·장티푸스(창자열) 의심, 전형적인 중증 세균성이질, 해외여행 후 고열 또는 패혈증, 면역 저하자의 중증 혈성 설사, 치료 이득이 확인된 특정 병원체 감염
 
 #### <mark style="color:$primary;">병원체별 항생제 선택</mark>
 
-<table><thead><tr><th width="135">병원체 / 상황</th><th width="276">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(적응증에 해당하는 중증 침습성 설사)</td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일</td><td>면역 정상 성인의 혈성 설사에 일률적으로 투여하지 않음. 여행력·지역 내성·중증도에 따라 선택; 동남아·인도 등 fluoroquinolone 내성 Campylobacter 위험 지역에서는 azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(중등증 이상, 비침습성)</td><td>Azithromycin 1,000 ㎎ 단회<br>또는 500 ㎎ qd × 3일<br>Rifaximin 200 ㎎ tid × 3일 (대안) <mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO0736">노르믹스</a>]</mark></td><td>경증에는 항생제 권고하지 않음. Rifaximin은 발열·혈변 없는 비침습성 설사에만 사용</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일<br>Ceftriaxone 1~2 g IV qd × 3~5일 (중증)</td><td>경증은 수액 치료만으로 호전 가능. 다제·광범위 내성 증가 → 치료 필요 시 배양 및 감수성검사에 따라 선택</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일</td><td>Fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증·고위험군 또는 증상 초기에 선별 사용</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 ㎎ 단회 (감수성일 때)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>중증 탈수·고배출·초기 수분 치료 실패 또는 중증화 고위험군(임신, 고령, 중증 영양불량·HIV 등 동반 질환)에서 항생제 치료. 적극적 수액 보충이 치료의 핵심; 감수성·임신 여부를 고려하여 항생제 선택</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>중증 감염, 면역 저하, 생후 3개월 미만 영아, ≥50세이면서 죽상경화증 의심, 판막성·혈관내 질환·중요 관절질환 등 침습성 감염 고위험군에서 치료; 감수성에 따라 ceftriaxone, azithromycin 또는 ciprofloxacin 선택</td></tr><tr><td><strong>STEC (O157:H7 등)</strong></td><td><strong>항생제 피함</strong></td><td>발열이 없거나 경미한 혈성 설사와 심한 복통 시 특히 의심; HUS 위험 때문에 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em></td><td>Vancomycin 경구 125 ㎎ qid × 10일 (초발, 비전격성)</td><td>중증도 분류·전격성·재발 치료는 아래 <a href="#cdi">CDI</a> 참조</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250 ㎎ tid × 5~7일 <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0100A0080">후라시닐</a>]</mark></td><td>Metronidazole의 <em>Giardia</em> 치료는 허가 외 사용; tinidazole 2 g 단회는 국제 지침 대안(유통 확인 안 됨)</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500~750 ㎎ tid × 5~10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin(해외 약제) 등 luminal agent로 장내 낭종 제거 필요</td></tr></tbody></table>
+<table><thead><tr><th width="135">병원체 / 상황</th><th width="276">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(적응증에 해당하는 중증 침습성 설사)</td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일</td><td>면역 정상 성인의 혈성 설사에 일률적으로 투여하지 않음. 여행력·지역 내성·중증도에 따라 선택; 동남아·인도 등 fluoroquinolone 내성 Campylobacter 위험 지역에서는 azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(중등증 이상, 비침습성)</td><td>Azithromycin 1,000 ㎎ 단회<br>또는 500 ㎎ qd × 3일<br>Rifaximin 200 ㎎ tid × 3일 (대안) <mark style="color:blue;">[</mark><a href="https://health.kr/drug/A11AOOOOO0736"><mark style="color:blue;">노르믹스</mark></a><mark style="color:blue;">]</mark></td><td>경증에는 항생제 권고하지 않음. Rifaximin은 발열·혈변 없는 비침습성 설사에만 사용</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3일<br>Ceftriaxone 1~2 g IV qd × 3~5일 (중증)</td><td>경증은 수액 치료만으로 호전 가능. 다제·광범위 내성 증가 → 치료 필요 시 배양 및 감수성검사에 따라 선택</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일</td><td>Fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증·고위험군 또는 증상 초기에 선별 사용</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 ㎎ 단회 (감수성일 때)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>중증 탈수·고배출·초기 수분 치료 실패 또는 중증화 고위험군(임신, 고령, 중증 영양불량·HIV 등 동반 질환)에서 항생제 치료. 적극적 수액 보충이 치료의 핵심; 감수성·임신 여부를 고려하여 항생제 선택</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>중증 감염, 면역 저하, 생후 3개월 미만 영아, ≥50세이면서 죽상경화증 의심, 판막성·혈관내 질환·중요 관절질환 등 침습성 감염 고위험군에서 치료; 감수성에 따라 ceftriaxone, azithromycin 또는 ciprofloxacin 선택</td></tr><tr><td><strong>STEC (O157:H7 등)</strong></td><td><strong>항생제 피함</strong></td><td>발열이 없거나 경미한 혈성 설사와 심한 복통 시 특히 의심; HUS 위험 때문에 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em></td><td>Vancomycin 경구 125 ㎎ qid × 10일 (초발, 비전격성)</td><td>중증도 분류·전격성·재발 치료는 아래 <a href="085_-acute-infectious-diarrhea.md#cdi">CDI</a> 참조</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250 ㎎ tid × 5~7일 <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A0100A0080"><mark style="color:blue;">후라시닐</mark></a><mark style="color:blue;">]</mark></td><td>Metronidazole의 <em>Giardia</em> 치료는 허가 외 사용; tinidazole 2 g 단회는 국제 지침 대안(유통 확인 안 됨)</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500~750 ㎎ tid × 5~10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin(해외 약제) 등 luminal agent로 장내 낭종 제거 필요</td></tr></tbody></table>
 
 {% hint style="info" %}
-**fluoroquinolone 내성 현황** : _Campylobacter_·_Shigella_에서 fluoroquinolone 내성이 크게 증가했고 _Salmonella_도 증가 추세임(특히 아시아 유래 균주). 동남아·남아시아 여행 후 설사에서는 azithromycin을 경험적 1차 치료로 우선 고려함. 콜레라의 단회 요법(doxycycline·ciprofloxacin)은 지역 내성률에 따라 효과가 다를 수 있음.
+**fluoroquinolone 내성 현황** : _Campylobacter_·\_Shigella\_에서 fluoroquinolone 내성이 크게 증가했고 \_Salmonella\_도 증가 추세임(특히 아시아 유래 균주). 동남아·남아시아 여행 후 설사에서는 azithromycin을 경험적 1차 치료로 우선 고려함. 콜레라의 단회 요법(doxycycline·ciprofloxacin)은 지역 내성률에 따라 효과가 다를 수 있음.
 {% endhint %}
 
 {% hint style="info" %}
-**항생제 치료 실패·내성** : Azithromycin도 모든 균주에 유효한 것은 아님. XDR _Shigella_는 ampicillin·azithromycin·ceftriaxone·ciprofloxacin·TMP/SMX에 모두 내성으로 정의됨. 항생제 투여 후 24\~48시간 내 미호전 또는 악화 시 배양·감수성검사와 전문의 평가; 다른 비상약을 임의로 연속 복용하지 않음
+**항생제 치료 실패·내성** : Azithromycin도 모든 균주에 유효한 것은 아님. XDR \_Shigella\_는 ampicillin·azithromycin·ceftriaxone·ciprofloxacin·TMP/SMX에 모두 내성으로 정의됨. 항생제 투여 후 24\~48시간 내 미호전 또는 악화 시 배양·감수성검사와 전문의 평가; 다른 비상약을 임의로 연속 복용하지 않음
 
 <mark style="color:$info;">\[MMWR 2026] 미국 감시 결과(XDR 비율 2011년 0% → 2023년 8.5%)는 국내에 그대로 적용하지 않음.</mark>
 {% endhint %}
@@ -319,7 +290,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">C. difficile 감염 (CDI)</mark> <a href="#cdi" id="cdi"></a>
 
-<table><thead><tr><th width="97">중증도</th><th width="217">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC ＜15,000/㎕ <strong>및</strong><br>혈청 Cr ≤1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[<a href="https://www.health.kr/drug/2020082800001">반코진</a>]</mark></td></tr><tr><td><strong>중증</strong><br><strong>(비전격성)</strong></td><td>WBC ≥15,000/㎕ <strong>또는</strong><br>혈청 Cr ＞1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일<br>전격성 소견 없이 500 ㎎ qid로 일률적 증량하지 않음</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크, 장마비(ileus) 또는 독성거대결장</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가; 즉시 입원·외과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="97">중증도</th><th width="217">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC ＜15,000/㎕ <strong>및</strong><br>혈청 Cr ≤1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2020082800001"><mark style="color:blue;">반코진</mark></a><mark style="color:blue;">]</mark></td></tr><tr><td><strong>중증</strong><br><strong>(비전격성)</strong></td><td>WBC ≥15,000/㎕ <strong>또는</strong><br>혈청 Cr ＞1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일<br>전격성 소견 없이 500 ㎎ qid로 일률적 증량하지 않음</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크, 장마비(ileus) 또는 독성거대결장</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가; 즉시 입원·외과 협진</td></tr></tbody></table>
 
 > _위 표는 IDSA/SHEA 2017의 중증 지표(WBC ≥15,000/㎕ 또는 혈청 Cr ＞1.5 ㎎/dL)를 바탕으로 경계값의 중복을 피하도록 재구성한 것임. 원문에서는 비중증을 WBC ≤15,000/㎕ 및 Cr ＜1.5 ㎎/dL로 기술하여 WBC 15,000/㎕는 두 범주에 겹치고 Cr 1.5 ㎎/dL은 어느 범주에도 속하지 않음. AGA 2026은 WBC ＞15,000/㎕ 또는 Cr ＞기저치의 1.5배를 중증 지표로 제시하므로, 기저 Cr이 높은 CKD 환자와 기저 Cr이 낮은 환자에서 분류가 달라질 수 있음. 기준을 혼용하지 않고 혈역학적 상태·장기 기능·임상 경과를 함께 평가함._
 
@@ -353,22 +324,22 @@ flowchart TD
 
 * 이 장의 loperamide 용법은 면역 정상 성인에 한함. 일부 소아 제형은 허가되어 있으나 IDSA는 급성 설사의 18세 미만에 사용하지 않도록 권고함
 * 일부 설사 횟수 감소 효과; 침습성 세균 감염(발열·혈성·점액성 변) 시 사용하지 않음
-* loperamide : 초회 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/24시간 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1660A0057">로프민</a>]</mark>
+* loperamide : 초회 4 ㎎, 이후 묽은 변마다 2 ㎎; 최대 16 ㎎/24시간 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로프민</mark>](https://www.health.kr/drug/A11A1660A0057)<mark style="color:blue;">]</mark>
   * 허가 최대용량은 16 ㎎/일이나 이 책의 일반 외래·자가 치료 한도는 8 ㎎/일, 최대 2일; 혈변·발열·전신 독성·STEC 또는 CDI 의심·급성 중증 대장염·장폐색 위험 시 사용하지 않음
   * 항생제 병용이 금기를 해제하지 않으며, 48시간 내 미호전 또는 복부 팽만·변비·심한 통증이면 중단·재평가 (☞ [여행자 설사](086_-travelers-diarrhea.md))
 
 ### <mark style="color:orange;">진경제</mark>
 
 * 경련성 복통 완화를 위해 단기간 사용할 수 있으나 수분 보충과 원인 치료를 대신하지 않음. 복막 자극 징후·장마비·독성거대결장, CDI 또는 혈변·발열을 동반한 침습성 장염이 의심되면 사용하지 않음
-* cimetropium : 50 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7809">알피움</a>]</mark>
+* cimetropium : 50 ㎎ bid\~tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">알피움</mark>](https://www.health.kr/drug/A11AOOOOO7809)<mark style="color:blue;">]</mark>
   * 항콜린성 진경제인 cimetropium은 _C. perfringens_ 감염이 의심되는 경우에도 피함 <mark style="color:$info;">\[IDSA 2017]</mark>
   * Cimetropium은 고령에서 가능한 한 회피. 전립선비대·요저류·녹내장·장폐색/협착·궤양성 대장염·거대결장·역류성 식도염·중증 근무력증은 금기. TCA·항히스타민제 등 항콜린 작용 약물과 병용하지 않음
-* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0430A0302">티로파</a>]</mark>; 중증 간부전·위장관 협착·거대결장·허탈은 금기. 녹내장·전립선비대는 신중 투여
+* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">티로파</mark>](https://www.health.kr/drug/A11A0430A0302)<mark style="color:blue;">]</mark>; 중증 간부전·위장관 협착·거대결장·허탈은 금기. 녹내장·전립선비대는 신중 투여
 
 ### <mark style="color:orange;">구토 조절제 (Antiemetics)</mark>
 
 * 심한 구토로 ORS 섭취가 어려울 때 제한적으로 고려; 성인 급성 위장관염에서 일상적 반복 처방 근거는 제한적
-* ondansetron : 성인 1회 경구 용량 4\~8 ㎎ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1538">조프란자이디스</a>]</mark>(구강붕해정 4 ㎎), <mark style="color:blue;">\[<a href="https://www.health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1541">조프란</a>]</mark>(필름코팅정 8 ㎎). 급성 위장관염 구토에는 허가 외 사용
+* ondansetron : 성인 1회 경구 용량 4\~8 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조프란자이디스</mark>](https://www.health.kr/drug/A11ABBBBB1538)<mark style="color:blue;">]</mark>(구강붕해정 4 ㎎), <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조프란</mark>](https://www.health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1541)<mark style="color:blue;">]</mark>(필름코팅정 8 ㎎). 급성 위장관염 구토에는 허가 외 사용
   * 소아의 적용 연령·체중별 용량 및 소량 조제 시 주의 (☞ [급성 설사](083_-acute-diarrhea.md))
   * 구토 조절을 통해 ORS 섭취를 도울 수 있으나 수액 치료를 대신하지 않음
   * 선천성 QT 연장 증후군에서는 피하고, 확인된 저칼륨혈증·저마그네슘혈증은 투여 전에 교정. 서맥·다른 QT 연장 약물 병용에 주의하며 설사가 증가할 수 있음. Apomorphine(심한 저혈압·의식 소실)·domperidone·ribociclib은 병용 금기 (☞ [소화기계 약제](073_-gidrugs.md))
@@ -376,12 +347,11 @@ flowchart TD
 ### <mark style="color:orange;">분비 억제제 (Antisecretory)</mark>
 
 * bismuth subsalicylate (BSS) : 경증 급성 설사·여행자 설사의 선택적 증상 완화
-  * 성인 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용; 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023041200001">펩토무스현탁액</a>]</mark>
+  * 성인 급성 설사·여행자 설사 : 현탁액 30 ㎖(525 ㎎)를 30분마다 또는 60 ㎖(1,050 ㎎)를 1시간마다 필요시 복용; 24시간 최대 240 ㎖(30 ㎖ 기준 8회 용량), 최대 2일 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">펩토무스현탁액</mark>](https://www.health.kr/drug/2023041200001)<mark style="color:blue;">]</mark>
   * Salicylate 과민, 소화성 궤양·출혈 이상·혈변/흑변, 다른 salicylate 제제 병용에서는 사용하지 않음. 바이러스 감염이 의심되는 소아·청소년은 Reye 증후군 위험 때문에 피함
   * 신기능 저하·통풍 환자 및 항응고제·methotrexate·probenecid 복용자는 피함 <mark style="color:$info;">\[CDC]</mark>. 상세 주의사항 (☞ [소화기계 약제 - Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate))
   * 혀·변의 일시적 흑색 변색이 생길 수 있음; 이명·청력 저하, 증상 악화 또는 2일 이상 지속 시 중단·평가
-
-* racecadotril : 성인 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019012500080">하이드라섹</a>]</mark>; 정상 배변 2회까지, 최대 7일
+* racecadotril : 성인 100 ㎎ tid, 식전 복용 권장 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">하이드라섹</mark>](https://www.health.kr/drug/2019012500080)<mark style="color:blue;">]</mark>; 정상 배변 2회까지, 최대 7일
   * Enkephalinase 억제 작용 → 장 분비 억제; 장 운동 억제는 적음
   * 비혈성 급성 수양성 설사에서 ORS의 선택적 보조요법. 혈변 또는 농성 변과 발열, 항생제 관련 설사, 만성 설사, 지속적·조절되지 않는 구토는 금기. 성인 캡슐은 간·신장애에서 신중 투여하며, 상세 금기·주의사항 (☞ [소화기계 약제 - Racecadotril](073_-gidrugs.md#racecadotril))
   * ACE 억제제 병용 시 혈관부종 위험 증가; ACE 억제제로 인한 혈관부종 병력은 금기. 얼굴·혀 부종·호흡곤란 또는 전신 발진·발열이면 중단·평가
@@ -411,7 +381,7 @@ flowchart TD
   * A04.7 클로스트리듐 디피실리에 의한 장결장염 Enterocolitis due to Clostridium difficile
 * A05 달리 분류되지 않은 기타 세균성 음식매개중독 Other bacterial foodborne intoxications, NEC
 * A06.0 급성 아메바이질 Acute amoebic dysentery
-* A07.1 편모충증[람블편모충증] Giardiasis [lambliasis]
+* A07.1 편모충증\[람블편모충증] Giardiasis \[lambliasis]
 * A07.2 와포자충증 Cryptosporidiosis
 * A08 바이러스성 및 기타 명시된 장감염 Viral and other specified intestinal infections
   * A08.0 로타바이러스장염 Rotaviral enteritis
@@ -430,6 +400,7 @@ flowchart TD
 > 로프민캡슐 2 ㎎/C　　　　　처음 2C, 이후 묽은 변마다 1C
 > 　　　　　　　　　　　(이 책의 일반 외래·자가 치료 한도 4C/일, 최대 2일)
 > ```
+>
 > 약제 정보: [로프민캡슐 2 ㎎](https://www.health.kr/drug/A11A1660A0057) · 선택 : [알피움정 50 ㎎](https://www.health.kr/drug/A11AOOOOO7809) · [조프란자이디스정 4 ㎎](https://www.health.kr/drug/A11ABBBBB1538)
 >
 > _✽ 성인 비염증성 물 설사에서 ORS 후 필요할 때 선택하는 증상 완화 예시. 경련성 통증이 불편하면 금기를 확인하여 알피움정 50 ㎎ 1T bid\~tid를 단기간 고려하되 고령에서는 가능한 한 회피. 이를 모두 병용하는 처방은 아님. ORS를 우선하며 loperamide는 혈변·발열 발생 시 즉시 중단. 구토가 심하면 QT 연장 위험 등을 확인한 후 조프란자이디스정 4 ㎎(구강붕해정) 추가 고려. 프로바이오틱스는 일상적으로 권고하지 않으며, 기대 이득과 균주별 근거를 검토하여 제한적으로 고려._
@@ -441,6 +412,7 @@ flowchart TD
 > 로프민캡슐 2 ㎎/C　　　　　처음 2C, 이후 묽은 변마다 1C
 > 　　　　　　　　　　　(이 책의 일반 외래·자가 치료 한도 4C/일, 최대 2일)
 > ```
+>
 > 약제 정보: [지스로맥스정 250 ㎎](https://www.health.kr/drug/A11AGGGGA5794) · [로프민캡슐 2 ㎎](https://www.health.kr/drug/A11A1660A0057)
 >
 > _✽ 성인 중등증 여행자 설사에서 이득·위해를 평가하여 선택한 항생제 처방례 (azithromycin은 허가 외 사용). 경증에는 항생제 불필요. Loperamide는 초회 4 ㎎, 이후 묽은 변마다 2 ㎎, 이 책의 일반 외래·자가 치료 한도 8 ㎎/일·최대 2일. 발열·혈변 발생 시 중단·재평가. 비침습성으로 판단되면 rifaximin(노르믹스정) 200 ㎎ tid × 3일도 대안이며 ciprofloxacin은 지역 감수성·이상반응 위험을 반영한 대체 옵션. ORS가 어려운 구토는 QT 위험을 확인하여 ondansetron 선택적 고려._
@@ -451,15 +423,17 @@ flowchart TD
 > 지스로맥스정 250 ㎎/T　　2T　qd × 3일
 > 타이레놀정 500 ㎎/T　1T　6시간 간격 필요시 (이 예시 최대 4T/일)
 > ```
+>
 > 약제 정보: [지스로맥스정 250 ㎎](https://www.health.kr/drug/A11AGGGGA5794) · [타이레놀정 500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽ 활력징후가 안정되고 경구 섭취가 가능한 성인에서 발열·복통·뒤무직을 동반한 전형적인 세균성이질 등 경험적 치료 적응증을 확인하여 선택함. 패혈증·장티푸스 의심·중증 면역 저하자의 전신감염은 이 외래 처방을 적용하지 않고 입원 치료함. Azithromycin의 장염 치료는 허가 외 사용임. **loperamide는 사용하지 않음**. STEC 의심(혈성 설사 + 심한 복통; 무발열·미열에서 특히 의심하되 발열로 배제하지 않음) 시 항생제 투여를 보류하고 Shiga toxin 검사를 시행함. 고열 지속·패혈증 징후 시 혈액 배양 및 전문의 의뢰._
 
-> **처방례 4. 확인된 초발 _C. difficile_ 감염 (비전격성)**
+> **처방례 4. 확인된 초발&#x20;**_**C. difficile**_**&#x20;감염 (비전격성)**
 >
 > ```
 > 반코진캡슐 125 ㎎/C　1C  qid  ×10일
 > ```
+>
 > 약제 정보: [반코진캡슐 125 ㎎](https://www.health.kr/drug/2020082800001)
 >
 > _✽ 경구 vancomycin을 사용한 성인 초발 비전격성 CDI 처방례. 임상적으로 의미 있는 설사와 검사 결과가 일치할 때 사용하며, NAAT 양성·독소 음성의 불일치 결과는 보균으로 단정하지 말고 임상적 감염 가능성을 함께 판단함. 중증(WBC ≥15,000/㎕ 또는 Cr ＞1.5 ㎎/dL)도 같은 용량을 사용. 불필요한 원인 항생제를 중단하거나 범위를 축소. 첫 재발은 이전 치료·재발 위험·이용 가능한 약제를 고려하여 전문의와 치료를 결정. 전격성(저혈압·쇼크, 장마비, 독성거대결장)은 즉시 입원하여 vancomycin 500 ㎎ PO/NG qid + metronidazole 500 ㎎ IV q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가 및 외과 협진. Fidaxomicin의 국제 지침상 권고와 국내 이용 가능성은 위 본문(CDI) 참조._
@@ -487,9 +461,7 @@ flowchart TD
 [https://doi.org/10.1056/NEJMcp031534](https://doi.org/10.1056/NEJMcp031534)
 
 * <mark style="color:$info;">Harrison's Principles of Internal Medicine. 21st ed. 2022. - 바이러스·세균 비교, 잠복기별 감염 특징</mark>
-
 * <mark style="color:$info;">UpToDate. Approach to the adult with acute diarrhea in resource-rich settings. 2024. - 주요 증상별 감별</mark>
-
 * <mark style="color:$info;">Kim YJ, et al. Guideline for the Antibiotic Use in Acute Gastroenteritis. Infect Chemother. 2019;51:217-243. - 국내 성인 지침</mark>
 
 [https://doi.org/10.3947/ic.2019.51.2.217](https://doi.org/10.3947/ic.2019.51.2.217)
@@ -537,7 +509,6 @@ flowchart TD
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
-
 * <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보 - 임상 권고와 허가·급여를 구분하여 적용</mark>
 
 [https://www.hira.or.kr](https://www.hira.or.kr)
