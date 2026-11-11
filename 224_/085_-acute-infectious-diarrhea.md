@@ -5,7 +5,7 @@
 * 감염원에 의해 발생한, 기간이 ＜14일인 설사; 보통 구역·구토·복통 동반
 * 이질 (dysentery) : 육안적 혈변이 있는 설사
   * 점액변·뒤무직·복통·발열이 동반될 수 있으나 점액변이나 발열만으로 이질로 정의하지 않음
-* [여행자설사](086_-travelers-diarrhea.md) : 여행 중 또는 귀국 후 발생할 수 있으며, 시작 시점·잠복기는 병원체와 노출 시점에 따라 다름&#x20;
+* [여행자설사](086_-travelers-diarrhea.md) : 여행 중 또는 귀국 후 발생할 수 있으며, 시작 시점·잠복기는 병원체와 노출 시점에 따라 다름
 
 {% hint style="info" %}
 **설사의 기간별 구분** : [급성](083_-acute-diarrhea.md) ＜14일, 지속성 ≥14일\~＜4주, [만성](084_-chronic-diarrhea.md) ≥4주. 평소보다 잦은 묽은 변·수양변(대개 ≥3회/일)을 기준으로 하며 단단한 변의 단순 횟수 증가와 구별
@@ -34,8 +34,8 @@
 
 <table data-search="false"><thead><tr><th width="130">특징</th><th width="230">바이러스</th><th>세균</th></tr></thead><tbody><tr><td><strong>계절</strong></td><td>온대: 겨울 / 열대: 연중</td><td>여름, 우기</td></tr><tr><td><strong>전염 경로</strong></td><td>분변-경구, 음식</td><td>음식·물, 분변-경구</td></tr><tr><td><strong>잠복기</strong></td><td>대개 1~3일</td><td>수 시간~수일 (병원체별 차이)</td></tr><tr><td><strong>이환 부위</strong></td><td>주로 소장</td><td>소장 또는 대장</td></tr><tr><td><strong>설사 양상</strong></td><td>대개 물 설사, 비염증성</td><td>물 설사 또는 염증성 설사</td></tr><tr><td><strong>발열</strong></td><td>보통 없음 또는 경미</td><td>침습성 설사에서 흔함</td></tr><tr><td><strong>구토</strong></td><td>흔함 (특히 norovirus)</td><td>미리 형성된 독소형에서 흔함</td></tr><tr><td><strong>치료 원칙</strong></td><td>대증 치료; 항생제 불필요</td><td>대증 치료; 일부에서 항생제 고려</td></tr></tbody></table>
 
-> _위 비교는 전형적인 경향이며 예외가 많음._ \
-> _ETEC·콜레라·독소형 식중독 등 세균 감염도 비염증성 물 설사를 자주 일으킴._
+> _위 비교는 전형적인 경향이며 예외가 많음._\
+> _&#x45;TEC·콜레라·독소형 식중독 등 세균 감염도 비염증성 물 설사를 자주 일으킴._
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine 21st ed. 2022</mark></em></p>
 
@@ -44,9 +44,9 @@
 <table data-search="false"><thead><tr><th width="210">병원체</th><th width="98">발열</th><th width="98">복통</th><th width="98">구역·구토</th><th width="98">혈변</th><th>점액변</th></tr></thead><tbody><tr><td><em><strong>Salmonella</strong></em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>++</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td><strong>STEC (O157:H7 등)</strong></td><td>0/±</td><td>++</td><td>+</td><td>++</td><td>0/±</td></tr><tr><td><em><strong>C. difficile</strong></em></td><td>+</td><td>+</td><td>NC</td><td>0/±</td><td>+</td></tr><tr><td><em><strong>Yersinia</strong></em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em><strong>Vibrio</strong></em><strong> (비콜레라)</strong></td><td>±</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>±</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td><em><strong>Cryptosporidium</strong></em></td><td>±</td><td>±</td><td>±</td><td>NC</td><td>NC</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>NC</td><td>+</td><td>+</td><td>NC</td><td>NC</td></tr><tr><td><strong>Norovirus</strong></td><td>NC/경미</td><td>+</td><td><strong>++</strong></td><td>NC</td><td>NC</td></tr></tbody></table>
 
 > _++=흔함, +=발생함, ±=변이, NC=전형적이지 않음, 0=드물거나 없음. STEC=Shiga toxin-producing E. coli._\
-> _Norovirus: 구토 우세, 짧은 잠복기(12\~48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음._\
-> _비콜레라 Vibrio는 주로 장염비브리오(V. parahaemolyticus)를 뜻함. 콜레라는 전형적으로 혈변 없는 다량의 물 설사이며, V. vulnificus는 패혈증 경고(위 hint) 참조._\
-> _STEC: 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 혈성 설사와 심한 복통이 특징이나 초기에는 비혈성 설사일 수 있음. 대변 백혈구 검사는 원인 병원체를 판별하는 데 권고되지 않음._
+> _&#x4E;orovirus: 구토 우세, 짧은 잠복기(12\~48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음._\
+> _&#xBE44;콜레라 Vibrio는 주로 장염비브리오(V. parahaemolyticus)를 뜻함. 콜레라는 전형적으로 혈변 없는 다량의 물 설사이며, V. vulnificus는 패혈증 경고(위 hint) 참조._\
+> _&#x53;TEC: 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 혈성 설사와 심한 복통이 특징이나 초기에는 비혈성 설사일 수 있음. 대변 백혈구 검사는 원인 병원체를 판별하는 데 권고되지 않음._
 
 <p align="center"><em><mark style="color:$info;">Ref. NEJM 2004;350, Table 1</mark></em></p>
 
@@ -64,8 +64,8 @@
 
 <table data-search="false"><thead><tr><th width="187">원인균</th><th width="142">증상 / 설사 특징</th><th>원인 음식 / 관련 인자</th></tr></thead><tbody><tr><td><em><strong>Vibrio cholerae</strong></em></td><td>물 설사</td><td>어패류, 물</td></tr><tr><td><strong>ETEC</strong></td><td>물 설사</td><td>샐러드, 치즈, 육류, 물; 여행</td></tr><tr><td><strong>STEC</strong></td><td>혈성 설사</td><td>소고기, 살라미, 비살균 우유/채소, 사과 주스; 단체 생활, 고령</td></tr><tr><td><em><strong>Salmonella</strong></em></td><td>염증성 설사</td><td>소고기, 가금류, 계란, 유제품</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>염증성 설사</td><td>가금류, 비살균 우유; 여행, 동물 접촉</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>dysentery</td><td>감자/계란 샐러드, 상추, 비살균 채소; 밀집 생활, 여행</td></tr><tr><td><em><strong>V. parahaemolyticus</strong></em></td><td>주로 물 설사; 때때로 혈변</td><td>연체동물, 갑각류</td></tr><tr><td><strong>Norovirus</strong></td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변/구토물에 오염; 레스토랑, 단체 시설</td></tr><tr><td><strong>Rotavirus</strong></td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변에 오염; 단체 시설, 어린이 시설</td></tr></tbody></table>
 
-> _ETEC=Enterotoxigenic E. coli._ \
-> _위 시간대는 대략적인 경향임. Norovirus는 12\~48시간, 비티푸스 Salmonella는 6시간\~6일, 장염비브리오는 4\~96시간에도 발병하므로 '16시간 초과'로 일률 분류하지 않음._
+> _ETEC=Enterotoxigenic E. coli._\
+> _&#xC704; 시간대는 대략적인 경향임. Norovirus는 12\~48시간, 비티푸스 Salmonella는 6시간\~6일, 장염비브리오는 4\~96시간에도 발병하므로 '16시간 초과'로 일률 분류하지 않음._
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine 21st ed. 2022</mark></em></p>
 
@@ -93,25 +93,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 저혈압·말초 순환 부전·의식 변화·무뇨 또는 현저한 핍뇨, 경구 수분 섭취 불가  `중증 탈수` `쇼크`
-* 발열 또는 저체온에 저혈압·의식 변화·장기 기능 이상 동반  `패혈증`
-* 심한 복통과 복막 자극 징후·복벽 강직  `장 천공` `장 허혈`
-* 혈성 설사 중 또는 호전 후 소변 감소·창백·멍·혈소판 감소·신기능 악화  `HUS`
-* 면역 저하자의 심한 설사·발열에 활력징후 불안정 또는 장기 기능 이상 동반  `중증 감염`
-* 만성 간질환 환자의 날 해산물 섭취 후 발열·저혈압·통증성 수포성 피부 병변  `V. vulnificus 패혈증`
+* 저혈압·말초 순환 부전·의식 변화·무뇨 또는 현저한 핍뇨, 경구 수분 섭취 불가 `중증 탈수` `쇼크`
+* 발열 또는 저체온에 저혈압·의식 변화·장기 기능 이상 동반 `패혈증`
+* 심한 복통과 복막 자극 징후·복벽 강직 `장 천공` `장 허혈`
+* 혈성 설사 중 또는 호전 후 소변 감소·창백·멍·혈소판 감소·신기능 악화 `HUS`
+* 면역 저하자의 심한 설사·발열에 활력징후 불안정 또는 장기 기능 이상 동반 `중증 감염`
+* 만성 간질환 환자의 날 해산물 섭취 후 발열·저혈압·통증성 수포성 피부 병변 `V. vulnificus 패혈증`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 혈변·농변 또는 ≥38.5℃ 발열에 심한 복통·전신 증상 동반  `침습성 장염` `STEC`
-* ≥6회/24시간의 설사 지속과 기립 시 어지럼·빈맥 등 탈수 진행  `탈수`
-* 고령·허약, 임신, 영아 또는 면역 저하자의 중등도 이상 설사  `중증화 고위험군`
-* 최근 3개월 내 항생제 사용 후 새 설사에 발열·복통 동반  `C. difficile 감염`
+* 혈변·농변 또는 ≥38.5℃ 발열에 심한 복통·전신 증상 동반 `침습성 장염` `STEC`
+* ≥6회/24시간의 설사 지속과 기립 시 어지럼·빈맥 등 탈수 진행 `탈수`
+* 고령·허약, 임신, 영아 또는 면역 저하자의 중등도 이상 설사 `중증화 고위험군`
+* 최근 3개월 내 항생제 사용 후 새 설사에 발열·복통 동반 `C. difficile 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 대증 치료 48\~72시간 후에도 호전이 없거나 7일 이상 지속되는 설사  `원충 감염` `약물성 설사`
-* 14일 이상 지속되는 설사  `지속성 설사` `IBD` `감염 후 IBS`
-* 설사 소실 후에도 지속되는 체중 감소·복통  `흡수 불량` `IBD` `악성 종양`
+* 대증 치료 48\~72시간 후에도 호전이 없거나 7일 이상 지속되는 설사 `원충 감염` `약물성 설사`
+* 14일 이상 지속되는 설사 `지속성 설사` `IBD` `감염 후 IBS`
+* 설사 소실 후에도 지속되는 체중 감소·복통 `흡수 불량` `IBD` `악성 종양`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -135,7 +135,7 @@
 
 * 혈성 설사에서 실무적으로 특히 중요한 세 병원체를 우선 감별. 단, _Salmonella_, _Yersinia_, 비콜레라 _Vibrio_, _E. histolytica_ 등과 허혈성 대장염·IBD 등 비감염성 원인도 고려
 
-<table><thead><tr><th width="130">균주</th><th>발열</th><th>혈변</th><th>복통</th><th>항생제</th><th>특기 사항</th></tr></thead><tbody><tr><td><strong>STEC</strong></td><td>드물거나 없음</td><td>흔함, 대량</td><td>매우 심함</td><td>일반적으로 피함</td><td>HUS 위험</td></tr><tr><td><strong><em>Shigella</em></strong></td><td>흔함 (++)</td><td>흔함, 점액 동반</td><td>중등도, tenesmus</td><td>중증·고위험군에서 감수성 기반 사용</td><td>tenesmus, 이질</td></tr><tr><td><strong><em>Campylobacter</em></strong></td><td>흔함 (++)</td><td>가능 (중등도)</td><td>심한 경련성</td><td>중증 시 사용</td><td>가금류 노출력</td></tr></tbody></table>
+<table><thead><tr><th width="130">균주</th><th>발열</th><th>혈변</th><th>복통</th><th>항생제</th><th>특기 사항</th></tr></thead><tbody><tr><td><strong>STEC</strong></td><td>드물거나 없음</td><td>흔함, 대량</td><td>매우 심함</td><td>일반적으로 피함</td><td>HUS 위험</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>흔함 (++)</td><td>흔함, 점액 동반</td><td>중등도, tenesmus</td><td>중증·고위험군에서 감수성 기반 사용</td><td>tenesmus, 이질</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>흔함 (++)</td><td>가능 (중등도)</td><td>심한 경련성</td><td>중증 시 사용</td><td>가금류 노출력</td></tr></tbody></table>
 
 {% hint style="danger" %}
 **STEC 감별 핵심** : 혈변·심한 복통, 특히 무발열 또는 미열이면 STEC를 의심하나 발열만으로 배제하지 않음. 혈변·염증성 설사는 대변 배양/분자검사와 Shiga toxin 또는 독소 유전자 검사를 고려. STEC 의심 시 항생제·장운동억제제를 피하고 HUS를 추적; 패혈증·장티푸스 의심은 배양 채취 후 즉시 치료·의뢰하며 일률적으로 검사 결과를 기다리지 않음.
@@ -149,7 +149,7 @@
 
 #### <mark style="color:$primary;">혈액 검사</mark>
 
-* 중증 (활력 징후 이상, 심한 복통, 탈수, 패혈증 의심) 시 고려&#x20;
+* 중증 (활력 징후 이상, 심한 복통, 탈수, 패혈증 의심) 시 고려
   * CBC, CRP, 전해질, creatinine
   * lactate (조직 관류 저하, 패혈증·장 경색 감별)
 * LFT·lipase는 간담도 질환·췌장염을 시사하는 증상·진찰 소견이 있을 때 선택적으로 시행
@@ -189,7 +189,7 @@
 * 여행자 14일 이상 설사 지속 : 기생충 검사
 * 설사 발생 전 8\~12주 내 항생제 복용력 : 임상적 검사 적응증을 충족하면 _C. difficile_ 검사; 항생제·입원력이 없어도 지역사회 CDI 가능
 * 대변 백혈구·lactoferrin·잠혈만으로 세균성 원인을 확정하거나 항생제 여부를 결정하지 않음
-* 기생충 일반 충란 검사만으로 <em>Cryptosporidium</em>·<em>Cyclospora</em>가 빠질 수 있어 의심 병원체의 항원·PCR 또는 특수 염색을 별도 의뢰
+* 기생충 일반 충란 검사만으로 _Cryptosporidium_·_Cyclospor&#x61;_&#xAC00; 빠질 수 있어 의심 병원체의 항원·PCR 또는 특수 염색을 별도 의뢰
 
 #### <mark style="color:$primary;">기타 검사</mark>
 
@@ -203,22 +203,22 @@
 ```mermaid
 flowchart TD
     A["급성 감염성 설사 의심<br/>묽은 변·수양변 ＜14일"] --> U["쇼크·중증 탈수·의식 변화<br/>복막 자극·패혈증?"]
-    U -- "예" --> E["응급 이송·수액 소생<br/>배양 등 평가와 필요한 즉시 치료"]
+    U -- "예" --> E["응급 이송·수액 소생<br/>배양 등 평가와 <br/>필요한 즉시 치료"]
     U -- "아니오" --> P["주요 임상 양상?"]
-    P -- "혈변·발열·심한 복통" --> B["대변 배양/분자검사<br/>Shiga toxin·혈소판·신기능 평가<br/>CDI 의심 시 CDI 검사 포함"]
+    P -- "혈변·발열·심한 복통" --> B["대변 배양/분자검사<br/>Shiga toxin·혈소판·<br/>신기능 평가<br/>CDI 의심 시 <br/>CDI 검사 포함"]
     B -- "CDI로 판단" --> CD
-    B -- "다른 원인 평가" --> Q["STEC 임상적 의심?<br/>발열만으로 배제하지 않음"]
-    Q -- "예" --> S["항생제·장운동억제제 회피<br/>수분 보충·HUS 반복 추적"]
-    Q -- "아니오" --> I["경험적 항생제 적응증?"]
-    I -- "예" --> AB["배양 채취 후 제한적 항생제<br/>전형적 중증 이질·고열 여행자 등"]
-    I -- "아니오" --> W1["ORS·조기 식이와 경과 관찰"]
-    P -- "주로 수양변·구토" --> C["CDI 임상적 의심?<br/>항생제·입원력 없어도 가능"]
-    C -- "예" --> CT["CDI 다단계 검사<br/>증상·대체 원인과 통합 해석"]
-    CT --> CD["CDI 확인 시 중증도별 치료<br/>불필요한 원인 항생제 중단 검토"]
+    B -- "다른 원인 평가" --> Q["STEC 임상적 의심?<br/>발열만으로 <br/>배제하지 않음"]
+    Q -- "예" --> S["항생제·<br/>장운동억제제 회피<br/>수분 보충·<br/>HUS 반복 추적"]
+    Q -- "아니오" --> I["경험적 <br/>항생제 <br/>적응증?"]
+    I -- "예" --> AB["배양 채취 후 <br/>제한적 항생제<br/>전형적 중증 이질·<br/>고열 여행자 등"]
+    I -- "아니오" --> W1["ORS·<br/>조기 식이와 <br/>경과 관찰"]
+    P -- "주로 수양변·구토" --> C["CDI 임상적 의심?<br/>항생제·입원력 <br/>없어도 가능"]
+    C -- "예" --> CT["CDI 다단계 검사<br/>증상·대체 원인과 <br/>통합 해석"]
+    CT --> CD["CDI 확인 시 <br/>중증도별 치료<br/>불필요한 원인 <br/>항생제 중단 검토"]
     C -- "아니오" --> T["해외여행·고위험군<br/>집단 발생·장기화 등?"]
-    T -- "예" --> X["노출·기능적 중증도 평가<br/>선택 검사 및 치료 적응증 판단"]
-    X --> N["원인별 치료 단계로<br/>경증 여행자설사는 항생제 불필요"]
-    T -- "아니오" --> W2["ORS·조기 식이와 경과 관찰"]
+    T -- "예" --> X["노출·기능적 <br/>중증도 평가<br/>선택 검사 및 <br/>치료 적응증 판단"]
+    X --> N["원인별 치료 단계로<br/>경증 여행자 설사는 <br/>항생제 불필요"]
+    T -- "아니오" --> W2["ORS·<br/>조기 식이와 <br/>경과 관찰"]
     classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef test fill:#e8f5e9,stroke:#81c784
@@ -229,7 +229,6 @@ flowchart TD
     class B,CT,X test
     class S,AB,CD,W1,W2,N treatment
     class E emergency
-
 ```
 
 > _치료 시작 48\~72시간 내 반응을 평가하고, 악화·탈수·혈변은 즉시 재평가. STEC은 설사 호전 뒤에도 HUS 징후를 확인._
@@ -312,7 +311,7 @@ flowchart TD
 
 > _azithromycin의 감염성 설사·여행자설사 치료는 허가 외 사용임 <mark style="color:blue;">\[</mark>_[_<mark style="color:blue;">지스로맥스</mark>_](https://www.health.kr/drug/A11AGGGGA5794)_<mark style="color:blue;">]</mark> (유효균종에 Campylobacter가 기재되어 있어도 장염 적응증 허가를 의미하지 않음)_
 
-* 항생제 안전성&#x20;
+* 항생제 안전성
   * azithromycin은 저칼륨혈증·QT 연장 및 ondansetron 병용에 주의
   * ciprofloxacin은 힘줄 손상·말초신경병증·중추신경계 이상·혈당 이상 등 위해와 신기능을 고려하며 대동맥류 고위험군·임부에서는 대안을 우선
   * doxycycline은 12세 미만 소아·임부·수유부에서 원칙적으로 사용하지 않음(GTFCC는 감수성 균주 콜레라에서 임부·소아를 포함해 1차로 권고)
@@ -328,7 +327,7 @@ flowchart TD
 <mark style="color:$info;">\[MMWR 2026] 미국 감시 결과(XDR 비율 2011년 0% → 2023년 8.5%)는 국내에 그대로 적용하지 않음.</mark>
 {% endhint %}
 
-#### <mark style="color:$primary;">_C. difficile_ 감염 (CDI)</mark> <a href="#cdi" id="cdi"></a>
+#### _<mark style="color:$primary;">C. difficile</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">감염 (CDI)</mark> <a href="#cdi" id="cdi"></a>
 
 <table><thead><tr><th width="97">중증도</th><th width="217">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC ＜15,000/㎕ <strong>및</strong><br>혈청 Cr ≤1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2020082800001"><mark style="color:blue;">반코진</mark></a><mark style="color:blue;">]</mark></td></tr><tr><td><strong>중증</strong><br><strong>(비전격성)</strong></td><td>WBC ≥15,000/㎕ <strong>또는</strong><br>혈청 Cr ＞1.5 ㎎/dL</td><td>vancomycin 경구 125 ㎎ qid × 10일<br>전격성 소견 없이 500 ㎎ qid로 일률적 증량하지 않음</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크, 장마비(ileus) 또는 독성거대결장</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 장마비 시 직장 vancomycin 500 ㎎ q6h 추가; 즉시 입원·외과 협진</td></tr></tbody></table>
 
