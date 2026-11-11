@@ -446,16 +446,12 @@
 * 효과는 균주·조합·적응증에 따라 다르며 설사·변비에 일률적으로 사용하지 않음
 * 복부 팽만·팽창 치료로 권고하지 않음 (☞ [Probiotics](073_-gidrugs.md#probiotics))
 
-### <mark style="color:orange;">흡착제 (Adsorbent)</mark>
+### <mark style="color:orange;">흡착제 (Adsorbent)</mark> <a href="#adsorbent" id="adsorbent"></a>
 
 #### <mark style="color:$primary;">Dioctahedral smectite</mark>
 
-* 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토
-* 작용 : 장점막 보호; 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설
-* <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스타빅현탁액</mark>](https://www.health.kr/drug/2021030800001)<mark style="color:blue;">]</mark> 3 g/20 ㎖ : 20 ㎖ tid 식간 복용
-  * 만 19세 미만 소아·청소년, 임부·임신 가능성이 있는 여성·수유부는 사용하지 않음
-* 변비·장폐색 병력에서 주의
-* 다른 경구약의 흡수를 방해할 수 있으므로 통상 2시간 이상 간격을 둠
+* 알루미늄·마그네슘의 이중 silicate로 구성된 천연 점토; 장점막 보호·흡착 작용. 유통 확인 안 됨
+* 별도로 2026년 7월 허가 변경에서 소아 급성 설사 적응증이 삭제되고 만 19세 미만 소아·청소년 사용이 제한됨
 
 #### <mark style="color:$primary;">Kaolin-pectin</mark>
 
