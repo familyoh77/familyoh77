@@ -12,14 +12,15 @@
 
 #### <mark style="color:$primary;">과운동성 설사 (Hypermotility)</mark>
 
-* 기능성 설사 (functional diarrhea) : 묽은 변이 주된 표현형. IBS-D와 구분할 때 복통뿐 아니라 배변·변 형태 변화와 연관된 반복적 복부 불편감도 확인(Rome V)
-* IBS-D (설사형 과민대장증후군) : 장-뇌 축(gut-brain axis) 이상, 장 과민성, 장내 미세 염증 및 microbiome dysbiosis 관여
-  * Post-infectious IBS : 급성 장염 이후 장 투과성 변화·미세 염증 지속으로 수개월 이상 설사·팽만·urgency 지속; 외래에서 흔히 간과됨
+* 기능성 설사 (functional diarrhea) : 반복적인 묽은 변이 주된 표현형이며, 복통·복부 불편감이 있더라도 IBS 기준을 충족하지 않음
+  * IBS-D와 구분 : [IBS-D](087_-ibs.md#rome-v)는 배변 또는 변 형태·횟수 변화와 연관된 반복적 복통 또는 복부 불편감이 있음 <mark style="color:$info;">\[Rome V]</mark>
+* Post-infectious IBS : 급성 장염 이후 장 투과성 변화·미세 염증 지속으로 수개월 이상 설사·팽만·urgency 지속; 외래에서 흔히 간과됨
 * 갑상선 기능 항진증, 당뇨병신경병증, 수술 후 (미주신경 절단술·위 절제술 후)
 
 #### <mark style="color:$primary;">삼투압 설사 (Osmotic)</mark>
 
-* 탄수화물 흡수 장애 : 당분(lactose, fructose), 당알코올(sorbitol, xylitol 등); sucralose·사카린 등 인공감미료도 일부 환자에서 증상을 유발할 수 있으나 전형적인 삼투압성 원인으로 단정하지 않음
+* 탄수화물 흡수 장애 : 당분(lactose, fructose), 당알코올(sorbitol, xylitol 등)
+  * sucralose·사카린 등 인공감미료도 일부 환자에서 증상을 유발할 수 있으나 전형적인 삼투압성 원인으로 단정하지 않음
 * 삼투성 하제 (예: MgO, phosphate, sulfate)
 * 금식 시 호전이 특징
 
@@ -32,35 +33,37 @@
 
 #### <mark style="color:$primary;">분비성 설사 (Secretory) - BAD 포함</mark>
 
+* 특징 : 다량의 수양성 설사가 금식 중 및 야간에도 지속될 수 있음
 * 담즙산 설사 (bile acid diarrhea, BAD) : 담즙산 흡수 감소 및/또는 합성 증가로 대장 내 담즙산이 과다해져 발생; 만성 수양성 설사의 주요 원인 중 하나로 과소 진단되는 경향
   * 담낭절제술 후 : 담즙산의 저장·방출 양상이 바뀌고 대장으로 전달되는 담즙산이 증가하여 발생 가능; 일부는 자연 호전하지만 지속 기간은 다양함
   * Terminal ileum 절제·질환 후
   * 특발성 BAD : terminal ileal disease 없이도 발생; IBS-D로 오진되는 경우 많음
-  * 야간 수양성 설사 + 담낭절제술 병력에서 의심하되, 이 양상만으로 확진하지 않음
-* 하제 : 자극성 하제(senna, bisacodyl), 변연화제(docusate) 등; 하제 남용은 환자가 밝히지 않는 경우가 있음
-* 종양 : VIPoma, gastrinoma, carcinoid syndrome, 갑상선 medullary carcinoma - 극히 드묾
-* Systemic mastocytosis; protein-losing enteropathy는 독립 원인이라기보다 여러 장 질환에서 발생하는 증후군으로 감별
-* 다량의 수양성 설사가 금식 중·야간에도 지속될 수 있음; BAD는 식후 악화도 가능하며, 증상 양상만으로 진단하지 않음
+  * 야간 수양성 설사 + 담낭절제술 병력에서 의심하되, 이 양상만으로 확진하지 않음; 식후 악화가 흔하고 금식 시 호전될 수 있어 전형적 분비성 양상과 다를 수 있음
+* 하제 : 자극성 하제(senna, bisacodyl), 변연화제(docusate) 등
+  * 하제 남용을 환자가 밝히지 않는 경우가 있으므로 주의
+* 종양 : VIPoma, gastrinoma, carcinoid syndrome, 갑상선 수질암 - 극히 드묾
+* Systemic mastocytosis : 비만세포 매개물질(histamine 등) 분비로 설사; 홍조·두드러기·복통 동반 가능 - 드묾
 
 #### <mark style="color:$primary;">약물 유발 설사</mark>
 
-* 마그네슘 함유 보충제·제산제, cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, colchicine, mycophenolate, 면역관문억제제, allopurinol, orlistat
+* 마그네슘 함유 보충제·제산제, cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, GLP-1RA, colchicine, mycophenolate, 면역관문억제제, allopurinol, orlistat&#x20;
   * olmesartan-associated enteropathy : olmesartan 복용 수개월\~수년 후 셀리악병과 유사한 중증 장병증 발생 가능; 심한 만성 설사·체중 감소·흡수 장애 → olmesartan 중단 후 호전
-* GLP-1 수용체 작용제 / GIP·GLP-1 이중 작용제 (semaglutide, liraglutide, tirzepatide 등) : 장 운동 변화 및 장 내 분비 변화로 오심·복부 팽만·설사 또는 변비 유발 가능
-  * 설사와 변비의 빈도는 제제·용량에 따라 다르며, 주로 치료 시작 또는 용량 증량기에 발생
+  * GLP-1 수용체 작용제 / GIP·GLP-1 이중 작용제 (semaglutide, liraglutide, tirzepatide 등) : 장 운동 변화 및 장 내 분비 변화로 오심·복부 팽만·설사 또는 변비 유발 가능
+    * 설사와 변비의 빈도는 제제·용량에 따라 다르며, 주로 치료 시작 또는 용량 증량기에 발생
 * 항생제 관련 장염 : _C. difficile_ 포함; 장내 dysbiosis로 인한 비특이적 설사 포함
-* 알코올 : 과다 섭취 시 장 운동 항진·점막 손상·흡수 장애로 만성 설사 유발
-* 허브 : St. John's wort, echinacea, 마늘, 인삼, saw palmetto, cranberry, 알로에 및 senna·cascara 등이 든 완하성 허브차
+* 알코올 : 과다 섭취 시 장 운동 항진, 점막 손상, 흡수 장애로 만성 설사 유발
+* 허브 : St. John's wort, echinacea, 마늘, 인삼, saw palmetto, cranberry, 알로에 및 senna·cascara 등을 함유한 완하성 허브차
 
 #### <mark style="color:$primary;">염증성·비감염성 설사 (Inflammatory)</mark>
 
 * IBD (Crohn's disease, 궤양성 대장염)
-* Microscopic colitis (collagenous colitis, lymphocytic colitis) : 내시경은 정상 또는 경미한 비특이 소견일 수 있으며 조직검사로 확진; NSAID·PPI·SSRI 등과 연관되며 발병과의 시간적 관계 확인
+* Microscopic colitis (collagenous colitis, lymphocytic colitis) : 내시경은 정상이거나 경미한 비특이 소견일 수 있으며 조직검사로 확진; NSAID·PPI·SSRI 등과 연관되며 발병과의 약물 투여의 시간적 관계 확인
 * 혈관염, 방사선 장염, 호산구성 장염
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : _Clostridioides difficile_, _Mycobacterium avium_ complex (MAC) (면역 저하자에서 주로 발생 - HIV, 장기이식, 고용량 스테로이드 복용자)
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium_ complex (MAC)&#x20;
+  * 면역 저하자에서 주로 발생 - HIV, 장기이식, 고용량 스테로이드 복용자
 * 바이러스 : cytomegalovirus (면역 저하자에서 주로 발생)
 * 기생충 : _Giardia duodenalis_ (_G. lamblia_), _Cryptosporidium_, _Cystoisospora belli_ (구 _Isospora belli_), _Strongyloides_
 
@@ -70,25 +73,9 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-### <mark style="color:orange;">기전별 임상 특징</mark>
+#### <mark style="color:$primary;">기전별 임상 특징</mark>
 
-<table><thead><tr><th width="140">기전 유형</th><th width="265">특징적 양상</th><th>감별 단서</th></tr></thead><tbody><tr><td>과운동성</td><td>하복부 통증, 소량 설사, 야간에 드묾</td><td>스트레스·식사와 연관; 장음↑</td></tr><tr><td>삼투압성</td><td>식사 후 설사, 복부 팽창/가스</td><td>금식 시 호전; 당류 제한 시 호전</td></tr><tr><td>흡수장애</td><td>지방변, 체중 감소, 영양 결핍</td><td>설사 양 많고 악취; 지용성 비타민 결핍</td></tr><tr><td>분비성/BAD</td><td>다량 수양성 설사, 야간에도 지속</td><td>금식 중에도 지속 가능; BAD는 식후 악화도 가능; 회장 질환·절제, 담낭절제술 병력</td></tr><tr><td>염증성</td><td>혈변, 농변, 복통, 발열, 체중 감소</td><td>대변 calprotectin↑; microscopic colitis는 비혈성 수양변·정상 내시경 가능</td></tr></tbody></table>
-
-### <mark style="color:orange;">변 양상 기반 접근 (Stool Phenotype Approach)</mark>
-
-<table><thead><tr><th width="220">변 양상</th><th>가장 의심할 진단</th></tr></thead><tbody><tr><td>수양성 + 야간 지속</td><td>Secretory, BAD, Microscopic colitis</td></tr><tr><td>식후 즉시 악화</td><td>IBS-D, BAD (담낭절제술 후), 삼투압성</td></tr><tr><td>지방변 (기름지고 악취)</td><td>Malabsorption, 췌장 외분비 부전, SIBO, 셀리악병</td></tr><tr><td>혈변·농변</td><td>IBD, 침습성 감염, 종양; C. difficile은 대개 비혈성 수양변</td></tr><tr><td>소량 빈번 + urgency 주증상</td><td>IBS-D, BAD, 직장 염증</td></tr><tr><td>복부 팽만·가스 동반</td><td>Carbohydrate intolerance, SIBO, IBS-D</td></tr><tr><td>금식 시 호전</td><td>Osmotic (유당·과당 불내성, 삼투성 하제)</td></tr><tr><td>금식해도 지속</td><td>Secretory (BAD, 종양, 하제 남용)</td></tr></tbody></table>
-
-### <mark style="color:orange;">Functional diarrhea vs IBS-D 감별</mark>
-
-* Rome V(2026)는 IBS에서 복통뿐 아니라 복부 불편감도 평가함. 복통이 없다는 이유만으로 IBS-D를 배제하거나 기능성 설사로 단정하지 않음
-
-<table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>주된 표현형</td><td>반복되는 묽은 변·수양변</td><td>설사형 배변 이상과 연관된 반복적 복통 또는 복부 불편감</td></tr><tr><td>감별 핵심</td><td>묽은 변의 비율, 단단한 변의 드문 발생 여부 및 IBS 기준 충족 여부를 종합</td><td>증상 빈도·기간 및 배변·배변 횟수·변 형태와의 관계</td></tr><tr><td>야간 설사·체중 감소·출혈</td><td colspan="2">기능성 진단에 앞서 기질적 원인 평가</td></tr><tr><td>치료 방향</td><td>변 형태·절박변 조절과 원인별 접근</td><td>변 형태 조절에 복통·불편감 및 장-뇌 축 치료 병행</td></tr></tbody></table>
-
-* 매일 깨어 있는 동안 계속되는 지속적(continuous) 복통이 있으면 Rome V의 IBS 기준에서 제외되지만, 이 군은 오히려 증상·심리 동반질환·기능 장애가 더 심할 수 있으므로 기능성 설사로 단순 분류하지 않음 <mark style="color:$info;">\[Rome V 2026]</mark>
-
-{% hint style="danger" %}
-**Microscopic colitis :** 고령(특히 60대 이상) 여성의 만성 비혈성 수양성·야간 설사에서는 대장내시경이 정상이어도 microscopic colitis를 적극 고려해야 함; 조직검사로 확진하며, 진단 누락을 줄이기 위해 정상 점막에서도 좌·우측 결장 생검을 권고. NSAID·PPI·SSRI 복용력 반드시 확인
-{% endhint %}
+<table><thead><tr><th width="140">기전 유형</th><th width="265">특징적 양상</th><th>감별 단서</th></tr></thead><tbody><tr><td><strong>과운동성</strong></td><td>하복부 통증, 소량 설사, 야간에 드묾</td><td>스트레스·식사와 연관; 장음↑</td></tr><tr><td><strong>삼투압성</strong></td><td>식사 후 설사, 복부 팽창/가스</td><td>금식 시 호전; 당류 제한 시 호전</td></tr><tr><td><strong>흡수장애</strong></td><td>지방변, 체중 감소, 영양 결핍</td><td>설사 양 많고 악취; 지용성 비타민 결핍</td></tr><tr><td><strong>분비성/BAD</strong></td><td>다량 수양성 설사, 야간에도 지속</td><td>금식 중에도 지속 가능; BAD는 식후 악화도 가능; 회장 질환·절제, 담낭절제술 병력</td></tr><tr><td><strong>염증성</strong></td><td>혈변, 농변, 복통, 발열, 체중 감소</td><td>대변 calprotectin↑; microscopic colitis는 비혈성 수양변·정상 내시경 가능</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -120,148 +107,114 @@
 * 병력 : 기저 질환, 약물(최근 항생제 포함), 식이(음식 일기), 음주, 정신사회적 스트레스, 여행력, 가족력, 수술력(담낭절제술)
 * 환자가 "설사"로 표현하는 증상이 변실금인 경우가 흔하므로 변실금 여부를 따로 확인
 * 고령자·거동 저하자·오피오이드 복용자에서 변비 병력과 함께 소량의 묽은 변이나 변실금이 반복되면 분변 매복에 의한 범람성 설사(overflow diarrhea)를 고려하고 직장수지검사를 시행
-* 기능성 설사 평가 <mark style="color:$info;">\[Rome V 2026]</mark>
-  * 배변 중 25%를 초과하여 묽은 변·수양변이 발생하고, 변비를 유발하는 약물 없이 단단한 변은 드묾
-  * 증상 시작은 최소 6개월 전이며 최근 3개월간 기준을 충족. 적절한 평가로 기질적 원인 유무를 평가하고, IBS-D 기준을 충족하는 경우는 제외함
-* IBS 평가 : 최근 3개월간 평균 월 3일 이상 반복되지만 지속적이지는 않은 복통 또는 복부 불편감이 있고, 배변과의 관련·배변 횟수 변화·변 형태 변화 중 2가지 이상과 연관되는지 평가; 증상 시작 최소 6개월. 설사 아형은 Bristol 변 형태로 구분 (☞ [IBS](087_-irritable-bowel-syndrome.md))
+
+**기능성 설사 평가** <mark style="color:$info;">\[Rome V]</mark>
+
+* 배변 중 25%를 초과하여 묽은 변·수양변이 발생하고, 변비를 유발하는 약물 없이 단단한 변은 드묾
+* 증상 시작은 최소 6개월 전이며 최근 3개월간 기준을 충족
+* 적절한 평가로 기질적 원인 유무를 평가하고, IBS-D 기준을 충족하는 경우는 제외함
+
+**IBS 평가**
+
+* 증상 시작 최소 6개월, 최근 3개월간 평균 월 3일 이상 반복되지만 지속적이지는 않은 복통 또는 복부 불편감이 있고, ① 배변과의 관련, ② 배변 횟수 변화, ③ 변 형태 변화 중 2가지 이상과 연관되는지 평가
+* 설사 아형은 Bristol 변 형태로 구분 (☞ [IBS](087_-irritable-bowel-syndrome.md))
 
 ### <mark style="color:orange;">검사</mark>
 
-{% hint style="info" %}
-**경고 징후 없는 경우** : 약물·식이 검토 및 음식 일기(2\~4주)와 기본 검사를 병행 → 식이 유발 원인(lactose, fructose, sorbitol) 평가 → 단계적 검사\
-**경고 징후 있는 경우** : 긴급도에 따라 혈액·대변·내시경 검사를 앞당김. 쇼크·복막 자극 징후·독성 거대결장 의심 시 안정화와 응급 영상 평가를 우선하며 전대장내시경을 바로 시행하지 않음
-{% endhint %}
+* **경고 징후 없는 경우** : 약물·식이 검토 및 음식 일기(2\~4주)와 기본 검사를 병행 → 식이 유발 원인(lactose, fructose, sorbitol) 평가 → 단계적 검사
+* **경고 징후 있는 경우** : 긴급도에 따라 혈액·대변·내시경 검사를 앞당김. 쇼크·복막 자극 징후·독성 거대결장 의심 시 안정화와 응급 영상 평가를 우선하며 전대장내시경을 바로 시행하지 않음
 
 #### <mark style="color:$primary;">혈액 검사</mark>
 
-* CBC, CRP ← 빈혈·염증 평가; 경고 징후 없는 수양성 설사에서 ESR/CRP만으로 IBD를 선별하지 말고 fecal calprotectin 또는 lactoferrin을 우선
+* CBC, CRP ← 빈혈·염증 평가
+  * 경고 징후 없는 수양성 설사에서 ESR/CRP만으로 IBD를 선별하지 말고 fecal calprotectin 또는 lactoferrin을 우선
 * Na·K·Cl·중탄산염(또는 total CO₂), BUN/Cr ← 수분·전해질 소실 및 신기능 평가
 * LFT·알부민; Mg·P·Ca·INR은 심한 설사·흡수장애·영양결핍 또는 출혈 위험 등 임상상에 따라 선택
 * TSH ← 갑상선 기능 이상
-* Anti-tissue transglutaminase IgA (anti-tTG IgA) + total IgA ← 셀리악병 (유병률은 낮지만 원인 불명 만성 설사, IBS-D/기능성 설사를 진단하려는 경우, 흡수 장애·철 결핍 빈혈 동반 시 선별 고려)
+* Anti-tissue transglutaminase IgA (anti-tTG IgA) + total IgA ← 셀리악병(유병률은 낮지만 원인 불명 만성 설사, IBS-D/기능성 설사를 진단하려는 경우, 흡수 장애·철 결핍 빈혈 동반 시 선별 고려)
   * IgA 결핍이면 IgG deamidated gliadin peptide(DGP) 또는 IgG-tTG를 사용
   * 글루텐 함유 식사를 유지한 상태에서 검사하며, 검사 전에 gluten-free 식이를 시작하지 않음. 이미 제한 중이면 임의로 단기간 섭취시키지 말고 gluten challenge의 양·기간을 전문의와 결정
-  * 성인에서는 원칙적으로 혈청검사와 상부위장관 내시경·십이지장 조직검사로 확진. 일부 고역가 항체 양성 환자(ESsCD 2025: 45세 미만, 경고 증상 없음, anti-TG2 IgA ≥10×정상상한, 별도 채혈 확인 등)의 무생검 진단은 전문기관에서 판단 <mark style="color:$info;">\[ESsCD 2025]</mark>
-* 빈혈·흡수장애가 의심되면 ferritin·Fe/TIBC·B12·folate를 선택하고, 지방 흡수장애·영양결핍 위험에서는 Vit D 등 추가
+  * 성인에서는 원칙적으로 혈청검사와 상부위장관 내시경·십이지장 조직검사로 확진
+  * 일부 고역가 항체 양성 환자(ESsCD 2025: 45세 미만, 경고 증상 없음, anti-TG2 IgA ≥10×정상상한, 별도 채혈 확인 등)의 무생검 진단은 전문기관에서 판단 <mark style="color:$info;">\[ESsCD 2025]</mark>
+* 빈혈·흡수장애가 의심되면 ferritin·Fe/TIBC·B12·folate를 검사하고, 지방 흡수장애·영양결핍 위험에서는 Vit D 등 추가
 
 #### <mark style="color:$primary;">대변 검사</mark>
 
 * _Giardia_ 항원 또는 PCR : 원인 불명 만성 수양성 설사에서 검사 권고; 여행력이 없어도 배제하지 않음
 * 대변 배양 : 발열·혈변, 집단 발생, 면역저하 또는 역학적 위험이 있을 때 선택
 * 기생충란충 검사 : 여행·이주·오염수 노출·면역저하 등 위험이 있을 때 선택; 특별한 위험이 없으면 광범위한 routine 검사를 권하지 않음
-* 대변 WBC는 정확도가 낮아 routine 검사로 권하지 않으며, 장 염증 평가는 fecal calprotectin/lactoferrin을 우선
+* 장 염증 평가 : fecal calprotectin/lactoferrin을 우선
+  * 대변 WBC는 정확도가 낮아 routine 검사로 권하지 않음
 * 대장암 평가가 필요하면 일반 잠혈검사보다 정량적 FIT와 내시경 적응증을 구분하여 적용
 * 대변 전해질(Na, K) : 원인 불명 다량 수양성 설사에서 선택적으로 시행
   * osmotic gap 계산 : 290 − 2×(Na + K) mOsm/kg stool water
-  * 대변 Na·K는 mmol/L로 입력하며 측정 대변 삼투압을 290 대신 넣지 않음. 검체 보관 지연·오염은 해석에 영향을 주므로 검사실 지침 준수
+    * 대변 Na·K는 mmol/L로 입력하며 측정 대변 삼투압을 290 대신 넣지 않음. 검체 보관 지연·오염은 해석에 영향을 주므로 검사실 지침 준수
 * 하제 남용 의심 : 대변 Mg 등 하제 선별 검사를 선택적으로 고려
 
-<table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>＜ 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 금식 중에도 지속 가능</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>＞ 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
+<table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td><strong>＜50</strong> mOsm/㎏</td><td>분비성 설사 (secretory) - 금식 중에도 지속 가능</td></tr><tr><td><strong>50~100</strong></td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td><strong>＞100</strong>*</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
-> _삼투압성 기준을 ＞125로 쓰는 문헌도 있음. 측정 대변 삼투압이 ＜250 mOsm/kg이면 물·희석뇨 오염을 의심_
+> _\*삼투압성 설사의 gap 기준을 ＞125로 쓰는 문헌도 있음._\
+> _ap 해석 전 검체 확인 : 측정 대변 삼투압(gap이 아님)이 ＜250 mOsm/kg이면 물·희석뇨 오염 검체로 보고 gap을 해석하지 않음_
 
-**분변 칼프로텍틴(calprotectin)**&#x20;
+<mark style="color:cyan;">**분변 칼프로텍틴(fecal calprotectin)**</mark>
 
 * 장 점막 염증 부위로 모인 호중구에서 유래해 대변으로 배설되는 단백질
-* 대변 내 칼프로텍틴 농도는 실제 장 점막의 염증 정도와 밀접한 상관관계를 보임
-* IBD vs. 기능성 설사 감별에 적용
-* 감염·NSAID 복용·대장 종양 등에서도 상승할 수 있으며 정상이어도 microscopic colitis·셀리악병·BAD는 배제되지 않음
-* 급여는 IBD 진단·추적 목적과 검사 횟수 등 현행 기준에 따라 달라지므로 적용 기준을 확인; 과거 고시의 횟수 제한을 일반적인 임상 검사 간격으로 적용하지 않음
-* 급성기 원인 감별에는 권고하지 않음
-* 양성만으로 대장내시경 여부를 결정하지 않음
+* 대변 내 칼프로텍틴 농도는 장 점막의 염증 정도와 밀접한 상관관계를 보임; IBD와 기능성 설사의 감별에 사용
+  * 통상 ＜50 ㎍/g이면 유의한 장 염증 가능성이 낮음. 절단값은 검사법·검사실에 따라 다르므로 단일 수치만으로 IBD를 확진·배제하지 않음
+* 감염·NSAID·PPI 복용·대장 종양 등에서도 상승할 수 있음
+* 정상이어도 microscopic colitis·셀리악병·BAD는 배제되지 않음
+* 단독 수치보다 임상 양상·교란 요인과 함께 해석함
+  * 경계 수치는 교란 요인을 확인한 뒤 재검을 고려하고, 뚜렷한 상승은 대장내시경 평가 대상
+  * 혈변·체중 감소 등 경고 징후가 있으면 수치가 낮아도 내시경을 보류하지 않음
+* 급성 설사의 원인 감별에는 권고하지 않음
+* [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20210127\&sno=1\&mtgMtrRegSno=0001) : 4주 이상의 만성 설사 또는 복통·혈변 등 하부 위장관 증상이 있는 염증성 장질환 의심 환자 (1회)
 
-<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>＜ 50 ㎍/g</td><td>유의한 장 염증 가능성 낮음 → 기능성 원인 우선 평가; microscopic colitis·셀리악병·BAD는 별도 판단</td></tr><tr><td>50~＜150 ㎍/g</td><td>borderline → 감염·NSAID 등 교란 요인 확인 후 임상 양상에 따라 추적 또는 내시경 고려</td></tr><tr><td>150~250 ㎍/g</td><td>기질적 염증 가능성↑ → 내시경 적극 고려</td></tr><tr><td>＞ 250 ㎍/g</td><td>유의한 장 염증 가능성 높음 → IBD 등을 위한 내시경 평가·의뢰</td></tr></tbody></table>
+<mark style="color:cyan;">**기타 대변 검사**</mark>
 
-* 위 구간은 실무 참고용이며 보편적으로 표준화된 진단 단계가 아님. 절단값은 검사법·검사실 및 임상 상황에 따라 다르므로 단일 수치만으로 IBD를 확진·배제하지 않음; 출혈·체중 감소 등 경고 징후가 있으면 낮은 수치로 내시경을 보류하지 않음
-* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전(EPI)의 초기 평가; ＜100 ㎍/g은 EPI를 강하게 지지, 100\~200 ㎍/g은 판정 유보 구간으로 임상상·재검·추가 평가 필요
-  * 72시간 대변 지방 검사보다 간편하며 반고형변 또는 고형변에서 검사. 수양변에서는 희석으로 수치가 거짓으로 낮아져 췌장 외분비 기능 부전으로 오인하는 위양성이 발생할 수 있음
-* 대변 지방 : 하루 약 100 g 지방을 섭취하면서 72시간 채변했을 때 ＞7 g/d이면 지방 흡수 장애 시사
-* _C. difficile_ 검사 : 최근 항생제·의료기관 노출, 면역저하 또는 설명되지 않는 설사에서 고려하며 설사변만 검사
-  * GDH + toxin EIA 다단계 알고리듬 또는 검사 대상이 엄격히 제한된 기관에서는 toxin-gene NAAT 사용. NAAT는 독소 자체가 아니라 독소 유전자를 검출하므로 단독 양성은 임상상과 함께 해석
+* Fecal elastase-1 : 췌장 외분비 기능 부전(EPI)의 초기 평가; ＜100 ㎍/g은 EPI를 강하게 지지, 100\~200 ㎍/g은 판정 유보. 수양변에서는 희석으로 거짓 저하가 생기므로 반고형변 이상에서 검사
+* _C. difficile_ 검사 : 최근 항생제·의료기관 노출, 면역저하 또는 설명되지 않는 설사에서 설사변으로 검사(GDH + toxin EIA 다단계 알고리듬 등); NAAT 단독 양성은 임상상과 함께 해석
 
-#### 호기 검사 (Hydrogen breath test)
+#### <mark style="color:$primary;">호기 검사 (Hydrogen breath test)</mark>
 
 * 유당·과당 불내성 평가에 사용할 수 있으며, SIBO에서는 해부학적 이상·수술력·운동장애 등 사전확률이 높은 증상 환자에서 선택적으로 고려
 * 한계 : 위양성·위음성 모두 가능; 임상 양상과 함께 해석 필수
-  * Methane 양성은 intestinal methanogen overgrowth (IMO)로 구분하며 constipation-predominant phenotype과 연관
+  * methane 양성은 intestinal methanogen overgrowth (IMO)로 구분하며 constipation-predominant phenotype과 연관
   * 장 통과 가속(rapid transit) → 수소 조기 상승 → false positive 가능
-* Glucose 또는 lactulose 수소·메탄 호기검사를 사용할 수 있으나 정확도가 제한적이므로 단독으로 진단하지 않음
+* glucose 또는 lactulose 수소·메탄 호기검사를 사용할 수 있으나 정확도가 제한적이므로 단독으로 진단하지 않음
   * IBS-D·복부팽만만으로 SIBO 호기검사를 일률적으로 시행하지 않으며, 특히 lactulose 검사 양성만으로 SIBO를 확정하지 않음. ESNM/ANMS 2024는 IBS 환자에서 호기검사에 의한 과진단과 불필요한 항생제 사용을 경고 <mark style="color:$info;">\[ESNM/ANMS 2024]</mark>
 
-#### 영상·내시경
+#### <mark style="color:$primary;">영상·내시경</mark>
 
 * 복부 단순 X선은 장폐색·거대결장·분변 매복 등이 의심될 때 선택하며 원인 불명 만성 설사의 일률적 검사는 아님
 * CT/MR enterography : 크론병·소장 종양 등 소장 병변이 의심될 때(지속적 심한 복통·체중 감소·철 결핍 빈혈·fecal calprotectin 상승이 있으나 내시경으로 원인이 밝혀지지 않을 때) 선택
 * 원인 불명 EPI 또는 췌장 질환이 의심되는 지방변·체중 감소에서는 췌장 CT/MRI, 필요시 EUS로 만성 췌장염·췌장 종양 등을 평가. 영상검사만으로 EPI를 확진하지 않음
-* 대장 내시경 + 조직검사 : 경고 징후·혈변·50세 이상 신규 발생, 초기 검사 후에도 지속되는 원인 불명 설사 또는 microscopic colitis 의심 시. 50세 미만이어도 적응증이 있으면 시행
+* 대장 내시경 + 조직검사 : 경고 징후·혈변·≥50세 신규 발생, 초기 검사 후에도 지속되는 원인 불명 설사 또는 microscopic colitis 의심 시; ＜50세이어도 적응증이 있으면 시행
   * 만성 설사 평가 목적으로 대장내시경을 시행할 때는 정상 점막이어도 좌·우측 결장 생검으로 microscopic colitis를 평가; 직장 생검만으로 배제하지 않음
 * 상부위장관 내시경 + 십이지장 조직검사 : 지방변·대량 설사·체중 감소·영양 결핍 등 소장성 흡수 장애가 의심되거나 대장내시경으로 원인이 밝혀지지 않을 때 고려
 
-#### 특수 검사 (2차 의뢰)
+#### <mark style="color:$primary;">특수 검사 (의뢰)</mark>
 
-* SeHCAT scan, 혈청 C4 (7α-hydroxy-4-cholesten-3-one) : 담즙산 설사(BAD) 진단에 사용; 혈청 FGF-19는 표준화·접근성이 제한적인 보조 검사
+* SeHCAT scan, 혈청 C4 (7α-hydroxy-4-cholesten-3-one) : 담즙산 설사(BAD) 진단에 사용
+  * 혈청 FGF-19는 표준화·접근성이 제한적인 보조 검사
   * 가능하면 객관적 검사(SeHCAT·혈청 C4)로 진단. 검사가 어려우면 위험 인자·감별진단을 검토한 뒤 소화기내과에서 cholestyramine 치료 시험을 고려할 수 있음; 치료 반응만으로 확진하거나 무반응만으로 배제하지 않음
 * 소장 흡인액 배양 : 선택적으로 SIBO 평가에 사용하나 채취·오염·배양 기준의 한계가 있으며 단독으로 완전한 확진 검사로 간주하지 않음
 * 조직검사 : 셀리악병(십이지장), Whipple disease(소장) 의심 시
 
-***
+### <mark style="color:orange;">변 양상 기반 접근 (Stool Phenotype Approach)</mark>
 
-```mermaid
-flowchart TD
-    A["만성 설사<br/>묽거나 수양성인 변 ≥4주"] --> E["Red Flags의<br/>즉각 조치 항목에 해당?"]
-    E -- "예" --> U["응급 이송·안정화<br/>수액·전해질 교정 및 영상 평가"]
-    E -- "아니오" --> R["Red Flags의<br/>당일~수일 내 평가 항목에 해당?"]
-    R -- "예" --> S["혈액·대변 검사<br/>적응증별 내시경·좌우 결장 생검"]
-    R -- "아니오" --> I["<u>초기 평가</u><br/>•약물·식이·수술력 및 범람 설사<br/>•혈액·Giardia·장 염증·셀리악 선별"]
-    S --> N["원인이 확인되었는가?"]
-    N -- "예" --> D["원인별 치료 단계로"]
-    N -- "아니오" --> P
-    I --> P["변 양상별 추가 평가 단계로"]
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef emergency fill:#ffdddd,stroke:#d32f2f
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class E,R,N question
-    class U emergency
-    class S,I test
-    class D,P next
-```
+<table data-search="false"><thead><tr><th width="220">변 양상</th><th>의심 진단</th></tr></thead><tbody><tr><td><strong>수양성 + 야간 지속</strong></td><td>Secretory, BAD, Microscopic colitis</td></tr><tr><td><strong>식후 즉시 악화</strong></td><td>IBS-D, BAD (담낭절제술 후), 삼투압성</td></tr><tr><td><strong>지방변</strong> (기름지고 악취)</td><td>Malabsorption, 췌장 외분비 부전, SIBO, 셀리악병</td></tr><tr><td><strong>혈변·농변</strong></td><td>IBD, 침습성 감염, 종양; C. difficile은 대개 비혈성 수양변</td></tr><tr><td><strong>소량 빈번 + urgency 주증상</strong></td><td>IBS-D, BAD, 직장 염증</td></tr><tr><td><strong>복부 팽만·가스 동반</strong></td><td>Carbohydrate intolerance, SIBO, IBS-D</td></tr><tr><td><strong>금식 시 호전</strong></td><td>Osmotic (유당·과당 불내성, 삼투성 하제)</td></tr><tr><td><strong>금식해도 지속</strong></td><td>Secretory (BAD, 종양, 하제 남용)</td></tr></tbody></table>
 
-<p align="center"><strong>만성 설사 초기 분류</strong></p>
+### <mark style="color:orange;">Functional diarrhea vs IBS-D 감별</mark>
 
-***
+* Rome V는 IBS에서 복통뿐 아니라 복부 불편감도 평가함. 복통이 없다는 이유만으로 IBS-D를 배제하거나 기능성 설사로 단정하지 않음
 
-```mermaid
-flowchart TD
-    A["초기 평가 후 변 양상"] --> P["지방변 또는 만성 수양변?"]
-    P -- "지방변·영양 결핍" --> M["반고형변 fecal elastase<br/>필요시 췌장 영상·대변 지방·소장 검사"]
-    P -- "수양변" --> Q["염증·경고 징후<br/>또는 microscopic colitis 의심?"]
-    Q -- "예" --> S["대장내시경·좌우 결장 생검<br/>정상 점막도 평가"]
-    Q -- "아니오" --> R["수술력·식이 연관·Rome V 기준<br/>어떤 단서가 우세한가?"]
-    R -- "담즙산 위험" --> B["<u>BAD 평가·치료</u><br/>•가능하면 객관적 검사<br/>•담즙산 결합제 검토·전문의 평가"]
-    R -- "식이 연관" --> F["유당·유발 당류 제한 시험<br/>2~4주 반응 평가"]
-    R -- "기능성 양상" --> G["기능성 설사·IBS-D 평가"]
-    classDef neutral fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef test fill:#e8f5e9,stroke:#81c784
-    classDef treatment fill:#e3f2ff,stroke:#2196f3
-    classDef emergency fill:#ffdddd,stroke:#d32f2f
-    classDef next fill:#e8eaf6,stroke:#9fa8da
-    class A neutral
-    class P,Q,R question
-    class M,S,G test
-    class B,F treatment
-```
+<table><thead><tr><th width="198">특징</th><th>Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td><strong>주된 표현형</strong></td><td>반복되는 묽은 변·수양변</td><td>설사형 배변 이상과 연관된 반복적 복통 또는 복부 불편감</td></tr><tr><td><strong>감별 핵심</strong></td><td>묽은 변의 비율, 단단한 변의 드문 발생 여부 및 IBS 기준 충족 여부를 종합</td><td>증상 빈도·기간 및 배변·배변 횟수·변 형태와의 관계</td></tr><tr><td><strong>야간 설사·체중 감소·출혈</strong></td><td colspan="2">기능성 진단에 앞서 기질적 원인 평가</td></tr><tr><td><strong>치료 방향</strong></td><td>변 형태·절박변 조절과 원인별 접근</td><td>변 형태 조절에 복통·불편감 및 장-뇌 축 치료 병행</td></tr></tbody></table>
 
-> _각 경로의 검사 결과와 치료 반응으로 재평가하고, 원인 불명이거나 치료에 반응하지 않으면 대변 Na/K 등으로 혼합 기전과 드문 원인을 전문 평가_
+* 매일 깨어 있는 동안 계속되는 지속적(continuous) 복통이 있으면 Rome V의 IBS 기준에서 제외되지만, 이 군은 오히려 증상·심리 동반질환·기능 장애가 더 심할 수 있으므로 기능성 설사로 단순 분류하지 않음 <mark style="color:$info;">\[Rome V]</mark>
 
-<p align="center"><strong>변 양상별 평가</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : BSG 2018; AGA 2019; Rome V 2026)</mark></em></p>
-
-***
+{% hint style="danger" %}
+**Microscopic colitis :** 고령(특히 60대 이상) 여성의 만성 비혈성 수양성·야간 설사에서는 대장내시경이 정상이어도 microscopic colitis를 적극 고려해야 함; 조직검사로 확진하며, 진단 누락을 줄이기 위해 정상 점막에서도 좌·우측 결장 생검을 권고. NSAID·PPI·SSRI 복용력 반드시 확인
+{% endhint %}
 
 {% hint style="info" %}
 **외래 임상 핵심 포인트 (One-line Pearls)**
@@ -275,6 +228,24 @@ flowchart TD
 * "고령 여성 + 비혈성 수양성·야간 설사 + 정상 내시경" → microscopic colitis 적극 고려; 좌·우측 결장 조직검사
 * "olmesartan 복용 중 + 심한 흡수 장애" → olmesartan enteropathy 의심; 대체 약제를 고려하며 중단
 {% endhint %}
+
+***
+
+```mermaid
+```
+
+<p align="center"><strong>만성 설사 초기 분류</strong></p>
+
+***
+
+```mermaid
+```
+
+> _각 경로의 검사 결과와 치료 반응으로 재평가하고, 원인 불명이거나 치료에 반응하지 않으면 대변 Na/K 등으로 혼합 기전과 드문 원인을 전문 평가_
+
+<p align="center"><strong>변 양상별 평가</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : BSG 2018; AGA 2019; Rome V 2026)</mark></em></p>
 
 ***
 
