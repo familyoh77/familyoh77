@@ -27,7 +27,7 @@
   * 운동 중(exertional) 실신은 심장성 실신의 Red Flag이므로 반사성 실신으로 간주하지 말고 심장 원인을 우선 배제
 * 전조 증상 : 어지럼, 열감 또는 냉감, 구역, 창백, 발한, 시야 흐림·축소, 청각 변화
 * 실신 후 피로·구역이 남을 수 있으며, 의식 소실 후 짧고 불규칙한 근간대성 움직임이 나타날 수 있음(convulsive syncope)
-  * 지남력은 대개 신속히 회복함. 수 분 이상 지속되는 혼돈, 의식 회복 전부터 시작하는 규칙적 강직간대운동, 측면 혀 깨물기 등은 뇌전증 발작을 더 시사
+  * 지남력은 대개 신속히 회복함. 수 분 이상 지속되는 혼돈, 의식 소실 직전 또는 동시에 시작하는 지속적·규칙적 강직간대운동, 측면 혀 깨물기 등은 뇌전증 발작을 더 시사
 
 ### <mark style="color:orange;">상황 실신 Situational Syncope</mark>
 
@@ -56,7 +56,7 @@
 * 중증 두부 외상이나 기타 심각한 손상 동반  `두개내출혈`
 * Mobitz II형 또는 3도 방실차단, 지속성 심실빈맥, 명백한 허혈성 변화 등 즉각적인 처치가 필요한 ECG 이상  `부정맥성 실신` `급성 관상동맥증후군`
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신으로 완전히 회복되어 현재 안정적인 경우  `구조적 심질환` `부정맥`
 * 알려진 구조적 심질환·심부전 또는 이전 심근경색  `구조적 심질환`
@@ -82,7 +82,7 @@
 * 환자 및 목격자의 상세한 병력 : 발생 자세와 활동, 유발 인자, 전조, 의식 소실 시간, 움직임, 피부색, 회복 양상, 외상, 과거 실신, 복용약, 심장질환 및 돌연사 가족력
 * 신체진찰 : 심혈관·신경학적 진찰과 표준화된 기립 혈압·맥박 측정
   * 5분 이상 누운 자세에서 안정 후 기준 혈압·맥박을 측정하고, 기립 후 약 1분과 3분에 반복 측정
-  * 지연성 기립성 저혈압 또는 POTS가 의심되면 5\~10분까지 연장
+  * POTS가 의심되면 10분까지 연장하고, 지연성 기립성 저혈압이 의심되면 10분 이후 연장 측정 또는 기립경사검사를 고려
     * Initial OH는 일반 커프 혈압계로 놓칠 수 있으므로 의심되면 beat-to-beat monitoring 고려
   * 양팔 혈압은 첫 평가에서 대동맥·쇄골하동맥 질환 등이 의심되거나 유의한 차이가 확인될 때 비교
 * 12유도 ECG : 모든 실신 환자의 초기 평가에서 시행
@@ -120,38 +120,33 @@
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 전부터 시작한 규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 직전 또는 동시에 시작한 지속적·규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">진단 및 치료 알고리듬</mark>
 
 ***
 
 ```mermaid
-flowchart LR
-    subgraph DX["초기 평가"]
-        direction TB
-        A(["실신 병력·진찰<br/>기립 혈압·12유도 ECG"]) --> B["고위험 소견?"]
-        B -->|있음| C["응급·심장 평가"]
-        B -->|없음| D["전형적 반사성 실신?"]
-        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요시 ILR"]
-    end
-    subgraph TX["치료 선택"]
-        direction TB
-        F["교육·유발인자 회피<br/>counter-pressure maneuver"] --> G["중증 재발?"]
-        G -->|아니오| H["교육 후 추적"]
-        G -->|예| I["우세 기전?"]
-        I -->|저혈압| J["약물 조정<br/>midodrine 또는 <br/>fludrocortisone"]
-        I -->|서맥·무수축| K["기전 문서화 후<br/>pacing 평가"]
-        I -->|불명| L["장기 ECG <br/>모니터링"]
-    end
-    D -->|예| F
-    E --> L
-    classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef questionNode fill:#fff9c4,stroke:#ffe082
-    classDef urgentNode fill:#f96,stroke:#e65100,stroke-width:2px
-    class A startNode
-    class B,D,G,I questionNode
-    class C urgentNode
+flowchart TD
+    A["실신: 병력·진찰·기립혈압·ECG"] --> B{"고위험 소견?"}
+    B -- "예" --> C["응급 평가·심장 원인 배제"]
+    B -- "아니요" --> D{"전형적 반사성 실신?"}
+    D -- "아니요" --> E["표적 검사·장기 ECG로 기전 확인"]
+    D -- "예" --> F["교육·유발요인 회피·맞압력 조작"]
+    F --> G{"중증 재발 지속?"}
+    G -- "아니요" --> H["추적·안전 대책 유지"]
+    G -- "예" --> I{"확인된 우세 기전"}
+    I -- "저혈압" --> J["혈압강하약 조정·선별적 약물 치료"]
+    I -- "서맥·무수축" --> K["연령·기록 소견에 따라 pacing 평가"]
+    I -- "불명" --> E
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#d6b656
+    classDef process fill:#e3f2fd,stroke:#1976d2
+    classDef urgent fill:#ffebee,stroke:#d32f2f
+    class A start
+    class B,D,G,I decision
+    class E,F,H,J,K process
+    class C urgent
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -185,9 +180,9 @@ flowchart LR
 * 낮은 정상 혈압(low-normal)이고 고혈압·심부전·신장질환이 없는 환자에서 수분 ≥2 L/d 및 소금 6\~9 g/d 정도를 개별적으로 고려. 다만 VVS 재발 예방에 대한 직접 근거는 제한적임
   * 소금 6\~9 g/d는 평소 식사를 포함한 총 섭취량의 목표 범위이며 일률적으로 이 양을 추가하라는 의미가 아님. 임신부·고령자·고혈압 환자는 혈압과 동반 질환에 따라 조정
 * 전조 증상이 시작되면 즉시 앉거나 눕고 다리를 올리며, 가능하면 counter-pressure maneuver를 지체 없이 시행
-* 물 500 ㎖의 빠른 섭취는 효과가 즉시 나타나는 구조 치료가 아니므로, 예측 가능한 유발 상황 약 15\~30분 전에 예방적 보조요법으로 고려할 수 있음
+* 물 500 ㎖의 빠른 섭취는 효과가 즉시 나타나는 구조 치료가 아니므로, 특히 동반 기립성 저혈압이 있는 환자에서 예측 가능한 유발 상황 약 15\~30분 전 예방적 보조요법으로 고려할 수 있으나, VVS 단독 재발 예방 근거는 제한적임
   * 전조 증상이 이미 시작되었다면 물을 마시는 것보다 즉시 안전한 자세를 취하는 것이 우선
-* 규칙적인 유산소·근력 운동을 권장
+* 규칙적인 유산소·근력 운동을 권장. 맞압력 조작 중에는 정상 호흡을 유지하고 숨을 참아 힘주지 않음
 * tilt training은 꾸준히 지속할 수 있는, 동기가 강한 반복성 VVS 환자에서 선택적으로 시도할 수 있으나 순응도가 낮고 임상적 유효성 근거가 제한적
 * 투여 중인 혈압강하제, 이뇨제, 질산염, 일부 향정신성 약물 등 저혈압 유발약물을 검토하고, 적응증·혈압을 고려하여 감량·변경을 검토
 * 압박 스타킹은 일반적인 VVS에서 재발 예방 효과가 입증되지 않음
@@ -218,13 +213,13 @@ flowchart LR
 * POST-4 RCT와 메타분석에서 임상 재발 감소가 확인되었으나, 모든 VVS 환자에게 routine 투여하지 않음
 * 국내 허가 사항
   * 효능 : 저혈압(기립성·본태성·증후성) - VVS는 적응증으로 명시되어 있지 않음
-  * 용법 : 성인 1회 2.5 ㎎, 1일 2\~3회; 증상과 혈압에 따라 최소 유효량 사용 <mark style="color:blue;">\[미드론]</mark>
+  * 용법 : 성인 1회 2.5 ㎎, 1일 2\~3회; 증상과 혈압에 따라 최소 유효량 사용 <mark style="color:blue;">[미드론](https://www.health.kr/drug/A11A3180A0335)</mark>
   * 누운 자세 고혈압을 줄이기 위해 늦어도 취침 4시간 전 복용
-* 누운 자세·기립 혈압, 배뇨 증상 및 신기능을 확인. 고혈압, 심한 심질환, 급성 신장염, 배뇨장애 등 국내 금기 확인
+* 누운 자세·기립 혈압, 배뇨 증상 및 신기능을 확인. 고혈압·심한 심질환·급성 신장염·갑상선기능항진증·크롬친화세포종·폐쇄우각형 녹내장·혈관경련/폐색·배뇨장애·빈맥성 부정맥 환자에게는 투여하지 않음
 
 #### <mark style="color:$primary;">Fludrocortisone</mark>
 
-* 낮은 정상 혈압이고 주요 동반 질환이 없는 비교적 젊은 환자에서 선택적으로 고려 <mark style="color:blue;">\[플로리네프]</mark>
+* 낮은 정상 혈압이고 주요 동반 질환이 없는 비교적 젊은 환자에서 선택적으로 고려 <mark style="color:blue;">[플로리네프](https://www.health.kr/drug/A11ABBBBB1694)</mark>
 * 연구 용량 0.05\~0.2 ㎎/d. POST-2의 1차 결과는 통계적으로 유의하지 않았고 전체 임상 이득은 크지 않음
 * 고혈압·심부전에서는 사용하지 않으며, 혈압·체중·부종·혈청 K⁺를 모니터링
 * midodrine과 처음부터 병용하는 것보다 한 약제를 선택해 반응과 이상반응을 평가한 뒤 단계적으로 조정
@@ -249,7 +244,7 @@ flowchart LR
 * Norepinephrine transporter(NET) 억제제로, 실신 직전에 나타나는 반사성 서맥을 완화하여 심박출량과 혈압의 최종 하강을 막는 것이 주된 기전으로 제시됨. 초기 근거가 축적 중이나 아직 표준 치료로 자리잡지 않음
 * Tilt-table 유발 실신 평행군 RCT(POST VI, Europace 2019)에서 tilt 유발 실신이 감소했음. 소규모 파일럿 RCT(Tajdini 등, 2021, n＝46)에서는 실신·전실신 복합 종료점이 감소했으나, 실신 없는 생존기간은 군간 차이가 없었으며(P＝0.903), 실신 사건 수가 적어 실신 단독 예방효과를 판단하기에는 한계가 있었음. 기저 수축기혈압 ＜110 ㎜Hg 하위군에서는 효과 가능성이 시사됨
 * 심혈관계 부작용(혈압·맥박 상승) 고려해 routine 권고 약물이 아님
-* 국내 허가효능은 ADHD로 한정되며 VVS에 대한 적응증은 없음 <mark style="color:blue;">\[아토목신]</mark>
+* 국내 허가효능은 ADHD로 한정되며 VVS에 대한 적응증은 없음 <mark style="color:blue;">[아토목신](https://www.health.kr/drug/2014031800001)</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -299,24 +294,31 @@ flowchart LR
 > **처방례 2.** 저혈압·기립 유발형 재발성 VVS - 생활요법 후에도 지속
 >
 > ```
-> 미드론 2.5 ㎎/T  1T  bid~tid  (활동 시간대 복용; 마지막 복용은 취침 4시간 전까지)
+> 미드론정 2.5 ㎎/T  1T  bid~tid  (활동 시간대 복용; 마지막 복용은 취침 4시간 전까지)
 > ※ 누운 자세·기립 혈압과 배뇨 증상 확인. 수분·소금 섭취 및 counter-pressure maneuver 교육 병행. VVS는 국내 허가 효능에 별도 적응증으로 명시되어 있지 않음
+> ※ 고혈압·심한 심질환·배뇨장애 등 금기를 먼저 확인
 > ```
+>
+> 약제 정보: [미드론정 2.5 ㎎](https://www.health.kr/drug/A11A3180A0335)
 
 > **처방례 3.** 낮은 정상 혈압의 재발성 VVS - midodrine 대안
 >
 > ```
-> 플로리네프 0.1 ㎎/T  0.5T  조식 후  (반응에 따라 1T로 조정 고려)
+> 플로리네프정 0.1 ㎎/T  0.5T  qd  조식 후  (반응에 따라 1T로 조정 고려)
 > ※ 혈압·체중·부종·혈청 K⁺ 모니터링. 고혈압·심부전 환자에는 사용하지 않음. VVS는 국내 허가 적응증이 아님
 > ```
+>
+> 약제 정보: [플로리네프정 0.1 ㎎](https://www.health.kr/drug/A11ABBBBB1694)
 
 > **처방례 4.** 고도 선별된 난치성 VVS - 임상적 정신질환 없이 anxiety sensitivity 양성
 >
 > ```
-> 푸록틴 10 ㎎/C  1C  조식 후  1주간
-> → 이후 푸록틴 20 ㎎/C  1C  조식 후 (내약성·혈압 확인 후 증량)
+> 푸록틴캡슐 10 ㎎/C  1C  qd  조식 후  1주간
+> → 이후 푸록틴캡슐 20 ㎎/C  1C  qd  조식 후 (내약성·혈압 확인 후 증량)
 > ※ VVS에 대한 비허가(off-label) 처방이며 routine으로 사용하지 않음. 기대효과의 불확실성과 이상반응을 설명하고, 임상적 정신질환 여부와 anxiety sensitivity를 구분하여 평가한 뒤 환자와 상의하여 제한적으로 고려. VVS에 대한 표준 치료기간은 정립되지 않음
 > ```
+>
+> 약제 정보: [푸록틴캡슐 10 ㎎](https://www.health.kr/drug/A11AJJJJJ0181) · [푸록틴캡슐 20 ㎎](https://www.health.kr/drug/A11ABBBBB0367)
 
 ***
 
@@ -328,13 +330,15 @@ flowchart LR
 > * 통상 1일 2\~3회, 활동 시간대에 나누어 복용하며, **마지막 복용은 취침 4시간 전까지**로 제한하십시오.
 > * 복용 직후 장시간 눕는 상황을 피하고, 누운 자세와 선 자세의 혈압을 확인하십시오.
 > * 두피 가려움, 저림, 소름·입모, 배뇨 곤란이 나타날 수 있습니다. 증상이 심하거나 발진·얼굴 부종·호흡곤란이 동반되면 복용을 중단하고 진료받으십시오.
-> * 고혈압, 심장질환, 전립선·배뇨장애 또는 신장질환이 있으면 미리 알리십시오.
+> * 고혈압·심한 심장질환·배뇨장애 등에서는 복용하면 안 됩니다. 해당 질환이나 신장질환이 있으면 처방 전에 알리십시오. 심한 두통·시야 흐림·흉통 또는 소변이 나오지 않는 증상이 생기면 복용을 보류하고 즉시 진료를 받으십시오.
 
 > **플로리네프 Fludrocortisone**
 >
 > * 체내에 나트륨과 수분을 보유하여 혈압을 올리는 데 도움을 줄 수 있습니다.
 > * 부종, 빠른 체중 증가, 두통 또는 혈압 상승이 있으면 진료받으십시오.
-> * 정기적으로 혈압·체중과 혈청 K⁺를 확인해야 합니다.
+> * 아침에 하루 한 번 처방량을 복용하며 임의로 증량하거나 중단하지 마십시오.
+> * 시작·증량 후 약 1\~2주에 혈압·체중·혈청 K⁺·신기능을 확인하고 이후 정기 추적합니다. 위험이 높으면 더 일찍 검사합니다.
+> * 플로리네프정은 밀폐하여 2\~8℃에서 냉장 보관하십시오.
 
 > **푸록틴 Fluoxetine**
 >
@@ -345,7 +349,7 @@ flowchart LR
 > **실신 전구 증상 발생 시**
 >
 > * 즉시 앉거나 눕고 다리를 심장보다 높게 올리십시오.
-> * 바로 누울 수 없다면 다리를 교차하고 다리·복부·엉덩이에 힘을 주거나, 쪼그려 앉거나, 양손을 맞잡아 서로 당기십시오.
+> * 바로 누울 수 없다면 다리를 교차하고 다리·복부·엉덩이에 힘을 주거나, 쪼그려 앉거나, 양손을 맞잡아 서로 당기십시오. 숨을 참지 말고 정상적으로 호흡하십시오.
 > * 증상이 호전되지 않거나 흉통·두근거림·호흡곤란이 동반되면 즉시 도움을 요청하십시오.
 
 > **생활 습관 안내**
@@ -366,6 +370,7 @@ flowchart LR
 * \[ESC 2021] [Glikson M, et al. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. Eur Heart J. 2021;42(35):3427-3520.](https://doi.org/10.1093/eurheartj/ehab364) - 무수축이 확인된 선별 반사성 실신 환자의 심박동기 적응증
 * [Sheldon R, et al. Midodrine for the Prevention of Vasovagal Syncope: A Randomized Clinical Trial. Ann Intern Med. 2021;174(10):1349-1356.](https://doi.org/10.7326/M20-5415) - POST-4; midodrine의 재발 예방 효과
 * [Sheldon R, et al. Fludrocortisone for the Prevention of Vasovagal Syncope: A Randomized, Placebo-Controlled Trial. J Am Coll Cardiol. 2016;68(1):1-9.](https://doi.org/10.1016/j.jacc.2016.04.030) - POST-2; fludrocortisone의 1차 결과와 적용 한계
+* [Flevari P, et al. Fluoxetine vs. placebo for the treatment of recurrent vasovagal syncope with anxiety sensitivity. Europace. 2017;19(1):127-131.](https://doi.org/10.1093/europace/euw153) - anxiety sensitivity 양성 선별 환자의 소규모 RCT
 * [Sheldon RS, et al. A proof of principle study of atomoxetine for the prevention of vasovagal syncope: the Prevention of Syncope Trial VI. Europace. 2019;21(11):1733-1741.](https://doi.org/10.1093/europace/euz250) - POST VI; tilt 유발 실신에 대한 atomoxetine의 효과
 * [Tajdini M, et al. Int J Cardiol Heart Vasc. 2021;34:100789.](https://doi.org/10.1016/j.ijcha.2021.100789) - atomoxetine 소규모 파일럿 RCT; 실신·전실신 복합 종료점
 * \[COMFORTS-II 2025] [Tavolinejad H, et al. Using Compression Stockings to Prevent Recurrence of Vasovagal Syncope: A Randomized Sham-Controlled Trial. J Am Coll Cardiol. 2025;86(6):412-422.](https://doi.org/10.1016/j.jacc.2025.05.049) - 허벅지 길이 압박 스타킹의 재발 예방 효과
@@ -395,13 +400,19 @@ flowchart LR
 #### <mark style="color:$primary;">전조 증상이 느껴지면 즉시 이렇게 하세요</mark>
 
 * **즉시 앉거나 눕고 다리를 올립니다.** 가장 중요한 조치입니다.
-* 바로 누울 수 없다면 **다리를 교차하여 하체에 힘을 주거나, 쪼그려 앉거나, 양손을 맞잡아 서로 당기십시오.**
+* 바로 누울 수 없다면 **다리를 교차하여 하체에 힘을 주거나, 쪼그려 앉거나, 양손을 맞잡아 서로 당기십시오.** 숨을 참지 말고 정상적으로 호흡하십시오.
+
+#### <mark style="color:$primary;">쓰러진 사람을 발견했을 때</mark>
+
+* 반응이 없고 정상 호흡이 없으면 즉시 119에 신고하고 AED를 요청한 뒤 가슴압박을 시작하십시오.
+* 정상 호흡이 있지만 반응이 없으면 119에 신고하고 기도를 확보합니다. 큰 외상이 의심되지 않으면 회복자세로 옆으로 눕힙니다.
+* 완전히 깨어 안전하게 삼킬 수 있을 때까지 물·음식·약을 주지 마십시오.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * 고혈압·심부전·신장질환이 없다면 충분한 물과 적절한 소금 섭취에 관해 의료진과 상의하십시오.
 * 더운 환경, 장시간 서 있기, 탈수, 과음 및 빈속 등 자신의 유발 요인을 파악하고 피하십시오.
-* 채혈·주사 등이 예정된 경우 미리 수분을 섭취하고 누운 자세에서 시술받으십시오.
+* 채혈·주사 등이 예정된 경우 누운 자세에서 시술받으십시오. 금식·수분 제한 지시가 없다면 미리 수분을 섭취할 수 있습니다.
 * 규칙적인 유산소·근력 운동을 하십시오.
 * 압박 스타킹은 모든 혈관미주신경성 실신 환자에게 필요한 치료가 아닙니다. 기립성 저혈압·기립불내성이 동반된 경우에만 의료진과 상의하십시오.
 
@@ -415,6 +426,6 @@ flowchart LR
 #### <mark style="color:$primary;">신속히 진료받아야 하는 경우</mark>
 
 * 심장질환이 있거나 젊은 나이에 돌연사한 가족이 있는 경우
-* 전조 없이 갑자기 쓰러지거나 이전과 다른 양상으로 발생하는 경우
+* 전조 없이 갑자기 쓰러지거나 이전과 다른 양상으로 발생하는 경우에는 당일 평가를 받으십시오.
 * 실신이 반복되어 운전·직업·일상생활에 영향을 주는 경우
 * 새 약을 시작하거나 혈압약 용량을 변경한 뒤 발생한 경우
