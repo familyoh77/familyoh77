@@ -172,28 +172,31 @@ EPDS는 주산기 집단에서 널리 검증되었고 불안 관련 증상을 �
 
 ```mermaid
 flowchart TD
-    A(["선별 양성 또는임상적 의심"]) --> B["진단 면담<br/>자살·영아 위해·정신증 평가"]
-    B --> Risk{"즉각 위험·정신증·조증?"}
-    Risk -- "예" --> C["산모·영아 안전 확보<br/>응급 이송·입원 평가"]
-    Risk -- "아니오" --> D["자살사고는 당일 위험평가·안전계획<br/>양극성·중증도·수유·과거 반응 확인"]
-    D --> Q{"임상적 중증도·기능 손상"}
-    Q -- "경증" --> E["CBT·IPT·지지<br/>수면·사회적 개입"]
-    Q -- "중등증" --> F["심리치료 또는 항우울제<br/>필요시 병행"]
-    Q -- "중증 비정신병성" --> G["항우울제+심리치료<br/>정신건강의학과 협진"]
-    E --> H["초기 1~2주·안정화 후 2~4주 추적<br/>18~25세·자살위험은 1주 이내"]
+    A["선별 양성 또는 임상적 의심"] --> B["<u>진단 면담</u><br/>• 자살·영아 위해·정신증 평가"]
+    B --> Risk["즉각 위험·정신증·조증?"]
+    Risk -- "예" --> C["<u>산모·영아 안전 확보</u><br/>• 응급 이송·입원 평가"]
+    Risk -- "아니오" --> D["<u>자살사고는 당일 위험평가·안전계획</u><br/>• 양극성·중증도·수유·과거 반응 확인"]
+    D --> Q["임상적 중증도·기능 손상"]
+    Q -- "경증" --> E["<u>CBT·IPT·지지</u><br/>• 수면·사회적 개입"]
+    Q -- "중등증" --> F["<u>심리치료 또는 항우울제</u><br/>• 필요시 병행"]
+    Q -- "중증 비정신병성" --> G["<u>항우울제+심리치료</u><br/>• 정신건강의학과 협진"]
+    E --> H["<u>초기 1~2주·안정화 후 2~4주 추적</u><br/>• 18~25세·자살위험은 1주 이내"]
     F --> H
     G --> H
-    H --> R{"증상·기능·안전성 개선?"}
-    R -- "충분" --> J["관해 후 6~12개월 이상 유지<br/>재발 예방"]
-    R -- "불충분" --> I["순응도·진단·용량·기간 재평가<br/>전환·병행 또는 전문치료"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#c9a227
-    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    H --> R["증상·기능·안전성 개선?"]
+    R -- "충분" --> J["<u>관해 후 6~12개월 이상 유지</u><br/>• 재발 예방"]
+    R -- "불충분" --> I["<u>순응도·진단·용량·기간 재평가</u><br/>• 전환·병행 또는 전문치료"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
-    class Risk,Q,R decision
+    class Risk,Q,R question
     class C emergency
-    class E,F,G,H,J,I treatment
+    class B,D,H,I evaluation
+    class E,F,G,J treatment
 ```
 
 <p align="center"><strong>주산기/산후 우울증 알고리듬</strong></p>

@@ -250,29 +250,34 @@ E. 스트레스 요인 또는 그 결과가 종료된 뒤 증상이 추가로 6�
 
 ```mermaid
 flowchart TD
-    A(["번아웃·적응장애 의심"]) --> B{"자살사고 또는 다른 즉각 위험?"}
-    B -- "예" --> C["당일 안전평가: 의도·계획·수단·최근 시도"]
-    C --> Q{"임박 위험 또는 안전 확보 불가?"}
+    A["번아웃·적응장애 의심"] --> B["자살사고 또는 다른 즉각 위험?"]
+    B -- "예" --> C["<u>당일 안전평가</u><br/>• 의도·계획·수단·최근 시도"]
+    C --> Q["임박 위험 또는 안전 확보 불가?"]
     Q -- "예" --> E["혼자 두지 않고 응급 평가"]
     Q -- "아니요" --> S["안전계획·수단 제한·지지체계·수일 내 재접촉"]
     B -- "아니요" --> D["직업 스트레스·기능·동반 질환 평가"]
     S --> D
-    D --> F{"별도 정신질환 진단 충족?"}
+    D --> F["별도 정신질환 진단 충족?"]
     F -- "예" --> T["해당 질환의 심리·약물치료와 업무 조정"]
     F -- "아니요" --> G["조직·업무 개입과 심리사회적 지원"]
     T --> H["증상·기능·안전 재평가"]
     G --> H
-    H --> R{"호전되고 안전한 업무 참여 가능?"}
+    H --> R["호전되고 안전한 업무 참여 가능?"]
     R -- "예" --> W["개별화한 복직·재발 대처 계획"]
     R -- "아니요" --> I["진단·치료·업무 조정 재검토와 전문 의뢰"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1565c0
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,Q,F,R decision
+    class B,Q,F,R question
     class E emergency
-    class C,S,D,T,G,H,W,I treatment
+    class C,D,H,I evaluation
+    class S,T,G treatment
+    class W followup
 ```
 
 <p align="center"><strong>번아웃/적응장애 - 치료 결정 및 복직 알고리듬</strong></p>

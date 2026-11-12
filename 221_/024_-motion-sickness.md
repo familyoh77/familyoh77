@@ -122,27 +122,32 @@
 
 ```mermaid
 flowchart TD
-    A["움직임·시각 자극 관련 구역·어지럼"] --> B{"즉각 조치 위험 징후?"}
+    A["움직임·시각 자극 관련 구역·어지럼"] --> B["즉각 조치 위험 징후?"]
     B -- "예" --> U["즉시 119·응급 평가"]
-    B -- "아니요" --> C{"지속 구토·탈수·급성 요폐?"}
+    B -- "아니요" --> C["지속 구토·탈수·급성 요폐?"]
     C -- "예" --> V["당일 평가·치료"]
-    C -- "아니요" --> D{"자극 중 발생·종료 후 소실?"}
+    C -- "아니요" --> D["자극 중 발생·종료 후 소실?"]
     D -- "아니요" --> E["전정·중추성 질환·MdDS·약물 감별"]
     D -- "예" --> F["멀미·VIMS: 비약물 예방·점진적 적응"]
-    F --> G{"약물 예방 필요?"}
+    F --> G["약물 예방 필요?"]
     G -- "아니요" --> H["비약물 치료·추적"]
-    G -- "예" --> I{"연령·금기·동반 질환 확인"}
+    G -- "예" --> I["연령·금기·동반 질환 확인"]
     I -- "성인·경도 또는 단기 자극" --> J["meclizine 또는 dimenhydrinate"]
     I -- "16세 이상·장기 중등도 이상 자극" --> K["scopolamine 패취 고려"]
     I -- "소아·임신·수유·고령" --> L["비약물 우선·제품별 적합성 평가"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef process fill:#e3f2fd,stroke:#1976d2
-    classDef urgent fill:#ffebee,stroke:#d32f2f
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,C,D,G,I decision
-    class E,F,H,J,K,L process
-    class U,V urgent
+    class B,C,D,G,I question
+    class U,V emergency
+    class E,L evaluation
+    class F,J,K treatment
+    class H followup
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>

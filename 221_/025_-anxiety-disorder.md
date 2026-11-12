@@ -205,29 +205,32 @@ _<mark style="color:$info;">Ref. Ferri's Clinical Advisor 2024. Table E2.</mark>
 
 ```mermaid
 flowchart TD
-    Start(["불안·걱정으로 내원"]) --> RF{"즉각 조치가 필요한 위험징후?"}
+    Start["불안·걱정으로 내원"] --> RF["즉각 조치가 필요한 위험징후?"]
     RF -- "예" --> ER["안전 확보·응급 평가/이송"]
-    RF -- "아니오" --> Eval["당일·조기 평가 필요성 확인<br/>병력·진찰·표적 검사"]
-    Eval --> Dx["GAD-2/GAD-7 + 임상면담<br/>원인·동반질환·DSM-5-TR 확인"]
-    Dx --> Q{"GAD 확진 + 중등도 이상<br/>또는 유의한 기능 손상?"}
+    RF -- "아니오" --> Eval["<u>당일·조기 평가 필요성 확인</u><br/>• 병력·진찰·표적 검사"]
+    Eval --> Dx["<u>GAD-2/GAD-7 + 임상면담</u><br/>• 원인·동반질환·DSM-5-TR 확인"]
+    Dx --> Q["GAD 확진 + 중등도 이상<br/>또는 유의한 기능 손상?"]
     Q -- "아니오" --> Low["심리교육·저강도 중재<br/>감별·추적 평가"]
-    Q -- "예" --> Tx["환자 선호에 따라 CBT 또는<br/>SSRI/SNRI, 필요시 병행"]
-    Tx --> Review["초기 안전성 추적<br/>4~6주 1차 반응 평가"]
-    Review --> R{"증상·기능 개선?"}
-    R -- "충분" --> Keep["관해 후 약물 12개월 이상 유지<br/>이후 개별 감량"]
-    R -- "부분/불충분" --> Opt["진단·순응도·용량 재평가<br/>증량·CBT 추가 또는 교체"]
+    Q -- "예" --> Tx["환자 선호에 따라 CBT 또는 SSRI/SNRI, 필요시 병행"]
+    Tx --> Review["<u>초기 안전성 추적</u><br/>• 4~6주 1차 반응 평가"]
+    Review --> R["증상·기능 개선?"]
+    R -- "충분" --> Keep["<u>관해 후 약물 12개월 이상 유지</u><br/>• 이후 개별 감량"]
+    R -- "부분/불충분" --> Opt["<u>진단·순응도·용량 재평가</u><br/>• 증량·CBT 추가 또는 교체"]
     Opt --> Trial["치료용량에서 8~12주까지 평가"]
-    Trial --> Resist{"2가지 이상 충분한 치료에도<br/>반응 불충분?"}
+    Trial --> Resist["2가지 이상 충분한 치료에도<br/>반응 불충분?"]
     Resist -- "예" --> Ref["정신건강의학과 의뢰"]
     Resist -- "아니오" --> Plan["현재 반응에 맞춰 치료·추적"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#c9a227,stroke-width:1px
-    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1976d2,stroke-width:1px
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class Start start
-    class RF,Q,R,Resist decision
+    class RF,Q,R,Resist question
     class ER emergency
-    class Low,Tx,Review,Keep,Opt,Trial,Ref,Plan treatment
+    class Eval,Dx,Review,Opt,Trial,Ref evaluation
+    class Low,Tx,Keep,Plan treatment
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong> <em><mark style="color:$info;">(저자 재구성; 참고 문헌: NICE CG113, KMAP-GAD 2024)</mark></em></p>

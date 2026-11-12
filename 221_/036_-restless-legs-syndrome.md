@@ -139,26 +139,32 @@ Ferritin 수치는 측정법에 따라 차이가 큼. RLS Foundation 2026은 Bec
 
 ```mermaid
 flowchart TD
-    A(["휴식 시 다리를 움직이고 싶은 충동"]) --> B{"응급 징후?"}
+    A["휴식 시 다리를 움직이고 싶은 충동"] --> B["응급 징후?"]
     B -- "예" --> C["즉시 원인별 응급 평가"]
-    B -- "아니요" --> D{"IRLSSG 5개 기준 충족?"}
+    B -- "아니요" --> D["IRLSSG 5개 기준 충족?"]
     D -- "아니요" --> E["경련·신경병증·정좌불능증 등 감별"]
     D -- "예" --> F["철 상태·악화 약물·OSA 평가 및 교정"]
-    M -- "아니요" --> G{"치료가 필요한 불편의 빈도"}
+    M -- "아니요" --> G["치료가 필요한 불편의 빈도"]
     G -- "간헐적" --> H["비약물 치료·적응 시 철분 치료 및 제한적 간헐 약물"]
     G -- "만성 지속형" --> I["철 상태에 따른 치료·gabapentinoid 고려"]
-    I --> J{"기능·수면 개선과 내약성 충분?"}
+    I --> J["기능·수면 개선과 내약성 충분?"]
     J -- "예" --> K["증상·부작용·철 지표 추적"]
-    J -- "아니요" --> L["교정 요인 재평가·전문의: 저용량 opioid 또는 제한적 대안"]
-    F --> M{"도파민성 약물 복용 중 증강 의심?"}
-    M -- "예" --> N["증량하지 않음·대체 치료 도입 후 서서히 감량 및 협진"]
-    style A fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#f9a825
-    classDef emergency fill:#ffebee,stroke:#c62828,stroke-width:2px
-    classDef action fill:#e3f2fd,stroke:#1565c0
-    class B,D,G,J,M decision
+    J -- "아니요" --> L["<u>교정 요인 재평가·전문의</u><br/>• 저용량 opioid 또는 제한적 대안"]
+    F --> M["도파민성 약물 복용 중 증강 의심?"]
+    M -- "예" --> N["<u>증량하지 않음</u><br/>• 대체 치료 도입 후 서서히 감량 및 협진"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
+    class B,D,G,J,M question
     class C emergency
-    class E,F,H,I,K,L,N action
+    class E,F,L evaluation
+    class H,I,N treatment
+    class K followup
 ```
 
 <p align="center"><strong>하지불안증후군 진단 및 치료 알고리듬</strong></p>

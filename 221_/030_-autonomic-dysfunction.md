@@ -230,28 +230,31 @@
 
 ```mermaid
 flowchart TD
-    S(["기립 어지럼·실신·두근거림"]) --> R{"응급 위험 소견?"}
+    S["기립 어지럼·실신·두근거림"] --> R["응급 위험 소견?"]
     R -- "예" --> E["응급 평가·전원"]
     R -- "아니요" --> M["약력·진찰·심전도와 기립 혈압·맥박 측정"]
-    M --> Q{"수축기 ≥20 또는 이완기 ≥10 ㎜Hg 지속 하강?"}
+    M --> Q["수축기 ≥20 또는 이완기 ≥10 ㎜Hg 지속 하강?"]
     Q -- "예" --> O["발생 시점으로 고전적·지연성 OH 구분"]
-    O --> N{"심박수 반응 저하가 있는가?"}
+    O --> N["심박수 반응 저하가 있는가?"]
     N -- "예" --> A["신경인성 원인·누운 자세 고혈압 평가"]
     N -- "아니요" --> V["탈수·저혈량·약물 등 교정"]
-    A --> AT["비약물 치료·원인 평가와 맞춤 약물·전문 의뢰"]
-    Q -- "아니요" --> P{"10분 내 지속 HR 증가 ≥30회/분?"}
-    P -- "예" --> C{"기립 증상 ≥3개월이며 다른 빈맥 원인 배제?"}
-    C -- "예" --> PT["POTS: 비약물 치료와 필요 시 맞춤 약물"]
+    A --> AT["<u>비약물 치료·원인 평가</u><br/>• 맞춤 약물·전문 의뢰"]
+    Q -- "아니요" --> P["10분 내 지속 HR 증가 ≥30회/분?"]
+    P -- "예" --> C["기립 증상 ≥3개월이며 다른 빈맥 원인 배제?"]
+    C -- "예" --> PT["<u>POTS</u><br/>• 비약물 치료와 필요 시 맞춤 약물"]
     C -- "아니요" --> B["이차 원인 교정·추적 재평가"]
     P -- "아니요" --> D["초기 OH·반사성 실신·부정맥 등 평가"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1565c0
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class S start
-    class R,Q,N,P,C decision
+    class R,Q,N,P,C question
     class E emergency
-    class M,V,AT,PT,B,D treatment
+    class M,O,A,D evaluation
+    class V,AT,PT,B treatment
 ```
 
 *12~19세의 POTS 심박수 기준은 ≥40회/분. 신경인성 OH 감별에는 ΔHR/ΔSBP ＜0.5를 보조적으로 사용하되, β차단제·부정맥·심박조율기 등 교란 요인을 확인. 초기 OH는 병력으로 의심하고 연속혈압으로 확인하며 POTS와 공존 가능.*

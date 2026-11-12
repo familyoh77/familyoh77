@@ -133,27 +133,31 @@
 
 ```mermaid
 flowchart TD
-    A(["떨림 호소 환자"]) --> B{"즉각 조치가 필요한 징후?"}
+    A["떨림 호소 환자"] --> B["즉각 조치가 필요한 징후?"]
     B -- "예" --> C["응급 평가·원인별 처치"]
-    B -- "아니요" --> D{"빠른 진행 또는 Wilson병 단서?"}
+    B -- "아니요" --> D["빠른 진행 또는 Wilson병 단서?"]
     D -- "예" --> E["당일~수일 내 원인 평가"]
-    D -- "아니요" --> F{"주된 증상 유형"}
+    D -- "아니요" --> F["주된 증상 유형"]
     F -- "안정 떨림" --> G["서동·경직·약물력 확인 후 신경과 평가"]
     F -- "눈꺼풀·얼굴 경련" --> H["근파동·반얼굴연축·눈꺼풀연축 감별"]
-    F -- "동작 떨림" --> I{"동반 징후·가역적 원인"}
+    F -- "동작 떨림" --> I["동반 징후·가역적 원인"]
     I -- "약물·대사·불안 등" --> J["원인 교정 후 재평가"]
     I -- "실조·근긴장이상·기립 시 증상" --> K["소뇌·근긴장이상·기립 떨림 평가 및 의뢰"]
     I -- "기능성 양성 징후" --> L["진단 설명·운동 재훈련 및 협진"]
-    I -- "양측 상지 동작 떨림" --> M{"3년 이상이며 다른 신경학적 징후 없음?"}
-    M -- "예" --> N["본태성 떨림: 기능장애에 따라 치료"]
+    I -- "양측 상지 동작 떨림" --> M["3년 이상이며 다른 신경학적 징후 없음?"]
+    M -- "예" --> N["<u>본태성 떨림</u><br/>• 기능장애에 따라 치료"]
     M -- "아니요" --> O["미확정·ET plus·다른 증후군 평가 및 추적"]
-    style A fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#f9a825
-    classDef emergency fill:#ffebee,stroke:#c62828,stroke-width:2px
-    classDef action fill:#e3f2fd,stroke:#1565c0
-    class B,D,F,I,M decision
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class B,D,F,I,M question
     class C emergency
-    class E,G,H,J,K,L,N,O action
+    class E,G,H,K,O evaluation
+    class J,L,N treatment
 ```
 
 <p align="center"><strong>떨림의 진단 알고리듬</strong></p>
@@ -262,23 +266,29 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A(["본태성 떨림"]) --> B{"일상 기능장애?"}
+    A["본태성 떨림"] --> B["일상 기능장애?"]
     B -- "없음" --> C["상담·유발 인자 조절·경과 관찰"]
-    B -- "있음" --> D{"베타차단제 사용 가능?"}
+    B -- "있음" --> D["베타차단제 사용 가능?"]
     D -- "예" --> E["arotinolol 또는 propranolol 시도"]
     D -- "아니요" --> F["primidone 초저용량 시작 고려"]
-    E --> G{"기능 개선과 내약성 충분?"}
+    E --> G["기능 개선과 내약성 충분?"]
     F --> G
     G -- "예" --> H["최소 유효용량 유지·추적"]
-    G -- "아니요" --> I["금기·불내성에 따라 변경 또는 병용: primidone·topiramate 등"]
-    I --> J{"충분한 치료 후에도 불편 지속?"}
+    G -- "아니요" --> I["<u>금기·불내성에 따라 변경 또는 병용</u><br/>• primidone·topiramate 등"]
+    I --> J["충분한 치료 후에도 불편 지속?"]
     J -- "아니요" --> H
-    J -- "예" --> K["신경과: botulinum toxin·DBS·집속초음파 평가"]
-    style A fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#f9a825
-    classDef action fill:#e3f2fd,stroke:#1565c0
-    class B,D,G,J decision
-    class C,E,F,H,I,K action
+    J -- "예" --> K["<u>신경과</u><br/>• botulinum toxin·DBS·집속초음파 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
+    class B,D,G,J question
+    class K evaluation
+    class C,E,F,I treatment
+    class H followup
 ```
 
 <p align="center"><strong>본태성 떨림의 치료 알고리듬</strong></p>

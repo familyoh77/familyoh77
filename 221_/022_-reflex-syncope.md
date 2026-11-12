@@ -128,25 +128,30 @@
 
 ```mermaid
 flowchart TD
-    A["실신: 병력·진찰·기립혈압·ECG"] --> B{"고위험 소견?"}
+    A["실신: 병력·진찰·기립혈압·ECG"] --> B["고위험 소견?"]
     B -- "예" --> C["응급 평가·심장 원인 배제"]
-    B -- "아니요" --> D{"전형적 반사성 실신?"}
+    B -- "아니요" --> D["전형적 반사성 실신?"]
     D -- "아니요" --> E["표적 검사·장기 ECG로 기전 확인"]
     D -- "예" --> F["교육·유발요인 회피·맞압력 조작"]
-    F --> G{"중증 재발 지속?"}
+    F --> G["중증 재발 지속?"]
     G -- "아니요" --> H["추적·안전 대책 유지"]
-    G -- "예" --> I{"확인된 우세 기전"}
+    G -- "예" --> I["확인된 우세 기전"]
     I -- "저혈압" --> J["혈압강하약 조정·선별적 약물 치료"]
     I -- "서맥·무수축" --> K["연령·기록 소견에 따라 pacing 평가"]
     I -- "불명" --> E
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef process fill:#e3f2fd,stroke:#1976d2
-    classDef urgent fill:#ffebee,stroke:#d32f2f
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,D,G,I decision
-    class E,F,H,J,K process
-    class C urgent
+    class B,D,G,I question
+    class C emergency
+    class E,K evaluation
+    class F,J treatment
+    class H followup
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>

@@ -394,14 +394,14 @@ D. 이 행위는 망상장애를 비롯한 다른 정신 장애로 더 잘 설�
 
 ```mermaid
 flowchart TD
-    S(["신체 증상을 호소하는 환자"]) --> R{"즉각 조치 소견?"}
+    S["신체 증상을 호소하는 환자"] --> R["즉각 조치 소견?"]
     R -- "예" --> E["응급 평가·안전 확보"]
-    R -- "아니요" --> U{"당일~수일 내 평가 소견?"}
+    R -- "아니요" --> U["당일~수일 내 평가 소견?"]
     U -- "예" --> P["필요한 신체·정신건강 평가 우선"]
     U -- "아니요" --> B["병력·약물·기록·진찰과 필요한 검사"]
     P --> B
     B --> D["의학적 질환과 증상 관련 반응·기능 동시 평가"]
-    D --> Q{"주된 임상 양상?"}
+    D --> Q["주된 임상 양상?"]
     Q -- "신체 증상과 과도한 반응" --> SSD["SSD 임상기준 평가"]
     Q -- "경미한 증상과 질병 집착" --> IAD["질병불안장애 평가"]
     Q -- "운동·감각 증상" --> FND["양성 진찰소견으로 FNSD 평가"]
@@ -412,14 +412,17 @@ flowchart TD
     O --> F["질환별 치료와 계획된 추적"]
     T --> F
     F --> X["새 변화·약물 안전성·기능 재평가"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1565c0
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class S start
-    class R,U,Q decision
+    class R,U,Q question
     class E emergency
-    class P,B,D,SSD,IAD,FND,O,T,F,X treatment
+    class P,B,D,SSD,IAD,FND,O,X evaluation
+    class T,F treatment
 ```
 
 <p align="center"><strong>신체증상 및 관련 장애 1차 진료 알고리듬</strong></p>

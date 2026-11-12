@@ -204,32 +204,35 @@ H\~I. 다른 의학적 상태(예: 염증성 장질환, 파킨슨병)가 있다�
 
 ```mermaid
 flowchart TD
-    Start(["공황발작 의심"]) --> RF{"신체 응급징후 또는<br/>정신과적 즉각 조치 필요?"}
+    Start["공황발작 의심"] --> RF["신체 응급징후 또는<br/>정신과적 즉각 조치 필요?"]
     RF -- "예" --> ER["안전 확보·응급 평가/이송"]
-    RF -- "아니오" --> First{"첫 발작·평소와 다른 양상?"}
-    First -- "예" --> Check["활력징후·진찰·SpO2·ECG 등<br/>신체질환을 우선 평가"]
-    First -- "아니오" --> Eval["물질·약물·신체질환 감별<br/>광장공포·우울·자살위험 평가"]
+    RF -- "아니오" --> First["첫 발작·평소와 다른 양상?"]
+    First -- "예" --> Check["<u>신체질환을 우선 평가</u><br/>• 활력징후·진찰·SpO2·ECG 등"]
+    First -- "아니오" --> Eval["<u>물질·약물·신체질환 감별</u><br/>• 광장공포·우울·자살위험 평가"]
     Check --> Eval
-    Eval --> Cause{"교정할 원인 확인?"}
+    Eval --> Cause["교정할 원인 확인?"]
     Cause -- "예" --> Correct["원인 치료·필요시 의뢰"]
-    Cause -- "아니오" --> Dx["DSM-5-TR 진단 확인<br/>PDSS-SR로 기저 중증도 기록"]
-    Dx --> Tx["공황 특이적 CBT 또는 SSRI/SNRI<br/>선호·중증도에 따라 병행"]
-    Tx --> Follow["2주 이내 내약성 확인<br/>고위험군은 1주 이내·빈번한 추적"]
-    Follow --> Review["4~6주 중간 평가<br/>8~12주 최종 반응 평가"]
-    Review --> R{"충분한 반응?"}
-    R -- "예" --> Keep["반응·관해 후 6~12개월 이상 유지<br/>이후 개별 감량"]
-    R -- "아니오" --> Adjust["진단·순응도 재평가<br/>CBT 추가 또는 약물 교체"]
-    Adjust --> Resist{"충분한 치료 2가지에도<br/>반응 불충분?"}
+    Cause -- "아니오" --> Dx["<u>DSM-5-TR 진단 확인</u><br/>• PDSS-SR로 기저 중증도 기록"]
+    Dx --> Tx["<u>공황 특이적 CBT 또는 SSRI/SNRI</u><br/>• 선호·중증도에 따라 병행"]
+    Tx --> Follow["<u>2주 이내 내약성 확인</u><br/>• 고위험군은 1주 이내·빈번한 추적"]
+    Follow --> Review["<u>4~6주 중간 평가</u><br/>• 8~12주 최종 반응 평가"]
+    Review --> R["충분한 반응?"]
+    R -- "예" --> Keep["<u>반응·관해 후 6~12개월 이상 유지</u><br/>• 이후 개별 감량"]
+    R -- "아니오" --> Adjust["<u>진단·순응도 재평가</u><br/>• CBT 추가 또는 약물 교체"]
+    Adjust --> Resist["충분한 치료 2가지에도<br/>반응 불충분?"]
     Resist -- "예" --> Ref["정신건강의학과 협진"]
     Resist -- "아니오" --> Plan["반응에 맞춰 치료·추적"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#c9a227
-    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1976d2
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class Start start
-    class RF,First,Cause,R,Resist decision
+    class RF,First,Cause,R,Resist question
     class ER emergency
-    class Correct,Tx,Follow,Review,Keep,Adjust,Ref,Plan treatment
+    class Check,Eval,Dx,Follow,Review,Adjust,Ref evaluation
+    class Correct,Tx,Keep,Plan treatment
 ```
 
 <p align="center"><strong>공황장애 진단 및 치료 알고리듬</strong></p>
@@ -525,12 +528,17 @@ Alprazolam은 짧은 반감기로 투여 간 금단과 반동불안이 나타날
 
 ```mermaid
 flowchart TD
-    A["신체 감각을 느낌<br/>두근거림·어지럼"] --> B["'죽을 것 같다'<br/>'쓰러질 것 같다'<br/>위협으로 해석"]
-    B --> C["공포 반응<br/>교감신경 활성화"]
-    C --> D["증상이 더 심해짐<br/>호흡 빨라짐·심박수 증가"]
+    A["<u>신체 감각을 느낌</u><br/>• 두근거림·어지럼"] --> B["<u>위협으로 해석</u><br/>• '죽을 것 같다'<br/>• '쓰러질 것 같다'"]
+    B --> C["<u>공포 반응</u><br/>• 교감신경 활성화"]
+    C --> D["<u>증상이 더 심해짐</u><br/>• 호흡 빨라짐·심박수 증가"]
     D --> B
-    style A fill:#eee,stroke:#888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#c9a227
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
+    class B question
+    class C,D followup
 ```
 
 _저자 재구성(참고 문헌: NICE CG113; 공황 특이적 CBT의 인지 모형)._

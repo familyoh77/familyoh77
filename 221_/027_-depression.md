@@ -344,32 +344,37 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 ```mermaid
 flowchart TD
-    Start(["우울 증상 또는 선별 대상 성인"]) --> RF{"자살 위기·정신증·긴장증 등<br/>즉각 조치 필요?"}
-    RF -- "예" --> ER["혼자 두지 않음·수단 제한<br/>응급 평가/이송"]
+    Start["우울 증상 또는 선별 대상 성인"] --> RF["자살 위기·정신증·긴장증 등<br/>즉각 조치 필요?"]
+    RF -- "예" --> ER["<u>혼자 두지 않음·수단 제한</u><br/>• 응급 평가/이송"]
     RF -- "아니오" --> P2["PHQ-2 또는 임상면담"]
-    P2 --> Q{"선별 양성 또는<br/>임상적으로 우울증 의심?"}
+    P2 --> Q["선별 양성 또는<br/>임상적으로 우울증 의심?"]
     Q -- "아니오" --> Obs["경과 관찰·필요시 재평가"]
-    Q -- "예" --> Dx["PHQ-9 + 진단 면담<br/>기간·기능·자살위험 평가"]
-    Dx --> Diff["양극성·물질·신체질환 감별<br/>자살사고 시 당일 위험평가·안전계획"]
-    Diff --> Bipolar{"양극성·혼재성·정신병적 양상?"}
+    Q -- "예" --> Dx["<u>PHQ-9 + 진단 면담</u><br/>• 기간·기능·자살위험 평가"]
+    Dx --> Diff["<u>양극성·물질·신체질환 감별</u><br/>• 자살사고 시 당일 위험평가·안전계획"]
+    Diff --> Bipolar["양극성·혼재성·정신병적 양상?"]
     Bipolar -- "예" --> Ref["정신건강의학과 신속 의뢰"]
-    Bipolar -- "아니오" --> Sev{"임상적 중증도·선호·기능 손상"}
-    Sev -- "덜 심함" --> Mild["정신치료·생활중재·적극적 관찰<br/>약물은 선호·과거 반응에 따라 선택"]
-    Sev -- "더 심함" --> Mod["항우울제 또는 정신치료<br/>중증은 병합 고려"]
-    Mod --> Early["통상 2주 이내 안전성 확인<br/>18~25세·자살위험은 1주 이내"]
+    Bipolar -- "아니오" --> Sev["임상적 중증도·선호·기능 손상"]
+    Sev -- "덜 심함" --> Mild["<u>정신치료·생활중재·적극적 관찰</u><br/>• 약물은 선호·과거 반응에 따라 선택"]
+    Sev -- "더 심함" --> Mod["<u>항우울제 또는 정신치료</u><br/>• 중증은 병합 고려"]
+    Mod --> Early["<u>통상 2주 이내 안전성 확인</u><br/>• 18~25세·자살위험은 1주 이내"]
     Early --> Review["4~6주 증상·기능·내약성 평가"]
-    Review --> R{"치료 반응?"}
-    R -- "충분" --> Keep["관해까지 치료<br/>관해 후 6~12개월 이상 유지"]
-    R -- "부분/불충분" --> Adj["순응도·진단·용량 재점검<br/>최적화·교체·병행 또는 의뢰"]
+    Review --> R["치료 반응?"]
+    R -- "충분" --> Keep["<u>관해까지 치료</u><br/>• 관해 후 6~12개월 이상 유지"]
+    R -- "부분/불충분" --> Adj["<u>순응도·진단·용량 재점검</u><br/>• 최적화·교체·병행 또는 의뢰"]
     Mild --> Follow["2~4주 내 추적·악화 시 치료 강화"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#c9a227
-    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1976d2
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class Start start
-    class RF,Q,Bipolar,Sev,R decision
+    class RF,Q,Bipolar,Sev,R question
     class ER emergency
-    class Obs,Ref,Mild,Mod,Early,Review,Keep,Adj,Follow treatment
+    class P2,Dx,Diff,Ref,Early,Review,Adj evaluation
+    class Mild,Mod,Keep treatment
+    class Obs,Follow followup
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>

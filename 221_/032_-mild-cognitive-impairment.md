@@ -228,25 +228,28 @@ K-MoCA 원 논문의 부록에 검사 문항이 수록되어 있음([이 pdf](ht
 
 ```mermaid
 flowchart TD
-    A(["인지·기능 변화 호소"]) --> B{"급성·변동성 또는 응급 징후?"}
+    A["인지·기능 변화 호소"] --> B["급성·변동성 또는 응급 징후?"]
     B -- "예" --> E["섬망·뇌졸중·감염 등 즉각 평가"]
     B -- "아니요" --> C["환자·보호자 병력·인지검사·IADL·신경학적 검사"]
     C --> D["약물·기분·수면·감각·기본검사·뇌영상 평가"]
-    D --> Q{"객관적 인지 저하와 독립성 상태?"}
-    Q -- "객관적 저하 없음·독립 유지" --> F["SCD 또는 정상 범위: 원인 관리·위험도별 추적"]
-    Q -- "객관적 저하·독립 유지" --> G["MCI: 원인 평가·관리와 6~12개월 추적"]
+    D --> Q["객관적 인지 저하와 독립성 상태?"]
+    Q -- "객관적 저하 없음·독립 유지" --> F["<u>SCD 또는 정상 범위</u><br/>• 원인 관리·위험도별 추적"]
+    Q -- "객관적 저하·독립 유지" --> G["<u>MCI</u><br/>• 원인 평가·관리와 6~12개월 추적"]
     Q -- "독립성 저하" --> H["치매 평가·전문 의뢰"]
-    G --> R{"빠른 진행·비전형·치료 적격성 평가 필요?"}
-    R -- "예" --> I["의뢰 시기 개별화·급속 진행은 당일~수일 평가"]
+    G --> R["빠른 진행·비전형·치료 적격성 평가 필요?"]
+    R -- "예" --> I["<u>의뢰 시기 개별화</u><br/>• 급속 진행은 당일~수일 평가"]
     R -- "아니요" --> J["비약물 관리·동반 위험인자 치료 지속"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1565c0
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
-    class B,Q,R decision
+    class B,Q,R question
     class E emergency
-    class C,D,F,G,H,I,J treatment
+    class C,D,H,I evaluation
+    class F,G,J treatment
 ```
 
 <p align="center"><strong>경도인지장애 1차 진료 알고리듬</strong></p>

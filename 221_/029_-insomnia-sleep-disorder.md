@@ -231,29 +231,34 @@
 
 ```mermaid
 flowchart TD
-    Start(["불면 증상과 주간 기능장애"]) --> Safety{"위험징후의 긴급도?"}
+    Start["불면 증상과 주간 기능장애"] --> Safety["위험징후의 긴급도?"]
     Safety -- "즉각 조치" --> ER["안전 확보·응급 평가/이송"]
-    Safety -- "당일~수일" --> Urgent["위험도에 맞춘 신속 평가<br/>자살사고는 당일 위험평가"]
-    Safety -- "그 외" --> Assess["적절한 수면 기회·환경 확인<br/>수면력·일지·동반 질환 평가"]
-    Assess --> Other{"다른 수면장애 의심?"}
-    Other -- "예" --> Test["적응증에 따른 검사·전문 평가<br/>동반 장애와 불면 병행 관리"]
-    Other -- "아니오" --> Duration{"주 3회 이상·3개월 이상?"}
+    Safety -- "당일~수일" --> Urgent["<u>위험도에 맞춘 신속 평가</u><br/>• 자살사고는 당일 위험평가"]
+    Safety -- "그 외" --> Assess["<u>적절한 수면 기회·환경 확인</u><br/>• 수면력·일지·동반 질환 평가"]
+    Assess --> Other["다른 수면장애 의심?"]
+    Other -- "예" --> Test["<u>적응증에 따른 검사·전문 평가</u><br/>• 동반 장애와 불면 병행 관리"]
+    Other -- "아니오" --> Duration["주 3회 이상·3개월 이상?"]
     Duration -- "예" --> Chronic["만성 불면장애"]
     Duration -- "아니오" --> Short["단기 불면장애 또는 불면 증상"]
     Test --> CBT["CBT-I 우선·필요시 dCBT-I"]
     Chronic --> CBT
     Short --> Cause["유발 요인 교정·단기 관리"]
-    CBT --> Review{"증상·기능 반응?"}
-    Review -- "불충분" --> Drug["진단·순응도·안전성 재평가<br/>공동 결정 후 약물 보조·전문의뢰"]
+    CBT --> Review["증상·기능 반응?"]
+    Review -- "불충분" --> Drug["<u>진단·순응도·안전성 재평가</u><br/>• 공동 결정 후 약물 보조·전문의뢰"]
     Review -- "호전" --> Prevent["유지·재발 예방"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#c9a227
-    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1976d2
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class Start start
-    class Safety,Other,Duration,Review decision
+    class Safety,Other,Duration,Review question
     class ER emergency
-    class Urgent,Test,CBT,Cause,Drug,Prevent treatment
+    class Urgent,Assess,Test evaluation
+    class CBT,Cause,Drug treatment
+    class Chronic,Short,Prevent followup
 ```
 
 <p align="center"><strong>불면증 진단 및 치료 알고리듬</strong></p>

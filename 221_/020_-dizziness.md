@@ -370,9 +370,9 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 
 ```mermaid
 flowchart TD
-    A["급성 어지럼·현훈"] --> R{"중추성·심혈관 위험 징후?"}
+    A["급성 어지럼·현훈"] --> R["중추성·심혈관 위험 징후?"]
     R -- "예" --> U["즉시 응급 평가·이송"]
-    R -- "아니요" --> B{"시간 경과·유발 인자"}
+    R -- "아니요" --> B["시간 경과·유발 인자"]
     B -- "특정 자세로 짧은 발작" --> C["체위검사·기립혈압"]
     C -- "후반고리관 BPPV" --> C2["Epley 정복술"]
     C -- "수평안진 또는 DH 음성" --> C3["Supine roll로 아형 확인·정복술"]
@@ -381,7 +381,7 @@ flowchart TD
     B -- "자발성 반복 발작" --> D["신경·청각·심혈관·혈당 평가"]
     D -- "TIA·위험 부정맥 의심" --> U
     D -- "말초성·기타 원인 확인" --> D2["원인별 치료·추적"]
-    B -- "급성 지속성" --> E{"안정 시 안진·숙련 검사자 있음?"}
+    B -- "급성 지속성" --> E["안정 시 안진·숙련 검사자 있음?"]
     E -- "예" --> E2["HINTS Plus"]
     E2 -- "모두 말초성·다른 위험 징후 없음" --> E3["AUVP 고려·조기 재활"]
     E2 -- "중추성·불명확" --> U
@@ -389,14 +389,17 @@ flowchart TD
     E4 -- "위험 소견 또는 원인 불명" --> U
     E4 -- "다른 원인 명확" --> D2
     U --> V["뇌졸중 등 감별·필요한 영상검사"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef process fill:#e3f2fd,stroke:#1976d2
-    classDef urgent fill:#ffebee,stroke:#d32f2f
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
-    class R,B,E decision
-    class C,C2,C3,C4,D,D2,E2,E3,E4 process
-    class U,V urgent
+    class R,B,E question
+    class U,V emergency
+    class C,D,E2,E4 evaluation
+    class C2,C3,C4,D2,E3 treatment
 ```
 
 <p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : TiTrATE; GRACE-3; Sars C, et al. JAMA Neurol 2026)</mark></em></p>

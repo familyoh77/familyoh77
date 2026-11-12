@@ -456,31 +456,36 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 ```mermaid
 flowchart TD
-    A(["인지·일상기능 변화"]) --> B{"급성·변동성 또는 응급 징후?"}
+    A["인지·일상기능 변화"] --> B["급성·변동성 또는 응급 징후?"]
     B -- "예" --> C["섬망·뇌졸중 등 즉각 평가"]
     B -- "아니요" --> D["환자·보호자 병력·인지검사·IADL 평가"]
     D --> E["기분·수면·약물·감각·혈액검사·뇌영상 평가"]
-    E --> F{"인지 저하와 독립성 상태?"}
-    F -- "객관적 저하 없음·독립 유지" --> S["SCD·정상 범위: 위험요인 관리·추적"]
-    F -- "객관적 저하·독립 유지" --> M["MCI: 원인 관리·6~12개월 추적"]
-    F -- "인지 저하로 독립성 상실" --> T["치매: 원인·병기·혼합 병리 평가"]
-    T --> Q{"주된 원인?"}
+    E --> F["인지 저하와 독립성 상태?"]
+    F -- "객관적 저하 없음·독립 유지" --> S["<u>SCD·정상 범위</u><br/>• 위험요인 관리·추적"]
+    F -- "객관적 저하·독립 유지" --> M["<u>MCI</u><br/>• 원인 관리·6~12개월 추적"]
+    F -- "인지 저하로 독립성 상실" --> T["<u>치매</u><br/>• 원인·병기·혼합 병리 평가"]
+    T --> Q["주된 원인?"]
     Q -- "알츠하이머병" --> AD["ChEI·memantine 선택 및 조기 AD 항체 적격성 의뢰"]
     Q -- "혈관성" --> V["혈관 위험 관리·혼합 AD 여부 확인"]
-    Q -- "DLB·PDD" --> L["ChEI 고려·항정신병제 과민성 주의"]
-    Q -- "FTD" --> FT["증상별 관리·ChEI·memantine 회피"]
-    AD --> U["3~6개월 추적·안전·보호자·지역 지원"]
+    Q -- "DLB·PDD" --> L["<u>ChEI 고려</u><br/>• 항정신병제 과민성 주의"]
+    Q -- "FTD" --> FT["<u>증상별 관리</u><br/>• ChEI·memantine 회피"]
+    AD --> U["<u>3~6개월 추적</u><br/>• 안전·보호자·지역 지원"]
     V --> U
     L --> U
     FT --> U
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    classDef treatment fill:#e3f2fd,stroke:#1565c0
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,F,Q decision
+    class B,F,Q question
     class C emergency
-    class D,E,S,M,T,AD,V,L,FT,U treatment
+    class D,E,T evaluation
+    class S,M,AD,V,L,FT treatment
+    class U followup
 ```
 
 <p align="center"><strong>치매 진단 및 치료 결정 알고리듬</strong></p>
