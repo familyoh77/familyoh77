@@ -154,43 +154,45 @@
 
 ```mermaid
 flowchart TD
-    S["근골격 증상 평가"] ---> R{"즉각 조치 항목에 해당?"}
-    R -- "예" ---> RE["즉시 응급 평가 또는 의뢰"]
-    R -- "아니오" ---> U{"당일~수일 내 평가 항목에 해당?"}
-    U -- "예" ---> UE["질환별 시급도에 맞추어 평가·의뢰"]
-    U -- "아니오" ---> Q1{"관절 증상인가?"}
+    S["근골격 증상 평가"] --> R{"즉각 조치 항목에 해당?"}
+    R -- "예" --> RE["즉시 응급 평가 또는 의뢰"]
+    R -- "아니오" --> U{"당일~수일 내 평가 항목에 해당?"}
+    U -- "예" --> UE["질환별 시급도에 맞추어 평가·의뢰"]
+    U -- "아니오" --> Q1{"관절 증상인가?"}
 
-    Q1 -- "아니오" ---> NA["비관절 원인 감별: 힘줄·점액낭·근육·신경·혈관·연관통"]
-    Q1 -- "예" ---> Q2{"새로 발생하거나 급격히 악화된 단관절염?"}
-    Q2 -- "예" ---> SA["화농성 관절염 우선 평가: 의심 시 신속한 천자·응급 의뢰"]
-    SA ---> AC["감염 가능성 평가 후 통풍·CPPD·외상·혈관절증 감별"]
-    Q2 -- "아니오" ---> Q3{"활막염 또는 염증성 양상?"}
+    Q1 -- "아니오" --> NA["비관절 원인 감별: 힘줄·점액낭·근육·신경·혈관·연관통"]
+    Q1 -- "예" --> Q2{"새로 발생하거나 급격히 악화된 단관절염?"}
+    Q2 -- "예" --> SA["화농성 관절염 우선 평가: 의심 시 신속한 천자·응급 의뢰"]
+    SA --> AC["감염 가능성 평가 후 통풍·CPPD·외상·혈관절증 감별"]
+    Q2 -- "아니오" --> Q3{"활막염 또는 염증성 양상?"}
 
-    Q3 -- "예" ---> Q4{"이환 관절 수"}
-    Q4 -- "1개" ---> MONO["만성 감염·결정성 질환·국소 병변 등"]
-    Q4 -- "2~4개" ---> OLIGO["척추관절염·반응성/건선 관절염·초기 RA 등"]
-    Q4 -- "5개 이상" ---> POLY["RA·SLE·건선/바이러스성 관절염 등"]
-    MONO ---> RF["원인 불명의 지속성 활막염: 류마티스내과 조기 의뢰"]
-    OLIGO ---> RF
-    POLY ---> RF
+    Q3 -- "예" --> Q4{"이환 관절 수"}
+    Q4 -- "1개" --> MONO["만성 감염·결정성 질환·국소 병변 등"]
+    Q4 -- "2~4개" --> OLIGO["척추관절염·반응성/건선 관절염·초기 RA 등"]
+    Q4 -- "5개 이상" --> POLY["RA·SLE·건선/바이러스성 관절염 등"]
+    MONO --> RF["원인 불명의 지속성 활막염: 류마티스내과 조기 의뢰"]
+    OLIGO --> RF
+    POLY --> RF
 
-    Q3 -- "아니오" ---> Q5{"전형적 OA 분포·양상?"}
-    Q5 -- "예" ---> OA2["골관절염 고려"]
-    Q5 -- "아니오" ---> NOA["골괴사·국소 구조 병변·주변 연부조직·기타 통증 원인 재평가"]
+    Q3 -- "아니오" --> Q5{"전형적 OA 분포·양상?"}
+    Q5 -- "예" --> OA2["골관절염 고려"]
+    Q5 -- "아니오" --> NOA["골괴사·국소 구조 병변·주변 연부조직·기타 통증 원인 재평가"]
 
-    classDef q fill:#FFF7E6,stroke:#F0B429,stroke-width:1px,color:#7A4A00;
+    classDef q fill:#fff9c4,stroke:#ffe082,stroke-width:1px,color:#333333;
     classDef box fill:#EEF2FF,stroke:#94A3B8,stroke-width:1px,color:#1E293B;
     classDef danger fill:#FEE2E2,stroke:#F87171,stroke-width:1px,color:#991B1B;
     classDef warning fill:#FFF7E6,stroke:#F0B429,stroke-width:1px,color:#7A4A00;
-    classDef good fill:#DCFCE7,stroke:#4ADE80,stroke-width:1px,color:#14532B;
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6,stroke-width:1px,color:#1E293B;
     class R,U,Q1,Q2,Q3,Q4,Q5 q;
     class NA,AC,MONO,OLIGO,POLY,NOA box;
     class RE,SA danger;
     class UE warning;
-    class OA2,RF good;
+    class OA2 box;
+    class RF treatment;
+    style S fill:#eeeeee,stroke:#888888,stroke-width:2px;
 ```
 
-<p align="center"><em>성인 1차 진료에서 활용 가능한 근골격 증상 감별 흐름 (일반적 임상 접근과 참고 지침에 기초하여 정리)</em></p>
+<p align="center"><em>저자 재구성 (참고 문헌 : NICE NG100; SANJO 2023; NICE NG234; NICE NG226)</em></p>
 
 ✽평가 중 새로운 위험 소견이 확인되면 즉시 해당 Red Flag 단계로 재분류함. 단순 외상력만으로 모든 환자를 응급 의뢰하지 않으며, 골절·탈구·신경혈관 손상 의심 여부에 따라 판단함.
 
@@ -266,7 +268,7 @@ flowchart TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-✽아래는 증상 코드의 상위 범주임. 확정 진단이 있으면 해당 질환 코드를 우선하고, 진료 부위 등에 따른 세분코드가 있는 경우 실제 청구에 맞는 코드를 선택함.
+✽M25.5·M79.1·M79.6은 상위 분류이므로 부위에 맞는 세분코드를 선택함. R29.8은 완전코드임. 확정 진단이 있으면 해당 질환 코드를 우선함.
 
 M25.5 관절통 Pain in joint
 
@@ -275,6 +277,33 @@ M79.1 근통 Myalgia
 M79.6 사지의 통증 Pain in limb
 
 R29.8 신경계통 및 근골격계통의 기타 및 상세불명의 증상 및 징후 Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG100. Rheumatoid arthritis in adults: management](https://www.nice.org.uk/guidance/ng100/chapter/recommendations) — 지속성 활막염의 조기 의뢰
+* [EBJIS. Guideline for management of septic arthritis in native joints (SANJO), 2023](https://doi.org/10.5194/jbji-8-29-2023) — 관절천자·활액 해석·항생제 투여 전 검체 채취
+* [NICE NG234. Spinal metastases and metastatic spinal cord compression, 2023](https://www.nice.org.uk/guidance/ng234/chapter/recommendations) — 척추전이·척수압박의 긴급도
+* [NICE NG158. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations) — DVT 의심 시 검사 경로
+* [2024 ACC/AHA multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease](https://doi.org/10.1161/CIR.0000000000001251) — ABI·운동 ABI·TBI
+* [BOASt. Diagnosis and Management of Compartment Syndrome of the Extremities, 2025 개정](https://www.boa.ac.uk/resource/boast-10-pdf.html) — 급성 구획증후군의 조기 소견과 즉시 치료
+* [BSR. Guideline on diagnosis and treatment of giant cell arteritis, 2020](https://doi.org/10.1093/rheumatology/kez672) — 강하게 의심되는 경우 확진 전 치료
+* [NICE NG127. Suspected neurological conditions: recognition and referral](https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16) — 급속 진행 근력저하의 긴급 의뢰
+* [AAST. Rhabdomyolysis: a Critical Care Committee Clinical Consensus Document, 2022](https://doi.org/10.1136/tsaco-2021-000836) — 횡문근융해증의 임상·검사 소견
+* [IDSA. Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/) — 괴사성 연조직 감염의 긴급 외과 평가
+* [IWGDF. Guidelines on the diagnosis and treatment of active Charcot neuro-osteoarthropathy in persons with diabetes mellitus, 2023](https://iwgdfguidelines.org/charcot-2023/) — 활동성 Charcot 병변 의심 시 고정·부하 경감
+* [NICE NG65. Spondyloarthritis in over 16s: diagnosis and management](https://www.nice.org.uk/guidance/ng65/chapter/recommendations) — 성별에 따른 배제 금지 및 임상 감별
+* [NICE NG226. Osteoarthritis in over 16s: diagnosis and management, 2022](https://www.nice.org.uk/guidance/ng226/chapter/recommendations) — 임상 진단과 선택적 영상검사
+* [NICE CG124. Hip fracture: management](https://www.nice.org.uk/guidance/cg124/chapter/Recommendations) — 단순 X선 음성인 고관절 골절 의심 환자의 추가 영상
+* [NICE NG219. Gout: diagnosis and management, 2022](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations) — 급성 발작 중 혈청 요산 해석 및 재측정
+* [AAOS OrthoInfo. Elbow (Olecranon) Bursitis](https://orthoinfo.aaos.org/en/diseases--conditions/elbow-olecranon-bursitis/) — 점액낭염의 감염·결정성 원인 감별
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 이 챕터는 공통 감별 접근을 다루며 약제 처방·급여기준은 해당 질환별 챕터 참조
 
 ***
 
@@ -311,38 +340,11 @@ R29.8 신경계통 및 근골격계통의 기타 및 상세불명의 증상 및 
 * 한쪽 다리가 붓고 아프면서 갑자기 숨이 차거나 가슴이 아프거나 쓰러지는 경우
 * 50세 이상에서 새 두통·씹을 때 턱 통증과 함께 시력이 떨어지거나 잠시라도 보이지 않거나 물체가 둘로 보이는 경우
 
-**다음 증상은 조기에 진료받으세요**
+**다음 증상은 당일 또는 빠른 시일 내에 진료받으세요**
 
 * 암 병력이 있고 새로 생긴 지속적·악화되는 허리/등 통증 또는 잠을 깨우는 야간통이 있으면 당일 진료받으세요.
 * 이유 없이 체중이 줄면서 새로 생긴 지속적 통증·야간통이 있으면 빠른 시일 내에 진료받으세요.
 * 새로 한쪽 다리가 붓고 아프거나 뜨거워지면 당일 진료받으세요.
 * 당뇨병이 있고 한쪽 발이 새로 붓고 붉어지거나 뜨거워지면, 통증이 적어도 발에 체중을 싣는 것을 줄이고 당일 진료받으세요. 검사 결과가 나오기 전부터 의료진의 안내에 따라 고정·보호해야 할 수 있습니다.
 * 손·발 관절이 계속 붓고 뻣뻣하거나 여러 관절이 붓는 경우에는 6주를 기다리지 말고 진료받으세요.
-* 50세 이상에서 양쪽 어깨·엉덩이 주위가 심하게 뻣뻣하고 아프면서 새 두통이나 씹을 때 턱 통증이 생긴 경우에는 당일 진료; 시력이 떨어지거나 잠시라도 보이지 않았다면 즉시 응급 평가
-
-***
-
-## 주요 참고문헌 및 확인 자료
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [NICE NG100. Rheumatoid arthritis in adults: management](https://www.nice.org.uk/guidance/ng100/chapter/recommendations) — 지속성 활막염의 조기 의뢰
-* [EBJIS. Guideline for management of septic arthritis in native joints (SANJO), 2023](https://doi.org/10.5194/jbji-8-29-2023) — 관절천자·활액 해석·항생제 투여 전 검체 채취
-* [NICE NG234. Spinal metastases and metastatic spinal cord compression, 2023](https://www.nice.org.uk/guidance/ng234/chapter/recommendations) — 척추전이·척수압박의 긴급도
-* [NICE NG158. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations) — DVT 의심 시 검사 경로
-* [2024 ACC/AHA multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease](https://doi.org/10.1161/CIR.0000000000001251) — ABI·운동 ABI·TBI
-* [BOASt. Diagnosis and Management of Compartment Syndrome of the Extremities, 2025 개정](https://www.boa.ac.uk/resource/boast-10-pdf.html) — 급성 구획증후군의 조기 소견과 즉시 치료
-* [BSR. Guideline on diagnosis and treatment of giant cell arteritis, 2020](https://doi.org/10.1093/rheumatology/kez672) — 강하게 의심되는 경우 확진 전 치료
-* [NICE NG127. Suspected neurological conditions: recognition and referral](https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-adults-aged-over-16) — 급속 진행 근력저하의 긴급 의뢰
-* [AAST. Rhabdomyolysis: a Critical Care Committee Clinical Consensus Document, 2022](https://doi.org/10.1136/tsaco-2021-000836) — 횡문근융해증의 임상·검사 소견
-* [IDSA. Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/) — 괴사성 연조직 감염의 긴급 외과 평가
-* [IWGDF. Guidelines on the diagnosis and treatment of active Charcot neuro-osteoarthropathy in persons with diabetes mellitus, 2023](https://iwgdfguidelines.org/charcot-2023/) — 활동성 Charcot 병변 의심 시 고정·부하 경감
-* [NICE NG65. Spondyloarthritis in over 16s: diagnosis and management](https://www.nice.org.uk/guidance/ng65/chapter/recommendations) — 성별에 따른 배제 금지 및 임상 감별
-* [NICE NG226. Osteoarthritis in over 16s: diagnosis and management, 2022](https://www.nice.org.uk/guidance/ng226/chapter/recommendations) — 임상 진단과 선택적 영상검사
-* [NICE CG124. Hip fracture: management](https://www.nice.org.uk/guidance/cg124/chapter/Recommendations) — 단순 X선 음성인 고관절 골절 의심 환자의 추가 영상
-* [NICE NG219. Gout: diagnosis and management, 2022](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations) — 급성 발작 중 혈청 요산 해석 및 재측정
-* [AAOS OrthoInfo. Elbow (Olecranon) Bursitis](https://orthoinfo.aaos.org/en/diseases--conditions/elbow-olecranon-bursitis/) — 점액낭염의 감염·결정성 원인 감별
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 이 챕터는 공통 감별 접근을 다루며 약제 처방·급여기준은 해당 질환별 챕터 참조
+* 50세 이상에서 양쪽 어깨·엉덩이 주위가 심하게 뻣뻣하고 아프면서 새 두통이나 씹을 때 턱 통증이 생긴 경우에는 당일 진료받으세요. 시력이 떨어지거나 잠시라도 보이지 않았다면 즉시 응급실을 방문하세요.
