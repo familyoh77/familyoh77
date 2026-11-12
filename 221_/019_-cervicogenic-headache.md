@@ -1,4 +1,4 @@
-# 경추성두통 Cervicogenic headache
+# 경추성두통 Cervicogenic Headache
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -49,7 +49,7 @@
 * 비박동성이 흔하지만 통증 양상만으로 편두통과 구별할 수 없음
 * 구역, 구토, 빛공포증·소리공포증 같은 편두통 양상이 나타날 수 있어 동반 증상의 유무만으로 감별하지 않음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark> <a id="red-flags"></a>
 
 ☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
 
@@ -66,7 +66,7 @@
 
 * 진행하는 근력저하·감각이상, 반사항진, 손의 미세운동 저하 또는 보행 불안정  `경추척수증`
 * 발열, 체중감소, 지속적인 야간통, 암·감염 과거력  `척추 감염` `전이암`
-* 50세 이상 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상  `거대세포동맥염`
+* 50세 이상 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상 : **당일 평가·치료 결정**, 시각 증상이 생기면 즉시 응급 평가  `거대세포동맥염`
 * 류마티스관절염 환자의 새 상부 경부통·두통  `환축추 불안정성`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -122,7 +122,8 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">이학적 검사</mark>
 
 * 경추 능동 운동 범위, 평소 두통의 재현 여부, 신경학적 진찰, 보행·협응, 상지 신경근·척수증 징후를 평가
-* Cervical flexion-rotation test(FRT) : 주로 C1\~2 회전 제한을 평가
+* Cervical flexion-rotation test(FRT) : 주로 C1~2 회전 제한을 평가
+  * 급성 외상·환축추 불안정성·척수증·경추동맥 병리 등이 의심되면 유발 검사를 시행하지 말고 먼저 원인을 평가
   * 환자를 앙와위로 눕히고 경추를 충분히 굴곡시킨 상태에서 수동적으로 좌우 회전시킴
   * 경추 굴곡은 중·하부 경추의 회전 기여를 줄여 상부 경추, 특히 C1\~2 회전을 상대적으로 강조하기 위한 것이며 C1\~2만을 완전히 분리하는 검사는 아님
   * 증상 측 회전각 약 32° 이하가 C1\~2 기능 장애를 시사하는 절단값으로 제안되었으나, 일반 두통 환자에게 보편적으로 적용되는 확정 기준은 아님
@@ -146,48 +147,34 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ```mermaid
 flowchart TD
-    A([경부통 동반 두통]) --> B[Red Flag 평가]
-    B -->|즉각 조치| C[즉시 응급실 <br/>이송·응급 평가]
-    B -->|당일~수일 내 평가| D[당일~수일 내 <br/>평가·신속 의뢰]
-    B -->|없음 또는 외래 추적| E[두통 유형·신경학적 진찰<br/>·ICHD-3 평가]
-    E --> F[병변 증거·인과관계 2개 이상<br/>·타 진단 배제?]
-    F -->|아니오| G[편두통·긴장형두통<br/>·후두신경통 등 재평가]
-    F -->|예| H[교육·운동 및 <br/>필요 시 관절가동술]
-    H --> I[개별화한 보존치료 후 반응]
-    I -->|호전| J[단계적 운동<br/>·생활관리 유지]
-    I -->|지속·악화| K[진단·순응도<br/>·Red Flag 재평가]
-    K --> L[지속적 기능장애와 <br/>후관절성 통증 의심?]
-    L -->|아니오| G
-    L -->|예| M[전문의 의뢰 및 <br/>영상유도 TON 또는 MBB]
-    M --> N[기관별 양성 차단 기준 <br/>충족?]
-    N -->|예| O[이익·위험을 상의하여 <br/>RF 고려]
-    N -->|아니오| K
-
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,F,I,L,N yellow
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-
-    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style D fill:#ffe0b2,stroke:#e65100,stroke-width:2px
-    style E fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-
-    style G fill:#eceff1,stroke:#455a64,stroke-width:2px
-    style K fill:#eceff1,stroke:#455a64,stroke-width:2px
-
-    style H fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style J fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
-
-    style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style O fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-
+    A["경부통 동반 두통"] --> B{"즉각 조치 위험 징후?"}
+    B -- "예" --> C["즉시 응급 평가·이송"]
+    B -- "아니요" --> D{"신속 평가가 필요한 위험 징후?"}
+    D -- "예" --> E["당일~수일 내 원인 평가·신속 의뢰"]
+    D -- "아니요" --> F["두통 유형·신경학적 진찰·ICHD-3 평가"]
+    F --> G{"병변 증거·인과관계 ≥2개·다른 진단 배제?"}
+    G -- "아니요" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
+    G -- "예" --> I["교육·능동적 운동·필요시 관절가동술"]
+    I --> J{"보존치료 후 호전?"}
+    J -- "예" --> K["단계적 운동·생활관리 유지"]
+    J -- "아니요" --> L["진단·순응도·위험 징후 재평가"]
+    L --> M{"지속적 기능장애·후관절성 통증 의심?"}
+    M -- "아니요" --> H
+    M -- "예" --> N["전문의 의뢰·영상 유도 TON 또는 MBB"]
+    N --> O{"기관별 양성 예후차단 기준 충족?"}
+    O -- "예" --> P["이익·위험을 상의하여 RF 고려"]
+    O -- "아니요" --> L
+    classDef start fill:#eee,stroke:#888,stroke-width:2px;
+    classDef decision fill:#fff3cd,stroke:#d6a400;
+    classDef emergency fill:#f8d7da,stroke:#dc3545;
+    classDef care fill:#d9eaff,stroke:#3973ac;
+    class A start;
+    class B,D,G,J,M,O decision;
+    class C emergency;
+    class E,F,H,I,K,L,N,P care;
 ```
 
-<p align="center"><strong>경추성두통의 진단 및 관리 알고리듬</strong></p>
-
-<p align="center"><em>TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequency neurotomy</em></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3, 2018; ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update; Hurley et al., 2022; Koonalinthip et al., 2026)</mark></em></p>
+TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequency neurotomy. 예후차단의 양성 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분. 저자 재구성(참고 문헌: ICHD-3; ACR 2024 Update; Hurley et al., 2022; Koonalinthip et al., 2026).
 
 ***
 
@@ -200,7 +187,7 @@ class B,F,I,L,N yellow
 * 약물은 경부 통증·근연축 또는 동반 질환의 단기 증상 조절에 사용하며 경추성두통 자체에 대한 직접 근거는 제한적
 * 시술은 보존치료에 반응하지 않고 원인 구조물이 임상적으로 좁혀진 환자에서 전문의가 선택
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">교육·운동·물리치료</mark>
 
@@ -238,28 +225,28 @@ class B,F,I,L,N yellow
   * 4 g/d는 일반적인 처방 목표가 아니라 선택된 성인의 절대 상한이며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장. 간질환·과음·저체중·고령·영양불량 등 위험 요인이 있으면 더 낮은 상한과 투여 간격을 개별화
   * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(001 참조)
   * Warfarin 복용 환자가 acetaminophen을 수일간 반복 복용하면 INR가 상승할 수 있으므로 용량·기간과 INR 추적 필요성을 개별적으로 판단
-* naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[낙센]</mark>
-* ibuprofen : 200\~400 ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
+* naproxen : 250\~500 ㎎ bid prn [낙센](https://www.health.kr/drug/A11A0120A0286)
+* ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~400 ㎎ tid prn [부루펜](https://www.health.kr/drug/A11A0500A0131)
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
 * 단순진통제·NSAID를 월 ≥15일, 3개월 넘게 사용하면 약물과용두통의 원인이 될 수 있으므로 반복·장기 사용을 피함
 
 **근이완제**
 
 * 통증성 근연축이 뚜렷할 때 단기간 선택
-* eperisone : 50 ㎎ tid <mark style="color:blue;">\[에릭슨 등]</mark>; 드물게 쇼크·아나필락시스 및 중증피부반응 가능
-* tizanidine : 국내 허가용법은 1회 1\~2 ㎎, 1일 3회 식후 <mark style="color:blue;">\[티자리드 등]</mark>; 졸음·저혈압·서맥·간기능 이상에 주의. ciprofloxacin, fluvoxamine과 병용 금기
+* eperisone : 50 ㎎ tid [에릭슨](https://www.health.kr/drug/A11AOOOOO3867); 중증 근무력증에서는 금기. 드물게 쇼크·아나필락시스 및 중증피부반응 가능
+* tizanidine : 국내 허가용법은 1회 1\~2 ㎎, 1일 3회 식후 [티자리드](https://www.health.kr/drug/2010030200003); 졸음·저혈압·서맥·간기능 이상에 주의. ciprofloxacin, fluvoxamine과 병용 금기
   * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 국내 허가 외 용법
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
-  * 속방정 10 ㎎ tid <mark style="color:blue;">\[시클펜]</mark>
-  * ER 15 ㎎ qd, 필요 시 최대 30 ㎎ qd <mark style="color:blue;">\[본렉스이알]</mark>
-  * 국내 허가사항상 ER 제제는 고령자·간장애 환자에게 투여하지 않음 (혈장 농도·반감기가 유의하게 상승함); 이 제한을 속방정의 절대금기로 확대 적용하지 않음
+  * 속방정 10 ㎎ tid [시클펜](https://www.health.kr/drug/A11A2500B0047)
+  * ER 15 ㎎ qd, 필요 시 최대 30 ㎎ qd [본렉스이알](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)
+  * 국내 허가사항상 ER 제제는 고령자·간장애 환자에게 투여하지 않음 (혈장 농도·반감기가 유의하게 상승함); 속방정도 DUR상 65세 이상 연령금기가 있으므로 고령자의 대체 제형으로 사용하지 않음
   * MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증에서도 금기
 * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
 
 **Amitriptyline, Gabapentinoid, SNRI**
 
 * 동반 편두통·긴장형두통·우울·불면 또는 명확한 경추 신경근병증·신경병증성 통증이 있을 때 해당 진단과 적응증에 따라 선택
-* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. 타이레놀정500㎎ 등 TCA 복용 환자 투여 금기가 있는 acetaminophen 품목은 병용하지 않음(001 참조)
+* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. [타이레놀정500㎎](https://www.health.kr/drug/2021082400002) 등 TCA 복용 환자 투여 금기가 있는 acetaminophen 품목은 병용하지 않음(001 참조)
 * duloxetine의 국내 급여 여부는 구체적 신경병증성 통증 진단과 최신 급여기준에 따라 확인
 * 경추성두통 자체에 대한 근거가 약하므로 일률적으로 사용하지 않음
 
@@ -318,42 +305,55 @@ class B,F,I,L,N yellow
 > **처방례 1. 급성 악화와 통증성 근연축**
 >
 > ```
-> 낙센 250 ㎎/T 1T bid pc prn
-> 에릭슨정 50 ㎎/T 1T tid pc [통증성 근연축이 뚜렷할 때]
+> 낙센정250㎎  1회 1T  필요시 1일 2회 식후 (약 12시간 간격)
+> 에릭슨정50㎎  1회 1T  1일 3회 식후 [통증성 근연축이 뚜렷할 때]
 > ```
+>
+> 약제 정보: [낙센정·250 ㎎](https://www.health.kr/drug/A11A0120A0286) · [에릭슨정·50 ㎎](https://www.health.kr/drug/A11AOOOOO3867)
 >
 > _✽NSAID는 최소 유효용량·최단기간 사용(통상 5\~7일 이내 반응 평가). 에페리손은 단기간 사용하고 발진·두드러기·호흡곤란·어지럼과 저혈압 발생 시 즉시 중단·평가._
 
 > **처방례 1-1. NSAID 사용이 적절하지 않은 경우**
 >
 > ```
-> 타이레놀 500 ㎎/T 1~2T tid prn
+> 타이레놀정500㎎  1회 1~2T  필요시 1일 최대 3회
+> ※ 최소 6시간 간격; 이 처방례의 최대량은 3,000 ㎎/일
 > ```
+>
+> 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽다른 단일제·복합제에 포함된 acetaminophen을 합산하여 성인 총량 4 g/d를 초과하지 않도록 하고, 반복·장기 사용에서는 통상 3 g/d 이하를 권장한다. 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정한다. 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인하며, NSAID 금기 환자의 자동 대체 처방으로 적용하지 않는다. Warfarin 복용 환자가 수일간 반복 복용하는 경우 INR 변화를 고려한다(001 참조)._
 
 > **처방례 2. Cyclobenzaprine을 선택하는 경우**
 >
 > ```
-> 본렉스이알캡슐 15 ㎎/C 1C qd
+> 본렉스이알캡슐15㎎  1회 1C  1일 1회 일정한 시간
 >   → 필요 시 최대 30 ㎎ qd
 > ```
+>
+> 약제 정보: [본렉스이알캡슐·15 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)
 >
 > _✽급성 통증성 근골격계 근연축에 한해 2\~3주 이내 사용한다. 고령자·간장애 환자는 국내 허가사항상 투여 금기이며, MAO억제제 투여 중·중단 후 14일 이내, 심근경색 회복기, 심차단·부정맥·울혈성심부전, 갑상선기능항진증 환자에서도 금기이다. 졸음·항콜린 부작용에 주의하고 세로토닌성 약물 병용 여부를 확인한다._
 
 > **처방례 3. 경추 신경근병증 또는 신경병증성 통증이 명확히 동반된 경우**
 >
 > ```
-> 리리카 75 ㎎/C 1C bid
+> 리리카캡슐75㎎  1회 1C  1일 2회
+> ※ 정상 신기능의 시작 예시; 신장애에서는 별도 감량
 > ```
+>
+> 약제 정보: [리리카캡슐·75 ㎎](https://www.health.kr/drug/A11AOOOOO8537)
 >
 > _✽경추성두통 단독에는 일률적으로 사용하지 않으며, 동반된 경추 신경근병증·신경병증성 통증이 명확할 때 선택한다. 어지럼·졸음을 확인하고 신기능에 따라 용량과 투여 간격을 조절한다. 내약성을 고려하여 75 ㎎ hs부터 시작하는 방법은 국내 허가 외 용법이다._
 
 > **시술 예시. 대후두신경차단술**
 >
 > ```
-> 1% lidocaine 1~2 ㎖, 편측
+> 대한리도카인염산염수화물1%주  1~2 ㎖, 편측 대후두신경차단
+> (lidocaine 10~20 ㎎ 상당)
 > ```
+>
+> 약제 정보: [대한리도카인염산염수화물1%주·10 ㎎/㎖](https://www.health.kr/drug/A11ABBBBB2757)
 >
 > _✽해부학과 국소마취제 최대용량을 숙지한 숙련 의료진이 흡인 후 소량씩 분할 주입하며 시술 후 이상반응을 관찰한다. 스테로이드는 일률적으로 혼합하지 않고 병용 필요성과 제제·용량은 개별 판단하며, 고정된 4\~6주 간격의 반복 처방으로 사용하지 않는다._
 
@@ -363,7 +363,8 @@ class B,F,I,L,N yellow
 
 > **아세트아미노펜**
 >
-> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오.
+> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. 최소 6시간 간격을 지키고, 위 처방례에서는 하루 3,000 ㎎을 넘지 마십시오.
+> * 에트라빌·센시발을 복용 중이면 타이레놀을 임의로 추가하지 말고 병용 금기를 확인하십시오.
 > * 처방되거나 제품에 표시된 용량을 넘지 말고, 간질환이 있거나 술을 자주 마시는 경우에는 복용 전에 의료진과 상의하십시오.
 
 > **소염진통제**
@@ -376,12 +377,14 @@ class B,F,I,L,N yellow
 >
 > * 졸음·어지럼·혈압 저하가 생길 수 있으므로 약의 영향을 확인할 때까지 운전·위험한 기계 조작을 피하십시오.
 > * 음주는 졸음을 증가시킬 수 있으므로 피하십시오.
+> * 서방캡슐은 씹거나 부수지 말고 통째로 삼키십시오.
 > * Cyclobenzaprine은 장기 복용약이 아니며 처방된 단기간만 복용하십시오. 본렉스이알캡슐 등 서방형 제제는 고령자와 간장애 환자에게 사용하지 않습니다.
 > * Eperisone 복용 후 두드러기, 얼굴·입술 부종, 호흡곤란 또는 실신할 듯한 증상이 나타나면 즉시 복용을 중단하고 응급진료를 받으십시오.
 
 > **Gabapentinoid - 동반 신경병증성 통증에 사용하는 경우**
 >
-> * 졸음·어지럼이 생길 수 있으므로 저용량으로 시작하며 임의로 갑자기 중단하지 마십시오.
+> * 졸음·어지럼이 생길 수 있으며, 중단할 때는 보통 최소 1주에 걸쳐 서서히 줄입니다. 신장기능에 따라 용량을 조절합니다.
+> * 오피오이드·수면제 등과 함께 사용하면 호흡억제 위험이 커질 수 있습니다. 심하게 처지거나 호흡이 느려지면 즉시 응급 진료를 받으십시오.
 
 > **언제 다시 진료받아야 하나요?**
 >
@@ -429,6 +432,12 @@ class B,F,I,L,N yellow
 * 약물은 급성 통증이나 근육 연축을 줄여 운동과 일상생활을 돕는 보조수단입니다.
 * 보존치료에 반응하지 않고 원인 관절이나 신경이 의심될 때 전문의가 진단차단·고주파치료 등의 필요성을 평가합니다.
 * C1\~2 관절 주사는 일반적인 촉지 기반 외래 주사가 아닙니다. 필요한 경우 숙련된 통증중재 전문의가 투시 또는 CT로 위치와 조영제 분포를 확인하며 시행합니다.
+
+#### <mark style="color:$primary;">약 복용 시 주의사항</mark>
+
+* 소염진통제를 여러 종류 함께 복용하지 말고, 검은 변·토혈·소변량 감소가 생기면 복용을 중단하고 진료받으십시오.
+* 근이완제·신경통약으로 졸리거나 어지러우면 운전하지 말고 음주를 피하십시오. 정해진 용량·기간을 지키십시오.
+* 아세트아미노펜은 감기약·복합진통제와 성분이 겹칠 수 있으므로 총량을 확인하십시오.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 

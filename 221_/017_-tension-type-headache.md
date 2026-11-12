@@ -11,9 +11,17 @@
 * 원발성 두통의 가장 흔한 형태임
 * 진단 분류와 치료 반응 평가에 가장 유용한 도구로서 두통 일기(headache diary) 작성을 초진 시 권고하고, 1개월 후 재평가에 활용
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark> <a id="red-flags"></a>
 
 ☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
+
+<mark style="color:$danger;">**즉각 조치**</mark>
+
+* 벼락두통, 새 마비·언어 장애·의식 변화, 발열과 경부 강직 등 : 긴장형두통으로 간주하지 않고 즉시 응급 평가
+
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+
+* 신규·진행성 두통, 암·면역저하·임신·산후 등 위험 배경이 있는 새 두통은 원인 평가. ≥50세 신규 두통에 턱파행·두피 압통이 있으면 당일 평가
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -62,8 +70,8 @@
 
 A. 아래의 진단 기준 B\~D를 충족하는 두통이 다음 기간 동안 최소한 10번 발생
 
-* Infrequent(저빈도) : 월평균 ＜1일, 연간 ＜12일 발생
-* Frequent(고빈도) : ＞3개월 동안 월평균 1\~14일, 연간 12\~179일 발생
+* Infrequent(저빈도) : 월평균 ＜1일, 연간 ＜12일 발생(연간 환산값)
+* Frequent(고빈도) : ＞3개월 동안 월평균 1\~14일, 연간 12~179일 발생(연간 환산값; 1년 관찰을 요구하는 것은 아님)
 
 B. 지속 시간 : 30분\~7일
 
@@ -85,7 +93,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1)</sup>
 
 ### <mark style="color:orange;">Chronic tension-type headache (만성긴장형두통)</mark>
 
-A. 아래의 진단 기준 B\~D를 충족하는 두통이 ＞3개월 동안 월평균 ≥15일, 연간 ≥180일 발생
+A. 아래의 진단 기준 B\~D를 충족하는 두통이 ＞3개월 동안 월평균 ≥15일, 연간 ≥180일에 해당(연간 환산값; 진단에 1년 관찰은 필요하지 않음)
 
 B. 지속 시간 : 수 시간\~수 일, 또는 지속(unremitting)
 
@@ -104,8 +112,8 @@ D. 다음 모두에 해당
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 > ¹⁾_한 달에 25일간 두통이 있는 어떤 환자에서 8일은 편두통에 부합되고 17일은 긴장형두통에 부합된다면 이 환자는 두 진단 기준 모두에 해당되지만 만성편두통으로만 진단함_\
-> ²⁾_진단 기준 A\~E를 만족하는 두통이 처음 발생 시점 24시간 이내부터 매일 지속된 것이 명백하다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류_\
-> ³⁾_약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용을 중단한 후에도 만성 두통이 지속되면 약물과용두통 진단은 철회될 수 있음_
+> ²⁾_진단 기준 A\~E를 만족하는 두통이 처음 발생 시점을 뚜렷이 기억하고, 발생 24시간 이내부터 매일 중단 없이 지속되어 ＞3개월이 되었다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류_\
+> ³⁾_약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용 중단 후 두통 양상과 빈도를 재평가하여 진단을 조정하며, 만성 두통 지속만으로 금단 치료의 실패를 단정하지 않음_
 
 #### <mark style="color:$primary;">두개 주위 근육 촉진(Pericranial Palpation)</mark>
 
@@ -129,6 +137,31 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 ***
 
+```mermaid
+flowchart TD
+    A["긴장형 양상의 두통"] --> B{"Red Flags?"}
+    B -- "예" --> C["위험도에 따른 긴급 평가·이차성 원인 배제"]
+    B -- "아니요" --> D["삽화형·만성형 ICHD-3 기준 및 편두통 동반 확인"]
+    D --> E{"월 ≥15일이며 ＞3개월 지속?"}
+    E -- "아니요" --> F["삽화형: 비약물 치료·필요시 급성기 진통제"]
+    E -- "예" --> G["만성편두통·NDPH 감별 및 약물과용 평가"]
+    G --> H["만성긴장형두통: 비약물 치료·amitriptyline 등 예방약"]
+    F --> I["두통 일기 추적; 잦은 약물 사용·장애 시 예방치료 검토"]
+    H --> I
+    classDef start fill:#eee,stroke:#888,stroke-width:2px;
+    classDef decision fill:#fff3cd,stroke:#d6a400;
+    classDef emergency fill:#f8d7da,stroke:#dc3545;
+    classDef care fill:#d9eaff,stroke:#3973ac;
+    class A start;
+    class B,E decision;
+    class C emergency;
+    class D,F,G,H,I care;
+```
+
+저자 재구성(참고 문헌: ICHD-3; VA/DoD 2023; NICE CG150).
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 원칙</mark>
@@ -141,11 +174,13 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 * 만성형 : 예방 약물(항우울제) + 비약물 치료 병행; 급성기 진통제 병용 가능
 * [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)(MOH) 주의
   * 잦은 급성기 약물 사용은 두통의 만성화 및 MOH와 연관될 수 있음
-  * ICHD-3 MOH : 기존 두통 환자에서 두통 ≥15일/월이 있으면서, 급성/대증 약물을 >3개월 과용하고 다른 ICHD-3 진단으로 더 잘 설명되지 않을 때 진단
-  * 약물 과용 기준 : acetaminophen·NSAIDs 등 단순진통제 ≥15일/월, 복합진통제·opioid·triptan 등 ≥10일/월을 >3개월 사용
+  * ICHD-3 MOH : 기존 두통 환자에서 두통 ≥15일/월이 있으면서, 급성/대증 약물을 ＞3개월 과용하고 다른 ICHD-3 진단으로 더 잘 설명되지 않을 때 진단
+  * 약물 과용 기준 : acetaminophen·NSAIDs 등 단순진통제 ≥15일/월, 복합진통제·opioid·triptan 등 ≥10일/월을 ＞3개월 사용
   * 예방을 위해 급성기 약물은 가능하면 주 2일 이하로 제한하고, 더 자주 필요하면 예방치료 적응증과 진단을 재평가
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+* Acetaminophen·aspirin·NSAID는 비마약성 진통제 한 약물군으로 합산하여 사용일수를 계산. 서로 다른 급성기 약물군의 합산 기준은 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh) 참조
+
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 두통 일기 : 두통 일수, 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
@@ -165,14 +200,14 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 ### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
-* ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[부루펜]</mark>
+* ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 [부루펜](https://www.health.kr/drug/A11A0500A0131)
   * VA/DoD 2023은 급성 TTH에 ibuprofen 400 ㎎을 제안(weak for); 반복 복용 시 NSAID의 최소 유효용량·최단기간 원칙 적용
-* naproxen : 250\~500 ㎎ 필요시 <mark style="color:blue;">\[낙센]</mark> 또는 naproxen sodium 275\~550 ㎎ 필요시 <mark style="color:blue;">\[아나프록스]</mark>
-* acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[타이레놀]</mark>
+* naproxen : 250\~500 ㎎ 필요시 [낙센](https://www.health.kr/drug/A11A0120A0286) 또는 naproxen sodium 275\~550 ㎎ 필요시 [아나프록스](https://www.health.kr/drug/A11ABBBBB2070)
+* acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 [타이레놀](https://www.health.kr/drug/2021082400002)
   * VA/DoD 2023은 급성 TTH에 acetaminophen 1,000 ㎎을 제안(weak for)
   * 속방형은 1회 최대 1,000 ㎎이며 반복 시 최소 6시간 간격. 모든 공급원의 합산 최대 4 g/d, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장하고 연령·체중·간질환·음주·병용제 함량에 따라 감량(001 참조)
   * 타이레놀정500㎎은 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등에서 투여 금기. NSAID를 사용할 수 없다는 이유만으로 자동 대체하지 않으며, 예방요법으로 amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음
-* aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[바이엘아스피린]</mark>
+* aspirin : 500\~1,000 ㎎ 필요시 [바이엘아스피린](https://www.health.kr/drug/A11A1380A0008)
 
 ### <mark style="color:orange;">2차 선택 - 급성기</mark>
 
@@ -181,7 +216,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 * acetaminophen 500 ㎎ + aspirin 500 ㎎ + caffeine 130 ㎎ (연구에서 사용된 1회 총용량)
   * 국내 카페인 함유 복합진통제는 성분·함량이 달라 동일 조합으로 간주하지 않음
   * 효과는 있으나 1차로 권장되지 않음; 단순진통제보다 약물과용 위험이 높으므로 사용을 최소화
-  * 복합 진통제를 ≥10일/월, >3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
+  * 복합 진통제를 ≥10일/월, ＞3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
 
 #### <mark style="color:$primary;">Opioid / tramadol</mark>
 
@@ -190,7 +225,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 ### <mark style="color:orange;">예방 치료 - 만성긴장형두통</mark>
 
 * 다음 중 하나에 해당할 때 예방 치료 고려
-  * 만성긴장형두통(월 ≥15일, >3개월)
+  * 만성긴장형두통(월 ≥15일, ＞3개월)
   * frequent episodic TTH 중 두통 빈도·장애가 크고 비약물치료와 적절한 급성기 치료만으로 조절되지 않음
   * 급성기 약물 사용 빈도가 증가하여 약물과용 위험이 높음
 * 충분한 유지용량에 도달한 뒤 약 1\~2개월 동안 두통 일수·강도·급성기 약물 사용 일수로 효과를 평가
@@ -199,19 +234,19 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 #### <mark style="color:$primary;">1차 - 항우울제</mark>
 
 * TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으나, VA/DoD 2023 권고 강도는 weak for임
-* amitriptyline : 10 ㎎/d 취침 시 시작 → 25\~75 ㎎/d까지 내약성에 따라 점진 증량 <mark style="color:blue;">\[에트라빌]</mark> ← 만성 TTH 예방 1차 선택
+* amitriptyline : 10 ㎎/d 취침 시 시작 → [25](https://www.health.kr/drug/A11A0570A0148)\~75 ㎎/d까지 내약성에 따라 점진 증량 [에트라빌](https://www.health.kr/drug/A11A0570B0082) ← 만성 TTH 예방 1차 선택
   * 일부 연구의 amitriptyline 100 ㎎/d에서 효과 신호가 보고되었으나, 네트워크 메타분석(2026년)에서 근거 확실성이 낮고 이상반응 우려도 있어 일상적인 증량 전략으로 권고하기 어려움. 25\~75 ㎎/d의 충분한 유지용량으로 6\~8주 이상 사용했음에도 반응이 불충분하면 진단과 복약 순응도, MOH를 재평가하고 신경과 의뢰 고려
   * 부작용 : 구갈, 졸림, 변비, 체중증가 등 항콜린 작용; 고령자에서는 섬망·낙상·요폐 위험도 고려
   * 항콜린 부작용이 문제되면 nortriptyline으로 전환 고려
-    * nortriptyline 10\~50 ㎎/d 취침 시 <mark style="color:blue;">\[센시발]</mark> (TTH 직접 근거는 amitriptyline보다 제한적이며 항콜린 부작용이 완전히 없어지는 것은 아님)
-* mirtazapine : 15 ㎎/d 취침 시 시작 → 필요 시 30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
+    * nortriptyline 10\~50 ㎎/d 취침 시 [센시발](https://www.health.kr/drug/A11A1130A0032) (TTH 직접 근거는 amitriptyline보다 제한적이며 항콜린 부작용이 완전히 없어지는 것은 아님)
+* mirtazapine : 15 ㎎/d 취침 시 시작 → 필요 시 [30 ㎎](https://www.health.kr/drug/A11AKP08K0193)/d [레메론](https://www.health.kr/drug/A11ABBBBB1118)
   * amitriptyline 내약성이 좋지 않은 경우 대안
   * TTH 예방 효과 근거는 주로 30 ㎎/d 연구에 기반
-* venlafaxine XR : 37.5\~75 ㎎/d로 시작 → 내약성에 따라 점진 증량 <mark style="color:blue;">\[이팩사 XR]</mark>
+* venlafaxine XR : 37.5\~[75 ㎎](https://www.health.kr/drug/A11ABBBBB1493)/d로 시작 → 내약성에 따라 점진 증량 [이팩사 XR](https://www.health.kr/drug/A11ADDDDD0700)
   * TTH 예방 효과 근거는 주로 150 ㎎/d 연구에 기반
   * 우울·불안 동반 시 선택을 고려하며 혈압 모니터링
 * SSRI는 TCA에 비해 TTH 예방 근거가 부족하며, 동반 우울·불안 치료 목적으로는 활용 가능
-* TCA, SSRI 등의 긴장형두통 예방 목적 사용은 국내 허가 사항에 미포함(off-label use)
+* 위 항우울제의 긴장형두통 예방 목적 사용은 국내 허가 사항에 미포함(off-label use)
 
 #### <mark style="color:$primary;">근거가 제한되거나 권장되지 않는 치료</mark>
 
@@ -225,7 +260,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 ### <mark style="color:orange;">동반 질환 고려</mark>
 
 * 턱관절 장애(TMD) / 이갈이 : 측두근·교근 압통이 심한 경우 구강 내 장치(Splint) 또는 치과 협진 고려; 단순 두통 치료만으로는 호전 제한적
-* 수면 무호흡증 : 아침에 심한 만성 두통은 수면 무호흡과의 연관성 반드시 확인 → 수면 다원검사(PSG) 의뢰 고려
+* 수면 무호흡증 : 아침 두통에 코골이·목격된 무호흡·주간졸림 등이 동반되면 수면 무호흡증을 평가하고, 임상적 의심도에 따라 수면검사 의뢰 고려
 * 불안·우울 동반 : 두통 부담 및 치료 반응과 연관될 수 있으므로 선별·치료를 병행; 예방약 선택 시 동반 이환, 부작용, 환자 선호를 함께 고려
 
 ***
@@ -241,51 +276,62 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 > **처방례 1.** 급성기 - 일반
 >
 > ```
-> 부루펜 400 ㎎/T  1T  두통 시작 시 필요시
-> ※ 반복 복용 시 NSAID의 최소 유효용량·최단 기간 사용 원칙 적용
+> 부루펜정400㎎  1회 1T  두통 시작 시 필요시
+> ※ 필요시 6~8시간 후 반복; 이 예시에서는 최대 3회/일
+> ※ 다른 NSAID와 중복하지 않으며 최소 유효용량·최단 기간 사용
 > ```
+>
+> 약제 정보: [부루펜정·400 ㎎](https://www.health.kr/drug/A11A0500A0131)
 >
 > _✽ibuprofen 사용이 어렵거나 대안이 필요한 경우에는 처방례 2 적용_
 
 > **처방례 2.** 급성기 - NSAIDs 사용을 피해야 하거나 사용하기 어려운 경우
 >
 > ```
-> 타이레놀 500 ㎎/T  2T  두통 시작 시 필요시
+> 타이레놀정500㎎  1회 2T  두통 시작 시 필요시
 > ※ 반복 시 최소 6시간 간격; 모든 공급원의 합산 최대 4 g/d, 반복·장기 사용에서는 통상 3 g/d 이하 권장
 > ※ 연령·체중·간질환·음주·다른 복합제 함량과 제품별 투여 금기를 확인
 > ```
+>
+> 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽NSAID 사용이 어려운 환자 중 타이레놀정 자체의 금기에 해당하지 않는 경우에 고려. 소화성궤양, 심한 신장애·심한 간장애, TCA 복용 등에서는 투여하지 않으며, 위장관 출혈·신기능 저하의 원인과 중증도를 먼저 평가함. Warfarin 복용 중 수일 이상 반복 사용하면 INR 상승 가능성을 고려(001 참조)_
 
 > **처방례 3.** 만성, 예방 - 일반
 >
 > ```
-> 에트라빌 10 ㎎/T  1T  취침 시
-> 아나프록스 275 ㎎/T  1T  두통 시작 시 필요시
+> 에트라빌정10㎎  1회 1T  취침 시
+> 아나프록스정275㎎  1회 1T  두통 시작 시 필요시
 > ※ amitriptyline은 10 ㎎부터 시작하여 내약성에 따라 점진 증량
 > ※ 고령자에서는 항콜린 부작용, 섬망·낙상·요폐 위험 때문에 TCA 사용을 피하거나 더욱 신중하게 결정
 > ※ nortriptyline 10~50 ㎎/d 취침 시(센시발)로 전환을 고려할 수 있으나, 항콜린 부작용이 완전히 없어지는 것은 아님
 > ```
+>
+> 약제 정보: [에트라빌정·10 ㎎](https://www.health.kr/drug/A11A0570B0082) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070) · [센시발정·10 ㎎](https://www.health.kr/drug/A11A1130A0032)
 >
 > _✽만성긴장형두통 예방의 1차 선택; TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 돌발 두통에는 이 처방례의 naproxen sodium을 제품별 금기 확인 후 필요시 사용. TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않음. 아나프록스와 다른 NSAID의 중복도 피함(001 참조)_
 
 > **처방례 4.** 만성, 예방 - amitriptyline 부작용으로 전환 시
 >
 > ```
-> 레메론 15 ㎎/T  1T  취침 시
-> 아나프록스 275 ㎎/T  1T  두통 시작 시 필요시
+> 레메론정15㎎  1회 1T  취침 시
+> 아나프록스정275㎎  1회 1T  두통 시작 시 필요시
 > ※ 내약성 확인 후 필요 시 30 ㎎/d로 증량 고려
 > ```
+>
+> 약제 정보: [레메론정·15 ㎎](https://www.health.kr/drug/A11ABBBBB1118) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070)
 >
 > _✽amitriptyline 내약성이 좋지 않은 경우의 대안; TTH 예방 효과 근거는 주로 30 ㎎/d 연구에 기반_
 
 > **처방례 5.** 만성, 예방 - 우울·불안 동반 시
 >
 > ```
-> 이팩사 XR 37.5 ㎎/T  1T  조식 후
-> 아나프록스 275 ㎎/T  1T  두통 시작 시 필요시
+> 이팩사엑스알서방캡슐37.5㎎  1회 1C  1일 1회 아침 식사와 함께
+> 아나프록스정275㎎  1회 1T  두통 시작 시 필요시
 > ※ 내약성에 따라 단계적으로 증량하고 혈압 모니터링
 > ```
+>
+> 약제 정보: [이팩사엑스알서방캡슐·37.5 ㎎](https://www.health.kr/drug/A11ADDDDD0700) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070)
 >
 > _✽우울·불안이 동반된 만성긴장형두통에서 amitriptyline 대신 고려할 수 있는 선택지; TTH 예방 근거는 주로 150 ㎎/d 연구에 기반_
 
@@ -302,9 +348,11 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 > **예방약 - 에트라빌(amitriptyline) 등 항우울제**
 >
-> * 취침 전에 복용합니다. 처음에는 소량으로 시작하여 서서히 늘립니다.
+> * 에트라빌·센시발·레메론은 보통 취침 전에 복용합니다. 이팩사 XR은 음식과 함께 매일 같은 시간에 복용하고, 서방캡슐을 씹거나 부수지 마십시오.
+> * 처음에는 소량으로 시작하여 의사의 지시에 따라 서서히 늘립니다.
 > * 두통 예방 목적이므로 우울증이 없어도 처방될 수 있습니다. 용도를 오해하지 마십시오.
-> * 입마름·졸음·변비가 생길 수 있습니다. 불편하시면 담당 의사와 상의하십시오.
+> * 에트라빌·센시발은 입마름·졸음·변비를, 레메론은 졸음·식욕 증가·체중 증가를 일으킬 수 있습니다. 이팩사 XR은 구역·혈압 상승에 주의합니다.
+> * 졸음·어지럼이 있으면 운전하지 마십시오. 예방약은 임의로 갑자기 끊지 말고 감량 계획을 상의하십시오.
 > * 초기 효과가 나타나기까지 **2\~4주**가 걸릴 수 있으며, 충분한 유지용량에 도달한 뒤 약 1\~2개월 동안 효과를 평가합니다. 임의로 중단하지 마십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -321,7 +369,9 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Headache. 2023.](https://www.healthquality.va.gov/guidelines/Pain/headache/index.asp) - 긴장형두통의 급성·예방 치료와 권고 강도
-* [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2021.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
+* [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
+
+* [Comparative effects of pharmacological interventions in the prophylactic treatment of tension-type headache: systematic review and network meta-analysis. Ann Med. 2026.](https://doi.org/10.1080/07853890.2026.2616972) - amitriptyline 고용량 연구 신호와 낮은 근거 확실성
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -363,5 +413,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * 진통제는 가능하면 **주 2일 이내**로 사용하십시오. 너무 자주 사용하면 오히려 두통이 잦아질 수 있습니다.
 * 진통제가 그보다 자주 필요하거나 사용 일수가 점점 늘어나면 예방 치료가 필요한지 의사와 상의하십시오.
+* 소염진통제를 여러 종류 함께 복용하지 마십시오. 에트라빌·센시발을 복용한다면 타이레놀을 임의로 추가하지 마십시오.
+* 예방약은 두통이 없는 날에도 정해진 일정에 따라 복용하고, 갑자기 중단하지 마십시오.
 
 ***
