@@ -233,14 +233,14 @@ D. 증상은 임상적으로 유의한 고통 또는 사회적·직업적·기�
 * 발작 중 눈 감김
   * 방법 : 발작 중 검사자가 손가락으로 윗눈꺼풀을 가볍게 들어 올려 봄
     * 억지로 힘을 주어 벌리거나 흉골 문지르기 등 통증 자극을 가하지 않음
-  * 판정 : 눈이 꼭 감겨 있고 눈꺼풀을 여는 데 저항하거나, 눈꺼풀을 열었을 때 안구가 검사자를 피해 돌아가면 기능성 발작 시사
+  * 판정 : 눈이 꼭 감겨 있고 눈꺼풀을 여는 데 저항하면 기능성 발작을 지지할 수 있음. 안구 움직임을 의도적 회피로 해석하지 않음
     * 뇌전증 발작에서는 대개 눈을 뜨고 있음
 * 발작 중 기억 보존
   * 방법 : 발작 중 환자에게 단어나 짧은 문장(예: "빨간 사과")을 말해 주고, 회복 후 무엇을 들었는지 물어봄
   * 판정 : 반응이 없고 의식 소실을 호소함에도 발작 중 들은 내용을 기억하면 기능성 발작 시사
 * 그 밖의 양상은 목격자 병력과 스마트폰 영상으로 확인 : 2분 이상의 긴 지속시간과 증상이 약해졌다 강해지기를 반복함, 좌우로 고개 흔들기·골반 앞뒤 움직임, 팔다리가 서로 박자가 맞지 않게 움직임, 발작 중 또는 직후의 울음
   * 골반 움직임과 비동기적 움직임은 전두엽 뇌전증에서도 나타날 수 있어 단독으로는 감별력이 낮음
-  * 혀 측면 교상·실금 유무의 감별력은 제한적임
+  * 혀 측면 교상은 뇌전증 발작을 지지하는 비교적 특이적인 단서이나 민감도가 낮아 없다고 배제할 수 없음; 실금이나 위치를 특정하지 않은 혀 교상만으로는 구분하기 어려움
   * 가능하면 전형적 사건의 video-EEG로 확인
 
 ✽위 징후들은 한 가지만으로 진단하지 않으며, 여러 양성 소견과 전체 임상 양상을 종합하여 판단
@@ -393,35 +393,33 @@ D. 이 행위는 망상장애를 비롯한 다른 정신 장애로 더 잘 설�
 ***
 
 ```mermaid
-graph TD
-    Start(["신체 증상 호소 환자"]) --> RedFlag["Red Flags 확인"]
-    RedFlag -->|있음| Referral["즉각 조치 /<br/>당일~수일 내 평가"]
-    RedFlag -->|없음| BasicEval["증상 중심 평가<br/>병력·약물·기존 기록·진찰<br/>필요한 검사만 선택"]
-    BasicEval --> Medical["확인되거나 의심되는<br/>의학적 질환 치료·평가"]
-    BasicEval --> Pattern["반응과 기능 손상<br/>동시 평가"]
-    Medical --> Pattern
-    Pattern -->|신체 증상 + B 기준| SSD["SSD 임상평가"]
-    Pattern -->|증상 경미 + 질병 집착| IAD["질병불안장애 평가"]
-    Pattern -->|운동·감각 증상| FNSD["FNSD 양성 징후 평가"]
-    Pattern -->|발작성·기립 관련| Other["공황·POTS 등 평가"]
-    Other --> OtherTx["진단 확인·질환별 치료"]
-    SSD --> Scale["PHQ-15·SSD-12는 보조도구<br/>우울·불안·자살위험 평가"]
-    IAD --> Framing["진단 공유·치료적 제휴"]
-    FNSD --> Framing
-    Scale --> Framing
-    Framing --> Treatment["기능 회복·계획된 추적<br/>CBT 등 심리치료<br/>동반 질환의 적응증에 <br/>따른 약물"]
-    Treatment --> FU["초기 안전성·기능<br/>·새 변화 추적"]
-    OtherTx --> FU
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style RedFlag fill:#fff9c4,stroke:#ffe082
-    style Pattern fill:#fff9c4,stroke:#ffe082
-    style Referral fill:#ffebee,stroke:#c62828
-    style SSD fill:#e1f5fe,stroke:#01579b
-    style IAD fill:#fff3e0,stroke:#e65100
-    style FNSD fill:#f3e5f5,stroke:#4a148c
-    style Framing fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style Treatment fill:#e8f5e9,stroke:#2e7d32
-
+flowchart TD
+    S(["신체 증상을 호소하는 환자"]) --> R{"즉각 조치 소견?"}
+    R -- "예" --> E["응급 평가·안전 확보"]
+    R -- "아니요" --> U{"당일~수일 내 평가 소견?"}
+    U -- "예" --> P["필요한 신체·정신건강 평가 우선"]
+    U -- "아니요" --> B["병력·약물·기록·진찰과 필요한 검사"]
+    P --> B
+    B --> D["의학적 질환과 증상 관련 반응·기능 동시 평가"]
+    D --> Q{"주된 임상 양상?"}
+    Q -- "신체 증상과 과도한 반응" --> SSD["SSD 임상기준 평가"]
+    Q -- "경미한 증상과 질병 집착" --> IAD["질병불안장애 평가"]
+    Q -- "운동·감각 증상" --> FND["양성 진찰소견으로 FNSD 평가"]
+    Q -- "발작성·기립 관련" --> O["공황·POTS·부정맥 등 평가"]
+    SSD --> T["진단 공유·심리치료·기능 회복과 동반 질환 치료"]
+    IAD --> T
+    FND --> T
+    O --> F["질환별 치료와 계획된 추적"]
+    T --> F
+    F --> X["새 변화·약물 안전성·기능 재평가"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#d6b656
+    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#1565c0
+    class S start
+    class R,U,Q decision
+    class E emergency
+    class P,B,D,SSD,IAD,FND,O,T,F,X treatment
 ```
 
 <p align="center"><strong>신체증상 및 관련 장애 1차 진료 알고리듬</strong></p>
@@ -518,10 +516,10 @@ graph TD
 
 ### <mark style="color:orange;">적응증에 따른 항우울제 사용</mark>
 
-* 동반 주요우울장애·불안장애 : SSRI 또는 SNRI를 해당 진단의 권고에 따라 고려 (예: escitalopram <mark style="color:blue;">\[렉사프로]</mark>) (☞ [우울증](027_-depression.md), [불안장애](025_-anxiety-disorder.md))
+* 동반 주요우울장애·불안장애 : SSRI 또는 SNRI를 해당 진단의 권고에 따라 고려 (예: escitalopram <mark style="color:blue;">[렉사프로](https://www.health.kr/drug/A11AOOOOO5474)</mark>) (☞ [우울증](027_-depression.md), [불안장애](025_-anxiety-disorder.md))
 * 질병불안장애 : CBT가 우선이며, 중증 건강불안 또는 동반 우울·불안에는 SSRI를 고려할 수 있으나 국내 해당 적응증 미승인
 * 통증 우세형 : 먼저 통증 질환을 진단하고 비약물치료를 포함한 질환별 치료 시행
-  * duloxetine <mark style="color:blue;">\[마이셀타캡슐]</mark>·TCA 등은 해당 통증 적응증과 금기·부작용을 확인한 경우에만 고려
+  * duloxetine <mark style="color:blue;">[마이셀타](https://health.kr/drug/2014050900005)</mark>·TCA 등은 해당 통증 적응증과 금기·부작용을 확인한 경우에만 고려
   * Duloxetine의 국내 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min)·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·협우각 녹내장 및 MAOI 관련 병용·휴약기간 금기. 다른 SNRI/SSRI 전체에 일률 적용하지 않으며, TCA도 amitriptyline 등 제품별 금기를 확인(001·027 참조)
   * TCA는 통증 적응증이 없으면 허가 외 사용임
 * 시작 전 양극성장애·조증/경조증 병력, 자살 위험, 출혈 위험, 저나트륨혈증 위험, 상호작용을 평가
@@ -569,12 +567,16 @@ graph TD
 > **처방례 1.** 주요우울장애 또는 범불안장애가 동반된 경우
 >
 > ```
-> 렉사프로 10 ㎎/T  1T  qd  조식 후
+> 렉사프로정 10 ㎎/T  1T  qd  조식 후
 > ※ 초기 부작용에 민감한 경우 5 ㎎으로 시작; 임상반응과 내약성에 따라 최대 20 ㎎/d
 > ※ 1~2주에 활성화·자살위험·조증 전환·부작용 평가, 4~6주에 표적질환 반응 평가
 > ※ 고령자(65세 이상)는 5 ㎎으로 시작하고 통상 10 ㎎/d를 넘지 않도록 함(용량 의존적 QT 연장 위험)
+> ※ 간장애 또는 CYP2C19 저대사자는 5 ㎎/d로 처음 2주간 시작 후 반응에 따라 10 ㎎/d까지; 중증 간장애는 특히 신중
+> ※ QT 연장·전해질 이상·QT 연장 약물 병용 확인; domperidone 등 병용금기 확인
 > ※ 유지기간과 감량 속도는 동반 질환의 경과와 항우울제 지침에 따라 결정
 > ```
+>
+> 약제 정보: [렉사프로정·10 ㎎](https://www.health.kr/drug/A11AOOOOO5474)
 
 > **처방례 2.** duloxetine 허가 통증 적응증 또는 우울·불안장애가 동반된 경우
 >
@@ -582,10 +584,14 @@ graph TD
 > 마이셀타캡슐 30 ㎎/C  1C  qd  1~2주
 > 이후 마이셀타캡슐 60 ㎎/C  1C  qd
 > ※ 식사와 관계없이 복용 가능; 구역이 있으면 식후 복용 고려
+> ※ 장용캡슐은 통째로 삼키며 씹거나 부수거나 열어 과립을 흩어 복용하지 않음
+> ※ 혈압은 시작 전·치료 중 확인; 통증 적응증의 통상 목표는 60 ㎎/d이며 추가 증량을 일률 권고하지 않음
 > ※ 간질환, CrCl ＜30 ㎖/min·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·협우각 녹내장 및 MAOI 관련 병용·휴약기간 금기 확인(001·027 참조)
 > ※ 과음, 출혈 위험 및 다른 세로토닌성 약물 상호작용도 확인. 정신질환 치료용 MAOI 중단 후 14일 이내 시작 금기; duloxetine 중단 후 5일 이내 MAOI 시작 금기
 > ※ 갑자기 중단하지 않고 임상상태에 따라 점진적으로 감량
 > ```
+>
+> 약제 정보: [마이셀타캡슐·30 ㎎](https://health.kr/drug/2014050900005) · [마이셀타캡슐·60 ㎎](https://health.kr/drug/2014050900006)
 
 ***
 
@@ -598,7 +604,10 @@ graph TD
 > * 복용 초기(첫 1\~2주) 일시적으로 구역, 두통, 어지럼이 생길 수 있습니다. 대부분 시간이 지나면 사라지므로 심하지 않으면 계속 복용하십시오.
 > * 복용 초기에 **불안 증가·초조·안절부절못함(jitteriness/activation)** 이 나타날 수 있습니다. 심한 정좌불능, 잠을 거의 자지 않아도 피곤하지 않은 상태, 충동성 또는 자살사고가 생기면 즉시 담당 의사에게 알리십시오.
 > * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
-> * 술은 증상을 악화시키고 약물 효과를 방해합니다. 음주를 피해 주십시오.
+> * 술은 졸림·어지럼과 약물 부작용을 늘릴 수 있으므로 피하십시오. 어지럽거나 졸리면 운전·기계조작을 하지 마십시오.
+> * 마이셀타는 장용캡슐이므로 통째로 삼키십시오. 씹거나 부수거나 캡슐을 열어 나누어 먹지 마십시오.
+> * 복용을 잊으면 생각난 때 복용하되 다음 복용 시간이 가까우면 건너뛰십시오. 한 번에 두 배로 먹지 마십시오.
+> * 고열·심한 발한과 함께 혼동·떨림·근육 경직이 생기면 세로토닌 독성 가능성이 있으므로 복용을 보류하고 즉시 응급 평가를 받으십시오.
 > * 진통소염제(NSAID)·아스피린·항응고제와 함께 복용하면 출혈 위험이 증가하므로 복용 중인 약을 모두 알려 주십시오.
 > * 고령자는 두통·혼동·기운 없음이 새로 생기면 혈중 나트륨 저하 여부를 확인해야 하므로 알려 주십시오.
 
@@ -608,7 +617,7 @@ graph TD
 > * 복용 1\~2주 이내 심한 초기 부작용·초조·자살사고가 나타나는 경우
 > * 4\~6주 동안 적절히 복용했는데 표적 우울·불안 증상의 호전이 없는 경우
 > * 기분이 지나치게 고양되거나 잠이 전혀 없어지는 경우
-> * 자해·자살에 대한 구체적 계획·수단·즉각적 의도가 있거나 안전을 유지하기 어려운 경우 - 혼자 있지 말고 즉시 119에 연락하거나 응급실로 가십시오. 그 밖의 자살사고가 생긴 경우에도 당일 담당 의료진에게 알리고 자살예방 상담전화 **109**를 이용하십시오.
+> * 자해·자살에 대한 구체적 계획·수단·즉각적 의도가 있거나 안전을 유지하기 어려운 경우 - 혼자 있지 말고 즉시 119에 연락하거나 응급실로 가십시오. 그 밖의 자살사고가 생긴 경우에도 당일 담당 의료진에게 알리고 자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)를 이용하십시오.
 
 ***
 
@@ -629,6 +638,8 @@ graph TD
 * \[AAN 2026] [Tolchin B, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2026;106(1):e214466.](https://doi.org/10.1212/WNL.0000000000214466) - 기능성 발작의 진단 설명·치료와 불필요한 항발작약 사용 제한; 모든 FND에 일괄 적용하지 않음
 * \[Lancet Neurol 2024] [Nielsen G, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. Lancet Neurol. 2024;23(7):675-686.](https://doi.org/10.1016/S1474-4422(24)00135-2) - 기능성 운동장애의 전문 물리치료 효과와 1차·2차 결과의 구분
 * \[Lancet Psychiatry 2020] [Goldstein LH, et al. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. Lancet Psychiatry. 2020;7(6):491-505.](https://doi.org/10.1016/S2215-0366(20)30128-0) - 해리성·기능성 발작의 CBT 효과와 1차 발작빈도 결과의 한계
+
+* [Brigo F, et al. Tongue biting in epileptic seizures and psychogenic events. Epilepsy Behav. 2012;25(2):251-255.](https://doi.org/10.1016/j.yebeh.2012.06.020) - 혀 측면 교상의 감별 의미
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -682,4 +693,4 @@ graph TD
 * 갑자기 한쪽 팔다리에 힘이 빠지거나 말이 어눌해지는 경우, 처음 발생한 경련 - 즉시 119
 * 가슴을 조이는 통증이 계속되거나 숨이 점점 차는 경우 - 즉시 119
 * 열·체중 감소·밤에 땀이 나는 증상이 새로 생긴 경우
-* 자해·자살에 대한 구체적 계획이 있거나 스스로 안전을 지키기 어렵다고 느끼면 혼자 있지 말고 즉시 119에 연락하거나 응급실로 가십시오. 그 밖에 자살에 대한 생각이 들 때도 당일 담당 의료진에게 알리고 자살예방 상담전화 **109**(24시간)를 이용하십시오
+* 자해·자살에 대한 구체적 계획이 있거나 스스로 안전을 지키기 어렵다고 느끼면 혼자 있지 말고 즉시 119에 연락하거나 응급실로 가십시오. 그 밖에 자살에 대한 생각이 들 때도 당일 담당 의료진에게 알리고 자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)를 이용하십시오

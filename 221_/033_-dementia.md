@@ -9,7 +9,7 @@
 * 단일 검사 점수만으로 진단하지 않음
 * 유병률 : 65세 이상 - 9.25% \[2023년 전국 치매역학조사] (2016년 9.50%)
   * 조사 정의·연도와 추정 방법에 따라 수치가 달라질 수 있으며, 고령화로 환자 절대 수의 지속 증가 예상
-* 항아밀로이드 단클론항체인 lecanemab은 아밀로이드 병리가 확인된 조기 AD의 진행을 지연시키는 약제로 국내 허가(건강보험 비급여)되었고, donanemab은 2026년 10월 현재 국내 품목허가 심사 중
+* 항아밀로이드 단클론항체인 lecanemab은 아밀로이드 병리가 확인된 조기 AD의 진행을 지연시키는 약제로 허가됨. donanemab의 국내 최신 허가 여부·적응증과 각 약제의 급여 상태는 처방 시점의 공식 품목정보·고시로 확인
 * 일반적인 증상 완화제는 질병 경과를 변화시키지 못함
 * 주요 퇴행성 치매 : 알츠하이머병(AD), 루이소체병, 전두측두엽변성, 파킨슨병 치매
 * 혈관성 인지장애 : 뇌경색·뇌출혈·소혈관질환 등에 의한 인지 저하; 추가 혈관 손상 예방이 중요
@@ -47,7 +47,7 @@
 * 인지·정신 관련 : 경도인지장애(MCI), 수면 장애(수면무호흡증, 수면 분절, 수면 시간 단축)
 * 대사·혈관 관련 : 심방세동, 뇌졸중(허혈성/출혈성), 만성콩팥병, 고호모시스테인혈증
 * 유전·약물 : APOE ε4 대립유전자 보유, 항콜린제 사용
-  * 항콜린 부담(anticholinergic burden) 누적은 인지 저하 및 치매 위험을 높임; 대표 약제 - TCA, oxybutynin, 1세대 항히스타민 → 고령 환자에서 정기적 복용 약물 점검 필수
+  * 항콜린 부담(anticholinergic burden)은 인지 수행 저하를 유발할 수 있고, 누적 노출은 관찰 연구에서 치매 위험 증가와 연관됨; 대표 약제 - TCA, oxybutynin, 1세대 항히스타민 → 고령 환자에서 정기적 복용 약물 점검 필수
 
 {% hint style="info" %}
 2024년 Lancet Commission 보고서에서 기존 12가지 위험인자에 미교정 시력 저하와 고LDL 콜레스테롤을 추가하여 총 14가지로 확대. 인구 집단 수준의 이론적 예방 가능 분율은 약 45%로, 모든 위험인자를 교정하면 개별 환자의 치매 위험이 실제로 45% 감소한다는 뜻은 아님
@@ -74,7 +74,7 @@
 * 시각적 이미지와 공간적 관계를 이해하기 어려움
 * 언어 장애 : 단어, 사물 명칭이 생각나지 않음, 문장 이해력 저하
 * 물건을 잘못 배치하고 단계를 추적하는 기능 상실. 물건을 잘 잊거나 잃어 버림
-* 판단력/업무 능력 저하 : 초기에는 다양한 수준의 장애. 다중 작업이나 요약에 어려움을 보이며 점차 행동 장애와 연관됨; 판단력이 유지되는 경우에는 우울증과의 감별을 요함
+* 판단력/업무 능력 저하 : 초기에는 다양한 수준의 장애. 다중 작업이나 요약에 어려움을 보이며 점차 행동 장애와 연관됨; 판단력 보존 여부만으로 우울증과 감별하지 않음
 * 성격 및 감정 변화 : 무관심, 위축, 우울, 기타 성격 변화
 * 직장 또는 사회 활동에서 멀어짐
 
@@ -114,7 +114,7 @@ C. 알츠하이머병에 의한 주요 신경인지장애의 확실성
 
 D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 영향, 또는 다른 정신/신경/전신 질환으로 더 잘 설명되지 않음
 
-#### <mark style="color:$primary;">알츠하이머병의 진단 기준 체계</mark>
+#### <mark style="color:$primary;">알츠하이머병의 진단 기준 체계</mark> <a id="undefined-12"></a>
 
 * <mark style="color:$info;">[NIA-AA 2011 병기](https://pubmed.ncbi.nlm.nih.gov/21514250/)</mark>
   1. Preclinical AD : 증상(-), 바이오마커로 정의되는 연구용 개념
@@ -131,7 +131,7 @@ D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 �
 * <mark style="color:$info;">[IWG 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010406/)</mark> : AD를 임상-생물학적(Clinical-biological) 개념으로 보며, 증상 없는 바이오마커 양성자는 AD 환자가 아닌 '위험 상태(at risk)'로 분류함
 * 실제 임상 평가는 <mark style="color:$info;">[2024\~2025 DETeCD-ADRD 지침](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14337)</mark>에 따라 환자와 정보제공자의 병력, 객관적 인지평가, 기능 평가, 신경학적 진찰, 단계별 검사, 진단 설명과 상담을 통합
 
-#### <mark style="color:$primary;">AD 바이오마커 계층 (접근성 순)</mark>
+#### <mark style="color:$primary;">AD 바이오마커 계층 (접근성 순)</mark> <a id="a-d-1"></a>
 
 <table><thead><tr><th width="76">단계</th><th width="92">검사</th><th width="223">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td>혈액</td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ₄₂/₄₀ 비</td><td>전문 진료의 객관적 인지장애 환자 대상 <mark style="color:$info;">[Alzheimers Dement 2025]</mark>. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td>CSF</td><td>Aβ₄₂/₄₀ 비, p-tau181/Aβ₄₂ 비, total tau(신경손상 보조 지표)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td>Amyloid PET</td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
 
@@ -139,7 +139,7 @@ D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 �
 > _<mark style="color:$info;">모두 인지 저하 증상 환자가 검사 대상이며 단독 확진·무증상 선별용이 아님. 결과 구간 체계는 검사별로 다르며(양성·중간·음성 3구간 또는 배제 중심 판정), 중간 결과나 임상상과 불일치하는 결과는 PET·CSF로 추가 평가.</mark>_\
 > _<mark style="color:$info;">성능은 대상군의 유병률과 신기능(만성콩팥병에서 p-tau 수치 상승 가능)에 따라 달라질 수 있음.</mark>_\
 > _<mark style="color:$info;">2025 AA 진료지침은 전문 진료 환경의 인지장애 환자를 대상으로 하며 1차 진료에 대한 권고는 포함하지 않음. FDA 허가 범위(예: Elecsys pTau181의 1차 진료 배제 보조)와 학회 지침의 권고 범위는 다를 수 있으며, 상용 검사 상당수가 지침의 권고 성능 기준에 미달함.</mark>_\
-> _<mark style="color:$info;">국내에서는 Elecsys pTau181이 식약처 허가 심사 중(2026년 6월 기준).</mark>_
+> _<mark style="color:$info;">국내 허가 여부는 제품·검체(혈장/CSF)별 최신 식약처 정보를 확인하며 FDA 허가를 국내 허가로 간주하지 않음.</mark>_
 
 #### <mark style="color:$primary;">NINCDS-ADRDA 진단 기준</mark>
 
@@ -190,9 +190,9 @@ C. 다음 중 하나 또는 그 이상의 국소적 뇌 손상의 증거가 있�
 
 D. 병인으로서 치매와 관련되었다고 판단할 만한 중요한 뇌혈관 질환의 병력, 진찰, 검사 증거가 있음
 
-### <mark style="color:orange;">루이소체치매(Dementia with Lewy bodies; DLB)</mark>
+### <mark style="color:orange;">루이소체치매(Dementia with Lewy bodies; DLB)</mark> <a id="dementia-with-lewy-bodies"></a>
 
-* 파킨슨 운동 증상이 시작되기 전 또는 1년 이내에 인지 장애 발생 (파킨슨병 치매와의 감별 기준)
+* 파킨슨 운동 증상이 시작되기 전 또는 1년 이내에 치매 발생 (파킨슨병 치매와의 감별 기준)
 * Lewy body : 뇌간, 변연계, 전뇌 및 신피질에 α-synuclein 및 ubiquitin을 함유하는 intraneuronal inclusion
 * 주의력 및 executive 기능 결함이 서서히 진행
 * 2017 DLB Consortium 핵심 임상 특징 : 인지 변동, 반복적이고 구체적인 환시, REM수면행동장애, 자발성 파킨슨증
@@ -262,12 +262,12 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 ### <mark style="color:orange;">선별검사 : 인지 기능 검사</mark>
 
-* 증상이 없는 고령자에 대한 일률적인 인지 장애 선별검사는 권고하지 않음
+* 증상이 없는 지역사회 거주 65세 이상 성인의 일률적 인지 선별은 USPSTF에서 이득·위해 근거 불충분(I statement)으로 평가함. 선별 반대 권고와 구분하며, 국내 치매검진사업과 증상 환자의 진단 평가는 별도로 적용
 * 인지 장애 병력(+) & 인지 검사 정상
   * 경증 치매, 높은 지적 수준, 우울 가능성 고려
   * 보호자가 일상 기능의 뚜렷한 변화를 보고하는데 진찰실 검사가 정상이면 표준화 신경심리검사(SNSB-II, CERAD-K 등) 의뢰를 적극 고려
 * 인지 장애 병력(-) & 인지 검사 이상
-  * 급성 혼돈 상태, 매우 낮은 지적 수준, 병력 정보 오류 가능성 고려
+  * 급성 혼돈 상태, 낮은 교육·문해력, 언어·감각 문제, 병전 인지 수준 또는 병력 정보 오류 가능성 고려
 
 #### <mark style="color:$primary;">검사 대상</mark>
 
@@ -289,7 +289,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
      * ＜3점 : 표준적으로 인지장애 선별 양성, 추가 평가 필요
      * 민감도를 우선할 때는 ＜4점을 추가 평가 기준으로 고려할 수 있음
 
-#### <mark style="color:$primary;">K-MMSE</mark> <mark style="color:$primary;">(Mini-Mental State Examination)</mark>
+#### <mark style="color:$primary;">K-MMSE</mark> <mark style="color:$primary;">(Mini-Mental State Examination)</mark> <a id="k-mmse-mini-mental-state-examination"></a>
 
 * 점수 구성 : 시간 지남력 5점, 장소 지남력 5점, 기억 등록 3점, 기억 회상 3점, 주의 집중 및 계산 능력 5점, 언어 능력 8점, 시각 구성 1점(총 30점) (설문은 이 [pdf의 부록1](https://www.jkna.org/upload/pdf/200304004.pdf) 참조)
 * 총점만으로 정상·치매 또는 중증도를 확정하지 않으며, 검사판에 맞는 연령·교육수준별 국내 규준과 환자의 기저 기능을 적용하여 해석
@@ -318,7 +318,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
   * 1단계 = 인지 장애 없음, 2단계 = 매우 경미, 3단계 = 경미, 4단계 = 중등도, 5단계 = 초기 중증, 6단계 = 중증, 7단계 = 후기 중증 인지 장애
 * CDR에 비해 상대적으로 짧은 시간에 판단할 수 있음
 
-#### <mark style="color:$primary;">CIST (인지선별검사, Cognitive Impairment Screening Test)</mark>
+#### <mark style="color:$primary;">CIST (인지선별검사, Cognitive Impairment Screening Test)</mark> <a id="cist-cognitive-impairment-screening-test"></a>
 
 * 개요 : 국가 치매검진사업에 활용이 용이하고 인지기능저하 변별력이 우수한 도구로 개발되어 2021년 1월 1일부터 적용 중. 기존 MMSE-DS를 대체한 국가치매검진사업의 표준 1차 선별검사
 * 검사 구성 : 지남력, 기억력, 주의력, 언어기능, 시공간 기능, 집행기능으로 총 13문항, 30점 만점이며 검사 시간은 약 5\~10분 소요
@@ -367,14 +367,14 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 {% hint style="info" %}
 기본 검사는 인지저하를 악화시키는 교정 가능한 동반 요인을 찾기 위한 것임.\
-교정 가능한 원인이 발견되는 경우는 약 9%이나 교정 후 실제 호전은 0.6% 정도 <mark style="color:$info;">\[Arch Intern Med 2003]</mark>
+과거 치매 환자 연구에서 잠재적으로 교정 가능한 원인이 약 9%였고 실제 가역성은 약 0.6%로 보고됨. 연구 시기·대상·호전 정의에 따라 달라 현재의 모든 인지장애 환자에게 일률 적용하지 않음 <mark style="color:$info;">\[Arch Intern Med 2003]</mark>
 {% endhint %}
 
 **선택 검사 (Tier 2, 임상상에 따라 일부 환자)**
 
 * ANA, HbA1c, 지질, folate, MMA, 암모니아, 납, RPR, HIV, SPEP, PT/PTT, 요검사·요배양
 * 흉부 X선, 수면다원검사(수면무호흡 또는 렘수면행동장애 의심 시)
-* 섬망 또는 급성 정신상태 변화가 있으면 암모니아, 흉부 X선, 요검사·요배양을 기본 검사와 함께 시행
+* 섬망 또는 급성 정신상태 변화에서는 저혈당·저산소증·감염·약물 등을 신속히 평가. 암모니아는 간질환 등 단서가 있을 때, 흉부 X선·요검사·요배양은 호흡기·요로 증상 또는 전신 감염 단서에 따라 선택하며 일률 시행하지 않음
   * 고령자에서는 무증상 세균뇨가 흔하므로, 요로 증상·발열 등 국소·전신 감염 징후 없이 세균뇨와 섬망만으로 요로감염을 진단하거나 항생제를 투여하지 않음
 
 **전문 검사 (Tier 3\~4, 비전형·급속 진행 시)**
@@ -386,7 +386,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 인지·행동 증상의 원인 평가를 위해 비조영 MRI를 기본으로 시행
   * 장기간 와상 상태이고 의사소통이 불가능한 중증 치매에서는 뚜렷한 임상적 이유 없이 영상 검사를 시행하지 않음
 * MRI 우선 : 구조적 원인(뇌졸중, 뇌종양, 수두증, 백질 변성 등) 감별에 CT보다 우수
-* CT 허용 : MRI 촬영 불가 환자(금속 삽입물, 폐쇄 공포증, 협조 어려움)에서 대체 가능
+* CT 허용 : MRI 촬영이 불가능한 환자(MRI 비적합 삽입물, 조절되지 않는 폐쇄 공포증·협조 어려움 등; 금속 삽입물은 종류별 안전성 확인)에서 대체 가능
 * 다음 경우는 영상 검사를 지체 없이 시행하고 전문의 평가를 병행
   * 비전형적 임상 양상 (atypical presentation)
   * 급속 진행하는 인지 저하 (수 주\~수 개월 이내)
@@ -456,44 +456,36 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 ```mermaid
 flowchart TD
-    A(["인지 기능 저하 호소"]) --> B["급성 발생?<br/>수 시간~수 일"]
-    B -- YES --> C["섬망(Delirium) 우선 배제<br/>원인 탐색: 감염·약물·대사"]
-    B -- NO --> D["<u>우울증 감별</u><br/>PHQ-9/SGDS-K"]
-    D -- 우울 의심 --> E["우울 치료와 <br/>인지평가 병행<br/>치매 병존 가능"]
-    D -- 인지저하 지속 --> F["인지저하로 인한<br/>독립적 일상기능(IADL) 저하?"]
-    F -- NO --> G2["객관적 인지저하?<br/>(표준화 인지검사)"]
-    G2 -- YES --> G["경도인지장애"]
-    G2 -- NO --> R["정상 인지 또는<br/>주관적 인지저하<br/>12개월 후 재평가"]
-    F -- YES --> H["치매 진단 워크업"]
-    H --> I["동반·악화 요인 확인<br/>CBC·CMP·TSH·B12<br/>·homocysteine<br/>± 항콜린제·BZD 검토"]
-    H --> J["<u>영상 검사</u><br/>비조영 MRI 기본<br/>/CT 대체"]
-    I --> K["아형 추정"]
-    J --> K
-    K --> L["<u>알츠하이머병</u><br/>기억 저하 선행, <br/>잠행성"]
-    K --> M["<u>혈관성</u><br/>혈관 위험인자, <br/>계단식"]
-    K --> N["<u>루이소체</u><br/>환시·파킨슨증<br/>·RBD"]
-    K --> O["<u>전두측두치매</u><br/>행동·언어 변화 <br/>선행"]
-    L --> P["<u>치료 결정</u><br/>•AD 치매 → ChEI ± memantine<br/>•Aβ+ 조기 AD → lecanemab 적격성 평가 의뢰<br/>•DLB·PDD → ChEI, 항정신병제 회피<br/>•FTD → ChEI 비권고"]
-    M --> P
-    N --> P
-    O --> P
-    P --> Q["추적 관찰 3~6개월<br/>치매안심센터 연계<br/>보호자 교육"]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class B,D,F,G2,K yellow
-    style H fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#ffebee,stroke:#c62828
-    style E fill:#fff3e0,stroke:#ef6c00
-    style G fill:#e3f2fd,stroke:#1565c0
-    style R fill:#f1f8e9,stroke:#7cb342
-    style P fill:#fce4ec,stroke:#880e4f
-    style Q fill:#e8f5e9,stroke:#388e3c
-
+    A(["인지·일상기능 변화"]) --> B{"급성·변동성 또는 응급 징후?"}
+    B -- "예" --> C["섬망·뇌졸중 등 즉각 평가"]
+    B -- "아니요" --> D["환자·보호자 병력·인지검사·IADL 평가"]
+    D --> E["기분·수면·약물·감각·혈액검사·뇌영상 평가"]
+    E --> F{"인지 저하와 독립성 상태?"}
+    F -- "객관적 저하 없음·독립 유지" --> S["SCD·정상 범위: 위험요인 관리·추적"]
+    F -- "객관적 저하·독립 유지" --> M["MCI: 원인 관리·6~12개월 추적"]
+    F -- "인지 저하로 독립성 상실" --> T["치매: 원인·병기·혼합 병리 평가"]
+    T --> Q{"주된 원인?"}
+    Q -- "알츠하이머병" --> AD["ChEI·memantine 선택 및 조기 AD 항체 적격성 의뢰"]
+    Q -- "혈관성" --> V["혈관 위험 관리·혼합 AD 여부 확인"]
+    Q -- "DLB·PDD" --> L["ChEI 고려·항정신병제 과민성 주의"]
+    Q -- "FTD" --> FT["증상별 관리·ChEI·memantine 회피"]
+    AD --> U["3~6개월 추적·안전·보호자·지역 지원"]
+    V --> U
+    L --> U
+    FT --> U
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#d6b656
+    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#1565c0
+    class A start
+    class B,F,Q decision
+    class C emergency
+    class D,E,S,M,T,AD,V,L,FT,U treatment
 ```
 
 <p align="center"><strong>치매 진단 및 치료 결정 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : DETeCD-ADRD, Alzheimers Dement 2025)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : DETeCD-ADRD 2025; NICE NG97 2018; 레켐비 품목허가정보)</mark></em></p>
 
 ***
 
@@ -517,13 +509,13 @@ flowchart TD
 치매공공후견 : 의사결정능력이 저하되었으나 권리를 대변할 가족이 없는 치매 환자(저소득층 우선)에게 지자체가 후견심판 청구와 후견인 활동비를 지원(치매관리법 제12조의3); 관할 치매안심센터(보건소)나 읍면동 행정복지센터를 통해 신청
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 행동심리증상(Behavioral and Psychological Symptoms of Dementia, BPSD)에 대하여 섬망, 통증, 변비, 요폐, 감염, 탈수, 수면 문제, 약물, 시청각 장애와 환경 요인을 먼저 찾아 교정
 * 일정한 일과와 익숙한 환경을 유지하고 과도한 자극을 줄이며, 환자 능력에 맞춘 운동·인지자극·음악·회상·사회활동을 제공
 * 혈압·당뇨병·고LDL 콜레스테롤, 청력·시력 저하, 흡연, 신체활동 저하 등 교정 가능한 위험인자를 관리(☞ [경도인지장애](032_-mild-cognitive-impairment.md#undefined-11))
 * 난청이 있으면 보청기 사용을 권고
-* 운동·식이·인지 훈련·혈관 위험 관리를 결합한 구조화된 다영역 생활 개입 - 자율 실천보다 인지 기능을 소폭 개선함 <mark style="color:$info;">\[JAMA 2025]</mark>
+* 운동·식이·인지 훈련·혈관 위험 관리를 결합한 구조화된 다영역 생활 개입은 인지저하 위험이 높은 성인의 연구에서 자율 실천보다 인지 기능을 소폭 개선함. 이미 치매로 진단된 환자에 대한 직접적인 치료 효과로 일반화하지 않음 <mark style="color:$info;">\[JAMA 2025]</mark>
 * 커피, 차 : 치매 예방 목적의 섭취는 권하지 않음(치매 위험의 관찰 연구 결과는 일관되지 않음)
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
@@ -532,8 +524,8 @@ flowchart TD
 
 #### <mark style="color:$primary;">알츠하이머병</mark>
 
-* 1차 선택 : cholinesterase 억제제
-* 추가 : 중증 또는 효과 부족 시 N-methyl-D-aspartate 수용체 길항제의 병용을 고려
+* 경도~중등도 AD : cholinesterase 억제제를 우선 고려
+* 중등도 AD에서 ChEI에 memantine 추가를 고려하고, 중증 AD에서는 병용을 권고할 수 있음. ChEI 금기·불내성인 중등도 또는 중증 AD에서는 memantine 단독 고려; 급여 기준은 별도 적용
 * 평가 : 시작·증량 후 2\~4주에는 부작용, 맥박, 체중과 순응도를 평가하고, 인지·일상기능·행동 및 보호자 관찰을 충분한 치료기간 후 종합 평가. 안정 시 3\~6개월마다 추적
 * 명백한 호전이 없어도 악화를 지연시키고 있을 수 있으므로 6\~8주 무호전만으로 자동 중단하지 않음
 * 중대한 부작용, 순응 불가, 치료 목표와 불일치, 충분한 치료 후 의미 있는 이득이 없다고 공동 판단한 경우 점진 감량하며, 중단 후 악화하면 재시작 고려
@@ -541,7 +533,7 @@ flowchart TD
 #### <mark style="color:$primary;">혈관성 치매</mark>
 
 * 혈압·당뇨병·지질·심방세동·흡연 등 추가 뇌혈관 손상 위험을 관리
-* 국내에서는 donepezil이 혈관성 치매 적응증으로 허가되어 있으나 순수 혈관성 치매에서 효과 크기는 작음
+* donepezil의 혈관성 치매 적응증은 임상재평가 후 2019-07-21 삭제됨. 순수 혈관성 치매에 ChEI·memantine을 일률적으로 사용하지 않음
 * AD 혼합병리 가능성과 환자별 이득·위험을 평가하여 사용
 
 #### <mark style="color:$primary;">루이소체치매·파킨슨병 치매</mark>
@@ -559,20 +551,20 @@ flowchart TD
 
 #### <mark style="color:$primary;">Cholinesterase 억제제 (ChEIs)</mark>
 
-* 치매 1차 치료제 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501\&sno=2\&mtgMtrRegSno=0003))
+* 알츠하이머병 치매의 증상 치료제 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501\&sno=2\&mtgMtrRegSno=0003))
 * 기전 : acetylcholinesterase 억제 → acetylcholine 분해 감소 → 시냅스 내 cholinergic transmission 증가
 * 효과 : 인지·일상 기능·전반적 상태의 저하를 소폭 지연할 수 있으나 질병 병리를 변화시키는 약제는 아니며 개인별 반응이 다름
 * 부작용 : 설사, 구역, 식욕 부진, 악몽, 근육 경련, 부정맥(서맥), 실신
   * 부작용 빈도는 용량과 관련됨
   * 대처 방법 : 악몽·불면 발생 시 아침 투여를 고려하고, 위장관 증상은 식사와 함께 복용하거나 증량 속도 조절·제형 변경을 고려
-  * 위장 장애가 심하거나 복약 순응도가 낮은 경우 : 경구제 대신 패취(donepezil 또는 rivastigmine 패취)로 전환 고려 → 혈중 농도 안정적 유지 및 위장 부작용 경감
+  * 위장 장애가 심하거나 복약 순응도가 낮은 경우 : 경구제 대신 패취 전환을 고려. 위장 부작용 감소 근거는 rivastigmine에서 비교적 명확하며, donepezil 패취도 모든 환자에서 위장 부작용을 줄인다고 단정하지 않음
 * 주의 : QT 연장(QT 연장 약물 병용·전해질 이상 시 특히), 소화성궤양·위장관 출혈(NSAID 병용 시), 천식·COPD에서 신중 투여. 행동 증상을 악화시킬 수 있으므로 전두측두치매에는 투여하지 않음
 * 상호 작용 : β-차단제/비디하이드로피리딘계(non-DHP) 칼슘통로차단제(verapamil, diltiazem)/digoxin(심장 전도 장애 → 서맥, 방실 차단 위험 증가; 병용 시 심전도 모니터링 권고), 항콜린제(ChEIs 약효 저하)
 * 병용 요법 : 중등도 이상(MMSE ≤20)에서 ChEI에 memantine 추가 시 이득은 작고 일관되지 않음
   * 급여 기준 충족 시 개별적으로 고려
 * 은행잎추출물(Ginkgo biloba extract) 병용 : 인지기능 장애를 동반한 치매(알츠하이머형, 혈관성)에서 ChEI, memantine 또는 donepezil/memantine 복합제(디엠듀오정 등)와 병용하면 1종만 본인 일부부담하고, 투약비용이 저렴한 약제는 약값 전액을 환자가 부담 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
 
-<table><thead><tr><th width="147">성분명 [상품명]</th><th width="369">용량 [시작 → 유지]</th><th>비고</th></tr></thead><tbody><tr><td>donepezil<br><mark style="color:blue;">[아리셉트 정]</mark><br><mark style="color:blue;">[도네리온패취]</mark></td><td>• 경구 5 ㎎ qd → 4~6주 후 10 ㎎ qd<br>• 중등도~중증 AD에서 10 ㎎ qd를 최소 3개월 유지한 뒤 필요·내약 시 23 ㎎ qd 고려<br>• 패취 87.5 ㎎을 4~6주간 주 2회(3일과 4일 간격으로 교대) 부착 → 175 ㎎ 주 2회로 증량 가능</td><td>23 ㎎ 제형은 경증 AD의 시작 용량이 아님</td></tr><tr><td>galantamine<br><mark style="color:blue;">[레미닐 피알 서방캡슐]</mark></td><td>• 서방형 8 ㎎ qd → 4주마다 8 ㎎ qd 증량, 유지 16~24 ㎎ qd<br>• 속방형(국내 유통 확인) 4 ㎎ bid → 4주마다 4 ㎎ bid 증량, 유지 8~12 ㎎ bid</td><td>간·신장애 시 감량 또는 회피 기준 확인</td></tr><tr><td>rivastigmine<br><mark style="color:blue;">[엑셀론 캡슐]</mark><br><mark style="color:blue;">[엑셀론 패취]</mark></td><td>• 1.5 ㎎ bid → 2주 이상 간격으로 증량, 유지 3~6 ㎎ bid<br>• 패취 4.6 ㎎/24 h → 최소 4주 후 9.5 ㎎/24 h, 필요시 13.3 ㎎/24 h</td><td>파킨슨병 치매 적응증 허가; 간·신장애와 저체중 환자에서 주의; 패취 부착 위치를 매일 변경</td></tr></tbody></table>
+<table><thead><tr><th width="147">성분명 [상품명]</th><th width="369">용량 [시작 → 유지]</th><th>비고</th></tr></thead><tbody><tr><td>donepezil<br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11ABBBBB0292">아리셉트</a></mark><br><mark style="color:blue;"><a href="https://health.kr/drug/2021110800003">도네리온패취</a></mark></td><td>• 경구 5 ㎎ qd → 4~6주 후 <a href="https://health.kr/drug/A11ADDDDD0063">10 ㎎</a> qd<br>• 중등도~중증 AD에서 10 ㎎ qd를 최소 3개월 유지한 뒤 필요·내약 시 <a href="https://www.health.kr/drug/2013052000002">23 ㎎</a> qd 고려<br>• 패취 87.5 ㎎을 4~6주간 주 2회(3일과 4일 간격으로 교대) 부착 → <a href="https://health.kr/drug/2021110800004">175 ㎎</a> 주 2회로 증량 가능</td><td>23 ㎎ 제형은 경증 AD의 시작 용량이 아님</td></tr><tr><td>galantamine<br><mark style="color:blue;"><a href="https://www.health.kr/drug/2021063000006">레미닐피알</a></mark></td><td>• 서방형 8 ㎎ qd 아침 식사와 함께 → 최소 4주 간격으로 증량, 유지 <a href="https://health.kr/drug/2021063000005">16 ㎎</a> 또는 <a href="https://www.health.kr/drug/2021063000004">24 ㎎</a> qd<br>• 속방형 4 ㎎ bid → 최소 4주 간격으로 증량, 유지 8~12 ㎎ bid(국내 현재 유통 확인 안 됨)</td><td>간·신장애 시 감량 또는 회피 기준 확인</td></tr><tr><td>rivastigmine<br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11ABBBBB1422">엑셀론</a></mark><br><mark style="color:blue;"><a href="https://www.health.kr/drug/A11AKP08F0803">엑셀론패취</a></mark></td><td>• 1.5 ㎎ bid 조식·석식과 함께 → 2주 이상 간격으로 증량, 유지 <a href="https://health.kr/drug/A11ABBBBB1423">3</a>~<a href="https://health.kr/drug/A11ABBBBB1425">6</a> ㎎ bid<br>• 패취 4.6 ㎎/24 h → 최소 4주 후 <a href="https://www.health.kr/drug/A11AKP08F0800">9.5 ㎎/24 h</a>. 경도~중등도 AD·PDD는 9.5 ㎎/24 h를 ≥6개월 유지해도 유의한 저하가 있고 내약성이 좋으면 <a href="https://www.health.kr/drug/2013061200006">13.3 ㎎/24 h</a> 고려; 중증 AD는 각 용량을 ≥4주 유지 후 증량하여 13.3 ㎎/24 h 목표</td><td>파킨슨병 치매 적응증 허가; 간·신장애와 저체중 환자에서 주의; 패취 부착 위치를 매일 변경</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">N-methyl-D-aspartate receptor antagonist</mark>
 
@@ -584,7 +576,7 @@ flowchart TD
 * 기전 : NMDA 수용체 비경쟁적 길항 → glutamate 매개 흥분독성 억제
 * 효과 : 중등도·중증 AD에서 인지·일상기능·행동 또는 전반적 상태의 악화를 소폭 지연할 수 있음. 경증 AD에 일률적으로 사용하지 않으며 전두측두치매에는 권고하지 않음
 * 부작용 : 어지럼, 두통, 시야 흐림, 부종, 체중 증가, 과민, 혼돈 (✽심각한 부작용은 매우 드묾)
-* memantine : 5 ㎎/d로 시작하여 1주마다 5 ㎎씩 증량, 넷째 주부터 20 ㎎ qd 유지(필요시 10 ㎎ bid) <mark style="color:blue;">\[에빅사]</mark>
+* memantine : 5 ㎎/d로 시작하여 1주마다 5 ㎎씩 증량, 넷째 주부터 20 ㎎ qd 유지(필요시 [10](https://www.health.kr/drug/A11AOOOOO2372) ㎎ bid) <mark style="color:blue;">[에빅사](https://health.kr/drug/2021111100001)</mark>
 * 신기능별 용량 조절(Cockcroft-Gault CrCl)
   * 30\~49 ㎖/min : 1일 용량을 10 ㎎으로 감량; 최소 7일 후 내약성이 좋으면 표준 증량법에 따라 20 ㎎/d까지 증량 가능
   * 5\~29 ㎖/min : 1일 최대 10 ㎎
@@ -596,23 +588,22 @@ flowchart TD
 * lecanemab : Aβ soluble protofibril에 결합하는 human IgG1 단클론항체
   * 적응증 : Aβ 병리가 확인된 알츠하이머병으로 인한 MCI 또는 경증 치매
   * 효과 : Clarity AD에서 18개월 CDR-SB 악화를 위약 대비 상대적으로 27% 감소(절대 평균 차이 -0.45점). 증상 회복이나 진행 정지를 의미하지 않음
-  * 국내 허가 용법 : 10 ㎎/㎏ IV, 2주마다 <mark style="color:blue;">\[레켐비]</mark> (비급여)
+  * 국내 허가 용법 : 10 ㎎/㎏ IV, 2주마다 <mark style="color:blue;">[레켐비](https://www.health.kr/drug/2024052700001)</mark> (비급여)
   * 부작용 : ARIA 약 21% 발생
     * ARIA-E (amyloid-related imaging abnormalities - edema/effusion) : 뇌 부종 또는 삼출; MRI FLAIR에서 고신호
     * ARIA-H (hemorrhage/hemosiderosis) : 미세출혈 또는 철침착; MRI T2\*·SWI에서 저신호
     * APOE ε4 보유자, 특히 동형접합자에서 ARIA 위험이 현저히 증가
 * donanemab : Aβ plaque를 표적으로 하는 human IgG1 단클론항체
-  * 미국·유럽 등 해외 허가. 유럽은 APOE ε4 비보유자·이형접합자로 적응증이 제한됨. 국내는 품목허가 심사 중이며, 보도된 신청 적응증도 동일한 유전자형으로 제한됨(2026년 10월 기준) <mark style="color:blue;">\[키썬라]</mark>
+  * 미국·유럽 등 해외 허가. 유럽은 APOE ε4 비보유자·이형접합자로 적응증이 제한됨. 국내 최신 품목허가 여부·적응증·유전자형 제한은 식약처 품목정보로 별도 확인 <mark style="color:blue;">\[키썬라]</mark>
   * 부작용 : TRAILBLAZER-ALZ 2에서 ARIA-E 약 24%, ARIA-H 약 31% 발생
 
 <mark style="color:cyan;">**항아밀로이드 치료 공통 주의사항**</mark>
 
 * 혈액 바이오마커는 보조·분류(triage) 검사로 활용할 수 있으나 양성만으로 치료하지 않음
   * 국내 lecanemab 치료 전 amyloid PET 또는 CSF 검사로 Aβ 병리를 확인
-* 치료 전 APOE ε4 유전자검사를 강하게 권고하여 ARIA 위험 설명과 공동 의사결정에 활용
-  * 검사 전후 상담이 필요하며 유전자검사 자체가 모든 허가체계에서 절대적 투여 필수조건인 것은 아님
+* 레켐비 허가사항은 치료 시작 전 APOE ε4 상태 검사를 하도록 명시함. 검사 전 유전자형별 ARIA 위험과 결과의 의미를 설명하고 공동 의사결정에 활용
 * 최근의 적절한 MRI로 미세출혈·표재성 철침착·거대출혈 등 기저 위험을 평가
-  * 국내 허가사항과 국내 사용지침의 일정을 우선 적용하고, FDA는 2025년 8월 lecanemab에 기저 MRI＋제3·5·7·14회 투여 전 MRI를 권고함
+  * 현재 레켐비 허가사항: 치료 전 최근 1년 이내 MRI와 제3·5·7·14회 투여 전 MRI 확인; 증상 발생 시 예정 일정과 무관하게 추가 평가
 * 예정된 일정과 관계없이 두통, 혼돈, 시각 이상, 어지럼, 보행장애, 경련 또는 새 국소신경학적 결손이 발생하면 즉시 임상평가와 MRI 고려
 * 항응고제 및 혈전용해제는 특히 뇌출혈 위험이 우려됨. 항혈소판제는 약제 수, 적응증과 기저 MRI 소견을 함께 개별 평가하고 항응고제와 같은 수준의 위험으로 일괄 기술하지 않음
 * 일차 의료에서 직접 처방 대상 아님 - 신경과 또는 정신건강의학과 전문의 평가 후 시행
@@ -627,7 +618,7 @@ flowchart TD
 * 주의: 치매 관련 정신행동 증상 환자에서 항정신병제 사용 시 뇌졸중 및 사망 위험이 유의하게 증가함
   * 처방 전 환자·보호자에게 반드시 고지할 것
 * BPSD에 대한 항정신병제 사용은 대부분 허가 외 사용임. 다만 risperidone은 중등도\~중증 알츠하이머형 치매 환자의 초조·공격성 또는 정신병 증상에 대한 단기치료(6주까지) 적응증이 있음
-* 최소 유효 용량·최단 기간 사용. 적정 용량 4주 사용 후 의미 있는 반응이 없으면 감량·중단하고, 반응이 있더라도 시작 후 4개월 이내 감량·중단을 시도(이전 중단 시 재발 이력이 있으면 예외) <mark style="color:$info;">\[APA 2016]</mark>
+* 최소 유효 용량·최단 기간 사용. 시작 초기 안전성을 확인하고 적어도 6주마다 필요성을 재평가. 적정 용량 4주 사용 후 의미 있는 반응이 없으면 감량·중단하고, 반응이 있더라도 시작 후 4개월 이내 감량·중단을 시도(이전 중단 시 재발 이력이 있으면 예외) <mark style="color:$info;">\[APA 2016]</mark>
 * 루이소체치매에서는 항정신병제 사용에 주의
 
 #### <mark style="color:$primary;">Atypical antipsychotics</mark>
@@ -635,18 +626,18 @@ flowchart TD
 * 장점 : 추체외로 부작용 위험이 보다 낮음
 * 단점 : 뇌졸중 위험 증가; 체중 증가, 당뇨병 환자에서 고혈당과 관련
 * 주의 : 혈관 위험이 있는 환자에서 주의 사용
-* 용법 : 저용량으로 시작, 1주 간격 조정. 수면 효과를 감안하여 취침 시 투여
-* quetiapine : 12.5\~25 ㎎ hs로 시작하여 반응과 내약성에 따라 신중히 조정 <mark style="color:blue;">\[쎄로켈]</mark>
-* aripiprazole : 2 ㎎/d로 시작, 5\~10 ㎎/d <mark style="color:blue;">\[아빌리파이]</mark>
+* 용법 : 저용량으로 시작하고 증상·내약성에 따라 조정. 투여 시각과 분할 횟수는 약제별로 정하며, aripiprazole처럼 활성화·불면을 유발할 수 있는 약을 모두 취침 시로 고정하지 않음
+* quetiapine : 12.5\~25 ㎎ hs로 시작하여 반응과 내약성에 따라 신중히 조정 <mark style="color:blue;">[쎄로켈](https://health.kr/drug/A11AGGGGA5276)</mark>
+* aripiprazole : 2 ㎎/d로 시작, [5](https://health.kr/drug/A11AOOOOO5484)\~[10](https://www.health.kr/drug/A11AOOOOO0681) ㎎/d <mark style="color:blue;">[아빌리파이](https://www.health.kr/drug/A11AKP08K0192)</mark>
 * brexpiprazole : AD 치매 관련 초조에 FDA 승인(2023년); 2026년 9월 현재 국내 시판 제품 없음
-* olanzapine : 2.5\~10 ㎎/d hs <mark style="color:blue;">\[자이프렉사]</mark>; 항콜린 부담이 있으므로 인지 저하·변비·배뇨 장애 악화에 주의
-* risperidone : 0.25\~2 ㎎/d hs <mark style="color:blue;">\[리스페달]</mark>; 허가 적응증의 투여기간은 6주까지
+* olanzapine : 2.5\~[10](https://www.health.kr/drug/2024032800003) ㎎/d hs <mark style="color:blue;">[자이프렉사](https://www.health.kr/drug/2024032800001)</mark>; 항콜린 부담이 있으므로 인지 저하·변비·배뇨 장애 악화에 주의
+* risperidone : 0.25 ㎎ bid 시작 → 필요 시 최소 2일 간격으로 1회 0.25 ㎎씩 조절; 통상 [0.5](https://www.health.kr/drug/2021032900023) ㎎ bid, 일부 1 ㎎ bid. 유지용량 확립 후 qd 전환 고려 <mark style="color:blue;">[리스페달](https://www.health.kr/drug/2021032900022)</mark>; 허가 적응증의 투여기간은 6주까지
 
 #### <mark style="color:$primary;">Typical antipsychotics</mark>
 
 * haloperidol은 급성의 심한 공격성 등에 제한적 효과가 있을 수 있으나 추체외로 증상, QT 연장과 사망 위험 때문에 일상적 BPSD 치료로 사용하지 않음
 * 불가피하면 저용량·단기 사용으로 제한하며 DLB에서는 강력히 회피
-* haloperidol : 0.5\~2 ㎎/d <mark style="color:blue;">\[페리돌]</mark>
+* haloperidol : 0.5\~2 ㎎/d <mark style="color:blue;">[페리돌](https://www.health.kr/drug/A11A0970A0131)</mark>
 
 ### <mark style="color:orange;">항경련제와 BPSD(Behavioral & psychological symptoms of dementia)</mark>
 
@@ -663,10 +654,10 @@ flowchart TD
   * 중등도 이상 우울이나 뚜렷한 불안에서 선택적으로 사용
 * 부작용 : 구역/구토, 흥분, 파킨슨 작용, 성 기능 저하; 고령자에서는 저나트륨혈증, 낙상, 출혈 위험(항혈소판제·항응고제 병용 시)에 주의
 * 1차 선택 : 저용량 SSRI
-  * citalopram : 치매 관련 초조에 대한 RCT(CitAD) 근거가 있으나 국내 유통 제품 없음
-  * escitalopram : 고령자 5 ㎎/d로 시작, 1일 최대 10 ㎎ <mark style="color:blue;">\[렉사프로]</mark>
-  * sertraline : 고령자 25 ㎎/d로 시작, 통상 50\~100 ㎎/d <mark style="color:blue;">\[졸로푸트]</mark>
-  * venlafaxine (SNRI) : 37.5\~225 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
+  * citalopram : 치매 관련 초조에 대한 RCT(CitAD) 근거가 있으나 고용량의 QT 연장·인지 악화 위험이 있고, 국내 유통 제품 없음
+  * escitalopram : 고령자 5 ㎎/d로 시작, 1일 최대 [10](https://www.health.kr/drug/A11AOOOOO5474) ㎎ <mark style="color:blue;">[렉사프로](https://health.kr/drug/A11AOOOOO5475)</mark>
+  * sertraline : 고령자 25 ㎎/d로 시작, 통상 50\~[100](https://www.health.kr/drug/2010122700001) ㎎/d <mark style="color:blue;">[졸로푸트](https://health.kr/drug/A11A0310A0239)</mark>
+  * venlafaxine (SNRI) : 37.5\~225 ㎎/d <mark style="color:blue;">[이팩사](https://health.kr/drug/A11ADDDDD0700)</mark>
 * paroxetine과 TCA는 항콜린 부작용 문제로 피함
 
 ### <mark style="color:orange;">항불안제</mark>
@@ -675,21 +666,21 @@ flowchart TD
 * 비약물 중재와 원인 교정이 우선이며 benzodiazepine은 원칙적으로 회피. 다른 접근이 어렵고 급성의 심한 불안에 불가피하면 저용량·최단기간으로 제한함
 * 단시간 작용제도 장시간 작용제보다 낙상·인지저하·섬망 측면에서 안전하지 않으며, 장기 투여 시 행동 이상과 의존·금단 위험을 함께 평가함
 * 장기 사용 주의 : benzodiazepine 장기 투여는 치매 발생 위험 증가와 관련될 수 있으며, 낙상·섬망·인지저하 위험을 높임; 최소 용량·최단 기간 원칙 준수, 가능하면 비약물 접근 우선
-* lorazepam : 0.25\~0.5 ㎎ 필요시, 단기 사용 <mark style="color:blue;">\[아티반]</mark>
+* lorazepam : 0.25\~0.5 ㎎ 필요시, 단기 사용 <mark style="color:blue;">[아티반](https://health.kr/drug/A11ABBBBB0914)</mark>
 
 ### <mark style="color:orange;">수면 유도</mark>
 
 * 치매 환자의 수면 장애는 비약물 치료(환경 구조화, 빛 치료, 수면 위생)를 먼저 시도; 약물은 보조적으로 사용 (☞ 상세 용법·용량은 [불면증](029_-insomnia-sleep-disorder.md#management) 참조)
 * lemborexant : 국내 첫 DORA(dual orexin receptor antagonist) 계열
-  * 5 ㎎ 취침 직전, 필요시 최대 10 ㎎ <mark style="color:blue;">\[데이비고]</mark> (비급여)
-  * 치매 환자 대상 근거는 제한적
+  * 5 ㎎ 취침 직전(기상까지 ≥7시간 확보), 필요시 최대 [10](https://www.health.kr/drug/2026062400008) ㎎ <mark style="color:blue;">[데이비고](https://www.health.kr/drug/2026062400007)</mark> (비급여)
+  * 치매 환자 대상 근거는 제한적; 기면증 금기, 중등도 간장애 최대 5 ㎎, 강력·중등도 CYP3A 억제제/유도제 병용 회피; 다음 날 졸림·낙상 확인
   * ✽suvorexant는 경도\~중등도 AD 환자 불면 RCT 근거가 있으나 국내 미허가
 * trazodone : 치매 환자의 수면에 대한 근거는 소규모 연구에 그치며, 만성 불면증 단독 치료의 통상적 1차 약제로 권하지 않음. 선택적으로 사용하더라도 진정·기립저혈압·낙상 위험과 실제 이득을 재평가
-  * 25\~100 ㎎ <mark style="color:blue;">\[트리티코]</mark>
+  * 25\~100 ㎎ <mark style="color:blue;">[트리티코](https://www.health.kr/drug/A11A0300A0250)</mark>
 * mirtazapine : 우울증 치료 적응증이 있으면서 식욕저하·체중감소 또는 불면이 동반된 경우 선택할 수 있으나, 단순 식욕촉진 또는 치매 관련 불면만을 위한 표준 치료로 권고할 근거는 부족
-  * 7.5\~15 ㎎ <mark style="color:blue;">\[레메론]</mark>
+  * 7.5\~15 ㎎ <mark style="color:blue;">[레메론](https://www.health.kr/drug/A11ABBBBB1118)</mark>
 * zolpidem : 치매·고령 환자에서는 낙상·섬망 위험 때문에 원칙적으로 회피하며, 비약물 접근과 대안을 검토한 뒤 불가피한 경우만 최저용량·최단기간 사용
-  * 고령자는 5 ㎎ hs로 제한하고 원칙적으로 증량하지 않음. 치료기간과 감량 계획은 「불면증」(029장) 참조 <mark style="color:blue;">\[스틸녹스]</mark>
+  * 고령자는 5 ㎎ hs로 제한하고 원칙적으로 증량하지 않음. 치료기간과 감량 계획은 「불면증」(029장) 참조 <mark style="color:blue;">[스틸녹스](https://www.health.kr/drug/A11ADDDDD0794)</mark>
 * benzodiazepine : 주간 진정, 내성, 반동성 불면, 인지저하, 낙상, 섬망 등의 위험이 있음 (회피)
 * diphenhydramine : 인지 기능에 대한 나쁜 영향, 남성 배뇨 장애를 유발할 수 있음 (회피)
 
@@ -715,45 +706,59 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 > **처방례 1.** 알츠하이머 치매 - 경증, 초기 치료
 >
 > ```
-> 아리셉트 5 ㎎/T  1T  qd  취침 전  (4~6주)
-> → 4~6주 후 10 ㎎/T  1T  qd 로 증량 고려
-> ※ 2~4주 후 효과 및 부작용(구역, 설사, 악몽, 서맥) 평가
+> 아리셉트정 5 ㎎/T  1T  qd  취침 전  (4~6주)
+> → 4~6주 후 아리셉트정 10 ㎎/T  1T  qd 로 증량 고려
+> ※ 2~4주 후 초기 안전성(구역, 설사, 악몽, 서맥) 평가
+> ※ 저체중 85세 이상 여성은 1일 5 ㎎을 넘지 않음; 악몽·불면이 있으면 아침 복용 고려
 > ※ 초기에는 부작용·맥박·체중·순응도를 평가하고, 충분한 치료 후 인지·일상기능·행동을 종합 평가
 > ※ 명백한 호전이 없다는 이유만으로 자동 중단하지 않으며, 중단 시 점진 감량 후 악화 여부 관찰
 > ※ 안정 후 매 3~6개월 추적
 > ```
+>
+> 약제 정보: [아리셉트정·5 ㎎](https://www.health.kr/drug/A11ABBBBB0292) · [아리셉트정·10 ㎎](https://health.kr/drug/A11ADDDDD0063)
 
 > **처방례 2.** 알츠하이머 치매 - 중등도\~중증 (ChEIs + memantine 병용)
 >
 > ```
-> 아리셉트 10 ㎎/T  1T  qd  취침 전
-> 에빅사 20 ㎎/T  1T  qd  (시작 5 ㎎/d → 1주마다 5 ㎎씩 증량 → 넷째 주부터 20 ㎎ qd)
+> 아리셉트정 10 ㎎/T  1T  qd  취침 전
+> 에빅사정 20 ㎎/T  1T  qd  (시작 5 ㎎/d → 1주마다 5 ㎎씩 증량 → 넷째 주부터 20 ㎎ qd)
 > ※ 급여 대상: 알츠하이머형(뇌혈관 질환 동반 포함) 중등도~중증 치매로 MMSE ≤20점이면서 전반 CDR 2~3 또는 GDS 4~7 (최신 고시 및 병용 약제별 급여기준 확인)
 > ※ ChEI 단독 효과가 불충분하여 병용하더라도 급여기준을 충족하지 않으면 약값 전액을 환자가 부담할 수 있음을 설명
-> ※ 부작용 (어지럼, 혼돈) 모니터링
+> ※ 위 아리셉트정 10 ㎎은 이미 증량·유지 중인 환자의 예이며 처음부터 10 ㎎으로 시작하지 않음
+> ※ 에빅사 5~15 ㎎ 증량 단계에는 분할 가능한 10 ㎎ 정제를 사용하며, 20 ㎎ 정제를 임의 분할하여 시작하지 않음
+> ※ 부작용 (어지럼, 혼돈, 변비) 모니터링
 > ※ CrCl 30~49 ㎖/min: 10 ㎎/d로 감량하고 최소 7일 후 내약성이 좋으면 표준 증량법에 따라 20 ㎎/d까지 고려; CrCl 5~29 ㎖/min: 최대 10 ㎎/d
 > ※ CrCl ＜5 ㎖/min 및 중증 간장애는 에빅사 투여 금기
 > ```
+>
+> 약제 정보: [아리셉트정·10 ㎎](https://health.kr/drug/A11ADDDDD0063) · [에빅사정·10 ㎎](https://www.health.kr/drug/A11AOOOOO2372) · [에빅사정·20 ㎎](https://health.kr/drug/2021111100001)
 
 > **처방례 3.** 치매 - 행동심리증상(BPSD) 동반 시 (초조/공격성)
 >
 > ```
-> 쎄로켈 25 ㎎/T  0.5T  hs  (→ 1주 간격으로 반응 보며 조정)
+> 쎄로켈정 25 ㎎/T  0.5T  hs  (→ 1주 간격으로 반응 보며 조정)
 > ※ 저용량 시작, 최소 유효 용량으로 단기 사용
 > ※ 부작용 (진정, 낙상, 추체외로 증상, 사망률 증가) 모니터링
 > ※ quetiapine의 BPSD 사용은 허가 외이며, 사망률 증가 위험을 보호자에게 고지하고 기록
 > ※ 루이소체치매에서는 haloperidol 등 전형적 항정신병제를 강력히 회피
-> ※ 가능한 비약물 치료(환경 조정, 음악 요법) 우선 시도
+> ※ 경미한 초조·배회·단순 불면에는 사용하지 않음; 자·타해 위험 또는 심한 고통이 지속될 때만 고려
+> ※ 수일~1주 내 진정·기립혈압·낙상 확인, 적정 용량 4주 무반응이면 감량·중단; 적어도 6주마다 필요성 재평가
+> ※ 비약물 치료 병행. DLB·PDD에서는 이 약도 과민반응 위험이 있으므로 전문의 판단 필요
 > ```
+>
+> 약제 정보: [쎄로켈정·25 ㎎](https://health.kr/drug/A11AGGGGA5276)
 
 > **처방례 4.** 치매 - 우울/불안 동반 시
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  (2주 후 내약성 평가; 필요시 10 ㎎ qd까지 증량)
+> 렉사프로정 5 ㎎/T  1T  qd  (2주 후 내약성 평가; 필요시 10 ㎎ qd까지 증량)
 > ※ paroxetine, TCA는 항콜린 부작용으로 회피
 > ※ 4~6주 후 효과 평가; 치매에서의 효과는 제한적
-> ※ 고령자 1일 최대 10 ㎎
+> ※ 고령자 1일 최대 10 ㎎; 간장애·CYP2C19 저대사자는 처음 2주 5 ㎎/d 후 최대 10 ㎎/d
+> ※ 단순 초조에 대한 일률 처방이 아니라 우울·불안의 진단과 중증도를 평가; Na·낙상·출혈·QT 연장 및 병용금기 확인
 > ```
+>
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475) · [렉사프로정·10 ㎎](https://www.health.kr/drug/A11AOOOOO5474)
 
 > **처방례 5.** 조기 알츠하이머병 - lecanemab 치료 적격성 평가 및 의뢰
 >
@@ -762,22 +767,29 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 > → 객관적 인지·기능 평가 및 구조 MRI
 > → amyloid PET 또는 CSF로 Aβ 병리 확인
 > → 항응고제·출혈 위험, 기저 미세출혈·표재성 철침착 등 점검
-> → APOE ε4 검사 전후 상담 및 ARIA 위험 공동 의사결정
+> → 치료 전 APOE ε4 검사와 검사 전후 상담 및 ARIA 위험 공동 의사결정
+> → 치료 전 MRI 및 제3·5·7·14회 투여 전 MRI 일정 확인
 > → 항아밀로이드 치료 경험과 MRI·응급대응 역량을 갖춘 전문기관 의뢰
 > ※ 레켐비는 건강보험 비급여이며 1차 의료기관에서 직접 시작하는 일반 처방례가 아님
 > ※ 투여 중 새 두통·혼돈·시각 이상·보행장애·경련·국소신경학적 결손 발생 시 ARIA를 의심하여 즉시 평가
 > ```
+>
+> 약제 정보: [레켐비주·100 ㎎/㎖](https://www.health.kr/drug/2024052700001)
 
-> **처방례 6.** 경구 ChEI 위장관 불내성 또는 파킨슨병 치매 - 패취 전환
+> **처방례 6.** 경구 ChEI 불내성 또는 파킨슨병 치매 - rivastigmine 패취 시작·전환
 >
 > ```
-> 엑셀론 패취 5 (4.6 ㎎/24 h)  1매  qd
-> → 최소 4주 후 엑셀론 패취 10 (9.5 ㎎/24 h)  1매  qd 로 증량 고려
+> 엑셀론패취5 (총 함량 9 ㎎/매, 방출량 4.6 ㎎/24 h)  1매  qd
+> → 최소 4주 후 엑셀론패취10 (총 함량 18 ㎎/매, 방출량 9.5 ㎎/24 h)  1매  qd 로 증량 고려
 > ※ 1일 1회 같은 시간에 1매만 부착, 새 패취 부착 전 이전 패취를 반드시 제거
 > ※ 부착 부위(등 위쪽, 상완, 가슴)를 매일 바꾸어 피부 자극 예방
-> ※ 3일 이상 중단 후 재개 시 최저 용량부터 다시 시작
+> ※ 3일 이상 중단했다면 재개 전 의료진에게 연락하고 최저 용량부터 재적정
+> ※ 경구 rivastigmine에서 전환 시 1일 ＜6 ㎎은 패취5, 6~12 ㎎은 내약성에 따라 패취10 고려; 마지막 경구 투여 다음 날 부착
+> ※ 다른 ChEI에서 전환은 약제별로 개별화; 패취는 자르지 않고 찜질팩·전기장판·사우나 등 직접 열 노출 회피
 > ※ rivastigmine은 파킨슨병 치매 적응증 국내 허가; DLB는 허가 외
 > ```
+>
+> 약제 정보: [엑셀론패취5·9 ㎎/매](https://www.health.kr/drug/A11AKP08F0803) · [엑셀론패취10·18 ㎎/매](https://www.health.kr/drug/A11AKP08F0800)
 
 ***
 
@@ -789,8 +801,11 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 > * 약을 복용한 후 구역, 설사, 식욕 감소, 악몽이 생길 수 있습니다. 위장 증상이 지속되면 식사와 함께 복용하거나 증량 속도·제형을 조정할 수 있으므로 의사와 상의하십시오.
 > * **서맥(맥박이 느려짐) 주의** : 심장 전도 장애나 기립성 저혈압이 있는 환자에서는 실신 위험이 있으므로, 복약 초기에 맥박을 주기적으로 확인하십시오(분당 50회 미만 또는 실신 증상 시 즉시 내원).
 > * **식욕 부진·체중 감소** : 위장 장애로 인한 체중 감소가 심할 경우, 약을 저녁 식후에 복용하거나 패취(피부에 붙이는 약)로 변경을 고려할 수 있음을 의사와 상의하십시오.
-> * 갑자기 약을 중단하지 마시고, 증상 변화가 있으면 의사에게 알려주세요.
-> * **패취 사용 시** : 정해진 간격에 한 장만 붙이고, 새 패취를 붙이기 전 이전 패취를 반드시 떼십시오. 부착 부위는 매번 바꾸십시오. 두 장이 붙어 있으면 과량 투여가 될 수 있습니다.
+> * 임의로 약을 끊거나 두 배로 보충하지 마십시오. 며칠 이상 복용을 중단했다면 원래 용량으로 다시 시작하기 전에 의료진에게 연락하십시오. 특히 엑셀론은 낮은 용량부터 다시 시작해야 할 수 있습니다.
+> * 에빅사는 처음에는 낮은 용량으로 시작해 주 단위로 늘립니다. 신장기능에 따라 유지용량이 달라지므로 처방된 증량표를 따르십시오.
+> * 쎄로켈 등 항정신병제는 심한 행동 증상에 제한적으로 사용하며 뇌졸중·사망 위험이 증가할 수 있습니다. 심한 졸림·낙상·삼킴곤란은 즉시 알리고, 고열·근육 경직·의식 저하는 119를 부르십시오.
+> * **패취 사용 시** : 엑셀론은 매일, 도네리온은 주 2회(3일·4일 간격 교대) 교체합니다. 한 번에 한 장만 붙이고 새 패취 전에 이전 것을 떼십시오. 자르거나 붙인 부위에 찜질팩을 대지 마십시오. 부착 부위는 매번 바꾸십시오. 두 장이 붙어 있으면 과량 투여가 될 수 있습니다.
+> * **레켐비 치료 시** : 치료 전과 제3·5·7·14회 투여 전 MRI 일정을 지키십시오. 응급실 진료나 항응고제·항혈소판제 처방 때 치료 중임을 알리십시오. 주입 중 호흡곤란·목/얼굴 부종·전신 두드러기는 즉시 의료진에게 알리십시오.
 > * 감기약, 수면유도제, 멀미약 등 일반의약품 중 항콜린 성분은 인지 기능을 떨어뜨릴 수 있으므로 복용 전 의사·약사와 상의하십시오.
 > * 환자를 돌보는 가족도 정기적으로 건강을 챙기고, 필요하면 전문 상담을 받으시기 바랍니다.
 
@@ -800,7 +815,7 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 > * 환각, 심한 초조, 공격적 행동이 새로 나타난 경우
 > * 낙상이나 보행 장애가 생긴 경우
 > * 약물 부작용이 의심되는 경우(심한 구역, 서맥, 실신 등)
-> * 레켐비 투여 중 두통, 혼돈, 시각 이상, 어지럼, 보행 이상이 생긴 경우 - 즉시 연락
+> * 레켐비 투여 중 새 두통·혼돈·시각 이상·어지럼·보행 이상은 즉시 치료 병원에 연락하십시오. 한쪽 마비·언어장애·발작·의식 저하·갑작스러운 심한 두통은 119를 부르십시오.
 
 ***
 
@@ -829,6 +844,10 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
+* [심평원. Donepezil 경구제 허가사항 변경 안내. 2019-07-26.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=7440&brdScnBltNo=4&pgmid=HIRAA020002000100) - 2019-07-21 혈관성 치매 적응증 삭제
+* [레켐비 현행 품목허가정보.](https://www.health.kr/drug/2024052700001) - APOE 검사·MRI 일정 및 ARIA 관리
+* [엑셀론패취5 현행 품목허가정보.](https://www.health.kr/drug/A11AKP08F0803) - 적응증별 증량·중단 후 재개와 경구제 전환
+
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성; memantine의 CrCl별 용량과 중증 간장애·CrCl ＜5 투여 금기를 구분
 * [건강보험심사평가원. Donepezil 경구제·패취제 급여기준. 고시 제2025-73호 (2025-05-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501&mtgMtrRegSno=0003&sno=2) - donepezil의 진단·평가 점수·추적 및 병용 급여 조건; 다른 치매 약제는 각각의 현행 기준 확인 (확인일 2026-10-11)
 * [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
@@ -849,13 +868,13 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 
 #### <mark style="color:$primary;">치매란 무엇인가요?</mark>
 
-* 기억력을 포함한 여러 인지 기능이 서서히 나빠져 일상생활에 지장을 주는 상태입니다.
+* 기억력·언어·판단력 등 인지 기능의 하나 이상이 저하되어 독립적인 일상생활이 어려워진 상태입니다. 경과와 증상은 원인에 따라 다릅니다.
 * 알츠하이머병이 가장 흔한 원인(약 60\~80%)이며, 고령에서는 알츠하이머병과 뇌혈관 손상이 함께 있는 경우가 흔합니다. 그 외에 혈관성 치매, 루이소체치매 등 다양한 종류가 있습니다.
-* 최근 조기 알츠하이머병에 대한 새로운 치료제(항아밀로이드 주사제)가 개발되어 전문의 평가 후 사용할 수 있습니다. 다만 대상이 제한적이고 건강보험이 적용되지 않습니다.
+* 최근 조기 알츠하이머병에 대한 새로운 치료제(항아밀로이드 주사제)가 개발되어 전문의 평가 후 사용할 수 있습니다. 다만 대상이 제한적이고 비용·건강보험 적용 여부를 치료 전에 확인해야 합니다.
 
 #### <mark style="color:$primary;">가장 중요한 생활 관리</mark>
 
-* **규칙적인 운동** : 빠르게 걷기 등 중간 강도 운동을 주 150분 이상(예: 하루 30분, 주 5일) 하십시오.
+* **규칙적인 운동** : 심장·관절 상태, 낙상 위험과 치매 정도에 맞는 걷기·근력·균형운동을 보호자와 안전하게 하십시오. 가능하면 중간 강도 활동을 주 150분 정도 목표로 하되 현재 가능한 양에서 조절합니다.
 * **인지 자극 활동** : 독서, 퍼즐, 새로운 취미 활동, 사회 모임 참여를 꾸준히 하십시오.
 * **혈압·혈당·콜레스테롤 관리** : 혈관 건강이 뇌 건강에 직결됩니다.
 * **균형 잡힌 식사** : 채소, 생선, 통곡물 위주의 식사는 혈관 건강에 도움이 됩니다. 특정 식단만으로 치매를 예방한다는 근거는 아직 확실하지 않습니다.
@@ -885,3 +904,9 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 * 걸음걸이가 불안정해지거나 자주 넘어질 때
 * 식사량이 크게 줄거나 삼킬 때 자주 사레가 들릴 때
 * 약 복용 후 구역, 어지럼이 계속될 때
+
+#### <mark style="color:$primary;">약은 보호자와 함께 확인하세요</mark>
+
+* 복용표·약통을 활용해 중복이나 누락을 확인하고, 잊었다고 한 번에 두 배로 주지 마십시오. 며칠 끊었다면 재개 전에 의료진에게 알리십시오.
+* 붙이는 약은 엑셀론(매일)과 도네리온(주 2회)의 교체 간격이 다릅니다. 새 약을 붙이기 전 이전 약을 떼고 한 장만 붙이십시오.
+* 레켐비 치료 중에는 정기 MRI를 빠뜨리지 마십시오. 새 두통·혼돈·시야·보행 이상은 즉시 치료 병원에 알리고, 마비·언어장애·발작·의식 저하는 119를 부르십시오.

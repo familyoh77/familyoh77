@@ -7,12 +7,12 @@
 * 산후우울증(postpartum depression) : 출산 후 나타나는 주요우울삽화
   * 진단 기준은 일반 [주요우울장애](027_-depression.md)와 동일하지만, 양육 능력에 대한 과도한 의심, 영아에 대한 관심 저하, 영아 관련 침습적 사고 등에 유의
 * 주산기 우울 증상 빈도 : 약 10\~20%(선별검사 기준, 역치하 증상 포함); 연구 대상·시점·선별 기준에 따라 다름
-  * [아버지·공동양육자](028_-postpartum-depression.md#undefined-19)에서도 임상적으로 유의한 주산기 우울 증상이 약 8\~10%에서 보고되며, 산모의 우울증과 밀접하게 연관됨
+  * [아버지·공동양육자](028_-postpartum-depression.md#partner-depression)에서도 임상적으로 유의한 주산기 우울 증상이 약 8\~10%에서 보고되며, 산모의 우울증과 밀접하게 연관됨
 
 #### <mark style="color:$primary;">신체 증상 중심의 산후우울증 (Somatic presentation of postpartum depression)</mark>
 
 * "좋은 엄마는 행복해야 한다"는 사회적 기대로 인해 우울 감정을 숨기고 요통, 두통, 만성 피로 등 신체 증상을 주로 호소할 수 있음
-* 과거에는 가면 우울증(masked depression)으로 불림
+* 과거 가면우울증(masked depression)으로 표현하기도 했으나 DSM-5-TR의 공식 진단명은 아님
 * 신체 증상이 반복되거나 기질적 원인이 불명확한 경우 선별검사를 적극 시행할 것
 
 #### <mark style="color:$primary;">산후우울기분 (Postpartum blues)</mark>
@@ -92,7 +92,7 @@
 * 출산 후 급격히 발생한 환청·망상, 조증·혼재성 증상, 심한 혼란·긴장증·와해 행동 (대개 출산 후 2주 이내, 4주 이후에도 가능) `산후 정신증` `양극성장애`
 * 정신 증상과 함께 의식 변화·경련·심한 두통·시야 이상·발열 동반 `산후 자간증` `뇌정맥동혈전증` `섬망`
 
-> ¹⁾_아기를 다치게 할까 봐 두려운 자아이질적 침습적 사고와 구별 필요; 침습적 사고는 즉각 조치 대상이 아니나 면밀한 평가와 지지 필요_
+> ¹⁾_아기를 다치게 할까 봐 두려운 자아이질적 침습적 사고와 구별 필요; 보존된 현실검증력 아래 실제 의도·계획이 없는 자아이질적 침습적 사고만으로 일률적으로 응급이송하지는 않으나, 안전을 확인하고 OCD·우울증을 평가_
 
 {% hint style="info" %}
 **실무 경로** : 산모를 혼자 보내지 않고 보호자가 동행하도록 하며, 포괄적 위험 평가 전까지 영아·다른 자녀와 단둘이 두지 않음. 즉각적 위해 가능성이 있으면 119를 통해 응급실로 이송하고 정신건강의학과 응급·입원 평가를 요청함
@@ -102,10 +102,10 @@
 
 * 자살 사고는 있으나 구체적 계획이 없거나 EPDS 10번 문항 1점 이상 - 당일 자살위험 면담 후 긴급도 결정
 * 우울 증상과 함께 초조·과민·수면욕구 감소·사고 비약 동반 [`혼재성 양상`](027_-depression.md#dsm-5-tr-specifiers) `양극성장애`
-* 조증·경조증 과거력 또는 양극성장애·산후 정신증 가족력이 있는 산후 우울 삽화²⁾ [`양극성 우울증`](027_-depression.md#undefined-10)
-* 극도의 무기력으로 영아 돌봄 불가·방치 위험, 또는 섭식·수분 섭취 불가 `중증 우울삽화`
+* 조증·경조증 과거력 또는 양극성장애·산후 정신증 가족력이 있는 산후 우울 삽화²⁾ [`양극성 우울증`](027_-depression.md#bipolar-screen)
+* 극도의 무기력으로 영아 돌봄 불가·방치 위험 또는 섭식·수분 섭취 현저한 저하 : 당일 평가. 섭취 불가로 탈수·신체 악화가 있으면 즉각 조치 `중증 우울삽화`
 * 현재 진행 중인 친밀한 파트너 폭력 또는 아동 안전 우려
-* 항우울제 복용 중 수유 영아의 과도한 졸림·수유 불량·체중 증가 불량
+* 항우울제 복용 중 수유 영아의 과도한 졸림·수유 불량·체중 증가 불량 : 당일 소아청소년과 평가. 깨우기 어렵거나 호흡 이상·청색증이 있으면 즉각 응급 평가
 
 > ²⁾_다음 중 1개 이상 해당 시 항우울제 단독 투여 전 양극성장애 배제 필수 : ① 과거 짧은 수면에도 피로 없이 활력이 유지되고 활동성이 증가한 시기(조증·경조증) 경험 ② 산후 수일\~수주 내 급격한 발병 ③ 양극성장애 또는 산후 정신증의 개인력·가족력 ④ 항우울제 시작 후 초조·불면·충동성·혼재성 양상 출현_
 
@@ -149,6 +149,8 @@
 EPDS는 주산기 집단에서 널리 검증되었고 불안 관련 증상을 함께 포착하는 장점이 있음. PHQ-9도 실무적으로 사용할 수 있고 검사 특성은 대체로 비슷하므로, 동일한 검증 도구를 반복 사용하여 변화량을 추적하는 것이 중요함
 {% endhint %}
 
+<a id="edinburgh-postnatal-depression-scale-epds"></a>
+
 #### <mark style="color:$primary;">에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)</mark>
 
 * [10문항 자기보고식 척도](https://www.mentalhealth.or.kr/SelfTest/selftest_04.asp)
@@ -170,24 +172,28 @@ EPDS는 주산기 집단에서 널리 검증되었고 불안 관련 증상을 �
 
 ```mermaid
 flowchart TD
-    A(["EPDS·PHQ-9 선별 양성<br/>또는 임상적 의심"]) --> B["진단 면담<br/>자살·영아 위해·정신증 평가"]
-    B -->|"즉각 위험·정신증·조증"| C["영아 안전 확보<br/>응급 이송·입원 평가"]
-    B -->|"즉각 위험 없음"| D["양극성장애 배제<br/>중증도·기능·수유·<br/>과거 반응 평가"]
-    D -->|"경증"| E["CBT·IPT<br/>지지·수면·사회적 개입"]
-    D -->|"중등증"| F["심리치료 또는 항우울제<br/>필요시 병행"]
-    D -->|"중증 비정신병성"| G["항우울제+심리치료<br/>정신건강의학과 협진"]
-    E --> H["초기 1~2주, <br/>안정화 후 2~4주<br/>척도·기능·안전성 추적"]
+    A(["선별 양성 또는임상적 의심"]) --> B["진단 면담<br/>자살·영아 위해·정신증 평가"]
+    B --> Risk{"즉각 위험·정신증·조증?"}
+    Risk -- "예" --> C["산모·영아 안전 확보<br/>응급 이송·입원 평가"]
+    Risk -- "아니오" --> D["자살사고는 당일 위험평가·안전계획<br/>양극성·중증도·수유·과거 반응 확인"]
+    D --> Q{"임상적 중증도·기능 손상"}
+    Q -- "경증" --> E["CBT·IPT·지지<br/>수면·사회적 개입"]
+    Q -- "중등증" --> F["심리치료 또는 항우울제<br/>필요시 병행"]
+    Q -- "중증 비정신병성" --> G["항우울제+심리치료<br/>정신건강의학과 협진"]
+    E --> H["초기 1~2주·안정화 후 2~4주 추적<br/>18~25세·자살위험은 1주 이내"]
     F --> H
     G --> H
-    H -->|"호전"| J["관해 후 유지치료<br/>재발 예방"]
-    H -->|"반응 부족"| I["순응도·진단·동반 질환 재평가<br/>전환·병합·ECT 등 전문치료"]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style C fill:#F8D7DA,stroke:#C82333
-    style D fill:#fff9c4,stroke:#ffe082
-    style H fill:#fff9c4,stroke:#ffe082
-    style J fill:#E2F0D9,stroke:#5B8C3A
-
+    H --> R{"증상·기능·안전성 개선?"}
+    R -- "충분" --> J["관해 후 6~12개월 이상 유지<br/>재발 예방"]
+    R -- "불충분" --> I["순응도·진단·용량·기간 재평가<br/>전환·병행 또는 전문치료"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#c9a227
+    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    class A start
+    class Risk,Q,R decision
+    class C emergency
+    class E,F,G,H,J,I treatment
 ```
 
 <p align="center"><strong>주산기/산후 우울증 알고리듬</strong></p>
@@ -265,7 +271,7 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 현재 임신 중 SSRI 사용 여부는 질환의 중증도·재발 위험, 미치료 우울증의 위험 및 약물별 임신 안전성 자료를 바탕으로 개별 결정하며, 필요한 치료를 임의로 중단하지 않음
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">산모 일반 관리</mark>
 
@@ -320,7 +326,7 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 * venlafaxine·duloxetine 등 SNRI : 수유 자료가 sertraline·escitalopram보다 적어, 과거 효과가 확인된 경우의 유지를 우선 고려
 * 신생아 모니터링 : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
 
-<table><thead><tr><th width="210">항우울제</th><th width="135">시작 (㎎/d)</th><th width="185">주요우울장애 범위 (㎎/d)</th><th>비고</th></tr></thead><tbody><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25~50</td><td>50~200</td><td>새로 시작하는 경우 고려</td></tr><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td><td>새로 시작하는 경우 고려</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10~20</td><td>20~50</td><td>수유 중 영아 노출 낮음; 새로 시작 시 후순위</td></tr><tr><td>mirtazapine <mark style="color:blue;">[레메론]</mark></td><td>15</td><td>15~45</td><td>2차 선택; 진정·체중 증가</td></tr><tr><td>nortriptyline <mark style="color:blue;">[센시발]</mark></td><td>25</td><td>25~150</td><td>자살 위험이 있는 경우 주의</td></tr></tbody></table>
+<table><thead><tr><th width="210">항우울제</th><th width="135">시작 (㎎/d)</th><th width="185">주요우울장애 범위 (㎎/d)</th><th>비고</th></tr></thead><tbody><tr><td>sertraline <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0310A0239">졸로푸트</a>]</mark></td><td>25~50</td><td>50~200</td><td>새로 시작하는 경우 고려</td></tr><tr><td>escitalopram <mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO5475">렉사프로</a>]</mark></td><td>5~10</td><td>10~20</td><td>새로 시작하는 경우 고려</td></tr><tr><td>paroxetine <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0740A0377">세로자트</a>]</mark></td><td>10~20</td><td>20~50</td><td>수유 중 영아 노출 낮음; 새로 시작 시 후순위</td></tr><tr><td>mirtazapine <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB1118">레메론</a>]</mark></td><td>15</td><td>15~45</td><td>2차 선택; 진정·체중 증가</td></tr><tr><td>nortriptyline <mark style="color:blue;">[<a href="https://health.kr/drug/A11A1130A0033">센시발</a>]</mark></td><td>25</td><td>25~150</td><td>자살 위험이 있는 경우 주의</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Neuroactive Steroids (GABA-A 양성 조절제)</mark>
 
@@ -330,10 +336,11 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 
 * 경구 GABA-A 양성 조절제 (2023년 FDA, 2025년 영국·EU 승인, 국내 미허가)
 * 우울증이 임신 3분기 또는 산후 4주 이내 시작된 산후 12개월 이내 환자에서 고려하도록 권고 <mark style="color:$info;">\[ACOG 2026]</mark>
-* 50 ㎎ qd 저녁 지방 함유 식사와 함께 14일
+* 미국 허가 용법 : 50 ㎎ qd 저녁 지방 함유 식사와 함께 14일; 중추신경억제 증상이 있으면 40 ㎎ qd로 감량 고려
+  * 강력한 CYP3A4 억제제 병용, 중증 간장애 또는 중등도~중증 신장애(eGFR ＜60 ㎖/min/1.73 ㎡)는 30 ㎎ qd. CYP3A4 유도제 병용 회피; 음주·다른 진정제 병용에 따른 진정·호흡억제 주의
   * 임상시험에서 위약 대비 효과 차이가 3일째부터 관찰되기 시작(3일 내 효과를 보장하는 것은 아님)
 * 14일 치료 종료 후 약 4주까지 효과가 관찰되었으나, 그 이후의 장기 지속성과 반복 치료의 효과·안전성 자료는 제한적임
-* 모유 이행량은 낮게 보고되었으나 수유 영아의 임상 결과 자료는 제한적이므로 공동 결정이 필요함
+* 모유 이행량은 낮지만 영아 임상 결과 자료는 제한적임. 2026년 미국·영국 설명서는 수유의 이익, 산모의 치료 필요와 영아의 잠재적 위해를 함께 판단하도록 함. 모유 이행량만으로 안전성을 확정하지 않고 영아 상태·돌봄 지원을 포함하여 공동 결정
 * 복용 후 최소 12시간 운전 금지
 * 진정·어지럼으로 야간을 포함한 영아 돌봄이 어려울 수 있어 치료 중 돌볼 다른 보호자를 미리 확보함
 * 치료 중 및 종료 후 1주간 효과적인 피임 필요
@@ -365,10 +372,12 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 * 다음 임신 전 항우울제를 일률적으로 중단하거나 지속하지 않고, 특히 중증·재발성 우울증에서 중단 시 재발 위험이 증가할 수 있음을 설명하여 공동 결정함
 
 {% hint style="info" %}
-분만 직후 [esketamine](027_-depression.md#undefined-37) 0.2 ㎎/㎏ 단회 정맥 투여가 산전 우울 증상 산모의 산후 주요우울삽화를 줄였다는 RCT가 있으나(BMJ 2024), 단일 국가·단기 추적 연구로 표준 예방법은 아님
+분만 직후 [esketamine](027_-depression.md#esketamine) 0.2 ㎎/㎏ 단회 정맥 투여가 산전 우울 증상 산모의 산후 주요우울삽화를 줄였다는 RCT가 있으나(BMJ 2024), 단일 국가·단기 추적 연구로 표준 예방법은 아님
 {% endhint %}
 
 ***
+
+<a id="partner-depression"></a>
 
 ## <mark style="color:green;">배우자·공동양육자 우울증</mark>
 
@@ -431,40 +440,49 @@ F53은 출산 후 6주 이내 시작되고 다른 분류 기준을 충족하지 
 > **처방례 1.** 기본 - SSRI 단독 (모유 수유 산모)
 >
 > ```
-> 졸로푸트 50 ㎎/T  0.5T  qd  아침  7~14일
-> 이후 졸로푸트 50 ㎎/T  1T  qd  아침
-> ※ 모유 이행량 적음 - 수유 중 사용 가능; 영아 졸림·수유 장애 모니터링
-> ※ 약물 시작·변경 후 초기 1~2주 이내 추적, 안정화 후 2~4주 간격으로 조정(전화·원격 확인 병행 가능); 충분한 치료반응은 대개 4~8주에 평가
+> 졸로푸트정 50 ㎎/T  0.5T  qd  아침  7~14일
+> 이후 졸로푸트정 50 ㎎/T  1T  qd  아침
+> ※ 수유와 병행을 고려할 수 있으나 영아 상태·과거 치료반응을 함께 평가; 영아 졸림·수유 장애 모니터링
+> ※ 18~25세 또는 자살위험이 높으면 시작·증량 1주 이내 검토; 그 외는 초기 1~2주 이내 추적, 안정화 후 2~4주 간격으로 조정(전화·원격 확인 병행 가능); 충분한 치료반응은 대개 4~8주에 평가
 > ※ 관해 후 최소 6~12개월 유지; 중단 기간은 용량·복용기간·중단증상에 따라 개별화
 > ```
+> 약제 정보: [졸로푸트정·50 ㎎](https://health.kr/drug/A11A0310A0239)
+
 
 > **처방례 2.** 수면 장애 동반
 >
 > ```
-> 레메론 15 ㎎/T  1T  qd  취침 시
+> 레메론정 15 ㎎/T  1T  qd  취침 시
 > ※ 수면 개선 효과는 수일 내 나타날 수 있음; 항우울 효과는 2~4주 소요
 > ※ 졸림, 체중 증가 부작용 사전 설명
 > ※ 수유 중 자료가 sertraline·escitalopram보다 적고 산모 진정 가능성이 있어 2차 선택;
 >    SSRI 불내성이거나 불면·식욕저하가 두드러진 경우 고려, 영아 졸림·수유 상태 모니터링
 > ```
+> 약제 정보: [레메론정·15 ㎎](https://health.kr/drug/A11ABBBBB1118)
+
 
 > **처방례 3.** 불안 동반 또는 sertraline 대체
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  아침  7~14일
-> 이후 렉사프로 10 ㎎/T  1T  qd  아침
-> ※ 간기능 저하 시 10 ㎎/d 이하로 유지
-> ※ 모유 이행량 적음 - 수유 중 사용 가능
+> 렉사프로정 5 ㎎/T  1T  qd  아침  7~14일
+> 이후 렉사프로정 10 ㎎/T  1T  qd  아침
+> ※ 경증~중등도 간장애는 첫 2주 5 ㎎/d, 이후 반응에 따라 10 ㎎/d까지; 중증 간장애는 신중히 조절
+> ※ 수유와 병행을 고려할 수 있으나 영아 상태·과거 치료반응을 함께 평가
 > ```
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475) · [렉사프로정·10 ㎎](https://www.health.kr/drug/A11AOOOOO5474)
+
 
 > **처방례 4.** TCA 선택 시 (SSRI/SNRI 불내성, 만성 통증 동반)
 >
 > ```
-> 센시발 25 ㎎/T  1T  qd  취침 시
+> 센시발정 25 ㎎/T  1T  qd  취침 시  (저용량 시작 예)
+> → 내약성·우울 증상에 따라 치료용량으로 조절; 25 ㎎/d를 모든 환자의 유지용량으로 고정하지 않음
 > ※ TCA 계열은 과량 복용 시 치명적 - 자살 위험이 있는 경우 1차 선택 피함
 > ※ 항콜린성 부작용(입마름, 변비, 요 정체) 사전 설명
 > ※ 모유로 소량 분비 - 영아 모니터링 필요
 > ```
+> 약제 정보: [센시발정·25 ㎎](https://health.kr/drug/A11A1130A0033)
+
 
 _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성장애·정신증·치료저항성 여부와 수유·안전성을 평가하여 정신건강의학과 협진하에 결정함. quetiapine 25\~50 ㎎은 주로 진정 용량이므로 일반 산후우울증의 표준 증강 처방례로 제시하지 않음._
 
@@ -476,22 +494,23 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 >
 > * 항우울제는 복용 후 **2\~4주 후부터** 서서히 효과가 나타납니다. 처음에는 효과가 느껴지지 않더라도 임의로 중단하지 마십시오.
 > * 모유 수유 중에도 사용할 수 있는 항우울제가 있습니다. 약마다 모유 이행량과 영아 자료가 다르므로 담당 의사가 효과와 안전성을 함께 고려하여 선택합니다.
-> * 수유 중 복용하는 경우, 대개 모유를 짜서 버리거나 수유 시간을 따로 맞출 필요는 없습니다.
+> * 의료진이 수유와 병행하기로 선택한 항우울제는 대개 모유를 짜서 버리거나 수유 시간을 따로 맞출 필요가 없습니다. 약제가 바뀌면 수유 계획도 다시 확인하십시오.
 > * 임신 중 약을 복용했다면 분만 병원과 소아청소년과에 알려, 출생 후 아기 상태를 관찰받으십시오.
 > * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 **중단 증상**이 생길 수 있습니다.
-> * 아기에 대한 걱정이나 부정적인 생각이 드는 것은 산후우울증의 증상일 수 있습니다. 혼자 감추지 말고 담당 의사에게 솔직히 말씀해 주십시오.
+> * 복용 초기에 심한 초조·극심한 불면·충동성이 생기거나 잠을 거의 자지 않아도 지나치게 활발해지면 즉시 의료진에게 연락하십시오.
+> * 아기에 대한 걱정이나 부정적인 생각이 드는 것은 산후우울증·불안 또는 강박 증상일 수 있습니다. 혼자 감추지 말고 담당 의사에게 솔직히 말씀해 주십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 자해나 자살에 대한 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
+> * 자해나 자살 생각이 들면 당일 도움을 받으십시오. 구체적 계획이 있거나 안전을 지키기 어렵다면 혼자 있지 말고 즉시 응급실로 이동하십시오. 상담: **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**
 > * 아기를 해칠 의도·계획이 있거나, 해치라는 목소리가 들리거나, 현실과 다른 확신이 드는 경우 - 아기와 단둘이 있지 말고 즉시 내원
 > * 원하지 않는데 아기를 다칠까 봐 두려운 생각이 반복되는 경우 - 실제 의도와 다를 수 있으나 숨기지 말고 담당 의사에게 알려 평가받기
 > * 2\~4주 복용 후에도 증상이 전혀 나아지지 않는 경우
-> * 영아가 평소보다 많이 졸리거나 수유를 잘 못 하는 경우
+> * 영아가 평소보다 많이 졸리거나 수유를 잘 못 하면 당일 평가받으십시오. 깨우기 어렵거나 호흡 이상·청색증이 있으면 즉시 응급실로 이동하십시오
 
 ***
 
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
@@ -504,7 +523,7 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 * \[CANMAT 2024] [Vigod SN, et al. Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders. Can J Psychiatry. 2025;70(6):429-489.](https://doi.org/10.1177/07067437241303031) - 임신·산후·수유 시기별 치료와 근거 수준; 지침명은 2024, 출판은 2025년
 * [왕성민 외. 한국형 우울장애 약물치료 알고리듬 2025 (IV): 여성 및 노인. 신경정신의학. 2025;64(3):213-220.](https://doi.org/10.4306/jknpa.2025.64.3.213) - 여성·주산기 우울장애의 국내 전문가 합의에 따른 약물 선택
 * \[BMJ 2020] [Levis B, et al. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ. 2020;371:m4022.](https://doi.org/10.1136/bmj.m4022) - EPDS 절단점별 민감도·특이도와 확진 면담의 필요성
-* \[JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. Published online August 12, 2026.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
+* \[JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. 2026;83(10):1062-1069.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
 * \[Obstet Gynecol 2000] [Kurki T, et al. Depression and anxiety in early pregnancy and risk for preeclampsia. Obstet Gynecol. 2000;95(4):487-490.](https://doi.org/10.1016/S0029-7844(99)00602-X) - 임신 초기 우울·불안과 전자간증 위험
 * \[NEJM 2014] [Huybrechts KF, et al. Antidepressant Use in Pregnancy and the Risk of Cardiac Defects. N Engl J Med. 2014;370(25):2397-2407.](https://doi.org/10.1056/NEJMoa1312828) - 모성 우울증 보정 후 SSRI와 심장 기형
 * \[JAMA 2015] [Huybrechts KF, et al. Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn. JAMA. 2015;313(21):2142-2151.](https://doi.org/10.1001/jama.2015.5605) - 임신 후기 노출과 PPHN의 절대위험
@@ -515,6 +534,10 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 * \[Epidemiology 2011] [Yonkers KA, et al. Does antidepressant use attenuate the risk of a major depressive episode in pregnancy? Epidemiology. 2011;22(6):848-854.](https://doi.org/10.1097/EDE.0b013e3182306847) - 지역사회 산전 코호트의 지속·중단군 재발 비교
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [DailyMed. ZURZUVAE prescribing information; revised 2026-04.](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f18e53b0-d0bb-422d-8de7-ab64b7292b29) - 미국 용량 조절·상호작용·수유 자료
+* [EMA. Zurzuvae product information.](https://www.ema.europa.eu/en/medicines/human/EPAR/zurzuvae) - EU 허가와 수유 권고
+* [LactMed. Sertraline.](https://www.ncbi.nlm.nih.gov/books/NBK501191/) · [Nortriptyline.](https://www.ncbi.nlm.nih.gov/sites/books/NBK501176/) - 수유 영아 노출과 관찰
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 주산기 사용 약물의 임신·수유 주의사항과 산후우울증 특이 치료제의 국내 허가 여부
 
@@ -538,7 +561,7 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 
 * **약물 치료** : 주로 항우울제를 사용합니다. 모유 수유 중에도 사용할 수 있는 약이 있으며, 효과는 2\~4주에 걸쳐 서서히 나타납니다.
 * **심리 치료** : 인지행동치료(CBT), 대인관계치료(IPT) 등이 도움이 되며, 약물 치료와 함께 받으면 더 효과적입니다.
-* **치료 기간** : 증상이 좋아져도 재발을 막기 위해 보통 6\~12개월 이상 치료를 유지합니다.
+* **치료 기간** : 증상이 좋아져도 재발을 막기 위해 관해 후 보통 6\~12개월 이상 치료를 유지합니다.
 
 #### <mark style="color:$primary;">임신 중에도 항우울제를 복용해도 되나요?</mark>
 
@@ -553,11 +576,11 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 * **수면 확보** : 아기가 잘 때 함께 쉬고, 밤중 수유는 가능하면 교대로 하세요
 * **규칙적인 가벼운 운동** : 산책 등 가벼운 활동이 기분 개선에 도움이 됩니다
 * **사회적 연결** : 산후우울증 자조 모임이나 육아 커뮤니티를 통해 비슷한 경험을 나누세요
-* **배우자도 살펴보세요** : 아기 아빠도 출산 후 약 10%에서 우울증을 경험할 수 있습니다. 배우자가 무기력하거나 평소와 다른 기분 변화를 보인다면 함께 상담을 권해 주세요
+* **배우자도 살펴보세요** : 아기 아빠에서도 주산기에 약 8~10%가 임상적으로 유의한 우울 증상을 경험한다고 보고됩니다. 배우자가 무기력하거나 평소와 다른 기분 변화를 보인다면 함께 상담을 권해 주세요
 * **도움받을 수 있는 곳** : 가까운 보건소, 정신건강복지센터, 난임·임산부 심리상담센터에서 검사와 상담을 받을 수 있습니다. 아이사랑 포털([www.childcare.go.kr](https://www.childcare.go.kr))에서도 산후우울증 정보와 상담을 이용할 수 있습니다
 
 #### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
-* 스스로를 해치거나 죽고 싶다는 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
+* 스스로를 해치거나 죽고 싶다는 생각이 들면 당일 도움을 받으십시오. 구체적 계획이 있거나 안전을 지키기 어렵다면 혼자 있지 말고 즉시 응급실로 이동하십시오. 상담: **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**
 * 아기를 해칠 의도·계획이 있거나, 아기를 해치라는 목소리가 들리거나, 현실과 다른 확신이 드는 경우 - 아기와 단둘이 있지 말고 즉시 내원
 * 환청, 망상, 심한 혼란, 잠을 거의 자지 않아도 피곤하지 않으면서 지나치게 들뜨거나 행동이 빨라지는 경우 - 산후 정신증·조증 가능성이 있으므로 즉시 내원

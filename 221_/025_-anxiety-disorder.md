@@ -21,7 +21,7 @@
 
 * 기전(추정)
   * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소
-    * salience network 과활성이 핵심 병태생리로 이해됨
+    * salience network의 과활성 등 네트워크 조절 이상이 제안되나 개인별 기전은 확정되지 않음
   * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소
     * 단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임
 * 기저질환 : 갑상선항진증, 갈색세포종, 저혈당, 부정맥, COPD·천식, 폐색전증, 측두엽 뇌전증, 파킨슨병, 폐경 이행기 증상
@@ -60,7 +60,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 자살사고가 있으나 구체적 계획·의도가 확인되지 않은 경우([PHQ-9](027_-depression.md#phq-9) 9번 항목 양성 포함) `자살 위험`
+* 자살사고가 있으나 구체적 계획·의도가 확인되지 않은 경우([PHQ-9](027_-depression.md#phq-9) 9번 항목 양성 포함) : 당일 위험평가 후 추적 간격 결정 `자살 위험`
 * 발작성 두통·발한·빈맥·고혈압의 반복, 또는 체중 감소·열 불내성·진전 동반 `갈색세포종` `갑상선항진증`
 * 유의미한 알코올·약물 사용장애 또는 BZD 의존 의심(중증 금단 징후 없음) `물질사용장애` `BZD 의존`
 * 임신 중 또는 산후의 중등도 이상 불안·우울 `주산기 불안장애` `산후우울증`
@@ -102,6 +102,8 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">선별검사</mark>
 
 * 불안장애 진단을 받지 않았고 인지된 증상·징후가 없는 19\~64세 성인(임신부·산후 여성 포함)에서 불안장애 선별 권고(B등급). 65세 이상은 근거 불충분(I statement). 양성 결과는 확진이 아니며 진단 평가와 근거기반 치료·의뢰 체계로 연결해야 함. 최적 선별 간격은 확립되지 않음. <mark style="color:$info;">\[USPSTF 2023]</mark>
+
+<a id="generalized-anxiety-disorder-7-item-gad-7"></a>
 
 #### <mark style="color:$primary;">Generalized Anxiety Disorder 7-item (GAD-7)</mark>
 
@@ -189,7 +191,9 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 원인 : 신체적 또는 정신적 외상(직접 피해나 목격) 후 발생
   * 예: 죽음의 현장 또는 위협, 극심한 부상, 성폭행
 * 증상 : 사고 상황과 관련된 것들을 피하려는 행동, 사고와 관련된 기억 장애, 지속적인 부정 정서, 대인 관계 장애, 과잉 경계, 과각성, 수면 장애, 집중력 장애, 잘 놀람, 분노 감정 폭발, 자기 파괴적 행동
-* 진단 : 임상적으로 유의미한 고통 또는 기능 장애가 1개월 이상 지속
+* 진단 : 적격 외상 노출 후 침습·회피·인지/기분의 부정적 변화·과각성의 진단 기준을 충족하고 증상이 1개월을 초과하여 지속하며, 임상적으로 유의한 고통 또는 기능 손상을 유발
+
+<a id="gad-panic-phobia"></a>
 
 #### <mark style="color:$primary;">범불안장애, 공황장애, 특정공포증 비교</mark>
 
@@ -200,34 +204,33 @@ _<mark style="color:$info;">Ref. Ferri's Clinical Advisor 2024. Table E2.</mark>
 ***
 
 ```mermaid
-graph TD
-    Start(["불안·걱정 증상으로 <br>내원"]) --> RF["Red Flags 확인"]
-    RF -->|"있음"| ER["즉각 조치"]
-    RF -->|"없음"| Eval["병력·진찰·표적 검사<br>약물·물질·신체질환 배제"]
-    Eval --> Q1["GAD-2 3점 이상 <br>또는 임상적 의심"]
-    Q1 -->|"아니오"| Other["다른 원인<br>·다른 불안장애 평가"]
-    Q1 -->|"예"| Dx["GAD-7 + 임상면담<br>DSM-5-TR 기준 확인"]
-    Dx --> Q2["GAD 확진 + 중등도 이상<br>또는 유의한 기능 손상"]
-    Q2 -->|"아니오"| Low["심리교육·자가관리<br>저강도 심리중재 후 재평가"]
-    Q2 -->|"예"| Tx["공유의사결정<br>CBT 또는 SSRI/SNRI, <br>필요시 병행"]
-    Tx --> Q3["4~6주 반응 평가"]
-    Q3 -->|"반응"| Keep["치료 유지<br>관해 후 12개월 이상"]
-    Q3 -->|"부분 반응"| Opt["순응도 확인, 증량<br>또는 CBT 추가"]
-    Q3 -->|"무반응"| Sw["진단·공존질환 재평가<br>다른 계열 교체 <br>또는 CBT 추가"]
-    Opt --> Q4["2가지 이상 충분한 시도 후 <br>호전"]
-    Sw --> Q4
-    Q4 -->|"아니오"| Ref["정신건강의학과 의뢰"]
-    Q4 -->|"예"| Keep
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Dx fill:#f96,stroke:#e65100,stroke-width:2px
-    style Q1 fill:#fff9c4,stroke:#ffe082
-    style Q2 fill:#fff9c4,stroke:#ffe082
-    style Q3 fill:#fff9c4,stroke:#ffe082
-    style Q4 fill:#fff9c4,stroke:#ffe082
-    style ER fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
+flowchart TD
+    Start(["불안·걱정으로 내원"]) --> RF{"즉각 조치가 필요한 위험징후?"}
+    RF -- "예" --> ER["안전 확보·응급 평가/이송"]
+    RF -- "아니오" --> Eval["당일·조기 평가 필요성 확인<br/>병력·진찰·표적 검사"]
+    Eval --> Dx["GAD-2/GAD-7 + 임상면담<br/>원인·동반질환·DSM-5-TR 확인"]
+    Dx --> Q{"GAD 확진 + 중등도 이상<br/>또는 유의한 기능 손상?"}
+    Q -- "아니오" --> Low["심리교육·저강도 중재<br/>감별·추적 평가"]
+    Q -- "예" --> Tx["환자 선호에 따라 CBT 또는<br/>SSRI/SNRI, 필요시 병행"]
+    Tx --> Review["초기 안전성 추적<br/>4~6주 1차 반응 평가"]
+    Review --> R{"증상·기능 개선?"}
+    R -- "충분" --> Keep["관해 후 약물 12개월 이상 유지<br/>이후 개별 감량"]
+    R -- "부분/불충분" --> Opt["진단·순응도·용량 재평가<br/>증량·CBT 추가 또는 교체"]
+    Opt --> Trial["치료용량에서 8~12주까지 평가"]
+    Trial --> Resist{"2가지 이상 충분한 치료에도<br/>반응 불충분?"}
+    Resist -- "예" --> Ref["정신건강의학과 의뢰"]
+    Resist -- "아니오" --> Plan["현재 반응에 맞춰 치료·추적"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#c9a227,stroke-width:1px
+    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#1976d2,stroke-width:1px
+    class Start start
+    class RF,Q,R,Resist decision
+    class ER emergency
+    class Low,Tx,Review,Keep,Opt,Trial,Ref,Plan treatment
 ```
 
-<p align="center"><strong>진단 및 치료 알고리듬</strong> <em><mark style="color:$info;">(저자 재구성)</mark></em></p>
+<p align="center"><strong>진단 및 치료 알고리듬</strong> <em><mark style="color:$info;">(저자 재구성; 참고 문헌: NICE CG113, KMAP-GAD 2024)</mark></em></p>
 
 ***
 
@@ -281,7 +284,7 @@ graph TD
 
 * 2가지 이상 충분한 시도 후에도 호전되지 않은 경우 정신건강의학과 의뢰
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 인지행동요법(CBT)은 단기 및 장기 효과 근거가 가장 축적된 정신치료이며, 초기 치료 시기부터 시작할 수 있음
 * 국내 전문가 합의의 1차 선택 : 개인 CBT, 집단 CBT, 마음챙김기반 인지치료(MBCT), 수용전념치료(ACT), 응용이완법(applied relaxation)
@@ -385,7 +388,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 ### <mark style="color:orange;">약물 종류</mark>
 
-#### [<mark style="color:$primary;">SSRI/SNRI</mark>](../231_/213_-antidepressants-and-anxiolytics.md)
+#### [<mark style="color:$primary;">세로토닌계 항우울제(SSRI/SNRI 등)</mark>](../231_/213_-antidepressants-and-anxiolytics.md)
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음)
 * 저용량으로 시작 → 내약성을 확인하면서 1\~2주 내 최소 유효용량으로 증량 → 치료용량에서 4\~6주 시점에 1차 반응 평가; 부분 반응이면 1\~2주 간격으로 추가 증량
@@ -397,7 +400,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 저용량 시작 및 환자 사전 설명으로 예방
 * 성기능 장애 : 발생률 30\~50%
   * 주요 증상 - 성욕 저하, 불감증, 사정 지연
-  * 대책 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
+  * 대책 : 증상 조절을 유지할 수 있는 범위에서 용량 감량 또는 약제 변경을 고려. Vortioxetine·bupropion은 우울증에서 성기능 부작용을 줄이기 위한 대안이지만 GAD 치료 근거가 충분하지 않으므로 GAD 조절 상태와 별도 치료 계획 없이 단독 전환하지 않음
     * buspirone 병용도 SSRI 유발 성기능 부작용 완화에 도움될 수 있음
 * GI 출혈 : 혈소판 세로토닌 고갈로 NSAID·aspirin·항혈소판제·항응고제 병용 시 위장관 출혈 위험 증가
   * 대책 : 고위험군에서 PPI 병용 고려
@@ -412,6 +415,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 대책 : 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
 * 고령자 : SSRI/SNRI 투여 시 저나트륨혈증(SIADH) 위험을 고려하여 고위험군에서 기저 및 투약 초기 전해질 확인
   * Duloxetine은 고령이라는 이유만으로 일률적으로 회피하는 약물은 아님. 다만 국내 제품은 간질환, CrCl ＜30 ㎖/min의 중증 신장애·투석이 필요한 말기 신질환에서 투여 금기이며, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 및 MAOI 관련 금기도 구분하여 적용(001 참조)
+* 기존 듀미록스 50·100 ㎎은 2022년 공급 중단 공지가 있어 현재 처방 선택표에서 제외함. Fluvoxamine의 해외 사용·기존 처방을 확인할 때에는 상호작용에 유의
 * Fluvoxamine : CYP1A2·CYP2C19·CYP3A4 억제 작용이 있어 diazepam 등 이 경로로 대사되는 benzodiazepine과 병용 시 혈중농도 상승 위험
   * tizanidine(근이완제) 병용 금기, ramelteon·pimozide·thioridazine 병용 회피
 * 임신·수유 : 임신 후기 노출 시 신생아 적응증후군과 PPHN 가능성을 고려하되 절대위험, 치료하지 않은 중증 불안·우울의 위험, 기존 치료반응과 수유 계획을 함께 평가
@@ -422,14 +426,14 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 격일 복용은 혈중 농도 변동으로 금단 증상을 악화시킬 수 있어 일률적으로 권하지 않음. 가능한 경우 저함량 제제 또는 액상 제형 등을 활용하여 매일 복용 용량을 줄임
 
 {% hint style="info" %}
-**Hyperbolic tapering** 개념 : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다.\
+**Hyperbolic tapering** 개념 : SSRI의 세로토닌 수송체(SERT) 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수송체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수송체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄이는 접근을 고려한다. 이는 약리학적 모델에 근거한 설명이며, 실제 감량 속도는 금단 증상·치료기간·환자 선호에 따라 개별화한다.\
 예) escitalopram은 고용량 구간보다 저용량 구간, 특히 5 ㎎ 이하에서 더 작은 절대량으로 감량한다. 저함량 제제·정제 분할·액상 제형의 국내 가용성을 확인하여 조정하며, 장기 복용 또는 과거 금단 경험이 있으면 단계별 감량폭을 줄이고 간격을 수 주\~수개월까지 개별화한다.
 {% endhint %}
 
-<table data-search="false"><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (㎎/d)</th><th width="119.8076171875" align="center">유지 (㎎/d)</th></tr></thead><tbody><tr><td>escitalopram¹⁾<mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline²⁾<mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~200</td></tr><tr><td>paroxetine IR¹⁾<mark style="color:blue;">[세로자트]</mark></td><td align="center">10~20</td><td align="center">20~50</td></tr><tr><td>fluoxetine²⁾<mark style="color:blue;">[푸록틴]</mark></td><td align="center">10~20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine²⁾<mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine¹⁾<mark style="color:blue;">[드록틴]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine¹⁾<mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine²⁾<mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (㎎/d)</th><th width="119.8076171875" align="center">유지 (㎎/d)</th></tr></thead><tbody><tr><td>escitalopram¹⁾<mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO5475">렉사프로</a>]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline²⁾<mark style="color:blue;">[<a href="https://health.kr/drug/A11A0310A0239">졸로푸트</a>]</mark></td><td align="center">25~50</td><td align="center">50~200</td></tr><tr><td>paroxetine IR¹⁾<mark style="color:blue;">[<a href="https://health.kr/drug/A11A0740A0377">세로자트</a>]</mark></td><td align="center">10~20</td><td align="center">20~50</td></tr><tr><td>fluoxetine²⁾<mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB0367">푸록틴</a>]</mark></td><td align="center">10~20</td><td align="center">20~60</td></tr><tr><td>duloxetine¹⁾<mark style="color:blue;">[<a href="https://health.kr/drug/2014052800008">드록틴</a>]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine¹⁾<mark style="color:blue;">[<a href="https://health.kr/drug/A11ADDDDD0700">이팩사 XR</a>]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine²⁾<mark style="color:blue;">[<a href="https://health.kr/drug/2014082000025">브린텔릭스</a>]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
-> ¹⁾_국내 GAD 허가 : escitalopram, paroxetine IR, venlafaxine XR, duloxetine_\
-> ²⁾_국내 GAD 허가 외 사용 : sertraline, fluoxetine, fluvoxamine, vortioxetine. Vortioxetine은 주요우울장애 적응증 약물이며 GAD의 일반적 치료제로 권고하지 않음_\
+> ¹⁾_표에 실린 약제 중 GAD 허가 : escitalopram, paroxetine IR, venlafaxine XR, duloxetine_\
+> ²⁾_국내 GAD 허가 외 사용 : sertraline, fluoxetine, vortioxetine. Vortioxetine은 주요우울장애 적응증 약물이며 GAD의 일반적 치료제로 권고하지 않음_\
 > ✽_mirtazapine도 국내 GAD 허가 외 사용(SSRI/SNRI 표에는 미포함)_
 
 {% hint style="info" %}
@@ -442,10 +446,17 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 <table data-search="false"><thead><tr><th>보조약물</th><th align="center">시작용량 최빈값</th><th align="center">유지용량 최빈값</th><th align="center">최대사용용량 최빈값</th></tr></thead><tbody><tr><td>alprazolam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1.5 ㎎/d</td></tr><tr><td>clonazepam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td></tr><tr><td>lorazepam</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td><td align="center">3 ㎎/d</td></tr><tr><td>aripiprazole</td><td align="center">1 ㎎/d</td><td align="center">2 ㎎/d</td><td align="center">5 ㎎/d</td></tr><tr><td>quetiapine</td><td align="center">12.5 ㎎/d</td><td align="center">25 ㎎/d</td><td align="center">100 ㎎/d</td></tr><tr><td>pregabalin</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td></tr><tr><td>propranolol</td><td align="center">10 ㎎/d</td><td align="center">40 ㎎/d</td><td align="center">60 ㎎/d</td></tr></tbody></table>
 {% endhint %}
 
+#### <mark style="color:$primary;">Agomelatine</mark>
+
+* 현행 <a href="https://health.kr/drug/2024122700008">아고틴</a>은 주요우울증·범불안장애 적응증이 있음. SSRI/SNRI의 일반적 1차 선택과 구분하여, 불내성·반응 불충분 시 대안으로 개별 고려
+* 25 ㎎ qd 취침 시, GAD에서는 4주 후에도 개선이 없으면 이익·위험을 평가하여 최대 50 ㎎ qd로 증량 <mark style="color:blue;">[아고틴]</mark>
+* 치료 전 및 약 3·6·12·24주에 간기능검사; 증량 시 같은 일정으로 반복. ALT/AST ＞정상 상한의 3배이면 시작하지 않거나 중단
+* 간장애·활동성 간질환, fluvoxamine·ciprofloxacin 병용은 금기. GAD에서는 65세 이상에게 투여하지 않음(우울증 적응증의 75세 이상 제한과 구분). 세부 사항은 [우울증](027_-depression.md#agomelatine) 참조
+
 #### <mark style="color:$primary;">Gabapentinoid (α2δ 리간드)</mark>
 
 * SSRI/SNRI를 사용할 수 없을 때 또는 보조 요법으로 고려
-* pregabalin : 150\~600 ㎎/d, 2\~3회 분할 <mark style="color:blue;">\[리리카]</mark>
+* pregabalin : 150\~600 ㎎/d, 2\~3회 분할 <mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO8537">리리카</a>]</mark>
   * GAD에 대해 유럽 허가. 국내에서는 GAD에 대해 미승인
   * WFSBP 등 일부 국제 가이드라인에서는 높은 순위로 권고하지만 국내 전문가 합의에서는 초기 기타약물군 내 2차, 치료반응 불충분 시 추가약물로 2차에 해당
   * 효과 발현이 SSRI보다 빠름(1\~2주); 수면 개선 효과도 있음
@@ -459,10 +470,10 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * benzodiazepine보다 남용·신체의존 위험이 낮음
 * SSRI/SNRI보다 근거량과 직접 비교자료가 제한적이며, 효과 발현에 대개 2\~4주가 걸림
 * 부작용 : 어지럼(가장 흔함), 구역, 두통, 신경과민, 불면
-* buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
+* buspirone : 초회 5 ㎎ tid, 통상 20\~30 ㎎/d 분할(최대 60 ㎎/d) <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0930A0238">부스파</a>]</mark>
   * CYP3A4 대사; 강력(itraconazole·ketoconazole·ritonavir·clarithromycin) 또는 중등도(erythromycin·diltiazem·verapamil) CYP3A4 억제제와 병용하면 혈중 농도와 어지럼·진정이 증가할 수 있어 저용량 투여·용량 조절이 필요
   * rifampin·carbamazepine 등 유도제 병용 시 효과가 감소할 수 있음
-  * 다량의 자몽주스는 피하도록 안내
+  * 음식과의 관계를 매번 일정하게 복용하고, 자몽주스는 피하도록 안내
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
@@ -478,14 +489,14 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 장시간 작용 약제(clonazepam, diazepam 등)로 전환할 수 있으나 일률적으로 선호하지 않으며 간기능·병용약을 고려. 고령자에서는 장시간형 전환이 오히려 부적절할 수 있음
 * 역설적 탈억제(Paradoxical disinhibition) : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음. 이 경우 추가 투여를 보류하고 즉시 평가. 다만 수주 이상 규칙적으로 복용한 환자는 금단 위험을 고려하여 갑자기 중단하지 말고 개별화된 속도로 감량
 
-<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (㎎/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[자낙스]</mark></td><td align="center">0.25~4</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>bromazepam <mark style="color:blue;">[브로마제팜]</mark></td><td align="center">3~18</td><td align="center">10~20</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[리버티]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
+<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (㎎/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB0920">자낙스</a>]</mark></td><td align="center">0.25~4</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB0915">아티반</a>]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>bromazepam <mark style="color:blue;">[브로마제팜]</mark></td><td align="center">3~18</td><td align="center">10~20</td></tr><tr><td>clonazepam <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB1153">리보트릴</a>]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB1149">리버티</a>]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항정신병 약물</mark>
 
 * GAD 적응증이 아니며 일차진료에서 시작하지 않음
 * 항우울제와 충분한 정신치료에도 반응이 불충분하고 다른 진단·동반질환을 재평가한 뒤 정신건강의학과 협진하에 예외적으로 고려
 * 국내 전문가 합의에서는 aripiprazole·quetiapine이 이 약물군 내에서 선호되었으나, 전체 초기 전략에서 항우울제+비정형 항정신병약물은 상위 2차이고 단독요법은 하위 2차임
-* NICE·RANZCP는 GAD에 비정형 항정신병약물을 권하지 않으며, 대사증후군·정좌불능·지연성 운동장애 등 위해를 고려하여 일차의료에서 일상적으로 시작하지 않음
+* NICE는 일차의료에서 GAD에 항정신병약물을 권하지 않으며, 대사증후군·정좌불능·지연성 운동장애 등 위해를 고려하여 일차의료에서 일상적으로 시작하지 않음
 * 사용 시에는 적응증 외 사용임을 설명하고 체중·허리둘레·혈압·혈당/HbA1c·지질, 추체외로증상과 정좌불능 등을 기저 및 치료 중 모니터링
 
 #### <mark style="color:$primary;">항히스타민계 항불안제 - Hydroxyzine</mark>
@@ -496,14 +507,14 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * 진정 작용으로 수면 장애 동반 시 유리
 * 주의 : 졸음, 입마름, 요저류, 낙상; 고령자에서는 Beers Criteria상 회피 권고
   * QT 연장·torsades 위험이 있으므로 기존 QT 연장, 유의한 서맥·심혈관질환·전해질 이상 또는 QT 연장 약물 병용 시 피함
-* 국내 기존 허가사항에는 정신과 영역 75\~150 ㎎/d 분할 용량이 있으나, EMA 안전성 제한은 성인 최대 100 ㎎/d(고령자는 가능하면 피하고 불가피하면 최대 50 ㎎/d)를 권고. 최소 유효용량을 최단기간 사용 <mark style="color:blue;">\[아디팜]</mark>
+* 국내 기존 허가사항에는 정신과 영역 75\~150 ㎎/d 분할 용량이 있으나, EMA 안전성 제한은 성인 최대 100 ㎎/d(고령자는 가능하면 피하고 불가피하면 최대 50 ㎎/d)를 권고. 최소 유효용량을 최단기간 사용 <mark style="color:blue;">[<a href="https://health.kr/drug/A11AFFFFF0070">아디팜</a>]</mark>
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
 * 금기·주의 : 천식·중증 COPD(비선택성 제제), 서맥·방실차단, 비대상성 심부전
   * 당뇨병 환자에서 저혈당 증상 은폐 가능
-* propranolol : 10\~40 ㎎ PRN (상황불안·performance anxiety 기준; 국내 GAD·상황불안 허가 외 사용이며 고용량 사용은 근거 제한적) <mark style="color:blue;">\[인데놀]</mark>
+* propranolol : 10\~40 ㎎ PRN (상황불안·performance anxiety 기준; 국내 GAD·상황불안 허가 외 사용이며 고용량 사용은 근거 제한적) <mark style="color:blue;">\[<a href="https://health.kr/drug/A11ABBBBB0903">인데놀</a>]</mark>
 
 #### <mark style="color:$primary;">환자 유형별 약제 선택</mark>
 
@@ -527,50 +538,58 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > **처방례 1.** GAD - 초기치료, SSRI 단독
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
+> 렉사프로정 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
 > → 2주 후 10 ㎎ qd로 증량; 4~6주 후 효과 평가
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 - 저용량 시작 이유 설명
 > ※ 30세 미만: 1주 이내 첫 추적 후 첫 4주간 매주 자살사고·자해 위험과 초조 확인 [NICE CG113]; 자살위험이 높으면 연령과 무관하게 같은 강도 이상으로 추적
 > ※ 권장 최대 20 ㎎/d. QT 연장 유발 약물과 병용 금기; 심질환·전해질 이상 등 QT 위험인자가 있으면 ECG 고려
 > ※ 고령자: 5 ㎎/d로 시작, 통상 10 ㎎/d 이내; 저나트륨혈증 고위험군은 투약 전 및 시작·증량 1~2주 후 Na 확인
 > ```
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475)
 
-> **처방례 2.** GAD - 초기치료, SNRI 단독 (불안+통증 동반 또는 SSRI 불내성)
+
+> **처방례 2.** GAD - 초기치료, SNRI 단독 (SSRI 불내성 또는 기존 반응이 확인된 경우)
 >
 > ```
 > 이팩사엑스알서방캡슐 37.5 ㎎  1C  qd  조식 후  (첫 4~7일)
-> → 내약성 확인 후 75 ㎎ qd로 증량; 이후 반응과 내약성에 따라 1주 이상 간격으로 조절(최대 225 ㎎/d)
+> → 내약성 확인 후 75 ㎎ qd로 증량; 2주 후에도 추가 개선이 필요하면 150 ㎎/d 고려. 이후 1회 증량폭 75 ㎎/d 이하, 적어도 4일 이상 간격(최대 225 ㎎/d)
 > ※ 투여 전 및 치료 중 정기적으로 혈압 확인 - 특히 고용량에서 용량 의존적 상승 가능
 > ※ 갑작스러운 중단 금지 (discontinuation syndrome 위험)
 > ```
+> 약제 정보: [이팩사엑스알서방캡슐·37.5 ㎎](https://health.kr/drug/A11ADDDDD0700)
+
 
 > **처방례 3.** GAD - Buspirone 대안요법 (BZD 의존 위험 또는 SSRI/SNRI 불내성)
 >
 > ```
-> 부스파 5 ㎎/T  1T  tid  식후  (첫 1~2주)
-> → 1~2주 간격으로 5 ㎎씩 증량, 목표 용량 20~30 ㎎/d (최대 60 ㎎/d)
+> 보령부스파정 5 ㎎/T  1T  tid  식후  (초회용량)
+> → 반응·내약성에 따라 2~3일 이상 간격으로 1일 총량을 5 ㎎씩 증량, 목표 20~30 ㎎/d를 분할 투여 (최대 60 ㎎/d)
 > ※ 효과 발현까지 2~4주 소요 - 즉각 효과를 기대하지 않도록 설명
 > ※ BZD보다 남용·신체의존 위험이 낮아 BZD 남용·의존 위험이 큰 환자에서 고려
 > ※ MAO 억제제와 병용 금지
 > ```
+> 약제 정보: [보령부스파정·5 ㎎](https://health.kr/drug/A11A0930A0238)
+
 
 > **처방례 4.** GAD - 항우울제+단기 BZD 병용 (급성 불안·수면 장애 동반)
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
+> 렉사프로정 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
 > → 내약성 확인 후 10 ㎎ qd로 증량
-> 리보트릴 0.5 ㎎/T  0.5T  취침 전  (최대 2~4주 단기; 이후 tapering 중단)
+> 리보트릴정 0.5 ㎎/T  0.5T  취침 전  (최대 2~4주 단기; 이후 tapering 중단)
 > ※ 기존에 escitalopram 내약성이 확인된 환자는 10 ㎎ 시작도 가능
 > ※ clonazepam은 국내 간질·발작 및 공황장애 적응증만 허가되어 있으며 GAD 적응증은 미승인(허가 외 사용) - 처방 전 환자에게 설명
-> ※ BZD는 SSRI 효과 발현 전 브릿지 목적으로만 단기 사용
+> ※ BZD는 위기 수준의 급성 불안이 심한 경우에 한해 최소 유효용량으로 단기 사용; 항우울제 시작 시 일률적으로 병용하지 않음
 > ※ 고령자·운전자: 낙상, 졸음 위험 설명; 복용 중 음주 및 운전 금지
 > ※ 중단 시 반드시 tapering (갑작스러운 중단 금지)
 > ```
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475) · [리보트릴정·0.5 ㎎](https://health.kr/drug/A11ABBBBB1153)
+
 
 > **처방례 5.** GAD - Paroxetine IR 대안 (다른 1차 약물 불내성 또는 기존 치료반응이 확인된 경우)
 >
 > ```
-> 세로자트 20 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
+> 한독세로자트정 20 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
 > → 내약성 확인 후 20 ㎎ qd로 증량; 반응에 따라 조절(최대 50 ㎎/d)
 > ※ 항콜린 부작용(변비, 구갈, 요저류) 주의; 항콜린 작용이 상대적으로 강해 고령자에서는 회피(Beers Criteria 2023)
 > ※ 강력한 CYP2D6 억제제로 tamoxifen·metoprolol 등 CYP2D6 기질 약물과 병용 시 상호작용 주의
@@ -578,11 +597,13 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > ※ 임신 계획·임신 중 새로 시작할 때에는 대안을 우선 고려. 이미 안정적으로 복용 중이면 임의 중단·일률적 변경을 피하고, 심혈관 기형 관련 관찰자료와 신생아 적응증후군·PPHN 가능성, 치료하지 않은 질환의 위험 및 기존 치료반응을 함께 평가하여 산부인과·정신건강의학과와 협의
 > ※ 중단 시 discontinuation syndrome 발생 빈도 높음 - 반드시 서서히 감량
 > ```
+> 약제 정보: [한독세로자트정·20 ㎎](https://health.kr/drug/A11A0740A0377)
+
 
 > **처방례 6.** GAD - 고령 환자
 >
 > ```
-> 졸로푸트 50 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
+> 졸로푸트정 50 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
 > → 반응·내약성에 따라 1~2주 간격으로 25 ㎎씩 증량
 > ※ 저용량으로 시작 - "start low, go slow" 원칙
 > ※ 저나트륨혈증(SIADH) 고위험군은 투약 전 및 시작·증량 1~2주 후 전해질(Na) 확인
@@ -590,6 +611,8 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > ※ 낙상 위험 평가 및 안내
 > ※ sertraline의 GAD 적응증은 국내 허가 외 사용(국내 허가 적응증: 우울증, 성인·소아 강박장애, 공황장애, PTSD, 사회불안장애, 월경전불쾌장애)
 > ```
+> 약제 정보: [졸로푸트정·50 ㎎](https://health.kr/drug/A11A0310A0239)
+
 
 ***
 
@@ -597,7 +620,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 > **불안장애 약물 복용 안내**
 >
-> * 약 효과는 2\~4주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 대개 1\~2주 내에 가라앉으므로 임의로 중단하지 마십시오.
+> * 항우울제와 buspirone의 효과는 대개 2\~4주에 걸쳐 서서히 나타납니다. 처음 1\~2주는 불안이 일시적으로 더 느껴질 수 있습니다. 증상이 심하거나 불면·충동성·자해 생각이 동반되면 기다리지 말고 즉시 담당 의사에게 연락하십시오.
 > * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 중단 증상(discontinuation syndrome)이 생길 수 있습니다.
 > * 커피·에너지음료 등 카페인 음료와 술은 불안을 악화시킵니다.
 > * 감기약(덱스트로메토르판 함유), 진통제(트라마돌), 편두통약(triptan), 세인트존스워트 등을 복용 중이거나 복용 예정이면 반드시 담당 의사·약사에게 알려 주십시오.
@@ -608,15 +631,18 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 불안 증상이 악화되거나 일상생활이 어려울 정도로 심해지는 경우
-> * 자해나 자살에 대한 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
+> * 자해나 자살에 대한 생각이 드는 경우 - 당일 진료·상담을 받고, 구체적 계획이 있거나 스스로 안전을 지키기 어렵다면 혼자 있지 말고 즉시 응급실로 이동하십시오. 상담: **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**
 > * 약 복용 후 심한 위장 장애, 두근거림, 혈압 이상 등이 나타나는 경우
 > * 4\~6주 약 복용 후에도 증상 호전이 없는 경우
 
 ***
 
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG222. Depression in adults: treatment and management. Stopping antidepressant medication.](https://www.nice.org.uk/guidance/ng222/chapter/Recommendations#stopping-antidepressant-medication) - 단계적 감량·금단 증상 관리
+* [Horowitz MA, Taylor D. Tapering of SSRI treatment to mitigate withdrawal symptoms. Lancet Psychiatry. 2019;6(6):538-546.](https://doi.org/10.1016/S2215-0366(19)30032-X) - SERT 점유율과 감량의 약리학적 모델
 
 * [Kim MK, et al. Korean Guidelines for the Treatment of Generalized Anxiety Disorder 2024: Initial and Maintenance Treatment Strategies for the Pharmacological Treatment of Generalized Anxiety Disorder. Anxiety Mood. 2024;20(2):54-64.](https://doi.org/10.24986/anxmod.2024.20.2.004) - 2024 한국형 범불안장애 치료지침; 국내 전문가 합의의 초기·유지 전략
 * \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - CBT·SSRI/SNRI 우선 치료, 고강도 CBT 회기 수와 BZD 사용 범위
@@ -632,6 +658,9 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * Ferri FF. Ferri's Clinical Advisor 2024. Elsevier; 2024. - 본문 표 출처(Table E2)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [아고틴정25 ㎎ 현행 품목 허가사항](https://health.kr/drug/2024122700008) - 주요우울증·GAD 적응증과 연령·간기능 제한
+* [삼성서울병원 약제부. 듀미록스 50·100 ㎎ 공급 중단 공지. 2022.](https://www.samsunghospital.com/dept/main/bbsView.do?CID=33388&DP_CODE=PH&MENU_ID=006029&cPage=30)
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 
@@ -650,7 +679,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 * 실제 위험에 비해 과도하고 지속적인 걱정·두려움이 조절되지 않아 일상생활에 지장을 주는 상태입니다.
 * 신체 증상(두근거림·근육 긴장·발한·두통·소화불량)을 함께 경험하는 경우가 많습니다.
-* 범불안장애(GAD) 외에도 공황장애·사회불안장애·PTSD 등 다양한 형태가 있습니다.
+* 범불안장애(GAD) 외에도 공황장애·사회불안장애 등 다양한 형태가 있습니다. PTSD는 외상·스트레스 관련 장애로 별도로 분류하지만 불안 증상이 흔히 동반됩니다.
 * 불안은 누구나 느끼는 정상적인 감정이며, 위험을 피하도록 돕는 "투쟁-도피 반응(fight-or-flight)"에서 비롯됩니다. 적당한 불안은 오히려 도움이 되므로, 치료의 목표는 불안을 완전히 없애는 것이 아니라 일상에 지장을 주지 않는 수준으로 조절하는 것입니다.
 * 생각·감정·행동은 서로 영향을 주고받습니다. 불안한 생각이 들면 몸에서 신체 증상이 느껴지고, 이로 인해 회피 행동을 하게 되는 악순환("불안의 소용돌이")이 반복될 수 있습니다. 치료는 이 악순환의 고리를 끊는 것을 목표로 합니다.
 
@@ -662,7 +691,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
-* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 중단 증상(몸이 약에 익숙해진 상태에서 갑자기 끊을 때 나타나는 일시적 반응)이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
+* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 중단 증상(몸이 약에 익숙해진 상태에서 갑자기 줄이거나 끊을 때 나타날 수 있는 반응으로 일부에서는 오래 지속될 수 있음)이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
 * **초기 적응기** : 복용 첫 1\~2주 동안 불안이나 초조가 일시적으로 더 느껴질 수 있습니다. 증상이 심하거나 불면·충동성·자해 생각이 동반되면 기다리지 말고 즉시 담당 의사에게 연락하십시오.
 * **안정제(BZD) 주의** : 안정제는 의존성 예방을 위해 의사의 지시대로 단기간만 사용합니다.
 * 24세 이하에서는 복용 초기와 용량 변경 시 자살 생각이나 행동이 드물게 증가할 수 있습니다. 연령과 관계없이 우울감·초조가 심해지거나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
@@ -677,5 +706,5 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 #### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
 * 불안 증상이 갑자기 심해지거나 일상생활이 불가능한 경우
-* 우울감이 심해지거나 스스로를 해치고 싶은 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
+* 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들면 당일 도움을 받으십시오. 구체적 계획이 있거나 스스로 안전을 지키기 어렵다면 혼자 있지 말고 즉시 응급실로 이동하십시오. 상담: **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**
 * 약 복용 후 심한 부작용(혈압 이상, 심한 위장 장애 등)이 나타나는 경우

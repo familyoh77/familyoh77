@@ -106,7 +106,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 자살·자해 사고 또는 수동적 죽음 소망이 있으나 즉각 위해가 명확하지 않음 `자살 위험`
+* 자살·자해 사고 또는 수동적 죽음 소망이 있으나 즉각 위해가 명확하지 않음 : 당일 위험평가 후 추적 간격 결정 `자살 위험`
 * 과거 조증/경조증 삽화 `양극성 장애`
 * 우울 삽화 중 초조·과민·사고 비약·수면 욕구 감소·과대성 동반 `혼재성 양상` `양극성 장애`
 * 항우울제 시작·증량 후 새로 생긴 초조·불안·충동성(특히 25세 미만) `항우울제 관련 활성화`
@@ -133,6 +133,8 @@
 * 검사 주기 : 정해지지 않음. 임상적으로 결정
 * 검사 도구 : 특정하지 않음; 일반 인구- PHQ, 고령- GDS, [임신 - 에든버러척도](028_-postpartum-depression.md#edinburgh-postnatal-depression-scale-epds)
 * 선별검사에서 양성 시 다른 정신 질환(예: 불안, 공황장애)에 대해서도 검사 시행
+
+<a id="dsm-5-tr"></a>
 
 ### <mark style="color:orange;">진단 기준 </mark><mark style="color:$info;">\[DSM-5-TR]</mark>
 
@@ -170,6 +172,8 @@ C. 증상은 물질(예: 약물) 또는 일반적인 의학적 상태(예: 갑�
 D. 주요우울 삽화가 조현정동장애, 조현병, 조현양상장애, 망상장애 또는 기타 명시되거나 명시되지 않은 조현병 스펙트럼 및 정신병적 장애로 더 잘 설명되지 않음
 
 E. 조증 삽화 또는 경조증 삽화가 있었던 적이 없음. 단, 물질이나 다른 의학적 상태의 생리적 영향에 의한 삽화는 제외함
+
+<a id="dsm-5-tr-specifiers"></a>
 
 #### <mark style="color:$primary;">DSM-5-TR Specifiers</mark>
 
@@ -225,6 +229,8 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 ### <mark style="color:orange;">우울 척도 문진표</mark>
 
+<a id="phq-2"></a>
+
 #### <mark style="color:$primary;">PHQ-2</mark>
 
 * 질문 : 지난 2주 동안, 아래 나열되는 증상들에 얼마나 자주 시달렸습니까?
@@ -234,6 +240,8 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 * 판정 : 민감도/특이도 - ≥3점 기준 시 72%/85%, ≥2점 기준 시 91%/67% <mark style="color:$info;">\[JAMA 2020]</mark>
   * 민감도를 중시하면 ≥2점에서 PHQ-9로 진행
   * 양성 시 PHQ-9 등 추가 평가
+
+<a id="phq-9"></a>
 
 #### [<mark style="color:$primary;">PHQ-9</mark>](https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Korean%20for%20Korea.pdf)
 
@@ -279,7 +287,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 #### <mark style="color:$primary;">**CES-D (통합적 한국판 우울증 척도)**</mark>
 
 * 지난 1주 동안의 우울 증상 빈도를 평가하는 20문항 자가보고형 척도; 4개 문항은 역채점
-* 배점 : 각 항목 극히 드물다(1일 이하)=0점, 가끔 있었다(1\~2일)=1점, 종종 있었다(3\~4일)=2점, 대부분 그랬다(5\~7일)=3점; 총점 0\~60점
+* 배점 : 각 항목 극히 드물다(1일 미만)=0점, 가끔 있었다(1\~2일)=1점, 종종 있었다(3\~4일)=2점, 대부분 그랬다(5\~7일)=3점; 총점 0\~60점
 * 판정 : 선별도구이며 진단을 대신하지 않음. ≥21점을 임상적 우울 의심 기준으로 흔히 사용 (절단점은 연구·대상군에 따라 다를 수 있음)
 * ☞ [경기도정신건강복지센터 자가검진](https://www.mentalhealth.or.kr/SelfTest/Melancholia.asp) (출처 : 전겸구, 최상진, 양병창. 통합적 한국판 CES-D 개발. 한국심리학회지: 건강 2001;6(1);59-76)
 
@@ -300,6 +308,8 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 <p align="center"><em><mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단축형의 표준화 예비연구. 신경정신의학 1996;35(2):298-307</mark></em></p>
 
 ### <mark style="color:orange;">기타 선별</mark>
+
+<a id="bipolar-screen"></a>
 
 #### <mark style="color:$primary;">양극성 장애 평가</mark>
 
@@ -333,33 +343,33 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 ***
 
 ```mermaid
-graph TD
-    Start(["우울 증상 호소 또는 <br>선별 대상 성인"]) --> P2["PHQ-2"]
-    P2 --> Q1["PHQ-2 양성?"]
-    Q1 -->|아니오| Obs["경과 관찰, <br>필요시 재검"]
-    Q1 -->|예| P9["PHQ-9 + 진단 면담<br>기능 손상·기간 평가"]
-    P9 --> Q2["자살·자해 사고?"]
-    Q2 -->|예| Risk["의도·계획·수단·과거 시도<br>악화·보호요인 평가"]
-    Risk --> Q3["즉각 위험?"]
-    Q3 -->|예| ER["혼자 두지 않음, 수단 차단<br>응급 평가"]
-    Q3 -->|아니오| Diff
-    Q2 -->|아니오| Diff["<b>감별</b>: 양극성·물질<br>·신체질환·약물"]
-    Diff --> Q4["양극성 의심 또는 <br>정신병적 양상?"]
-    Q4 -->|예| Ref["정신건강의학과 의뢰"]
-    Q4 -->|아니오| Sev["중증도 평가"]
-    Sev --> Mild["<b>경도</b>: 심리교육·운동·정신치료<br>적극적 관찰"]
-    Sev --> Mod["<b>중등도 이상</b>: 항우울제 <br>± 정신치료"]
-    Mod --> Ev["4~6주 재평가"]
-    Ev --> Q5["＜25% 호전?"]
-    Q5 -->|예| Adj["순응도·진단 재점검<br>증량·교체·병합 또는 의뢰"]
-    Q5 -->|아니오| Cont["관해까지 지속 후 <br>유지치료"]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style ER fill:#f96,stroke:#e65100,stroke-width:2px
-    style Q1 fill:#fff9c4,stroke:#ffe082
-    style Q2 fill:#fff9c4,stroke:#ffe082
-    style Q3 fill:#fff9c4,stroke:#ffe082
-    style Q4 fill:#fff9c4,stroke:#ffe082
-    style Q5 fill:#fff9c4,stroke:#ffe082
+flowchart TD
+    Start(["우울 증상 또는 선별 대상 성인"]) --> RF{"자살 위기·정신증·긴장증 등<br/>즉각 조치 필요?"}
+    RF -- "예" --> ER["혼자 두지 않음·수단 제한<br/>응급 평가/이송"]
+    RF -- "아니오" --> P2["PHQ-2 또는 임상면담"]
+    P2 --> Q{"선별 양성 또는<br/>임상적으로 우울증 의심?"}
+    Q -- "아니오" --> Obs["경과 관찰·필요시 재평가"]
+    Q -- "예" --> Dx["PHQ-9 + 진단 면담<br/>기간·기능·자살위험 평가"]
+    Dx --> Diff["양극성·물질·신체질환 감별<br/>자살사고 시 당일 위험평가·안전계획"]
+    Diff --> Bipolar{"양극성·혼재성·정신병적 양상?"}
+    Bipolar -- "예" --> Ref["정신건강의학과 신속 의뢰"]
+    Bipolar -- "아니오" --> Sev{"임상적 중증도·선호·기능 손상"}
+    Sev -- "덜 심함" --> Mild["정신치료·생활중재·적극적 관찰<br/>약물은 선호·과거 반응에 따라 선택"]
+    Sev -- "더 심함" --> Mod["항우울제 또는 정신치료<br/>중증은 병합 고려"]
+    Mod --> Early["통상 2주 이내 안전성 확인<br/>18~25세·자살위험은 1주 이내"]
+    Early --> Review["4~6주 증상·기능·내약성 평가"]
+    Review --> R{"치료 반응?"}
+    R -- "충분" --> Keep["관해까지 치료<br/>관해 후 6~12개월 이상 유지"]
+    R -- "부분/불충분" --> Adj["순응도·진단·용량 재점검<br/>최적화·교체·병행 또는 의뢰"]
+    Mild --> Follow["2~4주 내 추적·악화 시 치료 강화"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#c9a227
+    classDef emergency fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#1976d2
+    class Start start
+    class RF,Q,Bipolar,Sev,R decision
+    class ER emergency
+    class Obs,Ref,Mild,Mod,Early,Review,Keep,Adj,Follow treatment
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -372,7 +382,7 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 경도(less severe, PHQ-9 ＜16) : 정신치료·운동·가이드 자가치료 등을 우선 선택
+* 덜 심한 우울증(less severe; 역치하·경도 포함) : 정신치료·운동·가이드 자가치료 등을 우선 선택. NICE는 PHQ-9 ＜16을 구분의 참고 지표로 사용하지만, 점수만으로 중증도나 치료를 결정하지 않음
   * 항우울제는 환자가 원하거나 과거 반응이 좋았던 경우 외에는 일률적 1차 치료로 권하지 않음 <mark style="color:$info;">\[NICE NG222, 2022]</mark>
 * 중등도 이상 : 항우울제 또는 근거기반 정신치료; 중증에서는 병합 권장 <mark style="color:$info;">\[CANMAT 2023]</mark>
 * 고령에서는 심리사회적 치료를 선호하는 경우가 많음
@@ -385,7 +395,7 @@ graph TD
 자문 의뢰 대상 : 1\~2가지 약물 무반응, 치료 1년 이내 재발, 양극성 장애 의심, 환자·가족의 전과 요구, 지속되는 자살 생각, 알코올·약물남용·인격장애 동반, 중증 우울, 자기 관리 불가
 {% endhint %}
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
@@ -393,7 +403,7 @@ graph TD
   * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT(SMILES)가 있음 <mark style="color:$info;">\[BMC Med 2017]</mark>
 * [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 <mark style="color:$info;">\[BMJ 2024]</mark>
 * 디지털 치료기기(DTx) : CBT 기반 디지털 중재를 경증\~중등도 우울증의 보조치료로 고려할 수 있음
-  * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 적응증·대상·임상 근거, 처방 가능 기관과 비용·급여 여부를 확인
+  * [블루케어](https://www.bluekare.kr/)(CBT 기반 모바일)와 [치유포레스트](https://www.mindsai.co.kr/ko/rnd)(VR 기반) 등 제품별로 허가된 대상·사용 목적과 임상 근거를 확인하여 적용. 모바일 앱과 의료기관의 VR 프로그램은 이용 방식이 다르므로 각 제품의 처방·사용 절차와 비용·급여 여부를 확인
 
 ### <mark style="color:orange;">정신 치료</mark>
 
@@ -415,7 +425,7 @@ graph TD
 ### <mark style="color:orange;">약제 종류</mark>
 
 * 아래 용량은 일반적인 시작 및 유지 용량임 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
-* 일반적으로 계열 간 또는 계열 내 약제 간 효과 차이는 없음. 단, 환자에 따라 반응이 다를 수 있음
+* 평균 효과와 내약성에는 약제별 차이가 있으나, 개인의 반응을 확실히 예측하는 단일 우선 약제는 없음. 과거 반응·증상·동반질환·상호작용·환자 선호로 선택
 
 #### <mark style="color:$primary;">SSRI</mark>
 
@@ -432,16 +442,15 @@ graph TD
 * 출혈 위험 : NSAID·aspirin·항응고제 병용 시 위장관 출혈 위험↑
   * 고위험군은 PPI 병용 고려
 * escitalopram, sertraline : 약물 상호 작용이 적음
-* escitalopram : 10 ㎎/d, 10\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
+* escitalopram : 10 ㎎/d, 10\~20 ㎎/d <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO5474">렉사프로</a>]</mark>
   * 고령자는 5 ㎎/d로 시작하고 통상 10 ㎎/d 이내 (QT 연장; 국내 허가사항은 구체적 상한 수치 미명시)
-* fluoxetine : 20 ㎎/d 아침, 20\~60 ㎎/d <mark style="color:blue;">\[푸록틴]</mark> (8세 이상 소아·청소년 주요우울장애 FDA 승인)
+* fluoxetine : 20 ㎎/d 아침, 20\~60 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB0367">푸록틴</a>]</mark> (8세 이상 소아·청소년 주요우울장애 FDA 승인)
   * 신경성 폭식증 적응
-* paroxetine : 10 ㎎/d, 20\~50 ㎎/d <mark style="color:blue;">\[세로자트]</mark>; CR 25 ㎎/d, 25\~62.5 ㎎/d <mark style="color:blue;">\[팍실 CR]</mark>
+* paroxetine : 10 ㎎/d, 20\~50 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0740A0377">세로자트</a>]</mark>; CR 25 ㎎/d, 25\~62.5 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO2721">팍실 CR</a>]</mark>
   * 항콜린 작용·체중 증가
   * 고령자에서 가급적 회피
-* sertraline : 25\~50 ㎎/d, 50\~200 ㎎/d <mark style="color:blue;">\[졸로푸트]</mark>
-* fluvoxamine : 50 ㎎/d, 50\~300 ㎎/d(150 ㎎ 초과 시 분할) <mark style="color:blue;">\[듀미록스]</mark>
-  * 강력한 CYP1A2·2C19 억제 작용 - tizanidine 병용 금기, theophylline·clozapine 병용 주의
+* sertraline : 25\~50 ㎎/d, 50\~200 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0310A0239">졸로푸트</a>]</mark>
+* Fluvoxamine의 기존 듀미록스 50·100 ㎎은 2022년 공급 중단 공지가 있어 현행 처방 선택목록에서 제외함. 해외 약물·기존 복용력을 확인할 때 CYP1A2·2C19 억제 작용과 tizanidine 병용 금기, theophylline·clozapine 상호작용에 유의
 * 고령 및 청소년, 간질환/불안증/공황장애 동반 시 저용량으로 시작
 
 {% hint style="warning" %}
@@ -456,14 +465,14 @@ graph TD
 
 * 통증 및 신체 증상 감소 효과가 있음
 * 부작용 : 구역, 발한, 변비, 성 기능 저하, 용량 의존적 혈압 상승(특히 venlafaxine 고용량 투여 시)
-* duloxetine : 적응을 위해 30 ㎎ qd로 1주간 시작 가능, 통상 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark>, <mark style="color:blue;">\[듀로셉톨]</mark>
+* duloxetine : 적응을 위해 30 ㎎ qd로 1주간 시작 가능, 통상 60 ㎎ qd <mark style="color:blue;">[<a href="https://health.kr/drug/2014052800008">드록틴</a>]</mark>, <mark style="color:blue;">\[<a href="https://health.kr/drug/2014063000023">듀로셉톨</a>]</mark>
   * 최대 120 ㎎/d까지 연구되었으나 60 ㎎/d 초과 용량의 추가 이익 근거는 없음
   * neuropathic pain 적응
   * 국내 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min)·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·협우각 녹내장 및 MAOI 관련 병용·휴약기간 금기(001 참조). 과음 환자에서도 간독성 위험을 고려하여 회피
   * 정신질환 치료용 MAOI 중단 후 14일 이내 duloxetine을 시작하지 않으며, duloxetine 중단 후 5일 이내 MAOI를 시작하지 않음. Linezolid·정맥주사용 methylene blue 등 MAOI 작용 약물도 제품별 금기 확인
-* venlafaxine XR : 37.5 ㎎/d, 최대 225 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
-* desvenlafaxine : 50\~100 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
-* milnacipran : 우울증은 25 ㎎/d로 시작하여 점차 증량, 유지 50 ㎎ bid(100 ㎎/d), 아침·저녁 식사 중 복용 <mark style="color:blue;">\[익셀]</mark>
+* venlafaxine XR : 37.5 ㎎/d, 최대 225 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11ADDDDD0700">이팩사 XR</a>]</mark>
+* desvenlafaxine : 50\~100 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/2014020700002">프리스틱</a>]</mark>
+* milnacipran : 우울증은 25 ㎎/d로 시작하여 점차 증량, 유지 50 ㎎ bid(100 ㎎/d), 아침·저녁 식사 중 복용 <mark style="color:blue;">[<a href="https://health.kr/drug/A11ACCCCC0074">익셀</a>]</mark>
   * 고령자의 우울증은 25 ㎎/d를 2\~3회 분할하여 시작하고 최대 60 ㎎/d; 신부전 환자는 신기능에 따라 감량
   * 국내 적응증은 우울증과 섬유근육통
 
@@ -471,31 +480,33 @@ graph TD
 
 * 부작용 및 과용 시 치명적 손상 위험을 고려하여 2차 선택
 * 주의 : 고령(부작용 증가), 갑상선항진증, 심혈관 질환, 간질환, 당뇨병(혈당 상승) 등. 약제별 금기를 먼저 확인하고 투여 가능한 환자에서 신중히 사용
-* 국내 amitriptyline(에트라빌) 금기 : 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, 부정맥, 급성 섬망, 중추신경억제제·알코올 급성 중독, 대뇌손상·무과립구증, MAOI 투여 중인 환자 등. TCA 과민증 및 첨가제 관련 금기도 확인하며, 다른 TCA에는 해당 제품의 허가사항을 각각 적용(001 참조)
+* 국내 amitriptyline(<a href="https://www.health.kr/drug/A11A0570A0148">에트라빌</a>) 금기 : 심근경색 회복 초기, 녹내장, 전립선비대 등 배뇨장애, 부정맥, 급성 섬망, 중추신경억제제·알코올 급성 중독, 대뇌손상·무과립구증, MAOI 투여 중인 환자 등. TCA 과민증 및 첨가제 관련 금기도 확인하며, 다른 TCA에는 해당 제품의 허가사항을 각각 적용(001 참조)
 * 부작용 : 입마름, 시야 흐림, 변비, 요 정체, 빈맥, 혼돈
 * 과량 복용 시 치명적이므로 자살 위험 환자에서는 처방량을 제한 (예: 1주분)
-* amitriptyline : 30\~75 ㎎/d를 2\~3회 분할 투여, 필요시 150 ㎎/d까지 점차 증량, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">\[에트라빌]</mark>
+* amitriptyline : 30\~75 ㎎/d를 2\~3회 분할 투여, 필요시 150 ㎎/d까지 점차 증량, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">[에트라빌]</mark>
   * 위 용량은 국내 우울증 허가 용법이며, 고용량은 전문진료에서 독성·심혈관 위험을 평가하여 결정. 001장의 저용량 허가 외 통증 용법과 구분
-* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
-* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
+* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">[이미프라민]</mark>
+* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11A1130A0033">센시발</a>]</mark>
 
 #### <mark style="color:$primary;">기타 항우울제</mark>
 
-* trazodone : 150 ㎎/d에서 시작(분할 투여), 외래 최대 400 ㎎/d·입원 최대 600 ㎎/d <mark style="color:blue;">\[트리티코]</mark>
+* trazodone : 150 ㎎/d에서 시작(분할 투여), 외래 최대 400 ㎎/d·입원 최대 600 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0300A0250">트리티코</a>]</mark>
   * 지속발기증(priapism) 주의
-* bupropion XL : 150 ㎎ qd로 시작, 필요시 300 ㎎ qd로 증량 <mark style="color:blue;">\[웰부트린 XL]</mark>
+* bupropion XL : 150 ㎎ qd로 시작, 필요시 300 ㎎ qd로 증량 <mark style="color:blue;">[<a href="https://health.kr/drug/A11APPPPP1135">웰부트린 XL</a>]</mark>
   * 정신운동 지체, 피로감, 집중력 저하에 유용
   * 초기 불안·불면 악화 가능
   * 뇌전증 또는 현재·과거 신경성 식욕부진증·폭식증 환자에게 금기; 강력한 CYP2D6 억제 작용
 * vilazodone : serotonin partial agonist & reuptake inhibitor(SPARI); 10\~40 ㎎/d (국내 미허가)
-* vortioxetine : 5\~20 ㎎/d <mark style="color:blue;">\[브린텔릭스]</mark>
+* vortioxetine : 성인 10 ㎎ qd 시작, 반응·내약성에 따라 5\~20 ㎎/d <mark style="color:blue;">\[<a href="https://health.kr/drug/2014082000025">브린텔릭스</a>]</mark>
   * serotonin 수용체 조절/자극; 인지 증상 개선 근거(일부 RCT)
-  * 구역 흔함
-* mirtazapine : 15\~45 ㎎/d <mark style="color:blue;">\[레메론]</mark>
+  * 구역 흔함; 65세 이상은 5 ㎎ qd 시작, 10 ㎎/d 이상은 신중히 사용. Bupropion·fluoxetine·paroxetine 등 강력한 CYP2D6 억제제 병용 시 감량 고려
+* mirtazapine : 15\~45 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB1118">레메론</a>]</mark>
   * 진정·졸림, 식욕 및 체중 증가, 어지럼에 주의
-* tianeptine : 12.5 ㎎ tid; 70세 이상·신기능 저하 시 25 ㎎/d <mark style="color:blue;">\[스타브론]</mark>
+* tianeptine : 12.5 ㎎ tid; 70세 이상·신기능 저하 시 25 ㎎/d <mark style="color:blue;">[<a href="https://health.kr/drug/A11ABBBBB2430">스타브론</a>]</mark>
   * 고용량 남용 시 opioid 유사 의존·금단 보고가 있어 물질사용 병력자에서 주의
-* agomelatine : melatonin MT1/MT2 수용체 작용제, 5-HT2C 수용체 길항제; 25\~50 ㎎ qd 취침 전 <mark style="color:blue;">\[아고틴]</mark>.
+<a id="agomelatine"></a>
+
+* agomelatine : melatonin MT1/MT2 수용체 작용제, 5-HT2C 수용체 길항제; 25\~50 ㎎ qd 취침 전 <mark style="color:blue;">[<a href="https://health.kr/drug/2024122700008">아고틴</a>]</mark>.
   * 모든 환자에서 시작 전 ALT/AST를 포함한 간기능검사를 하고 약 3·6·12·24주 및 임상적으로 필요할 때 재검; 증량 후 같은 일정 반복
   * transaminase 상승 시 48시간 이내 재검하고 ALT/AST ＞정상 상한의 3배이면 중단
   * 비만·과체중·비알코올성 지방간, 당뇨병, 알코올사용장애·상당량 음주 또는 간손상 위험 약물 병용 시 이익과 위험을 주의 깊게 평가함
@@ -538,8 +549,8 @@ graph TD
 **항정신병제**
 
 * 정신병적 양상(-)
-  * 1차 약물 : aripiprazole <mark style="color:blue;">\[아빌리파이]</mark>, quetiapine <mark style="color:blue;">\[쎄로켈]</mark>
-  * 2차 약물 : olanzapine <mark style="color:blue;">\[자이프렉사]</mark>, risperidone, ziprasidone
+  * 1차 약물 : aripiprazole <mark style="color:blue;">\[<a href="https://health.kr/drug/A11AKP08K0192">아빌리파이</a>]</mark>, quetiapine <mark style="color:blue;">\[<a href="https://health.kr/drug/A11AGGGGA5276">쎄로켈</a>]</mark>
+  * 2차 약물 : olanzapine <mark style="color:blue;">\[<a href="https://health.kr/drug/2024032800001">자이프렉사</a>]</mark>, risperidone, ziprasidone
 * 정신병적 양상(+)
   * 1차 약물 : aripiprazole, quetiapine(최우선), olanzapine
   * 2차 약물 : risperidone, paliperidone, blonanserin, ziprasidone, amisulpride
@@ -623,7 +634,7 @@ graph TD
 
 <table data-search="false"><thead><tr><th>동반 질환</th><th>1차 선택</th><th>2차 선택</th><th>3차 선택</th></tr></thead><tbody><tr><td>당뇨</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>고혈압</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>갑상선 질환</td><td>escitalopram</td><td>sertraline</td><td>fluoxetine</td></tr><tr><td>간/신장 질환</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>뇌전증</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>파킨슨병</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>만성통증</td><td>duloxetine</td><td>milnacipran</td><td>venlafaxine</td></tr><tr><td>심혈관 질환</td><td>sertraline</td><td>escitalopram</td><td>tianeptine</td></tr><tr><td>부정맥</td><td>sertraline</td><td>escitalopram</td><td>fluoxetine</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">약물 안정성을 고려한 항우울제의 선택</mark>
+#### <mark style="color:$primary;">약물 안전성을 고려한 항우울제의 선택</mark>
 
 <table><thead><tr><th width="148"></th><th width="233">1차 선택</th><th>2차 선택</th><th>3차 선택</th></tr></thead><tbody><tr><td>안전사고</td><td>bupropion</td><td>escitalopram</td><td>fluoxetine</td></tr><tr><td>세로토닌증후군</td><td>bupropion</td><td>tianeptine</td><td>agomelatine</td></tr><tr><td>기립성 저혈압</td><td>bupropion, escitalopram</td><td>mirtazapine</td><td></td></tr></tbody></table>
 
@@ -707,13 +718,15 @@ graph TD
 **Discontinuation Syndrome**
 
 * 증상 : 어지럼, 구역, 두통, 감각 이상(electric shock sensation), 불안, 불면, 과민성
-* 중단 후 1\~4일 내 발생
+* 대개 감량·중단 후 수일 이내 발생하나, fluoxetine 등 반감기가 긴 약물에서는 더 늦게 나타날 수 있음
 * 특히 위험한 약제 : paroxetine(비선형 약동학·항콜린 작용), venlafaxine(반감기 짧음 + 고용량 사용 빈번)
 * 원칙 : 갑작스러운 중단 금지. 수 주\~수개월에 걸쳐 서서히 감량. 용량이 낮아질수록 더 천천히 감량
 
 {% hint style="info" %}
-대규모 메타분석에서 중단 증상은 평균적으로 경미·일시적이었고 가장 흔한 것은 어지럼이었음 <mark style="color:$info;">\[JAMA Psychiatry 2025]</mark>. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
+RCT 메타분석에서 중단 1주 후 평균 증상 수의 차이는 작았고 어지럼이 가장 흔했음. 다만 이 평균 결과가 개별 환자의 중증·지속성 금단을 배제하지 않으며, 장기 복용 후 중단의 위험을 일률적으로 낮게 평가해서는 안 됨 <mark style="color:$info;">\[JAMA Psychiatry 2025]</mark>. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
 {% endhint %}
+
+<a id="treatment-resistant-depression-trd"></a>
 
 ## <mark style="color:green;">치료 저항성 우울증 (Treatment resistant depression, TRD)</mark>
 
@@ -724,7 +737,7 @@ graph TD
 * 정의 : 단일한 보편적 정의는 없으나, 임상적으로는 서로 다른 항우울제 ≥2가지를 각각 적절한 용량·기간 사용하고 순응도가 확보되었음에도 충분히 반응하지 않은 경우를 흔히 사용함
   * KMAP-DD 2025 전문가 설문에서는 항우울제 2제와 비정형 항정신병약물 병합 실패를 포함한 더 엄격한 정의가 가장 많이 선택되었으나(42.9%) 합의는 일치하지 않음
 * 우울증 환자 중 20\~30%가 해당
-* 원인 : 뇌하수체-시상하부-부신 축, 면역, glutamate system, 뇌유래신경영양인자(brain derived neurotrophic factor), 뇌의 구조적/기능적 이상, 유전
+* 관련 기전(가설) : 시상하부-뇌하수체-부신 축, 면역, glutamate system, 뇌유래신경영양인자(brain derived neurotrophic factor), 뇌의 구조적/기능적 이상, 유전
 * 위험인자 : 낮은 사회적 지지, 사회적 적응 부족, 부정적 생활 사건, 정신병적 양상, 물질남용, 불안장애, 자살 위험, 첫 번째 항우울제에 치료반응 없음, 멜랑콜리아 양상 동반
 
 ### <mark style="color:orange;">치료</mark>
@@ -740,15 +753,17 @@ graph TD
   * 정신자극제 : methylphenidate, modafinil
   * 갑상선 호르몬
   * esketamine
+<a id="esketamine"></a>
+
 * esketamine : NMDA 수용체 길항을 통해 빠른 항우울 효과를 나타내는 비강분무제 (국내 허가사항 기준)
   * TRD(＜65세) : 유도기(1\~4주, 주 2회) 1일째 56 ㎎ → 이후 56 또는 84 ㎎; 유지기 5\~8주 매주, 9주 이후 2주마다 또는 매주 56\~84 ㎎; 증상 개선 후에도 최소 6개월 치료
   * TRD(≥65세) : 초회 28 ㎎ → 이후 28\~84 ㎎(28 ㎎ 단위 증감)
   * 자살사고·행동 동반 MDD : 84 ㎎ 주 2회 4주(내약성에 따라 56 ㎎), 4주 후 경구 항우울제 지속 여부는 임상적 판단
   * 자살 예방 또는 자살사고·행동 감소 효과는 입증되지 않음
   * 경구 항우울제와 병용 투여
-  * 투여 후 최소 2시간 의료기관에서 진정·해리·호흡곤란·혈압 변화 관찰
-  * 투여 당일 숙면 후 다음 날까지 운전·기계조작 금지
-  * 약물 사용 관리 프로그램에 등록된 의료기관·의료전문가만 처방·투여, 등록된 약사만 조제 가능 <mark style="color:blue;">\[스프라바토 나잘 스프레이]</mark>
+  * 투여 전 혈압을 측정하고, 투여 약 40분 후 및 이후 필요시 재측정. 최소 2시간 의료기관에서 진정·해리·호흡억제·혈압 변화를 관찰하고 임상적으로 안정된 뒤 귀가
+  * 투여 후 당일에는 운전·기계조작을 하지 않으며, 다음 날 숙면을 취한 뒤에만 재개
+  * 약물 사용 관리 프로그램에 등록된 의료기관·의료전문가만 처방·투여, 등록된 약사만 조제 가능 <mark style="color:blue;">\[<a href="https://health.kr/drug/2020062400019">스프라바토 나잘 스프레이</a>]</mark>
 
 #### <mark style="color:$primary;">비약물학 요법</mark>
 
@@ -761,7 +776,7 @@ graph TD
   * 간헐적 세타버스트(iTBS)는 1회 약 3분으로 기존 rTMS와 비열등
 * 경두개 직류자극술(tDCS) : 약한 직류 전류로 피질 흥분성 조절
   * 단독 사용보다 항우울제 병용 시 효과 보고
-  * 아직 표준 치료로 권고되지 않음 (근거 수준 낮음)
+  * 치료 선택의 근거와 기기별 허가 범위를 구분. 미국 FDA는 2025-12-08 Flow FL-100을 약물치료 저항성이 아닌 18세 이상 중등도~중증 MDD의 단독 또는 보조 치료용으로 승인함. 이는 모든 tDCS 기기나 TRD에 대한 승인·일반 권고를 뜻하지 않으며, 사용하려는 기기의 허가·적용 조건은 별도로 확인
 * ECT : 중증·치료저항성·정신병적 양상·급성 자살 위기 시 가장 효과적; 전신마취 필요
 
 <mark style="color:cyan;">**심리 사회적 치료**</mark>
@@ -789,50 +804,61 @@ graph TD
 > **처방례 1.** 기본 - SSRI 단독
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
+> 렉사프로정 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
 > → 1~2주 후 10 ㎎/d로 증량
 > ※ 1차 판정 4~6주, 최종 판정 6~8주(최대 12주)
 > ※ 18~25세 또는 자살 위험이 높은 환자: 시작·증량 1주 이내 검토 후 필요에 따라 자주 모니터링
 > ※ 고령자 중 저체중, 낮은 기초 Na·과거 저나트륨혈증, 이뇨제 등 위험약물 병용 시 투약 전 Na 확인 및 시작·증량 1~2주 후 재검 고려
-> ※ 치료 반응 시 최소 6~12개월 유지; 중단 시 복용 기간·용량·약제 및 과거 중단 증상에 따라 수 주~수개월에 걸쳐 단계적으로 감량
+> ※ 관해 후 최소 6~12개월 유지; 중단 시 복용 기간·용량·약제 및 과거 중단 증상에 따라 수 주~수개월에 걸쳐 단계적으로 감량
 > ```
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475)
 
-> **처방례 2.** SNRI 선택 (통증 동반 또는 SSRI 불내성)
+
+> **처방례 2.** SNRI 선택 (SSRI 불내성 또는 기존 반응이 확인된 경우)
 >
 > ```
-> 이팩사엑스알서방캡슐 37.5 ㎎  1C  qd  조식 후  (첫 1~2주)
-> → 2주 후 75 ㎎으로 증량; 필요시 최대 225 ㎎까지
+> 이팩사엑스알서방캡슐 37.5 ㎎  1C  qd  조식 후  (첫 4~7일)
+> → 내약성 확인 후 75 ㎎ qd로 증량; 2주 후 추가 개선이 필요하면 150 ㎎/d 고려
+> → 이후 1회 증량폭 75 ㎎/d 이하, 적어도 4일 이상 간격으로 조절(최대 225 ㎎/d)
 > ※ 고용량 시 용량 의존적 혈압 상승 가능(특히 venlafaxine) - 혈압 모니터링
 > ※ discontinuation syndrome 위험 높음 - 갑작스러운 중단 금지, 반드시 서서히 감량
 > ```
+> 약제 정보: [이팩사엑스알서방캡슐·37.5 ㎎](https://health.kr/drug/A11ADDDDD0700)
+
 
 > **처방례 3.** 수면 장애 동반
 >
 > ```
-> 레메론 15 ㎎/T  1T  hs
+> 레메론정 15 ㎎/T  1T  hs
 > ※ 졸림, 체중 증가 부작용 사전 설명
 > ※ 수면 개선 효과는 수일 내 나타나나 항우울 효과는 2~4주 소요
 > ※ 저용량에서 진정이 두드러질 수 있으나 개인차가 크며, 증량하면 진정이 반드시 감소한다고 단정하지 않음
 > ```
+> 약제 정보: [레메론정·15 ㎎](https://health.kr/drug/A11ABBBBB1118)
+
 
 > **처방례 4.** 신경성 폭식증 동반
 >
 > ```
-> 푸록틴 20 ㎎/C  1C  qd  아침
+> 푸록틴캡슐 20 ㎎/C  1C  qd  아침
 > → 내약성을 보며 60 ㎎ qd로 증량
 > ※ 신경성 폭식증의 근거·허가 용량은 60 ㎎/d이며, 20 ㎎/d를 치료용량으로 유지하지 않음
 > ※ 다른 약물과의 상호 작용(CYP2D6 억제) 주의
 > ```
+> 약제 정보: [푸록틴캡슐·20 ㎎](https://health.kr/drug/A11ABBBBB0367)
+
 
 > **처방례 5.** 고령자
 >
 > ```
-> 렉사프로 5 ㎎/T  1T  qd  조식 후
+> 렉사프로정 5 ㎎/T  1T  qd  조식 후
 > ※ 5 ㎎/d로 시작, 통상 10 ㎎/d 이내 (QT 연장)
 > ※ 투약 전·시작 1~2주 후 Na 확인 (SIADH 고위험군)
 > ※ NSAID·항혈소판제 병용 시 위장관 출혈 위험 - PPI 고려
 > ※ 낙상 위험 평가; paroxetine·TCA 등 항콜린성 약제 회피
 > ```
+> 약제 정보: [렉사프로정·5 ㎎](https://health.kr/drug/A11AOOOOO5475)
+
 
 ***
 
@@ -847,18 +873,18 @@ graph TD
 > * 진통소염제(NSAID)·아스피린·항응고제를 함께 복용하면 위장 출혈 위험이 높아질 수 있으므로 복용 중인 약을 모두 알려 주십시오.
 > * 졸림을 유발하는 약(미르타자핀, 트라조돈 등)은 효과를 확인하기 전까지 운전·위험한 기계 조작을 피하십시오.
 > * 임신 중이거나 임신을 계획 중이면 임의로 중단하지 말고 담당 의사와 상의하십시오.
-> * 25세 미만이거나 자살 위험이 있는 경우에는 복용 초기와 용량 변경 후 더 이른 추적이 필요합니다. 연령과 관계없이 우울감 악화나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
+> * 18~25세이거나 자살 위험이 있는 경우에는 복용 초기와 용량 변경 후 더 이른 추적이 필요합니다. 연령과 관계없이 우울감 악화나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 자해·자살을 실행할 생각이나 구체적 계획·수단이 있거나 스스로 안전을 지키기 어려우면 혼자 있지 말고 즉시 **112·119 또는 응급실**에 도움을 요청하십시오. 위기상담은 **자살예방 상담전화 109**(24시간)를 이용할 수 있습니다.
+> * 자해·자살을 실행할 생각이나 구체적 계획·수단이 있거나 스스로 안전을 지키기 어려우면 혼자 있지 말고 즉시 **112·119 또는 응급실**에 도움을 요청하십시오. 위기상담은 **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**를 이용할 수 있습니다.
 > * 4\~6주 복용 후에도 증상이 거의 나아지지 않는 경우
 > * 심한 위장 장애, 두근거림, 발진 등 부작용이 나타나는 경우
 > * 기분이 지나치게 고양되거나 잠이 전혀 없어지는 경우 (조증 전환 가능성)
 
 ***
 
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">참고문헌</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
@@ -879,6 +905,12 @@ graph TD
 * [Hirschfeld RM, et al. Development and validation of a screening instrument for bipolar spectrum disorder: the Mood Disorder Questionnaire. Am J Psychiatry. 2000;157(11):1873-1875.](https://doi.org/10.1176/appi.ajp.157.11.1873) - MDQ 원개발 연구
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [삼성서울병원 약제부. 듀미록스 50·100 ㎎ 공급 중단 공지. 2022.](https://www.samsunghospital.com/dept/main/bbsView.do?CID=33388&DP_CODE=PH&MENU_ID=006029&cPage=30)
+* [아고틴정25 ㎎ 현행 품목 허가사항](https://health.kr/drug/2024122700008) - 적응증·간기능 및 연령 제한
+
+* [FDA. Flow FL-100 PMA P230024; approval 2025-12-08.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230024) - 약물치료 저항성이 아닌 성인 중등도~중증 주요우울장애에 대한 기기별 승인
+* [블루케어 제품 정보](https://www.bluekare.kr/) · [마인즈에이아이 제품 개발·허가 현황](https://www.mindsai.co.kr/ko/rnd) - 디지털 중재 제품별 사용 방식 확인
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성; duloxetine의 간·신장애 등 금기와 MAOI 휴약기간, amitriptyline의 제품별 금기를 확인
 * [건강보험심사평가원. SSRI 등 항우울제 급여기준 관련 질의 및 응답. 고시 제2022-268호 관련 (2022-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201&mtgMtrRegSno=0011&sno=8) - 타 진료과의 우울증상에 대한 반복 처방·의뢰 조건; 개별 약제의 현행 급여 기준은 별도 확인 (확인일 2026-10-11)
@@ -903,7 +935,7 @@ graph TD
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : 항우울제를 주로 사용; 약 효과는 보통 2\~4주에 걸쳐 서서히 나타나므로 꾸준히 복용이 중요
-* **치료 기간** : 증상이 좋아진 후에도 재발 방지를 위해 보통 **6\~12개월 이상** 유지 권장
+* **치료 기간** : 증상이 충분히 회복된 뒤(관해 후)에도 재발 방지를 위해 보통 **6\~12개월 이상** 유지 권장
 * **비약물 치료** : 가벼운\~중간 정도 우울증에서는 인지행동치료가 약물치료와 비슷한 효과를 보이며, 증상이 심할수록 약과 함께할 때 더 효과적입니다. 마음챙김 기반 인지치료는 재발 예방에 도움이 됩니다.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
@@ -915,7 +947,7 @@ graph TD
 
 #### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
-* 자해·자살을 실행할 생각이나 구체적 계획·수단이 있거나 스스로 안전을 지키기 어려우면 혼자 있지 말고 즉시 **112·119 또는 응급실**에 도움을 요청하십시오. 위기상담은 **자살예방 상담전화 109**(24시간)를 이용할 수 있습니다.
+* 자해·자살을 실행할 생각이나 구체적 계획·수단이 있거나 스스로 안전을 지키기 어려우면 혼자 있지 말고 즉시 **112·119 또는 응급실**에 도움을 요청하십시오. 위기상담은 **자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**를 이용할 수 있습니다.
 * 갑자기 기분이 너무 좋아지고 잠이 없어지며 말이 많아지는 경우 (조증 전환 가능성)
 * 약 복용 후 심한 부작용이 나타나는 경우
 
@@ -931,4 +963,4 @@ graph TD
 
 #### <mark style="color:$primary;">우울증 vs 슬픔 vs 번아웃 - 어떻게 다른가요?</mark>
 
-우울증은 단순한 슬픔이나 번아웃과 다릅니다. 슬픔은 파동성이 있어 좋아지는 순간이 있고 자존감이 유지되지만, 우울증은 하루 대부분 지속되며 무가치감·죄책감을 동반합니다. 번아웃은 직무 스트레스에서 비롯되며 휴식 시 일부 회복되지만, 우울증은 휴식과 무관하게 지속됩니다. 자살 사고가 있다면 우울증을 반드시 의심하고 즉시 내원하십시오.
+우울증은 단순한 슬픔이나 번아웃과 다릅니다. 슬픔은 파동성이 있어 좋아지는 순간이 있고 자존감이 유지되지만, 우울증은 하루 대부분 지속되며 무가치감·죄책감을 동반합니다. 번아웃은 직무 스트레스에서 비롯되며 휴식 시 일부 회복되지만, 우울증은 일 외의 생활에도 영향을 주며 휴식만으로 충분히 회복되지 않을 수 있습니다. 슬픔·번아웃과 우울증은 함께 나타날 수도 있습니다. 자살 사고가 있다면 우울증을 반드시 의심하고 즉시 내원하십시오.
