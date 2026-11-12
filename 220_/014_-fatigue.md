@@ -224,29 +224,30 @@
 
 ```mermaid
 flowchart TD
-    A["피로"] --> B{"즉각 조치 위험징후?"}
+    A["피로"] --> B["즉각 조치 위험징후?"]
     B -- "예" --> C["즉시 응급 평가·이송"]
-    B -- "아니오" --> D{"당일 평가 위험징후?"}
+    B -- "아니오" --> D["당일 평가 위험징후?"]
     D -- "예" --> E["당일 원인 평가·의뢰"]
-    D -- "아니오" --> F["`피로·졸림·객관적 근력 저하 구분
-수면·기분·약물·기질질환 단서 확인`"]
-    F --> G{"활동 후 지연된 증상 악화·PEM?"}
-    G -- "예" --> H["`ME/CFS·Long COVID 평가
-고정 증량 운동 회피·에너지 관리`"]
+    D -- "아니오" --> F["<u>피로·졸림·객관적 근력 저하 구분</u><br/>• 수면·기분·약물·기질질환 단서 확인"]
+    F --> G["활동 후 지연된 증상 악화·PEM?"]
+    G -- "예" --> H["<u>ME/CFS·Long COVID 평가</u><br/>• 고정 증량 운동 회피·에너지 관리"]
     G -- "아니오" --> I["원인에 맞춘 생활 조정·치료"]
-    H --> J["`병력·진찰에 따른 표적 검사
-기능 저하·암 의심 단서는 조기 평가`"]
+    H --> J["<u>병력·진찰에 따른 표적 검사</u><br/>• 기능 저하·암 의심 단서는 조기 평가"]
     I --> J
-    J --> K["`중증도에 따라 2~4주 내 추적
-지속·악화 시 진단 재검토`"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#f8cecc,stroke:#b85450
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
+    J --> K["<u>중증도에 따라 2~4주 내 추적</u><br/>• 지속·악화 시 진단 재검토"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,D,G decision
+    class B,D,G question
     class C emergency
-    class E,F,H,I,J,K treatment
+    class E,F,J evaluation
+    class H,I treatment
+    class K followup
 ```
 
 <p align="center"><strong>피로 평가 알고리듬</strong></p>

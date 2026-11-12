@@ -207,23 +207,30 @@
 
 ```mermaid
 flowchart TD
-    Start["성인 급성 기침 ＜3주"] --> Urgent{"즉각 조치 소견?"}
-    Urgent -- "예" --> Emergency["기도·호흡·순환 안정화 및 응급 이송<br>흉부 X선 때문에 처치를 지연하지 않음"]
-    Urgent -- "아니오" --> Alarm{"경고 징후·기저질환 악화<br>또는 2주 이상 지속?"}
+    Start["성인 급성 기침 ＜3주"] --> Urgent["즉각 조치 소견?"]
+    Urgent -- "예" --> Emergency["<u>기도·호흡·순환 안정화 및 응급 이송</u><br/>• 흉부 X선 때문에 처치를 지연하지 않음"]
+    Urgent -- "아니오" --> Alarm["경고 징후·기저질환 악화<br/>또는 2주 이상 지속?"]
     Alarm -- "아니오" --> Symptomatic["자연 경과 설명 및 필요 시 단기 대증 치료"]
-    Alarm -- "예" --> Xray["흉부 X선 및 원인에 따른 검사<br>2주 이상이면 결핵 감별"]
+    Alarm -- "예" --> Xray["<u>흉부 X선 및 원인에 따른 검사</u><br/>• 2주 이상이면 결핵 감별"]
     Symptomatic -- "호전" --> Follow["대증약 중단 검토 및 추적"]
     Symptomatic -- "지속·악화" --> Xray
     Xray -- "이상 또는 원인 질환 의심" --> Treat["원인 질환 평가·치료"]
-    Xray -- "정상" --> Risk{"경고 징후가 지속되거나<br>악성질환·흡인 등 의심?"}
-    Risk -- "예" --> Refer["전문 평가<br>필요 시 CT·기관지내시경 등"]
-    Risk -- "아니오" --> Duration["증상 지속 기간에 맞춰 재평가<br>3~8주 미만: 아급성 기침 경로<br>≥8주: 만성기침 경로"]
+    Xray -- "정상" --> Risk["경고 징후가 지속되거나<br/>악성질환·흡인 등 의심?"]
+    Risk -- "예" --> Refer["<u>전문 평가</u><br/>• 필요 시 CT·기관지내시경 등"]
+    Risk -- "아니오" --> Duration["<u>증상 지속 기간에 맞춰 재평가</u><br/>• 3~8주 미만: 아급성 기침 경로<br/>• ≥8주: 만성기침 경로"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
-    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class Start start
     class Urgent,Alarm,Risk question
-    class Symptomatic,Follow,Treat,Refer,Duration treatment
-    style Emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class Emergency emergency
+    class Xray,Refer,Duration evaluation
+    class Symptomatic,Treat treatment
+    class Follow followup
 ```
 
 <p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한결핵 및 호흡기학회 개정 기침진료지침 2020)</mark></em></p>
@@ -231,38 +238,36 @@ flowchart TD
 ***
 
 ```mermaid
-graph TD
-    Start["성인 3주 이상~8주 미만 기침"] --> Urgent{"즉각 조치 소견?"}
+flowchart TD
+    Start["성인 3주 이상~8주 미만 기침"] --> Urgent["즉각 조치 소견?"]
     Urgent -- "예" --> Emergency["응급 평가 및 안정화"]
-    Urgent -- "아니오" --> Xray["병력청취, 신체진찰<br/>흉부 X선·기존 영상 확인"]
-    
-    Xray -- "비정상" --> TreatCause["원인 질환 치료 및 <br/>추가 검사"]
-    
-    Xray -- "정상" --> RedFlags["객혈, 일측성 천명음/협착음, 쉰 목소리,<br/>전신증상, 흡인위험(구토·연하곤란·잦은 폐렴·섭식장애),<br/>흡연력 등 폐암 위험인자가 있는<br/>환자의 새 기침·양상 변화"]
+    Urgent -- "아니오" --> Xray["<u>병력청취, 신체진찰</u><br/>• 흉부 X선·기존 영상 확인"]
+    Xray -- "비정상" --> TreatCause["원인 질환 치료 및<br/>추가 검사"]
+    Xray -- "정상" --> RedFlags["<u>경고 징후?</u><br/>• 객혈, 일측성 천명음/협착음, 쉰 목소리, 전신증상<br/>• 흡인위험(구토·연하곤란·잦은 폐렴·섭식장애)<br/>• 흡연력 등 폐암 위험인자가 있는 환자의 새 기침·양상 변화"]
     RedFlags -- "있음" --> CT["흉부 CT 촬영 ±<br/>기관지내시경 검사"]
     RedFlags -- "없음" --> PostInfectious["선행 호흡기 감염 병력?"]
     CT -- "비정상" --> TreatCause
     CT -- "정상" --> PFT["폐 기능검사와<br/>기관지유발 검사"]
     PFT -- "비정상" --> TreatCause
-    PFT -- "정상" --> Chronic["만성 기침에 준한 <br/>평가와 치료"]
-    PostInfectious -- "있음" --> Symptomatic["자연 경과 설명·추적 관찰*<br/>± 단기 증상 완화"]
+    PFT -- "정상" --> Chronic["만성 기침에 준한<br/>평가와 치료"]
+    PostInfectious -- "있음" --> Symptomatic["<u>자연 경과 설명·추적 관찰*</u><br/>• ± 단기 증상 완화"]
     PostInfectious -- "없음" --> Chronic
-    
     Symptomatic -- "호전" --> FollowUp["대증약 중단 검토 및<br/>추적 평가"]
     Symptomatic -- "호전 없음" --> Chronic
-    
     FollowUp -- "악화·재발 또는 ≥8주 지속" --> Chronic
-    %% 스타일 설정
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style RedFlags fill:#fff9c4,stroke:#ffe082
-    style Urgent fill:#fff9c4,stroke:#ffe082
-    style Emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style Symptomatic fill:#e1f5fe,stroke:#01579b
-    style PostInfectious fill:#fff9c4,stroke:#ffe082
-    style FollowUp fill:#e1f5fe,stroke:#01579b
-    style TreatCause fill:#e1f5fe,stroke:#01579b
-    style Chronic fill:#e1f5fe,stroke:#01579b
 
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class Start start
+    class Urgent,RedFlags,PostInfectious question
+    class Emergency emergency
+    class Xray,CT,PFT evaluation
+    class TreatCause,Chronic,Symptomatic treatment
+    class FollowUp followup
 ```
 
 _\*단순 PIC는 항생제 적응증이 아님. 백일해가 의심되면 기침 기간·노출력·전파 위험에 따라 검사와 치료를 고려함. 폐렴 등 별도 감염성 질환이 의심되면 해당 진단에 따라 평가·치료하며, 지속 기침만으로 Mycoplasma 감염을 추정하여 항생제를 처방하지 않음. 새 Red Flags는 기간과 무관하게 재평가함_
@@ -272,35 +277,39 @@ _\*단순 PIC는 항생제 적응증이 아님. 백일해가 의심되면 기침
 ***
 
 ```mermaid
-graph TD
-    Start["성인 만성기침 ≥8주<br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
-    Start --> Urgent{"즉각 조치 소견?"}
+flowchart TD
+    Start["<u>성인 만성기침 ≥8주</u><br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
+    Start --> Urgent["즉각 조치 소견?"]
     Urgent -- "예" --> Emergency["응급 평가 및 안정화"]
-    Urgent -- "아니오" --> Basic["기본 평가<br/>• 흉부 X선<br/>• 폐 기능검사<br/>• ± FeNO / 혈중 eosinophils"]
+    Urgent -- "아니오" --> Basic["<u>기본 평가</u><br/>• 흉부 X선<br/>• 폐 기능검사<br/>• ± FeNO / 혈중 eosinophils"]
     Basic --> Abnormal["이상 소견 또는<br/>특이적 임상 단서?"]
-    Abnormal -- "있음" --> Specific["추정 질환에 대한 <br/>표적 검사·치료<br/>• 감염/결핵/<br/>기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요시 CT<br/>·기관지내시경"]
+    Abnormal -- "있음" --> Specific["<u>추정 질환에 대한 표적 검사·치료</u><br/>• 감염/결핵/기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요시 CT·기관지내시경"]
     Abnormal -- "없음" --> Traits["치료 가능한 특성<br/>(treatable traits) 평가"]
-    Traits --> Eos["T2/eosinophilic <br/>airway disease 의심<br/>CVA/NAEB <br/>→ ICS 중심 치료"]
-    Traits --> Upper["비염/비부비동염 소견<br/>→ 비강 스테로이드 ±<br/> 항히스타민제 등"]
-    Traits --> Reflux["Heartburn/<br/>regurgitation 또는<br/>객관적 acid reflux 근거<br/>→ 생활습관 교정 ± PPI"]
-    Traits --> Productive["만성 productive <br/>cough<br/>→ 감염·<br/> 기관지확장증 등 평가"]
+    Traits --> Eos["<u>T2/eosinophilic airway disease 의심</u><br/>• CVA/NAEB → ICS 중심 치료"]
+    Traits --> Upper["<u>비염/비부비동염 소견</u><br/>• 비강 스테로이드 ± 항히스타민제 등"]
+    Traits --> Reflux["<u>Heartburn/regurgitation 또는 객관적 acid reflux 근거</u><br/>• 생활습관 교정 ± PPI"]
+    Traits --> Productive["<u>만성 productive cough</u><br/>• 감염·기관지확장증 등 평가"]
     Eos --> FU["치료 반응 평가"]
     Upper --> FU
     Reflux --> FU
     Productive --> FU
     Specific --> FU
-    FU -- "호전" --> Maintain["필요 기간 치료 후 <br/> 단계적 감량·추적"]
-    FU -- "지속" --> Add["추가 평가<br/>• Methacholine challenge<br/>• 유도객담 eosinophils<br/>• Chest CT<br/>• ENT/후두 평가<br/>• 식도 생리검사 등 선택"]
-    Add --> RCC["RCC/UCC 여부 평가<br/>+ 기침과민 특성 확인<br/>→ cough control therapy<br/>± neuromodulator"]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Abnormal fill:#fff9c4,stroke:#ffe082
-    style Traits fill:#fff9c4,stroke:#ffe082
-    style FU fill:#fff9c4,stroke:#ffe082
-    style Urgent fill:#fff9c4,stroke:#ffe082
-    style Emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef treatment fill:#e1f5fe,stroke:#01579b
-    class Specific,Eos,Upper,Reflux,Productive,Add,RCC treatment
-    style Maintain fill:#e1f5fe,stroke:#01579b
+    FU -- "호전" --> Maintain["필요 기간 치료 후<br/>단계적 감량·추적"]
+    FU -- "지속" --> Add["<u>추가 평가</u><br/>• Methacholine challenge<br/>• 유도객담 eosinophils<br/>• Chest CT<br/>• ENT/후두 평가<br/>• 식도 생리검사 등 선택"]
+    Add --> RCC["<u>RCC/UCC 여부 평가</u><br/>• 기침과민 특성 확인<br/>• cough control therapy ± neuromodulator"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class Start start
+    class Urgent,Abnormal,Traits,FU question
+    class Emergency emergency
+    class Basic,Productive,Add evaluation
+    class Specific,Eos,Upper,Reflux,RCC treatment
+    class Maintain followup
 ```
 
 <p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em><br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>

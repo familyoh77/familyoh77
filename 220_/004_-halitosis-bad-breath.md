@@ -165,28 +165,35 @@
 
 ```mermaid
 flowchart TD
-    A["구취 호소"] --> B{"응급·신속 평가 Red Flags?"}
+    A["구취 호소"] --> B["응급·신속 평가 Red Flags?"]
     B -- "응급" --> C["DKA·기도 위협 등 즉시 응급 평가"]
     B -- "당일·수일" --> D["동반 질환 평가·시급성에 맞춰 의뢰"]
     B -- "없음" --> E["병력·구강 검진·관능검사"]
     D --> E
-    E --> F{"객관적 구취 확인?"}
+    E --> F["객관적 구취 확인?"]
     F -- "없음·불확실" --> G["표준 조건 재평가·결과 설명"]
-    G --> H{"반복 확인·회피·기능 저하 지속?"}
+    G --> H["반복 확인·회피·기능 저하 지속?"]
     H -- "예" --> I["ORD·불안·우울 평가 및 상담"]
     H -- "아니오" --> J["일상 위생 관리·필요시 추적"]
     F -- "있음" --> K["설태·치주질환·구강건조 원인 치료"]
     K --> L["구강 위생·치과 치료·선택적 가글"]
-    L --> M{"2~4주 후 호전?"}
+    L --> M["2~4주 후 호전?"]
     M -- "예" --> J
     M -- "아니오" --> N["구강 원인 재점검·증상별 비구강 원인 평가"]
     N --> O["치과·이비인후과·해당 진료과 의뢰"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
     class B,F,H,M question
-    class D,E,G,I,J,K,L,N,O treatment
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffcdd2,stroke:#c62828
+    class C emergency
+    class D,E,G,N,O evaluation
+    class I,K,L treatment
+    class J followup
 ```
 
 <p align="center"><strong>구취증 관리 알고리듬</strong></p>

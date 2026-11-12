@@ -127,41 +127,28 @@
 
 ```mermaid
 flowchart TD
-    A([발열 환자]) --> B{"`임상 불안정
-또는 고위험군?`"}
-    B -- "예" --> C["`즉시 원인 평가
-필요시 응급실·입원
-패혈증/중증감염 우선 배제`"]
-    B -- "아니오" --> D{"`명확한 감염 초점?
-(폐·요로·복부 외 피부·CNS·ENT·
-관절·심내막염 등도 포함 가능)`"}
-    D -- "폐렴·LRTI 의심" --> E["`필요시 CXR
-·바이러스 검사
-± CBC/CRP`"]
-    D -- "요로" --> F["`U/A + 소변 배양
-필요시 CBC/Cr`"]
-    D -- "급성 복부질환 의심" --> G["`필요시 CBC/CRP·LFT/Lipase
-초음파 또는 CT`"]
-    D -- "기타 부위별 초점" --> G2["`해당 질환별 챕터·
-지침에 따라 평가`"]
-    D -- "없음" --> H{"경과와 기간?"}
-    H -- "급성·경증 바이러스 임상상" --> I["`검사 없이 
-경과 관찰 가능
-안전망 안내`"]
-    H -- "지속·비전형 또는 악화" --> J["`병력·진찰 반복
-CBC/CRP, U/A 등
-임상 단서에 따라 
-검사 확대`"]
+    A["발열 환자"] --> B["임상 불안정<br/>또는 고위험군?"]
+    B -- "예" --> C["<u>즉시 원인 평가</u><br/>• 필요시 응급실·입원<br/>• 패혈증/중증감염 우선 배제"]
+    B -- "아니오" --> D["명확한 감염 초점?<br/>(폐·요로·복부 외 피부·CNS·ENT·관절·심내막염 등도 포함 가능)"]
+    D -- "폐렴·LRTI 의심" --> E["<u>폐렴·LRTI 의심 시 검사</u><br/>• 필요시 CXR·바이러스 검사 ± CBC/CRP"]
+    D -- "요로" --> F["<u>U/A + 소변 배양</u><br/>• 필요시 CBC/Cr"]
+    D -- "급성 복부질환 의심" --> G["<u>급성 복부질환 의심 시 검사</u><br/>• 필요시 CBC/CRP·LFT/Lipase<br/>• 초음파 또는 CT"]
+    D -- "기타 부위별 초점" --> G2["해당 질환별 챕터·지침에 따라 평가"]
+    D -- "없음" --> H["경과와 기간?"]
+    H -- "급성·경증 바이러스 임상상" --> I["<u>검사 없이 경과 관찰 가능</u><br/>• 안전망 안내"]
+    H -- "지속·비전형 또는 악화" --> J["<u>병력·진찰 반복</u><br/>• CBC/CRP, U/A 등<br/>• 임상 단서에 따라 검사 확대"]
     J -- "≥3주 + 적절한 최소 표준 평가 후에도 원인 불명" --> K["FUO 평가"]
-    classDef start  fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef red    fill:#ff6b6b,stroke:#c0392b,color:#fff
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    classDef blue fill:#dae8fc,stroke:#6c8ebf
-    class A start
-    class C red
-    class E,F,G,G2,I,J,K blue
-    class B,D,H yellow
 
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
+    class B,D,H question
+    class C emergency
+    class E,F,G,G2,J,K evaluation
+    class I followup
 ```
 
 <p align="center"><strong>발열의 초기 평가 알고리듬</strong></p>
@@ -285,41 +272,27 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
 
 ```mermaid
 flowchart TD
-    A([발열 환자]) --> B{"`쇼크·패혈증성 저관류
-또는 중증 세균감염 의심?`"}
-    B -- "예" --> C["`sepsis protocol
-가능한 한 배양 채취 후 
-신속한 항생제
-필요시 IV crystalloid·입원`"]
-    B -- "아니오" --> D{"`Hyperthermia
-열사병 의심?`"}
-    D -- "예" --> E["`신속한 active cooling
-응급 처치·이송`"]
-    D -- "아니오" --> F{"원인 파악?"}
-    F -- "세균 감염" --> G["`감염 초점·원인균에 
-맞춘 항생제`"]
-    F -- "바이러스 감염" --> H["`대증 치료·안전망 안내
-위험군·발병시점에 따라
-항바이러스 치료 평가`"]
-    F -- "약물열" --> I["`의심 약물 중단 여부 평가
-(항경련제·스테로이드 등은
-임의 급중단 금지)
-경과 관찰`"]
-    F -- "비감염성 (염증·종양·자가면역)" --> J["`원인 평가
-필요시 전문과 의뢰`"]
-    F -- "원인 불명" --> K["`지속성 발열 재평가
-≥3주 지속되고 적절한 
-최소 표준
-평가 후에도 원인 불명이면 
-FUO 평가`"]
-    classDef red    fill:#ff6b6b,stroke:#c0392b,color:#fff
-    classDef start  fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-        classDef blue fill:#dae8fc,stroke:#6c8ebf
+    A["발열 환자"] --> B["쇼크·패혈증성 저관류<br/>또는 중증 세균감염 의심?"]
+    B -- "예" --> C["<u>sepsis protocol</u><br/>• 가능한 한 배양 채취 후 신속한 항생제<br/>• 필요시 IV crystalloid·입원"]
+    B -- "아니오" --> D["Hyperthermia<br/>열사병 의심?"]
+    D -- "예" --> E["<u>신속한 active cooling</u><br/>• 응급 처치·이송"]
+    D -- "아니오" --> F["원인 파악?"]
+    F -- "세균 감염" --> G["감염 초점·원인균에<br/>맞춘 항생제"]
+    F -- "바이러스 감염" --> H["<u>대증 치료·안전망 안내</u><br/>• 위험군·발병시점에 따라 항바이러스 치료 평가"]
+    F -- "약물열" --> I["<u>의심 약물 중단 여부 평가</u><br/>• 항경련제·스테로이드 등은 임의 급중단 금지<br/>• 경과 관찰"]
+    F -- "비감염성 (염증·종양·자가면역)" --> J["<u>원인 평가</u><br/>• 필요시 전문과 의뢰"]
+    F -- "원인 불명" --> K["<u>지속성 발열 재평가</u><br/>• ≥3주 지속되고 적절한 최소 표준 평가 후에도 원인 불명이면 FUO 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
-    class C,E red
-    class G,H,I,J,K blue
-    class B,D,F yellow
+    class B,D,F question
+    class C,E emergency
+    class J,K evaluation
+    class G,H,I treatment
 ```
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Surviving Sepsis Campaign 2026,</mark></em><br><em><mark style="color:$info;">SCCM Heat Stroke Guideline 2025, SCCM/IDSA 2023 등)</mark></em></p>

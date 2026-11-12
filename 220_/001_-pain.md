@@ -141,27 +141,34 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 
 ```mermaid
 flowchart TD
-    A["통증 호소"] --> B{"응급 Red Flags?"}
+    A["통증 호소"] --> B["응급 Red Flags?"]
     B -- "예" --> C["응급 평가 및 안정화"]
-    B -- "아니오" --> D{"당일·조기 평가 소견?"}
+    B -- "아니오" --> D["당일·조기 평가 소견?"]
     D -- "예" --> E["시급성에 맞춘 원인 평가"]
     D -- "아니오" --> F["기전·원인·기능·위험도 평가"]
     E --> F
     F --> G["질환별 치료와 비약물 치료 선택"]
-    G --> H{"금기·상호작용·고위험 병용?"}
+    G --> H["금기·상호작용·고위험 병용?"]
     H -- "예" --> I["약제·용량·병용 재조정"]
     I --> H
     H -- "아니오" --> J["최소 유효 용량으로 치료"]
     J --> K["급성 1~2주·만성 2~4주 내 재평가"]
-    K --> L{"의미 있는 통증·기능 개선?"}
+    K --> L["의미 있는 통증·기능 개선?"]
     L -- "예" --> M["최소 유효 치료·감량 여부 검토"]
     L -- "아니오" --> N["진단·복약 재평가 및 필요시 전문의 의뢰"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
     class B,D,H,L question
-    class E,F,G,I,J,K,M,N treatment
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    class C emergency
+    class E,F,I,N evaluation
+    class G,J,M treatment
+    class K followup
 ```
 
 <p align="center"><strong>통증 관리 알고리듬</strong></p>
@@ -417,26 +424,32 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 ```mermaid
 flowchart TD
     A["비암성 통증에서 opioid 고려"] --> B["원인·선행 치료·기능·위험 평가"]
-    B --> C{"예상 이득이 위험보다 큼?"}
+    B --> C["예상 이득이 위험보다 큼?"]
     C -- "아니오" --> D["치료 재검토·전문의 협진"]
     C -- "예" --> E["목표·중단 계획 공유"]
     E --> F["속방형 최소 유효 용량 시작"]
     F --> G["고위험군 날록손 접근·과다복용 교육"]
     G --> H["1~4주 내 효과·기능·위해 재평가"]
-    H --> I{"이득이 위험보다 큼?"}
+    H --> I["이득이 위험보다 큼?"]
     I -- "예" --> J["최소 유효량 유지·감량 필요성 검토"]
     I -- "아니오" --> K["환자와 단계적 감량·전환 계획"]
-    J --> L{"50 MME/d 이상 증량 고려?"}
+    J --> L["50 MME/d 이상 증량 고려?"]
     L -- "예" --> M["증량 전 재평가·추적 강화"]
     L -- "아니오" --> H
     M --> H
     K --> N["장기 복용은 통상 월 10% 이하로 개별 감량"]
     N --> O["금단·통증·정신건강 추적"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
     class C,I,L question
-    class B,D,E,F,G,H,J,K,M,N,O treatment
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class B,D,H,M evaluation
+    class E,F,G,K,N treatment
+    class J,O followup
 ```
 
 <p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>

@@ -249,25 +249,30 @@
 
 ```mermaid
 flowchart TD
-    A["호흡곤란 환자"] --> B{"즉각 위험 징후?"}
-    B -- "예" --> C["기도·호흡·순환 안정화 및 119 호출<br>아나필락시스: 즉시 epinephrine IM<br>긴장성 기흉: 숙련된 응급 감압, 영상 대기 안 함"]
-    B -- "아니오" --> D["활력징후·SpO₂ 및 호흡노력 평가<br>필요 시 산소·환기 지원"]
-    D --> F["병력·진찰, ECG·흉부 X선<br>임상 단서에 따라 BNP·D-dimer 등 선택"]
-    F --> G{"주요 원인 단서?"}
-    G -- "심장·혈관" --> H{"심부전·ACS 또는 PE 의심?"}
-    H -- "심부전·ACS" --> H2["울혈·혈압·ECG 평가<br>응급 이송 및 질환별 처치"]
-    H -- "PE" --> J["검증된 사전확률 경로<br>낮음·중간: D-dimer<br>높음: 영상검사, 불안정 시 즉시 이송"]
-    G -- "기관지·폐" --> I{"기도 악화 또는 기흉·감염 의심?"}
-    I -- "천식·COPD 악화" --> I2["SABA ± ipratropium<br>중증도에 따라 스테로이드·이송"]
-    I -- "기흉·감염" --> N["흉부 X선·POCUS 등 원인 평가<br>상태에 따라 응급 처치·이송"]
-    G -- "대사·신경근육" --> K["산증: glucose·ketone·혈액가스<br>호흡근 위약: FVC·NIF 및 즉시 전원"]
-    G -- "설명 불충분·불안 가능" --> L["기질적 원인 배제 후 불안·호흡패턴 평가<br>조절 호흡, 지속 시 단계적 추가 검사"]
+    A["호흡곤란 환자"] --> B["즉각 위험 징후?"]
+    B -- "예" --> C["<u>기도·호흡·순환 안정화 및 119 호출</u><br/>• 아나필락시스: 즉시 epinephrine IM<br/>• 긴장성 기흉: 숙련된 응급 감압, 영상 대기 안 함"]
+    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 호흡노력 평가</u><br/>• 필요 시 산소·환기 지원"]
+    D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·D-dimer 등 선택"]
+    F --> G["주요 원인 단서?"]
+    G -- "심장·혈관" --> H["심부전·ACS 또는 PE 의심?"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• 울혈·혈압·ECG 평가<br/>• 응급 이송 및 질환별 처치"]
+    H -- "PE" --> J["<u>검증된 사전확률 경로</u><br/>• 낮음·중간: D-dimer<br/>• 높음: 영상검사, 불안정 시 즉시 이송"]
+    G -- "기관지·폐" --> I["기도 악화 또는 기흉·감염 의심?"]
+    I -- "천식·COPD 악화" --> I2["<u>SABA ± ipratropium</u><br/>• 중증도에 따라 스테로이드·이송"]
+    I -- "기흉·감염" --> N["<u>흉부 X선·POCUS 등 원인 평가</u><br/>• 상태에 따라 응급 처치·이송"]
+    G -- "대사·신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·ketone·혈액가스<br/>• 호흡근 위약: FVC·NIF 및 즉시 전원"]
+    G -- "설명 불충분·불안 가능" --> L["<u>기질적 원인 배제 후 불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 단계적 추가 검사"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
-    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
     class B,G,H,I question
-    class D,H2,J,I2,N,K,L treatment
-    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class C,H2,K emergency
+    class D,F,J,N evaluation
+    class I2,L treatment
 ```
 
 <p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong></p>

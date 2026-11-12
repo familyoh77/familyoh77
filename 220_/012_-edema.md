@@ -194,53 +194,39 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 ```mermaid
 flowchart TD
-SG1["`새로 발생한 원인 불명의
-편측 하지 부종`"] --> B{"Wells score 평가"}
-        B -- "DVT unlikely ≤1" --> C{"`고감도 D-dimer
-결과 가능하면 4시간 이내`"}
-        C -- "음성" --> E["`임시 항응고 중단
-DVT 가능성 낮음·다른 원인 평가`"]
-        C -- "양성" --> D1{"`Proximal CUS
-가능하면 4시간 이내`"}
-        C -- "D-dimer 결과 4시간 내 불가" --> I1["`금기 평가 후 
-임시 치료용량 항응고
-D-dimer 결과 확보 후 
-경로 적용`"]
-        I1 --> C
-        B -- "DVT likely ≥2" --> D2{"`Proximal CUS
-가능하면 4시간 이내`"}
-        D1 -- "음성" --> E
-        D1 -- "CUS 결과 4시간 내 불가" --> I3["`금기 평가 후 
-임시 치료용량 항응고`"]
-        I3 --> D4{"`Proximal CUS
-24시간 이내`"}
-        D4 -- "양성" --> G0
-        D4 -- "음성" --> E
-        D1 -- "양성" --> G0["`DVT 진단
-항응고 치료`"]
-        D2 -- "양성" --> G["`DVT 진단
-항응고 치료`"]
-        D2 -- "CUS 결과 4시간 내 불가" --> I2["`D-dimer 채혈 
-+ 금기 평가 후
-임시 치료용량 항응고`"]
-        I2 --> D3{"`Proximal CUS
-24시간 이내`"}
-        D3 -- "양성" --> G
-        D3 -- "음성" --> DD{"D-dimer"}
-        D2 -- "음성" --> DD
-        DD -- "양성" --> R{"`임시 항응고 중이었다면 중단
-6~8일 후 proximal CUS 반복`"}
-        R -- "양성" --> G
-        R -- "음성" --> E0
-        E -- "gross swelling 또는 iliac/pelvic obstruction 의심" --> H["CT/MR venography 고려"]
-        DD -- "음성" --> E0["`임시 항응고 중단
-DVT 가능성 낮음·다른 원인 평가`"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
-    class SG1,B,C,E,D1,I1,D2,I3,D4,G0,G,I2,D3,DD,R,H,E0 treatment
+    SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells score 평가"]
+    B -- "DVT unlikely ≤1" --> C["<u>고감도 D-dimer</u><br/>• 결과 가능하면 4시간 이내"]
+    C -- "음성" --> E["<u>임시 항응고 중단</u><br/>• DVT 가능성 낮음·다른 원인 평가"]
+    C -- "양성" --> D1["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
+    C -- "D-dimer 결과 4시간 내 불가" --> I1["<u>임시 치료용량 항응고</u><br/>• 금기 평가 후 시행<br/>• D-dimer 결과 확보 후 경로 적용"]
+    I1 --> C
+    B -- "DVT likely ≥2" --> D2["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
+    D1 -- "음성" --> E
+    D1 -- "CUS 결과 4시간 내 불가" --> I3["금기 평가 후 임시 치료용량 항응고"]
+    I3 --> D4["<u>Proximal CUS</u><br/>• 24시간 이내"]
+    D4 -- "양성" --> G0
+    D4 -- "음성" --> E
+    D1 -- "양성" --> G0["<u>DVT 진단</u><br/>• 항응고 치료"]
+    D2 -- "양성" --> G["<u>DVT 진단</u><br/>• 항응고 치료"]
+    D2 -- "CUS 결과 4시간 내 불가" --> I2["<u>임시 치료용량 항응고</u><br/>• D-dimer 채혈 + 금기 평가 후 시행"]
+    I2 --> D3["<u>Proximal CUS</u><br/>• 24시간 이내"]
+    D3 -- "양성" --> G
+    D3 -- "음성" --> DD["D-dimer"]
+    D2 -- "음성" --> DD
+    DD -- "양성" --> R["<u>6~8일 후 proximal CUS 반복</u><br/>• 임시 항응고 중이었다면 중단"]
+    R -- "양성" --> G
+    R -- "음성" --> E0
+    E -- "gross swelling 또는 iliac/pelvic obstruction 의심" --> H["CT/MR venography 고려"]
+    DD -- "음성" --> E0["<u>임시 항응고 중단</u><br/>• DVT 가능성 낮음·다른 원인 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class SG1 start
-    class B,C,D1,D2,D3,D4,DD,R decision
+    class B,C,D1,D2,D3,D4,DD,R question
+    class E,H,E0 evaluation
+    class I1,I2,I3,G0,G treatment
 ```
 
 <p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong></p>
@@ -257,26 +243,22 @@ _※ 임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈�
 
 ```mermaid
 flowchart TD
-SG2["지속성·만성 편측 하지 부종"] --> B2["`병력·진찰
-피부 변화·발등 침범
-·Stemmer sign`"]
-        B2 --> C2{"우선 의심 원인"}
-        C2 -- "만성 정맥부전" --> D2["`Venous duplex US
-reflux·obstruction 평가`"]
-        C2 -- "림프부종" --> E2["`대부분 임상진단
-CDT·압박치료 평가`"]
-        C2 -- "근위부 폐쇄·종괴 의심" --> F2["`복부·골반 CT/MR
- venography`"]
-        C2 -- "그 밖의 원인" --> G2["`종양·외상·감염·CRPS
-Baker cyst 등 평가`"]
-        E2 -- "진단 불확실 또는 수술 계획" --> H2["`Lymphoscintigraphy 또는
-전문 림프영상 고려`"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
-    class SG2,B2,C2,D2,E2,F2,G2,H2 treatment
+    SG2["지속성·만성 편측 하지 부종"] --> B2["<u>병력·진찰</u><br/>• 피부 변화·발등 침범·Stemmer sign"]
+    B2 --> C2["우선 의심 원인"]
+    C2 -- "만성 정맥부전" --> D2["<u>Venous duplex US</u><br/>• reflux·obstruction 평가"]
+    C2 -- "림프부종" --> E2["<u>대부분 임상진단</u><br/>• CDT·압박치료 평가"]
+    C2 -- "근위부 폐쇄·종괴 의심" --> F2["복부·골반 CT/MR venography"]
+    C2 -- "그 밖의 원인" --> G2["종양·외상·감염·CRPS·Baker cyst 등 평가"]
+    E2 -- "진단 불확실 또는 수술 계획" --> H2["Lymphoscintigraphy 또는<br/>전문 림프영상 고려"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class SG2 start
-    class C2 decision
+    class C2 question
+    class B2,D2,F2,G2,H2 evaluation
+    class E2 treatment
 ```
 
 <p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong></p>
@@ -289,32 +271,22 @@ Baker cyst 등 평가`"]
 
 ```mermaid
 flowchart TD
-SG3["`양측 하지 부종 또는 
-전신 부종`"]
-        SG3 --> A3["`발생 속도·체중 변화·약물
-심폐·간·신장 증상 평가`"]
-        A3 --> B3["`기본검사
-Cr/eGFR·전해질
-·LFT/albumin·TSH
-UA+단백뇨·BNP/NT-proBNP`"]
-        B3 --> C3{"주요 임상 양상"}
-        C3 -- "호흡곤란·orthopnea JVP 상승" --> D3a["`심부전·폐부종 평가
-ECG·CXR·심초음파`"]
-        C3 -- "거품뇨·안면 부종 단백뇨" --> D3b["`신장질환
-·신증후군 평가`"]
-        C3 -- "복수·황달 만성 간질환" --> D3c["`간질환 평가
-신규 복수는 
-진단적 복수천자`"]
-        C3 -- "전신 울혈 없음" --> D3d["`약물·정맥부전
-·림프부종·lipedema
-·의존성 부종 평가`"]
-        D3d -- "비만·코골이·주간졸림 폐고혈압/우심부전 의심" --> E3["OSA 및 심폐 평가 고려"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
-    class SG3,A3,B3,C3,D3a,D3b,D3c,D3d,E3 treatment
+    SG3["양측 하지 부종 또는<br/>전신 부종"]
+    SG3 --> A3["<u>발생 속도·체중 변화·약물</u><br/>• 심폐·간·신장 증상 평가"]
+    A3 --> B3["<u>기본검사</u><br/>• Cr/eGFR·전해질·LFT/albumin·TSH<br/>• UA+단백뇨·BNP/NT-proBNP"]
+    B3 --> C3["주요 임상 양상"]
+    C3 -- "호흡곤란·orthopnea JVP 상승" --> D3a["<u>심부전·폐부종 평가</u><br/>• ECG·CXR·심초음파"]
+    C3 -- "거품뇨·안면 부종 단백뇨" --> D3b["신장질환·신증후군 평가"]
+    C3 -- "복수·황달 만성 간질환" --> D3c["<u>간질환 평가</u><br/>• 신규 복수는 진단적 복수천자"]
+    C3 -- "전신 울혈 없음" --> D3d["약물·정맥부전·림프부종·lipedema·의존성 부종 평가"]
+    D3d -- "비만·코골이·주간졸림 폐고혈압/우심부전 의심" --> E3["OSA 및 심폐 평가 고려"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     class SG3 start
-    class C3 decision
+    class C3 question
+    class A3,B3,D3a,D3b,D3c,D3d,E3 evaluation
 ```
 
 <p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong></p>
@@ -369,57 +341,34 @@ ECG·CXR·심초음파`"]
 
 ```mermaid
 flowchart TD
-    ST["부종 환자"] --> A{"이뇨제가 필요한가?"}
+    ST["부종 환자"] --> A["이뇨제가 필요한가?"]
     A -- "폐부종 또는 전신 울혈이 확인된 volume overload" --> B["이뇨제 사용"]
-    A -- "정맥부전·림프부종 lipedema" --> Z["`비약물 치료
-원인에 따른 
-압박·거상·운동`"]
-    B --> C{"원인 분류"}
+    A -- "정맥부전·림프부종 lipedema" --> Z["<u>비약물 치료</u><br/>• 원인에 따른 압박·거상·운동"]
+    B --> C["원인 분류"]
     C --> HF["심부전 HF"]
     C --> CI["간경화 + 복수"]
     C --> NS["신증후군"]
-    HF --> HF1["`Loop diuretic
-furosemide 20~40 ㎎ 
-PO에서 개별화
-목표: 울혈 해소·euvolemia`"]
-    HF1 -- "반응 불충분" --> HF2["`원인·복약·Na 섭취
-·신기능 재평가
-loop 용량 조절 또는
-면밀한 모니터링하에 
-thiazide계 병용`"]
-    HF1 -- "SGLT2i 시작/병용" --> HF3["`용적 상태 재평가
- euvolemia·저혈압
-·용적고갈 위험 시
-loop 감량 고려`"]
-    CI --> CI1["`첫 grade 2 복수: 
-spironolactone 단독 가능
-재발성/신속한 이뇨 필요:
-spironolactone 100 
-+ furosemide 40 ㎎`"]
-    CI1 -- "긴장성 복수" --> CI2["`Large-volume 
-paracentesis
-+ 적응증에 따른 
-albumin`"]
-    CI1 -- "spironolactone 불내성" --> CI3["`Amiloride 
-대체`"]
-    NS --> NS1["`Loop diuretic 용량 개별화
-저알부민혈증·흡수 저하
-·신기능에 따라 고용량이
- 필요할 수 있음`"]
-    NS1 -- "반응 불충분" --> NS2["`IV loop 전환 또는
- Sequential 
-blockade`"]
-    NS2 -- "선별된 중증 저알부민혈증 전문의 판단; routine use 아님" --> NS3["`Albumin + 
-loop 고려`"]
-    NS1 -- "intravascular depletion 주의" --> NS_w["`겉 부종 vs
- 속 hypovolemia
-→ AKI 위험 모니터링`"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
-    class ST,A,B,Z,C,HF,CI,NS,HF1,HF2,HF3,CI1,CI2,CI3,NS1,NS2,NS3,NS_w treatment
+    HF --> HF1["<u>Loop diuretic</u><br/>• furosemide 20~40 ㎎ PO에서 개별화<br/>• 목표: 울혈 해소·euvolemia"]
+    HF1 -- "반응 불충분" --> HF2["<u>원인·복약·Na 섭취·신기능 재평가</u><br/>• loop 용량 조절 또는 면밀한 모니터링하에 thiazide계 병용"]
+    HF1 -- "SGLT2i 시작/병용" --> HF3["<u>용적 상태 재평가</u><br/>• euvolemia·저혈압·용적고갈 위험 시 loop 감량 고려"]
+    CI --> CI1["<u>간경화 + 복수</u><br/>• 첫 grade 2 복수: spironolactone 단독 가능<br/>• 재발성/신속한 이뇨 필요: spironolactone 100 + furosemide 40 ㎎"]
+    CI1 -- "긴장성 복수" --> CI2["<u>Large-volume paracentesis</u><br/>• 적응증에 따른 albumin"]
+    CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
+    NS --> NS1["<u>Loop diuretic 용량 개별화</u><br/>• 저알부민혈증·흡수 저하·신기능에 따라 고용량이 필요할 수 있음"]
+    NS1 -- "반응 불충분" --> NS2["IV loop 전환 또는 Sequential blockade"]
+    NS2 -- "선별된 중증 저알부민혈증 전문의 판단; routine use 아님" --> NS3["Albumin + loop 고려"]
+    NS1 -- "intravascular depletion 주의" --> NS_w["<u>겉 부종 vs 속 hypovolemia</u><br/>• AKI 위험 모니터링"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class ST start
-    class A,C decision
+    class A,C question
+    class HF2,HF3,NS_w evaluation
+    class B,Z,HF1,CI1,CI2,CI3,NS1,NS2,NS3 treatment
+    class HF,CI,NS followup
 ```
 
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>

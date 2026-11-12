@@ -173,26 +173,30 @@
 
 ```mermaid
 flowchart TD
-    A["후각·미각 이상 호소"] --> D{"즉각 조치 소견?"}
-    D -- "예" --> E1["응급 평가 및 안정화<br>신경학적 이상·외상 후 CSF 누출 평가"]
-    D -- "아니오" --> D2{"당일~수일 내 평가 소견?"}
-    D2 -- "예" --> E2["ENT·신경과 평가<br>필요 시 CT 또는 MRI"]
-    D2 -- "아니오" --> B{"기본 맛 자체의 감지 저하?"}
-    B -- "예" --> C["구강·타액·약물·뇌신경 평가<br>결핍 등 원인에 따른 치료"]
-    B -- "아니오" --> F{"후각 저하의 주요 임상 단서?"}
-    F -- "감염 또는 외상 후" --> K["병력·진찰 및 선택 검사<br>외상 시 손상 평가"]
-    F -- "비증상·비용종" --> L["비염·비부비동 원인 치료<br>INCS, 필요 시 ENT 의뢰"]
+    A["후각·미각 이상 호소"] --> D["즉각 조치 소견?"]
+    D -- "예" --> E1["<u>응급 평가 및 안정화</u><br/>• 신경학적 이상·외상 후 CSF 누출 평가"]
+    D -- "아니오" --> D2["당일~수일 내 평가 소견?"]
+    D2 -- "예" --> E2["<u>ENT·신경과 평가</u><br/>• 필요 시 CT 또는 MRI"]
+    D2 -- "아니오" --> B["기본 맛 자체의 감지 저하?"]
+    B -- "예" --> C["<u>구강·타액·약물·뇌신경 평가</u><br/>• 결핍 등 원인에 따른 치료"]
+    B -- "아니오" --> F["후각 저하의 주요 임상 단서?"]
+    F -- "감염 또는 외상 후" --> K["<u>병력·진찰 및 선택 검사</u><br/>• 외상 시 손상 평가"]
+    F -- "비증상·비용종" --> L["<u>비염·비부비동 원인 치료</u><br/>• INCS, 필요 시 ENT 의뢰"]
     F -- "파킨슨 징후·인지저하" --> M["신경과 평가 및 원인 치료"]
-    F -- "약물 관련" --> P["처방의와 원인 약물 검토<br>가능하면 변경 또는 중단"]
-    F -- "원인 불명·지속" --> Q["비내시경·객관적 후각검사<br>선택적 영상검사를 위해 ENT 의뢰"]
-    K --> N["후각 훈련 ≥12주 및 생활 안전 지도<br>비특이적 감염 후 장애에 전신 스테로이드 일상 투여 안 함<br>3개월 지속 또는 악화 시 ENT 재평가"]
+    F -- "약물 관련" --> P["<u>처방의와 원인 약물 검토</u><br/>• 가능하면 변경 또는 중단"]
+    F -- "원인 불명·지속" --> Q["<u>ENT 의뢰</u><br/>• 비내시경·객관적 후각검사<br/>• 선택적 영상검사"]
+    K --> N["<u>후각 훈련 ≥12주 및 생활 안전 지도</u><br/>• 비특이적 감염 후 장애에 전신 스테로이드 일상 투여 안 함<br/>• 3개월 지속 또는 악화 시 ENT 재평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
-    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
     class D,D2,B,F question
-    class C,L,M,P,N,Q treatment
-    style E1 fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style E2 fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class E1 emergency
+    class E2,C,K,M,Q evaluation
+    class L,P,N treatment
 ```
 
 <p align="center"><strong>후각·미각 이상 관리 알고리듬</strong></p>

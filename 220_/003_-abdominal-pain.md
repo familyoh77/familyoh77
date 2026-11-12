@@ -189,31 +189,34 @@
 
 ```mermaid
 flowchart TD
-    A([우상복부·상복부 통증]) --> B["불안정·복막염·ACS 등 응급 의심?"]
-    B -- "예" --> C["즉각 응급 이송·수술 · /응급 평가"]
+    A["우상복부·상복부 통증"] --> B["불안정·복막염·ACS 등 응급 의심?"]
+    B -- "예" --> C["즉각 응급 이송·수술/응급 평가"]
     B -- "아니오" --> D["담낭·담도 질환 의심?"]
     D -- "예" --> E["RUQ 초음파 우선"]
     E --> F["담낭염·담도폐쇄 소견?"]
-    F -- "예" --> G["원인별 치료 · ·외과/소화기 의뢰"]
-    F -- "아니오" --> H["`지속 증상 또는 진단 불명확 · → 추가 영상/CT 또는  · MRCP 고려`"]
-    D -- "아니오" --> I["호흡기 증상·저산소증 · ·흉막성 통증?"]
-    I -- "예" --> J["`PE 임상 사전확률 평가  · ± 흉부 X선 · (대체 진단 감별)`"]
-    J --> K["`매우 낮은 위험 · → PERC 적용 가능 시  · 평가`"]
-    J --> L["`낮음/중간 위험 · → D-dimer  · → 양성 시 CTPA`"]
+    F -- "예" --> G["원인별 치료·외과/소화기 의뢰"]
+    F -- "아니오" --> H["<u>추가 영상 고려</u><br/>• 지속 증상 또는 진단 불명확<br/>• CT 또는 MRCP 고려"]
+    D -- "아니오" --> I["호흡기 증상·저산소증·흉막성 통증?"]
+    I -- "예" --> J["<u>PE 임상 사전확률 평가</u><br/>• ± 흉부 X선<br/>• 대체 진단 감별"]
+    J --> K["매우 낮은 위험 → PERC 적용 가능 시 평가"]
+    J --> L["낮음/중간 위험 → D-dimer → 양성 시 CTPA"]
     J --> R["높은 위험 · → 즉시 CTPA"]
     I -- "아니오" --> M["옆구리 통증·혈뇨·CVA tenderness?"]
-    M -- "예" --> N["UA ± 신장/요로  · 초음파 또는  · 비조영 CT"]
-    M -- "아니오" --> O["`상복부 통증 ·  + 심혈관 위험 · /식은땀/호흡곤란?`"]
+    M -- "예" --> N["UA ± 신장/요로 초음파 또는 비조영 CT"]
+    M -- "아니오" --> O["상복부 통증 + 심혈관 위험/식은땀/호흡곤란?"]
     O -- "예" --> P["ECG + hs-troponin"]
-    O -- "아니오" --> Q["`췌장염·PUD·GERD · ·기능성 소화불량 등 ·  평가`"]
-    classDef red fill:#ffcdd2,stroke:#c62828
-    class C red
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class B,D,F,I,M,O yellow
+    O -- "아니오" --> Q["췌장염·PUD·GERD·기능성 소화불량 등 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class E,G,H,J,K,L,N,P,Q treatment
-    class R red
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class A start
+    class B,D,F,I,M,O question
+    class C,R emergency
+    class E,H,J,K,L,N,P,Q evaluation
+    class G treatment
 ```
 
 <p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
@@ -249,34 +252,39 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["하복부 복통"] --> U{"불안정·복막염·급성 염전 의심?"}
+    A["하복부 복통"] --> U["불안정·복막염·급성 염전 의심?"]
     U -- "예" --> V["즉각 응급 평가·이송"]
     U -- "아니오" --> B["임신 가능성이 있는가?"]
     B -- "예" --> C["β-hCG"]
-    C -- "양성" --> E["`경질초음파  · ± 산부인과 응급 평가 · 자궁외임신 우선 배제`"]
+    C -- "양성" --> E["<u>자궁외임신 우선 배제</u><br/>• 경질초음파 ± 산부인과 응급 평가"]
     C -- "음성" --> G
     B -- "아니오" --> G["통증 위치·동반 증상 평가"]
-
     G --> H["RLQ 우세"]
-    H --> I["`충수염 의심 · 성인: IV contrast CT  · 우선 고려 · 소아·임신: US 우선,  · 불명확 시 MRI`"]
+    H --> I["<u>충수염 의심</u><br/>• 성인: IV contrast CT 우선 고려<br/>• 소아·임신: US 우선, 불명확 시 MRI"]
     G --> J["LLQ 우세"]
     J --> K["게실염 의심"]
     K --> L["진단 불확실·중증·첫 발병 등 · → CT로 확인"]
     L --> M["경증 비복잡 게실염"]
-    M --> N["`보존적 치료 ± 선택적 항생제 · 전신독성·면역저하 · ·합병증 위험 시 항생제`"]
+    M --> N["<u>보존적 치료 ± 선택적 항생제</u><br/>• 전신독성·면역저하·합병증 위험 시 항생제"]
     G --> O["옆구리·요로 증상"]
-    O --> P["UA ±  · 비조영 CT/초음파"]
+    O --> P["UA ± 비조영 CT/초음파"]
     P --> Q["발열/패혈증 + 폐쇄"]
     Q --> R["감염성 요로폐쇄 · 즉시 비뇨기과 감압"]
-    G --> S["갑작스런 편측 골반통 ·  + 오심/구토"]
-    S --> T["`난소염전 고려 · 경질초음파 +  · 응급 산부인과 평가`"]
-    classDef red fill:#ffcdd2,stroke:#c62828
-    class E,R,T,V red
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class B,U yellow
+    G --> S["갑작스런 편측 골반통 · + 오심/구토"]
+    S --> T["<u>난소염전 고려</u><br/>• 경질초음파 + 응급 산부인과 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class C,G,H,I,J,K,L,M,N,O,P,Q,S treatment
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
+    class U,B question
+    class V,E,R,T emergency
+    class C,G,I,L,P,Q evaluation
+    class N treatment
+    class H,J,K,M,O,S followup
 ```
 
 <p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
@@ -386,26 +394,30 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["복통 환자"] --> B{"불안정·복막염·시간 민감 질환 의심?"}
+    A["복통 환자"] --> B["불안정·복막염·시간 민감 질환 의심?"]
     B -- "예" --> C["소생술·통증 조절과 응급 이송"]
     B -- "아니오" --> D["위험인자·임신·위치·동반 증상 평가"]
     D --> E["원인별 검사·영상·진통"]
-    E --> F{"진단 확인?"}
+    E --> F["진단 확인?"]
     F -- "예" --> G["원인 치료·입원·의뢰 결정"]
-    F -- "아니오" --> H{"안전한 외래 추적 가능?"}
+    F -- "아니오" --> H["안전한 외래 추적 가능?"]
     H -- "아니오" --> I["응급실·관찰 환경에서 반복 진찰"]
     H -- "예" --> J["단기 처방·조기 재진·응급 재내원 교육"]
-    I --> K{"통증·진찰·활력징후 악화?"}
+    I --> K["통증·진찰·활력징후 악화?"]
     J --> K
     K -- "예" --> C
     K -- "아니오" --> L["검사 결과·경과에 따라 재평가"]
-    classDef red fill:#ffcdd2,stroke:#c62828
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class C red
+    class A start
     class B,F,H,K question
-    class D,E,G,I,J,L treatment
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class C emergency
+    class D,E,I,L evaluation
+    class G,J treatment
 ```
 
 <p align="center"><strong>복통 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Acute Nonlocalized Abdominal Pain; WSES Acute Mesenteric Ischemia 2022)</mark></em></p>

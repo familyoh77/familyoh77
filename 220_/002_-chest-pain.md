@@ -132,27 +132,25 @@ flowchart TD
     A["흉통 환자 · 병력 청취 + 신체 검진"] --> B["ECG 시행 · 도착 10분 이내"]
     B --> C["ECG 소견은?"]
     C -- "STEMI 소견" --> N["STEMI · 가이드라인 따름"]
-    C -- "광범위 ST 상승 · ± PR 하강 · 심낭염 시사 소견" --> G["`STEMI 우선 감별 · 이전·serial ECG · + hs-cTn ± TTE`"]
+    C -- "광범위 ST 상승 · ± PR 하강 · 심낭염 시사 소견" --> G["<u>STEMI 우선 감별</u><br/>• 이전·serial ECG<br/>• hs-cTn ± TTE"]
     C -- "ST 하강 · 새로운 T파 역전" --> H["NSTE-ACS · 가이드라인 따름"]
-    C -- "비진단적 또는 · 정상 ECG" --> E["`증상 지속 또는 · 트로포닌 양성 시 · ECG 반복 시행 · (후벽 MI 의심 시 V7-V9)`"]
+    C -- "비진단적 또는 · 정상 ECG" --> E["<u>ECG 반복 시행</u><br/>• 증상 지속 또는 트로포닌 양성 시<br/>• 후벽 MI 의심 시 V7-V9"]
     C -- "새로운 부정맥" --> M["부정맥별 · 가이드라인 따름"]
     G --> Q["STEMI 확인?"]
     Q -- "예" --> N1["STEMI · 가이드라인 따름"]
     Q -- "아니오 · (심낭염·심근심막염 확인)" --> P["해당 지침에 · 따라 처치"]
     E --> T["검증된 hs-cTn CDP·임상 위험 평가"]
-    style E fill:#e3f2fd,stroke:#64b5f6
-    style T fill:#e3f2fd,stroke:#64b5f6
-    style B fill:#e3f2fd,stroke:#64b5f6
-    style N fill:#d32f2f,color:#fff
-    style N1 fill:#d32f2f,color:#fff
-    style Q fill:#fff9c4,stroke:#ffe082
-    style C fill:#fff9c4,stroke:#ffe082
-    style H fill:#ffdddd,stroke:#d32f2f
-    style G fill:#e3f2fd,stroke:#64b5f6
-    style P fill:#1565c0,color:#fff
-    style M fill:#e3f2fd,stroke:#64b5f6
 
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class C,Q question
+    class N,N1,H emergency
+    class B,G,E,T evaluation
+    class P,M treatment
 ```
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 4; ACC/AHA ACS 2025)</mark></em></p>
@@ -277,40 +275,34 @@ _\*위험인자 : 고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI＞30, CAD 
 
 ```mermaid
 flowchart TD
-    A(["급성 흉통?"]) -- "예" --> B["병력 청취 + 신체 검진 · 활력징후 평가"]
+    A["급성 흉통?"] -- "예" --> B["병력 청취 + 신체 검진 · 활력징후 평가"]
     A -- "아니오" --> Z["안정형 흉통 평가"]
     B --> L["혈역학적 불안정 또는 · 즉시 생명위협 원인 의심?"]
-    L -- "예" --> R["`응급 처치와 이송 동시 진행 · ACS / AAS /  · PE / 긴장성 기흉 · 심낭압전 / 식도 파열`"]
+    L -- "예" --> R["<u>응급 처치와 이송 동시 진행</u><br/>• ACS / AAS / PE / 긴장성 기흉<br/>• 심낭압전 / 식도 파열"]
     L -- "아니오" --> C["진료 장소?"]
-    C -- "외래" --> O["`10분 이내 ECG 가능 시 시행 · ACS·생명위협 원인 의심?`"]
+    C -- "외래" --> O["<u>외래 평가</u><br/>• 10분 이내 ECG 가능 시 시행<br/>• ACS·생명위협 원인 의심?"]
     C -- "응급실" --> T["ECG + hs-cTn 기반 CDP"]
     O -- "예" --> R
     O -- "아니오" --> K1["기타 심폐/ · 비심장 원인"]
     T --> Q["STEMI 또는 · 고위험 ACS 소견?"]
-    Q -- "예" --> D["`ACS 가이드라인 따름 · 즉시 응급실/ · PCI 가능 병원 이송`"]
-    Q -- "아니오" --> E["`임상 위험도 + serial hs-cTn · 원인별 평가`"]
+    Q -- "예" --> D["<u>ACS 가이드라인 따름</u><br/>• 즉시 응급실/PCI 가능 병원 이송"]
+    Q -- "아니오" --> E["<u>원인별 평가</u><br/>• 임상 위험도 + serial hs-cTn"]
     E --> G["NSTE-ACS"]
-    E --> H["급성  · 대동맥 증후군"]
+    E --> H["급성 · 대동맥 증후군"]
     E --> I["폐색전증"]
-    E --> J["급성  · 심근심막염"]
+    E --> J["급성 · 심근심막염"]
     E --> K["기타 심폐/ · 비심장 원인"]
-    style L fill:#fff9c4,stroke:#ffe082
-    style R fill:#b71c1c,color:#fff
-    style C fill:#fff9c4,stroke:#ffe082
-    style Q fill:#fff9c4,stroke:#ffe082
-    style O fill:#fff9c4,stroke:#ffe082
-    style D fill:#d32f2f,color:#fff
-    style G fill:#ffdddd,stroke:#d32f2f
-    style H fill:#b71c1c,color:#fff
-    style I fill:#ffdddd,stroke:#d32f2f
-    style J fill:#e3f2fd,stroke:#64b5f6
-    style K fill:#e3f2fd,stroke:#64b5f6
-    style K1 fill:#e3f2fd,stroke:#64b5f6
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#e3f2fd,stroke:#64b5f6
-    style T fill:#e3f2fd,stroke:#64b5f6
-    style E fill:#e3f2fd,stroke:#64b5f6
-    style Z fill:#e3f2fd,stroke:#64b5f6
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class L,C,O,Q question
+    class R,D,G,H,I emergency
+    class B,Z,T,E,K,K1 evaluation
+    class J treatment
 ```
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025)</mark></em></p>

@@ -205,30 +205,34 @@ _✽위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준�
 
 ```mermaid
 flowchart TD
-    Start["두근거림 환자"] --> EmergencyQ{"즉각 조치 소견 또는<br>고위험 ECG?"}
-    EmergencyQ -- "예" --> Emergency["기도·호흡·순환 평가 및 응급 이송<br>불안정 빈맥은 응급 심율동전환 평가"]
-    EmergencyQ -- "아니오" --> Assess["병력·진찰·ECG<br>필요 시 장기 심전도로 증상·리듬 확인"]
-    Assess --> Rhythm{"확인된 리듬·표현형?"}
-    Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["안정 시 modified Valsalva<br>실패·지속 시 감시하 치료 가능한 기관으로 이송<br>재발성 증상은 절제술 포함 전문 평가"]
-    Rhythm -- "AF" --> PreEx{"Pre-excitation?"}
-    PreEx -- "예" --> WPW["AV node 차단제·IV amiodarone 금기<br>즉시 응급 이송"]
-    PreEx -- "아니오" --> EF{"LVEF 및 임상 상태?"}
-    EF -- "≤40%, 안정" --> AFhf["심부전 상태·혈압에 따라 β-차단제 ± digoxin<br>non-DHP CCB 사용 안 함"]
-    EF -- "＞40%, 안정" --> AFnormal["β-차단제 또는 diltiazem·verapamil<br>폐질환·서맥·전도장애 등 고려"]
-    AFhf --> Stroke["뇌졸중 위험·항응고 여부 및<br>조기 리듬 조절 적합성 평가"]
+    Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>고위험 ECG?"]
+    EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 및 응급 이송</u><br/>• 불안정 빈맥은 응급 심율동전환 평가"]
+    EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요 시 장기 심전도로 증상·리듬 확인"]
+    Assess --> Rhythm["확인된 리듬·표현형?"]
+    Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 modified Valsalva</u><br/>• 실패·지속 시 감시하 치료 가능한 기관으로 이송<br/>• 재발성 증상은 절제술 포함 전문 평가"]
+    Rhythm -- "AF" --> PreEx["Pre-excitation?"]
+    PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·IV amiodarone 금기"]
+    PreEx -- "아니오" --> EF["LVEF 및 임상 상태?"]
+    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·혈압에 따라 β-차단제 ± digoxin</u><br/>• non-DHP CCB 사용 안 함"]
+    EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 diltiazem·verapamil</u><br/>• 폐질환·서맥·전도장애 등 고려"]
+    AFhf --> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
     AFnormal --> Stroke
-    Rhythm -- "PAC·PVC" --> Burden{"빈번·복잡성 또는<br>구조적 심질환·EF 저하?"}
-    Burden -- "예" --> Refer["Holter로 burden 정량화<br>심초음파·심장내과 평가"]
-    Burden -- "아니오" --> Reassure["설명·유발 인자 조절<br>증상 지속 시 저용량 β-차단제 고려"]
-    Rhythm -- "동빈맥" --> Sinus["빈혈·갑상선·탈수·감염 등 원인 교정<br>지속 시 IST·POTS 등 감별"]
-    Rhythm -- "부정맥 미확인" --> Other["진단이 남으면 모니터링 지속<br>불안·과민 평가 병행<br>불안장애 확진 시 CBT·SSRI 등 고려"]
+    Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 또는<br/>구조적 심질환·EF 저하?"]
+    Burden -- "예" --> Refer["<u>Holter로 burden 정량화</u><br/>• 심초음파·심장내과 평가"]
+    Burden -- "아니오" --> Reassure["<u>설명·유발 인자 조절</u><br/>• 증상 지속 시 저용량 β-차단제 고려"]
+    Rhythm -- "동빈맥" --> Sinus["<u>빈혈·갑상선·탈수·감염 등 원인 교정</u><br/>• 지속 시 IST·POTS 등 감별"]
+    Rhythm -- "부정맥 미확인" --> Other["<u>진단이 남으면 모니터링 지속</u><br/>• 불안·과민 평가 병행<br/>• 불안장애 확진 시 CBT·SSRI 등 고려"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
-    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class Start start
     class EmergencyQ,Rhythm,PreEx,EF,Burden question
-    class Vagal,AFhf,AFnormal,Stroke,Refer,Reassure,Sinus,Other treatment
-    style Emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style WPW fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class Emergency,WPW emergency
+    class Assess,Stroke,Refer,Other evaluation
+    class Vagal,AFhf,AFnormal,Reassure,Sinus treatment
 ```
 
 _※ AF/LVEF ≤40% 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전 동반 시에는 별도 접근이 필요._

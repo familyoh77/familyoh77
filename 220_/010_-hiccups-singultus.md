@@ -114,31 +114,32 @@
 
 ```mermaid
 flowchart TD
-    A["딸꾹질"] --> B{"즉각 조치 위험징후?"}
+    A["딸꾹질"] --> B["즉각 조치 위험징후?"]
     B -- "예" --> C["즉시 원인 평가·응급 이송"]
-    B -- "아니오" --> D{"`48시간 이상 또는
-섭취·수면에 심한 지장?`"}
+    B -- "아니오" --> D["48시간 이상 또는<br/>섭취·수면에 심한 지장?"]
     D -- "아니오" --> E["안전한 비약물 방법·생활 교정"]
-    D -- "예" --> F["`병력·진찰·약물 검토
-필요한 혈액검사·CXR·ECG`"]
-    F --> G{"원인 또는 임상 단서?"}
-    G -- "있음" --> H["`원인별 검사·치료
-원인 약물 조정 검토`"]
+    D -- "예" --> F["<u>병력·진찰·약물 검토</u><br/>• 필요한 혈액검사·CXR·ECG"]
+    F --> G["원인 또는 임상 단서?"]
+    G -- "있음" --> H["<u>원인별 검사·치료</u><br/>• 원인 약물 조정 검토"]
     G -- "없음" --> I["baclofen 또는 gabapentin 고려"]
-    H --> J{"충분한 호전?"}
+    H --> J["충분한 호전?"]
     I --> J
     J -- "예" --> K["최소 유효 치료 후 추적"]
-    J -- "아니오" --> L["`원인·용량·내약성 재평가
-대안 약제 또는 전문과 의뢰`"]
+    J -- "아니오" --> L["<u>원인·용량·내약성 재평가</u><br/>• 대안 약제 또는 전문과 의뢰"]
     E --> M["지속·악화·새 위험징후 시 재평가"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#f8cecc,stroke:#b85450
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,D,G,J decision
+    class B,D,G,J question
     class C emergency
-    class E,F,H,I,K,L,M treatment
+    class F,L evaluation
+    class E,H,I treatment
+    class K,M followup
 ```
 
 <p align="center"><strong>딸꾹질 진단 및 치료 알고리듬</strong></p>

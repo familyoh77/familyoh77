@@ -167,34 +167,31 @@
 
 ```mermaid
 flowchart TD
-    A["의도하지 않은 체중 감소"] --> B{"의학적 불안정·응급 위험징후?"}
+    A["의도하지 않은 체중 감소"] --> B["의학적 불안정·응급 위험징후?"]
     B -- "예" --> C["즉시 응급 평가·의뢰"]
-    B -- "아니오" --> D["`체중·체액 변화 확인
-식욕·섭취·약물·정신사회 평가
-병력·진찰과 기본검사`"]
-    D --> E{"암 의심 또는 진행·고위험 소견?"}
-    E -- "예" --> F["`신속한 원인별 검사·의뢰
-필요 시 CT·내시경 등 확장 검사`"]
-    E -- "아니오" --> G{"원인이 확인되었는가?"}
+    B -- "아니오" --> D["<u>체중·체액 변화 확인</u><br/>• 식욕·섭취·약물·정신사회 평가<br/>• 병력·진찰과 기본검사"]
+    D --> E["암 의심 또는 진행·고위험 소견?"]
+    E -- "예" --> F["<u>신속한 원인별 검사·의뢰</u><br/>• 필요 시 CT·내시경 등 확장 검사"]
+    E -- "아니오" --> G["원인이 확인되었는가?"]
     G -- "예" --> H["원인 질환 치료·약물 조정"]
-    G -- "아니오" --> I["`안정형은 1~3개월 내 재평가
-감소 지속·새 증상 시 확장 검사`"]
-    D --> J["`모든 환자에서 영양·근력 평가
-필요 시 근육량 평가`"]
-    J --> K{"`재급식 고위험 또는
-5일 넘게 거의 무섭취?`"}
-    K -- "예" --> L["`감독하 영양 공급·thiamine
-전해질·체액 감시`"]
-    K -- "아니오" --> M["`개별화 영양·식사 지원
-가능한 범위의 저항 운동`"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px
-    classDef decision fill:#fff9c4,stroke:#d6b656
-    classDef emergency fill:#f8cecc,stroke:#b85450
-    classDef treatment fill:#dae8fc,stroke:#6c8ebf
+    G -- "아니오" --> I["<u>안정형은 1~3개월 내 재평가</u><br/>• 감소 지속·새 증상 시 확장 검사"]
+    D --> J["<u>모든 환자에서 영양·근력 평가</u><br/>• 필요 시 근육량 평가"]
+    J --> K["재급식 고위험 또는<br/>5일 넘게 거의 무섭취?"]
+    K -- "예" --> L["<u>감독하 영양 공급·thiamine</u><br/>• 전해질·체액 감시"]
+    K -- "아니오" --> M["<u>개별화 영양·식사 지원</u><br/>• 가능한 범위의 저항 운동"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
     class A start
-    class B,E,G,K decision
+    class B,E,G,K question
     class C emergency
-    class D,F,H,I,J,L,M treatment
+    class D,F,J evaluation
+    class H,L,M treatment
+    class I followup
 ```
 
 <p align="center"><strong>체중 감소 진단 및 치료 알고리듬</strong></p>

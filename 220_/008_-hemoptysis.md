@@ -102,26 +102,33 @@ _<mark style="color:$info;">※ 표의 소견은 병력·진찰과 함께 참고
 
 ```mermaid
 flowchart TD
-    A["기침·가래 또는 입에서 피가 나옴"] --> E{"기도·호흡·순환 위협<br>또는 빠르게 지속되는 출혈?"}
-    E -- "예" --> F["기도·순환 안정화 및 응급 전원<br>확인된 출혈측을 아래로<br>안정 시 CTA 및 색전술 평가<br>기도 조작이 필요하면 기관지내시경 우선"]
-    E -- "아니오" --> B{"출혈원?"}
+    A["기침·가래 또는 입에서 피가 나옴"] --> E["기도·호흡·순환 위협<br/>또는 빠르게 지속되는 출혈?"]
+    E -- "예" --> F["<u>기도·순환 안정화 및 응급 전원</u><br/>• 확인된 출혈측을 아래로<br/>• 안정 시 CTA 및 색전술 평가<br/>• 기도 조작이 필요하면 기관지내시경 우선"]
+    E -- "아니오" --> B["출혈원?"]
     B -- "비강·구강" --> C["ENT·치과 등 원인 평가·치료"]
     B -- "구역·구토 선행" --> D["위장관 출혈 평가 경로"]
-    B -- "객혈 또는 불명" --> G["병력·진찰, 흉부 X선·CBC<br>필요 시 응고검사·결핵검사"]
-    G --> H{"CT 적응증 또는<br>출혈 지속·재발?"}
-    H -- "예" --> I["조영증강 CT 또는 CTA<br>필요 시 기관지내시경"]
-    H -- "아니오" --> J["추정 원인 치료 및 추적<br>TXA는 선택적 지혈 보조"]
-    I --> K{"평가 결과 및 경과?"}
+    B -- "객혈 또는 불명" --> G["<u>병력·진찰, 흉부 X선·CBC</u><br/>• 필요 시 응고검사·결핵검사"]
+    G --> H["CT 적응증 또는<br/>출혈 지속·재발?"]
+    H -- "예" --> I["<u>조영증강 CT 또는 CTA</u><br/>• 필요 시 기관지내시경"]
+    H -- "아니오" --> J["<u>추정 원인 치료 및 추적</u><br/>• TXA는 선택적 지혈 보조"]
+    I --> K["평가 결과 및 경과?"]
     K -- "출혈 증가·생리적 불안정" --> F
-    K -- "종양·반복 출혈·특이 병변" --> R["신속한 전문 평가<br>필요 시 BAE·원인별 처치"]
+    K -- "종양·반복 출혈·특이 병변" --> R["<u>신속한 전문 평가</u><br/>• 필요 시 BAE·원인별 처치"]
     K -- "안정·외래 치료 가능" --> J
-    J --> FU["통상 24~48시간 내 경과 확인<br>지속·재발하면 추가 검사<br>호흡곤란·실신·다량 출혈은 즉시 응급 경로"]
+    J --> FU["<u>통상 24~48시간 내 경과 확인</u><br/>• 지속·재발하면 추가 검사<br/>• 호흡곤란·실신·다량 출혈은 즉시 응급 경로"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
-    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class A start
     class E,B,H,K question
-    class C,D,I,J,R,FU treatment
-    style F fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class F emergency
+    class C,D,G,I,R evaluation
+    class J treatment
+    class FU followup
 ```
 
 <p align="center"><strong>객혈 관리 알고리듬</strong></p>
