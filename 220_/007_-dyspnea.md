@@ -4,7 +4,7 @@
 
 * 정의 : 호흡 시 불편감에 대한 주관적 경험으로, 질적으로 다른 여러 감각이 다양한 강도로 나타나는 증상
 * 기간에 따른 실용적 분류(문헌에 따라 기준이 다를 수 있음)
-  * 급성 ＜4주, 아급성 4\~8주, 만성 ＞8주
+  * 급성 ＜4주, 아급성 4주 이상\~8주 미만, 만성 ≥8주
 * 유병률 : 응급실 내원 사유의 약 3\~4%를 차지
   * 지역사회 만성 호흡곤란은 고령·심폐질환 동반 인구에서 특히 흔함
 
@@ -41,12 +41,12 @@
 * 편측 호흡음 감소와 함께 저혈압, 기관 편위, 경정맥 확장 중 하나 이상 동반  `긴장성 기흉`
 * 저혈압과 함께 경정맥 확장, 심음 감소, pulsus paradoxus 중 하나 이상 동반  `심낭압전`
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
 * 휴식 중에도 지속되는 호흡곤란 또는 새로 발생한 안정 시 호흡곤란; 활력징후 이상이 동반되면 '즉각 조치' 항목에 준함
 * 수포음(crackles), 호흡음 감소
 * 발열(＞38.5℃) + 저산소혈증·빈호흡 동반, 또는 면역저하 상태
-* ≥65세에서 급성 발생 + 전신 쇠약·의식 변화 동반
+* ≥65세에서 급성 발생 + 전신 쇠약 동반(새 의식 변화는 즉각 조치)
 * 활동 저하가 뚜렷하고 빠르게 진행하는 경우
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -145,13 +145,14 @@
 
 * SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
 * BNP 또는 NT-proBNP : 심부전 의심 시 시행
-  * NT-proBNP 해석 기준 <mark style="color:$info;">\[ESC 2021]</mark>
-    * Acute setting (응급·입원) : NT-proBNP ＜300 pg/㎖ 또는 BNP ＜100 pg/㎖ 시 심부전 배제 가능
-      * rule-in cut-off : ＞450 pg/㎖ (＜50세), ＞900 pg/㎖ (50\~75세), ＞1,800 pg/㎖ (＞75세)
-    * Non-acute setting (외래·만성) : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ 시 심부전 배제 가능
-      * 외래 환자에서는 이 낮은 기준치를 적용해야 과소 진단을 방지할 수 있음
+  * BNP/NT-proBNP 해석 기준 <mark style="color:$info;">\[ESC 2026; 기존 단일 외래 배제 기준은 ESC 2021]</mark>
+    * Acute setting (응급·입원) : NT-proBNP ＜300 pg/㎖ 또는 BNP ＜100 pg/㎖ 시 심부전 가능성이 낮음(임상적 의심이 높으면 추가 평가)
+      * rule-in cut-off : ＞450 pg/㎖ (＜50세), ＞900 pg/㎖ (50\~74세), ＞1,800 pg/㎖ (≥75세) [ESC 2026 Figure 11]
+    * Non-acute setting (외래·만성) : 기존 단일 배제 기준은 NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ [ESC 2021]
+      * ESC 2026은 외래에서 HF 가능성이 높아지는 연령 보정 NT-proBNP 기준을 함께 제시 : ＜50세 ≥125 pg/㎖, 50\~75세 ≥250 pg/㎖, ＞75세 ≥500 pg/㎖. 급성·외래의 연령 구간 및 기준치를 서로 혼용하지 않음
+      * 연령 보정치 미만만으로 확실히 배제하지 않으며, 임상적 의심이 높으면 심초음파·전문의 평가. NT-proBNP ＞2,000 pg/㎖는 신속한 전문 평가 고려
   * BNP/NT-proBNP 해석 주의
-    * 비만 환자에서는 수치가 실제보다 낮게 측정될 수 있어 심부전을 과소평가하지 않도록 주의
+    * 비만·HFpEF 또는 급격히 발생한 폐부종 등에서는 낮은 수치만으로 심부전을 완전히 배제하지 않음
     * 고령·심방세동·신부전·패혈증 등에서는 기저치가 높아질 수 있으므로 단독으로 심부전을 확진하지 않음
 * D-dimer : 임상적 사전확률에 따라 단계적으로 적용
   * 초저위험 사전확률 : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능
@@ -204,7 +205,7 @@
 #### <mark style="color:$primary;">급성</mark>
 
 * 간헐적, 특별한 상황에서 발생 → bronchospasm(천식 등)
-  * ACS·폐색전증은 일반적으로 간헐적이라기보다 급성·지속적 양상으로 발현
+  * ACS는 간헐적·재발성으로도 나타날 수 있으며 폐색전증도 증상 경과가 다양하므로, 간헐적이라는 이유로 배제하지 않음
 * 심한 호흡곤란, 흉통 또는 가슴 조임 → 급성 관상동맥증후군(ACS), 기흉, 폐색전증, 무기폐
   * Spontaneous pneumothorax
     * 일차성 : 기저 폐질환 없는 마른 체형의 젊은 남성에서 호발
@@ -247,33 +248,31 @@
 ***
 
 ```mermaid
-graph TD
-    A([호흡곤란 환자]) --> B["즉각 위험 징후?<br/>Stridor · 청색증<br/>SBP<90 · HR>130<br/>의식 변화"]
-    B -->|Yes| C[["기도·호흡·순환 즉시 안정화<br/>저산소혈증 시 O₂ + 119 호출 · 이송"]]
-    B -->|No| D["활력징후 평가<br/>SpO₂ · RR · HR"]
-    D -->|SpO₂ 저하 또는 심한 respiratory distress| E["산소/환기 지원<br/>즉시 평가 진행"]
-    D -->|RR≥24 또는 HR≥120, SpO₂ 정상| M["산소는 적응증 있을 때 투여<br/>즉시 원인 평가"]
-    D -->|안정| F["병력 + 신체 검진<br/>ECG · CXR · SpO₂<br/>필요시 BNP · D-dimer"]
-    M --> F
-    E --> F
-    F --> G[주요 임상 단서]
-    G --> H["<u>Cardiac</u><br/>orthopnea·BNP↑<br/>crackle·leg edema<br/>→ 울혈·혈압 확인 후<br/>이뇨제/nitrate 적용"]
-    G --> I["<u>Pulmonary(천식/COPD)</u><br/>wheeze·<br/>기관지확장제 반응<br/>→ SABA ± ipratropium<br/>악화 시에만 스테로이드"]
-    G --> J["<u>PE 의심</u><br/>급성 흉막통·<br/>설명 안 되는 빈맥<br/>→ 사전확률 평가<br/>낮음/중간: D-dimer<br/>높음: 즉시 영상"]
-    G --> N["<u>기흉 의심</u><br/>급성 흉통·<br/>편측 호흡음 감소<br/>→ CXR/POCUS <br/>즉시 확인"]
-    G --> K1["<u>Anxiety/과호흡</u><br/>정상 SpO₂·상황 유발<br/>→ 조절 호흡;<br/> 기질적 원인<br/>배제 후 진단"]
-    G --> K2["<u>대사성 산증</u><br/>Kussmaul 호흡<br/>→ glucose·ketone<br/>·ABG 확인"]
-    G --> L["<u>신경근육</u><br/>shallow breathing<br/>사지 위약<br/>→ 즉시 전원"]
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style L fill:#f96,stroke:#e65100,stroke-width:2px
-
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,G yellow
+flowchart TD
+    A["호흡곤란 환자"] --> B{"즉각 위험 징후?"}
+    B -- "예" --> C["기도·호흡·순환 안정화 및 119 호출<br>아나필락시스: 즉시 epinephrine IM<br>긴장성 기흉: 숙련된 응급 감압, 영상 대기 안 함"]
+    B -- "아니오" --> D["활력징후·SpO₂ 및 호흡노력 평가<br>필요 시 산소·환기 지원"]
+    D --> F["병력·진찰, ECG·흉부 X선<br>임상 단서에 따라 BNP·D-dimer 등 선택"]
+    F --> G{"주요 원인 단서?"}
+    G -- "심장·혈관" --> H{"심부전·ACS 또는 PE 의심?"}
+    H -- "심부전·ACS" --> H2["울혈·혈압·ECG 평가<br>응급 이송 및 질환별 처치"]
+    H -- "PE" --> J["검증된 사전확률 경로<br>낮음·중간: D-dimer<br>높음: 영상검사, 불안정 시 즉시 이송"]
+    G -- "기관지·폐" --> I{"기도 악화 또는 기흉·감염 의심?"}
+    I -- "천식·COPD 악화" --> I2["SABA ± ipratropium<br>중증도에 따라 스테로이드·이송"]
+    I -- "기흉·감염" --> N["흉부 X선·POCUS 등 원인 평가<br>상태에 따라 응급 처치·이송"]
+    G -- "대사·신경근육" --> K["산증: glucose·ketone·혈액가스<br>호흡근 위약: FVC·NIF 및 즉시 전원"]
+    G -- "설명 불충분·불안 가능" --> L["기질적 원인 배제 후 불안·호흡패턴 평가<br>조절 호흡, 지속 시 단계적 추가 검사"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    class B,G,H,I question
+    class D,H2,J,I2,N,K,L treatment
+    style C fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em> <br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 절단치는 ESC 2021 기준 유지)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em> <br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 급성 rule-in 연령 구간은 ESC 2026 Figure 11 반영)</mark></em></p>
 
 #### <mark style="color:$primary;">**1차 진료에서 흔한 진단 오류**</mark>
 
@@ -297,12 +296,16 @@ class B,D,G yellow
   * pursed-lip breathing : 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼
     * 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
+
+### <mark style="color:orange;">산소·환기 지원</mark>
+
 * 산소 공급 : SpO₂ 목표 및 임상 상황에 따라 투여 방식 선택
-  * 저산소혈증이 있는 일반 환자 → SpO₂ 목표 94\~98%; 임신부는 일반적으로 ≥95% 유지
-  * CO₂ retention risk 환자 (과거 고탄산혈증 병력 있는 COPD, 신경근육 질환 등) → ABG 확인 전 SpO₂ 잠정 목표 88\~92%
+  * 저산소혈증이 있는 일반 급성 환자 → SpO₂ 목표 94\~98%(BTS 2017); 질환별 목표를 우선 적용
+  * 천식 급성 악화 → 산소가 필요하면 SpO₂ 92\~95% 목표(GINA 2026); 임신부는 태아 산소화를 고려한 개별 목표 적용
+  * CO₂ retention risk 환자 (COPD, 특히 고탄산혈증 병력, 신경근육 질환·고도 비만 등) → ABG 확인 전 SpO₂ 잠정 목표 88\~92%
   * 고농도 산소 투여 시 CO₂ 저류·이산화탄소 혼수 위험
     * 기전 ⓵ V/Q 불균형 악화(저산소성 폐혈관수축 소실로 관류가 환기 불량 부위로 재분배) ⓶ Haldane 효과 - 산소가 헤모글로빈에 결합하면서 CO₂ 운반 능력이 감소하여 혈중 CO₂ 농도가 일시적으로 상승 ⓷ 저산소성 호흡 드라이브 억제(상대적으로 비중이 작은 기전)
-  * 목표 범위를 초과하지 않도록 주의
+  * 목표 범위를 초과하지 않도록 조절하되, 심한 저산소혈증·쇼크·심폐소생 상황에서는 CO₂ 저류 우려만으로 산소 공급을 지연하지 않음; 조기 혈액가스 평가 및 환기 지원 병행
   * ACS·급성 심부전 등에서는 비저산소혈증 환자에게 산소를 routine으로 투여하지 않음
   * 투여 방식 선택 기준
     * 비강 캐뉼러(nasal cannula) : 1\~6 L/min; 저유량·장시간 투여에 우선 선택; SpO₂ 목표 달성 가능하면 마스크보다 편함
@@ -310,22 +313,25 @@ class B,D,G yellow
     * 비재호흡 마스크(non-rebreather mask) : 10\~15 L/min; 고농도 산소(FiO₂ ≥60%)가 필요한 중증 저산소혈증 시
     * 고유량 비강 캐뉼러(HFNC) : 2차 의료기관 이상에서 적용; 급성 저산소성 호흡 부전에서 고려. COPD 급성 악화에서는 선택적으로 사용할 수 있으나, 급성 고탄산혈증성 호흡 부전에서는 NIV가 우선이며 HFNC가 NIV를 대체하지 않음
   * 비침습적 양압 환기(NIV; CPAP 또는 bilevel PAP) : 고탄산혈증을 동반한 COPD 급성 악화 및 급성 심인성 폐부종에서 우선 고려; 2차 의료기관 이상에서 적용 또는 전원 결정의 지표로 활용. 기도 보호 불가, 지속적 구토/흡인 위험, 심한 의식 저하, 혈역학적 불안정/쇼크 등에서는 적용이 부적절하거나 실패 위험이 높아 조기 invasive airway/전원 고려
+
+### <mark style="color:orange;">원인에 따른 약물·응급 처치</mark>
+
 * [Nitrate](../225_/097_-angina-pectoris.md#nitrate) : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용; 일반 호흡곤란에 루틴 사용하지 않음
-  * nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린]</mark>
-  * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 24시간, tadalafil 48시간 이내) 복용
+  * 협심증 발작 : nitroglycerin 0.6 ㎎ 설하 [명문니트로글리세린](https://www.health.kr/drug/A11ABBBBB0474). 새 흉통·호흡곤란 또는 ACS 의심 시 즉시 119 호출·ECG 평가; 투여 반응을 기다리며 이송을 지연하지 않음. 급성 심인성 폐부종의 nitrate 사용은 혈압을 감시하며 응급 진료에서 판단
+  * 금기·주의 : 저혈압·쇼크, PDE5 억제제(sildenafil·vardenafil 24시간, tadalafil 48시간 이내 등) 또는 riociguat 병용. 명문니트로글리세린설하정은 급성 심근경색을 금기로 명시하므로 해당 상황에서는 품목 허가사항과 응급 진료 지침을 확인하여 판단
   * 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 preload 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 등 쇼크·저관류 소견이 있으면 임의 투여하지 않고 즉시 전원
-  * furosemide 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플), 1\~2분 이상 천천히 투여; 필요시 반복 <mark style="color:blue;">\[라식스]</mark>; 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
+  * furosemide 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플), 천천히 정맥 투여(급속 주사 피함); 필요시 반응·혈압·신기능·전해질을 확인하여 조정 [라식스](https://www.health.kr/drug/A11A0740A0096); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥 관리(혈역학적으로 안정된 규칙적 narrow-QRS SVT에 한정)
   * modified Valsalva maneuver 우선 시도 (☞ [두근거림](009_-palpitation.md#management))
   * 경동맥동 마사지는 죽상경화증·고령·허혈성 심질환 환자에서 피하며, 숙련된 환경에서만 시행
   * 혈역학적으로 불안정(저혈압·의식 변화 동반)하면 즉시 동기화 심율동전환(synchronized cardioversion)이 가능한 기관으로 이송
 * 기관지 확장제
-  * salbutamol(SABA) : nebulizer 2.5\~5 ㎎ 또는 MDI + spacer <mark style="color:blue;">\[</mark>[벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba)<mark style="color:blue;">]</mark>
-  * 중증 천식 악화 또는 COPD exacerbation 시 : ipratropium(SAMA) nebulizer 0.5 ㎎ <mark style="color:blue;">\[아트로벤트]</mark> 병용 고려(경증\~중등도 천식 악화에는 일률 병용하지 않음); 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
+  * salbutamol(SABA) : nebulizer 2.5\~5 ㎎ 또는 MDI + spacer [벤토린](https://www.health.kr/drug/A11ABBBBB1232); 중증도별 용량은 아래 처방례 참조
+  * 중증 천식 악화 또는 COPD exacerbation 시 : ipratropium(SAMA) nebulizer 0.5 ㎎ [아트로벤트](https://www.health.kr/drug/A11ABBBBB1384) 병용 고려(경증\~중등도 천식 악화에는 일률 병용하지 않음); 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
 * 스테로이드 : COPD exacerbation 또는 asthma exacerbation에만 적용; 적응증 없이 루틴 사용 금함
-  * [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[소론도](../223_/071_-asthma.md#undefined-50)<mark style="color:blue;">]</mark>(5 ㎎/T), 5\~7일
+  * [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d [소론도](https://www.health.kr/drug/a11a4290b0015)(5 ㎎/T), 5\~7일
   * [COPD](../223_/072_-copd.md) 급성 악화 : prednisone-equivalent 40 ㎎/d, 5일
 
 ***
@@ -338,22 +344,35 @@ class B,D,G yellow
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 급성 심인성 폐부종 / 협심증 의심**
+> **처방례 1. 협심증 발작 - 기존 처방 또는 의료진 평가에 따른 설하 투여**
 >
 > ```
 > 명문니트로글리세린설하정 0.6 ㎎ 1정 설하
-> ※ 협심증 병력 없이 새로 발생한 흉통·호흡곤란이면 1회 투여, 5분 내 호전 없으면 즉시 119 호출
-> ※ 기존 진단된 협심증의 전형적 발작인 경우, 119 호출 후 기다리는 동안 5분 간격 최대 3회까지 투여 가능
+> ※ 새로 발생하거나 평소와 다른 흉통·호흡곤란이면 즉시 119 호출; 약효를 기다리며 이송을 지연하지 않음
+> ※ 기존 협심증의 전형적 발작에서 1회 투여 후 5분 내 완전 호전이 없으면 119 호출
+> ※ 혈압·금기를 확인하고, 구급대 도착을 기다리는 동안 5분 간격으로 총 3회까지 투여 가능
 > ```
 >
-> _✽SBP ＜90 ㎜Hg이거나 최근 24\~48시간 이내 PDE5 억제제(sildenafil 24시간, tadalafil 48시간 이내)를 복용한 경우 금기; 첫 투여 후 5분 내 완전히 또는 평소처럼 신속하게 소실되지 않으면 즉시 119 호출(부분 호전만으로 대기하지 않음); 니트로글리세린에 대한 반응 여부를 심근허혈 진단의 근거로 사용하지 않음._
+> 약제 정보: [명문니트로글리세린설하정 0.6 ㎎](https://www.health.kr/drug/A11ABBBBB0474)
+>
+> _✽ 저혈압·쇼크, 최근 PDE5 억제제(sildenafil·vardenafil 24시간, tadalafil 48시간 이내 등) 또는 riociguat 병용은 금기. 새 증상·ACS 의심은 즉시 119 호출. 기존 협심증 발작도 첫 투여 후 5분 내 완전 호전이 없으면 즉시 119 호출; 투여 반응만으로 심근허혈을 진단·배제하지 않음_
 
 > **처방례 2. 천식/COPD 급성 악화**
 >
 > ```
-> 벤토린 에보할러(MDI) 100 ㎍/puff 2~4 puff(spacer 사용) 필요시 반복
-> 아트로벤트 흡입액 0.5 ㎎/2 ㎖ 1앰플 nebulizer (살부타몰과 병용; 중증 천식 악화 또는 COPD 악화 시)
+> 천식 악화 - 벤토린에보할러 100 ㎍/분무, MDI + spacer
+> 경증: 4분무, 필요하면 30~60분 뒤 1회 반복
+> 중등도: 4~6분무, 필요하면 20~30분 간격으로 초기 총 3회까지
+> 중증·생명위협: 즉시 이송 준비, 6~10분무 또는 salbutamol 5 ㎎ nebulizer
+> ※ 중증은 필요하면 20~30분 간격으로 반복하며 지속 감시
+> COPD 악화 - SABA ± SAMA를 중증도·반응에 따라 조절
+> 아트로벤트흡입액유디비 0.5 ㎎/2 ㎖ 1바이알 nebulizer
+> (살부타몰과 병용, 중증 천식 악화 또는 COPD 악화 시 선택)
 > ```
+>
+> 약제 정보: [벤토린에보할러 100 ㎍/분무](https://www.health.kr/drug/A11ABBBBB1232) · [아트로벤트흡입액유디비 0.5 ㎎/2 ㎖](https://www.health.kr/drug/A11ABBBBB1384)
+>
+> _✽ 천식의 반복 흡입량은 GINA 2026의 의료진 감시하 급성 악화 치료 예시로, 벤토린 제품의 통상 자가 사용량과 구분함. 평소에는 개인별 천식 행동계획을 따르며, 급성 악화 후에는 ICS 포함 유지 치료를 확인. Spacer는 1분무씩 흡입하고 다음 분무를 시행_
 >
 > _✽기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가; 스테로이드 병용 여부 및 상세 반복 간격·용량은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조; 네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
 
@@ -365,20 +384,20 @@ class B,D,G yellow
 > ※ 5분 후에도 기도·호흡·순환 문제가 지속되면 반복 투여
 > ```
 >
-> _✽자동주사기 사용 시 제품별 허가 체중 구간에 따라 용량 선택(예: 0.15 ㎎/0.3 ㎎ 등); 피부 증상(두드러기 등)이 없어도 아나필락시스를 배제하지 않음; 자세는 눕히고 다리를 올린 상태를 유지하되(저혈압형), 호흡곤란이 주된 경우에만 다리를 뻗은 반좌위 허용 - 서거나 걷게 하지 않음; 증상 호전 후에도 최소 4시간 이상 관찰(반복 투여·중증 천식 동반·야간 내원 등은 연장 또는 입원 관찰; biphasic reaction 대비)._
+> _✽자동주사기 사용 시 제품별 허가 체중 구간에 따라 용량 선택(예: 0.15 ㎎/0.3 ㎎ 등); 피부 증상(두드러기 등)이 없어도 아나필락시스를 배제하지 않음; 자세는 눕히고 다리를 올린 상태를 유지하되(저혈압형), 호흡곤란이 주된 경우에만 다리를 뻗은 반좌위 허용 - 서거나 걷게 하지 않음; 마지막 에피네프린 투여 후 최소 4시간 이상 관찰(반복 투여·중증 천식 동반·야간 내원 등은 연장 또는 입원 관찰; biphasic reaction 대비)._
 
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **니트로글리세린 설하정 - 협심증·급성 심인성 폐부종**
+> **니트로글리세린 설하정 - 처방받은 협심증 발작에 사용**
 >
 > * 흉통·호흡곤란 발생 시 앉거나 누운 상태에서 혀 아래에 1정을 녹이십시오. 삼키지 마십시오.
-> * 평소와 다르거나 처음 겪는 양상의 흉통이면, 1정 복용 후 5분 내 호전이 없을 시 추가로 복용하지 말고 즉시 119를 부르십시오.
-> * 기존에 진단받은 협심증의 전형적인 발작이라도, 1정 복용 후 5분 내 완전히 또는 평소처럼 신속하게 좋아지지 않으면 곧바로 119를 부르십시오. 추가로 복용할 정이 있다면 119를 부른 뒤 기다리는 동안 5분 간격으로 최대 3정까지 복용할 수 있습니다.
+> * 평소와 다르거나 처음 겪는 흉통·호흡곤란이면 **즉시 119를 부르십시오**. 약을 먹고 반응을 기다리지 마십시오. 니트로글리세린은 기존 처방·의료진 안내에 따라 사용하십시오.
+> * 기존에 진단받은 협심증의 전형적인 발작이라도, 1정 복용 후 5분 내 완전히 또는 평소처럼 신속하게 좋아지지 않으면 곧바로 119를 부르십시오. 추가로 복용할 정이 있다면 119를 부른 뒤 기다리는 동안 5분 간격으로 **첫 복용을 포함해 총 3정까지** 복용할 수 있습니다.
 > * 기립성 저혈압(갑자기 일어날 때 어지럼)이 생길 수 있으므로 복용 중에는 앉거나 누운 자세를 유지하십시오.
-> * 발기부전 치료제(실데나필, 타달라필 등)를 복용 중인 경우 절대 함께 사용하지 마십시오. 심각한 저혈압이 발생할 수 있습니다.
-> * 직사광선과 열을 피해 보관하고, 개봉 후에는 6개월 이내에 사용하십시오.
+> * PDE5 억제제(실데나필, 타달라필 등; 발기부전·폐고혈압 치료) 또는 리오시구앗을 복용 중이면 함께 사용하지 마십시오. 심각한 저혈압이 발생할 수 있습니다.
+> * 원래의 차광 기밀용기에 보관하고 뚜껑을 즉시 닫으십시오. 명문 제품은 20℃ 이하 보관이며, 사용·교체 기한은 제품 표시와 약사의 안내를 따르십시오.
 
 > **살부타몰 흡입제 (벤토린) - 기관지 경련·천식·COPD 급성 악화**
 >
@@ -393,13 +412,13 @@ class B,D,G yellow
 > * 눈에 들어가지 않도록 주의하십시오 - 녹내장이 있는 경우 악화될 수 있습니다.
 > * 전립선 비대증이 있는 경우 소변이 더 어려워질 수 있으니 불편하면 알려 주십시오.
 
-> **에피네프린 자동주사기 (젝스트 등) - 아나필락시스**
+> **에피네프린 자동주사기 ([젝스트](https://health.kr/drug/2017121500011) 등) - 아나필락시스**
 >
-> * 목 조임, 쉰 목소리, 전신 두드러기, 어지럼 등 아나필락시스 징후가 나타나면 지체 없이 대퇴 외측 근육에 주사하고, 호전 여부를 기다리지 말고 곧바로 119를 부르십시오. 옷 위에서도 주사할 수 있습니다.
+> * 알레르기 반응과 함께 목 조임·쉰 목소리·호흡곤란·쓰러질 듯한 어지럼 등 아나필락시스 징후가 나타나면 지체 없이 대퇴 외측 근육에 주사하고, 호전 여부를 기다리지 말고 곧바로 119를 부르십시오. 옷 위에서도 주사할 수 있습니다.
 > * 두드러기 같은 피부 증상이 없어도 아나필락시스일 수 있으니, 목 조임·호흡곤란·어지럼 등이 있으면 주저하지 마십시오.
 > * 자세 : 눕고 다리를 올린 상태를 유지하십시오. 숨이 많이 찬 경우에는 다리를 편 채로 앉을 수 있으나, 서거나 걷지 마십시오(혈압이 급격히 떨어질 수 있습니다).
 > * 5분 후에도 증상이 지속되면 두 번째 주사를 고려하십시오.
-> * 증상이 호전되어도 반드시 응급실을 방문하여 최소 4시간 이상 관찰하십시오(반복 투여, 중증 천식 동반, 야간 내원 등은 더 길게 관찰). 초기 호전 후 수 시간 뒤 증상이 재발할 수 있습니다(biphasic reaction).
+> * 증상이 호전되어도 반드시 응급실을 방문하여 마지막 에피네프린 투여 후 최소 4시간 이상 관찰받으십시오(반복 투여, 중증 천식 동반, 야간 내원 등은 더 길게 관찰). 초기 호전 후 수 시간 뒤 증상이 재발할 수 있습니다(biphasic reaction).
 > * 사용한 자동주사기는 재사용하지 말고 그대로(바늘을 따로 만지거나 제거하지 말고) 보관하여 구급대원이나 의료진에게 전달하십시오.
 
 ***
@@ -408,12 +427,14 @@ class B,D,G yellow
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* \[ESC 2021] [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://doi.org/10.1093/eurheartj/ehab368) - 본문 NT-proBNP 진단 절단치의 확인 자료; 2026년 개정 분류·치료와 구분
-* [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
+* \[ESC 2021] [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://doi.org/10.1093/eurheartj/ehab368) - 외래 BNP/NT-proBNP 배제 기준 및 기존 진단 체계 확인 자료; 급성 rule-in 연령 구간은 2026년판 참조
+* [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026;47(38):5346-5457.](https://doi.org/10.1093/eurheartj/ehag100) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
 * [O'Driscoll BR, et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017;72(Suppl 1):ii1-ii90.](https://pubmed.ncbi.nlm.nih.gov/28507176/) - 저산소혈증·고탄산혈증 위험에 따른 산소 목표와 전달 장치 선택
 * \[GOLD 2026] [Global Initiative for Chronic Obstructive Lung Disease. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease. 2026 Report.](https://goldcopd.org/2026-gold-report-and-pocket-guide/) - COPD 증상·악화 평가(ABE 분류)와 급성 악화 시 초기 관리
 * [Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention. 2026.](https://ginasthma.org/2026-gina-strategy-report/) - 천식 악화의 중증도 평가·초기 치료와 의뢰 판단
-* [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
+* [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153:e977-e1051.](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
+
+* [ASCIA. Guidelines for Acute Management of Anaphylaxis. 2026.](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines) - 에피네프린 즉시 투여·체위·마지막 투여 후 관찰 기준
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -439,7 +460,7 @@ class B,D,G yellow
 #### <mark style="color:$primary;">호흡이 힘들 때 즉시 이렇게 하세요</mark>
 
 * **자세** : 앉거나 상체를 세운 자세(좌위 또는 반좌위)가 대부분의 호흡곤란에서 누운 자세보다 유리합니다. 다만 어지럽거나 쓰러질 것 같거나 알레르기 반응(아나필락시스)이 의심되면 눕고 다리를 올리는 자세가 우선입니다(서거나 걷지 마십시오)
-* **조절 호흡** : 입술을 오므린 채로 코로 2초 들이쉬고, 입으로 4초 천천히 내쉬는 pursed-lip breathing을 시도하십시오
+* **조절 호흡** : 코로 편안하게 들이쉬고 입술을 오므린 채 천천히 내쉬십시오. 응급 증상이 있으면 이 호흡법을 시도하며 119 연락을 늦추지 마십시오
 * **과호흡(공황)의 경우** : 종이봉투 재호흡은 위험할 수 있으므로 하지 마십시오. 조용히 앉아 복식호흡을 시도하십시오
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>

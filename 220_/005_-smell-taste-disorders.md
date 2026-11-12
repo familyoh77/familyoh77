@@ -26,7 +26,7 @@
 #### <mark style="color:$primary;">공통 원인</mark>
 
 * 영양 : 영양실조, Vit 결핍, 간질환, 악성 빈혈
-  * [아연 결핍](005_-smell-taste-disorders.md#undefined-15) : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의
+  * [아연 결핍](005_-smell-taste-disorders.md#zinc-supplementation) : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의
 * 내분비 : 갑상선 기능 저하증, 당뇨병, 신질환
 * 독소 노출, 편두통, Sjögren syndrome
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
@@ -121,7 +121,7 @@
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 명확한 감염 후 원인의 양측성 후각 장애가 예상된 경과 없이 객관적으로 지속되는 경우 `지속성 감염 후 후각장애`
-  * 절대적 기간보다 임상 경과로 판단하며, 통상 3개월을 재평가·ENT 의뢰 시점의 기준으로 삼음 (편측성·진행성·구조적 병변 의심 등은 기간과 무관하게 조기 의뢰 - Tier 2 참조)
+  * 절대적 기간보다 임상 경과로 판단하며, 통상 3개월을 재평가·ENT 의뢰 시점의 기준으로 삼음 (편측성·진행성·구조적 병변 의심 등은 기간과 무관하게 조기 의뢰 - 당일~수일 내 평가 항목 참조)
 * 후각 소실 + 파킨슨 징후(서동, 경직) 또는 REM 수면 행동 장애 `파킨슨병` `신경퇴행성 질환`
 * 후각 소실 + 인지 저하 `알츠하이머병` `신경퇴행성 질환`
 * 후각·미각 소실 + 설명되지 않는 체중 감소 또는 영양 섭취 장애 `영양실조`
@@ -172,40 +172,32 @@
 ***
 
 ```mermaid
-graph TD
-    A([후각·미각 이상 호소]) --> B["기본 맛(단·짠·신·쓴)<br/>자체가 저하되었는가?"]
-    B -->|"YES"| C["구강건조·구강질환·약물<br/>CN VII/IX/X 등 원인 확인<br/>(진짜 미각 장애 평가)"]
-    B -->|"NO<br/>(풍미·후각 문제 의심)"| D["Tier 1 Red Flag?<br/>급성 신경학적 결손·의식 변화<br/>외상 후 맑은 수양성 비루"]
-    C --> D
-    D -->|"YES"| E1["즉각 영상검사(MRI/CT)<br/>신경과·ENT 응급 평가"]
-    D -->|"NO"| D2["Tier 2 Red Flag?<br/>진행성 편측 후각장애·비출혈<br/>원인불명 Phantosmia<br/>·고립성 뇌신경 이상"]
-    D2 -->|"YES"| E2["당일~조기 ENT·신경과 의뢰<br/>필요 시 영상검사"]
-    D2 --->|"NO"| F["발병 양상 및 <br/>동반 증상에 따른 분류"]
-    F --> G["급성 + URI·COVID 선행<br/>→ Post-viral <br/>Sensorineural"]
-    F --> H["두부 외상 후<br/>→ Post-traumatic"]
-    F --> I["코막힘·콧물·비용종 동반<br/>→ Conductive"]
-    F --> J["서서히 진행 + 파킨슨 징후<br/>·인지저하<br/>→ 신경퇴행성 관련 가능성"]
-    F --> P["원인 의심 약물 복용력<br/>→ 약물 유발 가능성"]
-    G --> K["병력·진찰 기반 선택 검사<br/>필요 시 CBC·TSH<br/>·B12·Zinc 등"]
-    H --> H2["손상 양상에 따른<br/>영상검사(CT/MRI) 및 <br/>ENT 평가"]
-    I --> L["<u>Conductive 치료</u><br/>INCS·비부비동 원인 치료<br/>CRS → ENT 의뢰"]
-    J --> M["동반 파킨슨 징후<br/>·인지저하 평가<br/>→ 필요 시 신경과 의뢰"]
-    P --> P2["원인 약물 검토<br/>가능하면 중단<br/> 또는 대체"]
-    K --> N["<u>Sensorineural 치료</u><br/>·후각 훈련 ≥12주<br/>·원인질환 치료<br/>·전신 스테로이드 제한적 사용<br/>·3개월 지속 → ENT 의뢰"]
-    H2 --> N
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,D2,F,P yellow
-    style E1 fill:#f44336,stroke:#b71c1c,color:#fff,stroke-width:2px
-    style E2 fill:#ffb74d,stroke:#e65100,stroke-width:2px
-    style L fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style N fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style M fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+flowchart TD
+    A["후각·미각 이상 호소"] --> D{"즉각 조치 소견?"}
+    D -- "예" --> E1["응급 평가 및 안정화<br>신경학적 이상·외상 후 CSF 누출 평가"]
+    D -- "아니오" --> D2{"당일~수일 내 평가 소견?"}
+    D2 -- "예" --> E2["ENT·신경과 평가<br>필요 시 CT 또는 MRI"]
+    D2 -- "아니오" --> B{"기본 맛 자체의 감지 저하?"}
+    B -- "예" --> C["구강·타액·약물·뇌신경 평가<br>결핍 등 원인에 따른 치료"]
+    B -- "아니오" --> F{"후각 저하의 주요 임상 단서?"}
+    F -- "감염 또는 외상 후" --> K["병력·진찰 및 선택 검사<br>외상 시 손상 평가"]
+    F -- "비증상·비용종" --> L["비염·비부비동 원인 치료<br>INCS, 필요 시 ENT 의뢰"]
+    F -- "파킨슨 징후·인지저하" --> M["신경과 평가 및 원인 치료"]
+    F -- "약물 관련" --> P["처방의와 원인 약물 검토<br>가능하면 변경 또는 중단"]
+    F -- "원인 불명·지속" --> Q["비내시경·객관적 후각검사<br>선택적 영상검사를 위해 ENT 의뢰"]
+    K --> N["후각 훈련 ≥12주 및 생활 안전 지도<br>비특이적 감염 후 장애에 전신 스테로이드 일상 투여 안 함<br>3개월 지속 또는 악화 시 ENT 재평가"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    class D,D2,B,F question
+    class C,L,M,P,N,Q treatment
+    style E1 fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    style E2 fill:#fff3e0,stroke:#e65100,stroke-width:2px
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>후각·미각 이상 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Position Paper on Olfactory Dysfunction, 2023 (Rhinology, Suppl. 33)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Position paper on olfactory dysfunction, 2023)</mark></em></p>
 
 ***
 
@@ -263,8 +255,8 @@ class B,D,D2,F,P yellow
 
 * 적응증 : 비부비동 질환(비염, CRS, 비용종) 원인의 Conductive 후각 장애
 * 투여 방법 : 비강 분무제는 올바른 일반 사용법을 교육하고, CRS 등에서는 전문의 판단에 따라 점적액 또는 irrigation 제형을 고려; 특정 자세를 표준으로 권고할 근거는 충분하지 않음
-* fluticasone furoate <mark style="color:blue;">\[아바미스 나잘 스프레이]</mark> 각 비공 1\~2분무 qd
-* mometasone furoate <mark style="color:blue;">\[나조넥스 나잘 스프레이]</mark> 각 비공 2분무 qd
+* fluticasone furoate [아바미스 나잘 스프레이](https://www.health.kr/drug/A11AKP08G2622) 27.5 ㎍/분무 : 알레르기비염에서 각 비공 2분무 qd로 시작, 조절 후 각 비공 1분무 qd로 감량
+* mometasone furoate [나조넥스 나잘 스프레이](https://www.health.kr/drug/A11AGGGGA3046) 50 ㎍/분무 : 각 비공 2분무 qd; 비용종에서 5\~6주 후 반응이 불충분하면 각 비공 2분무 bid까지 증량하고, 호전 시 감량. 증량 후 5\~6주에도 반응이 없으면 ENT에서 치료 재평가
 * 효과 판정 : 원인 질환과 치료 반응에 따라 수주 후 재평가; 지속되거나 구조적 병변·CRS가 의심되면 의뢰 고려
 * budesonide nasal irrigation : CRS 동반 중증 후각 장애에서 ENT 전문의 지도 하에 사용 가능(off-label); 1차 진료에서는 선택적 사용 또는 ENT 의뢰 후 지속
 
@@ -276,7 +268,7 @@ class B,D,D2,F,P yellow
 * 비용종 동반 CRS에서 단기 경구 스테로이드를 고려할 수 있으나 용량·기간은 질환 중증도와 환자 위험을 평가하여 결정; 반복 투여를 피하고 당뇨·고혈압·골다공증 등 동반 질환 시 특히 신중 사용
 * 적절한 국소 치료(INCS 등)에도 조절되지 않거나 전신 스테로이드가 반복적으로 필요한 중증의 비용종을 동반한 만성 비부비동염 → 의뢰(수술 및 생물학적 제제 치료등 고려)
 
-### <mark style="color:orange;">아연 보충</mark>
+### <mark style="color:orange;">아연 보충</mark> <a id="zinc-supplementation"></a>
 
 * 아연 결핍이 확인되었거나 임상적으로 결핍 가능성이 높은 미각 장애에서 우선 고려
   * 2023년 RCT 메타분석에서는 특발성 및 아연 결핍 미각장애에서도 개선 비율이 유의하게 높았으나(RR 1.38), 제형·용량(연구에서는 원소 아연 17\~86.7 ㎎/일까지 다양하게 사용)·평가법의 이질성이 커 고용량·장기 투여를 일률적으로 권고하지는 않음
@@ -317,8 +309,10 @@ class B,D,D2,F,P yellow
 > **처방례 1.** 비부비동염/비용종 동반 후각 장애 (Conductive type) - INCS
 >
 > ```
-> 나조넥스 나잘 스프레이 50 ㎍/spray 각 비공 2분무 qd
+> 나조넥스 나잘 스프레이 50 ㎍/분무 각 비공 2분무 qd
 > ```
+>
+> 약제 정보: [나조넥스나잘스프레이 50 ㎍/분무](https://www.health.kr/drug/A11AGGGGA3046)
 >
 > _✽ 올바른 비강 분무법을 교육; 특정 두부 자세를 표준으로 권고할 근거는 충분하지 않음; 최소 4\~8주 사용 후 효과 판정; 무반응 시 ENT 의뢰; 비용종 동반 CRS는 내과적 치료 반응 불충분 시 ESS(내시경 부비동 수술) 고려 (ENT 협진)_
 
@@ -326,15 +320,18 @@ class B,D,D2,F,P yellow
 >
 > ```
 > prednisolone 25 ㎎ qd 14일
-> 나조넥스 나잘 스프레이 각 비공 2분무 qd 지속
+> 나조넥스 나잘 스프레이 50 ㎍/분무 각 비공 2분무 qd 지속
 > ```
+>
+> 약제 정보: [나조넥스나잘스프레이 50 ㎍/분무](https://www.health.kr/drug/A11AGGGGA3046)
 >
 > _✽ 위 prednisolone 용량은 CRSwNP 무작위시험에서 사용된 대표 short-course 예시이며, 실제 용량·기간은 중증도와 환자 위험에 따라 조정; 전신 스테로이드는 CRSwNP에서 선택적으로 단기간 사용하며, post-viral/idiopathic 후각 장애 자체를 목적으로 routine 투여하지 않음; 당뇨·고혈압·골다공증·녹내장 등 기저질환 및 반복 투여에 따른 누적 위험을 평가; 치료 반응이 불충분하거나 반복적으로 전신 스테로이드가 필요한 경우 ENT 의뢰 - ESS/생물학적 제제 등 추가 치료 평가_
 
 > **처방례 3.** 혈청 아연 결핍 확인된 미각 장애 (예시 - 실제 처방 시 제품별 원소 아연 함량 확인 필요)
 >
 > ```
-> 황산아연 제제 (원소 아연 25~40 ㎎/일 범위) qd~bid 8~12주
+> 경구 아연 제제: 원소 아연 기준 1일 총 25~40 ㎎
+> 1일 총량을 qd 또는 2회 분할하여 복용, 8~12주 후 재평가
 > ```
 >
 > _✽ 제품마다 아연염 종류(황산아연, 글루콘산아연 등)에 따라 정제당 원소 아연 함량이 다르므로, 실제 처방·권고 시 사용 제품의 원소 아연 함량을 확인; 전문의약품인지 건강기능식품인지 구분하여 안내; 혈청 아연은 채혈 조건과 검사실 참고범위에 따라 해석하고, 임상적 결핍 위험을 함께 평가; 미각 장애에 대한 단일 표준 용량은 확립되지 않았으므로 결핍 정도·제제·환자 상태에 따라 조정; 치료 목적으로 이를 초과하는 용량을 장기간 사용할 경우 구리 결핍(빈혈, 신경병증) 위험을 고려하여 모니터링; 결핍이 확인되지 않았고 결핍 위험도 낮은 경우 routine 보충은 권고되지 않음_
@@ -345,7 +342,7 @@ class B,D,D2,F,P yellow
 
 > **비강 내 스테로이드(INCS) - 후각 장애 목적 투여 시 주의사항**
 >
-> 1. 비강 분무제는 올바른 일반 분무법을 교육하고 처방된 용량을 꾸준히 사용하도록 합니다.
+> 1. 사용 전 용기를 흔들고 제품 설명서에 따라 시험 분무합니다. 코를 가볍게 푼 뒤 머리를 약간 앞으로 숙이고, 분사구를 비중격을 피해 바깥쪽 벽으로 향하게 하여 가볍게 숨을 들이쉬며 분무합니다. 강하게 들이마시지 말고 처방된 용량을 꾸준히 사용하십시오.
 > 2. 후각 틈새(Olfactory cleft)로의 전달을 높이기 위한 여러 두부 자세·점적액·irrigation 제형이 연구되었으나, 특정 두부 자세를 표준으로 일률적으로 권고할 근거는 충분하지 않습니다. CRS 등에서는 전문의 판단에 따라 다른 제형을 고려할 수 있습니다.
 > 3. 원인 질환과 치료 반응에 따라 보통 수주간 꾸준히 사용한 뒤 효과를 평가합니다.
 > 4. 장기 사용 시 비점막 자극, 코피가 생길 수 있습니다 - 심할 경우 의사와 상의하십시오.
@@ -363,15 +360,16 @@ class B,D,D2,F,P yellow
 >
 > 1. 아연 결핍이 확인되었거나 결핍 위험이 높은 미각 장애에서 보충을 고려합니다. 원인 불명의 후각 장애에 routine 보충은 권고되지 않습니다.
 > 2. 실용적 보충 예로 원소 아연 25\~40 ㎎/일을 사용할 수 있으나 미각 장애의 단일 표준 용량은 아니며, 결핍 정도·제제·환자 상태에 따라 조정합니다. 8\~12주 후 재평가합니다.
-> 3. 2025 한국인 영양소 섭취기준상 성인의 아연 상한섭취량(UL)은 원소 아연 35 ㎎/d입니다. 이는 일반적인 영양섭취 기준이며, 의사가 결핍 치료 목적으로 이보다 높은 용량을 처방할 수 있습니다. 다만 고용량을 장기간 복용하면 구리 결핍(빈혈, 신경병증)이 생길 수 있으므로 임의로 장기간 복용하지 마시고 정기적으로 진료받으십시오.
+> 3. 2025 한국인 영양소 섭취기준상 성인의 아연 상한섭취량(UL)은 원소 아연 35 ㎎/d입니다. 이는 음식과 모든 보충제를 합한 일반적인 총 영양섭취 기준이며, 의사가 결핍 치료 목적으로 이보다 높은 용량을 처방할 수 있습니다. 다만 고용량을 장기간 복용하면 구리 결핍(빈혈, 신경병증)이 생길 수 있으므로 임의로 장기간 복용하지 마시고 정기적으로 진료받으십시오.
 > 4. 영양불량, 흡수장애, 만성 설사, 만성 간·신질환 등 아연 결핍 위험이 있거나 임상적으로 의심되는 경우 혈청 아연 측정을 고려합니다.
-> 5. 경구 아연만 안내합니다. 비강 스프레이·젤 형태의 아연 제제는 영구적 후각 소실을 유발할 수 있어 환자가 임의로 구입해 사용하지 않도록 반드시 확인하고 안내합니다.
+> 5. 퀴놀론·테트라사이클린계 항생제와 함께 복용하면 흡수가 감소할 수 있습니다. 항생제를 아연보다 적어도 2시간 먼저 또는 아연 복용 4\~6시간 후에 복용하되 제품별 간격을 확인하십시오. Penicillamine은 최소 1시간 간격을 둡니다.
+> 6. 경구 아연만 안내합니다. 비강 스프레이·젤 형태의 아연 제제는 영구적 후각 소실을 유발할 수 있어 환자가 임의로 구입해 사용하지 않도록 반드시 확인하고 안내합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 비강 스테로이드 4\~8주 사용 후에도 후각이 개선되지 않는 경우 - 의뢰 고려
 > * 후각·미각 이상이 3개월 이상 지속되는 경우
-> * 갑작스러운 후각 소실과 함께 심한 두통·시야 이상·마비·감각 저하·의식 변화 등 신경학적 증상이 새로 발생하는 경우 - **즉시 내원**
+> * 갑작스러운 후각 소실과 함께 심한 두통·시야 이상·마비·감각 저하·의식 변화 등 신경학적 증상이 새로 발생하는 경우 - **119 또는 응급실로 즉시 이동**
 > * 체중이 지속적으로 감소하거나 식사가 어려운 경우
 
 ***
@@ -382,8 +380,9 @@ class B,D,D2,F,P yellow
 
 * [Whitcroft KL, et al. Position paper on olfactory dysfunction: 2023. Rhinology. 2023;61(33):1-108.](https://doi.org/10.4193/Rhin22.483) - 후각장애의 분류·검사·감별과 후각훈련·약물 치료; 본문 그림 출처
 * [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
-* [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2).](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
+* [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2):94-104.](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
 * [Philpott CM, et al. The APOLLO trial: a proof-of-concept study for vitamin A nasal drops in COVID-19-related postinfectious olfactory dysfunction. Chem Senses. 2026;51:bjag001.](https://doi.org/10.1093/chemse/bjag001) - 비강 vitamin A의 위약대조 시험 결과; 다른 감염 후 후각장애에 일괄 적용하지 않음
+* [Farrell NF, et al. Stellate Ganglion Block for the Treatment of COVID-19-Induced Parosmia: A Randomized Clinical Trial. JAMA Otolaryngol Head Neck Surg. 2025;151(8):741-749.](https://doi.org/10.1001/jamaoto.2025.1304) - 위약대조 시험에서 유의한 효과 없음
 * [Mozaffar B, et al. The Effectiveness of Zinc Supplementation in Taste Disorder Treatment: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Nutr Metab. 2023;2023:6711071.](https://doi.org/10.1155/2023/6711071) - 미각장애에서 아연 보충의 효과와 제형·용량·평가법 차이
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
@@ -437,8 +436,9 @@ class B,D,D2,F,P yellow
 
 #### <mark style="color:$primary;">이럴 때는 진료가 필요합니다</mark>
 
-* 후각·미각 손실이 **3개월 이상 지속**되거나 점차 악화되는 경우
-* 갑작스러운 후각 소실과 함께 심한 두통·시야 이상·마비·감각 저하·의식 변화 등이 동반되는 경우 - **즉시 진료**
+* 후각·미각 손실이 **3개월 이상 지속**되면 재평가를 받으십시오. 편측으로 지속되거나 점차 악화되며 코피·코 안 종괴가 동반되면 3개월을 기다리지 말고 신속히 진료받으십시오
+* 머리를 다친 뒤 한쪽 코에서 맑은 물 같은 콧물이 흐르면 **즉시 응급 진료**를 받으십시오
+* 갑작스러운 후각 소실과 함께 심한 두통·시야 이상·마비·감각 저하·의식 변화 등이 동반되는 경우 - **119 또는 응급실로 즉시 이동**
 * 특정 약물 복용 후 미각 이상이 생긴 경우 - 임의로 약을 중단하지 말고 의사와 상의하십시오
 * 냄새가 왜곡되어 불쾌한 냄새로 느껴지거나(이취증, Parosmia), 실제로 없는 냄새가 느껴지는 경우(환각취, Phantosmia) - 특히 새로 발생한 경우
 * 체중이 지속적으로 감소하거나 식사가 어려운 경우

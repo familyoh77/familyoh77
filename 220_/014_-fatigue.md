@@ -31,8 +31,8 @@
 * 내분비/대사 : 갑상선저하증/항진증, 부신피질기능저하증(Addison's disease; Na↓·K↑·색소침착 동반 시 의심), 당뇨병(조절되지 않는 고혈당, 저혈당 반복), 만성 신/간질환, Na↓, Ca↑
 * 혈액/종양 : 빈혈(철결핍성·만성 질환성·거대적아구성), 악성 종양
 * 감염 : 단핵구증후군, 바이러스 간염, HIV 감염, 아급성 심내막염, 결핵, Long COVID\*
-  * _\*Post-COVID condition : SARS-CoV-2 감염 후 통상 3개월 이내 발생하여 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군; 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함(_[_WHO_](https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition)_)_
-* 자율신경 이상([POTS](../221_/021_-syncope.md#postural-orthostatic-tachycardia-syndrome-pots)) : 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm), 유의한 기립성 저혈압 없이 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심; Long COVID 이후 피로와 함께 기립성 증상 동반 시 적극 고려
+  * _\*Post-COVID condition : SARS-CoV-2 감염력이 있는 사람에서 COVID-19 발병 후 통상 3개월 무렵에도 존재하며 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군. 급성기부터 지속되거나 회복 후 새로 나타날 수 있음; 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함(_[_WHO_](https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition)_)_
+* 자율신경 이상([POTS](../221_/021_-syncope.md#postural-orthostatic-tachycardia-syndrome-pots)) : 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm), 유의한 기립성 저혈압(수축기 ≥20 또는 이완기 ≥10 ㎜Hg 감소) 없이 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심; Long COVID 이후 피로와 함께 기립성 증상 동반 시 적극 고려
 * 류마티스 : 섬유근육통, polymyalgia rheumatica
 * 정신 : 우울장애, 불안장애, 신체증상장애 등. 검사상 원인이 확인되지 않았다는 이유만으로 신체증상장애를 진단하지 않으며, 증상에 대한 과도한 사고·감정·행동 등 별도의 진단기준을 평가
 * 약물/치료&#x20;
@@ -141,7 +141,7 @@
 * 위장관 증상, 철결핍 또는 위험인자가 있으면 celiac disease 선별검사를 고려
 * CK는 근육통·객관적 근력저하·statin 복용 등 임상 단서가 있으면 고려하며, NICE ME/CFS 초기 평가 목록에도 포함됨
 * Vit B12, 엽산, Vit D(25(OH)D), 8\~9 AM cortisol ± ACTH, 이종항체검사(감염단핵구증 의심 시), ANA, 흉부 X선, 수면검사(HSAT/PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
-* CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석하고, 거대적아구성 빈혈에서는 Vit B12·엽산을 평가
+* CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석하고, 거대적아구성 빈혈에서는 Vit B12·엽산을 평가. B12 결핍은 빈혈·거대적혈구증 없이 신경 증상으로 나타날 수도 있음
 * ESR·CRP는 염증 여부를 판단하는 보조지표이며 만성질환빈혈을 단독으로 진단하지 못함
 * 철결핍빈혈·소화기 출혈 단서가 있으면 원인 평가와 필요시 내시경을 계획. 분변 잠혈검사/FIT 음성만으로 출혈이나 소화기 악성종양을 배제하지 않음
 * [철결핍](../230_/193_-iron-deficiency-anemia.md) 평가 : ferritin ＜30 ng/㎖이면 철결핍을 강하게 시사
@@ -224,36 +224,34 @@
 
 ```mermaid
 flowchart TD
-    A[피로] --> B[Red Flag?]
-    B -->|Yes| C[응급도 Tier에 따라 <br/>즉각/당일/조기 평가]
-    B --->|No| D[<b>Fatigue <br/>vs sleepiness<br/>vs true weakness</b>]
-    D -->|Weakness| E[신경근육질환 <br/>평가]
-    D -->|Sleepiness| G
-    D -->|Fatigue| F[주된 phenotype]
-    F --> G[Sleep: <br/>OSA <br/>/ insomnia]
-    F --> H[Mood: <br/>depression <br/>/ anxiety]
-    F --> I[Medication <br/>/ lifestyle]
-    F --> J[Medical clues: <br/>anemia / thyroid <br/>/ chronic disease]
-    F --> K[Post-exertional: <br/>PEM / Long COVID]
-    G --> L[표적 평가 ± 선택적 baseline 검사]
-    H --> L
-    I --> L
-    J --> L
-    K --> M[PEM + 기능저하 지속?]
-    M -->|Yes| N[ME/CFS / PEM 동반 Long COVID 평가<br/>기간 충족 전에도 에너지 관리]
-    M -->|No| L
-    N --> L
-    L --> O[2~4주 내 추적 및 <br/>missed diagnosis 재평가]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style N fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,F,M yellow
+    A["피로"] --> B{"즉각 조치 위험징후?"}
+    B -- "예" --> C["즉시 응급 평가·이송"]
+    B -- "아니오" --> D{"당일 평가 위험징후?"}
+    D -- "예" --> E["당일 원인 평가·의뢰"]
+    D -- "아니오" --> F["`피로·졸림·객관적 근력 저하 구분
+수면·기분·약물·기질질환 단서 확인`"]
+    F --> G{"활동 후 지연된 증상 악화·PEM?"}
+    G -- "예" --> H["`ME/CFS·Long COVID 평가
+고정 증량 운동 회피·에너지 관리`"]
+    G -- "아니오" --> I["원인에 맞춘 생활 조정·치료"]
+    H --> J["`병력·진찰에 따른 표적 검사
+기능 저하·암 의심 단서는 조기 평가`"]
+    I --> J
+    J --> K["`중증도에 따라 2~4주 내 추적
+지속·악화 시 진단 재검토`"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#d6b656
+    classDef emergency fill:#f8cecc,stroke:#b85450
+    classDef treatment fill:#dae8fc,stroke:#6c8ebf
+    class A start
+    class B,D,G decision
+    class C emergency
+    class E,F,H,I,J,K treatment
 ```
 
 <p align="center"><strong>피로 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG206, CDC NAM/IOM 2015, Latimer et al. 2023)</mark></em></p>
 
 ***
 
@@ -262,7 +260,7 @@ class B,D,F,M yellow
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료 : 항불안제 등 진정·의존 가능 약물이 피로에 기여한다고 판단되면 처방의와 상의하여 금단 위험을 고려한 단계적 감량을 시행 - 임의로 중단하지 않음
-* 자살 위험이 높으면 환자를 혼자 두지 않고 가능한 범위에서 위해수단 접근을 차단하며 119·112 또는 응급실로 연계; 자살예방상담전화 109는 응급 이송·평가를 대신하지 않음
+* 자살 위험이 높으면 환자를 혼자 두지 않고 가능한 범위에서 위해수단 접근을 차단하며 119·112 또는 응급실로 연계; 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)는 응급 이송·평가를 대신하지 않음
 * 흔한 원인 및 경과에 대한 정보를 제공하고 안심시킴
 * 가족 상담
 * 수면·활동·증상 일지 작성 : 1\~2주간 수면 시간, 활동과 증상을 기록하고 활동 당일뿐 아니라 이후 48시간 이상의 변화를 확인
@@ -283,7 +281,7 @@ class B,D,F,M yellow
 * 카페인(커피) : 각성 효과는 있으나 휴식이나 수면을 대체할 수 없음; 불면증이나 불안을 악화시킬 수 있으므로 개인의 취침 시간·민감도를 고려하여 대체로 취침 6시간 전부터 피하고, 과다 섭취 중이면 단계적으로 감량
 * 적절한 체중 유지
 * 규칙적이고 충분한 수면(성인은 대체로 하루 7\~9시간, 개인차 고려); 일반적인 불면/수면위생 지도에서는 필요시 낮잠을 20\~30분 이내로 하고 늦은 오후 낮잠은 피함(단, ME/CFS에서는 개별화)
-* 균형 있는 식사 : 지방질 및 당분 섭취 제한, 과식 회피, 충분한 Vit과 미네랄 섭취
+* 균형 있는 식사 : 충분한 열량·단백질과 비타민·미네랄을 섭취하고 과도한 식이 제한을 피함. 질환별 영양 제한은 따로 적용하며 피로만을 이유로 지방 섭취를 일률적으로 제한하지 않음
 * 업무량 조절 및 효율적인 시간 계획으로 휴식 시간을 늘림
 * 스트레스 대처 : 매일 쉽게 할 수 있는 이완 운동, 긍정적인 경험에 대한 연상, 이완 호흡, 어려운 일이 생길 때는 친구나 가족들과 대화하고 도움을 요청
 * 습관성 약물 사용을 피함
@@ -295,6 +293,7 @@ class B,D,F,M yellow
 * **Vit D** : 임상적 적응증에 따라 검사하여 결핍이 확인된 경우 교정. 피로 개선만을 목적으로 특정 혈중 목표농도를 설정하지 않으며, 결핍이 없는 환자에서 경험적 고용량 투여는 권하지 않음 (☞ [골다공증](../228_/149_-osteoporosis.md#vit-d))
   * 국내 허가 용량과 환자의 연령·신기능·흡수장애 여부를 고려하여 경구 치료를 우선하고 필요시 추적 검사
 * **Vit B12** : PPI 장기 복용자·metformin 복용자·고령·비건 식이 환자에서 결핍을 확인한 뒤 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
+  * 거대적아구성 빈혈과 신경학적 증상이 함께 있어 B12 결핍이 의심되면 가능하면 치료 전 검체를 채취하되 검사 결과를 기다리느라 B12 보충을 지연하지 않음 [NICE NG239]
 * **ME/CFS** : 현재 국내에서 승인된 질병 특이 약물치료는 없음. 통증·수면장애·기립불내성 등 가장 부담이 큰 증상을 우선하여 개별적으로 치료하되 약물 과민성과 PEM을 고려
 * **methylphenidate** : 암 관련 피로 또는 ME/CFS에서 일관된 효과가 입증되지 않아 routine 사용하지 않음. 암 관련 피로에서도 psychostimulant의 일률적 사용을 권하지 않으며<mark style="color:$info;">\[ASCO-SIO 2024]</mark>, 선택된 완화의료 상황 등에서 전문가 판단으로 제한적으로 고려
   * 국내에서 암 관련 피로·ME/CFS 치료는 허가 외 사용. 허가 여부와 급여 인정은 별개의 문제이며, 사용한다면 최신 급여기준·허가 외 사용 절차를 확인
@@ -316,19 +315,24 @@ class B,D,F,M yellow
 > **처방례 1.** Vit D 결핍 확인 환자 - 경구 치료 예
 >
 > ```
-> 팩타민디쓰리정25000IU 2T qw × 6주
+> 팩타민디쓰리정25000IU 2T 매주 1회 × 6주
+> (1회 총 50,000 IU; 매일 복용하지 않음)
 > (결핍 치료 후 유지: 25,000 IU 1T 매월 1회; 결핍 위험이 높으면 환자별 조정)
 > ```
+>
+> 약제 정보: [팩타민디쓰리정25000IU·25,000 IU](https://www.health.kr/drug/2019071000005)
 >
 > _✽국내 허가사항 기준 성인 비타민 D 결핍치료 용량. 유지요법 시작 후 약 3\~4개월에 25(OH)D를 확인하여 조정. 피로 개선만을 위한 특정 목표농도 설정은 권하지 않음._
 
 > **처방례 2.** Vit D 결핍 - 흡수장애 등으로 주사제가 필요한 성인
 >
 > ```
-> 바이타디주300,000IU 1앰플 IM 1회
+> 바이타디주 200,000 IU/㎖, 1 ㎖ IM 1회 (콜레칼시페롤 200,000 IU)
 > ```
 >
-> _✽국내 허가상 흡수장애가 있는 비타민 D 결핍증 위험이 높은 성인의 예방·치료에 사용. 25(OH)D와 혈청 칼슘을 확인하여 투여하며 연간 총 투여량은 600,000 IU를 넘지 않도록 함._
+> 약제 정보: [바이타디주·200,000 IU/㎖, 1 ㎖](https://www.health.kr/drug/2015060300273)
+>
+> _✽현재 허가된 바이타디주(콜레칼시페롤 5 ㎎/㎖=200,000 IU/㎖) 기준. 비타민 D 결핍 성인에서 200,000 IU IM, 고령자는 100,000 IU IM을 적용. 1.5 ㎖ 포장과 혼동하지 말고 실제 투여 부피를 확인. 성인은 투여 후 3개월 내 효과·내약성·25(OH)D·혈청 Ca를 평가하여 재투여 여부를 결정하며 연간 총량은 600,000 IU 이하. 경구 치료를 우선하며 이 처방례는 흡수장애 등 경구 치료가 어려운 경우에 한함._
 
 > **처방례 3.** 철결핍성 빈혈 동반 피로 (☞ 철결핍빈혈 [처방례](../230_/193_-iron-deficiency-anemia.md) 참조)
 >
@@ -336,6 +340,8 @@ class B,D,F,M yellow
 > 훼로바-유서방정(철 80 ㎎/T) 1T qd 식후
 > (치료 반응과 저장 철 회복을 확인하며 유지 기간 조정)
 > ```
+>
+> 약제 정보: [훼로바-유서방정·원소철 80 ㎎](https://health.kr/drug/A11AHHHHH0249)
 
 > **처방례 4.** Vit B12 결핍 동반 피로 (PPI·metformin 장기 복용자, 고령, 비건 식이)
 >
@@ -352,22 +358,23 @@ class B,D,F,M yellow
 > **비타민 D (Vit D)**
 >
 > * 비타민 D 결핍이 확인된 경우에는 처방된 용량대로 보충하십시오. 피로는 원인이 다양하므로 비타민 D 보충만으로 반드시 호전되는 것은 아닙니다.
-> * 지용성 비타민이므로 식사와 함께 복용하면 흡수가 더 잘 됩니다.
+> * 지용성 비타민이므로 경구제는 식사와 함께 복용할 수 있습니다.
+> * 25,000 IU 고함량 정제는 매일 먹는 비타민이 아닙니다. 결핍 치료 시 매주, 유지요법 시 매월 등 처방된 간격을 정확히 지키십시오. 주사제와 경구제·건강보조제의 비타민 D를 임의로 중복하지 마십시오.
 > * 과다 복용 시 고칼슘혈증(구역, 구토, 변비, 피로 악화)이 생길 수 있으므로 임의로 용량을 늘리지 마십시오.
 > * 재검 시점은 제제·용량과 임상상황에 따라 조정하며, 고용량을 임의로 추가 복용하지 마십시오.
 
-> **철분제 (**<mark style="color:blue;">**\[훼로바]**</mark>**&#x20;등)**
+> **철분제 ([훼로바-유](https://health.kr/drug/A11AHHHHH0249) 등)**
 >
-> * 철분은 제제별 허가 용법을 따르십시오. 일반적으로 위장 장애가 없으면 흡수를 고려해 식사와 떨어뜨려 복용할 수 있으나, 훼로바-유서방정은 국내 허가상 식후 복용입니다.
+> * 철분은 제제별 허가 용법을 따르십시오. 일반적으로 위장 장애가 없으면 흡수를 고려해 식사와 떨어뜨려 복용할 수 있으나, 훼로바-유서방정은 식후에 복용하며 씹거나 빨거나 부수지 말고 물과 함께 통째로 삼키십시오. 삼키기 어렵거나 사레가 잘 들리면 다른 제형을 상담하십시오.
 > * 비타민 C를 일률적으로 함께 복용할 필요는 없습니다. 칼슘제·제산제·차/커피 등은 철분 흡수를 방해할 수 있으므로 가능한 시간 간격을 두십시오.
 > * 철분제 때문에 변이 검게 나올 수 있습니다. 다만 끈적한 타르변, 어지럼·실신·복통 등이 동반되면 출혈 여부를 평가받으십시오.
 > * Hb가 정상화된 후에도 저장 철을 보충하기 위해 보통 약 3개월 더 복용하며, 검사 결과와 출혈 여부에 따라 담당 의사가 기간을 조정합니다.
 
-> **비타민 B12 (메코발라민 등)**
+> **비타민 B12 보충**
 >
 > * 비타민 B12가 부족하면 피로, 손발 저림, 기억력 저하, 빈혈이 생길 수 있습니다.
 > * 위장약(PPI)이나 당뇨약(메트포르민)을 오래 복용하면 B12 흡수가 줄어들 수 있습니다. 빈혈·손발 저림 등 증상과 복용 기간 및 다른 위험 요인에 따라 담당 의사가 검사 필요성을 결정합니다.
-> * 식사와 무관하게 복용할 수 있습니다. 혈액학적 반응은 비교적 일찍 나타날 수 있지만 신경학적 증상의 회복에는 수개월 이상 걸리거나 불완전할 수 있으므로 추적 진료가 필요합니다.
+> * 투여 경로와 복용법은 처방된 제품에 따라 따르십시오. 혈액학적 반응은 비교적 일찍 나타날 수 있지만 신경학적 증상의 회복에는 수개월 이상 걸리거나 불완전할 수 있으므로 추적 진료가 필요합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -387,6 +394,7 @@ class B,D,F,M yellow
 * [NICE. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) - ME/CFS 의심·진단 기간 요건, 에너지 관리와 고정 증량 운동의 제한; NAM/IOM 기준과 구분
 * [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8515119/) - 철결핍·철결핍빈혈의 원인 평가와 보충·반응 추적
 * \[ASCO-SIO 2024] [Bower JE, et al. Management of Fatigue in Adult Survivors of Cancer: ASCO-Society for Integrative Oncology Guideline Update. J Clin Oncol. 2024;42(20):2456-2487.](https://doi.org/10.1200/JCO.24.00541) - 암 관련 피로의 비약물 치료와 psychostimulant의 일률적 사용 제한; 일반 피로·ME/CFS와 구분
+* [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NG239. 2024.](https://www.nice.org.uk/guidance/ng239/chapter/recommendations) - 빈혈 없는 B12 결핍과 신경 증상 동반 시 신속한 보충
 * [World Health Organization. Post COVID-19 condition (Long COVID). Fact sheet.](https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition) - 지속 피로·활동 후 증상 악화를 동반하는 코로나19 후유증의 감별
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
@@ -438,13 +446,13 @@ class B,D,F,M yellow
 * 갑자기 발생한 마비·언어장애·의식 변화
 * 지속되는 심한 흉통 또는 심한 호흡곤란, 실신
 * 많은 양의 토혈·혈변/흑색변·객혈 또는 출혈과 함께 어지럼·식은땀·저혈압 증상이 있는 경우
-* 자살 계획·의도가 있거나 자해·자살 시도 직후, 스스로 안전을 유지하기 어려운 경우 - 혼자 있지 말고 **119·112 또는 응급실**에 즉시 도움을 요청하십시오. 상담전화 **109**가 응급 평가를 대신하지 않습니다
+* 자살 계획·의도가 있거나 자해·자살 시도 직후, 스스로 안전을 유지하기 어려운 경우 - 혼자 있지 말고 **119·112 또는 응급실**에 즉시 도움을 요청하십시오. 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)가 응급 평가를 대신하지 않습니다
 {% endhint %}
 
 {% hint style="warning" %}
 **이럴 때는 진료가 필요합니다**
 
-* 구체적인 계획은 없더라도 자살사고가 들면 당일 의료진에게 알리십시오. 자살예방상담전화 **109**에서도 도움을 받을 수 있습니다
+* 구체적인 계획은 없더라도 자살사고가 들면 당일 의료진에게 알리십시오. 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)에서도 도움을 받을 수 있습니다
 * 새로 발생하거나 빠르게 악화하는 운동 시 흉통·숨참, 반복 실신, 고열·뚜렷한 병색, 의미 있는 객혈은 당일 평가를 받으십시오
 * 충분히 쉬어도 피로가 4주 이상 지속되는 경우
 * 피로와 함께 체중 감소, 발열, 식은땀, 림프절 비대가 동반되는 경우
