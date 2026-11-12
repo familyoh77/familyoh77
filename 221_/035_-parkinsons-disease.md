@@ -142,7 +142,7 @@
 
 **지지 기준 (Supportive criteria)** - 진단 가능성을 높임
 
-* 도파민 치료에 명확하고 현저한 반응 : 치료 초기에 정상 또는 거의 정상 수준으로 호전되거나, 용량을 늘리면 뚜렷이 좋아지고 줄이면 뚜렷이 나빠지거나, 예측 가능한 [wearing-off](035_-parkinsons-disease.md#undefined-15) 등 뚜렷한 ON/OFF 변동이 나타남
+* 도파민 치료에 명확하고 현저한 반응 : 치료 초기에 정상 또는 거의 정상 수준으로 호전되거나, 용량을 늘리면 뚜렷이 좋아지고 줄이면 뚜렷이 나빠지거나, 예측 가능한 [wearing-off](035_-parkinsons-disease.md#wearing-off) 등 뚜렷한 ON/OFF 변동이 나타남
 * levodopa-induced dyskinesia 발생
 * 사지의 안정 시 떨림 존재
 * 후각 상실 또는 심장 교감 신경 탈신경
@@ -203,7 +203,7 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th>분류</th><th width="297">특징</th><th>예상 경과</th><th>Levodopa에 대한 반응</th></tr></thead><tbody><tr><td><a href="034_-tremor.md#essential-tremor-et">본태성 떨림</a></td><td>주로 양측 상지의 동작 떨림; 머리·목소리 떨림 가능; 서동증과 경직 없음</td><td>서서히 진행</td><td>없음</td></tr><tr><td>약물 유발</td><td>도파민 차단제 등과 시간적 연관; 대칭적인 경우가 흔하나 비대칭도 가능</td><td>약물 중단 후 수 주~6개월 이상에 걸쳐 호전; 지속되면 잠복 PD 고려</td><td>대개 제한적</td></tr><tr><td>혈관성</td><td>단계적 악화, 국소 신경학적 이상, 하지 우세 보행 장애; 영상의 혈관 병변과 임상 연관성 확인</td><td>혈관 상태에 따름</td><td>대개 미약하나 일부 반응</td></tr><tr><td>정상압수두증</td><td>보행장애(발이 바닥에 붙은 듯한 자석 보행) + 인지 저하 + 요실금; MRI에서 뇌실 확대</td><td>배액 검사·션트로 호전 가능</td><td>대개 없음</td></tr><tr><td>진행성 핵상마비(PSP)</td><td>조기 반복 낙상, 몸통 경직, 수직 핵상주시마비, 전두엽 기능 이상; PSP-P 등 다양한 아형 존재 <mark style="color:$info;">[MDS 2017]</mark></td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>다계통위축증(MSA)</td><td>자율신경 기능 상실, 파킨슨증 또는 소뇌증후군의 조합; 임상적 개연 MSA에서는 자율신경 기능 상실이 항상 필수는 아님 <mark style="color:$info;">[MDS 2022]</mark>; 흡기성 협착음이 특징적</td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>피질기저증후군(CBS)</td><td>비대칭 경직·근긴장이상, 사지 실행증, 피질 감각 소실, 외계인 손</td><td>진행성</td><td>불량</td></tr><tr><td>루이소체치매(DLB)</td><td>인지 저하가 파킨슨증보다 선행하거나 1년 이내 발생; 변동성 인지, 반복적 시각 환각, RBD가 핵심 특징</td><td>진행성</td><td>다양; 인지·정신 증상에는 cholinesterase 억제제 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>분류</th><th width="297">특징</th><th>예상 경과</th><th>Levodopa에 대한 반응</th></tr></thead><tbody><tr><td><a href="034_-tremor.md#essential-tremor">본태성 떨림</a></td><td>주로 양측 상지의 동작 떨림; 머리·목소리 떨림 가능; 서동증과 경직 없음</td><td>서서히 진행</td><td>없음</td></tr><tr><td>약물 유발</td><td>도파민 차단제 등과 시간적 연관; 대칭적인 경우가 흔하나 비대칭도 가능</td><td>약물 중단 후 수 주~6개월 이상에 걸쳐 호전; 지속되면 잠복 PD 고려</td><td>대개 제한적</td></tr><tr><td>혈관성</td><td>단계적 악화, 국소 신경학적 이상, 하지 우세 보행 장애; 영상의 혈관 병변과 임상 연관성 확인</td><td>혈관 상태에 따름</td><td>대개 미약하나 일부 반응</td></tr><tr><td>정상압수두증</td><td>보행장애(발이 바닥에 붙은 듯한 자석 보행) + 인지 저하 + 요실금; MRI에서 뇌실 확대</td><td>배액 검사·션트로 호전 가능</td><td>대개 없음</td></tr><tr><td>진행성 핵상마비(PSP)</td><td>조기 반복 낙상, 몸통 경직, 수직 핵상주시마비, 전두엽 기능 이상; PSP-P 등 다양한 아형 존재 <mark style="color:$info;">[MDS 2017]</mark></td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>다계통위축증(MSA)</td><td>자율신경 기능 상실, 파킨슨증 또는 소뇌증후군의 조합; 임상적 개연 MSA에서는 자율신경 기능 상실이 항상 필수는 아님 <mark style="color:$info;">[MDS 2022]</mark>; 흡기성 협착음이 특징적</td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>피질기저증후군(CBS)</td><td>비대칭 경직·근긴장이상, 사지 실행증, 피질 감각 소실, 외계인 손</td><td>진행성</td><td>불량</td></tr><tr><td>루이소체치매(DLB)</td><td>인지 저하가 파킨슨증보다 선행하거나 1년 이내 발생; 변동성 인지, 반복적 시각 환각, RBD가 핵심 특징</td><td>진행성</td><td>다양; 인지·정신 증상에는 cholinesterase 억제제 고려</td></tr></tbody></table>
 
 > _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy. Mov Disord 2017;32(6). Wenning GK, et al. The Movement Disorder Society criteria for MSA. Mov Disord 2022;37(6). McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. Neurology 2017;89(1)._
 
@@ -213,27 +213,25 @@
 ***
 
 ```mermaid
-graph TD
-    A["<u>파킨슨증 의심</u><br/>bradykinesia<br/>/resting tremor<br/>/rigidity/보행 변화"] --> B["비정형 소견·Red flag 있음?"]
-    B -->|있음| C["신경과 의뢰"]
-    B -->|없음| D["약물 유발 가능성?"]
-    D -->|있음| E["•가능하면 원인 <br/>약물 중단·대체<br/>•경과 관찰 및 신경과 협진"]
-    E --> F["회복?"]
-    F -->|"6개월 이상 불완전 회복"| C
-    F -->|회복| G["약물 유발 <br/>파킨슨증"]
-    D -->|없음| H["MDS 임상 진단 기준 충족?<br/>•bradykinesia <br/>+'tremor 또는 rigidity'"]
-    H -->|불충족| I["•타 원인 고려<br/>•추적 관찰"]
-    H -->|충족| J["절대 배제·지지 기준<br/>MDS red flag 균형 평가"]
-    J -->|"MDS 판정 충족"| R["파킨슨병 <br/>임상 진단"]
-    J -->|"진단 불확실·비정형 의심"| K["신경과 의뢰<br/>선택적 MRI<br/>/DAT 영상"]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,F,H,J yellow
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style K fill:#f96,stroke:#e65100,stroke-width:2px
-    style G fill:#b2dfdb,stroke:#004d40,stroke-width:1px
-    style R fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+flowchart TD
+    A(["파킨슨증 의심"]) --> B{"응급 징후?"}
+    B -- "예" --> C["즉시 응급 평가·치료"]
+    B -- "아니요" --> D["치료 전 신경과 평가: 병력·진찰·약물력"]
+    D --> E{"서동과 안정 떨림 또는 경직?"}
+    E -- "아니요" --> F["다른 원인 감별·추적"]
+    E -- "예" --> G{"약물·구조적 원인 또는 비정형 단서?"}
+    G -- "예" --> H["원인 약물 조정·선택적 검사·전문 평가"]
+    G -- "아니요" --> I["MDS 배제·지지 기준 및 red flags 평가"]
+    I --> J{"MDS 판정 충족?"}
+    J -- "예" --> K["파킨슨병 임상 진단·치료 및 추적 재평가"]
+    J -- "아니요" --> L["전문의 재평가·필요시 MRI 또는 DAT 영상"]
+    style A fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef emergency fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class B,E,G,J decision
+    class C emergency
+    class D,F,H,I,K,L action
 ```
 
 <p align="center"><strong>파킨슨병 진단 알고리듬</strong></p>
@@ -248,10 +246,11 @@ class B,D,F,H,J yellow
 
 * 치료 시작 시기 : 증상이 일상 기능에 영향을 미치면 연령에 무관하게 치료를 시작
   * 단순히 운동 합병증을 우려하여 levodopa를 미루지 않음
-  * 삶의 질 향상을 위해 증상 발생 초기부터 적극적으로 사용하는 것이 원칙
+  * 초기부터 약물의 이득과 위험을 설명하고, 증상의 생활 영향과 환자 선호에 따라 시작 시기를 정함
   * 과거에는 장기 사용 시 dyskinesia 우려(levodopa phobia)로 투여를 최대한 늦추었으나, 현재는 이 우려가 과장된 것으로 평가됨
   * levodopa 자체가 신경 독성을 가진다는 근거는 없음
 * 초기 약제 선택
+  * 초기 levodopa는 속방형을 우선하고 최소 유효용량을 사용
   * 치료가 필요한 초기 파킨슨병에서는 일반적으로 levodopa를 우선 권고
   * 운동 증상이 경미하면 MAO-B 억제제를 고려할 수 있으나 levodopa보다 증상 개선 효과가 작음
   * dopamine agonist는 운동이상증 위험을 중요하게 고려하는 일부 젊은 환자에서 선택할 수 있음
@@ -266,33 +265,34 @@ class B,D,F,H,J yellow
 **급여기준 (고시** [**제2024-235호**](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0002)**)** : 항파킨슨 약제는 최대 6품목까지 인정하며 중증 파킨슨병은 최대 7품목까지 인정함. 복합제는 포함된 성분을 각각 1품목으로 계산함. 대상 약제군은 levodopa, dopamine agonist, MAO-B 억제제, antiviral(amantadine), 항콜린제, COMT 억제제임
 {% endhint %}
 
+***
+
 ```mermaid
-graph TD
-    A(["파킨슨병 진단"]) --> B["일상 기능에 영향?"]
-    B -->|없음| C["운동 치료 + 교육<br/>추적 관찰"]
-    B -->|있음| D["증상 중증도·연령·인지·직업<br/>부작용 위험과 선호"]
-    D -->|대부분| E["Levodopa 우선"]
-    D -->|"경미한 증상"| H["MAO-B 억제제 고려"]
-    D -->|"일부 젊은 환자<br/>인지·행동 위험 낮음"| I["Dopamine agonist 고려"]
-    E --> J["용량 적정 후 반응 평가<br/>충분한 용량 전 <br/>무반응 판정 금지"]
-    H --> J
-    I --> J
-    J --> K["반응?"]
-    K -->|무반응| L["신경과 의뢰"]
-    K -->|충분| M["장기 추적<br/>운동·비운동 증상 모니터링"]
-    M --> N["합병증 발생?"]
-    N -->|Wearing-off| O["투여 간격 단축<br/>MAO-B 또는 COMT 추가"]
-    N -->|Dyskinesia| P["Levodopa 단회 용량 감량<br/>Amantadine 추가"]
-    N -->|정신증| Q["섬망·유발 약물 평가<br/>약제 조정 후 전문 치료"]
-    N -->|"조절 불가"| L
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,K,N yellow
-    style L fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style M fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-
-
+flowchart TD
+    A(["파킨슨병 진단"]) --> B["모든 환자: 교육·운동·재활 및 비운동 증상 관리"]
+    B --> C{"운동 증상의 생활 영향·치료 선호"}
+    C -- "경미·당장 약물 원치 않음" --> D["추적 관찰·약물 시작 시기 재평가"]
+    C -- "기능·삶의 질 저하" --> E["속방형 levodopa 최소 유효용량 우선"]
+    C -- "선택된 경증·젊은 환자" --> F["MAO-B 억제제 또는 dopamine agonist 개별 고려"]
+    E --> G["용량 적정 후 운동 반응·이상반응 평가"]
+    F --> G
+    G --> H{"충분한 반응·내약성?"}
+    H -- "아니요" --> I["복약·흡수·진단 재평가 및 신경과 조정"]
+    H -- "예" --> J["운동·비운동 증상 장기 추적"]
+    J --> K{"운동 합병증·정신증?"}
+    K -- "wearing-off" --> L["투여 간격 조정·보조약 고려 및 병용금기 확인"]
+    K -- "peak-dose dyskinesia" --> M["levodopa 단회 용량 조정·amantadine 고려"]
+    K -- "환각·망상" --> N["섬망·위험도 평가·전문의 약제 조정"]
+    K -- "없음" --> J
+    L --> O{"최적 약물요법에도 불편 지속?"}
+    M --> O
+    O -- "예" --> P["전문센터: 지속 주입·DBS 등 평가"]
+    O -- "아니요" --> J
+    style A fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class C,H,K,O decision
+    class B,D,E,F,G,I,J,L,M,N,P action
 ```
 
 <p align="center"><strong>파킨슨병 치료 알고리듬</strong></p>
@@ -332,11 +332,11 @@ class B,D,K,N yellow
   * exenatide는 질병 진행 억제 효과를 입증하지 못함
   * α-synuclein 표적 항체 등은 임상시험 단계임
 * 장기 치료 중 발생하는 주요 합병증
-  * wearing-off : 다음 복용 전 약 효과가 떨어지면서 운동 증상이 다시 악화되는 현상
+  * <a id="wearing-off"></a>wearing-off : 다음 복용 전 약 효과가 떨어지면서 운동 증상이 다시 악화되는 현상
     * levodopa 장기 사용 후 점차 발생
-    * 비운동 OFF 증상이 먼저 나타나는 경우가 많음 - 불안, 발한, 통증, 기분 저하, 급박뇨 등이 운동 증상 악화 전 전구 징후로 나타날 수 있음
+    * 비운동 OFF 증상이 운동 증상보다 먼저 나타나거나 동반될 수 있음 - 불안, 발한, 통증, 기분 저하, 급박뇨 등이 운동 증상 악화 전 전구 징후로 나타날 수 있음
   * dyskinesia : 주로 levodopa 혈중 농도가 최고조일 때 발생하는 불수의적 이상 운동(몸이 흔들리거나 뒤틀리는 움직임)
-    * levodopa 단회 용량 감량·분할 및 amantadine을 고려
+    * 아래 내용은 peak-dose dyskinesia에 해당하며 levodopa 단회 용량 감량·분할 및 amantadine을 고려; diphasic dyskinesia·OFF 근긴장이상은 양상을 구분하여 전문의와 조정
     * COMT·MAO-B 억제제는 wearing-off에는 유용하지만 dyskinesia를 유발·악화할 수 있음
 * 항파킨슨제는 임의로 갑자기 중단하지 않으며, 감량·중단·전환은 약제와 임상 상황(이상반응의 중증도 포함)에 따라 계획함
 
@@ -349,10 +349,12 @@ class B,D,K,N yellow
 * 금기 : 협우각형 녹내장, MAO 억제제\* 투여 중, 미진단 피부 병변·흑색종 병력
   * <mark style="color:$info;">\*비선택적 MAO 억제제 해당; 선택적 MAO-B 억제제는 보조요법으로 병용 가능</mark>
 * 주의 : 활동성 정신병, 심한 기립성 저혈압, 소화성 궤양, 중증 심혈관·폐질환, 당뇨병(혈당 상승)
-* levodopa/carbidopa : 레보도파로서 1회 100\~125 ㎎, 1일 100\~300 ㎎으로 시작하여 매일 또는 격일로 100\~125 ㎎씩 증량 <mark style="color:blue;">\[퍼킨정 25-100]</mark>
+* levodopa/carbidopa : 레보도파로서 1회 100\~125 ㎎, 1일 100\~300 ㎎으로 시작하여 매일 또는 격일로 100\~125 ㎎씩 증량 <mark style="color:blue;">\[[퍼킨정 25-100](https://health.kr/drug/A11A0920A0216)]</mark>
   * 표준 유지량 - 1회 200\~250 ㎎ tid; 최대 - 1일 1,500 ㎎
-* levodopa/benserazide : 국내 현행 제품은 100/25 ㎎의 확산정 및 HBS 캡슐
-  * 제형별 흡수 특성과 용법이 다르므로 서로 단순 대체하지 않음 <mark style="color:blue;">\[마도파 확산정 125, 마도파 HBS 캡슐 125]</mark>
+* levodopa/benserazide : 100/25 ㎎의 확산정 및 HBS 캡슐이 있으며, 아래에서는 이 제형을 소개
+  * 제형별 흡수 특성과 용법이 다르므로 서로 단순 대체하지 않음 <mark style="color:blue;">\[[마도파 확산정 125](https://health.kr/drug/A11ABBBBB1172) · [마도파 HBS 캡슐 125](https://health.kr/drug/A11ABBBBB1169)]</mark>
+  * 확산정 : 물 25\~50 ㎖에 분산시키고 저은 뒤 30분 이내 복용; 우유·과일주스·뜨거운 물에 타지 않음
+  * HBS 캡슐과 dopamine agonist 서방정은 씹거나 부수지 않고 삼킴
 
 {% hint style="warning" %}
 **Carbidopa/levodopa 치료의 비타민 B6 결핍 경고** : 2026년 FDA는 carbidopa/levodopa 함유 제제에 비타민 B6 결핍 및 관련 발작 경고를 추가함. 고용량일수록 위험이 증가함(보고 14례는 모두 levodopa ＞1,000 ㎎/d).\
@@ -369,12 +371,12 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 복용과 식사 : 가능하면 식전 30분 또는 식후 1시간에 복용하되 구역이 심하면 소량의 비단백 간식과 복용할 수 있음
   * 단백질 재분배는 식사와 연관된 운동 기복이 확인된 환자에서 총 단백질과 영양 상태를 유지하며 고려
 * 초기 구역·구토 : 소량의 비단백 간식과 함께 복용하고, metoclopramide, levosulpiride 등 중추성 도파민 차단 항구토제는 피함. 지속되면 QT 연장 위험과 금기를 확인한 뒤 domperidone을 최소 유효 용량으로 단기간 고려
-* 지속 주입 치료 : levodopa/carbidopa 장관겔 <mark style="color:blue;">\[듀오도파장내겔]</mark>(2026년 9월 현재 유통되지 않음)
+* 지속 주입 치료 : levodopa/carbidopa 장관겔 <mark style="color:blue;">\[듀오도파장내겔]</mark>(일반 유통 여부·공급 경로는 전문센터 또는 한국희귀·필수의약품센터에 확인)
   * foslevodopa/foscarbidopa 피하주입제는 2026년 2월 국내 희귀의약품으로 지정됨
 
 #### <mark style="color:$primary;">운동 합병증 관리 요약</mark>
 
-<table><thead><tr><th width="124">합병증</th><th>특징</th><th>1차 대응</th><th>전문 치료</th></tr></thead><tbody><tr><td><strong>Wearing-off</strong></td><td>다음 복용 전 운동·비운동 증상 재출현; 불안, 발한, 통증 등이 먼저 나타날 수 있음</td><td>levodopa 단회 용량·간격 조정; MAO-B 또는 COMT 억제제 추가 고려</td><td>서방형 제제, dopamine agonist, 지속 주입 치료 또는 수술 치료 평가</td></tr><tr><td><strong>Peak-dose dyskinesia</strong></td><td>levodopa 최고 혈중 농도 시 몸이 흔들리거나 뒤틀리는 불수의운동</td><td>levodopa 단회 용량 감량·분할; dyskinesia를 악화시키는 보조약 재평가</td><td>amantadine; 약물 조절 한계 시 DBS 등 평가</td></tr><tr><td><strong>보행 동결</strong></td><td>걷기 시작·방향 전환·좁은 공간에서 발이 멈춤; OFF 시 악화 가능</td><td>ON/OFF 연관성을 확인하여 levodopa 최적화; 청각·시각 큐 활용</td><td>파킨슨병 전문 물리치료; levodopa 반응성 증상에 한해 수술 치료 평가</td></tr><tr><td><strong>갑작스러운 중증 OFF</strong></td><td>예측하기 어려운 OFF로 일상생활에 심한 지장</td><td>복약 누락·식사·위장관 흡수와 기존 요법을 재평가하고 신경과 의뢰</td><td>국내 허가·유통 제형을 확인하여 간헐적 구조요법 또는 지속 주입 치료를 개별 선택</td></tr></tbody></table>
+<table><thead><tr><th width="124">합병증</th><th>특징</th><th>1차 대응</th><th>전문 치료</th></tr></thead><tbody><tr><td><strong>Wearing-off</strong></td><td>다음 복용 전 운동·비운동 증상 재출현; 불안, 발한, 통증 등이 먼저 나타날 수 있음</td><td>levodopa 단회 용량·간격 조정; MAO-B 또는 COMT 억제제 추가 고려</td><td>서방형 제제, dopamine agonist, 지속 주입 치료 또는 수술 치료 평가</td></tr><tr><td><strong>Peak-dose dyskinesia</strong></td><td>levodopa 최고 혈중 농도 시 몸이 흔들리거나 뒤틀리는 불수의운동</td><td>levodopa 단회 용량 감량·분할; dyskinesia를 악화시키는 보조약 재평가</td><td>amantadine; 약물 조절 한계 시 DBS 등 평가</td></tr><tr><td><strong>보행 동결</strong></td><td>걷기 시작·방향 전환·좁은 공간에서 발이 멈춤; OFF 시 악화 가능</td><td>ON/OFF 연관성을 확인하여 levodopa 최적화; 청각·시각 큐 활용</td><td>파킨슨병 전문 물리치료; levodopa 반응성 증상에 한해 수술 치료 평가</td></tr><tr><td><strong>갑작스러운 중증 OFF</strong></td><td>예측하기 어려운 OFF로 일상생활에 심한 지장</td><td>복약 누락·식사·위장관 흡수와 기존 요법을 재평가하고 신경과 의뢰</td><td>허가·유통 제형을 확인하여 간헐적 구조요법 또는 지속 주입 치료를 개별 선택</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Dopamine agonists</mark>
 
@@ -386,15 +388,15 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 부작용 : 구역, 기립성 저혈압, 졸림·갑작스러운 수면, 생생한 꿈, 충동 장애(도박, 과식, 과성욕 등), 착란, 하지 부종, 어지럼
 * 금기/주의 : 인지 저하 / 치매, 환각 병력, 충동조절장애 (도박, 과소비, 성욕 증가), 고령 (≥70), 심한 졸림 (운전 직업), 부종, 심부전
 * 매 방문 시 보호자와 함께 충동조절장애와 갑작스러운 수면 여부를 확인
-* pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[미라프, 미라프서방]</mark>
+* pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[[미라프](https://health.kr/drug/2015031700013) · [미라프서방](https://health.kr/drug/2014012900001)]</mark>
 * ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 속방형 8 ㎎ tid(24 ㎎/d), 서방형 24 ㎎ qd
-  * 임상에서는 통상 16 ㎎/d 이하에서 사용 <mark style="color:blue;">\[리큅, 리큅피디]</mark>
-* rotigotine 패취 : 미유통
+  * 임상에서는 통상 16 ㎎/d 이하에서 사용 <mark style="color:blue;">\[[리큅](https://health.kr/drug/A11ABBBBB0597) · [리큅피디](https://health.kr/drug/A11AKP08G2620)]</mark>
+* rotigotine 패취 : 국내 유통 확인 안 됨
 * bromocriptine : ergot계 dopamine 작용제로 판막질환 및 심장·폐·후복막 섬유화 위험 때문에 현재 비선호. 비-ergot계 치료로 충분히 조절되지 않는 경우의 제한적 보조요법으로 고려하며, 사용 전과 치료 중 심장초음파 등 섬유화 모니터링 필요
   * 첫 1주간 취침 시 1.25 ㎎, 이후 1주 간격으로 1.25\~2.5 ㎎/d씩 증량하여 통상 1일 10\~15 ㎎(필요시 30\~40 ㎎), 식사 직후 복용
-  * levodopa 병용 시 최적 균형을 확보하면서 levodopa를 점진 감량 <mark style="color:blue;">\[팔로델]</mark>
+  * levodopa 병용 시 최적 균형을 확보하면서 levodopa를 점진 감량 <mark style="color:blue;">\[[팔로델](https://www.health.kr/drug/A11A4480B0014)]</mark>
 * apomorphine : 간헐적 피하주사 또는 지속 피하주입 제형; 5-HT3 길항제와 병용 금기
-  * 전문센터에서 사용(일반 유통 안됨)
+  * 전문센터에서 도입·공급 경로를 확인하여 사용
 
 #### <mark style="color:$primary;">MAO-B(Monoamine Oxidase type B) Inhibitor</mark>
 
@@ -404,11 +406,11 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 기타 병용 금기/주의 : meperidine, methadone, dextromethorphan(기침약), 다른 MAO 억제제(성분별 허가사항 확인)
   * SSRI/SNRI/TCA 병용 시 세로토닌 증후군 위험(각 제품의 병용금기·휴약기간을 확인)
   * 심한 불면(특히 selegiline)
-* selegiline : 5 ㎎ qd\~bid, 최대 총 10 ㎎/d(아침·점심) <mark style="color:blue;">\[마오비]</mark>
+* selegiline : 5 ㎎ qd\~bid, 최대 총 10 ㎎/d(아침·점심) <mark style="color:blue;">\[[마오비](https://health.kr/drug/A11ABBBBB0041)]</mark>
   * 저녁 복용 시 불면 유발 가능
-* rasagiline : 초기 단독요법 또는 dopamine agonist 보조요법은 1 ㎎ qd <mark style="color:blue;">\[아질렉트]</mark>
+* rasagiline : 초기 단독요법 또는 dopamine agonist 보조요법은 1 ㎎ qd <mark style="color:blue;">\[[아질렉트](https://www.health.kr/drug/2013091600006) · [0.5 ㎎](https://health.kr/drug/2018090400002)]</mark>
   * 운동 동요가 있는 환자의 levodopa 보조요법은 0.5 ㎎ qd로 시작하여 필요시 1 ㎎ qd
-* safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d <mark style="color:blue;">\[에퀴피나]</mark>
+* safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d <mark style="color:blue;">\[[에퀴피나](https://www.health.kr/drug/2020062500008)]</mark>
   * 운동 기복이 있는 환자에서 levodopa 보조제로 사용
   * 통증 개선 가능성이 보고되었으나 통증 치료제로 확립된 것은 아님
 
@@ -419,11 +421,11 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
   * entacapone은 소변을 적갈색·주황색으로 변색시킬 수 있음
 * 금기/주의 : 설사, dyskinesia 악화; 간독성 (tolcapone)
   * entacapone : 간장애 환자 금기; 철분제와 2\~3시간 간격
-  * 콤탄 국내 허가사항은 selegiline(1일 10 ㎎ 이하) 외 MAO-B 억제제와의 병용을 금기로 기재하고 있어 rasagiline·safinamide 병용 시 확인 필요
+  * [콤탄](https://health.kr/drug/A11ALLLLL0186) 국내 허가사항은 selegiline(1일 10 ㎎ 이하) 외 MAO-B 억제제와의 병용을 금기로 기재하고 있어 rasagiline·safinamide와의 병용을 통상 요법으로 제시하지 않으며, 전문의가 제제별 허가사항을 확인하여 대안을 선택
 * entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음
   * 200 ㎎, levodopa 복용 때마다; 최대 1회 200 ㎎ 1일 10회(2,000 ㎎/d) <mark style="color:blue;">\[콤탄]</mark>
 * tolcapone : 치명적 간독성 위험 때문에 다른 COMT 억제제로 충분히 조절되지 않는 경우에만 제한적으로 고려하고 간기능 모니터링 필수
-* opicapone : 50 ㎎ qd(취침 전, levodopa 복용 최소 1시간 전후) <mark style="color:blue;">\[온젠티스]</mark>
+* opicapone : 50 ㎎ qd(취침 전, levodopa/DDCI와 최소 1시간 간격; 투여 전 1시간부터 투여 후 1시간까지 공복 유지) <mark style="color:blue;">\[[온젠티스](https://health.kr/drug/2019112700012)]</mark>
   * 1일 1회 복용으로 편의성 우수
   * 간기능 등 환자 상태와 국내 허가사항에 따라 용량 확인
 
@@ -431,11 +433,11 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 * 복합 기전(NMDA 수용체 길항 작용 포함); levodopa 유발 dyskinesia에 고려
 * 부작용 : 어지럼, 착란, 망상피반, 말초부종, 환각
-* amantadine sulfate : 1회 100 ㎎ bid <mark style="color:blue;">\[피케이멜즈]</mark>
+* amantadine sulfate : 1회 100 ㎎ bid <mark style="color:blue;">\[[피케이멜즈](https://health.kr/drug/A11A1530A0101)]</mark>
   * 중증 내과질환 또는 다른 항파킨슨제 병용 시 100 ㎎ qd로 시작하여 1\~수 주 후 100 ㎎ bid; 최대 1일 400 ㎎
   * 고령자는 1일 100 ㎎을 초과하지 않음
-* 금기 : 경련 환자, 위궤양 또는 그 병력, 중증 신질환, 임부·수유부, 중증 심부전(NYHA IV), 심근병증·심근염, II·III도 AV 차단, 서맥(＜55회/분), QT 연장(QTc ＞420 ms) 또는 QT 연장 약물 병용
-* 주의 : 투여 전과 투여 1주·3주 후, 증량 전후에 심전도로 QTc 확인
+* 금기 : 경련 환자, 위궤양 또는 그 병력, 중증 신질환, 중증 심부전(NYHA IV), 심근병증·심근염, II·III도 AV 차단, 서맥(＜55회/분), QT 연장(QTc ＞420 ms) 또는 QT 연장 약물 병용
+* 주의 : 투여 전과 투여 1주·3주 후, 증량 전 및 증량 2주 후에 심전도로 QTc 확인; 이후 적어도 연 1회 확인
   * 신기능에 따른 감량 필수
   * 환각·착란·말초부종에 특히 주의
 
@@ -447,30 +449,30 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; 고령자에서 인지 기능 저하 위험 주의
 * 금기/주의 : ≥65세, 인지 저하, 전립선 비대 (urinary retention), 녹내장
 * 처방약·일반약 전체의 총 항콜린 부담(anticholinergic burden)을 확인하고, 인지 저하·섬망·변비·요폐 악화를 모니터링
-* trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d <mark style="color:blue;">\[트리헥신]</mark>
-* benztropine : 1일 0.5\~1 ㎎으로 시작하여 5\~6일 간격으로 1일 0.5 ㎎씩 증량; 최대 1일 6 ㎎ <mark style="color:blue;">\[벤즈트로핀]</mark>
+* trihexyphenidyl : 첫날 총 1 ㎎, 둘째 날 총 2 ㎎으로 시작; 이후 내약성에 따라 총 1일 용량을 2 ㎎씩 증량하여 통상 6\~10 ㎎/d를 3\~4회 분할(필요시 더 천천히 적정) <mark style="color:blue;">\[[트리헥신](https://health.kr/drug/A11A0860A0218)]</mark>
+* benztropine : 1일 0.5\~1 ㎎으로 시작하여 5\~6일 간격으로 1일 0.5 ㎎씩 증량; 최대 1일 6 ㎎ <mark style="color:blue;">\[[벤즈트로핀](https://health.kr/drug/A11A0970A0190)]</mark>
   * 파킨슨병에서는 항콜린 부작용 때문에 가능한 한 저용량(대개 1일 2 ㎎ 이하)으로 사용
 
 #### <mark style="color:$primary;">복합제</mark>
 
-* levodopa + carbidopa + entacapone <mark style="color:blue;">\[스타레보]</mark>
+* levodopa + carbidopa + entacapone <mark style="color:blue;">\[[스타레보](https://www.health.kr/drug/A11AOOOOO4880)]</mark>
 
 ### <mark style="color:orange;">운동 증상 약제 비교</mark>
 
-<table><thead><tr><th width="119">약제군</th><th>주요 성분명 [상품명]</th><th>주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>levodopa/carbidopa <mark style="color:blue;">[퍼킨정]</mark><br>levodopa/benserazide <mark style="color:blue;">[마도파]</mark></td><td>구역, 운동이상증, 기립성 저혈압, 환각</td><td>모든 연령에서 운동 증상 개선 효과가 가장 크며 일반적으로 초기 우선 치료</td></tr><tr><td>Dopamine agonist</td><td>pramipexole <mark style="color:blue;">[미라프]</mark><br>ropinirole <mark style="color:blue;">[리큅]</mark></td><td>충동조절장애, 졸림·갑작스러운 수면, 환각, 부종, DAWS</td><td>일부 젊은 환자에서 고려; 고령·인지 저하·환각·충동조절장애에서는 회피</td></tr><tr><td>MAO-B 억제제</td><td>rasagiline <mark style="color:blue;">[아질렉트]</mark><br>safinamide <mark style="color:blue;">[에퀴피나]</mark><br>selegiline <mark style="color:blue;">[마오비]</mark></td><td>불면, 두통, 구역, 환각</td><td>경증 초기 단독 또는 levodopa 보조; 병용금기(dextromethorphan 등)와 세로토닌성 약물 상호작용 확인</td></tr><tr><td>COMT 억제제</td><td>entacapone <mark style="color:blue;">[콤탄]</mark><br>opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>설사, 운동이상증, 착란; entacapone은 소변 변색</td><td>Wearing-off 개선; 추가 시 levodopa 감량이 필요할 수 있음</td></tr><tr><td>Amantadine</td><td>amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>망상피반, 부종, 착란, 환각, QT 연장</td><td>Levodopa 유발 운동이상증에 고려; 신기능·연령별 감량; 심전도 확인</td></tr><tr><td>항콜린제</td><td>trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>benztropine <mark style="color:blue;">[벤즈트로핀]</mark></td><td>입마름, 요폐, 흐린 시야, 인지 저하</td><td>일부 젊은 떨림 우세 환자에서 제한적으로 고려; 고령자 회피</td></tr></tbody></table>
+<table><thead><tr><th width="119">약제군</th><th>주요 성분명 [상품명]</th><th>주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>levodopa/carbidopa <mark style="color:blue;">[퍼킨정]</mark><br>levodopa/benserazide <mark style="color:blue;">[마도파]</mark></td><td>구역, 운동이상증, 기립성 저혈압, 환각</td><td>모든 연령에서 운동 증상 개선 효과가 가장 크며 일반적으로 초기 우선 치료</td></tr><tr><td>Dopamine agonist</td><td>pramipexole <mark style="color:blue;">[미라프]</mark><br>ropinirole <mark style="color:blue;">[리큅]</mark></td><td>충동조절장애, 졸림·갑작스러운 수면, 환각, 부종, DAWS</td><td>일부 젊은 환자에서 고려; 고령·인지 저하·환각·충동조절장애에서는 회피</td></tr><tr><td>MAO-B 억제제</td><td>rasagiline <mark style="color:blue;">[아질렉트]</mark><br>safinamide <mark style="color:blue;">[에퀴피나]</mark><br>selegiline <mark style="color:blue;">[마오비]</mark></td><td>불면, 두통, 구역, 환각</td><td>selegiline·rasagiline은 초기 단독 또는 보조요법; safinamide는 levodopa 보조요법; 병용금기(dextromethorphan 등)와 세로토닌성 약물 상호작용 확인</td></tr><tr><td>COMT 억제제</td><td>entacapone <mark style="color:blue;">[콤탄]</mark><br>opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>설사, 운동이상증, 착란; entacapone은 소변 변색</td><td>Wearing-off 개선; 추가 시 levodopa 감량이 필요할 수 있음</td></tr><tr><td>Amantadine</td><td>amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>망상피반, 부종, 착란, 환각, QT 연장</td><td>Levodopa 유발 운동이상증에 고려; 신기능·연령별 감량; 심전도 확인</td></tr><tr><td>항콜린제</td><td>trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>benztropine <mark style="color:blue;">[벤즈트로핀]</mark></td><td>입마름, 요폐, 흐린 시야, 인지 저하</td><td>일부 젊은 떨림 우세 환자에서 제한적으로 고려; 고령자 회피</td></tr></tbody></table>
 
 ### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
 * 기립성 저혈압 : 원인 약제와 탈수·빈혈을 먼저 교정
   * 금기가 없으면 수분·염분 섭취 조정, 복부 압박대 또는 허리까지 오는 압박 의류, 머리쪽 침대 높이기를 고려
   * 과식·고탄수화물 식사를 피하고 소량씩 자주 식사
-  * 증상이 지속되면 midodrine <mark style="color:blue;">\[미드론]</mark> 2.5\~10 ㎎ tid(늦어도 취침 4시간 전 복용)를 고려하되 누운 상태 혈압 감시 (☞ [자율신경기능장애](030_-autonomic-dysfunction.md))
+  * 증상이 지속되면 midodrine <mark style="color:blue;">\[[미드론](https://health.kr/drug/A11A3180A0335)]</mark> 2.5\~10 ㎎ tid(늦어도 취침 4시간 전 복용)를 고려하되 누운 상태 혈압 감시 (☞ [자율신경기능장애](030_-autonomic-dysfunction.md))
 * 주간 졸음 : dopamine 작용제 등 유발 약물, 수면무호흡, RBD와 야간 수면 장애를 먼저 평가
   * 운전 등 위험 작업 제한
   * modafinil, methylphenidate 투여 근거는 제한적이며 전문의 감독하에 선별적으로 고려 (☞ [불면증](029_-insomnia-sleep-disorder.md#management))
 * REM 수면 행동 장애 : 우선 침실 안전 조치를 시행
   * 즉방형 melatonin, clonazepam을 조건부 권고하며, 파킨슨병에 동반된 이차성 RBD에서는 rivastigmine 패취도 조건부 권고(RBD에는 허가 외 사용) <mark style="color:$info;">\[AASM 2023]</mark>
-  * clonazepam : 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>(허가 외 사용); 고령, 낙상·인지 저하·수면무호흡에서 주의
+  * clonazepam : 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[[리보트릴](https://health.kr/drug/A11ABBBBB1153)]</mark>(허가 외 사용); 고령, 낙상·인지 저하·수면무호흡에서 주의
   * 즉방형 melatonin : 허가 제품 없음 (melatonin 서방정은 55세 이상 [불면증](029_-insomnia-sleep-disorder.md#management) 적응증)
 * [우울증](027_-depression.md) : 정신치료와 약물치료를 중증도·인지·수면·기립성 저혈압 및 상호작용에 따라 개별화
   * SSRI/SNRI 등을 고려
@@ -492,7 +494,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
   * 발생 시 dopamine agonist 감량·중단(DAWS 주의)이 1차 대응
 * [치매](033_-dementia.md) : 파킨슨증 발생 후 1년을 초과하여 치매가 나타나면 파킨슨병 치매(PDD)를 우선 고려
   * rivastigmine : 근거가 가장 확립되어 있으며 경증\~중등도 파킨슨병 관련 치매에 허가
-    * 1.5 ㎎ bid 식사와 함께 시작, 최소 4주 간격으로 증량, 최대 6 ㎎ bid <mark style="color:blue;">\[엑셀론 캡슐]</mark>
+    * 1.5 ㎎ bid 식사와 함께 시작, 최소 4주 간격으로 증량, 최대 6 ㎎ bid <mark style="color:blue;">\[[엑셀론 캡슐](https://health.kr/drug/A11ABBBBB1422) · [6 ㎎](https://health.kr/drug/A11ABBBBB1425)]</mark>
     * 떨림 악화가 흔하므로 운동 증상을 모니터링; 3일 이상 중단 후에는 최저 용량부터 다시 적정
   * donepezil 고려 가능
   * galantamine·memantine의 근거는 제한적
@@ -508,13 +510,15 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 ### <mark style="color:orange;">수술적 치료</mark>
 
 * Deep brain stimulation (DBS)
-  * 적응 : 약물 불응성 운동 증상, levodopa 유발 dyskinesia, wearing-off 현상이 심한 경우
+  * 적응 : 최적 약물요법에도 불편이 큰 운동 기복·levodopa 유발 dyskinesia 또는 약물 불응성 떨림이 있는 경우
+  * levodopa 무반응 서동·보행·자세 불안정을 일반적인 DBS 적응증으로 보지 않음
   * 표적 : STN(subthalamic nucleus) 또는 GPi(globus pallidus internus)
   * levodopa 반응성이 DBS 효과의 가장 좋은 예측 인자; tremor, rigidity, bradykinesia 개선. 단, 떨림은 levodopa 불응성이어도 호전될 수 있음
   * 상대적 금기 : 치매, 조절되지 않는 정신과 질환
 * MRI 유도 집속초음파(MRgFUS) 절제술
   * 두개골을 절개하지 않지만 뇌에 영구적인 병변을 만드는 시술로, 약물로 조절되지 않는 떨림이나 운동 합병증이 있는 일부 환자에서 편측 시술로 시행
-  * 양측 시술(단계적)도 해외에서 승인되었으나 언어·보행·균형 장애 위험이 편측보다 뚜렷이 높아 신중한 선택이 필요함
+  * 미국에서는 2025년 약물 불응성 운동 합병증이 있는 진행성 PD에 단계적 양측 pallidothalamic tractotomy가 승인됨(첫 시술 후 최소 6개월 간격). 이를 양측 시상절개술 등 모든 표적에 대한 승인으로 일반화하지 않음
+  * 2026년 단일군 다기관 연구에서는 두 번째 시술의 추가 운동 이득이 작고 지속적인 중등도·중증 이상반응이 증가하여 언어·보행·균형·연하 기능을 신중히 평가해야 함
   * 국내 시행 여부와 보험 기준이 제한적이므로 DBS와 비교하여 전문센터에서 결정
 
 ***
@@ -536,53 +540,63 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 >
 > ```
 > 퍼킨정 25-100 ㎎/T  1T  tid (아침·점심·저녁)
-> → 반응과 내약성에 따라 매일 또는 격일로 레보도파 100~125 ㎎씩 서서히 조정
+> → 반응과 내약성에 따라 레보도파 총 1일 용량을 조정(허가상 매일 또는 격일로 100~125 ㎎ 증량 가능; 고령·기립성 저혈압 등에서는 더 천천히 적정)
 > ※ 구역이 우려되면 0.5T tid로 시작하여 증량할 수 있음
 > ※ 모든 연령에서 운동 증상 개선 효과가 가장 커 일반적으로 초기 우선 치료로 고려
 > ※ 구역이 있으면 소량의 비단백성 음식과 복용할 수 있음
 > ※ 갑작스러운 중단 금지 (고열·심한 경직을 동반한 파킨슨증-고열 증후군 위험)
 > ※ 레보도파로서 1일 1,500 ㎎ 초과 금지(국내 허가사항)
 > ```
+> 약제 정보: [퍼킨정·25-100 ㎎](https://health.kr/drug/A11A0920A0216)
 
 > **처방례 2.** 일부 젊은 환자의 초기 치료 - dopamine 작용제
 >
 > ```
-> 미라프 0.125 ㎎/T  1T  tid
-> ※ 5~7일마다 0.125 ㎎ tid씩 단계적으로 증량하되 최소 유효 용량을 사용하고 신기능에 따라 감량
+> 미라프정 0.125 ㎎/T  1T  tid
+> ※ 신기능 정상 기준: 1주 0.125 ㎎ tid → 2주 0.25 ㎎ tid → 3주 0.5 ㎎ tid; 반응이 충분하면 더 증량하지 않으며 내약성에 따라 천천히 적정
+> ※ 신기능 저하 시 1회 용량과 투여 횟수 조정; 속방형과 서방형 용법을 혼동하지 않음
 > ※ 인지 저하·환각·충동조절장애·심한 졸림·고령에서는 피함
 > ※ 충동 조절 장애(도박, 과식, 과소비, 과성욕)와 갑작스러운 수면을 환자·보호자에게 안내
 > ※ 갑작스러운 수면 위험이 있어 운전 제한 안내
 > ※ 갑작스러운 중단 금지; DAWS를 피하도록 서서히 감량
 > ```
+> 약제 정보: [미라프정·0.125 ㎎](https://health.kr/drug/2015031700013) · [미라프정·0.25 ㎎](https://health.kr/drug/2014061100005) · [미라프정·0.5 ㎎](https://health.kr/drug/2015031700014)
 
 > **처방례 3.** Levodopa + COMT 억제제 병용 (wearing-off 발생 시)
 >
 > ```
-> 스타레보 필름코팅정 100/25/200 ㎎/T  1T  tid (전환 예시)
+> 스타레보필름코팅정 100/25/200 ㎎/T  1T  tid (전환 예시)
+> ※ 함량 순서: levodopa/carbidopa/entacapone
+> ※ 기존 levodopa/carbidopa 100/25 ㎎ tid 치료 중 wearing-off가 발생한 환자의 전환 예시; 초기 단독 시작용 처방이 아님
 > ※ 기존 levodopa 1회 용량과 복용 횟수에 맞는 함량을 선택하고, 추가 entacapone으로 dyskinesia가 악화되면 levodopa를 감량
 > ※ entacapone 성분으로 인해 소변이 적갈색이나 주황색으로 변할 수 있음 (정상 반응)
+> ※ 정제를 쪼개거나 부수지 말고 통째로 복용; 이 함량의 최대는 1일 10정
 > ※ 설사, 운동이상증 발생 시 용량 조절 또는 신경과 의뢰
+> ※ entacapone의 병용금기 확인: selegiline 10 ㎎/d 이하를 제외한 MAO-B 억제제와의 병용은 피함
 > ```
+> 약제 정보: [스타레보필름코팅정·100/25/200 ㎎](https://www.health.kr/drug/A11AOOOOO4880)
 
 > **처방례 4.** 경증 초기 운동 증상 - MAO-B 억제제 단독요법
 >
 > ```
-> 아질렉트 1 ㎎/T  1T  qd (아침)
+> 아질렉트정 1 ㎎/T  1T  qd (아침)
 > ※ meperidine, tramadol, methadone, dextromethorphan(감기약·기침약), 다른 MAO 억제제 등 금기 약물과 각 제품의 휴약기간을 확인
 > ※ SSRI/SNRI/TCA 병용은 제품별 국내 허가사항과 세로토닌 증후군 위험을 확인
 > ※ 운동 동요가 있어 levodopa 보조로 쓸 때는 0.5 ㎎ qd로 시작하여 내약성·반응에 따라 1 ㎎ qd까지 증량 가능
 > ```
+> 약제 정보: [아질렉트정·1 ㎎](https://www.health.kr/drug/2013091600006) · [아질렉트정·0.5 ㎎](https://health.kr/drug/2018090400002)
 
 > **처방례 5.** 파킨슨병 치매 (경증\~중등도)
 >
 > ```
-> 엑셀론 캡슐 1.5 ㎎  1C  bid (아침·저녁 식사와 함께)
+> 엑셀론캡슐 1.5 ㎎/C  1C  bid (아침·저녁 식사와 함께)
 > → 최소 4주 간격으로 3 ㎎ bid → 4.5 ㎎ bid → 6 ㎎ bid까지 내약성에 따라 증량
 > ※ 구역·구토, 떨림 악화가 흔하므로 증량 시 운동 증상과 체중을 확인
 > ※ 3일 이상 복용을 중단했다면 1.5 ㎎ bid부터 다시 적정
 > ※ 서맥·방실차단, 소화성 궤양, 천식에서 주의; β-차단제 병용 시 서맥 확인
 > ※ 항콜린제는 rivastigmine과 효과가 상쇄되고 인지 저하를 악화시키므로 가능한 한 중단
 > ```
+> 약제 정보: [엑셀론캡슐·1.5 ㎎](https://health.kr/drug/A11ABBBBB1422) · [엑셀론캡슐·3 ㎎](https://health.kr/drug/A11ABBBBB1423) · [엑셀론캡슐·4.5 ㎎](https://www.health.kr/drug/A11ABBBBB1424) · [엑셀론캡슐·6 ㎎](https://health.kr/drug/A11ABBBBB1425)
 
 ***
 
@@ -591,13 +605,15 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 > **파킨슨병 약물 복용 안내**
 >
 > * levodopa(퍼킨정, 마도파)는 파킨슨병의 가장 효과적인 약입니다. 갑자기 끊으면 고열·근육 경직·의식 저하를 동반하는 위험한 상태(파킨슨증-고열 증후군)가 생길 수 있으므로 반드시 의사와 상의하여 서서히 줄여야 합니다.
-> * dopamine 작용제(미라프, 리큅 등)는 갑자기 잠들거나 충동 조절에 문제(도박, 과식, 과소비 등)가 생길 수 있습니다. 이상한 행동 변화가 느껴지면 즉시 알려 주십시오. 갑자기 끊으면 불안·발한·약물 갈망 등의 금단 증상이 생길 수 있으므로 반드시 서서히 감량하십시오.
+> * dopamine 작용제(미라프, 리큅 등)는 갑자기 잠들거나 충동 조절에 문제(도박, 과식, 과소비 등)가 생길 수 있습니다. 갑작스러운 수면이나 심한 졸림이 한 번이라도 생기면 운전·위험 작업을 중단하고, 충동 행동 변화도 즉시 알려 주십시오. 갑자기 끊으면 불안·발한·약물 갈망 등의 금단 증상이 생길 수 있으므로 반드시 서서히 감량하십시오.
 > * 고기나 두부 같은 단백질 음식은 일부 환자에서 levodopa 흡수를 늦출 수 있습니다. 약효 변동이 있을 때만 영양 상태를 해치지 않는 범위에서 단백질 섭취 시간을 조정하십시오.
 > * 철분제는 levodopa와 2시간 이상 간격을 두고 드십시오.
 > * selegiline(마오비)은 저녁에 복용하면 잠이 안 올 수 있으므로 반드시 아침 또는 점심에만 복용하십시오.
-> * 라사길린·셀레길린 등을 복용 중이면 감기약(덱스트로메토르판 함유)이나 진통제(트라마돌)를 드시기 전에 의사·약사와 상의하십시오.
+> * 라사길린·셀레길린·사피나미드 복용 중에는 덱스트로메토르판 함유 기침약이나 트라마돌 진통제를 함께 복용하지 마십시오. 감기약·코막힘약·항우울제를 새로 사용할 때 의사·약사에게 현재 약 목록을 보여 주십시오.
 > * 다른 병원에서 소화제·구역질약을 처방받을 때 파킨슨병이 있다고 꼭 알리십시오. 일부 위장약(레보설피리드, 메토클로프라미드)은 파킨슨 증상을 악화시킵니다.
 > * entacapone이 든 콤탄·스타레보를 복용하면 소변이 적갈색이나 주황색으로 변할 수 있으며 대개 해롭지 않습니다.
+> * 온젠티스는 취침 전에 levodopa와 최소 1시간 간격을 두고, 복용 전후 각 1시간은 음식을 먹지 않습니다.
+> * 엑셀론캡슐은 아침·저녁 식사와 함께 복용하며, 3일 이상 거른 뒤에는 원래 용량으로 재개하지 말고 의료진에게 연락하십시오.
 > * 퍼킨정·스타레보처럼 carbidopa가 들어 있는 약을 복용하는 동안 의료진이 비타민 B6 수치를 확인할 수 있습니다. 보충제를 임의로 고용량 복용하지 마십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -605,7 +621,8 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 > * 약 효과가 떨어지는 시간이 생기거나(wearing-off), 몸이 저절로 움직이는 증상(dyskinesia)이 생기는 경우
 > * 갑자기 쓰러지거나 낙상 후 다친 경우
 > * 환각(없는 것이 보임), 망상, 심한 혼란이 생기는 경우
-> * 약 복용 후 심한 구역, 어지럼, 갑자기 잠드는 증상이 지속되는 경우
+> * 갑자기 잠들거나 심한 졸림이 생기면 한 번이라도 운전·위험 작업을 중단하고 처방의에게 즉시 연락
+> * 약 복용 후 심한 구역이나 어지럼이 생기는 경우
 > * 소변이 갑자기 잘 나오지 않거나 기립 시 심하게 어지러운 경우
 
 ***
@@ -625,8 +642,12 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * [Wenning GK, et al. The Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy. Mov Disord. 2022;37(6):1131-1148.](https://doi.org/10.1002/mds.29005) - MSA 진단 기준
 * [McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100.](https://doi.org/10.1212/WNL.0000000000004058) - 루이소체치매 진단 기준
 
+* [FDA. Exablate Neuro, PMA supplement P150038S037, 2025-07-03.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P150038S037) - PD 운동 합병증의 단계적 양측 pallidothalamic tractotomy 승인 범위
+* [Safety and efficacy of staged, bilateral MR-guided focused ultrasound pallidothalamic tractotomy for motor complications of Parkinson’s disease. Lancet Neurol. 2026.](https://pubmed.ncbi.nlm.nih.gov/42309086/) - 단일군 다기관 연구; 두 번째 시술의 추가 이득과 지속 이상반응
+
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
+* [질병관리청. 국가건강정보포털: 파킨슨병.](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5809) - 산정특례·돌봄 지원 안내
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용; MAO-B 억제제–tramadol 병용 금기와 항우울제 전환 시 휴약기간 확인
 * [건강보험심사평가원. 「일반원칙」 항파킨슨 약제. 고시 제2024-235호 (2024-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0002&sno=3) - 병용 약제 수·복합제 성분 산정 등 급여 원칙; 개별 약제의 조건은 별도 확인 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA Is Requiring Warning about Vitamin B6 Deficiency and Associated Seizures for Drug Products Containing Carbidopa/Levodopa. Drug Safety Communication. March 20, 2026.](https://www.fda.gov/media/191605/download) - carbidopa/levodopa의 비타민 B6 결핍·관련 경련 경고와 모니터링; 국내 허가사항과 함께 확인
@@ -661,6 +682,8 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * **복용 시간 준수** : levodopa는 매일 같은 시간에 규칙적으로 복용해야 약 효과가 일정하게 유지됩니다
 * **식사와의 관계** : levodopa는 공복 복용 시 흡수에 유리하지만 구역이 있으면 소량의 비단백성 음식과 복용할 수 있습니다. 단백질 시간 조정은 약효 변동이 있는 경우에만 영양 상태를 고려하여 시행합니다
 * **입원·응급실 방문 시** : 평소 복용 시간표와 약 목록을 보여 주고, 파킨슨병 약을 정해진 시간에 투여해 달라고 알리십시오
+* **졸음·충동 행동** : 갑자기 잠들거나 심하게 졸리면 한 번이라도 운전·위험 작업을 중단하고 처방의에게 즉시 연락하십시오. 도박·과소비·과식·성욕 증가 등 행동 변화는 가족과 함께 관찰하여 알리고, 약은 임의로 끊지 마십시오
+* **제형별 복용법** : 마도파확산정은 안내받은 양의 물에 분산시켜 저은 뒤 30분 이내 복용합니다. HBS 캡슐과 서방정은 씹거나 부수지 마십시오. 약을 거른 경우 두 배로 보충하지 말고 약제별 안내를 따르십시오
 * **다른 약을 처방받을 때** : 소화제·구역질약, 감기약, 진통제를 처방받거나 구입할 때 파킨슨병 약을 복용 중이라고 알리십시오
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
@@ -670,7 +693,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * **수분·섬유질 섭취** : 변비 예방에 도움이 됩니다. 다만 심부전·신장질환·저나트륨혈증 등으로 수분 제한이 필요하면 의료진이 정한 양을 따르십시오
 * **식후 어지럼 주의** : 식사 후 혈압이 떨어질 수 있으므로 과식을 피하고 소량씩 자주 드십시오. 식후 바로 일어서지 말고 잠시 앉아 계십시오
 * **수면 관리(RBD)** : 꿈을 꾸며 수면 중 소리를 지르거나 발길질을 하는 행동이 파킨슨병에 동반될 수 있습니다. 가족이 이런 행동을 보면 의사에게 알려 주십시오. 본인과 배우자의 부상 방지를 위해 침대를 낮게 하고 주변에 쿠션 등을 배치하여 침실 환경을 안전하게 조성하십시오
-* **마음 건강** : 우울감이 2주 이상 계속되거나 삶이 의미 없다고 느껴지면 참지 말고 의료진에게 알리십시오. 극단적인 생각이 들면 자살예방 상담전화 109로 즉시 연락하십시오
+* **마음 건강** : 우울감이 2주 이상 계속되거나 삶이 의미 없다고 느껴지면 참지 말고 의료진에게 알리십시오. 극단적인 생각이 들면 자살예방 상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)로 즉시 연락하십시오
 
 #### <mark style="color:$primary;">치료비와 돌봄 지원 제도</mark>
 
@@ -681,6 +704,6 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 * 약을 먹었는데도 몸이 전혀 움직이지 않거나 갑자기 상태가 나빠진 경우
 * 약을 거르거나 갑자기 끊은 뒤 고열, 심한 경직, 의식 변화가 생긴 경우
-* 없는 것이 보이거나(환각), 이상한 행동이 갑자기 생긴 경우
+* 환각·망상이 새로 생기면 당일 의료진에게 연락하십시오. 심한 혼란·의식 변화가 있거나 본인·다른 사람에게 위험한 행동이 나타나면 즉시 응급진료를 받으십시오
 * 실신하거나 넘어져 다친 경우, 특히 머리를 부딪혔을 때
 * 음식을 삼키기 어렵거나 반복해서 사레들고 숨이 차는 경우
