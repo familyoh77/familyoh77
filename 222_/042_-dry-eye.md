@@ -143,35 +143,32 @@
 ***
 
 ```mermaid
-graph TD
-    Start(["안구 불편감 호소 환자"])
-    Start --> RedFlag["Red Flags의 즉각 조치 또는 <br>당일 안과 평가 항목에 <br>해당?"]
-    RedFlag -- Yes --> Urgent["즉각 조치 또는 <br>당일 안과 평가"]
-    RedFlag -- No --> Screen["OSDI-6 ≥4?"]
-    Screen -- No --> Signs["객관적 안구 표면 손상?"]
-    Signs -- No --> Other["다른 원인 감별"]
-    Signs -- Yes --> Neurotrophic["각막감각저하<br>·신경영양각막염 감별"]
-    Screen -- Yes --> Homeo["항상성 검사/<br>덜 침습적인 검사부터<br>시행"]
+flowchart TD
+    Start["안구 불편감 호소 환자"] --> Emergency["즉각 조치 Red Flags?"]
+    Emergency -- "예" --> Urgent["즉시 안과 응급 평가 및 원인별 조치"]
+    Emergency -- "아니요" --> SameDay["당일 평가 Red Flags?"]
+    SameDay -- "예" --> Review["당일 안과 평가"]
+    SameDay -- "아니요" --> Screen["OSDI-6 ≥4?"]
+    Screen -- "아니요" --> Signs["객관적 안구 표면 손상?"]
+    Signs -- "아니요" --> Other["다른 원인 감별"]
+    Signs -- "예" --> Neuro["각막감각저하·신경영양각막염 감별"]
+    Screen -- "예" --> Homeo["덜 침습적인 항상성 검사부터 시행"]
     Homeo --> Positive["1가지 이상 양성?"]
-    Positive -- No --> Enough["2가지 이상 평가 후<br>모두 음성?"]
-    Enough -- No --> Homeo
-    Enough -- Yes --> Pain["다른 질환 또는 <br>신경병증성 각막통증 <br>감별"]
-    Positive -- Yes --> DED["DED 진단"]
-    DED --> Drivers["복수의 원인 기전 평가"]
-    Drivers --> Tear["눈물막 결핍 / <br>지질·수성·mucin"]
-    Drivers --> Lid["눈꺼풀 이상 / <br>깜박임·안검연·MGD"]
-    Drivers --> Surface["안구 표면 이상 / <br>구조·신경·손상·염증"]
-    Tear --> Tx["확인된 기전에 맞춘 복합 치료"]
-    Lid --> Tx
-    Surface --> Tx
-    Tx --> Follow["치료 반응·순응도<br>·부작용 재평가"]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class RedFlag,Screen,Signs,Positive,Enough yellow
-    style DED fill:#f96,stroke:#e65100,stroke-width:2px
-    style Tear fill:#e1f5fe,stroke:#01579b
-    style Lid fill:#fff3e0,stroke:#e65100
-    style Surface fill:#f3e5f5,stroke:#4a148c
+    Positive -- "아니요" --> Enough["2가지 이상 평가 후 모두 음성?"]
+    Enough -- "아니요" --> Homeo
+    Enough -- "예" --> Pain["다른 질환·신경병증성 각막통증 감별"]
+    Positive -- "예" --> DED["DED 진단 및 복수의 원인 기전 평가"]
+    DED --> Drivers["<u>원인 기전</u><br/>• 눈물막: 지질·수성·mucin<br/>• 눈꺼풀: 깜박임·안검연·MGD<br/>• 안구 표면: 구조·신경·손상·염증"]
+    Drivers --> Tx["확인된 기전에 맞춘 복합 치료"]
+    Tx --> Follow["치료 반응·순응도·부작용 재평가"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef process fill:#e1f5fe,stroke:#01579b
+    class Start start
+    class Emergency,SameDay,Screen,Signs,Positive,Enough decision
+    class Urgent emergency
+    class Review,Other,Neuro,Homeo,Pain,DED,Drivers,Tx,Follow process
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -186,7 +183,7 @@ graph TD
 **원인 기전 기반 치료 전략 (Driver-based Approach)**
 {% endhint %}
 
-<table><thead><tr><th width="190">확인된 기전</th><th>주요 치료 선택지</th></tr></thead><tbody><tr><td>모든 환자의 기본 관리</td><td>교육, 유발 요인 조정, 깜박임·환경·수면 개선, 적절한 인공 눈물</td></tr><tr><td>지질 결핍·MGD</td><td>온찜질·눈꺼풀 위생, 지질 함유 윤활제; 불응 시 안과에서 약물·기기 치료 선별</td></tr><tr><td>수성 눈물 결핍</td><td>무방부제 윤활제, 야간 연고; Sjögren 등 원인 평가, 선별된 환자에서 눈물 보존·분비 촉진</td></tr><tr><td>mucin/glycocalyx 이상</td><td>국내 허가된 분비촉진제(rebamipide·diquafosol 등)를 적응증과 허가사항에 따라 고려</td></tr><tr><td>안구 표면 염증</td><td>감염 배제 후 안과 감독 아래 단기 국소 스테로이드 또는 장기 면역조절제 고려</td></tr><tr><td>구조·신경·상피 이상</td><td>원인 구조 교정, 신경병증성 통증·신경영양각막염 평가; 중증에서는 재생치료·보호렌즈 등 전문치료</td></tr></tbody></table>
+<table><thead><tr><th width="190">확인된 기전</th><th>주요 치료 선택지</th></tr></thead><tbody><tr><td>모든 환자의 기본 관리</td><td>교육, 유발 요인 조정, 깜박임·환경·수면 개선, 적절한 인공 눈물</td></tr><tr><td>지질 결핍·MGD</td><td>온찜질·눈꺼풀 위생, 지질 함유 윤활제; 불응 시 안과에서 약물·기기 치료 선별</td></tr><tr><td>수성 눈물 결핍</td><td>무방부제 윤활제, 야간 연고; Sjögren 등 원인 평가, 선별된 환자에서 눈물 보존·분비 촉진</td></tr><tr><td>mucin/glycocalyx 이상</td><td>허가된 분비촉진제(rebamipide·diquafosol 등)를 적응증과 허가사항에 따라 고려</td></tr><tr><td>안구 표면 염증</td><td>감염 배제 후 안과 감독 아래 단기 국소 스테로이드 또는 장기 면역조절제 고려</td></tr><tr><td>구조·신경·상피 이상</td><td>원인 구조 교정, 신경병증성 통증·신경영양각막염 평가; 중증에서는 재생치료·보호렌즈 등 전문치료</td></tr></tbody></table>
 
 {% hint style="info" %}
 복수의 원인 기전이 동반되는 경우에는 순차적 단계 상승보다 확인된 기전에 대한 치료를 병행 적용
@@ -201,7 +198,7 @@ graph TD
 * 난치성 질환에 대하여 항염제 고려
 * 복수의 병인이 동반되는 경우 복합 치료가 원칙 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 눈을 자주 깜박임; 화면 사용 중 의식적으로 깜빡임 빈도 유지
 * 자극을 피함 : 건조 환경, 대기 오염, 담배 연기, 햇빛
@@ -236,34 +233,35 @@ graph TD
 
 #### <mark style="color:$primary;">수분 보유 (Humectant)</mark>
 
-* hyaluronate : 점탄성·수분 보유 기전. 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분; <mark style="color:blue;">\[라큐아]</mark>, <mark style="color:blue;">\[히알루미니]</mark>, <mark style="color:blue;">\[히아레인 미니]</mark>
+* hyaluronate : 점탄성·수분 보유 기전. 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분; <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0259">라큐아</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP1390">히알루미니</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017080100075">히아레인 미니</a>]</mark>
   * 다른 점안제와 병용 시 다른 점안제를 먼저 사용하고 약 30분 후 점안(제품별 허가사항 준수)
 
 #### <mark style="color:$primary;">점성 유지</mark>
 
-* carboxymethylcellulose <mark style="color:blue;">\[리프레쉬 티어즈]</mark>, 1회용 1.5% <mark style="color:blue;">\[인프레쉬에프]</mark>
-* polyvinylpyrrolidone <mark style="color:blue;">\[옵타젠트]</mark>
+* carboxymethylcellulose <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0036">리프레쉬 티어즈</a>]</mark>, 1회용 1.5% <mark style="color:blue;">\[<a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=2024012500011">인프레쉬에프</a>]</mark>
+* polyvinylpyrrolidone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0215">옵타젠트</a>]</mark>
 
 #### <mark style="color:$primary;">표면 장력 완화</mark>
 
-* polyethylene glycol 400 + propylene glycol (1회용) <mark style="color:blue;">\[시스폴]</mark> : 2026.7.1. 급여기준에서 눈물대치제 계열에 추가
+* polyethylene glycol 400 + propylene glycol (1회용) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2025043000005">시스폴</a>]</mark> : 2026.7.1. 급여기준에서 눈물대치제 계열에 추가
 
 #### <mark style="color:$primary;">지질층 보충 / 증발 방지 (EDE/MGD에 특히 적합)</mark>
 
-* anhydrous liquid lanolin (취침 전 연고) <mark style="color:blue;">\[듀라티얼즈 안연고]</mark>
-* perfluorohexyloctane : 눈물막 표면에 증발 억제층을 형성하는 무수·무방부제 제제; 제품명 Miebo (미허가)
+* anhydrous liquid lanolin (취침 전 연고) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0582">듀라티얼즈 안연고</a>]</mark>
+* perfluorohexyloctane : 눈물막 표면에 증발 억제층을 형성하는 무수·무방부제 제제; 제품명 Miebo (국내 미허가)
 
 ### <mark style="color:orange;">분비 촉진제</mark>
 
 #### <mark style="color:$primary;">점안 분비촉진제</mark>
 
 * diquafosol : P2Y2 수용체 작용제로 결막의 수분·mucin 분비를 촉진
-  * 1회 1방울, 1일 6회 점안 <mark style="color:blue;">\[디쿠아스]</mark>, 1회용 <mark style="color:blue;">\[디쿠아스에스]</mark>, <mark style="color:blue;">\[디쿠아이]</mark>
+  * 1회 1방울, 1일 6회 점안 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012010200001">디쿠아스</a>]</mark>, 1회용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2016111100014">디쿠아스에스</a>]</mark>, <mark style="color:blue;">\[<a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=2020022400010">디쿠아이</a>]</mark>
   * 다른 점안제와 병용 시 최소 5분 이상 간격
-* rebamipide : mucin 분비 촉진 및 항염 작용; 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[레바아이]</mark>, <mark style="color:blue;">\[레바케이]</mark>
-  * 국내 레바아이·레바케이는 투명 용액 제형
-* recoflavone 5% : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선(2026년 9월 8일 허가)
+* rebamipide : mucin 분비 촉진 및 항염 작용; 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022061700003">레바아이</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2023102600007">레바케이</a>]</mark>
+  * 레바아이·레바케이는 투명 용액 제형
+* recoflavone 5% (허가 후 출시 준비 단계) : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선(2026년 9월 8일 허가)
   * 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[라티카점안액5%]</mark>, <mark style="color:blue;">\[레코듀점안액5%]</mark>
+  * 허가와 실제 공급을 구분하며, 개발사는 2027년 하반기 출시 계획을 발표함(2026-11-13 확인). 현재 처방 가능한 유통 제품으로 제시하지 않음
 
 #### <mark style="color:$primary;">비강 분무제 (미허가)</mark>
 
@@ -276,7 +274,7 @@ graph TD
 
 #### <mark style="color:$primary;">경구 콜린성 작용제</mark>
 
-* pilocarpine : 일반 DED의 routine 치료가 아니라 Sjögren syndrome의 구강건조증·안구건조증에서 전문의 판단으로 고려; 허가 용법은 1회 5 ㎎, 1일 4회, 6주간 투여 <mark style="color:blue;">\[살라겐]</mark>
+* pilocarpine : 일반 DED의 routine 치료가 아니라 Sjögren syndrome의 구강건조증·안구건조증에서 전문의 판단으로 고려; 허가 용법은 1회 5 ㎎, 1일 4회, 6주간 투여 <mark style="color:blue;">\[<a href="https://health.kr/drug/A11ABBBBB2588">살라겐</a>]</mark>
   * 이후 효과·내약성을 평가하여 지속 여부 결정
 * cevimeline은 미허가
 * 부작용 : 발한, 구역·설사, 빈뇨, 서맥·저혈압, 기관지수축 등의 콜린성 이상반응
@@ -287,8 +285,8 @@ graph TD
 
 * 단순 자극감만으로 사용하지 않으며, 감염성 각막염·헤르페스각막염 등을 배제하고 임상적으로 안구 표면 염증이 확인된 경우에 안과 감독 아래 단기간 사용
 * 염증의 정도에 맞는 점안 스테로이드를 선택하고 치료 전후 각막 상태와 안압을 평가; 임의 연장 또는 간헐적 장기 사용을 피함 (☞ [안과계 약제](037_1-ophthalmic-med.md#undefined-14))
-* fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>
-* loteprednol <mark style="color:blue;">\[로테프로점안현탁액]</mark>
+* fluorometholone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0296">오큐메토론</a>]</mark>
+* loteprednol <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2016072500005">로테프로점안현탁액</a>]</mark>
 
 #### <mark style="color:$primary;">국소 면역억제제</mark>
 
@@ -297,8 +295,8 @@ graph TD
 * 한계 : 효과 발현까지 보통 1\~3개월 소요; 점안 시 작열감이 흔함
 * 장기 사용 시 전신 흡수가 낮아 안전성 양호
 * 이 제제의 사용이 필요한 경우 의뢰 고려
-* cyclosporine 0.05% <mark style="color:blue;">\[레스타시스]</mark> : 일반적으로 1회 1방울 bid
-* cyclosporine 0.1% <mark style="color:blue;">\[아이커비스]</mark> : 인공눈물 치료에도 개선되지 않는 안구건조증 성인 환자의 중증 각막염에서 1회 1방울 qd, 취침 전 점안 권장
+* cyclosporine 0.05% <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO9647">레스타시스</a>]</mark> : 1회 1방울 bid, 약 12시간 간격; 사용 전 용기를 상하로 뒤집어 균일하게 섞음
+* cyclosporine 0.1% <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017032000007">아이커비스</a>]</mark> : 인공눈물 치료에도 개선되지 않는 안구건조증 성인 환자의 중증 각막염에서 1회 1방울 qd, 취침 전 점안 권장
   * [급여기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124\&brdScnBltNo=4\&pgmid=HIRAA020002000100) : cyclosporine 0.05%와 0.1% 모두 일회용 인공누액제 일반원칙에 포함되며, 허가사항과 약제별 세부 인정기준 범위에서 동일 기전 내 1종만 급여 인정
 * lifitegrast 5% : LFA-1 길항제(integrin antagonist); 국내 유통 중단
 
@@ -316,7 +314,7 @@ graph TD
 * 국소 항생제 (☞ [안과계 약제](037_1-ophthalmic-med.md#undefined-10))
 * 전신 항생제 : 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 doxycycline 등을 안과 판단으로 제한적으로 고려(허가 외 사용)
 * 용량·기간은 연구마다 다양하며 장기간 routine 사용 근거는 제한적
-* 위장관 장애·식도염·광과민, 약물상호작용을 확인하고 임부·수유부·12세 미만 소아에게는 사용하지 않음(국내 허가사항). 통상 6\~12주 이내 반응을 재평가
+* 위장관 장애·식도염·광과민, 약물상호작용을 확인하고 12세 미만 소아에게는 사용하지 않음(허가사항). 통상 6\~12주 이내 반응을 재평가
 * 식도 자극을 줄이기 위해 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -333,7 +331,7 @@ graph TD
   * 일부 연구에서 증상·TBUT 개선이 보고되었으나 연구 간 이질성과 근거 확실성의 한계가 있음
 * LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선을 유도
   * 일부 추적 연구에서 장기간 효과가 보고되었으나 개인차가 크고 반복 치료가 필요할 수 있음
-* 두 치료 모두 국내 비급여 시술로 시행 가능
+* 두 치료 모두 비급여 시술로 시행 가능
   * routine 1차 치료가 아니라 보존·약물 치료로 조절되지 않는 MGD 관련 건성안에서 안과가 적응증·금기와 기대 효과를 평가하여 선택
 
 #### <mark style="color:$primary;">중증·난치성 DED의 전문 치료</mark>
@@ -359,26 +357,29 @@ graph TD
 > **처방례 1. 경증**
 >
 > ```
-> 라큐아 점안액 5 ㎖/병  필요시
+> 라큐아 점안액 0.1% 5 ㎖/병  1회 1방울, 1일 5~6회 기준으로 증상에 따라 증감
 > ```
+> 약제 정보: [라큐아 점안액·0.1%](https://www.health.kr/drug/A11A0500A0259)
 >
 > _✽경증에서는 히알루론산 함유 인공 눈물을 필요시 점안. 빈번하게 사용하거나 안구 표면 손상이 있는 경우에는 무방부제 제품을 우선 선택_
 
 > **처방례 2. 중등도 이상 (수성 결핍형)**
 >
 > ```
-> 히알루미니 점안액  1방울 qid 이상
-> 듀라티얼즈 안연고 1 tube  취침 전
+> 히알루미니 점안액 0.1% (1회용)  1회 1방울, 1일 5~6회 기준으로 증상에 따라 증감
+> 듀라티얼즈 안연고  1회 약 0.5 ㎝, 취침 전 결막낭에 도포
 > ```
+> 약제 정보: [히알루미니 점안액·0.1%](https://www.health.kr/drug/A11APPPPP1390) · [듀라티얼즈 안연고·30 ㎎/g](https://www.health.kr/drug/A11ABBBBB0582)
 >
-> _✽중등도 이상에서는 인공 눈물을 규칙적으로 사용(qid 이상). 히아레인 미니 등 동등한 무방부제 제품으로 대체 가능하나 동일 목적 제품을 중복 처방하지 않음. 중증 ADDE에서는 취침 전 윤활 연고(lanolin계)를 병용_
+> _✽중등도 이상에서는 인공 눈물을 규칙적으로 사용하며 제품별 용법에 따라 조절. 히아레인 미니 등 동등한 무방부제 제품으로 대체 가능하나 동일 목적 제품을 중복 처방하지 않음. 중증 ADDE에서는 취침 전 윤활 연고(lanolin계)를 병용_
 
 > **처방례 3. 안구 표면 염증 확인 (안과 감독 아래 단기 치료)**
 >
 > ```
-> 로테프로점안현탁액 5 ㎖/병  1방울 qid ×1주
-> 히아레인 미니 점안액  필요시
+> 로테프로점안현탁액 0.5% 5 ㎖/병  1회 1방울 qid ×1주
+> 히아레인 미니 점안액 0.1% (1회용)  1회 1방울, 1일 5~6회 기준으로 증상에 따라 증감
 > ```
+> 약제 정보: [로테프로점안현탁액·0.5%](https://www.health.kr/drug/2016072500005) · [히아레인 미니 점안액·0.1%](https://www.health.kr/drug/2017080100075)
 >
 > _✽허가 외 사용. 감염을 배제하고 안구 표면 염증이 확인된 경우에만 안과 감독 아래 loteprednol 0.5% 점안 스테로이드를 단기 사용 후 재평가. 현탁액이므로 흔들어 사용. 임의 연장하지 않으며 각막 상태와 안압을 확인_
 
@@ -386,17 +387,19 @@ graph TD
 >
 > ```
 > 모노신정 100 ㎎/T  1T qd  6~8주
-> 히알루미니 점안액  필요시
+> 히알루미니 점안액 0.1% (1회용)  1회 1방울, 1일 5~6회 기준으로 증상에 따라 증감
 > ```
+> 약제 정보: [모노신정·100 ㎎](https://www.health.kr/drug/A11A1590B0042) · [히알루미니 점안액·0.1%](https://www.health.kr/drug/A11APPPPP1390)
 >
-> _✽허가 외 사용. 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 안과 판단으로 고려하며 6\~8주 후 반응과 부작용을 재평가. 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내. 12세 미만·임부·수유부 금기(국내 허가사항). 식도염·광과민 및 약물상호작용에 주의. 온찜질과 눈꺼풀 위생을 병행_
+> _✽허가 외 사용. 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 안과 판단으로 고려하며 6\~8주 후 반응과 부작용을 재평가. 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내. 12세 미만 금기(허가사항). 식도염·광과민 및 약물상호작용에 주의. 온찜질과 눈꺼풀 위생을 병행_
 
 > **처방례 5. 중등도 - 눈물막 불안정(BUT 단축) 우세**
 >
 > ```
-> 히알루미니 점안액  1방울 qid
-> 디쿠아스에스 점안액  1방울 1일 6회
+> 히알루미니 점안액 0.1% (1회용)  1회 1방울, 1일 5~6회 기준으로 증상에 따라 증감
+> 디쿠아스에스 점안액 3% (1회용)  1회 1방울, 1일 6회
 > ```
+> 약제 정보: [히알루미니 점안액·0.1%](https://www.health.kr/drug/A11APPPPP1390) · [디쿠아스에스 점안액·3%](https://www.health.kr/drug/2016111100014)
 >
 > _✽눈물대치제와 분비촉진제는 기전이 달라 각 제품의 허가사항과 세부인정기준을 충족하면 병용 급여 가능(동일 기전 내 1종 원칙). 히알루론산 제품은 다른 점안제 사용 후 약 30분 뒤 점안(디쿠아스에스 점안 → 약 30분 후 히알루미니)_
 
@@ -407,12 +410,12 @@ graph TD
 > **인공 눈물 올바른 사용법**
 >
 > * 점안액은 아래 눈꺼풀을 살짝 당긴 후 결막낭(아랫 눈꺼풀 안쪽)에 1방울 떨어뜨리십시오. 한 방울이면 충분하며, 약병 끝이 눈에 닿지 않도록 주의하십시오.
-> * 점안 후 수 초간 눈을 살며시 감고, 눈 안쪽(코 옆 눈물점)을 손가락으로 1\~2분간 가볍게 눌러 주십시오. 약 성분이 목으로 넘어가 나타날 수 있는 쓴맛을 줄여 줍니다.
+> * 점안 후 눈을 살며시 감고, 눈 안쪽(코 옆 눈물점)을 손가락으로 1\~2분간 가볍게 눌러 주십시오. 약 성분이 목으로 넘어가 나타날 수 있는 쓴맛을 줄여 줍니다.
 > * 여러 점안제를 함께 쓸 때는 5분 이상 간격을 두고 제품별 지시를 따르며(히알루론산 안약은 다른 안약 사용 약 30분 후), 안연고는 마지막에 사용하십시오. 현탁액(로테프로 등)은 사용 전 잘 흔들어 주십시오.
 > * 점안액을 자주 사용하거나 안구 표면 손상이 있는 경우에는 **무방부제 제품**을 우선 사용하십시오. 방부제가 포함된 제품을 빈번하게 장기간 사용하면 오히려 안구 표면을 자극할 수 있습니다.
-> * 단회용 제품은 개봉 즉시 사용하고 남은 액은 버리십시오. 다회용 제품은 제품별 허가사항에 표시된 개봉 후 사용기간을 따르십시오.
+> * 단회용 제품은 개봉 후 처음 1~2방울은 버리라는 지시가 있는지 설명서를 확인하고, 즉시 사용한 뒤 남은 액과 용기는 버리십시오. 다회용 제품은 제품별 허가사항에 표시된 개봉 후 사용기간을 따르십시오.
 > * 콘택트렌즈 착용 중에는 해당 점안액을 렌즈를 낀 채 사용할 수 있는지 제품별로 확인하십시오.
-> * 취침 전 안연고를 사용하는 경우, 소량(약 0.5 ㎝)을 아래 결막낭에 도포하십시오. 기상 직후 일시적인 시야 흐림이 있을 수 있으나 정상적인 반응입니다.
+> * 취침 전 안연고를 사용하는 경우, 소량(약 0.5 ㎝)을 아래 결막낭에 도포하십시오. 도포 후 일시적으로 시야가 흐릴 수 있으므로 선명해질 때까지 운전하지 마십시오. 흐림이 지속되거나 통증·충혈이 동반되면 진료를 받으십시오.
 
 > **MGD 동반 시 - 눈꺼풀 온찜질 방법**
 >
@@ -432,7 +435,7 @@ graph TD
 >
 > * 점안 직후 따끔거리거나 화끈거릴 수 있으나 대개 사용하면서 줄어듭니다.
 > * 효과가 나타나기까지 보통 1\~3개월이 걸리므로 임의로 중단하지 마십시오.
-> * 레스타시스는 처방된 1일 2회 용법을 따르고, 아이커비스는 안구건조증에서 취침 전 1일 1회 사용하십시오.
+> * 레스타시스는 사용 전 상하로 뒤집어 섞고 약 12시간 간격으로 1일 2회 점안하며, 아이커비스는 안구건조증에서 취침 전 1일 1회 사용하십시오.
 > * 아이커비스는 사용 전 용기를 부드럽게 흔들어 섞어 주십시오.
 > * 다른 안약과는 최소 15분 간격을 두십시오. 히알루론산 안약과 함께 쓸 때는 사용 시간대를 나누십시오(예: 아이커비스는 취침 전).
 
@@ -444,7 +447,7 @@ graph TD
 > * **심한 눈의 통증·눈부심**이 동반되는 경우 - 즉시 내원
 > * 콘택트렌즈 착용 중 충혈과 함께 통증·눈부심·시력저하가 발생한 경우 - 당일 내원
 > * 화학물질이 눈에 들어간 경우 - 수돗물 등으로 즉시 충분히 씻고, 응급 진료를 요청한 뒤 기다리는 동안에도 계속 씻으십시오.
-> * 날카로운 물체나 빠르게 튄 파편에 눈을 다친 경우 - 눈을 비비거나 누르거나 씻지 말고, 그대로 가린 채 즉시 응급 진료를 받으십시오.
+> * 날카로운 물체나 빠르게 튄 파편에 눈을 다친 경우 - 눈을 비비거나 누르거나 씻지 말고, 눈에 닿지 않는 단단한 보호 덮개로 보호하고 즉시 응급 진료를 받으십시오.
 > * 스테로이드 안약 사용 중 증상이 오히려 악화되는 경우 - 즉시 내원
 
 ***
@@ -461,6 +464,10 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* [지엘팜텍. 레코듀·라티카 허가 및 출시 계획(2026-09-08).](https://glpt.imweb.me/news/?bmode=view&idx=173924362) - 허가와 공급 구분(확인일 2026-11-13)
+* [약학정보원. 레스타시스점안액0.05% 허가정보.](https://www.health.kr/drug/A11AOOOOO9647) - 용기 혼합, 12시간 간격
+* [약학정보원. 아이커비스점안액0.1% 허가정보.](https://www.health.kr/drug/2017032000007) - 용법·점안 간격
+* [약학정보원. 듀라티얼즈안연고 허가정보.](https://www.health.kr/drug/A11ABBBBB0582) - 도포량·시야 흐림
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
 
@@ -472,7 +479,7 @@ graph TD
 {% hint style="info" %}
 **안구건조증, 꾸준한 관리가 중요합니다**
 
-안구건조증은 눈물이 부족하거나 빨리 증발하여 눈 표면이 건조해지는 만성 상태입니다. 완전한 완치보다는 증상을 조절하고 악화를 예방하는 것이 치료의 목표입니다.
+안구건조증은 눈물이 부족하거나 빨리 증발하여 눈 표면이 건조해지는 만성 상태입니다. 원인을 치료하면서 증상을 조절하고 눈 표면의 손상과 악화를 예방하는 것이 치료의 목표입니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 눈이 건조해지나요?</mark>
@@ -493,9 +500,9 @@ graph TD
 
 #### <mark style="color:$primary;">인공 눈물, 어떻게 써야 하나요?</mark>
 
-* 증상이 있을 때마다 사용할 수 있습니다. 자주 사용하거나 안구 표면 손상이 있다면 **무방부제 제품**을 우선 선택하십시오. 콘택트렌즈 착용 중 사용 가능 여부는 제품마다 다르므로 반드시 확인하십시오.
+* 처방·설명서에 정해진 점안 횟수를 기준으로 증상에 따라 조절하십시오. 자주 사용하거나 안구 표면 손상이 있다면 **무방부제 제품**을 우선 선택하십시오. 콘택트렌즈 착용 중 사용 가능 여부는 제품마다 다르므로 반드시 확인하십시오.
 * 건조해진 눈 표면의 자극 때문에 반사적으로 눈물이 많이 날 수 있습니다. 다만 눈물 흘림이 지속되거나 한쪽만 심하면 눈물길 질환 등 다른 원인을 확인해야 합니다.
-* 취침 전 윤활 **안연고**는 잠자는 동안 눈 표면을 오래 보호해 줍니다. 기상 시 일시적으로 눈이 뿌옇게 보일 수 있으나 곧 좋아집니다.
+* 취침 전 윤활 **안연고**는 잠자는 동안 눈 표면을 오래 보호해 줍니다. 사용 후 일시적으로 눈이 뿌옇게 보일 수 있습니다. 선명해질 때까지 운전하지 마십시오. 흐림이 지속되거나 통증·충혈이 동반되면 진료를 받으십시오.
 
 #### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
 
@@ -504,7 +511,7 @@ graph TD
 * **심한 눈의 통증·눈부심**이 있는 경우 - 즉시 진료
 * 콘택트렌즈 착용 중 충혈과 함께 통증·눈부심·시력저하가 발생한 경우 - 당일 진료
 * 화학물질이 들어간 경우 - 수돗물 등으로 즉시 충분히 씻고, 응급 진료를 요청한 뒤 기다리는 동안에도 계속 씻으십시오.
-* 날카로운 물체나 빠르게 튄 파편에 눈을 다친 경우 - 눈을 누르거나 씻지 말고 가린 채 즉시 응급 진료를 받으십시오.
+* 날카로운 물체나 빠르게 튄 파편에 눈을 다친 경우 - 눈을 누르거나 씻지 말고 눈에 닿지 않는 단단한 보호 덮개로 보호하고 즉시 응급 진료를 받으십시오.
 * 인공 눈물 등 치료를 해도 **4\~6주 이내에 호전이 없는 경우** - 외래 재평가
 * 구강 건조·반복되는 침샘 부종·관절통 등 전신 증상이 함께 나타나는 경우 - Sjögren syndrome 등 감별을 위한 외래 평가
 * 치료를 꾸준히 했는데도 통증·불편감이 계속 심한 경우 - 외래 재평가

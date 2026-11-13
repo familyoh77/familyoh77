@@ -87,33 +87,34 @@
 ***
 
 ```mermaid
-graph TD
-    Start(["눈꺼풀 국소 통증성 발적·종창"]) ---> Q1["Red Flags 즉각 조치 항목?"]
-    Q1 --->|예| ER["즉시 <br>응급실 의뢰"]
-    Q1 --->|아니오| Q2["발적·열감이 <br>주변 눈꺼풀로 확산?"]
-    Q2 --->|예| Q2b["경증이며 외래 <br>치료 요건 충족?"]
-    Q2b --->|예| PS["경구 항생제<br>·24~48시간 재평가"]
-    Q2b --->|아니오| ADM["당일 의뢰·입원<br>·정맥 항생제 평가"]
-    Q2 --->|아니오| Q3["농양·중증 내맥립종 <br>또는 시축·각막 영향?"]
-    Q3 --->|예| ID["안과 의뢰·배농 및 <br>전신 치료 평가"]
-    Q3 --->|아니오| HC["온찜질·눈꺼풀 <br>위생·경과 관찰"]
-    HC ---> Q4["겉다래끼에 세균성 안검염<br>·안검결막염 동반?"]
-    Q4 --->|예| TA["국소 항생제 점안액 <br>선택적 사용"]
-    Q4 --->|아니오| OBS["항생제 <br>없이 관찰"]
-    TA ---> Q5["경과"]
-    OBS ---> Q5
-    Q5 --->|"수일간 호전 없음<br>·커짐·새 통증·발열"| RE["재평가·<br>연조직염 및 <br>농양 확인"]
-    Q5 --->|"2주 이상 <br>잔여 종괴"| CH["산립종 평가<br>·안과 의뢰"]
-    Q5 --->|"재발"| RC["안검염·MGD<br>·Demodex 등 <br>기저 질환 평가"]
-    Q5 --->|"동일 부위 반복<br>·속눈썹 소실·궤양"| MAL["안과 의뢰<br>·조직검사 <br>필요성 평가"]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Q1,Q2,Q2b,Q3,Q4,Q5 yellow
-    style HC fill:#f96,stroke:#e65100,stroke-width:2px
-    style ER fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style ADM fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-
-
+flowchart TD
+    Start["눈꺼풀 국소 통증·발적·종창"] --> Q1["즉각 조치 항목?"]
+    Q1 -- "예" --> ER["즉시 응급실 의뢰"]
+    Q1 -- "아니요" --> Q2["발적·열감이 주변으로 확산?"]
+    Q2 -- "예" --> Q2b["경증이며 외래 치료 요건 충족?"]
+    Q2b -- "예" --> PS["경구 항생제·24~48시간 내 재평가"]
+    Q2b -- "아니요" --> ADM["당일 의뢰·입원 및 정맥 치료 평가"]
+    Q2 -- "아니요" --> Q3["농양·중증 속다래끼·시축 영향?"]
+    Q3 -- "예" --> ID["당일 안과 평가·배농 검토"]
+    Q3 -- "아니요" --> HC["온찜질·눈꺼풀 위생"]
+    HC --> Q4["세균성 안검염·안검결막염 동반?"]
+    Q4 -- "예" --> TA["국소 항생제 선택적 사용"]
+    Q4 -- "아니요" --> OBS["항생제 없이 관찰"]
+    TA --> Q5["추적 경과는?"]
+    OBS --> Q5
+    PS --> Q5
+    Q5 -- "수일간 호전 없음·악화" --> RE["조기 재평가·확산 시 당일 평가"]
+    Q5 -- "2주 이상 잔여 종괴" --> CH["산립종 평가"]
+    Q5 -- "재발" --> RC["안검염·MGD·Demodex 평가"]
+    Q5 -- "동일 부위 반복·속눈썹 소실·궤양" --> MAL["조기 안과 의뢰·생검 검토"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffcdd2,stroke:#e53935
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class Start start
+    class Q1,Q2,Q2b,Q3,Q4,Q5 question
+    class ER emergency
+    class ADM,ID,PS,HC,TA,OBS,RE,CH,RC,MAL treatment
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -141,7 +142,7 @@ graph TD
   * 눈꺼풀앞 연조직염 등 주변 조직으로 감염이 확산된 경우 사용
   * 중증 내맥립종이나 깊은 농양에서는 안과 평가에 따라 전신 항생제 및 배농을 고려함
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 온찜질 : 화상을 일으키지 않을 정도로 따뜻한 물수건 또는 눈꺼풀용 온찜질 팩을 1회 10\~15분, 1일 3\~5회 적용 (✽최적 시간·빈도에 대한 고품질 비교 근거는 제한적)
   * 시판 온찜질 팩은 제품의 가열·사용 지침을 따름
@@ -168,11 +169,11 @@ graph TD
   * 불필요한 병용·장기 사용을 피하고 치료에 필요한 최소 기간 사용함
   * 안연고는 체류 시간 면에서 유리할 수 있으나 품목별 수급이 불안정하므로, 이 챕터에서는 점안액 처방례를 제시함 (☞ [안과계 약제](037_1-ophthalmic-med.md))
   * 아래 점안 용법은 기재된 국내 제품의 허가 용법이며, 다래끼 자체에 일률적으로 항생제가 필요하다는 의미는 아님
-* ofloxacin 0.3% 점안액 : 1회 1방울, 1일 3회; 증상에 따라 적절히 증감함 <mark style="color:blue;">\[푸가신]</mark>
-* tobramycin 0.3% 점안액 : 경증\~중등도 감염 시 4시간마다 1\~2방울 <mark style="color:blue;">\[토브라]</mark>
-* levofloxacin 0.5% 점안액 : 1회 1방울, 1일 3회 <mark style="color:blue;">\[오큐레보]</mark>
-* chloramphenicol 점안액 : 독성이 적은 다른 항생제가 효과가 없거나 금기일 때만 사용하도록 경고되어 있어 routine 1차 선택으로 권고하지 않음. 10일 이상 사용 금지 <mark style="color:blue;">\[참클로람페니콜]</mark>
-  * 주요 금기 : 본인·가족의 혈액질환 병력, 임부·수유부, 생후 6개월 미만 영아 등
+* ofloxacin 0.3% 점안액 : 1회 1방울, 1일 3회; 증상에 따라 적절히 증감함 <mark style="color:blue;">[푸가신](https://health.kr/drug/A11A0030A0412)</mark>
+* tobramycin 0.3% 점안액 : 경증\~중등도 감염 시 4시간마다 1\~2방울 <mark style="color:blue;">[토브라](https://www.health.kr/drug/A11A0430A0270)</mark>
+* levofloxacin 0.5% 점안액 : 1회 1방울, 1일 3회 <mark style="color:blue;">[오큐레보](https://health.kr/searchDrug/result_drug.asp?drug_cd=33yc4srelnsu1)</mark>
+* chloramphenicol 점안액 : 독성이 적은 다른 항생제가 효과가 없거나 금기일 때만 사용하도록 경고되어 있어 routine 1차 선택으로 권고하지 않음. 10일 이상 사용 금지 <mark style="color:blue;">[참클로람페니콜](https://www.health.kr/drug/A11ABBBBB2458)</mark>
+  * 주요 금기 : 본인·가족의 혈액질환 병력, 임부·수유부, 2세 미만 소아, 중증 간기능부전 등
 * 인공눈물 : 이물감 완화를 위해 필요시 사용
 
 ### <mark style="color:orange;">눈꺼풀앞 연조직염 동반 - 전신 항생제</mark>
@@ -180,14 +181,15 @@ graph TD
 * 대상 : 눈꺼풀 발적·열감·압통이 국소 병변 주변으로 퍼지지만 안구 돌출·시력 저하·안구 운동 장애 등 안와 침범 소견은 없는 경우 (☞ [연조직염](../229_/169_-soft-tissue-infection-cellulitis.md))
 * 성인 경증 환자는 전신 상태, 감염원, 면역 상태, 페니실린 알레르기, MRSA 위험 및 지역 항생제 감수성을 고려하여 경구 항생제를 선택하고 24\~48시간 내 재평가
 * 다래끼·피부 병변에서 직접 확산된 경증 감염&#x20;
-  * cephalexin 500 ㎎ qid; 일반적으로 5\~7일 사용하되 임상 반응에 따라 조정 <mark style="color:blue;">\[팔렉신]</mark>
+  * cephalexin 500 ㎎ qid; 일반적으로 5\~7일 사용하되 임상 반응에 따라 조정 <mark style="color:blue;">[팔렉신](https://www.health.kr/drug/A11A0570A0301)</mark>
 * 부비동염 증상이 있거나 부비동 기원, 교상·치성 감염 또는 혐기성균 관여가 의심되는 경우
-  * amoxicillin/clavulanate 고려 <mark style="color:blue;">\[오구멘틴]</mark>
+  * amoxicillin/clavulanate 500/125 ㎎ tid ×7일을 예시로 고려; 반응과 동반 감염에 따라 기간 조정 <mark style="color:blue;">[오구멘틴](https://www.health.kr/drug/A11A1130A0289)</mark>
 * 중증 베타락탐 과민
-  * clindamycin : 300 ㎎ qid. 피부·다래끼 기원 경증 감염에 대한 예시로 고려함
+  * clindamycin : 전신 항생제가 필요하고 다른 약제로 치료하기 어려운 경우, 감염원·중증도·감수성을 평가하여 전문의와 상의 후 선택 <mark style="color:blue;">[훌그램](https://www.health.kr/drug/A11A1270A0184?view=leaflet)</mark>
+    * 훌그램은 경미한 세균감염증에는 투여하지 않도록 허가 경고가 있어 경증 외래의 정형 처방례에서는 제외함; 중증 과민반응의 유형과 대체약 선택은 개별 판단
     * 지역 감수성과 환자별 위험에 따라 선택
     * 교상 감염에는 _Pasteurella·Eikenella_ 등을 포괄하는 별도 요법이 필요함
-* MRSA 위험이 있으면 지역 감수성에 따라 clindamycin, TMP-SMX 또는 doxycycline을 고려함
+* MRSA 위험이 있으면 지역 감수성과 감염 중증도를 확인하여 대체 또는 추가 요법을 결정함; clindamycin은 위 허가 경고와 C. difficile 감염 위험을 고려하고, TMP-SMX 또는 doxycycline 등은 연쇄알균 치료를 함께 확보
   * TMP-SMX 또는 doxycycline을 선택할 때는 연쇄알균에 대한 적절한 치료를 함께 확보하며, 베타락탐 사용이 가능하면 cephalexin 또는 amoxicillin/clavulanate와 병용을 고려함
   * 중증 베타락탐 과민 환자에게는 이 베타락탐 병용을 적용하지 않으며, 적절한 대체 요법을 선택함
 * cephalexin과 amoxicillin/clavulanate는 신기능에 따라 용량 조절이 필요할 수 있음
@@ -228,18 +230,18 @@ graph TD
 * 성인 처방례를 소아·영아에게 그대로 적용하지 않으며, 약제별 연령 제한·체중·신기능·허가사항을 확인함
 * 푸가신점안액은 1세 미만 영아의 안전성·유효성이 확립되지 않았으므로 영아에게 성인 점안 처방례를 그대로 적용하지 않음
 * 경증 눈꺼풀앞 연조직염에서 외래 경구 치료가 적절한 소아의 용량 예시 :
-  * 피부 기원 : cefadroxil 15 ㎎/㎏/회 bid (총 30 ㎎/㎏/일; 국내 허가 용량) <mark style="color:blue;">\[보령듀리세프건조시럽 250 ㎎/5 ㎖]</mark> (0.3 ㎖/㎏/회 bid)
-    * 고형제를 복용할 수 있으면 cephalexin 25 ㎎/㎏/회 tid (1회 최대 500 ㎎) <mark style="color:$info;">\[UCSF IDMP]</mark>
-  * 부비동 기원 : amoxicillin/clavulanate를 amoxicillin 기준 45 ㎎/㎏/회 bid (1회 최대 1,000 ㎎) <mark style="color:$info;">\[UCSF IDMP]</mark> <mark style="color:blue;">\[아모크라네오시럽(14:1)]</mark> (amoxicillin 600 ㎎·clavulanate 42.9 ㎎/5 ㎖; 0.375 ㎖/㎏/회 bid, 1회 최대 약 8.33 ㎖; 눈꺼풀앞 연조직염에 대한 사용은 허가 외)
+  * 피부 기원 : cefadroxil 15 ㎎/㎏/회 bid (총 30 ㎎/㎏/일; 피부·피부조직 감염증 허가 용량) <mark style="color:blue;">[보령듀리세프건조시럽 250 ㎎/5 ㎖](https://www.health.kr/drug/A11A0930A0185)</mark> (0.3 ㎖/㎏/회 bid; 성인 피부감염 용량 1 g/일을 넘지 않도록 함)
+    * cefadroxil은 소아 눈꺼풀앞 연조직염에서의 직접 근거가 제한적인 대안임. UCSF의 피부 기원 1차 경구제는 cephalexin이며, 고형제를 복용할 수 있으면 25 ㎎/㎏/회 tid (1회 최대 500 ㎎) <mark style="color:$info;">\[UCSF IDMP]</mark>
+  * 부비동 기원 : amoxicillin/clavulanate를 amoxicillin 기준 45 ㎎/㎏/회 bid (1회 최대 1,000 ㎎) <mark style="color:$info;">\[UCSF IDMP]</mark> <mark style="color:blue;">[아모크라네오시럽(14:1)](https://www.health.kr/drug/2019020700039)</mark> (amoxicillin 600 ㎎·clavulanate 42.9 ㎎/5 ㎖; 0.375 ㎖/㎏/회 bid, 1회 최대 약 8.33 ㎖; 눈꺼풀앞 연조직염에 대한 사용은 허가 외)
 
-> 아모크라네오시럽(14:1)의 국내 허가 적응증은 위험인자가 있는 소아의 재발성 또는 지속성 급성중이염과 재발성 급성부비동염이며, 눈꺼풀앞 연조직염에 대한 위 용량은 UCSF 지침에 근거한 허가 외 사용임. 위 제형 예시는 3개월 이상·40 ㎏ 미만 소아에 적용함. 3개월 미만은 이 제품의 허가 용량 대상이 아니며, 40 ㎏ 이상 소아는 사용 경험이 없다고 명시되어 있으므로 연령·체중에 적합한 제형·요법과 전문 평가 필요성을 함께 판단함. 1회 최대량 적용 전 amoxicillin/clavulanate는 총 90/약 6.4 ㎎/㎏/일임. 오구멘틴듀오시럽 등 7:1 제형으로 amoxicillin 90 ㎎/㎏/일을 투여하면 clavulanate가 약 12.8 ㎎/㎏/일이 되므로 그대로 적용하지 않으며, 함량비가 다른 제형을 같은 부피로 대체하지 않음. 식사 시작 시 복용함. cefadroxil은 신기능에 따라 투여 간격을 조절함.
+> 아모크라네오시럽(14:1)의 국내 허가 적응증은 위험인자가 있는 소아의 재발성 또는 지속성 급성중이염과 재발성 급성부비동염이며, 눈꺼풀앞 연조직염에 대한 위 용량은 UCSF 지침에 근거한 허가 외 사용임. 위 제형 예시는 3개월 이상·40 ㎏ 미만 소아에 적용함. 3개월 미만은 이 제품의 허가 용량 대상이 아니며, 40 ㎏ 이상 소아는 사용 경험이 없다고 명시되어 있으므로 연령·체중에 적합한 제형·요법과 전문 평가 필요성을 함께 판단함. 1회 최대량 적용 전 amoxicillin/clavulanate는 총 90/약 6.4 ㎎/㎏/일임. [오구멘틴듀오시럽](https://www.health.kr/drug/A11AGGGGA4007) 등 7:1 제형으로 amoxicillin 90 ㎎/㎏/일을 투여하면 clavulanate가 약 12.8 ㎎/㎏/일이 되므로 그대로 적용하지 않으며, 함량비가 다른 제형을 같은 부피로 대체하지 않음. 식사 시작 시 복용함. cefadroxil은 신기능에 따라 투여 간격을 조절함.
 
 * 안구 운동 시 통증·운동 제한, 복시·안구 돌출, 원인 불명의 시력 이상, 안구 진찰 불가능 또는 전신 독성이 있으면 즉시 응급 평가함
 * 발열 유무와 관계없이 부종·발적이 주변으로 빠르게 퍼지거나 발열이 동반되면 당일 평가함
   * 빠른 진행과 전신 상태 저하가 함께 있으면 즉시 응급 평가함
 * 영아는 안와 침범 여부를 평가하기 어렵거나 발열·광범위 부종이 있으면 당일 평가 문턱을 낮춤
 * 1세 미만 또는 예방접종(Hib·폐렴구균) 미완료 소아의 눈꺼풀앞 연조직염은 입원 치료 문턱을 낮춤
-  * 특히 Hib 예방접종 미완료 소아는 중증 감염 가능성을 고려하여 당일 전문 평가함
+  * 특히 Hib 예방접종 미완료 소아의 눈꺼풀앞 연조직염은 중증 감염에 준하여 당일 전문 평가·입원 치료 여부를 판단함 [RCH 2026]
 * 반복성·다발성 병변에서는 안검염, 소아 blepharokeratoconjunctivitis, MGD 및 Demodex 관련 안검염을 평가
 * 큰 상안검 병변이나 산립종성 결절이 지속되어 시축을 가리거나 각막난시·약시 위험이 있으면 소아안과 의뢰
 
@@ -261,7 +263,7 @@ graph TD
   * 절개·소파술 후 3개월 이내 재발을 대상으로 한 연구로, 일반 외래 환자에게 일반화하는 데 한계가 있음
 * tea tree oil의 효과는 불확실하며 자극·접촉피부염·안구표면 독성이 가능함
   * 원액이나 자가 희석액을 눈꺼풀에 직접 도포하지 않고, 눈꺼풀용 상용 제제 또는 안과 지시에 따라 사용
-* lotilaner 0.25% 점안액 : Demodex 안검염 치료제(미허가)
+* lotilaner 0.25% 점안액 : Demodex 안검염 치료제(국내 허가·유통 확인 안 됨)
   * 다래끼 재발 예방 효과는 확립되지 않음
 
 **Step 3. MGD·안검염·ocular rosacea 병행 치료**
@@ -278,18 +280,6 @@ graph TD
 
 ***
 
-## <mark style="color:red;">질병코드</mark>
-
-* H00.00 외맥립종 Hordeolum externum
-* H00.01 내맥립종 Hordeolum internum
-* H00.08 눈꺼풀의 기타 심부염증 Other deep inflammation of eyelid - 눈꺼풀 연조직염·농양 등
-* H00.1 콩다래끼 Chalazion - 산립종으로 진단되는 경우
-
-> 외맥립종과 내맥립종의 구분이 불명확하다는 이유만으로 H00.08을 사용하지 않음. \
-> 눈꺼풀을 제외한 안와주위 연조직염은 L03.2, 안와 연조직염은 H05.0을 사용
-
-***
-
 ## <mark style="color:purple;">처방례</mark>
 
 > **단순·경증 다래끼**
@@ -302,6 +292,8 @@ graph TD
 > 푸가신점안액 0.3% 5 ㎖/병  1방울 tid  ×5~7d
 > ```
 >
+> 약제 정보: [푸가신점안액·0.3%·5 ㎖](https://health.kr/drug/A11A0030A0412)
+>
 > _✽자연 배농 자체나 단순 경증 병변에 일률적으로 처방하지 않음. 국내 제품 허가 용법은 1회 1방울, 1일 3회이며, 증상에 따라 적절히 증감함. tobramycin 0.3% 점안액(토브라점안액) 4시간마다 1\~2방울도 선택 가능한 예시임. 5\~7일은 실무적 처방 예시이며 확립된 표준 치료기간은 아님. 온찜질을 병행하고 치료에 필요한 최소 기간 사용함. 소아·영아는 약제별 연령 제한을 확인함._
 
 > **처방례 2. 성인의 경증 눈꺼풀앞 연조직염 동반**
@@ -310,23 +302,35 @@ graph TD
 > 팔렉신 500 ㎎/C  1C qid  ×5~7d
 > ```
 >
+> 약제 정보: [팔렉신·500 ㎎](https://www.health.kr/drug/A11A0570A0301)
+>
 > _✽안구 돌출·시력 저하·안구 운동 제한 또는 운동 시 통증이 없는지 먼저 확인함. 안구 진찰이 충분히 가능하고 전신 상태가 양호하며 경구 복용·추적이 가능한 성인 경증 환자에 적용함. 24\~48시간 내 반드시 재평가하고, 호전이 없거나 악화하면 안와 연조직염 및 농양을 재평가하여 의뢰함. 중증 감염, 영아, 면역저하 또는 추적이 어려운 환자에게 이 외래 처방례를 적용하지 않음. 신기능에 따라 용량 조절이 필요할 수 있음._
 
 > **처방례 3. 부비동염 동반 또는 부비동 기원이 의심되는 성인의 경증 눈꺼풀앞 연조직염**
 >
 > ```
-> 오구멘틴 625 ㎎/T  1T tid  ×5~7d
+> 오구멘틴 625 ㎎/T  1T tid  ×7d
 > ```
+>
+> 약제 정보: [오구멘틴·625 ㎎(500/125 ㎎)](https://www.health.kr/drug/A11A1130A0289)
 >
 > _✽amoxicillin/clavulanate 500/125 ㎎ 제형 기준. 처방례 2와 동일한 외래 치료 요건을 확인함. 국내 제품별 함량비·허가 용법과 신기능을 확인함. 부비동염 치료기간이 별도로 더 필요할 수 있으며 24\~48시간 내 재평가함. 식사 시작 시 복용함._
 
-> **처방례 4. 중증 베타락탐 과민이 있는 성인의 피부·다래끼 기원 경증 눈꺼풀앞 연조직염**
+> **중증 베타락탐 과민이 있는 경우**
 >
-> ```
-> 훌그램 150 ㎎/C  2C qid  ×5~7d
-> ```
->
-> _✽clindamycin 300 ㎎ qid. 이 처방례의 150 ㎎ 캡슐은 1회 2캡슐로 투여함. 처방례 2와 동일한 외래 치료 요건을 확인함. clindamycin 내성 및 C. difficile 감염 위험을 고려하고 지역 감수성 자료와 환자별 위험에 따라 선택함. 교상 감염에는 이 처방례를 그대로 적용하지 않음. MRSA·연쇄알균 감수성이 불충분할 가능성이 있거나 적절한 요법 선택이 어려우면 감염내과·안과 자문 또는 다른 요법을 고려함._
+> 감염원과 과민반응 유형을 확인하여 안과·감염내과와 대체 요법을 결정함. 훌그램은 경미한 세균감염증에 사용하지 않도록 허가 경고가 있어 경증 환자의 일률적 처방례로 제시하지 않음.
+
+***
+
+## <mark style="color:red;">질병코드</mark>
+
+* H00.00 외맥립종 Hordeolum externum
+* H00.01 내맥립종 Hordeolum internum
+* H00.08 눈꺼풀의 기타 심부염증 Other deep inflammation of eyelid - 눈꺼풀 연조직염·농양 등
+* H00.1 콩다래끼 Chalazion - 산립종으로 진단되는 경우
+
+> 외맥립종과 내맥립종의 구분이 불명확하다는 이유만으로 H00.08을 사용하지 않음. \
+> 눈꺼풀을 제외한 안와주위 연조직염은 L03.2, 안와 연조직염은 H05.0을 사용
 
 ***
 
@@ -353,6 +357,8 @@ graph TD
 
 > **경구 항생제 복용 시 주의사항**
 >
+> * 오구멘틴은 식사를 시작할 때 복용하십시오. 시럽을 처방받았다면 매번 잘 흔들고 경구용 계량 주사기로 계량하며, 조제 후 보관법·사용기한을 확인하십시오. 함량이 다른 시럽을 같은 부피로 바꾸어 먹이지 마십시오.
+> * 경구 항생제를 처방받은 눈꺼풀앞 연조직염은 24\~48시간 내 재진하십시오. 호전이 없거나 악화하면 처방 종료일까지 기다리지 마십시오.
 > * 정해진 시간과 기간에 맞추어 복용하십시오. 임의로 남은 항생제를 사용하거나 다른 사람과 나누지 마십시오.
 > * 발진·두드러기·호흡 곤란 등 알레르기 반응이 나타나면 복용을 중단하고 즉시 진료받으십시오.
 > * 항생제(특히 clindamycin) 복용 중 또는 복용을 마친 뒤에도 심한 설사·복통·혈변이 나타나면 즉시 진료받으십시오. 복용 중이라면 약을 중단하고 진료받으십시오.
@@ -370,13 +376,15 @@ graph TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [NICE NG141. Cellulitis and erysipelas: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations) - 눈·코 주위 감염의 성인 amoxicillin/clavulanate 500/125 ㎎ tid ×7일
+
 * \[Eye Contact Lens 2022] [Alsoudi AF, et al. Efficacy of Care and Antibiotic Use for Chalazia and Hordeola. Eye Contact Lens. 2022;48(4):162-168.](https://doi.org/10.1097/ICL.0000000000000859) - 항생제 추가와 치료 성공률에 관한 후향 관찰연구
 * \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
-* \[UCSF IDMP] [UCSF Infectious Diseases Management Program. Periorbital/Preseptal Cellulitis.](https://idmp.ucsf.edu/content/periorbital-preseptal-cellulitis) - 소아 눈꺼풀앞 연조직염의 항생제 선택; 국내 제품별 허가 용량은 별도 적용 (확인일 2026-10-11)
+* \[UCSF IDMP] [UCSF Infectious Diseases Management Program. Periorbital/Preseptal Cellulitis.](https://idmp.ucsf.edu/content/periorbital-preseptal-cellulitis) - 소아 눈꺼풀앞 연조직염의 항생제 선택; 국내 제품별 허가 용량은 별도 적용 (확인일 2026-11-13)
 * \[Sci Rep 2021] [Jun SY, et al. Clinical characteristics of Demodex-associated recurrent hordeola: an observational, comparative study. Sci Rep. 2021;11(1):21398.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8560857/) - 재발성 다래끼군의 Demodex 검출률(59.5% vs 17.5%)
 * [Lindsley K, Nichols JJ, Dickersin K. Non-surgical interventions for acute internal hordeolum. Cochrane Database Syst Rev. 2017;1:CD007742.](https://doi.org/10.1002/14651858.CD007742.pub4) - 속다래끼 보존 치료의 무작위시험 근거 부족
-* [American Academy of Ophthalmology. What Are Chalazia and Styes?](https://www.aao.org/eye-health/diseases/what-are-chalazia-styes) - 환자 교육 자료; 알고리듬 참고 문헌 (확인일 2026-10-11)
-* [The Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Periorbital and orbital cellulitis.](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/) - 소아 눈꺼풀앞·안와 연조직염의 평가와 입원 기준; 알고리듬 참고 문헌 (확인일 2026-10-11)
+* [American Academy of Ophthalmology. What Are Chalazia and Styes?](https://www.aao.org/eye-health/diseases/what-are-chalazia-styes) - 환자 교육 자료; 알고리듬 참고 문헌 (확인일 2026-11-13)
+* [The Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Periorbital and orbital cellulitis.](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/) - 소아 눈꺼풀앞·안와 연조직염의 평가와 입원 기준; 알고리듬 참고 문헌 (확인일 2026-11-13)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -405,6 +413,12 @@ graph TD
 * **눈꺼풀 세척** : 딱지나 분비물이 있거나 안검염이 동반되었다면 눈꺼풀 전용 세정제 또는 미지근한 물로 눈꺼풀 가장자리를 부드럽게 닦으십시오.
 * **직접 터뜨리지 마십시오** : 손으로 짜거나 바늘로 터뜨리면 조직이 손상되고 감염이 퍼질 수 있습니다.
 * 다래끼가 나아질 때까지 콘택트렌즈와 눈 화장을 중단하십시오.
+
+#### <mark style="color:$primary;">약은 어떻게 사용하나요?</mark>
+
+* 항생제 안약이나 먹는 약은 필요한 경우에만 처방합니다. 처방된 횟수·기간을 지키고 남은 약을 임의로 다시 사용하지 마십시오.
+* 오구멘틴은 식사를 시작할 때 복용하십시오. 먹는 항생제를 처방받았다면 24\~48시간 내 재진하고, 부종·발적이 번지거나 눈의 움직임·시력에 이상이 생기면 즉시 진료받으십시오.
+* 호흡곤란·전신 두드러기가 생기면 복용을 중단하고 즉시 응급 진료를 받으십시오. 심한 설사·복통·혈변이 생겨도 복용을 중단하고 진료받으십시오.
 
 #### <mark style="color:$primary;">재발을 예방하려면 어떻게 해야 하나요?</mark>
 
