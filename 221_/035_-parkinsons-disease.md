@@ -214,28 +214,24 @@
 
 ```mermaid
 flowchart TD
-    A["파킨슨증 의심"] --> B["응급 징후?"]
+    A(["파킨슨증 의심"]) --> B{"응급 징후?"}
     B -- "예" --> C["즉시 응급 평가·치료"]
-    B -- "아니요" --> D["<u>치료 전 신경과 평가</u><br/>• 병력·진찰·약물력"]
-    D --> E["서동과 안정 떨림 또는 경직?"]
+    B -- "아니요" --> D["치료 전 신경과 평가: 병력·진찰·약물력"]
+    D --> E{"서동과 안정 떨림 또는 경직?"}
     E -- "아니요" --> F["다른 원인 감별·추적"]
-    E -- "예" --> G["약물·구조적 원인 또는 비정형 단서?"]
+    E -- "예" --> G{"약물·구조적 원인 또는 비정형 단서?"}
     G -- "예" --> H["원인 약물 조정·선택적 검사·전문 평가"]
     G -- "아니요" --> I["MDS 배제·지지 기준 및 red flags 평가"]
-    I --> J["MDS 판정 충족?"]
+    I --> J{"MDS 판정 충족?"}
     J -- "예" --> K["파킨슨병 임상 진단·치료 및 추적 재평가"]
     J -- "아니요" --> L["전문의 재평가·필요시 MRI 또는 DAT 영상"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class A start
-    class B,E,G,J question
+    style A fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef emergency fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class B,E,G,J decision
     class C emergency
-    class D,F,H,I,L evaluation
-    class K treatment
+    class D,F,H,I,K,L action
 ```
 
 <p align="center"><strong>파킨슨병 진단 알고리듬</strong></p>
@@ -273,36 +269,30 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["파킨슨병 진단"] --> B["<u>모든 환자</u><br/>• 교육·운동·재활 및 비운동 증상 관리"]
-    B --> C["운동 증상의 생활 영향·치료 선호"]
+    A(["파킨슨병 진단"]) --> B["모든 환자: 교육·운동·재활 및 비운동 증상 관리"]
+    B --> C{"운동 증상의 생활 영향·치료 선호"}
     C -- "경미·당장 약물 원치 않음" --> D["추적 관찰·약물 시작 시기 재평가"]
     C -- "기능·삶의 질 저하" --> E["속방형 levodopa 최소 유효용량 우선"]
     C -- "선택된 경증·젊은 환자" --> F["MAO-B 억제제 또는 dopamine agonist 개별 고려"]
     E --> G["용량 적정 후 운동 반응·이상반응 평가"]
     F --> G
-    G --> H["충분한 반응·내약성?"]
+    G --> H{"충분한 반응·내약성?"}
     H -- "아니요" --> I["복약·흡수·진단 재평가 및 신경과 조정"]
     H -- "예" --> J["운동·비운동 증상 장기 추적"]
-    J --> K["운동 합병증·정신증?"]
-    K -- "wearing-off" --> L["<u>투여 간격 조정·보조약 고려</u><br/>• 병용금기 확인"]
+    J --> K{"운동 합병증·정신증?"}
+    K -- "wearing-off" --> L["투여 간격 조정·보조약 고려 및 병용금기 확인"]
     K -- "peak-dose dyskinesia" --> M["levodopa 단회 용량 조정·amantadine 고려"]
     K -- "환각·망상" --> N["섬망·위험도 평가·전문의 약제 조정"]
     K -- "없음" --> J
-    L --> O["최적 약물요법에도 불편 지속?"]
+    L --> O{"최적 약물요법에도 불편 지속?"}
     M --> O
-    O -- "예" --> P["<u>전문센터</u><br/>• 지속 주입·DBS 등 평가"]
+    O -- "예" --> P["전문센터: 지속 주입·DBS 등 평가"]
     O -- "아니요" --> J
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    classDef followup fill:#e8eaf6,stroke:#7986cb
-    class A start
-    class C,H,K,O question
-    class G,I,N,P evaluation
-    class B,E,F,L,M treatment
-    class D,J followup
+    style A fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class C,H,K,O decision
+    class B,D,E,F,G,I,J,L,M,N,P action
 ```
 
 <p align="center"><strong>파킨슨병 치료 알고리듬</strong></p>
