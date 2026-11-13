@@ -53,34 +53,32 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 호흡곤란, 저산소증, 심한 기침·흉통 : 수두 폐렴 의심  `수두 폐렴`
+* 호흡곤란, 저산소증, 심한 기침·흉통  `수두 폐렴`
 * 의식 변화, 경련, 심한 두통·경부강직 또는 급성 보행실조  `중추신경계 합병증`
 * 출혈성·괴사성 병변, 쇼크 또는 뚜렷한 전신독성  `중증 수두·쇼크`
 * 심한 복통, 반복 구토, 현저한 탈수 또는 경구섭취 불가  `탈수·내장 침범`
-* 빠르게 번지는 발적·열감·심한 통증, 고름, 연부조직 부종 : 침습성 세균감염·괴사성근막염 의심  `침습성 세균감염`
+* 빠르게 번지는 발적·열감·심한 통증, 고름, 연부조직 부종  `침습성 세균감염` `괴사성근막염`
 * 면역저하자에서 광범위·출혈성 병변 또는 내장 침범 의심  `중증 면역저하`
-* 급격하거나 심한 시력 저하 : 즉시 안과 응급 평가  `안과 응급`
+* 급격하거나 심한 시력 저하  `안과 응급`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
-
-아래 항목은 항바이러스 치료·노출 후 예방의 시급성을 고려해 **당일 평가**함.
+<mark style="color:$warning;">**당일 평가**</mark>
 
 * 임신부의 수두 또는 감수성 임신부의 유의한 VZV 노출  `임신·노출 후 예방`
 * 면역저하자의 수두 또는 감수성 면역저하자의 유의한 노출  `면역저하·노출 후 예방`
 * 생후 1세 미만의 수두, 특히 신생아·미숙아의 수두  `영아·신생아`
-* 신생아·입원 중 미숙아의 유의한 노출 : 산모 면역·감염 시기, 재태주수와 출생체중을 확인해 VZIG 적응증 평가  `미숙아 노출`
+* 신생아·입원 중 미숙아의 유의한 노출 : 산모 면역·감염 시기, 재태주수 ＜28주 또는 출생체중 ≤1,000 g  `미숙아 노출`
 * 분만 5일 전\~분만 2일 후 산모에게 수두 발진이 발생한 신생아  `주산기 노출`
-* 12세 초과 청소년·성인의 수두 : 초기 증상이 가벼워도 항바이러스제의 조기 투여 여부를 당일 평가  `조기 항바이러스 치료`
-* 만성 피부·폐질환, 장기 salicylate 치료 또는 단기간·간헐적·흡입 corticosteroid 사용 환자의 수두 : 발진 후 24시간 이내 치료 기회를 놓치지 않도록 가능하면 당일 항바이러스제 적응증 평가  `치료 적응증`
-* 안구 통증·충혈·눈부심 또는 시력 변화 : 당일 안과 평가(급격하거나 심한 시력 저하는 즉각 조치)  `안구 침범`
+* 12세 초과 청소년·성인의 수두(초기 증상이 가벼운 경우 포함)  `조기 항바이러스 치료`
+* 만성 피부·폐질환, 장기 salicylate 치료 또는 단기간·간헐적·흡입 corticosteroid 사용 환자의 수두(발진 후 24시간 이내)  `치료 적응증`
+* 안구 통증·충혈·눈부심 또는 경미한 시력 변화  `안구 침범`
 * 4일 이상 지속되는 발열, 호전 후 재발열 또는 7일 이상 계속 생기는 새로운 병변  `비전형적 경과`
-* 병변 주위에 국소 발적·열감·압통 또는 고름이 새로 생김 : 2차 세균감염 평가(빠른 확산·심한 통증·전신독성은 즉각 조치)  `2차 세균감염`
+* 병변 주위에 국소 발적·열감·압통 또는 고름이 새로 생김(빠른 확산·심한 통증·전신독성이 없는 경우)  `2차 세균감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 수분 섭취·소변량이 유지되는 경미한 구강병변 또는 소양증으로 수면장애가 있는 경우  `섭취·수면 장애`
-* 보호자가 피부 병변·수분 섭취·전신상태의 악화 여부를 판단하기 어려운 경우 : 조기 재평가 계획 수립  `재평가 계획`
-* 고위험군은 초기 상태가 안정적이어도 24\~48시간 이내 재평가를 고려  `고위험 추적`
+* 보호자가 피부 병변·수분 섭취·전신상태의 악화 여부를 판단하기 어려운 경우  `재평가 계획`
+* 고위험군에서 초기 상태가 안정적인 경우(24\~48시간 이내 악화 가능)  `고위험 추적`
 
 ***
 
@@ -113,20 +111,16 @@
 ```mermaid
 graph TD
     A["수두 의심: 발진 ± 발열"] ---> B["Red Flags의 즉각 조치 항목?"]
-    B --->|예| C["응급실·입원 평가: 중증·파종성은 IV acyclovir"]
-    B --->|아니오| D["Red Flags의 당일 평가가 필요한 항목?"]
-    D --->|예| E["당일 평가·전문 의뢰: 면역상태·합병증에 따라 치료 경로 결정"]
-    D --->|아니오| F["비전형적 발진 또는 진단 불확실?"]
-    F --->|예| G["피부 병변 VZV PCR: 고위험·중증은 치료 지연 금지"]
-    F --->|아니오| H["임상 소견·검사 결과를 종합해 진단"]
+    B --->|"예"| C["응급실·입원 평가: 중증·파종성은 IV acyclovir"]
+    B --->|"아니오"| D["Red Flags의 당일 평가가 필요한 항목?"]
+    D --->|"예"| E["당일 평가·전문 의뢰: 면역상태·합병증에 따라 치료 경로 결정"]
+    D --->|"아니오"| F["비전형적 발진 또는 진단 불확실?"]
+    F --->|"예"| G["피부 병변 VZV PCR: 고위험·중증은 치료 지연 금지"]
+    F --->|"아니오"| H["임상 소견·검사 결과를 종합해 진단"]
     G ---> H
     H ---> I["경구 항바이러스제 적응증?"]
-    I --->|예| J["가능한 빨리 경구 치료: 발진 후 24시간 이내 가장 효과적"]
-    I --->|아니오| K["대증 치료"]
-    E ---> L["격리·합병증 교육·재평가"]
-    C ---> L
-    J ---> L
-    K ---> L
+    I --->|"예"| J["가능한 빨리 경구 치료: 발진 후 24시간 이내 가장 효과적"]
+    I --->|"아니오"| K["대증 치료"]
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style C fill:#f96,stroke:#e65100,stroke-width:2px
@@ -136,28 +130,31 @@ graph TD
     style I fill:#fff9c4,stroke:#ffe082
 ```
 
+> _모든 경로에서 격리 기간·합병증 경고 증상을 교육하고 재평가 시점을 정함._
+
 <p align="center"><strong>수두 진료 흐름도</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Guidance 2024; NIH VZV 2026; 질병관리청 진단·신고기준 2026; 국내 의약품 허가사항을 종합한 저자 정리</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : CDC Clinical Guidance 2024; NIH VZV 2026; 질병관리청 진단·신고기준 2026)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
+
 {% hint style="warning" %}
-처방 시 최신 품목정보/급여기준 조회. 수두의 임상 치료 권고와 국내 제품의 허가 연령·적응증은 다를 수 있으므로 허가 외 사용 여부를 별도로 확인함.
+수두의 임상 치료 권고와 제품의 허가 연령·적응증은 다를 수 있으므로 허가 외 사용 여부를 별도로 확인함.
 {% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 건강한 소아의 전형적 비합병 수두 : 대증 치료가 원칙이며 항바이러스제를 일상적으로 권고하지 않음
 * 통증·발열 : acetaminophen 우선
-* 소양증 : 미지근한 목욕, 젖은 찜질, calamine, 필요 시 경구 H1-항히스타민제
+* 소양증 : 미지근한 목욕, 젖은 찜질, calamine, 필요시 경구 H1-항히스타민제
 * 손톱을 짧게 자르고 긁은 뒤 손 씻기; 피부를 청결하게 유지하여 2차 세균감염 예방
 * 고위험군은 발진 발생 시점, 면역상태, 임신 여부, 합병증과 신기능을 확인해 항바이러스제 또는 입원 치료 결정
 
 {% hint style="danger" %}
-수두에서는 ibuprofen을 포함한 NSAID를 가능하면 피하고 acetaminophen을 우선 사용함. 특히 ibuprofen은 중증 세균성 피부·연조직 감염과의 연관성이 보고되어 회피를 권고함. Aspirin/acetylsalicylic acid는 Reye syndrome 위험 때문에 소아·청소년에서 금기임. <mark style="color:$info;">[CDC. How to Treat Chickenpox]</mark>
+수두에서는 ibuprofen을 포함한 NSAID를 가능하면 피하고 acetaminophen을 우선 사용함. 특히 ibuprofen은 중증 세균성 피부·연조직 감염과의 연관성이 보고되어 회피를 권고함. Aspirin/acetylsalicylic acid는 Reye syndrome 위험 때문에 소아·청소년에서 금기임. <mark style="color:$info;">\[CDC]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">항바이러스제 대상과 경로</mark>
@@ -171,7 +168,7 @@ graph TD
 
 ***
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">법정감염병 신고</mark>
 
@@ -215,7 +212,7 @@ graph TD
 * 시기 : 가능한 한 빨리 투여함. CDC의 **미국 VariZIG** 권고는 이상적으로 96시간 이내, 늦어도 노출 후 10일 이내임
 * **국내 제제와 구분** : <mark style="color:blue;">\[녹십자수두사람면역글로불린주]</mark>의 허가사항은 감수성이 높은 면역결핍 소아·해당 신생아의 수동면역을 대상으로 하며, 72시간 이내 근육주사와 산모에게 직접 투여하지 말 것을 명시함. 따라서 임신부·성인 사용이나 72시간 이후 투여를 국내 허가 용법으로 표기하지 않으며, 사용 가능한 제제·허가범위와 전문의 판단을 확인함. <mark style="color:$info;">[CDC VariZIG 권고; 국내 제품 허가사항·GC녹십자 제품설명서]</mark>
 * 국내 제제 투여 전 중증 혈소판감소증, 근육주사가 금지된 혈액응고장애, IgA 결핍증, 사람면역글로불린·구성성분 과민반응 및 이미 알려진 VZV 면역 여부를 확인함. 해당 항목은 국내 허가상 금기이며, 혈전증·아나필락시스 위험도 평가
-* 국내 제제의 체중별 IU 용량표와 mL 용법 문구를 함께 확인하고, 총량·분할량 해석에 의문이 있으면 제조사·투여기관에 확인함
+* 국내 제제의 체중별 IU 용량표와 ㎖ 용법 문구를 함께 확인하고, 총량·분할량 해석에 의문이 있으면 제조사·투여기관에 확인함
 * 건강한 만삭아의 생후 12개월 미만 지역사회 노출만으로 VZIG를 일률적으로 투여하지 않음. 주산기 노출·입원 미숙아·면역저하 등 위 적응증을 별도로 확인
 * VZIG 투여 후 잠복기가 28일까지 연장될 수 있으므로 증상 발생을 관찰
 * VZIG는 노출 후 예방용으로, 발병한 수두의 항바이러스 치료를 대체하지 않음. 예방 투여 후에도 발진·발열이 생기면 즉시 평가
@@ -257,35 +254,51 @@ graph TD
 
 ### <mark style="color:orange;">가려움증</mark>
 
-* 외용제 : calamine/zinc oxide 필요 시 또는 1일 수회 도포(눈·구강 등 점막에는 도포하지 않음) <mark style="color:blue;">[칼라민](../%EB%B9%84%EB%B3%B4%ED%97%98/)</mark>
+* 외용제 : calamine/zinc oxide 필요시 또는 1일 수회 도포(눈·구강 등 점막에는 도포하지 않음) <mark style="color:blue;">[칼라민](../%EB%B9%84%EB%B3%B4%ED%97%98/)</mark>
 * 경구 H1-항히스타민제 : 야간 소양증에는 진정성 1세대 제제가 도움이 될 수 있으나 연령·체중에 맞춰 투여 (☞ [항히스타민제](../231_/212_-antihistamines.md))
-  * hydroxyzine <mark style="color:blue;">\[유시락스시럽]</mark> : 최소 유효용량을 최단 기간 사용. 졸림·항콜린성 이상반응에 주의하며, QT 연장·유의한 서맥·저칼륨/저마그네슘혈증 또는 QT 연장 약물 병용 시 금기. 임신·수유 중 금기. 급성 폐쇄각 녹내장, 포르피린증, 심혈관계 질환·급성 심장사 가족력 및 백당 함유 시럽의 관련 유전성 당 대사 이상도 금기 여부 확인
+  * hydroxyzine <mark style="color:blue;">\[유시락스시럽]</mark> : 최소 유효용량을 최단 기간 사용. 졸림·항콜린성 이상반응에 주의하며, QT 연장·유의한 서맥·저칼륨/저마그네슘혈증 또는 QT 연장 약물 병용 시 금기. 급성 폐쇄각 녹내장, 포르피린증, 심혈관계 질환·급성 심장사 가족력 및 백당 함유 시럽의 관련 유전성 당 대사 이상도 금기 여부 확인
     * 고령자에서는 권장하지 않으며 불가피한 경우 감량하고 1일 50 ㎎을 넘지 않음. 간장애·중등도 이상 신장애에서도 감량 필요
-    * 국내 유시락스시럽 허가사항에는 성인 용법만 명시되어 있어 소아 용법은 허가 외 사용임. 소아 투여 시 체중·신기능·병용약을 확인하며, EMA 안전성 기준상 체중 ≤40 ㎏에서는 최대 2 ㎎/㎏/d를 넘지 않음
+    * 유시락스시럽 허가사항에는 성인 용법만 명시되어 있어 소아 용법은 허가 외 사용임. 소아 투여 시 체중·신기능·병용약을 확인하며, EMA 안전성 기준상 체중 ≤40 ㎏에서는 최대 2 ㎎/㎏/d를 넘지 않음
   * chlorpheniramine <mark style="color:blue;">\[페니라민]</mark> : 졸림과 항콜린성 이상반응에 주의
 * 국소 항히스타민제나 국소 마취제는 감작 위험 때문에 일상적으로 권고하지 않음
 
 ### <mark style="color:orange;">해열·진통제</mark>
 
 * acetaminophen <mark style="color:blue;">\[타이레놀, 세토펜]</mark>
-  * 성인 속방형 : 500\~1,000 ㎎ q6\~8hr PRN; 일반적으로 최대 3,000 ㎎/d, 정상 성인의 허가상 최대 4,000 ㎎/d를 넘지 않음. 고령·쇠약·저체중 또는 경증 간질환 등에서는 금기 여부를 먼저 확인하고 더 낮은 한도를 개별 결정하며 복합제 함량도 합산
-  * 국내 타이레놀 허가사항상 심한 간장애·신장애·심장기능저하, 소화성궤양, aspirin 천식/병력, TCA·바르비탈계 약물 복용 등은 금기임; 음주 및 병용약 확인
-  * 소아(국내 소아용 액제의 용량표는 4개월 이상) : 10\~15 ㎎/㎏/dose q4\~6hr PRN, 최대 5회/d 및 75 ㎎/㎏/d(단, 성인 최대용량을 넘지 않음)
+  * 성인 속방형 : 500\~1,000 ㎎ q6\~8hr PRN; 일반적으로 최대 3,000 ㎎/d, 정상 성인 최대 4,000 ㎎/d를 넘지 않음. 고령·쇠약·저체중 또는 경증 간질환 등에서는 금기 여부를 먼저 확인하고 더 낮은 한도를 개별 결정하며 복합제 함량도 합산
+  * 타이레놀은 심한 간장애·신장애·심장기능저하, 소화성궤양, aspirin 천식/병력, TCA·바르비탈계 약물 복용 등에서 금기; 음주 및 병용약 확인
+  * 소아(소아용 액제의 용량표는 4개월 이상) : 10\~15 ㎎/㎏/dose q4\~6hr PRN, 최대 5회/d 및 75 ㎎/㎏/d(단, 성인 최대용량을 넘지 않음)
 * **피함 : ibuprofen 등 NSAID** - 중증 세균성 피부·연조직 감염과의 연관성이 보고됨
 * **금기 : 소아·청소년의 aspirin/acetylsalicylic acid** - Reye syndrome 위험
 
 ### <mark style="color:orange;">경구 항바이러스제</mark>
 
 * **acyclovir** <mark style="color:blue;">\[메노바]</mark>
-  * 국내 허가 : 2세 이상 소아 수두에서 20 ㎎/㎏/dose(최대 800 ㎎/dose) qid ×5d
-  * 성인 수두 참고 용법 : 800 ㎎ 1일 5회 ×7d - 국내 허가 외 사용이며 제품별 허가범위·급여 확인
+  * 허가 용법 : 2세 이상 소아 수두에서 20 ㎎/㎏/dose(최대 800 ㎎/dose) qid ×5d
+  * 성인 수두 참고 용법 : 800 ㎎ 1일 5회 ×7d - 허가 외 사용(acyclovir의 수두 허가는 2세 이상 소아)이며 급여 인정 여부 확인
 * **valaciclovir** <mark style="color:blue;">\[발트렉스]</mark>
-  * 국내 허가 : 면역기능이 정상인 2세 이상 18세 미만 소아 수두에서 20 ㎎/㎏/dose(최대 1 g/dose) tid ×5d
-  * 성인 수두 1 g tid ×5\~7d는 국내 허가 외 사용이므로 근거·허가·급여를 확인하고 환자에게 설명
-* **famciclovir** : 국내 허가사항에 수두 적응증이 없고(대상포진·생식기포진에 한정) 근거가 제한적이므로 일상적인 수두 치료 선택지로 권고하지 않음
+  * 허가 용법 : 면역기능이 정상인 2세 이상 18세 미만 소아 수두에서 20 ㎎/㎏/dose(최대 1 g/dose) tid ×5d
+  * 성인 수두 1 g tid ×5\~7d는 허가 외 사용이므로 근거·허가·급여를 확인하고 환자에게 설명
+* **famciclovir** : 수두 적응증이 없고(대상포진·생식기포진에 한정) 근거가 제한적이므로 일상적인 수두 치료 선택지로 권고하지 않음
 * acyclovir·valaciclovir 또는 구성성분에 대한 과민반응 병력이 있으면 사용하지 않음
 * acyclovir·valaciclovir는 신기능에 따라 감량하고 충분한 수분 섭취를 유지함. 고령자·신장애 환자에서는 급성 신손상과 혼돈·환각 등 신경독성에 특히 주의
-* 2세 미만 수두의 경구 acyclovir·valaciclovir는 위 국내 허가 대상에 포함되지 않음. 소아 신장애에서 성인 대상포진 감량표를 그대로 적용하지 않으며, 발트렉스는 CrCl ＜50 mL/min/1.73 ㎡ 소아 투여 자료가 없음. <mark style="color:$info;">[국내 메노바·발트렉스 허가사항]</mark>
+* 2세 미만 수두의 경구 acyclovir·valaciclovir는 위 허가 대상에 포함되지 않음. 소아 신장애에서 성인 대상포진 감량표를 그대로 적용하지 않으며, 발트렉스는 CrCl ＜50 ㎖/min/1.73 ㎡ 소아 투여 자료가 없음. <mark style="color:$info;">\[메노바·발트렉스 허가사항]</mark>
+
+***
+
+## <mark style="color:red;">질병코드</mark>
+
+* B01 수두 Varicella \[chickenpox] - 상위 분류; 실제 코딩은 합병증에 따른 하위 완전코드 사용
+* B01.0† 수두수막염 Varicella meningitis (G02.0\*)
+* B01.1† 수두뇌염 Varicella encephalitis (G05.1\*)
+* B01.2† 수두폐렴 Varicella pneumonia (J17.1\*)
+* B01.8 기타 합병증을 동반한 수두 Varicella with other complications
+* B01.9 합병증이 없는 수두 Varicella without complication
+* P35.8 기타 선천성 바이러스질환 Other congenital viral diseases - 선천수두 포함
+
+✽ KCD-9 기준. B01.1에는 수두뇌척수염·수두후뇌염도 포함됨. P35.8은 선천감염에 적용하며, 출생 전후 노출 후 발병한 신생아 수두를 모두 선천수두로 코딩하지 않음.
+
+✽ †는 원인질환 코드, \*는 발현질환 코드이며 \* 코드는 단독 사용하지 않음. 실제 청구 시 최신 KCD 분류와 청구 기준을 재확인
 
 ***
 
@@ -297,18 +310,18 @@ graph TD
 > 메노바 200 ㎎/T  8T #4 ×5d
 > ※ 1회 2T(400 ㎎), 1일 4회; 정제를 안전하게 삼킬 수 있는 경우
 >
-> 세토펜 현탁액 32 ㎎/mL  1회 8 mL q4~6hr PRN ×3d
+> 세토펜 현탁액 32 ㎎/㎖  1회 8 ㎖ q4~6hr PRN ×3d
 > ※ 1회 256 ㎎(12.8 ㎎/㎏); 최대 5회/d, 투여 전 잘 흔듦
 >
-> 유시락스시럽 2 ㎎/mL  1회 5 mL tid PRN ×3d
-> ※ 소아 용법은 국내 허가 외 사용; 1일 최대 30 ㎎(1.5 ㎎/㎏/d)
-> ※ 심한 소양증에 한해 필요 시 사용, 졸림·QT 위험 및 병용약 확인
+> 유시락스시럽 2 ㎎/㎖  1회 5 ㎖ tid PRN ×3d
+> ※ 소아 용법은 허가 외 사용; 1일 최대 30 ㎎(1.5 ㎎/㎏/d)
+> ※ 심한 소양증에 한해 필요시 사용, 졸림·QT 위험 및 병용약 확인
 >
-> 칼라민 로션 30 mL  병변에 필요 시 1일 수회 도포 (비보험)
+> 칼라민 로션 30 ㎖  병변에 필요시 1일 수회 도포 (비보험)
 > ※ 눈·구강 등 점막에는 도포하지 않음
 > ```
 
-> **처방례 2.** 정상 면역 성인 비합병 수두(신기능 정상) - valaciclovir 국내 허가 외 사용
+> **처방례 2.** 정상 면역 성인 비합병 수두(신기능 정상) - valaciclovir 허가 외 사용
 >
 > ```
 > 발트렉스 500 ㎎/T  2T tid ×5d
@@ -322,33 +335,11 @@ graph TD
 > ※ 졸림·항콜린성 이상반응에 주의
 > ```
 >
-> _✽성인 수두에서 valaciclovir 1 g tid는 국내 허가 외 사용이다(국내 허가는 정상 면역 2세 이상 18세 미만 소아 수두로 한정). 발진 후 24시간 이내 시작할 때 효과가 가장 크며, 처방 전 환자에게 허가 외 사용임을 설명하고 급여 인정 여부를 확인한다._
+> _✽성인 수두에서 valaciclovir 1 g tid는 허가 외 사용이다(허가는 정상 면역 2세 이상 18세 미만 소아 수두로 한정). 발진 후 24시간 이내 시작할 때 효과가 가장 크며, 처방 전 환자에게 허가 외 사용임을 설명하고 급여 인정 여부를 확인한다._
 
 ***
 
-## <mark style="color:red;">질병코드</mark>
-
-B01　수두 (Varicella [chickenpox]) — 상위 분류; 실제 코딩은 합병증에 따른 하위 완전코드 사용
-
-B01.0†　수두수막염 (Varicella meningitis; G02.0*)
-
-B01.1†　수두뇌염 (Varicella encephalitis; G05.1*)
-
-B01.2†　수두폐렴 (Varicella pneumonia; J17.1*)
-
-B01.8　기타 합병증을 동반한 수두 (Varicella with other complications)
-
-B01.9　합병증이 없는 수두 (Varicella without complication)
-
-P35.8　기타 선천성 바이러스질환 (Other congenital viral diseases; 선천수두 포함)
-
-✽ KCD-9 기준. B01.1에는 수두뇌척수염·수두후뇌염도 포함됨. P35.8은 선천감염에 적용하며, 출생 전후 노출 후 발병한 신생아 수두를 모두 선천수두로 코딩하지 않음.
-
-✽ †는 원인질환 코드, *는 발현질환 코드이며 * 코드는 단독 사용하지 않음. 실제 청구 시 최신 KCD 분류와 청구 기준을 재확인
-
-***
-
-## <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **해열·진통제 선택**
 >
@@ -374,9 +365,9 @@ P35.8　기타 선천성 바이러스질환 (Other congenital viral diseases; �
 
 ***
 
-## <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### ＜임상 근거＞
+### <mark style="color:orange;">임상 근거</mark>
 
 * [질병관리청. 수두와 대상포진(2026-10-23 갱신)](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6679), [예방접종도우미: 수두](https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuCd=1108&menuLv=1)
 * [질병관리청. 2026 법정감염병 진단·신고 기준, p.80](https://kdca.go.kr/bbs/kdca/55/307100/download.do)
@@ -384,27 +375,25 @@ P35.8　기타 선천성 바이러스질환 (Other congenital viral diseases; �
 * [CDC. Clinical Guidance for People at Risk for Severe Varicella (2024)](https://www.cdc.gov/chickenpox/hcp/clinical-guidance/index.html)
 * [CDC. Clinical Overview of Chickenpox (2024)](https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html), [Varicella Vaccine Recommendations (2024)](https://www.cdc.gov/chickenpox/hcp/vaccine-considerations/index.html)
 * [CDC. Laboratory Testing for VZV (2024)](https://www.cdc.gov/chickenpox/php/laboratories/index.html)
-* [CDC. How to Treat Chickenpox (2024)](https://www.cdc.gov/chickenpox/treatment/index.html) — ibuprofen 회피·aspirin 금기·재진 경고 증상
+* [CDC. How to Treat Chickenpox (2024)](https://www.cdc.gov/chickenpox/treatment/index.html) - ibuprofen 회피·aspirin 금기·재진 경고 증상
 * [CDC. Infection Control in Healthcare Personnel: VZV (2026-03-23)](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/varicella.html)
-* [Public Health Agency of Canada. Canadian Immunization Guide: Varicella vaccines](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-24-varicella-chickenpox-vaccine.html) — 건강한 12개월 미만 영아의 노출 후 조치 참고; 국내 제품 허가와 구분
-* [CDC. Updated Recommendations for Use of VariZIG (2013)](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6228a4.htm) — 미국 제제·노출 후 예방 권고; 국내 품목 허가와 구분
-* [CDC. General Best Practices: Special Situations](https://www.cdc.gov/vaccines/hcp/imz-best-practices/special-situations.html) — 수두 생백신과 항바이러스제 투여 간격
-* [CDC/ACIP. Prevention of Varicella](https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm) — 접종 후 salicylate 회피 권고
-* [NIH. Varicella-Zoster Virus Disease: Adult and Adolescent OIs (2026)](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/varicella-zoster) — HIV 감염인의 치료 경로 참고
+* [Public Health Agency of Canada. Canadian Immunization Guide: Varicella vaccines](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-24-varicella-chickenpox-vaccine.html) - 건강한 12개월 미만 영아의 노출 후 조치 참고; 국내 제품 허가와 구분
+* [CDC. Updated Recommendations for Use of VariZIG (2013)](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6228a4.htm) - 미국 제제·노출 후 예방 권고; 국내 품목 허가와 구분
+* [CDC. General Best Practices: Special Situations](https://www.cdc.gov/vaccines/hcp/imz-best-practices/special-situations.html) - 수두 생백신과 항바이러스제 투여 간격
+* [CDC/ACIP. Prevention of Varicella](https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm) - 접종 후 salicylate 회피 권고
+* [NIH. Varicella-Zoster Virus Disease: Adult and Adolescent OIs (2026)](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/varicella-zoster) - HIV 감염인의 치료 경로 참고
 
-### ＜허가·급여 확인 자료＞
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 메노바, 발트렉스, 유시락스, 타이레놀, 부루펜, 녹십자수두사람면역글로불린 등 국내 허가사항
-* 녹십자수두사람면역글로불린주(품목기준코드 200403376) — 제공된 약학정보원 품목정보의 식약처 허가문구를 2026-10-31 재확인: 국내 대상·72시간 이내 근육주사·산모 직접 투여 금지·주요 금기·생백신 간격. GC녹십자 제품설명서와도 대조; 유통·재고는 별도 확인
-* 삼아제약. 세토펜현탁액 제품정보; 유한양행. 페니라민정 제품정보
-* [EMA. Hydroxyzine referral (2015)](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine) — 소아 최대용량·QT 위험; 국내 소아 허가를 의미하지 않음
-* 건강보험심사평가원. Acyclovir 제제 급여기준(고시 제2019-38호), 발트렉스 허가·급여 등재 정보 — 등재 자체가 성인 수두 허가 외 사용의 급여 인정을 의미하지 않음
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* [EMA. Hydroxyzine referral (2015)](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine) - 소아 최대용량·QT 위험; 국내 소아 허가를 의미하지 않음
+* 건강보험심사평가원. Acyclovir 제제 급여기준(고시 제2019-38호), 발트렉스 허가·급여 등재 정보 - 등재 자체가 성인 수두 허가 외 사용의 급여 인정을 의미하지 않음
 
-✽ 확인일: 2026-10-31. 현재 유통·재고와 최신 허가·급여 인정 여부는 처방 시 별도 확인.
+✽ 확인일: 2026-11-13.
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **수두는 전염력이 매우 강하지만, 대부분 1\~2주 안에 저절로 좋아집니다**
@@ -428,7 +417,7 @@ P35.8　기타 선천성 바이러스질환 (Other congenital viral diseases; �
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* 열과 통증에는 acetaminophen을 사용하고, ibuprofen 등 NSAID는 피합니다. 소아·청소년은 aspirin을 사용하지 않습니다. 다른 질환으로 aspirin을 처방받았다면 임의로 중단하지 말고 담당 의사와 즉시 상의하십시오.
+* 열과 통증에는 아세트아미노펜(타이레놀 등)을 사용하고, 이부프로펜 등 소염진통제는 피합니다. 소아·청소년은 아스피린을 사용하지 않습니다. 다른 질환으로 아스피린을 처방받았다면 임의로 중단하지 말고 담당 의사와 즉시 상의하십시오.
 * 항바이러스제를 처방받았다면 정해진 횟수와 기간을 끝까지 지켜 복용합니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>

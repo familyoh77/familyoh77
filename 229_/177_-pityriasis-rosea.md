@@ -31,30 +31,31 @@
 * 피부색에 따른 차이 : 짙은 피부색에서는 분홍색보다 보라색·회갈색 또는 과색소성 병변으로 보일 수 있고 색소 변화가 오래 지속될 수 있음
 * 비전형적 형태 : 소아에서는 얼굴·액와·서혜부 중심의 역분포형(inverse type)이나 구진형이 상대적으로 흔함. 무증상의 구강인두 병변도 보고되지만 빈도는 연구와 검사 방법에 따라 차이가 큼
 
-### 🚩 Red Flags
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 피부 통증, 광범위한 수포·표피박리 또는 점막 미란을 동반한 급성 발진  `SJS/TEN 의심`
 * 최근 새 약물 시작 후 발열·안면부종·림프절병증 또는 간·신장 이상 의심 소견을 동반한 광범위한 발진(흔히 투약 2\~8주 후이나 더 빨리 발생할 수 있음)  `DRESS 의심`
 * 고열·저혈압·의식 변화 등 전신상태 불량  `중증 전신질환`
+* 임신 중 심한 복통·다량 질출혈 또는 실신  `산과적 응급`
 
 ✽중증 약물이상반응이 의심되면 원인 약물을 신속히 중단하고 응급 평가함. 항경련제, allopurinol, sulfonamide계 항균제, vancomycin 등의 복용력을 확인함.
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-* 매독 의심 발진과 함께 새로 발생한 시력·청력 변화 또는 신경학적 증상 — 당일 평가  `안·이·신경매독 의심`
-* 임신 중 매독 의심 소견 또는 질출혈·복통 등 산과적 경고 증상 — 당일 평가; 심한 통증·다량 출혈·실신은 즉각 응급 평가  `임신·태아 위험`
-* 임신 15주 이전 발병 또는 임신 중 광범위한 발진·전신 증상 동반 — 가능하면 당일 산부인과·피부과에 연락하여 평가 일정 결정  `면밀한 임신 경과 추적`
+* 매독 의심 발진과 함께 새로 발생한 시력·청력 변화 또는 신경학적 증상  `안·이·신경매독`
+* 임신 중 매독 의심 소견 또는 질출혈·복통 등 산과적 경고 증상  `임신 중 매독` `산과적 합병증`
+* 임신 15주 이전 발병 또는 임신 중 광범위한 발진·전신 증상 동반  `고위험 임신 경과`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 손발바닥 병변, 뚜렷하거나 지속적인 점막병변, 전신 림프절병증 또는 성매개감염 위험 요인  `2기 매독 감별`
-* 임신 중 발생했으나 위 고위험 양상이 없는 경우  `산부인과·피부과 협진`
-* 12주 이상 지속되거나 비전형적 분포·형태로 진단이 불확실한 경우  `진단 재평가`
-* 반복 재발 양상  `감별진단 재검토`
+* 임신 중 발생했으나 위 고위험 양상이 없는 경우  `임신 중 장미색잔비늘증`
+* 12주 이상 지속되거나 비전형적 분포·형태로 진단이 불확실한 경우  `약물유발 PR-LE` `다른 구진인설성 질환`
+* 반복 재발 양상  `다른 구진인설성 질환`
 
-✽임신 중에는 매독을 우선 배제하고 임신 주수·병변 범위·전신 증상을 평가하여 산부인과·피부과 추적 계획을 수립함. 임신 예후 연구는 상충함. 소규모 대조군 연구에서는 위험 증가가 확인되지 않았으나, 2025년 문헌고찰은 임신 15주 이전 발병·광범위 병변·전신 증상 동반 시 면밀한 추적과 항바이러스 치료 고려를 제안함. 유산 위험을 확정적으로 설명하지 않으며 항바이러스제의 임신 합병증 예방 효과는 입증되지 않았음. <mark style="color:$info;">[JAAD 2024](https://doi.org/10.1016/j.jaad.2023.09.015); [IJWD 2025](https://pubmed.ncbi.nlm.nih.gov/39822983/)</mark>
+✽임신 중에는 매독을 우선 배제하고 임신 주수·병변 범위·전신 증상을 평가하여 산부인과·피부과 추적 계획을 수립함. 임신 예후 연구는 상충함. 소규모 대조군 연구에서는 위험 증가가 확인되지 않았으나, 2025년 문헌고찰은 임신 15주 이전 발병·광범위 병변·전신 증상 동반 시 면밀한 추적과 항바이러스 치료 고려를 제안함. 유산 위험을 확정적으로 설명하지 않으며 항바이러스제의 임신 합병증 예방 효과는 입증되지 않았음. <mark style="color:$info;">[J Am Acad Dermatol 2024](https://doi.org/10.1016/j.jaad.2023.09.015); [Int J Womens Dermatol 2025](https://pubmed.ncbi.nlm.nih.gov/39822983/)</mark>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -67,9 +68,9 @@
   * 임신 중 새 구진인설성 발진이 발생하면 기존 산전 선별검사 결과와 관계없이 매독 감별 필요성을 평가하고, 장미색 잔비늘증으로 판단하기 전에 매독을 배제함
 * 비전형적이거나 12주 이상 지속되는 발진은 약물유발 PR-like eruption을 포함한 다른 구진인설성 질환을 재평가하고, 필요시 피부과 의뢰 및 피부생검 고려
   * 피부생검 소견은 비특이적이므로 장미색잔비늘증을 확진하기 위한 일률적 검사로 사용하지 않음; 다른 질환을 감별하는 목적임
-  * 경과 관찰 중 새 경고 증상이 생기면 기간과 관계없이 재평가하며, 증상이 심하거나 치료 반응이 불충분하면 2~4주 내 재진을 고려
+  * 경과 관찰 중 새 경고 증상이 생기면 기간과 관계없이 재평가하며, 증상이 심하거나 치료 반응이 불충분하면 2\~4주 내 재진을 고려
 
-### <mark style="color:orange;">감별진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 <table><thead><tr><th width="150">질환</th><th>감별 단서</th></tr></thead><tbody><tr><td>체부백선</td><td>활성 융기 경계와 중심부 소실; KOH 검사 양성</td></tr><tr><td>2기 매독</td><td>손발바닥 병변, 뚜렷하거나 지속적인 점막병변, 전신 림프절병증, 성매개감염 위험; 매독 혈청검사</td></tr><tr><td>약물유발 장미색 잔비늘증양 발진</td><td>최근 시작한 약물과 시간적 연관, 원발반 부재, 병변의 융합·자반성 변화 또는 심한 가려움; 원인 약물 중단 후 호전. ACE inhibitor, NSAID, terbinafine, metronidazole, allopurinol 및 일부 생물학적 제제와의 관련성이 보고됨</td></tr><tr><td>물방울건선</td><td>작은 물방울 모양의 구진·판에 미세한 은백색 인설; 선행 연쇄구균 감염, 건선 병력 또는 손발톱 변화. 인설이 얇을 수도 있어 두께만으로 감별하지 않음</td></tr><tr><td>화폐상습진</td><td>습윤·가피를 동반한 동전 모양 병변과 심한 가려움</td></tr><tr><td>지루피부염·편평태선·만성 태선모양잔비늘증(PLC)</td><td>특징적인 분포·형태 및 만성 경과; PLC는 여러 단계의 갈색 구진과 부착성 인설이 반복 발생</td></tr></tbody></table>
 
@@ -77,26 +78,29 @@
 
 ***
 
-### <mark style="color:orange;">진단 및 치료 알고리듬</mark>
-
 ```mermaid
 flowchart TD
-    A["장미색잔비늘증 의심"] --> B{"중증 약물반응 또는 전신상태 불량?"}
-    B -->|예| C["의심 원인 약물 중단 및 응급 평가·의뢰"]
-    B -->|아니요| D["병력·피부 진찰 및 필요시 KOH·매독 검사"]
-    D --> E{"장미색잔비늘증에 합당?"}
-    E -->|아니요 또는 불확실| F["다른 질환 평가 및 피부과 의뢰"]
-    E -->|예| G{"임신 중?"}
-    G -->|예| H["매독 배제 및 산부인과·피부과 협진"]
-    G -->|아니요| I{"증상·병변이 심한가?"}
+    A["장미색잔비늘증 의심"] --> B["중증 약물반응 또는 전신상태 불량?"]
+    B -->|"예"| C["즉각 조치<br/>의심 원인 약물 중단·응급 평가"]
+    B -->|"아니오"| D["병력·피부 진찰<br/>필요시 KOH·매독 검사"]
+    D --> E["장미색잔비늘증에 합당?"]
+    E -->|"아니오 또는 불확실"| F["다른 질환 평가·피부과 의뢰"]
+    E -->|"예"| G["임신 중?"]
+    G -->|"예"| H["매독 배제<br/>산부인과·피부과 협진"]
+    G -->|"아니오"| I["증상·병변이 심한가?"]
     H --> I
-    I -->|경증| J["안심·보습 및 필요시 가려움 대증 치료"]
-    I -->|광범위 또는 일상생활 지장| K["대증 치료 및 acyclovir 선택적 고려"]
-    J --> L["경과 관찰 및 악화·12주 이상 지속 시 재평가"]
-    K --> L
+    I -->|"경증"| J["안심·보습<br/>필요시 가려움 대증 치료"]
+    I -->|"광범위 또는 일상생활 지장"| K["대증 치료<br/>acyclovir 선택적 고려"]
+
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,E,G,I question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style C fill:#ffebee,stroke:#c62828,stroke-width:2px
 ```
 
-✽임신 중 매독 의심·산과적 경고 증상은 당일 평가하며, 안·이·신경매독 의심이나 중증 약물반응은 일반 대증 치료 경로에 앞서 평가함. 임신부의 항바이러스제 투여는 협진 후 개별적으로 결정함.
+> _경과 관찰 중 악화하거나 12주 이상 지속되면 재평가함. 임신 중 매독 의심·산과적 경고 증상은 당일 평가하며, 안·이·신경매독 의심이나 중증 약물반응은 일반 대증 치료 경로에 앞서 평가함. 임신부의 항바이러스제 투여는 협진 후 개별적으로 결정함._
+
+<p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
 ***
 
@@ -105,12 +109,12 @@ flowchart TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 대부분 특별한 치료 없이 자연 치유되므로 질환의 양성 경과를 설명하고 가려움에 대해 대증 치료
-* 가려움에는 병변 부위·연령에 맞는 국소 corticosteroid와 경구 항히스타민제를 고려; 가려움 완화와 발진 경과에 대한 치료 효과의 근거를 구분함
-* 경구 corticosteroid는 치료 후 재발 가능성과 제한적인 근거 때문에 일상적으로 권고하지 않음
+* 가려움에는 병변 부위·연령에 맞는 국소 스테로이드와 경구 항히스타민제를 고려; 가려움 완화와 발진 경과에 대한 치료 효과의 근거를 구분함
+* 경구 스테로이드는 치료 후 재발 가능성과 제한적인 근거 때문에 일상적으로 권고하지 않음
   * 국소 치료와 항히스타민제로 조절되지 않는 광범위하고 극심한 증상에서만 예외적으로 단기간 고려
 * macrolide 계열 항생제는 일상적으로 사용하지 않음. Erythromycin은 2024년 네트워크 메타분석에서 발진 호전 신호가 있었으나 전체 근거 수준이 낮고 기존 연구 결과도 일관되지 않아 표준치료로 채택하지 않음. Azithromycin·clarithromycin은 유용성을 뒷받침하는 근거가 부족하며 불필요한 항생제 사용을 피함
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 질환의 양성 자연 경과에 대한 설명과 안심시키기(reassurance)가 우선
 * 미지근한 물로 짧게 씻고 목욕 후 보습제를 자주 도포
@@ -123,38 +127,38 @@ flowchart TD
 
 * calamine/zinc oxide : 필요시 도포 (☞ [칼라민](../%EB%B9%84%EB%B3%B4%ED%97%98/))
 * 보습제 : 목욕 후와 건조하거나 가려운 부위에 수시로 도포
-* 국소 corticosteroid : 가려움·염증 완화 목적으로 병변 부위·연령에 맞는 역가를 선택하고, 보통 1~2주 이내 사용. 증상이 좋아지면 조기에 중단하며 바르는 횟수는 제품별 허가사항을 따름 (☞ p.1139)
-  * clobetasone butyrate 0.05% 크림 : 체간·사지에 얇게 1일 1~2회 사용하는 예. 중간 역가(moderately potent)의 예이며, 국내 품목의 최신 허가·공급 상태를 확인하여 선택
-  * mometasone furoate 0.1% 크림 <mark style="color:blue;">\[모리코트]</mark> : 1일 1회 얇게 도포. 역가 분류는 체계·제형에 따라 다름(미국 분류상 중간 역가, 영국 4단계 분류상 potent)이므로 clobetasone과 같은 강도로 단정하지 않음. 성인의 체간·사지에서 필요시 단기간 사용하며, 국내 허가상 2세 이하 금기; 밀봉붕대법을 피함
+* 국소 스테로이드 : 가려움·염증 완화 목적으로 병변 부위·연령에 맞는 역가를 선택하고, 보통 1\~2주 이내 사용. 증상이 좋아지면 조기에 중단하며 바르는 횟수는 제품별 허가사항을 따름 (☞ p.1139)
+  * clobetasone butyrate 0.05% 크림 : 체간·사지에 얇게 1일 1\~2회 사용하는 예. 중간 역가(moderately potent)의 예이며, 품목의 허가·공급 상태를 확인하여 선택
+  * mometasone furoate 0.1% 크림 <mark style="color:blue;">\[모리코트]</mark> : 1일 1회 얇게 도포. 역가 분류는 체계·제형에 따라 다름(미국 분류상 중간 역가, 영국 4단계 분류상 potent)이므로 clobetasone과 같은 강도로 단정하지 않음. 성인의 체간·사지에서 필요시 단기간 사용하며, 2세 이하 금기; 밀봉붕대법을 피함
   * 얼굴·목·액와·서혜부 등 피부가 얇거나 접히는 부위에는 hydrocortisone 1% 등 저역가 제제를 우선 선택하고 단기간 사용; 위 제제를 일률적으로 적용하지 않음
 
-* 체부백선·매독 등 감염성 발진이 의심되면 감별 없이 steroid를 먼저 도포하지 않음. 임부·소아에서는 낮은 역가·최소량·짧은 기간을 우선하며, 광범위 도포를 피함
+* 체부백선·매독 등 감염성 발진이 의심되면 감별 없이 스테로이드를 먼저 도포하지 않음. 임부·소아에서는 낮은 역가·최소량·짧은 기간을 우선하며, 광범위 도포를 피함
 
 ### <mark style="color:orange;">경구 항히스타민제</mark>
 
 * 낮 시간에는 진정과 항콜린성 부작용이 적은 2세대 항히스타민제를 우선 고려 (☞ p.1144)
-  * cetirizine 10 ㎎ qd(국내 지르텍정 허가 용법은 취침 전 복용) <mark style="color:blue;">\[지르텍]</mark>
-  * levocetirizine 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark> — 장미색잔비늘증의 가려움에는 허가 외 사용
-    * 씨잘정의 국내 습진·피부염 허가는 “가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)”임. 이를 장미색잔비늘증의 적응증이나 다른 국소 steroid와의 동일한 허가 조건으로 확대하지 않음. 지르텍정은 별도로 피부가려움증에 국내 허가가 있음 <mark style="color:$info;">[지르텍정·씨잘정 국내 허가사항]</mark>
+  * cetirizine 10 ㎎ qd(지르텍정 허가 용법은 취침 전 복용) <mark style="color:blue;">\[지르텍]</mark>
+  * levocetirizine 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark> - 장미색잔비늘증의 가려움에는 허가 외 사용
+    * 씨잘정의 습진·피부염 허가는 “가려움증을 동반한 피부염 및 습진(하이드로코티손 외용제와 병용)”임. 이를 장미색잔비늘증의 적응증이나 다른 국소 steroid와의 동일한 허가 조건으로 확대하지 않음. 지르텍정은 별도로 피부가려움증에 국내 허가가 있음 <mark style="color:$info;">[지르텍정·씨잘정 허가사항]</mark>
 * 야간 가려움에는 진정성 1세대 항히스타민제를 제한적으로 고려
-  * hydroxyzine 10\~20 ㎎ hs <mark style="color:blue;">\[아디팜정 10 ㎎]</mark> : 야간 증상에 대한 저용량 사용 예시; 국내 피부과 허가 용법은 1일 30\~60 ㎎을 2\~3회 분할하며 연령·증상에 따라 증감
-  * chlorpheniramine 2\~4 ㎎ hs <mark style="color:blue;">\[페니라민정 2 ㎎]</mark> : 야간 증상에 대한 저용량 사용 예시; 국내 성인 허가 용법은 1회 2\~6 ㎎, 1일 2\~4회, 최대 24 ㎎/d
-* chlorpheniramine은 국내 페니라민정 허가상 녹내장·전립선비대 등 하부요로폐색성 질환 및 미숙아·신생아에 금기임
+  * hydroxyzine 10\~20 ㎎ hs <mark style="color:blue;">\[아디팜]</mark> : 야간 증상에 대한 저용량 사용 예시; 피부과 허가 용법은 1일 30\~60 ㎎을 2\~3회 분할하며 연령·증상에 따라 증감
+  * chlorpheniramine 2\~4 ㎎ hs <mark style="color:blue;">\[페니라민]</mark> : 야간 증상에 대한 저용량 사용 예시; 성인 허가 용법은 1회 2\~6 ㎎, 1일 2\~4회, 최대 24 ㎎/d
+* chlorpheniramine은 녹내장·전립선비대 등 하부요로폐색성 질환 및 미숙아·신생아에 금기임
 * 1세대 항히스타민제는 졸음·인지저하·구강건조·변비·요폐·낙상 위험이 있으므로 고령자에서는 가급적 피하고, 복용 후 운전·위험 작업과 음주를 금함
   * hydroxyzine은 임부·임신 가능 여성·수유부, QT 연장 또는 관련 위험요인(심혈관질환·급성 심장사 가족력·유의한 서맥·저칼륨혈증·저마그네슘혈증 등)이 있는 환자, QT 연장 약물 병용 시 금기. 급성 폐쇄각녹내장·포르피린증도 금기이며, 간장애·신장애에서는 감량이 필요함; 최저 유효 용량을 최단기간 사용. **성인 최대 100 ㎎/d**이며 고령자에게 권장하지 않음. 불가피하면 성인 권장량의 절반으로 시작하고 **고령자 최대 50 ㎎/d**로 제한함
 * cetirizine·levocetirizine도 졸음을 유발할 수 있으며 신기능 저하 시 제품별 용량·투여간격을 조정함; 두 제제를 함께 처방하지 않음
-  * 지르텍정은 CrCl 기준으로 조절함. CrCl 30~49 mL/min이면 5 ㎎ qd, 10~＜30 mL/min이면 5 ㎎을 2일마다 투여하며 **CrCl ＜10 mL/min에서 금기**임
-  * 씨잘정은 eGFR 기준으로 조절함. eGFR 30~＜60 mL/min이면 5 ㎎을 2일마다, 15~＜30 mL/min의 비투석 환자는 5 ㎎을 3일마다 투여하며 **eGFR ＜15 mL/min 또는 혈액투석 환자는 금기**임. 두 제품의 지표·구간을 서로 바꾸어 적용하지 않음(☞ 212 항히스타민제)
+  * 지르텍정은 CrCl 기준으로 조절함. CrCl 30\~49 ㎖/min이면 5 ㎎ qd, 10\~＜30 ㎖/min이면 5 ㎎을 2일마다 투여하며 **CrCl ＜10 ㎖/min에서 금기**임
+  * 씨잘정은 eGFR 기준으로 조절함. eGFR 30\~＜60 ㎖/min이면 5 ㎎을 2일마다, 15\~＜30 ㎖/min의 비투석 환자는 5 ㎎을 3일마다 투여하며 **eGFR ＜15 ㎖/min 또는 혈액투석 환자는 금기**임. 두 제품의 지표·구간을 서로 바꾸어 적용하지 않음(☞ 212 항히스타민제)
 * 위 용량은 성인 예시이며 소아는 연령·체중과 제품별 허가사항에 따라 조정함
 
 ### <mark style="color:orange;">Acyclovir</mark>
 
 * 대부분의 환자에게 일률적으로 권고하지 않음
 * 광범위한 병변, 심한 가려움 또는 전신 증상으로 불편이 큰 환자에서 제한적으로 고려; 특히 발병 초기에는 발진 호전을 기대할 수 있으나 최적 시작 시점과 용량은 확립되지 않음. 고열·전신상태 불량·지속적인 전신 증상은 다른 질환을 먼저 감별함
-  * acyclovir 800 ㎎ PO 1일 5회 ×7일(취침시간 제외 약 4시간 간격; 연구에 사용된 요법 중 하나). 200 ㎎/T 제형은 1회 4T <mark style="color:blue;">\[대화아시클로버정 등]</mark>; 장미색 잔비늘증 치료는 허가 외 사용임
-* 2019년 Cochrane review에서 의사 평가상 발진 호전에는 중등도 근거가 있었으나 가려움 개선 효과는 불확실하였음 <mark style="color:$info;">[Cochrane 2019](https://www.cochrane.org/evidence/CD005068_treatments-pityriasis-rosea)</mark>. 2024년 네트워크 메타분석에서도 발진 호전 효과가 관찰되었지만 연구 규모·비교군·용량의 차이와 간접 비교의 한계가 있어 일률적 투여로 확대하지 않음 <mark style="color:$info;">[JCM 2024](https://doi.org/10.3390/jcm13226666)</mark>
+  * acyclovir 800 ㎎ PO 1일 5회 ×7일(취침시간 제외 약 4시간 간격; 연구에 사용된 요법 중 하나). 200 ㎎/T 제형은 1회 4T <mark style="color:blue;">\[대화아시클로버]</mark>; 장미색 잔비늘증 치료는 허가 외 사용임
+* 2019년 Cochrane review에서 의사 평가상 발진 호전에는 중등도 근거가 있었으나 가려움 개선 효과는 불확실하였음 <mark style="color:$info;">[Cochrane 2019](https://www.cochrane.org/evidence/CD005068_treatments-pityriasis-rosea)</mark>. 2024년 네트워크 메타분석에서도 발진 호전 효과가 관찰되었지만 연구 규모·비교군·용량의 차이와 간접 비교의 한계가 있어 일률적 투여로 확대하지 않음 <mark style="color:$info;">[J Clin Med 2024](https://doi.org/10.3390/jcm13226666)</mark>
 * 투여 전 신기능·탈수·신독성 약물 병용 여부를 확인하고, 신기능 저하 시 용량·투여간격을 조정함; 탈수를 피하도록 수분 섭취를 안내(심부전·신부전으로 수분 제한 중이면 개별화)
-  * 위 800 ㎎ 요법을 선택한 경우, 국내 대상포진 허가 용법의 신장애 조정 원칙을 참고하면 CrCl 10~25 mL/min은 800 ㎎ q8h, CrCl ＜10 mL/min은 800 ㎎ q12h임. 이는 장미색잔비늘증에서 검증된 별도 용량표가 아니며, 급성 신손상·투석 환자에서는 전문의·약사와 개별 조정함
+  * 위 800 ㎎ 요법을 선택한 경우, 대상포진 허가 용법의 신장애 조정 원칙을 참고하면 CrCl 10\~25 ㎖/min은 800 ㎎ q8h, CrCl ＜10 ㎖/min은 800 ㎎ q12h임. 이는 장미색잔비늘증에서 검증된 별도 용량표가 아니며, 급성 신손상·투석 환자에서는 전문의·약사와 개별 조정함
   * 소변량 감소, 새로 발생한 혼돈·환각·심한 졸림·떨림 등 신장·신경 독성 의심 증상이 생기면 투여를 중단하고 신속히 평가함
 * 임신 중 고위험 양상에서는 산부인과·피부과와 상의하여 투여를 고려할 수 있으나, 유산·조산 등 임신 합병증 예방 효과는 입증되지 않았음
 
@@ -167,9 +171,9 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
-L42　장미색잔비늘증(비강진)　Pityriasis rosea
+* L42 장미색잔비늘증(비강진) Pityriasis rosea
 
 ***
 
@@ -178,7 +182,7 @@ L42　장미색잔비늘증(비강진)　Pityriasis rosea
 > **처방례 1. 경증\~중등도 가려움**
 >
 > ```
-> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7～14일
+> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7~14일
 > 지르텍정 10 ㎎/T  1T 취침 전 qd, 필요시 최대 7일
 > ```
 >
@@ -187,31 +191,31 @@ L42　장미색잔비늘증(비강진)　Pityriasis rosea
 > **처방례 2. 야간 가려움이 심한 경우**
 >
 > ```
-> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7～14일
-> 아디팜정 10 ㎎/T  1～2T 취침 시, 필요시 최대 7일
+> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7~14일
+> 아디팜정 10 ㎎/T  1~2T 취침 시, 필요시 최대 7일
 > ```
 >
 > _✽야간 가려움에 대한 저용량 사용 예시. hydroxyzine은 임부·임신 가능 여성·수유부 및 QT 연장 위험요인·관련 병용약물이 있는 경우 사용하지 않음. 졸음·운전·음주 주의; 고령자에서는 가급적 피하고 2세대 항히스타민제로 대체 고려._
 
-> **처방례 3. 발병 초기 광범위한 병변으로 불편이 큰 경우 — 허가 외 사용**
+> **처방례 3. 발병 초기 광범위한 병변으로 불편이 큰 경우(허가 외 사용)**
 >
 > ```
 > 대화아시클로버정 200 ㎎/T  4T q4hr(취침시간 제외 1일 5회) ×7일
-> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7～14일
+> 모리코트 크림 0.1%, 10 g/tube  체간·사지 병변에 얇게 qd, 최대 7~14일
 > 씨잘정 5 ㎎/T  1T qd, 가려움이 있을 때 최대 7일
 > ```
 >
 > _✽Acyclovir의 장미색잔비늘증 치료와 씨잘정의 이 질환 가려움 완화는 각각 허가 외 사용임. Acyclovir는 발진 호전에 중등도 근거가 있으나 가려움 개선 및 최적 요법은 불확실하므로 설명 후 선택적으로 사용. 신기능이 정상인 성인 예시이며, 처방 전 신기능·탈수·병용약물·제품 함량을 확인함. 신장애 시 각 성분의 용량·투여간격을 별도로 조절하며, 씨잘정의 eGFR 기준을 acyclovir 용량표에 그대로 적용하지 않음. 임신 중에는 산부인과·피부과 상의 후 결정함._
 
-처방례는 성인 예시이며 병변 부위, 연령, 임신 여부, 신기능, 동반질환과 병용약물에 따라 조정함. 가려움이 없으면 항히스타민제와 국소 steroid를 일률적으로 처방하지 않으며, 호전되면 조기에 중단함. 처방 시 최신 품목정보/급여기준 조회. 허가 외 사용의 근거와 한계를 설명하며 허가와 급여 인정 여부는 별도로 확인함.
+처방례는 성인 예시이며 병변 부위, 연령, 임신 여부, 신기능, 동반질환과 병용약물에 따라 조정함. 가려움이 없으면 항히스타민제와 국소 스테로이드를 일률적으로 처방하지 않으며, 호전되면 조기에 중단함. 허가 외 사용의 근거와 한계를 설명하며 허가와 급여 인정 여부는 별도로 확인함.
 
 ***
 
-## <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **국소 스테로이드, 이렇게 안내하세요**
 >
-> * 발진 자체보다 가려움 완화가 목적임을 설명; 체간·사지에는 제품별 횟수로 얇게 도포(모리코트는 1일 1회), 보통 1~2주 이내로 제한하고 호전 시 조기에 중단
+> * 발진 자체보다 가려움 완화가 목적임을 설명; 체간·사지에는 제품별 횟수로 얇게 도포(모리코트는 1일 1회), 보통 1\~2주 이내로 제한하고 호전 시 조기에 중단
 > * 얼굴·목·액와·서혜부 등 피부가 얇거나 접히는 부위는 저역가 제제를 선택하여 단기간만 사용
 > * 의사가 처방한 기간 이상 임의로 연장하지 않도록 안내; 장기 사용 시 피부 위축·모세혈관확장 위험
 
@@ -233,25 +237,23 @@ L42　장미색잔비늘증(비강진)　Pityriasis rosea
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+### <mark style="color:orange;">임상 근거</mark>
 
-* Contreras-Ruiz J, et al. [Interventions for pityriasis rosea](https://doi.org/10.1002/14651858.CD005068.pub3). Cochrane Database Syst Rev. 2019;10:CD005068. — acyclovir·항생제·대증 치료의 효과 및 근거 한계.
+* Contreras-Ruiz J, et al. [Interventions for pityriasis rosea](https://doi.org/10.1002/14651858.CD005068.pub3). Cochrane Database Syst Rev. 2019;10:CD005068. - acyclovir·항생제·대증 치료의 효과 및 근거 한계.
 * Ciccarese G, et al. [Comparative Efficacy of Different Pharmacological Treatments for Pityriasis Rosea: A Network Meta-Analysis](https://doi.org/10.3390/jcm13226666). J Clin Med. 2024;13(22):6666.
-* Ong M, White H, Lipner SR. [No increased risk of birth complications and spontaneous abortion in pregnant patients with pityriasis rosea compared to matched controls](https://doi.org/10.1016/j.jaad.2023.09.015). J Am Acad Dermatol. 2024;90(1):168–170. — 소규모 후향적 대조군 연구.
-* Manduca S, et al. [The risks of pityriasis rosea in pregnancy: a review](https://doi.org/10.1097/JW9.0000000000000191). Int J Womens Dermatol. 2025;11(1):e191. — 상충하는 임신 예후 자료와 고위험 양상에서의 추적.
-* Sonthalia S, et al. [Double-blind randomized placebo-controlled trial to evaluate the efficacy and safety of short-course low-dose oral prednisolone in pityriasis rosea](https://pubmed.ncbi.nlm.nih.gov/29363373/). J Dermatolog Treat. 2018. doi:10.1080/09546634.2018.1430302. — 가려움 개선과 재발 가능성을 함께 고려.
-* CDC. [Laboratory Recommendations for Syphilis Testing, United States, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm). MMWR Recomm Rep. 2024;73(1):1–32. — 매독 혈청검사 조합 및 prozone 확인.
-* EADV Skin Diseases in Pregnancy Task Force. [Pityriasis rosea in pregnancy: Information Leaflet for Patients](https://eadv.org/wp-content/uploads/2023/09/EADV_PregnancyTF_Pityriasis-rosea_2.pdf). 2024. — 임신 중 대증 치료·광선 치료 상담.
+* Ong M, White H, Lipner SR. [No increased risk of birth complications and spontaneous abortion in pregnant patients with pityriasis rosea compared to matched controls](https://doi.org/10.1016/j.jaad.2023.09.015). J Am Acad Dermatol. 2024;90(1):168–170. - 소규모 후향적 대조군 연구.
+* Manduca S, et al. [The risks of pityriasis rosea in pregnancy: a review](https://doi.org/10.1097/JW9.0000000000000191). Int J Womens Dermatol. 2025;11(1):e191. - 상충하는 임신 예후 자료와 고위험 양상에서의 추적.
+* Sonthalia S, et al. [Double-blind randomized placebo-controlled trial to evaluate the efficacy and safety of short-course low-dose oral prednisolone in pityriasis rosea](https://pubmed.ncbi.nlm.nih.gov/29363373/). J Dermatolog Treat. 2018. doi:10.1080/09546634.2018.1430302. - 가려움 개선과 재발 가능성을 함께 고려.
+* CDC. [Laboratory Recommendations for Syphilis Testing, United States, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7301a1.htm). MMWR Recomm Rep. 2024;73(1):1–32. - 매독 혈청검사 조합 및 prozone 확인.
+* EADV Skin Diseases in Pregnancy Task Force. [Pityriasis rosea in pregnancy: Information Leaflet for Patients](https://eadv.org/wp-content/uploads/2023/09/EADV_PregnancyTF_Pityriasis-rosea_2.pdf). 2024. - 임신 중 대증 치료·광선 치료 상담.
 
-### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 국내 제품의 성분·용법·금기 확인 자료. 지르텍정과 씨잘정의 피부 관련 허가 범위·신장애 지표/구간을 구분하며, 장미색잔비늘증에서 acyclovir 및 씨잘정의 사용은 허가 외임.
-* 국내 품목 확인(2026-10-31): 모리코트크림·지르텍정·씨잘정·대화아시클로버정·페니라민정의 식약처 공개 상세정보와 아디팜정의 식약처 자료 기반 약학정보원 수록 내용을 대조함. 트리코트크림0.1%는 식약처에 2026-07-01 유효기간만료로 표시되어 처방 약제 목록에서 제외함. 품목 허가 상태가 실제 도매·약국 재고를 의미하지는 않음.
-* KCD-9: 사용자 제공 「KCD9_251216(6).xlsx」의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」에서 L42와 한·영 명칭을 직접 대조함.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **장미색 잔비늘증, 대부분 저절로 좋아지는 양성 피부질환입니다**
