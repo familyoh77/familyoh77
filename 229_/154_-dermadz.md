@@ -1,4 +1,4 @@
-# 피부 병변의 기술
+# 피부 병변의 기술 Description of Skin Lesions
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -88,18 +88,28 @@ _✽Petechiae/purpura/ecchymosis의 크기 경계는 문헌에 따라 다르므�
 * **형태와 병명 구분** : 고리 모양 병변을 곧바로 백선으로, 농포를 곧바로 세균 감염으로, 촉지자반을 곧바로 혈관염으로 단정하지 않음. 병력·분포·검사를 종합함
 * **경과 사진** : 환자 동의를 얻고 크기 비교용 자를 함께 두어 같은 부위·조명·거리에서 기록하면 경과 비교에 도움이 됨
 
-### 🚩Red Flags
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 팽진 또는 입술·혀 부종과 함께 호흡곤란·목소리 변화·실신/저혈압 등이 나타남 → 아나필락시스·기도 폐쇄 가능성으로 응급 처치 및 이송  <mark style="color:$danger;">[즉각 조치]</mark>
-* 새로 발생한 자반·점상출혈이 빠르게 퍼지거나, 발열·의식 변화·쇼크 등 전신 상태 악화를 동반함 → 수막구균 감염·패혈증 등 응급 평가. 발진이 없거나 아직 압박 시 옅어진다는 이유만으로 중증 감염을 배제하지 않음  <mark style="color:$danger;">[즉각 조치]</mark>
-* 최근 약물 사용 후 통증성 발진, 물집·피부 박리, 입·눈·생식기 점막 미란이 나타남 → SJS/TEN 등 중증 피부약물이상반응 의심, 원인 의심 약물 중단 및 즉시 병원 평가  <mark style="color:$danger;">[즉각 조치]</mark>
-* 겉으로 보이는 피부 소견에 비해 심한 통증, 급속히 진행하는 부기·홍반, 출혈성 수포·괴사 또는 전신 독성이 나타남 → 괴사성 연조직감염 가능성으로 즉시 병원 평가  <mark style="color:$danger;">[즉각 조치]</mark>
-* 흑색종 의심 소견, 빠르게 커지는 단단한 결절, 원인 불명의 지속성 궤양·반복 출혈, 새로 생기거나 넓어지는 한 손발톱의 색소띠 → 신속히 피부과 의뢰를 진행하고 장기 관찰로 미루지 않음  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
-* 원인 불명의 새 자반·점상출혈, 점막 출혈 또는 촉지자반 → 혈소판감소·응고장애·혈관염 감별. 혈뇨·복통 등 장기 침범이 의심되면 **당일** 평가  <mark style="color:$warning;">[당일~수일 내 평가]</mark>
-* 같은 자리의 두드러기 모양 병변이 24시간을 초과하여 지속되거나 통증·자반·잔여 색소침착이 동반됨 → 두드러기혈관염 등 감별. 호흡곤란·혈뇨 등 전신 소견이 있으면 평가 시급도를 높임  <mark style="color:$info;">[조기 평가 및 추적]</mark>
-* 원인이 불명확한 병변이 지속·재발하거나 적절한 초기 치료에도 호전되지 않음 → 진단을 재검토하고 필요 시 피부과 의뢰·조직검사  <mark style="color:$info;">[조기 평가 및 추적]</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-_✽흑색종 의심 병변의 ‘당일~수일 내 평가’는 일차진료에서 평가·의뢰를 시작하는 시급도를 뜻하며, 모든 환자에게 당일 조직검사를 요구하는 기준은 아님._
+* 팽진 또는 입술·혀 부종과 함께 호흡곤란·목소리 변화·실신/저혈압  `아나필락시스` `기도 폐쇄`
+* 새로 발생한 자반·점상출혈이 빠르게 퍼지거나 발열·의식 변화·쇼크 등 전신 상태 악화를 동반  `수막구균 감염증` `패혈증`
+* 최근 약물 사용 후 통증성 발진, 물집·피부 박리, 입·눈·생식기 점막 미란  `SJS/TEN`
+* 겉으로 보이는 피부 소견에 비해 심한 통증, 급속히 진행하는 부기·홍반, 출혈성 수포·괴사 또는 전신 독성  `괴사성 연조직감염`
+
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+
+* 흑색종 의심 소견(ABCDE·ugly duckling sign), 빠르게 커지는 단단한 결절, 원인 불명의 지속성 궤양·반복 출혈, 새로 생기거나 넓어지는 한 손발톱의 세로 색소띠  `흑색종` `피부암`
+* 원인 불명의 새 자반·점상출혈, 점막 출혈 또는 촉지자반; 혈뇨·복통 등 장기 침범 의심 소견이 있으면 **(당일)**  `혈소판감소증` `응고장애` `혈관염`
+* 같은 자리의 두드러기 모양 병변이 24시간을 초과하여 지속되거나 통증·자반·잔여 색소침착이 동반됨; 호흡곤란·혈뇨 등 전신 소견이 있으면 **(당일)**  `두드러기혈관염`
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 원인이 불명확한 병변이 지속·재발하거나 적절한 초기 치료에도 호전되지 않음  `진단 불명`
+
+즉각 조치 항목은 응급 처치와 병원 이송을 진행하며, 아나필락시스가 의심되면 epinephrine 근육주사를 지체하지 않음. 발진이 없거나 아직 압박 시 옅어진다는 이유만으로 수막구균 감염증·패혈증을 배제하지 않음. 중증 피부약물이상반응이 의심되면 원인 의심 약물을 중단함. 흑색종 등 악성 의심 병변은 신속히 피부과에 의뢰하며 장기 관찰로 미루지 않음. 진단이 불명확한 지속·재발 병변은 진단을 재검토하고 필요시 피부과 의뢰·조직검사를 진행함.
+
+_✽흑색종 의심 병변의 '당일\~수일 내 평가'는 일차진료에서 평가·의뢰를 시작하는 시급도를 뜻하며, 모든 환자에게 당일 조직검사를 요구하는 기준은 아님._
 
 ## <mark style="color:green;">색소성 병변에서 흑색종을 의심하는 ABCDE</mark>
 
@@ -113,7 +123,7 @@ _✽흑색종 의심 병변의 ‘당일~수일 내 평가’는 일차진료에
 {% hint style="warning" %}
 **ABCDE의 한계와 추가 의심 소견**
 
-* ABCDE는 흑색종을 의심하는 단서이며, 모든 항목을 충족해야 의심하는 것은 아님. 양성 병변도 일부 소견을 보일 수 있어 진찰·피부경검사(dermoscopy)·필요 시 조직검사로 평가함
+* ABCDE는 흑색종을 의심하는 단서이며, 모든 항목을 충족해야 의심하는 것은 아님. 양성 병변도 일부 소견을 보일 수 있어 진찰·피부경검사(dermoscopy)·필요시 조직검사로 평가함
 * 결절성·무색소성 흑색종은 대칭적이거나 단색일 수 있으며, 피부색·분홍색·붉은색 병변으로도 나타날 수 있음. 빠르게 커지는 단단한 융기 병변이나 원인 불명의 지속적인 궤양·출혈을 주의함
 * 손바닥·발바닥 및 손발톱도 확인함. 특히 성인에서 한 손발톱에 새로 생기거나 넓어지는 세로 색소띠, 불규칙한 색조·경계, 손발톱 주위 피부로 이어지는 색소침착(Hutchinson sign), 손발톱 변형·출혈은 전문 평가가 필요한 소견임. Hutchinson sign 자체가 흑색종의 확진 소견은 아니며, 이 소견이 없다고 손발톱 흑색종을 배제할 수 없음
 * 의심 병변은 장기적인 단순 관찰로 평가를 미루지 않고 신속히 피부과에 의뢰하여 피부경검사와 적절한 조직검사 여부를 결정함
@@ -130,20 +140,26 @@ _✽흑색종 의심 병변의 ‘당일~수일 내 평가’는 일차진료에
 
 ```mermaid
 flowchart TD
-    A["피부 병변 또는 발진 의심"] --> B{"응급 Red Flags?"}
-    B -->|예| C["응급 처치 및 병원 이송"]
-    B -->|아니오| D["대표 병변의 형태·분포·경과 기록"]
-    D --> E{"악성 의심 또는 신속 평가 소견?"}
-    E -->|예| F["신속한 원인 평가 및 전문의 의뢰"]
-    E -->|아니오| G["감별진단에 따른 선택적 검사·치료"]
-    G --> H{"경과가 진단에 부합하고 호전?"}
-    H -->|예| I["원인별 관리 및 추적"]
-    H -->|아니오| J["진단 재검토 및 의뢰·조직검사 고려"]
+    A["피부 병변 또는 발진 의심"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    B -- "예" --> C["즉각 조치: 응급 처치 및 병원 이송"]
+    B -- "아니오" --> D["대표 병변의 형태·분포·경과 기록"]
+    D --> E["Red Flags의 당일~수일 내 평가 항목에 해당?"]
+    E -- "예" --> F["당일~수일 내 평가: 신속한 원인 평가 및 전문의 의뢰"]
+    E -- "아니오" --> G["감별진단에 따른 선택적 검사·치료"]
+    G --> H["경과가 진단에 부합하고 호전?"]
+    H -- "예" --> I["원인별 관리 및 추적"]
+    H -- "아니오" --> J["진단 재검토 및 의뢰·조직검사 고려"]
+
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,E,H question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
+
+<p align="center"><strong>피부 병변의 초기 평가 알고리듬</strong></p>
 
 ***
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="warning" %}
 피부 병변의 형태만으로 항생제·항진균제·스테로이드의 적응증이 결정되지는 않음. 치료는 원인 질환에 따름. 흑색종 등 악성이 의심되는 병변은 진단 전에 레이저·냉동치료 등으로 파괴하지 말고, 조직학적 평가가 가능한 방식으로 전문 평가를 진행함.
@@ -152,52 +168,62 @@ flowchart TD
 * 비응급 병변도 재평가 시점과 조기 재진 사유(확산·통증 증가·발열·물집·점막 병변·출혈 등)를 안내함
 * 의심 피부암의 조직검사 방법은 병변의 크기·위치·깊이와 손발톱 이환 여부를 고려하여 결정함
 
-## 질병코드
+***
+
+## <mark style="color:red;">질병코드</mark>
 
 이 장의 형태학적 분류만으로 원인 질환의 진단코드를 결정할 수 없음. 원인 질환이 확인되면 해당 질환코드를 사용하고, 원인 미확정 단계에서는 실제로 확인한 증상·징후에 맞는 코드를 선택함. **흑색종이 의심된다는 이유만으로 악성 흑색종 확진코드를 적용하지 않음.**
 
-<table>
-<thead><tr><th width="115">KCD-9</th><th>명칭</th><th>적용 시 유의점</th></tr></thead>
-<tbody>
-<tr><td>R21</td><td>발진 및 기타 비특이성 피부발진</td><td>원인이 아직 특정되지 않은 비특이적 발진</td></tr>
-<tr><td>R22.0</td><td>머리의 국소적 부기, 종괴 및 덩이</td><td rowspan="7">원인 미확정 피부·피하조직의 국소적 부기·종괴·덩이는 부위에 맞는 완전코드를 선택함. R22 자체는 불완전코드임</td></tr>
-<tr><td>R22.1</td><td>목의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R22.2</td><td>몸통의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R22.3</td><td>팔의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R22.4</td><td>다리의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R22.7</td><td>여러 부위의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R22.9</td><td>상세불명의 국소적 부기, 종괴 및 덩이</td></tr>
-<tr><td>R23.3</td><td>자발반출혈</td><td>엑셀에서 ‘점출혈’도 같은 코드로 수록됨. 모든 자반을 일률적으로 이 코드에 대응시키지 않고 원인 질환·외상 여부를 구분함</td></tr>
-<tr><td>R23.4</td><td>피부조직의 변화</td><td>피부의 탈락·경화·벗겨짐이 같은 코드에 수록됨. 원인 질환이 특정되면 해당 코드 사용</td></tr>
-<tr><td>R23.8</td><td>기타 및 상세불명의 피부변화</td><td>다른 구체적인 증상·징후로 분류되지 않는 피부변화</td></tr>
-</tbody>
-</table>
+* R21 발진 및 기타 비특이성 피부발진 Rash and other nonspecific skin eruption
+  * 원인이 아직 특정되지 않은 비특이적 발진
+* R22.0 머리의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, head
+* R22.1 목의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, neck
+* R22.2 몸통의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, trunk
+* R22.3 팔의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, upper limb
+* R22.4 다리의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, lower limb
+* R22.7 여러 부위의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, multiple sites
+* R22.9 상세불명의 국소적 부기, 종괴 및 덩이 Localized swelling, mass and lump, unspecified
+  * R22.0\~R22.9 : 원인 미확정 피부·피하조직의 국소적 부기·종괴·덩이는 부위에 맞는 완전코드를 선택함. R22 자체는 불완전코드임
+* R23.3 자발반출혈 Spontaneous ecchymoses
+  * '점출혈'도 같은 코드로 수록됨. 모든 자반을 일률적으로 이 코드에 대응시키지 않고 원인 질환·외상 여부를 구분함
+* R23.4 피부조직의 변화 Changes in skin texture
+  * 피부의 탈락·경화·벗겨짐이 같은 코드에 수록됨. 원인 질환이 특정되면 해당 코드 사용
+* R23.8 기타 및 상세불명의 피부변화 Other and unspecified skin changes
+  * 다른 구체적인 증상·징후로 분류되지 않는 피부변화
 
-_✽저장된 「KCD9_251216(6).xlsx」의 ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’ 시트와 대조함. 엑셀에는 R233처럼 소수점 없이 저장되어 있으며, 본문에는 R23.3 형식으로 표기함._
+_✽저장된 「KCD9_251216(6).xlsx」의 '상병분류기호(전체)' 및 '상병분류기호(완전코드)' 시트와 대조함. 엑셀에는 R233처럼 소수점 없이 저장되어 있으며, 본문에는 R23.3 형식으로 표기함._
 
-## 주요 참고문헌 및 확인 자료
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
 1. Nast A, Griffiths CE, Hay R, Sterry W, Bolognia JL. The 2016 International League of Dermatological Societies' revised glossary for the description of cutaneous lesions. *Br J Dermatol.* 2016;174(6):1351–1358. [doi:10.1111/bjd.14419](https://doi.org/10.1111/bjd.14419); [ILDS 공개 원문](https://ilds.contentfiles.net/media/documents/ILDS-Glossary-Cutaneous-Lesions.pdf). 기본 병변 정의와 크기·깊이·분포의 기술 기준.
 2. Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. *Allergy.* 2026;81:2582–2632. [doi:10.1111/all.70210](https://doi.org/10.1111/all.70210). 팽진과 혈관부종의 정의·지속시간 및 감별.
 3. American Academy of Dermatology. [ABCDEs of melanoma](https://www.aad.org/public/diseases/skin-cancer/abcdes-melanoma); [How to check your nails for melanoma](https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/nail-melanoma); [Melanoma: diagnosis and treatment](https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/diagnose-treat).
-4. NICE. [NG240: Meningitis (bacterial) and meningococcal disease — Recommendations](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations). 급속히 진행하는 비창백성 발진 및 응급 이송 기준.
+4. NICE. [NG240: Meningitis (bacterial) and meningococcal disease - Recommendations](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations). 급속히 진행하는 비창백성 발진 및 응급 이송 기준.
 5. NHS. [Stevens-Johnson syndrome](https://www.nhs.uk/conditions/stevens-johnson-syndrome/). 통증성 발진·수포·피부 박리·점막 침범의 응급 평가.
 6. CDC. [Clinical Guidance for Type II Necrotizing Fasciitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/necrotizing-fasciitis.html). 2025-08-05. 피부 소견에 비해 심한 통증과 급속한 진행.
-7. NICE. [NG12: Suspected cancer — Skin cancers, recommendations 1.7.1–1.7.4](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer#skin-cancers). 지침 전체 최종 업데이트 2026-04-15; 해당 피부암 의뢰 권고는 2015 권고 유지.
-8. NICE. [NG14: Melanoma — Assessment, recommendations 1.3.1–1.3.3](https://www.nice.org.uk/guidance/ng14/chapter/recommendations#assessing-melanoma). 숙련된 의료진의 피부경검사 및 선택적 사진 추적.
-9. Alpsoy E, et al. Recommendations for the diagnostic work-up of cutaneous small vessel vasculitis — Position Statement of the European Academy of Dermatology and Venereology Vasculitis and Vasculopathy Task Force. *J Eur Acad Dermatol Venereol.* 2026;40:946–962. 2025-12-16 온라인 선공개. [doi:10.1111/jdv.70249](https://doi.org/10.1111/jdv.70249); [PubMed 공개 초록](https://pubmed.ncbi.nlm.nih.gov/41399325/). 임상·조직학적 평가와 초기 병변의 DIF 검사 원칙 확인.
-10. ASCIA. [Guidelines — Acute Management of Anaphylaxis](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines). 2026 개정. 기도·호흡·순환 이상을 동반한 급성 알레르기 반응의 응급 평가.
+7. NICE. [NG12: Suspected cancer - Skin cancers, recommendations 1.7.1–1.7.4](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer#skin-cancers). 지침 전체 최종 업데이트 2026-04-15; 해당 피부암 의뢰 권고는 2015 권고 유지.
+8. NICE. [NG14: Melanoma - Assessment, recommendations 1.3.1–1.3.3](https://www.nice.org.uk/guidance/ng14/chapter/recommendations#assessing-melanoma). 숙련된 의료진의 피부경검사 및 선택적 사진 추적.
+9. Alpsoy E, et al. Recommendations for the diagnostic work-up of cutaneous small vessel vasculitis - Position Statement of the European Academy of Dermatology and Venereology Vasculitis and Vasculopathy Task Force. *J Eur Acad Dermatol Venereol.* 2026;40:946–962. 2025-12-16 온라인 선공개. [doi:10.1111/jdv.70249](https://doi.org/10.1111/jdv.70249); [PubMed 공개 초록](https://pubmed.ncbi.nlm.nih.gov/41399325/). 임상·조직학적 평가와 초기 병변의 DIF 검사 원칙 확인.
+10. ASCIA. [Guidelines - Acute Management of Anaphylaxis](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines). 2026 개정. 기도·호흡·순환 이상을 동반한 급성 알레르기 반응의 응급 평가.
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * 이 장에는 개별 약제·용량 또는 약제 급여기준을 제시하지 않음.
-* 질병코드 확인 자료: 「KCD9_251216(6).xlsx」, ‘상병분류기호(전체)’·‘상병분류기호(완전코드)’ 시트. 2026-10-30 대조.
+* 질병코드 확인 자료: 「KCD9_251216(6).xlsx」, '상병분류기호(전체)'·'상병분류기호(완전코드)' 시트. 2026-10-30 대조.
 
-## 환자 안내서
+***
+
+## <mark style="color:blue;">환자 안내서</mark>
 
 * 발진이나 피부 병변이 생기면 시작 시점, 가려움·통증, 최근 새로 사용한 약·화장품 등을 기록해 진료 시 알려 주세요. 약의 이름을 확인할 수 있도록 처방전이나 약 목록을 준비하면 도움이 됩니다.
 * 점이 작아도 새로 생기거나 크기·모양·색이 바뀌고, 다른 점과 유난히 다르거나 반복해서 피가 나면 진료를 받으세요. 손바닥·발바닥과 손발톱의 새로운 변화도 알려 주세요.
-* 숨이 차거나 혀·목이 붓는 경우, 심하게 아픈 발진과 물집·입안 헐음이 함께 생기는 경우, 눌러도 사라지지 않는 붉거나 자주색 반점이 빠르게 퍼지면서 몸 상태가 나빠지는 경우에는 즉시 응급 진료를 받으세요.
+* 다음의 경우에는 즉시 응급 진료를 받으세요.
+  * 숨이 차거나 입술·혀·목이 붓는 경우
+  * 심하게 아픈 발진과 물집·피부 벗겨짐·입안이나 눈의 헐음이 함께 생기는 경우
+  * 눌러도 사라지지 않는 붉거나 자주색 반점이 빠르게 퍼지면서 열이 나거나 몸 상태가 나빠지는 경우
+  * 피부가 붓고 붉어지면서 겉보기보다 훨씬 심하게 아프고 빠르게 번지는 경우
 * 병변 사진은 날짜를 남기고 가능하면 자를 함께 두어 찍으세요. 사진이 있어도 빠르게 악화되는 병변의 진료를 미루지 마세요.

@@ -55,7 +55,7 @@
 
 위 소견은 즉시 안전 확보 및 응급 평가가 필요함. 패혈성 관절염을 건선관절염의 악화로 단정하지 않으며, MTX 과량·매일 복용 시 추가 복용을 중단하고 증상 발생을 기다리지 않음.
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 광범위한 홍반·피부 통증과 농포의 새 발생·급격한 확산; 발열이 없어도 해당  `전신 농포성 건선`
 * 몸 대부분의 피부에 새로 발생한 홍반·박리; 활력징후가 안정적이어도 해당  `홍색피부건선`
@@ -64,7 +64,7 @@
 * DMF 복용 중 새로 진행하는 편측 위약·시야 변화·인지/성격 변화 **(당일)**  `PML 등`
 * Acitretin·MTX 복용 중 임신 확인  `기형유발 약물 노출`
 
-전신 농포성 건선·홍색피부건선은 즉시 당일 피부과 평가를 연결하고, 전신상태가 불안정하면 응급실로 이송함. 중대한 감염·약물독성 의심 시 해당 약제를 보류·중단하고 평가함. 임신 확인 시 acitretin·MTX를 중단하고 담당 전문의와 상담함. 갑작스러운 시력저하·심한 안구통은 지체 없이 응급 안과 평가함. <mark style="color:$info;">[NICE CG153·NG65, 국내 약제 허가사항]</mark>
+전신 농포성 건선·홍색피부건선은 즉시 당일 피부과 평가를 연결하고, 전신상태가 불안정하면 응급실로 이송함. 중대한 감염·약물독성 의심 시 해당 약제를 보류·중단하고 평가함. 임신 확인 시 acitretin·MTX를 중단하고 담당 전문의와 상담함. 갑작스러운 시력저하·심한 안구통은 지체 없이 응급 안과 평가함. <mark style="color:$info;">\[NICE CG153·NG65]</mark>
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -78,7 +78,7 @@
 
 ### <mark style="color:orange;">종류</mark>
 
-<table><thead><tr><th width="130">아형</th><th width="80">빈도</th><th width="240">특징적 소견</th><th>호발 부위 / 비고</th></tr></thead><tbody><tr><td>판형건선<br>(Plaque psoriasis)</td><td>80\~90%</td><td>은백색 인설로 덮인 경계 명확한 홍반성 판(1\~10 ㎝)</td><td>두피, 팔꿈치・무릎(신측부), 요천추부, 손발바닥, 엉덩이 틈새</td></tr><tr><td>역위건선<br>(Inverse psoriasis)</td><td>-</td><td>표면이 매끈한 홍반성 판(비늘 없을 수 있음), 짓무름</td><td>겨드랑이, 사타구니, 유방 아래, 배꼽 (마찰・땀 유발)</td></tr><tr><td>홍색피부건선<br>(Erythrodermic)</td><td>1\~2%</td><td>넓은 범위의 진한 홍반, 체온조절 장애 - <strong>생명 위협</strong></td><td>전신치료 급중단, steroid 금단 등이 유발</td></tr><tr><td>농포성 건선<br>(Pustular)</td><td>-</td><td>비감염성 백색 농포 + 주변 발적; 전신형은 발열·전신증상을 동반할 수 있음; 국소 손발바닥농포증과 구분</td><td>국소(손발) 또는 전신; 전신 steroid의 급격한 감량·중단 등이 유발 가능</td></tr><tr><td>물방울건선<br>(Guttate)</td><td>집단별 차이</td><td>작은(1\~10 ㎜) 둥근 물방울형 구진</td><td>&lt;30세(소아청소년); 몸통・상지・허벅지・두피; 연쇄상구균 인두염 후 호발</td></tr><tr><td>조갑건선<br>(Nail)</td><td>약 절반<br>(평생 경과 중 더 증가)</td><td>pitting, 조갑 박리, 조갑하 과다각화증</td><td>건선관절염과 연관성 높음</td></tr><tr><td>건선관절염<br>(Psoriatic arthritis)</td><td>약 10\~30%<br>(집단별 차이)</td><td>관절통/종창, dactylitis, enthesitis, 염증성 요통</td><td>피부 중증도와 무관하게 발생 가능 - 주기적 선별 필요</td></tr></tbody></table>
+<table><thead><tr><th width="130">아형</th><th width="80">빈도</th><th width="240">특징적 소견</th><th>호발 부위 / 비고</th></tr></thead><tbody><tr><td>판형건선<br>(Plaque psoriasis)</td><td>80\~90%</td><td>은백색 인설로 덮인 경계 명확한 홍반성 판(1\~10 ㎝)</td><td>두피, 팔꿈치・무릎(신측부), 요천추부, 손발바닥, 엉덩이 틈새</td></tr><tr><td>역위건선<br>(Inverse psoriasis)</td><td>-</td><td>표면이 매끈한 홍반성 판(비늘 없을 수 있음), 짓무름</td><td>겨드랑이, 사타구니, 유방 아래, 배꼽 (마찰・땀 유발)</td></tr><tr><td>홍색피부건선<br>(Erythrodermic)</td><td>1\~2%</td><td>넓은 범위의 진한 홍반, 체온조절 장애 - <strong>생명 위협</strong></td><td>전신치료 급중단, steroid 금단 등이 유발</td></tr><tr><td>농포성 건선<br>(Pustular)</td><td>-</td><td>비감염성 백색 농포 + 주변 발적; 전신형은 발열·전신증상을 동반할 수 있음; 국소 손발바닥농포증과 구분</td><td>국소(손발) 또는 전신; 전신 steroid의 급격한 감량·중단 등이 유발 가능</td></tr><tr><td>물방울건선<br>(Guttate)</td><td>집단별 차이</td><td>작은(1\~10 ㎜) 둥근 물방울형 구진</td><td>＜30세(소아청소년); 몸통・상지・허벅지・두피; 연쇄상구균 인두염 후 호발</td></tr><tr><td>조갑건선<br>(Nail)</td><td>약 절반<br>(평생 경과 중 더 증가)</td><td>pitting, 조갑 박리, 조갑하 과다각화증</td><td>건선관절염과 연관성 높음</td></tr><tr><td>건선관절염<br>(Psoriatic arthritis)</td><td>약 10\~30%<br>(집단별 차이)</td><td>관절통/종창, dactylitis, enthesitis, 염증성 요통</td><td>피부 중증도와 무관하게 발생 가능 - 주기적 선별 필요</td></tr></tbody></table>
 
 ### <mark style="color:orange;">판형건선 (Plaque psoriasis, Psoriasis vulgaris)</mark>
 
@@ -116,7 +116,7 @@
 * 부위 : 몸통, 상지, 허벅지, 두피
 * 다른 건선(특히 판형 건선)에 동반될 수 있음
 * 유발 인자 : A군 β용혈성 연쇄상구균(GAS) 감염(예: 인두염 2\~3주 후), 스트레스, 피부 손상, 약물(예: 항말라리아제, β-차단제)
-* 경과 : 상당수는 **수주~수개월 내 자연 관해**하나 일부는 지속되거나 판형건선으로 이행할 수 있음
+* 경과 : 상당수는 **수주\~수개월 내 자연 관해**하나 일부는 지속되거나 판형건선으로 이행할 수 있음
 * 치료 : 보습제·국소 치료를 시행하고, 광범위하거나 지속되는 경우 **NB-UVB**를 고려
 * **활동성 연쇄상구균 인두염 등 세균감염이 확인되면 해당 감염의 표준 적응증에 따라 항생제로 치료**하되, 피부 건선을 호전시키기 위한 목적으로 routine antibiotic을 투여하는 근거는 충분하지 않음
 
@@ -140,10 +140,10 @@
   * KOH/진균검사 : 체부백선, 완선, 조갑백선 등 감별
   * 피부 조직검사 : 임상진단이 불확실하거나 다른 염증성/종양성 피부질환과 감별이 필요한 경우
   * 관절 증상이 있는 경우 : 건선관절염 평가를 위해 필요한 영상검사·혈액검사를 임상상에 따라 시행
-* 건선 중증도는 **BSA/PGA, 병변 위치(특수·고영향 부위), 증상, 기능 장애와 삶의 질(DLQI 등)**을 함께 평가; PASI는 주로 임상시험·전문진료 및 국내 급여 판정에서 활용
+* 건선 중증도는 **BSA/PGA, 병변 위치(특수·고영향 부위), 증상, 기능 장애와 삶의 질(DLQI 등)**을 함께 평가; PASI는 주로 임상시험·전문진료 및 급여 판정에서 활용
   * BSA 추정 : **환자 자신의 손가락을 포함한 손바닥 쪽 손 전체 면적이 체표면적의 약 1%**에 해당; 손바닥만을 1%로 계산하지 않음
 * 건선 환자에서는 연령에 관계없이 비만, 혈압, 당뇨병, 이상지질혈증 등 심혈관·대사 위험인자를 주기적으로 평가
-  * 혈압·체중/BMI는 정기적으로 확인하고, 혈당·지질검사는 연령·위험인자 및 국내 건강검진/관련 지침에 따라 시행; 중증 건선 또는 추가 위험인자가 있으면 더 조기·빈번한 선별을 고려
+  * 혈압·체중/BMI는 정기적으로 확인하고, 혈당·지질검사는 연령·위험인자 및 건강검진/관련 지침에 따라 시행; 중증 건선 또는 추가 위험인자가 있으면 더 조기·빈번한 선별을 고려
 * **건선관절염 선별** : 연 1회 관절통/종창, 아침 강직, dactylitis, enthesitis, 염증성 요통을 확인하며 성인에서는 PEST 등의 간단한 선별도구를 보조적으로 활용할 수 있음(특히 발병 후 첫 10년간 중요)
   * **PEST가 음성이어도** 염증성 요통(axial symptoms), enthesitis 등 임상적으로 의심되는 소견이 있으면 건선관절염을 배제하지 않음
 
@@ -157,36 +157,38 @@
 
 ```mermaid
 flowchart TD
-    Start(["건선 의심"]) --> Danger{"전신 농포·광범위 박리 또는 응급 소견?"}
-    Danger -->|예| Urgent(["당일 전문 평가 · 불안정하면 응급실"])
-    Danger -->|아니오| Diagnosis["임상 진단 · 비전형이면 감별검사"]
-    Diagnosis --> Joint{"건선관절염 의심?"}
-    Joint -->|예| Rheum["류마티스내과 조기 의뢰"]
-    Joint -->|아니오| Extent{"광범위·고영향 부위·국소치료 실패?"}
+    Start["건선 의심"] --> Danger["Red Flags에 해당?"]
+    Danger -- "예" --> Urgent["Red Flags 단계에 따라 즉각 조치 또는 당일~수일 내 평가"]
+    Danger -- "아니오" --> Diagnosis["임상 진단; 비전형이면 감별검사"]
+    Diagnosis --> Joint["건선관절염 의심?"]
+    Joint -- "예" --> Rheum["류마티스내과 조기 의뢰"]
+    Joint -- "아니오" --> Extent["광범위·고영향 부위·국소치료 실패?"]
     Rheum --> Extent
-    Extent -->|예| Derm(["피부과 협진 · 광선·전신치료 평가"])
-    Extent -->|아니오| Local["부위에 맞는 국소치료 · 보습"]
-    Local --> Review["성인 4주 · 소아 2주 재평가"]
-    Review -->|불충분| Derm
-    Review -->|호전| Maintain(["간헐적 유지치료 · 동반질환 추적"])
-    classDef decision fill:#fffde7,stroke:#fff59d
+    Extent -- "예" --> Derm1["피부과 협진; 광선·전신치료 평가"]
+    Extent -- "아니오" --> Local["부위에 맞는 국소치료·보습"]
+    Local --> Review["성인 4주·소아 2주 재평가: 반응 충분?"]
+    Review -- "불충분" --> Derm2["피부과 협진; 광선·전신치료 평가"]
+    Review -- "호전" --> Maintain["간헐적 유지치료·동반질환 추적"]
+
+    classDef question fill:#fff9c4,stroke:#ffe082
     classDef action fill:#e0f7fa,stroke:#b2ebf2
     classDef urgent fill:#fce4ec,stroke:#f8bbd0
-    class Danger,Joint,Extent decision
-    class Diagnosis,Rheum,Local,Review,Derm,Maintain action
+    class Danger,Joint,Extent,Review question
+    class Diagnosis,Rheum,Local,Derm1,Derm2,Maintain action
     class Urgent urgent
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
-
-_고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetasol 등 더 짧은 허가기간 제제는 1~2주 내 먼저 평가하며, 허가기간을 넘겨 사용하지 않음_
+> _판형건선의 외래 치료 접근임. 고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetasol 등 허가기간이 더 짧은 제제는 1\~2주 내 먼저 평가하며 허가기간을 넘겨 사용하지 않음._
 
 <p align="center"><strong>건선 의심 환자의 평가와 판형건선 치료 접근</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. AAD-NPF, NICE CG153; 판형건선의 외래 치료 접근. 전신 농포성 건선·홍색피부건선 의심 시에는 위 Red Flags에 따라 당일 평가</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAD-NPF, NICE CG153)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
+
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -199,15 +201,15 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
   * 적절한 국소 치료에 반응하지 않거나 반복 재발하여 일상생활에 큰 지장을 주는 경우
   * **BSA/PGA, 증상, 기능장애 및 DLQI 등에서 질환 부담이 큰 경우**
 * BSA가 작더라도 특수부위 침범이나 기능장애가 크면 중증도가 낮다고 판단하지 않음
-* **치료 목표와 급여 유지 기준을 구분** : 2026 독일 S3 지침은 유도치료 종료 시 PASI 75를 최소 목표로, PASI 90 또는 절대 PASI ＜2 또는 DLQI ≤1을 바람직한 목표로 제안함. 특수부위 병변·관절 증상·환자 목표를 함께 평가하며, 국내 급여의 PASI 75 유지 조건만으로 충분한 임상 조절을 단정하지 않음 <mark style="color:$info;">[S3/EuroGuiDerm 2026]</mark>
+* **치료 목표와 급여 유지 기준을 구분** : 2026 독일 S3 지침은 유도치료 종료 시 PASI 75를 최소 목표로, PASI 90 또는 절대 PASI ＜2 또는 DLQI ≤1을 바람직한 목표로 제안함. 특수부위 병변·관절 증상·환자 목표를 함께 평가하며, 급여의 PASI 75 유지 조건만으로 충분한 임상 조절을 단정하지 않음 <mark style="color:$info;">\[S3/EuroGuiDerm 2026]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 회피 : 외상, 자극, 일광 화상, 흡연, 음주, 건조, 스트레스, 손에 대한 세제 자극
 * 매일 보습제를 사용하고 미지근한 물로 짧게 목욕; 인설을 억지로 긁어내지 않음
 * 비만 시 체중 감량과 규칙적인 신체활동을 권고; 심혈관 위험인자는 일반 지침에 따라 함께 관리
 * 비타민 D 경구 보충제·건강기능식품이나 글루텐 제한식을 건선의 표준 치료로 일률적으로 권하지 않음; 결핍·셀리악병 등 별도 적응증이 있으면 해당 기준에 따라 치료
-* 손발톱은 짧게 유지하고, 큐티클을 자르거나 밀기·손발톱 밑 찌꺼기 긁어내기·인조손톱 부착 등 외상을 피함. **일반 네일 폴리시를 일률적으로 금지하지는 않으며**, 자극·접촉알레르기가 생기면 중단함 <mark style="color:$info;">[AAD 손발톱 관리, 2026]</mark>
+* 손발톱은 짧게 유지하고, 큐티클을 자르거나 밀기·손발톱 밑 찌꺼기 긁어내기·인조손톱 부착 등 외상을 피함. **일반 네일 폴리시를 일률적으로 금지하지는 않으며**, 자극·접촉알레르기가 생기면 중단함 <mark style="color:$info;">\[AAD]</mark>
 * 일광화상을 피하고 태닝기·임의의 자외선 조사로 치료하지 않음; **의료용 광선치료는 용량을 조절하고 피부 반응을 관찰하면서 시행**
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
@@ -220,10 +222,10 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 
 * 작용 : 항염, 각질형성세포 증식 억제, 면역 억제, 혈관 수축
 * 부위·병변 두께·연령에 맞는 역가와 제형을 선택; 호전 후 간헐적 유지요법 또는 비스테로이드제로 전환
-* **clobetasol propionate 0.05%는 초고역가(Class I; NICE 분류의 very potent) 제제**임. 다른 적절한 국소요법으로 불충분한 성인의 제한된 두꺼운 몸통·사지 병변에서 피부과 치료 계획에 따라 단기간 사용하고 1\~2주 내 재평가함. <mark style="color:blue;">[베타베이트연고]</mark>의 국내 허가는 **2주 이상 연속 치료 또는 주 50 g 이상 사용하지 않으며, 치료면적 BSA 20%를 초과하지 않음**; NICE의 일반적 초강력제 4주 상한을 이 제품의 연속 사용 허가기간으로 적용하지 않음
+* **clobetasol propionate 0.05%는 초고역가(Class I; NICE 분류의 very potent) 제제**임. 다른 적절한 국소요법으로 불충분한 성인의 제한된 두꺼운 몸통·사지 병변에서 피부과 치료 계획에 따라 단기간 사용하고 1\~2주 내 재평가함. <mark style="color:blue;">\[베타베이트연고]</mark>는 **2주를 넘는 연속 치료, 주 50 g 이상 사용, 치료면적 BSA 20% 초과를 피함**; NICE의 일반적 초강력제 4주 상한을 이 제품의 연속 사용 허가기간으로 적용하지 않음
 * 아래 NICE의 강력(potent)·초강력(very potent)은 해당 지침의 분류임. 211장의 미국식 7단계 class와 용어만으로 일대일 대응시키지 않음. NICE 기준으로 초강력제 연속 사용은 최대 4주, 강력제는 최대 8주 이내이며, 제품 허가사항이 더 짧으면 그 기간을 따름; 강력·초강력제 치료 과정 사이에는 가능하면 4주 휴지기를 두고 비스테로이드제로 조절. 피부 위축·혈관확장·선조·부신억제 위험을 평가
 * 얼굴·굴곡부·생식기는 **저역가제를 우선**, 필요시 중간 역가제를 짧게 사용(보통 1\~2주, 반복치료도 한 달 중 최대 1\~2주); 강력·초강력제를 사용하지 않음
-* 소아에서는 초강력제를 피하고 피부과에서 연령·부위·면적에 따라 선택. 베타베이트연고는 **24개월 미만 금기**, 24개월 이상~18세 미만은 투여 비권고임
+* 소아에서는 초강력제를 피하고 피부과에서 연령·부위·면적에 따라 선택. 베타베이트연고는 **24개월 미만 금기**, 24개월 이상\~18세 미만은 투여 비권고임
 * 조갑은 침범 부위에 따라 근위 조갑주름 또는 조갑하 부위에 도포하되 효과 판정에 수개월이 필요; 피부 위축을 살피며 재평가
 * 폐쇄 요법은 흡수·독성을 증가시키므로 제품별 허용 여부를 확인하고 전문의 지시에 따라 제한적으로 시행
 
@@ -232,9 +234,8 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 * 국소 steroid 대체제로 선택. 얼굴, 겹친 부위에 적용; 판형건선에서는 효과 적음
 * 부작용 : 작열감, 가려움, 홍반
 * pimecrolimus 1% <mark style="color:blue;">\[엘리델]</mark>, tacrolimus 0.03%/0.1% <mark style="color:blue;">\[프로토픽]</mark>; 보통 1일 2회 도포
-* **건선에 대한 사용은 국내 허가 외**임. 연령별 제제 선택과 감염 여부를 확인하고 반응에 따라 간헐적 유지요법을 고려; 눈·점막에는 사용하지 않음
-
-* TCI와 보습제의 병용은 성분별로 구분함. Tacrolimus와 같은 부위 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함(☞ [국소 칼시뉴린 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)).
+* **건선에 대한 사용은 허가 외 사용**임. 연령별 제제 선택과 감염 여부를 확인하고 반응에 따라 간헐적 유지요법을 고려; 눈·점막에는 사용하지 않음
+* TCI와 보습제의 병용은 성분별로 구분함. Tacrolimus와 같은 부위 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함 (☞ [Calcineurin 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor))
 
 #### <mark style="color:$primary;">Vit D 유도체</mark>
 
@@ -245,16 +246,15 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
   * 광범위 도포 시 고칼슘혈증을 유발할 수 있으므로 최대 사용량을 제한함
 * calcipotriene(=calcipotriol)
   * **0.005%(50 ㎍/g)**, 성인 1일 1\~2회; <mark style="color:blue;">\[다이보넥스 연고]</mark> 성인 최대 100 g/wk. 다른 calcipotriol 함유 제품을 병용하면 **총 calcipotriol 용량을 합산**하여 **주 5 ㎎을 초과하지 않음**
-  * 해당 국내 제품의 소아 안전성·유효성은 확립되어 있지 않음; 소아 사용은 피부과에서 연령·제품별 허가와 위험·이익을 확인하여 판단
+  * 이 제품의 소아 안전성·유효성은 확립되어 있지 않음; 소아 사용은 피부과에서 연령·제품별 허가와 위험·이익을 확인하여 판단
   * steroid와 병용하면 효과가 좋아지며, 별도 제품은 임의로 섞지 않고 제품별 호환성과 용법에 따라 사용
 * calcipotriol/betamethasone dipropionate 복합제
   * <mark style="color:blue;">\[다이보베트 연고]</mark> : **1일 1회, 권장 치료기간 4주**; 이후 반복 치료는 의사의 감독하에 시행
   * **최대 15 g/d, 100 g/wk, 도포 면적 BSA 30% 이내**; 얼굴·눈가에는 사용하지 않으며 굴곡부·생식기의 일상적 치료제로 선택하지 않음
-  * **엔스틸룸폼**은 국내에서 성인·청소년(12~17세) 판형건선의 국소치료에 허가됨. 1일 1회 4주 치료에 반응한 **성인에 한해**, 이전 병변 부위에 비연속적인 주 2일(3~4일 간격) 유지요법 가능. 1일 최대 15 g·BSA 30% 이내이며 사용 전 흔들고 도포 중 불·담배·화염을 피함
-  * 연고·겔·폼은 허가연령·사용기간·사용량·유지요법이 다름. 폼의 소아청소년 허가나 주 2회 유지요법을 다이보베트연고에 적용하지 않음 <mark style="color:$info;">[국내 레오파마 제품정보]</mark>
-  * **다이보베트 연고의 국내 금기**에는 소아, 물방울·홍피성·박탈성·농포성 건선, 칼슘대사 장애, 중증 신기능부전·중증 간질환, 안면·눈가 등이 포함됨. 성인 판형건선의 용법을 다른 임상형이나 소아에게 확대하지 않음
-* calcitriol, tacalcitol : 국외 치료 옵션에도 포함되는 Vit D 유도체; 국내 사용 시 제품의 현행 허가·유통 확인이 필요
-
+  * <mark style="color:blue;">\[엔스틸룸폼]</mark>은 성인·청소년(12\~17세) 판형건선의 국소치료에 허가됨. 1일 1회 4주 치료에 반응한 **성인에 한해**, 이전 병변 부위에 비연속적인 주 2일(3\~4일 간격) 유지요법 가능. 1일 최대 15 g·BSA 30% 이내이며 사용 전 흔들고 도포 중 불·담배·화염을 피함
+  * 연고·겔·폼은 허가연령·사용기간·사용량·유지요법이 다름. 폼의 소아청소년 허가나 주 2회 유지요법을 다이보베트연고에 적용하지 않음 <mark style="color:$info;">\[제품 허가사항]</mark>
+  * **다이보베트 연고의 금기**에는 소아, 물방울·홍피성·박탈성·농포성 건선, 칼슘대사 장애, 중증 신기능부전·중증 간질환, 안면·눈가 등이 포함됨. 성인 판형건선의 용법을 다른 임상형이나 소아에게 확대하지 않음
+* calcitriol, tacalcitol : 해외 지침의 치료 옵션에 포함되는 Vit D 유도체(해외 약제)
 * **salicylic acid 등 산성 각질 용해제는 calcipotriol을 불안정하게 할 수 있으므로 같은 부위에 동시에 혼합·도포하지 않음**
   * 각질 용해가 필요한 경우 시간 간격을 두어 사용하거나, salicylic acid 샴푸/제제를 사용 후 씻어낸 뒤 calcipotriol을 도포
 
@@ -263,14 +263,14 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 * 작용 : 각질 세포 증식 억제
 * 효과 : 국소 steroid와 병용하면 효과와 내약성이 좋아질 수 있음
 * 부작용 : 자극감, 광과민
-* tazarotene : cream/gel 0.05\~0.1% qd로 사용되는 국외 치료 옵션; **임신 중 금기**, 임신 가능성이 있는 여성은 임신 여부·피임을 확인. 국내 처방 시 제품 허가·유통 확인
+* tazarotene : cream/gel 0.05\~0.1% qd로 사용되는 해외 약제; **임신 중 금기**, 임신 가능성이 있는 여성은 임신 여부·피임을 확인
 * 국소 tretinoin 등 다른 retinoid를 건선의 표준 치료제로 대체하지 않음
 
-#### <mark style="color:$primary;">새로운 비스테로이드 국소제 - 국외 허가 참고</mark>
+#### <mark style="color:$primary;">새로운 비스테로이드 국소제 - 해외 약제</mark>
 
-* **tapinarof 1% cream** <mark style="color:blue;">[VTAMA, 미국]</mark> : AhR 작용제, 성인 판형건선에 1일 1회 도포. 모낭염·접촉피부염·국소 자극 등에 주의; 아토피피부염의 소아 허가연령을 건선에 적용하지 않음
-* **roflumilast 0.3% cream** <mark style="color:blue;">[ZORYVE, 미국]</mark> : PDE-4 억제제, 굴곡부를 포함한 판형건선에 1일 1회 도포. 미국은 2026년 6월 **≥2세**로 확대되었으며 중등도~중증 간장애(Child-Pugh B/C)는 금기. 아토피피부염용 0.15%·0.05% 크림 및 다른 적응증·제형과 구분함
-* 위 내용은 미국 허가 기준의 참고 정보이며 국내 처방례에는 포함하지 않음 <mark style="color:$info;">[VTAMA·ZORYVE 미국 허가사항]</mark>
+* **tapinarof 1% cream** <mark style="color:blue;">\[VTAMA, 미국]</mark> : AhR 작용제, 성인 판형건선에 1일 1회 도포. 모낭염·접촉피부염·국소 자극 등에 주의; 아토피피부염의 소아 허가연령을 건선에 적용하지 않음
+* **roflumilast 0.3% cream** <mark style="color:blue;">\[ZORYVE, 미국]</mark> : PDE-4 억제제, 굴곡부를 포함한 판형건선에 1일 1회 도포. 미국은 2026년 6월 **≥2세**로 확대되었으며 중등도\~중증 간장애(Child-Pugh B/C)는 금기. 아토피피부염용 0.15%·0.05% 크림 및 다른 적응증·제형과 구분함
+* 위 내용은 미국 허가 기준의 참고 정보이며 처방례에는 포함하지 않음 <mark style="color:$info;">\[FDA 허가사항]</mark>
 
 #### <mark style="color:$primary;">각질 용해제</mark>
 
@@ -288,7 +288,7 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 
 * 광범위 건선, 특수부위 중증 침범, 국소치료 실패 또는 삶의 질/기능장애가 큰 경우 **피부과에서 광선치료 또는 전신치료를 고려**
 * 건선관절염이 의심되거나 확인된 경우 **류마티스내과 조기 의뢰**
-* **Systemic corticosteroid는 건선 자체의 통상적 전신치료로 권장하지 않음.** 사용·감량 뒤 농포성/홍색피부건선 악화가 보고되었으나, 관찰연구에서는 중증 악화가 드물었음. 다른 질환에 꼭 필요한 전신 steroid까지 건선 병력만으로 일률적 금기로 간주하지 않으며, 적응증·용량·기간·감량 계획을 개별 결정함; 환자가 갑자기 중단하지 않도록 교육 <mark style="color:$info;">[Gregoire 등, JAMA Dermatol 2021]</mark>
+* **Systemic corticosteroid는 건선 자체의 통상적 전신치료로 권장하지 않음.** 사용·감량 뒤 농포성/홍색피부건선 악화가 보고되었으나, 관찰연구에서는 중증 악화가 드물었음. 다른 질환에 꼭 필요한 전신 steroid까지 건선 병력만으로 일률적 금기로 간주하지 않으며, 적응증·용량·기간·감량 계획을 개별 결정함; 환자가 갑자기 중단하지 않도록 교육 <mark style="color:$info;">\[JAMA Dermatol 2021]</mark>
 * 전신 면역조절치료 시작 전 **예방접종력과 감염 위험**을 확인
   * 불활성화·재조합 백신(예: influenza, COVID-19, recombinant zoster vaccine)은 일반적으로 투여 가능
   * **생백신(live attenuated vaccine)은 면역억제 정도와 약제에 따라 치료 중 피해야 하며**, 필요한 경우 약제별 반감기·지침에 따라 치료 시작 전 또는 일시 중단 기간을 조정하여 접종
@@ -304,21 +304,21 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
    * BSA는 작더라도 **기능장애 또는 심한 고통을 초래하는 국소 중증 건선**(예: 손발톱의 심한 침범, high-impact/difficult-to-treat site)
    * **광선치료가 효과적이지 않거나 사용할 수 없거나 적합하지 않은 경우**
 
-✽ **PASI는 임상시험·전문진료 및 치료반응 평가에서 널리 사용되고 국내 급여 판정에서도 중요한 지표**이나, 일차진료에서 전신치료 후보를 가르는 단독 필수 문턱값으로 사용하지 않음.
+✽ **PASI는 임상시험·전문진료 및 치료반응 평가에서 널리 사용되고 급여 판정에서도 중요한 지표**이나, 일차진료에서 전신치료 후보를 가르는 단독 필수 문턱값으로 사용하지 않음.
 
 {% hint style="info" %}
-전신치료·생물학적 제제의 **임상적 치료 적응증, 국내 허가 적응증, HIRA 급여 조건은 각각 다름**. 광범위 병변의 BSA·PASI 기준에 미달해도 특수부위·기능장애 때문에 치료가 필요할 수 있으며, 이것이 자동으로 급여를 의미하지는 않음
+전신치료·생물학적 제제의 **임상적 치료 적응증, 허가 적응증, HIRA 급여 조건은 각각 다름**. 광범위 병변의 BSA·PASI 기준에 미달해도 특수부위·기능장애 때문에 치료가 필요할 수 있으며, 이것이 자동으로 급여를 의미하지는 않음
 {% endhint %}
 
 #### <mark style="color:$primary;">비생물학적 제제</mark>
 
 * 종류 : methotrexate, apremilast, acitretin, cyclosporine, dimethyl fumarate
 * **methotrexate**
-  * 중등증~중증 판형건선 및 건선관절염에서 사용할 수 있는 전신치료제
-  * 성인에서 보통 **주 1회** 투여하며 용량은 반응·내약성에 따라 조절(일반적으로 7.5~25 ㎎/wk 범위)
+  * 중등증\~중증 판형건선 및 건선관절염에서 사용할 수 있는 전신치료제
+  * 성인에서 보통 **주 1회** 투여하며 용량은 반응·내약성에 따라 조절(일반적으로 7.5\~25 ㎎/wk 범위)
   * 매일 복용하는 약이 아님을 명확히 교육
   * folic acid 병용(예: **MTX 투여 24시간 후 5 ㎎ 주 1회**); 기관별 요법과 환자의 위험에 따라 조절
-  * 투약 전 수치에 더하여 **시작 약 2주 이내 CBC**, 초기 2개월 동안 약 4주 간격 CBC·간효소·신기능, 안정 후 약 3개월 간격 추적을 참고함. 증량·신기능 변화·고령·간질환 등에서는 더 빈번하게 확인 <mark style="color:$info;">[EuroGuiDerm MTX, 2025]</mark>
+  * 투약 전 수치에 더하여 **시작 약 2주 이내 CBC**, 초기 2개월 동안 약 4주 간격 CBC·간효소·신기능, 안정 후 약 3개월 간격 추적을 참고함. 증량·신기능 변화·고령·간질환 등에서는 더 빈번하게 확인 <mark style="color:$info;">\[EuroGuiDerm 2025]</mark>
   * **임신·수유 중 금기**; 남녀 모두 임신 계획과 피임을 상담하고 중단 후 피임기간은 해당 제품 허가사항을 따름
   * 시작 전 및 치료 중 CBC, AST/ALT, 신기능을 확인하고 임신 가능성, 음주, 비만/당뇨 및 기저 간질환 등 간독성 위험 평가
   * HBV/HCV 등 감염 선별을 치료 계획에 따라 시행; 간독성 위험이 크면 비침습적 간섬유화 평가를 고려
@@ -329,32 +329,31 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
   * 보통 2.5\~5 ㎎/㎏/d를 **2회 분복**; 혈압·신기능, 전해질과 약물상호작용을 면밀히 확인
   * 조절되지 않는 고혈압·신기능 저하에서는 피함; **PUVA/UVB와의 병용은 피부암 위험 때문에 피함**
   * 신독성·고혈압 등의 누적 독성 때문에 **장기 연속치료보다는 단기간/간헐적 사용을 선호**
-  * 혈압·혈청 크레아티닌은 시작 전 기준값을 확보하고, 시작·증량 후 초기에는 약 2주 간격, 안정 후에는 대개 1~3개월 간격으로 확인. **크레아티닌이 기저치보다 30% 넘게 증가하거나 혈압이 조절되지 않으면** 신속히 재검·감량/보류·중단 여부를 전문의와 결정
+  * 혈압·혈청 크레아티닌은 시작 전 기준값을 확보하고, 시작·증량 후 초기에는 약 2주 간격, 안정 후에는 대개 1\~3개월 간격으로 확인. **크레아티닌이 기저치보다 30% 넘게 증가하거나 혈압이 조절되지 않으면** 신속히 재검·감량/보류·중단 여부를 전문의와 결정
   * 치료 종료 시 재발이 흔하므로 후속 유지치료 계획을 세움. **감량(tapering)은 재발을 약간 지연시키기 위해 고려할 수 있으나 반드시 필요한 중단 원칙은 아님**
 * **acitretin** <mark style="color:blue;">\[네오티가손]</mark>
-  * 여러 치료에 불응하는 중증 판형건선·농포성 건선 등 국내 적응증에서 사용할 수 있으며 광선치료와 병용 가능. **건선관절염의 질병조절 효과를 기대하는 약은 아님**
-  * 국내 성인 용법 예 : 초기 25~30 ㎎/d ×2~4주, 이후 반응·내약성에 따라 통상 25~50 ㎎/d로 조절; 식사 또는 우유와 함께 복용. 필요 시 최대 75 ㎎/d이지만 고령·동반질환에서는 더 낮은 용량부터 개별 결정
+  * 여러 치료에 불응하는 중증 판형건선·농포성 건선 등 허가 적응증에서 사용할 수 있으며 광선치료와 병용 가능. **건선관절염의 질병조절 효과를 기대하는 약은 아님**
+  * 성인 용법 예 : 초기 25\~30 ㎎/d ×2\~4주, 이후 반응·내약성에 따라 통상 25\~50 ㎎/d로 조절; 식사 또는 우유와 함께 복용. 필요시 최대 75 ㎎/d이지만 고령·동반질환에서는 더 낮은 용량부터 개별 결정
   * **강한 기형유발성**이 있으므로 임신 중에는 금기
   * 임신 가능성이 있는 여성에서는 **치료 1개월 전부터 치료 중 및 복용 중단 후 최소 3년간 효과적인 피임**이 필요함
   * **임신 가능성이 있는 여성은 치료 중 및 중단 후 2개월간 에탄올 함유 음료·식품·약물을 피함**(etretinate 전환 및 장기 잔류 위험); 모든 환자에게 음주 제한을 교육
   * 간기능·공복 지질을 치료 전후 확인; MTX 또는 tetracycline계와 병용하지 않음
   * 치료 중 및 중단 후 **3년간 헌혈 금지**
-  * **임신예방프로그램(PPP)**에 따른 임신검사·피임 교육·처방 및 조제 절차가 필요하며 피임 기간 안내만으로 대체하지 않음. 신·간장애 및 혈중 지질치가 과도하게 높은 경우 등 국내 금기를 확인하고 사용함
+  * **임신예방프로그램(PPP)**에 따른 임신검사·피임 교육·처방 및 조제 절차가 필요하며 피임 기간 안내만으로 대체하지 않음. 신·간장애 및 혈중 지질치가 과도하게 높은 경우 등 금기를 확인하고 사용함
 * **apremilast**
   * 경구 PDE-4 억제제 <mark style="color:blue;">\[오테리아 등]</mark>; 중등증\~중증 판형건선 및 건선관절염에서 사용
   * 성인은 **10 ㎎ qAM으로 시작하여 5일간 단계적으로 증량, 6일째부터 30 ㎎ bid**; 증량표는 제품 허가사항을 따름
-  * 국내 오테리아 허가사항상 **CrCl ≤30 mL/min이면 유지용량 30 ㎎ qd**로 감량하고 초기 증량은 **정상 증량표의 오전 용량만 투여하고 오후 용량은 생략**; 치료 전 신기능 확인
+  * <mark style="color:blue;">\[오테리아]</mark>는 **중증 신장애(CrCl ＜30 ㎖/min)에서 유지용량 30 ㎎ qd**로 감량하고 초기 증량은 **정상 증량표의 오전 용량만 투여하고 오후 용량은 생략**; 치료 전 신기능 확인
   * 설사·구역, 체중감소, 우울·자살사고를 확인; rifampin 등 강한 효소유도제 병용을 피함
-  * **임신·수유 중 금기**; 임신 계획과 피임을 확인
-* **dimethyl fumarate** <mark style="color:blue;">\[스킬라렌스 장용정]</mark>
+* **dimethyl fumarate** <mark style="color:blue;">\[스킬라렌스]</mark>
   * 전신치료가 필요한 성인의 중등증\~중증 판형건선에 사용하는 경구 치료제
   * 30 ㎎ qd로 시작하여 매주 단계적으로 증량; 반응·내약성에 따라 조절하며 최대 240 ㎎ tid(720 ㎎/d). 식사 중 또는 직후 통째로 복용
-  * 국내 허가상 **치료 전 및 매 3개월 CBC·감별계산, 간·신기능을 확인**. WBC ＜3,000/㎕ 또는 림프구 ＜1,000/㎕이면 시작하지 않음; 치료 중 림프구 700~＜1,000/㎕이면 매월 검사하고, ＜700/㎕이면 재검하여 확인 시 즉시 중단. WBC ＜3,000/㎕도 중단 기준임
+  * **치료 전 및 매 3개월 CBC·감별계산, 간·신기능을 확인**. WBC ＜3,000/㎕ 또는 림프구 ＜1,000/㎕이면 시작하지 않음; 치료 중 림프구 700\~＜1,000/㎕이면 매월 검사하고, ＜700/㎕이면 재검하여 확인 시 즉시 중단. WBC ＜3,000/㎕도 중단 기준임
   * 홍조·위장관 이상과 지속적 림프구 감소에 따른 기회감염/PML 위험에 주의; 다른 dimethyl fumarate 함유 약과 혼동하지 않음
-  * **현행 국내 허가사항에 중대한 위장관 천공·궤양·폐색·출혈 및 약물유래간손상이 포함됨**(간손상은 2026-09-09 반영). 특히 시작 후 6개월 이내 심한/지속적인 복통·혈변·흑색변·토혈, 또는 황달·진한 소변 등이 생기면 즉시 중단하고 평가; 출혈·복막자극·순환불안정 소견은 응급 평가
+  * **허가사항에 중대한 위장관 천공·궤양·폐색·출혈 및 약물유래간손상이 포함됨**(간손상은 2026-09-09 반영). 특히 시작 후 6개월 이내 심한/지속적인 복통·혈변·흑색변·토혈, 또는 황달·진한 소변 등이 생기면 즉시 중단하고 평가; 출혈·복막자극·순환불안정 소견은 응급 평가
   * 신기능 검사에 소변검사를 포함. **정상 크레아티닌/eGFR이어도 판코니증후군이 가능**하므로 정상 혈당의 당뇨·단백뇨·저인산혈증·근위부 근력저하가 있으면 평가. 심한 설사 시 경구피임약 흡수 저하를 고려하여 차단 피임법 추가
   * 새로 진행하는 편측 위약·시야 변화·인지/성격 변화가 있으면 PML을 의심하여 즉시 약을 중단하고 신경학적 평가; 갑자기 발생한 신경학적 결손은 뇌졸중 등 응급질환도 감별함
-  * 임신·수유, 중증 간·신장애 및 중증 위장관질환에서는 금기; 임신 가능성이 있으면 피임 상담
+  * 중증 간·신장애 및 중증 위장관질환에서는 금기
 
 #### <mark style="color:$primary;">경구 표적 치료제 - TYK2 억제제</mark>
 
@@ -362,36 +361,36 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
   * 경구 선택적·알로스테릭 TYK2(tyrosine kinase 2) 억제제; TYK2는 JAK family에 속하나 JAK1/2/3 억제제와 선택성이 구분됨
   * **검사·감염 감시가 필요 없는 약은 아님**. 시작 전 결핵·바이러스간염·예방접종 상태를 확인하고 **잠복결핵이면 예방치료를 시작한 뒤** 투여; 활동성 중증 감염에서는 투여를 피함; 생백신과 병용하지 않음
   * 중성지방을 주기적으로 확인하고, 간질환이 있거나 의심되면 간효소를 치료 전후 확인. 근육통·근력저하·갈색뇨 발생 시 CPK/횡문근융해를 평가하고 **근병증 의심·확진 또는 현저한 CPK 상승 시 중단**함
-  * EuroGuiDerm 2025는 기저 CBC·간효소·CPK·신기능/지질 등을 확인하고, 치료 중 CBC·간효소를 대략 3~6개월마다 추적하는 전문가 권고를 제시함. 이는 제품설명서보다 넓은 검사 제안이므로 환자의 위험도·증상·기저 검사에 따라 조정함 <mark style="color:$info;">[EuroGuiDerm 2025]</mark>
-  * 활동성 결핵·중대한 감염은 국내 금기이며 중대한 감염 발생 시 감염이 조절될 때까지 중단함. 중증 간장애(Child-Pugh C)에서는 비권고; 신장애·투석으로 인한 용량 조절은 불필요
-  * PsA에서 허가된 비생물학적 DMARD 병용과 그 밖의 강력 면역억제제 임의 병용을 구분함. 임신 자료가 부족하므로 대안을 검토하며, **2026년 국내 설명서에는 사람 모유에서 약물·활성대사체 검출 자료가 추가됨**. 수유아 영향 자료가 부족하므로 수유 중 단순히 안전하다고 설명하지 않고 치료·수유 지속 여부를 개별 결정
+  * EuroGuiDerm 2025는 기저 CBC·간효소·CPK·신기능/지질 등을 확인하고, 치료 중 CBC·간효소를 대략 3\~6개월마다 추적하는 전문가 권고를 제시함. 이는 제품설명서보다 넓은 검사 제안이므로 환자의 위험도·증상·기저 검사에 따라 조정함 <mark style="color:$info;">[EuroGuiDerm 2025]</mark>
+  * 활동성 결핵·중대한 감염은 금기이며 중대한 감염 발생 시 감염이 조절될 때까지 중단함. 중증 간장애(Child-Pugh C)에서는 비권고; 신장애·투석으로 인한 용량 조절은 불필요
+  * PsA에서 허가된 비생물학적 DMARD 병용과 그 밖의 강력 면역억제제 임의 병용을 구분함. 임신 자료가 부족하므로 대안을 검토하며, **2026년 제품설명서에는 사람 모유에서 약물·활성대사체 검출 자료가 추가됨**. 수유아 영향 자료가 부족하므로 수유 중 단순히 안전하다고 설명하지 않고 치료·수유 지속 여부를 개별 결정
   * TYK2 선택성이 다르다는 이유로 **JAK 억제제 관련 잠재적 심혈관·혈전·악성종양 위험이 완전히 배제되었다고 설명하지 않음**; 장기 안전성 평가가 필요함
-  * 중등증~중증 판형건선에서 전신치료 또는 광선치료가 필요한 성인 대상
-  * **6 ㎎ qd**, 음식과 무관하게 복용; 국내 2023년 8월 허가, 2024년 4월 급여 적용
+  * 중등증\~중증 판형건선에서 전신치료 또는 광선치료가 필요한 성인 대상
+  * **6 ㎎ qd**, 음식과 무관하게 복용; 2023년 8월 허가, 2024년 4월 급여 적용
   * **판상건선 급여** : ≥18세, ≥6개월 지속된 만성 중증 판상건선으로 **BSA ≥10% 및 PASI ≥10**을 모두 충족하고, ① MTX 또는 cyclosporine ≥3개월 치료 실패/부작용 등으로 지속 불가, 또는 ② PUVA 또는 UVB ≥3개월 치료 실패/부작용 등으로 지속 불가에 해당해야 함. **PUVA·UVB가 모두 금기이면 ①의 선행 약물치료 요건을 충족해야 함**
     * MTX·cyclosporine의 부작용이 예상되거나 발생하여 지속 불가한 환자에서 사용한 DMF도 고시상 선행치료에 포함; 예상 부작용의 의학적 판단 근거를 진료기록에 남김
-    * **16~24주 후 기저 PASI 대비 ≥75% 감소**하면 추가 6개월 인정; 이후 매 6개월 반응 유지 여부 평가. 고시 열거 약제에서 효과 부족·부작용으로 교체할 때는 투여소견서를 첨부하며 교체 약제는 최소 6개월 유지를 권고
-    * 1회 처방은 원칙적으로 최대 30일분; 최초 투약 24주 이후 질병활동도가 안정되고 부작용이 없으면 최대 60~90일분 인정. 「TNF-α inhibitor 사용시 잠복결핵 치료지침」 적용 <mark style="color:$info;">[HIRA 제2025-88호, 2025-06-01 시행; 사용자 제공 고시 재대조 2026-10-30]</mark>
-  * **국내에도 PsA 적응증이 추가됨** : 이전 DMARD에 적절히 반응하지 않거나 내약성이 없는 성인의 활동성 건선성 관절염 치료에 단독 또는 비생물학적 DMARD와 병용 가능. 판상건선의 급여 기준을 PsA에 그대로 적용하지 않음. **PsA 허가 적응증은 확인됨. 사용자 제공 HIRA 제2025-88호의 투여대상은 만성 중증 판상건선이며, 이 고시에 PsA 급여 항목은 없음**. PsA 급여 여부는 해당 적응증의 별도 시행 고시와 구분하여 판단 <mark style="color:$info;">[소틱투 국내 제품설명서, 2026-07-29 개정; 약학정보원 재확인 2026-10-30]</mark>
+    * **16\~24주 후 기저 PASI 대비 ≥75% 감소**하면 추가 6개월 인정; 이후 매 6개월 반응 유지 여부 평가. 고시 열거 약제에서 효과 부족·부작용으로 교체할 때는 투여소견서를 첨부하며 교체 약제는 최소 6개월 유지를 권고
+    * 1회 처방은 원칙적으로 최대 30일분; 최초 투약 24주 이후 질병활동도가 안정되고 부작용이 없으면 최대 60\~90일분 인정. 「TNF-α inhibitor 사용시 잠복결핵 치료지침」 적용 <mark style="color:$info;">\[HIRA 고시 제2025-88호]</mark>
+  * **PsA 적응증 추가** : 이전 DMARD에 적절히 반응하지 않거나 내약성이 없는 성인의 활동성 건선성 관절염 치료에 단독 또는 비생물학적 DMARD와 병용 가능. 판상건선의 급여 기준을 PsA에 그대로 적용하지 않음. **HIRA 고시 제2025-88호의 투여대상은 만성 중증 판상건선이며, 이 고시에 PsA 급여 항목은 없음**. PsA 급여 여부는 해당 적응증의 별도 시행 고시와 구분하여 판단 <mark style="color:$info;">\[소틱투 제품설명서 2026]</mark>
 
-#### <mark style="color:$primary;">경구 IL-23 수용체 길항제 - 국외 허가 참고</mark>
+#### <mark style="color:$primary;">경구 IL-23 수용체 길항제 - 해외 약제</mark>
 
-* **icotrokinra** <mark style="color:blue;">[ICOTYDE, 미국]</mark> : IL-23 수용체를 표적하는 경구 펩타이드; 주사형 항-IL-23 단클론항체 또는 TYK2 억제제와 기전·제형이 다름
-* 미국 FDA가 2026년 전신치료/광선치료 대상의 중등도~중증 판형건선에 승인함; **성인·청소년(≥12세, 체중 ≥40 ㎏)**이 대상
+* **icotrokinra** <mark style="color:blue;">\[ICOTYDE, 미국]</mark> : IL-23 수용체를 표적하는 경구 펩타이드; 주사형 항-IL-23 단클론항체 또는 TYK2 억제제와 기전·제형이 다름
+* 미국 FDA가 2026년 전신치료/광선치료 대상의 중등도\~중증 판형건선에 승인함; **성인·청소년(≥12세, 체중 ≥40 ㎏)**이 대상
 * 미국 허가 용법은 **200 ㎎ qd**, 기상 후 공복에 물과 함께 복용하고 식사까지 최소 30분 기다림. 감염·예방접종 상태를 평가하며 생백신은 피함; eGFR ＜60 ㎖/min이면 이상반응 감시 강화
-* 국외 허가의 새로운 선택지로 소개하며 국내 처방례·급여 약제 목록에는 포함하지 않음 <mark style="color:$info;">[FDA ICOTYDE 허가사항 2026]</mark>
+* 해외 허가의 새로운 선택지로 소개하며 처방례에는 포함하지 않음 <mark style="color:$info;">\[FDA 2026]</mark>
 
 #### <mark style="color:$primary;">생물학적 제제</mark>
 
-* 중등증~중증 건선 또는 건선관절염의 중요한 **장기 질병조절 치료**이며, 단기 구제치료로 한정하지 않음
+* 중등증\~중증 건선 또는 건선관절염의 중요한 **장기 질병조절 치료**이며, 단기 구제치료로 한정하지 않음
 * 적응증, 동반질환, 감염 위험, 임신 계획, 이전 치료 반응 등을 고려하여 피부과/류마티스내과에서 선택
 * 투여 전 결핵·B형간염 등 필요한 감염 선별과 예방접종 상태를 확인하며, 생백신은 약제별 지침에 따라 피하거나 투여 시점을 조정
-* 국내 판형건선 치료에 사용하는 대표 제제(연령·PsA 등 적응증은 제품별 확인)
+* 판형건선 치료에 사용하는 대표 제제(연령·PsA 등 적응증은 제품별 확인)
   * Anti–TNF-α : etanercept <mark style="color:blue;">\[엔브렐 등]</mark>, adalimumab <mark style="color:blue;">\[휴미라 등]</mark>, infliximab <mark style="color:blue;">\[레미케이드 등]</mark>
   * Anti–IL-17 : secukinumab <mark style="color:blue;">\[코센틱스]</mark>, ixekizumab <mark style="color:blue;">\[탈츠]</mark>, bimekizumab <mark style="color:blue;">\[빔젤릭스]</mark>(IL-17A/F 이중 억제)
   * Anti–IL-12/23 : ustekinumab <mark style="color:blue;">\[스텔라라 등]</mark>
   * Anti–IL-23 : guselkumab <mark style="color:blue;">\[트렘피어]</mark>, risankizumab <mark style="color:blue;">\[스카이리치]</mark>
-* certolizumab pegol, brodalumab, tildrakizumab 등은 국외 건선 치료 옵션에도 포함되나 **국내 건선 허가·급여를 위 대표 제제와 동일하게 간주하지 않음**
+* certolizumab pegol, brodalumab, tildrakizumab 등은 해외 건선 치료 옵션에도 포함되나 **국내 건선 허가·급여를 위 대표 제제와 동일하게 간주하지 않음**
 * **동반질환에 따라 계열 선택이 달라짐**
   * 활동성 염증성 장질환이 있으면 IL-17 억제제를 피하거나 신중히 선택; 해당 장질환에도 적응증이 있는 약제를 고려
   * TNF 억제제는 중등도\~중증 심부전·탈수초질환에서 피하거나 신중히 선택
@@ -399,17 +398,17 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 
 #### <mark style="color:$primary;">전신 농포성 건선의 표적치료</mark>
 
-* **spesolimab** <mark style="color:blue;">\[스페비고주]</mark> : IL-36 수용체 억제제; 국내에서는 **성인 전신 농포성 건선의 급격한 악화 치료**로 허가됨
+* **spesolimab** <mark style="color:blue;">\[스페비고주]</mark> : IL-36 수용체 억제제; **성인 전신 농포성 건선의 급격한 악화 치료**로 허가됨
 * 당일 전문 평가·입원 필요성을 판단하고 수액·전해질·감염 평가 등과 함께 피부과에서 치료제를 선택; 일반 판형건선의 생물학적 제제 목록과 구분
-* 국외의 예방 유지요법·소아 적응증을 국내 정맥주사 제제의 허가사항으로 확대 적용하지 않음
+* 해외의 예방 유지요법·소아 적응증을 이 정맥주사 제제의 허가사항으로 확대 적용하지 않음
 * 결핵·활동성 감염을 평가하고, **아나필락시스·DRESS 등 중증 과민반응**에 대비. 생백신은 투여 전 최소 4주 간격을 두고, 투여 중 및 투여 후 최소 16주간 피함
 
 ### <mark style="color:orange;">임신 계획·임신·수유 시 치료</mark>
 
-* 임신 계획은 **약을 시작하기 전** 확인. 임신 중에는 보습과 필요한 부위의 저~중간 역가 국소 steroid를 최소 유효량·기간으로 사용하고, 광범위하거나 불충분하면 **NB-UVB**를 고려; 엽산 섭취·보충 상태를 확인
-* MTX·acitretin·tazarotene은 임신 중 금기. Apremilast·건선용 DMF도 임신·수유 중 사용하지 않음; 중단 후 피임기간은 성별·품목별 국내 허가에 따름
+* 임신 계획은 **약을 시작하기 전** 확인. 임신 중에는 보습과 필요한 부위의 저\~중간 역가 국소 steroid를 최소 유효량·기간으로 사용하고, 광범위하거나 불충분하면 **NB-UVB**를 고려; 엽산 섭취·보충 상태를 확인
+* MTX·acitretin·tazarotene은 임신 중 금기. Apremilast·건선용 DMF도 임신·수유 중 사용하지 않음; 중단 후 피임기간은 성별·품목별 허가사항에 따름
 * 전신치료가 꼭 필요한 임신부는 피부과·산부인과 협진으로 cyclosporine 또는 임신 자료가 축적된 특정 생물학적 제제의 위험·이익을 검토. Cyclosporine의 임신 중 선택 가능성을 수유 중 안전성으로 확대하지 않음
-* 수유 중에는 NB-UVB 등 대안을 검토하고, 외용제를 유두·유륜에 임의로 바르거나 영아가 도포 부위에 직접 접촉하지 않도록 함. 임신 후기 생물학적 제제 노출 시 **출생 후 영아의 생백신(BCG·로타바이러스 등) 시점**을 소아과와 별도 결정 <mark style="color:$info;">[EuroGuiDerm 임신 2025, AAD]</mark>
+* 수유 중에는 NB-UVB 등 대안을 검토하고, 외용제를 유두·유륜에 임의로 바르거나 영아가 도포 부위에 직접 접촉하지 않도록 함. 임신 후기 생물학적 제제 노출 시 **출생 후 영아의 생백신(BCG·로타바이러스 등) 시점**을 소아과와 별도 결정 <mark style="color:$info;">\[EuroGuiDerm 2025, AAD]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -417,7 +416,7 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 
 * 작용 : 면역 조절, 각질형성세포 증식 억제
 * **NB-UVB(narrowband UVB)**가 판형·물방울건선에서 대표적으로 사용되는 광선치료이며, 국소 치료로 조절되지 않거나 광범위한 경우 피부과에서 고려
-* 보통 주 2\~3회 반복 치료가 필요하며 치료 반응에 따라 수주~수개월 시행
+* 보통 주 2\~3회 반복 치료가 필요하며 치료 반응에 따라 수주\~수개월 시행
 * 장점 : 전신 약물 노출을 피할 수 있고 광범위 병변에도 적용 가능
 * 단점 : 반복적인 내원 필요, 홍반·화상·광노화가 발생할 수 있으며 누적 자외선 노출을 고려해야 함
 * PUVA는 선택된 환자에서 고려할 수 있으나 psoralen 관련 부작용 및 장기 광독성/피부암 위험 등을 고려하여 전문진료 영역에서 시행
@@ -437,7 +436,7 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 * 병변 특징 : patchy, 비듬, hairline을 넘어 확장(목덜미에서 관찰됨)
 * 치료
   * 필요시 각질 용해제 또는 코코넛 기름으로 비늘 제거(비늘이 얇아질 때까지 지속)
-  * 두피에 적합한 로션·액·겔 등의 국소 steroid를 중증도에 맞추어 단기간 사용하고 일반적으로 4주에 반응을 평가함. **Clobetasol 액제 등 국내 허가기간이 더 짧은 제품은 1\~2주 내 먼저 평가하며, 4주간 연속 도포하지 않음**. 연령·제형별 허가를 우선 확인함
+  * 두피에 적합한 로션·액·겔 등의 국소 steroid를 중증도에 맞추어 단기간 사용하고 일반적으로 4주에 반응을 평가함. **Clobetasol 액제 등 허가기간이 더 짧은 제품은 1\~2주 내 먼저 평가하며, 4주간 연속 도포하지 않음**. 연령·제형별 허가를 우선 확인함
   * calcipotriol/betamethasone 두피용 제제를 대안으로 고려; 귀뒤·이마·얼굴에는 강력제를 묻히지 않음
   * 호전 후 간헐적 도포 등 유지 전략을 개별화; 타르 샴푸는 인설 조절 보조제로 사용 가능
 
@@ -480,40 +479,26 @@ _고영향 부위: 얼굴, 두피, 손발바닥, 생식기, 조갑 등. Clobetas
 
 * 병변 특징 : inflammatory polyarthritis, spondyloarthritis, synovitis, dactylitis, tendinitis
 * 치료 : **류마티스내과 조기 의뢰**; 피부 병변 호전만으로 관절염이 치료되었다고 판단하지 않음. 단기 진통·소염치료만으로 질병조절 치료를 지연하지 않음
-* 말초 관절염·축성 질환·부착부염 등 침범 양상에 따라 치료가 다름. **MTX 등 기존 합성 DMARD는 축성 증상 치료에 적합하지 않으며**, 피부 개선 효과만으로 약제를 선택하지 않음 <mark style="color:$info;">[EULAR PsA 2023 update, 2024 발표]</mark>
+* 말초 관절염·축성 질환·부착부염 등 침범 양상에 따라 치료가 다름. **MTX 등 기존 합성 DMARD는 축성 증상 치료에 적합하지 않으며**, 피부 개선 효과만으로 약제를 선택하지 않음 <mark style="color:$info;">\[EULAR 2023]</mark>
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
-L40.0　보통건선　Psoriasis vulgaris
+* L40.0 보통건선 Psoriasis vulgaris
+  * L40.00 중증 보통건선 Severe psoriasis vulgaris
+  * L40.01 중등증 보통건선 Moderate psoriasis vulgaris
+  * L40.02 경증 보통건선 Mild psoriasis vulgaris
+  * L40.08 기타 및 상세불명의 보통건선 Other and unspecified psoriasis vulgaris
+* L40.1 전신농포건선 Generalized pustular psoriasis
+* L40.2 연속성 말단피부염 Acrodermatitis continua
+* L40.3 손발바닥농포증 Pustulosis palmaris et plantaris
+* L40.4 물방울건선 Guttate psoriasis
+* L40.5† 관절병성 건선 Arthropathic psoriasis (M07.0\~M07.3\*, M09.0\*)
+* L40.8 기타 건선 Other psoriasis - 굴측건선(Flexural psoriasis) 포함
+* L40.9 상세불명의 건선 Psoriasis, unspecified
 
-L40.00　중증 보통건선　Severe psoriasis vulgaris
-
-L40.01　중등증 보통건선　Moderate psoriasis vulgaris
-
-L40.02　경증 보통건선　Mild psoriasis vulgaris
-
-L40.08　기타 및 상세불명의 보통건선　Other and unspecified psoriasis vulgaris
-
-L40.1　전신농포건선　Generalized pustular psoriasis
-
-L40.2　연속성 말단피부염　Acrodermatitis continua
-
-L40.3　손발바닥농포증　Pustulosis palmaris et plantaris
-
-L40.4　물방울건선　Guttate psoriasis
-
-L40.5†　관절병성 건선　Arthropathic psoriasis (M07.0\~M07.3\*, M09.0\*)
-
-L40.8　기타 건선　Other psoriasis — 굴측건선(Flexural psoriasis) 포함
-
-L40.9　상세불명의 건선　Psoriasis, unspecified
-
-✽ L40.0은 상위 분류이며 청구 시 해당 중증도의 세분류를 확인. †는 원인질환, *는 발현질환 코드로 실제 관절 침범 형태에 맞추어 병기하며, 성인에게 소아 관절염 코드 M09.0\*를 일률적으로 부여하지 않음. M07.0~M07.3\*·M09.0\*는 분류 범위를 가리키며, 실제 청구에는 관절 형태·해부학적 부위에 맞는 완전코드를 선택(예: 기타 건선관절병증, 손 M07.34\*)
-
-✽ **저장된 KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조(2026-10-30)**. L40.0은 완전코드 목록에 없고 L40.00·L40.01·L40.02·L40.08로 세분됨. 중증도 코드를 생물학적 제제 급여 자격과 동일시하지 않음
-
+✽ L40.0은 상위 분류이며 완전코드는 L40.00·L40.01·L40.02·L40.08로 세분되므로 청구 시 해당 중증도의 세분류를 선택함. 중증도 코드를 생물학적 제제 급여 자격과 동일시하지 않음. †는 원인질환, \*는 발현질환 코드로 실제 관절 침범 형태에 맞추어 병기하며, 성인에게 소아 관절염 코드 M09.0\*를 일률적으로 부여하지 않음. M07.0\~M07.3\*·M09.0\*는 분류 범위를 가리키며, 실제 청구에는 관절 형태·해부학적 부위에 맞는 완전코드를 선택(예: 기타 건선관절병증, 손 M07.34\*)
 
 ***
 
@@ -522,19 +507,19 @@ L40.9　상세불명의 건선　Psoriasis, unspecified
 > **처방례 1. 다른 국소요법으로 불충분한 두꺼운 제한성 판형건선**
 >
 > ```
-> 베타베이트연고(clobetasol propionate 0.05%)　두꺼운 몸통·사지 병변에 얇게 1일 1~2회
-> Urea cream [유리아]　건조하고 두꺼운 병변에 제품 용법에 따라 도포
+> 베타베이트연고(clobetasol propionate 0.05%)　두꺼운 몸통·사지 병변에 얇게 1일 1~2회, 최대 2주
+> 유리아(urea cream)　건조하고 두꺼운 병변에 제품 용법에 따라 도포
 > ```
 >
-> _✽ 피부과 치료 계획에 따른 성인 예시. 1~2주 내 재평가; 베타베이트는 2주 이상 연속 사용하지 않으며 주 50 g 미만·BSA 20% 이내로 제한. 얼굴·굴곡부·생식기에는 사용하지 않음. 호전 후 비스테로이드제 등으로 전환_
+> _✽피부과 치료 계획에 따른 성인 예시. 1\~2주 내 재평가; 베타베이트는 2주를 넘겨 연속 사용하지 않으며 주 50 g 미만·BSA 20% 이내로 제한. 얼굴·굴곡부·생식기에는 사용하지 않음. 호전 후 비스테로이드제 등으로 전환_
 
 > **처방례 2. 몸통·사지의 중등도 판형건선**
 >
 > ```
-> Calcipotriol/betamethasone 복합제 [다이보베트 연고]　병변에 1일 1회
+> 다이보베트 연고(calcipotriol/betamethasone)　병변에 1일 1회, 4주
 > ```
 >
-> _✽ 성인 몸통·사지 판형건선 예시. 권장 치료기간 4주, 최대 15 g/d·100 g/wk, BSA 30% 이내; 4주 후 재평가. 소아·물방울건선·농포성/홍피성 건선 등에는 국내 금기. 반복·유지치료는 의사의 감독하에 결정_
+> _✽성인 몸통·사지 판형건선 예시. 권장 치료기간 4주, 최대 15 g/d·100 g/wk, BSA 30% 이내; 4주 후 재평가. 소아·물방울건선·농포성/홍피성 건선 등에는 금기. 반복·유지치료는 의사의 감독하에 결정_
 
 > **처방례 3. 두피 건선**
 >
@@ -543,7 +528,9 @@ L40.9　상세불명의 건선　Psoriasis, unspecified
 > 보습·각질 연화제　두꺼운 인설이 있으면 적합한 제형으로 사용
 > ```
 >
-> _✽ 일반적으로 4주에 재평가하되 clobetasol 액제 등 짧은 허가기간 제품은 1~2주 내 먼저 평가함. 제형별 허가기간을 우선하며 조절 후 간헐적 유지 전략을 개별 결정. Salicylic acid와 calcipotriol은 같은 부위에 동시에 혼합·도포하지 않음_
+> _✽일반적으로 4주에 재평가하되 clobetasol 액제 등 짧은 허가기간 제품은 1\~2주 내 먼저 평가함. 제형별 허가기간을 우선하며 조절 후 간헐적 유지 전략을 개별 결정. Salicylic acid와 calcipotriol은 같은 부위에 동시에 혼합·도포하지 않음_
+
+***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
@@ -551,52 +538,50 @@ L40.9　상세불명의 건선　Psoriasis, unspecified
 * 증상이 좋아졌다고 즉시 모든 치료를 중단하기보다, 재발이 잦은 경우에는 의사의 지시에 따라 간헐적 유지요법을 시행할 수 있습니다.
 * calcipotriol/betamethasone 복합제는 일반적으로 1일 1회 사용하며 과량 또는 광범위 사용을 피합니다.
 * methotrexate는 **주 1회** 복용 약입니다. 매일 복용하면 중대한 독성이 생길 수 있으므로 복용 요일을 명확히 정합니다.
+* acitretin(네오티가손)은 강한 기형유발성이 있어 임신예방프로그램에 따른 임신검사·피임(치료 1개월 전부터 중단 후 최소 3년)과 헌혈 금지(중단 후 3년)를 확인하며, 임신 가능성이 있는 여성은 치료 중 및 중단 후 2개월간 알코올을 피합니다.
 * **스킬라렌스(DMF)** 복용 중 심한/지속적인 복통, 혈변·검은 변·피 토함 또는 황달이 생기면 복용을 중단하고 즉시 진료받습니다.
 * deucravacitinib 등 경구 표적치료제는 정해진 용법과 진료 일정을 지킵니다. 중대한 감염, 심한 근육통·근력저하·갈색뇨 등 약물독성 의심 시에는 복용을 보류하고 즉시 평가받아야 합니다.
 * 새로운 관절 부종, 아침 강직, 손발가락 전체가 붓는 증상 또는 지속적인 뒤꿈치 통증이 생기면 건선관절염 평가가 필요합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 일반적으로 성인은 치료 시작 4주, 소아는 2주 후 재평가; clobetasol 등은 1~2주 내 먼저 평가하고 허가기간을 넘겨 사용하지 않음. 악화·심한 자극·피부 위축이 생기면 더 일찍 방문
+> * 일반적으로 성인은 치료 시작 4주, 소아는 2주 후 재평가합니다. Clobetasol 등은 1\~2주 내 먼저 평가하고 허가기간을 넘겨 사용하지 않습니다. 악화·심한 자극·피부 위축이 생기면 더 일찍 방문합니다.
 > * MTX를 매일 또는 과량 복용했다면 증상이 없어도 추가 복용을 중단하고 즉시 응급 진료
-> * 갑자기 심하게 붓고 뜨거운 관절, 새 안구통·충혈·눈부심·시력 변화는 즉시 진료를 연결하며 안구 증상은 당일 안과 평가
+> * 갑자기 심하게 붓고 뜨거운 관절은 즉시 진료, 새 안구통·충혈·눈부심·시력 변화는 당일 안과 진료
 > * 새로운 관절 부종, 아침 강직, 손발가락 전체가 붓는 증상, 지속적인 뒤꿈치 통증이 생긴 경우
 > * 전신에 급격히 홍반·고름물집이 퍼지는 경우 - **발열이 없어도 당일 진료**, 전신상태 악화 시 즉시 응급실
 > * 몸 대부분의 피부가 붉어지고 벗겨지는 경우 - **당일 진료**, 오한·심한 탈수·호흡곤란 등 동반 시 즉시 응급실
 > * 전신치료 중 발열, 심한 인후통, 잦은 멍, 황달, 새 기침·호흡곤란, 심한 근육통·갈색뇨가 생기면 **당일 진료**
 
-## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+***
 
-### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-* AAD–NPF. [Psoriasis clinical guidelines](https://www.aad.org/member/clinical-quality/guidelines/psoriasis) — 국소·광선·전신·생물학적 치료 및 동반질환.
-* NICE. [CG153: Psoriasis: assessment and management](https://www.nice.org.uk/guidance/cg153/chapter/Recommendations) — 평가·의뢰·부위별 국소치료·전신치료 원칙.
-* CDC. [Syphilis: diagnostic considerations](https://www.cdc.gov/std/treatment-guidelines/syphilis.htm) — 비트레포네마·트레포네마 검사 조합.
-* IPC. [Generalized pustular psoriasis](https://psoriasiscouncil.org/ipc-resources/generalized-pustular-psoriasis/) — 전신 염증질환 정의와 판형건선 동반 여부.
-* NICE. [NG65: Spondyloarthritis in over 16s](https://www.nice.org.uk/guidance/ng65/chapter/recommendations) — 급성 앞포도막염의 당일 안과 평가.
-* PCDS. [Psoriasis](https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview), [Palmoplantar pustulosis](https://pcds.org.uk/clinical-guidance/palmoplantar-pustular-psoriasis) — 부위별 외래 치료 참고.
-* EDF. [Living EuroGuiDerm guideline for systemic treatment of psoriasis vulgaris](https://www.guidelines.edf.one/guidelines/psoriasis-guideline), 2025 부분 개정 — 전신치료 선택·검사·동반질환.
-* Nast A, et al. [S3 guideline for the treatment of psoriasis vulgaris, adapted from EuroGuiDerm – part 1: Treatment recommendations and monitoring](https://doi.org/10.1111/ddg.16002). 2026 — 치료 목표 및 약제별 감시.
-* EULAR. [Psoriatic arthritis: pharmacological therapies, 2023 update](https://doi.org/10.1136/ard-2024-225531). Ann Rheum Dis. 2024 — 말초·축성 질환별 치료.
-* AAD. [손발톱 관리](https://www.aad.org/public/diseases/psoriasis/skin-care/nail-care), [임신·수유 중 치료](https://www.aad.org/public/diseases/psoriasis/treatment/stage/pregnant) — 환자 교육.
-* NHS SPS. [Ciclosporin monitoring](https://www.sps.nhs.uk/monitorings/ciclosporin-monitoring/) — 시작·증량 후 추적 및 신독성 대응 참고.
-* Gregoire ARF, et al. [Psoriasis flares following systemic glucocorticoid exposure in patients with a history of psoriasis](https://pubmed.ncbi.nlm.nih.gov/33206132/). JAMA Dermatol. 2021 — 전신 steroid 노출 후 악화에 관한 후향적 관찰자료.
+### <mark style="color:orange;">임상 근거</mark>
 
-### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+* AAD–NPF. [Psoriasis clinical guidelines](https://www.aad.org/member/clinical-quality/guidelines/psoriasis) - 국소·광선·전신·생물학적 치료 및 동반질환.
+* NICE. [CG153: Psoriasis: assessment and management](https://www.nice.org.uk/guidance/cg153/chapter/Recommendations) - 평가·의뢰·부위별 국소치료·전신치료 원칙.
+* CDC. [Syphilis: diagnostic considerations](https://www.cdc.gov/std/treatment-guidelines/syphilis.htm) - 비트레포네마·트레포네마 검사 조합.
+* IPC. [Generalized pustular psoriasis](https://psoriasiscouncil.org/ipc-resources/generalized-pustular-psoriasis/) - 전신 염증질환 정의와 판형건선 동반 여부.
+* NICE. [NG65: Spondyloarthritis in over 16s](https://www.nice.org.uk/guidance/ng65/chapter/recommendations) - 급성 앞포도막염의 당일 안과 평가.
+* PCDS. [Psoriasis](https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview), [Palmoplantar pustulosis](https://pcds.org.uk/clinical-guidance/palmoplantar-pustular-psoriasis) - 부위별 외래 치료 참고.
+* EDF. [Living EuroGuiDerm guideline for systemic treatment of psoriasis vulgaris](https://www.guidelines.edf.one/guidelines/psoriasis-guideline), 2025 부분 개정 - 전신치료 선택·검사·동반질환.
+* Nast A, et al. [S3 guideline for the treatment of psoriasis vulgaris, adapted from EuroGuiDerm – part 1: Treatment recommendations and monitoring](https://doi.org/10.1111/ddg.16002). 2026 - 치료 목표 및 약제별 감시.
+* EULAR. [Psoriatic arthritis: pharmacological therapies, 2023 update](https://doi.org/10.1136/ard-2024-225531). Ann Rheum Dis. 2024 - 말초·축성 질환별 치료.
+* AAD. [손발톱 관리](https://www.aad.org/public/diseases/psoriasis/skin-care/nail-care), [임신·수유 중 치료](https://www.aad.org/public/diseases/psoriasis/treatment/stage/pregnant) - 환자 교육.
+* NHS SPS. [Ciclosporin monitoring](https://www.sps.nhs.uk/monitorings/ciclosporin-monitoring/) - 시작·증량 후 추적 및 신독성 대응 참고.
+* Gregoire ARF, et al. [Psoriasis flares following systemic glucocorticoid exposure in patients with a history of psoriasis](https://pubmed.ncbi.nlm.nih.gov/33206132/). JAMA Dermatol. 2021 - 전신 steroid 노출 후 악화에 관한 후향적 관찰자료.
 
-* [약학정보원](https://www.health.kr/) — 베타베이트연고(A11A1590A0045)의 연속 사용기간·사용량·도포면적과 더모베이트액(2018032700006)의 두피용 용법·사용기간 재확인(2026-10-30).
-* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 베타베이트연고·다이보베트연고·소틱투·오테리아·네오티가손·스킬라렌스·스페비고주의 국내 적응증·용법·금기 대조 자료. 소틱투는 국내 제조사 제품설명서(2026-07-29 개정) 및 사용자가 제시한 약학정보원 소틱투정6㎎ 자료(약학정보원 식별번호 2023080400001, 2026-10-30 확인)를 함께 대조함. 약학정보원에는 급여기준 2025-06-01 시행으로 표시되며, PsA의 허가와 급여를 구분함.
-* HIRA. [Deucravacitinib 경구제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250601&mtgMtrRegSno=0009&sno=1) — 고시 제2025-88호; 판상건선의 선행치료 및 16~24주 반응평가 조건. 사용자 제공 고시와 재대조(2026-10-30). 판상건선 급여 확인 완료; 해당 고시는 PsA 급여 항목을 포함하지 않음.
-* BMS. 소틱투 국내 제품설명서 **2026-07-29 개정본** — 판상건선·PsA, 6 ㎎ qd, 신장애 용량, 모유 이행 자료 확인. 개별 품목 링크는 생략함.
-* 식약처. 디메틸푸마르산염 성분 제제 변경명령(허가반영 2026-09-09) 및 스킬라렌스 현행 품목정보 — 약물유래간손상·중대한 위장관 이상반응, 혈구·간·신장 검사 기준 확인.
-* 레오파마 국내 제품정보 — 다이보넥스·다이보베트·엔스틸룸폼의 제형별 용법·금기·유지요법 확인.
-* 저장 자료. **KCD9_251216(6).xlsx** — 상병분류기호(전체/완전코드) L40 및 관련 M07/M09 분류 대조.
-* BMS. [SOTYKTU US prescribing information](https://packageinserts.bms.com/pi/pi_sotyktu.pdf), [EMA Sotyktu](https://www.ema.europa.eu/en/medicines/human/EPAR/sotyktu) — 국외 적응증·안전성 비교 자료.
-* [EMA Skilarence product information](https://www.ema.europa.eu/en/medicines/human/EPAR/skilarence) — dimethyl fumarate의 국외 허가 비교 자료.
-* [DailyMed VTAMA label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9309d20f-8cd4-4c96-93fa-7f730e83c7ab), [DailyMed ZORYVE cream label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec1bb0d1-f38a-4080-831a-68791d1d1fdb) — 국외 비스테로이드 국소제의 적응증·연령·농도별 구분.
-* FDA. [ICOTYDE (icotrokinra) prescribing information, 2026](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220149Orig1s000lbl.pdf) — 미국 허가의 경구 IL-23 수용체 길항제; 국내 처방·급여와 구분.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* HIRA. [Deucravacitinib 경구제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250601&mtgMtrRegSno=0009&sno=1) - 고시 제2025-88호; 판상건선의 선행치료 및 16\~24주 반응평가 조건(PsA 급여 항목은 포함하지 않음).
+* 식약처. 디메틸푸마르산염 성분 제제 변경명령(허가반영 2026-09-09) - 약물유래간손상·중대한 위장관 이상반응, 혈구·간·신장 검사 기준.
+* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) - tacrolimus와 같은 부위 보습제의 2시간 간격 등 해외 복약지도 참고자료.
+* BMS. [SOTYKTU US prescribing information](https://packageinserts.bms.com/pi/pi_sotyktu.pdf), [EMA Sotyktu](https://www.ema.europa.eu/en/medicines/human/EPAR/sotyktu) - 해외 적응증·안전성 비교 자료.
+* [EMA Skilarence product information](https://www.ema.europa.eu/en/medicines/human/EPAR/skilarence) - dimethyl fumarate의 해외 허가 비교 자료.
+* [DailyMed VTAMA label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9309d20f-8cd4-4c96-93fa-7f730e83c7ab), [DailyMed ZORYVE cream label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec1bb0d1-f38a-4080-831a-68791d1d1fdb) - 해외 비스테로이드 국소제의 적응증·연령·농도별 구분.
+* FDA. [ICOTYDE (icotrokinra) prescribing information, 2026](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220149Orig1s000lbl.pdf) - 미국 허가의 경구 IL-23 수용체 길항제.
 
 ***
 
@@ -626,6 +611,7 @@ L40.9　상세불명의 건선　Psoriasis, unspecified
 * 바르는 연고는 처방받은 부위·횟수를 지켜 사용하고, 얼굴이나 접히는 부위에는 임의로 강한 연고를 오래 사용하지 마십시오.
 * 먹는 약(methotrexate, deucravacitinib 등)을 처방받은 경우 정해진 용법을 반드시 지키고, 약제별로 필요한 정기 진료·검사 일정을 지키십시오.
 * **메토트렉세이트(MTX)는 주 1회 복용하는 약입니다.** 실수로 매일 또는 처방량보다 많이 복용했다면 더 먹지 말고 증상이 없어도 즉시 응급 진료받으십시오.
+* 임신을 계획 중이거나 임신·수유 중이면 약을 시작하기 전에 알려 주십시오. 일부 먹는 약은 임신 전·중에 사용할 수 없고, 복용을 끝낸 뒤에도 일정 기간 피임이 필요합니다.
 * **네오티가손(acitretin)**을 처방받았다면 임신검사·피임 프로그램을 반드시 따르십시오. 치료 전 1개월부터 중단 후 최소 3년까지 피임하며, 치료 중 및 중단 후 3년간 헌혈하지 마십시오. 임신 가능성이 있는 여성은 치료 중 및 중단 후 2개월간 술과 알코올 함유 식품·약물을 피해야 합니다.
 
 #### <mark style="color:$primary;">이럴 때는 당일 진료를 받으세요</mark>

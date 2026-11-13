@@ -6,10 +6,10 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 감염: 바이러스성 발진, 세균·진균·기생충 감염; 접촉·여행·성접촉·매개체 노출과 면역 상태에 따라 감별함.
-* 염증·면역 반응: 습진, 건선, 두드러기, 다형홍반, 혈관염, 자가면역 수포성 질환 등.
-* 약물·외부 자극: 처방약·일반의약품·한약·건강기능식품, 접촉 알레르겐·자극 물질·광노출 등.
-* 기타: 혈소판·응고 이상, 전신 질환, 종양 관련 피부 병변 등. 모든 발진을 알레르기나 바이러스 감염으로 설명하지 않음.
+* 감염 : 바이러스성 발진, 세균·진균·기생충 감염; 접촉·여행·성접촉·매개체 노출과 면역 상태에 따라 감별함.
+* 염증·면역 반응 : 습진, 건선, 두드러기, 다형홍반, 혈관염, 자가면역 수포성 질환 등.
+* 약물·외부 자극 : 처방약·일반의약품·한약·건강기능식품, 접촉 알레르겐·자극 물질·광노출 등.
+* 기타 : 혈소판·응고 이상, 전신 질환, 종양 관련 피부 병변 등. 모든 발진을 알레르기나 바이러스 감염으로 설명하지 않음.
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -17,43 +17,37 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-{% hint style="danger" %}
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 감염을 의심할 압박 시 사라지지 않는 출혈성 자반(특히 2 ㎜ 초과), 급속히 퍼지는 점상출혈·자반, 또는 비창백성 점상출혈·자반에 발열·전신 상태 불량·수막자극 징후 동반  `수막구균 감염증·패혈증`
+* 압박 시 사라지지 않는 점상출혈·자반(특히 2 ㎜ 초과 자반)이 급속히 퍼지거나 발열·전신 상태 불량·수막자극 징후를 동반  `수막구균 감염증` `패혈증`
 * 피부 통증을 동반한 광범위 홍반성·자반성 발진, 점막 미란, 수포 또는 표피 박리; 모든 소견이 함께 나타날 필요는 없음  `SJS/TEN`
-* 급성 두드러기·혈관부종과 쉰 목소리·협착음·호흡곤란·실신·저혈압 또는 지속적이고 심한 복통·반복 구토 동반; 피부 증상이나 명확한 노출력이 없어도 아나필락시스가 의심되는 급성 기도·호흡·순환 이상  `아나필락시스`
+* 급성 두드러기·혈관부종과 쉰 목소리·협착음·호흡곤란·실신·저혈압 또는 지속적이고 심한 복통·반복 구토 동반; 피부 증상이나 명확한 노출력이 없어도 급성 기도·호흡·순환 이상이 있으면 해당  `아나필락시스`
 * 빠르게 진행하는 피부·연조직 병변에 겉으로 보이는 병변보다 불균형적으로 심한 통증, 부종, 자반·수포·괴사 또는 전신 독성 소견; 초기에는 발열·뚜렷한 피부 변화가 없을 수 있음  `괴사성 근막염`
-* 약물 노출 후 광범위 발진·발열·안면부종·림프절종대와 함께 황달·소변량 감소·호흡곤란·흉통 등 장기침범 의심 소견  `DRESS 등 중증 약물반응`
+* 약물 노출 후 광범위 발진·발열·안면부종·림프절종대와 함께 황달·소변량 감소·호흡곤란·흉통 등 장기침범 의심 소견  `DRESS` `중증 약물반응`
 * 저혈압·의식 변화 등 전신 독성 소견을 동반한 광범위 홍반, 또는 소아의 피부 압통·얕은 수포·광범위 박리(점막은 대개 보존)  `독성쇼크증후군` `SSSS`
-* 발열성 발진과 의식 변화·경련·수막자극 징후·쇼크, 또는 수족구병에서 반복 구토·신경학적 이상·심폐 이상  `중추신경계 감염·중증 전신 질환`
-* 생후 3개월 미만 영아에서 체온 ≥38℃; 신생아의 새 군집 수포·미란은 발열이 없어도 중증 감염 가능  `어린 영아 발열` `신생아 HSV 감염`
-{% endhint %}
+* 발열성 발진과 의식 변화·경련·수막자극 징후·쇼크, 또는 수족구병에서 반복 구토·신경학적 이상·심폐 이상  `중추신경계 감염` `중증 수족구병`
+* 발진을 동반한 생후 3개월 미만 영아의 체온 ≥38℃; 신생아의 새 군집 수포·미란은 발열이 없어도 해당  `중증 세균 감염` `신생아 HSV 감염`
 
-{% hint style="warning" %}
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 지속 발열을 동반하는 원인 불명의 광범위 발진, 새로운 점막 병변 또는 빠르게 악화하는 발진  `전신 질환·감염`
-* **(당일)** 약물 복용 후 광범위 발진과 발열·안면부종·림프절종대, 또는 새로 발생한 다발성 비모낭성 농포  `초기 DRESS` `AGEP·전신 농포건선`
+* **(당일)** 지속 발열을 동반하는 원인 불명의 광범위 발진, 새로운 점막 병변 또는 빠르게 악화하는 발진  `전신 감염` `전신 질환`
+* **(당일)** 약물 복용 후 광범위 발진과 발열·안면부종·림프절종대, 또는 새로 발생한 다발성 비모낭성 농포  `초기 DRESS` `AGEP` `전신 농포건선`
 * **(당일)** 면역저하자의 새로운 수포성·괴사성 발진  `파종성 감염`
 * **(당일)** 습진 부위의 급속한 통증성 악화와 비슷한 모양의 군집 수포·도려낸 듯한 미란; 발열은 없을 수 있음  `포진상 습진`
-* **(당일)** 지속 발열과 양측 비삼출성 결막충혈·입술/구강 변화·손발 홍반/부종·다형성 발진·경부 림프절종대 중 일부; 소견이 적은 영아도 포함  `가와사키병·불완전 가와사키병`
-* **(당일)** 새로 발생한 원인 불명 점상출혈·자반 또는 촉지자반  `혈소판감소증·혈관염`
-* **(당일)** 체표면적 약 90% 이상을 침범하는 광범위 홍반·비늘; 저체온·탈수·빈맥·저혈압·전신 상태 불량이 있으면 즉각 병원 평가  `홍피증`
-* 같은 자리에 24시간을 초과하여 지속되거나 통증·잔여 자반을 동반하는 팽진; 발열·복통·혈뇨 등 전신 소견이 있으면 **(당일)** 평가  `두드러기혈관염`
-* **(당일)** 임신부의 새 발진 또는 풍진·수두·parvovirus B19 감염 의심/노출; 무증상 노출도 포함  `모체·태아 위험`
-* **(당일)** 홍역·풍진을 의심할 역학·임상 소견, 또는 엠폭스를 의심할 임상·역학 소견  `감염관리·신고 대상 감별`
-{% endhint %}
+* **(당일)** 지속 발열과 양측 비삼출성 결막충혈·입술/구강 변화·손발 홍반/부종·다형성 발진·경부 림프절종대 중 일부; 소견이 적은 영아도 포함  `가와사키병` `불완전 가와사키병`
+* **(당일)** 새로 발생한 원인 불명 점상출혈·자반 또는 촉지자반  `혈소판감소증` `혈관염`
+* **(당일)** 체표면적 약 90% 이상을 침범하는 광범위 홍반·비늘  `홍피증`
+* 같은 자리에 24시간을 초과하여 지속되거나 통증·잔여 자반을 동반하는 팽진; 발열·복통·혈뇨 등 전신 소견이 있으면 **(당일)**  `두드러기혈관염`
+* **(당일)** 임신부의 새 발진 또는 풍진·수두·parvovirus B19 감염 의심/노출; 무증상 노출도 포함  `선천 감염`
+* **(당일)** 홍역·풍진을 의심할 역학·임상 소견, 또는 엠폭스를 의심할 임상·역학 소견
 
-{% hint style="info" %}
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 전신 상태가 양호하고 응급 소견이 없는 발진  `비응급 발진`
-* 원인이 불명확하거나 치료 반응이 불량하고 반복 재발하는 발진  `진단 불명·재발`
+* 원인이 불명확하거나 치료 반응이 불량하고 반복 재발하는 발진  `진단 불명` `재발성 발진`
 * 전신 증상·점막 병변·피부 통증·수포가 없는 경미한 약물 연관 발진  `경미한 약물 발진`
-{% endhint %}
 
-여러 위험 소견이 겹치면 더 높은 응급도를 적용함. 면역저하자의 광범위 수포성·괴사성 발진과 발열·전신 상태 불량, 또는 자반과 심한 복통·위장관 출혈·신장기능 악화는 즉각 병원 평가함. 응급 원인이 의심되면 검사 결과나 표피 박리·Nikolsky 징후가 나타날 때까지 기다리지 않음. 패혈증은 발열·발진이 없거나 초기 발진이 압박 시 옅어져도 가능함. 아나필락시스는 epinephrine 근육주사와 응급 이송을 즉시 시행함. 중증 약물반응은 의심 원인 약물을 즉시 중단하고 병원 평가함. DRESS가 의심되면 장기침범 검사 결과를 기다리지 않고 당일 병원 평가하며, 특히 소아는 EAACI 2025 권고에 따라 입원 평가·감시를 원칙으로 함. 포진상 습진은 전신 항바이러스 치료를 지체하지 않고 당일 피부과 평가하며, 눈 주위 병변·안구 증상은 당일 안과 평가를 병행함. 의심 전염성 발진은 대기실에서 다른 환자와 분리하고 질환별 감염관리를 시작함.
+여러 위험 소견이 겹치면 더 높은 응급도를 적용함. 홍피증에 저체온·탈수·빈맥·저혈압·전신 상태 불량이 동반되면 즉각 병원 평가함. 면역저하자의 광범위 수포성·괴사성 발진과 발열·전신 상태 불량, 또는 자반과 심한 복통·위장관 출혈·신장기능 악화는 즉각 병원 평가함. 응급 원인이 의심되면 검사 결과나 표피 박리·Nikolsky 징후가 나타날 때까지 기다리지 않음. 패혈증은 발열·발진이 없거나 초기 발진이 압박 시 옅어져도 가능함. 아나필락시스는 epinephrine 근육주사와 응급 이송을 즉시 시행함. 중증 약물반응은 의심 원인 약물을 즉시 중단하고 병원 평가함. DRESS가 의심되면 장기침범 검사 결과를 기다리지 않고 당일 병원 평가하며, 특히 소아는 EAACI 2025 권고에 따라 입원 평가·감시를 원칙으로 함. 포진상 습진은 전신 항바이러스 치료를 지체하지 않고 당일 피부과 평가하며, 눈 주위 병변·안구 증상은 당일 안과 평가를 병행함. 의심 전염성 발진은 대기실에서 다른 환자와 분리하고 질환별 감염관리를 시작함.
 
 {% hint style="info" %}
 **Blanching 여부(유리판 압박 검사, diascopy)**\
@@ -83,12 +77,12 @@ _<mark style="color:$info;">Ref. Lange 2020 Current Medical Diagnosis & Treatmen
 ### <mark style="color:orange;">병력·진찰과 선택적 검사</mark>
 
 * 발생일, 처음 발생한 부위, 퍼지는 순서, 발열과 발진의 선후 관계, 가려움/통증, 개별 병변의 지속시간을 확인함. 이전 사진이 있으면 비교함.
-* 최근 최소 8주간의 처방약·일반의약품·한약·건강기능식품과 시작·중단·재투여 날짜를 확인함. 단순 반구진성 약물 발진은 첫 노출 후 약 4~14일에 흔하지만, 중증 반응은 수일~수주 후 또는 중단 후에도 나타날 수 있음. 약물별 잠복기가 달라 기간만으로 배제하지 않으며, 의심 약물과 경과에 따라 그 이전 노출도 확인함.
+* 최근 최소 8주간의 처방약·일반의약품·한약·건강기능식품과 시작·중단·재투여 날짜를 확인함. 단순 반구진성 약물 발진은 첫 노출 후 약 4\~14일에 흔하지만, 중증 반응은 수일\~수주 후 또는 중단 후에도 나타날 수 있음. 약물별 잠복기가 달라 기간만으로 배제하지 않으며, 의심 약물과 경과에 따라 그 이전 노출도 확인함.
 * 예방접종력, 환자 접촉·집단 발생, 해외여행, 야외활동, 성접촉, 새로운 화장품·직업성 노출, 가족/동거인의 가려움을 확인함. 동물·진드기/모기 노출과 밀접한 피부 접촉도 확인하되, 접촉력만으로 특정 감염을 확정하지 않음.
 * 활력징후·전신 상태를 먼저 확인하고, 전신 피부와 손발바닥·손발가락 사이·두피·점막을 검사함. 림프절, 관절, 간비장비대, 탈수 여부도 확인함. 피부색이 짙으면 홍반이 덜 뚜렷할 수 있어 촉진과 통증·열감·부종을 함께 평가함.
 * 전형적이고 경미한 발진에서 혈액검사나 바이러스 검사를 일괄 시행하지 않으며, 의심 질환·전신 증상에 따라 선택함.
 
-<table><thead><tr><th width="190">임상 상황</th><th>선택적 검사·조치</th></tr></thead><tbody><tr><td>발열·전신 상태 불량, 출혈성 발진</td><td>CBC·감별계수·혈소판, 간·신장기능, 염증표지자 등을 고려함. 패혈증 의심 시 혈액배양 등 응급 검사를 시행하되, 검사·결과 확인 때문에 이송·치료를 지연하지 않음.</td></tr><tr><td>광범위 약물 발진, DRESS 의심</td><td>CBC·감별계수(호산구), AST/ALT·bilirubin, creatinine/eGFR, 요검사 등으로 장기침범을 평가함. 초기 호산구 수·간/신장기능이 정상이어도 진행성 반응을 배제하지 않으며 경과에 따라 재검함. 성인 DRESS 국제 합의와 소아 EAACI 권고를 연령에 맞게 적용함.</td></tr><tr><td>비늘성 고리 모양 병변</td><td>몸백선 의심 시 활동성 경계에서 KOH 검사를 시행함. 이전 steroid 사용과 비전형적 형태를 확인함.</td></tr><tr><td>옴 의심</td><td>피부경검사 또는 피부 긁음검사를 고려함. 긁음검사가 음성이어도 민감도가 낮아 옴을 배제하지 않으며, 형태·접촉력·집단 발생을 함께 판단함.</td></tr><tr><td>광범위·치료 불응 백선</td><td>복약·도포 순응도, 진단 오류·steroid 사용·내성균 가능성을 재평가하고 배양/균종 확인 및 전문 의뢰를 고려함.</td></tr><tr><td>손발바닥을 포함한 발진·성접촉 위험</td><td>2기 매독 등을 감별하고 비트레포네마·트레포네마 검사를 시행함. 손발바닥 침범이나 명확한 성접촉 위험 진술이 없다는 이유만으로 매독·급성 HIV 감염을 배제하지 않음. 발열·인두통·림프절종대·발진의 원인이 불명확하면 HIV 검사 필요성을 평가함. 급성 HIV 감염이 의심되면 검사실 항원/항체 복합검사와 HIV RNA 검사를 시행하고, 초기 항원/항체 음성만으로 배제하지 않음.</td></tr><tr><td>촉지성 자반, 복통·관절통</td><td>혈소판, 혈압, 요검사(혈뇨·단백뇨), creatinine/eGFR로 IgA 혈관염 등을 평가함. 단백뇨가 있으면 요단백/크레아티닌비 등으로 정량함. 피부 호전·초기 요검사 정상 후에도 지연성 신장침범이 가능함. 소아는 최소 6개월 신장침범을 추적하고 이상이 있으면 연장함. 성인 발병 IgA 혈관염은 2026 지침의 전문가 합의 제안에 따라 발병 후 첫 1년은 1~3개월마다, 이후 6~12개월마다 신장 평가를 포함하여 추적하되 중증도·재발·검사 이상에 따라 조정함. 성인 간격을 소아에 일률 적용하지 않음.</td></tr><tr><td>홍역·풍진 의심</td><td>의심 단계에서 분리·격리하고 보건소와 검사·신고를 협의함. PCR·혈청검사를 적절한 검체와 시점에 시행하며 임상 모습만으로 확정하지 않음.</td></tr><tr><td>인두염 + 성홍열 의심</td><td>A군 연쇄구균 신속항원검사 또는 배양/NAAT로 확인함. 인두염이 있는 3세 이상 소아·청소년은 신속항원검사 음성이면 인두배양으로 보완함. 3세 미만은 전형적 발진·가족 내 감염 등 의심이 높을 때 선택적으로 검사함. 성인의 음성 신속항원검사 후 배양은 통상 필요하지 않음. NAAT는 신속항원검사와 구분함.</td></tr><tr><td>해외여행 후 발열·발진 / 야외활동 후 발열·가피</td><td>방문 지역·시기·매개체 노출에 따라 뎅기열·쯔쯔가무시증 등 감별함. CBC·혈소판·간기능 및 질환별 검사를 선택하고, 뎅기열 의심 시 해열 전후의 경고 소견을 반복 평가함. 쯔쯔가무시증 임상 의심이 높으면 확진검사 때문에 치료를 지연하지 않음.</td></tr><tr><td>통증성 수포·농포/중앙 함몰 병변, 생식기·항문 주위 병변</td><td>엠폭스·HSV·수두 등을 감별함. 엠폭스는 병변이 적거나 발열이 없을 수 있으며, 의심 시 병변 검체 PCR 및 보건소와 신고·감염관리 절차를 협의함.</td></tr><tr><td>포진상 습진·신생아 HSV 의심</td><td>가능하면 새 수포·미란에서 HSV PCR 검체를 채취하되, 검사 때문에 전신 항바이러스 치료와 당일 의뢰를 늦추지 않음. 신생아는 전신 감염·중추신경계 침범을 포함한 병원 평가가 필요함.</td></tr><tr><td>진단 불명, 지속·재발, 수포·혈관염 의심</td><td>피부과 의뢰 및 피부생검을 고려함. 자가면역 수포성 질환·혈관염에서는 직접면역형광검사가 필요할 수 있음.</td></tr></tbody></table>
+<table><thead><tr><th width="190">임상 상황</th><th>선택적 검사·조치</th></tr></thead><tbody><tr><td>발열·전신 상태 불량, 출혈성 발진</td><td>CBC·감별계수·혈소판, 간·신장기능, 염증표지자 등을 고려함. 패혈증 의심 시 혈액배양 등 응급 검사를 시행하되, 검사·결과 확인 때문에 이송·치료를 지연하지 않음.</td></tr><tr><td>광범위 약물 발진, DRESS 의심</td><td>CBC·감별계수(호산구), AST/ALT·bilirubin, creatinine/eGFR, 요검사 등으로 장기침범을 평가함. 초기 호산구 수·간/신장기능이 정상이어도 진행성 반응을 배제하지 않으며 경과에 따라 재검함. 성인 DRESS 국제 합의와 소아 EAACI 권고를 연령에 맞게 적용함.</td></tr><tr><td>비늘성 고리 모양 병변</td><td>몸백선 의심 시 활동성 경계에서 KOH 검사를 시행함. 이전 스테로이드 사용과 비전형적 형태를 확인함.</td></tr><tr><td>옴 의심</td><td>피부경검사 또는 피부 긁음검사를 고려함. 긁음검사가 음성이어도 민감도가 낮아 옴을 배제하지 않으며, 형태·접촉력·집단 발생을 함께 판단함.</td></tr><tr><td>광범위·치료 불응 백선</td><td>복약·도포 순응도, 진단 오류·스테로이드 사용·내성균 가능성을 재평가하고 배양/균종 확인 및 전문 의뢰를 고려함.</td></tr><tr><td>손발바닥을 포함한 발진·성접촉 위험</td><td>2기 매독 등을 감별하고 비트레포네마·트레포네마 검사를 시행함. 손발바닥 침범이나 명확한 성접촉 위험 진술이 없다는 이유만으로 매독·급성 HIV 감염을 배제하지 않음. 발열·인두통·림프절종대·발진의 원인이 불명확하면 HIV 검사 필요성을 평가함. 급성 HIV 감염이 의심되면 검사실 항원/항체 복합검사와 HIV RNA 검사를 시행하고, 초기 항원/항체 음성만으로 배제하지 않음.</td></tr><tr><td>촉지성 자반, 복통·관절통</td><td>혈소판, 혈압, 요검사(혈뇨·단백뇨), creatinine/eGFR로 IgA 혈관염 등을 평가함. 단백뇨가 있으면 요단백/크레아티닌비 등으로 정량함. 피부 호전·초기 요검사 정상 후에도 지연성 신장침범이 가능함. 소아는 최소 6개월 신장침범을 추적하고 이상이 있으면 연장함. 성인 발병 IgA 혈관염은 2026 지침의 전문가 합의 제안에 따라 발병 후 첫 1년은 1~3개월마다, 이후 6~12개월마다 신장 평가를 포함하여 추적하되 중증도·재발·검사 이상에 따라 조정함. 성인 간격을 소아에 일률 적용하지 않음.</td></tr><tr><td>홍역·풍진 의심</td><td>의심 단계에서 분리·격리하고 보건소와 검사·신고를 협의함. PCR·혈청검사를 적절한 검체와 시점에 시행하며 임상 모습만으로 확정하지 않음.</td></tr><tr><td>인두염 + 성홍열 의심</td><td>A군 연쇄구균 신속항원검사 또는 배양/NAAT로 확인함. 인두염이 있는 3세 이상 소아·청소년은 신속항원검사 음성이면 인두배양으로 보완함. 3세 미만은 전형적 발진·가족 내 감염 등 의심이 높을 때 선택적으로 검사함. 성인의 음성 신속항원검사 후 배양은 통상 필요하지 않음. NAAT는 신속항원검사와 구분함.</td></tr><tr><td>해외여행 후 발열·발진 / 야외활동 후 발열·가피</td><td>방문 지역·시기·매개체 노출에 따라 뎅기열·쯔쯔가무시증 등 감별함. CBC·혈소판·간기능 및 질환별 검사를 선택하고, 뎅기열 의심 시 해열 전후의 경고 소견을 반복 평가함. 쯔쯔가무시증 임상 의심이 높으면 확진검사 때문에 치료를 지연하지 않음.</td></tr><tr><td>통증성 수포·농포/중앙 함몰 병변, 생식기·항문 주위 병변</td><td>엠폭스·HSV·수두 등을 감별함. 엠폭스는 병변이 적거나 발열이 없을 수 있으며, 의심 시 병변 검체 PCR 및 보건소와 신고·감염관리 절차를 협의함.</td></tr><tr><td>포진상 습진·신생아 HSV 의심</td><td>가능하면 새 수포·미란에서 HSV PCR 검체를 채취하되, 검사 때문에 전신 항바이러스 치료와 당일 의뢰를 늦추지 않음. 신생아는 전신 감염·중추신경계 침범을 포함한 병원 평가가 필요함.</td></tr><tr><td>진단 불명, 지속·재발, 수포·혈관염 의심</td><td>피부과 의뢰 및 피부생검을 고려함. 자가면역 수포성 질환·혈관염에서는 직접면역형광검사가 필요할 수 있음.</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. [The Generalized Rash: Part II. Diagnostic Approach. AFP 2010;81(6):735–739](https://www.aafp.org/pubs/afp/issues/2010/0315/p735.html); [DRESS international consensus 2024](https://doi.org/10.1001/jamadermatol.2023.4450); [CDC: Clinical guidance for scarlet fever](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/scarlet-fever.html); [NIDDK: IgA vasculitis](https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis); [EAACI 소아 DRESS 2025](https://doi.org/10.1111/pai.70103); [CDC 연쇄구균 인두염](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html); [질병관리청 엠폭스 관리지침 제3-1판(2026)](https://www.kdca.go.kr/bbs/kdca/55/307418/download.do); [CDC 뎅기열 임상 관리(2026)](https://www.cdc.gov/dengue/hcp/clinical-care/index.html); [CDC Yellow Book: Rickettsial diseases](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rickettsial-diseases.html); [UKHSA 옴 관리 2026](https://www.gov.uk/government/publications/scabies-management-advice-for-health-professionals/ukhsa-guidance-on-the-management-of-scabies-cases-and-outbreaks-in-long-term-care-facilities-and-other-closed-settings); [CDC 백선 임상 개요 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html); [CDC HIV 검사 지침](https://www.cdc.gov/std/treatment-guidelines/hiv.htm); [성인 IgA 혈관염 지침 2026, Statement 14](https://doi.org/10.1038/s41584-026-01420-3).</mark>_
 
@@ -102,7 +96,7 @@ _<mark style="color:$info;">Ref. [DGAKI/DDG 약물 과민반응 진단 S2k 지�
 
 ### <mark style="color:orange;">흔한 발진의 감별</mark>
 
-<table><thead><tr><th width="206">질환명</th><th>주요 임상 특징</th></tr></thead><tbody><tr><td>아토피 피부염 Atopic dermatitis</td><td>건조·가려움·반복되는 습진성 병변; 찰상·비늘·태선화. 영아는 뺨·신측부, 연장아·성인은 굴측부에 흔함. 개인/가족의 아토피 병력이 도움이 되나 필수 진단조건은 아님.</td></tr><tr><td>접촉피부염 Contact dermatitis</td><td>접촉 부위에 홍반·부종·소수포·진물, 선상/기하학적 분포. 알레르기성 접촉피부염은 접촉 부위를 넘어 퍼질 수 있음; 노출 물질과 시간 관계를 확인함.</td></tr><tr><td>약물 발진 Drug eruption</td><td>몸통에서 시작하여 대칭적으로 퍼지는 반구진성 발진이 흔하며 형태는 다양함. 새 약물·재투여·중단 날짜를 확인함. 발열·안면부종·점막 미란·피부 통증·수포·자반이 있으면 단순 약물 발진으로 판단하지 않음.</td></tr><tr><td>고정약진 Fixed drug eruption</td><td>원인 약물 재노출 시 같은 부위에 반복되는 경계 명확한 홍반성·자색 반점/판. 수포·미란이 생기거나 회복 후 색소침착이 남을 수 있으며 입술·생식기도 침범함. 광범위 수포형은 SJS/TEN과 감별하고 즉각 병원 평가함. 원인 약물 확인을 위해 임의로 재복용하지 않음.</td></tr><tr><td>다형홍반 Erythema multiforme</td><td>경계가 뚜렷한 융기성 과녁 병변(전형적으로 3개 동심원 영역); 손발등·사지 신측부에 대칭적 분포, 손발바닥·점막 침범 가능. 개별 병변은 수일 이상 고정되어 두드러기와 구별됨. HSV 감염과 연관되는 경우가 흔함.</td></tr><tr><td>모낭염 Folliculitis</td><td>모낭 중심의 구진·농포. 세균·Malassezia 등 감염성 원인뿐 아니라 자극·마찰·폐쇄 등 비감염성 원인도 가능함</td></tr><tr><td>물방울건선 Guttate psoriasis</td><td>몸통·사지에 다수의 작은 비늘성 구진/판; 선행 연쇄구균 인두염 후 약 1~3주에 발생하는 경우가 흔함.</td></tr><tr><td>곤충 물림 Insect bites</td><td>가려운 구진/판과 노출 부위·군집/선상 배열이 단서. 중앙에 물린 흔적이 있을 수 있으나 필수 소견은 아님. 여행·야외활동·실내 곤충 노출을 함께 확인함</td></tr><tr><td>모공각화증 Keratosis pilaris</td><td>상지 후외측, 뺨, 대퇴 전부, 엉덩이; 모낭 중심의 작은 각화성 구진</td></tr><tr><td>편평태선 Lichen planus</td><td>경계가 명확하고 편평한 보라색 구진(보통 1\~10 ㎜); 서로 융합하여 더 큰 판을 형성할 수 있음. Wickham striae; Koebner phenomenon</td></tr><tr><td>적색 땀띠 Miliaria rubra</td><td>홍반성 비모낭성 구진; 열 노출/더위 관련; 등·몸통·목·폐쇄 부위</td></tr><tr><td>동전습진 Nummular eczema</td><td>동전 모양의 가려운 홍반성 습진 판; 비늘·작은 수포/구진·진물·가피가 동반될 수 있음. 대개 수 ㎝이나 크기는 다양함. 활동성 비늘 경계가 뚜렷하거나 치료 반응이 불량하면 몸백선과 감별함</td></tr><tr><td>장미색 잔비늘증 Pityriasis rosea</td><td>대개 수 ㎝ 크기의 선행반(herald patch) 후 약 1~2주에 더 작은 타원형 비늘성 병변이 몸통의 피부긴장선을 따라 나타남(등의 Christmas tree 분포). 가장자리 안쪽의 테두리 비늘(collarette scale)이 단서. 비전형적 분포·손발바닥 침범·성접촉 위험이 있으면 2기 매독 등 감별함.</td></tr><tr><td>판형건선 Plaque psoriasis</td><td>은색 비늘 덮인 홍반성 구진/판; 손톱 소와; 팔꿈치·무릎·두피·손톱</td></tr><tr><td>옴 Scabies</td><td>굴(burrow)·구진·소수포와 야간에 심한 가려움; 손가락 사이·손목·겨드랑이·허리·사타구니·생식기. 동거인의 가려움이 단서이며, 영아는 두피·얼굴·손발바닥도 침범 가능함. 고령자·면역저하자의 과각화·가피성 병변에서는 가피옴을 고려하며, 가려움이 약하거나 없어도 배제하지 않음.</td></tr><tr><td>지루피부염 Seborrheic dermatitis</td><td>황갈색 기름진 비늘, 홍반, 구진; 두피·눈썹·코 주변·외이도; 만성, 겨울철 악화; 영아기에는 두피의 cradle cap 형태로 흔함</td></tr><tr><td>몸백선 Tinea corporis</td><td>점차 커지는 고리 모양의 비늘성 판; 활동성 비늘성 경계와 중심부 호전(central clearing)이 단서이나 항상 뚜렷하지는 않음. Steroid 사용 후 전형적 경계·비늘이 흐려지고 넓게 퍼지는 잠행백선(tinea incognito)을 고려함</td></tr><tr><td>두드러기 Urticaria</td><td>가려운 팽진이 이동·반복하며 개별 병변은 보통 24시간 이내 흔적 없이 소실함. 24시간을 초과하여 같은 자리에 지속되거나 통증·멍/자반이 남으면 두드러기혈관염 등을 감별함.</td></tr><tr><td>2기 매독 Secondary syphilis</td><td>형태가 다양한 전신 반점·구진·비늘성 발진; 손발바닥 병변, 점막반, 편평콘딜로마, 전신 림프절종대가 단서. 가려움이 없거나 약할 수 있으나 일정하지 않음. 장미색 잔비늘증·약물 발진 등을 모방하며, 손발바닥 병변이 없다고 배제하지 않음.</td></tr><tr><td>IgA 혈관염 IgA vasculitis</td><td>주로 하지·엉덩이의 촉지자반과 관절통·복통·혈뇨/단백뇨; 소아에서 흔하지만 성인도 발생함. 혈소판감소성 자반·감염·다른 혈관염을 감별함. 신장침범은 피부 병변이 좋아진 뒤에도 나타날 수 있음.</td></tr><tr><td>바이러스성 발진 Viral exanthem</td><td>홍역·풍진·돌발진·감염성 홍반 등 특정 질환 또는 비특이적 바이러스 감염에서 발생하는 발진의 총칭. 흔히 반구진성 홍반이며 발열·호흡기/위장관 증상이 동반될 수 있음. 전형적 소견이 없으면 다른 감염·약물 발진 등을 함께 감별함.</td></tr></tbody></table>
+<table><thead><tr><th width="206">질환명</th><th>주요 임상 특징</th></tr></thead><tbody><tr><td>아토피 피부염 Atopic dermatitis</td><td>건조·가려움·반복되는 습진성 병변; 찰상·비늘·태선화. 영아는 뺨·신측부, 연장아·성인은 굴측부에 흔함. 개인/가족의 아토피 병력이 도움이 되나 필수 진단조건은 아님.</td></tr><tr><td>접촉피부염 Contact dermatitis</td><td>접촉 부위에 홍반·부종·소수포·진물, 선상/기하학적 분포. 알레르기성 접촉피부염은 접촉 부위를 넘어 퍼질 수 있음; 노출 물질과 시간 관계를 확인함.</td></tr><tr><td>약물 발진 Drug eruption</td><td>몸통에서 시작하여 대칭적으로 퍼지는 반구진성 발진이 흔하며 형태는 다양함. 새 약물·재투여·중단 날짜를 확인함. 발열·안면부종·점막 미란·피부 통증·수포·자반이 있으면 단순 약물 발진으로 판단하지 않음.</td></tr><tr><td>고정약진 Fixed drug eruption</td><td>원인 약물 재노출 시 같은 부위에 반복되는 경계 명확한 홍반성·자색 반점/판. 수포·미란이 생기거나 회복 후 색소침착이 남을 수 있으며 입술·생식기도 침범함. 광범위 수포형은 SJS/TEN과 감별하고 즉각 병원 평가함. 원인 약물 확인을 위해 임의로 재복용하지 않음.</td></tr><tr><td>다형홍반 Erythema multiforme</td><td>경계가 뚜렷한 융기성 과녁 병변(전형적으로 3개 동심원 영역); 손발등·사지 신측부에 대칭적 분포, 손발바닥·점막 침범 가능. 개별 병변은 수일 이상 고정되어 두드러기와 구별됨. HSV 감염과 연관되는 경우가 흔함.</td></tr><tr><td>모낭염 Folliculitis</td><td>모낭 중심의 구진·농포. 세균·Malassezia 등 감염성 원인뿐 아니라 자극·마찰·폐쇄 등 비감염성 원인도 가능함</td></tr><tr><td>물방울건선 Guttate psoriasis</td><td>몸통·사지에 다수의 작은 비늘성 구진/판; 선행 연쇄구균 인두염 후 약 1~3주에 발생하는 경우가 흔함.</td></tr><tr><td>곤충 물림 Insect bites</td><td>가려운 구진/판과 노출 부위·군집/선상 배열이 단서. 중앙에 물린 흔적이 있을 수 있으나 필수 소견은 아님. 여행·야외활동·실내 곤충 노출을 함께 확인함</td></tr><tr><td>모공각화증 Keratosis pilaris</td><td>상지 후외측, 뺨, 대퇴 전부, 엉덩이; 모낭 중심의 작은 각화성 구진</td></tr><tr><td>편평태선 Lichen planus</td><td>경계가 명확하고 편평한 보라색 구진(보통 1\~10 ㎜); 서로 융합하여 더 큰 판을 형성할 수 있음. Wickham striae; Koebner phenomenon</td></tr><tr><td>적색 땀띠 Miliaria rubra</td><td>홍반성 비모낭성 구진; 열 노출/더위 관련; 등·몸통·목·폐쇄 부위</td></tr><tr><td>동전습진 Nummular eczema</td><td>동전 모양의 가려운 홍반성 습진 판; 비늘·작은 수포/구진·진물·가피가 동반될 수 있음. 대개 수 ㎝이나 크기는 다양함. 활동성 비늘 경계가 뚜렷하거나 치료 반응이 불량하면 몸백선과 감별함</td></tr><tr><td>장미색 잔비늘증 Pityriasis rosea</td><td>대개 수 ㎝ 크기의 선행반(herald patch) 후 약 1~2주에 더 작은 타원형 비늘성 병변이 몸통의 피부긴장선을 따라 나타남(등의 Christmas tree 분포). 가장자리 안쪽의 테두리 비늘(collarette scale)이 단서. 비전형적 분포·손발바닥 침범·성접촉 위험이 있으면 2기 매독 등 감별함.</td></tr><tr><td>판형건선 Plaque psoriasis</td><td>은색 비늘 덮인 홍반성 구진/판; 손톱 소와; 팔꿈치·무릎·두피·손톱</td></tr><tr><td>옴 Scabies</td><td>굴(burrow)·구진·소수포와 야간에 심한 가려움; 손가락 사이·손목·겨드랑이·허리·사타구니·생식기. 동거인의 가려움이 단서이며, 영아는 두피·얼굴·손발바닥도 침범 가능함. 고령자·면역저하자의 과각화·가피성 병변에서는 가피옴을 고려하며, 가려움이 약하거나 없어도 배제하지 않음.</td></tr><tr><td>지루피부염 Seborrheic dermatitis</td><td>황갈색 기름진 비늘, 홍반, 구진; 두피·눈썹·코 주변·외이도; 만성, 겨울철 악화; 영아기에는 두피의 cradle cap 형태로 흔함</td></tr><tr><td>몸백선 Tinea corporis</td><td>점차 커지는 고리 모양의 비늘성 판; 활동성 비늘성 경계와 중심부 호전(central clearing)이 단서이나 항상 뚜렷하지는 않음. 스테로이드 사용 후 전형적 경계·비늘이 흐려지고 넓게 퍼지는 잠행백선(tinea incognito)을 고려함</td></tr><tr><td>두드러기 Urticaria</td><td>가려운 팽진이 이동·반복하며 개별 병변은 보통 24시간 이내 흔적 없이 소실함. 24시간을 초과하여 같은 자리에 지속되거나 통증·멍/자반이 남으면 두드러기혈관염 등을 감별함.</td></tr><tr><td>2기 매독 Secondary syphilis</td><td>형태가 다양한 전신 반점·구진·비늘성 발진; 손발바닥 병변, 점막반, 편평콘딜로마, 전신 림프절종대가 단서. 가려움이 없거나 약할 수 있으나 일정하지 않음. 장미색 잔비늘증·약물 발진 등을 모방하며, 손발바닥 병변이 없다고 배제하지 않음.</td></tr><tr><td>IgA 혈관염 IgA vasculitis</td><td>주로 하지·엉덩이의 촉지자반과 관절통·복통·혈뇨/단백뇨; 소아에서 흔하지만 성인도 발생함. 혈소판감소성 자반·감염·다른 혈관염을 감별함. 신장침범은 피부 병변이 좋아진 뒤에도 나타날 수 있음.</td></tr><tr><td>바이러스성 발진 Viral exanthem</td><td>홍역·풍진·돌발진·감염성 홍반 등 특정 질환 또는 비특이적 바이러스 감염에서 발생하는 발진의 총칭. 흔히 반구진성 홍반이며 발열·호흡기/위장관 증상이 동반될 수 있음. 전형적 소견이 없으면 다른 감염·약물 발진 등을 함께 감별함.</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. [The Generalized Rash: Part I. Differential Diagnosis. AFP 2010;81(6):726–734](https://www.aafp.org/pubs/afp/issues/2010/0315/p726.html), Table 1을 바탕으로 보완함.\
 [Pityriasis Rosea: Diagnosis and Treatment. AFP 2018;97(1):38–44](https://www.aafp.org/pubs/afp/issues/2018/0101/p38.html); [Erythema Multiforme: Recognition and Management. AFP 2019;100(2):82–88](https://www.aafp.org/pubs/afp/issues/2019/0715/p82.html); [PCDS 약물 발진·고정약진](https://www.pcds.org.uk/clinical-guidance/adverse-cutaneous-drug-reactions-mild-to-moderate); [CDC 매독](https://www.cdc.gov/syphilis/about/index.html); [NIDDK IgA 혈관염](https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis); [CDC 백선](https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html); [UKHSA 옴 관리](https://www.gov.uk/government/publications/scabies-management-advice-for-health-professionals/ukhsa-guidance-on-the-management-of-scabies-cases-and-outbreaks-in-long-term-care-facilities-and-other-closed-settings).</mark>_
@@ -148,34 +142,36 @@ _위 의사결정표는 질환별 임상 특징을 종합하여 구성한 교육
 
 _<mark style="color:$info;">Ref. [질병관리청 2026년도 예방접종 대상 감염병 관리 지침](https://www.kdca.go.kr/bbs/kdca/55/311032/artclView.do); [질병관리청 성홍열 관리](https://www.kdca.go.kr/KDCAtemp/5005/subview.do); [질병관리청 수족구병 안내](https://www.kdca.go.kr/bbs/kdca/42/312083/artclView.do); [CDC 홍역](https://www.cdc.gov/measles/hcp/clinical-overview/index.html), [풍진](https://www.cdc.gov/rubella/hcp/clinical-overview/index.html), [수두](https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html), [parvovirus B19 감염관리](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/parvovirus.html); [질병관리청 엠폭스 관리지침 제3-1판(2026)](https://www.kdca.go.kr/bbs/kdca/55/307418/download.do); [질병관리청 2026년 법정감염병 진단·신고기준 지침](https://www.kdca.go.kr/bbs/kdca/55/311073/artclView.do).</mark>_
 
-### <mark style="color:orange;">발진의 초기 평가 알고리듬</mark>
-
 ***
 
 ```mermaid
 flowchart TD
-    A["발진 원인 질환 의심"] --> B{"즉각 조치 위험 소견?"}
-    B -->|예| C["응급 처치·병원 이송"]
-    B -->|아니요| D{"당일 평가 위험 소견?"}
-    D -->|예| E["당일 검사·전문 의뢰"]
-    D -->|아니요| F["형태·분포·경과·노출 평가 및 선택적 검사"]
-    F --> G{"원인 또는 유력한 임상진단 확인?"}
-    G -->|예| H["원인별 치료·설명·필요한 추적"]
-    G -->|아니요| I["조기 재평가·필요 시 피부과 의뢰"]
-    H --> J["새 경고 소견 발생 시 즉시 재평가"]
-    I --> J
+    A["발진 원인 질환 의심"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    B -- "예" --> C["즉각 조치: 응급 처치·병원 이송"]
+    B -- "아니요" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
+    D -- "예" --> E["당일~수일 내 평가: 검사·전문 의뢰"]
+    D -- "아니요" --> F["형태·분포·경과·노출 평가 및 선택적 검사"]
+    F --> G["원인 또는 유력한 임상진단 확인?"]
+    G -- "예" --> H["원인별 치료·설명·필요한 추적"]
+    G -- "아니요" --> I["조기 재평가·필요시 피부과 의뢰"]
+
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,D,G question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
+
+> _✽어느 단계에서든 새 경고 소견이 생기면 즉시 재평가함. 의심 원인 약물 중단과 필요한 감염관리를 병행하고, 홍역·풍진·수두·엠폭스 등을 의심하면 확진 전 감염관리를 시작함. 본문의 임상 단서를 종합한 진료 보조 흐름도이며, 검증된 진단 규칙이 아님._
+
+<p align="center"><strong>발진의 초기 평가 알고리듬</strong></p>
 
 ***
 
-_위험 소견은 Red Flags의 즉각 조치·당일 평가 항목을 적용함. 의심 원인 약물 중단과 필요한 감염관리를 병행하고, 홍역·풍진·수두·엠폭스 등을 의심하면 어느 단계에서든 확진 전 감염관리를 시작함. 상기 지침과 본문의 임상 단서를 종합한 진료 보조 흐름도이며, 검증된 진단 규칙이 아님._
-
-## <mark style="color:$warning;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">초기 대응</mark>
 
 * 응급 원인을 먼저 배제하고 원인 질환에 따라 치료함. 피부 압박 반응·가려움·해열 여부만으로 중증 질환을 배제하지 않음.
-* 아나필락시스는 epinephrine 근육주사와 응급 이송을 즉시 시행함. 항히스타민제·corticosteroid 때문에 epinephrine 투여가 늦어지지 않도록 함.
+* 아나필락시스는 epinephrine 근육주사와 응급 이송을 즉시 시행함. 항히스타민제·스테로이드 때문에 epinephrine 투여가 늦어지지 않도록 함.
 * 포진상 습진은 전신 항바이러스 치료를 지체하지 않고 당일 피부과 평가함. 신생아 HSV, SJS/TEN, DRESS, 괴사성 연조직 감염 등은 외래 대증치료로 관찰하지 않음.
 
 ### <mark style="color:orange;">비-약물 치료 및 예방</mark>
@@ -187,8 +183,9 @@ _위험 소견은 Red Flags의 즉각 조치·당일 평가 항목을 적용함.
 ### <mark style="color:orange;">약물 치료</mark>
 
 * 비특이적 바이러스성 발진에 항생제를 일률적으로 사용하지 않음. 성홍열·쯔쯔가무시증·포진상 습진 등은 원인에 맞는 항균/항바이러스 치료가 필요함.
-* 항히스타민제는 두드러기 등 원인에 따라 선택하며, 두드러기에는 연령별 허가 범위에 맞는 2세대 H1 항히스타민제를 우선 고려함. 습진성 가려움 전반에 효과적인 것으로 일반화하지 않음. 연령·진정·항콜린 부작용 등을 고려함. 원인 불명 발진에 전신 corticosteroid를 관행적으로 투여하지 않음.
-* 백선이 의심되는 병변에 steroid 단독 또는 임의의 steroid·항진균제 복합제를 사용하지 않음. 진단을 재확인하고 적절한 항진균 치료를 선택함.
+* 항히스타민제는 두드러기 등 원인에 따라 선택하며, 두드러기에는 연령별 허가 범위에 맞는 2세대 H1 항히스타민제를 우선 고려함. 습진성 가려움 전반에 효과적인 것으로 일반화하지 않음. 연령·진정·항콜린 부작용 등을 고려함. 원인 불명 발진에 전신 스테로이드를 관행적으로 투여하지 않음.
+* 백선이 의심되는 병변에 스테로이드 단독 또는 임의의 스테로이드·항진균제 복합제를 사용하지 않음. 진단을 재확인하고 적절한 항진균 치료를 선택함.
+* 수두·인플루엔자가 의심되는 소아·청소년에게는 Reye 증후군 위험 때문에 aspirin 등 salicylate를 사용하지 않음.
 * 뎅기열이 의심되면 aspirin·ibuprofen 등 NSAID를 피하고, 해열·진통은 간기능·금기 및 다른 복합제와의 중복을 확인하여 acetaminophen을 고려함. 해열이 회복을 보장하지 않으므로 복통·구토·출혈·의식/호흡 변화와 수분 섭취·소변량을 반복 확인하고, 경고 소견이 있으면 즉시 병원 평가함.
 * 의심 약물은 중증도와 필수 치료 여부를 평가하여 중단·대체를 결정함. 중증 약물반응이 의심되면 즉시 중단하고 병원 평가함. 의심 원인 약물을 임의로 재투여하거나 외래에서 진단 목적의 시험 투여를 하지 않음. 약물명·투여 날짜·반응 양상을 기록함.
 
@@ -200,22 +197,40 @@ _위험 소견은 Red Flags의 즉각 조치·당일 평가 항목을 적용함.
 
 _<mark style="color:$info;">Ref. [NICE CG57: Atopic eczema](https://www.nice.org.uk/guidance/cg57/chapter/recommendations); [NICE CG183: Drug allergy](https://www.nice.org.uk/guidance/cg183/chapter/recommendations); [ASCIA 아나필락시스 급성 관리 2026](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines); [CDC 뎅기열 임상 관리 2026](https://www.cdc.gov/dengue/hcp/clinical-care/index.html); [CDC 백선 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/index.html); [질병관리청 수족구병 안내 2026](https://www.kdca.go.kr/bbs/kdca/42/312083/artclView.do); [성인 DRESS 국제 합의 2024](https://doi.org/10.1001/jamadermatol.2023.4450); [EAACI 소아 DRESS 2025](https://doi.org/10.1111/pai.70103); [국제 두드러기 지침 2026](https://doi.org/10.1111/all.70210).</mark>_
 
-## 질병코드
+***
 
-* <mark style="color:$danger;">R21</mark> 발진 및 기타 비특이성 피부발진 Rash and other nonspecific skin eruption
+## <mark style="color:red;">질병코드</mark>
+
+* R21 발진 및 기타 비특이성 피부발진 Rash and other nonspecific skin eruption
   * 원인 질환이 아직 확인되지 않은 비특이적 발진에 사용함. 원인이 확인되면 해당 질환의 코드를 적용함.
 
 _<mark style="color:$info;">확인 자료: 저장된 KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」 시트와 대조함. R21의 코드·한글명·영문명 및 완전코드 수록을 확인함.</mark>_
 
-## <mark style="color:orange;">핵심 복약 지도</mark>
+***
 
-{% hint style="success" %}
-* 새 약을 복용한 뒤 발진이 생기면 처방 의료진에게 신속히 연락하여 중단·대체 여부를 확인하십시오. 발열·얼굴 부종·점막 헐음·피부 통증·물집·호흡곤란 등 중증 약물반응이 의심되면 의심 약물을 더 복용하지 말고 즉시 진료를 받으십시오.
-* 원인 약물로 의심된 약을 임의로 다시 복용하지 마십시오. 다른 의료기관을 방문할 때에도 약물명과 이전 반응을 알려 주십시오.
-* 남은 항생제나 먹는 스테로이드를 발진 치료 목적으로 임의로 복용하지 마십시오.
-{% endhint %}
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
-## 주요 참고문헌 및 확인 자료
+> **약물 발진이 의심될 때**
+>
+> * 새 약을 복용한 뒤 발진이 생기면 처방 의료진에게 신속히 연락하여 중단·대체 여부를 확인하도록 안내합니다. 발열·얼굴 부종·점막 헐음·피부 통증·물집·호흡곤란이 동반되면 의심 약물을 더 복용하지 말고 즉시 진료받도록 합니다.
+> * 원인으로 의심된 약을 임의로 다시 복용하지 않도록 하고, 다른 의료기관·약국을 방문할 때 약물명과 이전 반응을 알리도록 합니다.
+
+> **남은 약·연고를 임의로 쓰지 않도록**
+>
+> * 남은 항생제, 먹는 스테로이드, 스테로이드·항진균제 복합 연고를 발진 치료 목적으로 임의 사용하지 않도록 안내합니다. 백선 등 감염성 병변이 가려지거나 악화될 수 있습니다.
+
+> **해열진통제 선택**
+>
+> * 수두·인플루엔자가 의심되는 소아·청소년에게는 aspirin 등 salicylate 함유 제품을 사용하지 않도록 안내합니다(Reye 증후군).
+> * 뎅기열이 의심되는 여행 후 발열·발진에는 aspirin·ibuprofen 등 NSAID 대신 acetaminophen을 사용하고, 복합 감기약과의 성분 중복을 확인하도록 합니다.
+
+> **가려움 완화용 항히스타민제**
+>
+> * 1세대 항히스타민제는 졸림·운전 능력 저하가 생길 수 있음을 설명합니다. 가려움이 줄었다고 중증 약물반응이 배제되는 것은 아니므로 경고 증상이 생기면 즉시 재진하도록 합니다.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
@@ -239,26 +254,27 @@ _<mark style="color:$info;">확인 자료: 저장된 KCD9_251216(6).xlsx의 「�
 18. NYSDOH AIDS Institute. [Diagnosis and Management of Acute HIV Infection. 2024](https://www.hivguidelines.org/guideline/hiv-acute/).
 19. NIDDK. [IgA Vasculitis](https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis).
 20. Primary Care Dermatology Society. [Erythroderma](https://www.pcds.org.uk/clinical-guidance/erythroderma).
-
 21. Brockow K, et al. Guideline for allergological diagnosis of drug hypersensitivity reactions: S2k guideline. *Allergol Select.* 2023;7:122–139. [doi:10.5414/ALX02422E](https://doi.org/10.5414/ALX02422E).
 22. Ramien M, et al. Interim Update on Reactive Infectious Mucocutaneous Eruption (RIME). *Pediatr Dermatol.* Published online 2026-10-12. [doi:10.1111/pde.70367](https://doi.org/10.1111/pde.70367). PeDRA 전문가 의견·초기 발병 진단기준 개정 제안.
 23. Audemard-Verger A, et al. Evidence-based guidelines for the diagnosis and management of adult-onset IgA vasculitis. *Nat Rev Rheumatol.* 2026;22:643–662. [doi:10.1038/s41584-026-01420-3](https://doi.org/10.1038/s41584-026-01420-3). 성인 추적 간격은 Statement 14의 전문가 합의 제안.
 24. Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. *Allergy.* 2026;81:2582–2632. [doi:10.1111/all.70210](https://doi.org/10.1111/all.70210).
-25. Primary Care Dermatology Society. [Drug rashes: mild to moderate — fixed drug eruption](https://www.pcds.org.uk/clinical-guidance/adverse-cutaneous-drug-reactions-mild-to-moderate).
+25. Primary Care Dermatology Society. [Drug rashes: mild to moderate - fixed drug eruption](https://www.pcds.org.uk/clinical-guidance/adverse-cutaneous-drug-reactions-mild-to-moderate).
 26. Engelman D, et al. The 2020 International Alliance for the Control of Scabies Consensus Criteria for the Diagnosis of Scabies. *Br J Dermatol.* 2020;183:808–820. [doi:10.1111/bjd.18943](https://doi.org/10.1111/bjd.18943).
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 약제별 품목정보 확인 자료.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* 저장된 KCD9_251216(6).xlsx - R21의 공식 코드·명칭 및 완전코드 수록 여부를 직접 대조함.
 
-* 저장된 KCD9_251216(6).xlsx — R21의 공식 코드·명칭 및 완전코드 수록 여부를 직접 대조함.
+***
 
 ## <mark style="color:blue;">환자 안내서</mark>
 
 * 발진이 시작된 날짜·부위, 열과 발진의 선후 관계, 최근 복용한 약·한약·영양제, 환자 접촉·여행을 의료진에게 알려 주십시오. 시간별 사진이 진단에 도움이 될 수 있습니다.
-* 숨쉬기 어렵거나 목소리가 갑자기 변함, 실신, 빠르게 퍼지는 보라색 반점, 피부의 심한 통증·물집·벗겨짐, 눈·입·생식기의 헐음, 의식 변화가 있으면 즉시 응급 진료를 받으십시오.
+* 숨쉬기 어렵거나 목소리가 갑자기 변함, 실신, 빠르게 퍼지는 보라색 반점, 피부의 심한 통증·물집·벗겨짐, 눈·입·생식기의 헐음, 보기보다 훨씬 심하게 아프면서 빠르게 번지는 붓기, 의식 변화가 있으면 즉시 응급 진료를 받으십시오.
 * 생후 3개월 미만 아기가 38℃ 이상 열이 나거나, 신생아에게 물집·헐은 피부가 새로 생기면 곧바로 진료를 받으십시오.
 * 아이가 계속 열이 나면서 눈이 빨갛고 입술·손발이 붓거나, 잘 마시지 못하고 소변이 줄면 당일 진료를 받으십시오. 발진이 생겼다고 열이 나는 원인이 확인된 것은 아닙니다.
 * 임신 중 새 발진이 생기거나 풍진·수두·감염성 홍반 환자와 접촉했다면 증상이 가벼워도 진료기관에 먼저 연락하십시오.
+* 열이 나는 아이, 특히 수두나 독감이 의심되는 아이에게는 아스피린(살리실산 성분)이 든 해열제를 주지 마십시오. 해외여행 후 열과 발진이 생기면 아스피린·이부프로펜 대신 아세트아미노펜을 사용하고 진료를 받으십시오.
 * 원인이 불분명한 발진에 남은 먹는 스테로이드나 복합 연고를 임의로 사용하지 마십시오. 사용한 약·연고의 이름도 의료진에게 알려 주십시오.
 * 전염성 발진이 의심되면 방문 전 의료기관에 알리고 등원·등교·직장 복귀 시점은 해당 질환의 안내를 따르십시오.
