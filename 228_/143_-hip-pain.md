@@ -322,12 +322,12 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 
 ### <mark style="color:orange;">진통제</mark>
 
-* NSAID : ibuprofen 200\~400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>, naproxen은 고관절 OA에서 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>; 필요시 증상·위험도에 따라 증량 가능하나 고용량의 일률적 사용은 피함 _✽식약처 허가사항상 경증·중등도 동통에는 ibuprofen 1회 200\~400 ㎎, 1일 3\~4회이며, 관절염 등에는 1회 200\~600 ㎎까지(1일 최고 3,200 ㎎) 사용 가능_
+* NSAID : ibuprofen 200\~400 ㎎ tid <mark style="color:blue;">\[[부루펜 200 ㎎](https://www.health.kr/drug/A11A0500A0097)·[400 ㎎](https://www.health.kr/drug/A11A0500A0131)]</mark>, naproxen은 고관절 OA에서 250\~500 ㎎ bid <mark style="color:blue;">\[[낙센](https://www.health.kr/drug/A11A0120A0286)]</mark>; 필요시 증상·위험도에 따라 증량 가능하나 고용량의 일률적 사용은 피함 _✽식약처 허가사항상 경증·중등도 동통에는 ibuprofen 1회 200\~400 ㎎, 1일 3\~4회이며, 관절염 등에는 1회 200\~600 ㎎까지(1일 최고 3,200 ㎎) 사용 가능_
   * 급성 연부조직 통증·GTPS에 naproxen을 사용하는 경우 골격근장애·건염·윤활낭염 용법(초회 500 ㎎ 후 250 ㎎ q6\~8h, 초회량 포함 최대 1,250 ㎎/d)을 구분하고 최소 유효 용량으로 조절함
   * 부루펜정은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애, **심한 고혈압**, CABG 전후 통증 및 항암요법의 고용량 methotrexate 투여 중인 환자 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함 <mark style="color:$info;">\[허가사항]</mark>
-* acetaminophen 일반정 : 500\~1,000 ㎎, 4시간 이상 간격을 두고 필요시 1일 최대 3회 <mark style="color:blue;">\[타이레놀]</mark>; 이 챕터에서는 총 3,000 ㎎/일 이내를 기본 상한으로 적용하며, 간질환·과음·저체중·영양불량이 있으면 추가 감량/회피를 개별 판단 _✽AAOS 2023 hip OA 가이드라인에서 NSAID는 강력 권고(Strong)인 반면, acetaminophen은 근거 불충분으로 Option(Consensus) 수준에 그침 - 1차 선택제는 아니며, NSAID 금기/불내약성이 있으면 단기·간헐적 대안으로 고려; 고령 자체만으로 자동 선택하지 않음. 다만 2026 VA/DoD는 경구 NSAID 또는 acetaminophen을 모두 약한 권고로 제안하므로, 지침 간 권고 강도의 차이를 고려해 효과와 위험도를 함께 판단_
+* acetaminophen 일반정 : 500\~1,000 ㎎, 4시간 이상 간격을 두고 필요시 1일 최대 3회 <mark style="color:blue;">\[[타이레놀](https://www.health.kr/drug/2021082400002)]</mark>; 이 챕터에서는 총 3,000 ㎎/일 이내를 기본 상한으로 적용하며, 간질환·과음·저체중·영양불량이 있으면 추가 감량/회피를 개별 판단 _✽AAOS 2023 hip OA 가이드라인에서 NSAID는 강력 권고(Strong)인 반면, acetaminophen은 근거 불충분으로 Option(Consensus) 수준에 그침 - 1차 선택제는 아니며, NSAID 금기/불내약성이 있으면 단기·간헐적 대안으로 고려; 고령 자체만으로 자동 선택하지 않음. 다만 2026 VA/DoD는 경구 NSAID 또는 acetaminophen을 모두 약한 권고로 제안하므로, 지침 간 권고 강도의 차이를 고려해 효과와 위험도를 함께 판단_
 
-* ✽Acetaminophen 650 ㎎ 서방정은 일반정과 용법이 다름; <mark style="color:blue;">\[타이레놀8시간이알서방]</mark>의 허가 용법은 1회 2정(1,300 ㎎), 8시간 간격, 24시간 최대 6정(3,900 ㎎)이며 분할·분쇄하지 않음. 일반정 500 ㎎의 허가 최대량은 4,000 ㎎/일이지만, 이 챕터의 처방은 보수적으로 3,000 ㎎/일 이내로 제시함. 허가 최대량을 상시 목표량으로 사용하지 않음 <mark style="color:$info;">\[허가사항]</mark>
+* ✽Acetaminophen 650 ㎎ 서방정은 일반정과 용법이 다름; <mark style="color:blue;">\[[타이레놀8시간이알서방](https://www.health.kr/drug/2022020300026)]</mark>의 허가 용법은 1회 2정(1,300 ㎎), 8시간 간격, 24시간 최대 6정(3,900 ㎎)이며 분할·분쇄하지 않음. 일반정 500 ㎎의 허가 최대량은 4,000 ㎎/일이지만, 이 챕터의 처방은 보수적으로 3,000 ㎎/일 이내로 제시함. 허가 최대량을 상시 목표량으로 사용하지 않음 <mark style="color:$info;">\[허가사항]</mark>
 * Acetaminophen도 제품별 금기(소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·삼환계 항우울제 복용 등)를 확인; NSAID의 대안이라는 이유로 모든 환자에게 안전한 것으로 설명하지 않음. Warfarin 병용 시 반복 투여에 따른 INR 상승에 유의하고, flucloxacillin 병용·글루타치온 고갈 상태에서는 고음이온차 대사성 산증 위험도 고려 <mark style="color:$info;">\[허가사항]</mark>
 * NSAID 안전성 : ibuprofen·naproxen 등 두 종류 이상의 NSAID를 중복하지 않음. 활동성 위장관 출혈/궤양, 중증 신장·심장 질환, 탈수 및 주요 병용약을 확인; 위험이 높으면 회피 또는 대안 선택. 골관절염에서 경구 NSAID 사용 시 위장관 보호제(PPI 등) 병용을 고려하며, NICE NG226은 동시 위장관 보호를 권고. eGFR ＜30 ㎖/분/1.73 ㎡이면 경구 NSAID를 회피하며, 반복/지속 사용 또는 고위험 환자는 혈압·신기능 등을 추적; ibuprofen은 저용량 aspirin의 항혈소판 효과를 감소시킬 수 있어 대안 검토
 * 임신 : NSAID는 임신 20주 이후 양수과소증/태아 신장기능 장애 및 동맥관 수축 위험에 유의하여 원칙적으로 회피, 임신 말기 3개월은 금기; 불가피한 사용은 전문 판단 <mark style="color:$info;">\[허가사항]</mark>
@@ -385,6 +385,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 > ```
 > 타이레놀정 500 ㎎/T  1~2T  필요시, 4시간 이상 간격, 1일 최대 3회  (총 3,000 ㎎/일 이내)
 > ```
+> 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽경증 염좌·건병증의 단기 통증 조절에 선택 가능; NSAID 금기 또는 위장관·신장 위험이 높은 환자에서 대안으로 고려; 고령자에서도 간기능·영양 상태·병용 약물을 확인 후 사용_
 
@@ -393,6 +394,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 > ```
 > 낙센정 250 ㎎/T  1T  bid  pc  (단기 사용 후 재평가)
 > ```
+> 약제 정보: [낙센정·250 ㎎](https://www.health.kr/drug/A11A0120A0286)
 >
 > _✽NSAID 사용 전 위장관·심혈관·신장 위험을 평가하고 최소 유효 용량으로 단기간 사용; 위장관 위험이 있으면 PPI 병용을 고려(NICE NG226). 관절강내 corticosteroid 주사는 단기 증상 완화 목적으로 중등도 권고 수준(AAOS 2023)이며 RPOA 등 관절 손상 위험을 고려해 적응증을 신중히 판단, 관절강내 hyaluronic acid 주사는 권고되지 않음(AAOS 2023)_
 
@@ -401,6 +403,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 > ```
 > 부루펜정 200 ㎎/T  2T  tid  pc
 > ```
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽1차 치료는 활동 조절 및 표적 둔근 운동치료; NSAID는 급성기 통증 조절 목적의 보조적 사용; 통증으로 운동이 어렵거나 적절한 운동치료 후에도 반응 불량 시 진단·힘줄 파열 여부를 재평가하고 선택적으로 peritrochanteric/bursal corticosteroid injection 고려(정형외과/재활의학과 의뢰); tendon substance 내 직접 주입은 피함_
 
@@ -409,6 +412,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 > ```
 > 부루펜정 200 ㎎/T  2T  tid  pc  (5~7일)
 > ```
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽초기 냉찜질 병행; 소화성궤양 병력·항응고제 복용·신기능 저하가 있으면 NSAID를 회피하고 처방례 1(acetaminophen)을 대안으로 검토_
 

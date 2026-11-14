@@ -283,11 +283,11 @@ flowchart TD
 
 * 급성 염좌·연조직 손상의 국소 통증은 국소 NSAID를 우선 고려함. 필요시 경구 NSAID 또는 acetaminophen을 선택하며, 이 원칙을 감염·골절·신경 압박의 원인 치료 대신 적용하지 않음 <mark style="color:$info;">[ACP/AAFP 2020]</mark>
 * 다음은 성인 용량이며 비특이적·과사용성 손목 통증의 증상 조절에 acetaminophen 또는 NSAID를 단기간 사용함; 동시 복용 약·위장관·신장·심혈관 위험과 임신 여부를 확인함. 손목터널증후군의 신경 압박 자체를 치료하는 약은 아님
-  * acetaminophen(속방정) 500\~1,000 ㎎, 1일 3\~4회(4\~6시간 이상 간격) PRN <mark style="color:blue;">\[타이레놀]</mark> - 최대 4,000 ㎎/day(다른 복합제 포함); 최대량을 목표로 증량하지 않고 최소 유효량을 사용함. 허약 고령·저체중·간질환·음주 등에서는 감량 또는 회피 여부를 개별 판단하며, 심한 간장애는 금기이며 복용 중 음주를 피함
-  * ibuprofen : 경증 통증은 200\~400 ㎎, 1일 3\~4회 PRN <mark style="color:blue;">\[부루펜]</mark>. 연조직손상·건염 등의 허가 용법은 1회 200\~600 ㎎, 1일 3\~4회; 단순 손목 통증에 고용량을 일률적으로 사용하지 않음
-  * naproxen : 염좌·건염 등은 초회 500 ㎎ 후 6\~8시간 간격으로 250 ㎎, 증상에 따라 조절하며 1일 총 1,250 ㎎을 넘지 않음 <mark style="color:blue;">\[낙센]</mark>. 관절염의 허가 용법(250\~500 ㎎ bid)과 구분함
+  * acetaminophen(속방정) 500\~1,000 ㎎, 1일 3\~4회(4\~6시간 이상 간격) PRN <mark style="color:blue;">\[[타이레놀](https://www.health.kr/drug/2021082400002)]</mark> - 최대 4,000 ㎎/day(다른 복합제 포함); 최대량을 목표로 증량하지 않고 최소 유효량을 사용함. 허약 고령·저체중·간질환·음주 등에서는 감량 또는 회피 여부를 개별 판단하며, 심한 간장애는 금기이며 복용 중 음주를 피함
+  * ibuprofen : 경증 통증은 200\~400 ㎎, 1일 3\~4회 PRN <mark style="color:blue;">\[[부루펜](https://www.health.kr/drug/A11A0500A0097) 200 ㎎·[400 ㎎](https://www.health.kr/drug/A11A0500A0131)]</mark>. 연조직손상·건염 등의 허가 용법은 1회 200\~600 ㎎, 1일 3\~4회; 단순 손목 통증에 고용량을 일률적으로 사용하지 않음
+  * naproxen : 염좌·건염 등은 초회 500 ㎎ 후 6\~8시간 간격으로 250 ㎎, 증상에 따라 조절하며 1일 총 1,250 ㎎을 넘지 않음 <mark style="color:blue;">\[[낙센](https://www.health.kr/drug/A11A0120A0286)]</mark>. 관절염의 허가 용법(250\~500 ㎎ bid)과 구분함
 * 국소(topical) NSAID : 경증 건초염·염좌의 국소 통증에 고려; 경구제보다 전신 노출은 적지만 신기능 저하 등 위험 요인이 있으면 사용 면적·기간과 병용약을 확인
-  * diclofenac gel <mark style="color:blue;">\[볼타렌에멀겔]</mark>, ketoprofen patch <mark style="color:blue;">\[케토톱플라스타]</mark>; 손상된 피부·눈·점막에는 사용하지 않고 밀봉붕대나 가열을 피함. 경구 NSAID와 일률적으로 중복하지 않으며 NSAID 과민반응 병력이 있으면 외용제도 제품별 금기를 확인함
+  * diclofenac gel <mark style="color:blue;">\[[볼타렌에멀겔](https://www.health.kr/drug/2017010200022)]</mark>, ketoprofen patch <mark style="color:blue;">\[[케토톱플라스타](https://www.health.kr/drug/A11A0230A0381)]</mark>; 손상된 피부·눈·점막에는 사용하지 않고 밀봉붕대나 가열을 피함. 경구 NSAID와 일률적으로 중복하지 않으며 NSAID 과민반응 병력이 있으면 외용제도 제품별 금기를 확인함
   * ketoprofen 외용제 : 사용 중 및 중단 후 2주까지 적용 부위의 자외선 노출을 피함(광과민 반응); 15세 미만에서는 사용하지 않음
 * NSAID 안전성 : 부루펜 금기 - 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애, 심한 고혈압·혈액 이상, CABG 전후 통증, 항암요법의 고용량 methotrexate 병용 등. PPI 병용으로 금기를 해소할 수 없음. 항응고·항혈소판제 병용, 탈수, 이뇨제와 ACE 억제제/ARB 병용에서는 출혈·급성 콩팥손상 위험을 평가하고 다른 경구 NSAID와 중복하지 않음. 저용량 아스피린 복용자는 이부프로펜의 항혈소판 효과 간섭도 고려함
 * Acetaminophen 안전성 : 타이레놀 금기 - 성분 과민증, 소화성궤양, 심한 혈액 이상, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등. NSAID 금기 환자에게도 자동으로 안전한 대안은 아니며, 복용 중 음주를 피함
@@ -348,6 +348,7 @@ flowchart TD
 > ※ 통증 호전 시 중단; 수일간 단기 사용 후 필요시 재평가
 > ※ 손목 보호대 착용 및 안정 병행
 > ```
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽국소 통증이 주이면 국소 NSAID를 먼저 고려할 수 있음. 경구 NSAID는 위장관·신장·심혈관 위험과 항응고제 병용 여부를 확인하고 최소 유효 용량·최단 기간 사용; 골절·인대 손상 의심 소견이 있으면 이 처방례를 적용하지 않음_
 
@@ -367,6 +368,7 @@ flowchart TD
 > 통증 동반 시 부루펜정 200 ㎎/T  1~2T  tid  pc  prn  단기간 사용
 > corticosteroid injection  조기에 고려
 > ```
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽요골 붓돌기 압통과 Eichhoff maneuver 또는 Finkelstein test가 진단에 도움이 됨. Corticosteroid injection 후 3\~4주 thumb spica immobilization을 병용하는 전략이 메타분석에서 1차 치료로 제안됨. CSI 단독과 비교한 추가적인 기능 개선은 통계적으로 유의했으나 임상적으로 의미 있는 차이에는 미치지 못했음(JAMA Netw Open 2023)._
 

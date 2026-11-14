@@ -340,13 +340,13 @@ _✽아래 경구제 용량과 처방례는 성인 예시임. 제형별 허가 �
 
 ### <mark style="color:orange;">경구제</mark>
 
-* acetaminophen : 속방정은 500\~1,000 ㎎ 1일 3\~4회(간격 4\~6시간) prn <mark style="color:blue;">\[타이레놀]</mark>(허가 최대량 4,000 ㎎/일). OA에서 효과는 제한적이므로 NSAID가 부적합한 경우 등에 단기·간헐적으로 고려하며, 반복 사용 시 일반적으로 3,000 ㎎/일 이내를 목표로 하고 간질환·과음·쇠약 등에서는 더 낮게 조정. 서방정 <mark style="color:blue;">\[타이레놀8시간이알서방]</mark>은 650 ㎎/T 2T q8h, 24시간 최대 6T(3,900 ㎎)이며 쪼개거나 씹지 않음; 속방정 용량·간격과 혼용하지 않음
-* ibuprofen : 허가 용법상 OA·연조직 손상은 200\~600 ㎎ 1일 3\~4회, 경증\~중등도 통증은 200\~400 ㎎ 1일 3\~4회 <mark style="color:blue;">\[부루펜]</mark>. 허가 최대량 3,200 ㎎/일은 일상적 목표 용량이 아니며, 최소 유효 용량을 최단 기간 사용
-* naproxen : OA는 250\~500 ㎎ bid(q12h) <mark style="color:blue;">\[낙센]</mark>. 급성 골격근장애·건염·점액낭염은 초회 500 ㎎ 후 250 ㎎ q6\~8h, 1일 최대 1,250 ㎎(허가 용법); 적응증별 용량을 구분
-* celecoxib : OA 용법은 200 ㎎ qd 또는 100 ㎎ bid. 일부 비선택적 NSAID보다 GI 위험이 낮을 수 있으나 출혈 위험은 남아 있고 심혈관·신장 위험은 별도 평가. 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II\~IV 심부전, 중증 신장애(CrCl ＜30 ㎖/분), 중증 간장애, 활동성 소화성궤양/위장관 출혈, 염증성 장질환, 설폰아미드 과민반응 등에는 금기 <mark style="color:blue;">\[쎄레브렉스]</mark>
-* duloxetine : **NSAID에 반응이 적절하지 않은 OA 통증**에 허가됨. 30 ㎎ qd로 1주 시작한 뒤 60 ㎎ qd로 증량; OA 통증에서 60 ㎎/일 초과는 추가 이득 없이 이상반응을 늘릴 수 있음 <mark style="color:blue;">\[드록틴]</mark>. 간질환, CrCl ＜30 ㎖/분·투석, 조절되지 않는 고혈압·협우각녹내장 및 MAOI 병용 등은 금기. 구역·어지럼·기립성 저혈압·낙상·저나트륨혈증, NSAID/항응고제 병용 시 출혈, tramadol 등과 병용 시 세로토닌증후군에 주의. 급성 손상 진통제로 사용하지 않으며 갑자기 중단하지 않음; 허가사항에 따르면 OA 통증에서 13주 초과의 안전성·유효성은 연구되지 않아 지속 필요성을 재평가 <mark style="color:$info;">\[허가사항; ACR 2026]</mark>
+* acetaminophen : 속방정은 500\~1,000 ㎎ 1일 3\~4회(간격 4\~6시간) prn <mark style="color:blue;">\[[타이레놀](https://www.health.kr/drug/2021082400002)]</mark>(허가 최대량 4,000 ㎎/일). OA에서 효과는 제한적이므로 NSAID가 부적합한 경우 등에 단기·간헐적으로 고려하며, 반복 사용 시 일반적으로 3,000 ㎎/일 이내를 목표로 하고 간질환·과음·쇠약 등에서는 더 낮게 조정. 서방정 <mark style="color:blue;">\[[타이레놀8시간이알서방](https://www.health.kr/drug/2022020300026)]</mark>은 650 ㎎/T 2T q8h, 24시간 최대 6T(3,900 ㎎)이며 쪼개거나 씹지 않음; 속방정 용량·간격과 혼용하지 않음
+* ibuprofen : 허가 용법상 OA·연조직 손상은 200\~600 ㎎ 1일 3\~4회, 경증\~중등도 통증은 200\~400 ㎎ 1일 3\~4회 <mark style="color:blue;">\[[부루펜 200 ㎎](https://www.health.kr/drug/A11A0500A0097)·[400 ㎎](https://www.health.kr/drug/A11A0500A0131)]</mark>. 허가 최대량 3,200 ㎎/일은 일상적 목표 용량이 아니며, 최소 유효 용량을 최단 기간 사용
+* naproxen : OA는 250\~500 ㎎ bid(q12h) <mark style="color:blue;">\[[낙센](https://www.health.kr/drug/A11A0120A0286)]</mark>. 급성 골격근장애·건염·점액낭염은 초회 500 ㎎ 후 250 ㎎ q6\~8h, 1일 최대 1,250 ㎎(허가 용법); 적응증별 용량을 구분
+* celecoxib : OA 용법은 200 ㎎ qd 또는 100 ㎎ bid. 일부 비선택적 NSAID보다 GI 위험이 낮을 수 있으나 출혈 위험은 남아 있고 심혈관·신장 위험은 별도 평가. 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II\~IV 심부전, 중증 신장애(CrCl ＜30 ㎖/분), 중증 간장애, 활동성 소화성궤양/위장관 출혈, 염증성 장질환, 설폰아미드 과민반응 등에는 금기 <mark style="color:blue;">\[[쎄레브렉스 100 ㎎](https://www.health.kr/drug/A11ABBBBB1345)·[200 ㎎](https://www.health.kr/drug/A11ABBBBB1346)]</mark>
+* duloxetine : **NSAID에 반응이 적절하지 않은 OA 통증**에 허가됨. 30 ㎎ qd로 1주 시작한 뒤 60 ㎎ qd로 증량; OA 통증에서 60 ㎎/일 초과는 추가 이득 없이 이상반응을 늘릴 수 있음 <mark style="color:blue;">\[[드록틴 30 ㎎](https://www.health.kr/drug/2014052800008)·[60 ㎎](https://health.kr/drug/2014051500004)]</mark>. 간질환, CrCl ＜30 ㎖/분·투석, 조절되지 않는 고혈압·협우각녹내장 및 MAOI 병용 등은 금기. 구역·어지럼·기립성 저혈압·낙상·저나트륨혈증, NSAID/항응고제 병용 시 출혈, tramadol 등과 병용 시 세로토닌증후군에 주의. 급성 손상 진통제로 사용하지 않으며 갑자기 중단하지 않음; 허가사항에 따르면 OA 통증에서 13주 초과의 안전성·유효성은 연구되지 않아 지속 필요성을 재평가 <mark style="color:$info;">\[허가사항; ACR 2026]</mark>
 * tramadol 또는 opioid : 급성 근골격계 손상의 일상적 1차 치료로 권고하지 않음; NSAID·acetaminophen 등에 비해 추가 이득이 제한적이고 부작용·의존 및 지속 사용 위험이 있어, 중증 외상성 통증 등 선택된 경우에만 단기간 고려 <mark style="color:$info;">\[ACP/AAFP 2020]</mark>. OA에서는 **ACR 2026이 opioid에 조건부 반대**하고 AAOS 2021도 tramadol을 포함한 경구 opioid를 권고하지 않으므로, 과거 ACR/AF 2019의 tramadol 조건부 권고를 현재의 기본 방침으로 제시하지 않음
-* 위령선·괄루근·하고초 복합추출물(SKI306X) : OA·RA의 증상 완화에 허가된 복합추출물로, 주요 국제 지침의 표준 1차 약제로 확립된 것은 아님. RA에서는 DMARD를 대체하지 않음; 200 ㎎ tid <mark style="color:blue;">\[조인스]</mark>
+* 위령선·괄루근·하고초 복합추출물(SKI306X) : OA·RA의 증상 완화에 허가된 복합추출물로, 주요 국제 지침의 표준 1차 약제로 확립된 것은 아님. RA에서는 DMARD를 대체하지 않음; 200 ㎎ tid <mark style="color:blue;">\[[조인스](https://www.health.kr/drug/A11AMMMMM1498)]</mark>
 
 {% hint style="info" %}
 **보조 요법(강황, 생강 추출물, glucosamine, chondroitin, Vit D)**\
@@ -366,9 +366,9 @@ _✽아래 경구제 용량과 처방례는 성인 예시임. 제형별 허가 �
 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&sno=1\&mtgMtrRegSno=0031))
 
 * knee OA에서는 전신 노출과 부작용을 줄이기 위해 국소 NSAID를 경구 NSAID보다 우선 고려할 수 있음 <mark style="color:$info;">\[AAOS 2021, ACR 2026]</mark>. 다만 근거는 제형·성분에 따라 차이가 있으므로 파스형 제제를 diclofenac gel 등의 근거와 완전히 동일하게 일반화하지 않음
-* ketoprofen : <mark style="color:blue;">\[케토톱플라스타]</mark>는 1일 2회, <mark style="color:blue;">\[케토톱엘플라스타]</mark>는 1일 1회 부착하므로 혼동하지 않음. 두 첩부제는 **15세 미만·임신기간 6개월 이상 금기**이며 그 이전 임신·수유도 사전 평가. 광과민 반응에 주의하여 사용 중·중단 후 2주간 적용 부위의 햇빛/자외선 노출을 피하고, 약 1주 사용해도 호전이 없으면 중단·재평가. 겔은 해당 제품의 용법을 별도 적용 <mark style="color:$info;">\[허가사항]</mark>
-* piroxicam : <mark style="color:blue;">\[트라스트패취]</mark>는 2일마다 1매 부착(목욕·샤워 후 또는 땀이 날 때는 1일 1매 가능). 14세 이하 소아, 임부·임신 가능 여성·수유부, aspirin 천식/병력 등은 금기. <mark style="color:blue;">\[트라스트겔]</mark>과 용법·주의사항을 혼용하지 않음 <mark style="color:$info;">\[허가사항]</mark>
-* capsaicin : 감각 신경 말단의 탈감작 효과; 효과는 반복 사용 후 나타나며 개인차가 있음; 초기에 일시적 작열감·발적 가능; 0.075% cream 1일 3\~4회(간격 ≥4시간) <mark style="color:blue;">\[다이악센크림]</mark>
+* ketoprofen : <mark style="color:blue;">\[[케토톱플라스타](https://www.health.kr/drug/A11A0230A0381)]</mark>는 1일 2회, <mark style="color:blue;">\[[케토톱엘플라스타](https://www.health.kr/drug/A11A0230A0402)]</mark>는 1일 1회 부착하므로 혼동하지 않음. 두 첩부제는 **15세 미만·임신기간 6개월 이상 금기**이며 그 이전 임신·수유도 사전 평가. 광과민 반응에 주의하여 사용 중·중단 후 2주간 적용 부위의 햇빛/자외선 노출을 피하고, 약 1주 사용해도 호전이 없으면 중단·재평가. 겔은 해당 제품의 용법을 별도 적용 <mark style="color:$info;">\[허가사항]</mark>
+* piroxicam : <mark style="color:blue;">\[[트라스트패취](https://health.kr/drug/A11A1890A0154)]</mark>는 2일마다 1매 부착(목욕·샤워 후 또는 땀이 날 때는 1일 1매 가능). 14세 이하 소아, 임부·임신 가능 여성·수유부, aspirin 천식/병력 등은 금기. <mark style="color:blue;">\[[트라스트겔](https://www.health.kr/drug/A11A1890A0168)]</mark>과 용법·주의사항을 혼용하지 않음 <mark style="color:$info;">\[허가사항]</mark>
+* capsaicin : 감각 신경 말단의 탈감작 효과; 효과는 반복 사용 후 나타나며 개인차가 있음; 초기에 일시적 작열감·발적 가능; 0.075% cream 1일 3\~4회(간격 ≥4시간) <mark style="color:blue;">\[[다이악센크림](https://www.health.kr/drug/A11AMMMMM0570)]</mark>
 
 ***
 
@@ -377,7 +377,7 @@ _✽아래 경구제 용량과 처방례는 성인 예시임. 제형별 허가 �
 (☞ [골관절염](135_-osteoarthritis-oa.md))
 
 * steroid 관절 내 주사 : 감염성 관절염 의심 시에는 주사하지 않고 관절액 검사 등으로 우선 평가. OA에서 단기 통증 완화(대개 2\~10주<mark style="color:$info;">\[NICE NG226]</mark>)에 사용하며 운동 치료를 돕는 보조 수단으로 설명. 힘줄 내 주사는 피함. 인공관절에는 일상적으로 시행하지 않고 수술팀과 협의; 인공관절치환술 예정이면 수술 전 최소 3개월 간격을 확보하도록 수술팀과 조정 <mark style="color:$info;">\[EULAR 2021]</mark>. 반복 주사의 적정 횟수에 대한 확립된 근거는 없으며 잦은 장기 반복은 피함. 이전 주사의 효과·지속 기간, 감염·조직 손상 위험과 수술 계획에 따라 개별 결정함; 관행적으로 동일 관절 연 3\~4회 초과를 피하지만 이 숫자도 검증된 절대 상한은 아님(135 참조) <mark style="color:blue;">\[트리암시놀론]</mark>
-* hyaluronic acid(HA) 관절 내 주사(viscosupplementation) : OA에서 통증 감소·기능 향상 보고가 있으나, knee OA 환자에서의 일률적 사용은 권고하지 않음 <mark style="color:$info;">\[AAOS 2021]</mark>; ACR 2026도 사용에 조건부 반대 - VA/DOD 2026은 다른 중재에도 통증이 지속되는 무릎 OA에서 찬반 권고 근거가 불충분하다고 평가함. **표준 1차 치료로 확립된 것은 아니므로 기대 효과·비용·대안을 개별 상담 후 선택** <mark style="color:blue;">\[히루안 플러스]</mark>(1회/주 ×3주), <mark style="color:blue;">\[시노비안 주]</mark>
+* hyaluronic acid(HA) 관절 내 주사(viscosupplementation) : OA에서 통증 감소·기능 향상 보고가 있으나, knee OA 환자에서의 일률적 사용은 권고하지 않음 <mark style="color:$info;">\[AAOS 2021]</mark>; ACR 2026도 사용에 조건부 반대 - VA/DOD 2026은 다른 중재에도 통증이 지속되는 무릎 OA에서 찬반 권고 근거가 불충분하다고 평가함. **표준 1차 치료로 확립된 것은 아니므로 기대 효과·비용·대안을 개별 상담 후 선택** <mark style="color:blue;">\[[히루안 플러스](https://www.health.kr/drug/A11AOOOOO6860)]</mark>(1회/주 ×3주), <mark style="color:blue;">\[[시노비안 주](https://www.health.kr/drug/2013101600002)]</mark>
 * polynucleotide(PN) 관절강내 주입용 의료기기 : 슬관절 골관절염에 사용하는 조직수복용 생체재료. Kellgren-Lawrence grade I\~III 등의 대상 범위는 급여기준과 구분하여 확인. 일부 연구에서 증상 완화가 보고되었으나 연골 재생·질병 진행 억제 효과가 입증된 치료로 설명하지 않음. 급여 대상·횟수·동시 투여 제한과 임상적 효과의 근거는 별개로 판단함 <mark style="color:blue;">\[콘쥬란]</mark>
 * platelet-rich plasma(PRP) 관절 내 주사 : symptomatic knee OA에서 통증·기능 개선에 도움이 될 수 있으나 제제(leukocyte-rich vs -poor)·제조법과 연구 간 이질성이 큼. **AAOS 2021은 제한적 근거(Limited recommendation)로 긍정적 권고**를 제시하나, ACR 2026은 강하게 반대하여 가이드라인 간 견해가 상이함 - **표준 치료가 아니므로 시행 전 개별 상담 필요**
 * botulinum toxin A 주사 : 일부 난치성 PFP 연구에서 외측광근 등에 주입한 결과가 보고되었으나 근거가 제한적임. PFP 치료는 허가 외 사용이며 표준 치료로 권고하지 않음; 교육·운동 치료가 우선
@@ -435,6 +435,7 @@ _<mark style="color:$info;">Ref. ACR. 2026 Update of the Recommendations for the
 > ```
 > 타이레놀정 500 ㎎/T  1~2T  q6h  prn  (24시간 내 최대 6T)
 > ```
+> 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽속방정의 보수적 1일 최대 6T(3,000 ㎎) 예시이며 허가 최대량 8T(4,000 ㎎)와 구분. 감기약·복합진통제의 acetaminophen 중복을 피함. 국소 치료를 선택하면 케토톱엘플라스타 1일 1회 등을 대안으로 고려하며 자동 병용하지 않음. 초기 통증 유발 활동을 줄이고 필요시 냉찜질·압박·거상을 병행하되 장기간 완전 안정은 피함; 48\~72시간 후에도 부종·통증이 지속되거나 관절 불안정 소견이 있으면 재평가_
 
@@ -443,6 +444,7 @@ _<mark style="color:$info;">Ref. ACR. 2026 Update of the Recommendations for the
 > ```
 > 부루펜정 200 ㎎/T  2T  tid  pc  (단기간)
 > ```
+> 약제 정보: [부루펜정·200 ㎎](https://www.health.kr/drug/A11A0500A0097)
 >
 > _✽큰 혈관절증·신전기전 파열은 즉시 보호·당일 긴급 정형외과 평가, true locked knee는 당일 정형외과 평가, 뚜렷한 불안정성은 신속 전문 평가. 골절/탈구 의심 시 X-ray 등으로 먼저 평가하며 진통제 처방 때문에 의뢰를 늦추지 않음. 검사 결과가 치료 방침을 바꿀 경우 MRI 고려. 경구 NSAID와 국소 NSAID의 병용을 일률적으로 처방하지 않음; tramadol/opioid는 일상적 1차 치료로 권고하지 않음_
 
@@ -451,6 +453,7 @@ _<mark style="color:$info;">Ref. ACR. 2026 Update of the Recommendations for the
 > ```
 > 케토톱엘플라스타 7매/포  1일 1회 부착
 > ```
+> 약제 정보: [케토톱엘플라스타·30 ㎎/매](https://www.health.kr/drug/A11A0230A0402)
 >
 > _✽전신 부작용을 줄이고자 하는 경우 국소 NSAID를 우선 고려<mark style="color:$info;">\[AAOS 2021, ACR 2026]</mark>. 운동·교육·체중관리를 함께 시행하며 국소 NSAID의 근거는 성분·제형에 따라 차이가 있음. 조인스정은 효과·비용을 개별 상담한 뒤 선택적으로 고려하며 모든 환자에게 기본 병용하지 않음_
 
@@ -459,6 +462,7 @@ _<mark style="color:$info;">Ref. ACR. 2026 Update of the Recommendations for the
 > ```
 > 쎄레브렉스캡슐 200 ㎎/C  1C  qd
 > ```
+> 약제 정보: [쎄레브렉스캡슐·200 ㎎](https://www.health.kr/drug/A11ABBBBB1346)
 >
 > _✽NSAID가 필요한 환자에서 선택 가능한 경구 NSAID 중 하나. GI 위험이 높을 때 고려할 수 있으나 확립된 심혈관질환·NYHA II\~IV 심부전·중증 신장애 등 금기를 먼저 확인하고, 가능한 최소 유효 용량·최단 기간 사용_
 
@@ -467,6 +471,7 @@ _<mark style="color:$info;">Ref. ACR. 2026 Update of the Recommendations for the
 > ```
 > 콜킨정 0.6 ㎎/T  2T  즉시 복용 후 1시간 뒤 1T 추가
 > ```
+> 약제 정보: [콜킨정·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽발작 초기 총 1.8 ㎎의 저용량 colchicine 요법(콜킨정 허가 용법). ‘12시간 후 예방 용량 재개’는 이미 예방 목적으로 복용 중인 환자에게 해당하며 초발 환자의 일률적 유지 처방이 아님. 이후 항염증 치료는 증상·동반질환에 따라 개별화하며 NSAID 또는 단기 글루코코르티코이드도 대안<mark style="color:$info;">\[ACR 2020]</mark>. 신기능·간기능 및 CYP3A4/P-gp 억제제(예: 클래리스로마이신, 사이클로스포린) 병용을 확인. 중증 위장관·간·신·심·혈액질환 및 신장 또는 간장애가 있으면서 강력한 CYP3A4 억제제/P-gp 억제제를 병용하는 경우에는 금기. 중증 신장애·투석 환자에게 이 처방례를 적용하지 않고 다른 항염증 치료를 선택하며, 그 밖의 기능 저하·고령 환자도 개별 평가. 초발·진단 불확실·감염 의심 시 관절천자로 결정 및 감염을 평가하며, 결정이 확인되어도 동시 감염은 배제되지 않음_
 
