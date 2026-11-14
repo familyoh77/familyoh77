@@ -286,14 +286,14 @@
 
 #### <mark style="color:$primary;">Myocardial ischemia</mark>
 
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ <a href="../225_/097_-angina-pectoris.md">협심증</a>): 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td></tr><tr><td><strong>동반 특징</strong></td><td>• 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>• MINOCA(myocardial injury with non-obstructive coronary arteries; 2026 Fifth UDMI에서 'infarction'→'injury'로 명칭 변경, 확정 진단이 아닌 원인 규명이 필요한 작업 진단) : 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함<br>• 젊은 연령 + 심혈관 위험인자 없는 ACS : 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>• Young patient trap : 젊고 위험인자가 없어도 ACS 가능*</td></tr></tbody></table>
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ <a href="../225_/097_-angina-pectoris.md">협심증</a>): 운동, 추위, 스트레스에 의해 유발; 지속시간2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td></tr><tr><td><strong>동반 특징</strong></td><td>• 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>• MINOCA(myocardial injury with non-obstructive coronary arteries): 급성 심근손상과 함께 심근경색이 의심되지만 관상동맥 조영술에서 유의한 협착(≥50%)이 없는 경우의 작업 진단. 관상동맥 연축·미세혈관기능장애·심근염·Takotsubo 증후군 등 원인 규명이 필요함<br>• 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>• Young patient trap: 젊고 위험인자가 없어도 ACS 가능*</td></tr></tbody></table>
 
-_\* ① SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발), ② 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려), ③ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험_
+> _\* ① SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발), ② 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려), ③ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험_
 
 #### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
-* 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
+* 분류 : unstable angina, ST elevation MI(STEMI), non–ST segment elevation MI(NSTEMI)
 * ACS 의심 시 즉시 12-lead ECG를 시행하고 혈역학적 안정 여부, 임상 맥락, serial hs-cTn 결과를 함께 평가
 * ACS/급성 허혈을 시사하는 ECG 소견 : 새로운 또는 동적인 ST elevation/depression, 새로운 또는 동적인 T-wave inversion 등; pathologic Q wave는 이전 또는 진행된 MI를 시사할 수 있으므로 임상 맥락과 이전 ECG를 함께 비교
   * new LBBB 단독은 더 이상 STEMI equivalent로 보지 않음; LBBB 또는 우심실 페이싱(RV paced rhythm) 동반 시 Sgarbossa 기준(또는 modified Smith-Sgarbossa 기준) 적용 권장 - 두 경우 모두 표준 ST 편위 판독이 제약되므로 동일하게 적용
