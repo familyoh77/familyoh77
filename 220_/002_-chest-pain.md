@@ -241,35 +241,9 @@
 * 부하 검사 정상(충분한 운동 또는 약물부하 조건 충족, 영상 품질 양호) 시 1년
 * 이전 검사가 비-진단적이었거나 경도 이상 소견이 있었던 경우에는 새로운 증상 발생 시 재평가
 
-### <mark style="color:orange;">심장성 흉통의 평가 및 감별</mark>
+### <mark style="color:orange;">허혈성 흉통의 증상 평가</mark>
 
-**평가 도구 선택**
-
-<table><thead><tr><th width="230">상황</th><th>권장 도구</th></tr></thead><tbody><tr><td><strong>1차 진료의 안정형 흉통</strong></td><td>MHS, INTERCHEST를 CAD 가능성 추정의 보조 도구로 사용 가능</td></tr><tr><td><strong>응급실의 급성 흉통</strong></td><td>HEART Pathway(HEART score + serial troponin) 등 ECG·serial hs-cTn을 포함한 검증된 CDP</td></tr></tbody></table>
-
-* [MHS](002_-chest-pain.md#marburg-heart-score-mhs), [INTERCHEST](002_-chest-pain.md#interchest-rule) : 1차 진료의 안정형 흉통에서 CAD 사전 확률 추정에 특화; 검사 전 단계에서 활용
-* [HEART score](002_-chest-pain.md#heart-score) : 단기 MACE(major adverse cardiovascular events) 예측 도구; serial hs-cTn과 결합한 CDP(예: HEART Pathway)로 사용할 때 퇴원·관찰·입원 결정에 유용
-* 단, 어떤 점수 도구도 생명 위협 원인이 임상적으로 의심되는 환자의 응급 이송을 지연시키거나 ACS를 단독 배제하는 용도로 사용해서는 안 됨
-
-#### <mark style="color:$primary;">심근 허혈·급성 관상동맥증후군</mark>
-
-**심근 허혈 (Myocardial ischemia)**
-
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ <a href="../225_/097_-angina-pectoris.md">협심증</a>): 운동, 추위, 스트레스에 의해 유발; 지속시간2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td></tr><tr><td><strong>동반 특징</strong></td><td>• 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>• MINOCA(myocardial injury with non-obstructive coronary arteries): 급성 심근손상과 함께 심근경색이 의심되지만 관상동맥 조영술에서 유의한 협착(≥50%)이 없는 경우의 작업 진단. 관상동맥 연축·미세혈관기능장애·심근염·Takotsubo 증후군 등 원인 규명이 필요함<br>• 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>• Young patient trap: 젊고 위험인자가 없어도 ACS 가능*</td></tr></tbody></table>
-
-> _\* ① SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발), ② 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려), ③ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험_
-
-**급성 관상동맥증후군 (ACS)**
-
-* 급성 심근 허혈로 인한 일련의 임상증후군
-* 분류 : unstable angina, ST elevation MI(STEMI), non–ST segment elevation MI(NSTEMI)
-* ACS 의심 시 즉시 12-lead ECG를 시행하고 혈역학적 안정 여부, 임상 맥락, serial hs-cTn 결과를 함께 평가
-* ACS/급성 허혈을 시사하는 ECG 소견 : 새로운 또는 동적인 ST elevation/depression, 새로운 또는 동적인 T-wave inversion 등
-  * pathologic Q wave는 이전 또는 진행된 MI를 시사할 수 있으므로 임상 맥락과 이전 ECG를 함께 비교
-  * new LBBB 단독은 더 이상 STEMI equivalent로 보지 않음
-    * LBBB 또는 우심실 페이싱(RV paced rhythm) 동반 시 Sgarbossa 기준(또는 modified Smith-Sgarbossa 기준) 적용 권장 - 두 경우 모두 표준 ST 편위 판독이 제약되므로 동일하게 적용
-
-<mark style="color:cyan;">**급성 심근경색 가능성**</mark>
+#### <mark style="color:$primary;">급성 심근경색을 시사하는 증상</mark>
 
 * **가능성 높음** : 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 같은 자리에 같은 증상 반복 발생, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
   * Levine's sign(증상을 묘사할 때 가슴 위에 주먹을 얹음)은 제한적인 보조 소견
@@ -278,7 +252,7 @@
 * 여성에서의 ACS 증상 : 여성에서도 흉통이 가장 흔하며, 오심·호흡곤란·피로 등의 동반 증상이 남성보다 더 흔할 수 있음. 아래 증상만 나타나더라도 전체 임상 맥락에 따라 ACS 가능성을 평가
   * 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로
 
-<mark style="color:cyan;">**협심증을 시사하는 주요 증상 특징**</mark>
+#### <mark style="color:$primary;">협심증을 시사하는 주요 증상 특징</mark>
 
 * [협심증](../225_/097_-angina-pectoris.md)을 시사하는 3가지 특징
   1. 특징적인 성상과 지속 시간을 보이는 흉골 뒤 불편감
@@ -288,7 +262,7 @@
   * 단, 특징의 개수만으로 '심장성·심장성 가능·비심장성'을 결정하지 않으며, 일부 특징이 없더라도 ACS를 배제할 수 없음. 전체 병력·위험인자·ECG 및 필요한 검사를 종합하여 판단함
     * 20분 이상 지속되는 흉통은 ACS 가능성을 높이는 별도 경고 소견으로 평가
 
-**흉통 양상에 따른 허혈성 감별**
+#### <mark style="color:$primary;">흉통 양상에 따른 허혈성 감별</mark>
 
 * 병력 청취 시 아래 7가지 항목을 체계적으로 확인
 
@@ -301,6 +275,16 @@
 {% hint style="info" %}
 **병력 청취 핵심 원칙** : 흉통의 특성은 반드시 환자로부터 직접 청취해야 함. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없음. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있음.
 {% endhint %}
+
+### <mark style="color:orange;">관상동맥질환 평가 도구</mark>
+
+**평가 도구 선택**
+
+<table><thead><tr><th width="230">상황</th><th>권장 도구</th></tr></thead><tbody><tr><td><strong>1차 진료의 안정형 흉통</strong></td><td>MHS, INTERCHEST를 CAD 가능성 추정의 보조 도구로 사용 가능</td></tr><tr><td><strong>응급실의 급성 흉통</strong></td><td>HEART Pathway(HEART score + serial troponin) 등 ECG·serial hs-cTn을 포함한 검증된 CDP</td></tr></tbody></table>
+
+* [MHS](002_-chest-pain.md#marburg-heart-score-mhs), [INTERCHEST](002_-chest-pain.md#interchest-rule) : 1차 진료의 안정형 흉통에서 CAD 사전 확률 추정에 특화; 검사 전 단계에서 활용
+* [HEART score](002_-chest-pain.md#heart-score) : 단기 MACE(major adverse cardiovascular events) 예측 도구; serial hs-cTn과 결합한 CDP(예: HEART Pathway)로 사용할 때 퇴원·관찰·입원 결정에 유용
+* 단, 어떤 점수 도구도 생명 위협 원인이 임상적으로 의심되는 환자의 응급 이송을 지연시키거나 ACS를 단독 배제하는 용도로 사용해서는 안 됨
 
 #### <mark style="color:$primary;">CAD 가능성 평가</mark>
 
@@ -340,27 +324,9 @@
 * HEART score는 원래 뚜렷한 STEMI가 아닌, 진단이 불확실한 흉통 환자를 대상으로 개발·검증된 도구임
   * 새로운 진단적 ST elevation 또는 그 밖의 고위험 허혈성 ECG 변화(예: 새 LBBB 동반 Sgarbossa 양성)가 있으면 HEART score로 저위험 여부를 판단하지 않고 즉시 ACS/STEMI 평가 경로로 전환할 것
 
-#### <mark style="color:$primary;">심낭염 (Pericarditis)</mark>
+### <mark style="color:orange;">폐색전증 평가 도구</mark>
 
-<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간~수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>• 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>• 진단(2025 ESC IMPS 가이드라인 Table 4 기준) : 임상 소견(흉통 등) + 추가 기준 항목 수로 판정 - Definite : 추가 기준 ＞1개 충족; Possible : 추가 기준 1개 충족; Unlikely : 임상 소견만 있고 추가 기준 없음. 추가 기준 4개 항목 - ① 임상 : pericardial rub, ② ECG : PR 하강 또는 광범위 ST 상승, ③ 검사실 : CRP 상승, ④ 영상 : 새로운/악화된 심낭 삼출 또는 CMR상 심낭 부종·지연조영증강(LGE)<br>• Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>• 주요 고위험인자: 발열 ＞38°C, subacute onset, 대량 심낭삼출(심초음파상 ＞20 ㎜), 심낭압전, aspirin/NSAID 치료 최소 1주 후에도 반응 없음<br>• 추가 위험인자: 면역억제 상태, 외상, 경구 항응고제 사용, myocarditis 동반<br>• 고위험 소견이 있으면 입원 평가. 고위험 소견이 없으면 외래 치료 후 1주에 반응을 평가하며, 악화 시 조기 재평가</td></tr></tbody></table>
-
-### <mark style="color:orange;">급성 대동맥증후군 (AAS)</mark>
-
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도까지 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
-
-> _✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)_
->
-> _✽ 등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨_
-
-<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis &#x26; Pericarditis Guidelines</mark></em></p>
-
-### <mark style="color:orange;">폐·흉막성 흉통의 평가 및 감별</mark>
-
-#### <mark style="color:$primary;">폐색전증</mark>
-
-<table><thead><tr><th width="139.42108154296875">질환</th><th width="134.89471435546875">시작 / 기간</th><th width="193.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr></tbody></table>
-
-<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1.</mark></em></p>
+#### <mark style="color:$primary;">진단 가능성 평가 및 배제</mark>
 
 **Wells Score**
 
@@ -379,6 +345,8 @@
 
 <table data-search="false"><thead><tr><th width="209">항목</th><th width="422.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>＜50세</td></tr><tr><td>심박수</td><td>＜100회/분</td></tr><tr><td>SpO₂</td><td>실내 공기에서 ≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>4주 이내 입원 또는 기관삽관이 필요했던 수술·외상 없음</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
 
+#### <mark style="color:$primary;">확진 후 중증도·예후 평가</mark>
+
 {% hint style="info" %}
 **PE 중증도 및 예후 평가 도구 - PESI / sPESI**
 
@@ -392,6 +360,48 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 ☞ [sPESI 계산기](https://www.mdcalc.com/calc/1247/simplified-pesi-pulmonary-embolism-severity-index)
 {% endhint %}
+
+### <mark style="color:orange;">심장 질환별 감별</mark>
+
+#### <mark style="color:$primary;">심근 허혈·급성 관상동맥증후군</mark>
+
+**심근 허혈 (Myocardial ischemia)**
+
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ <a href="../225_/097_-angina-pectoris.md">협심증</a>): 운동, 추위, 스트레스에 의해 유발; 지속시간2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td></tr><tr><td><strong>동반 특징</strong></td><td>• 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>• MINOCA(myocardial injury with non-obstructive coronary arteries): 급성 심근손상과 함께 심근경색이 의심되지만 관상동맥 조영술에서 유의한 협착(≥50%)이 없는 경우의 작업 진단. 관상동맥 연축·미세혈관기능장애·심근염·Takotsubo 증후군 등 원인 규명이 필요함<br>• 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>• Young patient trap: 젊고 위험인자가 없어도 ACS 가능*</td></tr></tbody></table>
+
+> _\* ① SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발), ② 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려), ③ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험_
+
+**급성 관상동맥증후군 (ACS)**
+
+* 급성 심근 허혈로 인한 일련의 임상증후군
+* 분류 : unstable angina, ST elevation MI(STEMI), non–ST segment elevation MI(NSTEMI)
+* ACS 의심 시 즉시 12-lead ECG를 시행하고 혈역학적 안정 여부, 임상 맥락, serial hs-cTn 결과를 함께 평가
+* ACS/급성 허혈을 시사하는 ECG 소견 : 새로운 또는 동적인 ST elevation/depression, 새로운 또는 동적인 T-wave inversion 등
+  * pathologic Q wave는 이전 또는 진행된 MI를 시사할 수 있으므로 임상 맥락과 이전 ECG를 함께 비교
+  * new LBBB 단독은 더 이상 STEMI equivalent로 보지 않음
+    * LBBB 또는 우심실 페이싱(RV paced rhythm) 동반 시 Sgarbossa 기준(또는 modified Smith-Sgarbossa 기준) 적용 권장 - 두 경우 모두 표준 ST 편위 판독이 제약되므로 동일하게 적용
+
+#### <mark style="color:$primary;">심낭염 (Pericarditis)</mark>
+
+<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간~수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>• 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>• 진단(2025 ESC IMPS 가이드라인 Table 4 기준) : 임상 소견(흉통 등) + 추가 기준 항목 수로 판정 - Definite : 추가 기준 ＞1개 충족; Possible : 추가 기준 1개 충족; Unlikely : 임상 소견만 있고 추가 기준 없음. 추가 기준 4개 항목 - ① 임상 : pericardial rub, ② ECG : PR 하강 또는 광범위 ST 상승, ③ 검사실 : CRP 상승, ④ 영상 : 새로운/악화된 심낭 삼출 또는 CMR상 심낭 부종·지연조영증강(LGE)<br>• Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>• 주요 고위험인자: 발열 ＞38°C, subacute onset, 대량 심낭삼출(심초음파상 ＞20 ㎜), 심낭압전, aspirin/NSAID 치료 최소 1주 후에도 반응 없음<br>• 추가 위험인자: 면역억제 상태, 외상, 경구 항응고제 사용, myocarditis 동반<br>• 고위험 소견이 있으면 입원 평가. 고위험 소견이 없으면 외래 치료 후 1주에 반응을 평가하며, 악화 시 조기 재평가</td></tr></tbody></table>
+
+### <mark style="color:orange;">급성 대동맥증후군 (AAS)</mark>
+
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도까지 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
+
+> _✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)_
+>
+> _✽ 등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨_
+
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis &#x26; Pericarditis Guidelines</mark></em></p>
+
+### <mark style="color:orange;">폐·흉막 질환별 감별</mark>
+
+#### <mark style="color:$primary;">폐색전증</mark>
+
+<table><thead><tr><th width="139.42108154296875">질환</th><th width="134.89471435546875">시작 / 기간</th><th width="193.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1.</mark></em></p>
 
 #### <mark style="color:$primary;">기타 폐·흉막 질환</mark>
 
@@ -460,7 +470,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1.</mark></em></p>
 
-#### <mark style="color:$primary;">주요 원인 비교</mark>
+### <mark style="color:orange;">주요 원인 비교</mark>
 
 <table data-search="false"><thead><tr><th width="120">구분</th><th width="200">ACS (심근허혈)</th><th width="190">GERD</th><th>근골격</th></tr></thead><tbody><tr><td><strong>통증 성상</strong></td><td>압박감, 조임, 무거움</td><td>작열감(burning), 쓰림</td><td>쑤심, 찌름, 국소 통증</td></tr><tr><td><strong>위치</strong></td><td>흉골 뒤 (retrosternal)</td><td>흉골 뒤/상복부</td><td>국소 (손가락으로 짚음)</td></tr><tr><td><strong>방사</strong></td><td>팔, 턱, 등</td><td>드묾</td><td>대개 없음</td></tr><tr><td><strong>유발</strong></td><td>운동, 스트레스</td><td>식후, 눕기</td><td>움직임, 자세</td></tr><tr><td><strong>완화</strong></td><td>휴식, NTG</td><td>제산제, 직립</td><td>휴식, 자세 변경</td></tr><tr><td><strong>지속 시간</strong></td><td>수분~30분+</td><td>수분~수시간</td><td>수초~수시간</td></tr><tr><td><strong>동반 증상</strong></td><td>발한, 호흡곤란, 오심</td><td>신물, 트림</td><td>압통, 근육통</td></tr></tbody></table>
 
