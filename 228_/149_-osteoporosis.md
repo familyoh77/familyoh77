@@ -290,12 +290,12 @@ flowchart TD
   * 피부 합성은 계절·위도·연령·노출 부위 등에 따라 달라 특정 노출 시간으로 충분한 합성을 보장할 수 없음; Vit D 보충을 위해 과도한 자외선 노출을 권하지 않음
 * ergocalciferol(D2) : 효모와 식물 스테롤인 에르고스테롤로부터 합성
 * calcitriol (1,25-(OH)2D3) : 활성형 Vit D; 경구 0.25 ㎍ 제제 등. 일반적인 cholecalciferol 영양 보충을 대체하는 1차 선택은 아니며 CKD 등 특정 상황에서 사용; 고칼슘혈증·고칼슘뇨 위험 때문에 모니터링 필요
-* alfacalcidol(1-α-(OH)D3) : 간에서 calcitriol로 전환됨; 0.5 ㎍ <mark style="color:blue;">\[알파본]</mark>. 활성형 Vit D와 같은 모니터링 주의 필요
+* alfacalcidol(1-α-(OH)D3) : 간에서 calcitriol로 전환됨; 0.5 ㎍ <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0350A0322">알파본</a>]</mark>. 활성형 Vit D와 같은 모니터링 주의 필요
 * 고용량 간헐적 투여 : 고령 여성에게 **연 1회 500,000 IU를 한 번에 경구 투여**한 RCT에서 낙상·골절 증가가 관찰됨 <mark style="color:$info;">\[JAMA 2010]</mark>. 이를 '연간 누적 500,000\~600,000 IU 이상이면 위험'이라는 기준으로 바꾸거나 모든 주사 용법의 결과로 일반화하지 않음. 보통 매일 경구 보충을 우선하며, 경구 투여가 어려워 주사제를 고려할 때에는 제제별 허가 용량·간격과 혈중 25(OH)D·칼슘을 확인함
 
 #### <mark style="color:$primary;">칼슘 & Vit D 보충제</mark>
 
-<table><thead><tr><th width="140">상품명</th><th width="260">1정 성분 및 원소 칼슘</th><th>허가 용법 및 선택 원칙</th></tr></thead><tbody><tr><td><mark style="color:blue;">[칼디텍츄어블]</mark></td><td>Ca carbonate 1,500 ㎎ + cholecalciferol 400 IU<br>원소 Ca 600 ㎎</td><td>성인 1일 1회 1~2정, 녹이거나 씹어서 복용<br>식사+보충제 총 섭취량을 계산하여 필요한 양만 선택</td></tr><tr><td><mark style="color:blue;">[애드칼큐]</mark></td><td>Ca citrate hydrate 475 ㎎(원소 Ca 100 ㎎) + Vit D3 1,000 IU<br>cyanocobalamin 1 ㎎ + thiamine nitrate 10 ㎎</td><td>성인 1일 1회 1정<br>원소 Ca 함량이 낮아 칼슘 부족량 전체를 충족하는지는 식사와 함께 계산; 비타민D 보충량도 합산</td></tr></tbody></table>
+<table><thead><tr><th width="140">상품명</th><th width="260">1정 성분 및 원소 칼슘</th><th>허가 용법 및 선택 원칙</th></tr></thead><tbody><tr><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO6082">칼디텍츄어블</a>]</mark></td><td>Ca carbonate 1,500 ㎎ + cholecalciferol 400 IU<br>원소 Ca 600 ㎎</td><td>성인 1일 1회 1~2정, 녹이거나 씹어서 복용<br>식사+보충제 총 섭취량을 계산하여 필요한 양만 선택</td></tr><tr><td><mark style="color:blue;">[<a href="https://www.health.kr/drug/2025042900005">애드칼큐</a>]</mark></td><td>Ca citrate hydrate 475 ㎎(원소 Ca 100 ㎎) + Vit D3 1,000 IU<br>cyanocobalamin 1 ㎎ + thiamine nitrate 10 ㎎</td><td>성인 1일 1회 1정<br>원소 Ca 함량이 낮아 칼슘 부족량 전체를 충족하는지는 식사와 함께 계산; 비타민D 보충량도 합산</td></tr></tbody></table>
 
 * ✽기존 애드칼정은 공급이 중단됨. **애드칼큐정과는 칼슘 염·원소 칼슘·Vit D 함량이 다른 제품**이므로 같은 정수로 대체하지 않음
 
@@ -349,7 +349,7 @@ Ref. 각 제품설명서. 보충량은 식사·다른 복합제의 Ca/Vit D까�
 
 {% hint style="info" %}
 **국내 골형성치료제 급여는 임상 위험도 분류와 별도**\
-HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide 주사제는 기존 골흡수억제제 중 한 가지 이상에 효과가 없거나 사용할 수 없고, **≥65세 + 중심골 DXA T-score ≤-2.5 + 골다공증성 골절 ≥2개** 조건을 모두 충족해야 함. '효과 없음'은 1년 이상 충분한 투여에도 새 골절이 발생한 경우이며, 선행 SERM이 인정되는 상황에도 제한이 있음. 포스테오 등은 **최대 24개월(일생 중 과정 반복 불가)**, 테리본은 **≥65세 폐경 여성에서 최대 72주**로 구분하며 두 제제 간 급여 교체투여는 인정되지 않음. Romosozumab도 약제별 선행치료·연령·골절·기간 조건을 별도로 확인함. 임상적으로 초고위험이라는 이유만으로 초치료 급여가 자동 인정되는 것은 아님.
+HIRA 고시 제2026-42호(2026.3.1 시행)에서 <a href="https://www.health.kr/drug/A11AKP08G0658">포스테오</a> 등 teriparatide 주사제는 기존 골흡수억제제 중 한 가지 이상에 효과가 없거나 사용할 수 없고, **≥65세 + 중심골 DXA T-score ≤-2.5 + 골다공증성 골절 ≥2개** 조건을 모두 충족해야 함. '효과 없음'은 1년 이상 충분한 투여에도 새 골절이 발생한 경우이며, 선행 SERM이 인정되는 상황에도 제한이 있음. 포스테오 등은 **최대 24개월(일생 중 과정 반복 불가)**, 테리본은 **≥65세 폐경 여성에서 최대 72주**로 구분하며 두 제제 간 급여 교체투여는 인정되지 않음. Romosozumab도 약제별 선행치료·연령·골절·기간 조건을 별도로 확인함. 임상적으로 초고위험이라는 이유만으로 초치료 급여가 자동 인정되는 것은 아님.
 {% endhint %}
 
 #### <mark style="color:$primary;">선택 tips</mark>
@@ -360,7 +360,7 @@ HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide �
 * 폐경 전 여성 : 이차성 원인 치료가 우선; 낮은 BMD만으로 BP를 일률 처방하지 않음. 취약 골절·지속적 골소실·glucocorticoid 사용 등에서는 임신 계획과 약제의 장기 잔류를 고려하여 전문의와 개별 결정
 * 골흡수억제제 사용이 어렵거나 치료 중에도 골절이 발생하는 고위험 환자 → teriparatide 등 골형성제 고려
 * 골절 초고위험군 → teriparatide(통상 18\~24개월), abaloparatide(18개월; NOGG 2024 기준, 국가별 허가사항 확인) 또는 romosozumab(12개월) 등 골형성 중심 치료 우선 고려 → 이후 bisphosphonate 또는 denosumab 등 항흡수제로 전환(국내 급여 기준은 상단 hint 참고)
-* 척추 골절 예방이 주목적이고 VTE 위험이 낮으며 유방암 위험 감소의 이득이 있는 폐경 여성 : raloxifene <mark style="color:blue;">\[에비스타]</mark>
+* 척추 골절 예방이 주목적이고 VTE 위험이 낮으며 유방암 위험 감소의 이득이 있는 폐경 여성 : raloxifene <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AHHHHH0378">에비스타</a>]</mark>
 * BMD가 증가하지 않았다는 이유만으로 치료 실패로 판단하지 않음; 골절 여부, LSC를 초과한 BMD 감소, 순응도·흡수·이차성 원인을 평가한 뒤 필요 시 약제 변경
 * 경구제 복용이 곤란한 경우, 경구제 복용 순응도가 좋지 않은 경우 → 주사제 고려
 * 골형성제(teriparatide 등)와 denosumab의 순차 치료를 고려하는 경우 → **PTH 선투여 후 denosumab 순서**가 권장되며, denosumab 선투여 후 PTH로 전환하는 순서는 급격한 골소실 위험으로 피함(하단 PTH 항목 hint 참고)
@@ -390,30 +390,30 @@ HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide �
 
 #### <mark style="color:$primary;">Alendronate</mark>
 
-* 용법 : 10 ㎎ qd 또는 70 ㎎ qwk <mark style="color:blue;">\[포사맥스]</mark>, <mark style="color:blue;">\[마시본액]</mark>, <mark style="color:blue;">\[포사맥스플러스]</mark>(70 ㎎/2,800 IU)·<mark style="color:blue;">\[포사맥스플러스디]</mark>(70 ㎎/5,600 IU)(Vit D 복합제)
+* 용법 : 10 ㎎ qd 또는 70 ㎎ qwk <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ADDDDD0798">포사맥스</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014110300016">마시본액</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO7568">포사맥스플러스</a>]</mark>(70 ㎎/2,800 IU)·<mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08B0082">포사맥스플러스디</a>]</mark>(70 ㎎/5,600 IU)(Vit D 복합제)
 
 #### <mark style="color:$primary;">Ibandronate</mark>
 
 * 척추 골절 감소 근거가 확립됨. 고관절 골절 감소는 입증되지 않았고 비척추 골절은 일부 고위험 하위군·사후 분석 근거가 있어, 고관절/비척추 골절 예방의 우선 약제로 선택하지 않음
-* 경구제 : 150 ㎎ qmo <mark style="color:blue;">\[본비바]</mark>, <mark style="color:blue;">\[본비바플러스]</mark>(Vit D 복합제)
+* 경구제 : 150 ㎎ qmo <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0371">본비바</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013070900009">본비바플러스</a>]</mark>(Vit D 복합제)
   * 복용법 : 밤 동안 ≥6시간 공복 후 물 180\~240 ㎖와 함께 복용, 음식·음료(물 제외)·다른 약까지 ≥60분 간격 및 복용 후 60분간 눕지 않음
   * 누락 시 : 다음 예정일까지 **7일 초과** 남았으면 기억한 다음 날 아침 1정 복용 후 원래 일정 유지; **7일 이내**이면 다음 예정일에 복용. 같은 주에 2정을 복용하지 않음
-* 주사제 : 3 ㎎ 3개월마다, 15\~30초간 IV <mark style="color:blue;">\[본비바주]</mark>
+* 주사제 : 3 ㎎ 3개월마다, 15\~30초간 IV <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11APPPPP0962">본비바주</a>]</mark>
 
 #### <mark style="color:$primary;">Pamidronate</mark>
 
 * 국내 경구제·주사제 허가 용법이 있으나, 주요 국제 가이드라인의 표준 1차 bisphosphonate는 alendronate·risedronate·zoledronate가 중심이며 pamidronate는 1차 선택제로 흔히 권고되지 않음
 * 경구제 : 200 ㎎ qd, 식전 1시간 복용 <mark style="color:blue;">\[파노린]</mark>
-* 주사제 : 30 ㎎ 3개월마다, 생리 식염주사액 희석 1\~4시간 IV <mark style="color:blue;">\[파노린주]</mark>
+* 주사제 : 30 ㎎ 3개월마다, 생리 식염주사액 희석 1\~4시간 IV <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3780A0274">파노린주</a>]</mark>
 * 부작용 : 발열(보통 자연 소실), 주사 부위 통증/정맥염, 근골격 통증, 위장관 증상, 두통, 어지럼
 
 #### <mark style="color:$primary;">Risedronate</mark>
 
-* 용법 : 5 ㎎ qd, 35 ㎎ qwk, 75 ㎎을 매월 같은 날짜부터 연속 2일, 150 ㎎ qmo <mark style="color:blue;">\[악토넬]</mark>, <mark style="color:blue;">\[리세넥스엠]</mark>(Vit D 복합제)
+* 용법 : 5 ㎎ qd, 35 ㎎ qwk, 75 ㎎을 매월 같은 날짜부터 연속 2일, <a href="https://www.health.kr/drug/A11AKP08H0034">150 ㎎</a> qmo <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO0804">악토넬</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012040400013">리세넥스엠</a>]</mark>(Vit D 복합제)
 
 #### <mark style="color:$primary;">Zoledronate</mark>
 
-* 골다공증 치료 : 5 ㎎/100 ㎖를 연 1회, ≥15분간 IV <mark style="color:blue;">\[대웅졸레드론산주사액 등 5 ㎎/100 ㎖ 제제]</mark>; 종양용 4 ㎎ 제제의 용법과 혼동하지 않음
+* 골다공증 치료 : 5 ㎎/100 ㎖를 연 1회, ≥15분간 IV <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020022800023">대웅졸레드론산주사액</a> 등 5 ㎎/100 ㎖ 제제]</mark>; 종양용 4 ㎎ 제제의 용법과 혼동하지 않음
 * 매 투여 전 혈청 creatinine·CrCl, 칼슘·Vit D 상태 확인; 탈수 교정 및 충분한 수분 섭취. CrCl ＜35 ㎖/min 또는 급성 신손상에서는 금기
   * NSAID 등 신독성 가능 약물·이뇨제 병용을 확인하고, 고령·탈수·기저 신장애에서는 급성 신손상 위험에 특히 주의함. 주입 후 발열·근육통에 NSAID를 자동 추가하지 않음. 필요 시 acetaminophen을 우선 고려하되 소화성궤양·심한 간·신장·심장기능 장애, TCA·바르비탈계 복용 등 선택 제품의 자체 금기를 확인함(☞ [통증](../220_/001_-pain.md)); 신기능·수분 상태를 함께 평가함 <mark style="color:$info;">\[Zoledronic acid 허가정보]</mark>
 * 부작용 : 심방세동, 발열, 두통, 관절통, 근육통; 초회 주사에서 보다 흔히 발생
@@ -456,8 +456,8 @@ flowchart TD
 * 대사 : reticuloendothelial system에 의해 제거; 신장을 통해 배설되지 않아 신기능에 따른 용량 조절은 불필요
 * 주의 : 중단 시 급격한 골 소실(잔류 효과 없음) 및 반동 골절 위험
   * 저위험군에는 일반적으로 약물 치료가 불필요함; 젊은 환자라는 이유만으로 금기인 것은 아니지만 시작 전 장기 유지·중단 계획을 특히 신중히 마련함
-* 금기 : 저칼슘혈증, 임신, 성분 과민반응; 엑스지바 등 다른 denosumab 제제와 중복 투여하지 않음. 임신 가능성이 있으면 투여 전 임신 여부와 피임 계획을 확인함
-* 용법 : 60 ㎎ 피하주사, 6개월마다 <mark style="color:blue;">\[프롤리아프리필드시린지]</mark>; 매 투여 전 칼슘 확인, 저칼슘혈증 교정 및 적정 Ca/Vit D 확보
+* 금기 : 저칼슘혈증, 임신, 성분 과민반응; <a href="https://www.health.kr/drug/2014093000021">엑스지바</a> 등 다른 denosumab 제제와 중복 투여하지 않음. 임신 가능성이 있으면 투여 전 임신 여부와 피임 계획을 확인함
+* 용법 : 60 ㎎ 피하주사, 6개월마다 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014093000020">프롤리아프리필드시린지</a>]</mark>; 매 투여 전 칼슘 확인, 저칼슘혈증 교정 및 적정 Ca/Vit D 확보
 * 치료 기간
   * denosumab을 투여받는 골다공증이 있는 폐경 여성에서 5\~10년 후 골절 위험도를 재평가하여 높은 골절 위험도가 지속되는 경우 투여를 지속하거나 다른 골다공증 요법을 시행할 것을 고려
   * denosumab 투여를 지연하거나 중단할 때에는 무치료 상태가 지속되지 않도록 마지막 투여 약 6개월 후 zoledronate 5 ㎎ IV 등 후속 antiresorptive 치료로 전환하여 반동성 bone turnover, 빠른 골밀도 감소 및 다발성 척추 골절 위험을 줄여야 함
@@ -477,7 +477,7 @@ denosumab은 진행성 CKD(eGFR ＜30 ㎖/min/1.73m² 또는 투석 환자, 특�
 * 재조합 부갑상선 호르몬(teriparatide), PTH–related protein analog(abaloparatide)
 * 작용 : 골 형성 자극. 골흡수억제제와의 일률적인 병용은 권하지 않음; teriparatide+denosumab 병용은 DATA 연구에서 단독요법보다 BMD 증가가 컸으나 추가 골절 감소 효과는 확립되지 않았고 국내 일반적 허가·급여 순차치료와 구분함 <mark style="color:$info;">\[Lancet 2013]</mark>
 * 적용 : 골절의 고위험군 또는 골 흡수 억제제 치료에도 골절이 계속 발생할 경우, 골 흡수 억제제 투여가 어렵거나 금기인 경우
-* 국내 허가 : 포스테오(teriparatide 20 ㎍/일)는 폐경 후 여성·골절 고위험 남성의 골다공증 및 골절 고위험 여성·남성의 지속적 glucocorticoid 관련 골다공증 치료. **테리본(teriparatide acetate 56.5 ㎍/주)은 골절 고위험 폐경 후 여성의 골다공증**으로 구분함
+* 국내 허가 : 포스테오(teriparatide 20 ㎍/일)는 폐경 후 여성·골절 고위험 남성의 골다공증 및 골절 고위험 여성·남성의 지속적 glucocorticoid 관련 골다공증 치료. **<a href="https://www.health.kr/drug/2015111700006">테리본</a>(teriparatide acetate 56.5 ㎍/주)은 골절 고위험 폐경 후 여성의 골다공증**으로 구분함
 * 부작용 : 근육통, 현훈, 구역, 두통, 일시적 고칼슘혈증·기립성 저혈압; 초기 투여 후 낙상에 주의
 * 금기/회피 대상 : 고칼슘혈증, 골 악성종양·골전이, 골격 방사선 치료 병력, Paget병·설명되지 않는 ALP 상승, 성장판 미폐쇄 등; 제제별 금기 및 중증 신장애 주의 확인
 * 치료 기간 : 일반적으로 18\~24개월 사용 후 항흡수제로 전환함. 국내 포스테오 허가·급여는 최대 24개월이며 일생 중 24개월 과정의 반복은 인정되지 않음; 국외의 치료 기간 규정을 국내 허가·급여에 그대로 적용하지 않음
@@ -494,7 +494,7 @@ denosumab 투여 후 이어서 teriparatide 등 PTH 제제로 전환하면, 억�
 
 * sclerostin(골 형성 신호 체계 억제)에 대한 단클론 항체; 골형성 촉진과 골흡수 억제의 이중 작용; 골형성 자극은 시간에 따라 감소하므로 12개월 치료 후 항흡수제로 전환함
 * 국내 허가 : 골절 고위험 폐경 후 여성 골다공증 치료 및 **골절 고위험 남성 골다공증의 골밀도 증가**; 남성에서의 골절 감소 근거와 보험 급여는 별도로 해석함
-* 용법 : 210 ㎎(105 ㎎씩 다른 부위), 월 1회, 총 12회 피하 주사 <mark style="color:blue;">\[이베니티]</mark>; 칼슘, Vit D 보조제 추가 복용 필요
+* 용법 : 210 ㎎(105 ㎎씩 다른 부위), 월 1회, 총 12회 피하 주사 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2019060400003">이베니티</a>]</mark>; 칼슘, Vit D 보조제 추가 복용 필요
 * 임상 원칙 : 총 12회 종료 후 지체 없이 항흡수제로 연계하여 획득한 골량을 유지함. 국내 급여의 종료 후 BMD 평가·전환 시점·후속 약제 인정 기간은 별도 고시 조건이며, 평가 수치가 나쁘다는 이유만으로 후속 치료를 생략하지 않음
 * 금기 : **지난 1년 이내 심근경색·뇌졸중**, 저칼슘혈증, 성분 과민반응. 심혈관 고위험 및 eGFR ＜30 ㎖/min/1.73 m²·투석은 신중 투여(저칼슘혈증 위험); 중증 신장애 자체를 절대 금기로 묶지 않음
 * 종료 후 항흡수제 연계를 사전에 계획함; MRONJ·비정형 대퇴골 골절도 드물게 보고되므로 증상 교육 필요
@@ -524,7 +524,7 @@ ARCH의 첫 12개월에 판정된 주요 심혈관 사건(MACE)은 romosozumab 2
 
 * 3년 투여 시 골밀도 1.1%(대퇴)\~2.3%(척추)↑, 척추 골절 42%↓, 비척추 골절 영향 없음의 보고가 있음
 * 부작용 : 안면 홍조, 근육 경련, 말초 부종, 혈전색전증 등; 과거 VTE가 있으면 금기. Raloxifene의 유방암 예방 근거를 bazedoxifene에 그대로 적용하지 않음
-* 용법 : 20 ㎎ qd <mark style="color:blue;">\[비비안트]</mark>; Vit D 복합제 <mark style="color:blue;">\[바펜디]</mark>
+* 용법 : 20 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2011111700001">비비안트</a>]</mark>; Vit D 복합제 <mark style="color:blue;">\[바펜디]</mark>
 
 ### <mark style="color:orange;">Menopausal hormone therapy & tibolone</mark>
 
@@ -544,7 +544,7 @@ ARCH의 첫 12개월에 판정된 주요 심혈관 사건(MACE)은 romosozumab 2
 * 작용 : 조직 특이적인 estrogen 유사 효과, 약한 androgen 효과
 * 효과 : 골 소실 예방, 폐경 증상 감소; 유방·자궁내막에 대한 영향이 기존 estrogen-progestogen therapy와는 다르나, 유방암·자궁내막 관련 위험이 전혀 없는 것은 아니므로 개별 위험도 평가 필요
 * 부작용 : 하복부 통증, 비정상적 체모 증가, 질 분비물, 질 출혈, 유방 압통, 체중 증가; 고령 여성에서는 뇌졸중 위험 증가에 특히 주의하며, 유방암·VTE·뇌졸중/관상동맥질환 병력 등 제품별 금기 확인
-* 용법 : 2.5 ㎎ qd <mark style="color:blue;">\[리비알]</mark>(일부 연구에서는 1.25 ㎎/d도 사용)
+* 용법 : 2.5 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2009092300016">리비알</a>]</mark>(일부 연구에서는 1.25 ㎎/d도 사용)
 
 \*HT(Hormonal therapy): uterus(-) 시 estrogen, uterus(+) 시 estrogen + progestin
 
@@ -588,7 +588,7 @@ ARCH의 첫 12개월에 판정된 주요 심혈관 사건(MACE)은 romosozumab 2
 
 ### <mark style="color:orange;">약제별 효능 비교</mark>
 
-<table><thead><tr><th width="176">성분명 [상품명]</th><th width="158">용량</th><th>척추¹⁾</th><th>고관절¹⁾</th><th>비척추¹⁾</th></tr></thead><tbody><tr><td>alendronate²⁾ [포사맥스]</td><td>10 ㎎/d, 70 ㎎/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>risedronate²⁾ [악토넬]</td><td>5 ㎎/d, 35 ㎎/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>ibandronate [본비바]</td><td>150 ㎎/월 PO, 3 ㎎/3개월 IV</td><td>+</td><td>미입증</td><td>제한적 근거⁴⁾</td></tr><tr><td>zoledronate²⁾ [졸레드론산]</td><td>5 ㎎/년 IV</td><td>+</td><td>+</td><td>+</td></tr><tr><td>denosumab²⁾ [프롤리아]</td><td>60 ㎎/6개월 SC</td><td>+</td><td>+</td><td>+</td></tr><tr><td>teriparatide²⁾ [포스테오]</td><td>20 ㎍/d SC</td><td>+</td><td>+³⁾</td><td>+</td></tr><tr><td>abaloparatide (국외 지침 참고)</td><td>80 ㎍/d SC</td><td>+</td><td>근거 제한</td><td>+</td></tr><tr><td>romosozumab²⁾ [이베니티]</td><td>210 ㎎/월 SC ×12개월</td><td>+</td><td>+</td><td>+</td></tr><tr><td>raloxifene [에비스타]</td><td>60 ㎎/d PO</td><td>+</td><td>-</td><td>-</td></tr><tr><td>bazedoxifene [비비안트]</td><td>20 ㎎/d PO</td><td>+</td><td>-</td><td>-</td></tr><tr><td>결합 estrogen [프레미나]</td><td>0.625 ㎎/d PO⁵⁾</td><td>+</td><td>+</td><td>+</td></tr></tbody></table>
+<table><thead><tr><th width="176">성분명 [상품명]</th><th width="158">용량</th><th>척추¹⁾</th><th>고관절¹⁾</th><th>비척추¹⁾</th></tr></thead><tbody><tr><td>alendronate²⁾ [포사맥스]</td><td>10 ㎎/d, 70 ㎎/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>risedronate²⁾ [악토넬]</td><td>5 ㎎/d, 35 ㎎/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>ibandronate [본비바]</td><td>150 ㎎/월 PO, 3 ㎎/3개월 IV</td><td>+</td><td>미입증</td><td>제한적 근거⁴⁾</td></tr><tr><td>zoledronate²⁾ [졸레드론산]</td><td>5 ㎎/년 IV</td><td>+</td><td>+</td><td>+</td></tr><tr><td>denosumab²⁾ [프롤리아]</td><td>60 ㎎/6개월 SC</td><td>+</td><td>+</td><td>+</td></tr><tr><td>teriparatide²⁾ [포스테오]</td><td>20 ㎍/d SC</td><td>+</td><td>+³⁾</td><td>+</td></tr><tr><td>abaloparatide (국외 지침 참고)</td><td>80 ㎍/d SC</td><td>+</td><td>근거 제한</td><td>+</td></tr><tr><td>romosozumab²⁾ [이베니티]</td><td>210 ㎎/월 SC ×12개월</td><td>+</td><td>+</td><td>+</td></tr><tr><td>raloxifene [에비스타]</td><td>60 ㎎/d PO</td><td>+</td><td>-</td><td>-</td></tr><tr><td>bazedoxifene [비비안트]</td><td>20 ㎎/d PO</td><td>+</td><td>-</td><td>-</td></tr><tr><td>결합 estrogen [<a href="https://www.health.kr/drug/A11AKP08G1656">프레미나</a>]</td><td>0.625 ㎎/d PO⁵⁾</td><td>+</td><td>+</td><td>+</td></tr></tbody></table>
 
 ¹⁾ 효능의 임상 근거 부위
 
@@ -649,6 +649,7 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 > ```
 > 칼디텍츄어블정  1T  qd  식사 중 또는 식사 직후 씹어서 복용
 > ```
+> 약제 정보: [칼디텍츄어블정·원소 칼슘 600 ㎎/비타민 D3 400 IU](https://www.health.kr/drug/A11AOOOOO6082)
 >
 > _✽1정에 원소 칼슘 600 ㎎ + Vit D3 400 IU. 식사와 다른 제제의 칼슘·Vit D를 합산해 부족분만 보충하며, 이 처방만으로 골다공증 치료를 대신하지 않음_
 
@@ -657,6 +658,7 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 > ```
 > 포사맥스플러스디정(alendronate 70 ㎎/cholecalciferol 5,600 IU)  1T  주 1회 (매주 같은 요일 아침 기상 직후)
 > ```
+> 약제 정보: [포사맥스플러스디정·70 ㎎/5,600 IU](https://www.health.kr/drug/A11AKP08B0082)
 >
 > _✽아침 첫 음식·음료·다른 약 최소 30분 전에 물 한 컵(200 ㎖ 이상)과 함께 복용하고, 복용 후 최소 30분 및 첫 식사 전까지 눕지 않음_\
 > _✽Vit D 5,600 IU/주는 일평균 800 IU에 해당하며 허가사항상 대부분 환자의 적정 용량임. 식사·다른 보충제를 합쳐 Vit D 부족분은 별도 보충_\
@@ -667,6 +669,7 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 > ```
 > 프롤리아프리필드시린지 60 ㎎  피하주사  6개월마다
 > ```
+> 약제 정보: [프롤리아프리필드시린지·60 ㎎/1 ㎖](https://www.health.kr/drug/2014093000020)
 >
 > _✽투여 전 혈청 칼슘 확인, 저칼슘혈증 교정 후 투여. eGFR ＜30 ㎖/min/1.73 m² 또는 투석이면 CKD-MBD 평가·전문의 감독 및 강화된 칼슘 모니터링 필요_\
 > _✽중단할 때는 반드시 bisphosphonate 등 후속 항흡수제로 연계(반동성 골소실·다발성 척추 골절 예방)_
@@ -676,6 +679,7 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 > ```
 > 포스테오주  20 ㎍  1일 1회  피하주사
 > ```
+> 약제 정보: [포스테오주·250 ㎍/㎖(2.4 ㎖/펜)](https://www.health.kr/drug/A11AKP08G0658)
 >
 > _✽허가·급여 최대 24개월(일생 1회 과정). 초고위험군과 급여 대상은 다르므로 선행 치료·연령·골절 조건 확인_\
 > _✽첫 투여는 앉거나 누운 자세에서 시행(기립성 저혈압 가능). 치료 종료 후 반드시 항흡수제로 전환하여 획득한 골밀도를 유지_
@@ -685,6 +689,7 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 > ```
 > 에비스타정 60 ㎎  1T  qd
 > ```
+> 약제 정보: [에비스타정·60 ㎎](https://www.health.kr/drug/A11AHHHHH0378)
 >
 > _✽정맥혈전색전증 병력은 금기이며 고위험이면 회피. 장기 부동이 예상되면 최소 72시간 전 중단. 안면홍조 등 혈관운동 증상을 악화시킬 수 있음을 설명_
 

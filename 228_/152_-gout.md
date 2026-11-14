@@ -173,7 +173,7 @@ flowchart TD
 
 {% hint style="info" %}
 **발작 중 요산 저하제(ULT) 시작 가능 여부**\
-ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하면서 새 ULT를 시작할 수 있음 <mark style="color:$info;">\[ACR 2020·KCR 2023]</mark>. 모든 약제의 국내 허가사항이 이 권고와 일치하는 것은 아님 ; **자이로릭·페브릭·유리논 국내 허가사항은 급성 발작이 진정된 뒤 시작하도록 명시**함. 따라서 발작 중 allopurinol·febuxostat·benzbromarone의 신규 시작은 지침 권고와 국내 허가사항의 차이를 검토해야 함. 이미 복용 중인 ULT는 발작만을 이유로 중단하지 않으며 약물 이상반응은 별도로 평가함
+ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하면서 새 ULT를 시작할 수 있음 <mark style="color:$info;">\[ACR 2020·KCR 2023]</mark>. 모든 약제의 국내 허가사항이 이 권고와 일치하는 것은 아님 ; **<a href="https://www.health.kr/drug/A11A0500A0069">자이로릭</a>·<a href="https://www.health.kr/drug/2013060300005">페브릭</a>·<a href="https://www.health.kr/drug/A11A3780A0272">유리논</a> 국내 허가사항은 급성 발작이 진정된 뒤 시작하도록 명시**함. 따라서 발작 중 allopurinol·febuxostat·benzbromarone의 신규 시작은 지침 권고와 국내 허가사항의 차이를 검토해야 함. 이미 복용 중인 ULT는 발작만을 이유로 중단하지 않으며 약물 이상반응은 별도로 평가함
 {% endhint %}
 
 ***
@@ -207,7 +207,7 @@ _✽채소류의 퓨린 함량은 육류·해산물과 달리 통풍 위험 증�
 
 {% hint style="danger" %}
 **⚠️ colchicine 중독 위험 - 좁은 치료 지수, 해독제 없음**\
-colchicine은 과량 복용·상호작용 시 치명적 독성이 발생할 수 있음. 강력한 CYP3A4 또는 P-glycoprotein 억제제와의 병용은 회피하며, **신·간장애 환자가 이러한 억제제를 투여 중이면 병용금기**. 콜킨 허가사항상 중증 간·신·심·혈액·위장관 질환도 금기이므로 단순 감량으로 해결하지 않음
+colchicine은 과량 복용·상호작용 시 치명적 독성이 발생할 수 있음. 강력한 CYP3A4 또는 P-glycoprotein 억제제와의 병용은 회피하며, **신·간장애 환자가 이러한 억제제를 투여 중이면 병용금기**. <a href="https://www.health.kr/drug/A11A1291A0210">콜킨</a> 허가사항상 중증 간·신·심·혈액·위장관 질환도 금기이므로 단순 감량으로 해결하지 않음
 {% endhint %}
 
 #### <mark style="color:$primary;">Colchicine</mark>
@@ -226,15 +226,15 @@ colchicine은 과량 복용·상호작용 시 치명적 독성이 발생할 수 
   * 부루펜정은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애, 심한 고혈압, 임신 말기 3개월 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
   * 활동성 궤양/출혈·중증 신장애·심부전 등으로 NSAID가 부적절하면 colchicine 또는 corticosteroid를 각각의 금기·상호작용에 따라 선택함. acetaminophen은 급성 통풍의 항염증 치료를 대체하지 않음
   * 장기 저용량 NSAID 예방에서도 혈압·신기능·K 및 GI 위험을 재평가하고 필요 시 위장 보호를 병용하되, PPI로 NSAID 금기를 해소하지 않음
-* naproxen 국내 급성 통풍 허가 용법 : 초회 750 ㎎ → 발작 소실 시까지 250 ㎎ q8h <mark style="color:blue;">\[낙센]</mark> ; naproxen sodium은 초회 825 ㎎ → 275 ㎎ q8h <mark style="color:blue;">\[아나프록스]</mark>
-* naproxen 500 ㎎ bid는 급성 통풍 연구·지침에서 사용하는 대안 요법이며 위 국내 적응증별 허가 용법과 구분 <mark style="color:blue;">\[낙센에프]</mark>
-* ibuprofen : 허가 용법은 1회 200\~600 ㎎, 1일 3\~4회 ; 급성기에는 예를 들어 400\~600 ㎎ tid\~qid를 위험도에 따라 선택. 허가상 최고 3.2 g/d이나 이를 목표 용량으로 삼지 않으며 고용량의 심혈관·위장관·신장 위험에 주의 <mark style="color:blue;">\[부루펜]</mark>
+* naproxen 국내 급성 통풍 허가 용법 : 초회 750 ㎎ → 발작 소실 시까지 250 ㎎ q8h <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0286">낙센</a>]</mark> ; naproxen sodium은 초회 825 ㎎ → 275 ㎎ q8h <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB2070">아나프록스</a>]</mark>
+* naproxen 500 ㎎ bid는 급성 통풍 연구·지침에서 사용하는 대안 요법이며 위 국내 적응증별 허가 용법과 구분 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0594">낙센에프</a>]</mark>
+* ibuprofen : 허가 용법은 1회 200\~600 ㎎, 1일 3\~4회 ; 급성기에는 예를 들어 400\~600 ㎎ tid\~qid를 위험도에 따라 선택. 허가상 최고 3.2 g/d이나 이를 목표 용량으로 삼지 않으며 고용량의 심혈관·위장관·신장 위험에 주의 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0131">부루펜</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A0500A0097">200 ㎎</a>)</span>]</mark>
 
 #### <mark style="color:$primary;">스테로이드</mark>
 
 * NSAID·colchicine과 함께 독립적인 1차 선택제 ; 특히 신기능 저하 등으로 다른 약제의 위험이 큰 경우 고려
 * 짧은 단기요법은 tapering 없이 종료할 수 있으며, 발작이 심하거나 치료기간을 연장하는 경우 임상 경과에 따라 tapering 고려
-* prednisolone : 30\~40 ㎎(약 0.5 ㎎/㎏)/d ×3\~5d ; 반응이 불충분하거나 치료기간이 길어진 경우 필요에 따라 감량 <mark style="color:blue;">\[소론도]</mark>
+* prednisolone : 30\~40 ㎎(약 0.5 ㎎/㎏)/d ×3\~5d ; 반응이 불충분하거나 치료기간이 길어진 경우 필요에 따라 감량 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4290B0015">소론도</a>]</mark>
 * 경구 투여가 불가능하면 근주 또는 정주 스테로이드를 환자 상태·제형별 허가사항에 따라 고려 ; 외래에서 광범위한 체중당 정주 용량을 일률적으로 제시하지 않음
 * triamcinolone 관절 내 주사 : 큰 관절 1\~2개 침범 시 10\~40 ㎎ ; 단관절/소수관절 발작에서 독립적인 1차 치료 선택지로 고려하며, 다관절 또는 중증 발작에서는 필요에 따라 다른 항염증 치료와 병용
   * 패혈성 관절염 의심 시 관절액 그람염색·배양 등으로 우선 평가하며, 단순히 천자했거나 그람염색이 음성이라는 이유만으로 관절 내 스테로이드를 주사하지 않음
@@ -332,7 +332,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 
 * 작용 : 선택적 xanthine oxidase 억제, nonpurine analogue
 * 신장애 : 경증\~중등도에서는 일반적으로 감량 불필요 ; 국내 페브릭 허가사항은 CrCl ＜30 ㎖/min에서 안전성·유효성이 충분히 평가되지 않았다고 명시함. 미국의 중증 신장애 최대 40 ㎎/d 제한을 국내 허가 용량으로 단정하지 말고 전문의와 상의
-* 용법 : 40 ㎎ qd → 목표 SU 미도달 시 80 ㎎ qd <mark style="color:blue;">\[페브릭]</mark> ; 국내 허가 최대 용량 80 ㎎/d
+* 용법 : 40 ㎎ qd → 목표 SU 미도달 시 <a href="https://www.health.kr/drug/2009090300019">80 ㎎</a> qd <mark style="color:blue;">\[페브릭]</mark> ; 국내 허가 최대 용량 80 ㎎/d
 * 부작용 : 간기능 이상, 발진·드문 중증 과민반응 ; 기저·추적 간기능 검사와 발진 교육 시행. 과거 allopurinol 과민반응이 있었던 환자에서도 febuxostat의 중증 과민반응이 보고되므로 대체 후에도 발진·전신 증상을 감시
 * **azathioprine·6-mercaptopurine 투여 환자는 국내 허가상 병용금기**
 * 국내 허가사항 : 급성 발작이 진정된 뒤 새로 시작 ; 예방 항염제를 최소 6개월 이상 병용하도록 권장(ACR의 일반적 3\~6개월과 구분)
@@ -409,6 +409,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 콜킨 0.6 ㎎/T 2T stat → 1시간 후 1T  (급성기 loading)
 > 또는 낙센에프정 500 ㎎/T 1T bid  (지침·문헌 대안 용법)
 > ```
+> 약제 정보: [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210) · [낙센에프정·500 ㎎](https://www.health.kr/drug/A11A0120A0594)
 >
 > _✽경증/중등도에서는 위 두 약제 중 한 가지를 선택 ; 병용은 중증도·반응에 따라 결정. colchicine 금기·상호작용 및 NSAID 급성 통풍 허가 용법은 본문 참조_
 
@@ -418,6 +419,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 소론도정(prednisolone 5 ㎎) 6T qd  ×5d  (경과에 따라 조정)
 > 필요 시 콜킨 0.6 ㎎/T 1T qd 또는 1T bid  (저용량 지속 요법, 개별 결정)
 > ```
+> 약제 정보: [소론도정·5 ㎎](https://www.health.kr/drug/A11A4290B0015) · [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽매우 심하거나 다관절 발작 시 선택적으로 병용 ; 발작 초기에 colchicine을 처음 사용하는 경우 초기 요법은 본문 참조. 급성기 저용량 지속 요법은 지침·문헌 용법이며 초기 loading과 구분함. 신·간기능 및 이미 복용한 colchicine 양을 확인하고 일률적 병용·중복 투여를 피함_
 
@@ -427,6 +429,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 소론도정(prednisolone 5 ㎎) 6T qd  ×5d
 > 또는 트리암시놀론 관절강내 주사 10~40 ㎎  (1~2개 관절 이환 시, 감염 배제 후)
 > ```
+> 약제 정보: [소론도정·5 ㎎](https://www.health.kr/drug/A11A4290B0015)
 >
 > _✽CKD에서는 NSAID 위험이 증가하며 중증 신장애에서 colchicine은 금기 ; CKD stage 3 자체를 모든 colchicine 사용의 절대금기로 간주하지 않음. 감염을 배제하고 스테로이드를 우선 고려하되 당뇨병에서는 혈당 확인_
 
@@ -436,6 +439,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 자이로릭 100 ㎎/T 1T qd
 > 콜킨 0.6 ㎎/T 1T qd  (예방 요법, 최소 3~6개월)
 > ```
+> 약제 정보: [자이로릭·100 ㎎](https://www.health.kr/drug/A11A0500A0069) · [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽급성 발작이 진정된 뒤 시작(허가사항). HLA-B\*58:01 음성·중증 과민반응 병력 없음과 병용약을 확인 ; CKD에서는 더 낮은 시작 용량 검토. ULT 시작 시 초기 발작 예방을 위해 저용량 colchicine을 최소 3\~6개월 병용 ; 2\~4주마다 SU 확인 후 증량_
 
@@ -445,6 +449,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 페브릭 40 ㎎/T 1T qd
 > 콜킨 0.6 ㎎/T 1T qd  (예방 요법, 최소 6개월)
 > ```
+> 약제 정보: [페브릭·40 ㎎](https://www.health.kr/drug/2013060300005) · [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽발작이 진정된 뒤 시작(허가사항) ; azathioprine·6-mercaptopurine 병용금기, 주요 심혈관질환이 있으면 다른 적절한 치료를 우선하고 신·간기능을 평가. 페브릭 허가사항은 예방 항염 요법을 최소 6개월 이상 병용하도록 권장_
 
@@ -582,6 +587,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > 소론도정 5 ㎎/T 6T qd  ×3~5d  (반응에 따라 조정)
 > 또는 콜킨 0.6 ㎎/T 1T qd 또는 1T bid  (허가 외, 환자별 조절)
 > ```
+> 약제 정보: [소론도정·5 ㎎](https://www.health.kr/drug/A11A4290B0015) · [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽감염을 배제한 뒤 한 가지를 선택 ; prednisolone은 중증도·혈당·혈압에 따라 더 낮은 용량도 검토(본문 10 vs 30 ㎎ 연구는 7일 요법). 고령·신기능 저하에서는 특히 colchicine 금기·상호작용을 확인. 1\~2개 관절이면 관절 흡인·관절 내 스테로이드도 고려_
 
@@ -590,6 +596,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 > ```
 > 콜킨 0.6 ㎎/T 1T qd 또는 1T bid  (허가 외, 환자별 조절)
 > ```
+> 약제 정보: [콜킨·0.6 ㎎](https://www.health.kr/drug/A11A1291A0210)
 >
 > _✽재발 빈도·기능 저하·내약성을 고려하여 예방 여부 결정 ; 최저 유효 용량을 선택하고 주기적으로 지속 필요성 평가_
 

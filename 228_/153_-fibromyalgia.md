@@ -265,14 +265,14 @@ flowchart TD
 
 (☞ [통증](../220_/001_-pain.md))
 
-* acetaminophen : 섬유근육통 자체의 nociplastic pain에 대한 효과는 제한적이며, 다른 nociceptive pain이 동반된 경우 보조적으로 고려 <mark style="color:blue;">\[타이레놀]</mark>
+* acetaminophen : 섬유근육통 자체의 nociplastic pain에 대한 효과는 제한적이며, 다른 nociceptive pain이 동반된 경우 보조적으로 고려 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021082400002">타이레놀</a>]</mark>
   * **타이레놀정500밀리그람은 TCA 복용 환자에게 투여 금기임.** amitriptyline·nortriptyline 치료 중 해당 품목을 사용하지 않음. 다른 acetaminophen 단일제·함유 복합제에는 각 품목의 금기·상호작용을 적용하며, 타이레놀정의 금기를 모든 복합제에 일괄 확대하지 않음. 특히 tramadol 함유 복합제는 TCA 병용 시 세로토닌증후군·경련 위험도 평가함
-* tramadol <mark style="color:blue;">\[트리돌]</mark> : 통상적인 1차 치료로 사용하지 않음. 다른 치료에도 심한 통증이 지속되는 선별된 환자에서 이득·위험을 평가하여 제한적으로 고려; 의존·금단 및 장기 사용 위험에 유의
+* tramadol <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0450A0359">트리돌</a>]</mark> : 통상적인 1차 치료로 사용하지 않음. 다른 치료에도 심한 통증이 지속되는 선별된 환자에서 이득·위험을 평가하여 제한적으로 고려; 의존·금단 및 장기 사용 위험에 유의
   * 부작용 : 구역, 어지럼, 졸음, 변비 등. SNRI/SSRI/TCA 등 serotonergic 약물과 병용 시 serotonin syndrome 및 경련 위험에 주의
   * 경도\~중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 금기이므로 감량 투여와 구분함
   * EULAR 2017 : 약한 찬성 권고(weak for). 해당 권고가 단기간 구조요법의 기간·용량을 정한 것은 아니며, 본 챕터에서는 장기 정규 처방보다 제한적 사용과 조기 재평가를 권함
 * NSAID : 섬유근육통 자체에는 효과가 제한적이며, 골관절염 등 다른 nociceptive/inflammatory pain이 동반된 경우에만 고려
-  * 동반질환에 필요한 경우 ibuprofen <mark style="color:blue;">\[부루펜]</mark>, naproxen <mark style="color:blue;">\[낙센]</mark> 등을 최소 유효 용량·최단 기간 사용하며, 신장·위장관·심혈관 위험을 평가함(용법은 통증 챕터 참조)
+  * 동반질환에 필요한 경우 ibuprofen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0097">부루펜</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A0500A0131">400 ㎎</a>)</span>]</mark>, naproxen <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0286">낙센</a>]</mark> 등을 최소 유효 용량·최단 기간 사용하며, 신장·위장관·심혈관 위험을 평가함(용법은 통증 챕터 참조)
 * 강오피오이드(strong opioid) : EULAR 2017 강한 반대 권고(strong recommendation against) - 근거 부족, 장기 사용 시 오·남용 위험
 
 ### <mark style="color:orange;">항우울제</mark>
@@ -304,10 +304,10 @@ flowchart TD
 #### <mark style="color:$primary;">SNRI</mark>
 
 * 부작용 : 구역, 어지럼
-* duloxetine : 30 ㎎ qd ×1주 → 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark>
+* duloxetine : 30 ㎎ qd ×1주 → <a href="https://www.health.kr/drug/2014051500004">60 ㎎</a> qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014052800008">드록틴</a>]</mark>
   * FM에서 60 ㎎/d 초과는 추가 이득의 근거가 없고 이상반응이 증가하므로 권하지 않음
   * **간질환, CrCl ＜30 ㎖/분 또는 투석 환자, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장은 금기**임. MAO 억제제 병용도 금기이며, 약제 전환 시 허가된 휴약 간격을 적용함; 과음·상호작용·저나트륨혈증 위험을 확인하고 혈압·맥박 및 기립성 증상을 평가함
-* milnacipran : 1일째 12.5 ㎎, 2\~3일째 12.5 ㎎ bid, 4\~7일째 25 ㎎ bid, 8일째부터 50 ㎎ bid(1일 100 ㎎, **권장 유지 용량**); 반응·내약성에 따라 100 ㎎ bid(1일 200 ㎎)까지 증량 가능 <mark style="color:blue;">\[익셀]</mark>
+* milnacipran : 1일째 <a href="https://www.health.kr/drug/2010122700005">12.5 ㎎</a>, 2\~3일째 12.5 ㎎ bid, 4\~7일째 <a href="https://www.health.kr/drug/A11ACCCCC0074">25 ㎎</a> bid, 8일째부터 50 ㎎ bid(1일 100 ㎎, **권장 유지 용량**); 반응·내약성에 따라 100 ㎎ bid(1일 200 ㎎)까지 증량 가능 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ACCCCC0075">익셀</a>]</mark>
   * 허가문서에는 3개월 초과 위약대조시험에서 유효성이 관찰되지 않았다는 문구가 있음. 이를 모든 환자에서 3개월 후 효과가 사라진다는 뜻으로 해석하지 않으며, duloxetine도 같은 취지의 문구가 있어 장기 유지 여부를 반응·내약성으로 재평가함
   * 혈압·맥박, 배뇨곤란 및 신기능을 확인함. CrCl 30\~＜60 ㎖/분은 25 ㎎ bid, 10\~＜30 ㎖/분은 25 ㎎ qd로 감량; 더 심한 신장애는 허가사항을 확인하여 전문 평가함
   * **금기** : 조절되지 않는 고혈압·폐쇄각녹내장, 중증 또는 불안정 관상동맥질환, 전립선비대와 기타 비뇨생식기계 질환, 18세 미만. MAO 억제제, digoxin 등 digitalis 제제, sumatriptan, clonidine 등 병용 금기도 확인함. 배뇨 증상·혈압을 관찰하는 것만으로 금기 확인을 대신하지 않음
@@ -317,27 +317,27 @@ flowchart TD
 
 * **SSRI는 섬유근육통의 통증 자체를 위한 routine 치료로 권고하지 않으며 <mark style="color:$info;">(EULAR 2017)</mark>, 동반 우울·불안장애의 적응증이 있을 때 고려**
 * 부작용 : 구역, 설사, 성욕 감소, 두통, 불면증/졸림, serotonin syndrome, CYP450 효소 억제
-* 예 : fluoxetine <mark style="color:blue;">\[푸록틴]</mark>, paroxetine CR <mark style="color:blue;">\[팍실CR]</mark>, sertraline <mark style="color:blue;">\[졸로푸트]</mark>
+* 예 : fluoxetine <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB0367">푸록틴</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11AJJJJJ0181">10 ㎎</a>)</span>]</mark>, paroxetine CR <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO2721">팍실CR</a>]</mark>, sertraline <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0310A0239">졸로푸트</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/2010122700001">100 ㎎</a>)</span>]</mark>
 * 용량·증량·최대량은 동반 우울/불안장애의 진단과 약제별 허가사항에 따름(항우울제 챕터 참조). FM 진통 목적의 공통 용량 범위를 제시하지 않음
 
 #### <mark style="color:$primary;">TCA</mark>
 
 * 부작용 : 입마름, 변비, 요폐, 체중 증가, 졸음, 집중력 저하, 기립성 저혈압. 심전도 전도장애·부정맥 위험, 녹내장·배뇨장애 및 고령자의 항콜린 부담을 확인함
-* amitriptyline : 10 ㎎ hs → 내약성·효과에 따라 1\~2주 이상 간격으로 서서히 증량, 통상 10\~25 ㎎ hs 범위에서 평가 <mark style="color:blue;">\[에트라빌]</mark> (**FM 허가 외 사용·조건 충족 시 급여 인정**)
-* nortriptyline : 10 ㎎ hs → 효과·내약성에 따라 점차 증량 <mark style="color:blue;">\[센시발]</mark> (**FM 허가 외 사용·조건 충족 시 급여 인정**). FM에 대한 근거는 amitriptyline보다 제한적이며 동일한 효과로 간주하지 않음
+* amitriptyline : 10 ㎎ hs → 내약성·효과에 따라 1\~2주 이상 간격으로 서서히 증량, 통상 10\~25 ㎎ hs 범위에서 평가 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0570B0082">에트라빌</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A0570A0148">25 ㎎</a>)</span>]</mark> (**FM 허가 외 사용·조건 충족 시 급여 인정**)
+* nortriptyline : 10 ㎎ hs → 효과·내약성에 따라 점차 증량 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A1130A0032">센시발</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A1130A0033">25 ㎎</a>)</span>]</mark> (**FM 허가 외 사용·조건 충족 시 급여 인정**). FM에 대한 근거는 amitriptyline보다 제한적이며 동일한 효과로 간주하지 않음
 
 #### <mark style="color:$primary;">기타</mark>
 
-* trazodone <mark style="color:blue;">\[트리티코]</mark> : FM의 표준 진통치료로 권하지 않음. 동반 우울증 치료는 허가 용법에 따르며, 불면 목적으로 사용하는 저용량 요법은 별도의 허가 외 사용임. 기립성 저혈압·낙상·지속발기증 등에 주의함(☞ [불면증](../221_/029_-insomnia-sleep-disorder.md))
+* trazodone <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0300A0250">트리티코</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A0300B0011">50 ㎎</a>)</span>]</mark> : FM의 표준 진통치료로 권하지 않음. 동반 우울증 치료는 허가 용법에 따르며, 불면 목적으로 사용하는 저용량 요법은 별도의 허가 외 사용임. 기립성 저혈압·낙상·지속발기증 등에 주의함(☞ [불면증](../221_/029_-insomnia-sleep-disorder.md))
 
 ### <mark style="color:orange;">항경련제</mark>
 
 * pregabalin은 일부 환자에서 통증·수면을 개선하나, 피로·인지 증상을 악화시키는 졸음이 나타날 수 있음
 * 부작용 : 졸음, 어지럼, 체중 증가, 하지 부종
-* pregabalin **일반형 캡슐** : 75 ㎎ bid → 약 1주에 걸쳐 150 ㎎ bid, 반응 불충분하고 내약성이 있으면 225 ㎎ bid까지(권장 300\~450 ㎎/d, FM 최대 450 ㎎/d) <mark style="color:blue;">\[리리카]</mark> (HIRA 급여기준 : 위 항우울제 항목 hint 참조)
+* pregabalin **일반형 캡슐** : 75 ㎎ bid → 약 1주에 걸쳐 <a href="https://www.health.kr/drug/A11AOOOOO8538">150 ㎎</a> bid, 반응 불충분하고 내약성이 있으면 225 ㎎ bid까지(권장 300\~450 ㎎/d, FM 최대 450 ㎎/d) <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AOOOOO8537">리리카</a>]</mark> (HIRA 급여기준 : 위 항우울제 항목 hint 참조)
   * 신기능 저하 시 CrCl에 따라 용량을 줄임. 고령자·허약 환자는 더 낮게 시작하여 천천히 증량함. 중단 시 최소 1주 이상 점진적으로 감량하며 장기 복용자는 더 느린 감량이 필요할 수 있음
   * 신경병증성 통증의 최대 600 ㎎/d를 FM에 적용하지 않음. 서방형(CR)은 적응증·용법이 다르므로 일반형과 그대로 대체하지 않음
-* gabapentin <mark style="color:blue;">\[뉴론틴]</mark> : **FM 허가 외 사용**. 단일 소규모 시험의 1,200\~2,400 ㎎/d 분할 용량이 있으나 근거가 부족하며, EULAR 2017은 연구 목적 사용으로 평가함. pregabalin과 동등한 표준 선택지로 제시하지 않음; 사용 시 신기능별 감량 필요
+* gabapentin <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1034">뉴론틴</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11ABBBBB1033">100 ㎎</a>)</span>]</mark> : **FM 허가 외 사용**. 단일 소규모 시험의 1,200\~2,400 ㎎/d 분할 용량이 있으나 근거가 부족하며, EULAR 2017은 연구 목적 사용으로 평가함. pregabalin과 동등한 표준 선택지로 제시하지 않음; 사용 시 신기능별 감량 필요
 * 두 약제 모두 opioid·benzodiazepine·다른 진정제 병용, 고령·호흡기 질환에서 과진정·호흡억제 위험에 주의함 <mark style="color:$info;">\[FDA 2019]</mark>
 
 ### <mark style="color:orange;">수면제</mark>
@@ -345,7 +345,7 @@ flowchart TD
 * 최소 유효 용량 사용
 * 급성 불면증에 수면제를 선택하면 통상 2\~4주 이내 단기 사용을 원칙으로 하되, 구체적 기간·중단 방법은 약제별 허가와 효과·위험에 따라 결정함
 * 만성 불면장애 : CBT-I를 우선 고려하며, 수면무호흡·하지불안증후군·우울 등 동반 원인을 치료함. 수면제 지속 여부는 약제별 허가기간, 효과·위험에 따라 재평가함
-* zolpidem : 섬유근육통 자체의 치료제로 routine 권고하지 않음. 별도의 불면장애가 진단되고 비약물치료만으로 불충분한 경우에 한해 최소 유효 용량·단기간 사용을 고려 <mark style="color:blue;">\[스틸녹스]</mark>
+* zolpidem : 섬유근육통 자체의 치료제로 routine 권고하지 않음. 별도의 불면장애가 진단되고 비약물치료만으로 불충분한 경우에 한해 최소 유효 용량·단기간 사용을 고려 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ADDDDD0794">스틸녹스</a>]</mark>
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -407,6 +407,7 @@ flowchart TD
 > ```
 > 에트라빌(amitriptyline) 10 ㎎/T  1T  취침 시
 > ```
+> 약제 정보: [에트라빌·10 ㎎](https://www.health.kr/drug/A11A0570B0082)
 >
 > _✽비약물치료(교육·운동·수면관리)를 병행하면서 저용량 TCA로 시작하여 통증과 수면을 함께 개선. 2\~4주 간격으로 효과·부작용을 보며 저용량 범위(통상 10\~25 ㎎)에서 증량을 고려하고, 심한 부작용이 생기면 기다리지 않고 재평가_\
 > _✽섬유근육통은 허가 외 사용이며 TCA 급여 확진 조건(2010 ACR 기준, FIQ ≥40점, pain VAS ≥40 ㎜)을 확인. 타이레놀정500밀리그람은 TCA 복용 시 금기이며, 다른 acetaminophen 함유제·감기약도 품목별 금기·상호작용을 확인_
@@ -416,6 +417,7 @@ flowchart TD
 > ```
 > 드록틴(duloxetine) 30 ㎎/C  1C  아침
 > ```
+> 약제 정보: [드록틴·30 ㎎](https://www.health.kr/drug/2014052800008)
 >
 > _✽내약성을 확인하여 1주 후 60 ㎎ qd로 증량(60 ㎎/d 초과는 권하지 않음). 간질환, CrCl ＜30 ㎖/분·투석, 조절되지 않는 고혈압·협우각 녹내장 등 금기 확인_\
 > _✽우울·불안이 동반되거나 통증 phenotype상 SNRI가 적합할 때 고려. FM 급여는 TCA 또는 근이완제 1개월 이상 선행 치료 후 효과 불충분, 2010 ACR 기준, FIQ ≥40점, pain VAS ≥40 ㎜를 충족해야 하며, pregabalin과의 병용은 급여 인정되지 않음_
@@ -425,6 +427,7 @@ flowchart TD
 > ```
 > 리리카(pregabalin) 75 ㎎/C  1C  bid
 > ```
+> 약제 정보: [리리카·75 ㎎](https://www.health.kr/drug/A11AOOOOO8537)
 >
 > _✽신기능이 정상인 성인의 일반형 캡슐 허가 용법 예시임. 약 1주에 걸쳐 150 ㎎ bid로 증량하고 최대 450 ㎎/d. 고령·허약·신기능 저하 환자는 CrCl에 따라 시작 용량과 증량 속도를 조정_\
 > _✽졸음·어지럼·체중 증가·하지 부종과 주간 과진정·낙상 위험을 모니터링. FM 급여 선행 치료 조건은 duloxetine과 같으며, duloxetine과의 병용은 급여 인정되지 않음_

@@ -299,7 +299,7 @@ _✽표의 DAS28 절단값은 DAS28-ESR 기준임. DAS28-CRP에 같은 절단값
 {% hint style="danger" %}
 **⚠️ JAK 억제제 계열 안전성 경고**\
 ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs TNF 억제제, NEJM 2022)에서 tofacitinib군의 MACE(3.4% vs 2.5%, HR 1.33)와 악성종양(비흑색종 피부암 제외 4.2% vs 2.9%, HR 1.48)이 모두 비열등성 경계를 넘었음. 정맥혈전색전증 위험도 증가.\
-미국 FDA는 tofacitinib·baricitinib·upadacitinib에 중증 감염·사망·악성종양·MACE·혈전증 경고를 적용하고 RA 사용 대상을 TNF 억제제 ≥1개에 불충분 반응 또는 불내약인 환자로 제한함. 이는 미국 규정이며 국내 처방 순서와 동일하지 않음. EULAR 2025는 csDMARD 실패 후 JAK 억제제를 위험 평가에 따라 고려함. 국내 젤잔즈 허가사항은 **65세 이상·심혈관계 고위험군·악성종양 위험군에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 사용**하도록 제한함. 다른 JAK 억제제도 제품별 제한을 적용함. **국내 급여기준은 별도임. 예를 들어 baricitinib의 2026년 7월 기준은 이 고위험군에서 TNF 억제제 등 생물학적 제제의 불충분 반응·불내약을 요구함.** 허가상 “기존 치료제”를 csDMARD만으로 해석하여 고위험군 급여 순서를 정하지 않음.\
+미국 FDA는 tofacitinib·baricitinib·upadacitinib에 중증 감염·사망·악성종양·MACE·혈전증 경고를 적용하고 RA 사용 대상을 TNF 억제제 ≥1개에 불충분 반응 또는 불내약인 환자로 제한함. 이는 미국 규정이며 국내 처방 순서와 동일하지 않음. EULAR 2025는 csDMARD 실패 후 JAK 억제제를 위험 평가에 따라 고려함. 국내 <a href="https://www.health.kr/drug/2014040300001">젤잔즈</a> 허가사항은 **65세 이상·심혈관계 고위험군·악성종양 위험군에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 사용**하도록 제한함. 다른 JAK 억제제도 제품별 제한을 적용함. **국내 급여기준은 별도임. 예를 들어 baricitinib의 2026년 7월 기준은 이 고위험군에서 TNF 억제제 등 생물학적 제제의 불충분 반응·불내약을 요구함.** 허가상 “기존 치료제”를 csDMARD만으로 해석하여 고위험군 급여 순서를 정하지 않음.\
 
 ✽65세 이상, 현재 또는 과거 흡연, 심혈관 위험, VTE·악성종양 병력 등을 확인하고 고위험군에서는 적합한 대체 치료를 우선 검토; 서로 다른 JAK 억제제의 위험 크기가 같거나 특정 약제가 안전하다고 단정하지 않음
 {% endhint %}
@@ -372,7 +372,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
   * **TMP/SMX 또는 trimethoprim**은 folate 길항 및 골수억제 위험 때문에 가능하면 병용을 피함
   * 고용량 salicylate, 신배설을 저해하거나 신기능을 악화시키는 약물은 MTX 농도·독성을 높일 수 있어 주의
   * RA의 저용량 주 1회 MTX와 NSAID 병용은 전문의 관리 아래 선택될 수 있으나, 모든 NSAID에서 허용되는 것으로 일반화하지 않고 선택 제품의 허가·DUR 병용금기를 우선 확인함. 항암 고용량 MTX와의 병용은 회피하며, 고령·신기능 저하·탈수에서는 MTX 신배설 감소·골수억제·신독성 위험을 평가하고 CBC·간·신기능을 추적함; 일반약 NSAID 임의 추가를 피함
-* **유한메토트렉세이트정 금기** : 신장애, 간장애, 흉수·복수, 기존 혈액질환(골수형성부전·백혈구감소·혈소판감소·심한 빈혈), 명백한 면역결핍, 알코올중독·알코올성/만성 간질환, 임신·수유, acitretin 병용 등. 금기가 중증 신·간장애에만 한정된 것으로 쓰지 않음
+* **<a href="https://www.health.kr/drug/A11A0450A0312">유한메토트렉세이트정</a> 금기** : 신장애, 간장애, 흉수·복수, 기존 혈액질환(골수형성부전·백혈구감소·혈소판감소·심한 빈혈), 명백한 면역결핍, 알코올중독·알코올성/만성 간질환, 임신·수유, acitretin 병용 등. 금기가 중증 신·간장애에만 한정된 것으로 쓰지 않음
   * 국외 지침의 신기능별 감량 방안(CrCl 30\~59 ㎖/min 감량, ＜30 ㎖/min 회피 등)은 이 경구 제품의 허가 용법과 동일하지 않음. 신장애 환자에게 단순 감량하여 일반 허가 처방으로 제시하지 않고 전문의가 대안·제형별 허가를 검토함
 * 주의 및 개별 위험평가 : 음주, 비만·당뇨 등 간독성 위험 인자, 감염, 기존 폐질환 등; 간장애·만성 간질환이 확인되면 위 금기 적용
   * 여성은 임신 전 MTX 중단이 필요함. 남성이 임신을 계획하는 경우 ACR은 MTX 지속을 조건부 권고하므로 일률적 중단은 필요하지 않으나, 제품 허가사항·지침 간 차이를 고려하여 개별 상담
@@ -385,7 +385,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 * 작용 : 피리미딘 합성 억제를 통한 활성화 림프구 증식 억제
 * 부작용 : 발진, 설사, 구역, 탈모(가역적), 간 손상, 복통, 체중 감소, 고혈압
-* 용법 : 통상 20 ㎎ qd, 내약성이 좋지 않으면 10 ㎎ qd <mark style="color:blue;">\[아라바]</mark>; 부하용량을 생략하여 시작할 수 있음
+* 용법 : 통상 20 ㎎ qd, 내약성이 좋지 않으면 <a href="https://www.health.kr/drug/A11AKKKKK0503">10 ㎎</a> qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKKKKK0504">아라바</a>]</mark>; 부하용량을 생략하여 시작할 수 있음
   * ✽과거에는 loading dose(100 ㎎ qd ×3d)를 시행했으나, 위장관·간 부작용 위험 증가로 최근에는 생략하고 유지용량으로 바로 시작하는 경우가 흔함
 * 반감기가 길어(약 2주) 중단 후에도 활성대사물이 오래 남음. 임신 계획·임신 노출·중대한 독성 시 중단 후 cholestyramine 8 g tid ×11일 신속 제거 요법을 전문의 감독하에 시행; 혈중 활성대사물 ＜0.02 ㎎/L를 ≥14일 간격으로 2회 확인하고, 목표 농도에 도달하지 않으면 제거 요법 반복 검토
 * 모니터링 : 시작 전 CBC·LFT·신기능·혈압, 이후 첫 6개월 적어도 매달 CBC/LFT, 유지기 6\~8주 간격(아라바 허가사항). MTX·다른 면역억제제 병용 시 유지기에도 매달 검사 등 더 면밀히 추적
@@ -398,7 +398,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 대상 : RA 및 궤양성대장염; 척추관절염의 말초관절염에 사용 가능하나 순수 축성 증상에 대한 효과는 제한적이며 허가·급여 범위를 별도로 확인
 * 부작용 : 구역·복통·발진·두통·가역적 정자감소증, 간손상, 백혈구·혈소판 감소, 드문 중증 혈액장애·SJS/TEN·DRESS 등. 혈구감소·간독성에 대한 정기 검사 필요
 * 주의 : 오렌지색 소변/눈물/땀이 발생할 수 있으며 옷·콘택트렌즈에 착색될 수 있음
-* 금기 : sulfonamide·salicylate 과민반응, G6PD 결핍, 중증 간·신부전, 조혈기관 질환, 장폐색·요로협착 등; **조피린장용정 허가사항은 임신·수유도 금기**로 기재함(국제 지침과 차이, ☞ 임신 항목)
+* 금기 : sulfonamide·salicylate 과민반응, G6PD 결핍, 중증 간·신부전, 조혈기관 질환, 장폐색·요로협착 등; **<a href="https://www.health.kr/drug/A11A3780B0024">조피린장용정</a> 허가사항은 임신·수유도 금기**로 기재함(국제 지침과 차이, ☞ 임신 항목)
 * 용법 : <mark style="color:blue;">\[조피린]</mark> RA 허가 용법은 500 ㎎ qd로 시작, 매주 500 ㎎/d씩 증량하여 유지 500 ㎎씩 1일 2\~4회(총 1\~2 g/d). 국외 2\~3 g/d 또는 최대 4 g/d 요법을 이 제품의 RA 허가 용법으로 제시하지 않음
   * 장용정을 씹거나 부수지 말고 식후 충분한 물과 함께 복용; 제산제 등 병용은 제형 특성과 상호작용을 확인
 * 모니터링 : 시작 전 CBC·LFT·신기능, 첫 3개월 2주마다, 다음 3개월 매달, 이후 3개월마다(제품 설명서). G6PD 결핍 의심 병력·가족력·위험 배경이 있으면 검사; 모든 환자에서 일률적 필수 검사로 단정하지 않음
@@ -409,7 +409,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 일부 환자에서는 반응하기까지 3\~6개월 소요; 종종 MTX·sulfasalazine과 병용(3제 병합요법)
   * MTX + SSZ + HCQ 3제 병합은 MTX 불충분 반응 후 비용·선호·동반 질환에 따라 선택 가능; 효과·독성·순응도를 평가하며 b/tsDMARD 추가 전략과 비교하여 결정
 * 부작용 : DMARD 중 가장 적은 편; **망막병증**, 피부염, 근육 약화, hypoactive DTR, QT 연장(드묾)
-* 용법 : **실제 체중(actual body weight) 기준 ≤5 ㎎/㎏/d**을 초과하지 않도록 용량 설정, 통상 200\~400 ㎎/d #1\~2, 식사 또는 우유와 함께 복용 <mark style="color:blue;">\[할록신]</mark>
+* 용법 : **실제 체중(actual body weight) 기준 ≤5 ㎎/㎏/d**을 초과하지 않도록 용량 설정, 통상 200\~400 ㎎/d #1\~2, 식사 또는 우유와 함께 복용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A3780A0209">할록신</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A3780B0013">100 ㎎</a>)</span>]</mark>
   * ✽AAO 2025 개정 권고도 실제체중 기준 ≤5 ㎎/㎏/d를 유지; 심한 비만에서는 체중 계산만으로 고용량을 정하지 말고 통상 400 ㎎/d 이하에서 개별 조절
 * 모니터링 <mark style="color:$info;">\[AAO 2025]</mark> : 투여 직후 baseline 검사(안저, OCT, wide-field 자동형광 FAF)를 시행하여 기저 이상 여부 확인 및 추후 비교 기준 마련; 이후 **매년 OCT + wide-field FAF를 1차 선별검사**로 시행하되, 위험 인자가 없으면 첫 5년간은 연례 선별을 유예 가능; 시야검사·mfERG는 2차 확인 검사로 위치 변경; 신기능 저하, tamoxifen 병용, 고용량, 고령에서 치료 시작 등이 위험 인자로 조기·집중 선별 필요; 한국인을 포함한 동아시아 환자는 주변중심부(pericentral) 독성도 평가하도록 검사 범위를 확보. 순수 HCQ 단독 사용에서 CBC·U/A를 다른 csDMARD와 같은 간격으로 일률적 반복할 필요는 없으며 임상 상황에 따라 시행
 
@@ -420,9 +420,9 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 대상포진 위험 증가 → 재조합 대상포진 백신 접종 여부 확인; 특정 JAK 억제제가 더 안전하다고 일반화하지 않음
 * IL-6R 억제제와 마찬가지로 게실염·장천공 위험 증가 → 게실염 병력 환자에서 주의
 * tofacitinib : 통상 5 ㎎ bid <mark style="color:blue;">\[젤잔즈]</mark>; 중등도·중증 신장애 또는 중등도 간장애, 강력한 CYP3A4 억제제 또는 중등도 CYP3A4 + 강력한 CYP2C19 억제제(예: fluconazole) 병용 시 **5 ㎎ qd로 감량**. 중증 간장애에서는 금기이며 RA에 10 ㎎ bid를 사용하지 않음
-* baricitinib : 통상 4 ㎎ qd; 고령·위험 인자·신기능 등에 따라 2 ㎎ qd <mark style="color:blue;">\[올루미언트]</mark>; eGFR ＜30 ㎖/min/1.73 m²에서는 사용하지 않으며 감량은 제품 허가사항 적용
-* upadacitinib 15 ㎎ qd <mark style="color:blue;">\[린버크]</mark>
-* filgotinib : 통상 200 ㎎ qd, 고령·신기능·위험 인자에 따라 100 ㎎ qd <mark style="color:blue;">\[지셀레카]</mark>; 국내에 RA와 궤양성대장염 적응증이 있음
+* baricitinib : 통상 4 ㎎ qd; 고령·위험 인자·신기능 등에 따라 <a href="https://www.health.kr/drug/2017121200001">2 ㎎</a> qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017121200002">올루미언트</a>]</mark>; eGFR ＜30 ㎖/min/1.73 m²에서는 사용하지 않으며 감량은 제품 허가사항 적용
+* upadacitinib 15 ㎎ qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2020060500002">린버크</a>]</mark>
+* filgotinib : 통상 200 ㎎ qd, 고령·신기능·위험 인자에 따라 <a href="https://www.health.kr/drug/2022040500008">100 ㎎</a> qd <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022040500007">지셀레카</a>]</mark>; 국내에 RA와 궤양성대장염 적응증이 있음
 * 신·간기능 저하, CYP 관련 상호작용 및 임신·수유 금기를 약제별 확인; bDMARD·다른 JAK 억제제와 병용하지 않으며 azathioprine·cyclosporine 등 강력한 면역억제제 병용도 피함
 
 ### <mark style="color:orange;">b/tsDMARD 시작 전 감염 평가</mark>
@@ -444,27 +444,27 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 #### <mark style="color:$primary;">Tumor necrosis factor(TNF) 억제제</mark>
 
 * 시작 전 결핵 선별 및 치료 중 감염 관찰; 중등도\~중증 심부전(NYHA III/IV)·탈수초질환에서는 비-TNF 치료를 우선 검토
-* infliximab : **3 ㎎/㎏ IV, 0·2·6주 및 이후 8주마다**, MTX 병용 <mark style="color:blue;">\[램시마]</mark>. 불충분 반응·반응 소실 시 RA 허가 용법상 8주마다 약 1.5 ㎎/㎏씩 증량하여 최대 7.5 ㎎/㎏ 또는 3 ㎎/㎏를 4주마다 투여 고려. 허가 용법에 10 ㎎/㎏를 일률적으로 포함하지 않음
-* etanercept : 매주 50 ㎎ 또는 주 2회 25 ㎎씩 SC <mark style="color:blue;">\[엔브렐]</mark>
-* adalimumab : **40 ㎎ 격주 SC** <mark style="color:blue;">\[휴미라]</mark>; MTX를 병용하지 않는 단독요법에서 반응 감소 시 제품 허가사항에 따라 40 ㎎ 매주 또는 80 ㎎ 격주 증량을 고려
+* infliximab : **3 ㎎/㎏ IV, 0·2·6주 및 이후 8주마다**, MTX 병용 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012072400011">램시마</a>]</mark>. 불충분 반응·반응 소실 시 RA 허가 용법상 8주마다 약 1.5 ㎎/㎏씩 증량하여 최대 7.5 ㎎/㎏ 또는 3 ㎎/㎏를 4주마다 투여 고려. 허가 용법에 10 ㎎/㎏를 일률적으로 포함하지 않음
+* etanercept : 매주 50 ㎎ 또는 주 2회 <a href="https://www.health.kr/drug/A11AOOOOO2409">25 ㎎</a>씩 SC <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11AKP08G0699">엔브렐</a>]</mark>
+* adalimumab : **40 ㎎ 격주 SC** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2017062200010">휴미라</a>]</mark>; MTX를 병용하지 않는 단독요법에서 반응 감소 시 제품 허가사항에 따라 40 ㎎ 매주 또는 <a href="https://www.health.kr/drug/2019060400100">80 ㎎</a> 격주 증량을 고려
 * certolizumab pegol : 국내 유통 확인 안 됨(국외 용법 0·2·4주 400 ㎎ SC 후 200 ㎎ 2주마다 또는 400 ㎎ 4주마다)
-* golimumab : 50 ㎎ 매달 SC <mark style="color:blue;">\[심퍼니프리필드시린지주]</mark>, 또는 **2 ㎎/㎏ IV, 0·4주 및 이후 8주마다** <mark style="color:blue;">\[심퍼니주]</mark>; RA에서는 MTX 병용, 두 제형의 투여경로 혼동 주의
+* golimumab : 50 ㎎ 매달 SC <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012081600001">심퍼니프리필드시린지주</a>]</mark>, 또는 **2 ㎎/㎏ IV, 0·4주 및 이후 8주마다** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015022300001">심퍼니주</a>]</mark>; RA에서는 MTX 병용, 두 제형의 투여경로 혼동 주의
 
 #### <mark style="color:$primary;">IL-6 receptor 억제제</mark>
 
-* tocilizumab : RA 용법 **8 ㎎/㎏ IV 4주마다(1회 최대 800 ㎎)** <mark style="color:blue;">\[악템라주]</mark>, 또는 **162 ㎎ SC 2주마다**, 효과 불충분 시 매주로 단축 <mark style="color:blue;">\[악템라피하주사]</mark>; 검사치 이상 발생 시 허가사항에 따라 감량·보류
+* tocilizumab : RA 용법 **8 ㎎/㎏ IV 4주마다(1회 최대 800 ㎎)** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2012040900001">악템라주</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/2018032200006">80 ㎎/4 ㎖</a> · <a href="https://www.health.kr/drug/2018032200005">400 ㎎/20 ㎖</a>)</span>]</mark>, 또는 **162 ㎎ SC 2주마다**, 효과 불충분 시 매주로 단축 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2014080100048">악템라피하주사</a>]</mark>; 검사치 이상 발생 시 허가사항에 따라 감량·보류
 * sarilumab : 국내 유통 확인 안 됨(국외 용법 200 ㎎ SC 2주마다, 검사치 이상 시 150 ㎎로 감량)
 * ✽csDMARD 병용이 어려운 환자에서 단독요법 시 상대적으로 유리할 수 있음; 호중구 감소, 이상지질혈증, 장천공(게실염 병력 시 주의) 모니터링 필요
 * IL-6 억제 시 CRP·발열 반응이 둔화될 수 있음; 낮은 CRP로 중증 감염을 배제하거나 DAS28 관해만으로 염증 소실을 단정하지 않음
 
 #### <mark style="color:$primary;">T-cell costimulatory 억제제</mark>
 
-* abatacept : IV는 체중 ＜60 ㎏ 500 ㎎, 60\~100 ㎏ 750 ㎎, ＞100 ㎏ 1,000 ㎎를 0·2·4주 및 이후 4주마다; SC는 125 ㎎ 매주 <mark style="color:blue;">\[오렌시아]</mark>
+* abatacept : <a href="https://www.health.kr/drug/2010033100011">IV</a>는 체중 ＜60 ㎏ 500 ㎎, 60\~100 ㎏ 750 ㎎, ＞100 ㎏ 1,000 ㎎를 0·2·4주 및 이후 4주마다; SC는 125 ㎎ 매주 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2013060300010">오렌시아</a>]</mark>
 
 #### <mark style="color:$primary;">anti-B cell(CD20)</mark>
 
 * 대상 : RA에서는 TNF 억제제 ≥1개에 불충분 반응 또는 불내약인 성인의 중등도\~중증 활동성 RA에 MTX와 병용; 특히 RF/ACPA 양성에서 반응이 더 좋을 수 있음
-* rituximab : 1,000 ㎎를 2주 간격으로 2회 점적 IV; 약 24주 이후 재치료 필요성 평가 <mark style="color:blue;">\[트룩시마]</mark>. 주입반응 예방을 위한 항히스타민제·해열제 및 methylprednisolone 100 ㎎ IV 전처치 등을 제품 허가사항에 따라 시행
+* rituximab : 1,000 ㎎를 2주 간격으로 2회 점적 IV; 약 24주 이후 재치료 필요성 평가 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2015071700008">트룩시마</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/2017070300030">100 ㎎/10 ㎖</a>)</span>]</mark>. 주입반응 예방을 위한 항히스타민제·해열제 및 methylprednisolone 100 ㎎ IV 전처치 등을 제품 허가사항에 따라 시행
 * HBV 선별(HBsAg·anti-HBc·anti-HBs) 필수; HBsAg 또는 anti-HBc 양성이면 예방 항바이러스 치료를 간 전문의와 계획. 투여 전·반복 치료 시 면역글로불린·감염 위험도 확인
 
 ### <mark style="color:orange;">가임기 여성 및 임신 계획</mark>
@@ -481,7 +481,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 #### <mark style="color:$primary;">전신 투여</mark>
 
-* csDMARD 시작 시 가교요법을 선택하면 최소 유효 용량으로 시작(예: prednisolone 5\~7.5 ㎎/d)하고 빠르게 감량하여 **통상 3개월 이내 중단을 목표로 함** <mark style="color:blue;">\[소론도]</mark>; 시작 시 중단 계획을 정함. 경구 투여가 어려우면 전문의가 주사제 대안을 검토하되 제형·허가 용법을 확인 <mark style="color:$info;">\[EULAR 2025]</mark>
+* csDMARD 시작 시 가교요법을 선택하면 최소 유효 용량으로 시작(예: prednisolone 5\~7.5 ㎎/d)하고 빠르게 감량하여 **통상 3개월 이내 중단을 목표로 함** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A4290B0015">소론도</a>]</mark>; 시작 시 중단 계획을 정함. 경구 투여가 어려우면 전문의가 주사제 대안을 검토하되 제형·허가 용법을 확인 <mark style="color:$info;">\[EULAR 2025]</mark>
   * ✽GC는 DMARD 효과가 나타날 때까지 증상·염증을 조절하는 가교요법이며, 장기 RA 조절을 위한 DMARD 대체제가 아님. 3개월은 감량·중단을 지향하는 실무 목표이며, 장기간 사용한 환자에게 일률적으로 갑자기 끊으라는 의미가 아님. GC 없이 목표를 유지하지 못하면 DMARD 전략을 재평가함
   * ✽감량 중 flare 시 감염·순응도·잔존 활막염을 확인하고 csDMARD 최적화 또는 b/tsDMARD 추가·변경 검토; 일시적 flare마다 곧바로 생물학적 제제를 추가하는 것은 아님
   * ✽ACR 2021은 단기 GC 병용 없이 csDMARD를 시작하도록 조건부 권고(매우 낮은 근거 수준)하여 EULAR와 입장이 다름
@@ -505,18 +505,18 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 위궤양·심혈관 위험 등 부작용을 고려하여 선택
 * 최소 유효 용량을 최단기간 사용; 충분한 NSAID 반응이 없어도 고용량을 지속하기보다 RA 염증 조절과 다른 통증 원인을 재평가
 * 단기간 사용 후 효과가 부족하면 활막염 지속·감염·비염증성 통증 등 원인을 재평가하고, 필요 시 NSAID 변경을 고려; 서로 다른 NSAID를 동시에 병용하지 않음
-* naproxen : 500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
-* ibuprofen : RA 허가 기본 용법은 1회 200\~600 ㎎, 1일 3\~4회 <mark style="color:blue;">\[부루펜]</mark>; 저용량부터 효과·위험을 평가함. 허가상 1일 최고 3,200 ㎎을 목표량으로 사용하지 않으며, 800 ㎎/회를 일률적인 기본 용법으로 제시하지 않음. 2,400 ㎎/d 이상의 고용량은 심혈관 위험에 특히 유의함
-* celecoxib : RA 용법 100\~200 ㎎ bid <mark style="color:blue;">\[쎄레브렉스]</mark>; 필요 최소량을 선택
+* naproxen : 500 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0120A0286">낙센</a>]</mark>
+* ibuprofen : RA 허가 기본 용법은 1회 200\~600 ㎎, 1일 3\~4회 <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0500A0097">부루펜</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11A0500A0131">400 ㎎</a>)</span>]</mark>; 저용량부터 효과·위험을 평가함. 허가상 1일 최고 3,200 ㎎을 목표량으로 사용하지 않으며, 800 ㎎/회를 일률적인 기본 용법으로 제시하지 않음. 2,400 ㎎/d 이상의 고용량은 심혈관 위험에 특히 유의함
+* celecoxib : RA 용법 100\~200 ㎎ bid <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11ABBBBB1345">쎄레브렉스</a><span data-drug-link-variants="true"> (<a href="https://www.health.kr/drug/A11ABBBBB1346">200 ㎎</a>)</span>]</mark>; 필요 최소량을 선택
   * 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II\~IV 울혈성 심부전에서 투여 금기임. 위험인자만 있는 경우와 확립된 질환을 구분하며 활동성 궤양/출혈·중증 신장애 등 금기를 우선 적용함
 * 부루펜정은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
 * NSAID 시작 전 혈압·신기능·병용약을 확인하고 고위험 환자는 시작·증량 후 조기에 Cr/eGFR·K를 재확인함. 전신 스테로이드·항응고/항혈소판제 병용에서는 출혈 위험을 평가하고 가능한 회피·대안을 우선하며, 불가피하면 PPI 등 위장 보호를 검토함
 
 #### <mark style="color:$primary;">기타 진통제</mark>
 
-* acetaminophen : 일반정은 500\~1,000 ㎎를 필요시 4\~6시간 간격(1회 최대 1,000 ㎎), **650 ㎎ 서방정 허가 용법은 1,300 ㎎(2정)을 8시간 간격** <mark style="color:blue;">\[타이레놀]</mark>, <mark style="color:blue;">\[타이레놀8시간이알]</mark>; 일반정 성인 허가 최대 4 g/d, 650 ㎎ 서방정 최대 3,900 ㎎/d. 서방정은 부수거나 씹지 않음. 만성 사용·고령·간독성 위험이면 더 낮은 일일 상한(예: 3 g/d 이하)을 설정하고 복합제 총량 포함
+* acetaminophen : 일반정은 500\~1,000 ㎎를 필요시 4\~6시간 간격(1회 최대 1,000 ㎎), **650 ㎎ 서방정 허가 용법은 1,300 ㎎(2정)을 8시간 간격** <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2021082400002">타이레놀</a>]</mark>, <mark style="color:blue;">\[<a href="https://www.health.kr/drug/2022020300026">타이레놀8시간이알</a>]</mark>; 일반정 성인 허가 최대 4 g/d, 650 ㎎ 서방정 최대 3,900 ㎎/d. 서방정은 부수거나 씹지 않음. 만성 사용·고령·간독성 위험이면 더 낮은 일일 상한(예: 3 g/d 이하)을 설정하고 복합제 총량 포함
   * 타이레놀정·타이레놀8시간이알서방정은 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·TCA 복용 등에서 금기임. NSAID가 부적절하다는 이유만으로 자동 선택하지 않고 acetaminophen 자체의 금기를 먼저 확인함
-* tramadol : RA에서 일상적·장기 사용은 피하고 선택된 잔존 중증 통증에 단기간 고려. <mark style="color:blue;">\[트리돌]</mark>(50 ㎎ 캡슐)은 1회 50 ㎎, 30\~60분 후 진통이 부족하면 50 ㎎ 추가, 성인 허가 최대 400 ㎎/d. 75세 초과·신기능 또는 간기능 저하에서는 배설 지연을 고려하여 투여간격·총량을 조정하며 서방정 용법과 혼동하지 않음. 낙상·의존·경련·항우울제 병용 시 serotonin syndrome 위험 확인
+* tramadol : RA에서 일상적·장기 사용은 피하고 선택된 잔존 중증 통증에 단기간 고려. <mark style="color:blue;">\[<a href="https://www.health.kr/drug/A11A0450A0359">트리돌</a>]</mark>(50 ㎎ 캡슐)은 1회 50 ㎎, 30\~60분 후 진통이 부족하면 50 ㎎ 추가, 성인 허가 최대 400 ㎎/d. 75세 초과·신기능 또는 간기능 저하에서는 배설 지연을 고려하여 투여간격·총량을 조정하며 서방정 용법과 혼동하지 않음. 낙상·의존·경련·항우울제 병용 시 serotonin syndrome 위험 확인
   * 경도\~중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 금기이므로 감량 투여와 구분함
 * capsaicin 크림 : 잔존 국소 통증의 보조 옵션이나 RA 특이 근거는 제한적; 제품 농도·허가 용법 확인. 활성 활막염 치료를 대체하지 않음
 
@@ -566,6 +566,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 > 폴산 1 ㎎/T  1T  qd (MTX 투여일 제외)
 > 쎄레브렉스 100 ㎎/C  1C  bid (통증 시 단기간)
 > ```
+> 약제 정보: [유한메토트렉세이트정·2.5 ㎎](https://www.health.kr/drug/A11A0450A0312) · [쎄레브렉스·100 ㎎](https://www.health.kr/drug/A11ABBBBB1345)
 >
 > _✽성인 초기 처방 예(15 ㎎/wk); 7.5\~10 ㎎/wk로 더 낮게 시작한 뒤 증량할 수도 있음. 이 경구 제품의 RA 허가 상한은 20 ㎎/wk이며 국제 지침의 25 ㎎/wk와 구분. 기저 CBC·LFT·신기능 확인 및 시작·증량 후 추적. 쎄레브렉스는 RA 용법 100 ㎎ bid로 표기; 장기 자동 유지 없이 필요 기간만 병용_
 >
@@ -577,6 +578,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 > 조피린장용정 500 ㎎/T  1T  qd 시작 → 매주 일일 총량 500 ㎎씩 증량
 > 타이레놀정 500 ㎎/T  1T  필요시 4~6시간 간격 (이 예에서는 1일 최대 6T)
 > ```
+> 약제 정보: [조피린장용정·500 ㎎](https://www.health.kr/drug/A11A3780B0024) · [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽이 예는 임신·중증 간/신부전·G6PD 결핍 등 SSZ 금기가 없는 MTX 불내약 환자 대상. 조피린장용정 RA 유지 용법은 500 ㎎씩 1일 2\~4회(총 1\~2 g/d). MTX 금기 원인이 SSZ의 금기에도 해당하면 다른 약제 선택; 임신 환자에게 그대로 적용하지 않음_
 
@@ -587,6 +589,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 > 폴산 1 ㎎/T  1T  qd (MTX 투여일 제외)
 > 소론도 5 ㎎/T  1T  qd 아침
 > ```
+> 약제 정보: [유한메토트렉세이트정·2.5 ㎎](https://www.health.kr/drug/A11A0450A0312) · [소론도·5 ㎎](https://www.health.kr/drug/A11A4290B0015)
 >
 > _✽DMARD 효과 발현 전 선택적 가교 치료; 시작할 때부터 감량 계획을 정하고 호전 시 신속히 감량하여 통상 3개월 이내 중단을 목표로 함. 모든 환자에게 GC 병용이 필수는 아님_
 
@@ -597,6 +600,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 > 폴산 1 ㎎/T  1T  qd (MTX 투여일 제외)
 > 휴미라펜주 40 ㎎/0.4 ㎖  1펜  2주마다 SC
 > ```
+> 약제 정보: [유한메토트렉세이트정·2.5 ㎎](https://www.health.kr/drug/A11A0450A0312) · [휴미라펜주·40 ㎎/0.4 ㎖](https://www.health.kr/drug/2017062200010)
 >
 > _✽적절히 최적화한 csDMARD 전략에도 치료 목표에 도달하지 못한 경우 bDMARD 추가; JAK 억제제는 위험 평가 후 고려. 투여 전 잠복결핵·B형간염 선별 필수(류마티스내과 협진)_
 
