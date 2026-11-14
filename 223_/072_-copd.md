@@ -1,4 +1,4 @@
-# 만성 폐쇄성 폐질환 COPD
+# 만성 폐쇄성 폐질환 Chronic Obstructive Pulmonary Disease, COPD
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -61,15 +61,15 @@
 
 * 휴식 시 호흡 곤란의 뚜렷한 악화, 평소보다 새로 감소한 산소포화도  `ECOPD`  `폐렴`
 * 새로 발생한 말초 부종, 심부전·부정맥 의심 소견  `우심부전`  `심부전`  `부정맥`
-* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화  `치료 실패`  `폐렴`  `다른 심폐질환`
+* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화  `ECOPD`  `폐렴`  `심부전`  `폐색전증`
 * 새로 발생한 소량 객혈  `폐암`  `폐결핵`  `기관지확장증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 폐기능 검사상 GOLD 3–4 또는 급격한 FEV₁ 감소  `중증 기류 폐쇄`
-* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화  `악화 재발 위험`
+* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화  `반복성 ECOPD`
 * 원인이 설명되지 않는 체중 감소 또는 야간 발한  `폐암`  `폐결핵`
-* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분  `쇠약`  `영양불량`  `자가 관리 곤란`
+* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분  `쇠약`  `영양불량`  `기능 저하`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -209,7 +209,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 지속되는 문제(호흡 곤란 or 악화)에 따라 경로 분리
 * 호흡 곤란 지속 : LABA 또는 LAMA(단독 사용 중이었다면) → LABA+LAMA → 흡입기 성분/기종 교체, 비약물 치료 강화, ensifentrine 추가 고려(국내 미도입), 호흡 곤란의 다른 원인 조사
 * 악화 발생 : LABA 또는 LAMA 단독 중이면 (eos ＜300) LABA+LAMA 또는 (eos ≥300) LABA+LAMA+ICS로 증량. LABA+LAMA 중 악화가 발생하면 eos ≥100에서 LABA+LAMA+ICS로 증량. eos ＜100이거나 triple therapy에도 악화가 지속되면 Roflumilast(FEV1＜50%+만성 기관지염+이전 중증 악화/입원력) / Azithromycin(비흡연자 우선) / 생물학적제제(중등도 ≥2회 또는 중증 ≥1회 악화 + eos ≥300 시 Dupilumab\[만성 기관지염 동반] 또는 Mepolizumab)\
-  → NIV, 장기 O2, LVRS/BLVR, 폐 이식 (말기)
+  → NIV·장기 산소치료·LVRS/BLVR·폐 이식은 호산구 수나 위 약제의 순서와 별개로 환기부전·저산소혈증·폐기종/과팽창 및 이식 기준에 따라 전문기관에서 평가
 
 #### <mark style="color:$primary;">COPD Management Cycle</mark>
 
@@ -219,7 +219,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 4. Review : 증상(CAT or mMRC), 악화, 흡연 상태, 다른 위험 인자 노출, 흡입제 사용법 및 순응도, 육체적 활동 및 운동, 폐 재활 치료 필요성, 자가 관리 기술, 산소, NIV, 폐용적 감소 등, 예방접종, 동반 질환 관리, Spirometry (최소 매년)
 5. Adjust : 약물 치료, 비-약물 치료
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">금연</mark>
 
@@ -304,7 +304,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 흡입 SABA : salbutamol
 * 흡입 LABA : 1일 2회 - formoterol, salmeterol; 1일 1회 - indacaterol, olodaterol, vilanterol
 
-<table><thead><tr><th width="74">분류</th><th width="263">성분명 [상품명]</th><th width="294">흡입제 용량</th><th width="101">작용 시간(hr)</th></tr></thead><tbody><tr><td>SABA</td><td>salbutamol <mark style="color:blue;">[벤토린 에보할러]</mark></td><td>100 μg/puff 1~2 puffs prn<br>외래 자가 사용: 24시간 최대 8회 분무</td><td>4–6</td></tr><tr><td>LABA</td><td>indacaterol <mark style="color:blue;">[온브리즈 흡입용캡슐]</mark></td><td>150 or 300 μg/C qd</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="74">분류</th><th width="263">성분명 [상품명]</th><th width="294">흡입제 용량</th><th width="101">작용 시간(hr)</th></tr></thead><tbody><tr><td>SABA</td><td>salbutamol [<a href="https://www.health.kr/drug/A11ABBBBB1232">벤토린 에보할러</a>]</td><td>100 μg/puff 1~2 puffs prn<br>외래 자가 사용: 24시간 최대 8회 분무</td><td>4–6</td></tr><tr><td>LABA</td><td>indacaterol [<a href="https://www.health.kr/drug/2010082700002">온브리즈 흡입용캡슐</a>]</td><td>150 or <a href="https://www.health.kr/drug/2010082700003">300</a> μg/C qd</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항콜린제(Antimuscarinics)</mark>
 
@@ -315,20 +315,20 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
   * 주요 금기 : 폐쇄각 녹내장, 전립선비대증, 아트로핀 계열 약물 과민증. 약물이 눈에 들어가지 않도록 마우스피스 사용을 우선 고려하고, LAMA 병용 중에는 항콜린 효과 중복을 평가함
 * LAMA : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-<table><thead><tr><th width="81">분류</th><th width="202">성분명 [상품명]</th><th width="168">흡입제 용량</th><th width="207">네뷸라이저 용액</th><th width="102">작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium<br><mark style="color:blue;">[아트로벤트흡입액유디비]</mark></td><td>-</td><td>500 μg/2 ㎖/일회용 용기<br>1회 100~500 μg, 1일 4회</td><td>6–8</td></tr><tr><td rowspan="4">LAMA</td><td>aclidinium<br><mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td>tiotropium<br><mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td>tiotropium<br><mark style="color:blue;">[스피리바 레스피맷]</mark></td><td>2.5 μg/puff 2 puffs qd(총 5 μg)</td><td>-</td><td>24</td></tr><tr><td>umeclidinium<br><mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="81">분류</th><th width="202">성분명 [상품명]</th><th width="168">흡입제 용량</th><th width="207">네뷸라이저 용액</th><th width="102">작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium<br>[<a href="https://www.health.kr/drug/A11ABBBBB1384">아트로벤트흡입액유디비</a>]</td><td>-</td><td>500 μg/2 ㎖/일회용 용기<br>1회 100~500 μg, 1일 4회</td><td>6–8</td></tr><tr><td rowspan="4">LAMA</td><td>aclidinium<br>[<a href="https://www.health.kr/drug/2014070100015">에클리라 제뉴에어</a>]</td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td>tiotropium<br>[<a href="https://www.health.kr/drug/2018032700029">스피리바 흡입용캡슐</a>]</td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td>tiotropium<br>[<a href="https://www.health.kr/drug/2020012800032">스피리바 레스피맷</a>]</td><td>2.5 μg/puff 2 puffs qd(총 5 μg)</td><td>-</td><td>24</td></tr><tr><td>umeclidinium<br>[<a href="https://www.health.kr/drug/2015062600010">인크루즈 엘립타</a>]</td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">LAMA+LABA 흡입 복합제</mark>
 
 * COPD 단독 환자의 일반적인 초치료에서는 LAMA+LABA가 ICS+LABA보다 선호되며 폐렴 위험도 낮음. 단, ICS의 악화 예방 효과는 악화 병력과 혈중 호산구 수에 따라 달라짐
 
-<table><thead><tr><th width="396">성분명 [상품명]</th><th>흡입제 용량</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>formoterol / aclidinium <mark style="color:blue;">[듀어클리어 제뉴에어]</mark></td><td>12/400 μg 1 puff bid</td><td>12</td></tr><tr><td>indacaterol / glycopyrronium <mark style="color:blue;">[조터나 흡입용캡슐]</mark></td><td>110/50 μg 1C qd</td><td>24</td></tr><tr><td>olodaterol / tiotropium <mark style="color:blue;">[바헬바 레스피맷]</mark></td><td>2.5/2.5 μg/puff, 2 puffs qd(총 5/5 μg)</td><td>24</td></tr><tr><td>vilanterol / umeclidinium <mark style="color:blue;">[아노로 엘립타]</mark></td><td>25/62.5 μg 1 puff qd</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="396">성분명 [상품명]</th><th>흡입제 용량</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>formoterol / aclidinium [<a href="https://www.health.kr/drug/2015022700006">듀어클리어 제뉴에어</a>]</td><td>12/400 μg 1 puff bid</td><td>12</td></tr><tr><td>indacaterol / glycopyrronium [<a href="https://www.health.kr/drug/2014052600007">조터나 흡입용캡슐</a>]</td><td>110/50 μg 1C qd</td><td>24</td></tr><tr><td>olodaterol / tiotropium [<a href="https://www.health.kr/drug/2020012800033">바헬바 레스피맷</a>]</td><td>2.5/2.5 μg/puff, 2 puffs qd(총 5/5 μg)</td><td>24</td></tr><tr><td>vilanterol / umeclidinium [<a href="https://www.health.kr/drug/2014071100015">아노로 엘립타</a>]</td><td>25/62.5 μg 1 puff qd</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Methylxanthine</mark>
 
 * stable COPD에서 기관지 확장 효과는 제한적이며 독성 위험 때문에 routine use는 권고되지 않음
 * 부작용 : 용량에 따른 독성(유효 농도와 독성 농도의 차이가 적음); 구역, 구토, 설사, 불면, 흥분, 떨림, 두통, 부정맥, 발작
 * 적용 : 다른 모든 제제를 사용하기 어렵거나 효과가 없는 경우에 한하여 마지막 수단으로 선택
-* theophylline은 다른 흡입치료를 사용할 수 없는 예외적 상황에서만 고려하며 저용량으로 시작 <mark style="color:blue;">\[테올란비]</mark>
+* theophylline은 다른 흡입치료를 사용할 수 없는 예외적 상황에서만 고려하며 저용량으로 시작 \[[테올란비](https://www.health.kr/drug/A11ABBBBB0338) ([100 ㎎](https://www.health.kr/drug/A11ABBBBB0339))]
   * 고령, 간기능 저하, 심부전, 발열성 질환 및 약물 상호작용 시 청소율 감소에 주의. 성인 신기능 저하만으로 일률적인 감량이 필요한 것은 아님
   * 혈중 농도는 기관·검사실 기준과 임상상을 함께 해석하며, 시작·용량 변경·독성 의심·흡연 상태 또는 상호작용 약물 변화 시 측정
 
@@ -362,10 +362,10 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 천식 동반 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서 지속 가능; 신규 COPD 단독 환자에서는 LABA+LAMA를 우선 고려
 * COPD 허가 함량과 천식 허가 함량이 다를 수 있으므로 제품별 국내 허가사항을 확인하고 임의로 흡입 횟수를 조절하지 않음
 
-<table><thead><tr><th width="230">성분명</th><th width="330">국내 제품 및 COPD 허가 함량 예</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> 100/25 μg</td><td>1 puff qd</td></tr><tr><td>budesonide / formoterol</td><td><mark style="color:blue;">[심비코트 터부헬러]</mark> 160/4.5 μg</td><td>2 puffs bid</td></tr><tr><td>beclomethasone / formoterol</td><td><mark style="color:blue;">[포스터]</mark> 100/6 μg (HFA)</td><td>2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="230">성분명</th><th width="330">국내 제품 및 COPD 허가 함량 예</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / vilanterol</td><td>[<a href="https://www.health.kr/drug/2014070200002">렐바 엘립타</a>] 100/25 μg</td><td>1 puff qd</td></tr><tr><td>budesonide / formoterol</td><td>[<a href="https://www.health.kr/drug/A11APPPPP2291">심비코트 터부헬러</a>] 160/4.5 μg</td><td>2 puffs bid</td></tr><tr><td>beclomethasone / formoterol</td><td>[<a href="https://www.health.kr/drug/A11AKP08K0124">포스터</a>] 100/6 μg (HFA)</td><td>2 puffs bid</td></tr></tbody></table>
 
 {% hint style="warning" %}
-위 표는 대표 예시이며 동일 성분이라도 제형·함량별 COPD 허가 여부가 다를 수 있음. 국내 COPD 허가 조건도 제품마다 다름(렐바: 정기적 기관지확장제 치료에도 악화 이력이 있고 FEV₁ ＜70% 예측치, 심비코트: 중증 COPD, 포스터: 반복 악화 이력이 있는 중증 COPD). fluticasone propionate/salmeterol 제네릭(콤포나·플루테롤)은 현재 천식만 허가되어 있음
+위 표는 대표 예시이며 동일 성분이라도 제형·함량별 COPD 허가 여부가 다를 수 있음. 국내 COPD 허가 조건도 제품마다 다름(렐바: 정기적 기관지확장제 치료에도 악화 이력이 있고 FEV₁ ＜70% 예측치, 심비코트: 중증 COPD, 포스터: 반복 악화 이력이 있는 중증 COPD). fluticasone propionate/salmeterol 제네릭([콤포나](https://www.health.kr/drug/2019020700002) ([100/50 ㎍](https://www.health.kr/drug/2019020700001))·[플루테롤](https://www.health.kr/drug/2014012700021) ([100/50 ㎍](https://www.health.kr/drug/2014012700022)))은 현재 천식만 허가되어 있음
 {% endhint %}
 
 #### <mark style="color:$primary;">LABA+LAMA+ICS (Triple Therapy)</mark>
@@ -373,10 +373,10 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * ICS 적응증이 있는 환자에서 현재 COPD 약물 치료의 최적 병용 요법 (보험주의)
 * ETHOS, IMPACT 연구에서 악화 고위험 환자의 LAMA+LABA 대비 triple therapy가 사망 위험 감소 가능성을 시사했으나, 환자 선택과 ICS 관련 폐렴 위험을 함께 고려
 
-<table><thead><tr><th width="456">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우]</mark></td><td>100/6/12.5 μg/puff, 2 puffs bid<br>(전달용량 약 87/5/9 μg)</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우넥스트할러]</mark> (DPI) ³⁾</td><td>100/6/12.5 μg, 2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="456">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol [<a href="https://www.health.kr/drug/2018051400010">트렐리지 엘립타</a>] ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol [<a href="https://www.health.kr/drug/2021111000002">브레즈트리 에어로스피어</a>] ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium [<a href="https://www.health.kr/drug/2019091900051">트림보우</a>]</td><td>100/6/12.5 μg/puff, 2 puffs bid<br>(전달용량 약 87/5/9 μg)</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium [<a href="https://www.health.kr/drug/2026060200001">트림보우넥스트할러</a>] (DPI) ³⁾</td><td>100/6/12.5 μg, 2 puffs bid</td></tr></tbody></table>
 
-> _¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 용량_\
-> _²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
+> _¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; [200/62.5/25](https://www.health.kr/drug/2022092700002) μg은 천식 용량_\
+> _²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. [에너제어](https://www.health.kr/drug/2020122800012) ([150/50/160 ㎍](https://www.health.kr/drug/2020122800013)) 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
 > _³⁾트림보우넥스트할러는 2026-06 허가된 DPI 제형으로 중증 COPD에만 허가됨(pMDI인 트림보우는 천식·COPD 모두 허가)_
 
 #### <mark style="color:$primary;">전신 스테로이드</mark>
@@ -391,7 +391,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 적용 : 최적 흡입치료에도 악화가 지속되며 FEV1 ＜50%, 임상적 만성 기관지염 및 이전 중증 악화/입원력이 있는 환자에서 추가 고려
 * 부작용 : 설사, 구역, 복통, 식욕 감퇴, 두통, 체중 감소; 불면·불안·우울 및 자살 관련 이상반응 가능
 * 투여 전 체중과 정신건강 병력을 평가하고 치료 중 추적. 저체중 환자는 특히 신중히 판단하며, 설명되지 않는 유의한 체중 감소 또는 새로운 정신과적 증상이 발생하면 중단 필요성을 포함하여 즉시 재평가
-* roflumilast : 500 ㎍(0.5 ㎎) qd <mark style="color:blue;">\[닥사스]</mark>
+* roflumilast : 500 ㎍(0.5 ㎎) qd \[[닥사스](https://www.health.kr/drug/2011051800005)]
   * 국내 허가 : 증상 악화 병력이 있고 만성 기관지염을 수반한 중증 COPD에서 기관지확장제의 부가 유지요법
   * 국내 급여 : 위 허가 범위에서 ① FEV₁ ＜50% 예측치 또는 ② β₂ 작용제·항콜린제 등의 지속 투여에도 연 ≥2회 악화 시 투여소견서로 인정하며, LABA 또는 LAMA 1종과 병용하는 기준임. GOLD 추적 치료의 선택 기준과 급여 조건을 구분함 <mark style="color:$info;">\[심평원 고시 제2021-270호]</mark>
   * 국내 주요 금기 : Child-Pugh B·C, 자살 관념·행동 관련 우울증 병력, 중증 면역학적 질환·급성 감염, 암(기저세포암종 제외), 면역억제제 투여(단기 전신 스테로이드 제외), 잠복 감염, NYHA III·IV 심부전 등
@@ -412,9 +412,9 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 * **dupilumab** : IL-4/IL-13 수용체 공통 부위를 차단함
   * 만성 기관지염 동반 COPD(GOLD 2–3)에서 악화 감소·폐기능·삶의 질 개선(52주)이 확인됨
-  * 300 ㎎ 매 2주 피하주사 <mark style="color:blue;">\[듀피젠트]</mark> (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005))
+  * 300 ㎎ 매 2주 피하주사 \[[듀피젠트](https://www.health.kr/drug/2018040200003)] (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005))
 * **mepolizumab** : 항 IL-5 단클론항체로 만성 기관지염 동반 여부와 관계없이 COPD(GOLD 2–4)의 악화 감소 근거가 있음
-  * 100 ㎎ 매 4주 피하주사 <mark style="color:blue;">\[누칼라오토인젝터주]</mark> (☞ [천식 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0004))
+  * 100 ㎎ 매 4주 피하주사 \[[누칼라오토인젝터주](https://www.health.kr/drug/2025032500011)] (☞ [천식 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0004))
 * 위 두 제제는 급성 악화 구제치료나 비폐쇄성 만성 기관지염에 사용하지 않음
 * 위 두 제제의 COPD 허가와 급여 인정은 별개이며, mepolizumab의 현행 급여기준은 중증 호산구성 천식 대상임
 * benralizumab(항 IL-5 수용체)은 COPD 악화 감소 효과가 RCT에서 확인되지 않아 권고하지 않음
@@ -424,14 +424,14 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 일부 COPD 환자에서 악화 감소 가능성이 있으나 효과는 제한적이며, 흡입 유지치료를 대체하지 않음
 * NAC·carbocisteine은 주로 ICS를 사용하지 않는 환자에서 근거가 제시됨
   * Erdosteine은 ICS 병용 여부와 관계없이 주로 경증 악화 감소 근거가 있어 같은 제한을 일괄 적용하지 않음 <mark style="color:$info;">\[GOLD 2026]</mark>
-* N-acetylcysteine(NAC) : 200 ㎎ bid <mark style="color:blue;">\[뮤테란]</mark>
+* N-acetylcysteine(NAC) : 200 ㎎ bid \[[뮤테란](https://www.health.kr/drug/A11A1530A0114)]
   * 만성질환 허가 용량(200 ㎎ bid)은 급성질환의 200 ㎎ tid와 다르며, COPD 악화 예방 연구의 600 ㎎ bid는 위 허가 용량을 초과함
   * 경증\~중등도 COPD 968명의 2024년 무작위시험에서는 2년 투여로 전체 악화율·폐기능의 유의한 개선이 없었으므로 일률적 장기 투여를 권하지 않음 <mark style="color:$info;">\[Nat Commun 2024]</mark>
   * 과민반응·위십이지장궤양·해당 제형의 유당 관련 유전 질환 등 금기와 기관지연축에 유의
   * 아목시실린·독시사이클린 등 경구 항생제와는 허가사항에 따라 ≥2시간 간격을 둠
-* carbocisteine : 초기 750 ㎎ tid, 증상 호전 후 375 ㎎ qid <mark style="color:blue;">\[리나치올]</mark> (500 ㎎ 제형은 500 ㎎ tid 허가)
+* carbocisteine : 초기 750 ㎎ tid, 증상 호전 후 375 ㎎ qid \[[리나치올](https://www.health.kr/drug/A11A3060A0189)] (500 ㎎ 제형은 500 ㎎ tid 허가)
   * 금기 : 위·십이지장궤양
-* erdosteine : COPD 악화 예방 연구 용량 300 ㎎ bid <mark style="color:blue;">\[엘도스]</mark>
+* erdosteine : COPD 악화 예방 연구 용량 300 ㎎ bid \[[엘도스](https://www.health.kr/drug/A11A0431A0054)]
   * 중증 신장애(CrCl ＜25 ㎖/min)·중증 간장애·간경변·소화성궤양·시스타티오닌 합성효소 결핍 등 금기. 경증\~중등도 간장애에서는 1일 300 ㎎을 초과하지 않음
   * 급성 호흡기질환의 연속 10일 이상 투여 제한을 만성질환의 일률적 투여 상한으로 해석하지 않음. 만성 치료는 임상적 이득·이상반응을 재평가하여 개별화함
 * 객담 배출 능력을 확인하고 진해제를 일률적으로 병용하지 않음. 임상적 이득이 없으면 중단함 (☞ [만성 기관지염](067_-chronic-bronchitis.md))
@@ -467,31 +467,27 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 graph TD
 %% DYSPNEA pathway
 D0["DYSPNEA"] --> D1["LABA or LAMA"]
-    D1 --> D2["LABA+LAMA¹⁾"]
-    D2 --> D3["•흡입제 성분 또는 <br/>장치 교체 고려<br/>•비약물 치료 시행 또는 강화<br/>•ensifentrine²⁾ 추가 고려<br/>•호흡 곤란의 다른 원인 <br/>조사 및 치료"]
+    D1 -- "호흡 곤란 지속" --> D2["LABA+LAMA¹⁾"]
+    D2 -- "호흡 곤란 지속" --> D3["`흡입제 성분 또는 ; 장치 교체 고려; 비약물 치료 시행 또는 강화; ensifentrine²⁾ 추가 고려; 호흡 곤란의 다른 원인 ; 조사 및 치료`"]
 %% EXACERBATION pathway (중등도 또는 중증 악화 ≥1회/년)
 E0["EXACERBATION"] --> E1["LABA or LAMA"]
     E2 -- "if eos ≥100" --> E3
     E1 -- "if eos ＜300" --> E2["LABA+LAMA¹⁾"]
     E1 -- "if eos ≥300" --> E3["LABA+LAMA+ICS¹⁾"]    
     
-    E2 -- "if eos ＜ 100" --> E4[" "]
-    E3 --> E4
+    E2 -- "if eos ＜ 100" --> E4["추가 치료 선택"]
+    E3 -- "악화 지속" --> E4
     
-    E4 --> E5["<u>Roflumilast</u><br/>FEV₁ ＜50% <br/>+ chronic bronchitis<br/>+ prior severe exacerbation"]
-    E4 --> E6["<u>Azithromycin</u><br/>현재 비흡연자에서<br/>우선적으로"]
-    E3 -- "중등도 ≥2회 or<br/>중증 ≥1회 악화<br/>AND eos ≥300"--> E7["<u>Biologic Therapy</u>³⁾<br/>Dupilumab (chronic bronchitis 동반 시)<br/>Mepolizumab"]
-style D0 fill:#eeeeee,stroke:#888888,stroke-width:2px
-style D1 fill:#fff,stroke:#ddd
-style D2 fill:#e8f8e8,stroke:#4caf50
-style E0 fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-style E1 fill:#fff,stroke:#ddd
-style E2 fill:#e8f8e8,stroke:#4caf50
-style E3 fill:#d5f5e3,stroke:#27ae60
-style E4 fill:none,stroke:none
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class E5,E6,E7 sky
-linkStyle 6 stroke:green,stroke-width:2px;
+    E4 --> E5["`Roflumilast; FEV₁ ＜50% ; + chronic bronchitis; + prior severe exacerbation`"]
+    E4 --> E6["`Azithromycin; 현재 비흡연자에서; 우선적으로`"]
+    E3 -- "중등도 ≥2회 or; 중증 ≥1회 악화; AND eos ≥300" --> E7["`Biologic Therapy³⁾; Dupilumab (chronic bronchitis 동반 시); Mepolizumab`"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class D0,E0 start
+    class D1,D2,E1,E2,E3,E4 decision
+    class D3,E5,E6,E7 action
 ```
 
 > _eos = blood eosinophil count (cells/μL)_\
@@ -500,47 +496,43 @@ linkStyle 6 stroke:green,stroke-width:2px;
 > _³⁾dupilumab·mepolizumab은 성인 COPD 추가 유지치료로 국내 허가(2026-10-25)_\
 > _악화 횟수 표기는 주요 임상시험의 근거 대상이며, 허가·급여 조건과 구분함_
 
-<p align="center"><strong>COPD 유지 약물 치료 조정 알고리듬</strong><br><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.9</mark></em></p>
+<p align="center"><strong>COPD 유지 약물 치료 조정 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: GOLD 2026 Fig 3.9)</mark></em></p>
 
 ***
 
 ```mermaid
 flowchart TD
-    A["<u>COPD 진단</u><br/>증상 + 위험 인자 + post-BD FEV1/FVC ＜ 0.7"]
-    A --> B["<b>주 표현형 평가¹⁾</b>"]
-    B --> C1["① <b>Dyspnea-predominant</b><br/>운동 시 호흡 곤란 중심<br/>(mMRC ≥2 또는 <br/>CAAT/CAT ≥10)"]
-    C1 --> D1["LABA+LAMA<br/>호흡 재활 + 운동 프로그램<br/>흡입기 기종 최적화"]
-    B --> C2["② <b>최근 악화 / 고위험</b><br/>중등도 또는 중증 악화 <br/>≥1회/년"]
+    A["`COPD 진단; 증상 + 위험 인자 + post-BD FEV1/FVC ＜ 0.7`"]
+    A --> B["주 표현형 평가¹⁾"]
+    B --> C1["`① Dyspnea-predominant; 운동 시 호흡 곤란 중심; (mMRC ≥2 또는 ; CAAT/CAT ≥10)`"]
+    C1 --> D1["`LABA+LAMA; 호흡 재활 + 운동 프로그램; 흡입기 기종 최적화`"]
+    B --> C2["`② 최근 악화 / 고위험; 중등도 또는 중증 악화 ; ≥1회/년`"]
     C2 --> E2["Blood eosinophil"]
-    E2 -->|"≥300"| F2["초치료: Triple therapy 고려<br/>기존 LABA+LAMA 중 악화: ICS 추가"]
-    E2 --->|"100–299"| G2["초치료: LABA+LAMA<br/>해당 치료 중 악화 발생 시 <br/>ICS 추가"]
-    E2 -->|"＜100"| H2["초치료: LABA+LAMA<br/>악화 시 ICS 외 <br/>추가 전략 평가"]
-    B --> C3["③ <b>Chronic bronchitis <br/>phenotype</b><br/>만성 가래·기침 우세"]
-    C3 --> D3["금연 + 기관지확장제<br/>(ABE·현재 치료 단계에 따름)<br/>Roflumilast 고려<br/>(FEV₁＜50% <br/>+ 이전 중증 악화)<br/>Mucolytics 고려"]
-    B ---> C4["④ <b>Concomitant <br/>asthma</b><br/>천식이 함께 <br/>진단된 경우"]
-    C4 --> D4["ICS 포함 치료 우선<br/>LABA 단독 금지"]
-    B --> C5["⑤ <b>Frailty / Cachexia</b><br/>고령, 근감소증, <br/>체중 감소"]
-    C5 --> D5["영양 보충<br/>근력 + 유산소 운동<br/>다학제 접근"]
-    B ----> Z["<b>모든 표현형 공통</b>"]
-    Z --> Z1["금연 · 예방접종<br/>흡입기 교육 · 신체 활동<br/>동반 질환 관리"]
-   classDef sky fill:#e3f2ff,stroke:#2196f3
-   class D1,F2,D3,D4,D5,G2,H2,Z1 sky
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff3e0,stroke:#ffcc80
-    style C1 fill:#f1f8e9,stroke:#aed581
-    style C2 fill:#fce4ec,stroke:#f48fb1
-    style C3 fill:#ede7f6,stroke:#b39ddb
-    style C4 fill:#fff8e1,stroke:#ffe082
-    style C5 fill:#f3e5f5,stroke:#ce93d8
-    style E2 fill:#fff9c4,stroke:#ffe082
-    style Z fill:#eceff1,stroke:#b0bec5
+    E2 -- "≥300" --> F2["`초치료: Triple therapy 고려; 기존 LABA+LAMA 중 악화: ICS 추가`"]
+    E2 -- "100–299" --> G2["`초치료: LABA+LAMA; 해당 치료 중 악화 발생 시 ; ICS 추가`"]
+    E2 -- "＜100" --> H2["`초치료: LABA+LAMA; 악화 시 ICS 외 ; 추가 전략 평가`"]
+    B --> C3["`③ Chronic bronchitis ; phenotype; 만성 가래·기침 우세`"]
+    C3 --> D3["`금연 + 기관지확장제; (ABE·현재 치료 단계에 따름); Roflumilast 고려; (FEV₁＜50% ; + 이전 중증 악화); Mucolytics 고려`"]
+    B --> C4["`④ Concomitant ; asthma; 천식이 함께 ; 진단된 경우`"]
+    C4 --> D4["`ICS 포함 치료 우선; LABA 단독 금지`"]
+    B --> C5["`⑤ Frailty / Cachexia; 고령, 근감소증, ; 체중 감소`"]
+    C5 --> D5["`영양 보충; 근력 + 유산소 운동; 다학제 접근`"]
+    B --> Z["모든 표현형 공통"]
+    Z --> Z1["`금연 · 예방접종; 흡입기 교육 · 신체 활동; 동반 질환 관리`"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class A start
+    class B,C1,C2,C3,C4,C5,E2 decision
+    class D1,D3,D4,D5,F2,G2,H2,Z,Z1 action
 ```
 
-> _이 알고리듬은 초기 치료와 치료 중 조정 원칙을 함께 요약한 것임. 신규 환자는 ABE 초치료 기준, 기존 치료 중 악화가 발생한 환자는 follow-up 알고리듬을 우선 적용함. 혈중 호산구 수만으로 ICS를 추가하지 않음_
+> _이 알고리듬은 초기 치료와 치료 중 조정 원칙을 함께 요약한 것임. 신규 환자는 ABE 초치료 기준, 기존 치료 중 악화가 발생한 환자는 follow-up 알고리듬을 우선 적용함. 혈중 호산구 수만으로 ICS를 추가하지 않으며, 천식이 동반되면 호산구 수에 관계없이 ICS 포함 치료를 우선함_
 >
 > _¹⁾주 표현형 평가: Dyspnea burden(mMRC / CAT), Exacerbation 빈도, Blood eosinophil, Chronic bronchitis 여부, Emphysema/hyperinflation, Asthma feature, Frailty/cachexia_
 
-<p align="center"><strong>COPD 표현형 기반 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : GOLD 2026)</mark></em></p>
+<p align="center"><strong>COPD 표현형 기반 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: GOLD 2026)</mark></em></p>
 
 ***
 
@@ -596,7 +588,7 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 **전신 스테로이드**
 
 * 임상적으로 유의한 중등증·중증 악화에서는 prednisone-equivalent 40 ㎎/d ×5일 <mark style="color:$info;">\[GOLD 2026]</mark>
-* prednisolone 30 ㎎/d ×5일 <mark style="color:blue;">\[소론도]</mark> <mark style="color:$info;">\[NICE NG115]</mark>
+* prednisolone 30 ㎎/d ×5일 \[[소론도](https://www.health.kr/drug/a11a4290b0015)] <mark style="color:$info;">\[NICE NG115]</mark>
 
 **산소 공급**
 
@@ -631,23 +623,23 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 **1차 선택(성인 경구)**
 
-* amoxicillin : 500 ㎎ tid ×5일 <mark style="color:blue;">\[파목신]</mark>
-* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) <mark style="color:blue;">\[모노신]</mark>
+* amoxicillin : 500 ㎎ tid ×5일 \[[파목신](https://www.health.kr/drug/A11A0570A0284)]
+* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) \[[모노신](https://www.health.kr/drug/A11A1590B0042)]
   * 중증 감염에서의 100 ㎎ bid 유지와 구분하고 임부·수유부·12세 미만 등 국내 금기를 확인함
-* clarithromycin : 500 ㎎ bid ×5일 <mark style="color:blue;">\[클래리시드]</mark>
+* clarithromycin : 500 ㎎ bid ×5일 \[[클래리시드](https://www.health.kr/drug/A11ABBBBB1594)]
   * 신기능에 따른 감량, QT 연장 위험 및 병용약 상호작용을 확인. 특히 simvastatin 등 병용금기 약제 확인
 
 **대체제**
 
 * 항생제 반복 복용, 내성균 보유 병력, 합병증 발생 고위험 등 치료 실패 위험이 높은 경우 고려
-* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid ×5일 <mark style="color:blue;">\[오구멘틴]</mark>
+* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid ×5일 \[[오구멘틴](https://www.health.kr/drug/A11A1130A0289)]
   * 페니실린 과민증·중증 β-lactam 과민반응 및 이 약 관련 황달·간장애 병력 금기
   * 신기능에 따라 용량 조정
-* sulfamethoxazole/trimethoprim : 800/160 ㎎(2T) bid ×5일 <mark style="color:blue;">\[셉트린]</mark>
+* sulfamethoxazole/trimethoprim : 800/160 ㎎(2T) bid ×5일 \[[셉트린](https://www.health.kr/drug/A11A0500A0065)]
   * 유익성에 대한 세균학적 증거가 있는 경우 고려
 * levofloxacin : 다른 권장 항생제가 부적절한 경우에만 선택
   * 건·근골격계, 말초신경 및 중추신경계의 중대하고 지속될 수 있는 이상반응에 주의
-  * 500 ㎎ qd ×5일 <mark style="color:blue;">\[크라비트]</mark> (허가 투여기간은 만성 기관지염의 급성 세균성 악화에서 7일)
+  * 500 ㎎ qd ×5일 \[[크라비트](https://www.health.kr/drug/A11AOOOOO7621)] (허가 투여기간은 만성 기관지염의 급성 세균성 악화에서 7일)
 
 **IV**
 
@@ -662,40 +654,38 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ```mermaid
 flowchart TD
-    Start["<u>COPD 급성 악화 의심</u><br/>호흡 곤란 악화<br/>/가래 증가/기침 증가"]
-    Start --> Triage["<u>즉시 위험도 평가·초기 처치</u><br/>의식, 호흡 노력, <br/>SpO₂, 혈역학"]
-    Triage --> Diff["<u>동반·대체 원인 평가(병행)</u><br/>폐렴/폐색전증/심부전/기흉"]
-    Triage ---> Severity["<u>중증도 평가</u><br/>RR, HR, SpO₂, <br/>의식, ABG, CRP"]
-    Severity --> Mild["경증(기본 분류)<br/>중등증·중증 기준 미충족<br/>위험 동반 소견 없음"]
-    Severity --> Moderate["중등증<br/>5개 임상 항목 중 ≥3개<br/>중증 혈액가스 기준 없음"]
-    Severity --> Severe["중증<br/>중등증과 같은 임상 항목 <br/>+ ABG<br/>(PaO₂ ≤60 ㎜Hg)<br/>또는<br/>(PaCO₂ ＞45 ㎜Hg<br/>및 pH ＜7.35)<br/>두 조건의 동반도 가능"]
-    Mild --> OutTx["<b>외래 치료 가능</b><br/>SABA ± SAMA<br/>전신 스테로이드는 <br/>유의한 악화 시<br/>항생제는 적응 시<br/>48~72시간 내 반응 확인"]
-    Moderate --> HospTx["<b>응급실/입원 필요성 평가</b><br/>SABA ± SAMA<br/>O₂ → SpO₂ 88~92%<br/>Prednisone 40 ㎎ × 5일<br/>항생제 (적응 시)<br/>심한 저산소혈증<br/>·호흡 노력 증가가 지속되면<br/>환기보조 및 중환자실 <br/>치료 필요성 평가"]
-    Severe --> SevereTx["응급실/중환자실 평가<br/>SABA ± SAMA, <br/>전신 스테로이드<br/>조절 산소치료 및 <br/>항생제(적응 시)"]
-    SevereTx --> NIVcheck["NIV 적응증 및 <br/>적용 가능성 평가"]
-    NIVcheck -->|"적응증 있고 적용 가능"| NIV["<b>NIV 적용 및 <br/>면밀한 재평가</b><br/>호흡성 산증·호흡 노력<br/>·산소화 평가"]
-    NIVcheck -->|"현재 환기보조 불필요"| Monitor["조절 산소치료 및 <br/>면밀한 재평가<br/>악화 시 환기보조 <br/>필요성 재평가"]
-    NIV -->|"실패 또는 악화"| Intubation["기관삽관 필요성 평가<br/>ICU 이송"]
-    OutTx --> Followup["<b>회복 후 관리</b><br/>유지 치료 최적화<br/>흡입기·순응도 확인<br/>호흡 재활 및 악화 예방 교육"]
-    NIVcheck -->|"환기보조 필요하나 <br/>NIV 불가 또는 <br/>즉시 삽관 필요"| Intubation
+    Start["`COPD 급성 악화 의심; 호흡 곤란 악화; /가래 증가/기침 증가`"]
+    Start --> Triage["`즉시 위험도 평가·초기 처치; 의식, 호흡 노력, ; SpO₂, 혈역학`"]
+    Triage --> Diff["`동반·대체 원인 평가(병행); 폐렴/폐색전증/심부전/기흉`"]
+    Triage --> Severity["`중증도 평가; RR, HR, SpO₂, ; 의식, ABG, CRP`"]
+    Severity --> Mild["`경증(기본 분류); 중등증·중증 기준 미충족; 위험 동반 소견 없음`"]
+    Severity --> Moderate["`중등증; 5개 임상 항목 중 ≥3개; 중증 혈액가스 기준 없음`"]
+    Severity --> Severe["`중증; 중등증과 같은 임상 항목 ; + ABG; (PaO₂ ≤60 ㎜Hg); 또는; (PaCO₂ ＞45 ㎜Hg; 및 pH ＜7.35); 두 조건의 동반도 가능`"]
+    Mild --> OutTx["`외래 치료 가능; SABA ± SAMA; 전신 스테로이드는 ; 유의한 악화 시; 항생제는 적응 시; 48~72시간 내 반응 확인`"]
+    Moderate --> HospTx["`응급실/입원 필요성 평가; SABA ± SAMA; O₂ → SpO₂ 88~92%; Prednisone 40 ㎎ × 5일; 항생제 (적응 시); 심한 저산소혈증; ·호흡 노력 증가가 지속되면; 환기보조 및 중환자실 ; 치료 필요성 평가`"]
+    Severe --> SevereTx["`응급실/중환자실 평가; SABA ± SAMA, ; 전신 스테로이드; 조절 산소치료 및 ; 항생제(적응 시)`"]
+    SevereTx --> NIVcheck["`NIV 적응증 및 ; 적용 가능성 평가`"]
+    NIVcheck -- "적응증 있고 적용 가능" --> NIV["`NIV 적용 및 ; 면밀한 재평가; 호흡성 산증·호흡 노력; ·산소화 평가`"]
+    NIVcheck -- "현재 환기보조 불필요" --> Monitor["`조절 산소치료 및 ; 면밀한 재평가; 악화 시 환기보조 ; 필요성 재평가`"]
+    NIV -- "실패 또는 악화" --> Intubation["`기관삽관 필요성 평가; ICU 이송`"]
+    OutTx --> Followup["`회복 후 관리; 유지 치료 최적화; 흡입기·순응도 확인; 호흡 재활 및 악화 예방 교육`"]
+    NIVcheck -- "환기보조 필요하나 ; NIV 불가 또는 ; 즉시 삽관 필요" --> Intubation
     HospTx --> Followup
-    Monitor -->|"호전 및 안정"| Followup
-    NIV -->|"호전 및 안정"| Followup
-    style Start fill:#eeeeee,stroke:#888888
-    style Mild fill:#f1f8e9,stroke:#aed581
-    style Moderate fill:#fde8f0,stroke:#e91e8c
-    style NIV fill:#e8f5e9,stroke:#a5d6a7
-classDef yellow fill:#fff9c4,stroke:#ffe082    
-class Severity,NIVcheck yellow
-classDef red fill:#ffcdd2,stroke:#c62828
-class Severe,Intubation red
-    style Followup fill:#d0e8ff,stroke:#1a6abf
-    style OutTx fill:#e3f2ff,stroke:#2196f3
+    Monitor -- "호전 및 안정" --> Followup
+    NIV -- "호전 및 안정" --> Followup
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class Start start
+    class Triage,Severity,Mild,Moderate,NIVcheck decision
+    class Severe,SevereTx,Intubation emergency
+    class Diff,OutTx,HospTx,NIV,Monitor,Followup action
 ```
 
 > _중증도는 GOLD 2026 최종본 Figure 4.2에 따르며, 만성 저산소혈증에서는 기저 혈액가스·산소 처방을 함께 해석함. 동반·대체 원인 평가는 초기 처치 및 중증도 평가와 병행함_
 
-<p align="center"><strong>COPD 급성 악화 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : GOLD 2026)</mark></em></p>
+<p align="center"><strong>COPD 급성 악화 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: GOLD 2026)</mark></em></p>
 
 ***
 
@@ -738,6 +728,65 @@ class Severe,Intubation red
 
 ***
 
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. Group A - 매우 간헐적인 호흡 곤란**
+>
+> ```
+> salbutamol 흡입제 [벤토린 에보할러]  100 ㎍/puff  1~2 puffs  prn (24시간 총 8 puffs 이내)
+> ```
+>
+> 약제 정보: [벤토린 에보할러·100 ㎍/puff](https://www.health.kr/drug/A11ABBBBB1232)
+>
+> _✽ Group A는 단시간 또는 장시간 기관지 확장제 모두 가능하나, GOLD 2026은 이용 가능하고 비용 부담이 없다면 장시간 제제(LAMA 또는 LABA)를 선호하도록 권고(매우 간헐적인 호흡 곤란은 예외적으로 SABA prn 유지 가능). 위 처방은 매우 간헐적 증상의 예시이며, 규칙적 증상이면 장시간 제제로 시작을 고려함._
+
+> **처방례 2. Group B - 증상 부담 높음, 악화 없음**
+>
+> ```
+> vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 ㎍/puff  1 puff  qd
+> salbutamol 흡입제 [벤토린 에보할러]  100 ㎍/puff  1~2 puffs  prn (24시간 총 8 puffs 이내)
+> ```
+>
+> 약제 정보: [아노로 엘립타·25/62.5 ㎍](https://www.health.kr/drug/2014071100015) · [벤토린 에보할러·100 ㎍/puff](https://www.health.kr/drug/A11ABBBBB1232)
+>
+> _✽ 현행 GOLD에서 Group B는 LABA+LAMA 병용이 1차 권고(이 권고는 GOLD 2026에서 새로 도입된 것이 아니라 이전부터 유지). 병용이 여의치 않은 경우(비용·부작용 등) LAMA 또는 LABA 단독(예: tiotropium)도 가능하며 계열 간 우열 근거는 없음._
+
+> **처방례 3. Group E - 중등도 또는 중증 악화 ≥1회/년, eos ＜300**
+>
+> ```
+> vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 ㎍/puff  1 puff  qd
+> salbutamol 흡입제 [벤토린 에보할러]  100 ㎍/puff  1~2 puffs  prn (24시간 총 8 puffs 이내)
+> ```
+>
+> 약제 정보: [아노로 엘립타·25/62.5 ㎍](https://www.health.kr/drug/2014071100015) · [벤토린 에보할러·100 ㎍/puff](https://www.health.kr/drug/A11ABBBBB1232)
+>
+> _✽ Group E(중등도 또는 중증 악화 1회 이상/년 - GOLD 2026부터 기준 완화)에서는 LAMA+LABA 복합제가 1차 권고. 천식이 동반되지 않은 환자에서 초기 eos ＜300이면 ICS 없이 시작하지만, 치료 중 다시 중등도·중증 악화가 발생하면 eos ≥100에서는 triple therapy로 escalation함. eos ＜100 또는 triple therapy에도 악화가 지속되면 azithromycin(현재 비흡연자)이나, FEV1＜50%+만성 기관지염+이전 중증 악화/입원력이 있는 경우 roflumilast를 고려함. Triple therapy에도 중등도 ≥2회 또는 중증 ≥1회 악화가 지속되고 eos ≥300이면 dupilumab(만성 기관지염 동반) 또는 mepolizumab을 고려함._
+
+> **처방례 4. Group E - 중등도 또는 중증 악화 ≥1회/년, eos ≥300**
+>
+> ```
+> fluticasone / umeclidinium / vilanterol [트렐리지 엘립타]  100/62.5/25 ㎍/puff  1 puff  qd
+> salbutamol 흡입제 [벤토린 에보할러]  100 ㎍/puff  1~2 puffs  prn (24시간 총 8 puffs 이내)
+> ```
+>
+> 약제 정보: [트렐리지 엘립타·100/62.5/25 ㎍](https://www.health.kr/drug/2018051400010) · [벤토린 에보할러·100 ㎍/puff](https://www.health.kr/drug/A11ABBBBB1232)
+>
+> _✽ Group E에서 eos ≥300 cells/μL이면 ICS 포함 triple therapy를 고려함. 반복·중증 폐렴 등 ICS 위해 요인을 함께 평가함. 현재 흡연은 ICS 반응을 낮출 수 있으나 그 자체가 금기는 아님._
+
+> **처방례 5. 급성 악화 - 외래 치료 (경·중등도)**
+>
+> ```
+> prednisolone 5 ㎎ [소론도]  6T  qd 아침 식후  × 5일   (30 ㎎/d)
+> clarithromycin 250 ㎎ [클래리시드]  2T  bid  × 5일  ▷ 항생제 적응 충족 시
+> salbutamol 흡입제 [벤토린 에보할러]  100 ㎍/puff  1~2 puffs  prn (24시간 총 8 puffs 이내)
+> ```
+>
+> 약제 정보: [소론도·5 ㎎](https://www.health.kr/drug/a11a4290b0015) · [클래리시드·250 ㎎](https://www.health.kr/drug/A11AOOOOO0791) · [벤토린 에보할러·100 ㎍/puff](https://www.health.kr/drug/A11ABBBBB1232)
+>
+> _✽ 임상적으로 유의한 급성 악화에서는 전신 스테로이드 5일 단기 요법을 사용하며, 30 ㎎/d는 NICE 권고 용량임(GOLD는 prednisone-equivalent 40 ㎎/d). 항생제는 화농성 가래를 포함한 증상 조합, 이전 객담 배양 또는 기계환기 필요 등을 근거로 결정하며 CRP 상승만으로 시작하지 않음. Clarithromycin은 신기능에 따른 감량, QT 연장 위험 및 simvastatin 등 병용금기 약제를 확인함. 벤토린은 위 외래 자가 사용 상한을 적용하며, 그 이상이 필요하면 임의 증량하지 않고 재평가함. 의료진 감시하 급성기 반복 투여는 별도 프로토콜로 시행함. 48\~72시간 내 반응을 확인하고 회복 후 장시간 유지치료를 최적화함._
+
+***
+
 ## <mark style="color:red;">질병코드</mark>
 
 * J44.0- 급성 하기도감염을 동반한 만성 폐쇄성 폐질환 Chronic obstructive pulmonary disease with acute lower respiratory infection
@@ -755,75 +804,22 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 
 ***
 
-## <mark style="color:purple;">처방례</mark>
-
-> **처방례 1. Group A - 매우 간헐적인 호흡 곤란**
->
-> ```
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
-> ```
->
-> _✽ Group A는 단시간 또는 장시간 기관지 확장제 모두 가능하나, GOLD 2026은 이용 가능하고 비용 부담이 없다면 장시간 제제(LAMA 또는 LABA)를 선호하도록 권고(매우 간헐적인 호흡 곤란은 예외적으로 SABA prn 유지 가능). 위 처방은 매우 간헐적 증상의 예시이며, 규칙적 증상이면 장시간 제제로 시작을 고려함._
-
-> **처방례 2. Group B - 증상 부담 높음, 악화 없음**
->
-> ```
-> vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 μg  1 puff  qd
-> ─────────────────────────────────────────────────────────────
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
-> ```
->
-> _✽ 현행 GOLD에서 Group B는 LABA+LAMA 병용이 1차 권고(이 권고는 GOLD 2026에서 새로 도입된 것이 아니라 이전부터 유지). 병용이 여의치 않은 경우(비용·부작용 등) LAMA 또는 LABA 단독(예: tiotropium)도 가능하며 계열 간 우열 근거는 없음._
-
-> **처방례 3. Group E - 중등도 또는 중증 악화 ≥1회/년, eos ＜300**
->
-> ```
-> vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 μg  1 puff  qd
-> ─────────────────────────────────────────────────────────────
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
-> ```
->
-> _✽ Group E(중등도 또는 중증 악화 1회 이상/년 - GOLD 2026부터 기준 완화)에서는 LAMA+LABA 복합제가 1차 권고. 초기 eos ＜300이면 ICS 없이 시작하지만, 치료 중 다시 중등도·중증 악화가 발생하면 eos ≥100에서는 triple therapy로 escalation함. eos ＜100 또는 triple therapy에도 악화가 지속되면 azithromycin(현재 비흡연자)이나, FEV1＜50%+만성 기관지염+이전 중증 악화/입원력이 있는 경우 roflumilast를 고려함. Triple therapy에도 중등도 ≥2회 또는 중증 ≥1회 악화가 지속되고 eos ≥300이면 dupilumab(만성 기관지염 동반) 또는 mepolizumab을 고려함._
-
-> **처방례 4. Group E - 중등도 또는 중증 악화 ≥1회/년, eos ≥300**
->
-> ```
-> fluticasone / umeclidinium / vilanterol [트렐리지 엘립타]  100/62.5/25 μg  1 puff  qd
-> ─────────────────────────────────────────────────────────────────────
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
-> ```
->
-> _✽ Group E에서 eos ≥300 cells/μL이면 ICS 포함 triple therapy를 고려함. 반복·중증 폐렴 등 ICS 위해 요인을 함께 평가함. 현재 흡연은 ICS 반응을 낮출 수 있으나 그 자체가 금기는 아님._
-
-> **처방례 5. 급성 악화 - 외래 치료 (경·중등도)**
->
-> ```
-> prednisolone 5 ㎎ [소론도]  6T  qd  × 5일   (30 ㎎/d)
-> ────────────────────────────────────────────────
-> clarithromycin 250 ㎎ [클래리시드]  2T  bid  × 5일  ▷ 항생제 적응 충족 시
-> ────────────────────────────────────────────────
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
->                                               (24시간 최대 8회 분무)
-> ```
->
-> _✽ 임상적으로 유의한 급성 악화에서는 전신 스테로이드 5일 단기 요법을 사용하며, 30 ㎎/d는 NICE 권고 용량임(GOLD는 prednisone-equivalent 40 ㎎/d). 항생제는 화농성 가래를 포함한 증상 조합, 이전 객담 배양 또는 기계환기 필요 등을 근거로 결정하며 CRP 상승만으로 시작하지 않음. Clarithromycin은 신기능에 따른 감량, QT 연장 위험 및 simvastatin 등 병용금기 약제를 확인함. 벤토린은 위 외래 자가 사용 상한을 적용하며, 그 이상이 필요하면 임의 증량하지 않고 재평가함. 의료진 감시하 급성기 반복 투여는 별도 프로토콜로 시행함. 48\~72시간 내 반응을 확인하고 회복 후 장시간 유지치료를 최적화함._
-
-***
-
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 * **흡입기 사용법 교육** : 잘못된 흡입 기술은 치료 실패의 가장 흔한 원인; 흡입기 종류(MDI, DPI, SMI)에 따라 사용법이 다르므로 직접 시연하여 교육
-  * pMDI : 제품별 흔들기 여부 확인(벤토린은 흔듦) → 숨을 충분히 내쉬기 → 흡입구 물기 → 분무와 동시에 천천히 깊게 흡입(약 4\~5초) → 가능한 약 10초간 숨 참기. 벤토린 외래 자가 사용은 24시간 최대 8회 분무임
+  * pMDI : 제품별 흔들기 여부 확인(벤토린은 매 puff 직전에 흔듦) → 숨을 충분히 내쉬기 → 흡입구 물기 → 분무와 동시에 천천히 깊게 흡입(약 4\~5초) → 가능한 약 10초간 숨 참기. 벤토린 외래 자가 사용은 24시간 최대 8회 분무임
   * DPI : 흡입 방식이 기기마다 다르므로 제품별로 교육함
     * 핸디헬러(스피리바) : 캡슐 진동이 느껴질 정도로 천천히 깊게 흡입하고, 같은 캡슐로 한 번 더 흡입
     * 브리즈헬러(온브리즈·조터나), 터부헬러, 제뉴에어 : 빠르고 깊게 흡입
     * 엘립타 : 길고 꾸준하게 깊이 흡입
     * 공통 : 흡입 전 숨은 기기 밖으로 내쉬고, 흡입용 캡슐은 삼키지 않고 지정 기기에 넣어 사용
-    * **최대 흡기 유속(PIF)이 낮은 경우**(근력 저하, 고령, 중증 악화 중)에는 DPI가 약물을 충분히 전달하지 못할 수 있으므로 SMI 또는 네뷸라이저로 전환 고려
-  * ICS 포함 흡입제 사용 후 반드시 **구강 헹굼** (구강 칸디다, 구내염 예방)
+    * **최대 흡기 유속(PIF)이 낮은 경우**(근력 저하, 고령, 중증 악화 중)에는 DPI가 약물을 충분히 전달하지 못할 수 있으므로 pMDI+spacer, SMI 또는 네뷸라이저로 전환 고려
+  * ICS 포함 흡입제 사용 후 반드시 **물로 입을 헹군 뒤 뱉기** (구강 칸디다, 구내염 예방)
   * 포스터(pMDI)는 사용 전 냉장(2\~8℃) 보관하고, 사용을 시작한 뒤에는 25℃ 이하에서 최대 3개월까지 사용
 * **유지(controller) vs 응급(rescue) 흡입제 구분** : LAMA/LABA는 매일 규칙적으로 사용하는 유지제; SABA는 증상이 갑자기 심해질 때 사용하는 응급제 - 증상이 없어도 유지제를 중단하지 않도록 강조
-* **전신 스테로이드 단기 요법** : 통상 5일 요법은 감량 없이 종료 가능하나 최근 반복 투여·장기 복용·부신기능저하 위험은 별도 평가함. 혈당 상승(당뇨 환자 주의), 수면 장애·기분 변화 등을 설명함
+* **전신 스테로이드 단기 요법** : 처방된 1일 용량을 아침 식후 복용. 통상 5일 요법은 감량 없이 종료 가능하나 최근 반복 투여·장기 복용·부신기능저하 위험은 별도 평가함. 혈당 상승(당뇨 환자 주의), 수면 장애·기분 변화 등을 설명함
+* **항생제** : 처방된 용량·기간을 지키고, 남은 약을 다음 악화 때 임의로 복용하지 않음. 시작 후 2~3일 내 호전이 없거나 더 악화하면 재평가. 심한 설사·혈변·황달·실신/심계항진은 즉시 연락하며, 호흡곤란·안면부종 등 중증 알레르기 반응은 응급 평가
+* **가정 산소** : 처방된 유량과 사용시간을 따르며 임의로 유량을 높이지 않음. 산소포화도가 평소보다 낮아지거나 졸림·의식 변화·심한 호흡곤란이 생기면 즉시 진료. 산소 사용 공간의 금연·화기 금지
 * **roflumilast (닥사스)** : 복용 초기 설사·구역 등 위장관 부작용이 흔함. 체중을 정기적으로 측정하고 유의한 체중 감소, 심한 복통, 새로 생기거나 악화된 불면·불안·우울·자살 생각이 있으면 즉시 의료진에게 알림
 * **theophylline** : 혈중 농도 범위가 좁아 유효 농도와 독성 농도의 차이가 적음; clarithromycin·erythromycin, ciprofloxacin 등 일부 항생제와 상호작용하고 금연 시 청소율이 감소할 수 있으므로 임의 용량 변경 금지
 
@@ -893,34 +889,38 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 
 ## <mark style="color:blue;">환자 안내서</mark>
 
-#### <mark style="color:$primary;">COPD란 무엇인가요?</mark>
+### <mark style="color:$primary;">COPD란 무엇인가요?</mark>
 
 담배 연기나 공기 오염 등으로 기도와 폐가 좁아지고 손상되어 숨이 점점 더 차게 되는 만성 폐 질환입니다. 완치보다는 진행을 늦추고 증상을 조절하는 것이 치료 목표입니다.
 
-#### <mark style="color:$primary;">가장 중요한 것: 금연</mark>
+### <mark style="color:$primary;">가장 중요한 것: 금연</mark>
 
 지금 당장 금연하면 폐 기능 저하 속도가 크게 느려집니다. 금연 약물 처방도 가능하니 상담해 주세요. 산소를 사용하는 경우 담배를 피우거나 불 가까이 가지 마세요. 화재 위험이 있습니다.
 
-#### <mark style="color:$primary;">흡입제는 매일 사용하세요</mark>
+### <mark style="color:$primary;">흡입제는 매일 사용하세요</mark>
 
-증상이 없어 보여도 장기 흡입제(LAMA, LABA)는 매일 규칙적으로 사용해야 합니다. 사용 방법을 모르거나 잘 안 되면 언제든지 다시 알려달라고 하세요.
+증상이 없어 보여도 처방받은 유지 흡입제(LAMA, LABA, ICS 포함 복합제 등)는 매일 규칙적으로 사용해야 합니다. 스테로이드가 들어 있는 흡입제를 사용한 뒤에는 물로 입을 헹구고 뱉으세요. 사용 방법을 모르거나 잘 안 되면 언제든지 다시 알려달라고 하세요.
 
-#### <mark style="color:$primary;">응급 흡입제(살부타몰 등) 사용 시</mark>
+### <mark style="color:$primary;">응급 흡입제(살부타몰 등) 사용 시</mark>
 
-숨이 갑자기 많이 차거나 심해질 때 처방된 방법대로 사용합니다. 평소보다 자주 필요하거나 효과가 충분하지 않으면 당일 의료진에게 연락하세요.
+숨이 갑자기 많이 차거나 심해질 때 처방된 방법대로 사용합니다. 벤토린 에보할러는 처방에 따라 한 번에 1~2회, 자가 사용은 24시간 총 8회 흡입 이내로 사용하세요. 매번 뿌리기 직전에 흔들고, 평소보다 자주 필요하거나 최대량 이상이 필요하면 당일 의료진에게 연락하세요. 호흡곤란이 심하거나 약을 써도 좋아지지 않으면 즉시 응급 진료를 받으세요.
 
-#### <mark style="color:$primary;">예방접종을 챙기세요</mark>
+### <mark style="color:$primary;">먹는 약과 가정 산소 사용 시</mark>
+
+먹는 스테로이드·항생제는 의료진이 정한 용량과 기간을 지키세요. 남은 약을 임의로 다시 복용하거나 기간을 연장하지 마세요. 닥사스를 복용하며 체중이 많이 줄거나 심한 설사·새로 생긴 우울·불면이 나타나면 바로 의료진에게 알리세요. 가정 산소는 정해진 유량과 시간에 맞춰 사용하고, 숨이 차다고 임의로 유량을 높이지 마세요. 심한 졸림·의식 변화·호흡곤란이 생기면 즉시 도움을 요청하세요.
+
+### <mark style="color:$primary;">예방접종을 챙기세요</mark>
 
 독감 예방주사는 매년 맞고, 폐렴구균·COVID-19·RSV 등은 연령, 위험도와 과거 접종력에 맞춰 의료진과 접종 일정을 확인하세요.
 
-#### <mark style="color:$primary;">악화 시 연락하거나 즉시 내원해야 하는 증상</mark>
+### <mark style="color:$primary;">악화 시 연락하거나 즉시 내원해야 하는 증상</mark>
 
 평소보다 숨이 차거나 가래가 늘고 화농성으로 변하면 당일 의료진에게 연락하세요. 응급 흡입제에도 호전되지 않는 심한 호흡곤란, 입술이 파래짐, 의식이 흐려짐, 흉통 또는 실신이 있으면 즉시 119를 부르거나 응급실로 가세요.
 
-#### <mark style="color:$primary;">규칙적인 운동을 하세요</mark>
+### <mark style="color:$primary;">규칙적인 운동을 하세요</mark>
 
 무리하지 않는 선에서 걷기 등을 꾸준히 하면 호흡 기능을 유지하는 데 큰 도움이 됩니다.
 
-#### <mark style="color:$primary;">악화 행동 계획 (Exacerbation Action Plan)</mark>
+### <mark style="color:$primary;">악화 행동 계획 (Exacerbation Action Plan)</mark>
 
 <table><thead><tr><th width="120">단계</th><th width="280">상황</th><th>행동</th></tr></thead><tbody><tr><td>🟡 주의</td><td>평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때</td><td>응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음</td></tr><tr><td>🔴 즉시 내원/119</td><td>응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때</td><td>즉시 응급실 방문 또는 119 호출</td></tr></tbody></table>

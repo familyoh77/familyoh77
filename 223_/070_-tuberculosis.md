@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 원인균 : Mycobacterium tuberculosis complex(M. tuberculosis, M. bovis, M. africanum 등)
-* 전염 : 활동성 결핵 환자의 호흡기 분비물의 공기 매개 감염; 기침·재채기·말하기·웃기 등을 할 때 배출되어 수 시간 동안 공기 중에 떠다니며 감염을 일으킴
+* 전염 : 주로 전염성 폐결핵·후두결핵 환자가 배출하는 비말핵을 통한 공기 매개 감염; 기침·재채기·말하기·웃기 등을 할 때 배출되어 수 시간 동안 공기 중에 떠다니며 감염을 일으킴
 * 경과 : 결핵균 노출 후 감염 여부는 전염원의 균량·기침, 접촉 시간, 환기 및 숙주의 면역 상태 등에 따라 달라짐
   * 감염된 사람의 일부는 감염 후 비교적 이른 시기에 결핵으로 진행하고, 대부분은 잠복결핵감염 상태로 지내며 일부에서 향후 결핵이 발병함
 * 결핵 환자 또는 결핵 의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
@@ -104,11 +104,11 @@
 ```mermaid
 graph TD
     Start["결핵 의심"]
-    Step1["3회(최소 2회)의 객담 <br/>AFB 도말 및 배양 검사<br/>+ 1회의 Xpert MTB/RIF <br/>또는 NAAT"]
-    Case1["•AFB (+)<br/>•Xpert MTB/RIF (+) <br/>또는 NAAT (+)"]
-    Case2["•AFB (-)<br/>•Xpert MTB/RIF (+) <br/>또는 NAAT (+)"]
-    Case3["•AFB (+)<br/>•Xpert MTB/RIF (-) <br/>또는 NAAT (-)"]
-    Case4["•AFB (-)<br/>•Xpert MTB/RIF (-) <br/>또는 NAAT (-)"]
+    Step1["`3회(최소 2회)의 객담 ; AFB 도말 및 배양 검사; + 1회의 Xpert MTB/RIF ; 또는 NAAT`"]
+    Case1["`AFB (+); Xpert MTB/RIF (+) ; 또는 NAAT (+)`"]
+    Case2["`AFB (-); Xpert MTB/RIF (+) ; 또는 NAAT (+)`"]
+    Case3["`AFB (+); Xpert MTB/RIF (-) ; 또는 NAAT (-)`"]
+    Case4["`AFB (-); Xpert MTB/RIF (-) ; 또는 NAAT (-)`"]
     Result1["결핵으로 진단"]
     Result2["결핵으로 진단³⁾"]
     Result3["NTM으로 추정²⁾"]
@@ -122,10 +122,12 @@ graph TD
     Case2 --> Result2
     Case3 --> Result3
     Case4 --> Result4
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class Result1,Result2,Result3,Result4 pink
-    style Step1 fill:#fff9c4,stroke:#ffe082
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class Start start
+    class Case1,Case2,Case3,Case4 decision
+    class Step1,Result1,Result2,Result3,Result4 action
 ```
 
 > _NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비결핵 항산균)_
@@ -136,7 +138,9 @@ class Result1,Result2,Result3,Result4 pink
 >
 > ³⁾_과거 결핵 치료력이 있거나 사전 확률이 낮은 경우, Xpert Ultra trace 결과는 사균 DNA 검출 가능성을 고려하여 배양과 임상 소견으로 해석함_
 
-<p align="center"><strong>폐결핵 진단 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
+<p align="center"><strong>폐결핵 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: 결핵 진료지침 2024)</mark></em></p>
+
+***
 
 ### <mark style="color:orange;">결핵(TB) vs 비결핵 항산균(NTM) 감별</mark>
 
@@ -279,13 +283,13 @@ class Result1,Result2,Result3,Result4 pink
 
 #### <mark style="color:$primary;">Isoniazid (INH)</mark>
 
-* 100 ㎎/T <mark style="color:blue;">\[유한짓]</mark>
+* 100 ㎎/T \[[유한짓](https://www.health.kr/drug/A11A0450A0093)]
 * 부작용 : 말초신경염: Vit B6 결핍과 관련. 통상 용량(≤300 ㎎/d)에서는 흔하지 않으나 임신, 영양실조, 알코올 남용, 고령, 뇌전증 병력, 만성콩팥병, 당뇨병에서 더 흔함
   * 예방 : 위 위험군에서 Pyridoxine 25\~50 ㎎/d 병용 (50 ㎎/T <mark style="color:blue;">\[피리독신]</mark>)
 
 #### <mark style="color:$primary;">Rifampicin (RIF)</mark>
 
-* 300·450·600 ㎎/T <mark style="color:blue;">\[리포덱스]</mark>
+* 300·450·600 ㎎/T \[[리포덱스](https://www.health.kr/drug/A11A0120A0400) ([300 ㎎](https://www.health.kr/drug/A11A0120A0386)·[450 ㎎](https://www.health.kr/drug/A11A0120A0399))]
 * 부작용 : 혈소판 감소: 투여 중단 후 주기적 혈소판 검사; 정상 회복 후에도 RIF는 재투여하지 않음
 * 주의 : 소변·눈물·땀이 오렌지색으로 변색; 소프트 콘택트렌즈 착색 주의
 * 약물 상호 작용 : 강력한 효소·수송체 유도제로서 경구 피임약, 항응고제, 면역억제제, 일부 항바이러스제·항진균제·항경련제·혈당강하제·심혈관계 약제의 효과를 감소시킬 수 있음. 병용 전 성분별 상호작용을 확인
@@ -296,7 +300,7 @@ class Result1,Result2,Result3,Result4 pink
 
 #### <mark style="color:$primary;">Ethambutol (EMB)</mark>
 
-* 400 ㎎/T <mark style="color:blue;">\[마이암부톨 제피]</mark>
+* 400 ㎎/T \[[마이암부톨 제피](https://www.health.kr/drug/A11A0450A0151)]
 * 허가사항의 고용량 재치료(25 ㎎/㎏/d)에서는 60일 후 15 ㎎/㎏/d로 감량함. 이는 표준 용량으로 초치료하는 모든 환자에게 적용하는 일률적 감량 규칙은 아니며, 현재 치료 요법과 약제감수성에 따라 전문가가 판단함
 * 시신경병증 부작용 : 시력 저하, 적록 색각 이상, 중심 암점, 주변 시야 장애
   * 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가
@@ -609,40 +613,35 @@ class Result1,Result2,Result3,Result4 pink
 
 ```mermaid
 graph TD
-    Start["흉부 X선/CT상<br/>활동성 결핵 가능성이 낮은 <br/>치유 결핵 소견¹⁾"]
-    Q1["과거 적절한<br/>결핵 치료력?"]
+    Start["`흉부 X선/CT상; 활동성 결핵 가능성이 낮은 ; 치유 결핵 소견¹⁾`"]
+    Q1["`과거 적절한; 결핵 치료력?`"]
     HasTx["비활동성 결핵"]
-    Exam["<u>검사</u><br/>· 과거 흉부 X선과 비교<br/>· 세균학적 검사 예: 가래<br/>· 경과 관찰"]
+    Exam["`검사; 과거 흉부 X선과 비교; 세균학적 검사 예: 가래; 경과 관찰`"]
     ActiveTb["활동성 결핵"]
     ActiveTx["결핵 치료"]
     Inactive["비활동성 결핵"]
-    Q2["결핵 발병<br/>고위험군?"]
+    Q2["`결핵 발병; 고위험군?`"]
     HighRisk["LTBI 치료"]
     NotHigh["LTBI 검사"]
     LTBINeg["경과 관찰"]
     LTBIPos["LTBI 치료"]
     Start --> Q1
-    Q1 -->|"있음"| HasTx
-    Q1 -->|"없음"| Exam
+    Q1 -- "있음" --> HasTx
+    Q1 -- "없음" --> Exam
     Exam --> ActiveTb
     Exam --> Inactive
     ActiveTb --> ActiveTx
     Inactive --> Q2
-    Q2 -->|"고위험군²⁾"| HighRisk
-    Q2 -->|"고위험군 아님"| NotHigh
-    NotHigh -->|"LTBI ⊖"| LTBINeg
-    NotHigh -->|"LTBI ⊕"| LTBIPos
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Q1,Q2,NotHigh yellow
-    classDef pink fill:#fde8f0,stroke:#e91e8c
-    class HasTx,Inactive pink
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class LTBINeg sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class LTBIPos,HighRisk,ActiveTx blue
-style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style Exam fill:#ebfbee,stroke:#8ce99a
+    Q2 -- "고위험군²⁾" --> HighRisk
+    Q2 -- "고위험군 아님" --> NotHigh
+    NotHigh -- "LTBI ⊖" --> LTBINeg
+    NotHigh -- "LTBI ⊕" --> LTBIPos
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class Start start
+    class Q1,Q2,NotHigh decision
+    class HasTx,Exam,ActiveTb,ActiveTx,Inactive,HighRisk,LTBINeg,LTBIPos action
 ```
 
 > _¹⁾칼슘이 침착된 단순 결절 및 폐첨부와 기저부의 흉막 비후는 제외._\
@@ -650,7 +649,7 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 >
 > _과거 적절한 치료력이 있더라도 새로운 증상이나 흉부영상 변화가 있으면 활동성 결핵을 재평가함._
 
-<p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
+<p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: 결핵 진료지침 2024, Ⅷ장 잠복결핵감염)</mark></em></p>
 
 ***
 
@@ -670,8 +669,8 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```mermaid
 graph TD
     %% 정상 면역 성인 경로
-    SN["LTBI 진단 검사가 필요한<br/><b>정상 면역 성인</b>"]
-    ExcN["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
+    SN["`LTBI 진단 검사가 필요한; 정상 면역 성인`"]
+    ExcN["`활동성 결핵 배제; 증상·병력·흉부 X선; 필요시 세균학적 검사`"]
     BCG["과거 BCG 접종력?"]
     TST1["TST 또는 IGRA"]
     IGA1["IGRA"]
@@ -680,39 +679,34 @@ graph TD
     PosN2["LTBI ⊕"]
     NegN2["LTBI ⊖"]
     SN --> ExcN --> BCG
-    BCG -->|"영아 때 1회 접종<br/>또는 미접종"| TST1
-    BCG -->|"1세 이후 접종, 2회 이상 접종<br/>또는 접종력 불확실"| IGA1
-    TST1 -->|"TST ≥10 ㎜<br/>또는 IGRA ⊕"| PosN1
-    TST1 -->|"TST ＜10 ㎜<br/>또는 IGRA ⊖"| NegN1
-    IGA1 -->|"⊕"| PosN2
-    IGA1 -->|"⊖"| NegN2
+    BCG -- "영아 때 1회 접종; 또는 미접종" --> TST1
+    BCG -- "1세 이후 접종, 2회 이상 접종; 또는 접종력 불확실" --> IGA1
+    TST1 -- "TST ≥10 ㎜; 또는 IGRA ⊕" --> PosN1
+    TST1 -- "TST ＜10 ㎜; 또는 IGRA ⊖" --> NegN1
+    IGA1 -- "⊕" --> PosN2
+    IGA1 -- "⊖" --> NegN2
     %% 면역 저하 성인 경로
-    SI["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"]
-    ExcI["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
+    SI["`LTBI 진단 검사가 필요한; 면역 저하 성인`"]
+    ExcI["`활동성 결핵 배제; 증상·병력·흉부 X선; 필요시 세균학적 검사`"]
     IGA2["IGRA"]
     PosI1["LTBI ⊕"]
     NegIto["TST 시행"]
     PosI2["LTBI ⊕"]
-    NegI2["검사상 LTBI ⊖<br/>노출·면역 상태에 <br/>따라 재평가"]
+    NegI2["`검사상 LTBI ⊖; 노출·면역 상태에 ; 따라 재평가`"]
     SI --> ExcI --> IGA2
-    IGA2 -->|"⊕"| PosI1
-    IGA2 -->|"⊖"| NegIto 
-    NegIto -->|"10 ㎜ 이상<br/>(HIV 감염인 5 ㎜ 이상)"| PosI2
-    NegIto -->|"기준 미만"| NegI2
-style SN fill:#fff3e0,stroke:#e65100,stroke-width:2px
-style SI fill:#fdebd0,stroke:#e67e22,stroke-width:2px
-style ExcN fill:#e8f8e8,stroke:#4caf50
-classDef green fill:#d5f5e3,stroke:#27ae60
-class ExcI green
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class BCG,TST1,IGA1,IGA2,NegIto yellow
-classDef white fill:#fff,stroke:#333
-class NegI2,NegN1,NegN2 white
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class PosN1,PosN2,PosI1,PosI2 blue
+    IGA2 -- "⊕" --> PosI1
+    IGA2 -- "⊖" --> NegIto 
+    NegIto -- "10 ㎜ 이상; (HIV 감염인 5 ㎜ 이상)" --> PosI2
+    NegIto -- "기준 미만" --> NegI2
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class SN,SI start
+    class BCG,TST1,IGA1,IGA2,NegIto decision
+    class ExcN,ExcI,PosN1,NegN1,PosN2,NegN2,PosI1,PosI2,NegI2 action
 ```
 
-<p align="center"><strong>잠복결핵감염 진단 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
+<p align="center"><strong>잠복결핵감염 진단 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: 결핵 진료지침 2024, Ⅷ장 잠복결핵감염)</mark></em></p>
 
 ***
 
@@ -728,24 +722,23 @@ class PosN1,PosN2,PosI1,PosI2 blue
 ```mermaid
 graph TD
     A["LTBI 검사 양성"] --> B["활동성 결핵 배제"]
-    B -->|"배제되지 않음"| C["추가 평가 및 <br/>전문가 의뢰"]
-    C -->|"활동성 결핵 진단"| CT["활동성 결핵 치료"]
-    B -->|"배제 완료"| D["기저 검사<br/>CBC·LFT·간염 검사"]
+    B -- "배제되지 않음" --> C["`추가 평가 및 ; 전문가 의뢰`"]
+    C -- "활동성 결핵 진단" --> CT["활동성 결핵 치료"]
+    B -- "배제 완료" --> D["`기저 검사; CBC·LFT·간염 검사`"]
     D --> E["RIF 사용 가능?"]
-    E -->|"<u>아니오</u><br/>중요 약물 상호작용 등"| F["9H 우선 고려<br/>필요시 6H"]
-    E -->|"예"| G["기간/방법 선택"]
-    G --> H["4R<br/>RIF 단독 4개월"]
-    G --> I["3HR<br/>INH+RIF 3개월"]
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style D fill:#e8f8e8,stroke:#4caf50
-    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,E,G yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class H,I,F sky
+    E -- "아니요; 중요 약물 상호작용 등" --> F["`9H 우선 고려; 필요시 6H`"]
+    E -- "예" --> G["기간/방법 선택"]
+    G --> H["`4R; RIF 단독 4개월`"]
+    G --> I["`3HR; INH+RIF 3개월`"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef action fill:#e3f2ff,stroke:#2196f3
+    class A start
+    class B,E,G decision
+    class C,CT,D,F,H,I action
 ```
 
-<p align="center"><strong>LTBI 치료 약제 선택 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
+<p align="center"><strong>LTBI 치료 약제 선택 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌: 결핵 진료지침 2024)</mark></em></p>
 
 ***
 
@@ -761,7 +754,7 @@ class H,I,F sky
 <table><thead><tr><th width="73">요법</th><th width="117">처방</th><th width="91">기간</th><th width="108">국내 권고</th><th>비고</th></tr></thead><tbody><tr><td><strong>4R</strong></td><td>Rifampicin 단독</td><td>4개월<br>(120회)</td><td>우선 권고</td><td>10 ㎎/㎏/d; ＜50 ㎏ 450 ㎎, ≥50 ㎏ 600 ㎎, 최대 600 ㎎. 약물 상호작용 확인</td></tr><tr><td><strong>3HR</strong></td><td>INH + Rifampicin</td><td>3개월<br>(90회)</td><td>우선 권고</td><td>INH 5 ㎎/㎏/d(최대 300 ㎎) + RIF 10 ㎎/㎏/d(최대 600 ㎎)</td></tr><tr><td><strong>9H</strong></td><td>INH 단독</td><td>9개월<br>(270회)</td><td>선택적 고려</td><td>5 ㎎/㎏/d, 최대 300 ㎎. 치료기간이 길고 간독성·완료율을 고려</td></tr><tr><td><strong>6H</strong></td><td>INH 단독</td><td>6개월<br>(180회)</td><td>제한적 대안</td><td>9H 완료가 어렵거나 특별한 경우 고려하되 예방효과가 낮을 수 있음</td></tr></tbody></table>
 
 * 재치료 : 결핵 발병 위험군이 전염성 결핵 환자와 최근 접촉한 경우, 과거에 적절한 LTBI 치료를 완료하였더라도 재치료 고려
-* LTBI 치료 중 활동성 결핵이 발생한 경우 : LTBI 치료에 사용 중이었던 약제를 포함한 초치료 표준 처방으로 새로이 치료 시작
+* LTBI 치료 중 활동성 결핵이 발생한 경우 : 객담 등 검체를 확보하여 배양·신속 및 통상 약제감수성검사를 시행하고, LTBI 치료를 활동성 결핵 복합요법으로 전환함. 이전에 사용한 약제를 무조건 제외하지 않되, 해당 약제 노출과 내성 가능성을 고려하여 전문가와 요법을 결정하고 감수성 결과에 따라 조정
 
 {% hint style="info" %}
 **국외 rifapentine 요법** : WHO 등은 3HP(INH+rifapentine 주 1회×12회)와 1HP(INH+rifapentine 매일×28회)를 선택지로 제시함. 국내에서는 rifapentine의 도입·공급 및 최신 허가 상태를 확인하고, 전신 약물반응과 상호작용을 고려하여 결핵 전문가가 판단함
@@ -778,17 +771,6 @@ class H,I,F sky
 
 ***
 
-## <mark style="color:red;">질병코드</mark>
-
-* A15 세균학적 및 조직학적으로 확인된 호흡기결핵 Respiratory tuberculosis, bacteriologically and histologically confirmed
-* A16 세균학적으로나 조직학적으로 확인되지 않은 호흡기결핵 Respiratory tuberculosis, not confirmed bacteriologically or histologically
-* A17 신경계통의 결핵 Tuberculosis of nervous system
-* A18 기타 기관의 결핵 Tuberculosis of other organs
-* A19 좁쌀결핵 Miliary tuberculosis
-* Z22.7 잠복결핵 Latent tuberculosis
-
-***
-
 ## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 활동성 폐결핵 초치료 - 집중 치료기 (체중 60 ㎏ 성인의 예)**
@@ -801,9 +783,11 @@ class H,I,F sky
 > 피리독신 50 ㎎/T             1T qd
 > ```
 >
+> 약제 정보: [유한짓·100 ㎎](https://www.health.kr/drug/A11A0450A0093) · [리포덱스·600 ㎎](https://www.health.kr/drug/A11A0120A0400) · [마이암부톨 제피·400 ㎎](https://www.health.kr/drug/A11A0450A0151)
+>
 > _✽ 2개월 집중 치료기(4제 요법). 체중 60 ㎏ 기준(EMB 20 ㎎/㎏, PZA 25 ㎎/㎏). 진단·치료 시 24시간 이내 관할 보건소에 신고하며, 신고를 기다리느라 치료를 지연하지 않음. 약제 감수성 검사 결과에 따라 처방 조정. PZA·EMB는 공복이 어려우면 식후로 변경 가능. Pyridoxine은 임신·영양실조·알코올 남용·고령·당뇨병·만성콩팥병 등 말초신경염 위험군에서 병용._
 
-> **처방례 2. 활동성 폐결핵 초치료 - 유지 치료기 (약제 감수성 확인 후)**
+> **처방례 2. 활동성 폐결핵 초치료 - 유지 치료기 (체중 60 ㎏, 약제 감수성 확인 후)**
 >
 > ```
 > 유한짓 100 ㎎/T              3T qd 공복
@@ -811,7 +795,9 @@ class H,I,F sky
 > 피리독신 50 ㎎/T             1T qd
 > ```
 >
-> _✽ 체중 ≥50 ㎏ 성인의 예시. INH·RIF 감수성이 확인되어 EMB를 제외한 4개월 HR 유지기 처방임. 감수성이 아직 확인되지 않았다면 EMB를 유지하며, 고정용량복합제는 체중별 목표 용량에 맞추어 선택함. Pyridoxine은 말초신경염 위험군에서 병용._
+> 약제 정보: [유한짓·100 ㎎](https://www.health.kr/drug/A11A0450A0093) · [리포덱스·600 ㎎](https://www.health.kr/drug/A11A0120A0400)
+>
+> _✽ 체중 60 ㎏ 성인의 예시. INH·RIF 감수성이 확인되어 EMB를 제외한 4개월 HR 유지기 처방임. 감수성이 아직 확인되지 않았다면 EMB를 유지하며, 고정용량복합제는 체중별 목표 용량에 맞추어 선택함. Pyridoxine은 말초신경염 위험군에서 병용._
 
 > **처방례 3. 잠복결핵감염 (LTBI) 치료 - 4R 요법 (표준)**
 >
@@ -820,32 +806,51 @@ class H,I,F sky
 > (체중 ＜50 ㎏) 리포덱스 450 ㎎/T     1T qd 공복
 > ```
 >
+> 약제 정보: [리포덱스·600 ㎎](https://www.health.kr/drug/A11A0120A0400) · [리포덱스·450 ㎎](https://www.health.kr/drug/A11A0120A0399)
+>
 > _✽ 총 4개월(120회)을 6개월 이내 완료. 기저 간기능 검사 후 시작하며 활동성 결핵 배제가 필수. 소변·땀의 오렌지색 변색을 미리 설명하고 경구 피임약 등 약물 상호작용을 확인._
 
-> **처방례 4. 잠복결핵감염 (LTBI) 치료 - 3HR 요법 (표준)**
+> **처방례 4. 잠복결핵감염 (LTBI) 치료 - 3HR 요법 (체중 60 ㎏ 성인의 예)**
 >
 > ```
 > 유한짓 100 ㎎/T              3T qd 공복
 > 리포덱스 600 ㎎/T            1T qd 공복   (체중 ≥50 ㎏)
 > ```
 >
-> _✽ 총 3개월(90회)을 4개월 이내 완료. 활동성 결핵 배제와 기저 간기능 검사 후 시작. 체중 ＜50 ㎏이면 리포덱스 450 ㎎ 1T qd로 조정하고, RIF 약물 상호작용을 확인._
+> 약제 정보: [유한짓·100 ㎎](https://www.health.kr/drug/A11A0450A0093) · [리포덱스·600 ㎎](https://www.health.kr/drug/A11A0120A0400)
+>
+> _✽ 총 3개월(90회)을 4개월 이내 완료. 활동성 결핵 배제와 기저 간기능 검사 후 시작. 체중이 다르면 INH 5 ㎎/㎏/d(최대 300 ㎎)와 RIF 체중별 용량을 확인하여 조정하고, RIF 약물 상호작용을 확인. INH 말초신경염 위험군에서는 pyridoxine 25~50 ㎎/d 병용._
 
-> **처방례 5. 잠복결핵감염 (LTBI) 치료 - 9H 요법 (RIF 사용 불가 시)**
+> **처방례 5. 잠복결핵감염 (LTBI) 치료 - 9H 요법 (체중 60 ㎏, RIF 사용 불가 시)**
 >
 > ```
 > 유한짓 100 ㎎/T              3T qd 공복
 > 피리독신 50 ㎎/T             1T qd
 > ```
 >
-> _✽ 총 9개월 투여 (12개월 내 완료). RIF와 상호작용이 중요한 약제(일부 항레트로바이러스제, DOAC, 이식 면역억제제 등)를 복용하여 rifamycin 단기요법을 쓰기 어려운 환자에서 선택. 간독성 위험군(만성 간질환, 알코올 남용, 고령)에서는 매달 간기능 검사 시행. Pyridoxine은 말초신경염 위험군에서 병용._
+> 약제 정보: [유한짓·100 ㎎](https://www.health.kr/drug/A11A0450A0093)
+>
+> _✽ 총 9개월 투여 (12개월 내 완료). 체중이 다르면 INH 5 ㎎/㎏/d(최대 300 ㎎)를 확인하여 조정. RIF와 상호작용이 중요한 약제(일부 항레트로바이러스제, DOAC, 이식 면역억제제 등)를 복용하여 rifamycin 단기요법을 쓰기 어려운 환자에서 선택. 간독성 위험군(만성 간질환, 알코올 남용, 고령)에서는 매달 간기능 검사 시행. Pyridoxine은 말초신경염 위험군에서 병용._
+
+***
+
+## <mark style="color:red;">질병코드</mark>
+
+* A15 세균학적 및 조직학적으로 확인된 호흡기결핵 Respiratory tuberculosis, bacteriologically and histologically confirmed
+* A16 세균학적으로나 조직학적으로 확인되지 않은 호흡기결핵 Respiratory tuberculosis, not confirmed bacteriologically or histologically
+* A17 신경계통의 결핵 Tuberculosis of nervous system
+* A18 기타 기관의 결핵 Tuberculosis of other organs
+* A19 좁쌀결핵 Miliary tuberculosis
+* Z22.7 잠복결핵 Latent tuberculosis
 
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 * **규칙적 복용이 치료 성패의 핵심** : 매일 같은 시간에 빠짐없이 복용; 증상이 호전되어도 임의로 중단하면 내성균이 생겨 치료가 매우 어려워짐을 반드시 설명
-* **공복 복용** : INH·RIF는 흡수를 높이기 위해 식사 1시간 전 또는 식후 2시간에 공복 복용; 위장 장애가 심하면 식후 복용 가능. RIF는 처방된 1일 총용량을 1일 1회 한꺼번에 복용하며, 임의로 나누어 복용하지 않음
+* **공복 복용** : INH·RIF는 흡수를 높이기 위해 식사 1시간 전 또는 식후 2시간에 공복 복용; 위장 장애가 심하면 간독성을 먼저 평가한 뒤 의료진과 상의하여 복용 시간을 조정. RIF는 처방된 1일 총용량을 1일 1회 한꺼번에 복용하며, 임의로 나누어 복용하지 않음
+* **복용 누락** : 빠뜨린 분량을 다음에 두 배로 복용하지 않음. 누락 횟수와 마지막 복용일을 치료기관에 알리고 재개 방법을 확인
+* **병용약 확인** : 처방약·일반약·건강기능식품 목록을 의료진에게 알림. RIF는 호르몬 피임제·항응고제·이식 면역억제제 등과 중요한 상호작용이 있으므로 새 약의 시작·중단 전 확인하며, 피임법은 추가 또는 대체 방법을 상의
 * **체액 색깔 변화** : RIF 복용 중 소변·눈물·땀이 오렌지색으로 변하는 것은 정상; 소프트 콘택트렌즈는 착색되므로 렌즈 착용을 피하도록 안내
 * **금주 권고** : 알코올은 간독성 위험을 높이므로 치료 기간 중 금주
 * **Pyridoxine 병용** : 당뇨병, 임신, 영양실조, 알코올 남용, 고령, 만성콩팥병 등 위험군에서 INH 복용 시 말초신경염 예방을 위해 Pyridoxine 25\~50 ㎎/d 병용
@@ -875,34 +880,36 @@ class H,I,F sky
 
 ## <mark style="color:blue;">환자 안내서</mark>
 
-#### <mark style="color:$primary;">결핵이란?</mark>
+### <mark style="color:$primary;">결핵이란?</mark>
 
 결핵은 결핵균이 주로 폐에 감염되는 법정 감염병입니다. 전염성 폐결핵은 기침·말하기 등을 통해 공기로 전파됩니다. 효과적인 치료를 시작하면 전염력은 빠르게 감소하지만, 격리 해제와 일상생활 복귀 시점은 약제감수성, 복약 상태, 증상 호전과 객담검사 결과를 종합하여 담당 의료진이 결정합니다.
 
-#### <mark style="color:$primary;">약을 규칙적으로 끝까지 복용하세요</mark>
+### <mark style="color:$primary;">약을 규칙적으로 끝까지 복용하세요</mark>
 
 * 약제감수성 폐결핵은 보통 **6개월** 동안 여러 약을 함께 복용하며, 병변 부위·치료 반응·약제내성에 따라 더 길어질 수 있습니다
 * 증상이 좋아져도 임의로 약을 끊으면 안 됩니다. 치료 중 멈추면 내성 결핵이 생겨 치료가 훨씬 어려워집니다
-* 매일 같은 시간에 복용하는 습관을 들이세요
+* 매일 같은 시간에 복용하는 습관을 들이세요. 빠뜨렸다고 다음에 두 배로 먹지 말고 치료기관에 재개 방법을 확인하세요
 
-#### <mark style="color:$primary;">전파 예방 수칙</mark>
+### <mark style="color:$primary;">전파 예방 수칙</mark>
 
 * 담당 의료진이 격리 해제를 안내할 때까지 타인과의 접촉을 최소화하고, 불가피하게 외출할 때는 수술용 마스크를 착용하세요
 * 기침·재채기 시 입과 코를 막고, 환기를 자주 하세요
 * 가래는 휴지에 받아 봉투에 밀봉하여 버리세요
 
-#### <mark style="color:$primary;">약 복용 시 주의할 점</mark>
+### <mark style="color:$primary;">약 복용 시 주의할 점</mark>
 
 * 이소니아지드와 리팜피신은 식사 1시간 전 또는 식후 2시간에 공복 복용이 원칙입니다. 위장 불편이 심하면 임의로 바꾸지 말고 의료진과 복용 시간을 상의하세요
 * 리팜피신 때문에 소변·눈물·땀이 주황색·붉은색으로 변하는 것은 정상입니다. 그러나 짙은 갈색(콜라색) 소변이나 눈 흰자위가 노래지는 것은 간 손상 신호일 수 있습니다
 * 황달·짙은 갈색 소변, 시력 저하·색 구별 이상, 전신 발진이 생기면 다음 약을 먹기 전에 바로 병원에 연락해 지시를 받으세요. 다음 예약일까지 기다리지 마세요
 * 치료 중 금주를 꼭 지켜주세요
+* 다른 병원에서 받은 약·피임약·건강기능식품을 모두 알려주세요. 리팜피신은 여러 약의 효과를 바꿀 수 있으므로 새 약을 시작하거나 중단하기 전에 확인하세요
+* 숨쉬기 어렵거나 입안·눈의 헐음, 물집·피부 벗겨짐이 동반된 발진은 응급실에서 즉시 평가받으세요
 
-#### <mark style="color:$primary;">가족과 주변 분들께</mark>
+### <mark style="color:$primary;">가족과 주변 분들께</mark>
 
 * 가족 등 접촉자는 담당 의사나 보건소에 알려 결핵 및 잠복결핵 검사를 받아야 합니다
 * 잠복결핵으로 진단되면 예방 치료를 통해 결핵 발병 위험을 크게 줄일 수 있습니다
 
-#### <mark style="color:$primary;">잠복결핵감염(LTBI)이란?</mark>
+### <mark style="color:$primary;">잠복결핵감염(LTBI)이란?</mark>
 
 몸 안에 결핵균이 잠자고 있는 상태로, 증상이 없고 전파도 되지 않습니다. 하지만 면역이 떨어지면 활동성 결핵으로 발병할 수 있습니다. 의료진이 발병 위험과 약 부작용을 함께 평가하여 예방 치료 여부를 결정하며, 처방대로 잠복결핵 치료약을 복용하면 결핵 발병 위험을 60\~90% 줄일 수 있습니다.
