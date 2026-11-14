@@ -42,11 +42,11 @@
 
 <mark style="color:cyan;">**비허혈성 심장성**</mark>
 
-* 심막염 / 심근염 / 심근심막염
+* 심낭염 / 심근염 / 심근심막염
 * 심부전(급성 폐부종)
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
   * 대동맥판 역류 : 좌측 흉골연(left sternal border)의 고음성 이완기 감소성 잡음, 급속 상승 맥박
-* Takotsubo 심근병증 : 극심한 정신적·신체적 스트레스로 인해 심장 근육이 일시적으로 약화
+* Takotsubo 증후군 : 극심한 정신적·신체적 스트레스로 인해 심장 근육이 일시적으로 약화
 
 #### <mark style="color:$primary;">대혈관성</mark>
 
@@ -83,7 +83,7 @@
 * 쇼크(저혈압·빈맥) 또는 정신 상태 변화 - 순환 붕괴 시사 `ACS` `폐색전증` `대동맥 박리`
 * 심한 호흡 곤란, 빠른 호흡 `ACS` `폐색전증` `기흉`
 * 잿빛 피부색, 발한, 차가운 피부 - 심인성 쇼크 시사 `ACS`
-* 심낭압전이 의심되는 혈역학적 이상(저혈압·빈맥·경정맥 팽창·muffled heart sound·심초음파상 tamponade 소견) ± pulsus paradoxus `심낭 압전`
+* 심낭압전이 의심되는 혈역학적 이상(저혈압·빈맥·경정맥 팽창·muffled heart sound·심초음파상 tamponade 소견) ± pulsus paradoxus `심낭압전`
 * 찢어지는, 칼로 베는 듯한 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동 `대동맥 박리`
 * 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 ㎜Hg (≥15 ㎜Hg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박; 단, 민감도가 낮아 혈압 차이·맥박 비대칭이 없다고 박리를 배제할 수는 없음 `대동맥 박리`
 * 흉통 + 새로 발생한 대동맥판 역류 잡음(좌측 흉골연의 고음성 이완기 잡음) `대동맥 박리`
@@ -120,7 +120,7 @@
 {% hint style="danger" %}
 **1차 진료 Triage - 먼저 확인할 3가지**
 
-1. 생명을 위협할 수 있는가? - ACS, 대동맥 박리, PE, 긴장성 기흉, 식도 파열, 심낭 압전 중 하나라도 해당
+1. 생명을 위협할 수 있는가? - ACS, 대동맥 박리, PE, 긴장성 기흉, 식도 파열, 심낭압전 중 하나라도 해당
 2. ECG에 이상이 있는가? - 허혈성 ST 변화, 새로운 LBBB에서 급성 허혈 의심, 지속성 빈맥/서맥·혈역학적 이상 동반 부정맥 또는 임상적으로 유의한 신규 부정맥
 3. 급성·진행성 증상 또는 고위험 임상 소견이 있는가? - 현재 지속되거나 반복되는 휴식 시 흉통 또는 진행성 흉통, 허혈성 ECG 변화, 혈역학적 이상 등
 
@@ -431,7 +431,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">급성 대동맥증후군 (AAS)</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>갑자기 시작되어 즉시 최대 강도에 도달; 이후 통증이 완화되더라도 AAS를 배제할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>갑자기 시작되어 즉시 최대 강도에 도달; 이후 통증이 완화되더라도 AAS를 배제할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 베는 듯한</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
 
 > _Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)._
 >
