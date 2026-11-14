@@ -34,7 +34,7 @@
 
 질병관리청의 2025년 국민건강영양조사 결과 발표(2026.9.30.)에서 19세 이상 성인의 주요 음주 지표는 다음과 같음.
 
-* **고위험음주율**(1회 평균 음주량 남 ≥7잔·여 ≥5잔이며 주 ≥2회 이상 음주하는 분율) : 전체 **12.6%**(2024년 13.6%)
+* **고위험음주율**(1회 평균 음주량 남 ≥7잔·여 ≥5잔이며 주 2회 이상 음주하는 분율) : 전체 **12.6%**(2024년 13.6%)
 * **월간폭음률**(최근 1년 중 월 1회 이상 한 자리에서 남 ≥7잔·여 ≥5잔 음주한 분율) : 전체 **35.1%**
 
 <mark style="color:$info;">[질병관리청 2025년 국민건강영양조사 결과 발표](https://www.kdca.go.kr/bbs/kdca/42/312791/artclView.do)</mark>
@@ -117,18 +117,18 @@
 
 > 아래 항목은 당일 평가 대상이며 응급 징후가 생기면 즉각 조치로 전환함.
 
-* 과거 금단 섬망·금단 발작 또는 PAWSS ≥4로 감량·금주를 계획하는 경우 → 전문기관 평가 (☞ 진단)  `복잡 금단 고위험`
-* 임신, 고령·쇠약, 중대한 간·심장·폐·신장질환, 활동성 감염·췌장염  `동반질환·취약 환자`
-* 중등도 이상 금단, 증상의 빠른 악화, 경구 투약·수분 섭취 불가  `금단 악화·탈수`
-* benzodiazepine 등 다른 진정수면제 금단 가능성 또는 복합 물질사용  `복합 금단·물질사용`
-* 활동성 정신병·중증 우울·인지장애  `정신질환 동반`
-* 보호자·안정된 주거·교통·일일 추적이 없거나 외래 금단 치료 실패 병력  `외래 치료 부적합`
+* 감량·금주를 계획하는 환자에서 과거 금단 섬망·금단 발작 또는 PAWSS ≥4 (☞ 진단)  `복잡 알코올 금단`
+* 임신, 고령·쇠약, 중대한 간·심장·폐·신장질환, 활동성 감염·췌장염 동반  `중증 금단 위험`
+* 중등도 이상 금단, 증상의 빠른 악화, 경구 투약·수분 섭취 불가  `금단 악화` `탈수`
+* benzodiazepine 등 다른 진정수면제 금단 가능성 또는 복합 물질사용  `복합 금단`
+* 활동성 정신병·중증 우울·인지장애  `동반 정신질환`
+* 보호자·안정된 주거·교통·일일 추적이 없거나 외래 금단 치료 실패 병력  `외래 금단 치료 실패 위험`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 반복되는 과음·갈망, 직업·가족 기능 저하 또는 치료 후 음주 재개 → AUD 중증도와 장기 치료계획 재평가  `장기 AUD 치료`
-* 지속되는 간수치 이상, 체중감소·영양결핍 또는 말초신경병증 → 동반질환·영양상태 평가  `알코올 관련 합병증`
-* 외래 금단 치료를 선택한 저위험 경증 환자 → 보호자·안정된 주거·응급실 접근성과 약물관리를 확보하고 **감량·중단 후 초기 최대 5일간 매일 재평가**함; 다음 정기 방문까지 기다리게 하지 않음  `외래 금단 추적`
+* 반복되는 과음·갈망, 직업·가족 기능 저하 또는 치료 후 음주 재개  `중등도~중증 AUD`
+* 지속되는 간수치 이상, 체중 감소·영양결핍 또는 말초신경병증  `알코올 관련 간질환` `영양결핍` `알코올성 신경병증`
+* 외래 금단 치료 중인 저위험 경증 금단 - 감량·중단 후 초기 최대 5일간 증상 변동  `금단 진행`
 
 
 {% hint style="danger" %}
@@ -173,7 +173,7 @@ Caine 기준은 만성 알코올 사용자를 대상으로 개발된 임상 기�
 
 * 급성 중독·금단 양상이 다른 원인으로도 발생할 수 있으므로 병력상 최근 음주량·마지막 음주 시각이 불확실하면 아래를 함께 고려함.
 
-<table><thead><tr><th width="170">감별 대상</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>Benzodiazepine·barbiturate 금단</td><td>임상상이 알코올 금단과 유사; 병용·동시 사용 여부 확인, 필요 시 병력·소변 검사로 확인</td></tr><tr><td>갑상선기능항진증, 갈색세포종</td><td>빈맥·발한·진전이 지속되고 음주 중단 시기와 시간적으로 맞지 않음</td></tr><tr><td>패혈증, 중추신경계 감염</td><td>발열·의식변화가 있으나 국소 신경학적 이상, 뇌수막 자극징후 동반 가능</td></tr><tr><td>저혈당</td><td>즉시 혈당 확인으로 감별; 알코올 중독 환자에서 병발 흔함</td></tr><tr><td>Serotonin syndrome</td><td>Serotonergic 약물(SSRI, tramadol 등) 병용력, clonus·과반사·근경직·고체온</td></tr><tr><td>항콜린 중독</td><td>1세대 항히스타민제·항무스카린제 병용력, 산동, 건조한 피부·점막, 요정체, 장음 감소</td></tr><tr><td>일차 정신병적장애·기분장애</td><td>음주와 무관하게 지속되는 병력, 금주 후에도 지속되는 증상으로 감별</td></tr><tr><td>각성제(암페타민류) 중독</td><td>동공산대, 고체온, 다른 물질사용력으로 감별</td></tr></tbody></table>
+<table><thead><tr><th width="170">감별 대상</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>Benzodiazepine·barbiturate 금단</td><td>임상상이 알코올 금단과 유사; 병용·동시 사용 여부 확인, 필요시 병력·소변 검사로 확인</td></tr><tr><td>갑상선기능항진증, 갈색세포종</td><td>빈맥·발한·진전이 지속되고 음주 중단 시기와 시간적으로 맞지 않음</td></tr><tr><td>패혈증, 중추신경계 감염</td><td>발열·의식변화가 있으나 국소 신경학적 이상, 뇌수막 자극징후 동반 가능</td></tr><tr><td>저혈당</td><td>즉시 혈당 확인으로 감별; 알코올 중독 환자에서 병발 흔함</td></tr><tr><td>Serotonin syndrome</td><td>Serotonergic 약물(SSRI, tramadol 등) 병용력, clonus·과반사·근경직·고체온</td></tr><tr><td>항콜린 중독</td><td>1세대 항히스타민제·항무스카린제 병용력, 산동, 건조한 피부·점막, 요정체, 장음 감소</td></tr><tr><td>일차 정신병적장애·기분장애</td><td>음주와 무관하게 지속되는 병력, 금주 후에도 지속되는 증상으로 감별</td></tr><tr><td>각성제(암페타민류) 중독</td><td>동공산대, 고체온, 다른 물질사용력으로 감별</td></tr></tbody></table>
 
 ### <mark style="color:orange;">선별</mark>
 
@@ -255,7 +255,7 @@ AUD는 임상적으로 진단하며, 검사 이상이 없다고 AUD를 배제할
 * 최근 음주를 객관화할 임상적 필요가 있을 때 GGT, CDT, PEth 등을 선택적으로 고려하되 단독 진단에 사용하지 않음.
 * thiamine·pyridoxine 농도는 일률적으로 검사하지 않으며, 결핍 또는 Wernicke 뇌병증이 의심되면 결과를 기다리지 않고 치료함.
 * 복부 초음파·CT, 뇌 영상, 상부위장관내시경은 AUD 단계가 아니라 외상, 국소 신경학적 이상, 간질환, 췌장염, 출혈 등 구체적 적응증에 따라 시행함.
-* 간효소가 정상이어도 진행된 알코올 관련 간질환을 배제할 수 없음. 지속적인 고위험 음주자에서는 간섬유화 위험을 평가하고 필요 시 간탄성도검사·전문 진료를 연계함. <mark style="color:$info;">[영국 알코올 치료지침 2025]</mark>
+* 간효소가 정상이어도 진행된 알코올 관련 간질환을 배제할 수 없음. 지속적인 고위험 음주자에서는 간섬유화 위험을 평가하고 필요시 간탄성도검사·전문 진료를 연계함. <mark style="color:$info;">[영국 알코올 치료지침 2025]</mark>
 
 #### <mark style="color:$primary;">알코올 생체지표</mark>
 
@@ -267,30 +267,35 @@ AUD는 임상적으로 진단하며, 검사 이상이 없다고 AUD를 배제할
 
 ```mermaid
 flowchart TD
-    A(["위험음주·알코올 사용 장애 의심"]) --> E{"즉각 조치 징후?"}
-    E -- "예" --> F["즉시 응급실 이송·입원"]
+    A["위험음주·알코올 사용 장애 의심"] --> E["Red Flags의 즉각 조치 항목에 해당?"]
+    E -- "예" --> F["즉각 조치<br/>응급실 이송·입원"]
     E -- "아니오" --> D["선별검사·음주량·금단력·동반질환 평가"]
-    D --> G{"당일 평가 항목 또는 PAWSS ≥4?"}
+    D --> G["Red Flags의 당일 평가 항목<br/>또는 PAWSS ≥4?"]
     G -- "예" --> H["당일 전문기관 평가·입원 고려"]
-    G -- "아니오" --> N{"현재 금단 또는 감량·금주 시 금단 위험?"}
-    N -- "아니오" --> L
-    N -- "예" --> I{"저위험 경증이며 보호자·주거·매일 평가 확보?"}
-    I -- "아니오" --> H
-    I -- "예" --> J["외래 밀착관리·영양 보충·필요 시 금단 약물"]
-    F -. "급성 안정화 후" .-> L{"DSM-5-TR AUD 진단?"}
-    H -. "급성 평가·치료 후" .-> L
+    G -- "아니오" --> N["현재 금단 또는<br/>감량·금주 시 금단 위험?"]
+    N -- "아니오" --> L["DSM-5-TR AUD 진단?"]
+    N -- "예" --> I["저위험 경증이며<br/>보호자·주거·매일 평가 확보?"]
+    I -- "아니오" --> H2["당일 전문기관 평가·입원 고려"]
+    I -- "예" --> J["외래 밀착관리·영양 보충<br/>필요시 금단 약물"]
     J --> L
-    L -- "아니오" --> M(["음주 위험에 따른 상담·정기 재평가"])
-    L -- "예" --> K(["심리사회 치료·약물치료·장기 추적"])
+    L -- "아니오" --> M["음주 위험에 따른 상담·정기 재평가"]
+    L -- "예" --> K["심리사회 치료·약물치료·장기 추적"]
+
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class E,G,N,I,L question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style F fill:#f96,stroke:#e65100,stroke-width:2px
     style H fill:#fff3e0,stroke:#e65100
+    style H2 fill:#fff3e0,stroke:#e65100
     style J fill:#e1f5fe,stroke:#01579b
     style K fill:#f3e5f5,stroke:#4a148c
 ```
 
+> _응급실·입원 또는 당일 전문기관 평가로 급성기를 안정화한 뒤에도 DSM-5-TR AUD 진단과 장기 치료 계획을 평가함._
+
 <p align="center"><strong>선별 후 금단 위험 평가 및 치료 장소 결정 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ASAM Clinical Practice Guideline on Alcohol Withdrawal Management (2020); VA/DoD Clinical Practice Guideline for the Management of Substance Use Disorders (2021)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ASAM 2020; VA/DoD 2021)</mark></em></p>
 
 ***
 
@@ -321,7 +326,7 @@ flowchart TD
 * diazepam·chlordiazepoxide 같은 장시간 작용제는 매끄러운 치료가 장점임.
 * 고령, 중증 질환, 간기능 저하 또는 지속적 과진정 우려가 있으면 glucuronidation 의존도가 높은 lorazepam·oxazepam을 선호함.
 * symptom-triggered regimen은 훈련된 인력이 신뢰도 높은 반복 평가를 시행할 수 있을 때 선호함.
-* 증상 유발 요법을 신뢰성 있게 시행하기 어려우면 fixed-schedule regimen에 필요 시 추가 용량을 병용할 수 있으나, 이때도 반복 평가가 필요함. 과거 복잡 금단 등 고위험이거나 현재 중증이면 감시 가능한 전문기관에서 예방 투약·front-loading 등을 결정하며, 고정 처방만으로 외래 치료를 대신하지 않음.
+* 증상 유발 요법을 신뢰성 있게 시행하기 어려우면 fixed-schedule regimen에 필요시 추가 용량을 병용할 수 있으나, 이때도 반복 평가가 필요함. 과거 복잡 금단 등 고위험이거나 현재 중증이면 감시 가능한 전문기관에서 예방 투약·front-loading 등을 결정하며, 고정 처방만으로 외래 치료를 대신하지 않음.
 * 호흡수·산소포화도·의식·보행·낙상 위험과 과진정을 반복 평가함.
 * 외래 치료는 감량·중단 후 초기 최대 5일간 매일 재평가하며, 활력징후·수분상태·지남력·수면·자살사고·음주 재개·다른 물질사용을 확인함. 안정적인 저위험 환자는 대면과 전화·영상 평가를 교대로 활용할 수 있음. 처방량은 다음 평가까지 필요한 최소량으로 제한하고 급성 금단이 종료되면 중단함([ASAM 2020](https://www.asam.org/quality-care/clinical-guidelines/alcohol-withdrawal-management)).
 
@@ -330,7 +335,7 @@ flowchart TD
 > 위 용량은 해외 지침을 참고한 성인 단회 용량 예시이며 총 투여량이나 외래 고정 처방이 아님. 재평가 후 추가 투여·감량 여부를 결정함. 국내 품목별 적응증·투여경로·실제 공급을 확인하며, chlordiazepoxide·oxazepam의 국내 가용성을 전제로 제시한 표가 아님. 중증 금단은 외래 고정 처방으로 치료하지 않음.
 
 * 금단 발작·섬망에서는 감시하 benzodiazepine 치료가 우선임. 항정신병약은 조절되지 않는 환각·초조에 보조적으로만 고려하며 단독 금단 치료로 사용하지 않음. phenytoin은 별도의 발작 질환이 없는 금단 발작의 예방·치료 목적으로 일률적으로 사용하지 않음. <mark style="color:$info;">[ASAM 2020]</mark>
-* 저위험 경증 또는 선별된 중등도 금단에서 benzodiazepine이 부적합하면 gabapentin·carbamazepine을 고려할 수 있으나 국내 알코올 금단 적응증은 허가 외임. carbamazepine은 발진·혈구감소·저나트륨혈증·간기능 및 약물 상호작용을 확인함. 복잡 금단 고위험 환자의 입원·표준치료를 대체하지 않음. <mark style="color:$info;">[ASAM 2020]</mark>
+* 저위험 경증 또는 선별된 중등도 금단에서 benzodiazepine이 부적합하면 gabapentin·carbamazepine을 고려할 수 있으나 알코올 금단 적응증은 허가 외임. carbamazepine은 발진·혈구감소·저나트륨혈증·간기능 및 약물 상호작용을 확인함. 복잡 금단 고위험 환자의 입원·표준치료를 대체하지 않음. <mark style="color:$info;">[ASAM 2020]</mark>
 
 #### <mark style="color:$primary;">자율신경 항진 보조 치료</mark>
 
@@ -347,7 +352,7 @@ flowchart TD
 * folate, Mg, P, K는 영양상태·검사 결과와 임상 적응증에 따라 보충함. 부정맥, 전해질 이상, 과거 금단 발작이 있는 저Mg혈증은 적극 교정함.
 * 장기간 섭취 부족·체중감소·반복 구토·저P/저K/저Mg혈증이 있으면 재급식증후군 위험을 평가함. 고위험 환자는 입원 환경에서 thiamine 보충, 영양 공급 속도 조절과 전해질·수분 균형 감시를 시행함. <mark style="color:$info;">[영국 알코올 치료지침 2025]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">예방 및 위해 감소</mark>
 
@@ -376,16 +381,16 @@ flowchart TD
 ### <mark style="color:orange;">지원 자원</mark>
 
 * [중독관리통합지원센터](https://www.mohw.go.kr/menu.es?mid=a10706040400)
-* 보건복지상담센터 129, 정신건강위기상담전화 1577-0199, 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)
+* 보건복지상담센터 129, 정신건강위기상담전화 1577-0199, 자살예방상담전화 [109](tel:+82109)
 * 지역 정신건강복지센터, 전문 중독치료기관, 정신건강의학과, 자조모임·상호지원 프로그램
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-> **처방 시 최신 품목정보/급여기준 조회.** 아래 장기 약제는 급성 금단 치료제와 구분하며 심리사회적 치료·추적관찰과 병행함.
+> 아래 장기 약제는 급성 금단 치료제와 구분하며 심리사회적 치료·추적관찰과 병행함.
 
 ### <mark style="color:orange;">장기 약물치료 선택</mark>
 
-<table><thead><tr><th width="130">약제</th><th width="230">적합한 상황</th><th>주요 제한</th></tr></thead><tbody><tr><td>Naltrexone</td><td>과음·갈망 감소 목표, 아직 음주 중인 환자에서도 고려 가능</td><td>오피오이드 사용·의존, 급성 간염·간부전·중증 간장애. 환인 제품은 신장애·고령자·임신·수유·소아 관련 투여 금지사항도 적용</td></tr><tr><td>Acamprosate</td><td>해독 후 금주 유지, 오피오이드 진통 필요 가능성; 중증 간부전이 없는 간질환에서 고려</td><td>1일 3회 복용, 신기능 저하. 국내 대표 제품은 Child-Pugh C·고령자·임신·수유·소아 금기</td></tr><tr><td>Disulfiram</td><td>완전 금주 목표가 명확하고 감독 복용이 가능한 선별 환자</td><td>심각한 심장·간질환, 정신병, 알코올 노출 위험. <mark style="color:red;">국내 적용 전 현재 허가·공급 여부를 확인해야 하며 해외 용법을 국내 가용 처방으로 간주하지 않음</mark></td></tr><tr><td>Topiramate</td><td>1차 약제가 부적합하거나 효과 불충분한 경우</td><td>국내 AUD 허가 외 사용, 인지·감각·대사 부작용, 임신</td></tr><tr><td>Gabapentin</td><td>1차 약제가 부적합하고 불면·불안·경증 금단 후 증상이 동반된 경우</td><td>국내 AUD 허가 외 사용, 신기능 감량, 진정·오남용 위험</td></tr></tbody></table>
+<table><thead><tr><th width="130">약제</th><th width="230">적합한 상황</th><th>주요 제한</th></tr></thead><tbody><tr><td>Naltrexone</td><td>과음·갈망 감소 목표, 아직 음주 중인 환자에서도 고려 가능</td><td>오피오이드 사용·의존, 급성 간염·간부전·중증 간장애. 환인 제품은 신장애·고령자·임신·수유·소아 관련 투여 금지사항도 적용</td></tr><tr><td>Acamprosate</td><td>해독 후 금주 유지, 오피오이드 진통 필요 가능성; 중증 간부전이 없는 간질환에서 고려</td><td>1일 3회 복용, 신기능 저하. 국내 대표 제품은 Child-Pugh C·고령자·임신·수유·소아 금기</td></tr><tr><td>Disulfiram</td><td>완전 금주 목표가 명확하고 감독 복용이 가능한 선별 환자</td><td>심각한 심장·간질환, 정신병, 알코올 노출 위험. <mark style="color:red;">국내 적용 전 현재 허가·공급 여부를 확인해야 하며 해외 용법을 국내 가용 처방으로 간주하지 않음</mark></td></tr><tr><td>Topiramate</td><td>1차 약제가 부적합하거나 효과 불충분한 경우</td><td>AUD 허가 외 사용, 인지·감각·대사 부작용, 임신</td></tr><tr><td>Gabapentin</td><td>1차 약제가 부적합하고 불면·불안·경증 금단 후 증상이 동반된 경우</td><td>AUD 허가 외 사용, 신기능 감량, 진정·오남용 위험</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 기간과 반응 평가</mark>
 
@@ -403,7 +408,7 @@ flowchart TD
 * 기저 AST/ALT·bilirubin을 확인하고 활동성 간질환에서는 신중히 판단함. 급성 간염·간부전·중증 간장애는 단순한 감량 또는 추적관찰로 대신할 수 있는 대상이 아님.
 * 무증상 aminotransferase 상승만으로 모든 환자를 일률적으로 배제하지 않으나 원인·정도·간기능을 함께 평가함. 해외 연구의 간효소 배제 역치를 국내 허가 금기나 보편적 처방 허용치로 사용하지 않음. 증상이 없고 안정적이면 간기능을 약 3개월 간격으로 추적하는 방안을 고려하며, 기저 이상·음주 악화·간질환 증상이 있으면 더 일찍 확인함. <mark style="color:$info;">[PCSS 2022]</mark>
 * 황달·진한 소변·지속적인 우상복부 통증 등 급성 간염 증상이나 현저한 추가 상승이 발생하면 중단하고 즉시 평가함.
-* 용법 예시 : 25 ㎎ qd ×2\~3일 후 50 ㎎ qd \[<mark style="color:blue;">환인날트렉손정 등</mark>]. 표준 유지 용량은 50 ㎎ qd이며, 25 ㎎ 도입은 오심을 줄이기 위한 임상적 적정 예시임.
+* 용법 예시 : 25 ㎎ qd ×2\~3일 후 50 ㎎ qd <mark style="color:blue;">\[날트렉손]</mark>. 표준 유지 용량은 50 ㎎ qd이며, 25 ㎎ 도입은 오심을 줄이기 위한 임상적 적정 예시임.
 * 380 ㎎ q4wk 근육주사 제형은 해외 허가 용법임. <mark style="color:red;">국내 허가·유통 여부를 확인하기 전 처방례로 제시하지 않음.</mark>
 * 오피오이드 차단으로 진통 효과가 감소하고, 중단 후 오피오이드 과량투여에 취약할 수 있음을 교육함.
 
@@ -411,9 +416,9 @@ flowchart TD
 
 * 정확한 작용기전은 완전히 밝혀지지 않았으며 glutamate·GABA계 균형 조절과 관련된 것으로 추정됨. **해독 후 금주 유지**를 위한 약제로 국내 허가사항상 알코올 해독기간 중에는 사용하지 않음.
 * 부작용 : 설사, 복통, 불안, 피로. 우울·자살사고를 모니터링함.
-* **국내 대표 제품 허가 금기** : CrCl ≤30 ㎖/min, 중증 간부전(Child-Pugh C), 임부·임신 가능성이 있는 여성·수유부, 18세 이하·65세 이상. 간에서 대사되지 않는다는 이유만으로 중증 간부전이나 고령자에게 일률적으로 선택하지 않음(<mark style="color:$info;">[국내 허가사항: 의약품안전나라](https://nedrug.mfds.go.kr/searchDrug)</mark>).
+* **허가 금기** : CrCl ≤30 ㎖/min, 중증 간부전(Child-Pugh C), 임부·임신 가능성이 있는 여성·수유부, 18세 이하·65세 이상. 간에서 대사되지 않는다는 이유만으로 중증 간부전이나 고령자에게 일률적으로 선택하지 않음(<mark style="color:$info;">[국내 허가사항: 의약품안전나라](https://nedrug.mfds.go.kr/searchDrug)</mark>).
 * CrCl ＞30\~50 ㎖/min에서 333 ㎎ tid 감량은 **미국 라벨 기준**이며 국내 허가 용법에 명시된 신장애 감량법과 동일한 것으로 설명하지 않음. 국내 허가에 명시되지 않은 감량법을 일반 처방으로 제시하지 않으며, 적용을 검토할 때는 전문의와 상의해 허가 외 사용 여부를 판단함.
-* 국내 허가 용법 \[<mark style="color:blue;">환인아캄프로세이트정 333 ㎎, 명인아캄프로세이트정 333 ㎎ 등</mark>]
+* 허가 용법 <mark style="color:blue;">\[아캄프로세이트]</mark> 333 ㎎ 정
   * 체중 ≥60 ㎏ : 666 ㎎ tid
   * 체중 ＜60 ㎏ : 아침 666 ㎎, 점심·저녁 각 333 ㎎
 * 정제를 씹거나 부수지 않고 복용함.
@@ -428,23 +433,23 @@ flowchart TD
 * 기저 및 치료 중 간기능을 확인함. 미국 라벨은 시작 후 10\~14일의 간기능 재검을 제안함. 간염은 기존 간기능 이상이 없어도 발생할 수 있으므로 황달·진한 소변·심한 피로가 생기면 즉시 중단·평가함.
 * 용법 예시 : 250 ㎎ qd(범위 125\~500 ㎎/day). <mark style="color:red;">위 용량은 해외 용법 예시이며 국내 처방 전 현재 품목허가·실제 공급 여부를 확인함. 과거 제품명만으로 현재 사용 가능하다고 판단하지 않음.</mark>
 
-### <mark style="color:orange;">국내 허가 외 약제</mark>
+### <mark style="color:orange;">허가 외 약제</mark>
 
 #### <mark style="color:$primary;">Topiramate</mark>
 
-* 일부 지침에서 중등도\~중증 AUD의 유효한 선택지로 권고하지만 국내 AUD 적응증은 허가 외임.
+* 일부 지침에서 중등도\~중증 AUD의 유효한 선택지로 권고하지만 AUD 적응증은 허가 외임.
 * 25 ㎎/day로 시작해 수 주에 걸쳐 서서히 증량하며 보통 100\~300 ㎎/day를 2회로 나누어 투여하는 범위에서 개별화함. 신기능에 따른 감량과 임신 가능성·피임을 확인함.
 * 감각이상, 미각 이상, 인지저하, 체중감소, 대사산증, 신결석, 급성 폐쇄각녹내장 및 임신 중 태아 위험에 주의함.
 
 #### <mark style="color:$primary;">Gabapentin</mark>
 
-* 900\~1,800 ㎎/day를 나누어 투여한 연구가 있으나 시작 용량을 뜻하지 않으며, 저용량부터 서서히 증량함. 국내 AUD 적응증은 허가 외임.
+* 900\~1,800 ㎎/day를 나누어 투여한 연구가 있으나 시작 용량을 뜻하지 않으며, 저용량부터 서서히 증량함. AUD 적응증은 허가 외임.
 * 신기능에 따라 감량하고 어지럼·진정·보행장애, 오피오이드·다른 중추신경억제제 병용 시 호흡억제 및 오남용 위험을 확인함.
 
 #### <mark style="color:$primary;">Pregabalin</mark>
 
 * 일부 소규모 연구에서 갈망·불안·금주 유지 효과가 보고되었으나 근거가 제한적이며 주요 AUD 지침의 표준 1차 약제가 아님.
-* 국내 AUD 적응증은 허가 외이며 어지럼·진정, 신기능 감량, 의존·오남용 위험을 고려해 일반적인 처방례에는 포함하지 않음.
+* AUD 적응증은 허가 외이며 어지럼·진정, 신기능 감량, 의존·오남용 위험을 고려해 일반적인 처방례에는 포함하지 않음.
 
 ### <mark style="color:orange;">최신 연구 동향 : GLP-1 수용체 작용제</mark>
 
@@ -456,7 +461,7 @@ flowchart TD
 * 비만이 동반된 치료추구 AUD 환자 108명을 대상으로 한 단일기관 2상 무작위 대조군 연구(Lancet, 2026)에서 26주간 주 1회 semaglutide 2.4 ㎎을 표준 인지행동치료(CBT)에 추가했을 때 위약+CBT군보다 폭음일이 더 크게 감소했음. 단일기관 연구이며 비만 동반 환자만 포함되어 비만이 없는 AUD 환자에게 일반화하기는 이르다.
 * 치료추구 중등증\~중증 AUD 성인 50명의 8주 경구 semaglutide 2상 무작위 대조군 연구(Am J Psychiatry, 2026)에서는 **1차 평가변수인 실험실 유발 갈망과 주요 2차 변수인 달력일당 음주량은 유의하게 개선되지 않았음**. 반면 마지막 4주의 폭음일, 음주일당 음주량과 일상 갈망은 감소했음. 소규모·단기간의 혼합된 결과이므로 확증적 효과로 해석하지 않음. <mark style="color:$info;">[Am J Psychiatry 2026](https://doi.org/10.1176/appi.ajp.20260003)</mark>
 * 미국 재향군인부(VA)에서 600명 이상을 대상으로 한 3상 임상시험(CRAVE, NCT07218354)이 2026년 진행 중이며, 결과는 아직 발표되지 않았다.
-* Semaglutide의 AUD 적응증은 국내 미허가이며 FDA도 승인하지 않았음.
+* Semaglutide의 AUD 적응증은 미허가이며 FDA도 승인하지 않았음.
 * <mark style="color:red;">AUD 표준치료(심리사회 치료 ± naltrexone·acamprosate 등)를 대체할 근거는 아직 부족하다.</mark> 당뇨병·비만 적응증으로 GLP-1 제제를 사용하는 AUD 동반 환자에서 음주 양상의 변화를 관찰할 수 있으나, AUD 치료 효과를 전제로 처방하거나 표준치료 대신 사용하지 않음. 환자가 AUD 치료만을 목적으로 임의로 구입·사용하지 않도록 안내함.
 {% endhint %}
 
@@ -464,7 +469,7 @@ flowchart TD
 
 * AUD 치료와 금연치료를 병행할 수 있으며, 장기 금주가 이루어질 때까지 금연치료를 일률적으로 미루지 않음.
 * **급성 알코올 금단 중이거나 알코올·benzodiazepine을 갑자기 중단한 환자에게 bupropion을 투여하지 않음.** 발작 병력도 금기임. 급성기 안정화와 금단 위험을 평가한 뒤 금연상담과 적절한 약제를 선택함.
-* Varenicline은 AUD 치료제가 아니며 음주 반응·이상행동·발작 위험을 확인함. NRT는 국내 제품별 심혈관·연령·임신 관련 금기를 적용함 (☞ 190 흡연).
+* Varenicline은 AUD 치료제가 아니며 음주 반응·이상행동·발작 위험을 확인함. NRT는 제품별 심혈관·연령·임신 관련 금기를 적용함 (☞ [흡연](190_-smoking.md)).
 
 <mark style="color:$info;">[VA/DoD 담배사용 치료지침 2026](https://www.healthquality.va.gov/HEALTHQUALITY/guidelines/CD/tobacco/Tobacco-Cessation-CPG_2026-Guideline_final_20260109.pdf)</mark>
 
@@ -476,21 +481,15 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
-F10.0 알코올사용에 의한 급성 중독
-
-F10.1 알코올의 유해한 사용
-
-F10.2 알코올의 의존증후군
-
-F10.3 알코올의 금단상태
-
-F10.4 섬망을 동반한 알코올의 금단상태
-
-F10.5 알코올사용에 의한 정신병적 장애
-
-E51.2 베르니케뇌병증
+* F10.0 알코올사용에 의한 급성 중독 Mental and behavioural disorders due to use of alcohol, acute intoxication
+* F10.1 알코올의 유해한 사용 Mental and behavioural disorders due to use of alcohol, harmful use
+* F10.2 알코올의 의존증후군 Mental and behavioural disorders due to use of alcohol, dependence syndrome
+* F10.3 알코올의 금단상태 Mental and behavioural disorders due to use of alcohol, withdrawal state
+* F10.4 섬망을 동반한 알코올의 금단상태 Mental and behavioural disorders due to use of alcohol, withdrawal state with delirium
+* F10.5 알코올사용에 의한 정신병적 장애 Mental and behavioural disorders due to use of alcohol, psychotic disorder
+* E51.2 베르니케뇌병증 Wernicke encephalopathy
 
 > DSM-5-TR AUD 중증도와 F10 세부 코드는 일대일로 대응하지 않으므로 실제 임상상태와 진단에 따라 코딩함. 알코올성 환각증과 금단 섬망을 구분하며, F10.5·E51.2는 해당 상태가 확인된 경우에 적용함.
 
@@ -498,7 +497,7 @@ E51.2 베르니케뇌병증
 
 ## <mark style="color:purple;">처방례</mark>
 
-> 아래는 국내 허가 금기에 해당하지 않는 성인의 예시 처방임. 임신, 고령, 간·신기능, 호흡질환, 동시 복용약물과 다른 물질사용을 확인하고 국내 허가사항·급여·제품 유통 여부 및 기관 프로토콜에 따라 조정함.
+> 아래는 허가 금기에 해당하지 않는 성인의 예시 처방임. 임신, 고령, 간·신기능, 호흡질환, 동시 복용약물과 다른 물질사용을 확인하여 조정함.
 
 > **처방례 1. 약물치료가 필요하지 않은 경증 금단 - 영양 보충 예시**
 >
@@ -518,7 +517,7 @@ E51.2 베르니케뇌병증
 > (입원) 비경구 thiamine, 수액·전해질 및 동반질환 치료
 > ```
 >
-> _✽ atenolol·clonidine은 자율신경 항진 조절 목적의 보조제이며 단독 또는 일률적으로 처방하지 않음._
+> _✽ β차단제·α2 작용제는 자율신경 항진 조절 목적의 보조제이며 단독 또는 일률적으로 처방하지 않음._
 
 > **처방례 3. 금주 유지 - Acamprosate**
 >
@@ -526,7 +525,7 @@ E51.2 베르니케뇌병증
 > Acamprosate 333 ㎎/T  2T  tid (체중 ≥60 ㎏)
 > ```
 >
-> _✽ 체중 ＜60 ㎏은 아침 2T, 점심·저녁 각 1T. 투여 전 신기능을 확인함. CrCl ＞30\~50 ㎖/min의 미국 감량법은 위 본문과 같이 국내 허가와 구분하며 이 처방례에 일률적으로 적용하지 않음. CrCl ≤30 ㎖/min과 Child-Pugh C, 18세 이하·65세 이상, 임신·수유 등 국내 제품 금기를 적용함. 심리사회적 치료·추적관찰과 병행함. \[환인아캄프로세이트정, 명인아캄프로세이트정 등]_
+> _✽ 체중 ＜60 ㎏은 아침 2T, 점심·저녁 각 1T. 투여 전 신기능을 확인함. CrCl ＞30\~50 ㎖/min의 미국 감량법은 위 본문과 같이 국내 허가와 구분하며 이 처방례에 일률적으로 적용하지 않음. CrCl ≤30 ㎖/min과 Child-Pugh C, 18세 이하·65세 이상, 임신·수유 등 허가 금기를 적용함. 심리사회적 치료·추적관찰과 병행함._
 
 > **처방례 4. 과음·갈망 감소 - Naltrexone**
 >
@@ -535,7 +534,7 @@ E51.2 베르니케뇌병증
 > → Naltrexone 50 ㎎/T  1T  qd
 > ```
 >
-> _✽ 최근 오피오이드·tramadol 사용을 확인하고 필요 시 해당 성분을 검출하는 소변검사를 시행함. 간·신기능과 연령·임신·수유를 확인하며, 신장애·고령자·임부·수유부 등 국내 품목 투여 금지 대상에는 적용하지 않음. 25 ㎎ 도입은 초기 오심을 줄이려는 임상적 적정 예시이며 국내 AUD 허가 유지 용량은 50 ㎎ qd임. 7\~10일은 금주 기간이 아니라 단기 작용 오피오이드 중단 기간임. 구역 등 초기 부작용과 효과를 1\~4주 내 재평가함. \[환인날트렉손정 등]_
+> _✽ 최근 오피오이드·tramadol 사용을 확인하고 필요시 해당 성분을 검출하는 소변검사를 시행함. 간·신기능과 연령·임신·수유를 확인하며, 신장애·고령자·임부·수유부 등 투여 금지 대상에는 적용하지 않음. 25 ㎎ 도입은 초기 오심을 줄이려는 임상적 적정 예시이며 AUD 허가 유지 용량은 50 ㎎ qd임. 투여 전 단기 작용 오피오이드를 7\~10일 중단해야 하며, 금주 기간은 필요하지 않음. 구역 등 초기 부작용과 효과를 1\~4주 내 재평가함._
 
 ***
 
@@ -546,12 +545,16 @@ E51.2 베르니케뇌병증
 > * 처방된 용량과 감량 일정을 임의로 늘리거나 줄이지 않도록 설명함.
 > * 과도한 졸림, 보행 불안정, 낙상 위험이 있으면 즉시 재평가함.
 > * 음주 상태에서 benzodiazepine을 병용하면 호흡억제 위험이 커짐을 설명함.
+> * 복용 중에는 운전·기계 조작을 하지 않도록 하고, 남은 약을 다른 사람에게 주거나 보관해 두지 않도록 함.
+> * Thiamine은 금단 증상을 멈추는 약이 아니라 Wernicke 뇌병증 등 신경 손상을 예방하는 약이므로 증상이 좋아져도 처방 기간 동안 복용하도록 설명함.
 
 > **Naltrexone**
 >
 > * 오피오이드 성분이 포함된 진통제·진해제·지사제 및 tramadol을 임의로 함께 사용하지 않도록 하고, 다른 병원 진료 시 복용 사실을 알리게 함.
 > * 초기 구역이 심하면 식후 복용·일시 감량·휴약 여부를 의료진과 상의하도록 함. 휴약 후 재시작할 때에도 그동안의 오피오이드 사용 여부를 다시 확인함.
 > * 오피오이드 진통이 필요한 수술·시술이 예정되어 있으면 사전에 복용 중단 계획을 조정함.
+> * 복용을 중단한 뒤에는 오피오이드에 대한 내성이 낮아져 이전 용량으로도 과량투여 위험이 있음을 설명함.
+> * 황달, 진한 소변, 지속적인 오른쪽 윗배 통증이 생기면 복용을 중단하고 즉시 진료받도록 함.
 
 > **Acamprosate**
 >
@@ -576,24 +579,24 @@ E51.2 베르니케뇌병증
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### &lt;임상 근거&gt;
+### <mark style="color:orange;">임상 근거</mark>
 
 * American Society of Addiction Medicine. [The ASAM Clinical Practice Guideline on Alcohol Withdrawal Management](https://www.asam.org/quality-care/clinical-guidelines/alcohol-withdrawal-management). 2020.
 * UK Department of Health and Social Care. [Clinical guidelines for alcohol treatment: Alcohol care in acute hospitals](https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/16-alcohol-care-in-acute-hospitals). 2025.
 * UK Department of Health and Social Care. [Clinical guidelines for alcohol treatment: Pharmacological interventions](https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/10-pharmacological-interventions). 2025.
 * Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Substance Use Disorders. 2021.
-* Caine D, Halliday GM, Kril JJ, Harper CG. Operational criteria for the classification of chronic alcoholics: identification of Wernicke's encephalopathy. J Neurol Neurosurg Psychiatry. 1997;62(1):51-60.
+* Caine D, et al. Operational criteria for the classification of chronic alcoholics: identification of Wernicke's encephalopathy. J Neurol Neurosurg Psychiatry. 1997;62(1):51-60.
 * National Institute on Alcohol Abuse and Alcoholism. [Screen and Assess: Use Quick, Effective Methods](https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods). Core Resource on Alcohol. 현행 웹 자료.
 * Providers Clinical Support System. Monitoring of Liver Function Tests in Patients Receiving Naltrexone or Extended-Release Naltrexone. Reviewed and re-released May 2022.
 * 국립정신건강센터. 2021년 정신건강실태조사(성인).
-* 보건복지부. [자살예방상담전화 109 안내](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
+* 보건복지부. [자살예방상담전화 109 안내](https://www.129.go.kr/109).
 * Hendershot CS, et al. Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial. JAMA Psychiatry. 2025;82(4):395-405.
 * Klausen MK, et al. [Once-weekly semaglutide versus placebo in patients with alcohol use disorder and comorbid obesity: a randomised, double-blind, placebo-controlled trial](https://doi.org/10.1016/S0140-6736(26)00305-3). Lancet. 2026;407(10540):1687-1698.
-* 조근호, 채숙희, 박애란, 이해국, 신임희, 민성호. 위험 음주자의 선별을 위한 한국어판 Alcohol Use Disorders Identification Test(AUDIT-K)의 최적 절단값. 중독정신의학. 2009;13(1):34-40.
+* 조근호, 외. 위험 음주자의 선별을 위한 한국어판 Alcohol Use Disorders Identification Test(AUDIT-K)의 최적 절단값. 중독정신의학. 2009;13(1):34-40.
 * 국립정신건강센터. 정신건강검진도구 및 사용에 대한 표준지침. 2019. AUDIT-K 항목.
 * Bradley KA, et al. AUDIT-C as a brief screen for alcohol misuse in primary care. Alcohol Clin Exp Res. 2007;31(7):1208-1217. doi:10.1111/j.1530-0277.2007.00403.x.
 * Maldonado JR, et al. Prospective Validation Study of the Prediction of Alcohol Withdrawal Severity Scale (PAWSS) in Medically Ill Inpatients. Alcohol Alcohol. 2015;50(5):509-518. doi:10.1093/alcalc/agv043.
-* Yoo JE, Shin DW, Han K, et al. Association of the Frequency and Quantity of Alcohol Consumption With Gastrointestinal Cancer. JAMA Netw Open. 2021;4(8):e2120382.
+* Yoo JE, et al. Association of the Frequency and Quantity of Alcohol Consumption With Gastrointestinal Cancer. JAMA Netw Open. 2021;4(8):e2120382.
 * International Agency for Research on Cancer (IARC). Monographs on the evaluation of carcinogenic risks to humans: Vol. 44: Alcohol drinking. Lyon, France: IARC; 1988.
 * 보건복지부·국립암센터. 나의 건강을 지키기 위한 음주 예방 가이드라인. 2025.
 * 질병관리청. [2025년 국민건강영양조사 결과 발표](https://www.kdca.go.kr/bbs/kdca/42/312791/artclView.do). 2026.9.30.
@@ -601,17 +604,17 @@ E51.2 베르니케뇌병증
 * U.S. Department of Veterans Affairs. [CRAVE: GLP-1 treatment trial for alcohol use disorder](https://news.va.gov/press-room/va-launches-trial-of-glp-1-treatment-for-alcohol-use-disorder/). 2026. NCT07218354.
 * Department of Veterans Affairs/Department of Defense. [Clinical Practice Guideline for Tobacco Use Treatment](https://www.healthquality.va.gov/HEALTHQUALITY/guidelines/CD/tobacco/Tobacco-Cessation-CPG_2026-Guideline_final_20260109.pdf). 2026.
 
-### &lt;허가·급여 확인 자료&gt;
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. [의약품안전나라: 의약품 제품정보](https://nedrug.mfds.go.kr/searchDrug). 환인·명인아캄프로세이트정(품목기준코드 200501241/201900645), 환인날트렉손정25/50밀리그램(201402427/201205262)의 효능·용법·투여 금지사항 확인. 2026.11.2. 열람.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * U.S. National Library of Medicine. DailyMed: Naltrexone Hydrochloride Tablets; Acamprosate Calcium Delayed-Release Tablets; Disulfiram Tablets. 미국 라벨과 국내 허가 차이 확인용.
-* 건강보험심사평가원. [2021년 제5차 의료행위전문평가위원회: 탄수화물 결핍 트랜스페린](https://www.hira.or.kr/bbsDummy.do?brdBltNo=46143&brdScnBltNo=4&pgmid=HIRAA030051000009). 2021.8.1. 도입 당시 선별급여 안내이며 처방·검사 시 최신 기준 조회.
-* 저장된 KCD9_251216(6).xlsx. 상병분류기호(전체)·상병분류기호(완전코드) 시트 대조(2026.11.2.).
+* 건강보험심사평가원. [2021년 제5차 의료행위전문평가위원회: 탄수화물 결핍 트랜스페린](https://www.hira.or.kr/bbsDummy.do?brdBltNo=46143&brdScnBltNo=4&pgmid=HIRAA030051000009). 2021.8.1. 도입 당시 선별급여 안내.
+* 질병분류정보센터. [한국표준질병·사인분류(KCD-9)](https://www.koicd.kr/kcd/kcds.do). 2026-01-01 시행.
 * 식품의약품안전처. 「식품등의 표시기준」의 무알코올·비알코올 표시 조항; [무알코올 등 표시제품 검사 강화](https://www.mfds.go.kr/brd/m_1105/view.do?seq=33714). 2024. 최신 개정 및 시행일은 현행 규정 확인.
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **알코올 사용 장애는 의지만으로 해결하기 어려울 수 있는, 치료 가능한 질환입니다.**
@@ -627,7 +630,7 @@ E51.2 베르니케뇌병증
 #### <mark style="color:$primary;">이럴 때는 즉시 119 또는 응급실을 이용하세요</mark>
 
 * **경련, 심한 혼란, 환각, 심한 초조, 의식이 흐려짐, 숨쉬기 힘듦**이 있을 때
-* 스스로를 해칠 위험이 있거나 즉각적인 안전 확보가 어려울 때는 혼자 있지 말고 119 또는 응급실을 이용하십시오. 자해·자살 생각이 들 때는 **자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**로 언제든 도움을 요청할 수 있습니다.
+* 스스로를 해칠 위험이 있거나 즉각적인 안전 확보가 어려울 때는 혼자 있지 말고 119 또는 응급실을 이용하십시오. 자해·자살 생각이 들 때는 **자살예방상담전화 [109](tel:+82109)**로 언제든 도움을 요청할 수 있습니다.
 
 #### <mark style="color:$primary;">금주 전에 당일 의료진과 상의해야 하는 경우</mark>
 
@@ -638,11 +641,11 @@ E51.2 베르니케뇌병증
 
 * Naltrexone을 복용할 때는 마약성 진통제나 오피오이드 성분이 든 기침약·지사제를 임의로 함께 먹지 말고, 다른 병원에서 진료받을 때 복용 사실을 알리십시오.
 * Acamprosate는 급성 증상을 멈추는 약이 아니라 금주 상태를 유지하도록 돕는 약이므로 정해진 대로 꾸준히 드십시오.
-* Disulfiram은 국내에서 현재 처방 가능한 제품인지 먼저 확인해야 합니다. 처방받아 복용하는 경우에는 소량의 술은 물론 구강청결제·요리에 쓰인 술·일부 시럽의 알코올에도 반응이 생길 수 있습니다.
+* Disulfiram을 복용하는 경우에는 소량의 술은 물론 구강청결제·요리에 쓰인 술·일부 시럽의 알코올에도 반응이 생길 수 있습니다.
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **음주량을 표준잔으로 기록하십시오.** 이 안내서에서 일반 음주량 기록에 사용하는 1표준잔은 순수 알코올 14 g입니다. 언제, 왜 마셨는지 함께 적으면 유발 상황을 알아차리는 데 도움이 됩니다.
+* **음주량을 표준잔으로 기록하십시오.** 이 안내서에서 일반 음주량 기록에 사용하는 1표준잔은 순수 알코올 14 g으로, 대략 맥주(5%) 1캔 355 ㎖, 와인(12%) 1잔 140 ㎖, 소주(16\~20%) 약 2잔에 해당합니다. 언제, 왜 마셨는지 함께 적으면 유발 상황을 알아차리는 데 도움이 됩니다.
 * **혼자 마시기, 술 게임, 여러 술을 빠르게 섞어 마시기를 피하십시오.**
 * **운전·기계 조작·수영 전에는 절대 마시지 마십시오.**
 * 치료 중 다시 술을 마셨더라도 숨기거나 스스로 치료를 그만두지 마십시오. 음주 재개는 치료 계획을 조정해야 한다는 신호일 뿐 실패가 아닙니다.

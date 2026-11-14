@@ -51,32 +51,31 @@
 * 중증 합병증은 어린 영아와 EV-A71 감염에서 상대적으로 위험이 높음
 * 분만 직전 또는 직후 산모가 감염되면 드물게 신생아에게 전파되어 패혈증 유사 질환, 심근염, 뇌수막염 등 중증 신생아 감염을 일으킬 수 있음. 분만이 임박한 임신부에서 감염이 의심되면 산과·신생아 진료진과 상의
 
-### 🚩 Red Flags
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 생후 3개월 미만 영아에서 체온 ≥38.0℃, 또는 신생아에서 저체온·새로운 수유 저하·심한 처짐·무호흡 - 발열이나 전형적 발진이 없어도 지체 없이 소아 응급 평가. 세균성 패혈증·신생아 HSV 감염 등을 함께 감별. <mark style="color:$info;">[RCH Sepsis]</mark>  `영아 발열·신생아 중증 감염`
+* 생후 3개월 미만 영아의 체온 ≥38.0℃, 또는 신생아의 저체온·새로운 수유 저하·심한 처짐·무호흡(발열이나 전형적 발진이 없어도 해당) <mark style="color:$info;">[RCH Sepsis]</mark>  `세균성 패혈증` `신생아 HSV 감염`
 * 의식저하, 경련, 반복되는 근간대성 움찔거림(myoclonic jerks)·과도한 놀람 반응, 보행실조, 새로 발생한 사지 근력저하·마비  `신경계 합병증`
-* 호흡곤란, 현저한 빈호흡, 청색증, 거품 섞인 객담 등 신경원성 폐부종·폐출혈 의심  `심폐 합병증`
-* 얼룩덜룩한 피부, 차가운 사지, 모세혈관 재충전 지연, 저혈압 또는 쇼크 의심  `쇼크`
-* 임상상에 비해 현저한 안정 시 빈맥·빈호흡, 고혈압·과도한 발한을 동반한 자율신경계 이상 또는 급속한 전신상태 악화  `급속 악화`
-* 경부강직 또는 심한 두통, 특히 반복 구토·의식 변화 동반 - 수막염·뇌염 의심  `수막염·뇌염`
-* 심한 탈수 : 거의 소변을 보지 않으면서 말초순환 저하, 심한 처짐 또는 의식 변화 동반  `중증 탈수`
+* 호흡곤란, 현저한 빈호흡, 청색증, 거품 섞인 객담  `신경원성 폐부종` `폐출혈`
+* 얼룩덜룩한 피부, 차가운 사지, 모세혈관 재충전 지연, 저혈압  `쇼크`
+* 임상상에 비해 현저한 안정 시 빈맥·빈호흡, 고혈압·과도한 발한을 동반한 자율신경계 이상 또는 급속한 전신상태 악화  `심폐 합병증`
+* 경부강직 또는 심한 두통, 특히 반복 구토·의식 변화 동반  `수막염` `뇌염`
+* 거의 소변을 보지 않으면서 말초순환 저하, 심한 처짐 또는 의식 변화 동반  `중증 탈수`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-<mark style="color:$info;">아래 항목은 당일 평가가 원칙이며, 신경계·심폐 증상이나 의식 변화가 동반되면 즉각 조치함.</mark>
-
-* 반복 구토, 평소와 다른 보챔·활동 저하. 잘 깨지 않거나 의식이 떨어지면 즉각 응급 평가  `전신상태 변화`
+* 반복 구토, 평소와 다른 보챔·활동 저하  `전신상태 변화`
 * 수분을 거의 섭취하지 못하거나 소변 감소, 눈물 감소, 입안 건조 등 탈수 소견  `탈수`
-* ≥39℃ 고열, 48시간 이상 지속되거나 호전 후 다시 발생한 발열 - 당일 평가 <mark style="color:$info;">[WHO WPRO 2011]</mark>  `지속·재발 발열`
+* ≥39℃ 고열, 48시간 이상 지속되거나 호전 후 다시 발생한 발열 <mark style="color:$info;">[WHO WPRO 2011]</mark>  `지속·재발 발열`
 * 어린 영아, 면역저하자 또는 중대한 기저질환자에서 전신증상 동반  `고위험군`
+* 수포 주위 발적이 빠르게 번지거나 심한 통증·발열 동반  `연조직염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 7\~10일이 지나도 호전되지 않거나 병변이 계속 확산됨  `회복 지연`
-* 수포 주위의 국소 발적·열감·농성 분비물 등 세균성 2차 감염 의심 - 조기 재평가. 빠르게 번지는 발적, 심한 통증 또는 발열 동반 시 당일 평가  `2차 감염`
-* 회복 수주 후 손발톱이 들뜨거나 빠짐 - 대개 일시적이나 통증·화농·손발톱바탕질 이상이 있으면 재평가  `손발톱 변화`
+* 수포 주위의 국소 발적·열감·농성 분비물  `세균성 2차 감염`
+* 회복 수주 후 손발톱이 들뜨거나 빠지면서 통증·화농 동반  `onychomadesis` `손발톱 주위염`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -98,12 +97,18 @@
 * 일상진료에서 별도의 항원검사는 권고되지 않으며, 바이러스 배양은 시간이 오래 걸려 임상 활용도가 낮음
 * 신경학적 합병증이 의심되면 입원 가능한 기관에서 CSF 검사와 영상검사 등을 임상상에 따라 시행
 
+### <mark style="color:orange;">신고</mark>
+
+* 수족구병은 제4급 법정감염병으로 표본감시 대상이며, 모든 의료기관이 개별 환자를 전수 신고하는 질환은 아님
+* 지정 수족구병 표본감시기관은 주 단위 환자·의사환자 발생자료를 정해진 기한에 신고
+* 합병증을 동반한 수족구병은 지정된 엔테로바이러스감염증 표본감시기관에서 진단일부터 7일 이내 관할 보건소로 신고 <mark style="color:$info;">[질병관리청 2026]</mark>
+
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 포진성 구협염(Herpangina) : 주로 연구개·편도기둥 등 구강 뒤쪽의 수포·궤양, 보통 손발 발진 없음. 병변 분포가 겹칠 수 있어 구강 위치만으로 구별하지 않음 (☞ [헤르판지나](199_-herpangina.md))
 * 헤르페스 잇몸입안염(Herpetic gingivostomatitis) : 잇몸염, 고열·뚜렷한 병색, 경부 림프절병증과 넓고 깊은 통증성 구강궤양. 일반적으로 손발 발진은 없음 (☞ [단순포진](../229_/181_-herpes-simplex.md))
 * 아프타구내염(Aphthous stomatitis) : 재발성 구강궤양으로 피부 발진이나 전신증상은 드묾 (☞ [구내염](../222_/054_-stomatitis.md#aphthous-ulcer))
-* 수두 : 몸통·얼굴을 포함한 전신에 여러 단계의 수포·농포·가피가 동시에 존재 (☞ [수두](../229_/179_-varicella-chickenpox.md))
+* 수두 : 몸통·얼굴을 포함한 전신에 여러 단계의 수포·농포·가피가 동시에 존재 (☞ [수두](../229_/179_-varicella.md))
 * 옴 : 심한 야간 소양증, 굴, 가족 내 동시 가려움이 감별점. 영유아에서는 손발바닥과 두피도 침범할 수 있음 (☞ [옴](../229_/184_-scabies.md))
 * 홍역 : 고열, 기침·콧물·결막염, Koplik 반점 후 얼굴에서 아래쪽으로 퍼지는 홍반성 반구진 발진. 수포성 병변은 아님 (☞ [홍역](195_-measles.md))
 * 풍진 : 얼굴에서 시작해 몸통과 사지로 빠르게 퍼지는 반구진 발진, 귀뒤·후두부 림프절병증
@@ -117,39 +122,38 @@
 flowchart TB
     subgraph Triage["1. 중증도 선별"]
         direction TB
-        Start(["수족구병 의심"]) ---> RF{"Red Flag가 있는가?"}
-        RF --->|즉각 조치 항목| ER(["즉시 응급실 이송"])
-        RF --->|당일 평가 항목| Same(["당일 평가·의뢰"])
-        RF --->|없음 또는 조기 평가·추적 항목| Assess["임상 양상 평가"]
+        Start["수족구병 의심"] ---> RF["Red Flags 해당?"]
+        RF -- "즉각 조치" ---> ER["즉시 응급실 이송"]
+        RF -- "당일 평가" ---> Same["당일 평가·의뢰"]
+        RF -- "없음 또는 조기 평가·추적" ---> Assess["임상 양상 평가"]
     end
 
     subgraph Diagnosis["2. 진단과 경과 관찰"]
         direction TB
-        Assess ---> Q1{"임상 양상이 수족구병에 합당한가?"}
-        Q1 --->|예| Dx["임상 진단 · 검사 불필요"]
-        Q1 --->|비전형 또는 불확실| Diff["감별진단 재평가"]
-        Diff ---> Test["필요 시 RT-PCR · 검체는 임상 상황에 따라 선택"]
-        Dx ---> Home["수분 섭취 · 해열진통제 PRN"]
-        Test ---> Plan["임상상에 따라 대증치료 또는 의뢰"]
-        Home ---> Worsen{"경과 중 응급·당일 평가 징후가 생기는가?"}
-        Plan ---> Worsen
-        Worsen --->|예| Urgent(["즉시 또는 당일 평가·의뢰"])
-        Worsen --->|아니오| FU{"7~10일 내 호전되는가?"}
-        FU --->|예| Done(["자연 회복"])
-        FU --->|아니오 또는 2차 감염| Recheck(["외래 재평가"])
+        Assess ---> Q1["임상 양상이 수족구병에 합당?"]
+        Q1 -- "예" ---> Dx["임상 진단·검사 불필요"]
+        Q1 -- "비전형 또는 불확실" ---> Diff["감별진단 재평가<br/>필요시 RT-PCR, 검체는 임상 상황에 따라 선택"]
+        Diff ---> Plan["임상상에 따라 대증치료 또는 의뢰"]
+        Dx ---> Home["수분 섭취·해열진통제 PRN"]
+        Home ---> FU["7~10일 내 호전?"]
+        FU -- "예" ---> Done["자연 회복"]
+        FU -- "아니오 또는 2차 감염" ---> Recheck["외래 재평가"]
     end
 
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class RF,Q1,FU question
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style Dx fill:#f96,stroke:#e65100,stroke-width:2px
     style ER fill:#ffcdd2,stroke:#c62828,stroke-width:2px
     style Same fill:#ffe0b2,stroke:#e65100,stroke-width:2px
     style Home fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style Recheck fill:#fff9c4,stroke:#ffe082,stroke-width:2px
 ```
 
 <p align="center"><strong>수족구병 진단·중증도 선별 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 질병관리청 2026년도 엔테로바이러스감염증·수족구병 관리지침; CDC Hand, Foot, and Mouth Disease; WHO WPRO 2011 (진료용으로 저자 재구성)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 질병관리청 2026년도 엔테로바이러스감염증·수족구병 관리지침; CDC Hand, Foot, and Mouth Disease; WHO WPRO 2011)</mark></em></p>
+
+> _경과 중 Red Flags의 즉각 조치·당일 평가 항목이 새로 생기면 즉시 또는 당일 평가·의뢰_
 
 ***
 
@@ -158,13 +162,13 @@ flowchart TB
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 특별한 항바이러스 치료는 없으며 수분 공급과 통증·발열 조절이 중심
-* Acyclovir는 엔테로바이러스에 효과가 없으므로 수족구병 치료에 사용하지 않음
+* acyclovir는 엔테로바이러스에 효과가 없으므로 수족구병 치료에 사용하지 않음
 * 세균성 2차 감염 등 별도 적응증이 없는 한 항생제는 사용하지 않음
 * 중등도 탈수에서는 활력징후·수분 상태를 신속히 평가하고, 의식과 순환이 안정적이면 통증 조절 후 경구수분보충액을 소량씩 자주 주며 재평가
 * 경구 재수화에 실패하거나 심한 탈수·순환부전이 있으면 입원 가능한 기관에서 비위관 또는 정맥 수액 치료를 평가. 쇼크·의식저하 시 즉각 응급 치료
 * 신경계 또는 심폐 합병증이 의심되면 즉시 입원 가능한 기관으로 의뢰. 폐부종·심기능저하 가능성이 있어 수액은 순환·호흡 상태를 반복 평가하며 투여하고 과도한 일괄 급속 주입을 피함 <mark style="color:$info;">[WHO WPRO 2011]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 차갑거나 미지근한 물, 우유, 요구르트, 경구수분보충액 등을 한 번에 많이 주기보다 소량씩 자주 제공
 * 뜨겁고 맵고 짜거나 산성인 음식·음료는 구강궤양을 자극할 수 있으므로 피함
@@ -181,12 +185,12 @@ flowchart TB
 * 장난감, 놀이기구, 문손잡이 및 자주 만지는 공용물품을 세척·소독하고 배설물이 묻은 옷은 철저히 세탁
 * 환자의 수포액·대변으로 오염된 표면은 먼저 세척한 뒤 기관 지침과 소독제 제품설명서에 따라 소독. 마스크·장갑을 착용하고 충분히 환기하며, 소독액은 표면에 직접 분무하기보다 천 등에 묻혀 닦음. 염소계 소독제는 다른 세제·산성 제품과 혼합하지 않음
 * 증상이 있는 동안 단체 물놀이와 수영장 이용을 피함
-* 국내에서 사용할 수 있는 예방백신은 없음. 중국 등 일부 국가에서는 EV-A71 불활화 백신이 승인되어 사용 중이나, 국내에는 도입되어 있지 않으며 CV-A6·CV-A16 등 다른 유전형에 대한 보호효과는 입증되지 않음 <mark style="color:$info;">[WHO; N Engl J Med 2014]</mark>
+* 사용할 수 있는 예방백신은 없음. 중국 등 일부 국가에서는 EV-A71 불활화 백신이 승인되어 사용 중이나 국내에는 도입되지 않았으며 CV-A6·CV-A16 등 다른 유전형에 대한 보호효과는 입증되지 않음 <mark style="color:$info;">[WHO; N Engl J Med 2014]</mark>
 
 ### <mark style="color:orange;">등원·등교 및 직장 복귀</mark>
 
 * 수족구병은 법적 강제격리 대상이 아니라 제4급 표본감시 감염병이지만, 전파 예방을 위해 증상기에는 등원·등교와 외출을 자제
-* 국내 질병관리청 관리지침의 복귀 기준은 발열이 없고 수포가 마른 후임. <mark style="color:$info;">[질병관리청 2026]</mark> 구강병변·섭취·전신상태의 회복도 확인하며, 2026년 유행기 안내에서는 물집이 완전히 나을 때까지 등원·등교를 자제하도록 권고함. <mark style="color:$info;">[질병관리청 2026.8.3]</mark> 시설 또는 지역 보건당국의 별도 기준이 있으면 이를 따름
+* 질병관리청 관리지침의 복귀 기준은 발열이 없고 수포가 마른 후임. <mark style="color:$info;">[질병관리청 2026]</mark> 구강병변·섭취·전신상태의 회복도 확인하며, 2026년 유행기 안내에서는 물집이 완전히 나을 때까지 등원·등교를 자제하도록 권고함. <mark style="color:$info;">[질병관리청 2026.8.3]</mark> 시설 또는 지역 보건당국의 별도 기준이 있으면 이를 따름
 * 성인도 증상이 있는 동안 출근·외출을 자제하고, 특히 보육·신생아 돌봄 종사자는 증상 회복 후 복귀 및 철저한 손 위생을 안내
 * 등원·등교 확인서에는 현재 발열 여부와 구강병변·수포의 호전 및 건조 상태를 기재함. 전국적으로 통일된 확인서 발급 기준은 아니므로 해당 시설이나 지역 보건당국의 요구사항을 확인
 * 증상 회복 후에도 분변으로 수주간 바이러스가 배출될 수 있음. 복귀 확인을 위한 대변 RT-PCR 음전 확인을 일률적으로 요구하지 않으며, 복귀 후에도 기저귀 교체·배변 후 손 위생을 철저히 하고 단체 물놀이는 보건당국·시설 안내에 따라 자제
@@ -198,15 +202,15 @@ flowchart TB
 * 해열제는 체온을 정상화하기 위해 정규 투여하기보다 발열로 불편해하거나 구강 통증이 있을 때 필요 시 사용
 * **제1원칙** : 경미한 섭취 저하에서 해열진통제가 필요하면 급성 신손상 위험을 피하기 위해 acetaminophen을 우선 고려하고, ibuprofen/dexibuprofen은 탈수가 없거나 교정된 이후에 고려. 중등도 이상 탈수 또는 경구 섭취 불가 시에는 해열제 선택보다 신속한 탈수 평가와 수분 보충이 우선
 * acetaminophen : 1회 10\~15 ㎎/㎏, q4\~6hr prn, 24시간 최대 5회·75 ㎎/㎏/d 및 제품별 상한 준수. 체중과 관계없이 4,000 ㎎/d를 넘지 않으며 간질환 등에서는 더 낮은 한도를 고려. 제품 용량표의 대상은 만 12세 이하 소아임. 아세트아미노펜 함유 감기약과 중복 투여하지 않음
-  * <mark style="color:blue;">\[세토펜 현탁액]</mark> 32 ㎎/㎖ : 1회 약 0.31\~0.47 ㎖/㎏. 생후 4개월 미만은 제품 용량표에 없으므로 진료 후 개별 결정
+  * <mark style="color:blue;">\[세토펜현탁액]</mark> 32 ㎎/㎖ : 1회 약 0.31\~0.47 ㎖/㎏. 생후 4개월 미만은 제품 용량표에 없으므로 진료 후 개별 결정
 * ibuprofen : 생후 6개월 이상에서 1회 5\~10 ㎎/㎏, q6\~8hr prn, 최대 40 ㎎/㎏/d
-  * <mark style="color:blue;">\[어린이부루펜 시럽]</mark> 20 ㎎/㎖ : 1회 0.25\~0.5 ㎖/㎏
-  * 위 체중 용량은 임상 권장량이며, 국내 어린이부루펜시럽의 현행 허가 용량표는 아래와 같음. 40 ㎎/㎏/d와 해당 연령의 허가 상한 중 낮은 한도를 적용함. <mark style="color:$info;">[식약처 의약품안전나라]</mark>
-  * 생후 6\~11개월은 국내 제품의 허가 용량표에 없으므로 일반적인 허가 용량으로 안내하지 않고 진료 후 허가 외 사용 여부를 개별 결정. 생후 6개월 미만에는 사용하지 않음
+  * <mark style="color:blue;">\[어린이부루펜시럽]</mark> 20 ㎎/㎖ : 1회 0.25\~0.5 ㎖/㎏
+  * 위 체중 용량은 임상 권장량이며, 어린이부루펜시럽의 현행 허가 용량표는 아래와 같음. 40 ㎎/㎏/d와 해당 연령의 허가 상한 중 낮은 한도를 적용함. <mark style="color:$info;">[식약처 의약품안전나라]</mark>
+  * 생후 6\~11개월은 제품의 허가 용량표에 없으므로 일반적인 허가 용량으로 안내하지 않고 진료 후 허가 외 사용 여부를 개별 결정. 생후 6개월 미만에는 사용하지 않음
 * dexibuprofen : 생후 6개월 이상에서 1회 5\~7 ㎎/㎏(0.4\~0.6 ㎖/㎏), q4\~6hr prn, 1일 최대 4회·28 ㎎/㎏
-  * <mark style="color:blue;">\[맥시부펜 시럽]</mark> 12 ㎎/㎖
+  * <mark style="color:blue;">\[맥시부펜시럽]</mark> 12 ㎎/㎖
   * 현행 식약처 허가사항에 따라 체중별 1회 용량과 1일 최대 4회·28 ㎎/㎏ 상한을 함께 적용함. 제조사 웹페이지 등과 내용이 다르면 처방 시 최신 품목정보를 우선 확인 <mark style="color:$info;">[식약처 의약품안전나라]</mark>
-  * 국내 허가 적응증은 급성 상기도 감염으로 인한 발열의 해열임. 수족구병의 해열·구강 통증 완화에 사용하는 것은 허가 외 사용이며, 구강 통증에는 acetaminophen을 우선 고려
+  * 허가 적응증은 급성 상기도 감염으로 인한 발열의 해열임. 수족구병의 해열·구강 통증 완화에 사용하는 것은 허가 외 사용이며, 구강 통증에는 acetaminophen을 우선 고려
 * 탈수가 의심되거나 수분 섭취가 매우 불량한 소아에서는 ibuprofen/dexibuprofen을 보류하고 수분 상태를 재평가
 * 소아에서 aspirin은 사용하지 않음
 * acetaminophen과 NSAID의 일률적인 교차·병용 투여는 권고하지 않음
@@ -222,23 +226,23 @@ flowchart TB
 
 {% hint style="danger" %}
 **소아 구강 국소마취제 비권고**\
-Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 수분 섭취 개선 효과가 입증되지 않았고, 과량 흡수·삼킴에 따른 경련과 심혈관계 독성 위험이 있어 수족구병에 권고하지 않음. Benzocaine 구강제도 메트헤모글로빈혈증 위험이 있어 특히 2세 미만에서 사용하지 않으며, 소아의 감염성 구강궤양에 임의로 사용하지 않음. <mark style="color:$info;">[Ann Emerg Med 2014; FDA 2018·2024]</mark>
+lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 수분 섭취 개선 효과가 입증되지 않았고, 과량 흡수·삼킴에 따른 경련과 심혈관계 독성 위험이 있어 수족구병에 권고하지 않음. benzocaine 구강제도 메트헤모글로빈혈증 위험이 있어 특히 2세 미만에서 사용하지 않으며, 소아의 감염성 구강궤양에 임의로 사용하지 않음. <mark style="color:$info;">[Ann Emerg Med 2014; FDA 2018·2024]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">소양증</mark>
 
 * 수족구병의 피부병변은 일반적으로 소양증 우세 질환이 아니므로 항히스타민제를 일률적으로 처방하지 않음
-* 소양증이 뚜렷하면 냉습포·피부 청결 유지 등을 우선하고 필요 시 칼라민 로션을 피부에만 사용하며, 항히스타민제가 필요할 때는 연령·체중·국내 허가사항과 진정·항콜린성·QT 연장 위험을 확인하여 제한적으로 사용
+* 소양증이 뚜렷하면 냉습포·피부 청결 유지 등을 우선하고 필요 시 칼라민 로션을 피부에만 사용하며, 항히스타민제가 필요할 때는 연령·체중·허가사항과 진정·항콜린성·QT 연장 위험을 확인하여 제한적으로 사용
 
 ### <mark style="color:orange;">처방 전 확인</mark>
 
-* Acetaminophen은 중증 간·신장장애 등 제품별 금기를 확인함. 국내 세토펜 허가사항은 aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용도 금기로 명시함. 간질환·영양불량 등에서는 일률적으로 최대용량까지 사용하지 않음
-* Ibuprofen은 국내 어린이부루펜 허가사항상 소화성궤양 또는 그 병력, 기관지천식 또는 그 병력, 중증 신·간·심기능장애 등에 금기임. 탈수 시에는 보류하며, aspirin·다른 NSAID에 의한 과민반응 병력을 확인함
-* Dexibuprofen도 기관지천식 또는 그 병력, 소화성궤양, 중증 신·간·심기능장애 등의 금기를 확인함. Ibuprofen과 dexibuprofen은 함께 사용하지 않음
+* acetaminophen은 중증 간·신장장애 등 제품별 금기를 확인함. 세토펜현탁액은 aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용도 금기로 명시함. 간질환·영양불량 등에서는 일률적으로 최대용량까지 사용하지 않음
+* ibuprofen은 소화성궤양 또는 그 병력, 기관지천식 또는 그 병력, 중증 신·간·심기능장애 등에 금기임. 탈수 시에는 보류하며, aspirin·다른 NSAID에 의한 과민반응 병력을 확인함
+* dexibuprofen도 기관지천식 또는 그 병력, 소화성궤양, 중증 신·간·심기능장애 등의 금기를 확인함. ibuprofen과 dexibuprofen은 함께 사용하지 않음
 
 <mark style="color:$info;">[식약처 의약품안전나라]</mark>
 
-* 처방 시 최신 품목정보/급여기준 조회. 현탁액·시럽은 제품의 농도를 확인하고 잘 흔든 뒤 전용 경구용 주사기로 계량하며, 가정용 숟가락을 사용하지 않음
+* 현탁액·시럽은 제품의 농도를 확인하고 잘 흔든 뒤 전용 경구용 주사기로 계량하며, 가정용 숟가락을 사용하지 않음
 
 ***
 
@@ -247,17 +251,14 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 * 일반적인 경증 수족구병에는 별도 시술이 필요하지 않음
 * 신경계·심폐 합병증의 집중치료 및 정맥 면역글로불린(IVIG) 사용 여부는 전문기관에서 결정. IVIG는 일부 중증 사례에서 사용하지만 경증 환자의 통상 치료로 적용하지 않음 <mark style="color:$info;">[질병관리청 2026; WHO WPRO 2011]</mark>
 
-### <mark style="color:orange;">신고</mark>
+***
 
-* 수족구병은 제4급 법정감염병으로 표본감시 대상이며, 모든 의료기관이 개별 환자를 전수 신고하는 질환은 아님
-* 지정 수족구병 표본감시기관은 주 단위 환자·의사환자 발생자료를 정해진 기한에 신고
-* 합병증을 동반한 수족구병은 지정된 엔테로바이러스감염증 표본감시기관에서 진단일부터 7일 이내 관할 보건소로 신고 <mark style="color:$info;">[질병관리청 2026]</mark>
+## <mark style="color:red;">질병코드</mark>
 
-### <mark style="color:red;">질병코드</mark>
+* B08.4 발진을 동반한 엔테로바이러스소수포구내염 Enteroviral vesicular stomatitis with exanthem
+  * 포함 : 수족구병 Hand, foot and mouth disease
 
-<table><thead><tr><th>코드</th><th>한글명</th><th>영문명</th></tr></thead><tbody><tr><td>B08.4</td><td>발진을 동반한 엔테로바이러스소수포구내염<br>포함 : 수족구병</td><td>Enteroviral vesicular stomatitis with exanthem<br>Hand, foot and mouth disease</td></tr></tbody></table>
-
-<mark style="color:$info;">KCD-9 대조. 합병증이 실제로 진단되면 해당 합병증의 분류 및 추가 코드 필요 여부를 별도로 확인.</mark>
+✽합병증이 실제로 진단되면 해당 합병증의 분류 및 추가 코드 필요 여부를 별도로 확인 (KCD-9, 2026.1.1 시행)
 
 ***
 
@@ -266,7 +267,7 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 > **처방례 1.** 15 ㎏ - 발열·구강 통증 시, acetaminophen 선택
 >
 > ```
-> 세토펜 현탁액(32 ㎎/㎖)   총 90 ㎖
+> 세토펜현탁액(32 ㎎/㎖)   총 90 ㎖
 > 1회 6 ㎖   q4~6hr prn (1일 최대 5회)
 > ※ 1회 192 ㎎(12.8 ㎎/㎏), 1일 최대 960 ㎎(64 ㎎/㎏). 3일 최대 필요량 기준. 정규 투약이 아니라 발열·통증 시에만 사용
 > ```
@@ -274,7 +275,7 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 > **처방례 2.** 15 ㎏ - 발열 시, dexibuprofen 선택 (허가 외 사용·탈수 없음 전제)
 >
 > ```
-> 맥시부펜 시럽(12 ㎎/㎖) 75 ㎖/병   1병
+> 맥시부펜시럽(12 ㎎/㎖) 75 ㎖/병   1병
 > 1회 6 ㎖   q4~6hr prn (1일 최대 4회)
 > ※ 3일 최대 필요량은 72 ㎖. 정규 qid 투약이 아니라 발열·통증 시에만 사용
 > ```
@@ -301,7 +302,7 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 > **하지 말아야 할 것**
 >
 > * 국소 lidocaine·benzocaine 구강제를 소아에게 임의로 사용하지 않도록 합니다.
-> * 소양증이 심하지 않은 한 항히스타민제를 일률적으로 처방하지 않습니다.
+> * 가려움이 심하지 않으면 항히스타민제는 대개 필요하지 않음을 설명합니다.
 > * 탈수가 의심되면 ibuprofen/dexibuprofen을 보류하고 수분 상태를 평가받도록 안내합니다.
 
 > **전파 차단**
@@ -318,9 +319,9 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 
 ***
 
-## 주요 참고문헌 및 확인 자료
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### &lt;임상 근거&gt;
+### <mark style="color:orange;">임상 근거</mark>
 
 * 질병관리청. [2026년도 엔테로바이러스감염증·수족구병 관리지침](https://www.kdca.go.kr/bbs/kdca/55/311285/artclView.do) (2026.6 개정본).
 * CDC. [About Hand, Foot, and Mouth Disease](https://www.cdc.gov/hand-foot-mouth/about/index.html); [Symptoms and Complications](https://www.cdc.gov/hand-foot-mouth/signs-symptoms/index.html).
@@ -330,23 +331,19 @@ Lidocaine 함유 구강 국소제는 소아 감염성 구강궤양에서 경구 
 * Hopper SM, et al. [Topical lidocaine to improve oral intake in children with painful infectious mouth ulcers: a blinded, randomized, placebo-controlled trial](https://pubmed.ncbi.nlm.nih.gov/24210368/). Ann Emerg Med. 2014;63(3):292–299.
 * FDA. [FDA Letter Regarding Benzocaine](https://www.fda.gov/files/drugs/published/FDA-Letter-Regarding-Benzocaine.pdf) (2018); [Safely Soothing Teething Pain in Infants and Children](https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children) (2024; 국소마취제 안전성 참고. 이앓이와 감염성 구내염은 적응증이 다름).
 * 질병관리청. [수족구병 유행 지속, 아프면 어린이집·유치원 등원하지 마세요!](https://www.kdca.go.kr/bbs/kdca/41/312083/artclView.do) (2026.8.3, 2026.10.13 최종수정; 국내 등원·등교 권고).
-
 * WHO WPRO. [A Guide to Clinical Management and Public Health Response for Hand, Foot and Mouth Disease](https://iris.who.int/bitstream/handle/10665/207490/9789290615255_eng.pdf). 2011. 중증 경고징후·수액 및 IVIG 적용 범위 참고.
 * WHO. [Enterovirus 71 vaccines](https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccine-standardization/enterovirus-71).
 * Li R, et al. [An Inactivated Enterovirus 71 Vaccine in Healthy Children](https://www.nejm.org/doi/abs/10.1056/NEJMoa1303224). N Engl J Med. 2014;370:829-837.
 * Lott JP, et al. [Atypical hand-foot-and-mouth disease associated with coxsackievirus A6 infection](https://pubmed.ncbi.nlm.nih.gov/24035209/). J Am Acad Dermatol. 2013;69(5):736-741.
 
-### &lt;허가·급여 확인 자료&gt;
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) - 세토펜현탁액(199800888), 어린이부루펜시럽(198601920), 맥시부펜시럽(200608160)의 상세 허가사항(2026.11.2 확인).
-* 삼아제약 세토펜현탁액 공개 제품정보(농도·소아 체중 용량 대조). 맥시부펜은 제조사 웹페이지에 과거 상한이 남아 있어 최신 식약처 상세 허가사항을 우선 적용.
-* KCD9_251216(6).xlsx. 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」의 B084 항목 대조.
-
-* 확인 원칙 : 처방 시 최신 품목정보/급여기준 조회.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* 질병코드 : KCD-9(2026.1.1 시행).
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **수족구병, 대부분 1\~2주 안에 저절로 좋아집니다**

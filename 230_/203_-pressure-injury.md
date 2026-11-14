@@ -87,7 +87,9 @@
 저알부민혈증은 염증, 질병 중증도와 수분 상태의 영향을 받으므로 영양결핍의 단독 진단검사로 사용하지 않음. 체중 변화, 실제 섭취량, 근육량, 삼킴·저작 능력과 영양평가 도구를 함께 사용함.
 {% endhint %}
 
-#### <mark style="color:$primary;">특수 상황별 추가 위험 인자</mark> \[NPIAP/EPUAP/PPPIA 4th ed., 2026]
+#### <mark style="color:$primary;">특수 상황별 추가 위험 인자</mark>
+
+<mark style="color:$info;">\[International Guideline 2026, Risk in Specific Populations]</mark>
 
 * **수술(수술실) 환자** : 수술 전 부동 시간, 수술 시간, ASA(American Society of Anesthesiologists) 신체상태분류, 다발 동반질환(호흡기질환, 심혈관질환, 당뇨병)
 * **중환자실 성인** : 중환자실 재실 기간, 기계환기, 부적절한 산소화, 관류 저하, 쇼크 상태, 승압제 사용 여부·종류·용량·기간, APACHE(II/III/IV), SAPS, SOFA 점수
@@ -103,7 +105,7 @@
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 압력을 제거하고 기도·호흡·순환을 안정화하면서 즉시 응급실 이송 및 외과·혈관 전문 평가를 시행함.
 
@@ -113,7 +115,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 아래 감염·급성 악화는 당일 상처전문팀·외과·정형외과·감염내과 평가를 시행함. 하지 허혈을 동반하면 혈관 평가를 병행하고, 패혈증·괴사성 감염·급성 사지 허혈이면 즉각 조치함.
 
@@ -124,7 +126,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 응급·당일 평가 소견이 없으면 조기에 상처전문팀 협진과 정기 추적을 계획함. 안정된 만성 골 노출도 골수염 가능성·재건 필요성을 평가하고, 새 감염·허혈 소견은 위 기준으로 상향 평가함.
 
@@ -176,55 +178,54 @@
 
 ```mermaid
 flowchart TD
-    subgraph A["초기 평가"]
+    subgraph A["① 초기 평가"]
         direction TB
-        A1(["압박 손상 의심"]) ---> A2{"응급 Red Flag?"}
-        A2 -- 예 ---> A3(["압력 제거·응급 안정화·이송"])
-        A2 -- 아니오 ---> A4["압력 제거·피부·관류·감염 평가"]
-        A4 ---> A4a{"압박 원인과 임상 소견 일치?"}
-        A4a -- 아니오 ---> A4b(["다른 원인 평가·해당 상처 치료"])
-        A4a -- 예 ---> A5{"피부 개방 또는 DTPI 의심?"}
-        A5 -- 아니오 ---> A6{"비창백성 홍반?"}
-        A6 -- 예 ---> A7["Stage 1: 보호·압력 제거"]
-        A6 -- 아니오 ---> A8["미확정: 감별·예방·조기 재평가"]
-        A5 -- 예 ---> A9["Stage 2~4·unstageable·DTPI 분류·기록"]
+        A1["압박 손상 의심"] --> A2["Red Flags의 즉각 조치 항목에 해당?"]
+        A2 -- "예" --> A3["즉각 조치<br/>압력 제거·응급 안정화·이송"]
+        A2 -- "아니오" --> A4["압력 제거·피부·관류·감염 평가"]
+        A4 --> A4a["압박 원인과 임상 소견 일치?"]
+        A4a -- "아니오" --> A4b["다른 원인 평가·해당 상처 치료"]
+        A4a -- "예" --> A5["피부 개방 또는 DTPI 의심?"]
+        A5 -- "아니오" --> A6["비창백성 홍반?"]
+        A6 -- "예" --> A7["Stage 1: 보호·압력 제거<br/>③ 압력 관리와 추적"]
+        A6 -- "아니오" --> A8["미확정: 감별·예방<br/>조기 재평가·정기 위험평가"]
+        A5 -- "예" --> A9["Stage 2~4·unstageable·DTPI<br/>분류·기록"]
     end
-    subgraph B["상처 처치"]
+    subgraph B["② 상처 처치"]
         direction TB
-        B1{"확산성 감염·새 심부손상·감염성 허혈?"}
-        B1 -- 예 ---> B2(["당일 전문 평가·감염 치료 판단"])
-        B1 -- 아니오 ---> B3{"피부가 열려 있는가?"}
-        B3 -- 아니오 ---> B4["온전한 피부: 보호·offloading"]
-        B3 -- 예 ---> B5{"생존 불가능 조직?"}
-        B5 -- 아니오 ---> B6["상태에 맞는 습윤 드레싱"]
-        B5 -- 예 ---> B7{"발뒤꿈치·허혈 사지의 안정된 건조 가피?"}
-        B7 -- 예 ---> B8["가피 보존·관류·감염 관찰"]
-        B7 -- 아니오 ---> B9["관류·감염·출혈 평가 후 debridement"]
+        B1["확산성 감염·새 심부손상·감염성 허혈?"]
+        B1 -- "예" --> B2["당일 전문 평가·감염 치료 판단"]
+        B1 -- "아니오" --> B3["피부가 열려 있는가?"]
+        B3 -- "아니오" --> B4["온전한 피부: 보호·offloading"]
+        B3 -- "예" --> B5["생존 불가능 조직?"]
+        B5 -- "아니오" --> B6["상태에 맞는 습윤 드레싱"]
+        B5 -- "예" --> B7["발뒤꿈치·허혈 사지의 안정된 건조 가피?"]
+        B7 -- "예" --> B8["가피 보존·관류·감염 관찰"]
+        B7 -- "아니오" --> B9["관류·감염·출혈 평가 후 debridement"]
     end
-    subgraph C["압력 관리와 추적"]
+    subgraph C["③ 압력 관리와 추적"]
         direction TB
         C1["지지면·체위 개별화·발뒤꿈치 offloading"]
-        C1 ---> C2{"Stage 1 또는 DTPI?"}
-        C2 -- 예 ---> C3(["조기·빈번 재평가·악화 시 상위 평가"])
-        C2 -- 아니오 ---> C4{"적절한 치료 후 2주 내 호전?"}
-        C4 -- 예 ---> C5(["동일 계획 유지·정기 재평가"])
-        C4 -- 아니오 ---> C6(["원인·치료 재평가·상처전문팀 의뢰"])
-        C7(["예방·조기 재평가·정기 위험평가"])
+        C1 --> C2["Stage 1 또는 DTPI?"]
+        C2 -- "예" --> C3["조기·빈번 재평가<br/>악화 시 상위 평가"]
+        C2 -- "아니오" --> C4["적절한 치료 후 2주 내 호전?"]
+        C4 -- "예" --> C5["동일 계획 유지·정기 재평가"]
+        C4 -- "아니오" --> C6["원인·치료 재평가<br/>상처전문팀 의뢰"]
     end
-    A7 ---> C1
-    A8 ---> C7
-    A9 ---> B1
-    B4 ---> C1
-    B6 ---> C1
-    B8 ---> C1
-    B9 ---> C1
+    A9 --> B1
+
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class A2,A4a,A5,A6,B1,B3,B5,B7,C2,C4 question
+    style A1 fill:#eeeeee,stroke:#888888,stroke-width:2px
     style A3 fill:#f96,stroke:#e65100,stroke-width:2px
     style B2 fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
+> _② 상처 처치의 모든 경로(B4·B6·B8·B9)에서 ③ 압력 관리와 추적을 함께 시행함._
+
 <p align="center"><strong>압박 손상 평가 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">\[NPIAP/EPUAP/PPPIA International Guideline, 4th ed. - Repositioning and Mobilization; Supporting Pressure Injury Healing (2026); Wound Repair Regen 2024]</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NPIAP/EPUAP/PPPIA International Guideline 4th ed. 2026; Wound Repair Regen 2024)</mark></em></p>
 
 ***
 
@@ -240,7 +241,7 @@ flowchart TD
 6. 감염, 허혈, 실금, 혈당, 영양 및 돌봄 환경을 함께 교정함.
 7. 드레싱 교환 때마다 악화·감염을 확인하고 같은 방법으로 적어도 주 1회 치유 경과를 기록함. Stage 1과 DTPI는 조기·빈번하게 재평가함. 적절한 압력 제거·변연절제 후 **2주 내 객관적 호전이 없으면** 감염·허혈·영양 및 치료계획을 재평가하고 상처전문팀 또는 외과 의뢰를 고려함. 악화하면 2주를 기다리지 않음.
 
-## <mark style="color:green;">비약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">체위변경과 압력 최소화</mark>
 
@@ -307,13 +308,13 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-* 아래 경구 진통제 용량·처방례는 성인 기준이며 최소 유효용량을 최단기간 사용함. **처방 시 최신 품목정보/급여기준 조회.** 진통제의 일반 허가 용법과 이 환자군에서 선택하는 보수적 용량을 구분함.
+* 아래 경구 진통제 용량·처방례는 성인 기준이며 최소 유효용량을 최단기간 사용함. 진통제의 일반 허가 용법과 이 환자군에서 선택하는 보수적 용량을 구분함.
 
 ### <mark style="color:orange;">통증 관리</mark>
 
 * 압력 제거, 비접착성 드레싱, 교체 횟수 최소화와 충분한 사전 설명을 우선함.
 * 경증 통증에는 금기가 없으면 acetaminophen을 우선 고려함.
-  * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시; 이 장에서는 보수적으로 최대 3,000 ㎎/d를 적용함(국내 500 ㎎ 일반정 대표 품목의 허가 상한은 4,000 ㎎/d). 고령·저체중·영양불량에서는 더 감량할 수 있음. 간경변에서는 통상 최대 2,000 ㎎/d로 제한하며, 다른 간질환·만성 과음은 중증도에 따라 감량 또는 회피함. 중증 간장애는 국내 허가상 금기임.
+  * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시; 이 장에서는 보수적으로 최대 3,000 ㎎/d를 적용함(국내 500 ㎎ 일반정 대표 품목의 허가 상한은 4,000 ㎎/d). 고령·저체중·영양불량에서는 더 감량할 수 있음. 간경변에서는 통상 최대 2,000 ㎎/d로 제한하며, 다른 간질환·만성 과음은 중증도에 따라 감량 또는 회피함. 중증 간장애는 금기임.
 * NSAID는 신장애, 심부전, 위장관 출혈 위험, 항응고제·항혈소판제 복용이 흔한 환자군에서 신중히 사용함. 취약한 고령자는 저용량에서 시작하고, 고위험군에서는 다른 진통 전략을 우선 검토함.
   * ibuprofen 200\~400 ㎎ q6\~8h 필요시
   * naproxen 250\~500 ㎎ bid 필요시
@@ -340,7 +341,7 @@ Acetaminophen의 최신 국내 허가사항에는 중증 피부반응(DRESS 포�
 * 국소 소독제·항균제를 모든 압박 손상에 일률적으로 적용하지 않음. Chlorhexidine은 항생제가 아니라 소독제임. 국소 소독제·항균제의 일상적 사용을 권고하지 않음 <mark style="color:$info;">\[NICE CG179]</mark>.
 * 국소 감염 또는 높은 세균부하가 의심되는 선택된 상처에서는 debridement와 세척을 우선하고, 항균 드레싱을 제한된 기간 사용할 수 있음.
 * **전신 항생제는 확산성 연조직염, 패혈증 또는 골수염 등 임상 적응증이 있을 때 사용함.** 가능하면 적절한 배양 검체를 먼저 채취하되 중증 감염에서 치료를 지연하지 않음.
-* 주변 피부에 국한된 비복잡성 비화농성 연조직염에서 심부감염·농양·특수 노출이 배제되면 165장의 연쇄구균 중심 치료 원칙을 참고함. **깊거나 괴사한 압박 손상의 감염은 다균성일 수 있어**, amoxicillin 또는 cephalexin 단독을 모든 감염성 압박 손상의 표준 처방으로 제시하지 않음. 심부감염에서는 그람음성균·혐기성균과 위험에 따른 MRSA 포괄 여부를 중증도·배양·최근 항생제·기관 감수성에 따라 결정함(☞ [165 피부·연조직 감염](165_-skin-soft-tissue-infection.md)).
+* 주변 피부에 국한된 비복잡성 비화농성 연조직염에서 심부감염·농양·특수 노출이 배제되면 165장의 연쇄구균 중심 치료 원칙을 참고함. **깊거나 괴사한 압박 손상의 감염은 다균성일 수 있어**, amoxicillin 또는 cephalexin 단독을 모든 감염성 압박 손상의 표준 처방으로 제시하지 않음. 심부감염에서는 그람음성균·혐기성균과 위험에 따른 MRSA 포괄 여부를 중증도·배양·최근 항생제·기관 감수성에 따라 결정함(☞ [165 피부·연조직 감염](../229_/165_-skin-soft-tissue-infection.md)).
 * 165장의 **호전하는 비복잡성 연조직염 5일**은 농양·괴사조직·골수염이 남아 있는 압박 손상에 적용하는 고정 기간이 아님. 치료 기간은 감염 깊이, 배농·변연절제 및 재건 계획, 배양과 반응에 따라 정하고 IV에서 경구로 바꿀 때도 총 투여기간을 함께 계산함. 반응이 없으면 잔존 저류·괴사·허혈과 압력 지속을 재평가함.
 * 만성 골 노출이나 영상 이상만으로 장기 항생제를 자동 시작하지 않음. 가능한 경우 골 생검의 조직검사·배양으로 골수염을 확인하고, 변연절제·폐쇄 가능성 및 환자의 치료 목표와 함께 계획함. 중증 감염이면 검체 확보를 이유로 치료를 지연하지 않음. <mark style="color:$info;">\[Wound Repair Regen 2024]</mark>
 
@@ -372,7 +373,7 @@ Acetaminophen의 최신 국내 허가사항에는 중증 피부반응(DRESS 포�
 * 드레싱은 병기만으로 정하지 않고 삼출물, 깊이·공동, 괴사조직, 감염, 주변 피부, 통증과 교체 가능성에 따라 선택함.
 * 깊은 공동은 삼출물·사강 관리를 위해 느슨하게 채우되 과도하게 packing하지 않음. 제거 가능한 연속형 재료를 사용하고 남은 재료가 없는지 확인함. 이는 165·202장에서 routine packing을 권하지 않는 배농 완료된 단순·작은 피부농양과 목적·대상 상처가 다름.
 
-<table><thead><tr><th width="190">드레싱 종류(예)</th><th width="110">흡수력</th><th width="220">주요 용도</th><th>주의사항</th></tr></thead><tbody><tr><td>Polyurethane film <mark style="color:blue;">\[테가덤]</mark></td><td>없음</td><td>온전한 피부 보호, 삼출물이 거의 없는 얕은 상처</td><td>중등도 이상 삼출물·감염 상처에는 부적합; 취약한 주변 피부는 접착 손상 주의</td></tr><tr><td>Hydrogel</td><td>낮음; 수분 공급</td><td>건조한 상처·괴사조직의 자가용해 보조</td><td>삼출물이 많은 상처·안정된 발뒤꿈치/허혈성 건조 가피에는 부적합; 2차 드레싱 필요 가능</td></tr><tr><td>Hydrocolloid <mark style="color:blue;">\[듀오덤]</mark></td><td>낮음\~중등도</td><td>감염되지 않은 얕은 상처, 소량\~중등도 삼출물</td><td>깊은 공동·노출 구조·많은 삼출물·감염 시 일률 적용하지 않음</td></tr><tr><td>Calcium alginate</td><td>높음</td><td>중등도\~많은 삼출물, 경미한 출혈, 공동</td><td>건조한 상처에는 부적절; 공동 내 잔류 방지</td></tr><tr><td>Hydrofiber</td><td>높음</td><td>중등도\~많은 삼출물, 공동</td><td>주변 피부 침윤과 잔류 여부 확인</td></tr><tr><td>Polyurethane foam <mark style="color:blue;">\[메디폼]</mark></td><td>중등도\~높음</td><td>중등도 이상의 삼출물, 완충과 보호</td><td>건조한 상처에는 부적절; 피부 접착 손상 주의</td></tr><tr><td>항균 드레싱(은·요오드 등)</td><td>제품별 차이</td><td>국소 감염 또는 높은 세균부하가 의심되는 선택된 상처</td><td>기간을 정해 사용하고 <strong>1\~2주 내 필요성 재평가</strong>; 일상적 사용 금지</td></tr></tbody></table>
+<table><thead><tr><th width="190">드레싱 종류(예)</th><th width="110">흡수력</th><th width="220">주요 용도</th><th>주의사항</th></tr></thead><tbody><tr><td>Polyurethane film <mark style="color:blue;">[테가덤]</mark></td><td>없음</td><td>온전한 피부 보호, 삼출물이 거의 없는 얕은 상처</td><td>중등도 이상 삼출물·감염 상처에는 부적합; 취약한 주변 피부는 접착 손상 주의</td></tr><tr><td>Hydrogel</td><td>낮음; 수분 공급</td><td>건조한 상처·괴사조직의 자가용해 보조</td><td>삼출물이 많은 상처·안정된 발뒤꿈치/허혈성 건조 가피에는 부적합; 2차 드레싱 필요 가능</td></tr><tr><td>Hydrocolloid <mark style="color:blue;">[듀오덤]</mark></td><td>낮음&#126;중등도</td><td>감염되지 않은 얕은 상처, 소량&#126;중등도 삼출물</td><td>깊은 공동·노출 구조·많은 삼출물·감염 시 일률 적용하지 않음</td></tr><tr><td>Calcium alginate</td><td>높음</td><td>중등도&#126;많은 삼출물, 경미한 출혈, 공동</td><td>건조한 상처에는 부적절; 공동 내 잔류 방지</td></tr><tr><td>Hydrofiber</td><td>높음</td><td>중등도&#126;많은 삼출물, 공동</td><td>주변 피부 침윤과 잔류 여부 확인</td></tr><tr><td>Polyurethane foam <mark style="color:blue;">[메디폼]</mark></td><td>중등도&#126;높음</td><td>중등도 이상의 삼출물, 완충과 보호</td><td>건조한 상처에는 부적절; 피부 접착 손상 주의</td></tr><tr><td>항균 드레싱(은·요오드 등)</td><td>제품별 차이</td><td>국소 감염 또는 높은 세균부하가 의심되는 선택된 상처</td><td>기간을 정해 사용하고 <strong>1&#126;2주 내 필요성 재평가</strong>; 일상적 사용 금지</td></tr></tbody></table>
 
 {% hint style="info" %}
 요오드 함유 드레싱은 제형별 방출 특성과 금기가 다르므로 povidone-iodine 10% 외용액과 동일한 제제로 취급하거나 임의 치환하지 않음.
@@ -396,17 +397,13 @@ Acetaminophen의 최신 국내 허가사항에는 중증 피부반응(DRESS 포�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
-L89.0 욕창궤양 및 압박부위 제1단계
-
-L89.1 욕창궤양 및 압박부위 제2단계
-
-L89.2 욕창궤양 및 압박부위 제3단계
-
-L89.3 욕창궤양 및 압박부위 제4단계
-
-L89.9 상세불명의 욕창궤양 및 압박부위
+* L89.0 욕창궤양 및 압박부위 제1단계 Stage I decubitus ulcer and pressure area
+* L89.1 욕창궤양 및 압박부위 제2단계 Stage II decubitus ulcer and pressure area
+* L89.2 욕창궤양 및 압박부위 제3단계 Stage III decubitus ulcer and pressure area
+* L89.3 욕창궤양 및 압박부위 제4단계 Stage IV decubitus ulcer and pressure area
+* L89.9 상세불명의 욕창궤양 및 압박부위 Decubitus ulcer and pressure area, unspecified
 
 {% hint style="warning" %}
 저장된 KCD-9 엑셀의 완전코드와 대조함. L89 자체는 불완전코드이므로 확정 단계에 맞는 세부코드를 사용함.
@@ -418,29 +415,28 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 감염 없는 Stage 1\~2, 경증 통증
+> **처방례 1. 감염 없는 Stage 1\~2, 경증 통증**
 >
 > ```
-> 아세트아미노펜정 500 ㎎  1T tid prn(1회 1정, 1일 3회 이내 필요시)
-> ※ 진통제보다 압력 제거와 상처 상태에 맞는 드레싱이 치료의 핵심
-> ※ 이 처방례의 최대량은 1,500 ㎎/d; 다른 제품의 아세트아미노펜을 임의로 추가하지 않음
-> ※ 본문 일반 참고 상한은 보수적으로 3,000 ㎎/d이며 고령·저체중·영양불량 시 추가 감량 고려
-> ※ 간경변은 통상 최대 2,000 ㎎/d; 중증 간장애는 금기
+> 타이레놀정 500 ㎎/T  1T  tid prn × 7일
 > ```
+>
+> _✽진통제보다 압력 제거와 상처 상태에 맞는 드레싱이 치료의 핵심임. 이 처방례의 최대량은 1,500 ㎎/d이며 다른 acetaminophen 함유 제품을 임의로 추가하지 않음. 본문의 일반 참고 상한은 보수적으로 3,000 ㎎/d, 간경변은 통상 최대 2,000 ㎎/d이며 중증 간장애는 금기임._
 
-> **처방례 2.** 감염·허혈·깊은 공동이 없고 중등도 삼출물이 있는 압박 손상, 경증 통증
+> **처방례 2. 감염·허혈·깊은 공동이 없고 중등도 삼출물이 있는 압박 손상, 경증 통증**
 >
 > ```
-> 메디폼 폼 드레싱  제품별 최대 사용기간을 지키며 흡수 한계·누출·오염·들뜸 시 조기 교체
-> 아세트아미노펜정 500 ㎎  1T tid prn(1회 1정, 1일 3회 이내 필요시)
-> ※ 드레싱은 병기가 아니라 삼출량·깊이·주변 피부 상태에 따라 선택
-> ※ 삼출물 증가 시 원인·감염을 재평가하고 흡수력이 높은 alginate/hydrofiber 고려
-> ※ 아세트아미노펜 총량·간질환 제한은 처방례 1과 동일
+> 메디폼 폼 드레싱  상처 크기에 맞춰 적용, 흡수 한계·누출·오염·들뜸 시 교체
+> 타이레놀정 500 ㎎/T  1T  tid prn × 7일
 > ```
+>
+> _✽드레싱은 병기가 아니라 삼출량·깊이·주변 피부 상태에 따라 선택하고 제품별 최대 사용기간을 지킴. 삼출물이 늘면 원인·감염을 재평가하고 흡수력이 높은 alginate·hydrofiber를 고려함. Acetaminophen 총량·간질환 제한은 처방례 1과 같음._
 
-> **처방례 3.** 확산성 연조직염·골수염·패혈증 의심
+> **처방례 3. 확산성 연조직염·골수염·패혈증 의심**
 >
-> _✽압박 손상 자체나 창상 배양 양성만을 이유로 항생제를 처방하지 않음. 제한적인 비화농성 주변 연조직염은 피부연조직감염 챕터의 국내 처방례를 따르고, 광범위 감염·급성 심부감염·골수염이 의심되면 당일 전문 평가하며, **패혈증·쇼크·괴사성 감염 의심 시 즉시 응급 이송함.** 안정된 만성 골 노출은 조기 전문 평가를 계획하되, 골 노출만으로 골수염을 확진하거나 항생제를 시작하지 않음._
+> _✽압박 손상 자체나 창상 배양 양성만을 이유로 항생제를 처방하지 않음. 제한적인 비화농성 주변 연조직염은 [피부 및 연조직 감염](../229_/165_-skin-soft-tissue-infection.md) 챕터의 처방례를 따르고, 광범위 감염·급성 심부감염·골수염이 의심되면 당일 전문 평가하며, **패혈증·쇼크·괴사성 감염 의심 시 즉시 응급 이송함.** 안정된 만성 골 노출은 조기 전문 평가를 계획하되, 골 노출만으로 골수염을 확진하거나 항생제를 시작하지 않음._
+
+***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
@@ -451,7 +447,7 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 
 > **진통제 복용 시 주의하세요**
 >
-> * 안내된 아세트아미노펜 복용량은 보통 하루 총 3,000 ㎎ 이내입니다. 간경변·저체중 등에서는 더 낮은 한도가 필요합니다. 감기약·복합 진통제에 포함된 양도 확인하고 같은 성분 제품을 임의로 함께 복용하지 마십시오. 발진·수포·입안 헐음이 생기면 복용을 중단하고 진료받으십시오.
+> * Acetaminophen은 처방 용량을 지키도록 하고, 보수적 상한은 하루 총 3,000 ㎎ 이내이며 간경변·저체중 등에서는 더 낮은 한도가 필요함을 안내합니다. 감기약·복합 진통제에 포함된 양까지 합산하고 같은 성분 제품을 임의로 함께 복용하지 않도록 합니다. 발진·수포·입안 헐음이 생기면 복용을 중단하고 진료받도록 안내합니다.
 > * 이부프로펜 등 NSAID는 고령, 신장질환, 항응고제 복용자에서 위장관 출혈·신기능 악화 위험이 있어 신중히 사용합니다.
 
 > **항생제·소독제는 모든 상처에 필요하지 않습니다**
@@ -474,7 +470,7 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+### <mark style="color:orange;">임상 근거</mark>
 
 * [NPIAP/EPUAP/PPPIA. International Guideline, 4th edition: 온라인 장별 공개본(2025\~2026).](https://www.internationalguideline.com/the-international-guideline)
 * [Classification (2026).](https://www.internationalguideline.com/classification)
@@ -487,15 +483,15 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 * [Seating (2025).](https://www.internationalguideline.com/seating)
 * [Device-Related Pressure Injuries (2025).](https://www.internationalguideline.com/drpi)
 * [NPIAP. Statement Regarding Skin Failure. 2026-09-17.](https://npiap.com/news/735232/NPIAP-Statement-Regarding-Skin-Failure.htm)
-* [WHS Guidelines for the Treatment of Pressure Ulcers — 2023 update. Wound Repair Regen. 2024;32:6–33.](https://doi.org/10.1111/wrr.13130)
+* [WHS Guidelines for the Treatment of Pressure Ulcers - 2023 update. Wound Repair Regen. 2024;32:6–33.](https://doi.org/10.1111/wrr.13130)
 * [IDSA. Skin and soft tissue infections guideline (2014): 비복잡성 연조직염과 심부감염의 구분.](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
 * [NICE CG179. Pressure ulcers: prevention and management (2014).](https://www.nice.org.uk/guidance/cg179/chapter/recommendations)
 * [NPIAP. Pressure Injury Stages.](https://npiap.com/page/PressureInjuryStages)
 * [NPIAP. PUSH Tool.](https://learn.npiap.com/products/push-tool-1)
 
-### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처 의약품안전나라.](https://nedrug.mfds.go.kr/) 타이레놀정500밀리그람(품목기준코드 202106092), 부루펜정200밀리그램(197700120) 등의 국내 용법·금기·최신 안전성 확인. Naproxen 용량은 종근당 낙센정 공개 제품정보도 함께 확인함. 품목정보와 실제 유통·급여 여부는 구분하여 처방 시 재조회함.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [보건복지부. 복지용구 급여범위 및 급여기준 등에 관한 고시. 제2026-13호, 시행 2026-01-20.](https://www.law.go.kr/admRulLsInfoP.do?admRulId=35089&efYd=0)
 * [국민건강보험공단 건강Law: 입원·시설입소 시 복지용구 제한 안내.](https://www.nhis.or.kr/lm/lmxsrv/main/moviePopup.do?seqMovie=76)
 * KCD9_251216(6).xlsx: 「상병분류기호(완전코드)」 및 「상병분류기호(전체)」의 L89 계열 직접 대조(2026-11-02).
@@ -504,7 +500,7 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **압박 손상(욕창), 압력을 없애는 것이 치료의 시작입니다**
@@ -527,11 +523,18 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 * 단백질과 열량을 충분히 섭취하되 신장·심장질환이 있으면 영양·수분 섭취량을 의료진과 상의하십시오.
 * 장기요양등급이 있다면 욕창예방매트리스, 자세변환용구 등을 품목에 따라 복지용구 급여(연간 160만 원 한도, 2026년 기준)로 구입하거나 대여할 수 있습니다. 시설급여 이용 여부와 입원 상태에 따라 이용이 제한될 수 있으므로 국민건강보험공단 또는 복지용구사업소에 문의하십시오.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+#### <mark style="color:$primary;">이럴 때는 즉시 응급실로 가세요</mark>
 
 * 고열, 오한, 숨이 차거나 멍해짐, 혈압 저하 등 전신상태 악화
 * 붉은 부위가 빠르게 번지거나 피부가 검게 변함
 * 상처에 비해 통증이 매우 심하거나 만질 때 바스락거리는 느낌이 남
-* 고름·악취·삼출물 또는 통증이 갑자기 증가함
-* 출혈이 멎지 않음
-* 뼈·힘줄이 새로 보이거나 깊은 통증·감염 소견이 생기면 당일 진료받으십시오. 이미 평가받은 안정된 만성 상처는 정해진 전문 진료·추적 계획을 따르십시오.
+* 다리·발이 갑자기 창백하고 차가워짐
+* 눌러도 출혈이 멎지 않음
+
+#### <mark style="color:$primary;">이럴 때는 당일 진료를 받으세요</mark>
+
+* 고름·악취·삼출물 또는 통증이 갑자기 늘어남
+* 뼈·힘줄이 새로 보이거나 깊은 통증·감염 소견이 생김
+* 발뒤꿈치의 마른 딱지 주변이 붉어지거나 붓거나 진물이 남
+
+이미 평가받은 안정된 만성 상처는 정해진 전문 진료·추적 계획을 따르십시오.
