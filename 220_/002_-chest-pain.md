@@ -84,7 +84,7 @@
 * 심한 호흡 곤란, 빠른 호흡 `ACS` `폐색전증` `기흉`
 * 잿빛 피부색, 발한, 차가운 피부 - 심인성 쇼크 시사 `ACS`
 * 심낭압전이 의심되는 혈역학적 이상(저혈압·빈맥·경정맥 팽창·muffled heart sound·심초음파상 tamponade 소견) ± pulsus paradoxus `심낭 압전`
-* 찢어지는, 칼로 베는 듯한 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동 `대동맥 박리`&#x20;
+* 찢어지는, 칼로 베는 듯한 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동 `대동맥 박리`
 * 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 ㎜Hg (≥15 ㎜Hg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박; 단, 민감도가 낮아 혈압 차이·맥박 비대칭이 없다고 박리를 배제할 수는 없음 `대동맥 박리`
 * 흉통 + 새로 발생한 대동맥판 역류 잡음(좌측 흉골연의 고음성 이완기 잡음) `대동맥 박리`
 * 흉통 + 신경학적 결손 (경동맥·척추동맥 침범 시사) `대동맥 박리`
@@ -92,7 +92,7 @@
 * 편측 호흡음 감소/소실 + 심한 호흡곤란·혈역학적 이상 ± 기관 변위(후기 소견) `긴장성 기흉`
 * ACS가 의심되면서 현재 흉통이 지속되거나, 최근 12시간 이내 흉통이 있었고 ECG 이상 또는 ECG 시행 불가 `ACS`
 * 새로 발생하거나 악화된 휴식 시 흉통 또는 진행성 흉통이 현재 지속되거나 반복 `ACS`
-* 흉통 + 새로 발생한 수축기 잡음 + 급성 호흡곤란/폐부종 또는 저혈압 `급성 MR` `유두근 파열`&#x20;
+* 흉통 + 새로 발생한 수축기 잡음 + 급성 호흡곤란/폐부종 또는 저혈압 `급성 MR` `유두근 파열`
 * 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력) `대동맥장누공`
 
 <mark style="color:$warning;">**당일 평가**</mark>
@@ -107,7 +107,7 @@
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 일정 운동량 이상에서만 발생하고 휴식으로 수 분 내 호전되며 최근 악화가 없는 운동 시 흉통 `안정형 협심증`&#x20;
+* 일정 운동량 이상에서만 발생하고 휴식으로 수 분 내 호전되며 최근 악화가 없는 운동 시 흉통 `안정형 협심증`
 * 혈역학적으로 안정적이고 우연히 발견된 심잡음 (급성 MR 시사 소견 없음) `판막 기능이상`
 * 설명할 수 없는 체중 감소 `악성 종양` `만성 중증 질환`
 
@@ -215,13 +215,13 @@
 
 #### <mark style="color:$primary;">Marburg Heart Score (MHS)</mark>
 
-<table><thead><tr><th width="359.52630615234375">소견</th><th width="82.803466796875">배점</th><th>판정</th></tr></thead><tbody><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>1</td><td rowspan="5"><p>▶CAD 예측 : </p><p>0~1점=0.6% (저위험), <br>2~3점=12.1%(중등위험), <br>4~5점=62.7%(고위험) <br>☞ <a href="https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs">계산기</a></p></td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>1</td></tr><tr><td>압박에 의해 통증 재현 안 됨</td><td>1</td></tr><tr><td>운동 시 통증 악화</td><td>1</td></tr><tr><td>환자 스스로 심장에 의한 통증으로 생각함</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="359.52630615234375">소견</th><th width="82.803466796875">배점</th><th>판정</th></tr></thead><tbody><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>1</td><td rowspan="5"><p>▶CAD 예측 :</p><p>0~1점=0.6% (저위험),<br>2~3점=12.1%(중등위험),<br>4~5점=62.7%(고위험)<br>☞ <a href="https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs">계산기</a></p></td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>1</td></tr><tr><td>압박에 의해 통증 재현 안 됨</td><td>1</td></tr><tr><td>운동 시 통증 악화</td><td>1</td></tr><tr><td>환자 스스로 심장에 의한 통증으로 생각함</td><td>1</td></tr></tbody></table>
 
 > _위 확률은 원 코호트 연구에서 관찰된 값으로 모집단에 따라 달라질 수 있음. 문헌·임상 적용에 따라 ≤2점/≥3점의 이분법 또는 0\~2점/3점/4\~5점의 3단계 분류도 함께 사용되므로, MHS는 응급 ACS 배제 도구가 아니라 안정적인 외래 환자의 CAD 가능성 평가 보조 도구로만 사용_
 
 #### <mark style="color:$primary;">INTERCHEST Rule</mark>
 
-<table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th><th>판정</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td><td rowspan="6">▶CAD 가능성 : <br>＜2점 = 낮은 가능성, <br>≥2점 = 추가 평가가 필요한 군. <br>원 연구에서 관찰된 CAD 확률은 각각 2.1%, 43.0%이며 모집단에 따라 달라질 수 있음. <br>ACS의 응급 배제에는 사용하지 않음 <br>☞ <a href="https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care">계산기</a></td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD 병력</td><td>+1</td></tr></tbody></table>
+<table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th><th>판정</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td><td rowspan="6">▶CAD 가능성 :<br>＜2점 = 낮은 가능성,<br>≥2점 = 추가 평가가 필요한 군.<br>원 연구에서 관찰된 CAD 확률은 각각 2.1%, 43.0%이며 모집단에 따라 달라질 수 있음.<br>ACS의 응급 배제에는 사용하지 않음<br>☞ <a href="https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care">계산기</a></td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD 병력</td><td>+1</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">HEART Score</mark>
 
@@ -310,24 +310,27 @@
 
 <mark style="color:cyan;">**협심증을 시사하는 주요 증상 특징**</mark>
 
-* 협심증을 시사하는 3가지 특징
+* [협심증](../225_/097_-angina-pectoris.md)을 시사하는 3가지 특징
   1. 특징적인 성상과 지속 시간을 보이는 흉골 뒤 불편감
   2. 운동 또는 정신적 스트레스에 의해 유발
   3. 휴식 또는 nitroglycerin에 의해 수 분 내 완화
-* 해석 : 위 3가지 특징이 함께 있으면 협심증 가능성을 높이는 병력으로 평가함. 다만 특징의 개수만으로 '심장성·심장성 가능·비심장성'을 결정하지 않으며, 일부 특징이 없더라도 ACS를 배제할 수 없음. 전체 병력·위험인자·ECG 및 필요한 검사를 종합하여 판단함. (☞ [협심증](../225_/097_-angina-pectoris.md))
-  * 20분 이상 지속되는 흉통은 ACS 가능성을 높이는 별도 경고 소견으로 평가
+* 해석 : 위 3가지 특징이 함께 있으면 협심증을 시사하는 병력으로 평가함
+  * 단, 특징의 개수만으로 '심장성·심장성 가능·비심장성'을 결정하지 않으며, 일부 특징이 없더라도 ACS를 배제할 수 없음. 전체 병력·위험인자·ECG 및 필요한 검사를 종합하여 판단함
+    * 20분 이상 지속되는 흉통은 ACS 가능성을 높이는 별도 경고 소견으로 평가
 
 #### <mark style="color:$primary;">흉통 양상에 따른 허혈성 감별</mark>
 
 * 병력 청취 시 아래 7가지 항목을 체계적으로 확인
 
-<table data-search="false"><thead><tr><th width="192">항목</th><th>허혈성 심질환을 시사하는 소견</th><th>허혈성 심질환 가능성이 낮은 소견</th></tr></thead><tbody><tr><td><strong>성상 (Nature)</strong></td><td>흉골하 불편감 (압박·무거움·조임·쥐어짜는 느낌·압박감·수축감)</td><td>흡기 시 악화되고 반듯이 누웠을 때 심해지는 예리한 통증 → 허혈성 질환보다 급성 심낭염 가능성 시사</td></tr><tr><td><strong>시작·기간 (Onset &#x26; Duration)</strong></td><td>수 분에 걸쳐 점차 강도가 증가</td><td>수 초 단위의 순간적 통증 → 허혈성 질환 가능성 낮음; 갑자기 최대 강도로 시작되는 찢어지는 흉통 (등·복부로 방사) → AAS 강력 시사</td></tr><tr><td><strong>위치·방사 (Location &#x26; Radiation)</strong></td><td>흉골하; 특징적 방사통 (좌측 팔·목·턱·상복부)</td><td>매우 국소적으로 한 점에 한정된 통증, 배꼽 아래로 방사되는 통증 → 심근 허혈 가능성 낮음</td></tr><tr><td><strong>중증도 (Severity)</strong></td><td>-</td><td>"생애 최악의 통증"이라고 표현되는 찢어지는 흉통, 특히 고혈압 환자·이첨판 대동맥판·대동맥 확장 병력자 → AAS 시사</td></tr><tr><td><strong>유발·악화 인자 (Precipitating factors)</strong></td><td>운동 또는 정신적 스트레스로 유발; 휴식 시 또는 최소 활동에서 발생하는 협심증 증상 → ACS 시사</td><td>자세 변화에 의한 흉통 → 대개 비허혈성 (근골격계)</td></tr><tr><td><strong>완화 인자 (Relieving factors)</strong></td><td>니트로글리세린 반응¹⁾</td><td>-</td></tr><tr><td><strong>동반 증상 (Associated symptoms)</strong></td><td>호흡곤란·두근거림·발한·어지럼증·실신 전조·상복부 통증·식사와 무관한 속쓰림·오심·구토; 당뇨·여성·고령 환자에서는 좌측 흉통·우측 흉통·찌르는 통증·인후부/복부 불편감이 나타날 수 있음</td><td>-</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="192">항목</th><th>허혈성 심질환을 시사하는 소견</th><th>허혈성 심질환 가능성이 낮은 소견</th></tr></thead><tbody><tr><td><strong>성상 (Nature)</strong></td><td>흉골하 불편감 (압박·무거움·조임·쥐어짜는 느낌·압박감·수축감)</td><td>흡기 시 악화되고 반듯이 누웠을 때 심해지는 예리한 통증 → 허혈성 질환보다 급성 심낭염 가능성 시사</td></tr><tr><td><strong>시작·기간 (Onset &#x26; Duration)</strong></td><td>수 분에 걸쳐 점차 강도가 증가</td><td>수 초 단위의 순간적 통증 → 허혈성 질환 가능성 낮음; 갑자기 최대 강도로 시작되는 찢어지는 흉통 (등·복부로 방사) → AAS 강력 시사</td></tr><tr><td><strong>위치·방사 (Location &#x26; Radiation)</strong></td><td>흉골하; 특징적 방사통 (좌측 팔·목·턱·상복부)</td><td>매우 국소적으로 한 점에 한정된 통증, 배꼽 아래로 방사되는 통증 → 심근 허혈 가능성 낮음</td></tr><tr><td><strong>중증도 (Severity)</strong></td><td>-</td><td>"생애 최악의 통증"이라고 표현되는 찢어지는 흉통, 특히 고혈압 환자·이첨판 대동맥판·대동맥 확장 병력자 → AAS 시사</td></tr><tr><td><strong>유발·악화 인자 (Precipitating factors)</strong></td><td>운동 또는 정신적 스트레스로 유발; 휴식 시 또는 최소 활동에서 발생하는 협심증 증상 → ACS 시사</td><td>자세 변화에 의한 흉통 → 대개 비허혈성 (근골격계)</td></tr><tr><td><strong>완화 인자 (Relieving factors)</strong></td><td>니트로글리세린 반응*</td><td>-</td></tr><tr><td><strong>동반 증상 (Associated symptoms)</strong></td><td>호흡곤란·두근거림·발한·어지럼증·실신 전조·상복부 통증·식사와 무관한 속쓰림·오심·구토; 당뇨·여성·고령 환자에서는 좌측 흉통·우측 흉통·찌르는 통증·인후부/복부 불편감이 나타날 수 있음</td><td>-</td></tr></tbody></table>
 
-_¹⁾진단 기준으로는 사용 불가 (식도 연축도 반응함)_
-
-✽ _병력 청취 핵심 원칙 : 흉통의 특성은 반드시 환자로부터 직접 청취해야 함. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없음. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있음._
+> _\*진단 기준으로는 사용 불가 (식도 연축도 반응함)_
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 3</mark></em></p>
+
+{% hint style="info" %}
+**병력 청취 핵심 원칙** : 흉통의 특성은 반드시 환자로부터 직접 청취해야 함. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없음. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있음.
+{% endhint %}
 
 #### <mark style="color:$primary;">Pericarditis</mark>
 
@@ -335,13 +338,13 @@ _¹⁾진단 기준으로는 사용 불가 (식도 연축도 반응함)_
 
 #### <mark style="color:$primary;">Acute Aortic Syndrome (AAS)</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도까지 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
 
-_✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)_
+> _✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)_
+>
+> _✽ 등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨_
 
-_✽ 등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨_
-
-_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis &#x26; Pericarditis Guidelines</mark></em></p>
 
 ### <mark style="color:orange;">폐 기원 흉통</mark>
 
@@ -353,12 +356,9 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 * 폐색전증 가능성 평가
 
-<table data-search="false"><thead><tr><th width="471.5263671875">소견</th><th width="90.17181396484375">배점</th></tr></thead><tbody><tr><td>임상적 DVT 소견: 심부정맥 주행을 따른 압통 및 편측 하지 종창</td><td>3</td></tr><tr><td>PE보다 더 가능성 높은 다른 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>현재 치료 중, 최근 6개월 이내 치료했거나 완화치료 중인 악성 종양 (+)</td><td>1</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="494.5263671875">소견</th><th width="54.17181396484375">배점</th><th>판정</th></tr></thead><tbody><tr><td>임상적 DVT 소견: 심부정맥 주행을 따른 압통 및 편측 하지 종창</td><td>3</td><td rowspan="7"><p></p><p>▶폐색전증 가능성 : <br>＞6점=가능성 높음, <br>2~6점=중등도, <br>＜2점=낮음 ☞ <a href="https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism">계산기</a></p><p><br>2단계 분류(현재 진단 알고리듬에서 주로 사용): Wells ≤4점 = PE unlikely → D-dimer로 배제 시도, Wells ＞4점 = PE likely → 즉시 영상검사(CTPA)</p></td></tr><tr><td>PE보다 더 가능성 높은 다른 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>현재 치료 중, 최근 6개월 이내 치료했거나 완화치료 중인 악성 종양 (+)</td><td>1</td></tr></tbody></table>
 
-▶폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
-
-* 2단계 분류(현재 진단 알고리듬에서 주로 사용): Wells ≤4점 = PE unlikely → D-dimer로 배제 시도, Wells ＞4점 = PE likely → 즉시 영상검사(CTPA)
-  * PE unlikely 등 비고위험 환자에서 50세 초과이면 연령 보정 기준(나이×10 ng/㎖, FEU) 또는 검증된 YEARS 경로를 사용할 수 있으며, 서로 다른 경로의 기준값을 섞지 않음. 검사실 단위와 assay별 기준을 확인
+* PE unlikely 등 비고위험 환자에서 50세 초과이면 연령 보정 기준(나이×10 ng/㎖, FEU) 또는 검증된 YEARS 경로를 사용할 수 있으며, 서로 다른 경로의 기준값을 섞지 않음. 검사실 단위와 assay별 기준을 확인
 * 위 3단계 분류(＜2, 2\~6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리듬에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4\~6점 환자에서 평가가 지연될 수 있음
 
 {% hint style="info" %}
@@ -378,9 +378,10 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 #### <mark style="color:$primary;">PERC Rule for Pulmonary Embolism</mark>
 
 * PE 배제 도구. 임상적 PE 사전확률이 ＜15%인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능
-* Wells와의 관계 : Wells ＜2점이면서 전체 임상 판단도 저위험인 환자가 적용 대상의 예임. Wells ≤4점(PE unlikely)이라는 이유만으로 모든 환자에게 적용하지 않으며, 중등도 이상 가능성이 있으면 사용하지 않음 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
+* Wells와의 관계 : Wells ＜2점이면서 전체 임상 판단도 저위험인 환자가 적용 대상의 예임
+  * Wells ≤4점(PE unlikely)이라는 이유만으로 모든 환자에게 적용하지 않으며, 중등도 이상 가능성이 있으면 사용하지 않음 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
-<table data-search="false"><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>＜50세</td></tr><tr><td>심박수</td><td>＜100회/분</td></tr><tr><td>SpO₂</td><td>실내 공기에서 ≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>4주 이내 입원 또는 기관삽관이 필요했던 수술·외상 없음</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="209">항목</th><th width="422.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>＜50세</td></tr><tr><td>심박수</td><td>＜100회/분</td></tr><tr><td>SpO₂</td><td>실내 공기에서 ≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>4주 이내 입원 또는 기관삽관이 필요했던 수술·외상 없음</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
 
 ### <mark style="color:orange;">비-심폐 기원 흉통</mark>
 
