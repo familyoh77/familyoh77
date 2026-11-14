@@ -284,7 +284,7 @@ flowchart TD
 * 부작용 : 졸음, 어지럼, 구역
 * afloqualone : 20 ㎎ tid [아로베스트](https://www.health.kr/drug/A11ABBBBB1358)
 * eperisone : 50 ㎎ tid 식후 [에페신](https://www.health.kr/drug/A11A3180A0300). 중증 근무력증은 금기임
-* cyclobenzaprine : 국내 서방형 [본렉스이알](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791) 15 ㎎ qd, 필요시 30 ㎎ qd; 2\~3주 이상 장기 투여하지 않음. 65세 이상·간장애 환자에는 투여하지 않으며, 부정맥·심부전·심전도 전도장애·갑상선항진증·MAO 억제제 병용 등 금기를 확인함. 해외 속방형 5\~10 ㎎ tid 용량을 이 제품에 적용하지 않음. 본렉스이알 15 ㎎은 2026-11-01 급여 삭제가 확인되며, 처방 전 현행 허가·공급 상태를 확인함
+* cyclobenzaprine : 국내 서방형 [본렉스이알](https://health.kr/drug/2009071505791) 15 ㎎ qd, 필요시 30 ㎎ qd; 2\~3주 이상 장기 투여하지 않음. 65세 이상·간장애 환자에는 투여하지 않으며, 부정맥·심부전·심전도 전도장애·갑상선항진증·MAO 억제제 병용 등 금기를 확인함. 해외 속방형 5\~10 ㎎ tid 용량을 이 제품에 적용하지 않음. 본렉스이알 15 ㎎은 2026-11-01 급여 삭제가 확인되며, 처방 전 현행 허가·공급 상태를 확인함
 * tizanidine : 초기 1\~2 ㎎ tid 식후 [티자리드 1 ㎎](https://www.health.kr/drug/2010030200003). Ciprofloxacin·fluvoxamine 병용은 금기이며, 저혈압·서맥·졸음·간기능 이상에 주의함; 고령·신기능 저하 시 감량을 고려하고, 현저한 간기능 손상은 금기임
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
