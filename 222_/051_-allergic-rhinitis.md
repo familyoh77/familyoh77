@@ -67,7 +67,7 @@
 * IgE → mast cell·basophil 감작 → 재노출 시 탈과립 → histamine·leukotriene·PGD2 방출 → 가려움·재채기·수양성 콧물·코막힘; 수 분\~1시간 **\[early-phase response]**
 * 호산구 등 염증세포 침윤 → MBP·ECP 등 독성 단백 → 점막 부종·과민성 증가 → 코막힘 우세; 4\~8시간 후 **\[late-phase reaction]**
 
-#### <mark style="color:$primary;">약물 관련 비염 (Drug-induced Rhinitis)</mark>
+#### <mark style="color:$primary;">약물 관련 비염 (Drug-induced Rhinitis)</mark> <a href="#drug-induced-rhinitis" id="drug-induced-rhinitis"></a>
 
 * 고령 다약제 복용 환자에서 특히 주의; 치료 실패 또는 비전형 증상 시 복용 중인 약물 목록 전수 확인 권고
 
@@ -92,8 +92,8 @@
 * 아스피린 또는 NSAIDs 복용 후 기도 과민 반응이 유발되는 증후군으로 다음 3가지 질환이 함께 나타남(구 Samter's triad); ① 만성 비부비동염 + 비용종 (코막힘, 후각 저하), ② 천식 (기관지 과민), ③ 아스피린/NSAID 과민반응 (복용 후 수분\~수 시간 내 코막힘, 천명, 호흡곤란 발생)
 * 기전 : COX-1 억제 → 아라키돈산이 lipoxygenase 경로로 쏠림 → cysteinyl leukotriene 과잉 생산 → 비강 점막과 기관지의 강력한 염증·수축 반응 유발; LTRA가 보조적으로 도움이 될 수 있으나, 근본 관리는 원인 약물 회피이며 전문가 판단 아래 아스피린 탈감작·생물학적 제제를 고려
 * 유병률 : 성인 천식의 약 7%, 중증 천식의 약 15%, 비용종 환자의 약 10% <mark style="color:$info;">\[J Allergy Clin Immunol 2015]</mark>
-* COX-1 억제제 계열 전체가 위험. 선택적 COX-2 억제제(예: celecoxib)의 높은 내약성에 관한 임상 근거와 국내 품목허가는 구분함. 국내 쎄레브렉스는 aspirin·다른 NSAID에 대한 천식·급성 비염·비측 폴립·혈관부종·두드러기 또는 알레르기 반응 병력 등이 금기이므로, 내약성 근거를 일반 진료에서의 처방 허용으로 해석하지 않음(001 참조). 필요한 대체 약제 선택·유발시험 등은 알레르기 전문진료로 의뢰
-* Acetaminophen은 내약성 연구에서 대체로 내약되지만 용량 의존적 교차반응이 가능하며 650\~1,000 ㎎뿐 아니라 드물게 저용량에서도 반응할 수 있음 <mark style="color:$info;">\[J Allergy Clin Immunol 2022]</mark>. 국내 타이레놀정500㎎·타이레놀8시간이알서방정·세토펜현탁액 등은 aspirin 천식 또는 그 병력이 투여 금기이므로, 1회 500 ㎎ 등 저용량으로 자동 대체하지 않음. 내약성 근거와 국내 제품 금기를 구분하고 진통제 선택은 전문적으로 평가(001 참조)
+* COX-1 억제제 계열 전체가 위험. 선택적 COX-2 억제제(예: celecoxib)의 높은 내약성에 관한 임상 근거와 국내 품목허가는 구분함. 국내 [쎄레브렉스](https://www.health.kr/drug/A11ABBBBB1345)는 aspirin·다른 NSAID에 대한 천식·급성 비염·비측 폴립·혈관부종·두드러기 또는 알레르기 반응 병력 등이 금기이므로, 내약성 근거를 일반 진료에서의 처방 허용으로 해석하지 않음(001 참조). 필요한 대체 약제 선택·유발시험 등은 알레르기 전문진료로 의뢰
+* Acetaminophen은 내약성 연구에서 대체로 내약되지만 용량 의존적 교차반응이 가능하며 650\~1,000 ㎎뿐 아니라 드물게 저용량에서도 반응할 수 있음 <mark style="color:$info;">\[J Allergy Clin Immunol 2022]</mark>. 국내 [타이레놀정500㎎](https://www.health.kr/drug/2021082400002)·[타이레놀8시간이알서방정](https://www.health.kr/drug/2022020300026)·[세토펜현탁액](https://www.health.kr/drug/A11A0610B0025) 등은 aspirin 천식 또는 그 병력이 투여 금기이므로, 1회 500 ㎎ 등 저용량으로 자동 대체하지 않음. 내약성 근거와 국내 제품 금기를 구분하고 진통제 선택은 전문적으로 평가(001 참조)
 * 비용종 환자나 천식 환자 내원 시 아스피린이나 소염 진통제 복용 후 코막힘이 심해지거나 숨이 찬 적이 있는지 확인
 {% endhint %}
 
@@ -139,7 +139,7 @@
 * 증상·병력·신체 검진 및 치료 반응으로 임상 진단
 * 지속적 비염 환자는 적응되어 증상을 과소 보고하는 경향이 있음 - 능동적 문진 필요
 
-### <mark style="color:orange;">AR vs 비-알레르기비염(NAR) 감별</mark>
+### <mark style="color:orange;">AR vs 비-알레르기비염(NAR) 감별</mark> <a href="#ar-vs-nar" id="ar-vs-nar"></a>
 
 <table data-search="false"><thead><tr><th width="136">임상 특징</th><th>AR</th><th>NAR</th></tr></thead><tbody><tr><td>악화 요인</td><td>관련 알레르겐 노출; 계절 영향 가능</td><td>온도·습도 변화, 냄새·매연·자극 물질, 음식, 약물 등</td></tr><tr><td>알레르기 가족력</td><td>흔함</td><td>상대적으로 적음</td></tr><tr><td>코·눈 가려움</td><td>특징적</td><td>드묾</td></tr><tr><td>재채기</td><td>흔함</td><td>가능하나 덜 특징적</td></tr><tr><td>콧물·후비루</td><td>수양성 콧물 흔함; 후비루 가능</td><td>콧물·후비루 모두 흔할 수 있음</td></tr><tr><td>검사</td><td>임상적으로 관련된 피부단자검사 또는 혈청 특이 IgE 양성</td><td>전신 감작 검사 음성; LAR는 비강 알레르겐 유발검사로 감별</td></tr><tr><td>코 점막 소견</td><td>창백·부종이 흔하나 비특이적</td><td>정상·발적·부종 등 다양하며 단독 감별 불가</td></tr></tbody></table>
 
@@ -198,7 +198,7 @@
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark> <a href="#management" id="management"></a>
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
@@ -233,75 +233,71 @@
 
 ### <mark style="color:orange;">중증도별 치료 방침</mark>
 
-<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)는 국내 사용 가능한 단독 품목·공급을 확인한 경우<br>• 비내 스테로이드(INCS) 중 선택</td><td>코막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제</td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR - <mark style="color:blue;">딜라스틴·리알트리스</mark>, 통년성 AR - <mark style="color:blue;">딜라스틴·모테손플러스</mark>(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증,<br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)는 국내 사용 가능한 단독 품목·공급을 확인한 경우<br>• 비내 스테로이드(INCS) 중 선택</td><td>코막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제</td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR - <mark style="color:blue;"><a href="https://www.health.kr/drug/2015022700005">딜라스틴</a>·<a href="https://www.health.kr/drug/2022093000004">리알트리스</a></mark>, 통년성 AR - <mark style="color:blue;">딜라스틴·<a href="https://www.health.kr/drug/2012111900010">모테손플러스</a></mark>(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증,<br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
 
 > \*_LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 선택적으로 고려. OAH+LTRA의 routine 병용은 권고하지 않으며, FDA 박스형 경고(신경정신계 부작용)를 고려하여 처방 전 위험-이익을 충분히 논의_
 
 ***
 
 ```mermaid
-graph TD
-    Start(["비염 의심 또는 진단"]) --> RedQ["즉각 조치 또는 당일~수일 내 <br/>평가 항목에 해당?"]
-    RedQ -->|예| Urgent["항목별 긴급도에 따라 <br/>조치·평가·의뢰"]
-    RedQ -->|아니오| Assess["중증도·기간 및 <br/>천식·결막염 등 평가"]
+flowchart TD
+    Start["비염 의심 또는 진단"] --> RedQ["즉각 조치 항목에 해당?"]
+    RedQ -- "예" --> Emergency["즉시 응급 처치·의뢰"]
+    RedQ -- "아니요" --> EarlyQ["당일~수일 내 평가 항목에 해당?"]
+    EarlyQ -- "예" --> Urgent["해당 긴급도에 따라 원인 평가·의뢰"]
+    EarlyQ -- "아니요" --> Assess["중증도·기간 및 천식·결막염 등 평가"]
     Assess --> Mild["경증·간헐적"]
     Assess --> ModSev["지속적 또는 중등증~중증"]
-    Mild --> AH["경구 항히스타민제 또는 INCS; <br/>INAH 단독제는 국내 사용 가능 시"]
+    Mild --> AH["경구 항히스타민제 또는 INCS; INAH 단독제는 국내 사용 가능 시"]
     ModSev --> INCS0["INCS 단독"]
-    ModSev -->|심한 증상·빠른 조절 필요| Combo0["INCS+INAH 복합제"]
+    ModSev -- "심한 증상·빠른 조절 필요" --> Combo0["INCS+INAH 복합제"]
     AH --> Review1["2~4주 후 치료 반응 평가"]
     INCS0 --> Review1
     Combo0 --> Review1
     Review1 --> Control1["충분히 조절됨?"]
-    Control1 -->|예| Maintain["유지 또는 노출·증상에 따른 <br/>최저 유효 용량 조정"]
-    Control1 -->|아니오| Check1["순응도·분무법·진단 재평가"]
-    Check1 -->|진단 수정 필요| Refer["원인별 평가·치료 <br/>또는 전문과 의뢰"]
-    Check1 -->|AR 치료 강화 필요| Combine["INCS 용량 최적화 또는 <br/>INCS+INAH 전환"]
+    Control1 -- "예" --> Maintain["유지 또는 노출·증상에 따른 최저 유효 용량 조정"]
+    Control1 -- "아니요" --> Check1["순응도·분무법·진단 재평가"]
+    Check1 -- "진단 수정 필요" --> Refer["원인별 평가·치료 또는 전문과 의뢰"]
+    Check1 -- "AR 치료 강화 필요" --> Combine["INCS 용량 최적화 또는 INCS+INAH 전환"]
     Combine --> Control2["여전히 조절 불충분?"]
-    Control2 -->|아니오| Maintain
-    Control2 -->|예| Symptoms(["우세 증상·동반 질환별 <br/>선택적 추가"])
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class RedQ,Control1,Control2 yellow
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class INCS0,Combo0,AH,Combine sky
-    classDef orange fill:#fdebd0,stroke:#e67e22
-    class Urgent,Refer orange
-    classDef pink fill:#fde8f0,stroke:#e91e8c
-    class Mild,ModSev pink
-    style Symptoms fill:#eeeeee,stroke:#888888,stroke-width:4px
+    Control2 -- "아니요" --> Maintain
+    Control2 -- "예" --> Symptoms["우세 증상·동반 질환별 선택적 추가"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ff6b6b,stroke:#c0392b,color:#ffffff
+    classDef action fill:#d0e8ff,stroke:#1a6abf
+    class Start start
+    class RedQ,EarlyQ,Control1,Control2 question
+    class Emergency emergency
+    class Urgent,Assess,Mild,ModSev,AH,INCS0,Combo0,Review1,Maintain,Check1,Refer,Combine,Symptoms action
 ```
 
 ```mermaid
-graph TD
+flowchart TD
 
-Symptoms(["우세 증상·동반 질환별 <br/>선택적 추가"])
-Symptoms --> Tx1["수성 콧물: <br/>ipratropium"]
-Symptoms --> Tx2["안구 증상: 점안제; <br/>이득이 있으면 <br/>OAH 고려"]
-Symptoms --> Tx3["천식·NERD: <br/>별도 관리; <br/>LTRA 선택적 고려"]
-Symptoms --> Tx4["심한 코막힘: <br/>단기 혈관수축제; <br/>12세 미만 피함"]
-Tx1 --> Reassess["추가 치료 후 <br/>반응·부작용 재평가"]
+Symptoms["우세 증상·동반 질환별 선택적 추가"]
+Symptoms --> Tx1["수성 콧물: ipratropium"]
+Symptoms --> Tx2["안구 증상: 점안제; 이득이 있으면 OAH 고려"]
+Symptoms --> Tx3["천식·NERD: 별도 관리; LTRA 선택적 고려"]
+Symptoms --> Tx4["심한 코막힘: 단기 혈관수축제; 12세 미만 피함"]
+Tx1 --> Reassess["추가 치료 후 반응·부작용 재평가"]
 Tx2 --> Reassess
 Tx3 --> Reassess
 Tx4 --> Reassess
 Reassess --> Control3["충분히 조절됨?"]
-Control3 -->|예| Maintain["유지 또는 노출·증상에 따른 <br/>최저 유효 용량 조정"]
-Control3 --->|아니오| Fail3["불응성 비염: <br/>전문가 평가"]
-Fail3 --> Cause1["구조적 이상: <br/>수술적 치료 평가"]
-Fail3 --> Cause2["관련 감작 또는 LAR: <br/>전문가 판단 후 <br/>AIT 고려"]
-Fail3 --> Cause3["만성 비부비동염<br/>·비용종 등 <br/>재평가"]
-Fail3 --> Rescue["매우 심한 난치성: <br/>예외적 단기 <br/>경구 스테로이드 판단"]
-
-style Symptoms fill:#eeeeee,stroke:#888888,stroke-width:4px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class Control3,Reassess,Fail3 yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class Tx1,Tx2,Tx3,Tx4,Maintain sky
-classDef orange fill:#fdebd0,stroke:#e67e22
-class Cause1,Cause2,Cause3,Rescue orange
-
-
+Control3 -- "예" --> Maintain["유지 또는 노출·증상에 따른 최저 유효 용량 조정"]
+Control3 -- "아니요" --> Fail3["불응성 비염: 전문가 평가"]
+Fail3 --> Cause1["구조적 이상: 수술적 치료 평가"]
+Fail3 --> Cause2["관련 감작 또는 LAR: 전문가 판단 후 AIT 고려"]
+Fail3 --> Cause3["만성 비부비동염·비용종 등 재평가"]
+Fail3 --> Rescue["매우 심한 난치성: 예외적 단기 경구 스테로이드 판단"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ff6b6b,stroke:#c0392b,color:#ffffff
+    classDef action fill:#d0e8ff,stroke:#1a6abf
+    class Symptoms start
+    class Control3 question
+    class Tx1,Tx2,Tx3,Tx4,Reassess,Maintain,Fail3,Cause1,Cause2,Cause3,Rescue action
 ```
 
 <p align="center"><strong>알레르기비염 관리 알고리듬</strong></p>
@@ -310,7 +306,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ***
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 ### <mark style="color:orange;">알레르겐 회피</mark>
 
@@ -325,7 +321,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 <p align="center"><em><mark style="color:$info;">Ref. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis. 2017.</mark></em></p>
 
-### <mark style="color:orange;">비강 세척</mark>
+### <mark style="color:orange;">비강 세척</mark> <a href="#saline-irrigation" id="saline-irrigation"></a>
 
 * 기대효과 : 비강 내 점액·알레르겐·자극 물질 제거, sinus passage 습윤화, 섬모 운동 향상
 * 방법 : 고개를 앞으로 숙이고 옆으로 기울인 뒤 위쪽 코에 미지근한 등장성 생리식염수를 주입하여 아래쪽 코로 흘러나오게 함(사용하는 기구에 따라 자세를 조절)
@@ -368,7 +364,7 @@ class Cause1,Cause2,Cause3,Rescue orange
   * 소아에서의 성장 문제 : 낮은 전신 흡수율만으로 성장에 대한 스테로이드의 영향을 완전히 배제할 수 없으므로, 장기 사용 시 최저 유효 용량을 사용하고 정기적으로 성장을 확인. 영향은 성분·용량·연구에 따라 다르며, fluticasone furoate 비강분무제의 52주 소아 연구에서 위약 대비 약간의 성장 속도 감소가 보고됨 <mark style="color:$info;">\[J Allergy Clin Immunol Pract 2014]</mark>
 * 상호작용 : fluticasone은 ritonavir·cobicistat, itraconazole 등 강한 CYP3A4 저해제와 병용 시 전신 corticosteroid 부작용 위험 증가
 
-<table><thead><tr><th width="169">성분명 [상품명]</th><th width="82">1회 분무량</th><th width="129">성인 용량*</th><th>소아 용량*</th><th width="101">사용 연령</th><th width="95">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide<br><mark style="color:blue;">[옴나리스 나잘]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절 ≥6세<br>통년 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f.<br><mark style="color:blue;">[나조넥스 나잘]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f.<br><mark style="color:blue;">[아바미스 나잘]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>budesonide<br><mark style="color:blue;">[나리타점비액]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>≥6세</td><td>약 34%</td></tr><tr><td>triamcinolone<br><mark style="color:blue;">[나자코트 비액]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
+<table><thead><tr><th width="169">성분명 [상품명]</th><th width="82">1회 분무량</th><th width="129">성인 용량*</th><th>소아 용량*</th><th width="101">사용 연령</th><th width="95">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2009071505409">옴나리스 나잘</a>]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절 ≥6세<br>통년 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f.<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA3046">나조넥스 나잘</a>]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f.<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AKP08G2622">아바미스 나잘</a>]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>budesonide<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0840A0274">나리타점비액</a>]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>≥6세</td><td>약 34%</td></tr><tr><td>triamcinolone<br><mark style="color:blue;">[<a href="https://www.health.kr/drug/A11ABBBBB0934">나자코트 비액</a>]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
 
 > _\*비공 당 분무 횟수_\
 > _※ 흡수율은 제형·측정법에 따라 달라 직접적인 안전성 순위를 뜻하지 않음. budesonide는 6세 미만에서 안전성·유효성이 확립되지 않음._
@@ -391,12 +387,12 @@ class Cause1,Cause2,Cause3,Rescue orange
 4. 흡입구를 한쪽 비강에 삽입, 비중격이 아닌 비강 외측(눈 바깥쪽) 방향을 향하도록 기울인다.
    * Cross-hand technique : 오른쪽 코는 왼손으로, 왼쪽 코는 오른손으로 잡으면 자연스럽게 외측 벽을 향하게 됨
 5. 코로 숨을 천천히 들이마시기 시작함과 동시에 펌프를 누른다. 반대쪽 코는 막는다.
-6. 분무 후 5초간 숨을 멈추고 나서 입으로 천천히 내쉰다.
+6. 분무 후 입으로 천천히 내쉰다. 약을 목으로 넘기려 세게 들이마시지 않는다.
 7. 흘러내리는 약물은 휴지로 닦는다.
 8. 반대쪽 코에도 동일 방법으로 반복한다.
 9. 분무 후 15분간 코를 풀지 않는다.
 
-✽처음에는 찡한 느낌이 있을 수 있으나 문제없음
+✽일시적인 경미한 자극은 가능하나, 자극·통증이 지속되거나 코피가 반복되면 분무법과 점막 상태를 재평가함
 
 <figure><img src="../.gitbook/assets/알러지7.JPG" alt=""><figcaption></figcaption></figure>
 
@@ -414,7 +410,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 * 대상 : 적절한 비내 치료 등으로도 조절되지 않는 매우 심하거나 난치성인 AR에서 전문가 판단 아래 예외적으로 단기간 고려
 * 용법 : 필요한 경우 최소 유효 용량을 5\~7일의 짧은 기간 사용
-  * 성인 예) prednisolone 30 ㎎/d × 5일 <mark style="color:blue;">\[소론도]</mark>
+  * 성인 예) prednisolone 30 ㎎/d × 5일 <mark style="color:blue;">\[[소론도](https://www.health.kr/drug/A11A4290B0015)]</mark>
 * 단기 처방에서는 일반적으로 tapering 불필요
   * 기존 장기·반복 전신 스테로이드 사용력이나 부신 억제 가능성이 있으면 개별 판단
 
@@ -441,15 +437,15 @@ class Cause1,Cause2,Cause3,Rescue orange
 * 2세대 제제 우선 선택 - 졸음·항콜린 부작용 적거나 없음
 * 1세대 제제는 진정·인지 및 항콜린 부작용 때문에 AR에서는 권고하지 않음; 난치성 NAR 후비루에 보조적으로 고려한다는 의견이 있으나 근거가 부족하고 위험-이익을 개별 평가
 * **알레르기비염에서는** 경구 항히스타민제의 표준 용량 초과 증량·동일 계열 병용을 일상적으로 권하지 않음. 추가 효과 근거가 제한적이므로 효과 부족 시 INCS 또는 INCS+INAH 고정 복합제 등으로 조정함. 만성 두드러기의 최대 4배 증량 원칙과 구분함(☞ 212 항히스타민제)
-* cetirizine : 일부 졸음; 5\~10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
-* levocetirizine : 일부에서 졸음 가능; 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>
+* cetirizine : 일부 졸음; 5\~10 ㎎ qd <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>
+* levocetirizine : 일부에서 졸음 가능; 5 ㎎ qd <mark style="color:blue;">\[[씨잘](https://www.health.kr/drug/A11AOOOOO3892)]</mark>
   * cetirizine·levocetirizine을 장기 연속 복용하다 중단한 뒤 드물게 심한 전신 가려움이 발생할 수 있음(대개 중단 후 수일 이내); 발생 시 평가·상담. 모든 환자에게 일률적으로 감량 중단을 지시할 근거는 부족함 <mark style="color:$info;">\[FDA 2025]</mark>
-* fexofenadine : 진정 가능성이 매우 낮음; 자몽·오렌지·사과 주스와 함께 복용하면 흡수가 감소하므로 물과 복용; 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
-* loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-* desloratadine : 5 ㎎ qd <mark style="color:blue;">\[에리우스]</mark>
-* olopatadine : 5 ㎎ bid <mark style="color:blue;">\[알레락]</mark>
+* fexofenadine : 진정 가능성이 매우 낮음; 자몽·오렌지·사과 주스와 함께 복용하면 흡수가 감소하므로 물과 복용; 120 ㎎ qd; 신부전에서는 60 ㎎ qd로 시작 <mark style="color:blue;">\[[알레그라](https://www.health.kr/drug/A11ABBBBB1393)]</mark>
+* loratadine : 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://www.health.kr/drug/2009091800015)]</mark>
+* desloratadine : 5 ㎎ qd <mark style="color:blue;">\[[에리우스](https://www.health.kr/drug/A11AKP08G0615)]</mark>
+* olopatadine : 5 ㎎ bid <mark style="color:blue;">\[[알레락](https://www.health.kr/drug/A11ALLLLL0029)]</mark>
 * bepotastine : 10 ㎎ bid <mark style="color:blue;">\[타리온]</mark>
-* ebastine : 10 ㎎ qd <mark style="color:blue;">\[에바스텔]</mark>
+* ebastine : 10 ㎎ qd <mark style="color:blue;">\[[에바스텔](https://www.health.kr/drug/A11A0930A0365)]</mark>
 
 ### <mark style="color:orange;">α-Adrenergic Agonist (코 울혈 제거제)</mark>
 
@@ -463,7 +459,7 @@ class Cause1,Cause2,Cause3,Rescue orange
   * ARIA-EAACI는 12세 미만 소아에서 사용을 피하도록 제안
   * 임신부·고령자도 피함. 제품별 허가 연령·농도·금기를 구분하며 허가 연령만으로 AR에서의 사용을 권장하지 않음
   * MAO 억제제 병용 금기 등 제품별 금기를 확인 (비급여)
-* phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline+chlorpheniramine <mark style="color:blue;">\[나리스타]</mark>, xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
+* phenylephrine <mark style="color:blue;">\[[시네프린](https://www.health.kr/drug/2011040500003)]</mark>, naphazoline+chlorpheniramine <mark style="color:blue;">\[[나리스타](https://www.health.kr/drug/A11A0840A0173)]</mark>, xylometazoline <mark style="color:blue;">\[[오트리빈](https://www.health.kr/drug/A11ALLLLL0153)]</mark>, oxymetazoline <mark style="color:blue;">\[[레스피비엔](https://www.health.kr/drug/A11ALLLLL0015)]</mark>
 
 #### <mark style="color:$primary;">경구제</mark>
 
@@ -473,7 +469,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 * 신중 투여 : 전립선비대증·방광 기능 이상, 고령, 신장애·중증 간부전, 안압 상승, 디기탈리스 복용
 * 가역적 후뇌병증 증후군(PRES)/가역적 뇌혈관수축 증후군(RCVS) 경고 : 갑작스러운 심한 두통·번개두통, 시각장애, 혼돈·발작 등이 발생하면 즉시 중단하고 응급 평가
 * 발열·홍반·다수의 작은 농포(급성 전신 발진성 농포증, AGEP) 등 중증 피부반응 발생 시에도 중단·평가
-* pseudoephedrine : 30\~60 ㎎ tid\~qid (최대 240 ㎎/d) <mark style="color:blue;">\[슈다페드]</mark>
+* pseudoephedrine : 30\~60 ㎎ tid\~qid (최대 240 ㎎/d) <mark style="color:blue;">\[[슈다페드](https://www.health.kr/drug/A11A0500A0112)]</mark>
 * phenylephrine : 경구 10 ㎎은 비충혈 개선 효과가 입증되지 않아 routine 사용하지 않음. FDA는 유효성 부족을 근거로 OTC monograph에서 제외하는 제안 명령을 발표했으며, 최종 행정명령 여부는 추후 확인; 국내 일반의약품 복합 감기약에도 다수 함유
 
 ### <mark style="color:orange;">항콜린제, 비내</mark>
@@ -486,12 +482,12 @@ class Cause1,Cause2,Cause3,Rescue orange
 * 부작용 : 코·입마름, 국소 자극, 코막힘, 코피, 두통
 * 금기 : 폐쇄각녹내장·전립선비대증·감염성 비염
 * 눈에 분무되지 않도록 교육
-* ipratropium : 성인 및 12세 이상 각 비공 1 puff(42 ㎍) bid\~tid; 7\~12세 소아는 각 비공 1 puff bid <mark style="color:blue;">\[리노벤트비액]</mark>
+* ipratropium : 성인 및 12세 이상 각 비공 1 puff(42 ㎍) bid\~tid; 7\~12세 소아는 각 비공 1 puff bid <mark style="color:blue;">\[[리노벤트비액](https://www.health.kr/drug/A11A3780A0297)]</mark>
 
 ### <mark style="color:orange;">Cromolyn, 비내</mark>
 
 * mast cell 안정화제로 효과가 항히스타민제보다 약하고 1일 3\~6회 투여가 필요해 사용이 제한적임
-* 국내에는 비강용 단일제가 유통되지 않음 (점안제는 알레르기 결막염에 사용 <mark style="color:blue;">\[아이크롬점안액]</mark>)
+* 국내에는 비강용 단일제가 유통되지 않음 (점안제는 알레르기 결막염에 사용 <mark style="color:blue;">\[[아이크롬점안액](https://www.health.kr/drug/2014072300007)]</mark>)
 
 ### <mark style="color:orange;">항류코트리엔제 (Leukotriene Modifier)</mark>
 
@@ -502,8 +498,8 @@ class Cause1,Cause2,Cause3,Rescue orange
   * 치료하지 않은 AR에서 routine 1차 치료제로 권고하지 않음
   * OAH+LTRA는 OAH 단독보다 임상적으로 의미 있는 추가 이득이 없고 안전성 우려와 비용이 증가하므로 routine 병용하지 않음
 * 부작용 : 간 효소 상승(montelukast에서는 드묾), 불안, 우울, 수면 장애
-* montelukast : 10 ㎎ qd 저녁 <mark style="color:blue;">\[싱귤레어]</mark>
-* pranlukast : 성인 50 ㎎(1정) bid, 아침·저녁 식후 <mark style="color:blue;">\[씨투스정50㎎]</mark> (소아는 별도 제형의 연령·체중별 허가용량 적용)
+* montelukast : 10 ㎎ qd 저녁 <mark style="color:blue;">\[[싱귤레어](https://www.health.kr/drug/A11ADDDDD0796)]</mark>
+* pranlukast : 성인 50 ㎎(1정) bid, 아침·저녁 식후 <mark style="color:blue;">\[[씨투스정50㎎](https://www.health.kr/drug/2016032200010)]</mark> (소아는 별도 제형의 연령·체중별 허가용량 적용)
 * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20231001\&sno=6\&mtgMtrRegSno=0013) : montelukast·pranlukast는 허가 범위 내에서 ① 1차 항히스타민제로 개선되지 않는 비폐색, ② 비폐색이 주 증상, ③ 비충혈제거제 또는 비강분무 스테로이드를 사용하지 못하는 경우에 AR 급여 인정; 항히스타민제와 동시 투여 가능. montelukast+levocetirizine 복합제는 천식 동반 등 별도 기준을 확인
 
 {% hint style="danger" %}
@@ -514,7 +510,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 * 기전 : 순환 IgE와 결합 → mast cell·basophil 활성화 차단
 * 알레르기비염 자체에는 국내 허가 적응증이 없음
-* omalizumab <mark style="color:blue;">\[졸레어프리필드시린지주]</mark>은 동반 중증 지속성 알레르기성 천식, 비용종 동반 만성 비부비동염 또는 만성 자발성 두드러기의 각 허가 적응증에 따라 전문가가 사용
+* omalizumab <mark style="color:blue;">\[[졸레어프리필드시린지주](https://www.health.kr/drug/2017062700009)]</mark>은 동반 중증 지속성 알레르기성 천식, 비용종 동반 만성 비부비동염 또는 만성 자발성 두드러기의 각 허가 적응증에 따라 전문가가 사용
   * 알레르기성 천식과 비용종 동반 만성 비부비동염에서는 치료 전 혈청 총 IgE와 체중에 따라 75\~600 ㎎을 2주 또는 4주 간격으로 SC 투여
 
 ### <mark style="color:orange;">기타 생물학적 제제</mark>
@@ -561,29 +557,16 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ### <mark style="color:orange;">임신 중</mark>
 
-* 비-약물 치료(비강 세척) 우선 선택
-* 증상이 임상적으로 의미 있으면 임신 초기에도 위험-이익을 평가하여 비교적 안전성이 확립된 국소 치료를 사용할 수 있음 (✽ FDA의 과거 A/B/C/D/X 임신 등급은 현재 사용하지 않음)
-* 국제 임신 자료에서는 사용 경험이 축적된 loratadine 또는 cetirizine을 고려하지만, 이를 국내 제품의 허가로 해석하지 않음
-  * **국내 클라리틴정(loratadine)은 임부·수유부 금기**이며, 지르텍정(cetirizine)은 임신 중 주의가 필요함. 임신 중 약제 선택은 개별 제품의 최신 국내 허가사항과 위험-이익을 확인하여 결정함 <mark style="color:$info;">[국내 제품별 허가사항; 212 항히스타민제]</mark>
-  * 진정성 제제가 필요하면 chlorpheniramine을 선택할 수 있음
-* INCS 단일제 : 임신 안전성 자료가 가장 풍부한 budesonide를 우선 고려
-  * mometasone 또는 fluticasone 단일제 유지도 위험-이익 평가 후 고려
-  * triamcinolone은 2016년 코호트에서 1삼분기 노출과 선천성 호흡기계 결함의 연관 신호가 보고되었으나 증례 수가 적고 우연 가능성을 배제할 수 없어 우선 선택하지 않음 <mark style="color:$info;">\[J Allergy Clin Immunol 2016]</mark>
-* INCS+INAH 복합제 : 단일제의 임신 안전성 자료를 그대로 적용하지 않음
-  * <mark style="color:blue;">\[딜라스틴]</mark>·<mark style="color:blue;">\[모테손플러스]</mark>는 국내 허가상 임부 금기, <mark style="color:blue;">\[리알트리스]</mark>는 임부·수유부 신중 투여로 개별 위험-이익 평가
-* 경구·비내 코 울혈 제거제는 특히 임신 1삼분기에 피하고, 이후에도 이득이 위험보다 큰 예외적 상황에서만 단기간 고려
-* montelukast : 주로 천식 연구에서 비교적 안심할 수 있는 관찰 자료가 있으나 AR만을 위해 새로 시작하기보다, 기존 치료로 조절되지 않거나 동반 천식의 적응증이 있을 때 개별 판단
-* 알레르겐 면역요법은 임신 중 새로 시작하지 않음; 임신 전부터 안정적인 유지 용량으로 시행 중이면 증량하지 않고 전문가 판단 아래 지속 가능
+* 비-약물 치료(알레르겐 노출 감소·생리식염수 비강 세척)를 우선함
+* 증상이 임상적으로 의미 있으면 제품별 허가사항과 위험-이익을 평가하여 치료함
+* INCS 단일제 : 임신 안전성 자료가 풍부한 budesonide를 우선 고려하며, mometasone·fluticasone 단일제의 유지도 개별 판단할 수 있음
+* 경구 항히스타민제가 필요하면 cetirizine을 개별 위험-이익 평가 후 고려하며, 진정성 제제가 필요한 경우 chlorpheniramine을 선택할 수 있음(☞ 212 항히스타민제)
+* 임신 전부터 안정적인 유지 용량으로 시행 중인 알레르겐 면역요법은 증량 없이 전문가 판단 아래 지속 가능
 
 ### <mark style="color:orange;">수유 중</mark>
 
-* 경구 항히스타민제 : 국제 수유 자료에서는 cetirizine·loratadine 등 진정이 상대적으로 적은 2세대 제제를 선호하지만, 국내 제품의 허가사항을 별도로 확인함
-  * **국내 클라리틴정은 수유부 금기**, 지르텍정은 수유 중 주의가 필요함. 투여 필요성과 영아의 졸림·수유 상태를 함께 평가함 <mark style="color:$info;">[국내 제품별 허가사항; 212 항히스타민제]</mark>
-  * 1세대 제제는 영아 졸음과 모유량 감소 가능성이 있어 최소 유효 용량으로 단기간 사용하고 영아를 관찰
-* INCS 단일제 : 전신 흡수가 적어 일반적으로 사용을 고려할 수 있으나 제품별 허가사항과 위험-이익을 확인
-  * 복합제에 동일하게 적용하지 않음
-* pseudoephedrine : 모유로 이행하고 모유량을 감소시킬 수 있음; 수유부 금기
-* 딜라스틴(fluticasone p.+azelastine)·모테손플러스(mometasone f.+azelastine) 복합제 : 수유부 금기
+* 비-약물 치료와 INCS 단일제를 우선 고려하며 제품별 허가사항을 확인함
+* 경구 항히스타민제가 필요하면 cetirizine을 제품별 허가사항과 개별 위험-이익 평가 후 고려하고 영아의 졸림·수유 상태를 관찰함(☞ 212 항히스타민제)
 
 ***
 
@@ -603,8 +586,9 @@ class Cause1,Cause2,Cause3,Rescue orange
 > ```
 > [알레그라] 120 ㎎/T   1T   qd 식전
 > ```
+> 약제 정보: [알레그라·120 ㎎](https://www.health.kr/drug/A11ABBBBB1393)
 >
-> _✽fexofenadine은 진정 가능성이 매우 낮지만 첫 복용 후 개인 반응을 확인. 예상되는 알레르겐 노출 전에 복용하면 예방에 도움이 될 수 있음. 코막힘이 심하면 INCS를 우선 고려하고, pseudoephedrine은 금기·주의사항을 확인한 뒤 예외적으로 단기간 사용_
+> _✽fexofenadine은 진정 가능성이 매우 낮지만 첫 복용 후 개인 반응을 확인. 물로 복용하고 자몽·오렌지·사과 주스와 함께 복용하지 않으며 알루미늄·마그네슘 함유 제산제와는 약 2시간 간격을 둠. 신부전에서는 시작 용량을 60 ㎎ qd로 조정함. 예상되는 알레르겐 노출 전에 복용하면 예방에 도움이 될 수 있음. 코막힘이 심하면 INCS를 우선 고려하고, pseudoephedrine은 금기·주의사항을 확인한 뒤 예외적으로 단기간 사용_
 
 > **처방례 2. 경증, 간헐적 - 심한 코막힘의 선택적 단기 병용**
 >
@@ -612,6 +596,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 > [알레락] 5 ㎎/T   1회 1T   bid
 > [슈다페드] 60 ㎎/T   1회 0.5T(30 ㎎)   bid   × 5일
 > ```
+> 약제 정보: [알레락·5 ㎎](https://www.health.kr/drug/A11ALLLLL0029) · [슈다페드·60 ㎎](https://www.health.kr/drug/A11A0500A0112)
 >
 > _✽olopatadine은 안구 증상에도 효과적. 슈다페드는 심한 코막힘이 있을 때 5일 이내 단기간만 사용하고, 불면·혈압 상승에 주의; **고혈압을 포함한 심혈관질환·당뇨병·갑상선기능항진증·폐쇄각녹내장·수유 등 국내 금기에서는 사용하지 않음**; 고령·전립선 비대에서는 신중 투여_
 
@@ -620,17 +605,19 @@ class Cause1,Cause2,Cause3,Rescue orange
 > ```
 > [아바미스] 27.5 ㎍/puff   각 비강 2 puffs   qd   (증상 조절 후 1 puff qd로 감량)
 > ```
+> 약제 정보: [아바미스·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622)
 >
 > _✽첫날부터 효과가 시작되지만 최대 효과까지 수일\~2주 이상 소요될 수 있음을 환자에게 설명. 매년 반복되는 꽃가루 알레르기라면 시즌 1\~2주 전부터 시작을 고려. Cross-hand technique(오른쪽 코→왼손, 왼쪽 코→오른손) 교육 필수_
 
-> **처방례 4. 지속적 - 안구 증상 등 추가 이득이 있는 경우 INCS + 경구 항히스타민**
+> **처방례 4. 지속적 - 코 증상 조절 후 유지 용량 INCS + 안구 증상 등 추가 이득이 있는 경우 경구 항히스타민**
 >
 > ```
 > [아바미스] 27.5 ㎍/puff   각 비강 1 puff   qd
 > [씨잘] 5 ㎎/T   1T   qd   저녁
 > ```
+> 약제 정보: [아바미스·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622) · [씨잘·5 ㎎](https://www.health.kr/drug/A11AOOOOO3892)
 >
-> _✽levocetirizine은 일부 환자에서 졸음이 생길 수 있으므로 첫 복용 후 운전·기계조작에 주의. OAH 추가는 안구 증상 등 환자별 이득을 고려하고, 효과가 부족하면 INCS+INAH 고정 복합제로 전환 가능_
+> _✽아바미스 각 비강 1 puff qd는 코 증상 조절 후 유지 용량임. 조절 전에는 각 비강 2 puffs qd로 시작하고 반응에 따라 감량함. Levocetirizine은 일부 환자에서 졸음이 생길 수 있으므로 첫 복용 후 운전·기계조작에 주의. OAH 추가는 안구 증상 등 환자별 이득을 고려하고, 효과가 부족하면 INCS+INAH 고정 복합제로 전환 가능_
 
 > **처방례 5. 중등증 이상, 빠른 조절이 필요한 경우 - INCS+INAH 복합제**
 >
@@ -638,6 +625,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 > [딜라스틴] (azelastine hydrochloride 137 ㎍ / fluticasone propionate 50 ㎍/puff)
 >    각 비강 1 puff   bid
 > ```
+> 약제 정보: [딜라스틴·137 ㎍/50 ㎍/분무](https://www.health.kr/drug/2015022700005)
 >
 > _✽fluticasone propionate + azelastine 복합제. 단일요법으로 충분한 개선이 어렵거나 빠른 효과가 필요한 경우 초기부터 고려 가능. INCS 단독보다 조건부 권고이며 근거 확실성은 계절성 AR에서 중등도, 통년성 AR에서 매우 낮음. 국내 허가상 6세 이상에서 사용하며 임부·수유부 금기. 졸음이 나타날 수 있어 운전·위험한 기계조작에 주의하고, 졸음이 있으면 피함. 알코올·중추신경억제제 병용을 피함. 쓴맛을 줄이려면 고개를 약간 숙이고 약하게 들이마심_
 
@@ -646,6 +634,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 > ```
 > [클라리틴] 10 ㎎/T   1T   qd   저녁
 > ```
+> 약제 정보: [클라리틴·10 ㎎](https://www.health.kr/drug/2009091800015)
 >
 > _✽경구 2세대 항히스타민제를 우선 사용. 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 montelukast 추가를 선택적으로 고려할 수 있으나, OAH+LTRA routine 병용은 권고하지 않음. 처방 시 신경정신계 부작용 위험을 설명_
 
@@ -656,6 +645,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 > [아바미스] 27.5 ㎍/puff   각 비강 2 puffs   qd
 > [알레그라] 120 ㎎/T   1T   qd 식전
 > ```
+> 약제 정보: [소론도·5 ㎎](https://www.health.kr/drug/A11A4290B0015) · [아바미스·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622) · [알레그라·120 ㎎](https://www.health.kr/drug/A11ABBBBB1393)
 >
 > _✽적절한 비내 치료에도 조절되지 않는 매우 심하거나 난치성인 경우에만 예외적으로 사용. 경구 스테로이드는 5\~7일 단기 사용하며 이 처방에서는 tapering 불필요. 증상 완화 후 INCS로 유지_
 
@@ -665,6 +655,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 > [아바미스] 27.5 ㎍/puff   각 비강 2 puffs   qd   (증상 조절 후 1 puff qd로 감량)
 > [싱귤레어] 10 ㎎/T   1T   qd   저녁
 > ```
+> 약제 정보: [아바미스·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622) · [싱귤레어·10 ㎎](https://www.health.kr/drug/A11ADDDDD0796)
 >
 > _✽montelukast는 천식이 동반된 일부 환자에서 비염 증상에도 도움이 될 수 있으나 신경정신계 부작용을 고려. 이 처방은 동반 천식 자체의 치료를 대체하지 않으며, 천식은 진단·중증도에 따라 ICS를 포함한 흡입 치료로 별도 관리_
 
@@ -679,13 +670,15 @@ class Cause1,Cause2,Cause3,Rescue orange
 > * **고개는 발등을 보듯 15\~30도 숙이고** 뿌리세요. 고개를 뒤로 젖히면 약이 목으로 넘어가 쓴맛이 심해집니다.
 > * 분무 후 15분간은 코를 풀지 마세요.
 > * 꽃가루 시즌에는 유행 **1\~2주 전부터** 미리 시작하면 증상 감소에 도움이 될 수 있습니다.
-> * 코·목이 찡하거나 쓴맛이 날 수 있으나 일반적으로 해롭지 않습니다.
+> * 일시적인 경미한 자극이나 쓴맛은 생길 수 있습니다. 통증·자극이 지속되거나 코피가 반복되면 의료진과 상담하세요.
+> * 코 세척은 약을 뿌리기 전에 하세요. 분무 직후 세척하면 약이 씻겨 내려갈 수 있습니다.
 
 > **항히스타민제를 처방받으셨습니다**
 >
 > * 알레르겐 노출이 예상되면 제품별 복용법에 따라 미리 복용하는 것이 도움이 될 수 있습니다.
 > * 2세대 항히스타민제는 1세대보다 졸음이 적지만 씨잘·지르텍 등은 졸음을 유발할 수 있습니다. 처음 복용한 뒤 개인 반응을 확인하고 졸리면 운전이나 기계조작을 피하세요.
 > * 지르텍·씨잘을 오래 매일 복용하다 중단한 뒤 드물게 심한 전신 가려움이 생길 수 있습니다. 이런 증상이 생기면 의료진과 상담하세요.
+> * 알레그라는 식전에 물과 복용하세요. 자몽·오렌지·사과 주스와 함께 복용하지 말고 알루미늄·마그네슘 함유 제산제와는 약 2시간 간격을 두세요.
 > * 코막힘 증상에는 항히스타민제 단독으로는 효과가 제한적입니다. 코막힘이 심하면 함께 처방된 다른 약을 사용하세요.
 > * 효과가 부족할 때 같은 종류의 항히스타민제를 두 가지 함께 복용하면 효과는 늘지 않고 부작용만 증가하므로 임의 병용하지 마세요.
 
@@ -698,7 +691,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 > **코막힘 약(슈다페드 등)을 처방받으셨습니다**
 >
-> * 슈다페드는 두근거림·불면·혈압 상승 등의 부작용 때문에 \*\*처방된 짧은 기간(이 처방에서는 5일 이내)\*\*만 사용하세요.
+> * 슈다페드는 두근거림·불면·혈압 상승 등의 부작용 때문에 **처방된 짧은 기간(이 처방에서는 5일 이내)**만 사용하세요.
 > * 코에 뿌리는 혈관수축제(오트리빈 등)는 오래 쓰면 반동성 코막힘이 생길 수 있어 **연속 3일 이내로 사용하고, 길어도 5일을 넘기지 마세요.** 어린이에게 임의로 사용하지 마세요.
 > * 두근거림, 잠이 안 옴, 소변이 잘 안 나옴이 생기면 중단하고 알려주세요.
 > * **고혈압·심장질환·당뇨병·갑상선기능항진증·녹내장·신장질환·수유 중인 경우** 또는 전립선 비대가 있거나 다른 약을 복용 중이면 처방 전에 알려주세요. 슈다페드는 일부 질환·수유에서 사용이 금지됩니다.
@@ -716,7 +709,8 @@ class Cause1,Cause2,Cause3,Rescue orange
 >
 > * 치료 2\~4주 후에도 증상이 전혀 개선되지 않을 때
 > * 한쪽에서만 증상이 지속되거나, 코피가 반복될 때
-> * 숨쉬기 힘들거나 코골이·수면 장애가 심해질 때
+> * 코골이·수면 장애가 심해질 때
+> * 새로 천명·호흡곤란이 생기면 당일 평가를 받고, 안정 시 호흡곤란·빠른 악화, 시력 저하·복시·눈 주위 부종 또는 의식 변화가 있으면 즉시 응급실을 이용하세요.
 > * 싱귤레어 복용 후 새로운 행동 변화·악몽·불안·우울감이 생기면 복용을 중단하고 즉시 의료진에게 연락
 > * 지르텍·씨잘을 장기 복용하다 중단한 뒤 심한 전신 가려움이 생길 때
 
@@ -746,6 +740,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* 한독. [알레그라정120㎎ 제품정보](https://www.handok.co.kr/product/detail?idx=514) - 식전 복용·신부전 시작 용량 확인
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영
 
@@ -826,7 +821,8 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 * 치료 2\~4주 후에도 증상이 전혀 개선되지 않을 때
 * **한쪽 코에서만** 증상이 지속되거나 출혈이 동반될 때
-* 숨 쉬기 힘들거나 **가슴이 쌕쌕거리는 소리**가 날 때 (천식 동반 의심)
+* 새로 **가슴이 쌕쌕거리는 소리**가 나거나 숨이 차면 당일 평가를 받으세요. 안정 시에도 숨이 차거나 빠르게 악화하면 즉시 응급실을 이용하세요.
+* **시력 저하·복시, 눈 주위 부종과 통증, 의식 변화, 목 경직을 동반한 심한 두통**이 생기면 즉시 응급실을 이용하세요.
 * 수면 장애·집중력 저하·피로가 심하게 동반될 때
 
 ***

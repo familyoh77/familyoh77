@@ -124,7 +124,7 @@
 
 * 배양·감수성 검사
 * 균종명만으로 경험적 고용량 fluconazole을 투여하지 않으며, 감수성 결과와 병용약물·간신기능을 바탕으로 치료 선택
-* fluconazole 불응 시 감염내과 협진하에 posaconazole 현탁액 <mark style="color:blue;">\[녹사필]</mark>(전액본인부담) 또는 voriconazole <mark style="color:blue;">\[브이펜드]</mark>(식도 칸디다증은 허가 적응증으로 타 항진균제 실패 시 급여 인정; 구강인두 칸디다증은 허가 외로 급여 인정 대상 아님) 등을 고려&#x20;
+* fluconazole 불응 시 감염내과 협진하에 posaconazole 현탁액 <mark style="color:blue;">\[[녹사필](https://www.health.kr/drug/A11AKP08G0748)]</mark>(전액본인부담) 또는 voriconazole <mark style="color:blue;">\[[브이펜드](https://www.health.kr/drug/A11AOOOOO5528)]</mark>(식도 칸디다증은 허가 적응증으로 타 항진균제 실패 시 급여 인정; 구강인두 칸디다증은 허가 외로 급여 인정 대상 아님) 등을 고려&#x20;
 * 재발 억제요법 : 장기 억제요법은 통상 필요하지 않음
   * 위험 인자 교정과 적절한 치료에도 빈번하거나 중증인 재발이 지속되는 경우 감염내과 협진하에 fluconazole 100 ㎎ 주 3회 고려(허가 외); 내성·상호작용 위험을 함께 평가함
   * HIV 감염자는 ART를 통한 면역 재구성이 재발 예방의 핵심 <mark style="color:$info;">\[IDSA 2016; NIH OI 지침]</mark>
@@ -137,42 +137,44 @@
 
 ```mermaid
 flowchart TD
-    A(["구강 백색 병소/발적/작열감<br/>•Red flags 배제"]) --> B["거즈로 닦이는가?"]
-    B -- 예 --> C["위막형 Thrush <br/>가능성↑"]
-    B -- 아니오 --> D["흰 반점 또는<br/>발적 병소?"]
-    D -- 두꺼운 흰 반점 --> E["Hyperplastic vs <br/>Leukoplakia<br/>조기 의뢰·생검 고려"]
-    D -- 발적만, 위막 없음 --> H["홍반형 의심<br/>ICS 사용·틀니<br/>·정중능형설염 확인"]
-    D -- 구각 균열·삼출 --> G["Angular cheilitis"]
-    D -- 기타 --> Z["아프타·편평태선<br/>·기타 감별"]
+    A["구강 백색 병소·발적·작열감"] --> EM["섭취 불가·전신상태 불량 또는 패혈증 의심?"]
+    EM -- "예" --> ER["즉각 평가·처치"]
+    EM -- "아니요" --> B["거즈로 닦이는가?"]
+    B -- "예" --> C["위막형 Thrush <br/>가능성↑"]
+    B -- "아니요" --> D["흰 반점 또는<br/>발적 병소?"]
+    D -- "두꺼운 흰 반점" --> E["Hyperplastic vs <br/>Leukoplakia<br/>조기 의뢰·생검 고려"]
+    D -- "발적만, 위막 없음" --> H["홍반형 의심<br/>ICS 사용·틀니<br/>·정중능형설염 확인"]
+    D -- "구각 균열·삼출" --> G["Angular cheilitis"]
+    D -- "기타" --> Z["아프타·편평태선<br/>·기타 감별"]
     C --> I["연하통·연하곤란 또는<br/>흉골후 통증?"]
     H --> I
-    I -- 예 --> J["식도 칸디다증 의심·감별<br/>가능성 높으면 <br/>전신 항진균제 14~21일<br/>섭취 불가·전신상태 <br/>불량은 즉각 조치<br/>7일 내 무호전 시 내시경"]
-    I -- 아니오 --> K["특징적인 임상 병변?"]
-    K -- 아니오 --> N["다른 구강 병변 재평가<br/>배양 양성만으로 <br/>치료하지 않음"]
-    K -- 예 --> O["중등도 이상·면역저하<br/>또는 국소 치료 실패?"]
-    O -- 아니오 --> P["국소 nystatin<br/>7~14일"]
-    O -- 예 --> Q["Fluconazole - 성인<br/>국내 허가 50 ㎎/d<br/>IDSA 2016: 100~200 ㎎/d<br/>ECMM 2025: 100 ㎎/d"]
-    P --> R["3일 내 호전 경향?<br/>7일에도 지속?"]
+    I -- "예" --> J["식도 칸디다증 의심·감별<br/>가능성 높으면 <br/>전신 항진균제 14~21일<br/>섭취 불가·전신상태 <br/>불량은 즉각 조치<br/>7일 내 무호전 시 내시경"]
+    I -- "아니요" --> K["특징적인 임상 병변?"]
+    K -- "아니요" --> N["다른 구강 병변 재평가<br/>배양 양성만으로 <br/>치료하지 않음"]
+    K -- "예" --> O["중등도 이상·면역저하<br/>또는 국소 치료 실패?"]
+    O -- "아니요" --> P["국소 nystatin<br/>7~14일"]
+    O -- "예" --> Q["Fluconazole - 성인<br/>국내 허가 50 ㎎/d<br/>IDSA 2016: 100~200 ㎎/d<br/>ECMM 2025: 100 ㎎/d"]
+    P --> R["치료 반응은?<br/>3일 내 호전 경향·7일 내 증상과 병변 평가"]
     Q --> R
-    R -- 호전 --> S["예정된 치료기간 완료<br/>병변·증상 소실 확인<br/>재발 예방 교육"]
-    R -- 미호전 --> T["진단·순응도·용량<br/>·국소 요인 재평가<br/>필요시 배양·감수성 검사"]
+    R -- "호전" --> S["예정된 치료기간 완료<br/>병변·증상 소실 확인<br/>재발 예방 교육"]
+    R -- "미호전" --> T["진단·순응도·용량<br/>·국소 요인 재평가<br/>필요시 배양·감수성 검사"]
     T --> U["단기간 내 반복·난치성?"]
-    U -- 예 --> V["기저질환 평가<br/>HbA1c·HIV 위험도<br/>·약물·xerostomia<br/>틀니 관리 점검"]
-    U -- 아니오 --> Y["평가 결과에 따라 치료 조정<br/>국소 치료 실패 시 <br/>전신 치료 고려<br/>다른 진단·전문의 의뢰 검토"]
+    U -- "예" --> V["기저질환 평가<br/>HbA1c·HIV 위험도<br/>·약물·xerostomia<br/>틀니 관리 점검"]
+    U -- "아니요" --> Y["평가 결과에 따라 치료 조정<br/>국소 치료 실패 시 <br/>전신 치료 고려<br/>다른 진단·전문의 의뢰 검토"]
     V --> Y
     Y --> R
     G --> W["Clotrimazole 크림<br/>보호막·기계적 원인 교정<br/>세균성 소견 시 <br/>항생제 고려"]
     W --> R
     E --> X["구강내과·치과·이비인후과<br/>평가"]
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style A fill:#eee,stroke:#888,stroke-width:2px
 classDef orange fill:#fdebd0,stroke:#e67e22
 class J,X orange
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,I,K,O,R,U yellow
+class EM,B,D,I,K,O,R,U yellow
+classDef red fill:#ffebee,stroke:#e53935
+class ER red
 classDef blue fill:#d0e8ff,stroke:#1a6abf
-class N,S,V,Y blue
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class G,H,Z,C,E pink
+class N,S,V,Y,P,Q,T,W,G,H,Z,C,E blue
 ```
 
 <p align="center"><strong>구강 칸디다증 진단 및 치료 알고리듬</strong></p>
@@ -199,7 +201,7 @@ class G,H,Z,C,E pink
 
 > 지침별 성인 권고 용량에 차이가 있으므로 출처를 구분하며, 국내 허가를 초과하는 용량은 허가·급여와 별도로 해석함 <mark style="color:$info;">\[IDSA 2016; ECMM/ISHAM/ASM 2025, 부록 pp 141\~144]</mark>
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 금연
 * 구강 위생 개선 : 식사 후 칫솔질
@@ -235,7 +237,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
 
 **Nystatin 현탁액**
 
-* nystatin suspension 100,000 단위/㎖ <mark style="color:blue;">\[제이티니스타틴]</mark> (비급여)
+* nystatin suspension 100,000 단위/㎖ <mark style="color:blue;">\[[제이티니스타틴](https://www.health.kr/drug/2021111700006)]</mark> (비급여)
   * 국내 허가사항 - 성인 및 24개월 이상 소아 : 1회 4\~6 ㎖를 1일 3\~4회; 삼키기 전에 가능한 한 오래 입안에 머물게 하고 증상 소실 후에도 48시간 더 투여
   * 국내 허가사항 - 생후 28일 이상\~24개월 미만 영아의 구강 칸디다증 : 1회 총 1\~2 ㎖를 1일 1\~4회 입에 떨어뜨림
   * 생후 28일 미만 신생아 : 위 영아 허가 용량의 대상에 포함되지 않으므로 해당 용량을 그대로 적용하지 않고 개별 평가
@@ -246,7 +248,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
 
 **Clotrimazole 크림 - 구각 입술염**
 
-* clotrimazole 크림 1% bid\~tid 국소 도포 <mark style="color:blue;">\[카네스텐]</mark>
+* clotrimazole 크림 1% bid\~tid 구각의 피부 병변에 국소 도포(구강 안쪽에 바르거나 삼키지 않음) <mark style="color:blue;">\[[카네스텐](https://www.health.kr/drug/A11A1380A0031)]</mark>
 * 침에 의한 maceration에는 petrolatum 또는 zinc oxide 등의 보호막제를 병행하고, 잘 맞지 않는 틀니·수직고경 등 기계적 원인을 교정
 * 세균성 소견이 뚜렷하거나 항진균제 반응이 불량할 때 도말·배양을 고려하고 mupirocin 또는 fusidic acid 크림을 선택적으로 추가 또는 교체
 * 재발성인 경우 병력에 따라 CBC, ferritin/iron, vitamin B12, folate 등을 선택적으로 평가
@@ -259,7 +261,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
 
 * 1차 선택제
 * 구강인두 칸디다증
-  * 국내 허가사항 : fluconazole 50 ㎎ PO qd ×7\~14d <mark style="color:blue;">\[푸루나졸]</mark>
+  * 국내 허가사항 : fluconazole 50 ㎎ PO qd ×7\~14d <mark style="color:blue;">\[[푸루나졸](https://www.health.kr/drug/A11A0431A0075)]</mark>
   * IDSA 2016 : 중등도\~중증에서 fluconazole 100\~200 ㎎ PO qd ×7\~14d <mark style="color:$info;">\[IDSA 2016]</mark>
   * ECMM/ISHAM/ASM 2025 : fluconazole 100 ㎎ PO qd를 강하게 권고 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025, 부록 p 142]</mark>
 * 의치 관련 만성 위축성 구강칸디다증
@@ -274,7 +276,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
   * 구강인두 칸디다증 : 첫날 6 ㎎/㎏, 이후 3 ㎎/㎏ qd; 재발 방지를 위해 최소 2주
   * 식도 칸디다증 : 첫날 6 ㎎/㎏, 이후 3 ㎎/㎏ qd, 반응에 따라 12 ㎎/㎏까지 증량; 최소 3주이면서 증상 소실 후 2주
 * 반복 투여 시 신기능에 따라 용량 또는 투여 간격 조절; 간질환, QT 연장 위험 및 warfarin·sulfonylurea·phenytoin·일부 statin 등 병용약물 확인
-* 통증 치료 약제와의 상호작용 : Celecoxib는 노출 증가로 국내 쎄레브렉스 허가사항에 따라 병용 시작 시 권장용량의 절반 투여. Fentanyl은 제거 지연·호흡억제 위험을 고려하여 대안·감량 및 호흡·진정 감시를 개별 판단. Carbamazepine은 농도 상승·독성 위험이 있어 혈중농도·임상반응에 따라 용량 조절(001 참조)
+* 통증 치료 약제와의 상호작용 : Celecoxib는 노출 증가로 국내 [쎄레브렉스](https://www.health.kr/drug/A11ABBBBB1345) 허가사항에 따라 병용 시작 시 권장용량의 절반 투여. Fentanyl은 제거 지연·호흡억제 위험을 고려하여 대안·감량 및 호흡·진정 감시를 개별 판단. Carbamazepine은 농도 상승·독성 위험이 있어 혈중농도·임상반응에 따라 용량 조절(001 참조)
   * Ibuprofen 등 일부 NSAID도 노출이 증가할 수 있어 이상반응·독성을 관찰하고 필요시 용량 조절. 위 조합을 모두 일률적인 병용 금기로 묶지 않음
 * 국내 허가상 금기 : 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부. 가임 여성은 투여기간 및 마지막 투여 후 약 1개월간 피임(푸루나졸 국내 허가사항 기준)
 * 임신 중 구강 칸디다증은 국소 치료 우선; 임신 초기 경구 fluconazole 노출과 자연유산 위험 증가의 연관성이 보고됨. 국내 금기와 국제 지침의 치료 권고를 구분함 <mark style="color:$info;">\[JAMA 2016; NIH OI 지침]</mark>
@@ -310,22 +312,25 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 > ```
 > 제이티니스타틴시럽 100,000 단위/㎖   1회 5 ㎖   가능한 오래 머금은 후 삼킴   qid ×14d
 > ```
+> 약제 정보: [제이티니스타틴시럽·100,000 단위/㎖](https://www.health.kr/drug/2021111700006)
 >
 > _✽성인 처방례. 식후 사용하고 가능한 오래 머금은 뒤 삼킴. 사용 직후 물로 헹구지 않고 약 30분간 음식·음료를 피함. 증상 소실 후에도 48시간 더 투여하도록 치료 종료 시점을 확인함. Chlorhexidine 가글과 혼합·동시 적용은 피하되, 임상적으로 검증된 최적 간격은 확립되지 않음._
 
 > **처방례 2. 구각 입술염 (Angular cheilitis)**
 >
 > ```
-> 카네스텐크림 1%   적량   구각 bid~tid 도포 ×14d
+> 카네스텐크림 1%   적량   구각 피부에 bid~tid 도포 ×14d; 구강 안쪽에는 사용하지 않음
 > ```
+> 약제 정보: [카네스텐크림·1%](https://www.health.kr/drug/A11A1380A0031)
 >
 > _✽침에 의한 짓무름에는 보호막제를 병행하고, 틀니 관련 시 세정·야간 제거 및 필요시 치과 조정을 시행. 세균성 소견이 뚜렷하거나 반응 불량 시 mupirocin 또는 fusidic acid 크림을 선택적으로 추가 또는 교체. 재발 반복 시 병력에 따라 CBC, ferritin/iron, vitamin B12, folate 등을 평가._
 
-> **처방례 3. 중등도 이상 또는 국소 치료 실패 - 전신 항진균제**
+> **처방례 3. 구강인두 칸디다증 - 전신 항진균제(국내 허가 용법 예)**
 >
 > ```
 > 푸루나졸캡슐 50 ㎎   1캡슐   qd ×7~14d
 > ```
+> 약제 정보: [푸루나졸캡슐·50 ㎎](https://www.health.kr/drug/A11A0431A0075)
 >
 > _✽성인 국내 허가 용법. Celecoxib·fentanyl·carbamazepine 등 기존 통증 약제의 병용 여부를 확인하고 본문의 감량·감시 원칙을 적용(001 참조). IDSA 2016은 중등도\~중증 구강인두 칸디다증에 100\~200 ㎎/d ×7\~14일, ECMM/ISHAM/ASM 2025는 100 ㎎ qd를 권고함. 임부 또는 임신하고 있을 가능성이 있는 여성 및 수유부는 투여 금기. 연하통·연하곤란·흉골후 통증이 있으면 식도 칸디다증으로 별도 평가. 치료 실패 시 진단·순응도·용량 재확인 후 배양·감수성 검사 및 필요시 감염내과 협진._
 
@@ -380,6 +385,8 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; fluconazole–celecoxib 병용 시 감량, fentanyl의 호흡억제 및 carbamazepine·일부 NSAID의 노출 증가에 따른 감시·용량 조절 확인
 * 건강보험심사평가원. \[일반원칙] 항진균제. - Posaconazole의 침습성 진균감염 예방 및 항진균제별 급여 인정 범위. [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0018)
 
+* [푸루나졸캡슐50밀리그램 허가정보](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700745) - 제품별 성인·소아 용량 및 금기.
+
 ***
 
 ## <mark style="color:blue;">환자 안내서</mark>
@@ -390,7 +397,7 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 건강한 분도 입 안에 칸디다 균이 살고 있습니다. 면역력이 떨어지거나 항생제 복용, 구강 건조, 틀니 문제 등의 상황이 되면 이 균이 과도하게 증식해 증상을 일으킵니다. 대부분 간단한 치료와 생활 교정으로 낫습니다.
 {% endhint %}
 
-#### <mark style="color:$primary;">왜 입안 칸디다증이 생기나요?</mark>
+### <mark style="color:$primary;">왜 입안 칸디다증이 생기나요?</mark>
 
 * 항생제를 복용한 후 (정상 세균이 줄면 칸디다가 증식합니다)
 * 흡입용 스테로이드 약을 쓰는 분 (흡입 후 입안을 헹구지 않으면 약이 남아 칸디다증 위험이 높아질 수 있습니다)
@@ -399,7 +406,7 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 * 철분이나 비타민이 부족한 분 (특히 구각 병변 반복 시)
 * 면역력이 저하된 분
 
-#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
 * **금연**하십시오.
 * 식사 후 **칫솔질**을 철저히 하십시오. Nystatin과 chlorhexidine 가글을 함께 처방받았다면 섞거나 동시에 사용하지 말고 의료진이 안내한 방법을 따르십시오.
@@ -408,15 +415,19 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 * 당뇨병이 있으시면 **혈당 관리**에 특히 신경 쓰십시오.
 * 아기에게 생긴 경우 **젖병 꼭지와 노리개젖꼭지(쪽쪽이)를 매일 세척·소독**하십시오. 모유 수유 중 엄마의 유두가 아프거나 붉어지면 함께 진료를 받으십시오.
 
-#### <mark style="color:$primary;">약은 어떻게 사용하나요?</mark>
+### <mark style="color:$primary;">약은 어떻게 사용하나요?</mark>
 
-* Nystatin 액체약은 성인과 머금을 수 있는 소아의 경우 입 안 전체에 닿도록 한 뒤 **가능한 한 오래 머금고** 삼키세요. 영아는 볼 안쪽에 소량씩 나누어 넣고 목 뒤로 한꺼번에 넣지 마세요.
+* Nystatin 액체약은 사용 전 충분히 흔드세요. 성인과 머금을 수 있는 소아의 경우 입 안 전체에 닿도록 한 뒤 **가능한 한 오래 머금고** 삼키세요. 영아는 볼 안쪽에 소량씩 나누어 넣고 목 뒤로 한꺼번에 넣지 마세요.
 * Nystatin 사용 직후에는 물로 헹구지 않고 약 30분간 음식·음료를 피하세요.
 * 증상이 나아도 **처방받은 기간을 끝까지** 사용하세요. Nystatin은 증상이 사라진 후에도 48시간 더 사용하므로, 증상이 늦게 없어지면 치료 종료 시점을 의료진과 확인하세요.
 * Chlorhexidine 가글을 함께 처방받으셨다면 nystatin과 **섞거나 동시에 사용하지 말고** 의료진이 안내한 사용 순서와 시간을 따르세요.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+* Fluconazole(푸루나졸)을 처방받았다면 임신·임신 가능성·수유 여부와 복용 중인 모든 약을 의료진에게 알리세요. 황달·진한 소변·심한 피로가 생기면 즉시 진료받으세요. 용량과 치료 기간은 임의로 바꾸지 마세요.
+* 카네스텐크림은 지시받은 입꼬리 피부에만 바르고, 입안에 바르거나 삼키지 마세요.
 
+### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* **물을 마시지 못하거나 심하게 처짐·의식 변화·숨참이 생기면 즉시 응급 진료를 받으세요.**
 * **음식을 삼킬 때 통증이 있거나** 가슴(흉골 뒤쪽)이 쓰리고 아픈 경우
 * 발열이나 전신 쇠약감이 동반되는 경우
 * 치료 3일 내 좋아지는 경향이 없거나 7일 후에도 증상·병변이 지속되는 경우

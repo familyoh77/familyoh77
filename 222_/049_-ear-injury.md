@@ -27,7 +27,7 @@
 아래 시간은 절대적 cutoff가 아니라 권장 목표 시점임. 이 시간을 넘겼다고 처치가 무의미해지는 것은 아니며, 핵심은 "가능한 한 지연 없이" 대응하는 것임
 {% endhint %}
 
-<table data-search="false"><thead><tr><th width="190">상황</th><th width="200">권장 목표 시점</th><th width="200">지연 시 결과</th><th>핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td>즉시</td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>외림프 누공·내이 감압병 의심</strong></td><td>즉시</td><td>영구 감각신경성 난청·평형 장애</td><td>다이빙 후에는 잠수의학 응급 평가; 감압병 의심 시 산소 투여, 재압치료 여부는 전문가 결정</td></tr><tr><td><strong>이개혈종</strong></td><td>당일, 가능한 조기 (오래된 혈종도 전문 평가)</td><td>연골 섬유화 → cauliflower ear</td><td>배액 후 압박 고정 또는 quilting 봉합</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td>가능한 조기 (24~48시간 이내)</td><td>청력 회복 가능성 저하</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td>가능한 조기 (건조 관리 즉시 시작)</td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="190">상황</th><th width="200">권장 목표 시점</th><th width="200">지연 시 결과</th><th>핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td>즉시</td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>외림프 누공·내이 감압병 의심</strong></td><td>즉시</td><td>영구 감각신경성 난청·평형 장애</td><td>다이빙 후에는 잠수의학 응급 평가; 감압병 의심 시 산소 투여, 재압치료 여부는 전문가 결정</td></tr><tr><td><strong>이개혈종</strong></td><td>당일, 가능한 조기 (오래된 혈종도 전문 평가)</td><td>연골 섬유화 → cauliflower ear</td><td>배액 후 압박 고정 또는 quilting 봉합</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td>당일 가능한 조기 (갑작스러운 난청은 즉시)</td><td>청력 회복 가능성 저하</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td>가능한 조기 (건조 관리 즉시 시작)</td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>
 
 ### <mark style="color:orange;">어지럼증 동반 귀 외상 응급 감별</mark>
 
@@ -45,31 +45,30 @@
 
 ```mermaid
 flowchart TD
-    A([귀 외상 + 어지럼]) ---> R["안면마비·맑은 이루<br>·중증 두경부 외상<br>·신경학적 이상<br>·심한 보행곤란?"]
-    R --->|Yes| ER[즉시 응급실 / 이비인후과]
-    R --->|No| D["다이빙 관련 지속 어지럼<br>·안진·청력 저하?"]
-    D --->|Yes| Dive["•내이 압력 손상/감압병 감별<br>•감압병 의심 시 산소 투여<br>•잠수 치료 기관 응급 의뢰"]
-    D --->|No| B["갑작스러운 청력 저하 또는 <br>지속/심한 어지럼·자발안진?"]
-    B --->|Yes| ER
-    B --->|No| E["이경·음차 검사<br>경추 손상 없이 짧은 <br>체위성 어지럼만?"]
-    E --->|Yes| G["Dix-Hallpike 검사<br>양성 시 BPPV 치료"]
-    E --->|No| H["단순 고막 천공/<br>경증 중이 압력 손상 등 평가<br>원인 불명·증상 지속 시 <br>조기 전문 평가"]
-    H ---> K[외래 추적]
-    G ---> K
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style ER fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style Dive fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style G fill:#e8f8e8,stroke:#4caf50
-    style K fill:#d6eeff,stroke:#2196f3
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class R,D,B,E yellow
-    classDef pink fill:#fde8f0,stroke:#e91e8c
-    class H pink
+    A["귀 외상·어지럼"] --> R["안면마비·맑은 이루·중증 두경부 외상·신경학적 이상?"]
+    R -- "예" --> ER["즉시 응급실·이비인후과 평가"]
+    R -- "아니요" --> D["다이빙 관련 지속 어지럼·안진·청력 저하?"]
+    D -- "예" --> Dive["내이 압력손상·감압병 감별 / 산소 투여·응급 의뢰"]
+    D -- "아니요" --> B["갑작스러운 난청 또는 지속·심한 어지럼·자발안진?"]
+    B -- "예" --> ER
+    B -- "아니요" --> E["이경·음차 검사 / 경추 손상 없이 짧은 체위성 어지럼만?"]
+    E -- "예" --> G["Dix-Hallpike 검사 / 양성 시 BPPV 치료"]
+    E -- "아니요" --> H["단순 고막 천공·경증 중이 압력손상 평가"]
+    H --> K["외래 추적 / 원인 불명·증상 지속 시 조기 전문 평가"]
+    G --> K
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef urgent fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class A start
+    class R,D,B,E decision
+    class ER,Dive urgent
+    class G,H,K action
 ```
 
 > _✽음차 검사는 선별 검사로, 정상 소견만으로 내이 손상·감압병을 배제하지 못함. HINTS는 자발안진을 동반한 급성 전정증후군에서 훈련된 검사자만 시행하며, 두경부 외상에서는 경추·혈관 손상 평가를 우선함. 경추 손상 의심 시 head impulse·Dix-Hallpike 등 목 움직임을 유발하는 검사는 시행하지 않음._ <mark style="color:$info;">\[GRACE-3 2023]</mark>
 
-<p align="center"><strong>어지럼증 동반 귀 외상 감별 알고리듬</strong></p>
+<p align="center"><strong>어지럼증 동반 귀 외상 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : JTS 2025; GRACE-3 2023; Divers Alert Network)</mark></em></p>
 
 ***
 
@@ -94,7 +93,7 @@ flowchart TD
 
 * 압박 고정 제거 후 귓바퀴가 두꺼워지거나 윤곽이 무뎌짐 `초기 cauliflower ear` `연골 섬유화`
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 * 혈종은 당일 가능한 한 조기에 배액함. 단순 흡인만으로는 재발이 자주 발생하므로, 배액 후 bolster 드레싱 또는 관통 quilting/mattress 봉합으로 연골막-연골 사이 dead space를 제거함
 
@@ -162,9 +161,9 @@ flowchart TD
 > **압박 고정(bolster) 관리 방법**
 >
 > * **처방된 기간(보통 5\~7일, 상태에 따라 조정) 동안 압박 드레싱을 임의로 제거하지 마십시오.** 조기에 제거하면 재발률이 크게 높아집니다.
-> * 드레싱이 흠뻑 젖거나 심한 통증·발열이 생기면 즉시 재내원하십시오.
+> * 드레싱이 흠뻑 젖거나 심한 통증·발열이 생기면 즉시 재내원하십시오. 압박 부위가 창백하거나 검게 변하고 차가워지면 혈류 장애 가능성이 있으므로 즉시 확인받으십시오.
 > * 절개 배액 후 항생제를 처방받은 경우 처방 기간을 끝까지 복용하십시오.
-> * 항생제(씨프로바이 등) 복용 중 발목·종아리 등 힘줄 부위의 통증·부종이 생기면 **약 복용과 운동을 중단하고 즉시 의료진에게 연락하십시오.**
+> * 항생제([씨프로바이](https://health.kr/drug/2019081900007) 등) 복용 중 발목·종아리 등 힘줄 부위의 통증·부종이 생기면 **약 복용과 운동을 중단하고 즉시 의료진에게 연락하십시오.**
 
 > **스포츠 복귀 안내**
 >
@@ -196,7 +195,7 @@ flowchart TD
 
 * **압박 붕대를 스스로 풀거나 만지지 마십시오.**
 * 다시 부풀어 오르거나 통증·발열이 심해지면 바로 병원에 오십시오.
-* 같은 운동을 계속한다면 \*\*귓바퀴 보호대(headgear)\*\*를 착용하여 재발을 예방하십시오.
+* 같은 운동을 계속한다면 **귓바퀴 보호대(headgear)**를 착용하여 재발을 예방하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
@@ -233,7 +232,7 @@ flowchart TD
 * 상처 치유 후 귓바퀴 윤곽 변형·두꺼워짐 `연골 변형`
 * 봉합 부위가 점점 솟아오르며 커짐 (특히 귓불) `켈로이드`
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 * 마취 : 1% lidocaine으로 국소 침윤 또는 이개 블록(ring block); 혈류가 보존된 일반적인 열상에서는 epinephrine 혼합 사용 가능. 절단·허혈 또는 혈류가 불확실한 피판은 전문과와 판단
 * 세척 : 생리식염수로 충분히 세척, 괴사 조직만 최소한으로 제거
@@ -280,6 +279,7 @@ flowchart TD
 > ```
 > 오구멘틴 625 ㎎/T   1T   tid   × 3~5d
 > ```
+> 약제 정보: [오구멘틴·625 ㎎](https://www.health.kr/drug/A11A1130A0289)
 >
 > _✽감염이 없는 고위험 물림 손상의 예방적 투약 예시(3\~5일); 감염이 이미 있으면 치료 기간·배농 필요성을 별도 판단. Pasteurella, Eikenella, 혐기균 등 커버. 연골 손상 동반 시 이비인후과 협진, 파상풍·광견병 위험 평가_
 
@@ -293,6 +293,7 @@ flowchart TD
 > * 상처는 지시받은 방법으로 관리하십시오. 압박 드레싱을 임의로 제거하거나 젖게 하지 말고, 상처 세척 시점은 재진 때 확인하십시오.
 > * 봉합 부위를 베개로 누르지 않도록 반대쪽으로 누워 주무십시오.
 > * 실밥은 보통 5일 전후에 제거합니다.
+> * [오구멘틴](https://www.health.kr/drug/A11A1130A0289)을 처방받았다면 식사 시작 때 복용하십시오. 페니실린계 중증 알레르기 또는 이 약 복용 후 황달·간기능 이상 병력이 있으면 복용 전 반드시 알리십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -358,7 +359,7 @@ flowchart TD
 * 검사 : 필요시 X선
 * 합병증 : 연골 감염, 흉터
 
-### <mark style="background-color:$warning;">Management</mark>
+### <mark style="color:$warning;">Management</mark>
 
 * 제거 (필요시 국소 마취하에 시술)
 * 감염 동반 시 항생제 투여
@@ -371,7 +372,7 @@ flowchart TD
 * 제거 후 고막·외이도 손상 여부 확인
 * 즉시 제거 필요 이물 : 원판(단추형) 배터리, 살아 있는 곤충, 귀 조직에 박힌 이물
 
-### <mark style="background-color:$warning;">Management</mark>
+### <mark style="color:$warning;">Management</mark>
 
 * 제거 전 이물의 위치·모양·재질, 고막 상태, 환기관·중이 수술력, 협조 가능성 및 기존 손상을 확인하고 가능한 청력 평가 기록
 * 부드럽고 잡을 수 있는 불규칙한 이물(휴지·솜 등) : 직시하 포셉 제거 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190628\&sno=3\&mtgMtrRegSno=0007))
@@ -417,31 +418,34 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    Start([외이도 이물 확인]) ---> Red["배터리<br>·날카로운 관통 이물<br>·심한 어지럼<br>·급격한 청력 저하?"]
-    Red --->|Yes| Urgent[즉시 이비인후과/응급실]
-    Red --->|No| Assess["이물 위치·재질<br>·고막 상태·수술력<br>시야와 환자 협조 확인"]
-    Assess --->|"깊은 매복<br>·고막 근접<br>·비협조"| Refer[전문 제거 의뢰<br>/진정 필요성 판단]
-    Assess --->|"안전한 시도 가능"| Type[이물별 방법 선택]
-    Type --->|곤충| TM["고막 정상<br>·환기관/중이 <br>수술력 없음?"]
-    TM --->|No<br>/미확인| Refer
-    TM --->|Yes| Insect["lidocaine 또는 <br>mineral oil <br>점이 후 제거"]
-    Type --->|식물성<br>·팽창성| Organic["세척 금지<br>직시하 적절한 <br>기구 선택"]
-    Type --->|기타| Other["모양에 따라 <br>포셉·흡인·후크<br>세척은 정상 고막+<br>적합한 이물만"]
-    Insect ---> Attempt[안전한 첫 제거 시도]
-    Organic ---> Attempt
-    Other ---> Attempt
-    Attempt ---> Result[제거 성공?]
-    Result --->|"실패<br>/출혈·통증 증가"| Refer
-    Result --->|Yes| Done[외이도·고막·청력 재평가<br>/손상에 따른 추적]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Red,Assess,Type,TM,Result yellow
-    style Urgent fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style Refer fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style Done fill:#d0e8ff,stroke:#1a6abf
+    Start["외이도 이물 확인"] --> Red["배터리·관통 이물·심한 어지럼·급격한 청력 저하?"]
+    Red -- "예" --> Urgent["즉시 이비인후과·응급실"]
+    Red -- "아니요" --> Assess["위치·재질·고막·수술력·시야·협조 확인"]
+    Assess --> Safe["안전한 첫 시도 가능?"]
+    Safe -- "아니요" --> Refer["전문 제거 의뢰·진정 필요성 판단"]
+    Safe -- "예" --> Type["이물 종류?"]
+    Type -- "곤충" --> TM["고막 정상·환기관 및 중이 수술력 없음?"]
+    TM -- "아니요·미확인" --> Refer
+    TM -- "예" --> Insect["lidocaine 또는 mineral oil 점이 후 제거"]
+    Type -- "식물성·팽창성" --> Organic["세척 금지·직시하 적절한 기구 선택"]
+    Type -- "기타" --> Other["모양에 맞춰 기구 선택 / 세척은 정상 고막·적합한 이물만"]
+    Insect --> Attempt["안전한 첫 제거 시도"]
+    Organic --> Attempt
+    Other --> Attempt
+    Attempt --> Result["제거 성공·추가 손상 없음?"]
+    Result -- "아니요" --> Refer
+    Result -- "예" --> Done["외이도·고막·청력 재평가·손상에 따른 추적"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef urgent fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class Start start
+    class Red,Safe,Type,TM,Result decision
+    class Urgent urgent
+    class Assess,Refer,Insect,Organic,Other,Attempt,Done action
 ```
 
-<p align="center"><strong>외이도 이물 처치 알고리듬</strong></p>
+<p align="center"><strong>외이도 이물 처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Queensland Health 2025)</mark></em></p>
 
 ***
 
@@ -450,11 +454,13 @@ flowchart TD
 > **처방례 1. 귓불의 매몰 이물 제거 후 피부 감염 동반 (성인, 연골막염 없음)**
 >
 > ```
-> 에스로반 연고 10 g/tube   소량   bid   (국소 도포)
-> 팔렉신 500 ㎎/C           3C    #3    × 5~7d
+> 팔렉신 500 ㎎/C   1C tid   × 5~7d  (경구제가 필요한 피부 감염)
+> 에스로반 연고 2% 10 g/tube   소량 bid   × 5~7d
+>   (국한된 표재성 감염 병변이 동반된 경우에만 선택적 추가)
 > ```
+> 약제 정보: [팔렉신·500 ㎎](https://health.kr/drug/A11A0570A0301) · [에스로반 연고·2%](https://www.health.kr/drug/A11A2190A0223)
 >
-> _✽이물 제거 후 국소 mupirocin 연고 도포. 연골부 피어싱 감염은 Pseudomonas 비중이 높아 cephalexin이 부적절할 수 있음 - fluoroquinolone 고려. 연골막염 진행 시(심한 통증·발열·전체 귀 발적) 즉시 의뢰 - 연골막염은 fluoroquinolone 경구제 또는 IV 항생제 필요_
+> _✽경미하고 국한된 표재성 감염은 국소제만으로 치료 가능하며, 경구제·외용제를 일률 병용하지 않음. 외용 연고를 외이도 깊숙이 넣지 않음. 연골부 피어싱 감염은 Pseudomonas 비중이 높아 cephalexin이 부적절할 수 있음 - fluoroquinolone 고려. 연골막염 진행 시(심한 통증·발열·전체 귀 발적) 즉시 의뢰 - 연골막염은 fluoroquinolone 경구제 또는 IV 항생제 필요_
 
 ***
 
@@ -498,7 +504,7 @@ flowchart TD
 ## <mark style="color:green;">증상 및 경과</mark>
 
 * 증상 : 급성 통증(빠르게 감소), 혈성 분비물, 이명, 경증 전음성 난청
-* 경과 : 충격에 의해 찢어진 경우 합병증 없으면 수일\~수 주 내 자연 치유
+* 경과 : 충격에 의해 찢어진 경우 합병증 없으면 대개 수 주(흔히 4\~8주) 내 자연 치유; 크기가 클수록 지연될 수 있음
   * central 손상이 가장자리 손상보다 자연 치유율 높음
 * 자연 치유율 저하 인자 : 가장자리 손상, 후상부 손상(이소골 이환 가능성), 이물에 의한 손상
 * 면봉·귀이개 등 이물에 의한 직접 찔림 손상은 기압 손상(폭발음·귀 때리기)에 비해 이차 감염 및 영구 천공 위험이 높음 - 오염된 이물이 외이도 세균을 중이로 직접 유입시킬 수 있음
@@ -540,7 +546,7 @@ flowchart TD
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
@@ -563,7 +569,7 @@ flowchart TD
 
 * 샤워·머리 감을 때 바셀린 솜 또는 귀마개로 귀 막기
 * 감기·상기도감염 예방 (이관을 통한 2차 감염 차단)
-* 외이도 내 blood clot(혈병)을 환자가 임의로 떼지 않음
+* 외이도 내 blood clot(혈괴)을 환자가 임의로 떼지 않음
 
 ### <mark style="color:orange;">경구 항생제</mark>
 
@@ -577,10 +583,10 @@ flowchart TD
 * 고막 천공 시 점이제 원칙
   * aminoglycoside 계열(gentamicin, tobramycin, neomycin)은 천공을 통해 내이로 유입될 경우 감각신경성 난청을 유발하므로 절대 금기
   * 고막 천공 상태에서는 이독성이 없는 fluoroquinolone 점이제를 우선 선택함
-* ofloxacin 0.3% : 성인 1회 6\~10 drops bid, 점이 후 약 10분간 이욕 <mark style="color:blue;">\[에펙신이용액]</mark>
+* ofloxacin 0.3% : 성인 1회 6\~10 drops bid, 점이 후 약 10분간 이욕 <mark style="color:blue;">\[[에펙신이용액](https://health.kr/drug/A11A0341A0014)]</mark>
   * 화농성 이루·오염 손상의 처방 예시는 7\~10일이며, 경과에 따라 조정
   * 국내 허가 적응증은 중이염·외이염으로, 비감염성 외상성 천공의 오염 예방 사용은 허가 외 사용에 해당함
-* ciprofloxacin + fluocinolone <mark style="color:blue;">\[세트락살플러스]</mark>는 급성 외이염(7세 이상) 허가 제제이나, 고막 천공·중이염에서 안전성·유효성 미확립으로 대체 처방으로 권하지 않음. ofloxacin을 사용할 수 없다면 의뢰 고려
+* ciprofloxacin + fluocinolone <mark style="color:blue;">\[[세트락살플러스](https://health.kr/drug/A11AOOOOO7764)]</mark>는 급성 외이염(7세 이상) 허가 제제이나, 고막 천공·중이염에서 안전성·유효성 미확립으로 대체 처방으로 권하지 않음. ofloxacin을 사용할 수 없다면 의뢰 고려
 
 ### <mark style="color:orange;">고막성형술 (Tympanoplasty)</mark>
 
@@ -605,7 +611,7 @@ flowchart TD
 > (약물 처방 없음 - 건조 유지 및 경과 관찰)
 > ```
 >
-> _✽혈병은 환자가 임의로 떼지 않도록 지도. 귀에 물 들어가지 않도록 지도. 4\~6주 후 고막 회복 확인. 수영·잠수 금지_
+> _✽혈괴는 환자가 임의로 떼지 않도록 지도. 귀에 물 들어가지 않도록 지도. 4\~6주 후 고막 회복 확인. 수영·잠수 금지_
 
 > **처방례 2. 외상성 고막 천공 - 화농성 이루 동반 (2차 감염) 또는 오염 손상**
 >
@@ -614,6 +620,7 @@ flowchart TD
 > 타이레놀 500 ㎎/T          1T           q6~8h PRN         × 3d (통증 시)
 > ※ 속방형 저용량 처방례. 제품별 금기 확인; 다른 acetaminophen 함유 제품과 중복 복용하지 않음(001 참조)
 > ```
+> 약제 정보: [에펙신이용액·0.3%](https://health.kr/drug/A11A0341A0014) · [타이레놀·500 ㎎](https://health.kr/drug/2021082400002)
 >
 > _✽성인 처방 예시. 감염 치료는 중이염·외이염 허가 범위와 임상 양상을 확인하며, 비감염성 오염 손상의 예방 투여는 허가 외 사용. 고막 천공 시 aminoglycoside·이독성 점이제 피함; 비이독성 fluoroquinolone 단일제 우선. 약병을 손으로 잡아 체온에 가깝게 데우고, 발열·통증 악화 시 재내원_
 
@@ -630,10 +637,10 @@ flowchart TD
 
 > **귀를 건조하게 유지하는 방법**
 >
-> * 고막이 아물 때까지(보통 4\~6주) **절대 물이 들어가지 않도록** 하십시오.
+> * 고막이 아물었다고 진찰로 확인할 때까지(흔히 4\~8주, 큰 천공은 더 오래 걸릴 수 있음) **절대 물이 들어가지 않도록** 하십시오.
 > * 세발·샤워 시 귀마개를 사용하거나 바셀린(petroleum jelly)을 묻힌 솜으로 귀를 막으십시오.
 > * **수영과 잠수는 고막이 완전히 회복될 때까지 금지합니다.**
-> * 귀 안에 고인 피딱지(혈병)를 면봉이나 손가락으로 떼지 마십시오. 필요한 제거는 의료진이 판단합니다.
+> * 귀 안에 고인 피딱지(혈괴)를 면봉이나 손가락으로 떼지 마십시오. 필요한 제거는 의료진이 판단합니다.
 
 > **언제 즉시 병원을 방문해야 하나요?**
 >
@@ -724,7 +731,7 @@ flowchart TD
 
 * 반복 발생 `알레르기비염` `만성 부비동염` `귀인두관기능부전`
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 * 경증 중이 압력 손상은 추가 압력 노출을 피하고 진통제·건조 관리 시행
 * 코막힘이 있으면 금기 확인 후 울혈 제거제 단기간 고려
@@ -757,8 +764,7 @@ flowchart TD
 
 * 성인에서 탑승 30분 전 pseudoephedrine 120 ㎎ 복용 시 이통 감소 <mark style="color:$info;">\[Ann Emerg Med 1994]</mark>
   * 소아에서는 효과가 입증되지 않음 <mark style="color:$info;">\[Arch Pediatr Adolesc Med 1999]</mark>
-  * pseudoephedrine 60 ㎎ 2T, 탑승 30분\~1시간 전 1회 <mark style="color:blue;">\[슈다페드]</mark>
-  * 국내 성인 허가 1회량은 30\~60 ㎎으로, 120 ㎎ 1회 복용은 허가 외 용량임
+  * 연구의 120 ㎎ 1회량은 국내 [슈다페드](https://health.kr/drug/A11A0500A0112) 정제의 성인 허가 1회량(30\~60 ㎎)을 초과함. 연구 결과를 정제 2정의 일률적 처방으로 적용하지 않음
 * 코막힘 동반 시 pseudoephedrine 30\~60 ㎎, 1일 3\~4회 범위에서 필요시 단기간(예: 3\~5일) 사용. 최소 4시간 간격, 최대 240 ㎎/일
   * 압력 손상 자체의 회복 효과는 입증되지 않음
 
@@ -767,9 +773,9 @@ flowchart TD
 * 코막힘 완화를 위해 선택적으로 사용하며, 비강 분무 단독의 귀 압력 손상 예방 효과는 불확실함 <mark style="color:$info;">\[Am J Emerg Med 1998]</mark>
 * 제품별 용법을 따르며, 반동성 비충혈 예방을 위해 단기간(예: 3일 이내) 사용
 * 국내 슈다페드 허가사항상 다른 교감신경흥분제 투여 중에는 금기이므로 경구 pseudoephedrine과 비강 혈관수축제를 일률 병용하지 않음
-* xylometazoline 0.1% : 만 12세 이상 <mark style="color:blue;">\[오트리빈멘톨0.1%분무제]</mark>
-* oxymetazoline : 만 6세 이상 <mark style="color:blue;">\[레스피비엔]</mark>
-* phenylephrine : 만 7세 이상 <mark style="color:blue;">\[시네프린나잘]</mark>
+* xylometazoline 0.1% : 만 12세 이상 <mark style="color:blue;">\[[오트리빈멘톨0.1%분무제](https://health.kr/drug/A11ALLLLL0153)]</mark>
+* oxymetazoline : 만 6세 이상 <mark style="color:blue;">\[[레스피비엔](https://health.kr/drug/A11ALLLLL0015)]</mark>
+* phenylephrine : 만 7세 이상 <mark style="color:blue;">\[[시네프린나잘](https://www.health.kr/drug/2011040500003)]</mark>
 
 {% hint style="danger" %}
 **pseudoephedrine 투여 금기 및 주의**
@@ -793,11 +799,11 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 <mark style="color:cyan;">**진통제**</mark>
 
-* acetaminophen 속방형 : 500\~1,000 ㎎ q6\~8h PRN; 모든 함유 제품을 합산하여 일반 성인 최대 4,000 ㎎/일, 반복·장기 사용은 통상 3,000 ㎎/일 이하를 보수적으로 권장 <mark style="color:blue;">\[타이레놀]</mark>
+* acetaminophen 속방형 : 500\~1,000 ㎎ q6\~8h PRN; 모든 함유 제품을 합산하여 일반 성인 최대 4,000 ㎎/일, 반복·장기 사용은 통상 3,000 ㎎/일 이하를 보수적으로 권장 <mark style="color:blue;">\[[타이레놀](https://health.kr/drug/2021082400002)]</mark>
   * 소화성궤양, 심한 간장애·신장애·심장기능저하, aspirin 천식 또는 그 병력, TCA·바르비탈계 약물 복용 등 해당 제품의 국내 투여 금기를 먼저 확인. 금기 환자에게 단순 감량하거나 NSAID 대신 자동 대체하지 않음(001 참조)
   * 고령·쇠약·저체중·영양불량·지속적인 과음 등에서는 체중·위험요인·사용기간에 따라 감량. 간경변에서는 통상 최대 2 g/d로 제한하되 심한 간장애의 금기와 구분
-  * 타이레놀 ER 650 ㎎의 대표 허가 용법은 12세 이상에서 1회 2정, 최소 8시간 간격, 최대 6정(3,900 ㎎)/일. 낮은 총량이 필요한 경우 속방형 등으로 개별화하며, 서방정을 쪼개거나 씹지 않음
-* ibuprofen : 400 ㎎ q6h <mark style="color:blue;">\[부루펜]</mark>
+  * [타이레놀 ER](https://health.kr/drug/2022020300026) 650 ㎎의 대표 허가 용법은 12세 이상에서 1회 2정, 최소 8시간 간격, 최대 6정(3,900 ㎎)/일. 낮은 총량이 필요한 경우 속방형 등으로 개별화하며, 서방정을 쪼개거나 씹지 않음
+* ibuprofen : 200\~[400 ㎎](https://www.health.kr/drug/A11A0500A0131), 1일 3\~4회 필요시; 최소 유효 용량·최단기간 사용하며 위장관 출혈·신장애·탈수·천식 병력 및 다른 NSAID 중복 등을 확인(001 참조) <mark style="color:blue;">\[[부루펜](https://health.kr/drug/A11A0500A0097)]</mark>
 
 ### <mark style="color:orange;">수술</mark>
 
@@ -814,19 +820,21 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 비행 관련 반복 이통의 예방 - 경구제 단독 선택 (성인, 금기 없음)**
+> **처방례 1. 비행 전 코막힘 완화 - 경구제 단독 선택 (성인, 금기 없음)**
 >
 > ```
-> 슈다페드 60 ㎎/T   2T   탑승 30분~1시간 전 1회
+> 슈다페드 60 ㎎/T   1T   탑승 30분~1시간 전 1회
 > ```
+> 약제 정보: [슈다페드·60 ㎎](https://health.kr/drug/A11A0500A0112)
 >
-> _✽pseudoephedrine 120 ㎎ 1회 복용은 허가 외 용량. 국내 허가상 다른 교감신경흥분제 투여 중에는 금기이므로 비강 혈관수축제를 일률 병용하지 않음. URI 심한 경우 탑승 연기 고려. 소아에서는 경구 pseudoephedrine의 이통 예방 효과가 입증되지 않음_
+> _✽비충혈 완화를 위한 허가 용량 내 예시이며, 60 ㎎ 1회 투여의 항공 압력손상 예방 효과는 직접 입증되지 않음. 연구 용량 120 ㎎은 허가 1회량을 초과하므로 일률 적용하지 않음. 국내 허가상 다른 교감신경흥분제 투여 중에는 금기이므로 비강 혈관수축제를 일률 병용하지 않음. URI 심한 경우 탑승 연기 고려. 소아에서는 경구 pseudoephedrine의 이통 예방 효과가 입증되지 않음_
 
 > **처방례 2. 코막힘 완화 - 비강제 단독 선택 (성인, 금기 없음)**
 >
 > ```
 > 오트리빈멘톨0.1%분무제   1 puff/비공   tid prn   × 3d
 > ```
+> 약제 정보: [오트리빈멘톨·0.1%](https://health.kr/drug/A11ALLLLL0153)
 >
 > _✽xylometazoline 0.1%의 코막힘 완화 예시. 최소 8시간 간격·1일 최대 3회, 귀 압력 손상 예방 효과는 불확실함. 경구 pseudoephedrine과 임의 병용하지 않음. 반동성 비충혈 예방을 위해 단기간 사용_
 
@@ -834,8 +842,9 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 >
 > ```
 > 슈다페드 60 ㎎/T   1T   tid~qid prn   × 3~5d
-> 부루펜 200 ㎎/T    6T   #3    × 3~5d
+> 부루펜 200 ㎎/T    1회 2T tid PRN    × 3d
 > ```
+> 약제 정보: [슈다페드·60 ㎎](https://health.kr/drug/A11A0500A0112) · [부루펜·200 ㎎](https://health.kr/drug/A11A0500A0097)
 >
 > _✽슈다페드는 코막힘 완화를 위한 선택적 처방이며 최소 4시간 간격·최대 240 ㎎/일, 투여 금기 확인. 하품·삼킴을 우선하고 반복 Valsalva는 일률 권하지 않음. 지속·심한 어지럼·안진·갑작스러운 난청 시 즉시 전문 평가_
 
@@ -848,7 +857,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 > * **비강 스프레이는 코막힘 완화를 위해 지시받은 경우 사용하십시오.** 비행 중 귀 통증 예방 효과는 확실하지 않습니다.
 > * 오트리빈멘톨0.1%분무제는 각 비공에 1회씩, 필요시 최소 8시간 간격으로 사용하며 하루 3회를 넘기지 마십시오.
 > * 지시받은 짧은 기간(이 처방례는 3일)만 사용하십시오. 오래 사용하면 오히려 코막힘이 더 심해질 수 있습니다.
-> * 경구 슈다페드를 이통 예방 목적으로 처방받았다면 탑승 30분\~1시간 전에 지시받은 용량을 1회 복용하십시오.
+> * 경구 슈다페드를 비행 전 코막힘 완화 목적으로 처방받았다면 탑승 30분\~1시간 전에 지시받은 용량을 1회 복용하십시오.
 > * **경구 슈다페드와 비강 혈관수축제를 임의로 함께 사용하지 마십시오.**
 
 > **이압 균형 조작법 (예방 단계와 손상 후를 구분)**
@@ -928,7 +937,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 * 소음 노출자의 점진적 청력 저하, 대화 알아듣기 어려움 `소음성 난청(NIHL)`
 * 청력검사는 정상이나 시끄러운 곳에서 말소리 이해가 어려움 `기능적 청취 어려움`
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 * 즉시 소음 환경에서 벗어나고 추가 소음·사격 노출을 피함
 * 청력 저하·폭발 후 이명이 있으면 가능한 한 조기에 PTA·이비인후과 평가
@@ -939,7 +948,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 * 급성 음향 외상 : 조기 청력검사로 손상 정도를 평가하고 스테로이드 적응증 판단. 조기 치료가 유리하다는 관찰연구가 있으나, 24\~48시간 또는 72시간을 절대적인 치료 cutoff로 사용하지 않음
 * 스테로이드
-  * prednisolone 1 ㎎/㎏/d(최대 60 ㎎/d), 1일 1회 아침 × 7\~10d <mark style="color:blue;">\[소론도]</mark>를 고려할 수 있음
+  * prednisolone 1 ㎎/㎏/d(최대 60 ㎎/d), 1일 1회 아침 × 7\~10d <mark style="color:blue;">\[[소론도](https://health.kr/drug/A11A4290B0015)]</mark>를 고려할 수 있음
     * JTS 2025의 prednisone 60 ㎎/d × 10d 예시에 동등 용량의 국내 prednisolone을 적용한 요법이며, 급성 음향 외상 치료는 허가 외 사용 <mark style="color:$info;">\[JTS 2025]</mark>
   * 단기 요법 후 감량을 일률적으로 요구하지 않음
     * JTS 2025는 위 10일 요법의 의무적 감량 요구를 삭제했으며, ESE/Endocrine Society 2024는 일반적으로 3\~4주 미만 투여에서 부신억제 예방 목적의 감량이 불필요하다고 권고 <mark style="color:$info;">\[ESE/Endocrine Society 2024]</mark>
@@ -982,6 +991,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 > ```
 > 소론도 5 ㎎/T   12T   qd 아침 식후   × 10d
 > ```
+> 약제 정보: [소론도·5 ㎎](https://health.kr/drug/A11A4290B0015)
 >
 > _✽prednisolone 60 ㎎/d × 10d의 허가 외 사용 예시. 60 ㎏ 미만은 1 ㎎/㎏/d(최대 60 ㎎/d) 범위에서 개별 결정. 단기 요법의 감량은 필수가 아니며 기존 장기·반복 투여 이력 등 고려. 청력검사·당일 이비인후과 평가를 병행하고 당뇨·궤양·고혈압·감염 위험 확인. 지연 내원해도 치료 가능성을 평가함_
 
@@ -1002,7 +1012,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 > * **처방된 일정대로 복용하고 임의로 용량·기간을 변경하지 마십시오.** 짧은 요법에서는 감량 없이 종료할 수 있으며, 감량이 필요한지는 기존 복용 이력과 상태에 따라 의사가 결정합니다.
 > * **하루 한 번 아침 식사 직후 복용**하십시오. 공복에 복용하면 속이 쓰릴 수 있고, 저녁에 복용하면 잠들기 어려울 수 있습니다.
 > * 복용 중 당뇨가 있으신 경우 혈당이 올라갈 수 있으니 혈당 모니터링을 더 자주 하십시오.
-> * 복용 중 얼굴이 붓거나, 불면, 기분 변화 등이 생기면 의사에게 알리십시오.
+> * 복용 중 얼굴이 붓거나, 불면, 기분 변화 등이 생기면 의사에게 알리십시오. 검은 변·피 토함, 심한 복통, 심한 정신 증상 또는 감염 의심 증상이 생기면 신속히 진료를 받으십시오.
 
 > **귀를 보호하는 방법**
 >
@@ -1035,6 +1045,8 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 * \[NIOSH] [National Institute for Occupational Safety and Health. Criteria for a Recommended Standard: Occupational Noise Exposure, Revised Criteria 1998. DHHS (NIOSH) Publication No. 98-126.](https://www.cdc.gov/niosh/docs/98-126/) - 85 ㏈(A) 8시간 권고 노출한계와 3 ㏈ 교환율
 * \[AAP 2016] [Jackson MA, Schutze GE; Committee on Infectious Diseases. The Use of Systemic and Topical Fluoroquinolones. Pediatrics. 2016;138(5):e20162706.](https://doi.org/10.1542/peds.2016-2706) - 소아 전신 fluoroquinolone의 제한적 사용과 개별 유익성/위험성 평가; 국내 품목별 허가와 구분
 * [Long B, Mason J, Bridwell RE, Gottlieb M. Managing Auricular Hematoma: An Emergency Medicine Narrative Review. J Emerg Med. 2025;69:62-75.](https://doi.org/10.1016/j.jemermed.2024.08.021) - 이개혈종의 배액·고정과 항생제 사용 범위
+* [Harvie M, Roy CF, Gurberg J. Traumatic tympanic membrane perforations. CMAJ. 2024;196:E100.](https://doi.org/10.1503/cmaj.230868) - 건조 관리·자연 치유와 전문 의뢰
+* [Divers Alert Network. Chapter 2: Injuries.](https://dan.org/health-medicine/health-resource/dive-medical-reference-books/ears-diving/ear-injuries/) - 내이 압력손상·감압병 감별과 응급 대응
 * [MSD Manual Professional. Traumatic Perforation of the Tympanic Membrane. 2026.](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/middle-ear-and-tympanic-membrane-disorders/traumatic-perforation-of-the-tympanic-membrane) - 외상성 고막 천공의 자연 치유·의뢰 시점
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>

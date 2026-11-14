@@ -5,7 +5,7 @@
 * 외이도 또는 귓바퀴의 염증·감염; "swimmer's ear"라고도 불림
 * 유병률 : 미국 기준 연간 약 123명 중 1명에서 발생; 평생 유병률 최대 10% <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 * 경과 : 적절한 국소 치료 시작 후 48\~72시간 내 호전이 시작되며, 대부분 7일 이내에 회복
-  * 국소제는 제품별 권장 기간(통상 7일) 사용하고, 7일 이후에도 증상이 남으면 지속 감염·진균증·접촉피부염 여부를 재평가하여 연장(최대 7일 추가) 또는 변경 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
+  * 국소제는 급성 외이염의 권장 치료 기간(통상 7~10일; 제품별 고정 치료 기간은 해당 용법을 따름) 사용하고, 7일 이후에도 증상이 남으면 지속 감염·진균증·접촉피부염 여부를 재평가하여 제품별 용법과 진단에 따라 변경 또는 연장 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 
 ### <mark style="color:orange;">분류</mark>
 
@@ -90,7 +90,7 @@
 
 ### <mark style="color:orange;">외이 이루의 감별</mark>
 
-<table data-search="false"><thead><tr><th width="109.55555725097656">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성<br>외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균제 ± 스테로이드, 이강 세척 및 건조 유지, ear wick 고려; 외이 밖 확장·고위험 숙주에서만 경구 항생제 추가</td></tr><tr><td>진균성<br>외이염</td><td>균사·솜털 모양 잔재물, 일부 <em>Aspergillus</em> 균종에서 흑점 동반; <em>Candida</em>는 흰색 크림상 분비물; 항균 치료 무반응, 당뇨·고령·면역 저하</td><td>필요한 잔재물 청소·debridement + 국소 항진균제; 세균-진균 혼합감염이 아닌 전형적 진균성 OE에서는 불필요한 국소 항생제 지속 사용을 중단함; 혼합감염 의심 시 배양·경과에 따라 조정하되 <mark style="color:blue;">[실로덱스]</mark>는 진균성 귀 감염에 금기</td></tr><tr><td>중이염<br>(고막 천공)</td><td>급성 중이염 후 갑작스러운 이루와 통증 감소, 고막 천공; 만성 화농성 중이염은 반복·지속 이루, 이주 압통은 대개 없음</td><td>급성은 중이염 치료 원칙에 따라 경구 항생제 필요성 평가; 점이제를 사용하는 경우 비이독성 제제(ofloxacin 등) 선택. 만성은 이비인후과 의뢰</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 스테로이드; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·지적장애인</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도<br>손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 측두골 CT</td></tr><tr><td>괴사성<br>외이염*</td><td>소견에 비해 심한 통증(야간 악화), 외이도 육아조직, 당뇨·고령·면역 저하, 국소 치료 무반응, ESR/CRP 상승; <em>P. aeruginosa</em>가 가장 흔하나 진균(<em>Aspergillus</em> 등)·MRSA도 원인</td><td>즉시 의뢰; 항생제 시작 전 배양(가능하면), 초기 영상은 측두골 CT(필요시 MRI)</td></tr><tr><td>Ramsay Hunt 증후군 /<br>이성 대상포진</td><td>외이·귓바퀴의 수포성 발진, 이통 ± 안면신경 마비</td><td>안면신경 마비 동반 시 즉시 의뢰, 수포만 있으면 당일 평가; 항바이러스제(안면신경 마비 동반 시 스테로이드 병용)</td></tr><tr><td>종양·진주종</td><td>편측 종괴, 외이도 폴립, 출혈성 이루, 치료 무반응의 만성 이루</td><td>측두골 CT; 이비인후과 의뢰</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="109.55555725097656">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성<br>외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균제 ± 스테로이드, 외이도 청소 및 건조 유지, ear wick 고려; 외이 밖 확장·고위험 숙주에서만 경구 항생제 추가</td></tr><tr><td>진균성<br>외이염</td><td>균사·솜털 모양 잔재물, 일부 <em>Aspergillus</em> 균종에서 흑점 동반; <em>Candida</em>는 흰색 크림상 분비물; 항균 치료 무반응, 당뇨·고령·면역 저하</td><td>필요한 잔재물 청소·debridement + 국소 항진균제; 세균-진균 혼합감염이 아닌 전형적 진균성 OE에서는 불필요한 국소 항생제 지속 사용을 중단함; 혼합감염 의심 시 배양·경과에 따라 조정하되 <mark style="color:blue;">[<a href="https://health.kr/drug/A11AOOOOO3520">실로덱스</a>]</mark>는 진균성 귀 감염에 금기</td></tr><tr><td>중이염<br>(고막 천공)</td><td>급성 중이염 후 갑작스러운 이루와 통증 감소, 고막 천공; 만성 화농성 중이염은 반복·지속 이루, 이주 압통은 대개 없음</td><td>급성은 중이염 치료 원칙에 따라 경구 항생제 필요성 평가; 점이제를 사용하는 경우 비이독성 제제(ofloxacin 등) 선택. 만성은 이비인후과 의뢰</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 스테로이드; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·지적장애인</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도<br>손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 측두골 CT</td></tr><tr><td>괴사성<br>외이염*</td><td>소견에 비해 심한 통증(야간 악화), 외이도 육아조직, 당뇨·고령·면역 저하, 국소 치료 무반응, ESR/CRP 상승; <em>P. aeruginosa</em>가 가장 흔하나 진균(<em>Aspergillus</em> 등)·MRSA도 원인</td><td>즉시 의뢰; 항생제 시작 전 배양(가능하면), 초기 영상은 측두골 CT(필요시 MRI)</td></tr><tr><td>Ramsay Hunt 증후군 /<br>이성 대상포진</td><td>외이·귓바퀴의 수포성 발진, 이통 ± 안면신경 마비</td><td>안면신경 마비 동반 시 즉시 의뢰, 수포만 있으면 당일 평가; 항바이러스제(안면신경 마비 동반 시 스테로이드 병용)</td></tr><tr><td>종양·진주종</td><td>편측 종괴, 외이도 폴립, 출혈성 이루, 치료 무반응의 만성 이루</td><td>측두골 CT; 이비인후과 의뢰</td></tr></tbody></table>
 
 > _<mark style="color:$info;">\*</mark>Necrotizing OE (구 용어: 악성 외이염/malignant OE)_
 
@@ -106,21 +106,24 @@
 ***
 
 ```mermaid
-graph TD
-    S(["이통 호소 환자"]) --> RF["Red Flags <br/>즉각 조치 항목 해당?"]
-    RF -- "예" --> NOE["중증 감염·합병증 의심<br/>즉시 의뢰<br/>의심 질환에 따른 검사"]
-    RF -- "아니오" --> Q1["귓바퀴 당김·이주 압박 시<br/>통증 악화?"]
-    Q1 -- "예" --> OE["외이염 가능성 높음<br/>외이도 진찰·처치"]
-    Q1 -- "아니오" --> Q2["고막 이상?<br/>(발적·팽윤·함몰)"]
-    Q2 -- "예" --> OM["중이 질환 평가<br/>중이염·삼출성 중이염·<br/>귀인두관기능부전 감별<br/>고막 운동성·중이삼출 확인"]
-    Q2 -- "아니오" --> Q3["귀 진찰 정상?"]
-    Q3 -- "예" --> REF["•연관통 평가: TMJ<br/>·치아·인두·편도·경추<br/>•편측·지속성 + 흡연·음주<br/>·체중감소 시 <br/>두경부암 배제"]
-    Q3 -- "아니오" --> EVAL["임상 맥락에 따라 <br/>재평가"]
-    style S fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef y fill:#fff9c4,stroke:#ffe082
-    class RF,Q1,Q2,Q3 y
-    style NOE fill:#ffe0e0,stroke:#c0392b
-    style OE fill:#f96,stroke:#e65100,stroke-width:2px
+flowchart TD
+    S["이통 호소 환자"] --> RF["Red Flags / 즉각 조치 항목 해당?"]
+    RF -- "예" --> NOE["중증 감염·합병증 의심 / 즉시 의뢰 / 의심 질환에 따른 검사"]
+    RF -- "아니요" --> Q1["귓바퀴 당김·이주 압박 시 / 통증 악화?"]
+    Q1 -- "예" --> OE["외이염 가능성 높음 / 외이도 진찰·처치"]
+    Q1 -- "아니요" --> Q2["고막 이상? / (발적·팽윤·함몰)"]
+    Q2 -- "예" --> OM["중이 질환 평가 / 중이염·삼출성 중이염· / 귀인두관기능부전 감별 / 고막 운동성·중이삼출 확인"]
+    Q2 -- "아니요" --> Q3["귀 진찰 정상?"]
+    Q3 -- "예" --> REF["연관통: TMJ·치아·인두·경추 평가 / 지속 편측 이통·위험인자: 두경부암 배제"]
+    Q3 -- "아니요" --> EVAL["임상 맥락에 따라 / 재평가"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef urgent fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class S start
+    class RF,Q1,Q2,Q3 decision
+    class NOE urgent
+    class OE,OM,REF,EVAL action
 ```
 
 <p align="center"><strong>이통 감별 알고리듬</strong></p>
@@ -130,31 +133,33 @@ graph TD
 ***
 
 ```mermaid
-graph TD
-    START(["급성 미만성 외이염 의심 환자"]) --> RF["Red Flags <br/>즉각 조치 항목 해당?"]
-    RF -- "예" --> NOE["중증 감염·합병증 의심<br/>즉시 의뢰<br/>의심 질환에 따른 검사"]
-    RF -- "아니오" --> TYPE["진균성·습진성 의심?<br/>(흰 솜털·흑점, 소양증 위주)"]
-    TYPE -- "예" --> OTHER["고막 확인 후 해당 항목 치료<br/>•진균성: 청소+국소 항진균제<br/>•습진성: 원인 제거+국소 스테로이드<br/>•혼합감염 의심 시 재평가"]
-    TYPE -- "아니오" --> EXT["외이 밖으로 염증 확장 <br/>또는 전신 치료가 필요한 <br/>숙주 인자?"]
-    EXT -- "예" --> SYS["국소제+경구 항생제<br/>(P.aeruginosa·S.aureus <br/>커버)"]
-    EXT -- "아니오" --> TM["고막 천공·환기관 있음<br/>또는 고막 확인 불가?"]
-    TM -- "예" --> NONOTO["<u>비이독성 제제</u><br/>ofloxacin 또는<br/>ciprofloxacin/dexamethasone"]
-    TM -- "아니오" --> ANY["국소 항균제±스테로이드<br/>(비용·순응도·선호로 선택)<br/>경증은 2% acetic acid 가능"]
+flowchart TD
+    START["급성 미만성 외이염 의심 환자"] --> RF["Red Flags / 즉각 조치 항목 해당?"]
+    RF -- "예" --> NOE["중증 감염·합병증 의심 / 즉시 의뢰 / 의심 질환에 따른 검사"]
+    RF -- "아니요" --> TYPE["진균성·습진성 의심? / (흰 솜털·흑점, 소양증 위주)"]
+    TYPE -- "예" --> OTHER["고막 확인·진균성 또는 습진성 치료 / 진균: 청소·항진균제 / 습진: 원인 제거·국소 스테로이드"]
+    TYPE -- "아니요" --> EXT["외이 밖으로 염증 확장 / 또는 전신 치료가 필요한 / 숙주 인자?"]
+    EXT -- "예" --> SYS["국소제+경구 항생제 / (P.aeruginosa·S.aureus / 커버)"]
+    EXT -- "아니요" --> TM["고막 천공·환기관 있음 / 또는 고막 확인 불가?"]
+    TM -- "예" --> NONOTO["비이독성 제제 / ofloxacin 또는 / ciprofloxacin/dexamethasone"]
+    TM -- "아니요" --> ANY["국소 항균제±스테로이드 / (비용·순응도·선호로 선택) / 경증은 2% acetic acid 가능"]
     SYS --> TM
     NONOTO --> OBS["외이도 폐쇄?"]
     ANY --> OBS
-    OBS -- "예" --> TOIL["이강 세척±ear wick<br/>(당뇨·면역저하: 물 세척 대신 흡인)"]
-    OBS -- "아니오" --> EDU["점이 방법 교육<br/>제품별 권장 기간 사용"]
+    OBS -- "예" --> TOIL["직시하 외이도 청소±ear wick / (고막 확인 불가·당뇨·면역저하: 물 세척 회피)"]
+    OBS -- "아니요" --> EDU["점이 방법 교육 / 제품별 권장 기간 사용"]
     TOIL --> EDU
     EDU --> R48["48~72시간 내 호전?"]
-    R48 -- "예" --> DONE["제품별 권장 기간 치료<br/>7일 후에도 증상 잔존 시 <br/>재평가하여 변경 또는 연장 결정"]
-    R48 -- "아니오" --> REEVAL["재평가: 진단·점이 순응도 확인<br/>배양, 진균·접촉피부염 고려<br/>필요시 이비인후과 의뢰"]
-    style START fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style OTHER fill:#d6eeff,stroke:#2196f3
-    classDef y fill:#fff9c4,stroke:#ffe082
-    class RF,TYPE,EXT,TM,OBS,R48 y
-    style NOE fill:#ffe0e0,stroke:#c0392b
-    style REEVAL fill:#d6eeff,stroke:#2196f3
+    R48 -- "예" --> DONE["제품별 권장 기간 치료 / 7일 후에도 증상 잔존 시 / 재평가하여 변경 또는 연장 결정"]
+    R48 -- "아니요" --> REEVAL["재평가: 진단·점이 순응도 확인 / 배양, 진균·접촉피부염 고려 / 필요시 이비인후과 의뢰"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef urgent fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class START start
+    class RF,TYPE,EXT,TM,OBS,R48 decision
+    class NOE urgent
+    class OTHER,SYS,NONOTO,ANY,TOIL,EDU,DONE,REEVAL action
 ```
 
 <p align="center"><strong>급성 미만성 외이염 치료 알고리듬</strong></p>
@@ -163,11 +168,11 @@ graph TD
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-1. 외이도 이강 세척(Aural Toilet / Cleansing) : 국소 약제 투여 전 외이도를 청소하면 효과 증진
+1. 외이도 청소(Aural Toilet / Cleansing) : 국소 약제 투여 전 외이도를 청소하면 효과 증진
 2. 통증 조절 : 통증 정도를 평가하고 그에 맞는 충분한 용량의 경구 진통제 사용
    * 가려움에는 경구 항히스타민제, 국소 온열 치료
 3. 국소 약물 치료 : 단순 OE의 1차 치료(제품별 권장 기간, 통상 7일 치료)
@@ -176,7 +181,7 @@ graph TD
    * 단순 OE에 초기 경구 항생제 투여는 권고되지 않음
 5. 기저 질환 치료 : 피부 질환, 당뇨 혈당 조절 등
 
-#### <mark style="color:$primary;">외이도 이강 세척 (Aural Toilet / Cleansing)</mark>
+#### <mark style="color:$primary;">외이도 청소 (Aural Toilet / Cleansing)</mark>
 
 * 귀지 제거 및 외이도 청소 : 약제 투여 전 선행하면 효과 증진
 * 직접 시야 하에서 suction, dry mopping, 포셉/큐렛을 이용한 변연절제(debridement)를 우선 권장
@@ -187,29 +192,29 @@ graph TD
 * Ear wick(심지) : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입
   * 압축 스펀지 심지(Merocel/Pope wick, hydroxylated polyvinyl acetate) 또는 거즈 심지 사용
   * Wick가 건조해지면 점이용액이 외이도에 전달되지 않으므로, 규칙적으로 처방한 방울 수를 점이하도록 반드시 교육
-  * 2\~3일 후 자연 배출 또는 의사가 제거
-* 만성·재발성 OE에서 분비물·각질(debris)이 반복 축적되거나 국소 약제가 도달하기 어려운 경우에는 임상 경과에 따라 반복적으로 이강 세척을 시행
+  * 삽입 후 24\~48시간 내 재진하여 약물 전달·부종을 확인하고, 상태에 따라 의사가 제거 또는 교체; 임의로 깊이 밀어 넣지 않음
+* 만성·재발성 OE에서 분비물·각질(debris)이 반복 축적되거나 국소 약제가 도달하기 어려운 경우에는 임상 경과에 따라 반복적으로 외이도 청소를 시행
 
-## ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+### <mark style="color:orange;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 물 접촉 최소화 : 치료 중에는 외이도에 물이 들어가지 않도록 하고, 세발·샤워 시 귀마개 또는 petroleum jelly를 묻힌 솜 사용
 * 수영 재개 : 치료 중 통상 7\~10일간 수영·수상 활동을 피하고, 통증·부종 소실 후 귀마개를 착용하고 재개
-* 수영·목욕 후 관리 : 헤어드라이어로 건조(가장 약한 바람, 20\~30 ㎝ 거리)
+* 수영·목욕 후 관리 : 헤어드라이어로 건조(가장 낮은 온도·약한 바람, 20\~30 ㎝ 거리)
 * 귀지 자가 제거 제한 : 면봉 삽입 금지; 귀지는 자연 배출되도록 두는 것이 원칙
-* 보청기·귀마개 관리 : 보청기는 건조제(건조함)로 관리, 귀마개는 사용 후 알코올로 닦음
+* 보청기·귀마개 관리 : 보청기는 건조제(건조함)로 관리, 귀마개는 제조사의 세척 방법을 따르고 충분히 건조
   * 이어몰드가 외이도에 맞지 않으면 습기가 갇혀 외이염 위험이 높아지므로 피팅 상태를 주기적으로 점검
 * 잦은 비누 세척 피함 : 알칼리화로 균 저항력 저하
 
-## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
+### <mark style="color:orange;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
 ### <mark style="color:orange;">통증·가려움 관리</mark>
 
 #### <mark style="color:$primary;">소염진통제</mark>
 
-* ibuprofen : 성인 경증·중등도 이통에서 200\~400 ㎎, 1일 3\~4회 필요시 <mark style="color:blue;">\[부루펜]</mark>. 최소 유효 용량·최단기간 사용하며, 관절염 등의 고용량을 외이염의 통상 진통 용량으로 적용하지 않음
+* ibuprofen : 성인 경증·중등도 이통에서 200\~[400 ㎎](https://www.health.kr/drug/A11A0500A0131), 1일 3\~4회 필요시 <mark style="color:blue;">\[[부루펜](https://health.kr/drug/A11A0500A0097)]</mark>. 최소 유효 용량·최단기간 사용하며, 관절염 등의 고용량을 외이염의 통상 진통 용량으로 적용하지 않음
   * 위장관 궤양·출혈 또는 그 병력, 심한 신장애·간장애·심부전·고혈압, 기관지천식 또는 그 병력 등 부루펜의 국내 금기 확인. 다른 NSAID 중복, 항응고제·저용량 aspirin 병용 및 탈수 시 신손상 위험도 평가(001 참조)
-* acetaminophen 속방형 : 성인 500\~1,000 ㎎ q6h PRN <mark style="color:blue;">\[타이레놀]</mark>. 일반 성인은 모든 함유 제품을 합산하여 1일 4,000 ㎎을 초과하지 않으며, 반복·장기 사용은 통상 3 g/d 이하를 보수적으로 권장(001 참조)
-  * 서방형 650 ㎎은 1회 2정, 최소 8시간 간격, 24시간 최대 6정(3,900 ㎎) <mark style="color:blue;">\[타이레놀 이알]</mark>. 통째로 삼키며, 하루 2\~3 g 이하로 제한해야 하는 환자에게 2정씩 tid 처방을 그대로 적용하지 않음
+* acetaminophen 속방형 : 성인 500\~1,000 ㎎ q6h PRN <mark style="color:blue;">\[[타이레놀](https://health.kr/drug/2021082400002)]</mark>. 일반 성인은 모든 함유 제품을 합산하여 1일 4,000 ㎎을 초과하지 않으며, 반복·장기 사용은 통상 3 g/d 이하를 보수적으로 권장(001 참조)
+  * 서방형 650 ㎎은 1회 2정, 최소 8시간 간격, 24시간 최대 6정(3,900 ㎎) <mark style="color:blue;">\[[타이레놀 이알](https://health.kr/drug/2022020300026)]</mark>. 통째로 삼키며, 하루 2\~3 g 이하로 제한해야 하는 환자에게 2정씩 tid 처방을 그대로 적용하지 않음
   * 소화성궤양, 심한 간장애·신장애·심장기능저하, aspirin 천식 또는 그 병력, TCA·바르비탈계 약물 복용 등 해당 제품의 국내 금기를 먼저 확인. 감량으로 금기가 해소되는 것으로 설명하지 않음
   * 고령·쇠약·저체중·영양불량·지속적인 과음 등에서는 체중·위험요인·사용기간에 따라 감량하며, 고령만으로 일률적인 2 g/d 상한을 적용하지 않음. 간경변은 통상 2 g/d 이하로 제한하되 심한 간장애의 투여 금기와 구분(001 참조). 다른 acetaminophen 함유 감기약·진통제와 중복 복용하지 않음
 * 통증이 심한 경우 초기 2\~3일 규칙적으로 복용
@@ -245,7 +250,7 @@ graph TD
 2. 환측을 위로 하여 누움
 3. 처방된 방울 수만큼 외이도에 점이
 4. 이주(tragus)를 몇 차례 부드럽게 눌러(tragal pumping) 용액이 외이도 깊이 들어가도록 유도
-5. 제품별로 정해진 시간 동안(<mark style="color:blue;">\[에펙신]</mark> 약 10분, <mark style="color:blue;">\[실로덱스]</mark> 60초, <mark style="color:blue;">\[세트락살플러스]</mark> 약 30초) 누운 자세를 유지한 후 일어나 흘러나오는 용액을 닦음
+5. 제품별로 정해진 시간 동안(<mark style="color:blue;">\[[에펙신](https://health.kr/drug/A11A0341A0014)]</mark> 약 10분, <mark style="color:blue;">\[실로덱스]</mark> 60초, <mark style="color:blue;">\[[세트락살플러스](https://health.kr/drug/A11AOOOOO7764)]</mark> 약 30초) 누운 자세를 유지한 후 일어나 흘러나오는 용액을 닦음
 
 * 스스로 점이하는 환자는 첫 3일 동안 약 40%만 올바르게 점이하므로, 가능하면 보호자가 넣어 주도록 교육 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 * 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (진단 재확인, 점이 순응도 확인) <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
@@ -255,13 +260,13 @@ graph TD
 
 * 고막 천공·환기관이 있거나 고막 확인이 불가능할 때 비이독성 제제(ofloxacin·ciprofloxacin/dexamethasone 등)를 선택; 국내 허가 적응증·연령·용법은 제품별로 확인
 * ofloxacin 0.3% : 성인 1회 6\~10 drops bid, 점이 후 약 10분간 이욕 <mark style="color:blue;">\[에펙신]</mark>
-* ciprofloxacin 단일 점이제는 국내에 없음 - 0.3% 점안액 차용(허가 외) <mark style="color:blue;">\[씨펙스]</mark>
+* ciprofloxacin 단일 점이제는 국내에 없음 - 0.3% 점안액 차용(허가 외) <mark style="color:blue;">\[[씨펙스](https://health.kr/drug/A11A0500B0002)]</mark>
 
 #### <mark style="color:$primary;">Aminoglycoside계</mark>
 
 * 이독성 있음; 고막 천공 시 절대 금기
   * 시판 점이용 제제 없음 - 점안액 차용 (보험 주의)
-* tobramycin 0.3% <mark style="color:blue;">\[토브라]</mark>, gentamicin, neomycin
+* tobramycin 0.3% <mark style="color:blue;">\[[토브라](https://health.kr/drug/A11A0430A0270)]</mark>, gentamicin, neomycin
 
 #### <mark style="color:$primary;">국소 항균제/스테로이드 복합제</mark>
 
@@ -318,7 +323,7 @@ graph TD
   * fluoroquinolone 주의 : 혈당 이상(당뇨 환자의 저·고혈당), 건병증·건파열, 대동맥류
   * 경구 ciprofloxacin은 tizanidine(실다루드 등)과 병용 금기. Ketoprofen 전신제와의 국내 DUR 병용 금기도 확인하고 대체 약제를 선택(001 참조)
   * Duloxetine 복용 중이면 CYP1A2 억제에 의한 노출 증가 때문에 병용을 피하고 항생제 대안을 검토. 피부 외용제·점안·점이제는 제품·제형별 허가사항과 DUR 적용 범위를 별도로 확인하며, 전신제의 금기를 일률 적용하지 않음
-* cephalexin : 500 ㎎ qid(또는 bid) × 7d <mark style="color:blue;">\[팔렉신]</mark>
+* cephalexin : 500 ㎎ qid(또는 bid) × 7d <mark style="color:blue;">\[[팔렉신](https://health.kr/drug/A11A0570A0301)]</mark>
   * _S. aureus_ 중심의 경증 furunculosis·단순 연조직염에서 선택지
   * 그람(-) 커버가 불충분하므로 OE 관련 연조직염에 단독 사용은 주의
 * Furunculosis : 파동성 농양이 있으면 절개 배농이 우선이며, 국소 점이제는 효과가 제한적
@@ -345,7 +350,7 @@ graph TD
 
 #### <mark style="color:$primary;">국소</mark>
 
-* 1차 : 의사가 필요한 잔재물 청소·debridement 후 clotrimazole 1% 크림을 외이도에 얇게 도포 <mark style="color:blue;">\[카네스텐]</mark>; 고막 정상 확인 후 사용, 1\~2주 후 재진하여 잔재물 재청소
+* 1차 : 의사가 필요한 잔재물 청소·debridement 후 clotrimazole 1% 크림을 외이도에 얇게 도포 <mark style="color:blue;">\[[카네스텐](https://health.kr/drug/A11A1380A0031)]</mark>; 고막 정상 확인 후 사용, 1\~2주 후 재진하여 잔재물 재청소
   * 고막 천공·확인 불가 환자에게 크림 자가 도포를 일반화하지 않음
 * clotrimazole 1% 점이액 (CLOTIC, 국내 미허가) : 2025년 9월 26일 FDA 승인; 18세 이상의 _Aspergillus_·_Candida_ 진균성 외이염에 1회용 바이알 1개씩 bid × 14d; 위약 대비 효과 입증, 고막이 정상인 환자에서만 연구되어 고막 천공 시 권고되지 않음 <mark style="color:$info;">\[FDA 2025]</mark>
 * 기타 : miconazole, nystatin, amphotericin B
@@ -384,10 +389,11 @@ graph TD
 >
 > ```
 > 세트락살플러스 점이액 10 ㎖/병  4~6 drops q8h  × 7d
-> 타이레놀 이알 650 ㎎/T  6T #3  × 3~5d
+> 타이레놀 이알 650 ㎎/T  1회 2T q8h PRN, 1일 최대 6T  × 3d
 > ※ 1회 2정, 최소 8시간 간격; 1일 총 3,900 ㎎. 해당 제품 금기에 해당하지 않는 성인의 단기 처방례
 > ※ 하루 2~3 g 이하 감량 대상에게 그대로 적용하지 않음; 필요하면 속방형 등으로 용량 개별화. 다른 acetaminophen 함유 제품 추가 금지
 > ```
+> 약제 정보: [세트락살플러스·0.3%/0.025%](https://health.kr/drug/A11AOOOOO7764) · [타이레놀 이알·650 ㎎](https://health.kr/drug/2022020300026)
 >
 > _✽고막 천공이 없음을 확인한 후 투여(천공 시 안전성 미확립). 투여 전 약병을 손으로 1\~2분 따뜻하게 하고 흔들 것. 점이 후 약 30초 자세 유지; 개봉 후 30일이 지난 약은 사용하지 않음. 통증이 줄면 진통제는 필요시로 감량. 48\~72시간 내 호전 없으면 재내원_
 
@@ -395,20 +401,22 @@ graph TD
 >
 > ```
 > 실로덱스 점이현탁액 7.5 ㎖/병 4 drops bid  × 7d
-> 부루펜 200 ㎎/T  6T #3  × 3~5d
+> 부루펜 200 ㎎/T  1회 2T tid PRN  × 3d
 > ```
+> 약제 정보: [실로덱스·0.3%/0.1%](https://health.kr/drug/A11AOOOOO3520) · [부루펜·200 ㎎](https://health.kr/drug/A11A0500A0097)
 >
 > _✽ciprofloxacin/dexamethasone 복합제 - P. aeruginosa 및 S. aureus 모두 커버. 외이염에서 고막 천공이 확인되거나 의심되는 경우에도 선택 가능한 비이독성 제제임. 국내 중이염 허가는 환기관을 삽입한 6개월 이상 소아의 급성 중이염에 해당함. 본 처방례는 성인용이며, 급성 외이염의 2\~12세 미만 소아 점이 용량은 1회 3방울, 1일 2회 7일임. 사용 전 잘 흔들고 점이 후 60초 자세 유지, 치료 후 남은 약은 폐기. 진균 감염(혼합감염 포함)이 의심되면 사용하지 않음(진균성 귀 감염은 허가상 금기)_
 
 > **처방례 3. 진균성 OE**
 >
 > ```
-> 카네스텐 크림 10 g/tube  소량 진료 시 도포, 추가 도포는 지시에 따름
+> 카네스텐 크림 1% 10 g/tube  소량 진료 시 도포, 추가 도포는 지시에 따름
 > ```
+> 약제 정보: [카네스텐 크림·1%](https://health.kr/drug/A11A1380A0031)
 >
 > _✽고막이 정상임을 확인하고, 의사가 필요한 잔재물 청소·변연절제(debridement) 후 클로트리마졸 크림을 외이도에 얇게 도포함. 추가 도포는 의사의 지시에 따르며, 고막 천공·확인 불가 환자에게 크림 자가 도포를 일반화하지 않음. 불필요한 국소 항생제 지속 사용은 중단하고, 1\~2주 후 재진하여 잔재물 재청소. 충분한 청소·국소 치료에도 지속되면 이비인후과 의뢰 및 배양을 고려함._
 >
-> _국내 시판 점이용 항진균제가 없어 크림을 외이도에 도포하며, 점안액 등 다른 제형을 차용하는 경우는 허가 외 사용이므로 비용 고지와 진료기록에 사용 근거를 남긴다._
+> _피부용 clotrimazole 크림을 외이도 내 진균증에 사용하는 것은 점이용 허가 제형과 구분되는 허가 외 사용임. 적응증·제형 차이를 설명하고 사용 근거를 기록한다._
 
 > **처방례 4. 습진성 OE**
 >
@@ -423,10 +431,11 @@ graph TD
 > ```
 > 에펙신 이용액 5 ㎖/병  6~10 drops bid 이욕  × 7~10d
 > 씨프로바이 500 ㎎/T  2T #2  × 7d
-> 부루펜 200 ㎎/T  6T #3  × 3~5d
+> 부루펜 200 ㎎/T  1회 2T tid PRN  × 3d
 > ※ tizanidine·ketoprofen 전신제 병용 금기 확인. Duloxetine 복용 중이면 ciprofloxacin 대안 검토(001 참조)
 > ※ 부루펜은 1회 400 ㎎ tid; 제품별 금기와 기존 NSAID 중복 확인
 > ```
+> 약제 정보: [에펙신이용액·0.3%](https://health.kr/drug/A11A0341A0014) · 씨프로바이·500 ㎎ · [부루펜·200 ㎎](https://health.kr/drug/A11A0500A0097)
 >
 > _✽외이도 밖으로 퍼지는 발적·부종·압통 ± 발열·전신 증상이 있는 경우 해당. ciprofloxacin 전신 투여로 P. aeruginosa 커버(감염 범위·환자 위험요인에 따라 선택 조정). 포도알균 연조직염이 우세하면 cephalexin 추가를 고려. 48\~72시간 내 호전 없으면 그 시점에 원인·복약 순응도·국소 약물 전달을 재평가하고 이비인후과 의뢰를 고려; 빠르게 진행하거나 NOE·심부 확장이 의심되면 즉시 의뢰 및 CT/MRI (단순 미합병 외이염에는 영상검사 불필요)_
 
@@ -442,7 +451,8 @@ graph TD
 > * **제품별로 정해진 시간 동안 그 자세를 유지**한 후 일어나 흘러나오는 약액을 닦습니다(에펙신 약 10분, 실로덱스 60초, 세트락살플러스 약 30초).
 > * 실로덱스·세트락살플러스는 사용 직전 흔드십시오. 실로덱스는 치료 후 남은 약을 버리고, 세트락살플러스는 개봉 후 30일이 지난 약을 사용하지 마십시오.
 > * 혼자 넣기 어려우면 **가족이 넣어 주는 것이 더 정확합니다.**
-> * 처방된 횟수대로 매일 같은 시간에 규칙적으로 사용하십시오.
+> * 처방된 횟수대로 매일 같은 시간에 규칙적으로 사용하십시오. 약병 끝이 귀나 손에 닿지 않게 하고, 점이약을 눈에 넣지 마십시오.
+> * 귀 심지를 넣었다면 24\~48시간 안에 재진하여 상태를 확인받으십시오.
 > * **치료 시작 후 48\~72시간 이내에 통증이 나아지기 시작해야 합니다.** 충분히 나아지지 않거나 오히려 악화되면 반드시 재내원하십시오.
 
 > **항생제 이용액 사용 주의**
@@ -455,13 +465,15 @@ graph TD
 > * 타이레놀 이알 650 ㎎을 2정씩 하루 3회 복용하면 하루 총 3,900 ㎎입니다. 하루 2\~3 g 이하로 제한하라는 지시를 받았다면 이 용량을 그대로 복용하지 마십시오. 감기약·다른 진통제에 같은 성분이 있는지도 확인하십시오. 서방정은 씹거나 부수지 마십시오.
 > * 위궤양, 심한 간·콩팥 질환, 천식 병력이나 항우울제·다른 진통제 복용 사실을 의료진에게 알리십시오. 금기에 해당하면 용량만 줄여 복용해서는 안 됩니다.
 > * 먹는 시프로플록사신을 처방받았다면 실다루드 등 근이완제, 케토프로펜 함유 진통제·붙이는 약, 둘록세틴 복용 여부를 반드시 알리십시오. 약 이름과 제형을 확인하여 병용 가능 여부를 판단해야 합니다.
+> * 제산제·철분·칼슘·아연 등과는 간격을 두십시오. 시프로플록사신을 이러한 제제보다 **최소 2시간 먼저 또는 최소 6시간 뒤에** 복용하면 흡수 저하를 줄일 수 있습니다. 우유·요구르트·칼슘 강화 음료만으로 약을 삼키지 마십시오(이들 식품이 포함된 일반 식사는 가능합니다).
+> * 복용 중 힘줄 통증·부종, 저림·감각 이상, 심한 설사 등이 생기면 복용을 중단하고 진료를 받으십시오.
 
 > **귀를 건조하게 유지하는 방법**
 >
 > * 치료 중에는 귀에 물이 들어가지 않도록 하십시오.
 > * 세발 시 귀마개를 사용하거나 petroleum jelly(바셀린)를 묻힌 솜으로 귀를 막으십시오.
 > * 치료 중 통상 7\~10일간 수영·수상 활동을 피하고, 통증·부종이 사라진 후 귀마개를 착용하고 재개합니다.
-> * 수영·샤워 후에는 헤어드라이어를 가장 약한 바람으로, 귀에서 20\~30 ㎝ 거리를 두고 30초간 건조하십시오.
+> * 수영·샤워 후에는 헤어드라이어를 가장 낮은 온도·약한 바람으로, 귀에서 20\~30 ㎝ 거리를 두고 짧게 건조하십시오.
 > * **면봉은 절대 사용하지 마십시오.** 귀지를 제거하는 것이 아니라 외이도를 더 손상시키고 귀지를 안쪽으로 밀어 넣습니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -487,6 +499,8 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* [CDC. Preventing Swimmer’s Ear.](https://www.cdc.gov/healthy-swimming/prevention/preventing-swimmers-ear.html) - 건조 시 가장 낮은 온도·바람 세기 사용
+* [DailyMed. Ciprofloxacin tablets: prescribing information.](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa32aafd-e3f5-4be6-9413-c7663c1c2cec) - 다가 양이온 제제와 복용 간격 및 유제품 단독 동시 복용 회피
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; ibuprofen의 통증 용량, acetaminophen의 제품별 금기·서방형 상한, 경구 ciprofloxacin–tizanidine·ketoprofen 병용 금기와 제형별 DUR 범위 및 duloxetine 상호작용 확인
 * \[FDA 2025] [U.S. Food and Drug Administration. CLOTIC (clotrimazole) - Marketing Approval, 2025-09-26.](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=520516) - 진균성 외이염 치료제의 미국 허가 확인; 국내 허가와 구분
 
@@ -525,9 +539,9 @@ graph TD
 
 #### <mark style="color:$primary;">재발 예방을 위한 생활 습관</mark>
 
-* 수영 후에는 헤어드라이어(약한 바람, 귀에서 20\~30 ㎝ 거리)로 귀를 건조하십시오.
+* 수영 후에는 헤어드라이어(낮은 온도·약한 바람, 귀에서 20\~30 ㎝ 거리)로 귀를 건조하십시오.
 * 귀지는 스스로 밀어내는 자정 능력이 있습니다. 면봉으로 후비지 말고 자연 배출되도록 두십시오.
-* 보청기는 건조 케이스(건조기)에 보관하고, 이어폰·귀마개는 알코올로 닦아 청결히 유지하십시오.
+* 보청기는 건조 케이스(건조기)에 보관하고, 이어폰·귀마개는 제조사가 안내한 방법으로 닦고 충분히 말리십시오.
 * 커널형(인이어) 이어폰의 장시간 연속 착용은 외이도 내 습도와 온도를 높여 외이염이 잘 생기는 환경을 만들 수 있습니다. 이어팁(실리콘 팁)은 정기적으로 교체하고, 외이염 치료 중에는 착용을 중단하십시오.
 * 당뇨가 있으신 경우 혈당 조절이 외이염 예방에도 중요합니다. 이유 없이 귀가 오래 아프다면 반드시 진료를 받으십시오.
 

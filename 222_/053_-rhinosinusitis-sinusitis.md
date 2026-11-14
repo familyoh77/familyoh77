@@ -114,7 +114,7 @@
   * 소아의 직접적인 단기 대 장기 비교 근거는 제한적이며, 중증 환자에서는 더 긴 치료가 필요할 수 있음
 * amoxicillin 또는 amoxicillin/clavulanate가 1차 선택; 내성 위험·중증도에 따라 clav. 포함 여부와 용량 결정
   * amoxicillin 45 ㎎/㎏/d #2(저위험) 또는 90 ㎎/㎏/d #2(＜2세, 어린이집, 최근 4주 내 항생제 사용 등에서 고용량 투여)
-  * amoxicillin/clav. 고용량 : amoxicillin 90 ㎎/㎏/d + clav. 약 6.4 ㎎/㎏/d #2; 14:1 제형 사용 <mark style="color:blue;">\[아모크라네오]</mark>
+  * amoxicillin/clav. 고용량 : amoxicillin 90 ㎎/㎏/d + clav. 약 6.4 ㎎/㎏/d #2; 14:1 제형 사용 <mark style="color:blue;">\[[아모크라네오](https://www.health.kr/drug/2019020700039)]</mark>
     * 허가기준 : 소아 재발성 급성부비동염, 최근 3개월 이내 급성중이염/급성부비동염으로 항생제 투여 경험이 있으면서 2세 이하 또는 어린이집 재원인 경우; ≥3개월 연령에서 amoxicillin 90 ㎎/㎏/d #2로 7일 투여; ≥40 ㎏ 소아·성인에서 사용 경험 없음
   * 4:1·7:1 제형을 같은 부피로 대체하거나 amoxicillin 고용량에 맞춰 일률 증량하지 않음(clav. 과량 주의)
 
@@ -138,7 +138,7 @@
 
 * 편측 → 비중격 만곡, 이물, 폴립, 종양
 * 양측 → 비염, 폴립, S자 비중격 만곡
-* 교대 발생 → 비염
+* 교대 발생 → 정상 비주기(nasal cycle) 또는 비염; 자세·동반 증상과 함께 판단
 
 **후각 저하**
 
@@ -189,49 +189,45 @@
 ***
 
 ```mermaid
-    graph TD
-    Start(["비부비동염이 의심되는 성인"]) --> Red["Red Flags 즉각 조치 항목?"]
-    Red -- Yes --> ER["즉각 조치"]
-    Red -- No --> Urgent["Red Flags <br/>당일~수일 내 평가 항목?"]
-    Urgent -- Yes --> SameDay["당일~수일 내 평가<br/>(본문 '당일' 표시 항목은 당일 평가)"]
-    Urgent -- No ---> Duration["증상 기간"]
+flowchart TD
+    Start["비부비동염이 의심되는 성인"] --> Red["Red Flags 즉각 조치 항목?"]
+    Red -- "예" --> ER["즉각 조치"]
+    Red -- "아니요" --> Urgent["Red Flags  당일~수일 내 평가 항목?"]
+    Urgent -- "예" --> SameDay["당일~수일 내 평가 (본문 '당일' 표시 항목은 당일 평가)"]
+    Urgent -- "아니요" --> Duration["증상 기간은?"]
     Duration -- "≤4주" --> ARS["ARS 증상 조합?"]
-    ARS -- No --> Alt["다른 진단 평가"]
-    ARS -- Yes --> ABRS["ABRS 기준?"]
-    ABRS -- No --> Viral["바이러스성 ARS<br/>대증 치료"]
-    ABRS -- Yes --> Risk["중증·면역 저하<br/>·즉시 치료 필요?"]
-    Risk -- Yes --> Antibiotic["항생제 치료·필요시 전문 의뢰"]
-    Risk -- No --> Follow["추적이 보장됨?"]
-    Follow -- Yes --> Watch["진단 후 보통 3~5일 주의 관찰<br/>진단 시점·경과에 따라 조정"]
-    Follow -- No --> Antibiotic
-    Watch --> Improve["관찰 기간 내 호전?<br/>언제든 악화 시 재평가"]
-    Improve -- Yes --> End["치료 종료"]
-    Improve -- "No/악화" --> Antibiotic
-    Antibiotic --> First["Amoxicillin±clavulanate <br/>5~7일<br/>알레르기·내성 위험은 <br/>약제 표 참조"]
-    First --> Fail["투여 3~5일 내 호전 없음<br/>또는 언제든 악화?"]
-    Fail -- No --> End
-    Fail -- Yes --> Reassess["진단·합병증 재평가<br/>항생제 변경"]
-    Duration -- "＞4주, ＜12주" --> Subacute["ARS 또는 CRS에 <br/>준해 개별 판단"]
+    ARS -- "아니요" --> Alt["다른 진단 평가"]
+    ARS -- "예" --> ABRS["ABRS 기준?"]
+    ABRS -- "아니요" --> Viral["바이러스성 ARS 대증 치료"]
+    ABRS -- "예" --> Risk["중증·면역 저하 ·즉시 치료 필요?"]
+    Risk -- "예" --> Antibiotic["항생제 치료·필요시 전문 의뢰"]
+    Risk -- "아니요" --> Follow["추적이 보장됨?"]
+    Follow -- "예" --> Watch["진단 후 보통 3~5일 주의 관찰 진단 시점·경과에 따라 조정"]
+    Follow -- "아니요" --> Antibiotic
+    Watch --> Improve["관찰 기간 내 호전? 언제든 악화 시 재평가"]
+    Improve -- "예" --> End["호전 확인·계획한 치료 완료"]
+    Improve -- "아니요·악화" --> Antibiotic
+    Antibiotic --> First["Amoxicillin±clavulanate  5~7일 알레르기·내성 위험은  약제 표 참조"]
+    First --> Fail["투여 3~5일 내 호전 없음 또는 언제든 악화?"]
+    Fail -- "아니요" --> End
+    Fail -- "예" --> Reassess["진단·합병증 재평가 항생제 변경"]
+    Duration -- "＞4주, ＜12주" --> Subacute["ARS 또는 CRS에  준해 개별 판단"]
     Duration -- "≥12주" --> CRScheck["증상 + 객관적 염증?"]
-    CRScheck -- Yes --> CRS["CRS"]
-    CRScheck -- No --> Alt2["다른 진단 평가"]
-    CRS --> Phenotype["비용종·동반 질환<br/>·endotype 평가"]
-    Phenotype --> Basic["고용량 식염수 세척 <br/>+ 비내 스테로이드"]
+    CRScheck -- "예" --> CRS["CRS"]
+    CRScheck -- "아니요" --> Alt2["다른 진단 평가"]
+    CRS --> Phenotype["비용종·동반 질환 ·endotype 평가"]
+    Phenotype --> Basic["대용량 식염수 세척  + 비내 스테로이드"]
     Basic --> Control["조절됨?"]
-    Control -- Yes --> Maintain["유지 치료"]
-    Control -- No --> Refer["이비인후과 의뢰<br/>수술 / 선별적 <br/>생물학제 평가"]
+    Control -- "예" --> Maintain["유지 치료"]
+    Control -- "아니요" --> Refer["이비인후과 의뢰 수술 / 선별적  생물학제 평가"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ff6b6b,stroke:#c0392b,color:#ffffff
+    classDef action fill:#d0e8ff,stroke:#1a6abf
     class Start start
-    classDef danger fill:#f8d7da,stroke:#c0392b
-    class ER danger
-    classDef urgent fill:#ffe0b2,stroke:#fb8c00
-    class SameDay urgent
-    classDef decision fill:#fff9c4,stroke:#ffe082
-    class Red,Urgent,Duration,ARS,ABRS,Risk,Follow,Improve,Fail,CRScheck,Control decision
-    classDef treatment fill:#e3f2fd,stroke:#1e88e5
-    class Viral,Watch,Antibiotic,First,Reassess,Basic,Maintain,Refer treatment
-    classDef dx fill:#f96,stroke:#e65100,stroke-width:2px
-    class CRS dx
+    class Red,Urgent,Duration,ARS,ABRS,Risk,Follow,Improve,Fail,CRScheck,Control question
+    class ER emergency
+    class SameDay,Alt,Viral,Antibiotic,Watch,End,First,Reassess,Subacute,CRS,Alt2,Phenotype,Basic,Maintain,Refer action
 ```
 
 <p align="center"><strong>비부비동염 관리 알고리듬</strong></p>
@@ -262,23 +258,23 @@
   * ARS에서는 효과가 크지 않고 연구 결과가 혼재하지만 부작용이 적어 선택 가능
 * 등장성 생리식염수(0.9%) : 일반적 유지 세척; 자극 없이 장기 사용 가능
 * 고장성 식염수(hypertonic saline, 2\~3%) : 일부 연구에서 등장성보다 증상 개선이 컸으나 결과가 일관되지 않으며 작열감·자극감이 더 흔함; 환자 선호와 내약성에 따라 선택
-* 고용량 세척에는 증류수·멸균수 또는 끓였다가 식힌 물만 사용하고, 수돗물을 그대로 사용하지 않음
-* 세척 방법 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-18))
+* 고용량 세척에는 증류수·멸균수 또는 팔팔 끓는 상태로 1분 이상 유지한 뒤 식힌 물만 사용하고, 수돗물을 그대로 사용하지 않음
+* 세척 방법 (☞ [알레르기비염](051_-allergic-rhinitis.md#saline-irrigation))
 
 ### <mark style="color:orange;">코 울혈 제거제 (Decongestants)</mark>
 
 * ABRS에서 경구·비내 울혈 제거제를 routine 보조요법으로 사용하지 않음; 심한 코막힘에 한해 단기간 선택적으로 고려
 * 경구 : 비충혈 완화 목적
-  * pseudoephedrine : 30\~60 ㎎ 1일 3\~4회; 최대 240 ㎎/d, 최소 4시간 간격 <mark style="color:blue;">\[슈다페드]</mark>
+  * pseudoephedrine : 30\~60 ㎎ 1일 3\~4회; 최대 240 ㎎/d, 최소 4시간 간격 <mark style="color:blue;">\[[슈다페드](https://www.health.kr/drug/A11A0500A0112)]</mark>
   * 국내 주요 금기 : 고혈압 포함 심혈관질환, 갑상선기능항진증, 당뇨병, 중증 신장애, 폐쇄각녹내장, 크롬친화세포종, 수유부, MAO 억제제 투여 중/중단 후 2주 이내; 다른 교감신경흥분제·β차단제 병용도 금기
     * 신중 투여 : 전립선비대증·방광 기능 이상, 고령자, 임부, 디기탈리스 투여 중, 안압 상승
 * 비내 : 강력한 혈관 수축 효과; 반동성 비충혈 예방을 위해 연속 사용 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음 (비급여)
-  * phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline/chlorpheniramine 복합제 <mark style="color:blue;">\[나리스타]</mark>, xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
+  * phenylephrine <mark style="color:blue;">\[[시네프린](https://www.health.kr/drug/2011040500003)]</mark>, naphazoline/chlorpheniramine 복합제 <mark style="color:blue;">\[[나리스타](https://www.health.kr/drug/A11A0840A0173)]</mark>, xylometazoline <mark style="color:blue;">\[[오트리빈](https://www.health.kr/drug/A11ALLLLL0153)]</mark>, oxymetazoline <mark style="color:blue;">\[[레스피비엔](https://www.health.kr/drug/A11ALLLLL0015)]</mark>
 
 ### <mark style="color:orange;">스테로이드 (Steroids)</mark>
 
 * 비내 스테로이드 : 알레르기비염 동반 시 유효; ABRS에서도 증상 완화에 도움
-  * budesonide <mark style="color:blue;">\[나리타점비액]</mark>, mometasone <mark style="color:blue;">\[나조넥스나잘]</mark>, fluticasone furoate <mark style="color:blue;">\[아바미스나잘]</mark>
+  * budesonide <mark style="color:blue;">\[[나리타점비액](https://www.health.kr/drug/A11A0840A0274)]</mark>, mometasone <mark style="color:blue;">\[[나조넥스나잘](https://www.health.kr/drug/A11AGGGGA3046)]</mark>, fluticasone furoate <mark style="color:blue;">\[[아바미스나잘](https://www.health.kr/drug/A11AKP08G2622)]</mark>
   * 약 10일 이상 호전 없는 경우 ≥12세에서 고용량 비내 스테로이드 14일 고려(예 : mometasone 총 200 ㎍ bid) <mark style="color:$info;">\[NICE 2017]</mark>
   * 나조넥스 허가 : 성인 및 ≥12세의 중증 세균 감염이 없는 급성 비부비동염에 대하여 각 비공 2번씩 bid. 이 적응증·용량은 국내 허가 사항이며, 14일은 NICE에서 제시한 치료기간임
   * 아바미스 허가 : 알레르기비염 적응; 알레르기비염 없이 ARS·CRS 자체를 치료하는 사용은 허가 외임
@@ -290,13 +286,13 @@
 
 * 효과 : 비부비동염 자체에 대한 효과는 입증 안 됨; 점액 점도 증가 및 점막 건조로 악영향 가능
 * 알레르기 증상이 심하게 동반된 경우에만 고려
-  * cetirizine 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>, levocetirizine 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>, fexofenadine 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>, loratadine 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
+  * cetirizine 10 ㎎ qd <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>, levocetirizine 5 ㎎ qd <mark style="color:blue;">\[[씨잘](https://www.health.kr/drug/A11AOOOOO3892)]</mark>, fexofenadine 120 ㎎ qd <mark style="color:blue;">\[[알레그라](https://www.health.kr/drug/A11ABBBBB1393)]</mark>, loratadine 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://www.health.kr/drug/2009091800015)]</mark>
 
 ### <mark style="color:orange;">진통제</mark>
 
 * 통증·발열 시 필요에 따라 비마약성 진통제 선택 (☞ [통증](../220_/001_-pain.md#management))
-  * ibuprofen : 200\~400 ㎎ q6\~8h prn; 위장관·신장·심혈관 위험과 항응고제 병용 여부 확인 <mark style="color:blue;">\[부루펜]</mark>
-  * acetaminophen : 500\~1,000 ㎎ q6\~8h PRN; 이 장은 보수적으로 최대 3,000 ㎎/d 범위에서 사용 <mark style="color:blue;">\[타이레놀]</mark>. 고령·쇠약·저체중·과음 등 위험요인에 따라 추가 감량
+  * ibuprofen : 200\~[400 ㎎](https://www.health.kr/drug/A11A0500A0131) q6\~8h prn; 위장관·신장·심혈관 위험과 항응고제 병용 여부 확인 <mark style="color:blue;">\[[부루펜](https://www.health.kr/drug/A11A0500A0097)]</mark>
+  * acetaminophen : 500\~1,000 ㎎ q6\~8h PRN; 이 장은 보수적으로 최대 3,000 ㎎/d 범위에서 사용 <mark style="color:blue;">\[[타이레놀](https://www.health.kr/drug/2021082400002)]</mark>. 고령·쇠약·저체중·과음 등 위험요인에 따라 추가 감량
     * 소화성궤양, 심한 간장애·신장애·심장기능저하, aspirin 천식 또는 그 병력, TCA·바르비탈계 약물 복용 등 해당 제품의 국내 투여 금기를 먼저 확인. 금기 환자에게 단순 감량하거나 NSAID 대신 자동 대체하지 않음(001 참조)
 * Tramadol 등 opioid는 단순 비부비동염 통증에 routine으로 사용하지 않음
 
@@ -319,7 +315,7 @@
 
 #### <mark style="color:$primary;">항생제 선택</mark>
 
-<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td><strong>저위험군 1차</strong></td><td>amoxicillin <mark style="color:blue;">[파목신]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td><strong>β-lactamase 생성균 등 위험 시</strong></td><td>amoxicillin/clav. <mark style="color:blue;">[오구멘틴]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td><strong>Type I Pc 알레르기</strong></td><td>doxycycline <mark style="color:blue;">[모노신]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td><strong>Non-type I Pc 알레르기</strong></td><td>cefpodoxime <mark style="color:blue;">[바난]</mark> 또는 cefixime <mark style="color:blue;">[포세프]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 400 ㎎/d ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td><strong>다른 대안이 없는 경우</strong></td><td>levofloxacin <mark style="color:blue;">[크라비트]</mark> 또는 moxifloxacin <mark style="color:blue;">[아벨록스]</mark></td><td>levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
+<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td><strong>저위험군 1차</strong></td><td>amoxicillin <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0570A0284">파목신</a>]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td><strong>β-lactamase 생성균 등 위험 시</strong></td><td>amoxicillin/clav. <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1130A0289">오구멘틴</a>]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td><strong>Type I Pc 알레르기</strong></td><td>doxycycline <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A1590B0042">모노신</a>]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td><strong>Non-type I Pc 알레르기</strong></td><td>cefpodoxime <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11A0100A0334">바난</a>]</mark> 또는 cefixime <mark style="color:blue;">[<a href="https://health.kr/drug/A11A0120A0658">포세프</a>]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 400 ㎎/d ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td><strong>다른 대안이 없는 경우</strong></td><td>levofloxacin <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AOOOOO7621">크라비트</a>]</mark> 또는 moxifloxacin <mark style="color:blue;">[<a href="https://www.health.kr/drug/A11AGGGGA2033">아벨록스</a>]</mark></td><td>levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
 
 > cefixime 용량 기준 : 국내 포세프 허가는 성인 일반 50\~100 ㎎ bid, 중증·효과 불충분 시 200 ㎎ bid이며, AAO-HNSF 2025의 ABRS 대체요법 용량은 400 ㎎ qd임. 1일 총량은 같으나 투여 간격이 다름
 
@@ -443,7 +439,7 @@
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 모든 CRS의 기본 치료는 고용량 식염수 비강 세척과 비내 스테로이드
+* 모든 CRS의 기본 치료는 대용량 식염수 비강 세척과 비내 스테로이드
 * 알레르기비염·천식·AERD 등 동반 질환을 함께 치료하고, 비용종 유무 및 type 2 염증 가능성에 따라 치료를 단계화
 * 급성 악화나 치성 감염이 없는 안정된 CRS에 항생제를 routine으로 처방하거나 CT·수술 전 필수 선행치료로 요구하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 일반 CRS에 국소 또는 전신 항진균제를 사용하지 않음
@@ -468,7 +464,7 @@
 * 허가 사항 : <mark style="color:blue;">\[나조넥스나잘]</mark>은 성인 비용종에 허가; CRSsNP 자체를 치료하거나 <mark style="color:blue;">\[아바미스나잘]</mark>을 알레르기비염 없이 CRS에 사용하는 경우는 허가 외 사용으로 구분
 * **스테로이드 비강 세척** (Off-label, 비급여)
   * 심한 CRS, 특히 FESS 후 일반 비내 스프레이로 조절되지 않는 환자에서 부비동 내 약물 전달을 높이기 위해 전문의가 선택적으로 고려
-  * 방법 예 : budesonide 흡입용 현탁액 0.5 ㎎/2 ㎖ <mark style="color:blue;">\[풀미코트 레스퓰]</mark>을 생리식염수 240 ㎖에 혼합하여 1일 1\~2회 비강 세척
+  * 방법 예 : budesonide 흡입용 현탁액 0.5 ㎎/2 ㎖ <mark style="color:blue;">\[[풀미코트 레스퓰](https://www.health.kr/drug/A11ABBBBB1672)]</mark>을 생리식염수 240 ㎖에 혼합하여 1일 1\~2회 비강 세척
   * <mark style="color:blue;">\[나리타점비액]</mark> 등 비강분무제는 위 용량의 세척용 ampule이 아니므로 혼합 세척 제품으로 표기하지 않음
   * 장기 고용량 사용 시 드물게 HPA axis·안압에 영향을 줄 수 있으므로 총 스테로이드 노출, 녹내장 위험, 반복 경구 스테로이드 사용 등을 고려하여 개별 모니터링
 
@@ -488,7 +484,7 @@
   4. 후각검사로 확인한 무후각
   5. 규칙적인 흡입 스테로이드 치료가 필요한 동반 천식
 * 수술력이 없는 환자는 수술 부적합·금기 사유, 질병 부담과 위 기준, 환자 선호를 고려하여 전문기관에서 생물학적 제제 적합성을 별도로 평가함
-* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[듀피젠트]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
+* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[[듀피젠트](https://www.health.kr/drug/2018040200003)]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
 * 기타 : mepolizumab(IL-5 차단), omalizumab(IgE 차단), tezepelumab(TSLP 차단; 2025년 10월 FDA에서 12세 이상 CRSwNP 추가 유지 치료 허가) 등; 국외 CRSwNP 허가를 국내 허가·급여로 해석하지 않음
 * CRSsNP에는 생물학적 제제를 routine으로 사용하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 일차진료에서의 역할 : 생물학적 제제 처방 자체는 이비인후과·알레르기내과 전문 의뢰 영역. 일차 의원에서는 아래 기준 해당 시 적극적으로 의뢰
@@ -523,6 +519,7 @@
 > [타이레놀] 500 ㎎/T   1회 1~2T   tid prn   (통증/발열 시; 최대 6T/d)
 > ※ 소화성궤양·심한 간/신장애·aspirin 천식 병력·TCA 복용 등 제품별 금기 및 다른 acetaminophen 제품 중복 확인(001 참조)
 > ```
+> 약제 정보: [타이레놀·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽ 항생제 불필요. 식염수 비강 세척 병행 가능. 비내 스테로이드는 필수 처방이 아니며 동반 알레르기비염·증상 지속 여부에 따라 선택. 10일 이상 호전되지 않거나 호전 후 다시 악화하면 재방문 안내_
 
@@ -534,6 +531,7 @@
 > ※ 소화성궤양·심한 간/신장애·aspirin 천식 병력·TCA 복용 등 제품별 금기 및 다른 acetaminophen 제품 중복 확인(001 참조)
 > [나조넥스나잘] 50 ㎍/분무   각 비공 2 puffs   bid   (증상에 따라 선택)
 > ```
+> 약제 정보: [파목신·500 ㎎](https://www.health.kr/drug/A11A0570A0284) · [타이레놀·500 ㎎](https://www.health.kr/drug/2021082400002) · [나조넥스나잘·50 ㎍/분무](https://www.health.kr/drug/A11AGGGGA3046)
 >
 > _✽ 합병증 없는 저위험 성인 ABRS에서 보통 진단 후 3\~5일 주의 관찰에도 호전하지 않거나 악화하여 항생제를 시작하는 경우. Amoxicillin 단독은 내성 위험군이 아닌 경증\~중등도 ABRS에서 고려. 투여 3\~5일 내 호전 없거나 언제든 악화하면 재평가 후 항생제 변경_
 >
@@ -542,10 +540,11 @@
 > **처방례 3. ABRS - amoxicillin/clavulanate 선택 시 (표준 용량)**
 >
 > ```
-> [오구멘틴] 625 ㎎/T   1T   tid   × 5~7일
+> [오구멘틴] 625 ㎎/T   1T   tid 식사 시작 때   × 5~7일
 > [타이레놀] 500 ㎎/T   1회 1~2T   tid prn   (통증/발열 시; 최대 6T/d)
 > ※ 소화성궤양·심한 간/신장애·aspirin 천식 병력·TCA 복용 등 제품별 금기 및 다른 acetaminophen 제품 중복 확인(001 참조)
 > ```
+> 약제 정보: [오구멘틴·625 ㎎](https://www.health.kr/drug/A11A1130A0289) · [타이레놀·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
 > _✽ 오구멘틴 625 ㎎ 1T는 amoxicillin 500 ㎎/clavulanate 125 ㎎. β-lactamase 생성균 위험·최근 항생제 사용·치료 실패 병력 등을 고려하여 선택. 이 처방은 고용량 요법이 아니며, 폐렴구균 내성 고위험·중증 감염에서는 고용량 필요성과 합병증·입원 여부를 별도로 평가(항생제 선택의 고용량 주석 참조). 중증도·반응에 따라 기간 개별화_
 
@@ -556,34 +555,38 @@
 > [타이레놀] 500 ㎎/T   1회 1~2T   tid prn   (통증/발열 시; 최대 6T/d)
 > ※ 소화성궤양·심한 간/신장애·aspirin 천식 병력·TCA 복용 등 제품별 금기 및 다른 acetaminophen 제품 중복 확인(001 참조)
 > ```
+> 약제 정보: [모노신·100 ㎎](https://www.health.kr/drug/A11A1590B0042) · [타이레놀·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽ Type I penicillin 알레르기가 확인된 성인의 대체 처방례. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 30분간 눕지 않도록 교육. **칼슘·마그네슘·알루미늄 함유 제산제 및 철분제와 간격**을 두며 임부·수유부 및 12세 미만 소아의 단순 ABRS에는 사용하지 않음._
+> _✽ Type I penicillin 알레르기가 확인된 성인의 대체 처방례. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 30분간 눕지 않도록 교육. **칼슘·마그네슘·알루미늄 함유 제산제와 철·아연 보충제 등은 최소 2시간 간격**을 두며 임부·수유부 및 12세 미만 소아의 단순 ABRS에는 사용하지 않음. 이 용량은 ABRS 지침 용량이며 일반 감염의 제품 유지 용량과 구분함. 광과민반응을 예방하도록 햇빛 노출을 줄이고, isotretinoin 등 전신 레티노이드와의 병용금기를 확인함._
 >
 > _✽ 다른 적절한 대안이 없어 fluoroquinolone이 필요한 성인의 대체 처방례(국내 허가 기간) :_
 >
 > ```
 > [크라비트] 500 ㎎/T   1T   qd   × 10~14일   (정상 신기능의 국내 허가 요법)
 > ```
+> 약제 정보: [크라비트·500 ㎎](https://www.health.kr/drug/A11AOOOOO7621)
 >
 > _✽ 1차 치료 실패·중증·고위험이라는 이유만으로 자동 선택하지 않음. 크라비트의 위 기간은 국내 제품 허가 기준이며, amoxicillin ± clavulanate의 일반적인 5\~7일 권고와 구분. 신기능에 따라 용량 조절하고, tendon rupture, 말초신경병증·중추신경계 이상, QT 연장, 혈당 이상, 대동맥류/박리 위험과 C. difficile 감염 가능성을 고려. Moxifloxacin 400 ㎎ qd를 대안으로 선택하면 국내 부비동염 허가 기간은 7일임._
 
 > **처방례 5. 알레르기비염 동반 ABRS**
 >
 > ```
-> [오구멘틴] 625 ㎎/T   1T   tid   × 5~7일
+> [오구멘틴] 625 ㎎/T   1T   tid 식사 시작 때   × 5~7일
 > [아바미스나잘] 27.5 ㎍/puff   각 비공 2 puffs   qd
 > [씨잘] 5 ㎎/T   1T   qd   저녁
 > ```
+> 약제 정보: [오구멘틴·625 ㎎](https://www.health.kr/drug/A11A1130A0289) · [아바미스나잘·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622) · [씨잘·5 ㎎](https://www.health.kr/drug/A11AOOOOO3892)
 >
-> _✽ 항생제 적응증과 선택은 ABRS 경과·위험도에 따라 판단. 아바미스·씨잘은 동반 알레르기비염 증상을 치료하는 목적으로 사용하며, 알레르기 치료는 증상·노출 양상에 따라 항생제 종료 후에도 지속_
+> _✽ 항생제 적응증과 선택은 ABRS 경과·위험도에 따라 판단. 씨잘 추가는 눈 가려움 등 추가 이득이 있는 경우에 한하며, 모든 알레르기비염에서 INCS와 일률 병용하지 않음. 신장애에서는 levocetirizine 용량·간격을 조정함. 아바미스·씨잘은 동반 알레르기비염 증상을 치료하는 목적으로 사용하며, 알레르기 치료는 증상·노출 양상에 따라 항생제 종료 후에도 지속_
 
 > **처방례 6. 만성 비부비동염 - 기본 유지 치료**
 >
 > ```
 > [아바미스나잘] 27.5 ㎍/puff   각 비공 2 puffs   qd   (CRS 자체 치료는 허가 외)
 > ```
+> 약제 정보: [아바미스나잘·27.5 ㎍/분무](https://www.health.kr/drug/A11AKP08G2622)
 >
-> _✽ CRS의 기본 치료는 비내 스테로이드 장기 유지 + 고용량 식염수 비강 세척. 아바미스의 국내 허가 적응증은 알레르기비염으로, 이 처방례에서 CRS 자체를 치료하는 사용은 허가 외임. 성인 CRSwNP에서는 비용종 적응증이 있는 mometasone 제제를 선택할 수 있음._
+> _✽ CRS의 기본 치료는 비내 스테로이드 장기 유지 + 대용량 식염수 비강 세척. 아바미스의 국내 허가 적응증은 알레르기비염으로, 이 처방례에서 CRS 자체를 치료하는 사용은 허가 외임. 성인 CRSwNP에서는 비용종 적응증이 있는 mometasone 제제를 선택할 수 있음._
 >
 > _✽ 경구 스테로이드는 모든 CRS의 기본 처방이 아니며 심한 CRSwNP에서 전문의 판단하에 제한적으로 사용. 충분한 치료에도 반응 없으면 객관적 진단을 재확인하고 부비동 CT 및 이비인후과 의뢰 고려._
 
@@ -596,18 +599,31 @@
 > * 증상이 나아지더라도 처방된 용량과 기간을 임의로 줄이거나 늘리지 말고 **처방대로 복용**하십시오.
 > * 복용 중 언제든 증상이 악화되거나 **3\~5일이 지나도 호전이 없으면** 병원에 다시 방문하십시오.
 > * 오구멘틴(아목시실린/클라불란산)은 **식사 시작 때** 복용하면 위장 부작용(메스꺼움·설사)을 줄이고 클라불란산의 흡수에도 도움이 됩니다.
-> * 항생제 복용 중 피부 발진, 두드러기, 호흡 곤란이 생기면 즉시 복용을 중단하고 병원을 방문하십시오.
+> * 발진·두드러기가 생기면 복용을 중단하고 의료진에게 연락하십시오. **입술·혀·목 부종, 호흡곤란, 심한 어지럼·실신**이 있으면 복용을 중단하고 즉시 119 또는 응급실을 이용하십시오.
+> * 복용 중이나 종료 후 **심한 물설사가 반복되거나 혈변·발열·심한 복통**이 생기면 진료를 받으십시오. 지사제로 버티지 마십시오.
+
+> **모노신(doxycycline)을 처방받은 경우**
+>
+> * 충분한 물 한 컵과 함께 복용하고 **복용 후 최소 30분은 눕지 마십시오.** 잠자리에 들기 직전에는 복용하지 마십시오.
+> * 칼슘·마그네슘·알루미늄 함유 제산제와 철·아연 보충제 등은 최소 2시간 간격을 두십시오.
+> * 햇빛·자외선 노출을 줄이고 자외선 차단제를 사용하십시오. 여드름 치료용 경구 레티노이드를 복용 중이면 처방 전에 알려 주십시오.
+
+> **크라비트(levofloxacin)를 예외적으로 처방받은 경우**
+>
+> * 힘줄 통증·붓기, 손발 저림·감각 이상, 새로 생긴 심한 혼란 등의 증상이 있으면 복용을 중단하고 즉시 의료진에게 연락하십시오. 힘줄 통증이 있으면 해당 부위를 쉬게 하십시오.
+> * 갑작스럽고 심한 가슴·등·복부 통증, 실신이 생기면 즉시 응급실을 이용하십시오.
+> * 제산제·철·아연 보충제 등과 최소 2시간 간격을 두십시오. 스테로이드·당뇨약 등 복용 약과 신장질환을 처방 전에 알려 주십시오.
 
 > **비내 스테로이드 스프레이 올바른 사용법**
 >
 > * 분무구를 눈 바깥쪽 방향(비강 외측벽)으로 향하게 하고 분사하십시오 - 비중격을 향해 분사하면 코피가 생길 수 있습니다.
 > * 일부 증상은 며칠 내 좋아질 수 있지만 충분한 효과에는 **2\~4주**가 걸릴 수 있습니다. 의사가 장기 사용을 지시한 경우 꾸준히 사용하십시오.
-> * 분무 후 코를 세게 풀지 마십시오.
+> * 분무 후 코를 세게 풀지 마십시오. 코 세척은 스프레이 사용 전에 하십시오.
 
 > **식염수 비강 세척 방법**
 >
-> * 세척은 하루 **1\~2회**, 약 240 ㎖(1컵)의 생리식염수를 사용합니다.
-> * 세척액을 만들 때는 **증류수·멸균수 또는 끓였다가 식힌 물**만 사용하십시오. 수돗물을 그대로 사용하면 안 됩니다.
+> * 대용량 관류는 하루 **1\~2회**, 보통 양쪽 코 합계 약 240 ㎖의 생리식염수를 사용하되 기구와 처방에 맞춰 조절합니다. 시판 세척용 분말을 정해진 양의 안전한 물에 녹여 사용하십시오.
+> * 세척액을 만들 때는 **증류수·멸균수 또는 팔팔 끓는 상태로 1분 이상 유지한 뒤 식힌 물**만 사용하십시오. 수돗물을 그대로 사용하면 안 됩니다.
 > * 고개를 **앞으로 숙이고 옆으로 기울인 뒤** 위쪽 비공에 세척액을 넣으면 아래쪽 비공으로 흘러나옵니다. 사용하는 기구에 따라 자세를 조절하십시오.
 > * 세척 후 코를 세게 풀지 마시고 부드럽게 풀어 주십시오.
 > * 세척 용기는 사용 후 깨끗이 씻고 완전히 건조시켜 보관하십시오 - 세균 오염 방지.
@@ -641,6 +657,7 @@
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* CDC. [How to Safely Rinse Sinuses](https://www.cdc.gov/naegleria/prevention/sinus-rinsing.html) - 비강 세척용 물의 안전한 준비
 * 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 
   [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
@@ -667,12 +684,18 @@
 * 의사는 **10일 기준과 증상의 중증도**를 보고 항생제 필요 여부를 판단합니다. 세균성으로 판단되어도 상태에 따라 항생제 없이 경과를 지켜보는 경우가 있습니다.
 {% endhint %}
 
+#### <mark style="color:$primary;">약을 처방받았다면</mark>
+
+* 항생제는 처방된 용량·기간대로 복용하고 임의로 연장하지 마십시오. 오구멘틴은 식사 시작 때 복용하십시오.
+* 타이레놀 500 ㎎은 안내받은 용법을 따르며 이 장의 예시에서는 하루 총 6정(3,000 ㎎)을 넘기지 마십시오. 다른 감기약·진통제에 같은 성분이 들어 있는지 확인하십시오.
+* 약 복용 후 입술·혀·목이 붓거나 호흡곤란·실신이 생기면 약을 중단하고 즉시 119 또는 응급실을 이용하십시오.
+
 #### <mark style="color:$primary;">집에서 할 수 있는 관리법</mark>
 
 {% hint style="success" %}
 **✅ 집에서 할 수 있는 증상 관리**
 
-1. **식염수 비강 세척** : 하루 1\~2회 세척하면 점막 보습과 분비물 배출에 도움이 될 수 있습니다. 등장성 또는 고장성 식염수를 사용할 수 있지만 고장성은 작열감·자극감이 더 흔합니다. 세척액은 반드시 **증류수·멸균수 또는 끓였다가 식힌 물**로 만들고 수돗물을 그대로 사용하지 마십시오.
+1. **식염수 비강 세척** : 하루 1\~2회 세척하면 점막 보습과 분비물 배출에 도움이 될 수 있습니다. 등장성 또는 고장성 식염수를 사용할 수 있지만 고장성은 작열감·자극감이 더 흔합니다. 세척액은 반드시 **증류수·멸균수 또는 팔팔 끓는 상태로 1분 이상 유지한 뒤 식힌 물**로 만들고 수돗물을 그대로 사용하지 마십시오.
 2. **수분 섭취** : 탈수되지 않도록 평소 수분 섭취를 유지하십시오. 심장·신장질환으로 수분을 제한하는 경우에는 기존 지시를 따르십시오.
 3. **실내 환경** : 지나치게 건조하지 않게 하고, 가습기를 사용하면 깨끗하게 관리하십시오. 증기 흡입의 치료 효과는 입증되지 않았으며 뜨거운 물 증기는 화상 위험이 있어 피하십시오.
 4. **온찜질** : 편안함을 위해 미지근한 수건을 댈 수 있으나, 비부비동염 증상을 개선한다는 근거는 부족합니다.
@@ -687,7 +710,13 @@
 * **극심한 두통**과 함께 목이 뻣뻣하거나 빛에 눈이 심하게 부실 때
 * **고열과 함께 전신 상태가 심하게 나쁘거나**, 열이 높지 않아도 의식이 흐려지거나 새로운 마비·말하기 어려움이 있을 때
 * 항생제 복용 중 눈·신경 증상이 새로 생기거나 **전신 상태가 빠르게 나빠질 때**
-* 증상이 **10일 이상** 호전 없이 지속되면 응급상황은 아니지만 세균성 비부비동염 여부를 평가받으십시오.
+
+#### <mark style="color:$primary;">재진이 필요한 경우</mark>
+
+* 증상이 **10일 이상 호전 없이 지속되거나**, 좋아지다가 다시 악화하면 진료를 받으십시오.
+* 항생제 없이 관찰하기로 했다면 정해진 재진일(보통 진단 후 3\~5일)을 지키고, 그 전이라도 악화하면 연락하십시오. 지연 처방은 안내받은 시작 기준을 따르십시오.
+* 항생제를 시작한 뒤 **3\~5일 내 호전이 없거나 언제든 악화하면** 재평가를 받으십시오.
+* 항생제 복용 중·종료 후 심한 설사·혈변·발열·복통이 생기면 진료를 받으십시오.
 
 ***
 

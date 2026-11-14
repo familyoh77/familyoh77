@@ -48,7 +48,7 @@
 * 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
 * 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰; 청력 저하·현훈·이명이 동반되면 내이 압력손상을 의심하여 즉시 평가
 
-#### <mark style="color:$primary;">Management</mark>
+#### <mark style="color:$warning;">Management</mark>
 
 * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
 * 비행 예방 : 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복이 기본
@@ -67,7 +67,7 @@
 * 임신 후기 호르몬성 점막 부종에 의한 폐쇄성 ETD와, 에스트로겐 상승에 의한 개방성 ETD가 모두 발생 가능
 * 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
 
-#### <mark style="color:$primary;">Management</mark>
+#### <mark style="color:$warning;">Management</mark>
 
 * 약물 사용보다 보존적 요법 우선
   * 개방성 ETD : 증상이 있을 때 잠시 눕거나 고개를 숙이면 완화될 수 있음. 수분 충분 섭취
@@ -80,38 +80,40 @@
     * 세척 중·직후에는 코를 세게 풀지 말고, 한 쪽씩 가볍게 풀 것 - 세게 풀면 세척액이 이관으로 밀려들어 갈 수 있음
     * 세척병은 사용 후 세척·건조
 * 약물이 필요한 경우 비강 스테로이드는 비교적 안전하게 사용 가능
-  * budesonide <mark style="color:blue;">\[나리타점비액]</mark> 자료가 가장 많으며, 경구 pseudoephedrine은 임신 1분기에 피함
+  * 알레르기비염 치료가 필요한 경우 budesonide <mark style="color:blue;">\[[나리타점비액](https://health.kr/drug/A11A0840A0274)]</mark> 등 임신 중 사용 자료가 있는 비강 스테로이드를 고려; ETD 자체의 치료 효과는 입증되지 않음
 
 ***
 
 ```mermaid
-graph TD
-    Start(["귀 먹먹함·충만감"]) --> RF["Red Flags의 즉각 조치 <br/>또는 당일~수일 내 <br/>평가 항목에 해당?"]
-    RF -->|예| RFA["Red Flags 기준에 <br/>따라 평가"]
-    RF -->|아니오| Exam["이경, Weber·Rinne, <br/>순음청력검사, <br/>tympanometry"]
-    Exam --> Oth["귀지·외이도염<br/>·급성 중이염 등 <br/>다른 원인?"]
-    Oth -->|예| OthT["원인 질환 치료"]
-    Oth -->|아니오| Pos["자기 목소리<br/>·호흡음 울림이 <br/>누우면 완화?"]
-    Pos -->|예| PETs["<u>PET 의심</u><br/>호흡 동기화 고막 운동 등 <br/>확인"]
-    PETs -->|확인됨| P1["원인 교정, <br/>코 울혈 제거제 회피, <br/>비강 스테로이드 <br/>필요성 재평가, <br/>sniffing 자제"]
-    PETs -->|확인되지 않음| Rev["감별 재검토, <br/>증상 있을 때 <br/>재검사"]
-    Pos -->|아니오| Bar["기압 변화 때만 증상?"]
-    Bar -->|예| BCI["<u>기압 유발형 ETD</u>"]
-    Bar -->|아니오| Obj["고막 후퇴·중이 음압(type C) <br/>또는 삼출 소견(type B) 확인?"]
-    Obj -->|예| OETD["<u>폐쇄성 ETD</u>"]
-    Obj -->|아니오| Rev
-    OETD --> S1["원인 치료 + 자가 통기 - <br/>비염·부비동염 동반 시 <br/>해당 치료"]
-    S1 --> R1["증상·삼출성 중이염 3개월 이상 지속, <br/>또는 보존 치료에도 <br/>불편·청력 저하 지속?"]
-    R1 -->|예| ENT["이비인후과 의뢰 - <br/>환기관 / BET 평가"]
-    R1 -->|아니오| FU["일정 기간 후 재평가하며 <br/>경과 관찰"]
-    BCI --> B1["비행·잠수 <br/>압력 평형 교육, <br/>반복 시 의뢰"]
-    classDef q fill:#fff9c4,stroke:#ffe082
-    class RF,Oth,Pos,Bar,Obj,R1 q
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style OETD fill:#f96,stroke:#e65100,stroke-width:2px
-    style PETs fill:#f3e5f5,stroke:#4a148c
-    style BCI fill:#e1f5fe,stroke:#01579b
-
+flowchart TD
+    Start["귀 먹먹함·충만감"] --> RF["즉각 조치가 필요한 Red Flags?"]
+    RF -- "예" --> Urgent["즉시 평가·이비인후과 또는 응급 의뢰"]
+    RF -- "아니요" --> Early["당일~수일 내 평가 항목에 해당?"]
+    Early -- "예" --> Refer["해당 시한 내 원인 평가·의뢰"]
+    Early -- "아니요" --> Exam["이경·청력검사·tympanometry"]
+    Exam --> Oth["귀지·외이도염·급성 중이염 등 다른 원인?"]
+    Oth -- "예" --> OthT["원인 질환 치료"]
+    Oth -- "아니요" --> Pos["자기 목소리·호흡음 울림과 체위 의존성?"]
+    Pos -- "예" --> PETs["개방성 ETD 평가: 호흡 동기화 고막 운동 등"]
+    PETs --> Confirm["개방성 ETD 소견 확인?"]
+    Confirm -- "예" --> P1["원인 교정·수분 섭취·sniffing 자제·울혈 제거제 회피"]
+    Confirm -- "아니요" --> Rev["감별 재검토·증상 있을 때 재검사"]
+    Pos -- "아니요" --> Bar["기압 변화 때만 증상?"]
+    Bar -- "예" --> B1["기압 유발형 ETD: 압력 평형 교육·반복 시 의뢰"]
+    Bar -- "아니요" --> Obj["고막 후퇴·중이 음압 또는 삼출 소견?"]
+    Obj -- "예" --> S1["폐쇄성 ETD 평가·원인 치료·가능한 경우 자가 통기"]
+    Obj -- "아니요" --> Rev
+    S1 --> R1["3개월 이상 지속 또는 불편·청력 저하 지속?"]
+    R1 -- "예" --> ENT["이비인후과 의뢰·환기관 또는 BET 평가"]
+    R1 -- "아니요" --> FU["경과 관찰·재평가"]
+    classDef start fill:#eee,stroke:#888,stroke-width:2px
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    classDef urgent fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef action fill:#e3f2fd,stroke:#1565c0
+    class Start start
+    class RF,Early,Oth,Pos,Confirm,Bar,Obj,R1 decision
+    class Urgent urgent
+    class Refer,Exam,OthT,PETs,P1,Rev,B1,S1,ENT,FU action
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -209,7 +211,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -253,10 +255,10 @@ graph TD
 
 * 코 울혈 제거제 비강 분무 : 비충혈 완화에 단기 사용 가능하나 항공 중이 압력손상 예방 효과는 불확실
   * 보통 3일, 길어도 5일 이내 사용(비급여); 반동성 충혈 위험으로 장기 사용 금지
-  * xylometazoline 0.1% : 만 12세 이상 <mark style="color:blue;">\[오트리빈멘톨]</mark>
-  * oxymetazoline : 만 6세 이상 <mark style="color:blue;">\[레스피비엔]</mark>
-  * phenylephrine 0.5% : 만 7세 이상 <mark style="color:blue;">\[시네프린나잘]</mark>
-  * naphazoline/chlorpheniramine/글리시리진산이칼륨 복합 : 7세 이상 <mark style="color:blue;">\[나리스타에스]</mark>
+  * xylometazoline 0.1% : 만 12세 이상 <mark style="color:blue;">\[[오트리빈멘톨](https://health.kr/drug/A11ALLLLL0153)]</mark>
+  * oxymetazoline : 만 6세 이상 <mark style="color:blue;">\[[레스피비엔](https://health.kr/drug/A11ALLLLL0015)]</mark>
+  * phenylephrine 0.5% : 만 7세 이상 <mark style="color:blue;">\[[시네프린나잘](https://www.health.kr/drug/2011040500003)]</mark>
+  * naphazoline/chlorpheniramine/글리시리진산이칼륨 복합 : 7세 이상 <mark style="color:blue;">\[[나리스타에스](https://www.health.kr/drug/A11A0840A0173)]</mark>
 * 사용 기간·횟수는 제품 설명서의 허가 용법보다 보수적으로 적용 - 필요한 최소 횟수로, 3\~5일 이내 사용
 * 비강 스테로이드 : 알레르기비염 동반 시 1차 선택; 폐쇄성 ETD 자체에 대한 직접 효과는 근거 불충분
   * 동반 비염·비부비동염의 치료 목적으로 사용 (☞ [알레르기비염](051_-allergic-rhinitis.md#management))
@@ -264,16 +266,16 @@ graph TD
 #### <mark style="color:$primary;">전신 약제</mark>
 
 * 경구 코 울혈 제거제 : 폐쇄성 ETD에 대한 직접 근거 불충분. 단기 증상 완화 목적의 제한적 trial만 고려
-  * pseudoephedrine : 60 ㎎ 필요시(q4\~6h), 최대 240 ㎎/일 <mark style="color:blue;">\[슈다페드]</mark>; 5\~7일 이내 단기 사용
+  * pseudoephedrine : 30\~60 ㎎ 필요시(최소 4시간 간격), 1일 최대 4회·240 ㎎ <mark style="color:blue;">\[[슈다페드](https://health.kr/drug/A11A0500A0112)]</mark>; 5\~7일 이내 단기 사용
   * 금기 : 고혈압·허혈성 심질환 등 심혈관 질환, 갑상선 기능항진증, 당뇨병, 폐쇄각 녹내장, 크롬친화세포종, 중증 신장애, 수유부, MAO 억제제 복용 중 또는 중단 후 2주 이내(파킨슨병 치료제 selegiline·rasagiline 포함), 다른 교감신경흥분제 또는 베타차단제 투여 중
   * 신중 투여 : 전립선 비대증·배뇨 장애, 안압 상승, 갑상선 질환, 신장애·중증 간부전, 디곡신 복용(부정맥 위험), 비만, 임부
   * 불면·고령자에서는 이득보다 위해가 큰 경우가 많아 가급적 회피
   * 갑작스러운 심한 두통, 구역·구토, 시야 이상, 혼돈·경련 시 즉시 중단·진료 (☞ 핵심 복약 지도)
   * phenylephrine : 권장 용량에서 비충혈 완화 효과가 입증되지 않아 FDA가 2024년 OTC 비충혈 제거제 성분 목록에서 삭제를 제안함
 * 2세대 항히스타민제 : 알레르기비염 동반 시 재채기·가려움·콧물 등 증상에 따라 추가; ETD 자체의 치료를 위한 일상적 사용은 권하지 않음
-  * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-* 항생제 : 급성 중이염 등 감염 동반 시
-* 알레르기비염 치료 : 항히스타민제·류코트리엔 길항제 등 기저 알레르기 치료
+  * loratadine : 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://health.kr/drug/2009091800015)]</mark>
+* 항생제 : ETD 자체에는 사용하지 않으며, 급성 중이염 등 세균 감염이 확인되고 해당 질환의 항생제 적응증에 해당할 때 사용
+* 알레르기비염 치료 : 해당 챕터의 치료 원칙을 따름; 류코트리엔 길항제는 비강 스테로이드·항히스타민제로 조절되지 않거나 사용할 수 없는 경우 등에 선택적으로 고려
 * 전신 스테로이드 : 폐쇄성 ETD에 대한 근거가 없어 사용하지 않음
 
 ### <mark style="color:orange;">수술</mark>
@@ -283,9 +285,10 @@ graph TD
   * BET 적응증 <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2019]</mark> : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합
   * 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2018]</mark>)
   * BET 금기 : 개방성 ETD(확장 시 증상 악화), 내경동맥관 결손(깊이 표지 없는 기구 사용 시)
+  * 2025년 Cochrane 검토에서는 비수술 치료 대비 3개월 이내 증상 개선 가능성이 있었으나 근거 확실성은 낮았고, 3개월 이후 효과와 드문 중대한 이상반응은 불확실함 <mark style="color:$info;">\[Cochrane 2025]</mark>
   * BET 한계 : 이관 연골부 자체의 dilatory dysfunction을 대상으로 하는 시술로, 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 원인에 대한 평가와 치료가 우선임
   * 기계적 폐쇄가 의심되면 이비인후과에 의뢰하며, BET 시행 전 전문 평가에서 해당 원인을 확인·배제함
-* Eustachian tuboplasty : 레이저·미세수술로 이관 점막 성형
+* 기타 Eustachian tuboplasty : 레이저·미세수술 등은 근거가 제한적인 전문 시술로, 일반적인 1차 치료로 제시하지 않음
 
 ***
 
@@ -327,7 +330,7 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 
 ***
 
-## <mark style="color:green;">Management</mark>
+## <mark style="color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -371,17 +374,21 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 > **처방례 1. 폐쇄성 ETD - 비충혈 동반, 경증**
 >
 > ```
-> 오트리빈멘톨0.1%분무제 10 ㎖/병  비강 분무  ×3d  (비급여)
+> 오트리빈멘톨0.1%분무제 10 ㎖/병  각 비공에 1회 1번 분무 PRN
+>   최소 8시간 간격, 1일 최대 3회  ×3d  (비급여)
 > ```
+> 약제 정보: [오트리빈멘톨·0.1%](https://health.kr/drug/A11ALLLLL0153)
 >
 > _✽비내 감염이 없는 경우 Valsalva autoinflation 병행 권고. 코 울혈 제거제는 길어도 5일 이내로 사용 (반동성 충혈). 알레르기비염 동반 시 비강 스테로이드 추가_
 
 > **처방례 2. 폐쇄성 ETD - 알레르기비염 동반**
 >
 > ```
-> 나조넥스 비강분무액 120회/병  비공 당 2회 분무 qd  ×4~6주
+> 나조넥스나잘스프레이 50 ㎍/분무, 120회/병
+>   각 비공에 2번씩 qd (총 200 ㎍/일)  ×4~6주
 > 클라리틴 10 ㎎/T  1T  qd  ×4~6주  (재채기·가려움·콧물 동반 시)
 > ```
+> 약제 정보: [나조넥스나잘스프레이·50 ㎍/분무](https://health.kr/drug/A11AGGGGA3046) · [클라리틴·10 ㎎](https://health.kr/drug/2009091800015)
 >
 > _✽알레르기비염 치료가 목적. 4\~6주에 귀 증상을 재평가하고, 호전이 없으면 ETD 목적의 연장은 하지 않음. 비염 자체의 치료가 필요하면 해당 적응증에 따라 지속. 3개월 이상 지속 시 의뢰_
 
@@ -390,6 +397,7 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 > ```
 > 슈다페드 60 ㎎/T  1T  이륙 30분~1시간 전  (성인)
 > ```
+> 약제 정보: [슈다페드·60 ㎎](https://health.kr/drug/A11A0500A0112)
 >
 > _✽착륙 하강 중 삼킴·하품·부드러운 압력 평형이 기본. 60 ㎎ 1회 투여의 항공 압력손상 예방 효과는 직접 확인되지 않음. 연구 용량(120 ㎎)은 국내 정제의 허가 1회 용량을 넘으므로 일률적으로 적용하지 않음. 고혈압 등 심혈관 질환·갑상선 기능항진증·당뇨병·폐쇄각 녹내장·중증 신장애·수유부·MAO 억제제 복용 중 또는 중단 후 2주 이내, 다른 교감신경흥분제 또는 베타차단제 투여 중에는 금기; 전립선 비대증은 신중 투여. 잠수 전에는 코 울혈 제거제를 일상적으로 권하지 않음_
 
@@ -410,8 +418,9 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 >
 > * 사용 전 코를 가볍게 풀어 분비물을 제거하십시오.
 > * 고개를 약간 앞으로 숙이고, 분무 노즐을 콧속 측벽(비중격이 아닌 바깥쪽 벽) 방향으로 향하게 하여 분무하십시오.
-> * 분무 후 코로 가볍게 흡입하고 1\~2분간 고개를 숙인 채로 유지하십시오.
-> * **연속 5일을 넘겨 사용하지 마십시오.** 장기 사용 시 오히려 코막힘이 심해지는 반동 현상이 생깁니다.
+> * 분무할 때 코로 가볍게 숨을 들이마시고, 세게 들이마시거나 고개를 뒤로 젖히지 마십시오.
+> * 오트리빈멘톨0.1%분무제는 각 콧구멍에 1번씩, 최소 8시간 간격으로 하루 최대 3회 사용하십시오.
+> * **보통 3일만 사용하고, 3일간 사용해도 호전되지 않으면 진료를 받으십시오. 의사의 별도 지시 없이 연속 5일을 넘겨 사용하지 마십시오.** 장기 사용 시 오히려 코막힘이 심해지는 반동 현상이 생깁니다.
 > * 혈압이 높거나 심장 질환, 갑상선 질환이 있으면 반드시 의사에게 알리십시오. 오트리빈멘톨0.1%분무제는 전립선 비대증, 폐쇄각 녹내장, MAO 억제제 복용 중 또는 중단 후 2주 이내에는 사용하지 마십시오.
 > * 갑작스러운 심한 두통, 구역·구토, 시야 이상, 혼돈, 경련이 생기면 즉시 사용을 중단하고 진료를 받으십시오 - 드물게 심각한 뇌혈관 관련 이상반응이 보고되어 있습니다.
 
@@ -429,7 +438,7 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 > **비강 스테로이드 사용 안내**
 >
 > * 처방된 용량을 매일 규칙적으로 사용하십시오. 효과는 일찍 시작될 수 있으나, 충분한 효과를 얻으려면 꾸준히 사용해야 합니다(최대 효과까지 보통 1\~2주).
-> * **분무 각도가 효과를 결정합니다.** 비중격(코 중앙 칸막이)을 직접 향하면 코피가 생기고 약이 낭비됩니다. 반드시 **바깥쪽 벽(귀 쪽 방향)을** 향해 분무하십시오.
+> * 분무 전 용기를 흔들고 처음 사용할 때는 제품 설명서에 따라 시험 분무하십시오. 고개를 약간 앞으로 숙이고 비중격(코 중앙 칸막이)을 피해 **바깥쪽 벽(귀 쪽 방향)을** 향해 분무하십시오. 세게 들이마시지 마십시오.
 >   * 오른쪽 콧구멍 → **왼손**으로 분무, 노즐을 오른쪽 귀 방향으로 기울임
 >   * 왼쪽 콧구멍 → **오른손**으로 분무, 노즐을 왼쪽 귀 방향으로 기울임
 > * 올바른 분무 각도는 코피 등 국소 부작용을 줄이고 약물이 비강 측벽에 고르게 분포하도록 돕는 표준적인 사용법입니다.
@@ -461,6 +470,8 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 * \[CMAJ 2015] [Williamson I, et al. Effect of nasal balloon autoinflation in children with otitis media with effusion in primary care: an open randomized controlled trial. CMAJ. 2015;187(13):961-969.](https://doi.org/10.1503/cmaj.141608) - 소아 삼출성 중이염의 비강 풍선 자가 통기
 * [Schilder AGM, et al. Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis. Clin Otolaryngol. 2015;40(5):407-411.](https://doi.org/10.1111/coa.12475) - ETD 유형과 증상·객관적 소견을 종합한 진단
 * [Eustachian tube dysfunction in adults. CMAJ. 2025;197(37):E1227.](https://doi.org/10.1503/cmaj.250163) - 1차 진료의 성인 ETD 평가와 초기 관리 요약
+
+* \[Cochrane 2025] [Swords C, et al. Balloon dilatation of the Eustachian tube for obstructive Eustachian tube dysfunction in adults. Cochrane Database Syst Rev. 2025;2:CD013429.](https://doi.org/10.1002/14651858.CD013429.pub2) - 단기 효과와 장기 효과·안전성의 근거 한계
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -500,7 +511,7 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 
 #### <mark style="color:$primary;">가정에서 어떻게 관리하나요?</mark>
 
-* **Valsalva 동작 (폐쇄성)** : 코와 입을 손으로 가볍게 막고 부드럽게 내뱉는 동작을 시도하십시오. "귀로 바람을 세게 불어넣는 느낌"이 아니라 **"중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게"** 시행하는 것이 핵심입니다. 너무 세게 하면 고막이나 내이(속귀)가 손상될 수 있습니다. 감기나 코에 염증이 있을 때는 코 분비물이 귀로 들어갈 수 있으므로 삼가십시오.
+* **Valsalva 동작 (폐쇄성)** : 입을 다문 채 손가락으로 코를 가볍게 막고 부드럽게 내뱉는 동작을 시도하십시오. "귀로 바람을 세게 불어넣는 느낌"이 아니라 **"중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게"** 시행하는 것이 핵심입니다. 너무 세게 하면 고막이나 내이(속귀)가 손상될 수 있습니다. 감기나 코에 염증이 있을 때는 코 분비물이 귀로 들어갈 수 있으므로 삼가십시오.
 * **Otovent 풍선 (폐쇄성)** : 한쪽 콧구멍으로 작은 풍선을 부풀리는 기구로, 하루 3회 사용하면 귀 막힘 해소에 도움이 될 수 있습니다. 감기나 코에 염증이 있을 때는 사용하지 마십시오.
 * **비강 식염수 (개방성)** : 일부 환자에서 증상 완화에 도움이 될 수 있으나 근거는 제한적입니다. 생리식염수를 콧구멍에 점적하는 구체적인 자세·횟수는 담당의의 안내를 따르십시오.
 * **개방성에는 코 스프레이(코막힘 제거제)를 사용하지 마십시오.** 사용 중인 비강 스테로이드 스프레이는 필요한지 담당의와 상의하십시오.
@@ -538,4 +549,4 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 #### <mark style="color:$primary;">이럴 때는 진료 예약을 하세요</mark>
 
 * 한쪽 귀에서만 증상이 수 주 이상 지속되는 경우
-* 3개월 이상 치료해도 호전이 없는 경우
+* 3\~4주가 지나도 호전이 없으면 재진하십시오. 3개월 이상 지속되거나 청력 저하가 있으면 전문 평가가 필요합니다.
