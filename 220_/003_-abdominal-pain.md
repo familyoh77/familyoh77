@@ -3,12 +3,14 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
-* 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심
+* 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심임
 * 고령(특히 당뇨병·신부전) 환자는 통증·발열·복부 강직 등이 경미하게 발현될 수 있어 중증 질환을 간과하기 쉬우므로 비전형적 증상에도 악성·혈관 질환 가능성을 항상 염두에 두어야 함
-* 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 임신 여부를 우선 확인하고 β-hCG를 시행; 임신이 확인되면 자궁외임신을 반드시 배제
+* 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 임신 여부를 우선 확인하고 β-hCG를 시행
+  * 임신이 확인되면 자궁외임신을 반드시 배제
 * 복용 중인 약물을 반드시 확인
   * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
-  * 드물게 약물 유발 췌장염이 발생할 수 있음 - 관련성이 보고된 약물 : azathioprine, valproate, thiazide계 이뇨제 등(약제별 근거 수준은 다름)
+  * 드물게 약물 유발 췌장염이 발생할 수 있음&#x20;
+    * 관련성이 보고된 약물 : azathioprine, valproate, thiazide계 이뇨제; 약제별 근거 수준은 다름
   * 스테로이드는 잠재적 위험인자이나 주요 원인은 아님
   * DPP-4 억제제 및 GLP-1 수용체 작용제도 췌장염 발생이 보고되나 인과성에는 논란이 있어 과도하게 강조하지 않되, 당뇨·비만 치료 중인 환자의 복통에서는 약물 복용력을 확인
   * SGLT2 억제제 복용 환자는 혈당이 정상 또는 경도 상승만 보이는 euglycemic DKA가 가능함을 우선 고려 (혈당만으로 DKA를 배제하지 말 것)
@@ -19,45 +21,45 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 활력징후 불안정 (저혈압, 빈맥, 빈호흡)  `쇼크·저관류 의심`
-* 복부 강직, 반동 압통  `복막염`
-* 심방세동·혈관 질환 환자의 갑작스럽거나 심한 지속 복통, 특히 진찰 소견보다 심한 통증  `급성 장간막 허혈`
+* 활력징후 불안정 (저혈압, 빈맥, 빈호흡) `쇼크·저관류 의심`
+* 복부 강직, 반동 압통 `복막염`
+* 심방세동·혈관 질환 환자의 갑작스럽거나 심한 지속 복통, 특히 진찰 소견보다 심한 통증 `급성 장간막 허혈`
   * 정상 lactate로 배제하지 않으며, 즉시 CT 혈관조영술(CT angiography, CTA)이 가능한 응급실로 이송
-* 발열·패혈증 소견과 요로폐쇄 동반  `감염성 요로폐쇄`
-* 급성 하복부·서혜부 통증과 음낭 압통·종창 또는 고환 위치 이상  `고환염전`
-* 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈  `위장관 출혈`
-* 복통·요통을 동반한 박동성 복부 종괴 (특히 고령·흡연·죽상동맥경화 환자)  `증상성 복부대동맥류(abdominal aortic aneurysm, AAA)·파열 의심`
-* 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈  `자궁외임신 파열`
-* 갑작스러운 극심한 복통 ("내 인생 최악의 통증")  `혈관 사고(AAA, 대동맥 박리)` `천공` `장간막 허혈`
-* 갑작스러운 상복부·복부 통증 + 흉통 또는 등 통증 + 사지 간 맥박·혈압 차이 또는 신경학적 증상 동반  `대동맥 박리`
-* 갑작스러운 심한 편측 하복부·골반통 + 구역·구토  `난소염전`
-* 발열·오한 + 황달 + 저혈압 또는 의식 변화  `급성 담관염` `패혈증`
-* 통증을 동반한 환원되지 않는 서혜부·대퇴부 종괴  `감돈·교액 탈장`
+* 발열·패혈증 소견과 요로폐쇄 동반 `감염성 요로폐쇄`
+* 급성 하복부·서혜부 통증과 음낭 압통·종창 또는 고환 위치 이상 `고환염전`
+* 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈 `위장관 출혈`
+* 복통·요통을 동반한 박동성 복부 종괴 (특히 고령·흡연·죽상동맥경화 환자) `증상성 복부대동맥류(abdominal aortic aneurysm, AAA)·파열 의심`
+* 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈 `자궁외임신 파열`
+* 갑작스러운 극심한 복통 ("내 인생 최악의 통증") `혈관 사고(AAA, 대동맥 박리)` `천공` `장간막 허혈`
+* 갑작스러운 상복부·복부 통증 + 흉통 또는 등 통증 + 사지 간 맥박·혈압 차이 또는 신경학적 증상 동반 `대동맥 박리`
+* 갑작스러운 심한 편측 하복부·골반통 + 구역·구토 `난소염전`
+* 발열·오한 + 황달 + 저혈압 또는 의식 변화 `급성 담관염` `패혈증`
+* 통증을 동반한 환원되지 않는 서혜부·대퇴부 종괴 `감돈·교액 탈장`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
 * 통증이 지속적으로 악화되거나 반복 구토로 경구 섭취가 불가능함
   * 새 복막자극 소견·전신 상태 악화가 동반되면 즉각 조치
 * 재평가 시 활력징후·진찰 소견이 변화
-* 흑변·혈변·토혈이 있으나 활력징후가 안정적  `위장관 출혈`
-* 발열 동반  `복강내 감염`
-* 황달 동반  `담관염` `간염` `담도 폐쇄`
+* 흑변·혈변·토혈이 있으나 활력징후가 안정적 `위장관 출혈`
+* 발열 동반 `복강내 감염`
+* 황달 동반 `담관염` `간염` `담도 폐쇄`
   * 발열·오한이 함께 있으면 쇼크 이전이라도 지체 없이 병원(응급실) 평가
-* 복부 종괴 또는 복부 장기 비대 (박동성 제외)  `복강내 종양`
+* 복부 종괴 또는 복부 장기 비대 (박동성 제외) `복강내 종양`
 * 고령(특히 65세 이상), frailty 또는 중대한 동반 질환에서 새로 발생한 원인 불명 급성 복통
 * 심방세동·혈관 질환 환자의 원인 불명 복통
   * 갑작스럽거나 심한 지속통·진찰 소견보다 심한 통증이면 즉각 조치
-* 가임기 여성의 급성 하복부·골반통 (활력징후 안정, 즉각 위험 소견 없음)  `자궁외임신` `골반염`
+* 가임기 여성의 급성 하복부·골반통 (활력징후 안정, 즉각 위험 소견 없음) `자궁외임신` `골반염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 설명되지 않는 체중 감소  `악성 종양`
-* 원인이 설명되지 않는 빈혈 (예: 철결핍빈혈)  `대장암` `위장관 출혈`
+* 설명되지 않는 체중 감소 `악성 종양`
+* 원인이 설명되지 않는 빈혈 (예: 철결핍빈혈) `대장암` `위장관 출혈`
 * 복통 양상의 변화
 * 같은 문제로 반복적인 진료
-* 가족력 (난소 또는 창자의 악성 종양, 가족성 대장폴립증 등)  `대장암` `난소암`
+* 가족력 (난소 또는 창자의 악성 종양, 가족성 대장폴립증 등) `대장암` `난소암`
 
-## <mark style="color:green;">진단</mark> <a id="abdominal-diagnosis"></a>
+## <mark style="color:green;">진단</mark> <a href="#abdominal-diagnosis" id="abdominal-diagnosis"></a>
 
 * 진찰, 활력징후, 병력 청취
 * 가임기 여성에서 자궁외임신 배제 : 소변 또는 혈청 β-hCG
@@ -82,14 +84,14 @@
 
 <table><thead><tr><th width="256">검사 소견</th><th>시사 질환</th></tr></thead><tbody><tr><td>AST/ALT 현저히 상승</td><td>간염 (바이러스·허혈·약물)</td></tr><tr><td>ALP + bilirubin 상승</td><td>담도 폐쇄</td></tr><tr><td>Lipase ≥3×ULN(upper limit of normal) + 전형적 상복부 통증</td><td>급성 췌장염 (Revised Atlanta Criteria: ① 전형적 통증, ② lipase/amylase ≥3×ULN, ③ 영상 소견 중 2개 이상 충족 시 진단)</td></tr><tr><td>Lactate 상승</td><td>장간막 허혈, 패혈증; 단, 정상 lactate가 장간막 허혈을 배제하지는 못함(초기에는 정상일 수 있음)</td></tr><tr><td>WBC 현저히 상승 + CRP 상승</td><td>염증성·감염성 복강내 질환 가능성을 높이나 비특이적; 단독으로 세균감염·충수염을 확진하거나 배제할 수 없음; procalcitonin은 중증도 평가 등 보조적 역할이 연구되고 있으나 미분화 복통의 routine 선별검사로는 아직 근거가 확립되지 않음</td></tr><tr><td>β-hCG 양성</td><td>임신 (자궁외임신 배제 필수)</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">심전도(ECG)</mark> <a id="acs-evaluation"></a>
+#### <mark style="color:$primary;">심전도(ECG)</mark> <a href="#acs-evaluation" id="acs-evaluation"></a>
 
 * 고령 또는 심혈관 위험인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 고감도 심장 트로포닌(high-sensitivity cardiac troponin, hs-cTn)을 적극 고려(☞ [흉통](002_-chest-pain.md))
   * ACS가 의심되면 다른 원인 평가와 병행하여 ECG를 신속히 시행하고 hs-cTn을 평가함; 외래에서 검사 결과를 기다리느라 응급 이송을 지연하지 않음
   * 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않음. 증상 발생 시각·임상적 의심도와 검증된 hs-cTn 배제 경로에 따라 판단하며, 필요시 반복 검사 <mark style="color:$info;">\[ACC/AHA 등 2025]</mark>
 * 여성, 고령자, 당뇨병 환자에서는 ACS가 흉통 없이 상복부 통증·구역·피로감 등으로 나타날 수 있으므로 ECG 검사를 적극 고려함
 
-#### <mark style="color:$primary;">영상 검사</mark> <a id="abdominal-imaging"></a>
+#### <mark style="color:$primary;">영상 검사</mark> <a href="#abdominal-imaging" id="abdominal-imaging"></a>
 
 * 복부 X선 : 장폐쇄 또는 천공이 의심되는 일부 상황에서 보조적으로 사용할 수 있으나, 민감도가 낮아 CT를 대체하지 못함
 * 복부 초음파(US) : 담낭·담도·신장·부속기 평가; 방사선 노출 없음; 임신·소아에서 1차 선택
@@ -105,7 +107,7 @@
 
 <table data-search="false"><thead><tr><th width="343">임상 상황</th><th>권장 영상</th></tr></thead><tbody><tr><td>RUQ 통증 (담낭·담도 의심)</td><td>초음파 우선</td></tr><tr><td>LLQ 통증 (게실염 의심)</td><td>CT</td></tr><tr><td>옆구리 통증 (요로 결석 의심) - 성인</td><td>비조영 CT (가장 정확); 임신에서는 초음파 우선</td></tr><tr><td>충수염 의심 - 성인</td><td>CT abdomen/pelvis with IV contrast 우선 (조영제 금기 등 상황에 따라 protocol 조정)</td></tr><tr><td>충수염 의심 - 소아·임신</td><td>초음파 우선; 불명확 시 MRI 고려</td></tr><tr><td>골반 통증 (부인과 의심)</td><td>경질초음파</td></tr><tr><td>미분화 급성 복통 (고령·혈관 위험·diffuse pain)</td><td>CT</td></tr><tr><td>AAA 의심 - 혈역학적 불안정</td><td>CT를 위해 지체하지 말고 즉시 수술/혈관외과 협진 및 응급 이송; bedside POCUS는 신속한 확인 용도로만 활용</td></tr><tr><td>AAA 의심 - 혈역학적 안정</td><td>CT angiography</td></tr></tbody></table>
 
-## <mark style="color:green;">감별</mark> <a id="differential-diagnosis"></a>
+## <mark style="color:green;">감별</mark> <a href="#differential-diagnosis" id="differential-diagnosis"></a>
 
 ### <mark style="color:orange;">통증 기원에 따른 특징</mark>
 
@@ -145,7 +147,6 @@
 * 요관 결석 → 옆구리에서 서혜부·고환 또는 대음순으로 방사
 * 하엽 폐렴·흉막질환 → 상복부 또는 옆구리 통증으로 발현 가능
 * 급성 심근경색 → 상복부 통증으로 발현 가능, 특히 고령·당뇨 환자에서 주의
-
 * 내장통의 초기 위치(localization)와 연관통은 구분해야 함. 충수염의 배꼽 주위 내장통이 우하복부의 체성통으로 국소화되는 과정은 연관통과 구별함
 
 <figure><img src="../.gitbook/assets/복통1-연관통.jpg" alt="장기별 통증 및 연관통의 대표적 분포를 보여주는 앞면·뒷면 도식"><figcaption><p><strong>장기별 통증 및 연관통(referred pain)의 대표적 분포</strong><br>출처: OpenStax College. <em>Anatomy and Physiology</em>, Referred Pain Chart (<a href="https://commons.wikimedia.org/wiki/File:1506_Referred_Pain_Chart.jpg">원본</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>).</p></figcaption></figure>
@@ -161,7 +162,7 @@
   * 양성 시 CT 반복보다 복벽 원인 치료를 먼저 고려
   * 초기 복막염에서도 복근 수축 시 통증이 악화될 수 있어 위양성 가능성이 있으므로, 반동 압통·발열·전신 상태 악화 등 다른 소견과 함께 종합 판단해야 함
 
-### <mark style="color:orange;">통증 패턴 인식</mark> <a id="pain-patterns"></a>
+### <mark style="color:orange;">통증 패턴 인식</mark> <a href="#pain-patterns" id="pain-patterns"></a>
 
 * 통증 발생 양상은 원인 감별의 첫 번째 단서임
 
@@ -236,6 +237,7 @@ flowchart TD
 ```
 
 <p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong></p>
+
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Right Upper Quadrant Pain 2022; ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
 
 ✽ 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함. PE의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함. CTPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함.
@@ -314,6 +316,7 @@ flowchart TD
 ```
 
 <p align="center"><strong>하복부 복통의 평가 알고리듬</strong></p>
+
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Right Lower Quadrant Pain 2022; ACR Acute Pelvic Pain 2023; ACG 2026; EAU Urolithiasis)</mark></em></p>
 
 ***
@@ -395,13 +398,13 @@ flowchart TD
 
 <mark style="color:cyan;">**Step 3. 치명적·시간 민감성 질환 우선 배제**</mark>
 
-* 아래는 대표적 예시이며 전체 목록이 아님; 난소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 [감별](#differential-diagnosis) 섹션 참조
+* 아래는 대표적 예시이며 전체 목록이 아님; 난소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 [감별](003_-abdominal-pain.md#differential-diagnosis) 섹션 참조
 
 <table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td>AAA 파열</td><td>고령·흡연·박동성 종괴·저혈압</td></tr><tr><td>대동맥 박리</td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td>장간막 허혈</td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td>GI 천공</td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td>교액성 장폐쇄</td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td>자궁외임신 파열</td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td>Acute MI</td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
 
 <mark style="color:cyan;">**Step 4. 통증 패턴 + 위치 기반 감별 → 검사 선택**</mark>
 
-* [통증 패턴 인식](#pain-patterns), [영상 검사](#abdominal-imaging) 참조
+* [통증 패턴 인식](003_-abdominal-pain.md#pain-patterns), [영상 검사](003_-abdominal-pain.md#abdominal-imaging) 참조
 
 <mark style="color:cyan;">**Step 5. Disposition 결정**</mark>
 
@@ -440,11 +443,12 @@ flowchart TD
 ```
 
 <p align="center"><strong>복통 관리 알고리듬</strong></p>
+
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Acute Nonlocalized Abdominal Pain 2018; WSES Acute Mesenteric Ischemia 2022)</mark></em></p>
 
 ***
 
-### <mark style="color:orange;">진통제 사용 원칙</mark> <a id="analgesia-principles"></a>
+### <mark style="color:orange;">진통제 사용 원칙</mark> <a href="#analgesia-principles" id="analgesia-principles"></a>
 
 * 진단 지연을 우려하여 진통제를 제한하는 것은 권장되지 않으며, 적절한 통증 조절은 표준 치료임. 오히려 통증이 완화되면 신체 검진의 질이 향상됨
 
@@ -454,11 +458,11 @@ flowchart TD
 
 <mark style="color:cyan;">**심근경색(MI)을 위장 질환으로 오진**</mark>
 
-* 흉통 없이 상복부 통증·구역으로 발현하는 ACS를 위염·GERD로 단정하지 않음. ECG·hs-cTn 평가와 이송 원칙은 [심전도](#acs-evaluation) 참조
+* 흉통 없이 상복부 통증·구역으로 발현하는 ACS를 위염·GERD로 단정하지 않음. ECG·hs-cTn 평가와 이송 원칙은 [심전도](003_-abdominal-pain.md#acs-evaluation) 참조
 
 <mark style="color:cyan;">**AAA 놓침**</mark>
 
-* 고령·흡연 환자의 갑작스러운 복통·요통에서는 AAA를 고려하고, 박동성 종괴가 없어도 배제하지 않음. 불안정 시 대응은 [영상 검사](#abdominal-imaging) 참조
+* 고령·흡연 환자의 갑작스러운 복통·요통에서는 AAA를 고려하고, 박동성 종괴가 없어도 배제하지 않음. 불안정 시 대응은 [영상 검사](003_-abdominal-pain.md#abdominal-imaging) 참조
 
 <mark style="color:cyan;">**장간막 허혈 과소진단**</mark>
 
@@ -466,7 +470,7 @@ flowchart TD
 
 <mark style="color:cyan;">**자궁외임신 누락**</mark>
 
-* 임신 가능성이 있는 환자의 하복부·골반통에서 임신 여부를 확인하고, 임신 위치가 확인되지 않으면 추적 평가를 완료함. 임신 위치 미상은 [진단](#abdominal-diagnosis) 참조
+* 임신 가능성이 있는 환자의 하복부·골반통에서 임신 여부를 확인하고, 임신 위치가 확인되지 않으면 추적 평가를 완료함. 임신 위치 미상은 [진단](003_-abdominal-pain.md#abdominal-diagnosis) 참조
 
 <mark style="color:cyan;">**충수염 초기에 귀가**</mark>
 
@@ -494,7 +498,7 @@ flowchart TD
 
 <mark style="color:cyan;">**통증을 참으면 진단에 도움이 된다는 오해**</mark>
 
-* 진단 평가와 적절한 진통을 병행함. 원인별 진통제 선택과 제품별 금기는 [진통제 사용 원칙](#analgesia-principles) 참조
+* 진단 평가와 적절한 진통을 병행함. 원인별 진통제 선택과 제품별 금기는 [진통제 사용 원칙](003_-abdominal-pain.md#analgesia-principles) 참조
 
 ***
 
@@ -529,7 +533,7 @@ flowchart TD
 >
 > 약제 정보: [케토란주 30 ㎎/1 ㎖](https://www.health.kr/drug/A11AHHHHH0001)
 >
-> _✽ NSAIDs가 1차 선택이지만 ketorolac의 제품별 금기를 먼저 적용함. 중등도·중증 신부전, 탈수·저혈량증, 소화성궤양·위장관 출혈 또는 그 병력, 출혈 소인, 기관지천식 또는 그 병력, 다른 NSAID·항응고제 병용 등에서는 투여하지 않음. PPI 병용으로 금기가 해소되지 않음. 대체 진통제도 자체 금기와 신·간기능·호흡억제 위험을 확인하여 선택하며, 심한 신장애에서 acetaminophen을 자동 대체제로 선택하지 않음(☞ [통증](001_-pain.md))_
+> _✽ NSAIDs가 1차 선택이지만 ketorolac의 제품별 금기를 먼저 적용함. 중등도·중증 신부전, 탈수·저혈량증, 소화성궤양·위장관 출혈 또는 그 병력, 출혈 소인, 기관지천식 또는 그 병력, 다른 NSAID·항응고제 병용 등에서는 투여하지 않음. PPI 병용으로 금기가 해소되지 않음. 대체 진통제도 자체 금기와 신·간기능·호흡억제 위험을 확인하여 선택하며, 심한 신장애에서 acetaminophen을 자동 대체제로 선택하지 않음(☞_ [_통증_](001_-pain.md)_)_
 >
 > _✽ 통증 조절 후 비조영 CT로 결석 확인 권장(임신 시 초음파 우선)_
 
@@ -551,7 +555,7 @@ flowchart TD
 >
 > _✽ Tramadol : 세로토닌 증후군·경련·어지럼·낙상 위험이 있어 serotonergic drug(SSRI/SNRI/MAOI 등) 병용·뇌전증 병력 확인; MAOI(MAO-B 억제제 포함) 병용 및 중단 후 14일 이내는 금기이며, 적절히 조절되지 않는 뇌전증에도 투여하지 않음; 항경련제(gabapentinoid) 또는 항콜린제 병용 시 CNS 억제·호흡 억제 또는 진정·착란·변비 심화 위험이 상가적으로 증가하므로 병용 여부를 반드시 확인_
 >
-> _✽ 타이레놀정은 소화성궤양, 심한 간·신장애·심한 심장기능저하, aspirin 천식 또는 그 병력, TCA·바르비탈계 약물 복용 등 제품별 금기를 확인함. 다른 acetaminophen 함유 제품과 총량을 합산하며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장(☞ [통증](001_-pain.md))_
+> _✽ 타이레놀정은 소화성궤양, 심한 간·신장애·심한 심장기능저하, aspirin 천식 또는 그 병력, TCA·바르비탈계 약물 복용 등 제품별 금기를 확인함. 다른 acetaminophen 함유 제품과 총량을 합산하며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장(☞_ [_통증_](001_-pain.md)_)_
 >
 > _✽ Metoclopramide : 맥페란정은 1정당 metoclopramide 3.84 ㎎으로 함량·정수를 구분함. 장폐쇄·위장관 출혈·천공, 파킨슨병·뇌전증, levodopa/도파민효능제 병용 등은 금기; domperidone 병용도 피함. 신·간기능에 따라 추가 감량하고, 추체외로 증상(EPS) 발생 가능성을 설명_
 
@@ -579,7 +583,7 @@ flowchart TD
 * [**Opioid**](001_-pain.md#opioids)**계열** - 필요한 최소 용량·최단기간 사용; 졸음·어지러움 발생 시 운전·기계 조작 금지. 반복·장기 사용 시 의존·과량복용 위험이 증가할 수 있으며, 변비 예방과 병용 진정제·음주 여부를 함께 확인
 * [**진경제**](../224_/073_-gidrugs.md)(hyoscine butylbromide 등) - 급성 미분화 복통·요관 산통에 일률적으로 추가하지 않음. 제형별로 폐쇄각녹내장·요저류·기계적 장폐쇄 등의 금기를 확인하며 입마름·시야 흐림·배뇨 곤란에 주의
 * **Acetaminophen** - 처방된 1회량·간격을 지키고 감기약·복합 진통제의 동일 성분을 합산. 임의 증량·음주를 피함
-* **Metoclopramide([맥페란](https://www.health.kr/drug/A11A0570A0089))** - 복용 후 토했더라도 최소 6시간 간격을 지키며 최대 5일 이내 사용. 목·턱이 뻣뻣해지거나 눈이 위로 돌아가고 몸이 저절로 움직이면 중단하고 즉시 진료; 지속 구토·심한 복부 팽만·통증 악화는 재평가
+* **Metoclopramide(**[**맥페란**](https://www.health.kr/drug/A11A0570A0089)**)** - 복용 후 토했더라도 최소 6시간 간격을 지키며 최대 5일 이내 사용. 목·턱이 뻣뻣해지거나 눈이 위로 돌아가고 몸이 저절로 움직이면 중단하고 즉시 진료; 지속 구토·심한 복부 팽만·통증 악화는 재평가
 
 ***
 
