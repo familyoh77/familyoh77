@@ -143,6 +143,35 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["급성 흉통?"] -- "예" --> B["병력 청취 + 신체 검진 <br/> 활력징후 평가"]
+    A -- "아니오" --> Z["안정형 흉통 평가"]
+    B --> L["혈역학적 불안정 또는 <br/>즉시 생명위협 원인 의심?"]
+    L -- "예" --> R["<u>응급 처치와 이송 동시 진행</u><br/>• ACS / AAS / PE / <br/>긴장성 기흉<br/>• 심낭압전 / 식도 파열"]
+    L -- "아니오" --> C["진료 장소?"]
+    C -- "외래" --> O["<u>외래 평가</u><br/>• 10분 이내 ECG <br/>가능 시 시행<br/>• ACS·생명위협 원인 <br/>의심?"]
+    C -- "응급실" --> T["ECG + <br/>hs-cTn 기반 CDP"]
+    O -- "예" --> R
+    O -- "아니오" --> K1["기타 심폐/ <br/>비심장 원인"]
+    T --> Q["STEMI 또는 <br/>고위험 ACS 소견?"]
+    Q -- "예" --> D["<u>ACS 가이드라인 따름</u><br/>• 즉시 응급실/<br/>PCI 가능 병원 이송"]
+    Q -- "아니오" ---> E["<u>원인별 평가</u><br/>• 임상 위험도 + <br/>serial hs-cTn"]
+    E --> G["NSTE-ACS"]
+    E --> H["급성 <br/>대동맥 증후군"]
+    E --> I["폐색전증"]
+    E --> J["급성 <br/>심근심막염"]
+    E --> K["기타 심폐/ <br/>비심장 원인"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class L,C,O,Q question
+    class R,D,G,H,I emergency
+    class B,Z,T,E,J,K,K1 evaluation
+
+
 ```
 
 <p align="center"><strong>급성 흉통의 초기 접근 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025)</mark></em></p>
@@ -168,6 +197,30 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["흉통 환자<br/>병력 청취 + 신체 검진"] --> B["ECG 시행 (도착 10분 이내)"]
+    B --> C["ECG 소견은?"]
+    C -- "STEMI 소견" --> N["STEMI <br/>가이드라인 따름"]
+    C -- "광범위 ST 상승 ± PR 하강 <br/>(심낭염 시사)" --> G["<u>STEMI 우선 감별</u><br/>• 이전·serial ECG<br/>• hs-cTn ± TTE"]
+    C -- "ST 하강 또는 <br/>새로운 T파 역전" --> H["<u>NSTE-ACS 의심</u><br/>• 즉시 응급실 의뢰<br/>• V1~V3 ST 하강이 가장 <br/>뚜렷하면 V7~V9 기록"]
+    H -- "V7~V9 ST 상승 ≥0.5 ㎜ <br/>→ 후벽 STEMI" --> N
+    C -- "비진단적 또는 <br/>정상 ECG" --> E["<u>ECG 반복 시행</u><br/>• 증상 지속 또는 <br/>트로포닌 양성 시<br/>• 후벽 MI 의심 시 V7~V9"]
+    C -- "새로운 부정맥" --> M["부정맥별 <br/>가이드라인 따름"]
+    G --> Q["STEMI 확인?"]
+    Q -- "예" --> N1["STEMI <br/>가이드라인 따름"]
+    Q -- "아니오" --> P["심낭염·심근심막염 등 <br/>원인별 평가<br/>미확진 시 serial ECG·hs-cTn"]
+    E --> T["검증된 hs-cTn CDP·<br/>임상 위험 평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class C,Q question
+    class N,N1,H emergency
+    class B,G,E,T,P evaluation
+    class M treatment
 ```
 
 > _후벽 STEMI 판정 기준 : V7\~V9 ST 상승 ≥0.5 ㎜ (40세 미만 남성은 ≥1 ㎜)_
