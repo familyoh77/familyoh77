@@ -325,20 +325,20 @@
 * 효과와 이상반응을 조기에 재평가하고 임상적으로 의미 있는 효과가 없으면 지속하지 않음; 오남용 위험 주의
 * gabapentin·pregabalin은 중단 시 최소 1주 이상에 걸쳐 서서히 감량. Opioid·benzodiazepine 등 중추신경 억제제와 병용하거나 호흡기질환·고령 등 위험요인이 있으면 진정·호흡억제 위험에 특히 주의
 
-**Gabapentin** [뉴론틴 300 ㎎](https://www.health.kr/drug/A11ABBBBB1034)
+**Gabapentin** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">뉴론틴</mark>](https://www.health.kr/drug/A11ABBBBB1034)<mark style="color:blue;">]</mark> 300 ㎎
 
 * 300 ㎎ qd hs → 1주 후 300 ㎎ bid → 2주 후 300 ㎎ tid, 최대 600 ㎎ tid
 * 반응과 내약성에 따라 조정. 4주 시점에 치료 반응 평가
 * 신기능 저하 시 감량; 고령·쇠약 환자에서는 [100 ㎎](https://www.health.kr/drug/A11ABBBBB1033) qd hs 등 더 낮은 용량에서 시작을 고려
 
-**Pregabalin** [리리카 25 ㎎](https://www.health.kr/drug/2018022700007)
+**Pregabalin** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://www.health.kr/drug/2018022700007)<mark style="color:blue;">]</mark> 25 ㎎
 
 * 25 ㎎ bid 등 저용량에서 시작하여 반응·내약성에 따라 [75 ㎎](https://www.health.kr/drug/A11AOOOOO8537) bid까지 서서히 증량 <mark style="color:$info;">\[BTS 2023]</mark>. [150 ㎎](https://www.health.kr/drug/A11AOOOOO8538) bid는 병합요법 RCT에서 사용된 용량으로 전문진료에서 선택적으로 고려
 * 신기능 저하 시 감량
 
 [<mark style="color:cyan;">**Amitriptyline**</mark>](../231_/213_-antidepressants-and-anxiolytics.md#tca)
 
-* 시작 10 ㎎ qd hs; 필요 시 약 2주 간격으로 20 ㎎, 이후 [25 ㎎](https://www.health.kr/drug/A11A0570A0148) qd hs까지 신중히 증량 [에트라빌 10 ㎎](https://www.health.kr/drug/A11A0570B0082)
+* 시작 10 ㎎ qd hs; 필요 시 약 2주 간격으로 20 ㎎, 이후 [25 ㎎](https://www.health.kr/drug/A11A0570A0148) qd hs까지 신중히 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark> 10 ㎎
 * 근거는 소규모 연구에 한정됨. 고령에서는 항콜린 부작용·기립저혈압·낙상 위험 때문에 가급적 피하고, 사용이 필요한 경우 전문진료에서 저용량으로 신중히 판단
 
 <mark style="color:cyan;">**저용량 Opioid (Morphine)**</mark>
@@ -400,7 +400,7 @@
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **진해제 - 오피오이드계 진해제(codeine·dihydrocodeine 함유 제제)** ([코데닝](https://www.health.kr/drug/A11ABBBBB1574) 등) - 본 챕터에서는 routine 기침 치료로 권장하지 않으나, 다른 적응증 등으로 이미 이 계열 약을 처방받은 경우 다음을 안내
+> **진해제 - 오피오이드계 진해제(codeine·dihydrocodeine 함유 제제)** (<mark style="color:blue;">\[</mark>[<mark style="color:blue;">코데닝</mark>](https://www.health.kr/drug/A11ABBBBB1574)<mark style="color:blue;">]</mark> 등) - 본 챕터에서는 routine 기침 치료로 권장하지 않으나, 다른 적응증 등으로 이미 이 계열 약을 처방받은 경우 다음을 안내
 >
 > * **소아·청소년의 허용 연령은 성분·제품마다 다릅니다.** 코데닝 등 dihydrocodeine 복합제는 12세 미만에 금기이며, codeine 단일제의 진해 적응증은 19세 이상입니다. 18세 미만의 기침 치료에 이 계열 약을 권하지 않으며, 특히 비만·수면무호흡·중증 폐질환이 있으면 피합니다. 호흡이 억제되는 위험한 부작용이 생길 수 있습니다
 > * 졸음, 어지럼이 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오
