@@ -24,7 +24,6 @@
 * 활력징후 불안정 (저혈압, 빈맥, 빈호흡) `쇼크·저관류 의심`
 * 복부 강직, 반동 압통 `복막염`
 * 심방세동·혈관 질환 환자의 갑작스럽거나 심한 지속 복통, 특히 진찰 소견보다 심한 통증 `급성 장간막 허혈`
-  * 정상 lactate로 배제하지 않으며, 즉시 CT 혈관조영술(CT angiography, CTA)이 가능한 응급실로 이송
 * 발열·패혈증 소견과 요로폐쇄 동반 `감염성 요로폐쇄`
 * 급성 하복부·서혜부 통증과 음낭 압통·종창 또는 고환 위치 이상 `고환염전`
 * 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈 `위장관 출혈`
@@ -44,7 +43,7 @@
 * 흑변·혈변·토혈이 있으나 활력징후가 안정적 `위장관 출혈`
 * 발열 동반 `복강내 감염`
 * 황달 동반 `담관염` `간염` `담도 폐쇄`
-  * 발열·오한이 함께 있으면 쇼크 이전이라도 지체 없이 병원(응급실) 평가
+  * 발열·오한이 함께 있으면 즉각 조치
 * 복부 종괴 또는 복부 장기 비대 (박동성 제외) `복강내 종양`
 * 고령(특히 65세 이상), frailty 또는 중대한 동반 질환에서 새로 발생한 원인 불명 급성 복통
 * 심방세동·혈관 질환 환자의 원인 불명 복통
@@ -102,7 +101,7 @@
 * 복부 초음파(US) : 담낭·담도·신장·부속기 평가; 임신·소아에서 1차 선택
 * 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령, 전신상태 이상, 혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상 검사
   * 충수염·게실염·폐쇄·천공 등 광범위한 원인을 평가할 수 있음
-  * 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CTA protocol을 선택
+  * 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CT 혈관조영술(CT angiography, CTA) protocol을 선택
 * MRI : 방사선 노출을 피해야 하는 임신·소아에서 초음파로 진단이 불명확한 충수염 평가에 유용
   * 담도계 평가에서는 MRCP가 담관·췌관을 비침습적으로 시각화하여 담석·협착 감별에 도움
 * 부인과 초음파 : 자궁외임신, 난소 병변 의심 시 (경질초음파가 우선)
@@ -128,10 +127,10 @@
 * embryologic origin 관련 부위에 통증이 나타남
 * 임상적으로는 "배꼽 주위 → 우하복부 이동"과 같은 국소화(localization) 패턴이 감별에 더 직접적으로 활용됨
 * Foregut 기원 : 식도, 위장, 십이지장 근위부, 간, 담낭, 췌장 → 상복부 통증
-* Midgut 기원 : 십이지장 제2부 원위부 \~ 횡행결장 proximal ⅔ (hepatic flexure 포함, splenic flexure 제외) → 배꼽 주위 통증
+* Midgut 기원 : 십이지장 대유두 원위부 \~ 횡행결장 proximal ⅔ (hepatic flexure 포함, splenic flexure 제외) → 배꼽 주위 통증
 * Hindgut 기원 : 횡행결장 distal ⅓ 이하(splenic flexure 포함) \~ 항문관 상부(치상선 위) → 치골 상부 통증
 
-<figure><img src="../.gitbook/assets/복통 gut_origin_pain.png" alt=""><figcaption><p><strong>발생학적 기원에 따른 내장통의 대표 위치</strong> <br><em>저자 재구성 (참고 문헌: UNSW Embryology; MSD Manual Professional Edition)</em><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/복통 gut_origin_pain.png" alt="전장·중장·후장의 소화관 범위와 대표적인 초기 내장통 위치(상복부·배꼽 주위·치골 상부)를 나타낸 도식"><figcaption><p><strong>발생학적 기원에 따른 내장통의 대표 위치</strong> <br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : UNSW Embryology; MSD Manual Professional Edition)</mark></em><br></p></figcaption></figure>
 
 <mark style="color:cyan;">**임상 양상**</mark>
 
@@ -190,7 +189,7 @@
   * 통증 지속 시간만으로 확진·배제하지 않음
   * 복부 강직 등 복막자극 소견이 있으면 합병증 평가
   * Murphy's sign : 우측 쇄골중앙선의 늑골연 아래를 누른 채 깊게 숨을 들이쉬게 할 때, 통증 때문에 흡기가 갑자기 멈추면 양성(급성 담낭염 시사)
-* Acute cholangitis : 'RUQ 통증, 발열·오한, 황달'의전형적 삼징(Charcot)이 모두 없어도 배제되지 않음
+* Acute cholangitis : 'RUQ 통증, 발열·오한, 황달'의 전형적 삼징(Charcot)이 모두 없어도 배제되지 않음
   * 전신 염증 소견·담즙정체 검사 이상·담도 영상 소견을 종합하여 판단 <mark style="color:$info;">\[TG18]</mark>
 * Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 진한 갈색 소변, 회색(점토색) 대변
   * 음주 병력
@@ -233,11 +232,13 @@ flowchart TD
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
     classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef connector fill:#ede7f6,stroke:#673ab7,stroke-width:3px,color:#311b92
     class A start
     class B,O,D,F question
-    class C,R emergency
-    class P,E,H,J,L,S,U,N,Q evaluation
+    class C emergency
+    class P,E,H evaluation
     class G treatment
+    class I connector
 ```
 
 ```mermaid
@@ -259,12 +260,14 @@ flowchart TD
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
     classDef evaluation fill:#f1f8e9,stroke:#9ccc65
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef connector fill:#ede7f6,stroke:#673ab7,stroke-width:3px,color:#311b92
     class K,T,M question
     class R emergency
-    class P,J,L,S,U,N,Q evaluation
+    class J,L,S,U,N,Q evaluation
+    class I connector
 ```
 
-> _PE=pulmonary embolism), PERC=PE rule-out criteria(폐색전증 배제 기준); CTPA=CT pulmonary angiography._
+> _PE=pulmonary embolism; PERC=PE rule-out criteria(폐색전증 배제 기준); CTPA=CT pulmonary angiography._
 >
 > _초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함._ \
 > _PE의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함._ \
@@ -297,7 +300,7 @@ flowchart TD
   * 정상 면역이며 전신 상태가 안정적이고, 경구 섭취와 신뢰할 수 있는 추적이 가능한 저위험 비복잡 게실염(농양·천공·누공·협착 또는 폐쇄가 없는 국소 결장벽 염증 및 주변 지방 침윤) 시 routine 항생제 사용 없이 관찰·보존적 치료를 권고 <mark style="color:$info;">\[ACG 2026]</mark>
   * 첫 발병이거나 중증·진단이 불확실한 경우 CT로 진단을 확인
   * complicated diverticulitis 회복 후에는 대장내시경을 권고하고, uncomplicated disease도 alarm symptom이 있거나 대장암 검진이 최신 상태가 아니면 대장내시경을 고려 <mark style="color:$info;">\[ACG 2026]</mark>
-  * 우측 게실염 : 동양인에서 흔함; 충수염과 임상 양상 매우 유사  - CT로 감별 필요
+  * 우측 게실염 : 동양인에서 흔함; 충수염과 임상 양상 매우 유사 - CT로 감별 필요
   * 좌측 게실염 : 서구형의 전형적 위치(LLQ); 고령, 저섬유·고지방 식이 환자에서 호발
 * Ischemic colitis (허혈성 결장염) : 주로 LLQ 또는 좌측 복통; 혈성 설사, 복통이 갑자기 시작
   * 고령, 동맥경화, 저혈압, 심방세동 환자에서 주의
@@ -324,8 +327,9 @@ flowchart TD
     H --> I["<u>충수염 의심</u><br/>• 성인: IV contrast CT <br/>우선 고려<br/>• 소아·임신: US 우선, <br/>불명확 시 MRI"]
     G --> J["LLQ 우세"]
     J --> K["게실염 의심"]
-    K --> L["진단 불확실·중증·첫 발병 등 <br/>→ CT로 확인"]
-    L --> M["저위험 비복잡 게실염?"]
+    K --> L["CT로 진단·합병증 확인"]
+    L -- "게실염 확인" --> M["저위험 비복잡 게실염?"]
+    L -- "다른 진단" --> X["해당 원인 평가"]
     M -- "예" --> N["<u>보존적 치료·<br/>신뢰할 수 있는 추적</u><br/>• routine 항생제는 <br/>권하지 않음"]
     M -- "아니오" --> W["<u>복잡성·고위험 게실염</u><br/>• 농양·천공·폐쇄 또는 <br/>고위험 소견<br/>• 항생제·입원 필요성·<br/>외과 평가"]
     W -- "천공·복막염·패혈증" --> V
@@ -344,7 +348,7 @@ flowchart TD
     class A start
     class U,B,M question
     class V,E,R,T emergency
-    class C,G,I,L,P,Q evaluation
+    class C,G,I,L,P,Q,X evaluation
     class N,W treatment
     class H,J,K,O,S followup
 ```
@@ -362,7 +366,7 @@ flowchart TD
 * 난소낭종 파열 : 갑작스러운 편측 하복부 통증
   * 성적 활동 또는 운동 후 발생 가능
 * 난소염전 : 갑작스러운 심한 편측 하복부 통증, 구역, 구토
-  * 경질초음파를 시행하되 정상 Doppler 혈류만으로는 배제하지 않으며, 임상적으로 강하게 의심되면 영상 결과와 관계없이 즉시 산부인과 응급 평가 및 진단적 복강경을 고려 → 응급 조
+  * 경질초음파를 시행하되 정상 Doppler 혈류만으로는 배제하지 않으며, 임상적으로 강하게 의심되면 영상 결과와 관계없이 즉시 산부인과 응급 평가 및 진단적 복강경을 고려
 * 원발성 월경통 : 월경 시작 전후 하복부 경련성 통증; 요통, 구역 동반 가능
 
 #### <mark style="color:$primary;">미만성 복통</mark>
@@ -370,7 +374,7 @@ flowchart TD
 * 복막염 : 움직이거나 흔들리면 악화, 반동 압통, 복부 강직
 * 장 폐쇄 : 경련성 복통, 구역, 구토, 변비, 복부 팽만
   * 높은 음조의 증가된 장음 또는 무음이 나타날 수 있으나 장음 소견만으로 확진·배제하지 않음
-  * 서혜부·대퇴부·제대 등 탈장 가능부위를 반드시 진찰
+  * 서혜부·대퇴부·제대 등 탈장 가능 부위를 반드시 진찰
   * 성인 소장 폐쇄의 가장 흔한 원인(약 60\~70%)은 수술 후 유착이므로 복부 수술력 확인이 중요
 * GI 천공 : 갑작스러운 심한 복통
 * 복부대동맥류(AAA) 파열 : 갑작스러운 심한 복통 또는 요통, 박동성 복부 종괴, 혈압 저하
@@ -380,12 +384,12 @@ flowchart TD
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통; 통증에 비해 복부 진찰 소견이 경미
   * 검사 : 조기 CT angiography 시행; 초기에는 lactate가 정상일 수 있음
   * 심방세동, 최근 MI, 심부전 환자에서 강하게 의심
-* Chronic mesenteric ischemia : 식후 30분\~1시간 내 시작하여 1\~2시간 지속되다 가라앉는 상복부·배꼽 주위 통증이 식사마다 반복됨(장 협심증, intestinal angina); 구역·구토·설사가 동반될 수 있음 → 통증에 대한 공포로 식사를 기피(food fear)하여 체중 감소
+* Chronic mesenteric ischemia : 대개 식후 10\~30분경 시작하여 1\~2시간 지속되는 상복부·배꼽 주위 통증이 반복됨(장 협심증, intestinal angina); 구역·구토·설사가 동반될 수 있으며, 통증에 대한 공포로 식사를 기피(food fear)하여 체중 감소
   * 통증이 식후에 가라앉지 않고 지속·악화되면 급성 장간막 허혈로의 진행을 의심하여 응급 평가
 * 급성 감염성 위장관염 : 상대적으로 덜 심한 복통, 설사, 구역, 구토
   * 바이러스성(norovirus 등)과 세균성(식중독 포함) 원인 모두 포함
   * 독소 매개형 식중독은 원인균에 따라 잠복기와 주 증상이 다름&#x20;
-    * 음식에 미리 형성된 독소에 의한 _S. aureus_ 식중독은 30분\~8시간, _B. cereus_ 구토형은 1\~6시간 내 급격한 구역·구토로 발현; _C. perfringen&#x73;_&#xB294; 6\~24시간 후 설사·복통이 주 증상 (☞ [감염성설사](../224_/085_-acute-infectious-diarrhea.md))
+    * 음식에 미리 형성된 독소에 의한 _S. aureus_ 식중독은 30분\~8시간, _B. cereus_ 구토형은 1\~6시간 내 급격한 구역·구토로 발현; _C. perfringen&#x73;_&#xB294; 6\~24시간 후 설사·복통이 주 증상 (☞ [급성 감염성 설사](../224_/085_-acute-infectious-diarrhea.md))
 * 셀리악병 : 부피가 큰 설사, 나쁜 냄새의 지방변, 복부 가스
 * [과민대장증후군](../224_/087_-ibs.md) : 지속적이지 않고 반복되는 복통 또는 복부 불편감이 배변 및 배변 빈도·형태 변화와 연관됨
   * Rome V 기준은 최근 3개월 동안 월평균 ≥3일, 증상 시작 ≥6개월 전이며 관련 3요소 중 ≥2개를 충족
@@ -432,7 +436,7 @@ flowchart TD
 
 **Step 2. Red flag 및 고위험군 확인**
 
-* 고령(특히 ≥65세), frailty, 심방세동·혈관 질환, 당뇨·CKD·면역 저하 등은 중증 질환의 비전형적 발현 위험을 높이는 risk modifier이므로 영상 검사·관찰 역치를 낮춤
+* 고령(특히 65세 이상), frailty, 심방세동·혈관 질환, 당뇨·CKD·면역 저하 등은 중증 질환의 비전형적 발현 위험을 높이는 risk modifier이므로 영상 검사·관찰 역치를 낮춤
 * 임신 가능성이 있는 가임기 여성은 β-hCG 확인
 
 **Step 3. 치명적·시간 민감성 질환 우선 배제**
@@ -639,7 +643,7 @@ flowchart TD
 * 처방된 용량과 기간을 지키십시오
 * 졸리거나 어지러우면 운전이나 기계 조작을 하지 마십시오
 * 오래 복용하면 의존이 생길 수 있습니다
-* 변비가 생기기 쉬우므로 수분과 섬유질을 충분히 섭취하십시오
+* 변비가 생길 수 있습니다. 배변이 줄거나 변이 딱딱해지면 알려 주십시오. 필요하면 변비약을 함께 사용합니다
 * 수면제·안정제를 함께 복용하거나 술을 마시는 것은 위험합니다
 
 **진경제** **(hyoscine butylbromide 등)**
@@ -649,7 +653,7 @@ flowchart TD
 
 **Acetaminophen**
 
-* 처방된 1회량과 간격을 지키십시오. 임의로 양을늘려 복용하지 마십시오
+* 처방된 1회량과 간격을 지키십시오. 임의로 양을 늘려 복용하지 마십시오
 * 감기약·종합 진통제에도 같은 성분이 들어 있는 경우가 많으므로 함께 복용하지 마십시오
 * 술을 마시지 마십시오
 
@@ -671,6 +675,8 @@ flowchart TD
 * [Lee JG, et al. Evidence-based clinical practice guidelines for diagnosis and medical management of acute colonic diverticulitis developed by the Korean Association for the Study of Intestinal Diseases (KASID). Intest Res. 2026;24(3):428-463.](https://doi.org/10.5217/ir.2025.00299) - 게실염의 진단·내과적 치료; 환자 위험도에 따른 항생제·입원 판단
 * \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 관리, 조기 경구 섭취와 합병증 평가
 * [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
+* [UNSW Embryology. Gastrointestinal Tract Development.](https://embryology.med.unsw.edu.au/embryology/index.php/Gastrointestinal_Tract_Development) - 전장·중장·후장의 범위
+* [MSD Manual Professional Edition. Acute Abdominal Pain.](https://www.msdmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/acute-abdominal-pain) - 내장통의 위치(상복부·배꼽 주위·하복부)
 * [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처
 * [Rome Foundation. Rome V Criteria.](https://theromefoundation.org/rome-v-criteria/) - IBS의 반복성 복통 또는 불편감과 간헐성·기간 기준
 * [Bala M, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022;17:54.](https://doi.org/10.1186/s13017-022-00443-x) - 의심 시 지체 없는 CTA
