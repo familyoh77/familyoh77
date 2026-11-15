@@ -41,17 +41,17 @@
 * 구강 장치(틀니 등), 치은염, 구강 칸디다증
 * 입마름(Xerostomia) : 침 분비 감소 → 미뢰 기능 저하
 * 구강 작열감 증후군(Burning mouth syndrome)
-* 신경성 미각 장애 : <mark style="background-color:yellow;">Bell's palsy</mark> 및 기타 CN VII(chorda tympani), CN IX, CN X 병변
+* 신경성 미각 장애 : Bell's palsy 및 기타 CN VII(chorda tympani), CN IX, CN X 병변
 
 #### <mark style="color:$primary;">후각 장애</mark>
 
-<mark style="color:cyan;background-color:yellow;">**전도성 (Conductive)**</mark>
+<mark style="color:cyan;">**전도성 (Conductive)**</mark>
 
 * 알레르기 비염, 만성 비부비동염(CRS), 비용종
 * 비중격 만곡증, 비갑개 비대
 * 상기도 감염(URI)으로 인한 일시적 점막 부종
 
-<mark style="color:cyan;background-color:yellow;">**감각신경성 (Sensorineural)**</mark>
+<mark style="color:cyan;">**감각신경성 (Sensorineural)**</mark>
 
 * 바이러스 감염 후(Post-viral)
 * 두부 외상(Post-traumatic) : 사골 체판(cribriform plate) 손상, 후각 신경(CN I) 절단
@@ -76,7 +76,7 @@
 
 <table><thead><tr><th width="134">세부 분류</th><th width="217">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong>ACE 억제제</strong></td><td>captopril, enalapril</td><td>미각 저하·왜곡의 대표적 원인 계열; captopril이 가장 잘 알려짐</td></tr><tr><td><strong>ARB</strong></td><td>losartan</td><td>미각 이상 보고(ACE 억제제보다 드묾)</td></tr><tr><td><strong>칼슘채널차단제</strong></td><td>diltiazem, nifedipine</td><td>미각·후각 이상 보고; 구강 건조 동반 가능</td></tr><tr><td><strong>이뇨제</strong></td><td>hydrochlorothiazide, spironolactone, amiloride</td><td>일부에서 미각 이상 보고; thiazide계는 요중 아연 배설 증가로 아연 결핍에 기여 가능</td></tr><tr><td><strong>베타차단제</strong></td><td>propranolol</td><td>미각 저하 및 구강 건조 보고</td></tr></tbody></table>
 
-<mark style="color:cyan;background-color:yellow;">**3. 신경/정신계 약물**</mark>
+<mark style="color:cyan;">**3. 신경/정신계 약물**</mark>
 
 <table><thead><tr><th width="118">세부 분류</th><th width="224">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong>SSRI</strong></td><td>paroxetine (기타 SSRI 포함)</td><td>미각 이상 및 구강 건조 보고</td></tr><tr><td><strong>TCA</strong></td><td>amitriptyline, nortriptyline, doxepin, imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td><strong>항경련제</strong></td><td>carbamazepine</td><td>쓴맛의 환각미각(Bitter phantogeusia) 보고; 드물게 미각 소실 가능</td></tr><tr><td><strong>항경련제</strong></td><td>phenytoin</td><td>드물게 미각 저하(Hypogeusia) 또는 미각 소실이 보고됨</td></tr><tr><td><strong>항경련제</strong></td><td>topiramate</td><td>탄산음료가 밍밍하거나 금속성으로 느껴지는 특징적 미각 변화(탄산탈수효소 억제 관련 추정; acetazolamide도 같음)</td></tr><tr><td><strong>조울증 치료제</strong></td><td>lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
@@ -94,7 +94,7 @@
 * 환각미각(Phantogeusia) : 맛 자극 없이 맛(주로 쓴맛·금속성 맛)을 느낌
 * 공통 영향 : 식욕 감소, 체중 감소, 영양 불량, 우울감, 대인관계 어려움
 
-<mark style="color:cyan;background-color:yellow;">**이취증 (Parosmia)**</mark>
+<mark style="color:cyan;">**이취증 (Parosmia)**</mark>
 
 * 바이러스 감염 후(특히 COVID-19) 회복 과정에서 흔히 발생
 * 기전 : 후각 신경 재생 과정의 비정상적 신호 전달과 후각구·중추 후각 회로의 처리 변화 등이 관여(추정)
@@ -102,10 +102,10 @@
 * 증상 : "커피에서 타는 고무 냄새", "음식에서 하수구·썩은 냄새" 등 특정 냄새 유발 물질에 의해 유발됨
   * 증상이 불쾌하여 식욕 저하·체중 감소로 이어질 수 있음
 * 치료 : 후각 훈련이 1차 접근
-  * <mark style="background-color:yellow;">성상신경절차단술은 COVID-19 후 이취증에 대한 위약대조 연구에서 위약 대비 유의한 개선이 확인되지 않아 권고하지 않음</mark>
+  * 성상신경절차단술은 COVID-19 후 이취증에 대한 위약대조 연구에서 위약 대비 유의한 개선이 확인되지 않아 권고하지 않음
 * 환자에게 바이러스 감염 후 후각이 회복되는 과정에서 흔히 나타날 수 있으며 반드시 나쁜 예후를 의미하지 않음을 설명
 
-<mark style="color:cyan;background-color:yellow;">**환각취 (Phantosmia)**</mark>
+<mark style="color:cyan;">**환각취 (Phantosmia)**</mark>
 
 * 원인 : 감염 후, 편두통, 비부비동 질환, 외상, 약물, 특발성 등
 * 감별 : 측두엽 뇌전증(Temporal lobe epilepsy, 발작 전조 증상으로 발생), 두개내 종양(특히 olfactory groove meningioma), 전두엽·측두엽 종양, 파킨슨병, 정신질환(조현병, 우울증)
@@ -116,12 +116,12 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑작스러운 후각·미각 이상과 함께 새로 발생한 국소 신경학적 결손\*, 심한 두통, 의식 변화, 시야 이상 등이 동반 `급성 중추신경계 병변(뇌졸중)`
-  * _\*<mark style="background-color:yellow;">이마가 보존되는 편측 안면 마비, 구음장애, 사지 위약·감각 저하, 복시, 보행 이상 등</mark>_
+  * _\*이마가 보존되는 편측 안면 마비, 구음장애, 사지 위약·감각 저하, 복시, 보행 이상 등_
 * 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적) `CSF leak` `두개저 골절`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 미각 이상 + 다른 신경학적 이상 없이 새로 발생한 <mark style="background-color:yellow;">전형적인 말초성 양상의 편측 안면 마비</mark> `Bell 마비` `Ramsay Hunt 증후군`&#x20;
+* **(당일)** 미각 이상 + 다른 신경학적 이상 없이 새로 발생한 전형적인 말초성 양상의 편측 안면 마비 `Bell 마비` `Ramsay Hunt 증후군`&#x20;
 * 진행성 또는 지속성 편측 후각 장애, 비출혈·비강 종괴 `비강·부비동 종양` `후각신경모세포종`
 * 새로 발생하거나 지속되는 원인 불명의 phantosmia `측두엽 뇌전증` `두개내 종양`
 
@@ -142,13 +142,13 @@
 * 선행 요인 : URI/COVID-19, 두부 외상, 비강·부비동·두개저 수술 병력
 * 동반 비증상 : 코막힘, 비루, 안면통, 비출혈
 * 약물력·노출력 : 최근 시작·증량된 약물, 흡연, 직업성 독성물질 노출
-* 소아·청소년에서는 선천성 가능성 및 사춘기 지연 여부 확인 : 어릴 때부터 지속된 <mark style="background-color:yellow;">후각 소실</mark> ± 사춘기 지연 → 선천성 무후각증, Kallmann syndrome 고려
+* 소아·청소년에서는 선천성 가능성 및 사춘기 지연 여부 확인 : 어릴 때부터 지속된 후각 소실 ± 사춘기 지연 → 선천성 무후각증, Kallmann syndrome 고려
 * 신경퇴행성 질환 관련 : 파킨슨병 징후(서동, 경직), 인지 저하, REM 수면 행동 장애
 * 신경학적 : 발작 의심 증상(phantosmia 동반 시 측두엽 뇌전증 감별)
 * 영양·정신 상태 : 체중 감소, 섭취 제한, 우울·불안
 * 미각 장애가 주 호소인 경우 : 구강 점막·치아·보철물·구강 칸디다증·타액 분비 확인, CN VII(chorda tympani)·CN IX 중심 뇌신경 진찰
 
-### <mark style="color:orange;background-color:yellow;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 모든 환자에게 일률적인 혈액검사나 영상검사가 필요한 것은 아니며, 병력·진찰에 따라 선택; 지속성·원인 불명 후각 장애 시 비내시경과 검증된 객관적 후각기능검사를 고려
   * 자가보고식 문진만으로는 객관적 후각기능과 잘 일치하지 않으므로 단독으로 의존하지 않음
@@ -270,7 +270,7 @@ flowchart TD
   * 일부 후각 지표의 추가 개선 가능성이 보고되었으나 표준 4종 향 훈련보다 일관되게 우월하다고 확정된 것은 아님
 
 {% hint style="info" %}
-<mark style="background-color:yellow;">후각 훈련은</mark> post-infectious 후각 장애에서 가장 널리 권고되는 저위험 치료 중 하나임. 개별 placebo-controlled RCT에서는 음성 결과도 보고되었으나, 2026년 RCT 메타분석(10개 RCT, 628명, COVID-19 후 후각 장애)에서는 객관적 후각기능(SMD 0.30)과 삶의 질(SMD -0.40) 모두에서 유의한 개선이 보고됨; 다만 통계적 이질성은 낮았으나(후각기능 I² 33.69%, 삶의 질 I² 37.47%), 훈련 기간·향 종류·대조군 설계가 연구마다 달랐고 삶의 질 결과는 단일 연구 제외 시 유의성이 사라져 효과 크기의 해석에 주의가 필요함.
+후각 훈련은 post-infectious 후각 장애에서 가장 널리 권고되는 저위험 치료 중 하나임. 개별 placebo-controlled RCT에서는 음성 결과도 보고되었으나, 2026년 RCT 메타분석(10개 RCT, 628명, COVID-19 후 후각 장애)에서는 객관적 후각기능(SMD 0.30)과 삶의 질(SMD -0.40) 모두에서 유의한 개선이 보고됨; 다만 통계적 이질성은 낮았으나(후각기능 I² 33.69%, 삶의 질 I² 37.47%), 훈련 기간·향 종류·대조군 설계가 연구마다 달랐고 삶의 질 결과는 단일 연구 제외 시 유의성이 사라져 효과 크기의 해석에 주의가 필요함.
 {% endhint %}
 
 ### <mark style="color:orange;">안전 및 생활 지도</mark>
@@ -285,7 +285,7 @@ flowchart TD
   * 의도하지 않은 체중 감소가 지속되거나 식사 섭취가 뚜렷이 줄면 영양 상담 병행
   * 단백질 식품(육류·어류·두부·달걀) 충분 섭취 권고
 * 항암 치료 중인 환자 : 미뢰 세포 손상으로 금속성 맛·미각 왜곡이 흔함
-  * 플라스틱이나 <mark style="background-color:yellow;">자기 식기</mark>를 사용하면 금속성 맛이 완화될 수 있음
+  * 플라스틱이나 자기 식기를 사용하면 금속성 맛이 완화될 수 있음
   * 고기류는 냉장 상태에서 레몬즙·소스 등에 재운 뒤 충분히 익혀 조리하고, 식혀서 제공하면 냄새를 줄이는 데 도움이 될 수 있음
 * 미각·후각 소실로 인한 우울감, 고독감 → 정기적 추적 관찰
 
@@ -315,7 +315,7 @@ flowchart TD
 * 혈청 아연 수치는 채혈 시각·공복 여부와 염증·저알부민혈증의 영향을 받으므로, 검사실 참고범위와 임상적 결핍 위험을 함께 고려하여 해석
 * 원인 불명의 후각 장애에 routine 아연 보충은 권고하지 않음
 * 실용적 보충 예 : 원소 아연 25\~40 ㎎/일, 식후 복용; 미각 장애에 대한 단일 표준 용량으로 확립된 것은 아니므로 결핍 정도·제제·환자 상태에 따라 조정
-* 8\~12주 보충 후 임상 반응과 필요시 혈청 아연을 재평가; 2025 한국인 영양소 섭취기준상 성인 상한은 35 <mark style="background-color:yellow;">㎎/일</mark>로 일반 영양섭취 기준이며, 치료 목적의 고용량 사용을 직접 제한하지는 않음
+* 8\~12주 보충 후 임상 반응과 필요시 혈청 아연을 재평가; 2025 한국인 영양소 섭취기준상 성인 상한은 35 ㎎/일로 일반 영양섭취 기준이며, 치료 목적의 고용량 사용을 직접 제한하지는 않음
 * 장기간 고용량 사용 시에는 구리 결핍(빈혈, 신경병증) 위험을 고려하여 기간과 구리 상태를 함께 모니터링
 * 혈청 아연 측정 고려 : 영양불량, 흡수장애, 만성 설사, 만성 간·신질환 등 결핍 위험이 있거나 임상적으로 아연 결핍이 의심되는 경우
 * tetracycline·quinolone계 항생제, penicillamine과는 아연이 흡수를 저하시킬 수 있어 복용 간격을 두거나 제품별 허가사항을 확인
@@ -328,7 +328,7 @@ flowchart TD
 
 * 기저질환 치료 : 갑상선 기능 저하증, 당뇨병 등 교정 가능한 원인 우선 치료
 * 원인 약물 중단 또는 대체제 변경 : 금속성 맛, 미각 장애 유발 약물 확인 후 가능하면 교체
-* Vitamin A intranasal (비강 내 레티놀) : 초기 소규모·후향적 연구에서는 후각 상피 재생 가능성이 제시되었으나, 2026년 APOLLO 이중맹검 위약대조 RCT(post-COVID 후각 장애, 9,000 <mark style="background-color:yellow;">IU/일</mark> 12주)에서는 객관적 후각기능에 유의한 개선이 확인되지 않음(삶의 질 하위 지표 일부만 개선)
+* Vitamin A intranasal (비강 내 레티놀) : 초기 소규모·후향적 연구에서는 후각 상피 재생 가능성이 제시되었으나, 2026년 APOLLO 이중맹검 위약대조 RCT(post-COVID 후각 장애, 9,000 IU/일 12주)에서는 객관적 후각기능에 유의한 개선이 확인되지 않음(삶의 질 하위 지표 일부만 개선)
   * 비-COVID 감염 후 후각 장애에서의 효과도 확립되지 않아 일상적으로 권고하지 않음
 * 기타 실험적 치료(정량적 후각 장애 및 이취증 전반에 대해 연구됨, parosmia 특이 치료는 아님)
   * theophylline·sodium citrate·비강 내 인슐린은 소규모·단기 연구에서 일부 지표 개선 신호가 있었으나 표본 크기와 연구 설계가 이질적이어서 표준 치료로 권고되지 않음
@@ -376,7 +376,7 @@ flowchart TD
 > 1일 총량을 qd 또는 2회 분할하여 복용, 8~12주 후 재평가
 > ```
 >
-> _✽ 제품마다 아연염 종류(황산아연, 글루콘산아연 등)에 따라 정제당 원소 아연 함량이 다르므로, 실제 처방·권고 시 사용 제품의 원소 아연 함량을 확인; <mark style="background-color:yellow;">의약품(전문·일반)인지 건강기능식품인지 구분하여 안내</mark>; <mark style="background-color:yellow;">혈청 아연 수치 해석은 본문 참조</mark>; 미각 장애에 대한 단일 표준 용량은 확립되지 않았으므로 결핍 정도·제제·환자 상태에 따라 조정; 고용량을 장기간 사용할 경우 구리 결핍(빈혈, 신경병증) 위험을 고려하여 모니터링; 결핍이 확인되지 않았고 결핍 위험도 낮은 경우 routine 보충은 권고되지 않음_
+> _✽ 제품마다 아연염 종류(황산아연, 글루콘산아연 등)에 따라 정제당 원소 아연 함량이 다르므로, 실제 처방·권고 시 사용 제품의 원소 아연 함량을 확인; 의약품(전문·일반)인지 건강기능식품인지 구분하여 안내; 혈청 아연 수치 해석은 본문 참조; 미각 장애에 대한 단일 표준 용량은 확립되지 않았으므로 결핍 정도·제제·환자 상태에 따라 조정; 고용량을 장기간 사용할 경우 구리 결핍(빈혈, 신경병증) 위험을 고려하여 모니터링; 결핍이 확인되지 않았고 결핍 위험도 낮은 경우 routine 보충은 권고되지 않음_
 
 ***
 
@@ -387,7 +387,7 @@ flowchart TD
 > 1. 사용 전 용기를 흔들고 제품 설명서에 따라 시험 분무합니다. 코를 가볍게 푼 뒤 머리를 약간 앞으로 숙이고, 분사구를 비중격을 피해 바깥쪽 벽으로 향하게 하여 가볍게 숨을 들이쉬며 분무합니다. 강하게 들이마시지 말고 처방된 용량을 꾸준히 사용하십시오.
 > 2. 후각 틈새(Olfactory cleft)로의 전달을 높이기 위한 여러 두부 자세·점적액·irrigation 제형이 연구되었으나, 특정 두부 자세를 표준으로 일률적으로 권고할 근거는 충분하지 않습니다. CRS 등에서는 전문의 판단에 따라 다른 제형을 고려할 수 있습니다.
 > 3. 원인 질환과 치료 반응에 따라 보통 수주간 꾸준히 사용한 뒤 효과를 평가합니다.
-> 4. 장기 사용 시 비점막 자극, 코피가 생길 수 있습니다 - 심할 경우 의사와 상의하십시오.
+> 4. 장기 사용 시 비점막 자극, 코피가 생길 수 있습니다 - 심할 경우 주치의와 상의하십시오.
 
 > **후각 훈련 - 바이러스 감염 후(COVID-19 포함) 후각 장애**
 >
@@ -402,7 +402,7 @@ flowchart TD
 >
 > 1. 아연 결핍이 확인되었거나 결핍 위험이 높은 미각 장애에서 보충을 고려합니다. 원인 불명의 후각 장애에 routine 보충은 권고되지 않습니다.
 > 2. 실용적 보충 예로 원소 아연 25\~40 ㎎/일을 사용할 수 있으나 미각 장애의 단일 표준 용량은 아니며, 결핍 정도·제제·환자 상태에 따라 조정합니다. 8\~12주 후 재평가합니다.
-> 3. 2025 한국인 영양소 섭취기준상 성인의 아연 상한섭취량(UL)은 원소 아연 35 <mark style="background-color:yellow;">㎎/일</mark>입니다. 이는 음식과 모든 보충제를 합한 일반적인 총 영양섭취 기준이며, 의사가 결핍 치료 목적으로 이보다 높은 용량을 처방할 수 있습니다. 다만 고용량을 장기간 복용하면 구리 결핍(빈혈, 신경병증)이 생길 수 있으므로 임의로 장기간 복용하지 마시고 정기적으로 진료받으십시오.
+> 3. 2025 한국인 영양소 섭취기준상 성인의 아연 상한섭취량(UL)은 원소 아연 35 ㎎/일입니다. 이는 음식과 모든 보충제를 합한 일반적인 총 영양섭취 기준이며, 의사가 결핍 치료 목적으로 이보다 높은 용량을 처방할 수 있습니다. 다만 고용량을 장기간 복용하면 구리 결핍(빈혈, 신경병증)이 생길 수 있으므로 임의로 장기간 복용하지 마시고 정기적으로 진료받으십시오.
 > 4. 영양불량, 흡수장애, 만성 설사, 만성 간·신질환 등 아연 결핍 위험이 있거나 임상적으로 의심되는 경우 혈청 아연 측정을 고려합니다.
 > 5. 퀴놀론·테트라사이클린계 항생제와 함께 복용하면 흡수가 감소할 수 있습니다. 항생제를 아연보다 적어도 2시간 먼저 또는 아연 복용 4\~6시간 후에 복용하되 제품별 간격을 확인하십시오. Penicillamine은 최소 1시간 간격을 둡니다.
 > 6. 경구 아연만 안내합니다. 비강 스프레이·젤 형태의 아연 제제는 영구적 후각 소실을 유발할 수 있어 환자가 임의로 구입해 사용하지 않도록 반드시 확인하고 안내합니다.
@@ -425,7 +425,7 @@ flowchart TD
 * [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
 * [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2):94-104.](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
 * [Yeap ZH, et al. The APOLLO trial: a proof-of-concept study for vitamin A nasal drops in COVID-19-related postinfectious olfactory dysfunction. Chem Senses. 2026;51:bjag001.](https://doi.org/10.1093/chemse/bjag001) - 비강 vitamin A의 위약대조 시험 결과; 다른 감염 후 후각 장애에 일괄 적용하지 않음
-* [Farrell NF, et al. Stellate Ganglion Block for the Treatment of COVID-19-Induced Parosmia: A Randomized Clinical Trial. JAMA Otolaryngol Head Neck Surg. 2025;151(8):741-749.](https://doi.org/10.1001/jamaoto.2025.1304) - 위약대조 시험에서 유의한 효과 없음
+* [Farrell NF, et al. Stellate Ganglion Block for the Treatment of COVID-19-Induced Parosmia: A Randomized Clinical Trial. JAMA Otolaryngol Head Neck Surg. 2025;151(8):741-749.](https://doi.org/10.1001/jamaoto.2025.1304) - 위약 대비 유의한 개선 없음
 * [Mozaffar B, et al. The Effectiveness of Zinc Supplementation in Taste Disorder Treatment: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Nutr Metab. 2023;2023:6711071.](https://doi.org/10.1155/2023/6711071) - 미각 장애에서 아연 보충의 효과와 제형·용량·평가법 차이
 * [Vaidyanathan S, et al. Treatment of chronic rhinosinusitis with nasal polyposis with oral steroids followed by topical steroids: a randomized trial. Ann Intern Med. 2011;154(5):293-302.](https://doi.org/10.7326/0003-4819-154-5-201103010-00003) - CRSwNP에서 prednisolone 25 ㎎/일 2주 후 국소 스테로이드 유지; 처방례 2 용량 근거
 
@@ -451,11 +451,11 @@ flowchart TD
 
 #### <mark style="color:$primary;">후각 훈련 방법 (하루 2회, 최소 12주 이상)</mark>
 
-* 장미, 유칼립투스, 레몬, 정향(Clove) 등 **4가지 향을 각각 10\~20초씩** <mark style="background-color:yellow;">맡으십시오.</mark>
-* 무리하게 깊이 들이마시기보다 **부드럽게 짧게 냄새를 맡는 것**이 도움이 된다고 알려져 <mark style="background-color:yellow;">있습니다.</mark>
-* 냄새를 맡을 때 해당 사물(예: 장미꽃)을 **머릿속으로 떠올리면서 집중**하면 도움이 될 수 <mark style="background-color:yellow;">있습니다.</mark>
-* **최소 12주 이상** 꾸준히 시행하고, 필요에 따라 더 장기간 지속할 수 <mark style="background-color:yellow;">있습니다.</mark>
-* 12주마다 사용하는 향의 조합을 바꾸는 modified olfactory training도 연구되어 있습니다. 다만 표준 4종 향 훈련보다 확실히 더 효과적이라고 단정할 근거는 아직 충분하지 <mark style="background-color:yellow;">않습니다.</mark>
+* 장미, 유칼립투스, 레몬, 정향(Clove) 등 **4가지 향을 각각 10\~20초씩** 맡으십시오.
+* 무리하게 깊이 들이마시기보다 **부드럽게 짧게 냄새를 맡는 것**이 도움이 된다고 알려져 있습니다.
+* 냄새를 맡을 때 해당 사물(예: 장미꽃)을 **머릿속으로 떠올리면서 집중**하면 도움이 될 수 있습니다.
+* **최소 12주 이상** 꾸준히 시행하고, 필요에 따라 더 장기간 지속할 수 있습니다.
+* 12주마다 사용하는 향의 조합을 바꾸는 modified olfactory training도 연구되어 있습니다. 다만 표준 4종 향 훈련보다 확실히 더 효과적이라고 단정할 근거는 아직 충분하지 않습니다.
 
 #### <mark style="color:$primary;">이취증(Parosmia) - "음식에서 이상한 냄새가 난다"고 하신다면</mark>
 
@@ -480,11 +480,11 @@ flowchart TD
 
 #### <mark style="color:$primary;">이럴 때는 진료가 필요합니다</mark>
 
-* 후각·미각 손실이 **3개월 이상 지속**되면 재평가를 받으십시오. 편측으로 지속되거나 점차 악화되며 코피·코 안 종괴가 동반되면 3개월을 기다리지 말고 신속히 <mark style="background-color:yellow;">진료받으십시오.</mark>
-* 머리를 다친 뒤 한쪽 코에서 맑은 물 같은 콧물이 흐르면 **즉시 응급 진료**를 <mark style="background-color:yellow;">받으십시오.</mark>
+* 후각·미각 손실이 **3개월 이상 지속**되면 재평가를 받으십시오. 편측으로 지속되거나 점차 악화되며 코피·코 안 종괴가 동반되면 3개월을 기다리지 말고 신속히 진료받으십시오.
+* 머리를 다친 뒤 한쪽 코에서 맑은 물 같은 콧물이 흐르면 **즉시 응급 진료**를 받으십시오.
 * 갑작스러운 후각·미각 이상과 함께 심한 두통·시야 이상·얼굴이나 팔다리 마비·감각 저하·말이 어눌해짐·의식 변화 등이 동반되는 경우 - **119 또는 응급실로 즉시 이동**
 * 얼굴 한쪽이 갑자기 처지거나 마비되면 **즉시 119에 연락하십시오**. 말이 어눌해짐·팔다리 마비·감각 저하·복시·보행 이상이 동반되면 특히 응급 상황입니다.
-* 특정 약물 복용 후 미각 이상이 생긴 경우 - 임의로 약을 중단하지 말고 의사와 <mark style="background-color:yellow;">상의하십시오.</mark>
+* 특정 약물 복용 후 미각 이상이 생긴 경우 - 임의로 약을 중단하지 말고 주치의와 상의하십시오.
 * 냄새가 왜곡되어 불쾌한 냄새로 느껴지거나(이취증, Parosmia), 실제로 없는 냄새가 느껴지는 경우(환각취, Phantosmia) - 특히 새로 발생한 경우
 * 체중이 지속적으로 감소하거나 식사가 어려운 경우
-* 후각·미각 소실로 인한 **우울감, 고독감**이 생기면 주치의와 <mark style="background-color:yellow;">상담하십시오.</mark> (☞ [우울증](../221_/027_-depression.md))
+* 후각·미각 소실로 인한 **우울감, 고독감**이 생기면 주치의와 상담하십시오(☞ [우울증](../221_/027_-depression.md)).
