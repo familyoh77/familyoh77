@@ -235,7 +235,7 @@ flowchart TD
 
 ***
 
-#### <mark style="color:$primary;">실험실 검사</mark>
+#### <mark style="color:$primary;">실험실 검사</mark><a href="#lab" id="lab"></a>
 
 <mark style="color:cyan;">**기본/핵심 검사**</mark>
 
