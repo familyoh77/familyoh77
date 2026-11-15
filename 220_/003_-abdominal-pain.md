@@ -9,13 +9,28 @@
   * 임신이 확인되면 자궁외임신을 반드시 배제
 * 복용 중인 약물을 반드시 확인
   * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
-  * 드물게 약물 유발 췌장염이 발생할 수 있음&#x20;
+  * 드물게 약물 유발 췌장염이 발생할 수 있음
     * 관련성이 보고된 약물 : azathioprine, valproate, thiazide계 이뇨제; 약제별 근거 수준은 다름
   * 스테로이드는 잠재적 위험인자이나 주요 원인은 아님
   * DPP-4 억제제 및 GLP-1 수용체 작용제도 췌장염 발생이 보고되나 인과성에는 논란이 있어 과도하게 강조하지 않되, 당뇨·비만 치료 중인 환자의 복통에서는 약물 복용력을 확인
   * SGLT2 억제제 복용 환자는 혈당이 정상 또는 경도 상승만 보이는 euglycemic DKA가 가능함을 우선 고려 (혈당만으로 DKA를 배제하지 말 것)
   * 항응고제·항혈소판제 복용 환자의 복통·옆구리 통증에서는 복직근 혈종(rectus sheath hematoma) 또는 후복막 출혈(retroperitoneal bleeding) 가능성 고려
   * metformin은 복통·설사·구역 등 소화기 부작용이 흔하며, 드물지만 탈수·신기능 저하 동반 시 metformin 관련 젖산산증(lactic acidosis) 가능성 고려
+
+- 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
+- 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심임
+- 고령(특히 당뇨병·신부전) 환자는 통증·발열·복부 강직 등이 경미하게 발현될 수 있어 중증 질환을 간과하기 쉬우므로 비전형적 증상에도 악성·혈관 질환 가능성을 항상 염두에 두어야 함
+- 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 임신 여부를 우선 확인하고 β-hCG를 시행
+  * 임신이 확인되면 자궁외임신을 반드시 배제
+- 복용 중인 약물을 반드시 확인
+  * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
+  * 드물게 약물 유발 췌장염이 발생할 수 있음&#x20;
+    * 관련성이 보고된 약물 : azathioprine, valproate, thiazide계 이뇨제; 약제별 근거 수준은 다름
+  * 스테로이드는 잠재적 위험인자이나 주요 원인은 아님
+  * DPP-4 억제제 및 GLP-1 수용체 작용제도 췌장염 발생이 보고되지만 인과성에는 논란이 있어 과도하게 강조하지 않되, 당뇨·비만 치료 중인 환자의 복통에서는 약물 복용력을 확인
+  * SGLT2 억제제 복용 환자는 혈당이 정상 또는 경도 상승만 보이는 euglycemic DKA가 가능함을 고려 - 혈당만으로 DKA를 배제하지 말 것
+  * 항응고제·항혈소판제 복용 환자의 복통·옆구리 통증에서는 복직근 혈종(rectus sheath hematoma) 또는 후복막 출혈(retroperitoneal bleeding) 가능성 고려
+  * metformin은 복통·설사·구역 등 소화기 부작용이 흔하며, 드물지만 탈수·신기능 저하 동반 시 metformin 관련 젖산산증(lactic acidosis) 가능성을 고려
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -63,30 +78,36 @@
 
 * 진찰, 활력징후, 병력 청취
 * 가임기 여성에서 자궁외임신 배제 : 소변 또는 혈청 β-hCG
-  * β-hCG 양성인 경우 단일 β-hCG 수치나 조기 초음파 음성만으로는 자궁외임신이 배제되지 않으므로, 임신 위치 미상(pregnancy of unknown location) 시 정량 β-hCG 추이·경질초음파 추적 필요
+  * β-hCG 양성 시 단일 β-hCG 수치나 조기 초음파 음성만으로는 자궁외임신이 배제되지 않으므로, 임신 위치가 미상(pregnancy of unknown location)인 경우 정량 β-hCG 추이·경질초음파 추적 필요
 
 #### <mark style="color:$primary;">실험실 검사</mark>
 
-* 기본 : CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase, UA
-  * 미분화 급성 복통의 초기 평가로 흔히 함께 시행하나, 병력·통증 위치·임상 가설에 따라 항목 조정 가능
-  * 간기능 : RUQ 통증·황달·담도 질환 의심 시 특히 유용
-  * lipase : 상복부 통증 등 췌장염 의심 시 amylase보다 우선 시행 - 진단 정확도가 높고 상승이 더 오래 지속되어(lipase 약 8\~14일, amylase 약 3\~5일) 증상 발생 후 수일이 지나 내원한 경우에도 유용
-    * 임상적으로 췌장염이 의심되면 증상 발생 시점과 관계없이 검사
-  * UA : 요로 증상·옆구리 통증 또는 임신 관련 감별 시
-* 추가 고려
-  * β-hCG : 임신 가능성이 있는 가임기 여성
-  * CRP/ESR : 염증 정도 평가
-  * coagulation : 출혈 의심
-  * lactate : 장간막 허혈 의심 - 초기에는 정상일 수 있으므로 음성이어도 배제 불가
-  * 혈당·혈중 β-hydroxybutyrate(우선)·전해질·bicarbonate·정맥혈가스 : 당뇨 환자에서 DKA에 의한 가성 복막염 평가 - SGLT2 억제제 복용 환자는 euglycemic DKA가 가능하므로 혈당만으로 배제하지 않음; anion gap은 보조적으로 해석하며, 혈중 케톤을 측정할 수 없으면 소변 케톤을 사용하되 초기 위음성 가능성에 유의 <mark style="color:$info;">\[ADA/EASD 등 2024]</mark>
+**기본**&#x20;
+
+* CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase, UA
+* 미분화 급성 복통의 초기 평가로 흔히 함께 시행하나, 병력·통증 위치·임상 가설에 따라 항목 조정 가능
+* 간기능 : RUQ 통증·황달·담도 질환 의심 시 특히 유용
+* lipase : 상복부 통증 등 췌장염 의심 시 amylase보다 우선 시행 - 진단 정확도가 높고 상승이 더 오래 지속되어(lipase 약 8\~14일, amylase 약 3\~5일) 증상 발생 후 수일이 지나 내원한 경우에도 유용
+  * 임상적으로 췌장염이 의심되면 증상 발생 시점과 관계없이 검사
+* UA : 요로 증상·옆구리 통증 또는 임신 관련 감별 시
+
+**추가 고려**
+
+* β-hCG : 임신 가능성이 있는 가임기 여성
+* CRP/ESR : 염증 정도 평가
+* coagulation : 출혈 의심
+* lactate : 장간막 허혈 의심 - 초기에는 정상일 수 있으므로 음성이어도 배제 불가
+* 혈당, 혈중 β-hydroxybutyrate(우선), 전해질, bicarbonate, 정맥혈가스 : 당뇨 환자에서 DKA에 의한 가성 복막염 평가&#x20;
+  * SGLT2 억제제 복용 환자는 euglycemic DKA가 가능하므로 혈당만으로 배제하지 않음
+  * anion gap은 보조적으로 해석하며, 혈중 케톤을 측정할 수 없으면 소변 케톤을 사용하되 초기 위음성 가능성에 유의 <mark style="color:$info;">\[ADA/EASD 등 2024]</mark>
 
 <mark style="color:cyan;">**Lab 해석**</mark>
 
-<table><thead><tr><th width="256">검사 소견</th><th>시사 질환</th></tr></thead><tbody><tr><td>AST/ALT 현저히 상승</td><td>간염 (바이러스·허혈·약물)</td></tr><tr><td>ALP + bilirubin 상승</td><td>담도 폐쇄</td></tr><tr><td>Lipase ≥3×ULN(upper limit of normal) + 전형적 상복부 통증</td><td>급성 췌장염 (Revised Atlanta Criteria: ① 전형적 통증, ② lipase/amylase ≥3×ULN, ③ 영상 소견 중 2개 이상 충족 시 진단)</td></tr><tr><td>Lactate 상승</td><td>장간막 허혈, 패혈증; 단, 정상 lactate가 장간막 허혈을 배제하지는 못함(초기에는 정상일 수 있음)</td></tr><tr><td>WBC 현저히 상승 + CRP 상승</td><td>염증성·감염성 복강내 질환 가능성을 높이나 비특이적; 단독으로 세균감염·충수염을 확진하거나 배제할 수 없음; procalcitonin은 중증도 평가 등 보조적 역할이 연구되고 있으나 미분화 복통의 routine 선별검사로는 아직 근거가 확립되지 않음</td></tr><tr><td>β-hCG 양성</td><td>임신 (자궁외임신 배제 필수)</td></tr></tbody></table>
+<table><thead><tr><th width="256">검사 소견</th><th>시사 질환</th></tr></thead><tbody><tr><td><strong>AST/ALT 현저히 상승</strong></td><td>간염 (바이러스·허혈·약물)</td></tr><tr><td><strong>ALP + bilirubin 상승</strong></td><td>담도 폐쇄</td></tr><tr><td><strong>Lipase ≥3×ULN(upper limit of normal) + 전형적 상복부 통증</strong></td><td>급성 췌장염 (Revised Atlanta Criteria: ① 전형적 통증, ② lipase/amylase ≥3×ULN, ③ 영상 소견 중 2개 이상 충족 시 진단)</td></tr><tr><td><strong>Lactate 상승</strong></td><td>장간막 허혈, 패혈증; 단, 정상 lactate가 장간막 허혈을 배제하지는 못함</td></tr><tr><td><strong>WBC 현저히 상승 + CRP 상승</strong></td><td>충수염, 담낭염, 게실염 등 염증성·감염성 질환 (비특이적 - 단독으로 확진·배제 불가)</td></tr><tr><td><strong>β-hCG 양성</strong></td><td>임신 (자궁외임신 배제 필수)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">심전도(ECG)</mark> <a href="#acs-evaluation" id="acs-evaluation"></a>
 
-* 고령 또는 심혈관 위험인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 고감도 심장 트로포닌(high-sensitivity cardiac troponin, hs-cTn)을 적극 고려(☞ [흉통](002_-chest-pain.md))
+* 고령 또는 심혈관 위험인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 고감도 심장 트로포닌(high-sensitivity cardiac troponin, hs-cTn) 검사를 적극 고려
   * ACS가 의심되면 다른 원인 평가와 병행하여 ECG를 신속히 시행하고 hs-cTn을 평가함; 외래에서 검사 결과를 기다리느라 응급 이송을 지연하지 않음
   * 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않음. 증상 발생 시각·임상적 의심도와 검증된 hs-cTn 배제 경로에 따라 판단하며, 필요시 반복 검사 <mark style="color:$info;">\[ACC/AHA 등 2025]</mark>
 * 여성, 고령자, 당뇨병 환자에서는 ACS가 흉통 없이 상복부 통증·구역·피로감 등으로 나타날 수 있으므로 ECG 검사를 적극 고려함
