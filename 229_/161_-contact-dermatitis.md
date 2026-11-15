@@ -228,13 +228,13 @@ flowchart TD
 #### <mark style="color:$primary;">[스테로이드](../231_/211_-topical-corticosteroids.md)</mark>
 
 * 병변의 부위·두께·중증도에 맞는 역가를 선택
-* 도포 횟수는 제품 허가사항과 역가에 따라 설정. 모리코트크림(mometasone)은 1일 1회, 하티손로션(hydrocortisone)은 **사용 전 잘 흔들어 1일 1\~3회** 도포함. **하티손로션1%·2.5%는 치료기간 7일 이내**이며, 호전 시 가능한 한 빨리 중단함. 제품 변경 시 횟수·기간을 해당 제품에 맞추어 조정
+* 도포 횟수는 제품 허가사항과 역가에 따라 설정. [모리코트크림](https://www.health.kr/drug/A11AOOOOO0860)(mometasone)은 1일 1회, [하티손로션](https://www.health.kr/drug/A11AOOOOO4636)(hydrocortisone)은 **사용 전 잘 흔들어 1일 1\~3회** 도포함. **하티손로션1%·2.5%는 치료기간 7일 이내**이며, 호전 시 가능한 한 빨리 중단함. 제품 변경 시 횟수·기간을 해당 제품에 맞추어 조정
 * 얼굴·눈꺼풀·목·겨드랑이·사타구니 등 얇은/겹치는 부위 : 저역가를 짧게 사용
-  * hydrocortisone 1\~2.5% lotion <mark style="color:blue;">\[하티손로션]</mark>
+  * hydrocortisone 1\~[2.5%](https://www.health.kr/drug/A11AOOOOO4638) lotion <mark style="color:blue;">\[하티손로션]</mark>
 * 몸통·사지 : 중간 역가
   * mometasone furoate 0.1% cream <mark style="color:blue;">\[모리코트크림]</mark> - 크림과 연고의 역가를 동일하게 간주하지 않음. **KADA 2025 기준 0.1% 크림은 Class III\~IV, 연고는 Class II**로 구분함. 모리코트크림은 **2세 이하 영아 금기**, 소아 3주 이상 연용하지 않으며 밀봉붕대법을 삼감
 * 손바닥·발바닥 또는 심한 태선화 병소 : 중\~고역가를 고려하고, 필요하면 초고역가를 **단기간만** 선택
-  * clobetasol propionate 0.05% 크림 <mark style="color:blue;">\[베타베이트크림]</mark>
+  * clobetasol propionate 0.05% 크림 <mark style="color:blue;">\[[베타베이트크림](https://www.health.kr/drug/A11A1590B0021)]</mark>
   * **초고역가** 제제임을 구분하며 1일 1\~2회 단기 사용. 2주 이상 연속 치료·주 50 g 초과 사용을 피하며 24개월 미만은 금기임; 얼굴·간찰부에는 사용하지 않음
 * 급성기 호전 후에는 도포 횟수·역가를 줄이거나 중단
 * 백선·단순포진·옴 등 감염성 질환을 스테로이드로만 치료하지 않음. 치료 후 오히려 악화되면 감염·오진과 함께 스테로이드 또는 첨가제에 대한 ACD를 검토
@@ -251,14 +251,14 @@ flowchart TD
 * 접촉피부염에서의 사용은 off-label이며, 특히 소아 접촉피부염에 대한 유효성 근거는 제한적
 * 감염이 있는 부위는 먼저 평가·치료하고, 눈·점막에는 도포하지 않으며 밀폐 사용과 과도한 자외선 노출을 피함
 * 보습제 병용은 성분별로 구분함: tacrolimus는 같은 부위 보습제와 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함.
-* tacrolimus 0.1% ointment <mark style="color:blue;">\[프로토픽]</mark> : 아래 처방례는 성인용. 0.1%는 아토피피부염에서 만 16세 이상에 허가된 농도이며 소아에 그대로 적용하지 않음
-* pimecrolimus 1% <mark style="color:blue;">\[엘리델]</mark>
+* tacrolimus 0.1% ointment <mark style="color:blue;">\[[프로토픽](https://www.health.kr/drug/A11AJJJJJ0725)]</mark> : 아래 처방례는 성인용. 0.1%는 아토피피부염에서 만 16세 이상에 허가된 농도이며 소아에 그대로 적용하지 않음
+* pimecrolimus 1% <mark style="color:blue;">\[[엘리델](https://www.health.kr/drug/2018040900040)]</mark>
 
 #### <mark style="color:$primary;">항생제</mark>
 
 * **routine prophylactic topical antibiotics는 권고하지 않음**
 * 국소 농가진성 병변 등 제한적인 이차 세균감염이 명확한 경우에만 고려
-  * mupirocin 2% bid\~tid <mark style="color:blue;">\[에스로반]</mark>
+  * mupirocin 2% bid\~tid <mark style="color:blue;">\[[에스로반](https://www.health.kr/drug/A11A2190A0223)]</mark>
 * bacitracin, neomycin 등은 자체적으로 ACD를 유발할 수 있어 반복·경험적 사용을 피함
 * 스테로이드/항생제 복합제도 명확한 감염이 없는 단순 접촉피부염에 routine으로 사용하지 않음
 
@@ -269,18 +269,18 @@ flowchart TD
 * 대상 : 소양증에 대한 **보조요법**
 * 피부염 자체의 염증을 치료하는 약은 아님
 * 야간 소양증과 수면장애가 심하면 진정성 1세대 항히스타민제를 단기간 고려
-  * hydroxyzine : 야간 보조요법으로 10\~20 ㎎ hs부터 단기간 고려 <mark style="color:blue;">\[아디팜]</mark>
+  * hydroxyzine : 야간 보조요법으로 10\~20 ㎎ hs부터 단기간 고려 <mark style="color:blue;">\[[아디팜](https://www.health.kr/drug/A11AFFFFF0070)]</mark>
     * 피부과 영역 허가 용법은 1일 30\~60 ㎎을 2\~3회 분할, 연령·증상에 따라 증감; 야간 단회 저용량은 증상에 따른 조절 용법
     * **금기** : 임신 또는 임신 가능성이 있는 여성·수유부, 급성 폐쇄각 녹내장, 포르피린증, 해당 성분·관련 유도체 과민증 등
     * **QT 연장·torsades de pointes 위험** : 선천성/후천성 QT 연장, 심혈관계 질환·유의한 서맥·저칼륨/저마그네슘혈증·급성 심장사 가족력 또는 QT 연장 약물 병용은 금기. 예를 들어 escitalopram 등과 병용하지 않음. 고령자는 원칙적으로 비권장하며 부득이한 경우 최대 50 ㎎/d; 성인 최대 100 ㎎/d
-  * chlorpheniramine : 허가 용법 **1회 2\~6 ㎎, 1일 2\~4회**, 최대 24 ㎎/d <mark style="color:blue;">\[페니라민]</mark>
+  * chlorpheniramine : 허가 용법 **1회 2\~6 ㎎, 1일 2\~4회**, 최대 24 ㎎/d <mark style="color:blue;">\[[페니라민](https://www.health.kr/drug/A11A0450A0085)]</mark>
   * 고령자, 낙상 위험, 항콜린성 부작용에 주의; 다른 진정제·음주를 피하고 항히스타민제를 관행적으로 중복 처방하지 않음
 * 주간 소양증에는 비진정성/저진정성 2세대 항히스타민제를 고려할 수 있으나, 접촉피부염의 소양증은 주로 histamine-mediated가 아니므로 **효과가 제한적일 수 있음**
-  * cetirizine : 성인 10 ㎎ qd(취침 전) <mark style="color:blue;">\[지르텍]</mark>
+  * cetirizine : 성인 10 ㎎ qd(취침 전) <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>
     * 신장애에서는 감량/간격 조절 필요: 성인 CLcr 30\~49 ㎖/min은 5 ㎎ qd, 10\~29 ㎖/min은 5 ㎎ 격일; **CLcr ＜10 ㎖/min은 금기**
     * 지르텍정의 허가 적응증에는 피부가려움증이 포함되며, 별도의 **습진·피부염 허가 문구는 하이드로코티손 외용제와 병용**하는 조건을 명시함. 이를 모든 국소 스테로이드와의 병용에 대한 동일한 허가 근거로 확대하지 않음. 허가와 접촉피부염 가려움에서의 제한적인 효과를 구분함 <mark style="color:$info;">\[지르텍정 허가사항]</mark>
-  * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark> - 접촉피부염 소양증에는 허가 외 사용
-  * fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[알레그라]</mark> - 접촉피부염 소양증에는 허가 외 사용
+  * loratadine : 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://www.health.kr/drug/2009091800015)]</mark> - 접촉피부염 소양증에는 허가 외 사용
+  * fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[[알레그라](https://www.health.kr/drug/A11ABBBBB1394)]</mark> - 접촉피부염 소양증에는 허가 외 사용
 * **doxepin 3\~6 ㎎ \[사일레노]은 불면증 용량의 제제로 접촉피부염 소양증 치료제로 사용하지 않음**
 * 신·간기능에 따른 감량·금기, 임신·수유 제한 및 장기 복용 중단 후 가려움 등 제품별 안전성은 212 항히스타민제를 참조함. Cetirizine을 두드러기에서처럼 4배 증량하는 원칙을 접촉피부염에 적용하지 않음
 
@@ -306,7 +306,7 @@ flowchart TD
 
 * 원인 회피와 적절한 국소 치료에도 지속되는 중증 만성 손습진/광범위 피부염은 피부과 의뢰
   * 만성 손습진은 손습진이 3개월 이상 지속되거나 12개월 이내 2회 이상 재발하는 경우를 말함
-* delgocitinib 2% cream(topical pan-JAK inhibitor) <mark style="color:blue;">\[앤줍고크림]</mark>
+* delgocitinib 2% cream(topical pan-JAK inhibitor) <mark style="color:blue;">\[[앤줍고크림](https://www.health.kr/drug/2025090900005)]</mark>
   * **허가(2025-09-08)** : 국소 스테로이드 치료에 반응하지 않거나 해당 치료가 적절하지 않은 성인의 중등증\~중증 만성 손습진. ICD·ACD·아토피성 등 여러 원인이 포함될 수 있으나 일반 접촉피부염 전체의 적응증은 아님
   * **용법** : 손·손목 환부에 1일 2회(약 12시간 간격) 얇게 도포하고 깨끗해지거나 거의 깨끗해질 때까지 치료; 재발 시 재시작 가능. 12주 후 개선이 없으면 중단 고려
   * 동일 부위에 다른 국소 제제를 함께 적용하는 것은 권장되지 않음. 도포 직전·직후 다른 국소 제품을 피하고, **도포 전후 2시간 이내 보습제 병용은 연구되지 않았음**을 구분하여 안내
@@ -314,7 +314,7 @@ flowchart TD
   * 2025년 DELTA FORCE 연구에서 성인의 중증 만성 손습진에 대한 경구 alitretinoin 대비 유효성을 확인했으나, 일반 급성 접촉피부염으로 확대하지 않음
   * **허가 대상은 성인**. EMA는 2026년 10월 갱신 정보에 12세 이상 청소년을 포함하지만 국내 허가로 해석하지 않음. 2026년 9월 약제급여평가위원회의 급여 적정성 인정은 **최종 급여 등재·시행과 구분**함. <mark style="color:$info;">\[HIRA 2026년 제9차 심의결과; 습진 챕터 참조]</mark>
 * dupilumab 등 생물학적제제는 **일반 ACD/ICD의 표준 치료가 아님**. 아토피피부염 적응증에 해당하는 손 병변과 비아토피성 ACD를 구분하며, 후자의 사용은 전문의가 제한된 근거를 검토하여 판단하는 허가 외 사용임. 만성 손습진 연구 결과를 모든 접촉피부염으로 일반화하지 않음
-* 중증 만성 손습진에서 강력한 국소 스테로이드에 반응하지 않으면 **alitretinoin** <mark style="color:blue;">\[알리톡연질캡슐]</mark> 등 전문 치료를 고려할 수 있음. 임신·수유 금기와 임신예방프로그램, 지질·간기능 등 감시가 필요하며 일반 급성 접촉피부염에 사용하지 않음
+* 중증 만성 손습진에서 강력한 국소 스테로이드에 반응하지 않으면 **alitretinoin** <mark style="color:blue;">\[[알리톡연질캡슐](https://www.health.kr/drug/2013041600004)]</mark> 등 전문 치료를 고려할 수 있음. 임신·수유 금기와 임신예방프로그램, 지질·간기능 등 감시가 필요하며 일반 급성 접촉피부염에 사용하지 않음
 * cyclosporine·methotrexate 등은 단순 ACD/ICD에 관행적으로 사용하지 않으나, 난치성 중증 만성 손습진에서는 피부과에서 선택적으로 고려(허가 외 사용 및 감시 필요)
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -354,6 +354,8 @@ flowchart TD
 > 지르텍 10 ㎎/T　1T  qd(취침 전)  prn - 의미 있는 가려움이 있는 경우
 > ```
 >
+> 약제 정보: [하티손로션·2.5%](https://www.health.kr/drug/A11AOOOOO4638) · [지르텍·10 ㎎](https://www.health.kr/drug/A11ABBBBB2527)
+>
 > _✽경증 자극 접촉피부염은 원인 회피 및 보습만으로도 호전되는 경우가 많으며, 저역가 국소 스테로이드는 단기간만 사용_
 
 > **처방례 2. 손·몸통의 중등도 접촉피부염**
@@ -365,6 +367,8 @@ flowchart TD
 > 아디팜 10 ㎎/T　1~2T  hs  prn  단기간
 > ```
 >
+> 약제 정보: [모리코트크림·0.1%](https://www.health.kr/drug/A11AOOOOO0860) · [지르텍·10 ㎎](https://www.health.kr/drug/A11ABBBBB2527) · [아디팜·10 ㎎](https://www.health.kr/drug/A11AFFFFF0070)
+>
 > _✽성인의 손·몸통 병변 예이며 얼굴·눈꺼풀 처방으로 적용하지 않음. 모리코트크림은 하루 1회이며 밀봉붕대법을 삼감. Cetirizine은 의미 있는 가려움에 선택적으로 추가하는 예시이며, 지르텍정의 “습진·피부염에서 하이드로코티손 외용제 병용” 허가 조건과 모메타손 병용을 동일하게 기술하지 않음. 습윤 작업 관련이면 보호장갑·보습 등 비약물 조치를 함께 교육; 반응이 불충분하거나 초기부터 ACD·직업성 피부염이 강하게 의심되면 patch test 의뢰를 고려_
 
 > **처방례 3. 안면·눈꺼풀 등 얇은 피부 부위 접촉피부염**
@@ -375,6 +379,8 @@ flowchart TD
 > 환부에 얇게 도포  bid  (성인 steroid-sparing 요법, 접촉피부염에는 허가 외)
 > ```
 >
+> 약제 정보: [하티손로션·1%](https://www.health.kr/drug/A11AOOOOO4636) · [프로토픽연고·0.1%](https://www.health.kr/drug/A11AJJJJJ0725)
+>
 > _✽눈꺼풀·안면은 피부가 얇아 위축·모세혈관확장 위험이 높으므로 고역가 스테로이드의 장기 사용을 피함. 눈 안·점막에는 도포하지 않음. Tacrolimus는 초기에 작열감·따가움이 있을 수 있으며, 국소 치료에 반응이 없으면 항원 노출·감염·다른 진단을 재평가_
 
 > **처방례 4. 이차 세균감염이 동반된 접촉피부염**
@@ -383,6 +389,8 @@ flowchart TD
 > 에스로반연고 2%(mupirocin)　환부에  bid~tid  ×7일
 > 기저 피부염의 항염 치료는 감염 범위·중증도를 평가하여 국소 스테로이드 병행 고려
 > ```
+>
+> 약제 정보: [에스로반연고·2%](https://www.health.kr/drug/A11A2190A0223)
 >
 > _✽국소적인 농가진화 등 임상적으로 명확한 감염이 있을 때만 항생제를 사용하고, 기저 피부염의 항염 치료를 병행할 수 있음. cellulitis·광범위 impetiginization은 피부·연조직 감염 챕터 원칙에 따라 평가·치료_
 
@@ -395,6 +403,8 @@ flowchart TD
 > 병변 부위에 맞는 국소 스테로이드 병용
 > 야간 소양증 심하면 아디팜 10 ㎎/T　1~2T  hs  prn  단기간 고려
 > ```
+>
+> 약제 정보: [아디팜·10 ㎎](https://www.health.kr/drug/A11AFFFFF0070)
 >
 > _✽중증 Toxicodendron 피부염에서 짧은 투여 후 재악화를 줄이기 위한 처방 예. 모든 ACD에 14\~21일 투여를 적용하지 않으며, 최적 기간에 대한 고품질 비교근거는 제한적임_
 

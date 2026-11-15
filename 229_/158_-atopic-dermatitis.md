@@ -237,12 +237,12 @@ flowchart TD
 
 * 활동성 AD의 **1차 항염증 치료**임.
 * 병변의 중증도, 부위, 환자 연령과 피부 두께에 맞추어 적절한 역가와 제형을 선택함.
-* 대부분 **1일 1\~2회** 도포로 충분하나 제품별 허가 횟수를 따름(에로콤크림은 **1일 1회**). 충분한 양을 바르도록 FTU(fingertip unit)를 교육함.
+* 대부분 **1일 1\~2회** 도포로 충분하나 제품별 허가 횟수를 따름([에로콤크림](https://www.health.kr/drug/A11ADDDDD0446)은 **1일 1회**). 충분한 양을 바르도록 FTU(fingertip unit)를 교육함.
 * **1 FTU ≈0.5 g** : 지름 5 ㎜ 노즐에서 성인 검지 끝마디 길이만큼 짠 양으로, 손가락을 포함한 성인 손의 손바닥 쪽 면적 약 2개에 바를 수 있음. 소아는 연령·부위별 필요량을 조정함.
 * 얼굴·눈꺼풀·목·굴곡부·서혜부 등 피부가 얇은 부위는 저역가를 짧게 사용하거나 TCI로 전환함.
 * 두껍고 태선화된 병변에는 중등도\~고역가 제제를 제한된 기간 사용할 수 있음.
 * 급성 악화가 호전되면 도포 빈도를 줄이거나 낮은 역가로 전환할 수 있음. 재발이 잦은 부위는 proactive therapy를 고려함.
-* 대표 제제 : 중간 역가 hydrocortisone butyrate 0.1% <mark style="color:blue;">\[로코이드연고]</mark>·mometasone furoate 0.1% <mark style="color:blue;">\[에로콤크림]</mark>, 초고역가 clobetasol propionate 0.05% <mark style="color:blue;">\[베타베이트크림]</mark>. **KADA 2025 기준 mometasone 0.1% 연고는 Class II(고역가), 크림은 Class III\~IV(중간 역가)**로 구분함. AAFP 등 다른 표와의 분류 차이는 국소 스테로이드 챕터 참조(☞ p.1139). 단순 hydrocortisone과 hydrocortisone butyrate의 역가를 동일하게 간주하지 않음. <mark style="color:$info;">\[KADA 2025 Table 2]</mark>
+* 대표 제제 : 중간 역가 hydrocortisone butyrate 0.1% <mark style="color:blue;">\[로코이드연고]</mark>·mometasone furoate 0.1% <mark style="color:blue;">\[에로콤크림]</mark>, 초고역가 clobetasol propionate 0.05% <mark style="color:blue;">\[[베타베이트크림](https://www.health.kr/drug/A11A1590B0021)]</mark>. **KADA 2025 기준 mometasone 0.1% 연고는 Class II(고역가), 크림은 Class III\~IV(중간 역가)**로 구분함. AAFP 등 다른 표와의 분류 차이는 국소 스테로이드 챕터 참조(☞ p.1139). 단순 hydrocortisone과 hydrocortisone butyrate의 역가를 동일하게 간주하지 않음. <mark style="color:$info;">\[KADA 2025 Table 2]</mark>
 * 베타베이트크림은 1일 1\~2회 사용하되 **2주 이상 연속 치료·주 50 g 초과 사용을 피하며 24개월 미만은 금기**임. 초고역가 제제를 얼굴·눈꺼풀·간찰부의 기본 치료나 유지요법으로 사용하지 않으며, 소아의 일상적 기본 치료제로 선택하지 않음.
 
 {% hint style="warning" %}
@@ -251,10 +251,10 @@ flowchart TD
 
 ### <mark style="color:orange;">국소 칼시뉴린 억제제 (TCI)</mark>
 
-* tacrolimus ointment <mark style="color:blue;">\[프로토픽]</mark>, pimecrolimus cream <mark style="color:blue;">\[엘리델]</mark>
+* tacrolimus ointment <mark style="color:blue;">\[[프로토픽](https://www.health.kr/drug/A11AJJJJJ0724)]</mark>, pimecrolimus cream <mark style="color:blue;">\[[엘리델](https://www.health.kr/drug/2018040900040)]</mark>
 * 얼굴·눈꺼풀·목·굴곡부·서혜부 등 **민감 부위**, TCS 부작용이 우려되는 경우, 장기 steroid-sparing 치료에 유용함. TCS 등 기존 치료가 부적절하거나 반응·내약성이 불충분한 환자의 **2차 치료**로 허가되어 있으며, tacrolimus는 중등증\~중증, pimecrolimus는 경증\~중등증 AD를 대상으로 함.
 * 급성 염증이 심해 작열감이 큰 경우 먼저 TCS로 염증을 가라앉힌 뒤 TCI로 전환할 수 있음. 제품별 보관조건을 준수함.
-* **Tacrolimus 급성기** : 16세 이상은 0.1%를 1일 2회로 시작하고 호전 시 0.03% 또는 도포 횟수 감소를 고려함. 2\~15세는 0.03%를 1일 2회 **최대 3주**, 이후 병변 소실 시까지 1일 1회로 줄임. 2주 후 개선이 없으면 진단·치료를 재평가함.
+* **Tacrolimus 급성기** : 16세 이상은 [0.1%](https://www.health.kr/drug/A11AJJJJJ0725)를 1일 2회로 시작하고 호전 시 0.03% 또는 도포 횟수 감소를 고려함. 2\~15세는 0.03%를 1일 2회 **최대 3주**, 이후 병변 소실 시까지 1일 1회로 줄임. 2주 후 개선이 없으면 진단·치료를 재평가함.
 * **Tacrolimus 유지요법** : 초기 치료에 반응한 환자에서 재발 부위에 **주 2회, 도포일마다 1회(도포일 사이 2\~3일 간격)** 사용함. 2\~15세는 0.03%, 16세 이상은 0.1%의 유지요법을 기준으로 하며, 12개월 후 지속 필요성을 재평가함.
 * **Pimecrolimus** : 활동성 병변에 1일 2회 도포하고 증상 소실 시 중단함. 재발 첫 징후에 다시 시작하며, 6주 내 호전이 없거나 악화되면 진단을 재평가함. 모든 TCI에 동일한 주 2\~3회 유지 용법을 일률적으로 적용하지 않음. <mark style="color:$info;">\[프로토픽·엘리델 허가사항]</mark>
 * 보습제 병용 : tacrolimus와 같은 부위에 바를 때에는 **적어도 2시간 간격**을 두는 EMA 제품 지침을 참고함. Pimecrolimus는 도포 후 보습제 사용이 가능하므로 복약지도를 구분함(☞ p.1143).
@@ -264,7 +264,7 @@ flowchart TD
 ### <mark style="color:orange;">기타 국소 항염증제</mark>
 
 * **crisaborole 2% ointment (PDE-4 inhibitor)** : 미허가 약제임(KADA 2025). 해외 허가 내용을 처방에 직접 적용하지 않음.
-* **Delgocitinib 20 ㎎/g cream** <mark style="color:blue;">\[앤줍고]</mark> : 허가 적응증은 국소 TCS에 반응하지 않거나 TCS가 적절하지 않은 **성인의 중등증\~중증 만성 손습진**임. 전신 AD 또는 다른 부위 AD의 표준 국소제로 일반화하지 않음(습진 챕터 참조). 일본 등의 AD용 delgocitinib 제형·농도와도 구분함.
+* **Delgocitinib 20 ㎎/g cream** <mark style="color:blue;">\[[앤줍고](https://www.health.kr/drug/2025090900005)]</mark> : 허가 적응증은 국소 TCS에 반응하지 않거나 TCS가 적절하지 않은 **성인의 중등증\~중증 만성 손습진**임. 전신 AD 또는 다른 부위 AD의 표준 국소제로 일반화하지 않음(습진 챕터 참조). 일본 등의 AD용 delgocitinib 제형·농도와도 구분함.
 * **해외 치료 동향** : AAD 2025 성인 집중 개정과 2026 소아 지침은 tapinarof(AhR agonist)·roflumilast(PDE-4 inhibitor) 크림을 권고 목록에 포함함. 국소 ruxolitinib도 해외 AD 치료 옵션임. 해외 권고를 소개하는 내용으로, 이 챕터에서는 이들을 국내 표준 처방제로 제시하지 않음. <mark style="color:$info;">\[AAD AD 지침 2025·2026]</mark>
 
 ### <mark style="color:orange;">전신 스테로이드</mark>
@@ -310,7 +310,7 @@ flowchart TD
 임상에서는 흔히 **생물학적 제제(biologics)**라고 부르지만, 식품의약품안전처의 의약품 분류상 dupilumab, tralokinumab, lebrikizumab, nemolizumab은 유전자재조합 **생물의약품**에 해당함.
 {% endhint %}
 
-<table><thead><tr><th>약제</th><th>표적</th><th>사용 대상</th><th>대표 용법</th><th>주요 주의점</th></tr></thead><tbody><tr><td><p><strong>Dupilumab</strong><br><mark style="color:blue;">[듀피젠트]</mark></p></td><td>IL-4Rα → IL-4/IL-13 억제</td><td>6개월 이상 소아~성인, 국소치료로 충분히 조절되지 않는 중등증 이상 AD</td><td>성인 : 600 ㎎ loading → 300 ㎎ SC q2wk. 소아·청소년은 체중별 용량</td><td>결막염, 안구 건조, 두경부 홍반. 장기 안전성 자료가 가장 풍부</td></tr><tr><td><p><strong>Tralokinumab</strong><br><mark style="color:blue;">[아트랄자]</mark></p></td><td>IL-13</td><td>12세 이상 청소년·성인</td><td>600 ㎎ loading → 300 ㎎ SC q2wk; 16주 후 피부가 깨끗하거나 거의 깨끗한 경우 q4wk 고려</td><td>상기도 감염, 결막염, 주사부위 반응</td></tr><tr><td><p><strong>Lebrikizumab</strong><br><mark style="color:blue;">[엡글리스]</mark></p></td><td>IL-13</td><td>성인 및 12세 이상 청소년(청소년 체중 ≥40 ㎏)</td><td>0·2주차 500 ㎎ → 16주까지 250 ㎎ SC q2wk; 반응 달성 후 250 ㎎ q4wk 또는 q8wk(국내 허가)</td><td>결막염, 안구 건조, 주사부위 반응</td></tr><tr><td><p><strong>Nemolizumab</strong><br><mark style="color:blue;">[넴루비오]</mark></p></td><td>IL-31Rα</td><td>전신요법 대상 12세 이상·체중 ≥30 ㎏ 청소년 및 성인; 국소치료 불충분/부적절한 중등증~중증 AD</td><td>초회 60 ㎎ → 4주부터 30 ㎎ SC q4wk; 16주 후 임상반응을 보이면 30 ㎎ q8wk 권고(국내 허가)</td><td>두드러기·과민반응, 천식 악화 주의; 결절성 양진 용법과 구분</td></tr></tbody></table>
+<table><thead><tr><th>약제</th><th>표적</th><th>사용 대상</th><th>대표 용법</th><th>주요 주의점</th></tr></thead><tbody><tr><td><p><strong>Dupilumab</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2018040200003">듀피젠트</a>]</mark></p></td><td>IL-4Rα → IL-4/IL-13 억제</td><td>6개월 이상 소아~성인, 국소치료로 충분히 조절되지 않는 중등증 이상 AD</td><td>성인 : 600 ㎎ loading → 300 ㎎ SC q2wk. 소아·청소년은 체중별 용량</td><td>결막염, 안구 건조, 두경부 홍반. 장기 안전성 자료가 가장 풍부</td></tr><tr><td><p><strong>Tralokinumab</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2023090100005">아트랄자</a>]</mark></p></td><td>IL-13</td><td>12세 이상 청소년·성인</td><td>600 ㎎ loading → 300 ㎎ SC q2wk; 16주 후 피부가 깨끗하거나 거의 깨끗한 경우 q4wk 고려</td><td>상기도 감염, 결막염, 주사부위 반응</td></tr><tr><td><p><strong>Lebrikizumab</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2024080600001">엡글리스</a>]</mark></p></td><td>IL-13</td><td>성인 및 12세 이상 청소년(청소년 체중 ≥40 ㎏)</td><td>0·2주차 500 ㎎ → 16주까지 250 ㎎ SC q2wk; 반응 달성 후 250 ㎎ q4wk 또는 q8wk(국내 허가)</td><td>결막염, 안구 건조, 주사부위 반응</td></tr><tr><td><p><strong>Nemolizumab</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2026012600004">넴루비오</a>]</mark></p></td><td>IL-31Rα</td><td>전신요법 대상 12세 이상·체중 ≥30 ㎏ 청소년 및 성인; 국소치료 불충분/부적절한 중등증~중증 AD</td><td>초회 60 ㎎ → 4주부터 30 ㎎ SC q4wk; 16주 후 임상반응을 보이면 30 ㎎ q8wk 권고(국내 허가)</td><td>두드러기·과민반응, 천식 악화 주의; 결절성 양진 용법과 구분</td></tr></tbody></table>
 
 * **IL-4/IL-13 계열 biologic에서는 JAK inhibitor와 달리 일률적인 CBC·간기능·결핵/간염 정기 screening이 필수는 아님.** 다만 감염 위험인자와 병력에 따라 치료 전 선별검사를 고려함.
 * dupilumab, tralokinumab, lebrikizumab 등 사용 중 결막염이 지속되면 안과 평가를 시행함. **안구통·광과민·시력저하는 당일 안과 평가**가 필요함.
@@ -331,7 +331,7 @@ flowchart TD
 * 반면 감염, 대상포진, 혈구·간기능·지질 변화, CPK 증가 및 고위험군에서 MACE/VTE/악성종양 위험을 고려해야 함.
 * **65세 이상, 심혈관계 고위험군(현재 또는 과거 장기 흡연자 포함), 악성종양 위험이 높은 환자에서는 다른 치료에 반응하지 않거나 내약성이 없는 경우에 제한하여 신중히 선택**함.
 
-<table><thead><tr><th>약제</th><th>표적</th><th>사용 대상</th><th>대표 용량</th></tr></thead><tbody><tr><td><p><strong>Baricitinib</strong><br><mark style="color:blue;">[올루미언트]</mark></p></td><td>JAK1/2</td><td>전신요법 대상 만 2세 이상 소아·청소년·성인</td><td>성인 및 ≥30 ㎏ 소아: 4 ㎎ qd; ≥65세/고위험군: 2 ㎎ qd; 10~＜30 ㎏ 소아: 2 ㎎ qd. 조절되면 감량 고려</td></tr><tr><td><p><strong>Upadacitinib</strong><br><mark style="color:blue;">[린버크]</mark></p></td><td>JAK1</td><td>12세 이상 청소년(≥40 ㎏) 및 성인</td><td>성인 및 ≥40 ㎏ 청소년: 15 ㎎ qd; 질병 부담이 높거나 15 ㎎ 반응이 불충분하면 30 ㎎ qd 고려. ≥65세/고위험군: 15 ㎎ qd</td></tr><tr><td><p><strong>Abrocitinib</strong><br><mark style="color:blue;">[시빈코]</mark></p></td><td>JAK1</td><td>전신요법 대상 만 12세 이상 청소년·성인(국내 적응증에 일률적인 ≥40 ㎏ 조건 없음)</td><td>성인: 특성에 따라 100 또는 200 ㎎ qd; 일반적으로 200 ㎎으로 시작 후 조절되면 100 ㎎으로 감량. <strong>12~17세·≥65세 또는 고위험/내약성 낮은 환자: 100 ㎎ qd로 시작</strong>. 신장애·상호작용에 따라 추가 감량</td></tr></tbody></table>
+<table><thead><tr><th>약제</th><th>표적</th><th>사용 대상</th><th>대표 용량</th></tr></thead><tbody><tr><td><p><strong>Baricitinib</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2017121200001">올루미언트</a>]</mark></p></td><td>JAK1/2</td><td>전신요법 대상 만 2세 이상 소아·청소년·성인</td><td>성인 및 ≥30 ㎏ 소아: <a href="https://www.health.kr/drug/2017121200002">4 ㎎</a> qd; ≥65세/고위험군: 2 ㎎ qd; 10~＜30 ㎏ 소아: 2 ㎎ qd. 조절되면 감량 고려</td></tr><tr><td><p><strong>Upadacitinib</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2020060500002">린버크</a>]</mark></p></td><td>JAK1</td><td>12세 이상 청소년(≥40 ㎏) 및 성인</td><td>성인 및 ≥40 ㎏ 청소년: 15 ㎎ qd; 질병 부담이 높거나 15 ㎎ 반응이 불충분하면 <a href="https://www.health.kr/drug/2022031600004">30 ㎎</a> qd 고려. ≥65세/고위험군: 15 ㎎ qd</td></tr><tr><td><p><strong>Abrocitinib</strong><br><mark style="color:blue;">[<a href="https://www.health.kr/drug/2021112400008">시빈코</a>]</mark></p></td><td>JAK1</td><td>전신요법 대상 만 12세 이상 청소년·성인(국내 적응증에 일률적인 ≥40 ㎏ 조건 없음)</td><td>성인: 특성에 따라 100 또는 <a href="https://www.health.kr/drug/2021112400007">200 ㎎</a> qd; 일반적으로 200 ㎎으로 시작 후 조절되면 100 ㎎으로 감량. <strong>12~17세·≥65세 또는 고위험/내약성 낮은 환자: 100 ㎎ qd로 시작</strong>. 신장애·상호작용에 따라 추가 감량</td></tr></tbody></table>
 
 * **Abrocitinib 청소년 용량** : 허가사항(소아에 대한 투여)은 12\~17세의 시작용량을 **100 ㎎ qd**로 명시함. 일반 성인의 “대부분 200 ㎎ 시작”을 청소년에게 일률적으로 적용하지 않음.
 
@@ -359,7 +359,7 @@ flowchart TD
 * AD 가려움의 주된 기전은 histamine만으로 설명되지 않으므로 **항히스타민제는 항염증 치료를 대체하지 못함.**
 * 경구 H1 항히스타민제를 국소치료의 **추가요법으로 선택적으로** 고려할 수 있음.
 * 심한 야간 가려움 때문에 단기간 수면 보조가 필요한 경우 진정성 1세대를 제한적으로 사용할 수 있으나, 주간 졸림·인지저하·낙상·항콜린성 부작용을 고려함.
-* 두드러기·알레르기비염 등 histamine-mediated 동반질환이 있으면 2세대 항히스타민제(예: cetirizine <mark style="color:blue;">\[지르텍]</mark>)가 더 적절함.
+* 두드러기·알레르기비염 등 histamine-mediated 동반질환이 있으면 2세대 항히스타민제(예: cetirizine <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>)가 더 적절함.
 * **국소 항히스타민제는 접촉감작 위험 때문에 권장하지 않음.**
 
 ### <mark style="color:orange;">감염 관리</mark>
@@ -487,6 +487,8 @@ flowchart TD
 > 프로토픽연고 0.1%(tacrolimus)　호전 후 재발 부위　주 2회 (proactive; 16세 이상)
 > ```
 >
+> 약제 정보: [에로콤크림·0.1%](https://www.health.kr/drug/A11ADDDDD0446) · [프로토픽연고·0.1%](https://www.health.kr/drug/A11AJJJJJ0725)
+>
 > _✽급성기 TCS로 조절 후 TCI로 전환하여 유지; TCI 초기 며칠 작열감 가능함을 미리 설명_\
 > _✽프로토픽 주 2회 유지요법의 허가 대상은 tacrolimus 1일 2회 초기 치료에 반응한 환자임. TCS만으로 조절한 경우에는 재발 부위 TCS 주 2회 간헐 도포를 대안으로 고려_\
 > _✽FTU 기준 충분량 도포 교육_
@@ -496,6 +498,8 @@ flowchart TD
 > ```
 > 프로토픽연고 0.03%(tacrolimus)　안면·눈꺼풀 피부 병변　급성기 1일 2회
 > ```
+>
+> 약제 정보: [프로토픽연고·0.03%](https://www.health.kr/drug/A11AJJJJJ0724)
 >
 > _✽TCS가 부적절하거나 효과·내약성이 불충분한 중등증\~중증 소아 AD의 처방 예; 경증 안면 습진은 저역가 TCS 단기 치료 등을 먼저 고려_\
 > _✽0.03%를 1일 2회 최대 3주 사용한 뒤 병변 소실 시까지 1일 1회로 줄임; 2주 내 호전이 없으면 재평가; 안구·결막·점막에 들어가지 않게 도포_
@@ -508,6 +512,8 @@ flowchart TD
 > 보습제 및 부위에 맞는 항염증 국소제　기저 습진에 병행
 > ```
 >
+> 약제 정보: [에스로반연고·2%](https://www.health.kr/drug/A11A2190A0223)
+>
 > _✽감염 조절과 항염증 치료를 동시에 진행; 장기·반복 항생제 사용은 내성 위험으로 피함_\
 > _✽48\~72시간 내 호전 없거나 악화 시 재평가; 반복 감염·치료 실패 시 배양검사 및 MRSA 위험 평가; 약물알레르기·신기능 확인_
 
@@ -516,6 +522,8 @@ flowchart TD
 > ```
 > 듀피젠트프리필드주 300 ㎎　SC　q2wk (초회 600 ㎎ loading)
 > ```
+>
+> 약제 정보: [듀피젠트프리필드주·300 ㎎](https://www.health.kr/drug/2018040200003)
 >
 > _✽충분한 국소치료(TCS/TCI)로 조절되지 않거나 국소치료가 적절하지 않은 중등증 이상 AD에서 피부과 의뢰 후 표적 전신치료를 고려_\
 > _✽약 3개월에 EASI 50 미달, itch NRS ≥4 또는 DLQI ≥6이면 치료전략 재평가; 약제별 허가 평가 시점·부분 반응을 함께 고려하며 자동 교체하지 않음_\

@@ -300,13 +300,13 @@ flowchart TD
 
 #### <mark style="color:$primary;">2세대(성인 표준 용량)</mark>
 
-* loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-* desloratadine : 5 ㎎ qd <mark style="color:blue;">\[에리우스]</mark>
-* cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
-* levocetirizine : 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>
-* fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
+* loratadine : 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://www.health.kr/drug/2009091800015)]</mark>
+* desloratadine : 5 ㎎ qd <mark style="color:blue;">\[[에리우스](https://www.health.kr/drug/A11AKP08G0615)]</mark>
+* cetirizine : 10 ㎎ qd <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>
+* levocetirizine : 5 ㎎ qd <mark style="color:blue;">\[[씨잘](https://www.health.kr/drug/A11AOOOOO3892)]</mark>
+* fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[[알레그라](https://www.health.kr/drug/A11ABBBBB1394)]</mark>
 * bilastine(국외 옵션) : 20 ㎎ qd; 음식·과일주스 섭취 1시간 전 또는 2시간 후 공복 복용. 국내 사용 가능한 품목·공급을 확인하지 못했으므로 국내 대표 처방례에는 포함하지 않음
-* mizolastine : 10 ㎎ qd <mark style="color:blue;">\[미졸렌]</mark> _(QT 연장 위험·상호작용을 고려하여 증량은 회피)_
+* mizolastine : 10 ㎎ qd <mark style="color:blue;">\[[미졸렌](https://www.health.kr/drug/A11AGGGGA2254)]</mark> _(QT 연장 위험·상호작용을 고려하여 증량은 회피)_
 
 * cetirizine·levocetirizine은 신기능에 따라 용량·투여간격을 조절하되 **제품별 평가 지표와 금기 기준을 구분함**. 지르텍정(cetirizine)은 CrCl 기준으로 조절하며 **CrCl ＜10 ㎖/min에서 금기**임. 씨잘정(levocetirizine)은 eGFR 기준으로 조절하며 **eGFR ＜15 ㎖/min 또는 혈액투석 환자에서 금기**임. 씨잘정은 eGFR 30\~＜60 ㎖/min에서 5 ㎎을 2일마다, 15\~＜30 ㎖/min의 비투석 환자는 5 ㎎을 3일마다 투여함. 성분별 상세 조절은 212 항히스타민제를 참조함 <mark style="color:$info;">[지르텍정·씨잘정 국내 허가사항]</mark>
 * fexofenadine은 신부전 성인에서 **60 ㎎ 1일 1회** 시작이 성분 용량으로 제시되나, 알레그라정180 ㎎ 품목의 신부전 관련 주의·금기 문구를 확인하고 180 ㎎정을 분할 투여하지 않음. 정상 신기능 성인의 표준·증량 용법을 신장애 환자에게 그대로 적용하지 않음 (☞ [만성 가려움증](157_-chronic-pruritus.md))
@@ -316,8 +316,8 @@ flowchart TD
 
 #### <mark style="color:$primary;">1세대(예외적 단기 사용)</mark>
 
-* hydroxyzine : **피부과 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할** <mark style="color:blue;">\[아디팜]</mark>. 성인 최대 100 ㎎/d; 가능한 최단 기간·최소 유효 용량. 고령자는 사용이 권장되지 않으며 불가피하면 성인 권장량의 절반으로 시작, 최대 50 ㎎/d. QT 연장·torsades de pointes 위험인자 및 병용 약물 확인
-* chlorpheniramine : **성인 1회 2\~6 ㎎, 1일 2\~4회**, 최대 24 ㎎/d <mark style="color:blue;">\[페니라민]</mark>. 고령자·요폐·녹내장·진정제 병용 등에 주의하며 가능하면 2세대로 대체
+* hydroxyzine : **피부과 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할** <mark style="color:blue;">\[[아디팜](https://www.health.kr/drug/A11AFFFFF0070)]</mark>. 성인 최대 100 ㎎/d; 가능한 최단 기간·최소 유효 용량. 고령자는 사용이 권장되지 않으며 불가피하면 성인 권장량의 절반으로 시작, 최대 50 ㎎/d. QT 연장·torsades de pointes 위험인자 및 병용 약물 확인
+* chlorpheniramine : **성인 1회 2\~6 ㎎, 1일 2\~4회**, 최대 24 ㎎/d <mark style="color:blue;">\[[페니라민](https://www.health.kr/drug/A11A0450A0085)]</mark>. 고령자·요폐·녹내장·진정제 병용 등에 주의하며 가능하면 2세대로 대체
 * 1세대 약제를 취침 전에 복용해도 다음 날 진정·운전 능력 저하가 남을 수 있음
 
 <p align="center"><em><mark style="color:$info;">Ref. 태극제약 아디팜정 및 유한양행 페니라민정 제품 허가정보.</mark></em></p>
@@ -336,14 +336,14 @@ flowchart TD
 
 #### <mark style="color:$primary;">경구</mark>
 
-* prednisolone : 성인 20\~40 ㎎/d(증상·체중에 따라 조정) ×3\~7일 <mark style="color:blue;">\[소론도]</mark>; 국제 두드러기 지침의 구조요법은 최장 10일 이내
+* prednisolone : 성인 20\~40 ㎎/d(증상·체중에 따라 조정) ×3\~7일 <mark style="color:blue;">\[[소론도](https://www.health.kr/drug/a11a4290b0015)]</mark>; 국제 두드러기 지침의 구조요법은 최장 10일 이내
   * 수일간 단독 단기요법에는 통상 감량이 필요하지 않음. **용량과 무관하게 ＜3\~4주 투여는 일반적으로 부신억제 예방 목적의 감량이 필요하지 않음**. 반복·기존 장기 투여력, 다른 스테로이드 노출, 부신억제 의심 소견이 있으면 개별 평가; 장기 투여 후에는 획일적인 감량 속도를 적용하지 않음
 
 #### <mark style="color:$primary;">Parenteral</mark>
 
 * 대상 : 경구 투여가 불가능한 심한 mast-cell-mediated 급성 악화에서 선택적으로 고려. IV 제제가 아나필락시스의 epinephrine을 대체하지 않으며, 경구 투여가 가능하면 경구 단기요법 우선
 * hydrocortisone : 200 ㎎ IV <mark style="color:blue;">\[솔루코테프주]</mark>
-* methylprednisolone : 40\~60 ㎎ IV <mark style="color:blue;">\[솔루메드롤주]</mark>
+* methylprednisolone : 40\~60 ㎎ IV <mark style="color:blue;">\[[솔루메드롤주](https://www.health.kr/drug/A11A3770A0039)]</mark>
 
 ### <mark style="color:orange;">HAE·AAE 치료 (Bradykinin 매개 - 항히스타민제·스테로이드·epinephrine 반응 불량)</mark>
 
@@ -351,11 +351,11 @@ flowchart TD
 
 #### <mark style="color:$primary;">급성발작치료</mark>
 
-* icatibant(bradykinin B2 receptor antagonist) <mark style="color:blue;">\[피라지르]</mark> : 국내 만 2세 이상 C1-INH 결핍 HAE 급성발작 적응증. **성인 30 ㎎ 복부 SC**, 불충분한 반응 또는 재발 시 최소 6시간 간격 추가(최대 3회/24시간). 교육 후 성인 자가주사 가능
+* icatibant(bradykinin B2 receptor antagonist) <mark style="color:blue;">\[[피라지르](https://www.health.kr/drug/2014062700006)]</mark> : 국내 만 2세 이상 C1-INH 결핍 HAE 급성발작 적응증. **성인 30 ㎎ 복부 SC**, 불충분한 반응 또는 재발 시 최소 6시간 간격 추가(최대 3회/24시간). 교육 후 성인 자가주사 가능
   * 소아(2\~17세)는 **체중별 10\~30 ㎎** 적용; ＜2세 또는 ＜12 ㎏은 권장 용량이 확립되지 않음. 소아 발작 당 반복 주사의 근거가 제한적이므로 성인 반복 용법을 그대로 적용하지 않음
   * 국내 급여상 자가투여 1회 처방량은 기본 2회분이며, 누적 3회 이상 자가투여 경험이 있으면서 최근 3개월 동안 월 1회 이상 급성 발작 또는 추가투여가 필요했던 급성 발작을 경험한 경우 4회분까지 인정됨. 이는 **보유·처방량 기준**으로 24시간 최대 투여 횟수와 다름. 후두 발작은 자가주사 후에도 반드시 응급실에서 평가
-* C1-inhibitor concentrate(혈장유래) : 20 IU/㎏ IV <mark style="color:blue;">\[베리너트]</mark>. 국내 2022 전문가 의견서는 허가와 공급 제약을 기술하였으나, 이를 현재 공급 상태로 단정하지 않으며 실제 접근 가능성은 전문센터에서 확인
-* C1-inhibitor concentrate(재조합) : <mark style="color:blue;">\[루코네스트]</mark>; 국내 희귀의약품 접근·공급은 전문센터에서 확인. 연령·제품별 용량·토끼 단백 알레르기 등 금기는 실제 사용 제품 허가사항을 따름
+* C1-inhibitor concentrate(혈장유래) : 20 IU/㎏ IV <mark style="color:blue;">\[[베리너트](https://www.health.kr/drug/2011111400085)]</mark>. 국내 2022 전문가 의견서는 허가와 공급 제약을 기술하였으나, 이를 현재 공급 상태로 단정하지 않으며 실제 접근 가능성은 전문센터에서 확인
+* C1-inhibitor concentrate(재조합) : <mark style="color:blue;">\[[루코네스트](https://www.health.kr/drug/2015113000001)]</mark>; 국내 희귀의약품 접근·공급은 전문센터에서 확인. 연령·제품별 용량·토끼 단백 알레르기 등 금기는 실제 사용 제품 허가사항을 따름
 * 국제 신규 경구 발작치료제 **sebetralstat**(plasma kallikrein inhibitor)도 2025 WAO 지침(2026년 출판)에 포함. 국내 허가·공급을 확인하지 못했으므로 국내 이용 가능한 치료제로 단정하지 않음
 * ecallantide 등 국외 옵션은 국가별 허가·가용성을 확인. 유효한 발작치료제가 없는 응급상황에서는 전문기관에서 solvent detergent-treated plasma 또는 신선동결혈장(FFP)을 차선책으로 고려
 * 위 허가 적응증은 주로 HAE이며 **AAE-C1-INH·ACEI 유발 혈관부종에 HAE 허가를 그대로 적용하지 않음**. AAE는 기저 림프증식성/자가면역질환 치료와 발작 관리를 전문의가 병행
@@ -375,7 +375,7 @@ flowchart TD
 
 * 대상 : 고정된 발작 횟수 하나로 결정하지 않고 **발작 빈도·중증도, 후두부종 위험, 질병 부담·삶의 질, on-demand 치료 접근성 및 환자 선호**를 종합하여 매 방문마다 장기예방 필요성을 재평가
 * **2025 WAO 지침(2026년 출판)의 1차 장기예방 옵션** : SC plasma-derived C1-INH, lanadelumab, berotralstat, garadacimab, donidalorsen. 국내 허가·공급·연령과 국외 권고를 구분하여 선택
-* lanadelumab(anti-plasma kallikrein monoclonal antibody) : 성인·만 12세 이상 300 ㎎ SC 2주마다, 충분히 조절되면 4주 간격 연장 고려 <mark style="color:blue;">\[탁자이로]</mark>
+* lanadelumab(anti-plasma kallikrein monoclonal antibody) : 성인·만 12세 이상 300 ㎎ SC 2주마다, 충분히 조절되면 4주 간격 연장 고려 <mark style="color:blue;">\[[탁자이로](https://www.health.kr/drug/2023112700001)]</mark>
   * **국내에서는 2026년 3월부터 조건부 건강보험 급여가 적용됨.** 국제적 치료 순서와 국내 급여기준은 별개이므로, 대상 질환·기존 치료 실패/금기·발작 및 응급치료 요건·6개월 단위 재평가 등 세부 조건은 처방 시 최신 HIRA 고시 확인
 * berotralstat(경구 plasma kallikrein inhibitor) : 국제 지침상 1차 장기예방 옵션(Orladeyo; 해외 약제). 허가·공급이 확인된 경우에만 처방 옵션으로 적용
 * **2025 WAO 1차 LTP에 추가된 국제 옵션(국내 허가·공급 별도)**
@@ -397,7 +397,7 @@ flowchart TD
 #### <mark style="color:$primary;">Omalizumab (anti-IgE)</mark>
 
 * 고용량 2세대 H1AH에도 조절되지 않는 CSU의 **확립된 add-on 표적치료제(강한 권고)**
-* 대표 용법 : **300 ㎎ SC 4주마다** <mark style="color:blue;">\[졸레어]</mark>. 국내 CSU 적응증은 H1AH 불응 성인·만 12세 이상 청소년; 국내 허가 용량은 150 또는 300 ㎎ q4wk이며 국제 지침의 권장 시작 용량은 300 ㎎
+* 대표 용법 : **300 ㎎ SC 4주마다** <mark style="color:blue;">\[[졸레어](https://www.health.kr/drug/2024030800004)]</mark>. 국내 CSU 적응증은 H1AH 불응 성인·만 12세 이상 청소년; 국내 허가 용량은 150 또는 300 ㎎ q4wk이며 국제 지침의 권장 시작 용량은 300 ㎎
 * CSU 용량은 체중·총 IgE 수치로 결정하지 않으며 기존 H1AH를 유지. 아나필락시스 가능성을 설명하고 의료기관 투여·관찰 및 자가투여 요건은 제품 허가사항에 따름
 * 반응이 늦게 나타나는 환자가 있으므로 초기 무반응만으로 즉시 실패로 단정하지 않음. 충분한 투여 후에도 조절되지 않으면 전문의가 용량 증량·투여 간격 단축을 **허가 외**로 고려하거나 다른 표적치료로 조정함
 * 완전 조절 후 투여 간격 연장도 표준 허가 용법(q4wk)을 벗어나는 조정임을 설명. 2026 국제 지침은 완전 조절 3개월 후 간격 연장을 개별 검토할 수 있다고 제시함
@@ -407,9 +407,9 @@ flowchart TD
 
 * 2세대 H1AH 증량에도 조절되지 않는 CSU에서 **새로운 add-on 표적치료 옵션**으로 고려
 * 기전 : IL-4Rα 억제를 통한 IL-4/IL-13 signaling 차단(제2형 염증 표적)
-* **국내 허가 : H1AH로 적절히 조절되지 않는 성인 및 12\~17세 청소년의 만성 특발성 두드러기** <mark style="color:blue;">\[듀피젠트]</mark>
+* **국내 허가 : H1AH로 적절히 조절되지 않는 성인 및 12\~17세 청소년의 만성 특발성 두드러기** <mark style="color:blue;">\[[듀피젠트](https://www.health.kr/drug/2018040200003)]</mark>
 * 성인 : **초회 600 ㎎ SC → 300 ㎎ 2주마다**
-* 청소년 : 30\~＜60 ㎏은 초회 400 ㎎ → 200 ㎎ q2wk; ≥60 ㎏은 초회 600 ㎎ → 300 ㎎ q2wk. 더 낮은 체중에 이 용법을 임의로 적용하지 않음
+* 청소년 : 30\~＜60 ㎏은 초회 400 ㎎ → [200 ㎎ q2wk](https://www.health.kr/drug/2020050700018); ≥60 ㎏은 초회 600 ㎎ → 300 ㎎ q2wk. 더 낮은 체중에 이 용법을 임의로 적용하지 않음
 * 24주 투여 후에도 무반응이면 지속 여부 재평가. 결막염·각막염 등 안구 증상, 주사부위 반응 및 과민반응 교육
 * **Omalizumab 불응 후 dupilumab으로 바꾸면 반드시 효과가 있다고 설명하지 않음**. 항-IgE 불충분 반응/불내성 환자를 대상으로 한 CUPID Study B는 24주 일차 평가변수를 충족하지 못했으며, 동반 아토피피부염·천식 등과 기존 치료 반응을 고려해 선택
 * _✽2026 국제 지침에서 새로운 add-on 옵션으로 제안. 국내 허가를 확인했으나 CSU 급여는 별도 HIRA 기준 확인_
@@ -418,7 +418,7 @@ flowchart TD
 
 * 2세대 H1AH 증량에도 조절되지 않는 성인 CSU에서 고려할 수 있는 **경구 BTK inhibitor add-on 옵션**
 * 기전 : mast cell·basophil의 BTK signaling을 선택적으로 억제하여 Fc receptor downstream activation 및 매개물질 방출을 감소
-* 용법 : 25 ㎎ bid <mark style="color:blue;">\[랩시도]</mark>
+* 용법 : 25 ㎎ bid <mark style="color:blue;">\[[랩시도](https://www.health.kr/drug/2026041500012)]</mark>
 * **국내 허가 : H1AH로 적절히 조절되지 않는 성인 CSU(2026년 4월)**. 2026년 9월 유한양행·한국노바티스의 국내 유통·판매 협약 발표; 공급·급여는 별도 확인
 * 출혈·멍·점상출혈과 항응고/항혈소판제 병용 위험을 평가함. 수술 유형·출혈 위험에 따라 **수술 전 3\~7일 및 수술 후 3\~7일 중단을 고려**하며, 처방의·수술의가 중단·재개를 결정함
 * 음식과 관계없이 물로 통째로 복용하며 쪼개거나 부수거나 씹지 않음. 복용을 빠뜨렸으면 예정된 다음 용량을 복용하고 보충하려고 추가 복용하지 않음
@@ -431,7 +431,7 @@ flowchart TD
 
 * 고용량 2세대 H1AH 및 적절한 표적치료에도 조절되지 않거나 표적치료를 사용할 수 없는 중증 CSU에서 선택적으로 추가 고려
 * 효능은 있으나 고혈압·신독성·약물상호작용 등 safety burden 때문에 omalizumab과 동등한 우선순위로 보아서는 안 됨
-* 용법 : 국제 지침상 3\~5 ㎎/㎏/d, 2회 분할 <mark style="color:blue;">\[산디문뉴오랄]</mark>(☞ p.871); **두드러기는 허가 외 사용**. 혈압·신기능·전해질·상호작용을 확인하고 최저 유효 용량·기간을 전문의가 결정
+* 용법 : 국제 지침상 3\~5 ㎎/㎏/d, 2회 분할 <mark style="color:blue;">\[[산디문뉴오랄](https://www.health.kr/drug/A11ABBBBB1263)]</mark>(☞ p.871); **두드러기는 허가 외 사용**. 혈압·신기능·전해질·상호작용을 확인하고 최저 유효 용량·기간을 전문의가 결정
 
 #### <mark style="color:$primary;">기타 면역조절제(근거 제한)</mark>
 
@@ -447,7 +447,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 ### <mark style="color:orange;">항류코트리엔제</mark>
 
 * 표준 단계치료의 핵심 약제는 아니며 일부 환자에서 제한적인 add-on 효과. **한랭 두드러기에 특히 효과적이라고 단정할 근거는 부족**
-* montelukast : 성인 10 ㎎ qd <mark style="color:blue;">\[싱귤레어]</mark>; 두드러기는 허가 외 사용. 신경정신계 이상반응(수면장애·기분/행동 변화·자살사고 등)을 설명하고 발생 시 중단 및 평가
+* montelukast : 성인 10 ㎎ qd <mark style="color:blue;">\[[싱귤레어](https://www.health.kr/drug/A11ADDDDD0796)]</mark>; 두드러기는 허가 외 사용. 신경정신계 이상반응(수면장애·기분/행동 변화·자살사고 등)을 설명하고 발생 시 중단 및 평가
 * 다른 LTRA나 zileuton의 일상적인 두드러기 치료 사용은 권하지 않음
 
 ### <mark style="color:orange;">기타 보조 치료</mark>
@@ -580,6 +580,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > 지르텍(cetirizine) 10 ㎎/T   1T   qd
 > ```
 >
+> 약제 정보: [지르텍·10 ㎎](https://www.health.kr/drug/A11ABBBBB2527)
+>
 > _✽원칙적으로 2세대 H1AH를 우선 사용. 야간 증상이 매우 심해 1세대 약제를 예외적으로 단기 사용할 경우 진정·인지저하·낙상 위험을 고려._\
 > _✽원인으로 의심되는 음식·약물 회피를 안내. 급성 두드러기는 대부분 자연 소실되며 2세대 H1AH 단독으로 조절됨. 호흡곤란·전신 증상 동반 시 즉시 재내원하도록 교육(☞ Red Flags)._
 
@@ -593,6 +595,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > 알레그라(fexofenadine) 180 ㎎/T   2T   bid (1일 720 ㎎; 최대 4배, 허가 외 증량)
 > ```
 >
+> 약제 정보: [알레그라·180 ㎎](https://www.health.kr/drug/A11ABBBBB1394)
+>
 > _✽신기능이 정상인 성인 예시임. 신부전에서는 이 증량례를 적용하지 않으며 알레그라정180 ㎎ 품목의 신부전 관련 주의·금기를 확인함. Mizolastine은 증량 대상에서 제외. 2\~4주 간격으로 단계적으로 조정하며, 심한 난치성인 경우 2주 간격도 가능._
 
 > **처방례 3. 2세대 H1AH 증량에도 반응 부족한 만성 두드러기 → 추가 표적치료**
@@ -602,6 +606,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > (기존 2세대 H1AH의 유효·내약 용량 병용 유지)
 > ```
 >
+> 약제 정보: [졸레어·300 ㎎](https://www.health.kr/drug/2024030800004)
+>
 > _✽omalizumab은 강한 권고의 추가 표적치료제. 총 IgE·BHRA로 반응 예측을 시도할 수 있으나 절대적이지 않음. 다른 적응증의 급여를 CSU에 그대로 적용하지 않음. 성인 CSU에서는 랩시도(remibrutinib) 25 ㎎ bid도 허가 옵션이며 출혈·상호작용·공급·급여 등을 고려하여 선택._
 
 > **처방례 4. 급성 악화기 단기 스테로이드 병용(심한 증상 또는 H1AH 무반응)**
@@ -610,6 +616,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > 소론도 5 ㎎/T   6T   qd (아침; 30 ㎎/d)   ×5일
 > (기존 2세대 H1AH 병용 유지)
 > ```
+>
+> 약제 정보: [소론도·5 ㎎](https://www.health.kr/drug/a11a4290b0015)
 >
 > _✽다른 치료 옵션이 있는 한 장기 전신 스테로이드 투여는 회피; 유효 최소 용량으로 최단 기간만 사용. 급성 증상 조절을 위한 치료이며 만성화 예방 효과는 입증되지 않음._\
 > _✽이 5일 단기요법만으로는 통상 감량이 불필요. 반복·기존 장기 스테로이드 투여력 등은 개별 평가._
@@ -631,6 +639,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > ※ 최소 6시간 후 불충분한 반응 또는 재발 시 추가 투여 가능(24시간 내 최대 3회)
 > ```
 >
+> 약제 정보: [피라지르 프리필드시린지·30 ㎎/3 ㎖](https://www.health.kr/drug/2014062700006)
+>
 > _✽자가투여 후 미호전·재발은 의료진에 연락. 소아에는 이 성인 처방례를 그대로 적용하지 않음. 목 부위 증상(협착음, 쉰 목소리, 삼킴곤란) 동반 시에는 자가주사와 무관하게 즉시 응급실 내원._
 
 > **처방례 7. HAE 장기예방 - Lanadelumab (국제 지침상 1차 장기예방 옵션; 급여요건 별도)**
@@ -638,6 +648,8 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > ```
 > 탁자이로프리필드시린지주 300 ㎎   SC   2주마다 (성인·만 12세 이상)
 > ```
+>
+> 약제 정보: [탁자이로프리필드시린지주·300 ㎎](https://www.health.kr/drug/2023112700001)
 >
 > _✽국제 지침에서는 lanadelumab을 1차 장기예방 옵션으로 권고함. **2026년 3월부터 조건부 건강보험 급여가 적용**되며, 국제적 치료 순서와 급여기준은 별개임._\
 > _✽대상 질환·기존 치료 실패/금기·발작 및 응급치료 요건·6개월 단위 재평가 등 세부 기준은 변경될 수 있으므로 처방 시 최신 HIRA 고시 확인; 임상적으로 잘 조절되면 4주 간격 연장 고려._

@@ -266,11 +266,11 @@ flowchart TB
 * 태선화된 병변은 부위·연령에 적합한 중등도 이상 역가의 외용제를 고려; 선택된 양진 결절의 병변 내 주사는 피부과에서 판단
 * 염증이 없는 정상 피부의 가려움에 일률적으로 사용하지 않음; 감염·옴이 의심되면 원인 치료 없이 스테로이드만 도포하지 않음
 * 역가·제형·부위·연령에 맞춰 사용 기간을 결정하고 통상 1\~2주 후 반응 재평가; 모든 제제·질환에 일률적인 2주 상한을 적용하지 않음
-* clobetasol propionate 0.05%는 **초고역가(Class I)**임. 피부 병변에는 <mark style="color:blue;">\[베타베이트연고]</mark>·<mark style="color:blue;">\[베타베이트크림]</mark> 등 부위·제형에 맞는 제품을 선택하고, <mark style="color:blue;">\[더모베이트액]</mark>은 **두피용 액제**로 구분함. 해당 제품은 2주 이상 연속 치료·주 50 g(액제 50 ㎖) 이상 사용을 피하며 24개월 미만은 금기임. 베타베이트연고는 치료면적 BSA 20% 이내로 제한함. 얼굴·접힘 부위의 기본 치료나 일률적 유지치료로 사용하지 않음.
-* 더모베이트연고는 허가정보 전재본에 **2025-10-22 취소일**, **2026-06-01 급여 삭제 이력**이 표시되어 현재 처방용 제품 예에서 제외함. 더모베이트액 등 다른 제형까지 취소된 것으로 일반화하지 않음. <mark style="color:$info;">[약학정보원 품목별 허가정보; 2026-10-24 확인]</mark>
-* mometasone furoate 0.1% <mark style="color:blue;">\[모리코트크림]</mark>·<mark style="color:blue;">\[모리코트로션]</mark> : 역가는 제형·분류 체계에 따라 달라짐; 크림은 **1일 1회** 얇게 도포, 밀봉붕대법은 피함
+* clobetasol propionate 0.05%는 **초고역가(Class I)**임. 피부 병변에는 <mark style="color:blue;">\[[베타베이트연고](https://www.health.kr/drug/A11A1590A0045)]</mark>·<mark style="color:blue;">\[[베타베이트크림](https://www.health.kr/drug/A11A1590B0021)]</mark> 등 부위·제형에 맞는 제품을 선택하고, <mark style="color:blue;">\[[더모베이트액](https://www.health.kr/drug/2018032700006)]</mark>은 **두피용 액제**로 구분함. 해당 제품은 2주 이상 연속 치료·주 50 g(액제 50 ㎖) 이상 사용을 피하며 24개월 미만은 금기임. 베타베이트연고는 치료면적 BSA 20% 이내로 제한함. 얼굴·접힘 부위의 기본 치료나 일률적 유지치료로 사용하지 않음.
+* [더모베이트연고](https://www.health.kr/drug/2017020100030)는 허가정보 전재본에 **2025-10-22 취소일**, **2026-06-01 급여 삭제 이력**이 표시되어 현재 처방용 제품 예에서 제외함. 더모베이트액 등 다른 제형까지 취소된 것으로 일반화하지 않음. <mark style="color:$info;">[약학정보원 품목별 허가정보; 2026-10-24 확인]</mark>
+* mometasone furoate 0.1% <mark style="color:blue;">\[[모리코트크림](https://www.health.kr/drug/A11AOOOOO0860)]</mark>·<mark style="color:blue;">\[[모리코트로션](https://www.health.kr/drug/2015112000009)]</mark> : 역가는 제형·분류 체계에 따라 달라짐; 크림은 **1일 1회** 얇게 도포, 밀봉붕대법은 피함
 * 재발하는 아토피피부염에서는 조절 후 간헐적 유지요법 또는 TCI 전환을 고려; TCI의 질환·연령 적응증 확인 (☞ [국소 칼시뉴린 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor))
-  * tacrolimus <mark style="color:blue;">\[프로토픽]</mark>, pimecrolimus <mark style="color:blue;">\[엘리델]</mark>
+  * tacrolimus <mark style="color:blue;">\[[프로토픽](https://www.health.kr/drug/A11AJJJJJ0724)]</mark>, pimecrolimus <mark style="color:blue;">\[[엘리델](https://www.health.kr/drug/2018040900040)]</mark>
   * TCI는 원인 피부질환에 따라 선택함. 아토피피부염의 국내 허가범위와 다른 질환에서의 허가 외 사용을 구분하며, 원인 불명 가려움 전체에 일률적으로 적용하지 않음. 아토피피부염의 tacrolimus 주 2회 유지요법을 다른 질환이나 pimecrolimus에 자동 적용하지 않음.
 
 * TCI와 보습제의 병용은 성분별로 구분함. Tacrolimus와 같은 부위 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함(☞ [국소 칼시뉴린 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)).
@@ -286,7 +286,7 @@ flowchart TB
 
 * 국소 마취 성분은 선택된 국소 가려움에서 제한적으로 고려; 성분·제형마다 허가된 도포량·횟수·면적이 달라 공통으로 “하루 5회”를 적용하지 않음
   * pramoxine 1%, polidocanol 함유 제제 등에 해외 연구가 있으나 국내 제품의 성분·허가·공급은 별도 확인
-  * lidocaine/prilocaine <mark style="color:blue;">\[엠라]</mark>는 시술 전 피부마취제이며 만성 가려움의 반복·전신 도포용으로 처방하지 않음; 넓은 면적·손상 피부·밀봉 도포 시 전신독성/메트헤모글로빈혈증 위험
+  * lidocaine/prilocaine <mark style="color:blue;">\[[엠라](https://www.health.kr/drug/A11AMMMMM2194)]</mark>는 시술 전 피부마취제이며 만성 가려움의 반복·전신 도포용으로 처방하지 않음; 넓은 면적·손상 피부·밀봉 도포 시 전신독성/메트헤모글로빈혈증 위험
 * 습포 : 깨끗한 차가운 물을 적신 천 또는 시판 0.9% 생리식염수를 짧게 사용; Burow 용액은 제품별 농도·희석 지시를 따르고 가정용 티스푼으로 식염수를 조제하지 않음
 * calamine/zinc oxide <mark style="color:blue;">\[칼라민로션]</mark>
 * camphor(2%), menthol(1%)
@@ -313,19 +313,19 @@ flowchart TB
 
 **진정성·항콜린 부담이 있는 제제**
 
-* hydroxyzine <mark style="color:blue;">\[아디팜]</mark> : 국내 피부과 영역 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할; 성인 최대 100 ㎎/d. 최소 유효용량·최단 기간 사용
+* hydroxyzine <mark style="color:blue;">\[[아디팜](https://www.health.kr/drug/A11AFFFFF0070)]</mark> : 국내 피부과 영역 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할; 성인 최대 100 ㎎/d. 최소 유효용량·최단 기간 사용
   * 고령자는 사용이 권장되지 않으며, 불가피하면 성인 권장량의 절반으로 시작하고 최대 50 ㎎/d
   * **QT 연장 관련 금기** : 선천성/후천성 QT 연장, 심혈관질환·유의한 서맥·저칼륨/저마그네슘혈증·급성 심장사 가족력 등 알려진 위험요인, QT 연장/Torsades de pointes 유발 약제와의 병용은 금기. 단순히 심전도를 추적하면서 병용하는 것으로 대체하지 않음
   * **기타 주요 금기** : 급성 폐쇄각 녹내장, 포르피린증 등. 간·신장애에서는 감량 필요; 실신·심계항진 등 부정맥 의심 증상이 나타나면 중단하고 즉시 평가 <mark style="color:$info;">[아디팜 국내 허가사항; EMA hydroxyzine 안전성 조치]</mark>
-* chlorpheniramine <mark style="color:blue;">\[페니라민]</mark> : 국내 성인 허가 용법 1회 2\~6 ㎎, 1일 2\~4회; 최대 24 ㎎/d
+* chlorpheniramine <mark style="color:blue;">\[[페니라민](https://www.health.kr/drug/A11A0450A0085)]</mark> : 국내 성인 허가 용법 1회 2\~6 ㎎, 1일 2\~4회; 최대 24 ㎎/d
 
-* mequitazine : 5 ㎎ bid <mark style="color:blue;">\[프리마란]</mark>; 세대 분류가 문헌마다 다르지만 졸림·항콜린 작용이 있어 비진정성 제제로 취급하지 않음
+* mequitazine : 5 ㎎ bid <mark style="color:blue;">\[[프리마란](https://www.health.kr/drug/A11ABBBBB0909)]</mark>; 세대 분류가 문헌마다 다르지만 졸림·항콜린 작용이 있어 비진정성 제제로 취급하지 않음
 
 **2세대(진정이 상대적으로 적은 제제)**
 
-* loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-* fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
-* cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
+* loratadine : 10 ㎎ qd <mark style="color:blue;">\[[클라리틴](https://www.health.kr/drug/2009091800015)]</mark>
+* fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[[알레그라](https://www.health.kr/drug/A11ABBBBB1394)]</mark>
+* cetirizine : 10 ㎎ qd <mark style="color:blue;">\[[지르텍](https://www.health.kr/drug/A11ABBBBB2527)]</mark>
 * **허가 범위 구분** : 클라리틴정 및 알레그라정180 ㎎의 피부 관련 국내 허가 적응증은 만성 특발성 두드러기임. 이를 두드러기 없이 발생하는 비특이적 만성 가려움 전체의 허가로 확대하지 않음. 해당 범위를 벗어난 사용은 허가 외이며, 비히스타민성 가려움에서의 효과도 제한적임
 * 지르텍정은 피부가려움증 및 하이드로코티손 외용제와 병용하는 습진·피부염에 국내 허가가 있음. 허가 적응증의 존재와 원인질환별 임상 효과·권고 수준은 구분함 <mark style="color:$info;">[국내 제품별 허가사항]</mark>
 * cetirizine도 졸림이 생길 수 있으며 신기능에 따른 감량 필요. 국내 지르텍정은 **CrCl ＜10 ㎖/min에서 금기**임
@@ -338,10 +338,10 @@ flowchart TB
 (☞ [항우울제 및 항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
 
 * 대상 : 원인 치료에도 지속되는 난치성 CP에서 선택적으로 고려; 특히 nocturnal itch, psychogenic/psychosomatic contribution, CKD·담즙정체·악성종양 관련 가려움 등에서 약제별 근거와 환자 특성을 고려 (보험주의)
-* amitriptyline : 10 ㎎ hs 등 낮은 용량에서 시작하여 반응에 따라 25\~50 ㎎/d까지 조절 <mark style="color:blue;">\[에트라빌]</mark>; 항콜린 작용·기립성 저혈압·심장 전도 이상 때문에 고령자에서는 가급적 피함
+* amitriptyline : 10 ㎎ hs 등 낮은 용량에서 시작하여 반응에 따라 25\~50 ㎎/d까지 조절 <mark style="color:blue;">\[[에트라빌](https://www.health.kr/drug/A11A0570B0082)]</mark>; 항콜린 작용·기립성 저혈압·심장 전도 이상 때문에 고령자에서는 가급적 피함
 * 국내 amitriptyline(에트라빌)은 심근경색 회복 초기·녹내장·전립선비대 등 배뇨장애·부정맥·급성 섬망·MAOI 투여 중 등에서 금기임. 저용량 허가 외 사용에도 해당 금기를 적용하며 단순 부작용 관찰로 대체하지 않음; 다른 TCA에는 해당 제품의 허가사항을 별도 적용(001 참조)
-* mirtazapine : 보통 15 ㎎ hs부터 시작, 선택된 환자에서 30 ㎎/d까지 조절 <mark style="color:blue;">\[레메론]</mark>; 졸림·식욕/체중 증가에 주의
-* paroxetine : 저용량으로 시작하여 보통 20 ㎎/d, 필요시 40 ㎎/d까지 조절 <mark style="color:blue;">\[세로자트]</mark>; 고령자에서 항콜린 부담·저나트륨혈증·중단 증상에 주의
+* mirtazapine : 보통 15 ㎎ hs부터 시작, 선택된 환자에서 30 ㎎/d까지 조절 <mark style="color:blue;">\[[레메론](https://www.health.kr/drug/A11ABBBBB1118)]</mark>; 졸림·식욕/체중 증가에 주의
+* paroxetine : 저용량으로 시작하여 보통 20 ㎎/d, 필요시 40 ㎎/d까지 조절 <mark style="color:blue;">\[[세로자트](https://www.health.kr/drug/A11ACCCCC0411)]</mark>; 고령자에서 항콜린 부담·저나트륨혈증·중단 증상에 주의
 * 모든 약제의 가려움 효과가 동일하지 않으며, 담즙정체에서는 sertraline의 근거를 우선 검토
 
 #### <mark style="color:$primary;">전신 스테로이드</mark>
@@ -356,8 +356,8 @@ flowchart TB
 * 대상 : neuropathic pruritus, CKD-associated pruritus 등 비히스타민성 만성 가려움에서 선택적으로 고려 (보험주의)
 * 부작용 : 어지럼, 졸음, 두통, 구역, 말초 부종, 체중 증가, 착란; 고령자에서는 낙상 위험에 특히 주의
 * **start low, go slow** : 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작
-* gabapentin : 보통 100\~300 ㎎ hs부터 시작하여 반응·내약성에 따라 qd\~tid로 서서히 증량 <mark style="color:blue;">\[뉴론틴]</mark>
-* pregabalin : 보통 25\~75 ㎎ hs 또는 qd부터 시작하여 필요시 서서히 증량 <mark style="color:blue;">\[리리카]</mark>; 혈액투석 환자는 아래 CKD 관련 가려움 절의 저용량 요법을 신장내과와 선택하며, 일반 성인 요법에 투석 후 용량을 임의 추가하지 않음
+* gabapentin : 보통 100\~300 ㎎ hs부터 시작하여 반응·내약성에 따라 qd\~tid로 서서히 증량 <mark style="color:blue;">\[[뉴론틴](https://www.health.kr/drug/A11ABBBBB1033)]</mark>
+* pregabalin : 보통 25\~75 ㎎ hs 또는 qd부터 시작하여 필요시 서서히 증량 <mark style="color:blue;">\[[리리카](https://www.health.kr/drug/2018022700007)]</mark>; 혈액투석 환자는 아래 CKD 관련 가려움 절의 저용량 요법을 신장내과와 선택하며, 일반 성인 요법에 투석 후 용량을 임의 추가하지 않음
 * 두 약제 모두 신기능과 혈액투석에 따른 용량 조절 필수 (☞ 통증 챕터의 신장애 환자 gabapentinoid 용량 참조)
 * opioid·benzodiazepine 등 중추신경억제제 병용, 호흡기질환·고령·신장애에서 호흡억제 위험에 주의; 투여 시작/증량 후 졸림·보행·호흡 상태를 확인
 * 갑자기 중단하지 않고, 중단이 필요하면 통상 1주 이상에 걸쳐 감량
@@ -365,10 +365,10 @@ flowchart TB
 #### <mark style="color:$primary;">μ-opioid receptor antagonist / κ-opioid receptor agonist</mark>
 
 * μ-opioid 길항제와 κ-opioid 작용제는 서로 다른 계열이며 적응증·주의사항을 구분
-* naltrexone : 주로 선택된 난치성 담즙정체성 가려움에 고려(허가 외); 12.5 ㎎/d 등 저용량에서 시작하여 보통 50 ㎎/d까지 단계적으로 증량 <mark style="color:blue;">\[레비아]</mark>
+* naltrexone : 주로 선택된 난치성 담즙정체성 가려움에 고려(허가 외); 12.5 ㎎/d 등 저용량에서 시작하여 보통 50 ㎎/d까지 단계적으로 증량 <mark style="color:blue;">\[[레비아](https://www.health.kr/drug/A11ABBBBB1120)]</mark>
   * 현재 및 최근 opioid(트라마돌 포함) 사용·의존 여부, 급성 간염/간부전 등 금기와 간기능을 확인; opioid를 투여하지 않고 기다려야 하는 기간은 사용 약제에 따라 결정하고 전문과에서 도입; 외인성 opioid를 쓰지 않아도 금단 유사 반응이 생길 수 있음
   * CKD-associated pruritus에서는 효과가 일관되지 않아 표준 우선 약제로 제시하지 않음
-* nalfurafine(κ-opioid 작용제) <mark style="color:blue;">\[레밋치]</mark> : 국내 허가된 기존 치료법에 효과가 불충분한 혈액투석 환자의 소양증 치료제; 아래 특별한 경우 참조
+* nalfurafine(κ-opioid 작용제) <mark style="color:blue;">\[[레밋치](https://www.health.kr/drug/2021102700007)]</mark> : 국내 허가된 기존 치료법에 효과가 불충분한 혈액투석 환자의 소양증 치료제; 아래 특별한 경우 참조
 * difelikefalin(말초성 κ-opioid receptor agonist) : 성인 혈액투석 관련 중등도\~중증 가려움에서 투석 후 정맥 투여(건체중 기준 0.5 ㎍/㎏, 통상 주 3회); 미국 FDA(2021)·EU(2022) 승인. 국내 처방 가능 여부는 확인되지 않아 해외 치료 옵션으로 구분하고, 최신 국내 허가·공급을 별도 확인
 
 #### <mark style="color:$primary;">항류코트리엔제 - 제한적 옵션</mark>
@@ -387,13 +387,13 @@ flowchart TB
 * 피부질환 치료에서 주요 금기 : 신기능 이상, 조절되지 않는 고혈압·감염, 악성종양 등; 당뇨병 또는 모든 간질환을 일률적인 절대 금기로 묶지 않으며 제품별 허가사항 확인
 * 생백신은 치료 중 피하고 접종 시점을 전문과와 조율; CYP3A4 관련 상호작용·신독성 약제 병용 확인
 * 모니터링 : 혈압, Cr/eGFR, K/Mg, 간기능 등 기저 검사와 치료 중 정기 추적
-* 용법 : 2.5\~5 ㎎/㎏/d를 **1일 2회 분할**; 피부과에서 시작·조절 <mark style="color:blue;">\[산디문뉴오랄]</mark> 등. 제형·품목별 아토피피부염 허가 유무와 급여 기준을 따로 확인
+* 용법 : 2.5\~5 ㎎/㎏/d를 **1일 2회 분할**; 피부과에서 시작·조절 <mark style="color:blue;">\[[산디문뉴오랄](https://www.health.kr/drug/A11ABBBBB1263)]</mark> 등. 제형·품목별 아토피피부염 허가 유무와 급여 기준을 따로 확인
 
 #### <mark style="color:$primary;">생물학적제제 (Biologics)</mark>
 
 * 대상 : 전신요법이 필요한 아토피피부염 또는 결절성 양진(prurigo nodularis) 등에서 해당 약제의 허가 요건을 만족하는 환자. 기존 전신 면역억제제 실패가 모든 생물학적제제의 필수 허가 요건은 아니며, 국소치료 반응·중증도·질병 부담에 따라 피부과에서 선택함
-* nemolizumab(IL-31 수용체 α 길항제) <mark style="color:blue;">\[넴루비오]</mark> : 국내에서 전신요법 대상인 **12세 이상 청소년·성인의 중등도\~중증 아토피피부염**, **18세 이상 성인의 중등도\~중증 결절성 양진**에 허가(2026년). 아토피피부염은 국소치료 불충분 또는 권장되지 않는 경우에 해당하며, 질환·체중별 용법을 구분함; IL-31 신호 차단을 통해 가려움 유발 감각신경 활성화를 억제
-* dupilumab(IL-4Rα 길항제) <mark style="color:blue;">\[듀피젠트]</mark> : 국내에서 국소치료 불충분/권장되지 않는 **생후 6개월 이상 중등도\~중증 아토피피부염** 및 **성인 중등도\~중증 결절성 양진** 등에 허가. **성인 수포성 유사천포창**도 국내 적응증에 포함되므로, 고령자의 심한 가려움에서 해당 질환이 확인되면 전문과 치료 옵션으로 고려함. 용법·연령·급여는 적응증별로 구분
+* nemolizumab(IL-31 수용체 α 길항제) <mark style="color:blue;">\[[넴루비오](https://www.health.kr/drug/2026012600004)]</mark> : 국내에서 전신요법 대상인 **12세 이상 청소년·성인의 중등도\~중증 아토피피부염**, **18세 이상 성인의 중등도\~중증 결절성 양진**에 허가(2026년). 아토피피부염은 국소치료 불충분 또는 권장되지 않는 경우에 해당하며, 질환·체중별 용법을 구분함; IL-31 신호 차단을 통해 가려움 유발 감각신경 활성화를 억제
+* dupilumab(IL-4Rα 길항제) <mark style="color:blue;">\[[듀피젠트](https://www.health.kr/drug/2018040200003)]</mark> : 국내에서 국소치료 불충분/권장되지 않는 **생후 6개월 이상 중등도\~중증 아토피피부염** 및 **성인 중등도\~중증 결절성 양진** 등에 허가. **성인 수포성 유사천포창**도 국내 적응증에 포함되므로, 고령자의 심한 가려움에서 해당 질환이 확인되면 전문과 치료 옵션으로 고려함. 용법·연령·급여는 적응증별로 구분
 * ✽아토피피부염·결절성 양진 이외의 전신성·신경병증성·원인 불명 만성 가려움에 이들 약제를 사용하는 것은 허가 외이며, 일반 만성 가려움의 표준 치료로 확대하지 않음
 
 <p align="center"><em><mark style="color:$info;">Ref. 국내 듀피젠트 허가사항·사노피 제품정보; 넴루비오 국내 허가사항 재게시 자료.</mark></em></p>
@@ -401,9 +401,9 @@ flowchart TB
 #### <mark style="color:$primary;">JAK 억제제 (Small molecules)</mark>
 
 * 대상 : 전신요법이 필요한 **중등도\~중증 아토피피부염 동반 만성 가려움**에서 약제별 국내 허가 요건과 기존 치료 반응·위험인자를 평가하여 질환 특이 systemic therapy로 고려; 피부과 평가 후 도입
-* upadacitinib <mark style="color:blue;">\[린버크]</mark> : 성인 및 **만 12세 이상·체중 40 ㎏ 이상 청소년**의 아토피피부염 허가 용법을 적용
-* abrocitinib <mark style="color:blue;">\[시빈코]</mark> : 성인 및 만 12세 이상 청소년
-* baricitinib <mark style="color:blue;">\[올루미언트]</mark> : 전신요법 대상 **2세 이상 소아 및 성인**의 중등도\~중증 아토피피부염에 국내 허가; 소아 체중·신기능에 따른 용량 확인
+* upadacitinib <mark style="color:blue;">\[[린버크](https://www.health.kr/drug/2020060500002)]</mark> : 성인 및 **만 12세 이상·체중 40 ㎏ 이상 청소년**의 아토피피부염 허가 용법을 적용
+* abrocitinib <mark style="color:blue;">\[[시빈코](https://www.health.kr/drug/2021112400008)]</mark> : 성인 및 만 12세 이상 청소년
+* baricitinib <mark style="color:blue;">\[[올루미언트](https://www.health.kr/drug/2017121200001)]</mark> : 전신요법 대상 **2세 이상 소아 및 성인**의 중등도\~중증 아토피피부염에 국내 허가; 소아 체중·신기능에 따른 용량 확인
 * 장점 : 비교적 빠른 itch reduction을 기대할 수 있음
 * 주요 부작용/경고 : 대상포진·중증 감염, 정맥혈전색전증(VTE), 주요 심혈관계 이상반응(MACE), 악성종양, 이상지질혈증 등; CBC, 간기능, 지질 등 정기 모니터링 필요
 * 치료 전 결핵·HBV/HCV 등 감염 선별과 예방접종 상태를 확인; 65세 이상·심혈관/악성종양 고위험군에서는 허가사항의 사용 제한을 제품별 검토
@@ -498,6 +498,8 @@ flowchart TB
 > 유리아 크림(10%) 1일 2회  건조한 피부에 도포
 > ```
 >
+> 약제 정보: [뉴론틴·100 ㎎](https://www.health.kr/drug/A11ABBBBB1033)
+>
 > _✽가려움에는 허가 외 사용. 항히스타민 무반응만으로 신경병증성 가려움을 진단하지 않으며, 분포·화끈거림·감각 이상 등 단서를 확인. 신기능에 따라 용량 조절하고 시작/증량 후 졸림·보행·호흡 상태를 확인._
 
 > **처방례 3. 만성 콩팥병 관련 가려움 (혈액투석 환자)**
@@ -506,6 +508,8 @@ flowchart TB
 > 뉴론틴(gabapentin) 100 ㎎  1캡슐  주 3회 투석 직후
 > 보습제  1일 2회 이상 충분히 전신 도포
 > ```
+>
+> 약제 정보: [뉴론틴·100 ㎎](https://www.health.kr/drug/A11ABBBBB1033)
 >
 > _✽가려움에는 허가 외 사용. 주 3회 혈액투석을 받는 환자의 저용량 시작 예시이며, 비투석 CKD 환자에게 이 간헐 요법을 그대로 적용하지 않음. 신장내과와 반응·착란·낙상·호흡억제를 확인하고 투석 적절도와 교정 가능한 요인을 함께 평가._
 
@@ -524,6 +528,8 @@ flowchart TB
 > 모리코트 크림(0.1%)  1일 1회  몸통·사지의 염증성 병변에 얇게 도포
 > 1~2주 후 반응과 부작용 재평가
 > ```
+>
+> 약제 정보: [모리코트 크림·0.1%](https://www.health.kr/drug/A11AOOOOO0860)
 >
 > _✽피부과 의뢰까지의 국소 보조치료 예시. 얼굴·눈꺼풀·접힘 부위·생식기에 이 처방을 그대로 적용하지 않으며 감염·옴은 먼저 배제. 심한 수면/기능 장애나 뚜렷한 결절성 양진은 4\~6주를 기다리지 않고 의뢰하여 질환 특이 전신치료를 검토._
 

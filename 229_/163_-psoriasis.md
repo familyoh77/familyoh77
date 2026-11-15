@@ -222,7 +222,7 @@ flowchart TD
 
 * 작용 : 항염, 각질형성세포 증식 억제, 면역 억제, 혈관 수축
 * 부위·병변 두께·연령에 맞는 역가와 제형을 선택; 호전 후 간헐적 유지요법 또는 비스테로이드제로 전환
-* **clobetasol propionate 0.05%는 초고역가(Class I; NICE 분류의 very potent) 제제**임. 다른 적절한 국소요법으로 불충분한 성인의 제한된 두꺼운 몸통·사지 병변에서 피부과 치료 계획에 따라 단기간 사용하고 1\~2주 내 재평가함. <mark style="color:blue;">\[베타베이트연고]</mark>는 **2주를 넘는 연속 치료, 주 50 g 이상 사용, 치료면적 BSA 20% 초과를 피함**; NICE의 일반적 초강력제 4주 상한을 이 제품의 연속 사용 허가기간으로 적용하지 않음
+* **clobetasol propionate 0.05%는 초고역가(Class I; NICE 분류의 very potent) 제제**임. 다른 적절한 국소요법으로 불충분한 성인의 제한된 두꺼운 몸통·사지 병변에서 피부과 치료 계획에 따라 단기간 사용하고 1\~2주 내 재평가함. <mark style="color:blue;">\[[베타베이트연고](https://www.health.kr/drug/A11A1590A0045)]</mark>는 **2주를 넘는 연속 치료, 주 50 g 이상 사용, 치료면적 BSA 20% 초과를 피함**; NICE의 일반적 초강력제 4주 상한을 이 제품의 연속 사용 허가기간으로 적용하지 않음
 * 아래 NICE의 강력(potent)·초강력(very potent)은 해당 지침의 분류임. 211장의 미국식 7단계 class와 용어만으로 일대일 대응시키지 않음. NICE 기준으로 초강력제 연속 사용은 최대 4주, 강력제는 최대 8주 이내이며, 제품 허가사항이 더 짧으면 그 기간을 따름; 강력·초강력제 치료 과정 사이에는 가능하면 4주 휴지기를 두고 비스테로이드제로 조절. 피부 위축·혈관확장·선조·부신억제 위험을 평가
 * 얼굴·굴곡부·생식기는 **저역가제를 우선**, 필요시 중간 역가제를 짧게 사용(보통 1\~2주, 반복치료도 한 달 중 최대 1\~2주); 강력·초강력제를 사용하지 않음
 * 소아에서는 초강력제를 피하고 피부과에서 연령·부위·면적에 따라 선택. 베타베이트연고는 **24개월 미만 금기**, 24개월 이상\~18세 미만은 투여 비권고임
@@ -233,7 +233,7 @@ flowchart TD
 
 * 국소 steroid 대체제로 선택. 얼굴, 겹친 부위에 적용; 판형건선에서는 효과 적음
 * 부작용 : 작열감, 가려움, 홍반
-* pimecrolimus 1% <mark style="color:blue;">\[엘리델]</mark>, tacrolimus 0.03%/0.1% <mark style="color:blue;">\[프로토픽]</mark>; 보통 1일 2회 도포
+* pimecrolimus 1% <mark style="color:blue;">\[[엘리델](https://www.health.kr/drug/2018040900040)]</mark>, tacrolimus 0.03%/[0.1%](https://www.health.kr/drug/A11AJJJJJ0725) <mark style="color:blue;">\[[프로토픽](https://www.health.kr/drug/A11AJJJJJ0724)]</mark>; 보통 1일 2회 도포
 * **건선에 대한 사용은 허가 외 사용**임. 연령별 제제 선택과 감염 여부를 확인하고 반응에 따라 간헐적 유지요법을 고려; 눈·점막에는 사용하지 않음
 * TCI와 보습제의 병용은 성분별로 구분함. Tacrolimus와 같은 부위 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함 (☞ [Calcineurin 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor))
 
@@ -245,13 +245,13 @@ flowchart TD
 * 부작용 : 작열감, 가려움, 부종, 건조, 피부 벗겨짐, 홍반; 보통 사용하면서 호전되나 얼굴과 사타구니에는 도포하기 어려움
   * 광범위 도포 시 고칼슘혈증을 유발할 수 있으므로 최대 사용량을 제한함
 * calcipotriene(=calcipotriol)
-  * **0.005%(50 ㎍/g)**, 성인 1일 1\~2회; <mark style="color:blue;">\[다이보넥스 연고]</mark> 성인 최대 100 g/wk. 다른 calcipotriol 함유 제품을 병용하면 **총 calcipotriol 용량을 합산**하여 **주 5 ㎎을 초과하지 않음**
+  * **0.005%(50 ㎍/g)**, 성인 1일 1\~2회; <mark style="color:blue;">\[[다이보넥스 연고](https://www.health.kr/drug/A11ABBBBB0536)]</mark> 성인 최대 100 g/wk. 다른 calcipotriol 함유 제품을 병용하면 **총 calcipotriol 용량을 합산**하여 **주 5 ㎎을 초과하지 않음**
   * 이 제품의 소아 안전성·유효성은 확립되어 있지 않음; 소아 사용은 피부과에서 연령·제품별 허가와 위험·이익을 확인하여 판단
   * steroid와 병용하면 효과가 좋아지며, 별도 제품은 임의로 섞지 않고 제품별 호환성과 용법에 따라 사용
 * calcipotriol/betamethasone dipropionate 복합제
-  * <mark style="color:blue;">\[다이보베트 연고]</mark> : **1일 1회, 권장 치료기간 4주**; 이후 반복 치료는 의사의 감독하에 시행
+  * <mark style="color:blue;">\[[다이보베트 연고](https://www.health.kr/drug/A11APPPPP2024)]</mark> : **1일 1회, 권장 치료기간 4주**; 이후 반복 치료는 의사의 감독하에 시행
   * **최대 15 g/d, 100 g/wk, 도포 면적 BSA 30% 이내**; 얼굴·눈가에는 사용하지 않으며 굴곡부·생식기의 일상적 치료제로 선택하지 않음
-  * <mark style="color:blue;">\[엔스틸룸폼]</mark>은 성인·청소년(12\~17세) 판형건선의 국소치료에 허가됨. 1일 1회 4주 치료에 반응한 **성인에 한해**, 이전 병변 부위에 비연속적인 주 2일(3\~4일 간격) 유지요법 가능. 1일 최대 15 g·BSA 30% 이내이며 사용 전 흔들고 도포 중 불·담배·화염을 피함
+  * <mark style="color:blue;">\[[엔스틸룸폼](https://www.health.kr/drug/2017010400037)]</mark>은 성인·청소년(12\~17세) 판형건선의 국소치료에 허가됨. 1일 1회 4주 치료에 반응한 **성인에 한해**, 이전 병변 부위에 비연속적인 주 2일(3\~4일 간격) 유지요법 가능. 1일 최대 15 g·BSA 30% 이내이며 사용 전 흔들고 도포 중 불·담배·화염을 피함
   * 연고·겔·폼은 허가연령·사용기간·사용량·유지요법이 다름. 폼의 소아청소년 허가나 주 2회 유지요법을 다이보베트연고에 적용하지 않음 <mark style="color:$info;">\[제품 허가사항]</mark>
   * **다이보베트 연고의 금기**에는 소아, 물방울·홍피성·박탈성·농포성 건선, 칼슘대사 장애, 중증 신기능부전·중증 간질환, 안면·눈가 등이 포함됨. 성인 판형건선의 용법을 다른 임상형이나 소아에게 확대하지 않음
 * calcitriol, tacalcitol : 해외 지침의 치료 옵션에 포함되는 Vit D 유도체(해외 약제)
@@ -275,7 +275,7 @@ flowchart TD
 #### <mark style="color:$primary;">각질 용해제</mark>
 
 * 작용 : 각질 완화, 다른 국소 치료제의 침투력을 향상시킴(특히 두피에서 중요)
-* urea <mark style="color:blue;">\[유리아]</mark>, salicylic acid, ammonium lactate, lactic acid 등; 피부 상태·농도·제형에 맞추어 선택
+* urea <mark style="color:blue;">\[[유리아](https://www.health.kr/drug/A11A2140A0132)]</mark>, salicylic acid, ammonium lactate, lactic acid 등; 피부 상태·농도·제형에 맞추어 선택
 * **클리어틴 외용액 2%는 여드름 허가 제품**이며 에탄올 등을 함유하므로 건선의 대표 각질 용해제로 제시하지 않음
 * salicylic acid는 소아, 넓은 면적, 손상 피부, 신기능 저하에서 전신흡수·독성에 주의; 강한 각질 용해제는 얼굴·굴곡부·생식기를 피함
 
@@ -331,7 +331,7 @@ flowchart TD
   * 신독성·고혈압 등의 누적 독성 때문에 **장기 연속치료보다는 단기간/간헐적 사용을 선호**
   * 혈압·혈청 크레아티닌은 시작 전 기준값을 확보하고, 시작·증량 후 초기에는 약 2주 간격, 안정 후에는 대개 1\~3개월 간격으로 확인. **크레아티닌이 기저치보다 30% 넘게 증가하거나 혈압이 조절되지 않으면** 신속히 재검·감량/보류·중단 여부를 전문의와 결정
   * 치료 종료 시 재발이 흔하므로 후속 유지치료 계획을 세움. **감량(tapering)은 재발을 약간 지연시키기 위해 고려할 수 있으나 반드시 필요한 중단 원칙은 아님**
-* **acitretin** <mark style="color:blue;">\[네오티가손]</mark>
+* **acitretin** <mark style="color:blue;">\[[네오티가손](https://www.health.kr/drug/A11AKP08G2830)]</mark>
   * 여러 치료에 불응하는 중증 판형건선·농포성 건선 등 허가 적응증에서 사용할 수 있으며 광선치료와 병용 가능. **건선관절염의 질병조절 효과를 기대하는 약은 아님**
   * 성인 용법 예 : 초기 25\~30 ㎎/d ×2\~4주, 이후 반응·내약성에 따라 통상 25\~50 ㎎/d로 조절; 식사 또는 우유와 함께 복용. 필요시 최대 75 ㎎/d이지만 고령·동반질환에서는 더 낮은 용량부터 개별 결정
   * **강한 기형유발성**이 있으므로 임신 중에는 금기
@@ -341,11 +341,11 @@ flowchart TD
   * 치료 중 및 중단 후 **3년간 헌혈 금지**
   * **임신예방프로그램(PPP)**에 따른 임신검사·피임 교육·처방 및 조제 절차가 필요하며 피임 기간 안내만으로 대체하지 않음. 신·간장애 및 혈중 지질치가 과도하게 높은 경우 등 금기를 확인하고 사용함
 * **apremilast**
-  * 경구 PDE-4 억제제 <mark style="color:blue;">\[오테리아 등]</mark>; 중등증\~중증 판형건선 및 건선관절염에서 사용
-  * 성인은 **10 ㎎ qAM으로 시작하여 5일간 단계적으로 증량, 6일째부터 30 ㎎ bid**; 증량표는 제품 허가사항을 따름
+  * 경구 PDE-4 억제제 <mark style="color:blue;">\[[오테리아](https://www.health.kr/drug/2024041800002) 등]</mark>; 중등증\~중증 판형건선 및 건선관절염에서 사용
+  * 성인은 **10 ㎎ qAM으로 시작하여 5일간 단계적으로 증량, 6일째부터 [30 ㎎](https://www.health.kr/drug/2024110500006) bid**; 증량표는 제품 허가사항을 따름
   * <mark style="color:blue;">\[오테리아]</mark>는 **중증 신장애(CrCl ＜30 ㎖/min)에서 유지용량 30 ㎎ qd**로 감량하고 초기 증량은 **정상 증량표의 오전 용량만 투여하고 오후 용량은 생략**; 치료 전 신기능 확인
   * 설사·구역, 체중감소, 우울·자살사고를 확인; rifampin 등 강한 효소유도제 병용을 피함
-* **dimethyl fumarate** <mark style="color:blue;">\[스킬라렌스]</mark>
+* **dimethyl fumarate** <mark style="color:blue;">\[[스킬라렌스](https://www.health.kr/drug/2020051500013)]</mark>
   * 전신치료가 필요한 성인의 중등증\~중증 판형건선에 사용하는 경구 치료제
   * 30 ㎎ qd로 시작하여 매주 단계적으로 증량; 반응·내약성에 따라 조절하며 최대 240 ㎎ tid(720 ㎎/d). 식사 중 또는 직후 통째로 복용
   * **치료 전 및 매 3개월 CBC·감별계산, 간·신기능을 확인**. WBC ＜3,000/㎕ 또는 림프구 ＜1,000/㎕이면 시작하지 않음; 치료 중 림프구 700\~＜1,000/㎕이면 매월 검사하고, ＜700/㎕이면 재검하여 확인 시 즉시 중단. WBC ＜3,000/㎕도 중단 기준임
@@ -357,7 +357,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">경구 표적 치료제 - TYK2 억제제</mark>
 
-* **deucravacitinib** <mark style="color:blue;">\[소틱투]</mark>
+* **deucravacitinib** <mark style="color:blue;">\[[소틱투](https://www.health.kr/drug/2023080400001)]</mark>
   * 경구 선택적·알로스테릭 TYK2(tyrosine kinase 2) 억제제; TYK2는 JAK family에 속하나 JAK1/2/3 억제제와 선택성이 구분됨
   * **검사·감염 감시가 필요 없는 약은 아님**. 시작 전 결핵·바이러스간염·예방접종 상태를 확인하고 **잠복결핵이면 예방치료를 시작한 뒤** 투여; 활동성 중증 감염에서는 투여를 피함; 생백신과 병용하지 않음
   * 중성지방을 주기적으로 확인하고, 간질환이 있거나 의심되면 간효소를 치료 전후 확인. 근육통·근력저하·갈색뇨 발생 시 CPK/횡문근융해를 평가하고 **근병증 의심·확진 또는 현저한 CPK 상승 시 중단**함
@@ -386,10 +386,10 @@ flowchart TD
 * 적응증, 동반질환, 감염 위험, 임신 계획, 이전 치료 반응 등을 고려하여 피부과/류마티스내과에서 선택
 * 투여 전 결핵·B형간염 등 필요한 감염 선별과 예방접종 상태를 확인하며, 생백신은 약제별 지침에 따라 피하거나 투여 시점을 조정
 * 판형건선 치료에 사용하는 대표 제제(연령·PsA 등 적응증은 제품별 확인)
-  * Anti–TNF-α : etanercept <mark style="color:blue;">\[엔브렐 등]</mark>, adalimumab <mark style="color:blue;">\[휴미라 등]</mark>, infliximab <mark style="color:blue;">\[레미케이드 등]</mark>
-  * Anti–IL-17 : secukinumab <mark style="color:blue;">\[코센틱스]</mark>, ixekizumab <mark style="color:blue;">\[탈츠]</mark>, bimekizumab <mark style="color:blue;">\[빔젤릭스]</mark>(IL-17A/F 이중 억제)
-  * Anti–IL-12/23 : ustekinumab <mark style="color:blue;">\[스텔라라 등]</mark>
-  * Anti–IL-23 : guselkumab <mark style="color:blue;">\[트렘피어]</mark>, risankizumab <mark style="color:blue;">\[스카이리치]</mark>
+  * Anti–TNF-α : etanercept <mark style="color:blue;">\[[엔브렐](https://www.health.kr/drug/A11AKP08G0699) 등]</mark>, adalimumab <mark style="color:blue;">\[[휴미라](https://www.health.kr/drug/2017062200010) 등]</mark>, infliximab <mark style="color:blue;">\[[레미케이드](https://www.health.kr/drug/A11AOOOOO8286) 등]</mark>
+  * Anti–IL-17 : secukinumab <mark style="color:blue;">\[[코센틱스](https://www.health.kr/drug/2015092500031)]</mark>, ixekizumab <mark style="color:blue;">\[[탈츠](https://www.health.kr/drug/2017120600007)]</mark>, bimekizumab <mark style="color:blue;">\[[빔젤릭스](https://www.health.kr/drug/2024083000005)]</mark>(IL-17A/F 이중 억제)
+  * Anti–IL-12/23 : ustekinumab <mark style="color:blue;">\[[스텔라라](https://www.health.kr/drug/2011062200001) 등]</mark>
+  * Anti–IL-23 : guselkumab <mark style="color:blue;">\[[트렘피어](https://www.health.kr/drug/2018041300002)]</mark>, risankizumab <mark style="color:blue;">\[[스카이리치](https://www.health.kr/drug/2022042500006)]</mark>
 * certolizumab pegol, brodalumab, tildrakizumab 등은 해외 건선 치료 옵션에도 포함되나 **국내 건선 허가·급여를 위 대표 제제와 동일하게 간주하지 않음**
 * **동반질환에 따라 계열 선택이 달라짐**
   * 활동성 염증성 장질환이 있으면 IL-17 억제제를 피하거나 신중히 선택; 해당 장질환에도 적응증이 있는 약제를 고려
@@ -398,7 +398,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">전신 농포성 건선의 표적치료</mark>
 
-* **spesolimab** <mark style="color:blue;">\[스페비고주]</mark> : IL-36 수용체 억제제; **성인 전신 농포성 건선의 급격한 악화 치료**로 허가됨
+* **spesolimab** <mark style="color:blue;">\[[스페비고주](https://www.health.kr/drug/2023081000002)]</mark> : IL-36 수용체 억제제; **성인 전신 농포성 건선의 급격한 악화 치료**로 허가됨
 * 당일 전문 평가·입원 필요성을 판단하고 수액·전해질·감염 평가 등과 함께 피부과에서 치료제를 선택; 일반 판형건선의 생물학적 제제 목록과 구분
 * 해외의 예방 유지요법·소아 적응증을 이 정맥주사 제제의 허가사항으로 확대 적용하지 않음
 * 결핵·활동성 감염을 평가하고, **아나필락시스·DRESS 등 중증 과민반응**에 대비. 생백신은 투여 전 최소 4주 간격을 두고, 투여 중 및 투여 후 최소 16주간 피함
@@ -511,6 +511,8 @@ flowchart TD
 > 유리아(urea cream)　건조하고 두꺼운 병변에 제품 용법에 따라 도포
 > ```
 >
+> 약제 정보: [베타베이트연고·0.05%](https://www.health.kr/drug/A11A1590A0045) · [유리아·200 ㎎/g(20%)](https://www.health.kr/drug/A11A2140A0132)
+>
 > _✽피부과 치료 계획에 따른 성인 예시. 1\~2주 내 재평가; 베타베이트는 2주를 넘겨 연속 사용하지 않으며 주 50 g 미만·BSA 20% 이내로 제한. 얼굴·굴곡부·생식기에는 사용하지 않음. 호전 후 비스테로이드제 등으로 전환_
 
 > **처방례 2. 몸통·사지의 중등도 판형건선**
@@ -518,6 +520,8 @@ flowchart TD
 > ```
 > 다이보베트 연고(calcipotriol/betamethasone)　병변에 1일 1회, 4주
 > ```
+>
+> 약제 정보: [다이보베트 연고·칼시포트리올 50 ㎍/g·베타메타손 0.5 ㎎/g](https://www.health.kr/drug/A11APPPPP2024)
 >
 > _✽성인 몸통·사지 판형건선 예시. 권장 치료기간 4주, 최대 15 g/d·100 g/wk, BSA 30% 이내; 4주 후 재평가. 소아·물방울건선·농포성/홍피성 건선 등에는 금기. 반복·유지치료는 의사의 감독하에 결정_
 

@@ -108,7 +108,7 @@ flowchart TD
 
 <p align="center"><strong>지루피부염 진단 및 치료 알고리듬</strong></p>
 
-> _노비프록스액은 약 2주 무호전 시 중지·상담. TCI는 국소 calcineurin 억제제이며 지루피부염에는 허가 외 사용._
+> _[노비프록스액](https://www.health.kr/drug/A11APPPPP1032)은 약 2주 무호전 시 중지·상담. TCI는 국소 calcineurin 억제제이며 지루피부염에는 허가 외 사용._
 
 ***
 
@@ -124,7 +124,7 @@ flowchart TD
   * 얼굴/간찰부에서 반복적으로 재발하거나 스테로이드 반복 사용을 피해야 하는 경우 : topical calcineurin inhibitor를 steroid-sparing option으로 고려(off-label)
 * **유지요법**
   * 두피 : 재발이 잦으면 항진균 샴푸를 간헐적으로 지속; ketoconazole 2%액은 허가 용법에 따라 1\~2주마다 1회 재발방지 용법 사용
-  * 얼굴/몸통 : 재발 양상에 따라 항진균 크림을 주 1\~2회 등 간헐적으로 사용하거나 재발 초기에 치료; 구체적 유지 빈도는 임상적 선택이며, 코모졸크림의 허가 용법에 정해진 주 1\~2회 재발방지 용법이 있는 것으로 해석하지 않음
+  * 얼굴/몸통 : 재발 양상에 따라 항진균 크림을 주 1\~2회 등 간헐적으로 사용하거나 재발 초기에 치료; 구체적 유지 빈도는 임상적 선택이며, [코모졸크림](https://www.health.kr/drug/A11A1560A0178)의 허가 용법에 정해진 주 1\~2회 재발방지 용법이 있는 것으로 해석하지 않음
 * 악화 요인 회피 : 두피에 자극적인 hair spray, hair pomade, 염색제 등과의 관련이 있으면 중단/변경
 * 충분한 국소치료에도 반응이 없으면 단순히 약제를 강화하기 전에 진단, 사용법 및 순응도를 재평가. 노비프록스는 허가사항에 따라 **약 2주 사용 후에도 개선이 없으면 중지하고 상담**하며, 모든 제제에서 4주까지 평가를 미루지 않음
 
@@ -146,25 +146,25 @@ flowchart TD
 * **항진균 샴푸(일반의약품·비급여)**
 
 <table><thead><tr><th>성분 및 제품</th><th>급성기 용법</th><th>재발방지/유지요법 및 사용법</th></tr></thead><tbody>
-<tr><td>ketoconazole 2% <mark style="color:blue;">[니조랄2%액]</mark></td><td>주 2회, 2~4주</td><td>허가 재발방지 용법: 1~2주마다 1회; 3~5분 접촉 후 충분히 헹굼</td></tr>
+<tr><td>ketoconazole 2% <mark style="color:blue;">[<a href="https://www.health.kr/drug/2018052500004">니조랄2%액</a>]</mark></td><td>주 2회, 2~4주</td><td>허가 재발방지 용법: 1~2주마다 1회; 3~5분 접촉 후 충분히 헹굼</td></tr>
 <tr><td><strong>ciclopirox olamine 1.5%</strong> <mark style="color:blue;">[노비프록스액]</mark></td><td>허가 용법: 주 2~3회 또는 필요시 사용; 약 2주 무호전 시 중지·상담</td><td>재발이 잦으면 주 1회 등 간헐적 유지 사용 고려(임상적 유지요법); 3~5분 접촉 후 충분히 헹굼</td></tr>
 </tbody></table>
 
 * 노비프록스의 국내 성분·농도는 **시클로피록스올아민 1.5%**이며, 국외 ciclopirox 1% 샴푸와 구분
 * **노비프록스 연령·특수군** : 허가사항에서 **12세 미만 소아 및 임신부·수유부는 사용 전 의사·약사와 상의할 대상**으로 기재됨. 소아 사용 여부는 개별 평가하며, 영아의 cradle cap에 성인용 처방을 그대로 적용하지 않음. <mark style="color:$info;">\[노비프록스 허가사항]</mark>
 * 눈·점막에 닿지 않도록 함; 눈에 들어가면 물로 충분히 씻음. **노비프록스는 약 2주 무호전 시 중지·상담**하고, 자극·접촉피부염·미란이 발생하면 즉시 중지 후 재평가함. 심한 진물·미란·균열·상처 부위와 눈 주위에는 적용하지 않음. 니조랄 등 다른 제품도 각 허가사항에 따라 재평가함
-* 기타 항비듬/각질용해 샴푸 : zinc pyrithione <mark style="color:blue;">\[아치온현탁액]</mark>, selenium sulfide, salicylic acid, sulfur, coal tar 등; 제제별 성분·연령·접촉 시간·국내 판매 여부를 확인하여 보조적으로 선택
+* 기타 항비듬/각질용해 샴푸 : zinc pyrithione <mark style="color:blue;">\[[아치온현탁액](https://www.health.kr/drug/2016020500001)]</mark>, selenium sulfide, salicylic acid, sulfur, coal tar 등; 제제별 성분·연령·접촉 시간·국내 판매 여부를 확인하여 보조적으로 선택
 * coal tar는 냄새·자극·착색, 각질용해제는 자극으로 사용이 제한될 수 있음
 
 #### <mark style="color:$primary;">스테로이드</mark>
 
 * 대상 : 항진균 샴푸/외용제만으로 조절되지 않는 뚜렷한 가려움·홍반 또는 급성 악화 (☞ [국소 스테로이드](../231_/211_-topical-corticosteroids.md))
 * **두피** : 병변 중증도에 따라 적절한 역가를 단기간 사용
-  * 심한 flare에 한해 clobetasol propionate <mark style="color:blue;">\[더모베이트액]</mark> 등 **매우 강한 역가(superpotent)** 제제를 병변에 제한하여 짧게 사용; 경증의 기본 처방으로 사용하지 않음
+  * 심한 flare에 한해 clobetasol propionate <mark style="color:blue;">\[[더모베이트액](https://www.health.kr/drug/2018032700006)]</mark> 등 **매우 강한 역가(superpotent)** 제제를 병변에 제한하여 짧게 사용; 경증의 기본 처방으로 사용하지 않음
   * 더모베이트액은 1일 1\~2회 사용하며 **2주 이상 연속 사용 또는 주 50 ㎖ 이상 사용을 하지 않음**; 건조한 두피에 적용하고 얼굴·눈꺼풀·간찰부에는 사용하지 않음
 * 더모베이트액은 두피용 액제로 별도 품목이며, 치료면적은 체표면적의 20%를 초과하지 않음. 백선·농가진 등 두피감염이 의심되면 사용에 앞서 감별하고 감염을 치료함. <mark style="color:$info;">\[더모베이트액 허가사항]</mark>
 * 더모베이트액은 가연성이므로 **도포 중·직후 화기·흡연·헤어드라이기 등 열원을 피함**. **24개월 미만 금기, 24개월 이상 18세 미만 사용 비권장**; 소아에게 성인 처방을 적용하지 않음.
-* **얼굴, 간찰부** : hydrocortisone 1% <mark style="color:blue;">\[락티케어에취씨로션1%]</mark> 등 저역가 제제를 얇게 사용; 보통 5\~7일 이내 호전을 확인하고 중단. **락티케어에취씨로션1%는 치료기간 7일 이내**로 제한하며 사용 전 잘 흔듦(허가 용법 1일 1\~3회; 본 장에서는 보통 1일 1\~2회 사용). 지속되면 진단·치료전략을 재평가
+* **얼굴, 간찰부** : hydrocortisone 1% <mark style="color:blue;">\[[락티케어에취씨로션1%](https://www.health.kr/drug/2018120300073)]</mark> 등 저역가 제제를 얇게 사용; 보통 5\~7일 이내 호전을 확인하고 중단. **락티케어에취씨로션1%는 치료기간 7일 이내**로 제한하며 사용 전 잘 흔듦(허가 용법 1일 1\~3회; 본 장에서는 보통 1일 1\~2회 사용). 지속되면 진단·치료전략을 재평가
 * 일반적으로 병변 부위에 1일 1\~2회 적용하며, 고역가 스테로이드는 장기 연속 사용을 피함
 * 주의 : 장기간·반복 사용 시 피부 위축, 모세혈관확장, steroid rosacea/periorificial dermatitis 등 부작용 위험이 증가하므로 특히 얼굴에는 반복적 장기 사용을 피함
 * 눈꺼풀에는 피부용 약제를 임의로 적용하지 않으며, 스테로이드 반복 사용 시 안압 상승·녹내장·백내장 위험에 주의; 안검염 동반 시 눈꺼풀 위생 관리 및 필요시 안과 협진
@@ -172,7 +172,7 @@ flowchart TD
 #### <mark style="color:$primary;">Calcineurin 억제제</mark>
 
 * 얼굴 또는 간찰부에서 반복성 병변이 있거나 국소 스테로이드의 반복 사용을 피해야 할 때 고려하는 **steroid-sparing option** (지루피부염에는 off-label) (☞ [국소 칼시뉴린 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor))
-* pimecrolimus 1% <mark style="color:blue;">\[엘리델]</mark>, tacrolimus 0.03%, 0.1% <mark style="color:blue;">\[프로토픽]</mark>
+* pimecrolimus 1% <mark style="color:blue;">\[[엘리델](https://www.health.kr/drug/2018040900040)]</mark>, tacrolimus 0.03%, [0.1%](https://www.health.kr/drug/A11AJJJJJ0725) <mark style="color:blue;">\[[프로토픽](https://www.health.kr/drug/A11AJJJJJ0724)]</mark>
 * 통상 1일 2회 얇게 적용; 초기 작열감/따가움이 있을 수 있음. 성인 얼굴의 반복 재발 시 호전 후 tacrolimus 0.1%를 주 2회 사용하는 유지요법 등을 피부과와 상의하여 고려(허가 외 사용)
 * Tacrolimus와 같은 부위의 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고함. Pimecrolimus는 도포 후 보습제 사용이 가능하므로 두 성분의 복약지도를 구분함.
 * 아토피피부염의 허가 연령은 tacrolimus 0.03%·pimecrolimus 1%가 2세 이상, tacrolimus 0.1%가 16세 이상임. 이 연령 기준을 지루피부염 허가로 오인하지 않음. 지루피부염에는 허가 외 사용이며 소아, 특히 영아에게 임의 적용하지 않음. 감염된 피부·점막을 피하고 자외선 노출을 줄이도록 지도
@@ -183,7 +183,7 @@ flowchart TD
 * **국소치료에 비해 근거가 제한적이며 routine therapy로 사용하지 않음**
 * 대상 : 적절한 국소 항진균제와 항염증 치료에도 조절되지 않는 **광범위한 중등도\~중증 또는 난치성 지루피부염**에서 제한적으로 고려
 * 전신치료 전에 진단 및 순응도를 재평가하고 psoriasis, tinea, contact dermatitis 등 다른 질환을 배제하며 피부과 협진을 고려
-* **itraconazole** : 공개 연구는 초기 **100 ㎎ bid ×7일** 후 다음 달부터 매월 첫 2일간 200 ㎎/d ×2개월, 위약대조 연구는 초기 **200 ㎎/d ×7일** 후 같은 월별 pulse를 **3개월** 추가함. 연구별 용법을 혼합하지 않으며 일률적인 표준 유지요법으로 적용하지 않음 <mark style="color:blue;">\[스포라녹스캡슐]</mark>. <mark style="color:$info;">\[J Eur Acad Dermatol Venereol 2005; Am J Clin Dermatol 2015]</mark>
+* **itraconazole** : 공개 연구는 초기 **100 ㎎ bid ×7일** 후 다음 달부터 매월 첫 2일간 200 ㎎/d ×2개월, 위약대조 연구는 초기 **200 ㎎/d ×7일** 후 같은 월별 pulse를 **3개월** 추가함. 연구별 용법을 혼합하지 않으며 일률적인 표준 유지요법으로 적용하지 않음 <mark style="color:blue;">\[[스포라녹스캡슐](https://www.health.kr/drug/2021071200003)]</mark>. <mark style="color:$info;">\[J Eur Acad Dermatol Venereol 2005; Am J Clin Dermatol 2015]</mark>
   * 처방 전 간질환, 심부전/심실기능 저하 병력, 임신·임신 계획, CYP3A4 약물상호작용을 확인; 지루피부염 치료에는 심부전/심실기능 저하 또는 그 병력 환자와 임부에서 사용하지 않음
   * 간기능 검사를 고려하며 반복 pulse·간질환 위험이 있으면 추적 검사 계획; 황달·진한 소변·심한 피로 또는 부종·호흡곤란 발생 시 중단하고 평가
   * simvastatin/lovastatin, 일부 항부정맥제, 경구 midazolam 등 병용금기 약물을 확인. 캡슐은 식사 직후 복용하며 PPI/H2차단제 등 위산 억제제가 흡수를 줄일 수 있음
@@ -245,6 +245,8 @@ flowchart TD
 > 약 2주 후 반응 평가; 무호전 시 중지·상담, 호전 시 지속 여부 결정
 > ```
 >
+> 약제 정보: [노비프록스액·1.5%](https://www.health.kr/drug/A11APPPPP1032)
+>
 > _✽약 2주 후에도 개선이 없으면 노비프록스를 중지하고 상담; 호전 후 재발이 잦으면 주 1회 등 간헐적 유지 사용을 개별 고려(고정된 국내 허가 재발방지 용법과 구분)_
 
 > **처방례 2. 염증·가려움이 심한 두피 flare**
@@ -255,6 +257,8 @@ flowchart TD
 > 더모베이트액  건조한 두피 병변에 얇게 qd ×7일
 > ```
 >
+> 약제 정보: [노비프록스액·1.5%](https://www.health.kr/drug/A11APPPPP1032) · [더모베이트액·0.05%](https://www.health.kr/drug/2018032700006)
+>
 > _✽노비프록스는 약 2주 무호전 시 중지·상담. 더모베이트액은 매우 강한 역가 제제이므로 심한 두피 염증에 제한; 호전되면 즉시 중단하고 7일째 재평가. 2주 이상 연속 사용 및 주 50 ㎖ 이상 사용을 피하며 얼굴·눈꺼풀에는 사용하지 않음_
 
 > **처방례 3. 반복성 얼굴 지루피부염**
@@ -263,6 +267,8 @@ flowchart TD
 > 코모졸크림(ketoconazole 2%)  병변에 얇게 qd ×2~4주
 > ```
 >
+> 약제 정보: [코모졸크림·2%](https://www.health.kr/drug/A11A1560A0178)
+>
 > _✽중증도에 따라 크림 bid 사용 가능; 염증이 뚜렷하면 hydrocortisone 1%를 5\~7일 정도 단기 병용. 반복 재발 시 pimecrolimus/tacrolimus 고려(지루피부염에는 허가 외 사용)_
 
 > **처방례 4. 치료 불응성 또는 광범위 중등도\~중증**
@@ -270,6 +276,8 @@ flowchart TD
 > ```
 > 스포라녹스캡슐 100 ㎎  1회 2캡슐 qd 식사 직후 ×7일
 > ```
+>
+> 약제 정보: [스포라녹스캡슐·100 ㎎](https://www.health.kr/drug/2021071200003)
 >
 > _✽허가 외 사용이며 피부과 협진하에 선별된 성인에게 고려. 반응과 위험을 검토한 뒤 다음 달부터 매월 첫 2일간 200 ㎎/d ×3개월 추가 여부를 개별 결정(위약대조 연구 요법). 심부전 병력·임신·간기능 및 병용금기 약물 확인_
 
