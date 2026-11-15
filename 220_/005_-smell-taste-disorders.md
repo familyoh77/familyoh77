@@ -5,11 +5,11 @@
 * 후각 및 미각은 소화액 분비를 촉진하는 등 섭식과 밀접하게 연관됨
 * 후각/미각 기능의 장애는 식욕 감퇴·체중 감소·영양실조와 연관되고 삶의 질 저하, 정신건강 문제, 사망률 증가와도 연관성이 보고됨(인과관계가 확립되지 않은 역학적 연관성)
 * 분류
-  * 후각 장애&#x20;
+  * 후각 장애
     * 정량적 장애 : 후각 저하/소실(Hyposmia/Anosmia)
     * 정성적 장애 : 이취증(Parosmia), 환각취(Phantosmia)
     * 전도성(conductive)/감각신경성(sensorineural)의 해부학적 구분은 1차 진료에서 치료 방향을 잡는 데 유용한 실용적 구분이나 공식 주분류는 아니며, 신경퇴행성 질환처럼 중추성 요소가 큰 경우 단순히 sensorineural로 묶기에는 한계가 있음
-  * 미각 장애&#x20;
+  * 미각 장애
     * 정량적 장애 : 미각 저하/소실(Hypogeusia/Ageusia)
     * 정성적 장애 : 미각 왜곡(Dysgeusia), 환각미각(Phantogeusia)
 * 유병률 : 고령에서 흔하며 연령 증가에 따라 유병률이 증가함
@@ -41,17 +41,17 @@
 * 구강 장치(틀니 등), 치은염, 구강 칸디다증
 * 입마름(Xerostomia) : 침 분비 감소 → 미뢰 기능 저하
 * 구강 작열감 증후군(Burning mouth syndrome)
-* 신경성 미각 장애 : <mark style="background-color:yellow;">Bell 마비(Bell's palsy)</mark> 및 기타 CN VII(chorda tympani), CN IX, CN X 병변
+* 신경성 미각 장애 : <mark style="background-color:yellow;">Bell's palsy</mark> 및 기타 CN VII(chorda tympani), CN IX, CN X 병변
 
-#### <mark style="color:$primary;">후각 장애</mark>&#x20;
+#### <mark style="color:$primary;">후각 장애</mark>
 
-<mark style="color:cyan;background-color:yellow;">**전도성(Conductive)**</mark>
+<mark style="color:cyan;background-color:yellow;">**전도성 (Conductive)**</mark>
 
 * 알레르기 비염, 만성 비부비동염(CRS), 비용종
 * 비중격 만곡증, 비갑개 비대
 * 상기도 감염(URI)으로 인한 일시적 점막 부종
 
-<mark style="color:cyan;background-color:yellow;">**감각신경성(Sensorineural)**</mark>
+<mark style="color:cyan;background-color:yellow;">**감각신경성 (Sensorineural)**</mark>
 
 * 바이러스 감염 후(Post-viral)
 * 두부 외상(Post-traumatic) : 사골 체판(cribriform plate) 손상, 후각 신경(CN I) 절단
@@ -64,13 +64,11 @@
 
 * 약물 관련 후각·미각 장애의 근거 수준은 약제마다 차이가 크며 일부는 증례보고 또는 약물감시 자료에 근거함
 * 증상 발생 시 투약 시작·용량 변경과의 시간적 연관성, 다른 원인 가능성, 중단 또는 변경 후 회복 여부를 함께 평가
-* 금속성 맛(metallic taste) 유발 약제 : metronidazole, clarithromycin, metformin, lithium&#x20;
+* 금속성 맛(metallic taste) 유발 약제 : metronidazole, clarithromycin, metformin, lithium
 
 <mark style="color:cyan;">**1. 항생제 및 항균제**</mark>
 
-<table><thead><tr><th width="165">세부 분류</th><th width="213">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong><mark style="background-color:yellow;">마크롤라이드계</mark></strong></td><td>clarithromycin, azithromycin</td><td>쓴맛 또는 금속성 맛 유발; clarithromycin이 대표적으로 흔하며 azithromycin은 상대적으로 빈도 낮음</td></tr><tr><td><strong><mark style="background-color:yellow;">퀴놀론계</mark></strong></td><td>ciprofloxacin, ofloxacin</td><td>미각 변화 보고</td></tr><tr><td><strong><mark style="background-color:yellow;">테트라사이클린계</mark></strong></td><td>doxycycline, tetracycline</td><td>설태 침착 및 미각 이상, Black hairy tongue 가능성</td></tr><tr><td><strong>기타 항균제</strong></td><td>metronidazole</td><td>금속성 맛의 대표적 원인 약물; Black hairy tongue 보고가 있음</td></tr><tr><td><strong><mark style="background-color:yellow;">아미노글리코사이드계</mark></strong></td><td>amikacin</td><td>가역적 후각 소실(일과성 무후각증)이 드물게 보고됨(증례 수준)</td></tr><tr><td><strong><mark style="background-color:yellow;">페니실린계</mark></strong></td><td>ampicillin</td><td>일시적 후각 저하가 드물게 보고됨(증례 수준)</td></tr><tr><td><strong><mark style="background-color:yellow;">페니실린계/β-lactamase 억제제 복합제</mark></strong></td><td>amoxicillin-clavulanate</td><td>Black hairy tongue 유발 보고</td></tr><tr><td><strong>항진균제</strong></td><td>terbinafine</td><td><mark style="background-color:yellow;">미각상실을 포함한 미각 장애가 흔히 보고되며 후각 장애도 보고; 일부에서 중단 후에도 장기간 지속되거나 영구적일 수 있음</mark></td></tr><tr><td><strong>구강 세정제</strong></td><td>chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
-
-* <mark style="background-color:yellow;">terbinafine 투여 중 미각·후각 장애가 생기면 신속히 평가하여 중단·대체를 결정</mark>
+<table data-search="false"><thead><tr><th width="164">세부 분류</th><th width="212">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong>Macrolide</strong></td><td>clarithromycin, azithromycin</td><td>쓴맛 또는 금속성 맛 유발; clarithromycin이 대표적으로 흔하며 azithromycin은 상대적으로 빈도 낮음</td></tr><tr><td><strong>Quinolone</strong></td><td>ciprofloxacin, ofloxacin</td><td>미각 변화 보고</td></tr><tr><td><strong>Tetracyclines</strong></td><td>doxycycline, tetracycline</td><td>설태 침착 및 미각 이상, Black hairy tongue 가능성</td></tr><tr><td><strong>기타 항균제</strong></td><td>metronidazole</td><td>금속성 맛의 대표적 원인 약물; Black hairy tongue 보고가 있음</td></tr><tr><td><strong>Aminoglycosides</strong></td><td>amikacin</td><td>가역적 후각 소실(일과성 무후각증)이 드물게 보고됨(증례 수준)</td></tr><tr><td><strong>페니실린</strong></td><td>ampicillin</td><td>일시적 후각 저하가 드물게 보고됨(증례 수준)</td></tr><tr><td><strong>Pc/β-lactamase 억제제 복합제</strong></td><td>amoxicillin-clavulanate</td><td>Black hairy tongue 유발 보고</td></tr><tr><td><strong>항진균제</strong></td><td>terbinafine</td><td>미각상실을 포함한 미각 장애가 흔히 보고되며 후각 장애도 보고; 일부에서 중단 후에도 장기간 지속되거나 영구적일 수 있음</td></tr><tr><td><strong>구강 세정제</strong></td><td>chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
 
 <mark style="color:cyan;">**2. 항고혈압제 및 심혈관계 약물**</mark>
 
@@ -78,7 +76,7 @@
 
 <table><thead><tr><th width="134">세부 분류</th><th width="217">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong>ACE 억제제</strong></td><td>captopril, enalapril</td><td>미각 저하·왜곡의 대표적 원인 계열; captopril이 가장 잘 알려짐</td></tr><tr><td><strong>ARB</strong></td><td>losartan</td><td>미각 이상 보고(ACE 억제제보다 드묾)</td></tr><tr><td><strong>칼슘채널차단제</strong></td><td>diltiazem, nifedipine</td><td>미각·후각 이상 보고; 구강 건조 동반 가능</td></tr><tr><td><strong>이뇨제</strong></td><td>hydrochlorothiazide, spironolactone, amiloride</td><td>일부에서 미각 이상 보고; thiazide계는 요중 아연 배설 증가로 아연 결핍에 기여 가능</td></tr><tr><td><strong>베타차단제</strong></td><td>propranolol</td><td>미각 저하 및 구강 건조 보고</td></tr></tbody></table>
 
-<mark style="color:cyan;background-color:yellow;">**3. 신경정신과 약물**</mark>
+<mark style="color:cyan;background-color:yellow;">**3. 신경/정신계 약물**</mark>
 
 <table><thead><tr><th width="118">세부 분류</th><th width="224">약물</th><th>특징 및 비고</th></tr></thead><tbody><tr><td><strong>SSRI</strong></td><td>paroxetine (기타 SSRI 포함)</td><td>미각 이상 및 구강 건조 보고</td></tr><tr><td><strong>TCA</strong></td><td>amitriptyline, nortriptyline, doxepin, imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td><strong>항경련제</strong></td><td>carbamazepine</td><td>쓴맛의 환각미각(Bitter phantogeusia) 보고; 드물게 미각 소실 가능</td></tr><tr><td><strong>항경련제</strong></td><td>phenytoin</td><td>드물게 미각 저하(Hypogeusia) 또는 미각 소실이 보고됨</td></tr><tr><td><strong>항경련제</strong></td><td>topiramate</td><td>탄산음료가 밍밍하거나 금속성으로 느껴지는 특징적 미각 변화(탄산탈수효소 억제 관련 추정; acetazolamide도 같음)</td></tr><tr><td><strong>조울증 치료제</strong></td><td>lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
@@ -96,7 +94,7 @@
 * 환각미각(Phantogeusia) : 맛 자극 없이 맛(주로 쓴맛·금속성 맛)을 느낌
 * 공통 영향 : 식욕 감소, 체중 감소, 영양 불량, 우울감, 대인관계 어려움
 
-<mark style="color:cyan;background-color:yellow;">**이취증(Parosmia)**</mark>
+<mark style="color:cyan;background-color:yellow;">**이취증 (Parosmia)**</mark>
 
 * 바이러스 감염 후(특히 COVID-19) 회복 과정에서 흔히 발생
 * 기전 : 후각 신경 재생 과정의 비정상적 신호 전달과 후각구·중추 후각 회로의 처리 변화 등이 관여(추정)
@@ -107,7 +105,7 @@
   * <mark style="background-color:yellow;">성상신경절차단술은 COVID-19 후 이취증에 대한 위약대조 연구에서 위약 대비 유의한 개선이 확인되지 않아 권고하지 않음</mark>
 * 환자에게 바이러스 감염 후 후각이 회복되는 과정에서 흔히 나타날 수 있으며 반드시 나쁜 예후를 의미하지 않음을 설명
 
-<mark style="color:cyan;background-color:yellow;">**환각취(Phantosmia)**</mark>
+<mark style="color:cyan;background-color:yellow;">**환각취 (Phantosmia)**</mark>
 
 * 원인 : 감염 후, 편두통, 비부비동 질환, 외상, 약물, 특발성 등
 * 감별 : 측두엽 뇌전증(Temporal lobe epilepsy, 발작 전조 증상으로 발생), 두개내 종양(특히 olfactory groove meningioma), 전두엽·측두엽 종양, 파킨슨병, 정신질환(조현병, 우울증)
@@ -117,23 +115,22 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스러운 후각·미각 이상과 함께 새로 발생한 국소 신경학적 결손\*, 심한 두통, 의식 변화, 시야 이상 등이 동반  `급성 중추신경계 병변(뇌졸중)`&#x20;
+* 갑작스러운 후각·미각 이상과 함께 새로 발생한 국소 신경학적 결손\*, 심한 두통, 의식 변화, 시야 이상 등이 동반 `급성 중추신경계 병변(뇌졸중)`
   * _\*<mark style="background-color:yellow;">이마가 보존되는 편측 안면 마비, 구음장애, 사지 위약·감각 저하, 복시, 보행 이상 등</mark>_
-* 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적)  `CSF leak`  `두개저 골절`
+* 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적) `CSF leak` `두개저 골절`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 미각 이상 + 다른 신경학적 이상 없이 새로 발생한 <mark style="background-color:yellow;">전형적인 말초성 양상의 편측 안면 마비(이마 주름 소실·눈감기 약화 등)</mark>  `Bell 마비`  `Ramsay Hunt 증후군`
-  * <mark style="background-color:yellow;">이마 보존은 핵상성 병변을 시사하지만, 뇌교 병변에서도 말초성 양상의 안면 마비가 생길 수 있으므로 이마 침범만으로 뇌졸중을 배제할 수는 없음</mark>
-* 진행성 또는 지속성 편측 후각 장애, 비출혈·비강 종괴  `비강·부비동 종양`  `후각신경모세포종`
-* 새로 발생하거나 지속되는 원인 불명의 phantosmia  `측두엽 뇌전증`  `두개내 종양`
+* **(당일)** 미각 이상 + 다른 신경학적 이상 없이 새로 발생한 <mark style="background-color:yellow;">전형적인 말초성 양상의 편측 안면 마비</mark> `Bell 마비` `Ramsay Hunt 증후군`&#x20;
+* 진행성 또는 지속성 편측 후각 장애, 비출혈·비강 종괴 `비강·부비동 종양` `후각신경모세포종`
+* 새로 발생하거나 지속되는 원인 불명의 phantosmia `측두엽 뇌전증` `두개내 종양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 명확한 감염 후 원인의 양측성 후각 장애가 예상된 경과 없이 객관적으로 지속  `지속성 감염 후 후각 장애`
-* 후각 소실 + 파킨슨 징후(서동, 경직) 또는 REM 수면 행동 장애  `파킨슨병`  `신경퇴행성 질환`
-* 후각 소실 + 인지 저하  `알츠하이머병`  `신경퇴행성 질환`
-* 후각·미각 소실 + 설명되지 않는 체중 감소 또는 영양 섭취 장애  `영양실조`
+* 명확한 감염 후 원인의 양측성 후각 장애가 예상된 경과 없이 객관적으로 지속 `지속성 감염 후 후각 장애`
+* 후각 소실 + 파킨슨 징후(서동, 경직) 또는 REM 수면 행동 장애 `파킨슨병` `신경퇴행성 질환`
+* 후각 소실 + 인지 저하 `알츠하이머병` `신경퇴행성 질환`
+* 후각·미각 소실 + 설명되지 않는 체중 감소 또는 영양 섭취 장애 `영양실조`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -288,7 +285,7 @@ flowchart TD
   * 의도하지 않은 체중 감소가 지속되거나 식사 섭취가 뚜렷이 줄면 영양 상담 병행
   * 단백질 식품(육류·어류·두부·달걀) 충분 섭취 권고
 * 항암 치료 중인 환자 : 미뢰 세포 손상으로 금속성 맛·미각 왜곡이 흔함
-  * 플라스틱이나 <mark style="background-color:yellow;">도자기 식기</mark>를 사용하면 금속성 맛이 완화될 수 있음&#x20;
+  * 플라스틱이나 <mark style="background-color:yellow;">자기 식기</mark>를 사용하면 금속성 맛이 완화될 수 있음
   * 고기류는 냉장 상태에서 레몬즙·소스 등에 재운 뒤 충분히 익혀 조리하고, 식혀서 제공하면 냄새를 줄이는 데 도움이 될 수 있음
 * 미각·후각 소실로 인한 우울감, 고독감 → 정기적 추적 관찰
 
@@ -307,7 +304,7 @@ flowchart TD
 
 * 선택적 사용, 일상적 권고 아님
 * 비특이적 후각 장애(post-viral 포함)에서 전신 스테로이드의 routine 사용은 권고하지 않음
-* 선택적 사용 가능 상황 : 비용종 동반 만성 비부비동염(CRSwNP)에서 증상이 심하거나 적절한 국소 치료에도 조절되지 않는 경우, 환자별 위험을 평가하여 단기간 고려&#x20;
+* 선택적 사용 가능 상황 : 비용종 동반 만성 비부비동염(CRSwNP)에서 증상이 심하거나 적절한 국소 치료에도 조절되지 않는 경우, 환자별 위험을 평가하여 단기간 고려
   * 용량·기간은 중증도와 환자 위험에 따라 정하고, 반복 투여를 피하며 당뇨·고혈압·골다공증 등 동반 질환 시 특히 신중 사용
 * 적절한 국소 치료(INCS 등)에도 조절되지 않거나 전신 스테로이드가 반복적으로 필요한 중증의 비용종을 동반한 만성 비부비동염은 의뢰 - 수술 및 생물학적 제제 치료 등 고려
 
@@ -333,7 +330,7 @@ flowchart TD
 * 원인 약물 중단 또는 대체제 변경 : 금속성 맛, 미각 장애 유발 약물 확인 후 가능하면 교체
 * Vitamin A intranasal (비강 내 레티놀) : 초기 소규모·후향적 연구에서는 후각 상피 재생 가능성이 제시되었으나, 2026년 APOLLO 이중맹검 위약대조 RCT(post-COVID 후각 장애, 9,000 <mark style="background-color:yellow;">IU/일</mark> 12주)에서는 객관적 후각기능에 유의한 개선이 확인되지 않음(삶의 질 하위 지표 일부만 개선)
   * 비-COVID 감염 후 후각 장애에서의 효과도 확립되지 않아 일상적으로 권고하지 않음
-* 기타 실험적 치료(정량적 후각 장애 및 이취증 전반에 대해 연구됨, parosmia 특이 치료는 아님)&#x20;
+* 기타 실험적 치료(정량적 후각 장애 및 이취증 전반에 대해 연구됨, parosmia 특이 치료는 아님)
   * theophylline·sodium citrate·비강 내 인슐린은 소규모·단기 연구에서 일부 지표 개선 신호가 있었으나 표본 크기와 연구 설계가 이질적이어서 표준 치료로 권고되지 않음
   * 후각 틈새 혈소판 풍부 혈장(PRP) 주사는 여러 대조 연구와 메타분석에서 객관적 후각기능 개선 가능성이 보고되었고 소규모 추적 연구에서는 1년까지 효과가 지속될 가능성도 제시되었으나, 연구 규모가 작고 원인 질환·PRP 제조법·주사 횟수·평가법이 표준화되지 않아 아직 일상적 치료로 권고하지 않음
 
