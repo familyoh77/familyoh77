@@ -17,21 +17,6 @@
   * 항응고제·항혈소판제 복용 환자의 복통·옆구리 통증에서는 복직근 혈종(rectus sheath hematoma) 또는 후복막 출혈(retroperitoneal bleeding) 가능성 고려
   * metformin은 복통·설사·구역 등 소화기 부작용이 흔하며, 드물지만 탈수·신기능 저하 동반 시 metformin 관련 젖산산증(lactic acidosis) 가능성 고려
 
-- 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
-- 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심임
-- 고령(특히 당뇨병·신부전) 환자는 통증·발열·복부 강직 등이 경미하게 발현될 수 있어 중증 질환을 간과하기 쉬우므로 비전형적 증상에도 악성·혈관 질환 가능성을 항상 염두에 두어야 함
-- 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 임신 여부를 우선 확인하고 β-hCG를 시행
-  * 임신이 확인되면 자궁외임신을 반드시 배제
-- 복용 중인 약물을 반드시 확인
-  * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
-  * 드물게 약물 유발 췌장염이 발생할 수 있음&#x20;
-    * 관련성이 보고된 약물 : azathioprine, valproate, thiazide계 이뇨제; 약제별 근거 수준은 다름
-  * 스테로이드는 잠재적 위험인자이나 주요 원인은 아님
-  * DPP-4 억제제 및 GLP-1 수용체 작용제도 췌장염 발생이 보고되지만 인과성에는 논란이 있어 과도하게 강조하지 않되, 당뇨·비만 치료 중인 환자의 복통에서는 약물 복용력을 확인
-  * SGLT2 억제제 복용 환자는 혈당이 정상 또는 경도 상승만 보이는 euglycemic DKA가 가능함을 고려 - 혈당만으로 DKA를 배제하지 말 것
-  * 항응고제·항혈소판제 복용 환자의 복통·옆구리 통증에서는 복직근 혈종(rectus sheath hematoma) 또는 후복막 출혈(retroperitoneal bleeding) 가능성 고려
-  * metformin은 복통·설사·구역 등 소화기 부작용이 흔하며, 드물지만 탈수·신기능 저하 동반 시 metformin 관련 젖산산증(lactic acidosis) 가능성을 고려
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
@@ -107,18 +92,17 @@
 
 #### <mark style="color:$primary;">심전도(ECG)</mark> <a href="#acs-evaluation" id="acs-evaluation"></a>
 
-* 고령 또는 심혈관 위험인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 고감도 심장 트로포닌(high-sensitivity cardiac troponin, hs-cTn) 검사를 적극 고려
-  * ACS가 의심되면 다른 원인 평가와 병행하여 ECG를 신속히 시행하고 hs-cTn을 평가함; 외래에서 검사 결과를 기다리느라 응급 이송을 지연하지 않음
-  * 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않음. 증상 발생 시각·임상적 의심도와 검증된 hs-cTn 배제 경로에 따라 판단하며, 필요시 반복 검사 <mark style="color:$info;">\[ACC/AHA 등 2025]</mark>
-* 여성, 고령자, 당뇨병 환자에서는 ACS가 흉통 없이 상복부 통증·구역·피로감 등으로 나타날 수 있으므로 ECG 검사를 적극 고려함
+* 고령, 여성, 당뇨 또는 심혈관 위험인자(고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감, 호흡곤란, 식은땀, 구역 등이 동반되면 ECG 및 고감도 심장 트로포닌(high-sensitivity cardiac troponin, [hs-cTn](002_-chest-pain.md#lab)) 검사를 적극 고려 - 이들 환자에서는 ACS가 흉통 없이 상복부 통증·구역·피로감 등으로 나타날 수 있음
+* 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않음. 증상 발생 시각·임상적 의심도와 검증된 hs-cTn 배제 경로에 따라 판단하며, 필요시 반복 검사 <mark style="color:$info;">\[ACC/AHA 등 2025]</mark>
+* 외래에서 검사 결과를 기다리느라 응급 이송을 지연하지 않음
 
 #### <mark style="color:$primary;">영상 검사</mark> <a href="#abdominal-imaging" id="abdominal-imaging"></a>
 
 * 복부 X선 : 장폐쇄 또는 천공이 의심되는 일부 상황에서 보조적으로 사용할 수 있으나, 민감도가 낮아 CT를 대체하지 못함
-* 복부 초음파(US) : 담낭·담도·신장·부속기 평가; 방사선 노출 없음; 임신·소아에서 1차 선택
-* 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령·전신상태 이상·혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상 검사
-  * 충수염·게실염·폐쇄·천공 등 광범위한 원인을 평가할 수 있으며, 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CTA protocol을 선택
-  * 연령·임신 여부·통증 위치와 의심 질환에 따라 US 또는 MRI를 우선 선택할 수 있음
+* 복부 초음파(US) : 담낭·담도·신장·부속기 평가; 임신·소아에서 1차 선택
+* 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령, 전신상태 이상, 혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상 검사
+  * 충수염·게실염·폐쇄·천공 등 광범위한 원인을 평가할 수 있음
+  * 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CTA protocol을 선택
 * MRI : 방사선 노출을 피해야 하는 임신·소아에서 초음파로 진단이 불명확한 충수염 평가에 유용
   * 담도계 평가에서는 MRCP가 담관·췌관을 비침습적으로 시각화하여 담석·협착 감별에 도움
 * 부인과 초음파 : 자궁외임신, 난소 병변 의심 시 (경질초음파가 우선)
@@ -126,7 +110,9 @@
 
 <mark style="color:cyan;">**CT vs 초음파 선택 원칙**</mark>
 
-<table data-search="false"><thead><tr><th width="343">임상 상황</th><th>권장 영상</th></tr></thead><tbody><tr><td>RUQ 통증 (담낭·담도 의심)</td><td>초음파 우선</td></tr><tr><td>LLQ 통증 (게실염 의심)</td><td>CT</td></tr><tr><td>옆구리 통증 (요로 결석 의심) - 성인</td><td>비조영 CT (가장 정확); 임신에서는 초음파 우선</td></tr><tr><td>충수염 의심 - 성인</td><td>CT abdomen/pelvis with IV contrast 우선 (조영제 금기 등 상황에 따라 protocol 조정)</td></tr><tr><td>충수염 의심 - 소아·임신</td><td>초음파 우선; 불명확 시 MRI 고려</td></tr><tr><td>골반 통증 (부인과 의심)</td><td>경질초음파</td></tr><tr><td>미분화 급성 복통 (고령·혈관 위험·diffuse pain)</td><td>CT</td></tr><tr><td>AAA 의심 - 혈역학적 불안정</td><td>CT를 위해 지체하지 말고 즉시 수술/혈관외과 협진 및 응급 이송; bedside POCUS는 신속한 확인 용도로만 활용</td></tr><tr><td>AAA 의심 - 혈역학적 안정</td><td>CT angiography</td></tr></tbody></table>
+* 연령, 임신 여부, 통증 위치, 의심 질환에 따라 US 또는 MRI를 우선 선택할 수 있음
+
+<table data-search="false"><thead><tr><th width="207">임상 상황</th><th width="150"></th><th>권장 영상</th></tr></thead><tbody><tr><td colspan="2">RUQ 통증 (담낭·담도 의심)</td><td>초음파 우선</td></tr><tr><td colspan="2">LLQ 통증 (게실염 의심)</td><td>CT</td></tr><tr><td colspan="2">옆구리 통증 (요로 결석 의심) - 성인</td><td>비조영 CT (가장 정확); 임신에서는 초음파 우선</td></tr><tr><td rowspan="2">충수염 의심</td><td>성인</td><td>CT abdomen/pelvis with IV contrast 우선 (조영제 금기 등 상황에 따라 protocol 조정)</td></tr><tr><td>소아·임신</td><td>초음파 우선; 불명확 시 MRI 고려</td></tr><tr><td colspan="2">골반 통증 (부인과 의심)</td><td>경질초음파</td></tr><tr><td colspan="2">미분화 급성 복통 (고령·혈관 위험·diffuse pain)</td><td>CT</td></tr><tr><td rowspan="2">AAA 의심</td><td>혈역학적 불안정</td><td>지체하지 말고 즉시 수술/혈관외과 협진 및 응급 이송; bedside POCUS는 신속한 확인 용도로만 활용</td></tr><tr><td>혈역학적 안정</td><td>CT angiography</td></tr></tbody></table>
 
 ## <mark style="color:green;">감별</mark> <a href="#differential-diagnosis" id="differential-diagnosis"></a>
 
@@ -134,30 +120,34 @@
 
 #### <mark style="color:$primary;">Visceral pain (내장통)</mark>
 
-* 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증(소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등)
+* 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증
+  * 예: 소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등&#x20;
 
 <mark style="color:cyan;">**기원별 통증 부위**</mark>
 
-* embryologic origin 관련 부위에 통증이 나타남; 임상적으로는 "배꼽 주위 → 우하복부 이동"과 같은 국소화(localization) 패턴이 감별에 더 직접적으로 활용됨
+* embryologic origin 관련 부위에 통증이 나타남
+* 임상적으로는 "배꼽 주위 → 우하복부 이동"과 같은 국소화(localization) 패턴이 감별에 더 직접적으로 활용됨
 * Foregut 기원 : 식도, 위장, 십이지장 근위부, 간, 담낭, 췌장 → 상복부 통증
 * Midgut 기원 : 십이지장 제2부 원위부 \~ 횡행결장 proximal ⅔ (hepatic flexure 포함, splenic flexure 제외) → 배꼽 주위 통증
 * Hindgut 기원 : 횡행결장 distal ⅓ 이하(splenic flexure 포함) \~ 항문관 상부(치상선 위) → 치골 상부 통증
+
+<figure><img src="../.gitbook/assets/복통 gut_origin_pain.png" alt=""><figcaption><p><strong>발생학적 기원에 따른 내장통의 대표 위치</strong> <br><em>저자 재구성 (참고 문헌: UNSW Embryology; MSD Manual Professional Edition)</em><br></p></figcaption></figure>
 
 <mark style="color:cyan;">**임상 양상**</mark>
 
 * 둔하고 국소화가 불명확하며, 정중선 부근에 미만성으로 느껴지는 통증이 전형적
 * 구역·구토·발한 등 자율신경 증상이 동반될 수 있음
-* 중공 장기(hollow organ)의 폐쇄·강한 연동운동 → 경련성 또는 산통성(colicky) 통증; 복부 팽만이 동반될 수 있음
-* 염증·허혈에 의한 통증은 지속적일 수 있으며, 급성 장간막 허혈(acute mesenteric ischemia) 초기에는 심한 통증에 비해 복부 진찰 소견이 경미할 수 있음
-* 염증이 벽측 복막으로 진행하면 체성통이 더해져 국소 압통·반발통이 나타날 수 있음
+* hollow organ의 폐쇄·강한 연동운동 시 경련성 또는 산통성(colicky) 통증 발생, 복부 팽만이 동반 가능
+* 염증·허혈에 의한 통증은 지속적일 수 있으며, 급성 장간막 허혈 초기에는 심한 통증에 비해 복부 진찰 소견이 경미할 수 있음
+* 염증이 벽측 복막으로 진행하면 체성통이 더해져 국소 압통·근성 방어(guarding)·반동 압통(rebound tenderness)이 나타날 수 있음
 
 #### <mark style="color:$primary;">Parietal pain (체성통)</mark>
 
-* 기전 : 위액, 담즙, 췌장 효소, 대변, 고름, 혈액 등에 의해 벽측 복막(parietal peritoneum)이 자극·염증되면서 발생
+* 기전 : 위액, 담즙, 췌장 효소, 대변, 고름, 혈액 등이 벽측 복막(parietal peritoneum)을 자극하거나 염증을 일으키면서 발생
   * 벽측 복막은 체성 신경 지배를 받아 통증이 날카롭고 비교적 정확히 국소화됨
   * 움직임·기침·복막 긴장의 변화에 의해 악화
 * 임상 양상 : 날카롭고 국소화된 통증
-  * 국소 압통, guarding, rebound tenderness 등이 나타날 수 있음
+  * 국소 압통, 근성 방어, 반동 압통 등이 나타날 수 있음
 
 #### <mark style="color:$primary;">Referred pain (연관통)</mark>
 
@@ -172,96 +162,73 @@
 
 <figure><img src="../.gitbook/assets/복통1-연관통.jpg" alt="장기별 통증 및 연관통의 대표적 분포를 보여주는 앞면·뒷면 도식"><figcaption><p><strong>장기별 통증 및 연관통(referred pain)의 대표적 분포</strong><br>출처: OpenStax College. <em>Anatomy and Physiology</em>, Referred Pain Chart (<a href="https://commons.wikimedia.org/wiki/File:1506_Referred_Pain_Chart.jpg">원본</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>).</p></figcaption></figure>
 
-✽ 장기와 관련하여 통증이 느껴질 수 있는 부위를 나타낸 도식으로, 장기의 해부학적 위치나 모든 환자의 통증 범위를 뜻하지 않음. 분포만으로 원인 질환을 확진·배제하지 않으며, 충수염의 통증 이동은 위 내장통·체성통 설명과 함께 해석함. 일부 표시(흉선·넓게 표시된 신장 영역 등)는 원 도식의 단순화로 임상적 의미가 제한적임.
+> _장기와 관련하여 통증이 느껴질 수 있는 부위를 나타낸 도식으로, 장기의 해부학적 위치나 모든 환자의 통증 범위를 뜻하지 않음. 분포만으로 원인 질환을 확진·배제하지 않으며, 충수염의 통증 이동은 위 내장통·체성통 설명과 함께 해석함._ \
+> _일부 표시(흉선·넓게 표시된 신장 영역 등)는 원 도식의 단순화로 임상적 의미가 제한적임_
 
 #### <mark style="color:$primary;">Abdominal wall pain (복벽통)</mark>
 
-* 복벽 근육, 근막, 피부 신경의 병변에 의한 통증; 복강 내 장기와 무관
-* 원인 질환 : 근육 긴장(muscle strain), 늑간신경포착, 복직근 혈종, 대상포진(발진 출현 전 전구기에 편측 복통으로 발현될 수 있으며, 특히 고령·면역 저하 환자에서 진단 지연 주의), 수술 후 신경종
-* 특징 : 국소 압통, 자세 변화·움직임에 의해 악화; 일반적인 근육·신경성 복벽통에서는 복막자극 소견이 드묾 - 단, 복직근 혈종 등에서는 복막자극 소견이나 혈역학적 불안정이 동반될 수 있음
-* Carnett's sign : 압통 부위를 누른 상태에서 환자에게 고개를 들게 하거나(또는 상체를 들어 올리거나) 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (✽ 복강 내 병변 시 통증 감소)
-  * 양성 시 CT 반복보다 복벽 원인 치료를 먼저 고려
+* 복강 내 장기와 무관한 복벽 근육·근막·피부·신경 병변에 의한 통증
+* 원인 질환 : 근육 긴장(muscle strain), 늑간신경포착, 복직근 혈종, 대상포진, 수술 후 신경종
+* 특징 : 국소 압통, 자세 변화·움직임에 의해 악화
+  * 일반적인 근육·신경성 복벽통에서는 복막자극 소견이 드묾. 단, 복직근 혈종 등에서는 복막자극 소견이나 혈역학적 불안정이 동반될 수 있음
+* Carnett's sign : 압통 부위를 누른 상태에서 환자에게 고개를 들게 하거나(또는 상체를 들어 올리거나) 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음
+  * 양성 시 반복적 CT 검사보다 복벽 원인 치료를 먼저 고려
   * 초기 복막염에서도 복근 수축 시 통증이 악화될 수 있어 위양성 가능성이 있으므로, 반동 압통·발열·전신 상태 악화 등 다른 소견과 함께 종합 판단해야 함
 
 ### <mark style="color:orange;">통증 패턴 인식</mark> <a href="#pain-patterns" id="pain-patterns"></a>
 
 * 통증 발생 양상은 원인 감별의 첫 번째 단서임
 
-<table data-search="false"><thead><tr><th width="250">통증 패턴</th><th>시사 원인</th></tr></thead><tbody><tr><td>갑작스러운 극심한 통증</td><td>혈관 사고(AAA, 대동맥 박리), 천공, 장간막 허혈</td></tr><tr><td>산통(colicky) - 파도처럼 반복</td><td>장 폐쇄, 요관 결석; 담도 산통은 명칭과 달리 강해진 뒤 일정하게 지속되는 통증이 흔함</td></tr><tr><td>지속적·점점 악화</td><td>충수염, 담낭염, 췌장염 등 염증성 질환</td></tr><tr><td>식후 악화 (postprandial)</td><td>만성 장간막 허혈, 기능성 소화불량, 소화성 궤양 등</td></tr><tr><td>배꼽 주위→우하복부 이동</td><td>충수염 (전형적 이동 패턴)</td></tr><tr><td>자세·움직임으로 악화</td><td>복벽통, 근골격계 원인</td></tr><tr><td>배변 후 호전</td><td>IBS</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="250">통증 패턴</th><th>시사 원인</th></tr></thead><tbody><tr><td><strong>갑작스러운 극심한 통증</strong></td><td>혈관 사고(AAA, 대동맥 박리), 천공, 장간막 허혈</td></tr><tr><td><strong>산통(colicky) - 파도처럼 반복</strong></td><td>장 폐쇄, 요관 결석; 담도 산통은 명칭과 달리 강해진 뒤 일정하게 지속되는 통증이 흔함</td></tr><tr><td><strong>지속적·점점 악화</strong></td><td>충수염, 담낭염, 췌장염 등 염증성 질환</td></tr><tr><td><strong>식후 악화 (postprandial)</strong></td><td>만성 장간막 허혈, 기능성 소화불량, 소화성 궤양 등</td></tr><tr><td><strong>배꼽 주위→우하복부 이동</strong></td><td>충수염 (전형적 이동 패턴)</td></tr><tr><td><strong>자세·움직임으로 악화</strong></td><td>복벽통, 근골격계 원인</td></tr><tr><td><strong>배변 후 호전</strong></td><td>IBS</td></tr></tbody></table>
 
 ### <mark style="color:orange;">위치에 따른 복부 통증의 감별</mark>
 
 #### <mark style="color:$primary;">우상복부 및 상복부 복통</mark>
 
-✽ GERD·위염·기능성 소화불량은 해부학적으로 상복부 통증이지만 임상적으로 RUQ와 겹치는 경우가 많아 함께 기술함
-
 * Biliary colic : RUQ 또는 epigastrium의 심한 둔한 통증(대개 30분 이상 지속되다 수시간 내 소실), 구역, 구토, 발한
-* Acute cholecystitis : RUQ 또는 epigastrium의 통증이 소실되지 않고 지속·악화(대개 4\~6시간 이상), 발열, 우상복부 압통·Murphy's sign - 지속시간만으로 확진·배제하지 않음; 복부 강직 등 복막자극 소견이 있으면 합병증 평가
-* Acute cholangitis : RUQ 통증, 발열·오한, 황달 - 전형적 삼징(Charcot)이 모두 없어도 배제되지 않으며, 전신 염증 소견·담즙정체 검사 이상·담도 영상 소견을 종합하여 판단 <mark style="color:$info;">\[TG18]</mark>
-* Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 진한 갈색 소변, 회색(점토색) 대변; 음주 병력
-* Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저질환이 있는 경우 의심
+* Acute cholecystitis : RUQ 또는 epigastrium의 통증이 소실되지 않고 지속·악화(대개 4\~6시간 이상), 발열, 우상복부 압통·Murphy's sign
+  * 통증 지속 시간만으로 확진·배제하지 않음
+  * 복부 강직 등 복막자극 소견이 있으면 합병증 평가
+  * Murphy's sign : 우측 쇄골중앙선의 늑골연 아래를 누른 채 깊게 숨을 들이쉬게 할 때, 통증 때문에 흡기가 갑자기 멈추면 양성(급성 담낭염 시사)
+* Acute cholangitis : 'RUQ 통증, 발열·오한, 황달'의전형적 삼징(Charcot)이 모두 없어도 배제되지 않음
+  * 전신 염증 소견·담즙정체 검사 이상·담도 영상 소견을 종합하여 판단 <mark style="color:$info;">\[TG18]</mark>
+* Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 진한 갈색 소변, 회색(점토색) 대변
+  * 음주 병력
+* Liver abscess : RUQ 통증, 발열
+  * 특히 당뇨병, 간/담도/췌장에 기저질환이 있는 경우 의심
 * Fitz-Hugh-Curtis 증후군 : 골반염이나 난관염 같은 여성 생식기 감염이 퍼져서 간 주변의 피막에 염증(간주위염) 발생; 젊은 여성에서 RUQ 통증
   * 하복부 증상 없이 RUQ 통증만 있을 수 있어 담낭염과의 감별이 필요
   * PID 병력 또는 STI 위험인자 확인
 * Acute MI : 흉통·호흡곤란이 동반될 수 있으나, 흉통 없이 상복부 통증·구역·식은땀만으로 발현할 수 있음
-  * 관상동맥병 위험이 있는 환자에서 의심 → ECG 즉시 시행, hs-cTn 평가 (✽ NSTEMI에서는 ECG가 정상일 수 있음 유의)
+  * 관상동맥병 위험이 있는 환자에서 의심 → ECG 즉시 시행, hs-cTn 평가 (NSTEMI에서는 ECG가 정상일 수 있음 유의)
 * Pancreatitis : 점차 심해진 후 지속, 앞으로 기대면 호전, 등으로의 방사통
   * 음주 병력
 * GERD : 가슴쓰림, 역류, 삼킴곤란
+  * GERD·위염·기능성 소화불량은 해부학적으로 상복부 통증이지만 임상적으로 RUQ와 겹치는 경우가 많음
 * Gastritis, Gastropathy : 상복부 불편감·통증, 구역·구토 ± 소화불량
 * 소화성 궤양 : 상복부 통증·쓰림, 식사와 연관될 수 있음
-  * NSAID 사용력과 H. pylori 위험 확인
-* Functional dyspepsia : 불편한 식후 포만감, 조기 포만감, 상복부 통증 또는 쓰림; 상복부 팽만감·구역이 동반될 수 있음
-* Gastroparesis : 구역, 구토, 조기 포만감, 식후 포만감·팽만감
+  * NSAID 사용력과 _H. pylori_ 위험 확인
+* Functional dyspepsia : 불편한 식후 포만감, 조기 포만감, 상복부 통증 또는 쓰림
+  * 상복부 팽만감·구역이 동반될 수 있음
+* Gastroparesis : 구역, 구토, 조기 포만감, 식후 포만감·팽만감&#x20;
 
 ***
 
-✽ 알고리듬 약어: PE, 폐색전증(pulmonary embolism); PERC, 폐색전증 배제 기준(PE rule-out criteria); CTPA, CT 폐혈관조영술(CT pulmonary angiography).
+
 
 ```mermaid
-flowchart TD
-    A["우상복부·상복부 통증"] --> B["불안정·복막염 등 응급 의심?"]
-    B -- "예" --> C["즉각 응급 이송·수술/응급 평가"]
-    B -- "아니오" --> O["ACS 가능성?<br/>심혈관 위험·고령·당뇨·식은땀·호흡곤란·흉부 불편감"]
-    O -- "예" --> P["<u>ECG 신속 시행 + hs-cTn</u><br/>• 다른 원인 평가와 병행<br/>• 결과 대기로 이송을 지연하지 않음"]
-    P -- "ACS 소견 또는 배제 불가" --> C
-    P -- "적절한 평가 후 ACS 가능성 낮음" --> D
-    O -- "아니오" --> D["담낭·담도 질환 의심?"]
-    D -- "예" --> E["RUQ 초음파 우선"]
-    E --> F["담낭염·담도폐쇄 소견?"]
-    F -- "예" --> G["원인별 치료·외과/소화기 의뢰"]
-    F -- "아니오" --> H["<u>추가 영상 고려</u><br/>• 지속 증상 또는 진단 불명확<br/>• CT 또는 MRCP 고려"]
-    D -- "아니오" --> I["호흡기 증상·저산소증·흉막성 통증?"]
-    I -- "예" --> J["<u>PE 임상 사전확률 평가</u><br/>• ± 흉부 X선<br/>• 대체 진단 감별"]
-    J -- "낮음" --> K["PERC 8개 항목 모두 음성?"]
-    K -- "예" --> S["추가 PE 검사 불필요·다른 원인 평가"]
-    K -- "아니오 또는 미적용" --> L["D-dimer 검사"]
-    J -- "중간" --> L
-    J -- "높음" --> R["즉시 CTPA 등 영상 검사"]
-    L --> T["D-dimer 양성?"]
-    T -- "예" --> R
-    T -- "아니오" --> U["PE 배제·다른 원인 평가"]
-    I -- "아니오" --> M["옆구리 통증·혈뇨·CVA tenderness?"]
-    M -- "예" --> N["UA ± 신장/요로 초음파 또는 비조영 CT"]
-    M -- "아니오" --> Q["췌장염·PUD·GERD·기능성 소화불량 등 평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class A start
-    class B,O,D,F,I,K,T,M question
-    class C,R emergency
-    class P,E,H,J,L,S,U,N,Q evaluation
-    class G treatment
 ```
 
-<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong></p>
+```mermaid
+```
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Right Upper Quadrant Pain 2022; ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
+> _PE=pulmonary embolism), PERC=PE rule-out criteria(폐색전증 배제 기준); CTPA=CT pulmonary angiography._
+>
+> _초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함._ \
+> _PE의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함._ \
+> _CTPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함_
 
-✽ 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함. PE의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함. CTPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함.
+<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR Right Upper Quadrant Pain 2022;</mark></em> <br><em><mark style="color:$info;">ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
 
 ***
 
@@ -298,42 +265,6 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    A["하복부 복통"] --> U["불안정·복막염·급성 염전 의심?"]
-    U -- "예" --> V["즉각 응급 평가·이송"]
-    U -- "아니오" --> B["임신 가능성이 있는가?"]
-    B -- "예" --> C["β-hCG"]
-    C -- "양성" --> E["<u>자궁외임신 우선 배제</u><br/>• 경질초음파 ± 산부인과 응급 평가"]
-    C -- "음성" --> G
-    B -- "아니오" --> G["통증 위치·동반 증상 평가"]
-    G --> H["RLQ 우세"]
-    H --> I["<u>충수염 의심</u><br/>• 성인: IV contrast CT 우선 고려<br/>• 소아·임신: US 우선, 불명확 시 MRI"]
-    G --> J["LLQ 우세"]
-    J --> K["게실염 의심"]
-    K --> L["진단 불확실·중증·첫 발병 등 → CT로 확인"]
-    L --> M["저위험 비복잡 게실염?"]
-    M -- "예" --> N["<u>보존적 치료·신뢰할 수 있는 추적</u><br/>• routine 항생제는 권하지 않음"]
-    M -- "아니오" --> W["<u>복잡성·고위험 게실염</u><br/>• 농양·천공·폐쇄 또는 고위험 소견<br/>• 항생제·입원 필요성·외과 평가"]
-    W -- "천공·복막염·패혈증" --> V
-    G --> O["옆구리·요로 증상"]
-    O --> P["UA ± 비조영 CT/초음파"]
-    P --> Q["발열/패혈증 + 폐쇄"]
-    Q --> R["감염성 요로폐쇄·즉시 비뇨기과 감압"]
-    G --> S["갑작스러운 편측 골반통 + 구역/구토"]
-    S --> T["<u>난소염전 고려</u><br/>• 경질초음파 + 응급 산부인과 평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    classDef followup fill:#e8eaf6,stroke:#7986cb
-    class A start
-    class U,B,M question
-    class V,E,R,T emergency
-    class C,G,I,L,P,Q evaluation
-    class N,W treatment
-    class H,J,K,O,S followup
 ```
 
 <p align="center"><strong>하복부 복통의 평가 알고리듬</strong></p>
