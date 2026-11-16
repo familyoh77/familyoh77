@@ -17,14 +17,16 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
+<mark style="background-color:yellow;">※ 호흡수·심박수·혈압의 수치 기준은 성인에 해당하며, 소아는 연령별 정상 호흡수·심박수·혈압 및 호흡곤란 기준을 적용함</mark>
+
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 아나필락시스 - 갑작스러운 기침 및 호흡곤란
+* <mark style="background-color:yellow;">아나필락시스 의심 - 알레르겐 노출 후 갑작스러운 기침·호흡곤란, 후두 증상 또는 저혈압 등</mark>
 * 심한 호흡 곤란, 호흡근 피로, 의식 변화 또는 중증·진행성 저산소증
 * SBP ＜90 ㎜Hg 또는 말초 저관류·의식 변화를 동반하는 저혈압
 * 빈맥(＞130회/분)
 * 설명할 수 없는 급성 흉통
-* 이물 흡인, 독성 연기 흡인 의심
+* 이물 흡인, 독성 연기 <mark style="background-color:yellow;">흡입</mark> 의심
 * 객혈 + 기도 유지 곤란·저산소증·혈역학적 불안정 또는 지속적 다량 출혈 `생명위협 객혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
@@ -54,7 +56,7 @@
 
 * 급성 호흡기 감염 : 감기(대부분), 급성 기관지염, 부비동염, 폐렴, 백일해, 세기관지염, COVID-19
 * 만성 질환(예: 천식, COPD, CHF)의 급성 악화, 폐색전증
-* 흡인 : 이물질, 독성 물질 흡입
+* <mark style="background-color:yellow;">기도 이물 흡인, 독성 물질 흡입</mark>
 
 #### <mark style="color:$primary;">급성\~만성 기침</mark>
 
@@ -70,7 +72,7 @@
 
 * 흔한 원인 : 천식/cough-variant asthma(CVA), 상기도기침증후군(UACS), 비천식성 호산구성 기관지염(NAEB), GERD
   * 역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
-* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome
+* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, <mark style="background-color:yellow;">간질성 폐질환, 폐암, </mark>기관지 자극(예: 흡연, 연기, 향수, 표백제), 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome
   * 기침과민성은 여러 만성기침 질환에 동반될 수 있으며, 일부에서는 주된 병태생리적 특성으로 나타나므로 별도로 평가함
 * 다인성 기침(multifactorial cough) : 단일 원인 치료에 반응하지 않는 만성 기침에서는 두 가지 이상의 원인이 동시에 작용할 가능성을 고려
   * 성인에서는 천식·호산구성 기도염증, 비염·비부비동염, 역류 등 여러 특성이 함께 존재할 수 있음
@@ -109,37 +111,35 @@
 
 #### <mark style="color:$primary;">ACE inhibitor-induced cough</mark>
 
-* 정의 : ACEI 복용과 시간적으로 연관되어 발생하는 기침으로, 전형적으로 마른기침이며 다른 원인 없이 ACEI 중단 후 호전되면 약물 유발로 판단함
+* 정의 : <mark style="background-color:yellow;">ACEI가 기침의 원인 또는 악화 요인으로 작용하는 상태로, 전형적으로 마른기침을 보임. 투약 시작과 기침 발생 시점이 밀접하게 일치하지 않을 수 있으며, 다른 기침 원인과 동반될 수도 있음. 중단 후 호전 여부가 약물의 기여를 판단하는 데 도움이 됨</mark>
 * 기전 : ACEI가 bradykinin·substance P 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침반사를 자극함
 * 임상 양상
-  * 대부분 ACEI 투여 개시 수일\~수주 내 시작하지만 수개월 후 시작되는 경우도 있음
+  * <mark style="background-color:yellow;">ACEI 투여 시작 수시간 후부터 수개월 후까지 다양한 시점에 발생할 수 있음</mark>
   * 인후부 가려움, 따끔거림, 또는 긁는 느낌
-* 경과 : ACEI 중단 후 대개 1\~4주 이내 소실하며, 일부에서는 최대 약 3개월 지속될 수 있음; 재투약 시 재발
-  * 계열 효과이므로 다른 ACEI로 교체해도 재발함
-* DPP-4 억제제를 ACEI와 병용하면 bradykinin/substance P 관련 이상반응(기침 등) 위험이 증가할 수 있음
+* 경과 : ACEI 중단 후 대개 1\~4주 이내 소실하며, 일부에서는 최대 약 3개월 지속될 수 있음; 재투약 시 <mark style="background-color:yellow;">재발할 수 있음</mark>
+  * <mark style="background-color:yellow;">계열 효과이므로 다른 ACEI로 교체해도 재발할 수 있어, 약물 변경이 필요하면 ARB 등 다른 계열을 고려함</mark>
+* <mark style="background-color:yellow;">DPP-4 억제제와 ACEI 병용 시 substance P 등 매개물질의 분해 감소와 관련된 혈관부종 위험 증가가 보고되어 주의가 필요함</mark>
 
 #### <mark style="color:$primary;">비천식성 호산구성 기관지염 (Non-asthmatic eosinophilic bronchitis, NAEB)</mark>
 
 * 정의 : 호산구성 기도 염증이 있으나 기도과반응성(airway hyperresponsiveness)과 가변적 기류 제한이 없어 천식과 구별되는 만성기침의 원인
 * 임상 양상 : 주로 마른기침(소량의 가래를 동반할 수 있음); 호흡곤란·천명 없음
-* 진단 : 정상 spirometry + 기관지유발시험에서 기도과반응성 없음 + 유도객담 호산구 증가(통상 ≥3%), 다른 만성기침 원인 배제
-  * 유도객담 검사가 어려운 일차 진료에서는 FeNO·혈중 호산구 등 T2 염증 지표와 ICS 반응을 참고하여 추정하나, FeNO 상승은 NAEB에 특이적인 진단 기준은 아님
+* 진단 : <mark style="background-color:yellow;">정상 흉부 X선·spirometry, 가변적 기류 제한 없음, 기관지유발시험에서 기도과반응성 없음, 유도객담 호산구 증가(통상 ≥3%)를 종합함. ICS에 대한 기침 호전은 진단을 지지하며, 다른 만성기침 원인의 동반 여부도 평가함</mark>
+  * <mark style="background-color:yellow;">유도객담 검사가 어려운 일차 진료에서는 FeNO·혈중 호산구 등 T2 염증 지표와 ICS 반응으로 호산구성 기도질환을 추정할 수 있으나, 이들만으로 NAEB를 확진하거나 CVA와 구별할 수는 없음</mark>
 * 치료 : [흡입 스테로이드(ICS)](../223_/071_-asthma.md#inhaled-corticosteroid-ics)에 잘 반응함; 직업성 감작물질 등 원인 노출이 있으면 확인·회피
 
 #### <mark style="color:$primary;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
 
 * 정의 : 낮은 수준의 온도·기계적·화학적 자극에도 쉽게 유발되는 성가신 기침을 특징으로 하는 임상 증후군  <mark style="color:$info;">\[ERS 2020]</mark>
   * 기저질환의 유무·종류와 무관하게 기침반사 자체가 과민해진 병태생리적 특성(treatable trait)으로, 천식·GERD·UACS 등 다른 만성기침 원인과 동반될 수도 있고 단독으로 나타날 수도 있음 <mark style="color:$info;">\[BTS 2023]</mark>
-  * 표준 치료에 반응하지 않거나 원인을 찾을 수 없는 상태 자체를 가리키는 진단명은 아니며, 이는 RCC(난치성 만성기침)·UCC(원인불명 만성기침)의 정의에 해당함
+  * <mark style="background-color:yellow;">기침과민성의 유무와, 원인 질환을 적절히 치료했음에도 기침이 지속되는 RCC(난치성 만성기침)·충분한 평가 후에도 원인을 찾지 못하는 UCC(원인불명 만성기침)는 구분하여 평가함</mark>
 * 기전 : 미주신경 신호전달의 신경병증성 과민(neuropathic sensitization)으로 추정
 * 임상 양상
   * 소량의 자극(대화, 웃음, 찬 공기, 향수, 연기 등)에도 기침 발작 - allotussia(비자극성 요인에 의한 기침), hypertussia(자극성 요인에 대한 과도한 기침 반응), urge-to-cough(억누르기 어려운 기침 충동) 등으로 특징지어짐
   * 인후부 이물감, 따끔거림, 간지러움(laryngeal hypersensitivity)
   * 중년 여성에서 호발; 상기도 감염 후 시작되는 경우 많음
-* 진단 : 위와 같은 임상 특징으로 의심; 모든 원인을 배제·치료한 후에만 진단할 수 있는 개념은 아님&#x20;
-  * "충분한 치료 후에도 기침이 지속"되는 배제진단은 RCC/UCC의 정의에 해당
-* 치료 : 동반된 원인·치료 가능한 특성의 평가와 치료, 기침 조절 치료(cough control therapy
-  * 기침 억제 재활 치료 포함)를 우선
+* 진단 : <mark style="background-color:yellow;">위와 같은 임상 특징으로 의심하며, 다른 기침 원인의 평가·치료와 병행하여 기침과민성을 평가함</mark>
+* 치료 : <mark style="background-color:yellow;">동반된 원인·치료 가능한 특성을 평가·치료하고, 기침 조절 치료(cough control therapy; 기침 억제 재활 치료 포함)를 우선</mark>
   * 충분한 치료 후에도 지속되어 RCC/UCC에 해당하면 neuromodulator(gabapentin, pregabalin, amitriptyline 등) 고려
 
 #### <mark style="color:$primary;">후두 과민반응 (Laryngeal hyperresponsiveness, LHR)</mark>
@@ -150,7 +150,7 @@
 * 임상 양상
   * 인후부 조임·이물감, 목소리 변화(근긴장성 발성장애, muscle tension dysphonia)
   * 특정 유발 요인(향수, 웃음, 운동, 찬 공기, 강한 냄새) 노출 시 급성 악화
-  * ILO : 흡기 시 협착음(stridor) 유사음과 호흡곤란이 나타나며, 역설적 성대 움직임(paradoxical vocal fold movement)을 보이는 경우를 포함함; 천식으로 오인되기 쉬움
+  * ILO : 흡기 시 협착음(stridor) 유사음과 호흡곤란이 <mark style="background-color:yellow;">나타날 수 있으며,</mark> 역설적 성대 움직임(paradoxical vocal fold movement)을 보이는 경우를 포함함; 천식으로 오인되기 쉬움
 * 진단 : 후두 과민 자체를 확진하는 표준 검사는 없음; stroboscopy는 주로 음성장애·성대 진동 평가에 사용되며, ILO가 의심되면 증상 유발을 포함한 functional laryngoscopy가 유용함
   * 진단이 모호하거나 치료 반응이 없으면 이비인후과 협진
 * 치료 : 발성/호흡 치료(음성언어치료사 협진), 유발 요인 회피 교육
@@ -160,6 +160,7 @@
 
 * 만성기침의 정의 : 소아(14세 이하)에서 ＞4주 매일 지속되는 기침 <mark style="color:$info;">\[CHEST 2020; ERS 2020]</mark>
 * 평가 원칙 : 소아 전용 진단·치료 알고리듬을 사용함
+  * <mark style="background-color:yellow;">만성기침에서는 병력·신체진찰과 흉부 X선을 기본으로 평가하고, 협조가 가능한 연령에서는 폐활량측정을 시행함</mark>
   * 성인에서 흔한 원인(천식/CVA, UACS, GERD 등)을 그대로 적용하지 않으며, 특정 임상 단서 없이 UACS·GERD에 대한 경험적 치료를 일상적으로 시행하지 않음
 * 기침 양상 확인 : 건성기침과 습성기침을 구분함
   * 습성기침(wet cough) : 기도 분비물이 있는 듯한 가래 끓는 양상의 기침으로 실제 객담 배출 여부와 무관
@@ -172,14 +173,15 @@
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">만성 기침</mark>
+#### <mark style="color:$primary;">만성 기침 <mark style="background-color:yellow;">(성인)</mark></mark>
 
-1. 약물, 흡연, 환경, COPD, 천식 등 유발 요인 및 기저질환 확인
-2. 경고 징후 배제
-3. 흔한 원인(예: 천식/CVA, 상기도기침증후군, 역류성 질환) 감별
-4. 경험적 치료 후 반응 관찰
+1. <mark style="background-color:yellow;">경고 징후를 확인하고, 응급 소견이나 특정 질환 의심 소견이 있으면 우선 평가·대응</mark>
+2. <mark style="background-color:yellow;">약물, 흡연, 직업·환경 노출, COPD·천식 등 기저질환 확인</mark>
+3. <mark style="background-color:yellow;">흉부 X선·폐활량측정 등 기본 검사 시행</mark>
+4. <mark style="background-color:yellow;">천식/CVA, NAEB, 상기도기침증후군, 역류성 질환 등 임상적으로 의심되는 원인과 치료 가능한 특성을 평가</mark>
+5. <mark style="background-color:yellow;">표적 치료 후 반응을 평가하고, 지속 시 복약 순응도·흡입기 사용법·동반 원인 등을 재평가</mark>
 
-* CVA(기침형천식) 확진이 필요한 경우 기관지유발시험(methacholine challenge test) 시행; 경험적 흡입 스테로이드/기관지확장제 치료에 대한 반응은 CVA를 지지하는 소견이나 단독 확진 기준은 아니며(NAEB 등에서도 ICS에 반응 가능), 다른 호산구성 기도질환과의 감별이 필요
+* <mark style="background-color:yellow;">CVA(기침형천식)가 의심되나 폐활량측정만으로 진단이 명확하지 않은 경우 필요시 기관지유발시험(methacholine challenge test)을 고려함</mark>; 경험적 흡입 스테로이드/기관지확장제 치료에 대한 반응은 CVA를 지지하는 소견이나 단독 확진 기준은 아니며(NAEB 등에서도 ICS에 반응 가능), 다른 호산구성 기도질환과의 감별이 필요
 
 #### <mark style="color:$primary;">간편기침평가검사 (COugh Assessment Test, COAT)</mark>
 
@@ -191,12 +193,12 @@
 
 #### <mark style="color:$primary;">검사 및 대상</mark>
 
-* 아급성 기침 기본 평가 : 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
-* 만성기침 기본 평가 : 흉부 X선, 진단적 폐활량측정(spirometry) 및 기관지확장제 반응, CBC 및 혈중 호산구, 가능하면 FeNO, 산소포화도
+* 아급성 기침 기본 평가<mark style="background-color:yellow;">(성인)</mark> : 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
+* 만성기침 기본 평가<mark style="background-color:yellow;">(성인)</mark> : 흉부 X선, 진단적 폐활량측정(spirometry) 및 기관지확장제 반응, CBC 및 혈중 호산구, 가능하면 FeNO, 산소포화도
   * 가래가 있는 기침이면 객담 배양을 선택적으로 시행
   * 흉부 X선이 정상이어도 기관지확장증·간질성 폐질환·조기 폐암을 완전히 배제하지는 못하므로, 경험적 치료에 반응하지 않거나 비전형적 소견이 있으면 추가 영상검사(HRCT 등)를 고려
 * 흉부 X선 : 폐렴·결핵·악성종양·심부전 등 특정 질환이 의심되거나, 객혈·호흡 곤란·저산소증·비정상 흉부 진찰·이물 흡인 의심·지속 또는 재발하는 발열 등 red flag가 있거나, 예상보다 기침이 지속·악화되는 경우 시행; 만성 기침에서는 기본 검사
-  * 국내 결핵 역학을 고려하여 2주 이상 지속되는 기침에서는 활동성 폐결핵을 감별하기 위해 흉부 X선 및 필요시 결핵 검사(객담 도말/배양 등)를 시행
+  * <mark style="background-color:yellow;">결핵의 역학적 상황을 고려하여</mark> 2주 이상 지속되는 기침에서는 활동성 폐결핵을 감별하기 위해 흉부 X선 및 필요시 결핵 검사(객담 도말/배양 등)를 시행
   * 고령은 단독 적응증으로 보기보다 동반 위험인자와 임상 양상을 고려하여 검사 문턱을 낮춤
 * 객담 검사 : 만성 productive cough 또는 감염·기관지확장증 등이 의심되는 경우 배양검사를 고려
   * 결핵 위험인자 또는 임상·영상 소견이 있으면 AFB 도말/배양 및 분자검사 시행
@@ -217,9 +219,9 @@
 * stridor, 개 짖는 듯한 기침(barking cough) → Croup, 세균성 기관염
 * 인플루엔자 유행기, 급성 경과의 발열/오한/근육통을 동반한 기침 → 인플루엔자
 * 빈맥, 빈호흡, 발열 등 vital sign 이상을 동반한 급성 기침 → 폐렴
-* 발작적 기침(paroxysmal coughing), 기침 시 구토; 소아에서 흡기 시 whoop; 성인·청소년에서 지속적인 발작성 기침 → 백일해, 마이코플라스마 폐렴
-* 만성적인 많은 가래(moist, wet) → 기관지확장증
-* 기침 외 다른 증상 없음, 천식 치료 시 호전/중단 시 재발 → Cough-variant asthma
+* 발작적 기침(paroxysmal coughing), 기침 시 구토; 소아에서 흡기 시 whoop; 성인·청소년에서 지속적인 발작성 기침 → <mark style="background-color:yellow;">백일해 우선 감별; 발열·폐렴 소견을 동반하면 마이코플라스마 폐렴 등도 고려</mark>
+* <mark style="background-color:yellow;">만성적인 다량의 객담 → 기관지확장증·만성기관지염 등</mark>
+* 기침 외 다른 증상 없음, 천식 치료 시 호전/중단 시 재발 → <mark style="background-color:yellow;">CVA 의심; 치료 반응만으로 확진하지 않으며 NAEB 등도 감별</mark>
 * 다른 알레르기 증상 동반 → 알레르기비염, 천식
 * 돌발적 발생, 강한 기침 → 이물 흡입
 * 목 칼칼함, 반복적인 마른기침·목 청소 → 후두 과민·상기도 질환·역류 등 감별; 이 증상만으로 역류성 질환을 확진하거나 PPI를 투여하지 않음
@@ -461,6 +463,10 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* <mark style="background-color:yellow;">[Dicpinigaitis PV. Angiotensin-converting enzyme inhibitor-induced cough: ACCP evidence-based clinical practice guidelines. Chest. 2006;129(1 Suppl):169S-173S.](https://doi.org/10.1378/chest.129.1_suppl.169S) - ACEI 기침의 발생 시점·경과·재투약 및 원인 평가</mark>
+* <mark style="background-color:yellow;">[Brown NJ, et al. Dipeptidyl peptidase-IV inhibitor use associated with increased risk of ACE inhibitor-associated angioedema. Hypertension. 2009;54(3):516-523.](https://doi.org/10.1161/HYPERTENSIONAHA.109.134197) - DPP-4 억제제·ACEI 병용 시 혈관부종 위험</mark>
+* <mark style="background-color:yellow;">[CDC. Outpatient Clinical Care for Adults: Acute uncomplicated bronchitis.](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html) - 가래 색깔의 해석과 단순 급성 기관지염의 항생제 사용 원칙</mark>
+* <mark style="background-color:yellow;">[NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120/chapter/Recommendations) - 급성 기침의 항생제 사용과 고위험군 평가</mark>
 * [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 대한결핵 및 호흡기학회 개정 기침진료지침 2020의 요약 논문; 본문 급성·아급성 기침 알고리듬 출처
 * [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 자연 경과, 감별 및 약물 근거의 한계
 * [Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax. 2023;78(Suppl 6):s3-s19.](https://doi.org/10.1136/thorax-2023-220592) - treatable-traits·기침 과민성 접근, 경험적 PPI와 난치성 기침 치료
