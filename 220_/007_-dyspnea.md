@@ -1,4 +1,4 @@
-# 호흡 곤란 Dyspnea
+# 호흡곤란 Dyspnea
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -34,22 +34,22 @@
 
 * 쇼크 소견 : SBP ＜90 ㎜Hg 또는 말초 저관류·의식 변화를 동반하는 저혈압(DBP 단독 저하만으로는 판단하지 않음)
 * 청색증
-* 새로 발생한 뚜렷한 저산소혈증 또는 빠르게 하강하는 SpO₂ `급성 호흡 부전`
+* 새로 발생한 뚜렷한 저산소혈증 또는 빠르게 하강하는 SpO₂  `급성 호흡 부전`
   * 특히 실내공기 SpO₂ ＜90%
   * 천식 급성 악화에서는 ＜92%도 중증 소견
 * 빈호흡(＞30회/분)
 * 호흡 시 부근육 사용
 * 초조, 혼돈, 의식 저하
 * 빈맥(＞130회/분)
-* 지속적인 압박성 흉통, 실신·식은땀·혈역학 이상이 동반된 흉통, 갑작스러운 흉막성 흉통 `ACS` `대동맥 박리` `폐색전증`
-* 흡기 시 stridor(거친 고음성 호흡음) `상기도 폐쇄` `이물 흡인` `아나필락시스`
-* 가능한 알레르겐 노출 후 갑작스러운 목 조임·쉰 목소리·호흡곤란·기관지경련 또는 저혈압/실신 `아나필락시스`
+* 지속적인 압박성 흉통, 실신·식은땀·혈역학 이상이 동반된 흉통, 갑작스러운 흉막성 흉통  `ACS`  `대동맥 박리`  `폐색전증`
+* 흡기 시 stridor(거친 고음성 호흡음)  `상기도 폐쇄`  `이물 흡인`  `아나필락시스`
+* 가능한 알레르겐 노출 후 갑작스러운 목 조임·쉰 목소리·호흡곤란·기관지경련 또는 저혈압/실신  `아나필락시스`
   * 피부 증상은 동반되지 않을 수 있음
 * 생명 위협 천식 징후 - 말을 끝까지 잇지 못함, silent chest(청진상 천명음마저 소실), 피로·의식 변화
 * 휴식 중 발생 + 활력징후 이상(빈호흡, 빈맥, 저혈압, SpO₂ 저하 등) 동반
-* 사지 위약·shallow breathing 동반 `신경근육 질환`
-* 편측 호흡음 감소와 함께 저혈압, 기관 편위, 경정맥 확장 중 하나 이상 동반 `긴장성 기흉`
-* 저혈압과 함께 경정맥 확장, 심음 감소, pulsus paradoxus 중 하나 이상 동반 `심낭압전`
+* 사지 위약·shallow breathing 동반  `신경근육 질환`
+* 편측 호흡음 감소와 함께 저혈압, 기관 편위, 경정맥 확장 중 하나 이상 동반  `긴장성 기흉`
+* 저혈압과 함께 경정맥 확장, 심음 감소, pulsus paradoxus 중 하나 이상 동반  `심낭압전`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
@@ -331,9 +331,34 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["호흡곤란 환자"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    B -- "예" --> C["<u>기도·호흡·순환 안정화 및 119 호출</u><br/>• 아나필락시스: 즉시 epinephrine IM<br/>• 긴장성 기흉: 숙련된 응급 감압, 영상 대기 안 함"]
+    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 호흡노력 평가</u><br/>• 필요 시 산소·환기 지원"]
+    D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·D-dimer 등 선택"]
+    F --> G["주요 원인 단서?"]
+    G -- "심장·혈관" --> H["심부전·ACS 또는 PE 의심?"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• 울혈·혈압·ECG 평가<br/>• 응급 이송 및 질환별 처치"]
+    H -- "PE" --> J["<u>검증된 사전확률 경로</u><br/>• 낮음·중간: D-dimer<br/>• 높음: 영상검사, 불안정 시 즉시 이송"]
+    G -- "기관지·폐" --> I["기도 악화 또는 기흉·감염 의심?"]
+    I -- "천식·COPD 악화" --> I2["<u>SABA ± ipratropium</u><br/>• 중증도에 따라 스테로이드·이송"]
+    I -- "기흉·감염" --> N["<u>흉부 X선·POCUS 등 원인 평가</u><br/>• 상태에 따라 응급 처치·이송"]
+    G -- "대사·신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·ketone·혈액가스<br/>• 호흡근 위약: FVC·NIF 및 즉시 전원"]
+    G -- "설명 불충분·불안 가능" --> L["<u>기질적 원인 배제 후 불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 단계적 추가 검사"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class B,G,H,I question
+    class C,H2,K emergency
+    class D,F,J,N evaluation
+    class I2,L treatment
 ```
 
-<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline;</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017; GOLD/GINA 2026 Exacerbation Management;</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
+<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,<br>BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,<br>2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
 
 #### <mark style="color:$primary;">1차 진료에서 흔한 진단 오류</mark>
 
@@ -353,6 +378,7 @@
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
+
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보
   * 필요시 즉시 119 호출 및 전원
@@ -468,11 +494,14 @@
   * MDI + spacer : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러 100 ㎍/분무</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark>
   * 중증도별 용량은 아래 처방례 참조
 * 천식 악화에서 ipratropium(SAMA) 병용
-  * 중증 : nebulizer 0.5 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트 0.5 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> 병용
+  * 중증 : 병용
   * 중등도 악화 또는 초기 SABA 반응 불충분 : 추가 고려
   * 경증 : 일률 병용하지 않음
+  * 1회 용량 : 0.25 ㎎(250 ㎍) nebulizer; <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트 0.5 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> 중 1 ㎖
+  * 필요시 SABA 투여 때마다 함께 20\~30분 간격으로 초기 최대 3회 <mark style="color:$info;">\[GINA 2026 Box 9-6]</mark>
 * COPD 악화 : SABA ± ipratropium
-  * 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
+  * ipratropium 병용 예시 : 1회 0.5 ㎎(500 ㎍, 2 ㎖) nebulizer
+  * 반복 투여는 중증도·반응에 따라 결정하며, 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
 
 <mark style="color:cyan;">**스테로이드**</mark>
 
@@ -516,7 +545,7 @@
 > * _기존 협심증 발작도 첫 투여 후 5분 내 완전 호전이 없으면 즉시 119 호출_
 > * _투여 반응만으로 심근허혈을 진단·배제하지 않음_
 
-> **처방례 2. 천식/COPD 급성 악화**
+> **처방례 2. 천식/COPD 급성 악화 - 의료기관 초기 처치**
 >
 > ```
 > 천식 악화 - 벤토린에보할러 100 ㎍/분무, MDI + spacer
@@ -524,11 +553,13 @@
 > 중등도: 4~6분무, 필요하면 20~30분 간격으로 초기 총 3회까지
 > 중증·생명위협: 즉시 이송 준비, 6~10분무 또는 벤토린네뷸 2.5 ㎎/2.5 ㎖ 2앰플(salbutamol 5 ㎎) nebulizer
 > ※ 중증은 필요하면 20~30분 간격으로 반복하며 지속 감시
+> ipratropium 병용 시: 아트로벤트흡입액유디비 0.5 ㎎/2 ㎖ 중 1 ㎖(0.25 ㎎, 250 ㎍) nebulizer
+> ※ 중증 악화에서는 병용, 중등도 악화 또는 초기 SABA 반응 불충분 시 추가 고려
+> ※ ipratropium은 필요시 salbutamol 투여 때마다 함께 20~30분 간격으로 초기 최대 3회
+>
 > COPD 악화 - SABA ± SAMA를 중증도·반응에 따라 조절
-> 아트로벤트흡입액유디비 0.5 ㎎/2 ㎖ 1바이알 nebulizer
-> (살부타몰과 병용)
-> ※ 천식: 중증 악화에서는 병용, 중등도 악화 또는 초기 SABA 반응 불충분 시 추가 고려
-> ※ COPD 악화: 병용 고려
+> ipratropium 병용 시: 아트로벤트흡입액유디비 0.5 ㎎/2 ㎖ 1바이알 nebulizer
+> ※ salbutamol과 병용하며, 반복 투여는 중증도·반응 및 해당 치료 경로에 따라 결정
 > ```
 >
 > 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러 100 ㎍/분무</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark> · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸 2.5 ㎎/2.5 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark> · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트흡입액유디비 0.5 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark>
@@ -537,15 +568,24 @@
 >
 > * _천식의 반복 흡입량은 GINA 2026의 의료진 감시하 급성 악화 치료 예시임_
 >   * _<mark style="color:blue;">벤토린</mark> 제품의 통상 자가 사용량과 구분함_
-> * _spacer는 1분무씩 흡입하고 다음 분무를 시행_
+> * _salbutamol pMDI는 매 분무 직전에 흔들고, spacer로 한 번에 1분무씩 흡입한 뒤 다음 분무를 시행_
 > * _네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
+>
+> _✽ **전신 스테로이드 병행**_
+>
+> * _천식 : 중등도 이상 급성 악화에서 전신 스테로이드 병행_
+> * _COPD : 임상적으로 유의한 중등증·중증 악화에서 전신 스테로이드 단기 투여_
+> * _전신 스테로이드 용량·기간 및 상세 흡입 용량·반복 간격은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조_
 >
 > _✽ **재평가·유지 치료**_
 >
 > * _기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가_
-> * _평소에는 개인별 천식 행동계획을 따름_
-> * _급성 악화 후에는 ICS 포함 유지 치료를 확인_
-> * _스테로이드 병용 여부 및 상세 반복 간격·용량은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조_
+> * _천식_
+>   * _평소에는 개인별 천식 행동계획을 따름_
+>   * _급성 악화 후에는 ICS 포함 유지 치료를 확인_
+> * _COPD_
+>   * _장시간 기관지 확장제 유지 치료를 재개·최적화_
+>   * _ICS는 별도 적응증에 따라 결정_
 
 > **처방례 3. 아나필락시스 의심(상기도 폐쇄 증상 동반)**
 >
@@ -596,10 +636,10 @@
 >   * 명문 제품은 20℃ 이하에 보관하십시오.
 >   * 사용·교체 기한은 제품 표시와 약사의 안내를 따르십시오.
 
-> **살부타몰 흡입제&#x20;**<mark style="color:blue;">**\[**</mark>[<mark style="color:blue;">**벤토린**</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">**]**</mark>**&#x20;- 기관지 경련·천식·COPD 급성 악화**
+> **살부타몰 흡입제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark> - 기관지 경련·천식·COPD 급성 악화**
 >
 > * **흡입 방법**
->   * 흡입 전 충분히 흔드십시오.
+>   * 매 분무 직전에 충분히 흔드십시오.
 >   * 숨을 내쉰 후 흡입기를 입에 물고 천천히 깊게 들이마시면서 누르십시오.
 >   * 가능하면 spacer를 사용하면 흡입 효율이 높아집니다.
 >   * 흡입 후 5\~10초간 숨을 참았다가 천천히 내쉬십시오.
@@ -608,13 +648,13 @@
 > * **부작용** : 심장이 두근거리거나 손발이 떨리는 증상은 흔하며 대개 일시적입니다.
 >   * 심하거나 지속되면 알려 주십시오.
 
-> **이프라트로피움 흡입제&#x20;**<mark style="color:blue;">**\[**</mark>[<mark style="color:blue;">**아트로벤트**</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">**]**</mark>**&#x20;- COPD 급성 악화·중증 천식 악화**
+> **이프라트로피움 흡입제 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> - COPD 급성 악화·중증 천식 악화**
 >
 > * 급성 악화 시 살부타몰과 함께 사용하여 기관지를 더 효과적으로 넓혀 줍니다.
 > * 눈에 들어가지 않도록 주의하십시오 - 녹내장이 있는 경우 악화될 수 있습니다.
 > * 전립선 비대증이 있는 경우 소변보기가 더 어려워질 수 있으니 불편하면 알려 주십시오.
 
-> **에피네프린 자동주사기 (**<mark style="color:blue;">**\[**</mark>[<mark style="color:blue;">**젝스트**</mark>](https://www.health.kr/drug/2017121500011)<mark style="color:blue;">**]**</mark>**&#x20;등) - 아나필락시스**
+> **에피네프린 자동주사기 (<mark style="color:blue;">\[</mark>[<mark style="color:blue;">젝스트</mark>](https://www.health.kr/drug/2017121500011)<mark style="color:blue;">]</mark> 등) - 아나필락시스**
 >
 > * **사용 시점** : 알레르기 반응과 함께 목 조임·쉰 목소리·호흡곤란·쓰러질 듯한 어지럼 등 아나필락시스 징후가 나타나면 지체 없이 대퇴 외측 근육에 주사하십시오.
 >   * 호전 여부를 기다리지 말고 곧바로 119를 부르십시오.
