@@ -17,8 +17,6 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="background-color:yellow;">※ 호흡수·심박수·혈압의 수치 기준은 성인에 해당하며, 소아는 연령별 정상 호흡수·심박수·혈압 및 호흡곤란 기준을 적용함</mark>
-
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * <mark style="background-color:yellow;">아나필락시스 의심 - 알레르겐 노출 후 갑작스러운 기침·호흡곤란, 후두 증상 또는 저혈압 등</mark>
@@ -72,7 +70,7 @@
 
 * 흔한 원인 : 천식/cough-variant asthma(CVA), 상기도기침증후군(UACS), 비천식성 호산구성 기관지염(NAEB), GERD
   * 역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
-* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, <mark style="background-color:yellow;">간질성 폐질환, 폐암, </mark>기관지 자극(예: 흡연, 연기, 향수, 표백제), 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome
+* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, <mark style="background-color:yellow;">간질성 폐질환, 폐암,</mark> 기관지 자극(예: 흡연, 연기, 향수, 표백제), 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome
   * 기침과민성은 여러 만성기침 질환에 동반될 수 있으며, 일부에서는 주된 병태생리적 특성으로 나타나므로 별도로 평가함
 * 다인성 기침(multifactorial cough) : 단일 원인 치료에 반응하지 않는 만성 기침에서는 두 가지 이상의 원인이 동시에 작용할 가능성을 고려
   * 성인에서는 천식·호산구성 기도염증, 비염·비부비동염, 역류 등 여러 특성이 함께 존재할 수 있음
@@ -111,14 +109,15 @@
 
 #### <mark style="color:$primary;">ACE inhibitor-induced cough</mark>
 
-* 정의 : <mark style="background-color:yellow;">ACEI가 기침의 원인 또는 악화 요인으로 작용하는 상태로, 전형적으로 마른기침을 보임. 투약 시작과 기침 발생 시점이 밀접하게 일치하지 않을 수 있으며, 다른 기침 원인과 동반될 수도 있음. 중단 후 호전 여부가 약물의 기여를 판단하는 데 도움이 됨</mark>
+* 정의 : ACEI가 기침의 원인 또는 악화 요인으로 작용하는 상태로, 전형적으로 마른기침을 보임
 * 기전 : ACEI가 bradykinin·substance P 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침반사를 자극함
-* 임상 양상
-  * <mark style="background-color:yellow;">ACEI 투여 시작 수시간 후부터 수개월 후까지 다양한 시점에 발생할 수 있음</mark>
-  * 인후부 가려움, 따끔거림, 또는 긁는 느낌
-* 경과 : ACEI 중단 후 대개 1\~4주 이내 소실하며, 일부에서는 최대 약 3개월 지속될 수 있음; 재투약 시 <mark style="background-color:yellow;">재발할 수 있음</mark>
-  * <mark style="background-color:yellow;">계열 효과이므로 다른 ACEI로 교체해도 재발할 수 있어, 약물 변경이 필요하면 ARB 등 다른 계열을 고려함</mark>
-* <mark style="background-color:yellow;">DPP-4 억제제와 ACEI 병용 시 substance P 등 매개물질의 분해 감소와 관련된 혈관부종 위험 증가가 보고되어 주의가 필요함</mark>
+* 임상 양상 및 진단
+  * ACEI 투여 시작 수시간 후부터 수개월 후까지 다양한 시점에 발생할 수 있으므로, 투약 시작과 기침 발생 시점의 간격이 길더라도 약물 관련성을 배제하지 않음
+  * 인후부 가려움, 따끔거림 또는 긁는 느낌을 동반할 수 있음
+  * 다른 기침 원인과 동반될 수 있으며, ACEI 중단 후 호전 여부가 약물의 기여를 판단하는 데 도움이 됨
+* 경과 : ACEI 중단 후 대개 1\~4주 이내 소실하며, 일부에서는 최대 약 3개월 지속될 수 있음; 재투약 시 재발할 수 있음
+  * 계열 효과이므로 다른 ACEI로 교체해도 재발할 수 있어, 약물 변경이 필요하면 ARB 등 다른 계열을 고려함
+* 병용 주의 : DPP-4 억제제와 ACEI 병용 시 substance P 등 매개물질의 분해 감소와 관련된 혈관부종 위험 증가가 보고되어 주의가 필요함
 
 #### <mark style="color:$primary;">비천식성 호산구성 기관지염 (Non-asthmatic eosinophilic bronchitis, NAEB)</mark>
 
@@ -130,7 +129,7 @@
 
 #### <mark style="color:$primary;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
 
-* 정의 : 낮은 수준의 온도·기계적·화학적 자극에도 쉽게 유발되는 성가신 기침을 특징으로 하는 임상 증후군  <mark style="color:$info;">\[ERS 2020]</mark>
+* 정의 : 낮은 수준의 온도·기계적·화학적 자극에도 쉽게 유발되는 성가신 기침을 특징으로 하는 임상 증후군 <mark style="color:$info;">\[ERS 2020]</mark>
   * 기저질환의 유무·종류와 무관하게 기침반사 자체가 과민해진 병태생리적 특성(treatable trait)으로, 천식·GERD·UACS 등 다른 만성기침 원인과 동반될 수도 있고 단독으로 나타날 수도 있음 <mark style="color:$info;">\[BTS 2023]</mark>
   * <mark style="background-color:yellow;">기침과민성의 유무와, 원인 질환을 적절히 치료했음에도 기침이 지속되는 RCC(난치성 만성기침)·충분한 평가 후에도 원인을 찾지 못하는 UCC(원인불명 만성기침)는 구분하여 평가함</mark>
 * 기전 : 미주신경 신호전달의 신경병증성 과민(neuropathic sensitization)으로 추정
@@ -173,7 +172,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">만성 기침 <mark style="background-color:yellow;">(성인)</mark></mark>
+#### <mark style="color:$primary;">만성 기침</mark>
 
 1. <mark style="background-color:yellow;">경고 징후를 확인하고, 응급 소견이나 특정 질환 의심 소견이 있으면 우선 평가·대응</mark>
 2. <mark style="background-color:yellow;">약물, 흡연, 직업·환경 노출, COPD·천식 등 기저질환 확인</mark>
@@ -193,13 +192,13 @@
 
 #### <mark style="color:$primary;">검사 및 대상</mark>
 
-* 아급성 기침 기본 평가<mark style="background-color:yellow;">(성인)</mark> : 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
-* 만성기침 기본 평가<mark style="background-color:yellow;">(성인)</mark> : 흉부 X선, 진단적 폐활량측정(spirometry) 및 기관지확장제 반응, CBC 및 혈중 호산구, 가능하면 FeNO, 산소포화도
+* 아급성 기침 기본 평가 : 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
+* 만성기침 기본 평가 : 흉부 X선, 진단적 폐활량측정(spirometry) 및 기관지확장제 반응, CBC 및 혈중 호산구, 가능하면 FeNO, 산소포화도
   * 가래가 있는 기침이면 객담 배양을 선택적으로 시행
   * 흉부 X선이 정상이어도 기관지확장증·간질성 폐질환·조기 폐암을 완전히 배제하지는 못하므로, 경험적 치료에 반응하지 않거나 비전형적 소견이 있으면 추가 영상검사(HRCT 등)를 고려
 * 흉부 X선 : 폐렴·결핵·악성종양·심부전 등 특정 질환이 의심되거나, 객혈·호흡 곤란·저산소증·비정상 흉부 진찰·이물 흡인 의심·지속 또는 재발하는 발열 등 red flag가 있거나, 예상보다 기침이 지속·악화되는 경우 시행; 만성 기침에서는 기본 검사
   * <mark style="background-color:yellow;">결핵의 역학적 상황을 고려하여</mark> 2주 이상 지속되는 기침에서는 활동성 폐결핵을 감별하기 위해 흉부 X선 및 필요시 결핵 검사(객담 도말/배양 등)를 시행
-  * 고령은 단독 적응증으로 보기보다 동반 위험인자와 임상 양상을 고려하여 검사 문턱을 낮춤
+    * 고령은 단독 적응증으로 보기보다 동반 위험인자와 임상 양상을 고려하여 검사 문턱을 낮춤
 * 객담 검사 : 만성 productive cough 또는 감염·기관지확장증 등이 의심되는 경우 배양검사를 고려
   * 결핵 위험인자 또는 임상·영상 소견이 있으면 AFB 도말/배양 및 분자검사 시행
   * 객담 세포진(sputum cytology)은 폐암 선별 목적으로 권장되지 않으며 routine 시행하지 않음
@@ -259,9 +258,10 @@
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 금연 : 흡연 관련 만성 기침은 금연 후 대부분 호전하며, 금연은 가장 중요한 치료 중 하나임
-* 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
+* 직업적 노출 회피 또는 차단
+  * 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저질환 치료
-* 대증약은 원인과 임상 양상에 따라 제한적으로 선택 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [비강 스테로이드](../222_/051_-allergic-rhinitis.md#steroid)(UACS 등 상기도 원인 시); 흡입 스테로이드(ICS)는 천식/CVA·호산구성 기도질환이 의심될 때 사용
+* 대증 치료제는 원인과 임상 양상에 따라 제한적으로 선택 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [비강 스테로이드](../222_/051_-allergic-rhinitis.md#steroid)(UACS 등 상기도 원인 시); 흡입 스테로이드(ICS)는 천식/CVA·호산구성 기도질환이 의심될 때 사용
   * 꿀은 소아 급성 기침의 증상 완화에 도움이 될 수 있음(무처치·diphenhydramine 대비 효과가 보고되었으나 dextromethorphan 대비 우월성은 확인되지 않음); 1세 미만 금기(보툴리누스균 위험)
 * ACEI 복용 중 기침이 있으면 ACEI를 중단하고 필요시 ARB(안지오텐신 수용체 차단제) 등으로 교체(중단 후 호전 여부로 약물 유발을 판단)
   * ARB는 bradykinin 분해를 억제하지 않아 기침 빈도가 ACEI보다 현저히 낮음
@@ -270,12 +270,11 @@
 
 * 난치성 기침(RCC) 또는 기침과민증후군 환자에게 약물과 병행하거나 단독으로 시행
 * 기전 : 기침을 유발하는 자극(따끔거림 등)이 느껴질 때 기침을 참는 행동을 통해 기침 반사 회로를 재훈련
-
-**방법**
-
-1. 호흡 조절 : 기침이 터져 나오려고 할 때 입술을 가볍게 오므리고 천천히 숨을 내쉼(pursed-lip breathing)
-2. 삼키기 법(연하 동작 활용) : 마른 기침을 세게 하는 대신, 침을 삼키거나 환자가 편안하게 느끼는 물을 소량 자주 마셔 인후부의 간지러운 감각을 완화시킴; 껌을 씹는 것도 보조적으로 인후부 보습 및 자극 완화에 도움이 될 수 있음
-3. 이완 요법 : 목과 어깨, 상체 근육의 긴장을 풀어주는 스트레칭을 병행
+* 방법
+  * 호흡 조절 : 기침이 터져 나오려고 할 때 입술을 가볍게 오므리고 천천히 숨을 내쉼(pursed-lip breathing)
+  * 삼키기 법(연하 동작 활용) : 마른 기침을 세게 하는 대신, 침을 삼키거나 환자가 편안하게 느끼는 물을 소량 자주 마셔 인후부의 간지러운 감각을 완화시킴
+    * 껌을 씹는 것도 보조적으로 인후부 보습 및 자극 완화에 도움이 될 수 있음
+  * 이완 요법 : 목과 어깨, 상체 근육의 긴장을 풀어주는 스트레칭을 병행
 
 ## <mark style="color:green;">질환별 치료</mark>
 
@@ -285,10 +284,13 @@
 
 #### <mark style="color:$primary;">감염후기침</mark>
 
-* 대부분 자연 호전하므로 자연 경과 설명과 경과 관찰·재진 기준 안내(safety-netting)가 기본; 백일해, 천식/CVA, NAEB, UACS 등 다른 원인을 배제함
+* 대부분 자연 호전하므로 자연 경과 설명과 경과 관찰·재진 기준 안내(safety-netting)가 기본
+* 백일해, 천식/CVA, NAEB, UACS 등 다른 원인을 배제함
 * 단순 PIC는 항생제 적응증이 아님
-* ICS·기관지확장제 등 약물의 routine 사용을 뒷받침하는 일관된 근거는 부족함. 증상 완화가 필요한 경우에만 대증약을 단기간 선택하고 호전 시 중단을 검토함 <mark style="color:$info;">\[CMAJ 2024]</mark>
-* 천식/CVA·NAEB 등 별도 치료 적응증이 의심되면 폐기능검사·호산구성 염증 평가 등을 임상 소견에 따라 선택하고 해당 질환 지침에 따라 표적 치료함. 천명이나 가역적 기류 제한의 부재만으로 CVA·NAEB를 배제하지 않음
+* ICS·기관지확장제 등 약물의 routine 사용을 뒷받침하는 일관된 근거는 부족함
+  * 증상 완화가 필요한 경우에만 대증약을 단기간 선택하고 호전 시 중단을 검토함 <mark style="color:$info;">\[CMAJ 2024]</mark>
+* 천식/CVA·NAEB 등 별도 치료 적응증이 의심되면 폐기능검사·호산구성 염증 평가 등을 임상 소견에 따라 선택하고 해당 질환 지침에 따라 표적 치료함
+  * 천명이나 가역적 기류 제한의 부재만으로 CVA·NAEB를 배제하지 않음
 * 전신 스테로이드의 routine 사용은 권장하지 않음
 * neuromodulator는 일반적인 PIC 치료가 아니며, 원인 평가와 적절한 치료 후에도 지속되는 난치성 만성 기침에서 전문적 판단하에 고려함
 * 성인 기침이 8주 이상 지속되거나 호전 없이 지속·악화하면 원인을 재평가하며, 새 Red Flags는 기간과 무관하게 평가함
@@ -298,14 +300,15 @@
 * [PPI](../224_/081_-gerd.md#ppi-proton-pump-inhibitor)
   * heartburn/regurgitation 등 전형적 역류 증상 또는 객관적인 acid reflux 근거가 있을 때 생활습관 교정과 함께 PPI를 고려
   * 기침 외 다른 증상이 없고 acid reflux의 근거도 없는 경우 PPI의 기침 개선 효과는 제한적이며 routine 투여를 권장하지 않음
-  * 투여 시 상용량으로 8\~12주(2\~3개월) 치료 후 반응 평가; 1일 1회 요법에 반응이 불충분하면 1일 2회 분할 투여를 시도할 수 있음
+  * 투여 시 상용량으로 8\~12주(2\~3개월) 치료 후 반응 평가
+    * 1일 1회 요법에 반응이 불충분하면 1일 2회 분할 투여를 시도할 수 있음
   * WAO-ARIA consensus(2025)는 PPI 오·남용을 줄이기 위해 4\~8주의 짧은 경험적 치료 후 감량을 권고하고 있어, 국내 지침보다 짧은 기간을 제시함. 치료 기간은 환자의 반응과 부작용을 고려하여 개별화
   * 식후 기침 악화(postprandial cough)는 역류성 기침 가능성을 시사할 수 있으나, heartburn과 마찬가지로 이것만으로 PPI 반응 여부를 신뢰성 있게 예측하기는 어려움 <mark style="color:$info;">\[BTS 2023]</mark>
 * 생활습관 교정(야식·과식·기름진 음식 제한, 식후 눕지 않기, 취침 시 상체 거상)은 부작용이 적어 우선 시행할 수 있으며, 특히 전형적 역류 증상 없이 기침만 있는 경우에는 경험적 PPI보다 생활습관 교정과 다른 원인 평가를 먼저 고려. 다만 PPI 대비 직접적인 우월성이 확립된 것은 아님
 
-#### [<mark style="color:$primary;">백일해</mark>](../223_/066_-acute-bronchitis.md#undefined-18)
+#### <mark style="color:$primary;">백일해</mark>
 
-* 항생제 치료: azithromycin(1차); 대안으로 clarithromycin 또는 TMP-SMX(TMP-SMX는 생후 2개월 미만 영아 및 임신부에 금기)
+* [항생제 치료](../223_/066_-acute-bronchitis.md#pertussis) : azithromycin(1차)
   * 국내에서도 마크로라이드 내성 백일해균이 보고됨. 내성이 의심되거나 확인되면 가능한 경우 배양·감수성검사를 시행하고 TMP-SMX를 대안으로 고려함. 단, 항생제 치료 후 기침 지속만으로 내성을 판단하지 않음
 * 항생제는 전파 억제가 주목적이며, 후기 발작성 기침 자체의 지속 기간을 크게 줄이지는 못함
 * 1세 이상은 기침 시작 3주 이내, 1세 미만 영아와 임신부(특히 출산이 가까운 경우)는 6주 이내까지 치료를 고려(그 이후에는 항생제의 증상 개선·전파 차단 효과가 제한적임)
@@ -347,41 +350,34 @@
 * 기침 연구·지침에서 사용한 용량을 참고하여 저용량에서 시작하고, 반응과 내약성에 따라 천천히 증량; 고령·쇠약·신기능 저하에서는 더 낮은 용량에서 시작
 * 효과와 이상반응을 조기에 재평가하고 임상적으로 의미 있는 효과가 없으면 지속하지 않음; 오남용 위험 주의
 * gabapentin·pregabalin은 중단 시 최소 1주 이상에 걸쳐 서서히 감량. Opioid·benzodiazepine 등 중추신경 억제제와 병용하거나 호흡기질환·고령 등 위험요인이 있으면 진정·호흡억제 위험에 특히 주의
-
-**Gabapentin** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">뉴론틴</mark>](https://www.health.kr/drug/A11ABBBBB1034)<mark style="color:blue;">]</mark> 300 ㎎
-
-* 300 ㎎ qd hs → 1주 후 300 ㎎ bid → 2주 후 300 ㎎ tid, 최대 600 ㎎ tid
-* 반응과 내약성에 따라 조정. 4주 시점에 치료 반응 평가
-* 신기능 저하 시 감량; 고령·쇠약 환자에서는 [100 ㎎](https://www.health.kr/drug/A11ABBBBB1033) qd hs 등 더 낮은 용량에서 시작을 고려
-
-**Pregabalin** <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://www.health.kr/drug/2018022700007)<mark style="color:blue;">]</mark> 25 ㎎
-
-* 25 ㎎ bid 등 저용량에서 시작하여 반응·내약성에 따라 [75 ㎎](https://www.health.kr/drug/A11AOOOOO8537) bid까지 서서히 증량 <mark style="color:$info;">\[BTS 2023]</mark>. [150 ㎎](https://www.health.kr/drug/A11AOOOOO8538) bid는 병합요법 RCT에서 사용된 용량으로 전문진료에서 선택적으로 고려
-* 신기능 저하 시 감량
+* Gabapentin 300 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">뉴론틴</mark>](https://www.health.kr/drug/A11ABBBBB1034)<mark style="color:blue;">]</mark>
+  * 300 ㎎ qd hs → 1주 후 300 ㎎ bid → 2주 후 300 ㎎ tid, 최대 600 ㎎ tid
+  * 반응과 내약성에 따라 조정. 4주 시점에 치료 반응 평가
+  * 신기능 저하 시 감량; 고령·쇠약 환자에서는 [100 ㎎](https://www.health.kr/drug/A11ABBBBB1033) qd hs 등 더 낮은 용량에서 시작을 고려
+* Pregabalin 25 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://www.health.kr/drug/2018022700007)<mark style="color:blue;">]</mark>
+  * 25 ㎎ bid 등 저용량에서 시작하여 반응·내약성에 따라 [75 ㎎](https://www.health.kr/drug/A11AOOOOO8537) bid까지 서서히 증량 <mark style="color:$info;">\[BTS 2023]</mark>. [150 ㎎](https://www.health.kr/drug/A11AOOOOO8538) bid는 병합요법 RCT에서 사용된 용량으로 전문진료에서 선택적으로 고려
+  * 신기능 저하 시 감량
 
 [<mark style="color:cyan;">**Amitriptyline**</mark>](../231_/213_-antidepressants-and-anxiolytics.md#tca)
 
-* 시작 10 ㎎ qd hs; 필요 시 약 2주 간격으로 20 ㎎, 이후 [25 ㎎](https://www.health.kr/drug/A11A0570A0148) qd hs까지 신중히 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark> 10 ㎎
+* 시작 [10 ㎎](https://www.health.kr/drug/A11A0570B0082) qd hs; 필요 시 약 2주 간격으로 20 ㎎, 이후 [25 ㎎](https://www.health.kr/drug/A11A0570A0148) qd hs까지 신중히 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark>
 * 근거는 소규모 연구에 한정됨. 고령에서는 항콜린 부작용·기립저혈압·낙상 위험 때문에 가급적 피하고, 사용이 필요한 경우 전문진료에서 저용량으로 신중히 판단
 
 <mark style="color:cyan;">**저용량 Opioid (Morphine)**</mark>
 
 * RCC에서 근거 수준이 가장 높은 opioid는 저용량 서방형 morphine임 <mark style="color:$info;">\[AJRCCM 2007]</mark>
   * codeine은 대사 변이가 크고 COPD 관련 기침 RCT에서 위약 대비 이점을 보이지 못해 BTS 2023은 만성기침 치료제로 권장하지 않음
-* 해외 연구·지침 용량은 서방형 morphine 5\~10 ㎎ bid이나 국내에서는 서방형 5 ㎎ 제형 공급이 확인되지 않음; 서방정은 분할하지 않으며, 제형 문제로 시작 용량을 일률적으로 높이지 않음 - 전문진료에서 시작을 권장
+* 해외 연구·지침 용량은 서방형 morphine 5\~10 ㎎ bid이나 국내에서는 서방형 5 ㎎ 제형 공급이 확인되지 않음
 * 위 저용량 서방형 morphine은 성인 난치성 만성기침에 대한 별도 근거에 따른 허가 외 사용임. [통증 챕터](001_-pain.md)의 비암성 통증 치료에서 제시한 속효성 opioid 선행 투여·서방형 전환 원칙을 기침에 기계적으로 적용하지 않으며, 제품별 금기·신기능·호흡억제 위험을 확인하고 전문진료에서 판단함
 * 반응 확인 후 지속 여부 결정; 변비·졸림·오남용 위험 모니터링 (마약류 규정 준수 필수)
 
 <mark style="color:cyan;">**P2X3 수용체 길항제**</mark>
 
-**Gefapixant** [Lyfnua](https://www.ema.europa.eu/en/medicines/human/EPAR/lyfnua)
-
-* RCC/UCC(난치성/원인불명 만성기침)에 대해 일본·유럽 등에서 승인되었으나 미국에서는 미승인(FDA 2차례 반려)
-* 효과는 modest하며 주요 부작용은 미각 장애(dysgeusia). 식약처 미허가
-
-**Camlipixant**
-
-* 선택적 P2X3 길항제. CALM-1은 50 ㎎ bid에서 1차 평가변수를 충족했으나 CALM-2에서는 충족하지 못했고, 주요 2차 평가변수도 두 연구에서 충족하지 못해 GSK가 2026년 7월 RCC 적응증 개발을 중단함 (과민대장증후군(IBS-D/IBS-M) 적응증에 대한 개발은 별도로 계속 중)
+* Gefapixant <mark style="color:blue;">\[</mark>[<mark style="color:blue;">Lyfnua</mark>](https://www.ema.europa.eu/en/medicines/human/EPAR/lyfnua)<mark style="color:blue;">]</mark>
+  * RCC/UCC(난치성/원인불명 만성기침)에 대해 일본·유럽 등에서 승인되었으나 미국에서는 미승인(FDA 2차례 반려)
+  * 효과는 modest하며 주요 부작용은 미각 장애(dysgeusia). 식약처 미허가
+* Camlipixant
+  * 선택적 P2X3 길항제. CALM-1은 50 ㎎ bid에서 1차 평가변수를 충족했으나 CALM-2에서는 충족하지 못했고, 주요 2차 평가변수도 두 연구에서 충족하지 못해 GSK가 2026년 7월 RCC 적응증 개발을 중단함 (과민대장증후군(IBS-D/IBS-M) 적응증에 대한 개발은 별도로 계속 중)
 
 ***
 
@@ -463,10 +459,10 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* <mark style="background-color:yellow;">[Dicpinigaitis PV. Angiotensin-converting enzyme inhibitor-induced cough: ACCP evidence-based clinical practice guidelines. Chest. 2006;129(1 Suppl):169S-173S.](https://doi.org/10.1378/chest.129.1_suppl.169S) - ACEI 기침의 발생 시점·경과·재투약 및 원인 평가</mark>
-* <mark style="background-color:yellow;">[Brown NJ, et al. Dipeptidyl peptidase-IV inhibitor use associated with increased risk of ACE inhibitor-associated angioedema. Hypertension. 2009;54(3):516-523.](https://doi.org/10.1161/HYPERTENSIONAHA.109.134197) - DPP-4 억제제·ACEI 병용 시 혈관부종 위험</mark>
-* <mark style="background-color:yellow;">[CDC. Outpatient Clinical Care for Adults: Acute uncomplicated bronchitis.](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html) - 가래 색깔의 해석과 단순 급성 기관지염의 항생제 사용 원칙</mark>
-* <mark style="background-color:yellow;">[NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120/chapter/Recommendations) - 급성 기침의 항생제 사용과 고위험군 평가</mark>
+* [<mark style="background-color:yellow;">Dicpinigaitis PV. Angiotensin-converting enzyme inhibitor-induced cough: ACCP evidence-based clinical practice guidelines. Chest. 2006;129(1 Suppl):169S-173S.</mark>](https://doi.org/10.1378/chest.129.1_suppl.169S) <mark style="background-color:yellow;">- ACEI 기침의 발생 시점·경과·재투약 및 원인 평가</mark>
+* [<mark style="background-color:yellow;">Brown NJ, et al. Dipeptidyl peptidase-IV inhibitor use associated with increased risk of ACE inhibitor-associated angioedema. Hypertension. 2009;54(3):516-523.</mark>](https://doi.org/10.1161/HYPERTENSIONAHA.109.134197) <mark style="background-color:yellow;">- DPP-4 억제제·ACEI 병용 시 혈관부종 위험</mark>
+* [<mark style="background-color:yellow;">CDC. Outpatient Clinical Care for Adults: Acute uncomplicated bronchitis.</mark>](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html) <mark style="background-color:yellow;">- 가래 색깔의 해석과 단순 급성 기관지염의 항생제 사용 원칙</mark>
+* [<mark style="background-color:yellow;">NICE. Cough (acute): antimicrobial prescribing. NG120.</mark>](https://www.nice.org.uk/guidance/ng120/chapter/Recommendations) <mark style="background-color:yellow;">- 급성 기침의 항생제 사용과 고위험군 평가</mark>
 * [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 대한결핵 및 호흡기학회 개정 기침진료지침 2020의 요약 논문; 본문 급성·아급성 기침 알고리듬 출처
 * [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 자연 경과, 감별 및 약물 근거의 한계
 * [Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax. 2023;78(Suppl 6):s3-s19.](https://doi.org/10.1136/thorax-2023-220592) - treatable-traits·기침 과민성 접근, 경험적 PPI와 난치성 기침 치료

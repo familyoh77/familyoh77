@@ -212,7 +212,7 @@ flowchart TD
   * COPD 악화 예방 연구의 고용량을 단순 급성 기관지염에 적용하지 않음. 위·십이지장궤양 환자에는 금기
 * erdosteine : 300 ㎎ bid\~tid; 경증\~중등도 간장애에서 1일 300 ㎎ 상한 <mark style="color:blue;">\[엘도스]</mark>
   * 급성 호흡기질환에서 연속 10일 이상 투여하지 않음
-  * 금기 : 간경변·중증 간장애·CrCl ＜25 ㎖/min·소화성궤양&#x20;
+  * 금기 : 간경변·중증 간장애·CrCl ＜25 ㎖/min·소화성궤양
 * 진해제와 점액 용해제 모두 효과 근거가 제한적이므로 일률적으로 함께 처방하지 않음
 
 ### <mark style="color:orange;">코 울혈 제거제</mark>
@@ -245,7 +245,7 @@ flowchart TD
     * 65세 초과이면서 최근 1년 내 입원·당뇨병·울혈성 심부전·경구 스테로이드 복용 중 2개 이상(80세 초과는 1개 이상)
 * 고위험군의 성인 항생제(5일) : doxycycline 200 ㎎ 1일차, 이후 100 ㎎ qd × 4일 <mark style="color:blue;">\[모노신]</mark>; 대안 amoxicillin 500 ㎎ tid <mark style="color:blue;">\[곰실린]</mark> 또는 clarithromycin 250\~500 ㎎ bid <mark style="color:blue;">\[클래리시드]</mark>. 임신부는 doxycycline을 쓰지 않고 amoxicillin 우선
 
-#### <mark style="color:$primary;">백일해</mark>
+#### <mark style="color:$primary;">백일해 (Pertussis)</mark>
 
 * 백일해 확진·강력 의심
   * 첫 1\~2주, 특히 발작성 기침 전 치료가 증상 중증도를 줄이는 데 가장 유리
