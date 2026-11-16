@@ -66,7 +66,7 @@
 
 #### <mark style="color:$primary;">실험실 검사</mark>
 
-**기본**&#x20;
+**기본**
 
 * CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase, UA
 * 미분화 급성 복통의 초기 평가로 흔히 함께 시행하나, 병력·통증 위치·임상 가설에 따라 항목 조정 가능
@@ -81,7 +81,7 @@
 * CRP/ESR : 염증 정도 평가
 * coagulation : 출혈 의심
 * lactate : 장간막 허혈 의심 - 초기에는 정상일 수 있으므로 음성이어도 배제 불가
-* 혈당, 혈중 β-hydroxybutyrate(우선), 전해질, bicarbonate, 정맥혈가스 : 당뇨 환자에서 DKA에 의한 가성 복막염 평가&#x20;
+* 혈당, 혈중 β-hydroxybutyrate(우선), 전해질, bicarbonate, 정맥혈가스 : 당뇨 환자에서 DKA에 의한 가성 복막염 평가
   * SGLT2 억제제 복용 환자는 euglycemic DKA가 가능하므로 혈당만으로 배제하지 않음
   * anion gap은 보조적으로 해석하며, 혈중 케톤을 측정할 수 없으면 소변 케톤을 사용하되 초기 위음성 가능성에 유의 <mark style="color:$info;">\[ADA/EASD 등 2024]</mark>
 
@@ -120,7 +120,7 @@
 #### <mark style="color:$primary;">Visceral pain (내장통)</mark>
 
 * 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증
-  * 예: 소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등&#x20;
+  * 예: 소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등
 
 <mark style="color:cyan;">**기원별 통증 부위**</mark>
 
@@ -130,7 +130,7 @@
 * Midgut 기원 : 십이지장 대유두 원위부 \~ 횡행결장 proximal ⅔ (hepatic flexure 포함, splenic flexure 제외) → 배꼽 주위 통증
 * Hindgut 기원 : 횡행결장 distal ⅓ 이하(splenic flexure 포함) \~ 항문관 상부(치상선 위) → 치골 상부 통증
 
-<figure><img src="../.gitbook/assets/복통 gut_origin_pain.png" alt="전장·중장·후장의 소화관 범위와 대표적인 초기 내장통 위치(상복부·배꼽 주위·치골 상부)를 나타낸 도식"><figcaption><p><strong>발생학적 기원에 따른 내장통의 대표 위치</strong> <br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : UNSW Embryology; MSD Manual Professional Edition)</mark></em><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/복통 gut_origin_pain.png" alt="전장·중장·후장의 소화관 범위와 대표적인 초기 내장통 위치(상복부·배꼽 주위·치골 상부)를 나타낸 도식"><figcaption><p><strong>발생학적 기원에 따른 내장통의 대표 위치</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : UNSW Embryology; MSD Manual Professional Edition)</mark></em><br></p></figcaption></figure>
 
 <mark style="color:cyan;">**임상 양상**</mark>
 
@@ -159,10 +159,10 @@
 * 급성 심근경색 → 상복부 통증으로 발현 가능, 특히 고령·당뇨 환자에서 주의
 * 내장통의 초기 위치(localization)와 연관통은 구분해야 함. 충수염의 배꼽 주위 내장통이 우하복부의 체성통으로 국소화되는 과정은 연관통과 구별함
 
-<figure><img src="../.gitbook/assets/복통1-연관통.jpg" alt="장기별 통증 및 연관통의 대표적 분포를 보여주는 앞면·뒷면 도식"><figcaption><p><strong>장기별 통증 및 연관통(referred pain)의 대표적 분포</strong><br>출처: OpenStax College. <em>Anatomy and Physiology</em>, Referred Pain Chart (<a href="https://commons.wikimedia.org/wiki/File:1506_Referred_Pain_Chart.jpg">원본</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/복통1-연관통.jpg" alt="장기별 통증 및 연관통의 대표적 분포를 보여주는 앞면·뒷면 도식"><figcaption><p><strong>장기별 통증 및 연관통(referred pain)의 대표적 분포</strong><br><em>출처: OpenStax College. Anatomy and Physiology, Referred Pain Chart (</em><a href="https://commons.wikimedia.org/wiki/File:1506_Referred_Pain_Chart.jpg"><em>원본</em></a><em>,</em> <a href="https://creativecommons.org/licenses/by/3.0/"><em>CC BY 3.0</em></a><em>).</em></p></figcaption></figure>
 
-> _장기와 관련하여 통증이 느껴질 수 있는 부위를 나타낸 도식으로, 장기의 해부학적 위치나 모든 환자의 통증 범위를 뜻하지 않음. 분포만으로 원인 질환을 확진·배제하지 않으며, 충수염의 통증 이동은 위 내장통·체성통 설명과 함께 해석함._ \
-> _일부 표시(흉선·넓게 표시된 신장 영역 등)는 원 도식의 단순화로 임상적 의미가 제한적임_
+> _장기와 관련하여 통증이 느껴질 수 있는 부위를 나타낸 도식으로, 장기의 해부학적 위치나 모든 환자의 통증 범위를 뜻하지 않음. 분포만으로 원인 질환을 확진·배제하지 않으며, 충수염의 통증 이동은 위 내장통·체성통 설명과 함께 해석함._\
+> _&#xC77C;부 표시(흉선·넓게 표시된 신장 영역 등)는 원 도식의 단순화로 임상적 의미가 제한적임_
 
 #### <mark style="color:$primary;">Abdominal wall pain (복벽통)</mark>
 
@@ -209,7 +209,7 @@
   * NSAID 사용력과 _H. pylori_ 위험 확인
 * Functional dyspepsia : 불편한 식후 포만감, 조기 포만감, 상복부 통증 또는 쓰림
   * 상복부 팽만감·구역이 동반될 수 있음
-* Gastroparesis : 구역, 구토, 조기 포만감, 식후 포만감·팽만감&#x20;
+* Gastroparesis : 구역, 구토, 조기 포만감, 식후 포만감·팽만감
 
 ***
 
@@ -269,11 +269,11 @@ flowchart TD
 
 > _PE=pulmonary embolism; PERC=PE rule-out criteria(폐색전증 배제 기준); CTPA=CT pulmonary angiography._
 >
-> _초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함._ \
-> _PE의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함._ \
-> _CTPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함_
+> _초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함._\
+> _&#x50;E의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함._\
+> _&#x43;TPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함_
 
-<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Right Upper Quadrant Pain 2022;</mark></em> <br><em><mark style="color:$info;">ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
+<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Right Upper Quadrant Pain 2022;</mark></em><br><em><mark style="color:$info;">ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
 
 ***
 
@@ -353,7 +353,7 @@ flowchart TD
     class H,J,K,O,S followup
 ```
 
-<p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Right Lower Quadrant Pain 2022;</mark></em> <br><em><mark style="color:$info;">ACR Acute Pelvic Pain 2023; ACG 2026; EAU Urolithiasis)</mark></em></p>
+<p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Right Lower Quadrant Pain 2022;</mark></em><br><em><mark style="color:$info;">ACR Acute Pelvic Pain 2023; ACG 2026; EAU Urolithiasis)</mark></em></p>
 
 ***
 
@@ -388,7 +388,7 @@ flowchart TD
   * 통증이 식후에 가라앉지 않고 지속·악화되면 급성 장간막 허혈로의 진행을 의심하여 응급 평가
 * 급성 감염성 위장관염 : 상대적으로 덜 심한 복통, 설사, 구역, 구토
   * 바이러스성(norovirus 등)과 세균성(식중독 포함) 원인 모두 포함
-  * 독소 매개형 식중독은 원인균에 따라 잠복기와 주 증상이 다름&#x20;
+  * 독소 매개형 식중독은 원인균에 따라 잠복기와 주 증상이 다름
     * 음식에 미리 형성된 독소에 의한 _S. aureus_ 식중독은 30분\~8시간, _B. cereus_ 구토형은 1\~6시간 내 급격한 구역·구토로 발현; _C. perfringen&#x73;_&#xB294; 6\~24시간 후 설사·복통이 주 증상 (☞ [급성 감염성 설사](../224_/085_-acute-infectious-diarrhea.md))
 * 셀리악병 : 부피가 큰 설사, 나쁜 냄새의 지방변, 복부 가스
 * [과민대장증후군](../224_/087_-ibs.md) : 지속적이지 않고 반복되는 복통 또는 복부 불편감이 배변 및 배변 빈도·형태 변화와 연관됨
@@ -444,7 +444,7 @@ flowchart TD
 <table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td><strong>AAA 파열</strong></td><td>고령·흡연·박동성 종괴·저혈압</td></tr><tr><td><strong>대동맥 박리</strong></td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td><strong>장간막 허혈</strong></td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td><strong>GI 천공</strong></td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td><strong>교액성 장폐쇄</strong></td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td><strong>자궁외임신 파열</strong></td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td><strong>Acute MI</strong></td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
 
 > _위는 대표적 예시이며 전체 목록이 아님._\
-> _난소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 감별 섹션 참조_
+> _&#xB09C;소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 감별 섹션 참조_
 
 **Step 4. 통증 패턴 + 위치 기반 감별 → 검사 선택**
 
@@ -485,7 +485,7 @@ flowchart TD
     class G,J treatment
 ```
 
-<p align="center"><strong>복통 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Acute Nonlocalized Abdominal Pain 2018;</mark></em> <br><em><mark style="color:$info;">WSES Acute Mesenteric Ischemia 2022)</mark></em></p>
+<p align="center"><strong>복통 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Acute Nonlocalized Abdominal Pain 2018;</mark></em><br><em><mark style="color:$info;">WSES Acute Mesenteric Ischemia 2022)</mark></em></p>
 
 ***
 
@@ -493,7 +493,7 @@ flowchart TD
 
 * 진단 전 진통제 투여는 진단 정확도를 떨어뜨리거나 치료 결정을 지연시키지 않으며, 통증이 완화되면 오히려 신체 검진이 용이해짐. 적절한 통증 조절은 표준 치료임 <mark style="color:$info;">\[Cochrane 2011]</mark>
 
-<table><thead><tr><th width="147">임상 상황</th><th>권장 진통제</th></tr></thead><tbody><tr><td><strong>신장·요관 산통</strong><br><strong>(renal colic)</strong></td><td>NSAIDs 우선(경구 또는 주사) - 신기능 저하·탈수·출혈 위험 등 금기를 먼저 확인; <br>NSAID에 진경제 병용은 통증 조절 개선 근거 부족</td></tr><tr><td><strong>담도 산통</strong></td><td>NSAID 우선; 필요시 추가 진통제 고려</td></tr><tr><td><strong>급성 췌장염</strong></td><td>Opioid 사용 가능 - Oddi 괄약근 경련 우려만으로 opioid를 일률적으로 피할 근거는 불충분하며, 적절한 통증 조절이 우선</td></tr><tr><td><strong>원인 평가 중의</strong><br><strong>급성 복통</strong></td><td>경증~중등도 통증에 대하여 acetaminophen 또는 원인에 적합한 NSAID를 우선 고려; 중등도~중증에서 비opioid로 불충분하거나 금기인 경우 short-acting opioid를 최소유효용량·최단기간 고려. 단, 진통제 투여 때문에 진단 평가를 지연하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="147">임상 상황</th><th>권장 진통제</th></tr></thead><tbody><tr><td><strong>신장·요관 산통</strong><br><strong>(renal colic)</strong></td><td>NSAIDs 우선(경구 또는 주사) - 신기능 저하·탈수·출혈 위험 등 금기를 먼저 확인;<br>NSAID에 진경제 병용은 통증 조절 개선 근거 부족</td></tr><tr><td><strong>담도 산통</strong></td><td>NSAID 우선; 필요시 추가 진통제 고려</td></tr><tr><td><strong>급성 췌장염</strong></td><td>Opioid 사용 가능 - Oddi 괄약근 경련 우려만으로 opioid를 일률적으로 피할 근거는 불충분하며, 적절한 통증 조절이 우선</td></tr><tr><td><strong>원인 평가 중의</strong><br><strong>급성 복통</strong></td><td>경증~중등도 통증에 대하여 acetaminophen 또는 원인에 적합한 NSAID를 우선 고려; 중등도~중증에서 비opioid로 불충분하거나 금기인 경우 short-acting opioid를 최소유효용량·최단기간 고려. 단, 진통제 투여 때문에 진단 평가를 지연하지 않음</td></tr></tbody></table>
 
 ### <mark style="color:orange;">주요 진단 오류</mark>
 
@@ -588,11 +588,11 @@ flowchart TD
 >
 > ```
 > 타이레놀정 500 ㎎ 1회 1~2T, 최소 6시간 간격 필요시 (1일 최대 8T)
-> 비opioid로 불충분하거나 금기인 경우 대안:
+> ▶비opioid로 불충분하거나 금기인 경우 대안:
 > 트리돌캡슐 50 ㎎ 1회 1C, 6~8시간 간격 필요시 (이 예의 1일 최대 4C = 200 ㎎)
 >   ※ 고령자 및 경도~중등도 신·간기능 저하에서는 용량·투여 간격 개별 조정
 >   ※ 중증 신장애·간장애는 금기; 감량 사용과 구분
-> 구역·구토가 있을 때만 추가:
+> ▶구역·구토가 있을 때만 추가:
 > 맥페란정 3.84 ㎎/T 1회 1T, 식전 필요시 (1일 최대 3회, 최소 6시간 간격, 최대 5일)
 > ```
 >
