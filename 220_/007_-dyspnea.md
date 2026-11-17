@@ -1,4 +1,4 @@
-# 호흡 곤란 Dyspnea
+# 호흡곤란 Dyspnea
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -173,8 +173,8 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 임상적 사전확률과 함께 폐색전증 배제 여부를 판단하는 혈액검사
 * 적용 원칙 : 임상적 사전확률에 따라 단계적으로 적용
-  * 초저위험 사전확률(임상적 판단 ＜15%) : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능
-  * 낮음\~중간 사전확률 : D-dimer를 우선 시행하여 배제 여부 판단
+  * 저위험(임상적 판단 ＜15%) : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능; 하나라도 양성이면 D-dimer 시행
+  * 중간 사전확률 : D-dimer를 우선 시행하여 배제 여부 판단
   * 높은 사전확률 : D-dimer로 영상검사를 지연시키지 않고 바로 CTPA(CT Pulmonary Angiography) 등 영상검사 진행
   * 임신부 : 일반 Wells·PERC를 그대로 적용하지 않고 임신부에 검증된 별도 진단 경로 적용
 * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음
@@ -272,7 +272,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 **폐색전증**
 
-* 임상 양상 : 갑자기 시작되는 흉막성 흉통, 객혈 동반
+* 임상 양상 : 갑작스러운 호흡곤란·흉막성 흉통; 객혈이 동반될 수 있음
 * 위험인자
   * 3일 이상 부동(immobilization) 또는 최근 4주 이내 수술
   * estrogen 치료
@@ -287,7 +287,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * ILO는 천식으로 오인될 수 있으며 기관지 확장제에 반응하지 않을 수 있음
   * 증상 시 또는 유발검사를 포함한 후두경으로 확인
 * 긴 호기 시간, 호기 시 쌕쌕거림 동반 → 폐쇄성 폐질환
-* 양측 폐 하부의 수포음 → 심부전
+* 양측 폐 하부의 수포음 → 심부전, 간질성 폐질환 등
 * 빠른 호흡, 어지럼, 손/입술 주위의 감각 저하 또는 저림 → 과호흡
 * 감기 증상, 점액성 가래 → 기관지염, 폐렴
 * 얕고 약한 호흡, 역설 호흡, 호흡근 위약 → 신경근육 질환
@@ -350,16 +350,16 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 flowchart TD
     A["호흡곤란 환자"] --> B["Red Flags의 즉각 조치 <br/>항목에 해당?"]
     B -- "예" --> C["<u>기도·호흡·순환 안정화 및 <br/>119 호출</u><br/>• 아나필락시스: 즉시 <br/>epinephrine IM<br/>• 긴장성 기흉: 숙련된 응급 <br/>감압, 영상 대기 안 함"]
-    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 <br/>호흡노력 평가</u><br/>• 필요 시 산소·환기 지원"]
+    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 <br/>호흡노력 평가</u><br/>• 필요시 산소·환기 지원"]
     D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·<br/>D-dimer 등 선택"]
     F --> G["주요 원인 단서?"]
     G -- "심장·혈관" ---> H["심부전·ACS 또는 <br/>PE 의심?"]
-    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• 울혈·혈압·<br/>ECG 평가<br/>• 응급 이송 및 <br/>질환별 처치"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• ACS·급성 비보상 심부전 의심:<br/>응급 평가·이송<br/>• 안정된 심부전 의심:<br/>BNP/NT-proBNP·심장 초음파·<br/>전문 평가"]
     H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
     G -- "기관지·폐" ---> I["기도 악화 또는 <br/>기흉·감염 의심?"]
     I -- "천식·COPD 악화" --> I2["<u>SABA ± <br/>ipratropium</u><br/>• 중증도에 따라 <br/>스테로이드·이송"]
     I -- "기흉·감염" --> N["<u>흉부 X선·POCUS <br/>등 원인 평가</u><br/>• 상태에 따라 <br/>응급 처치·이송"]
-    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 위약: FVC·<br/>NIF 및 즉시 전원"]
+    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 위약: FVC·NIF 평가<br/>• 새로 발생하거나 빠르게 진행하는<br/>위약·환기 부전은 즉시 전원"]
     G -- "설명 불충분·<br/>불안 가능" --> L["<u>기질적 원인 배제 후 <br/>불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 <br/>단계적 추가 검사"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
@@ -368,8 +368,8 @@ flowchart TD
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
     class B,G,H,I question
-    class C,H2,K emergency
-    class D,F,J,N evaluation
+    class C emergency
+    class D,F,J,N,H2,K evaluation
     class I2,L treatment
 ```
 
@@ -385,7 +385,7 @@ flowchart TD
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보
   * 필요시 즉시 119 호출 및 전원
-* 자세 : 대부분의 호흡곤란에서는 앉은 자세를 유지함&#x20;
+* 자세 : 대부분의 호흡곤란에서는 앉은 자세 유지
   * 단, 쇼크·저혈압 또는 [아나필락시스](../230_/188_-anaphylaxis.md)가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
 
 <mark style="color:cyan;">**응급 이송**</mark>
@@ -412,8 +412,8 @@ flowchart TD
 * 고농도 산소 투여 시 CO₂ 저류·이산화탄소 혼수 위험
 * 기전
   * ① V/Q 불균형 악화 : 저산소성 폐혈관수축 소실로 관류가 환기 불량 부위로 재분배
-  * ② Haldane 효과 : 산소가 헤모글로빈에 결합하면서 CO₂ 운반 능력이 감소하여 혈중 CO₂ 농도가 일시적으로 상승
-  * ③ 저산소성 호흡 드라이브 억제 : O₂ 투여로 저산소혈증에 의한 호흡 자극이 줄어 환기량과 CO₂ 배출이 감소&#x20;
+  * ② Haldane 효과 : 산소화된 헤모글로빈의 CO₂ 운반·완충 능력이 감소하여 PaCO₂가 상승할 수 있음
+  * ③ 저산소성 호흡 드라이브 억제 : O₂ 투여로 저산소혈증에 의한 호흡 자극이 줄어 환기량과 CO₂ 배출이 감소
 * 산소 조절 원칙 : 목표 범위를 초과하지 않도록 조절
   * 심한 저산소혈증, 쇼크, 심폐소생 상황에서는 CO₂ 저류 우려만으로 산소 공급을 지연하지 않음
   * 조기 혈액가스 평가 및 환기 지원 병행
@@ -431,7 +431,7 @@ flowchart TD
 * 고유량 비강 캐뉼러(HFNC) : 급성 저산소성 호흡 부전에서 고려
   * 적용 환경 : 2차 의료기관 이상
   * COPD 급성 악화에서는 선택적으로 사용 가능
-  * 급성 고탄산혈증성 호흡 부전에서는 NIV가 우선이며 HFNC가 NIV를 대체하지 않음
+  * COPD 급성 악화로 호흡성 산증(pH ≤7.35)을 동반한 급성 고탄산혈증성 호흡 부전에서는 NIV를 우선 고려하며, HFNC를 그 대체로 사용하지 않음
 
 <mark style="color:cyan;">**비침습적 양압 환기(NIV)**</mark>
 
@@ -444,10 +444,10 @@ flowchart TD
 
 ### <mark style="color:orange;">비약물 치료</mark>
 
-* 과호흡(공황/불안) 관리: 편안하고 느린 호흡을 유도
+* 과호흡(공황/불안) 관리 : 편안하고 느린 호흡을 유도
   * 안심시키고 상체·어깨의 긴장을 풀도록 함
   * 과도하게 깊은 호흡을 피함
-  * 주의 : 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
+  * 주의 : 종이봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
 * pursed-lip breathing : COPD 등 호기 기류 제한 시 호기를 연장하여 호흡곤란을 줄이는 목적으로 적용
   * 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼
   * 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
@@ -456,18 +456,18 @@ flowchart TD
 
 #### <mark style="color:$primary;">Nitrate</mark>
 
-* 적용 원칙 : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">니트로글리세린 0.6 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark>
+* 적용 원칙 : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용
   * 일반 호흡곤란에 일률적으로 사용하지 않음 (☞ [협심증](../225_/097_-angina-pectoris.md#nitrate))
 * 응급 평가·이송
   * 새 흉통·호흡곤란 또는 ACS 의심 시 즉시 119 호출·ECG 평가
   * 약물투여 반응을 기다리며 이송을 지연하지 않음
-* 협심증 발작 : nitroglycerin 0.6 ㎎ 설하
+* 협심증 발작 : nitroglycerin 0.6 ㎎ 설하 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">니트로글리세린</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark>
 * 급성 심인성 폐부종 : nitrate 사용은 혈압을 감시하며 응급 진료에서 판단
 * 금기·주의
   * 저혈압·쇼크
   * 최근 PDE5 억제제 사용 : sildenafil·vardenafil 24시간, tadalafil 48시간 이내 등
   * riociguat 병용
-  * 허가사항 상 니트로글리세린 설하정은 급성 심근경색을 금기로 명시하고 있으므로 해당 상황에서는 품목 허가사항과 응급 진료 지침을 확인하여 판단
+  * 허가사항상 니트로글리세린 설하정은 급성 심근경색을 금기로 명시하고 있으므로 해당 상황에서는 품목 허가사항과 응급 진료 지침을 확인하여 판단
   * 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의
     * 우심실은 preload 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 
@@ -477,7 +477,7 @@ flowchart TD
   * 급성기에는 가능하면 정맥 투여
 * 투여 전 : 혈압 확인 필수
   * SBP ＜90 ㎜Hg 등 쇼크·저관류 소견이 있으면 임의 투여하지 않고 즉시 전원
-* furosemide 미사용자 : 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">라식스 20 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11A0740A0096)<mark style="color:blue;">]</mark>
+* furosemide 미사용자 : 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">라식스</mark>](https://www.health.kr/drug/A11A0740A0096)<mark style="color:blue;">]</mark>
   * 천천히 정맥 투여(급속 주사 피함)
 * 기존 루프이뇨제 복용자 : 하루 경구 furosemide 등가 용량 확인
   * 응급 진료에서 초기 정맥 용량 결정
@@ -487,15 +487,16 @@ flowchart TD
 #### <mark style="color:$primary;">기관지 확장제</mark>
 
 * salbutamol(SABA)
-  * nebulizer : 2.5\~5 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸 2.5 ㎎/2.5 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark>
-  * MDI + spacer : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러 100 ㎍/분무</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark>
+  * nebulizer : 2.5\~5 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark> 2.5 ㎎/2.5 ㎖
+  * MDI + spacer : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark> 100 ㎍/분무
   * 중증도별 용량은 아래 처방례 참조
 * 천식 악화에서 ipratropium(SAMA) 병용
   * 중증 : 병용
   * 중등도 악화 또는 초기 SABA 반응 불충분 : 추가 고려
   * 경증 : 일률 병용하지 않음
-  * 1회 용량 : 0.25 ㎎(250 ㎍) nebulizer; <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트 0.5 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> 중 1 ㎖
+  * 1회 용량 : 0.25 ㎎(250 ㎍) nebulizer; <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> 0.5 ㎎/2 ㎖ 중 1 ㎖
   * 필요시 SABA 투여 때마다 함께 20\~30분 간격으로 초기 최대 3회 <mark style="color:$info;">\[GINA 2026 Box 9-6]</mark>
+  * 금기 : 폐쇄각녹내장, 전립선비대증
 * COPD 악화 : SABA ± ipratropium
   * ipratropium 병용 예시 : 1회 0.5 ㎎(500 ㎍, 2 ㎖) nebulizer
   * 반복 투여는 중증도·반응에 따라 결정하며, 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
@@ -503,7 +504,7 @@ flowchart TD
 #### <mark style="color:$primary;">스테로이드</mark>
 
 * 적용 원칙 : 이 장에서는 COPD·천식 급성 악화에 대한 사용을 제시함; 적응증 없이 일률 사용 금함
-* [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">소론도 5 ㎎</mark>](https://www.health.kr/drug/a11a4290b0015)<mark style="color:blue;">]</mark>
+* [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">소론도</mark>](https://www.health.kr/drug/a11a4290b0015)<mark style="color:blue;">]</mark> 5 ㎎
   * 투여 기간 : 5\~7일
 * [COPD](../223_/072_-copd.md) 급성 악화 : prednisone-equivalent 40 ㎎/d
   * 투여 기간 : 5일
@@ -536,7 +537,7 @@ flowchart TD
 > ※ 혈압·금기를 확인하고, 구급대 도착을 기다리는 동안 5분 간격으로 총 3회까지 투여 가능
 > ```
 >
-> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">명문니트로글리세린설하정 0.6 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark>
+> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">명문니트로글리세린설하정</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark> 0.6 ㎎
 >
 > _✽ **금기·주의 :** 저혈압·쇼크, 최근 PDE5 억제제 사용(sildenafil·vardenafil 24시간, tadalafil 48시간 이내 등), riociguat 병용_
 >
@@ -559,11 +560,11 @@ flowchart TD
 > ※ salbutamol과 병용하며, 반복 투여는 중증도·반응 및 해당 치료 경로에 따라 결정
 > ```
 >
-> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러 100 ㎍/분무</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark> · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸 2.5 ㎎/2.5 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark> · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트흡입액유디비 0.5 ㎎/2 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark>
+> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린에보할러</mark>](https://www.health.kr/drug/A11ABBBBB1232)<mark style="color:blue;">]</mark> 100 ㎍/분무 · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark> 2.5 ㎎/2.5 ㎖ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아트로벤트흡입액유디비</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">]</mark> 0.5 ㎎/2 ㎖
 >
 > _✽ **흡입 용량·방법 :** 천식의 반복 흡입량은 GINA 2026의 의료진 감시하 급성 악화 치료 예시임 (<mark style="color:blue;">벤토린</mark> 제품의 통상 자가 사용량과 구분함). salbutamol pMDI는 매 분무 직전에 흔들고, spacer로 한 번에 1분무씩 흡입한 뒤 다음 분무를 시행. 네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
 >
-> _✽ **전신 스테로이드 병행 :** 천식 - 중등도 이상 급성 악화에서 전신 스테로이드 병행; COPD - 임상적으로 유의한 중등증·중증 악화에서 전신 스테로이드 단기 투여; 전신 스테로이드 용량·기간 및 상세 흡입 용량·반복 간격은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조_
+> _✽ **전신 스테로이드 병행 :** 천식 - 중등도 이상 급성 악화에서 전신 스테로이드 병행; COPD - 임상적으로 유의한 중등도·중증 악화에서 전신 스테로이드 단기 투여; 전신 스테로이드 용량·기간 및 상세 흡입 용량·반복 간격은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조_
 >
 > _✽ **재평가·유지 치료 :** 기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가; 천식 - 평소에는 개인별 천식 행동계획을 따름, 급성 악화 후에는 ICS 포함 유지 치료를 확인; COPD - 장시간 기관지 확장제 유지 치료를 재개·최적화, ICS는 별도 적응증에 따라 결정_
 
@@ -608,7 +609,7 @@ flowchart TD
 > * **흡입 방법**
 >   * 매 분무 직전에 충분히 흔드십시오.
 >   * 숨을 내쉰 후 흡입기를 입에 물고 천천히 깊게 들이마시면서 누르십시오.
->   * 가능하면 spacer를 사용하면 흡입 효율이 높아집니다.
+>   * 가능하면 spacer를 사용하십시오. 흡입 효율이 높아집니다.
 >   * 흡입 후 5\~10초간 숨을 참았다가 천천히 내쉬십시오.
 > * **재평가** : 효과가 없거나 1회 사용 후 20\~30분 안에 증상이 다시 심해지면 병원을 방문하십시오.
 >   * 말을 잇지 못할 정도로 숨이 차거나 입술이 파랗게 변하는 등 심한 증상이면 병원 방문을 기다리지 말고 즉시 119를 부르십시오.
@@ -618,8 +619,8 @@ flowchart TD
 > **이프라트로피움 흡입제&#x20;**<mark style="color:blue;">**\[**</mark>[<mark style="color:blue;">**아트로벤트**</mark>](https://www.health.kr/drug/A11ABBBBB1384)<mark style="color:blue;">**]**</mark>**&#x20;- COPD 급성 악화·중증 천식 악화**
 >
 > * 급성 악화 시 살부타몰과 함께 사용하여 기관지를 더 효과적으로 넓혀 줍니다.
-> * 눈에 들어가지 않도록 주의하십시오 - 녹내장이 있는 경우 악화될 수 있습니다.
-> * 전립선 비대증이 있는 경우 소변보기가 더 어려워질 수 있으니 불편하면 알려 주십시오.
+> * 녹내장이나 전립선비대증이 있으면 사용 전에 반드시 의료진에게 알려 주십시오.
+> * 약물이 눈에 들어가지 않도록 주의하십시오.
 
 > **에피네프린 자동주사기 (**<mark style="color:blue;">**\[**</mark>[<mark style="color:blue;">**젝스트**</mark>](https://www.health.kr/drug/2017121500011)<mark style="color:blue;">**]**</mark>**&#x20;등) - 아나필락시스**
 >
