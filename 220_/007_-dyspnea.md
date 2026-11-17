@@ -329,13 +329,6 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
-***
-
-```mermaid
-```
-
-<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
-
 #### <mark style="color:$primary;">1차 진료에서 흔한 진단 오류</mark>
 
 * **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단
@@ -353,19 +346,49 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+```mermaid
+flowchart TD
+    A["호흡곤란 환자"] --> B["Red Flags의 즉각 조치 <br/>항목에 해당?"]
+    B -- "예" --> C["<u>기도·호흡·순환 안정화 및 <br/>119 호출</u><br/>• 아나필락시스: 즉시 <br/>epinephrine IM<br/>• 긴장성 기흉: 숙련된 응급 <br/>감압, 영상 대기 안 함"]
+    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 <br/>호흡노력 평가</u><br/>• 필요 시 산소·환기 지원"]
+    D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·<br/>D-dimer 등 선택"]
+    F --> G["주요 원인 단서?"]
+    G -- "심장·혈관" ---> H["심부전·ACS 또는 <br/>PE 의심?"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• 울혈·혈압·<br/>ECG 평가<br/>• 응급 이송 및 <br/>질환별 처치"]
+    H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
+    G -- "기관지·폐" ---> I["기도 악화 또는 <br/>기흉·감염 의심?"]
+    I -- "천식·COPD 악화" --> I2["<u>SABA ± <br/>ipratropium</u><br/>• 중증도에 따라 <br/>스테로이드·이송"]
+    I -- "기흉·감염" --> N["<u>흉부 X선·POCUS <br/>등 원인 평가</u><br/>• 상태에 따라 <br/>응급 처치·이송"]
+    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 위약: FVC·<br/>NIF 및 즉시 전원"]
+    G -- "설명 불충분·<br/>불안 가능" --> L["<u>기질적 원인 배제 후 <br/>불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 <br/>단계적 추가 검사"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class B,G,H,I question
+    class C,H2,K emergency
+    class D,F,J,N evaluation
+    class I2,L treatment
+```
 
+<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
+
+***
+
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">초기 안정화</mark>
 
-<mark style="color:cyan;">**기도 확보·자세**</mark>
+<mark style="color:cyan;">**기도 및 자세 확보**</mark>
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보
   * 필요시 즉시 119 호출 및 전원
-* 자세 : 대부분의 호흡곤란에서는 앉은 자세 유지
-  * 단, 쇼크·저혈압 또는 아나필락시스가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
+* 자세 : 대부분의 호흡곤란에서는 앉은 자세를 유지함&#x20;
+  * 단, 쇼크·저혈압 또는 [아나필락시스](../230_/188_-anaphylaxis.md)가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
 
-<mark style="color:cyan;">**응급 이송·전원**</mark>
+<mark style="color:cyan;">**응급 이송**</mark>
 
 * 원칙 : Red Flags의 '즉각 조치'에 해당하면 기도·호흡·순환을 안정화하면서 119 호출·이송
 * 심낭압전 : 응급 심낭천자 등 배액이 가능한 기관으로 즉시 이송
@@ -373,7 +396,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 ### <mark style="color:orange;">산소·환기 지원</mark>
 
-<mark style="color:cyan;">**산소 공급 원칙·목표**</mark>
+<mark style="color:cyan;">**산소 공급 원칙 및 목표**</mark>
 
 * 산소 공급 : 저산소혈증이 있을 때 질환별 SpO₂ 목표에 맞춰 투여
 * 저산소혈증이 있는 일반 급성 환자 : SpO₂ 목표 94\~98% <mark style="color:$info;">\[BTS 2017]</mark>
@@ -390,9 +413,9 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * 기전
   * ① V/Q 불균형 악화 : 저산소성 폐혈관수축 소실로 관류가 환기 불량 부위로 재분배
   * ② Haldane 효과 : 산소가 헤모글로빈에 결합하면서 CO₂ 운반 능력이 감소하여 혈중 CO₂ 농도가 일시적으로 상승
-  * ③ 저산소성 호흡 드라이브 억제 : 상대적으로 비중이 작은 기전
+  * ③ 저산소성 호흡 드라이브 억제 : O₂ 투여로 저산소혈증에 의한 호흡 자극이 줄어 환기량과 CO₂ 배출이 감소&#x20;
 * 산소 조절 원칙 : 목표 범위를 초과하지 않도록 조절
-  * 심한 저산소혈증·쇼크·심폐소생 상황에서는 CO₂ 저류 우려만으로 산소 공급을 지연하지 않음
+  * 심한 저산소혈증, 쇼크, 심폐소생 상황에서는 CO₂ 저류 우려만으로 산소 공급을 지연하지 않음
   * 조기 혈액가스 평가 및 환기 지원 병행
 
 <mark style="color:cyan;">**산소 전달 장치**</mark>
@@ -416,45 +439,39 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * COPD 급성 악화 : 호흡성 산증(pH ≤7.35)을 동반한 급성 고탄산혈증성 호흡 부전에서는 bilevel PAP를 우선 고려
   * 급성 심인성 폐부종 : 호흡곤란·저산소혈증이 지속되면 CPAP 또는 bilevel PAP 고려
 * 적용 환경 : 2차 의료기관 이상에서 적용하거나 전원 결정의 지표로 활용
-* 적용이 부적절하거나 실패 위험이 높은 경우
-  * 기도 보호 불가
-  * 지속적 구토/흡인 위험
-  * 심한 의식 저하
-  * 혈역학적 불안정/쇼크
+* 적용이 부적절하거나 실패 위험이 높은 경우 : 기도 보호 불가, 지속적 구토/흡인 위험, 심한 의식 저하, 혈역학적 불안정/쇼크
 * 위 상황에서는 조기 invasive airway/전원 고려
 
 ### <mark style="color:orange;">비약물 치료</mark>
 
-* 과호흡(공황/불안) : 편안하고 느린 호흡을 유도
+* 과호흡(공황/불안) 관리: 편안하고 느린 호흡을 유도
   * 안심시키고 상체·어깨의 긴장을 풀도록 함
   * 과도하게 깊은 호흡을 피함
-  * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
-* pursed-lip breathing : COPD 등 호기 기류 제한 환자에서 호기를 연장하여 호흡곤란을 줄이는 데 활용
+  * 주의 : 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
+* pursed-lip breathing : COPD 등 호기 기류 제한 시 호기를 연장하여 호흡곤란을 줄이는 목적으로 적용
   * 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼
   * 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
 
 ### <mark style="color:orange;">약물 치료 및 응급 처치</mark>
 
-<mark style="color:cyan;">**nitrate**</mark>
+#### <mark style="color:$primary;">Nitrate</mark>
 
-* 적용 원칙 : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용
-  * 일반 호흡곤란에 일률적으로 사용하지 않음
-  * 자세한 내용 : [nitrate](../225_/097_-angina-pectoris.md#nitrate)
-* 협심증 발작 : nitroglycerin 0.6 ㎎ 설하 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">명문니트로글리세린 0.6 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark>
+* 적용 원칙 : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">니트로글리세린 0.6 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB0474)<mark style="color:blue;">]</mark>
+  * 일반 호흡곤란에 일률적으로 사용하지 않음 (☞ [협심증](../225_/097_-angina-pectoris.md#nitrate))
 * 응급 평가·이송
   * 새 흉통·호흡곤란 또는 ACS 의심 시 즉시 119 호출·ECG 평가
-  * 투여 반응을 기다리며 이송을 지연하지 않음
+  * 약물투여 반응을 기다리며 이송을 지연하지 않음
+* 협심증 발작 : nitroglycerin 0.6 ㎎ 설하
 * 급성 심인성 폐부종 : nitrate 사용은 혈압을 감시하며 응급 진료에서 판단
 * 금기·주의
   * 저혈압·쇼크
   * 최근 PDE5 억제제 사용 : sildenafil·vardenafil 24시간, tadalafil 48시간 이내 등
   * riociguat 병용
-* 제품 허가사항 : <mark style="color:blue;">명문니트로글리세린설하정</mark>은 급성 심근경색을 금기로 명시
-  * 해당 상황에서는 품목 허가사항과 응급 진료 지침을 확인하여 판단
-* 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의
-  * 우심실은 preload 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
+  * 허가사항 상 니트로글리세린 설하정은 급성 심근경색을 금기로 명시하고 있으므로 해당 상황에서는 품목 허가사항과 응급 진료 지침을 확인하여 판단
+  * 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의
+    * 우심실은 preload 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 
-<mark style="color:cyan;">**이뇨제**</mark>
+#### <mark style="color:$primary;">이뇨제</mark>
 
 * 적용 대상 : 울혈·체액 과다가 있는 심부전 및 심인성 폐부종
   * 급성기에는 가능하면 정맥 투여
@@ -467,16 +484,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * ESC 2026 예시 : 기존 하루 경구 용량의 2배
 * 투여 후 : 반응·혈압·신기능·전해질을 확인하여 조정
 
-<mark style="color:cyan;">**빈맥 관리**</mark>
-
-* 적용 대상 : 혈역학적으로 안정된 규칙적 narrow-QRS SVT에 한정
-* 우선 처치 : modified Valsalva maneuver (☞ [두근거림](009_-palpitation.md#management))
-* 경동맥동 마사지 : 숙련된 환경에서만 시행
-  * 죽상경화증·고령·허혈성 심질환 환자에서는 피함
-* 혈역학적으로 불안정(저혈압·의식 변화 동반)한 경우
-  * 즉시 동기화 심율동전환(synchronized cardioversion)이 가능한 기관으로 이송
-
-<mark style="color:cyan;">**기관지 확장제**</mark>
+#### <mark style="color:$primary;">기관지 확장제</mark>
 
 * salbutamol(SABA)
   * nebulizer : 2.5\~5 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">벤토린네뷸 2.5 ㎎/2.5 ㎖</mark>](https://www.health.kr/drug/A11ABBBBB1231)<mark style="color:blue;">]</mark>
@@ -492,14 +500,22 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * ipratropium 병용 예시 : 1회 0.5 ㎎(500 ㎍, 2 ㎖) nebulizer
   * 반복 투여는 중증도·반응에 따라 결정하며, 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
 
-<mark style="color:cyan;">**스테로이드**</mark>
+#### <mark style="color:$primary;">스테로이드</mark>
 
-* 적용 원칙 : 이 장에서는 COPD·천식 급성 악화에 대한 사용을 제시
-  * 적응증 없이 일률 사용 금함
+* 적용 원칙 : 이 장에서는 COPD·천식 급성 악화에 대한 사용을 제시함; 적응증 없이 일률 사용 금함
 * [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">소론도 5 ㎎</mark>](https://www.health.kr/drug/a11a4290b0015)<mark style="color:blue;">]</mark>
   * 투여 기간 : 5\~7일
 * [COPD](../223_/072_-copd.md) 급성 악화 : prednisone-equivalent 40 ㎎/d
   * 투여 기간 : 5일
+
+#### <mark style="color:$primary;">빈맥 관리</mark>
+
+* 적용 대상 : 혈역학적으로 안정된 규칙적 narrow-QRS SVT에 한정
+* 우선 처치 : modified Valsalva maneuver (☞ [두근거림](009_-palpitation.md#management))
+* 경동맥동 마사지 : 숙련된 환경에서만 시행
+  * 죽상경화증·고령·허혈성 심질환 환자에서는 피함
+* 혈역학적으로 불안정(저혈압·의식 변화 동반)한 경우
+  * 즉시 동기화 심율동전환(synchronized cardioversion)이 가능한 기관으로 이송
 
 ***
 
@@ -529,7 +545,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 > **처방례 2. 천식/COPD 급성 악화 - 의료기관 초기 처치**
 >
 > ```
-> 천식 악화 - 벤토린에보할러 100 ㎍/분무, MDI + spacer
+> ▶천식 악화 - 벤토린에보할러 100 ㎍/분무, MDI + spacer
 > 경증: 4분무, 필요하면 30~60분 뒤 1회 반복
 > 중등도: 4~6분무, 필요하면 20~30분 간격으로 초기 총 3회까지
 > 중증·생명위협: 즉시 이송 준비, 6~10분무 또는 벤토린네뷸 2.5 ㎎/2.5 ㎖ 2앰플(salbutamol 5 ㎎) nebulizer
@@ -538,7 +554,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 > ※ 중증 악화에서는 병용, 중등도 악화 또는 초기 SABA 반응 불충분 시 추가 고려
 > ※ ipratropium은 필요시 salbutamol 투여 때마다 함께 20~30분 간격으로 초기 최대 3회
 >
-> COPD 악화 - SABA ± SAMA를 중증도·반응에 따라 조절
+> ▶COPD 악화 - SABA ± SAMA를 중증도·반응에 따라 조절
 > ipratropium 병용 시: 아트로벤트흡입액유디비 0.5 ㎎/2 ㎖ 1바이알 nebulizer
 > ※ salbutamol과 병용하며, 반복 투여는 중증도·반응 및 해당 치료 경로에 따라 결정
 > ```
