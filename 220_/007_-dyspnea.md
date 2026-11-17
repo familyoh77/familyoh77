@@ -329,13 +329,6 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
-***
-
-```mermaid
-```
-
-<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
-
 #### <mark style="color:$primary;">1차 진료에서 흔한 진단 오류</mark>
 
 * **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단
@@ -353,9 +346,14 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 ***
 
+```mermaid
+```
+
+<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
-
-
 
 ### <mark style="color:orange;">초기 안정화 및 호흡 지원</mark>
 
@@ -363,7 +361,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보
   * 필요시 즉시 119 호출 및 전원
-* 자세 : 대부분의 호흡곤란에서는 앉은 자세 유지
+* 자세 : 대부분의 호흡곤란에서 앉은 자세를 유지
   * 단, 쇼크·저혈압 또는 아나필락시스가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
 
 <mark style="color:cyan;">**산소 공급 원칙·목표**</mark>
