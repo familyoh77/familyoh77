@@ -329,6 +329,13 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
+***
+
+```mermaid
+```
+
+<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
+
 #### <mark style="color:$primary;">1차 진료에서 흔한 진단 오류</mark>
 
 * **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단
@@ -346,27 +353,29 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 ***
 
-```mermaid
-```
-
-<p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
-
-***
-
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">초기 안정화 및 호흡 지원</mark>
+
+### <mark style="color:orange;">초기 안정화</mark>
 
 <mark style="color:cyan;">**기도 확보·자세**</mark>
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보
   * 필요시 즉시 119 호출 및 전원
-* 자세 : 대부분의 호흡곤란에서 앉은 자세를 유지
+* 자세 : 대부분의 호흡곤란에서는 앉은 자세 유지
   * 단, 쇼크·저혈압 또는 아나필락시스가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
+
+<mark style="color:cyan;">**응급 이송·전원**</mark>
+
+* 원칙 : Red Flags의 '즉각 조치'에 해당하면 기도·호흡·순환을 안정화하면서 119 호출·이송
+* 심낭압전 : 응급 심낭천자 등 배액이 가능한 기관으로 즉시 이송
+* 신경근육성 호흡 부전 : 새로 발생하거나 빠르게 진행하는 호흡근 위약·환기 부전이 의심되면 즉시 전원
+
+### <mark style="color:orange;">산소·환기 지원</mark>
 
 <mark style="color:cyan;">**산소 공급 원칙·목표**</mark>
 
-* 산소 공급 : SpO₂ 목표 및 임상 상황에 따라 투여 방식 선택
+* 산소 공급 : 저산소혈증이 있을 때 질환별 SpO₂ 목표에 맞춰 투여
 * 저산소혈증이 있는 일반 급성 환자 : SpO₂ 목표 94\~98% <mark style="color:$info;">\[BTS 2017]</mark>
   * 질환별 목표를 우선 적용
 * 천식 급성 악화 : 산소가 필요하면 SpO₂ 92\~95% 목표 <mark style="color:$info;">\[GINA 2026]</mark>
@@ -413,12 +422,6 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * 심한 의식 저하
   * 혈역학적 불안정/쇼크
 * 위 상황에서는 조기 invasive airway/전원 고려
-
-<mark style="color:cyan;">**응급 이송·전원**</mark>
-
-* 심낭압전 : 응급 심낭천자 등 배액이 가능한 기관으로 즉시 이송
-  * 혈역학적으로 불안정하면 배액을 지연하지 않음
-* 신경근육성 호흡 부전 : 새로 발생하거나 빠르게 진행하는 호흡근 위약·환기 부전이 의심되면 즉시 전원
 
 ### <mark style="color:orange;">비약물 치료</mark>
 
