@@ -42,8 +42,8 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * 흡기 시 stridor(거친 고음성 호흡음) `상기도 폐쇄` `이물 흡인` `아나필락시스`
 * 가능한 알레르겐 노출 후 갑작스러운 목 조임·쉰 목소리·호흡곤란·기관지경련 또는 저혈압/실신 `아나필락시스`
   * 피부 증상은 동반되지 않을 수 있음
-* 생명 위협 천식 징후 - 말을 끝까지 잇지 못함, silent chest(청진상 천명음마저 소실), 피로·의식 변화
-* 휴식 중 발생 + 활력징후 이상(빈호흡, 빈맥, 저혈압, SpO₂ 저하 등) 동반
+* <mark style="background-color:yellow;">중증·생명 위협 천식 징후</mark> : 말을 끝까지 잇지 못함, silent chest(청진상 천명음마저 소실), 피로·의식 변화
+* <mark style="background-color:yellow;">휴식 중 호흡곤란 + 중대한 활력징후 이상(위 기준의 빈호흡·빈맥, 저혈압·저산소혈증 등) 동반</mark>
 * 사지 위약·shallow breathing 동반 `신경근육 질환`
 * 편측 호흡음 감소와 함께 저혈압, 기관 편위, 경정맥 확장 중 하나 이상 동반 `긴장성 기흉`
 * 저혈압과 함께 경정맥 확장, 심음 감소, pulsus paradoxus 중 하나 이상 동반 `심낭압전`
@@ -51,7 +51,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 <mark style="color:$warning;">**당일 평가**</mark>
 
 * 휴식 중에도 지속되는 호흡곤란 또는 새로 발생한 안정 시 호흡곤란
-  * 활력징후 이상이 동반되면 '즉각 조치'에 해당
+  * <mark style="background-color:yellow;">위 '즉각 조치' 기준에 해당하는 활력징후 이상이 동반되면 즉각 조치</mark>
 * 수포음(crackles), 호흡음 감소
 * 발열(＞38.5℃) + 저산소혈증·빈호흡 동반, 또는 면역저하 상태
   * 단, 심한 저산소혈증·호흡노력 증가·혈역학 이상이 있으면 '즉각 조치'에 해당
@@ -161,16 +161,16 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
     * ≥75세 : ＞1,800 pg/㎖
 * 비급성 상황(외래·만성)
   * 기존 단일 배제 기준 : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ <mark style="color:$info;">\[ESC 2021]</mark>
-  * 외래에서 HF 가능성이 높아지는 연령 보정 NT-proBNP 기준 <mark style="color:$info;">\[ESC 2026]</mark>
+  * 외래에서 HF 가능성이 높아지는 연령 보정 NT-proBNP 기준 <mark style="color:$info;background-color:yellow;">\[ESC 2026 Figure 4; 연령 구간은 도식 기준]</mark>
     * ＜50세 : ≥125 pg/㎖
-    * 50\~75세 : ≥250 pg/㎖
-    * ＞75세 : ≥500 pg/㎖
+    * <mark style="background-color:yellow;">50\~74세</mark> : ≥250 pg/㎖
+    * <mark style="background-color:yellow;">≥75세</mark> : ≥500 pg/㎖
   * 해석·의뢰 원칙
     * 연령 보정치 미만만으로 확실히 배제하지 않으며, 임상적 의심이 높으면 심초음파·전문의 평가
-    * 안정된 외래 심부전 의심 환자에서 NT-proBNP ＞2,000 pg/㎖이면 가급적 2주 이내 전문 평가·심초음파 시행을 위한 신속 의뢰 고려 \[ESC 2026 Figure 4]
+    * 안정된 외래 심부전 의심 환자에서 NT-proBNP ＞2,000 pg/㎖이면 가급적 2주 이내 전문 평가·심초음파 시행을 위한 신속 의뢰 고려 <mark style="color:$info;background-color:yellow;">\[ESC 2026 Figure 4]</mark>
     * 급성 악화·위험 징후가 있으면 즉시 평가
 * BNP/NT-proBNP 해석 주의
-  * 급성·외래의 연령 구간 및 기준치를 서로 혼용하지 않음
+  * <mark style="background-color:yellow;">급성·외래의 기준치를 서로 혼용하지 않음</mark>
   * 비만·HFpEF 또는 급격히 발생한 폐부종 등에서는 낮은 수치만으로 심부전을 완전히 배제하지 않음
   * 고령·심방세동·신부전·패혈증 등에서는 기저치가 높아질 수 있으므로 단독으로 심부전을 확진하지 않음
 
@@ -178,24 +178,25 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 임상적 사전확률과 함께 폐색전증 배제 여부를 판단하는 혈액검사
 * 적용 원칙 : 임상적 사전확률에 따라 단계적으로 적용
-  * 초저위험 사전확률 : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능
+  * 초저위험 사전확률<mark style="background-color:yellow;">(임상적 판단 ＜15%)</mark> : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능
   * 낮음\~중간 사전확률 : D-dimer를 우선 시행하여 배제 여부 판단
   * 높은 사전확률 : D-dimer로 영상검사를 지연시키지 않고 바로 CTPA(CT Pulmonary Angiography) 등 영상검사 진행
+  * <mark style="background-color:yellow;">임신부 : 일반 Wells·PERC를 그대로 적용하지 않고 임신부에 검증된 별도 진단 경로 적용</mark>
 * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음
 * 연령 보정 : ≥50세에서는 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
 * 단위 확인 : 검사실마다 FEU(fibrinogen equivalent unit) 또는 DDU(D-dimer unit) 기준이 다름
 
-<mark style="color:cyan;">**선택적 시행**</mark> (확장 패널)
+<mark style="color:cyan;background-color:yellow;">**선택적 추가 검사**</mark>
 
 * **폐 초음파(POCUS)** : 외래 또는 응급 상황에서 신속 감별에 활용
   * B-line ≥3개/zone : 양측성·미만성·다구역으로 관찰되면 간질성 증후군·폐부종을 지지
     * ILD(간질성 폐질환), ARDS(급성호흡곤란증후군), 폐렴 등에서도 관찰 가능하므로 단독으로 확진하지 않음
-  * focal consolidation + air bronchogram → 폐렴 의심
+  * <mark style="background-color:yellow;">focal consolidation + dynamic air bronchogram → 폐렴을 시사</mark>
   * lung sliding 소실 → 기흉 의심
     * 무기폐·흉막 유착·apnea 등에서도 나타날 수 있으므로 lung point 등 추가 소견과 임상상으로 판단
-  * 심부전과 COPD 감별 시 BNP와 병용하면 정확도 향상
+  * <mark style="background-color:yellow;">심부전·COPD 감별 시 임상상·BNP/NT-proBNP와 함께 해석</mark>
 * **심장 초음파** : 좌심실 기능·판막 이상 평가
-  * 심낭압전 의심 시 즉시 심장 초음파 확인 및 응급 심낭천자 고려
+  * <mark style="background-color:yellow;">심낭압전 의심 시 즉시 심장 초음파 평가</mark>
 * **PFT(폐기능 검사)** : 만성 호흡곤란에서 우선 고려
   * 폐쇄성 패턴 : 천식·COPD
   * 제한성 패턴(의심) : 스피로메트리에서 FVC 저하 + FEV₁/FVC 보존
@@ -204,7 +205,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * **ABG(동맥혈 가스 분석)** : 다음 경우 시행
   * 중증 또는 CO₂ retention 의심
   * Kussmaul 호흡 + DKA/패혈증/신부전 감별
-  * Kussmaul 호흡에서는 glucose·ketone을 함께 확인
+    * <mark style="background-color:yellow;">glucose·ketone을 함께 확인</mark>
 * **CT, cardiac stress tests** : 임상적 판단에 따라 선택
 
 <mark style="color:cyan;">**상황별 추가 평가**</mark>
@@ -223,7 +224,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 ### <mark style="color:orange;">심장성 vs 폐성 vs 불안/과호흡 감별</mark>
 
-<table data-search="false"><thead><tr><th width="110">구분</th><th width="185">심장성 (Cardiac)</th><th width="185">폐성 (Pulmonary)</th><th>불안 / 과호흡 (Anxiety)</th></tr></thead><tbody><tr><td><strong>주요 원인</strong></td><td>심부전, ACS, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td><td>불안 장애, 공황 장애</td></tr><tr><td><strong>발생 양상</strong></td><td>점진적 또는 급성 (HF/ACS)</td><td>급성·아급성·만성 모두 가능</td><td>갑작스러운 발작형; 스트레스·상황 유발</td></tr><tr><td><strong>자세 영향</strong></td><td>누우면 악화 (orthopnea, PND)</td><td>자세보다 유발 인자(먼지·연기) 영향</td><td>자세 무관</td></tr><tr><td><strong>호흡 양상</strong></td><td>얕고 빠름</td><td>wheeze / 기침 동반</td><td>깊고 빠름 (과호흡)</td></tr><tr><td><strong>청진</strong></td><td>crackle (폐울혈), S3</td><td>wheeze, crackle, 호흡음 감소</td><td>정상</td></tr><tr><td><strong>흉통</strong></td><td>압박감 (ACS)</td><td>흉막성 통증</td><td>비특이적, 찌르는 느낌</td></tr><tr><td><strong>동반 증상</strong></td><td>leg edema, JVD, 핑크 거품 가래</td><td>기침, 화농성 가래, 발열</td><td>어지럼, 손발·입술 저림, 공포감</td></tr><tr><td><strong>SpO₂</strong></td><td>저하 가능</td><td>저하 가능</td><td>정상</td></tr><tr><td><strong>CXR</strong></td><td>심비대, 폐부종, Kerley B-line</td><td>침윤, 과팽창, 기흉</td><td>정상</td></tr><tr><td><strong>BNP</strong></td><td>상승</td><td>대개 정상이나 우심부하·폐고혈압 등에서 상승 가능</td><td>정상</td></tr><tr><td><strong>치료 반응</strong></td><td>울혈성 심부전에서는 이뇨제로 호전 가능</td><td>기도폐쇄는 기관지 확장제, 세균성 감염은 적절한 항생제에 반응 가능</td><td>안심·호흡 조절로 호전</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="110">구분</th><th width="185">심장성 (Cardiac)</th><th width="185">폐성 (Pulmonary)</th><th>불안 / 과호흡 (Anxiety)</th></tr></thead><tbody><tr><td><strong>주요 원인</strong></td><td>심부전, ACS, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td><td>불안 장애, 공황 장애</td></tr><tr><td><strong>발생 양상</strong></td><td>점진적 또는 급성 (HF/ACS)</td><td>급성·아급성·만성 모두 가능</td><td>갑작스러운 발작형; 스트레스·상황 유발</td></tr><tr><td><strong>자세 영향</strong></td><td><mark style="background-color:yellow;">누우면 악화(orthopnea); 야간 발작성 호흡곤란(PND) 가능</mark></td><td>자세보다 유발 인자(먼지·연기) 영향</td><td>자세 무관</td></tr><tr><td><strong>호흡 양상</strong></td><td>얕고 빠름</td><td>wheeze / 기침 동반</td><td>깊고 빠름 (과호흡)</td></tr><tr><td><strong>청진</strong></td><td>crackle (폐울혈), S3</td><td>wheeze, crackle, 호흡음 감소</td><td>정상</td></tr><tr><td><strong>흉통</strong></td><td>압박감 (ACS)</td><td>흉막성 통증</td><td>비특이적, 찌르는 느낌</td></tr><tr><td><strong>동반 증상</strong></td><td>leg edema, JVD, 핑크 거품 가래</td><td>기침, 화농성 가래, 발열</td><td>어지럼, 손발·입술 저림, 공포감</td></tr><tr><td><strong>SpO₂</strong></td><td>저하 가능</td><td>저하 가능</td><td>정상</td></tr><tr><td><strong>CXR</strong></td><td>심비대, 폐부종, Kerley B-line</td><td>침윤, 과팽창, 기흉</td><td>정상</td></tr><tr><td><strong>BNP</strong></td><td><mark style="background-color:yellow;">심부전 등에서 상승 가능</mark></td><td>대개 정상이나 우심부하·폐고혈압 등에서 상승 가능</td><td>정상</td></tr><tr><td><strong>치료 반응</strong></td><td>울혈성 심부전에서는 이뇨제로 호전 가능</td><td>기도폐쇄는 기관지 확장제, 세균성 감염은 적절한 항생제에 반응 가능</td><td>안심·호흡 조절로 호전</td></tr></tbody></table>
 
 > _**감별표 해석 시 주의**_
 >
@@ -278,11 +279,11 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 임상 양상 : 갑자기 시작되는 흉막성 흉통, 객혈 동반
 * 위험인자
-  * 4주 내 최근 지속적인 immobilization 또는 수술 병력
+  * <mark style="background-color:yellow;">3일 이상 부동(immobilization) 또는 최근 4주 이내 수술</mark>
   * estrogen 치료
   * DVT 위험인자 : 과거 VTE 병력, 암, 비만, 하지 외상
 * 사전 확률·검사 경로 평가
-  * [Wells score](002_-chest-pain.md#wells-score)  : 사전확률을 평가하여 D-dimer 또는 CTPA 등 영상검사 경로 결정 (☞ [흉통](002_-chest-pain.md))
+  * [Wells score](002_-chest-pain.md#wells-score) : <mark style="background-color:yellow;">사전확률을 평가하여 D-dimer 또는 CTPA 등 영상검사 경로 결정</mark> (☞ [흉통](002_-chest-pain.md))
 
 #### <mark style="color:$primary;">호흡기 상태</mark>
 
@@ -395,6 +396,10 @@ flowchart TD
 * pursed-lip breathing : COPD 등 호기 기류 제한 환자에서 호기를 연장하여 호흡곤란을 줄이는 데 활용
   * 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼
   * 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
+
+* <mark style="background-color:yellow;">심낭압전 : 응급 심낭천자 등 배액이 가능한 기관으로 즉시 이송</mark>
+  * <mark style="background-color:yellow;">혈역학적으로 불안정하면 배액을 지연하지 않음</mark>
+* <mark style="background-color:yellow;">신경근육성 호흡 부전 : 새로 발생하거나 빠르게 진행하는 호흡근 위약·환기 부전이 의심되면 즉시 전원</mark>
 
 ### <mark style="color:orange;">산소·환기 지원</mark>
 
