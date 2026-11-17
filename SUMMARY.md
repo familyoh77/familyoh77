@@ -9,7 +9,7 @@
   * [구취증 Halitosis, Bad Breath](220_/004_-halitosis-bad-breath.md)
   * [후각·미각 이상 Smell & Taste Disorders](220_/005_-smell-taste-disorders.md)
   * [기침 Cough](220_/006_-cough.md)
-  * [호흡 곤란 Dyspnea](220_/007_-dyspnea.md)
+  * [호흡곤란 Dyspnea](220_/007_-dyspnea.md)
   * [객혈 Hemoptysis](220_/008_-hemoptysis.md)
   * [두근거림 Palpitation](220_/009_-palpitation.md)
   * [딸꾹질 Hiccups, Singultus](220_/010_-hiccups-singultus.md)

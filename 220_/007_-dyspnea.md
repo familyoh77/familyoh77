@@ -354,12 +354,12 @@ flowchart TD
     D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·<br/>D-dimer 등 선택"]
     F --> G["주요 원인 단서?"]
     G -- "심장·혈관" ---> H["심부전·ACS 또는 <br/>PE 의심?"]
-    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• ACS·급성 비보상 심부전 의심:<br/>응급 평가·이송<br/>• 안정된 심부전 의심:<br/>BNP/NT-proBNP·심장 초음파·<br/>전문 평가"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• ACS·급성 비보상 심부전 <br/>의심: 응급 평가·이송<br/>• 안정된 심부전 의심:<br/>BNP/NT-proBNP·<br/>심장 초음파·전문 평가"]
     H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
     G -- "기관지·폐" ---> I["기도 악화 또는 <br/>기흉·감염 의심?"]
     I -- "천식·COPD 악화" --> I2["<u>SABA ± <br/>ipratropium</u><br/>• 중증도에 따라 <br/>스테로이드·이송"]
     I -- "기흉·감염" --> N["<u>흉부 X선·POCUS <br/>등 원인 평가</u><br/>• 상태에 따라 <br/>응급 처치·이송"]
-    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 위약: FVC·NIF 평가<br/>• 새로 발생하거나 빠르게 진행하는<br/>위약·환기 부전은 즉시 전원"]
+    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 약화: FVC·NIF 평가<br/>• 새로 발생하거나 <br/>빠르게 진행하는 <br/>약화·환기 부전은 즉시 전원"]
     G -- "설명 불충분·<br/>불안 가능" --> L["<u>기질적 원인 배제 후 <br/>불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 <br/>단계적 추가 검사"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
