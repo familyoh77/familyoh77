@@ -33,7 +33,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 쇼크 소견 : SBP ＜90 ㎜Hg 또는 말초 저관류·의식 변화를 동반하는 저혈압
 * 청색증
-* 새로 발생한 뚜렷한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 천식 급성 악화는 ＜92%) `급성 호흡 부전`&#x20;
+* 새로 발생한 뚜렷한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 천식 급성 악화는 ＜92%) `급성 호흡 부전`
 * 안정 시 지속되는 빈호흡(＞30회/분)
 * 호흡 시 부근육 사용
 * 안정 시 지속되는 빈맥(＞130회/분)
@@ -70,7 +70,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 **급성**
 
 * 호흡기 감염 : 폐렴 등
-* 천식·COPD 급성 악화
+* 천식 또는 COPD의 급성 악화
 * 기흉
 * 기도 폐쇄 : 이물·음식물 흡인 등
 
@@ -102,7 +102,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 * 아나필락시스(anaphylaxis)
 * 심리적 요인 : 불안 장애, 공황 장애
-* inducible laryngeal obstruction(ILO; 과거 vocal cord dysfunction)
+* 유도성 후두폐쇄(inducible laryngeal obstruction, ILO; 과거 vocal cord dysfunction)
 * 대사성 산증 : DKA, 패혈증, 신부전 등
 
 **만성**
@@ -118,14 +118,14 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 #### <mark style="color:$primary;">약물 유발</mark>
 
-* SGLT2 억제제 : 혈당이 정상이거나 경미하게 상승한 상태에서도 당뇨병성 케톤산증(euglycemic DKA) 발생 가능
+* SGLT2 억제제 : 정상 또는 경미한 혈당 상승 시에도 당뇨병성 케톤산증(euglycemic DKA) 발생 가능
 * amiodarone : 폐독성(amiodarone-induced pulmonary toxicity, AIPT)
 * methotrexate : 간질성 폐렴
-* 항암치료 관련 : 면역관문억제제 관련 폐렴(immune checkpoint inhibitor-associated pneumonitis), bleomycin 등에 의한 폐독성
+* 항암 치료 관련 : 면역관문억제제 관련 폐렴(immune checkpoint inhibitor-associated pneumonitis), bleomycin 등에 의한 폐독성
 * ticagrelor : 투약 초기 호흡곤란이 흔하며(PLATO에서 약 14%) 대개 경도·일시적임
 * 기관지경련 유발 약물
   * β차단제 : 특히 비선택적 β차단제(점안제 포함)는 천식·COPD를 악화시킬 수 있음
-  * COPD에서의 예외 : 심혈관 적응증이 있는 심장선택적 β차단제까지 일률적으로 회피하지 않음
+    * COPD의 경우 심혈관 적응증이 있는 심장선택적 β차단제까지 일률적으로 회피하지 않음
   * aspirin·NSAID : AERD(aspirin-exacerbated respiratory disease) 환자에서 기관지경련을 유발할 수 있음
 
 ## <mark style="color:green;">진단</mark>
@@ -141,7 +141,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * 2점 : 동년배보다 평지에서 천천히 걷거나, 자기 속도로 걸어도 숨이 차서 멈춰야 함
   * 3점 : 평지에서 약 100 m 또는 몇 분 걷고 나면 숨이 차서 멈춤
   * 4점 : 숨이 너무 차서 외출이 어렵거나 옷을 입고 벗을 때도 숨이 참
-* 활용 : GOLD ABE 그룹 분류에서 증상 부담 축(악화력과 함께 평가)으로 사용 <mark style="color:$info;">\[GOLD 2026]</mark>
+* 활용 : [GOLD ABE](../223_/072_-copd.md#abe-assessment-tool) 그룹 분류에서 증상 부담 축(악화력과 함께 평가)으로 사용 <mark style="color:$info;">\[GOLD 2026]</mark>
 
 <mark style="color:cyan;">**기본 패널**</mark> (외래 초기 평가)
 
@@ -149,92 +149,91 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 <mark style="color:cyan;">**BNP/NT-proBNP**</mark>
 
+* 심부전 가능성을 평가하여 호흡곤란의 원인 감별을 돕는 혈액검사
 * 시행 대상 : 심부전 의심 시
 * 해석 기준 : 급성·외래 상황을 구분 <mark style="color:$info;">\[ESC 2026; 기존 단일 외래 배제 기준은 ESC 2021]</mark>
-
-**급성 상황(응급·입원)**
-
-* 배제 기준 : NT-proBNP ＜300 pg/㎖ 또는 BNP ＜100 pg/㎖ 시 심부전 가능성이 낮음
-  * 임상적 의심이 높으면 추가 평가
-* NT-proBNP rule-in cut-off <mark style="color:$info;">\[ESC 2026 Figure 11]</mark>
-  * ＜50세 : ＞450 pg/㎖
-  * 50\~74세 : ＞900 pg/㎖
-  * ≥75세 : ＞1,800 pg/㎖
-
-**비급성 상황(외래·만성)**
-
-* 기존 단일 배제 기준 : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ <mark style="color:$info;">\[ESC 2021]</mark>
-* 외래에서 HF 가능성이 높아지는 연령 보정 NT-proBNP 기준 <mark style="color:$info;">\[ESC 2026]</mark>
-  * ＜50세 : ≥125 pg/㎖
-  * 50\~75세 : ≥250 pg/㎖
-  * ＞75세 : ≥500 pg/㎖
-* 해석·의뢰 원칙
+* 급성 상황(응급·입원)
+  * 배제 기준 : NT-proBNP ＜300 pg/㎖ 또는 BNP ＜100 pg/㎖ 시 심부전 가능성이 낮음
+    * 임상적 의심이 높으면 추가 평가
+  * NT-proBNP rule-in cut-off <mark style="color:$info;">\[ESC 2026 Figure 11]</mark>
+    * ＜50세 : ＞450 pg/㎖
+    * 50\~74세 : ＞900 pg/㎖
+    * ≥75세 : ＞1,800 pg/㎖
+* 비급성 상황(외래·만성)
+  * 기존 단일 배제 기준 : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ <mark style="color:$info;">\[ESC 2021]</mark>
+  * 외래에서 HF 가능성이 높아지는 연령 보정 NT-proBNP 기준 <mark style="color:$info;">\[ESC 2026]</mark>
+    * ＜50세 : ≥125 pg/㎖
+    * 50\~75세 : ≥250 pg/㎖
+    * ＞75세 : ≥500 pg/㎖
+  * 해석·의뢰 원칙
+    * 연령 보정치 미만만으로 확실히 배제하지 않으며, 임상적 의심이 높으면 심초음파·전문의 평가
+    * 안정된 외래 심부전 의심 환자에서 NT-proBNP ＞2,000 pg/㎖이면 가급적 2주 이내 전문 평가·심초음파 시행을 위한 신속 의뢰 고려 \[ESC 2026 Figure 4]
+    * 급성 악화·위험 징후가 있으면 즉시 평가
+* BNP/NT-proBNP 해석 주의
   * 급성·외래의 연령 구간 및 기준치를 서로 혼용하지 않음
-  * 연령 보정치 미만만으로 확실히 배제하지 않으며, 임상적 의심이 높으면 심초음파·전문의 평가
-* 안정된 외래 심부전 의심 환자에서 NT-proBNP ＞2,000 pg/㎖ : 가급적 2주 이내 전문 평가·심초음파 시행을 위한 신속 의뢰 고려 <mark style="color:$info;">\[ESC 2026 Figure 4]</mark>
-  * 급성 악화·위험 징후가 있으면 즉시 평가
-
-**BNP/NT-proBNP 해석 주의**
-
-* 비만·HFpEF 또는 급격히 발생한 폐부종 등에서는 낮은 수치만으로 심부전을 완전히 배제하지 않음
-* 고령·심방세동·신부전·패혈증 등에서는 기저치가 높아질 수 있으므로 단독으로 심부전을 확진하지 않음
+  * 비만·HFpEF 또는 급격히 발생한 폐부종 등에서는 낮은 수치만으로 심부전을 완전히 배제하지 않음
+  * 고령·심방세동·신부전·패혈증 등에서는 기저치가 높아질 수 있으므로 단독으로 심부전을 확진하지 않음
 
 <mark style="color:cyan;">**D-dimer**</mark>
 
+* 임상적 사전확률과 함께 폐색전증 배제 여부를 판단하는 혈액검사
 * 적용 원칙 : 임상적 사전확률에 따라 단계적으로 적용
   * 초저위험 사전확률 : PERC rule이 모두 음성이면 D-dimer 없이 [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe) 가능
   * 낮음\~중간 사전확률 : D-dimer를 우선 시행하여 배제 여부 판단
   * 높은 사전확률 : D-dimer로 영상검사를 지연시키지 않고 바로 CTPA(CT Pulmonary Angiography) 등 영상검사 진행
 * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음
-* 연령 보정 : 50세 이상에서는 연령 보정 [D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
-* YEARS와의 구분 : 연령 보정 D-dimer와 YEARS의 임상확률 보정 절단값은 서로 다른 전략
-  * 검증된 알고리듬에 따라 적용하고 절단값을 임의로 조합하지 않음
+* 연령 보정 : ≥50세에서는 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
 * 단위 확인 : 검사실마다 FEU(fibrinogen equivalent unit) 또는 DDU(D-dimer unit) 기준이 다름
-  * 절단치 해석 시 반드시 단위를 확인
 
 <mark style="color:cyan;">**선택적 시행**</mark> (확장 패널)
 
-* 폐 초음파(POCUS) : 외래 또는 응급 상황에서 신속 감별에 활용
+* **폐 초음파(POCUS)** : 외래 또는 응급 상황에서 신속 감별에 활용
   * B-line ≥3개/zone : 양측성·미만성·다구역으로 관찰되면 간질성 증후군·폐부종을 지지
-    * ILD·ARDS·폐렴 등에서도 관찰 가능하므로 단독으로 확진하지 않음
+    * ILD(간질성 폐질환), ARDS(급성호흡곤란증후군), 폐렴 등에서도 관찰 가능하므로 단독으로 확진하지 않음
   * focal consolidation + air bronchogram → 폐렴 의심
   * lung sliding 소실 → 기흉 의심
     * 무기폐·흉막 유착·apnea 등에서도 나타날 수 있으므로 lung point 등 추가 소견과 임상상으로 판단
   * 심부전과 COPD 감별 시 BNP와 병용하면 정확도 향상
-* 심장 초음파 : 좌심실 기능·판막 이상 평가
+* **심장 초음파** : 좌심실 기능·판막 이상 평가
   * 심낭압전 의심 시 즉시 심장 초음파 확인 및 응급 심낭천자 고려
-* PFT(폐기능 검사) : 만성 호흡곤란에서 우선 고려
+* **PFT(폐기능 검사)** : 만성 호흡곤란에서 우선 고려
   * 폐쇄성 패턴 : 천식·COPD
   * 제한성 패턴(의심) : 스피로메트리에서 FVC 저하 + FEV₁/FVC 보존
     * 제한성 장애를 "의심"할 뿐이며, TLC 감소로 확진
     * 관련 질환 : 간질성 폐질환·비만·흉막 질환 등
-* 만성 원인불명 호흡곤란 단계적 평가 : bronchodilator spirometry → lung volume → DLCO 순으로 단계적 고려
-  * 갑상선기능(TSH), 철결핍 평가(빈혈 의심 시) 병행
-* 운동 시 증상 : 보행 중 SpO₂ 변화 또는 6분 보행검사(6MWT)로 운동유발 저산소혈증 평가
-* ABG(동맥혈 가스 분석) : 다음 경우 시행
+* **ABG(동맥혈 가스 분석)** : 다음 경우 시행
   * 중증 또는 CO₂ retention 의심
   * Kussmaul 호흡 + DKA/패혈증/신부전 감별
   * Kussmaul 호흡에서는 glucose·ketone을 함께 확인
-* 신경근육성 환기 부전 의심 시 : SpO₂가 정상이어도 환기 부전을 배제할 수 없음
-  * FVC(forced vital capacity) 및 NIF/MIP(negative inspiratory force / maximal inspiratory pressure)를 조기에 측정하고 추세를 평가
-  * 호흡근 침범이 확인되면 급격히 진행할 수 있으므로 즉시 전원
-* 기본 검사로 원인이 불명확한 경우 : HRCT, 심장 초음파, CPET(심폐운동부하검사) 고려
-* 폐동맥고혈압 의심 시 : 심장 초음파 후 순환기/호흡기 전문기관 정밀 평가
-* CT, cardiac stress tests : 임상적 판단에 따라 선택
+* **CT, cardiac stress tests** : 임상적 판단에 따라 선택
+
+<mark style="color:cyan;">**상황별 추가 평가**</mark>
+
+* 만성 원인불명 호흡곤란
+  * 기관지 확장제 반응을 포함한 스피로메트리 → 폐용적 → DLCO
+  * TSH, 빈혈 의심 시 철결핍 평가 병행
+* 운동 시 증상
+  * 보행 중 SpO₂ 변화 또는 6분 보행검사
+* 신경근육성 환기 부전 의심
+  * 정상 SpO₂만으로 배제하지 않으며 FVC·NIF/MIP를 조기에 측정하고 추세 평가
+* 기본 검사로 원인이 불명확한 경우
+  * HRCT·심장 초음파·CPET 고려
+* 폐동맥고혈압 의심
+  * 심장 초음파 후 전문기관 정밀 평가
 
 ### <mark style="color:orange;">심장성 vs 폐성 vs 불안/과호흡 감별</mark>
 
 <table data-search="false"><thead><tr><th width="110">구분</th><th width="185">심장성 (Cardiac)</th><th width="185">폐성 (Pulmonary)</th><th>불안 / 과호흡 (Anxiety)</th></tr></thead><tbody><tr><td><strong>주요 원인</strong></td><td>심부전, ACS, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td><td>불안 장애, 공황 장애</td></tr><tr><td><strong>발생 양상</strong></td><td>점진적 또는 급성 (HF/ACS)</td><td>급성·아급성·만성 모두 가능</td><td>갑작스러운 발작형; 스트레스·상황 유발</td></tr><tr><td><strong>자세 영향</strong></td><td>누우면 악화 (orthopnea, PND)</td><td>자세보다 유발 인자(먼지·연기) 영향</td><td>자세 무관</td></tr><tr><td><strong>호흡 양상</strong></td><td>얕고 빠름</td><td>wheeze / 기침 동반</td><td>깊고 빠름 (과호흡)</td></tr><tr><td><strong>청진</strong></td><td>crackle (폐울혈), S3</td><td>wheeze, crackle, 호흡음 감소</td><td>정상</td></tr><tr><td><strong>흉통</strong></td><td>압박감 (ACS)</td><td>흉막성 통증</td><td>비특이적, 찌르는 느낌</td></tr><tr><td><strong>동반 증상</strong></td><td>leg edema, JVD, 핑크 거품 가래</td><td>기침, 화농성 가래, 발열</td><td>어지럼, 손발·입술 저림, 공포감</td></tr><tr><td><strong>SpO₂</strong></td><td>저하 가능</td><td>저하 가능</td><td>정상</td></tr><tr><td><strong>CXR</strong></td><td>심비대, 폐부종, Kerley B-line</td><td>침윤, 과팽창, 기흉</td><td>정상</td></tr><tr><td><strong>BNP</strong></td><td>상승</td><td>대개 정상이나 우심부하·폐고혈압 등에서 상승 가능</td><td>정상</td></tr><tr><td><strong>치료 반응</strong></td><td>울혈성 심부전에서는 이뇨제로 호전 가능</td><td>기도폐쇄는 기관지 확장제, 세균성 감염은 적절한 항생제에 반응 가능</td><td>안심·호흡 조절로 호전</td></tr></tbody></table>
 
-✽_감별표 해석 시 주의_
-
-* _위 표는 전형적 경향을 정리한 것으로 단독 소견으로 배제·확진하지 않는다._
-  * _초기 심부전·폐색전증·천식에서도 CXR가 정상일 수 있다._
-  * _이뇨제·기관지 확장제·항생제에 대한 치료 반응은 진단 검사가 아니라 치료적 시도로 해석한다._
-* _ILO(inducible laryngeal obstruction, 과거 VCD)는 독립적인 상기도 질환으로, 위 표의 불안/과호흡 범주에 포함되지 않는다._
-* _고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다._
-  * _BNP/NT-proBNP, 폐 초음파 B-line, 기관지 확장제 반응을 복합적으로 평가하여 접근한다._
-  * _폐 초음파 B-line이 양측성·미만성·다구역으로 관찰되면 폐부종을 시사한다._
+> _**감별표 해석 시 주의**_
+>
+> * _위 표는 전형적 경향을 정리한 것으로 단독 소견으로 배제·확진하지 않는다._
+>   * _초기 심부전·폐색전증·천식에서도 CXR가 정상일 수 있다._
+>   * _이뇨제·기관지 확장제·항생제에 대한 치료 반응은 진단 검사가 아니라 치료적 시도로 해석한다._
+> * _ILO(유도성 후두폐쇄)는 독립적인 상기도 질환으로, 위 표의 불안/과호흡 범주에 포함되지 않는다._
+> * _고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다._
+>   * _BNP/NT-proBNP, 폐 초음파 B-line, 기관지 확장제 반응을 복합적으로 평가하여 접근한다._
+>   * _폐 초음파 B-line이 양측성·미만성·다구역으로 관찰되면 폐부종을 시사한다._
 
 ### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
@@ -283,10 +282,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * estrogen 치료
   * DVT 위험인자 : 과거 VTE 병력, 암, 비만, 하지 외상
 * 사전 확률·검사 경로 평가
-  * [Wells score](002_-chest-pain.md#wells-score) : 사전 확률 분류 → D-dimer 또는 CTPA 결정
-  * [YEARS](https://www.mdcalc.com/calc/4067/years-algorithm-for-pulmonary-embolism-pe) algorithm : 3개 임상 항목과 D-dimer cut-off를 결합하여 CTPA 필요 여부 결정
-    * CTPA 시행률 감소 효과
-  * 임신부에서는 pregnancy-adapted YEARS algorithm 고려
+  * [Wells score](002_-chest-pain.md#wells-score)  : 사전확률을 평가하여 D-dimer 또는 CTPA 등 영상검사 경로 결정 (☞ [흉통](002_-chest-pain.md))
 
 #### <mark style="color:$primary;">호흡기 상태</mark>
 
@@ -340,6 +336,31 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 ***
 
 ```mermaid
+flowchart TD
+    A["호흡곤란 환자"] --> B["Red Flags의 즉각 조치 <br/>항목에 해당?"]
+    B -- "예" --> C["<u>기도·호흡·순환 안정화 및 <br/>119 호출</u><br/>• 아나필락시스: 즉시 <br/>epinephrine IM<br/>• 긴장성 기흉: 숙련된 응급 <br/>감압, 영상 대기 안 함"]
+    B -- "아니오" --> D["<u>활력징후·SpO₂ 및 <br/>호흡노력 평가</u><br/>• 필요 시 산소·환기 지원"]
+    D --> F["<u>병력·진찰, ECG·흉부 X선</u><br/>• 임상 단서에 따라 BNP·<br/>D-dimer 등 선택"]
+    F --> G["주요 원인 단서?"]
+    G -- "심장·혈관" ---> H["심부전·ACS 또는 <br/>PE 의심?"]
+    H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• 울혈·혈압·<br/>ECG 평가<br/>• 응급 이송 및 <br/>질환별 처치"]
+    H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
+    G -- "기관지·폐" ---> I["기도 악화 또는 <br/>기흉·감염 의심?"]
+    I -- "천식·COPD 악화" --> I2["<u>SABA ± <br/>ipratropium</u><br/>• 중증도에 따라 <br/>스테로이드·이송"]
+    I -- "기흉·감염" --> N["<u>흉부 X선·POCUS <br/>등 원인 평가</u><br/>• 상태에 따라 <br/>응급 처치·이송"]
+    G -- "대사·<br/>신경근육" --> K["<u>대사·신경근육 원인 평가</u><br/>• 산증: glucose·<br/>ketone·혈액가스<br/>• 호흡근 위약: FVC·<br/>NIF 및 즉시 전원"]
+    G -- "설명 불충분·<br/>불안 가능" --> L["<u>기질적 원인 배제 후 <br/>불안·호흡패턴 평가</u><br/>• 조절 호흡, 지속 시 <br/>단계적 추가 검사"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class B,G,H,I question
+    class C,H2,K emergency
+    class D,F,J,N evaluation
+    class I2,L treatment
+
 ```
 
 <p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em><br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등)</mark></em></p>
