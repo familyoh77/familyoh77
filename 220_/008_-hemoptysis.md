@@ -122,7 +122,7 @@ flowchart TD
     B -- "비강·구강" --> C["ENT·치과 등 <br/>원인 평가·치료"]
     B -- "구역·구토 선행" --> D["위장관 출혈 평가"]
     B -- "객혈 또는 불명" --> G["<u>병력·진찰, 흉부 X선·CBC</u><br/>• 필요시 응고검사·결핵검사"]
-    G --> H["CT 적응증, 고위험 혈관성 원인 의심<br/>또는 출혈 지속·재발?"]
+    G --> H["CT 적응증,<br/>고위험 혈관성 원인 의심<br/>또는 출혈 지속·재발?"]
     H -- "예" --> I["<u>조영증강 CT 또는 CTA</u><br/>• 필요시 기관지내시경"]
     H -- "아니오" --> J["<u>추정 원인 치료 및 추적</u><br/>• TXA는 선택적 지혈 보조"]
     I --> K["평가 결과 및 경과?"]
@@ -215,10 +215,10 @@ flowchart TD
   * 투여 후 약 6\~12시간 이내에는 전신 항섬유소용해제(TXA 등)를 사용하지 않음
 * dabigatran <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프라닥사</mark>](https://www.health.kr/drug/2011022100003)<mark style="color:blue;">]</mark> ↔ idarucizumab <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드</mark>](https://health.kr/drug/2016030700001)<mark style="color:blue;">]</mark>
 * rivaroxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자렐토</mark>](https://www.health.kr/drug/A11AKP09D0131)<mark style="color:blue;">]</mark>·apixaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">엘리퀴스</mark>](https://www.health.kr/drug/2011120100001)<mark style="color:blue;">]</mark>·edoxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">릭시아나</mark>](https://health.kr/drug/2015082600013)<mark style="color:blue;">]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
-  * rivaroxaban·apixaban의 특이 역전제였던 andexanet alfa는 미국 판매 종료, 국내 미공급
+  * rivaroxaban·apixaban의 특이 역전제였던 andexanet alfa는 미국 판매 종료, 국내 미공급 <mark style="color:$info;">\[FDA 2025]</mark>
   * Xa 억제제 관련 생명위협성 출혈에서는 전문의 및 기관 protocol에 따라 4F-PCC를 비특이적 지혈 대안으로 고려하며, 확보 여부 확인 때문에 응급 이송을 지연하지 않음
   * FFP와 vitamin K는 Xa 억제제의 역전 목적으로 사용하지 않음
-* warfarin(중증 출혈) : 즉시 중단하고 IV vitamin K 5\~10 ㎎ 투여
+* warfarin(중증 출혈) : 즉시 중단하고 IV vitamin K 5\~10 ㎎ 투여 <mark style="color:$info;">\[ACC 2020]</mark>
   * 역전이 필요한 경우 4F-PCC 병용이 우선이며, 4F-PCC를 사용할 수 없으면 FFP
 * UFH(미분획 헤파린)/LMWH(저분자량 헤파린) : 생명위협성 출혈 시 즉시 중단하고 protamine 고려 (LMWH는 부분적 중화만 가능)
 
