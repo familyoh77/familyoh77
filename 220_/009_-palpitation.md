@@ -158,7 +158,7 @@
 * 심초음파(ECHO) : 구조적 심장 질환이 의심되는 경우 시행
   * 심잡음 청취, 비정상 ECG(좌심실 비대, ST 변화, pre-excitation 등), 심부전·심근병증·판막 질환 의심 → 심초음파 적극 시행
   * 운동 중 두근거림 또는 실신 동반 → 구조적 심장 질환 여부에 따라 심초음파 및 필요시 운동부하 평가/심장내과 의뢰 고려
-* BNP/NT-proBNP : 하지 부종·호흡 곤란 등 심부전이 시사되는 경우 기본 검사에 추가 고려
+* [BNP/NT-proBNP](../225_/098_-heart-failure.md#dx) : 하지 부종·호흡 곤란 등 심부전이 시사되는 경우 기본 검사에 추가 고려
 
 {% hint style="danger" %}
 **정상 ECG로 간헐적 부정맥을 배제할 수 없음.** 특히 SVT, 발작성 AF는 증상이 없는 시점의 ECG에서 정상 소견을 보일 수 있음. Red flag가 없고 매우 짧고 드물며 치료 결정에 영향을 주지 않는 증상까지 모두 장기 모니터링이 필수인 것은 아니지만, 반복되거나 설명되지 않는 증상으로 부정맥 가능성이 남아 있고 리듬 확인이 진단·치료 결정에 영향을 주는 경우에는 증상 빈도에 맞는 보행성 ECG를 시행.
@@ -169,7 +169,7 @@
 {% hint style="info" %}
 **증상-맥박 불일치 확인 (Pulse-Symptom Correlation)**
 
-두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림.
+두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림
 
 * 증상 중 평균 심박수가 정상 범위여도 PAC/PVC 또는 짧은 간헐성 부정맥을 배제할 수 없음 → 반복 증상이 있으면 증상 시 ECG 또는 ambulatory ECG로 symptom-rhythm correlation 확인
 * 증상 중 맥박수가 뚜렷하게 빠르거나 불규칙하고 원인이 불명확 → 간헐적 부정맥 감별 → 증상 빈도에 맞춘 장기 심전도 모니터링 적극 고려
@@ -180,10 +180,10 @@
 
 <table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
 
-* 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 ECG를 외래에서 활용 가능
-  * 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 위양성(false positive) 주의
+* 스마트워치 ECG : 환자가 증상 발생 시 직접 기록한 ECG를 외래에서 활용 가능
+  * 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 위양성 주의
   * 기록된 ECG는 임상의가 파형의 질과 리듬을 직접 확인하면 진단에 활용할 수 있으며, 판독이 불확실하면 12-lead ECG 또는 추가 모니터링 시행
-* 증상 기록지(Symptom Diary) : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
+* 증상 기록지(Symptom diary) : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
 
 ### <mark style="color:orange;">두근거림 표현형 분류</mark>
 
@@ -195,7 +195,7 @@
 
 ### <mark style="color:orange;">PSVT vs AF vs 불안·과민 감별</mark>
 
-<table data-search="false"><thead><tr><th width="108">항목</th><th>PSVT</th><th>AF</th><th>불안·과민</th></tr></thead><tbody><tr><td><strong>시작·종료</strong></td><td>갑작스럽게 시작·종료</td><td>발작성 AF는 갑자기 시작하거나 종료할 수 있음</td><td>대개 서서히 시작하나 급성 불안·공황은 갑자기 시작 가능</td></tr><tr><td><strong>리듬</strong></td><td>매우 규칙적</td><td>완전히 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td><strong>심박수(회/분)</strong></td><td>150~220</td><td>90~170 (variable)</td><td>80~130</td></tr><tr><td><strong>환자 표현</strong></td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td><strong>Neck pounding</strong></td><td>AVNRT 등에서 규칙적이고 현저할 수 있음</td><td>드묾</td><td>드묾 (완전 배제 불가)</td></tr><tr><td><strong>유발 요인</strong></td><td>대개 spontaneous하나 운동·카페인·수면 부족 등이 촉발할 수 있음</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td><strong>ECG</strong></td><td>대개 규칙적인 narrow-QRS 빈맥</td><td>P파 소실, 불규칙 RR</td><td>정상 동율동 또는 동빈맥</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="119">항목</th><th>PSVT</th><th>AF</th><th>불안·과민</th></tr></thead><tbody><tr><td><strong>시작·종료</strong></td><td>갑작스럽게 시작·종료</td><td>발작성 AF는 갑자기 시작하거나 종료할 수 있음</td><td>대개 서서히 시작; 급성 불안·공황은 갑자기 시작 가능</td></tr><tr><td><strong>리듬</strong></td><td>매우 규칙적</td><td>완전히 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td><strong>심박수(회/분)</strong></td><td>150~220</td><td>90~170 (variable)</td><td>80~130</td></tr><tr><td><strong>환자 표현</strong></td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td><strong>Neck pounding</strong></td><td>AVNRT 등에서 규칙적이고 현저할 수 있음</td><td>드묾</td><td>드묾 (완전 배제 불가)</td></tr><tr><td><strong>유발 요인</strong></td><td>대개 spontaneous하나 운동·카페인·수면 부족 등이 촉발할 수 있음</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td><strong>ECG</strong></td><td>대개 규칙적인 narrow-QRS 빈맥</td><td>P파 소실, 불규칙 RR</td><td>정상 동율동 또는 동빈맥</td></tr></tbody></table>
 
 > _PSVT=Paroxysmal Supraventricular Tachycardia(주로 AVNRT·orthodromic AVRT), AVNRT=Atrioventricular Nodal Reentrant Tachycardia_
 >
@@ -205,11 +205,11 @@
 
 * Red Flags가 없고 아래에 해당하면 설명·안심과 경과 관찰을 우선할 수 있음
   * 초기 병력·진찰·ECG에서 고위험 소견이 없고 짧고 드물게 발생하는 빠르거나 쿵거리는 느낌
-  * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아닌 경우
-  * 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없는 경우
-* 증상이 반복·지속되어 수면을 방해하거나 양상이 변하면 증상 빈도에 맞춘 장기 심전도 모니터링으로 재평가
-* Couplet은 추가 평가가 필요한 복잡성 소견이나 그것만으로 PVC 유발 심근병증을 시사하지는 않음
-  * 다형성·NSVT·운동 관련 악화·기저 심질환이 있으면 위험도에 따라 당일\~수일 내 평가. 두근거림에 실신이 동반되면 Red Flags의 즉각 조치 기준 적용
+  * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아님
+  * 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없음
+* 증상이 반복·지속되어 수면을 방해하거나 양상이 변하면, 증상 빈도에 맞춘 장기 심전도 모니터링으로 재평가
+* 쌍발 PVC(couplet)는 추가 평가가 필요한 복잡성 소견이나, 그것만으로 PVC 유발 심근병증을 시사하지는 않음
+  * 다형성·NSVT·운동 관련 악화·기저 심질환이 동반되면 위험도에 따라 당일\~수일 내 평가
 
 ### <mark style="color:orange;">빈번한 PAC/PVC - burden 확인이 필요한 경우</mark>
 
@@ -224,12 +224,15 @@
 ### <mark style="color:orange;">심방세동(AF) 의심 시</mark>
 
 * AF는 임상의가 ECG tracing을 직접 확인하여 진단
-* ECG에서 뚜렷하고 규칙적으로 반복되는 P파가 보이지 않으며, 방실전도가 유지될 때 RR 간격이 불규칙한 것이 전형적. 심방조동의 가변 방실전도 등 유사 리듬과 감별
-* 새로 진단된 AF에서는 심초음파와 CBC·전해질·신기능·갑상선기능검사 등 기본 평가를 시행하여 기저 질환과 치료에 영향을 주는 요인을 확인
+* 전형적 ECG 소견 : 뚜렷하고 규칙적으로 반복되는 P파가 없고, 방실전도가 유지될 때 RR 간격이 불규칙함
+  * 가변 방실전도를 동반한 심방조동 등 유사 리듬과 감별
+* 새로 진단된 AF
+  * 심초음파와 CBC·전해질·신기능·갑상선기능검사 등 기본 평가를 시행하여 기저 질환과 치료에 영향을 주는 요인을 확인
+  * 심박수 조절만으로 종결하지 말고 위험인자 관리·항응고 여부·조기 rhythm-control 적합성을 함께 평가
 * 뇌졸중 위험도 평가
-  * 2024 ESC AF Guideline은 CHA₂DS₂-VA를 제시하나, 2023 ACC/AHA 지침 및 국내 진료에서는 CHA₂DS₂-VASc가 여전히 통용됨 - 소속 기관 적용 지침 확인
+  * 2024 ESC AF Guideline은 CHA₂DS₂-VA를 제시하나, 2023 ACC/AHA 지침 및 국내 진료에서는 CHA₂DS₂-VASc가 여전히 통용됨
+    * 소속 기관 적용 지침 확인
   * 항응고 요법, 심박수 조절, 의뢰 기준 등 세부 관리는 [심방세동](../225_/099_1-atrial-fibrillation.md) 참조
-* 새로 진단된 AF는 심박수 조절만으로 종결하지 말고 위험인자 관리·항응고 여부·조기 rhythm-control 적합성을 함께 평가
 
 ### <mark style="color:orange;">Pre-excitation 확인 시</mark>
 
@@ -243,23 +246,22 @@
 ```mermaid
 flowchart TD
     Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>고위험 ECG·wide-QRS 빈맥?"]
-    EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 및 응급 이송</u><br/>• 빈맥성 부정맥으로 인한 불안정 시 응급 전기 치료 평가"]
-    EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요시 장기 심전도로 증상·리듬 확인"]
+    EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 <br/>및 응급 이송</u><br/>• 빈맥성 부정맥으로 <br/>인한 불안정 시 <br/>응급 전기 치료 평가"]
+    EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요시 장기 심전도로 <br/>증상·리듬 확인"]
     Assess --> Rhythm["확인된 리듬·표현형?"]
-    Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 modified Valsalva</u><br/>• 실패·지속 시 감시하에 치료 가능한 기관으로 이송<br/>• 재발성 증상은 절제술 포함 전문 평가"]
+    Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 <br/>modified Valsalva</u><br/>• 실패·지속 시 감시하에 <br/>치료 가능한 기관으로 이송<br/>• 재발성 증상은 <br/>절제술 포함 전문 평가"]
     Rhythm -- "AF" --> PreEx["Pre-excitation?"]
-    PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·IV amiodarone 금기"]
-    PreEx -- "아니오" --> EF["LVEF 및 임상 상태?"]
-    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·혈압에 따라 β-차단제 ± digoxin</u><br/>• non-DHP CCB 사용 안 함"]
-    EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 diltiazem·verapamil</u><br/>• 폐질환·서맥·전도장애 등 고려"]
+    PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·<br/>IV amiodarone 금기"]
+    PreEx -- "아니오" ---> EF["LVEF 및 임상 상태?"]
+    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·<br/>혈압에 따라 <br/>β-차단제 ± digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
+    EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 <br/>diltiazem·<br/>verapamil</u><br/>• 폐질환·서맥·<br/>전도장애 등 고려"]
     AFhf --> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
     AFnormal --> Stroke
-    Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 또는<br/>구조적 심질환·EF 저하?"]
-    Burden -- "예" --> Refer["<u>Holter로 burden 정량화</u><br/>• 심초음파·심장내과 평가"]
-    Burden -- "아니오" --> Reassure["<u>설명·유발 인자 조절</u><br/>• 증상 지속 시 저용량 β-차단제 고려"]
-    Rhythm -- "동빈맥" --> Sinus["<u>빈혈·갑상선·탈수·감염 등 원인 교정</u><br/>• 지속 시 IST·POTS 등 감별"]
-    Rhythm -- "부정맥 미확인" --> Other["<u>부정맥 의심이 남고 리듬 확인이 필요하면 추가 모니터링</u><br/>• 불안·과민 평가 병행<br/>• 불안장애 확진 시 CBT·SSRI 등 고려"]
-
+    Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 <br/>또는 구조적 심질환·<br/>EF 저하?"]
+    Burden -- "예" --> Refer["<u>Holter로 <br/>burden 정량화</u><br/>• 심초음파·<br/>심장내과 평가"]
+    Burden -- "아니오" --> Reassure["<u>설명·유발 인자 조절</u><br/>• 증상 지속 시 <br/>저용량 β-차단제 고려"]
+    Rhythm -- "동빈맥" --> Sinus["<u>빈혈·갑상선·탈수·<br/>감염 등 원인 교정</u><br/>• 지속 시 IST·<br/>POTS 등 감별"]
+    Rhythm -- "부정맥 미확인" --> Other["<u>부정맥 의심이 남고 <br/>리듬 확인이 필요하면 <br/>추가 모니터링</u><br/>• 불안·과민 평가 병행<br/>• 불안장애 확진 시 <br/>CBT·SSRI 등 고려"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
@@ -274,13 +276,13 @@ flowchart TD
 
 <p align="center"><strong>두근거림 - 확인된 리듬별 초기 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA Adult Advanced Life Support 2025, ESC AF Guideline 2024,</mark></em><br><em><mark style="color:$info;">ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022,</mark></em><br><em><mark style="color:$info;">ESC SVT Guideline 2019, REVERT trial 2015 등)</mark></em></p>
 
-> _✽ AF/LVEF ≤40% 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전 동반 시에는 별도 접근이 필요._
+> _AF/LVEF ≤40% 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전 동반 시에는 별도 접근이 필요._
 >
-> _✽ LVEF 미확인 시 심부전 소견·기왕력과 기존 검사를 확인하고, 좌심실 수축기능 저하가 의심되면 diltiazem·verapamil을 피하며 심초음파·전문 평가로 연결._
+> _LVEF 미확인 시 심부전 소견·기왕력과 기존 검사를 확인하고, 좌심실 수축기능 저하가 의심되면 diltiazem·verapamil을 피하며 심초음파·전문 평가로 연결._
 >
-> _✽ 혈역학적 불안정을 일으킨 빈맥성 부정맥은 응급 동기화 심율동전환의 대상이며, 지속성 다형성 VT에는 즉시 비동기화 전기충격을 적용._
+> _혈역학적 불안정을 일으킨 빈맥성 부정맥은 응급 동기화 심율동전환의 대상이며, 지속성 다형성 VT에는 즉시 비동기화 전기충격을 적용._
 >
-> _✽ 혈역학적으로 안정되어 보여도 지속성 wide-QRS 빈맥은 VT 가능성을 우선 고려하여 감시하에 응급 평가·이송하며, 기원이 확인되지 않은 wide-QRS 빈맥에 경험적 verapamil·diltiazem 투여는 피함._
+> _혈역학적으로 안정되어 보여도 지속성 wide-QRS 빈맥은 VT 가능성을 우선 고려하여 감시하에 응급 평가·이송하며, 기원이 확인되지 않은 wide-QRS 빈맥에 경험적 verapamil·diltiazem 투여는 피함._
 
 ***
 
@@ -302,14 +304,14 @@ flowchart TD
 
 #### <mark style="color:$primary;">Modified Valsalva Maneuver</mark>
 
-<mark style="color:$info;">\[Lancet 2015; ESC 2019]</mark>
-
-* 표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음
+* 표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음 <mark style="color:$info;">\[Lancet 2015; ESC 2019]</mark>
 * 적응증 : 혈역학적으로 안정된 규칙적 narrow-complex SVT(AVNRT·orthodromic AVRT)
 * 주의 : 대동맥 박리, 최근 심근경색 등 복압·흉강내압 상승이 이론적으로 위험할 수 있는 상황에서는 시행 전 위험-이익을 개별적으로 판단
-* 방법
+* [방법](https://youtu.be/NVFAr9-THKo?si=nD1fBVNqbv6KuWFr)&#x20;
   1. 환자를 45° 반좌위로 앉힘
-  2. 가능하면 압력계로 40 ㎜Hg를 확인하며 15초간 Valsalva 시행. 10 ㎖ 주사기 피스톤을 불어 움직이는 방법은 대용할 수 있으나 주사기 종류에 따라 필요한 압력이 달라 정확히 40 ㎜Hg를 보장하지 않음
+  2. 40 ㎜Hg로 15초간 Valsalva 시행
+     * 압력 확인 : 아네로이드 혈압계의 커프를 분리하고 연결관에 마우스피스(예: 10 ㎖ 주사기 몸통)를 끼워 불게 하면 바늘로 확인 가능; 전자 혈압계는 사용할 수 없음
+     * 대용 방법 : 10 ㎖ 주사기 피스톤을 불어 움직이는 방법을 쓸 수 있으나, 주사기 종류에 따라 필요한 압력이 달라 정확히 40 ㎜Hg를 보장하지 않음
   3. 불기를 멈추자마자 즉시 수평으로 눕히고 다리를 45° 거상, 이 자세를 15초 유지
   4. 다시 45° 반좌위로 돌아와 약 45초 후 12-lead ECG 또는 monitor rhythm strip으로 동율동 전환 여부 확인(시행 중에도 모니터링 유지)
 * Valsalva 실패 후 빈맥이 지속되는 경우 → ECG monitoring 및 adenosine 투여가 가능한 의료기관으로 즉시 의뢰/이송
@@ -317,20 +319,31 @@ flowchart TD
 
 ### <mark style="color:orange;">대증 치료</mark>
 
-* 불안·기능성 두근거림 : 고위험 심장성 원인을 평가하고 치료 가능한 원인을 교정한 뒤 비약물 치료를 우선하며, 독립적인 불안장애·공황장애가 진단된 경우에 한해 약물 치료 고려 (☞ [흉통](002_-chest-pain.md), [불안장애](../221_/025_-anxiety-disorder.md))
-  * 항불안제 : alprazolam <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자낙스</mark>](https://www.health.kr/drug/A11ABBBBB0920)<mark style="color:blue;">]</mark>, lorazepam <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아티반</mark>](https://www.health.kr/drug/A11ABBBBB0915)<mark style="color:blue;">]</mark>(1 ㎎) - 단기 bridge 목적에 한함
-* 확인된 부정맥 또는 증상성 동빈맥·PAC/PVC : 리듬 종류·구조적 심질환·LVEF 및 동반 질환에 따라 약제를 선택
-  * [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb) : propranolol 1회 10\~30 ㎎ tid\~qid(저용량 시작 후 조절) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">인데놀</mark>](https://www.health.kr/drug/A11ABBBBB0903)<mark style="color:blue;">]</mark>(10 ㎎), bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">콩코르</mark>](https://www.health.kr/drug/A11AJJJJJ0165)<mark style="color:blue;">]</mark>(2.5 ㎎)
-    * 1차 진료에서는 저용량(예: bisoprolol 2.5 ㎎/d)으로 시작해 반응·내약성에 따라 서서히 증량
-    * metoprolol tartrate <mark style="color:blue;">\[</mark>[<mark style="color:blue;">베타록</mark>](https://www.health.kr/drug/A11A0450A0329)<mark style="color:blue;">]</mark>(100 ㎎)은 2026년 상반기 공급이 중단되었으므로 해당 제품 처방 시 유통 여부 확인 필요
-  * [non-DHP계 CCB](../225_/095_-hypertension.md#calcium-channel-blocker-ccb) : diltiazem 서방정 90 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">헤르벤</mark>](https://www.health.kr/drug/A11A0100A0232)<mark style="color:blue;">]</mark>(AF 심박수 조절 목적은 허가 외 사용), verapamil 즉방형 40\~80 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이솦틴</mark>](https://www.health.kr/drug/A11A1130B0001)<mark style="color:blue;">]</mark>(40 ㎎); 제형별 용법·용량을 구분하여 조절
+#### <mark style="color:$primary;">**불안·기능성 두근거림**</mark>
+
+* 고위험 심장성 원인을 평가하고 치료 가능한 원인을 교정한 뒤 비약물 치료를 우선하며, 독립적인 불안장애·공황장애가 진단된 경우에 한해 약물 치료 고려 (☞ 흉통, 불안장애)
+* 항불안제 : 단기 bridge 목적에 한하며, 최소 유효용량으로 시작
+  * alprazolam 1회 0.25\~0.5 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자낙스</mark>](https://www.health.kr/drug/A11ABBBBB0920)<mark style="color:blue;">]</mark>
+  * lorazepam 1일 1\~4 ㎎ 2\~3회 분할 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아티반</mark>](https://www.health.kr/drug/A11ABBBBB0915)<mark style="color:blue;">]</mark>
+
+#### <mark style="color:$primary;">**확인된 부정맥 또는 증상성 동빈맥·PAC/PVC**</mark>
+
+* 리듬 종류·구조적 심질환·LVEF 및 동반 질환에 따라 약제를 선택
+* β-차단제 : 일차진료에서는 저용량으로 시작해 반응·내약성에 따라 서서히 증량
+  * propranolol 1회 10\~30 ㎎ tid\~qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">인데놀</mark>](https://www.health.kr/drug/A11ABBBBB0903)<mark style="color:blue;">]</mark>
+  * bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">콩코르</mark>](https://www.health.kr/drug/A11AJJJJJ0165)<mark style="color:blue;">]</mark>
+  * metoprolol tartrate <mark style="color:blue;">\[</mark>[<mark style="color:blue;">베타록</mark>](https://www.health.kr/drug/A11A0450A0329)<mark style="color:blue;">]</mark> (2026년 상반기부터 공급 중단 상태)
+* non-DHP계 CCB : 제형별 용법·용량을 구분하여 조절
+  * diltiazem 서방정 90 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">헤르벤</mark>](https://www.health.kr/drug/A11A0100A0232)<mark style="color:blue;">]</mark>(부정맥 치료 목적은 허가 외 사용)
+  * verapamil 즉방형 40\~80 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이솦틴</mark>](https://www.health.kr/drug/A11A1130B0001)<mark style="color:blue;">]</mark>
 
 <mark style="color:cyan;">**β-차단제 금기·주의**</mark>
 
 * 안정 시 맥박 ＜55회/분은 감량·보류를 고려할 기준이나 모든 환자에게 동일하게 적용되는 절대 기준은 아님
   * 운동선수·평소 서맥이 있는 무증상 환자에서는 정상일 수 있으므로 증상·혈압·AV conduction·기저 심박수를 함께 고려
 * 기능하는 인공심박동기가 없는 2도 또는 3도 AV block 또는 동기능부전(sick sinus syndrome)
-* 중증 천식·활동성 기관지경련에서는 사용을 피함. 안정된 기도질환에서 강한 심혈관 적응증이 있는 경우 β₁-선택성 약물의 저용량 사용을 전문적으로 판단
+* 중증 천식·활동성 기관지경련에서는 사용을 피함
+  * 안정된 기도질환에서 강한 심혈관 적응증이 있는 경우 β₁-선택성 약물의 저용량 사용을 전문적으로 판단
   * COPD 자체는 모든 β-차단제의 절대 금기는 아니며 심혈관 적응증이 있으면 β₁-선택성 약제를 신중히 사용할 수 있음
 * 심인성 쇼크 또는 급성 대상부전 심부전에서는 새로 시작하거나 증량하지 않음
   * 기존 복용약의 유지·감량 여부는 혈역학적 상태에 따라 판단
@@ -340,7 +353,7 @@ flowchart TD
 
 * 비선택적 β-차단제로 기관지경련 위험 - COPD·천식·기관지경련이 일어날 수 있는 환자에게는 금기
   * 기도질환 환자에게 강한 심혈관 적응증으로 β-차단제가 필요하면, 기도질환의 종류·중증도와 기관지경련 여부를 평가하여 [β₁-선택성 약물](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)의 저용량 사용을 고려하고 호흡기 증상을 면밀히 모니터링
-* 투여 전 및 추적 시 맥박 확인 - 안정 시 맥박 ＜55회/분은 감량·보류를 고려할 기준이나, 평소 서맥이 있는 무증상 환자 등에서는 증상·혈압·AV conduction을 함께 보아 개별화
+* 투여 전 및 추적 시 맥박 확인 : 안정 시 맥박 ＜55회/분은 감량·보류를 고려할 기준이지만, 평소 서맥이 있는 무증상 환자 등에서는 증상·혈압·AV conduction을 함께 보아 개별화
 * 당뇨 환자 주의 : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 - 당뇨 환자에서 설명 필수
 * 중증 말초순환장애에는 금기이며, Raynaud 현상·간헐성 파행 등 경증 말초순환장애는 악화될 수 있으므로 주의
 
