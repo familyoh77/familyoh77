@@ -290,7 +290,7 @@ flowchart TD
 
 * 횡격막 신경 차단술(Phrenic nerve block) : 극히 선택된 난치성 사례에서 전문 시술 환경에서 고려
   * 호흡기 합병증 위험에 주의
-* 미주신경 자극술(Vagus nerve stimulation, VNS) : 극히 난치성 사례에서 제한적인 증례 <mark style="background-color:yellow;">보고 수준</mark>
+* 미주신경 자극술(Vagus nerve stimulation, VNS) : 극히 난치성 사례에서 제한적인 증례 보고 수준
   * 표준 치료는 아님
 * 내시경적 접근 : GERD·식도 질환이 의심되는 경우 원인 확인 및 치료 목적으로 시행
 
