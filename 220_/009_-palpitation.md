@@ -169,7 +169,7 @@
 {% hint style="info" %}
 **증상-맥박 불일치 확인 (Pulse-Symptom Correlation)**
 
-두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림
+두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림.
 
 * 증상 중 평균 심박수가 정상 범위여도 PAC/PVC 또는 짧은 간헐성 부정맥을 배제할 수 없음 → 반복 증상이 있으면 증상 시 ECG 또는 ambulatory ECG로 symptom-rhythm correlation 확인
 * 증상 중 맥박수가 뚜렷하게 빠르거나 불규칙하고 원인이 불명확 → 간헐적 부정맥 감별 → 증상 빈도에 맞춘 장기 심전도 모니터링 적극 고려
@@ -178,7 +178,7 @@
 
 * 증상 빈도에 따라 권장 검사
 
-<table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록; 환자 작동형은 의식이 유지되고 증상이 기록할 만큼 지속될 때 적합</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
 
 * 스마트워치 ECG : 환자가 증상 발생 시 직접 기록한 ECG를 외래에서 활용 가능
   * 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 위양성 주의
@@ -195,27 +195,27 @@
 
 ### <mark style="color:orange;">PSVT vs AF vs 불안·과민 감별</mark>
 
-<table data-search="false"><thead><tr><th width="119">항목</th><th>PSVT</th><th>AF</th><th>불안·과민</th></tr></thead><tbody><tr><td><strong>시작·종료</strong></td><td>갑작스럽게 시작·종료</td><td>발작성 AF는 갑자기 시작하거나 종료할 수 있음</td><td>대개 서서히 시작; 급성 불안·공황은 갑자기 시작 가능</td></tr><tr><td><strong>리듬</strong></td><td>매우 규칙적</td><td>완전히 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td><strong>심박수(회/분)</strong></td><td>150~220</td><td>90~170 (variable)</td><td>80~130</td></tr><tr><td><strong>환자 표현</strong></td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td><strong>Neck pounding</strong></td><td>AVNRT 등에서 규칙적이고 현저할 수 있음</td><td>드묾</td><td>드묾 (완전 배제 불가)</td></tr><tr><td><strong>유발 요인</strong></td><td>대개 spontaneous하나 운동·카페인·수면 부족 등이 촉발할 수 있음</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td><strong>ECG</strong></td><td>대개 규칙적인 narrow-QRS 빈맥</td><td>P파 소실, 불규칙 RR</td><td>정상 동율동 또는 동빈맥</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="119">항목</th><th>PSVT</th><th>AF</th><th>불안·과민</th></tr></thead><tbody><tr><td><strong>시작·종료</strong></td><td>갑작스럽게 시작·종료</td><td>발작성 AF는 갑자기 시작하거나 종료할 수 있음</td><td>대개 서서히 시작; 급성 불안·공황은 갑자기 시작 가능</td></tr><tr><td><strong>리듬</strong></td><td>매우 규칙적</td><td>완전히 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td><strong>심박수(회/분)</strong></td><td>150~220</td><td>다양함(variable)</td><td>80~130</td></tr><tr><td><strong>환자 표현</strong></td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td><strong>Neck pounding</strong></td><td>AVNRT 등에서 규칙적이고 현저할 수 있음</td><td>드묾</td><td>드묾 (완전 배제 불가)</td></tr><tr><td><strong>유발 요인</strong></td><td>대개 spontaneous하나 운동·카페인·수면 부족 등이 촉발할 수 있음</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td><strong>ECG</strong></td><td>대개 규칙적인 narrow-QRS 빈맥</td><td>뚜렷한 반복 P파 없음, 불규칙 RR</td><td>정상 동율동 또는 동빈맥</td></tr></tbody></table>
 
 > _PSVT=Paroxysmal Supraventricular Tachycardia(주로 AVNRT·orthodromic AVRT), AVNRT=Atrioventricular Nodal Reentrant Tachycardia_
 >
-> _위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준은 아님. 고령자·AV node 차단제 복용자에서는 PSVT가 150회/분 미만일 수 있고, AF는 170회/분을 넘을 수 있으며, 공황·탈수·갑상선항진증에서는 130회/분을 넘을 수 있음_
+> _위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준은 아님. 고령자·AV node 차단제 복용자에서는 PSVT가 150회/분 미만일 수 있고, 공황·탈수·갑상선항진증에서는 130회/분을 넘을 수 있음_
 
 ### <mark style="color:orange;">저위험으로 경과 관찰이 가능한 경우</mark>
 
 * Red Flags가 없고 아래에 해당하면 설명·안심과 경과 관찰을 우선할 수 있음
   * 초기 병력·진찰·ECG에서 고위험 소견이 없고 짧고 드물게 발생하는 빠르거나 쿵거리는 느낌
-  * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아님
+  * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·쌍발(couplet)·NSVT 양상이 아님
   * 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없음
 * 증상이 반복·지속되어 수면을 방해하거나 양상이 변하면, 증상 빈도에 맞춘 장기 심전도 모니터링으로 재평가
-* 쌍발 PVC(couplet)는 추가 평가가 필요한 복잡성 소견이나, 그것만으로 PVC 유발 심근병증을 시사하지는 않음
+* 쌍발 PVC는 추가 평가가 필요한 복잡성 소견이나, 그것만으로 PVC 유발 심근병증을 시사하지는 않음
   * 다형성·NSVT·운동 관련 악화·기저 심질환이 동반되면 위험도에 따라 당일\~수일 내 평가
 
 ### <mark style="color:orange;">빈번한 PAC/PVC - burden 확인이 필요한 경우</mark>
 
 * 단독·산발적 PAC/PVC는 대개 양성이나, 다음 상황에서는 단순 안심 대상으로 분류하지 말고 Holter로 burden을 정량화하고 심초음파·심장내과 평가를 고려
   * 반복적 또는 매우 빈번한 PVC
-  * 다형성 PVC, couplet, NSVT(non-sustained VT)
+  * 다형성 PVC, 쌍발 PVC, NSVT(non-sustained VT)
   * 운동 시 증가하는 양상
   * 구조적 심질환·실신·돌연사 가족력 동반
   * 좌심실 기능 저하 동반
@@ -245,18 +245,18 @@
 
 ```mermaid
 flowchart TD
-    Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>고위험 ECG·wide-QRS 빈맥?"]
+    Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>확인된 고위험 리듬·wide-QRS 빈맥?"]
     EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 <br/>및 응급 이송</u><br/>• 빈맥성 부정맥으로 <br/>인한 불안정 시 <br/>응급 전기 치료 평가"]
     EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요시 장기 심전도로 <br/>증상·리듬 확인"]
-    Assess --> Rhythm["확인된 리듬·표현형?"]
+    Assess -- "고위험 소견 확인" --> Emergency
+    Assess -- "고위험 소견 없음" --> Rhythm["확인된 리듬·표현형?"]
     Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 <br/>modified Valsalva</u><br/>• 실패·지속 시 감시하에 <br/>치료 가능한 기관으로 이송<br/>• 재발성 증상은 <br/>절제술 포함 전문 평가"]
     Rhythm -- "AF" --> PreEx["Pre-excitation?"]
     PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·<br/>IV amiodarone 금기"]
     PreEx -- "아니오" ---> EF["LVEF 및 임상 상태?"]
-    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·<br/>혈압에 따라 <br/>β-차단제 ± digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
+    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·<br/>혈압에 따라 <br/>β-차단제 및/또는 digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
     EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 <br/>diltiazem·<br/>verapamil</u><br/>• 폐질환·서맥·<br/>전도장애 등 고려"]
-    AFhf --> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
-    AFnormal --> Stroke
+    PreEx -. "병행" .-> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
     Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 <br/>또는 구조적 심질환·<br/>EF 저하?"]
     Burden -- "예" --> Refer["<u>Holter로 <br/>burden 정량화</u><br/>• 심초음파·<br/>심장내과 평가"]
     Burden -- "아니오" --> Reassure["<u>설명·유발 인자 조절</u><br/>• 증상 지속 시 <br/>저용량 β-차단제 고려"]
@@ -276,7 +276,9 @@ flowchart TD
 
 <p align="center"><strong>두근거림 - 확인된 리듬별 초기 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA Adult Advanced Life Support 2025, ESC AF Guideline 2024,</mark></em><br><em><mark style="color:$info;">ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022,</mark></em><br><em><mark style="color:$info;">ESC SVT Guideline 2019, REVERT trial 2015 등)</mark></em></p>
 
-> _AF/LVEF ≤40% 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전 동반 시에는 별도 접근이 필요._
+> _AF/LVEF ≤40% 분기의 β-차단제 및/또는 digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전은 LVEF와 관계없이 즉각 조치 대상으로 별도 접근._
+>
+> _뇌졸중 위험·항응고 필요성 및 조기 리듬 조절 적합성은 LVEF 확인 여부와 관계없이 평가. 응급 소견이 있으면 안정화와 이송을 우선._
 >
 > _LVEF 미확인 시 심부전 소견·기왕력과 기존 검사를 확인하고, 좌심실 수축기능 저하가 의심되면 diltiazem·verapamil을 피하며 심초음파·전문 평가로 연결._
 >
@@ -292,20 +294,21 @@ flowchart TD
 
 * 원인 질환에 대한 치료가 우선
 * 원인이 명확하고 위험성이 낮은 경우(예: 단독 PAC/PVC, 정상 ECG + 구조적 심질환 없음)에는 약물 치료 없이 경과 관찰 가능
-* 혈역학적으로 안정된 규칙적 narrow-complex SVT 동반 두근거림 : Modified Valsalva Maneuver 우선 시도
+* 혈역학적으로 안정된 규칙적 narrow-QRS SVT 동반 두근거림 : Modified Valsalva Maneuver 우선 시도
 * 불안, 스트레스 해소 : 명상, 바이오피드백
 * 규칙적인 유산소 운동 : 매일 또는 주 대부분의 날, 활발한 신체 활동
 * 적당한 체중 유지
 * 카페인 : 통상적 섭취를 모든 환자에게 일률적으로 금지할 근거는 부족함
   * 본인이 증상 촉발을 명확히 경험하는 경우에 한해 감량 권고
 * 술 등 다른 유발 요인도 개별 반응에 따라 조정
+  * AF 환자는 본인이 유발 요인으로 느끼는지와 관계없이 재발 감소를 위해 절주·금주를 권고
 * 금연
 * 감기약, 허브 등 흥분을 일으키는 약물을 피함
 
 #### <mark style="color:$primary;">Modified Valsalva Maneuver</mark>
 
 * 표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음 <mark style="color:$info;">\[Lancet 2015; ESC 2019]</mark>
-* 적응증 : 혈역학적으로 안정된 규칙적 narrow-complex SVT(AVNRT·orthodromic AVRT)
+* 적응증 : 혈역학적으로 안정된 규칙적 narrow-QRS SVT(AVNRT·orthodromic AVRT)
 * 주의 : 대동맥 박리, 최근 심근경색 등 복압·흉강내압 상승이 이론적으로 위험할 수 있는 상황에서는 시행 전 위험-이익을 개별적으로 판단
 * [방법](https://youtu.be/NVFAr9-THKo?si=nD1fBVNqbv6KuWFr)&#x20;
   1. 환자를 45° 반좌위로 앉힘
@@ -319,21 +322,21 @@ flowchart TD
 
 ### <mark style="color:orange;">대증 치료</mark>
 
-#### <mark style="color:$primary;">**불안·기능성 두근거림**</mark>
+#### <mark style="color:$primary;">불안·기능성 두근거림</mark>
 
-* 고위험 심장성 원인을 평가하고 치료 가능한 원인을 교정한 뒤 비약물 치료를 우선하며, 독립적인 불안장애·공황장애가 진단된 경우에 한해 약물 치료 고려 (☞ 흉통, 불안장애)
-* 항불안제 : 단기 bridge 목적에 한하며, 최소 유효용량으로 시작
-  * alprazolam 1회 0.25\~0.5 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자낙스</mark>](https://www.health.kr/drug/A11ABBBBB0920)<mark style="color:blue;">]</mark>
+* 고위험 심장성 원인을 평가하고 치료 가능한 원인을 교정한 뒤 비약물 치료를 우선하며, 독립적인 불안장애·공황장애가 진단된 경우에 한해 약물 치료 고려 (☞ [흉통](002_-chest-pain.md), [불안장애](../221_/025_-anxiety-disorder.md), [공황장애](../221_/026_-panic-disorder.md))
+* 항불안제 : 범불안장애의 급성 위기에서 단기 완화가 필요한 경우에 한하며, 최소 유효용량으로 시작 <mark style="color:$info;">\[NICE CG113]</mark>
+  * alprazolam 1회 0.25\~0.5 ㎎ tid로 시작(불안에 대한 개시 용법) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자낙스</mark>](https://www.health.kr/drug/A11ABBBBB0920)<mark style="color:blue;">]</mark>
   * lorazepam 1일 1\~4 ㎎ 2\~3회 분할 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아티반</mark>](https://www.health.kr/drug/A11ABBBBB0915)<mark style="color:blue;">]</mark>
 
-#### <mark style="color:$primary;">**확인된 부정맥 또는 증상성 동빈맥·PAC/PVC**</mark>
+#### <mark style="color:$primary;">확인된 부정맥 또는 증상성 동빈맥·PAC/PVC</mark>
 
 * 리듬 종류·구조적 심질환·LVEF 및 동반 질환에 따라 약제를 선택
-* β-차단제 : 일차진료에서는 저용량으로 시작해 반응·내약성에 따라 서서히 증량
+* [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb) : 일차진료에서는 저용량으로 시작해 반응·내약성에 따라 서서히 증량
   * propranolol 1회 10\~30 ㎎ tid\~qid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">인데놀</mark>](https://www.health.kr/drug/A11ABBBBB0903)<mark style="color:blue;">]</mark>
   * bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">콩코르</mark>](https://www.health.kr/drug/A11AJJJJJ0165)<mark style="color:blue;">]</mark>
   * metoprolol tartrate <mark style="color:blue;">\[</mark>[<mark style="color:blue;">베타록</mark>](https://www.health.kr/drug/A11A0450A0329)<mark style="color:blue;">]</mark> (2026년 상반기부터 공급 중단 상태)
-* non-DHP계 CCB : 제형별 용법·용량을 구분하여 조절
+* [non-DHP계 CCB](../225_/095_-hypertension.md#calcium-channel-blocker-ccb) : 제형별 용법·용량을 구분하여 조절
   * diltiazem 서방정 90 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">헤르벤</mark>](https://www.health.kr/drug/A11A0100A0232)<mark style="color:blue;">]</mark>(부정맥 치료 목적은 허가 외 사용)
   * verapamil 즉방형 40\~80 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이솦틴</mark>](https://www.health.kr/drug/A11A1130B0001)<mark style="color:blue;">]</mark>
 
@@ -395,15 +398,15 @@ flowchart TD
 >
 > _✽ 구조적 심질환·고위험 부정맥이 배제되고, 발열·빈혈·탈수·갑상선항진증·저혈당·감염·약물 등 이차성 동빈맥 원인이 배제되었거나 충분히 교정된 뒤에도 증상성 동빈맥 또는 빈번한 PAC/PVC가 지속되는 경우에 한해 저용량 β-차단제 사용을 고려한다. 이차 원인 평가 없이 심박수·부정맥 유형이 확인되지 않은 두근거림에 경험적으로 β-차단제를 투여하면 보상성 동빈맥을 원인 교정 없이 억제하는 결과가 될 수 있다. IST가 의심되면 β-차단제의 증상 개선 효과가 제한적일 수 있으므로, 효과가 없거나 피로·저혈압이 생기면 반복 증량보다 전문 평가를 고려한다_
 
-> **처방례 2. 불안장애·공황장애로 진단된 환자에서 두근거림 증상 동반 시 단기 항불안제**
+> **처방례 2. 범불안장애 진단 환자에서 급성 위기 시 단기 완화**
 >
 > ```
-> 자낙스정0.25㎎ 1T 필요시 (1일 최대 2회, 최소 6시간 간격)
+> 자낙스정0.25㎎ 1T tid (1~2주 이내)
 > ```
 >
 > 약제 정보: [자낙스정0.25㎎](https://www.health.kr/drug/A11ABBBBB0920)
 >
-> _✽ alprazolam은 두근거림 자체의 치료제가 아니라 불안장애·공황장애가 별도로 진단된 경우의 단기 bridge 치료다. β-차단제와 동시 병용을 원칙으로 하지 않으며, 최소 유효용량으로 가급적 1\~2주 이내 단기 사용에 한한다. 반복·만성 불안이 있으면_ [_불안장애_](../221_/025_-anxiety-disorder.md) _챕터를 참조하여 SSRI/CBT 기반 치료로 전환하고, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려한다. 실제 진단이 성립한 경우에만 해당 진단코드를 사용한다_
+> _✽ 범불안장애는 환자와 상의하여 CBT 등의 심리치료 또는 SSRI를 선택한다. 벤조디아제핀은 급성 위기에서 단기 완화가 필요한 경우에 한해 고려하고 1\~2주 이내 재평가한다. alprazolam은 두근거림 자체의 치료제가 아니다. 반복·만성 불안이 있으면_ [_불안장애_](../221_/025_-anxiety-disorder.md) _챕터를 참조하여 SSRI 또는 CBT 기반 치료를 진행하고, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려한다. 실제 진단이 성립한 경우에만 해당 진단코드를 사용한다_
 
 > **처방례 3. 재발성 AVNRT/orthodromic AVRT (안정 시 ECG에 pre-excitation 없음) - ablation을 원하지 않거나 시행하기 어려운 경우의 약물 치료**
 >
@@ -413,9 +416,9 @@ flowchart TD
 >
 > 약제 정보: [헤르벤서방정90㎎](https://www.health.kr/drug/A11A0100A0232)
 >
-> _✽ 2019 ESC SVT Guideline은 증상성 재발성 AVNRT·AVRT에서 catheter ablation을 우선 권고한다. 절제술을 시행하기 어렵거나 환자가 원하지 않으면 AVNRT에서 diltiazem·verapamil·β-차단제를 고려할 수 있으며, orthodromic AVRT에서는 안정 시 ECG에 pre-excitation이 없는 경우 이들 약제를 고려할 수 있다. 안정 시 ECG에 delta wave(WPW pattern)가 있는 환자에게는 사용하지 않는다. LVEF ≤40% 또는 대상부전 심부전에는 non-DHP CCB를 사용하지 않으며, 천식·COPD에서는 non-DHP CCB 또는 임상 상황에 따라 β₁-선택성 β-차단제를 고려할 수 있다. 이 약(헤르벤서방정 90 ㎎)의 허가 적응증은 협심증·본태성고혈압이며, AVNRT/AVRT에 대한 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 독립적인 불안장애·공황장애가 있으면 처방례 2에 따라 별도로 치료한다_
+> _✽ 2019 ESC SVT Guideline은 증상성 재발성 AVNRT·AVRT에서 catheter ablation을 우선 권고한다. 절제술을 시행하기 어렵거나 환자가 원하지 않으면 AVNRT에서 diltiazem·verapamil·β-차단제를 고려할 수 있으며, orthodromic AVRT에서는 안정 시 ECG에 pre-excitation이 없는 경우 이들 약제를 고려할 수 있다. 안정 시 ECG에 delta wave(WPW pattern)가 있는 환자에게는 사용하지 않는다. LVEF ≤40% 또는 대상부전 심부전에는 non-DHP CCB를 사용하지 않으며, 천식·COPD에서는 non-DHP CCB 또는 임상 상황에 따라 β₁-선택성 β-차단제를 고려할 수 있다. 이 약(헤르벤서방정 90 ㎎)의 허가 적응증은 협심증·본태성고혈압이며, AVNRT/AVRT에 대한 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 불안장애·공황장애가 동반되면_ [_불안장애_](../221_/025_-anxiety-disorder.md)·[_공황장애_](../221_/026_-panic-disorder.md) _챕터의 진단 및 치료 원칙을 따른다_
 
-> **처방례 4. 확인된 심방세동(AF), 혈역학적으로 안정 - 심박수 조절**
+> **처방례 4. 확인된 심방세동(AF), 혈역학적으로 안정되고 pre-excitation이 없으며 심박수 조절이 필요한 경우**
 >
 > ```
 > 콩코르정2.5㎎ 1T qd
@@ -423,7 +426,7 @@ flowchart TD
 >
 > 약제 정보: [콩코르정2.5㎎](https://www.health.kr/drug/A11AJJJJJ0165)
 >
-> _✽ 혈역학적으로 안정된 AF 환자에서 β₁-선택성 β-차단제로 심박수 조절을 시작한다. β-차단제는 LVEF와 관계없이 사용할 수 있으나 심부전 상태·혈압·서맥 및 전도장애를 함께 고려한다. 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 한다. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다 <mark style="color:$info;">\[ACC/AHA/ACCP/HRS 2023]</mark>. 이 약(콩코르정 2.5 ㎎)의 허가 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는_ [_심방세동_](../225_/099_1-atrial-fibrillation.md) _챕터 참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
+> _✽ 혈역학적으로 안정된 AF 환자에서 β₁-선택성 β-차단제로 심박수 조절을 시작한다. 치료 시작 전 HR ＜60회/분의 서맥에는 투여하지 않는다(콩코르 허가사항; 복용 중 감량·보류 기준과 구분). β-차단제는 LVEF와 관계없이 사용할 수 있으나 심부전 상태·혈압·서맥 및 전도장애를 함께 고려한다. 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 한다. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다 <mark style="color:$info;">\[ACC/AHA/ACCP/HRS 2023]</mark>. 이 약(콩코르정 2.5 ㎎)의 허가 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는_ [_심방세동_](../225_/099_1-atrial-fibrillation.md) _챕터 참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
 
 ***
 
@@ -431,9 +434,9 @@ flowchart TD
 
 > **propranolol (인데놀) · bisoprolol (콩코르) - β-차단제**
 >
-> * 약을 갑자기 끊으면 심박수가 급격히 빨라지거나 혈압이 오를 수 있습니다. 중단이 필요하면 반드시 의사와 상의하여 서서히 줄이십시오.
+> * 약을 갑자기 끊으면 심박수가 급격히 빨라지거나 혈압이 오를 수 있습니다. 중단이 필요하면 반드시 주치의와 상의하여 서서히 줄이십시오.
 > * 측정한 맥박이 의료진이 알려드린 개인별 기준보다 낮으면 다음 복용을 보류하고 의료진에게 문의하십시오. 심한 어지럼·호흡 곤란·실신이 동반되면 즉시 119 또는 응급실로 도움을 요청하십시오.
-> * 천식 또는 만성 폐쇄성 폐질환(COPD)이 있으신 분은 반드시 의사에게 알려 주십시오.
+> * 천식 또는 만성 폐쇄성 폐질환(COPD)이 있으신 분은 반드시 주치의에게 알려 주십시오.
 > * 당뇨 환자 : 이 약은 저혈당 시 나타나는 두근거림·떨림 같은 경고 증상을 느끼지 못하게 할 수 있습니다. 혈당 측정을 더 자주 하시고, 식은땀·의식 변화 등 다른 저혈당 증상에 주의하십시오.
 
 > **diltiazem (헤르벤) · verapamil (이솦틴) - 칼슘채널차단제**
@@ -443,14 +446,14 @@ flowchart TD
 > * verapamil은 변비를 일으킬 수 있습니다.
 > * 서방형은 부수거나 씹지 말고 통째로 삼키십시오. 제품마다 복용 횟수가 다르므로 처방된 제형·용법을 지키십시오.
 > * 자몽 주스는 약 농도를 높여 부작용을 악화시킬 수 있으므로 피하십시오.
-> * 심부전이 있으신 분은 반드시 의사에게 알려 주십시오. 좌심실 기능이 많이 저하되었거나 급성으로 악화된 심부전에서는 이 계열 약을 사용하지 않습니다.
+> * 심부전이 있으신 분은 반드시 주치의에게 알려 주십시오. 좌심실 기능이 많이 저하되었거나 급성으로 악화된 심부전에서는 이 계열 약을 사용하지 않습니다.
 
 > **alprazolam (자낙스) · lorazepam (아티반) - 항불안제**
 >
 > * 졸음, 집중력 저하가 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오.
 > * 술·수면제·다른 진정제·오피오이드와 함께 복용하면 심한 졸림·호흡억제 위험이 커집니다. 수면무호흡증·중증 호흡부전에서는 사용하지 않으며, 복용 중인 약과 호흡기질환을 미리 알려 주십시오.
 > * 의사 처방 없이 용량을 늘리거나 임의로 중단하지 마십시오. 의존성과 금단 위험은 용량·기간에 따라 증가하므로 짧게 사용하더라도 중단 계획을 확인하십시오.
-> * 이 약은 불안장애·공황장애에 동반된 불안과 두근거림을 단기간 완화하기 위한 것입니다. 증상이 반복된다면 의사와 상의하여 보다 근본적인 치료(상담, 다른 약물)로 전환할 수 있습니다.
+> * 이 약은 범불안장애의 급성 위기 때 불안과 두근거림을 단기간 완화하기 위한 것입니다. 증상이 반복된다면 주치의와 상의하여 상담이나 다른 약물 치료를 받을 수 있습니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -470,6 +473,7 @@ flowchart TD
 * [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024;45(36):3314-3414.](https://doi.org/10.1093/eurheartj/ehae176) - AF 심박수 조절·뇌졸중 예방과 CHA₂DS₂-VA; 2023 미국 지침의 점수 체계와 구분
 * [Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation. 2024;149(1):e1-e156.](https://doi.org/10.1161/CIR.0000000000001193) - AF 진단·심박수 조절·항응고와 CHA₂DS₂-VASc의 적용; 지침명은 2023, 출판은 2024년
 * [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
+* [National Institute for Health and Care Excellence. Generalised anxiety disorder and panic disorder in adults: management (CG113). 2011, updated 2020.](https://www.nice.org.uk/guidance/cg113) - 범불안장애의 일차 치료와 벤조디아제핀의 급성 위기 단기 사용 제한
 * [Sheldon RS, et al. 2015 Heart Rhythm Society Expert Consensus Statement on POTS, IST, and Vasovagal Syncope. Heart Rhythm. 2015;12(6):e41-e63.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/) - IST·POTS의 정의와 이차 원인 평가
 * [Raj SR, et al. Diagnosis and management of postural orthostatic tachycardia syndrome. CMAJ. 2022;194(10):E378-E385.](https://doi.org/10.1503/cmaj.211373) - POTS 진단 기준과 기립 심박수 측정 조건
 * [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736\(15\)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
@@ -498,11 +502,11 @@ flowchart TD
 
 * **안정** : 활동을 멈추고 앉거나 누운 자세로 깊게 천천히 호흡하십시오
 * **기록** : 발생 시각, 지속 시간, 동반 증상(어지럼·흉통·실신)과 함께 **당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)도 함께** 메모하십시오. 스마트워치나 스마트폰 심박 기록 기능을 활용하면 도움이 됩니다
-* **미주신경 자극법** : 이전에 심전도로 규칙적인 발작성 심실상성빈맥임이 확인되었고 현재 상태가 안정적일 때만 의료진에게 교육받은 발살바 방법(힘주기 방법)을 시도하십시오. 흉통·호흡 곤란·실신감이 있으면 시행하며 기다리지 말고 119에 연락하십시오. 목의 경동맥을 스스로 마사지하지 마십시오
+* **미주신경 자극법** : 이전에 심전도로 규칙적인 발작성 심실상성빈맥임이 확인되었고 현재 상태가 안정적일 때만 의료진에게 교육받은 발살바 방법(힘주기 방법)을 시도하십시오. 흉통·호흡 곤란·기절할 것 같은 느낌이 있으면 발살바 방법을 시도하지 말고 즉시 119에 연락하십시오. 목의 경동맥을 스스로 마사지하지 마십시오
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **카페인·음주** : 에너지 음료나 과량 섭취는 피하고, 본인에게 증상을 유발하거나 악화시키는 것이 확인되면 줄이십시오
+* **카페인·음주** : 에너지 음료나 과량 섭취는 피하고, 본인에게 증상을 유발하거나 악화시키는 것이 확인되면 줄이십시오. 심방세동을 진단받은 분은 증상과 관계없이 술을 줄이거나 끊으면 재발을 줄이는 데 도움이 됩니다
 * **규칙적인 수면과 스트레스 관리** : 수면 부족과 만성 스트레스는 두근거림의 흔한 원인입니다
 * **금연** : 니코틴은 심박수를 높이고 부정맥 위험을 증가시킵니다
 * **처방약 지속 복용** : 부정맥 치료약은 임의로 중단하면 위험할 수 있습니다. 반드시 주치의와 상의하십시오
