@@ -245,16 +245,16 @@
 
 ```mermaid
 flowchart TD
-    Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>확인된 고위험 리듬·wide-QRS 빈맥?"]
+    Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>확인된 고위험 리듬·<br/>wide-QRS 빈맥?"]
     EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 <br/>및 응급 이송</u><br/>• 빈맥성 부정맥으로 <br/>인한 불안정 시 <br/>응급 전기 치료 평가"]
     EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요시 장기 심전도로 <br/>증상·리듬 확인"]
     Assess -- "고위험 소견 확인" --> Emergency
-    Assess -- "고위험 소견 없음" --> Rhythm["확인된 리듬·표현형?"]
+    Assess -- "고위험 소견 없음" ---> Rhythm["확인된 리듬·표현형?"]
     Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 <br/>modified Valsalva</u><br/>• 실패·지속 시 감시하에 <br/>치료 가능한 기관으로 이송<br/>• 재발성 증상은 <br/>절제술 포함 전문 평가"]
     Rhythm -- "AF" --> PreEx["Pre-excitation?"]
     PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·<br/>IV amiodarone 금기"]
     PreEx -- "아니오" ---> EF["LVEF 및 임상 상태?"]
-    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·<br/>혈압에 따라 <br/>β-차단제 및/또는 digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
+    EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·혈압에 <br/>따라 β-차단제 <br/>및/또는 digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
     EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 <br/>diltiazem·<br/>verapamil</u><br/>• 폐질환·서맥·<br/>전도장애 등 고려"]
     PreEx -. "병행" .-> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
     Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 <br/>또는 구조적 심질환·<br/>EF 저하?"]
@@ -310,7 +310,7 @@ flowchart TD
 * 표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음 <mark style="color:$info;">\[Lancet 2015; ESC 2019]</mark>
 * 적응증 : 혈역학적으로 안정된 규칙적 narrow-QRS SVT(AVNRT·orthodromic AVRT)
 * 주의 : 대동맥 박리, 최근 심근경색 등 복압·흉강내압 상승이 이론적으로 위험할 수 있는 상황에서는 시행 전 위험-이익을 개별적으로 판단
-* [방법](https://youtu.be/NVFAr9-THKo?si=nD1fBVNqbv6KuWFr)&#x20;
+* [방법](https://youtu.be/NVFAr9-THKo?si=nD1fBVNqbv6KuWFr)
   1. 환자를 45° 반좌위로 앉힘
   2. 40 ㎜Hg로 15초간 Valsalva 시행
      * 압력 확인 : 아네로이드 혈압계의 커프를 분리하고 연결관에 마우스피스(예: 10 ㎖ 주사기 몸통)를 끼워 불게 하면 바늘로 확인 가능; 전자 혈압계는 사용할 수 없음
