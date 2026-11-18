@@ -3,9 +3,9 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 빠르게, 세게, 불규칙하게 또는 건너뛰는 것처럼 불쾌하게 심장 박동을 자각하는 증상
-* 증상 당시 실제 심박수와 리듬은 정상일 수도 있음
-* 원인은 크게 심장성, 정신과적, 대사/전신성, 약물/물질 관련 요인으로 나뉘며, 이런 원인 없이 생리적으로 발생하거나 뚜렷한 병인 없이 특발성으로 남는 경우도 많음
-* 예후는 기저 원인에 따라 달라짐. 또한 구조적 심장 질환이나 지속성 부정맥 동반 여부에 따라 위험도가 크게 달라지므로 초기 단계에서 고위험군을 선별하는 것이 핵심
+* 증상 발생당시 실제 심박수와 리듬은 정상일 수도 있음
+* 원인 : 크게 심장성, 정신과적, 대사/전신성, 약물/물질 관련 요인으로 나뉘며, 이런 원인 없이 생리적으로 발생하거나 뚜렷한 병인 없이 특발성으로 남는 경우도 많음
+* 예후 : 기저 원인에 따라 달라짐. 또한 구조적 심장 질환이나 지속성 부정맥 동반 여부에 따라 위험도가 크게 달라지므로 초기 단계에서 고위험군을 선별하는 것이 핵심
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -14,11 +14,13 @@
 * 지속적이거나 허혈성이 의심되는 심한 흉통
 * 저혈압(SBP ＜90 ㎜Hg), 쇼크 징후 또는 의식 변화
 * 심한 호흡 곤란, 기좌 호흡, 급성 심부전 소견
-* 지속성 빈맥, 특히 HR ≥150회/분이면서 저혈압·의식 변화·허혈성 흉통·급성 심부전 등 혈역학적 불안정 동반
-* [실신](../221_/021_-syncope.md) 또는 실신 전 증상 동반, 특히 지속성 빈맥·비정상 ECG·구조적 심장 질환이 함께 있는 경우
+* 지속성 빈맥에 저혈압·의식 변화·허혈성 흉통·급성 심부전 등 혈역학적 불안정 동반
+  * 특히 HR ≥150회/분이면 고위험
+* [실신](../221_/021_-syncope.md) 또는 실신 전 증상 동반
+  * 특히 지속성 빈맥·비정상 ECG·구조적 심장 질환이 함께 있는 경우
 * High-grade AV block, 지속성 심실빈맥, pre-excited AF(WPW pattern을 동반한 AF)
-* 운동 중 실신 또는 두근거림 직후의 실신  `악성 심실부정맥`  `비후성 심근병증`
-* 갑작스러운 편측 마비·안면 마비·언어 장애 등 새로운 국소 신경학적 증상  `뇌졸중`  `색전증`
+* 운동 중 실신 또는 두근거림 직후의 실신 `악성 심실부정맥` `비후성 심근병증`
+* 갑작스러운 편측 마비·안면 마비·언어 장애 등 새로운 국소 신경학적 증상 `뇌졸중` `색전증`
 
 {% hint style="info" %}
 HR ≥150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준이지만, 이보다 낮은 심박수에서도 저혈압·실신/의식 변화·허혈성 흉통·급성 심부전 또는 고위험 기저 심질환이 동반되면 응급 평가가 필요
@@ -27,37 +29,50 @@ HR ≥150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 증상과 연관된 비정상 ECG나 구조적 심장 질환 의심 또는 확인
-* 반복되거나 임상적으로 유의한 시간 동안 지속되는 tachyarrhythmia가 의심되는 병력 - 실제 위험도는 리듬 종류·심박수·혈역학적 영향 및 기저 심질환을 종합하여 판단
+* 반복되거나 임상적으로 유의한 시간 동안 지속되는 tachyarrhythmia가 의심되는 병력
+  * 실제 위험도는 리듬 종류·심박수·혈역학적 영향 및 기저 심질환을 종합하여 판단
 * 운동 중 발생하는 두근거림
-* 고위험 구조적 심장 질환이 있거나 유전성 심장 질환·Sudden arrhythmic death syndrome 가족력
+* 고위험 구조적 심장 질환(비후성 심근병증 등)·유전성 심장 질환 또는 급성 부정맥 사망 증후군 가족력
 * 경미한 흉부 불편감이 반복 동반되면서 수면을 방해할 정도로 지속되는 두근거림
 * 하지 부종 등 심부전 가능성을 시사하는 소견
-* 박동기 또는 심장 제세동기 삽입 환자에서 새로운 두근거림  `기기 오작동`  `부정맥`
+* 박동기 또는 심장 제세동기 삽입 환자에서 새로운 두근거림 `기기 오작동` `부정맥`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 새로 발생하거나 빈도·지속시간이 증가하는 반복성 두근거림  `발작성 부정맥`
-* PVC burden ≥10%의 빈번한 PVC  `PVC 유발 심근병증`
+* 새로 발생하거나 빈도·지속시간이 증가하는 반복성 두근거림 `발작성 부정맥`
+* PVC burden ≥10%의 빈번한 PVC `PVC 유발 심근병증`
 
 ## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:orange;">심장 원인</mark>
 
-* 부정맥, 구조적 심장 질환
+* 부정맥과 구조적 심장 질환이 주요 원인
+
+#### <mark style="color:$primary;">부정맥</mark>
+
 * [심방세동](../225_/099_1-atrial-fibrillation.md)(AF) : 불규칙한 두근거림의 흔한 심장 원인
   * P파 소실, 불규칙한 RR 간격
-  * 기저 원인으로 고혈압·심부전·갑상선항진증·OSA·과도한 음주 확인
-    * Holiday heart : 폭음 후 발생하는 AF; 음주력 청취 시 확인 필요
+  * 기저 원인으로 고혈압, 심부전, 갑상선항진증, OSA, 과도한 음주 확인
+  * Holiday heart : 폭음 후 발생하는 AF; 음주력 청취 시 확인 필요
 * 심실상성빈맥(SVT)
-* 환자의 증상 표현에 따른 리듬 추정
-  1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
-  2. rapid "fluttering in the chest"
-     * regular "fluttering" : supraventricular 또는 ventricular tachycardia (sinus tachycardia 포함)
-     * irregular "fluttering" : atrial fibrillation, atrial flutter with variable AV conduction, multifocal atrial tachycardia
-  3. "pounding in the neck"(neck pulsations) : 규칙적이고 뚜렷한 경정맥 박동은 AVNRT 등 심방·심실이 거의 동시에 수축하는 SVT를 시사하며, 일부에서는 현저한 jugular venous pulsation(cannon A wave 양상)이 관찰될 수 있음
-* Chest pain 동반 → 허혈성 심질환; 동반 흉통이 몸을 앞으로 숙일 때 호전되는 양상이면 심막 질환 고려
-* Light-headedness, 실신 전 증상 또는 실신 → 저혈압, 중증 부정맥
-* 운동·힘든 작업 시 발생 → 동빈맥, SVT, 심실성 부정맥, 허혈성 심질환, 판막 질환·심근병증 등을 포괄하여 평가; 필요시 운동부하검사 또는 운동 중 ECG 기록으로 확인
+
+#### <mark style="color:$primary;">증상 표현에 따른 리듬 추정</mark>
+
+1. "심장이 덜컥 내려앉는다", "한 번 멈췄다가 쿵 하고 뛴다" : 심방 또는 심실의 조기 수축(PAC/PVC)
+2. "가슴이 빠르게 벌렁거린다"
+   * 규칙적으로 빠르게 뜀 : SVT 또는 VT(동빈맥 포함)
+   * 불규칙하게 빠르게 뜀 : AF, 가변 방실전도를 동반한 AFL, MAT
+3. "목에서 쿵쿵 뛰는 게 느껴진다"
+   * 빠르고 규칙적인 목 박동감은 전형적 AVNRT를 시사할 수 있음
+   * 심방과 심실이 거의 동시에 수축하면 진찰에서 뚜렷한 경정맥 박동(cannon A wave 양상)이 관찰될 수 있음
+
+#### <mark style="color:$primary;">동반 증상·유발 상황에 따른 단서</mark>
+
+* 흉통 동반 → 허혈성 심질환
+  * 몸을 앞으로 숙일 때 흉통이 호전되면 심막 질환 고려
+* 어지럼(light-headedness), 실신 전 증상 또는 실신 → 저혈압, 중증 부정맥
+* 운동·힘든 작업 시 발생 → 동빈맥, SVT, 심실성 부정맥, 허혈성 심질환, 판막 질환·심근병증
+  * 필요시 운동부하검사 또는 운동 중 ECG 기록으로 확인
 
 ### <mark style="color:orange;">동빈맥 및 자율신경 관련 증후군</mark>
 
@@ -67,15 +82,18 @@ HR ≥150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 
 #### <mark style="color:$primary;">부적절 동빈맥(Inappropriate Sinus Tachycardia, IST)</mark>
 
-* 안정 시 동성 심박수 ＞100회/분 및 24시간 평균 심박수 ＞90회/분이면서 이차 원인으로 설명되지 않고 불편한 두근거림이 동반되는 증후군; 경미한 활동에도 과도한 심박수 반응을 보일 수 있음 <mark style="color:$info;">\[HRS 2015]</mark>
+* 안정 시 동성 심박수 ＞100회/분 및 24시간 평균 심박수 ＞90회/분이면서 이차 원인으로 설명되지 않고 불편한 두근거림이 동반되는 증후군
+* 경미한 활동에도 과도한 심박수 반응을 보일 수 있음 <mark style="color:$info;">\[HRS 2015]</mark>
 * 불안장애로 오진되는 경우 많음 - 구조적 심질환 및 이차 원인 배제 후 진단
 
-#### <mark style="color:$primary;">체위성 기립성 빈맥 증후군(POTS)</mark>
+#### <mark style="color:$primary;">체위성 기립성 빈맥 증후군(</mark>[<mark style="color:$primary;">POTS</mark>](../221_/030_-autonomic-dysfunction.md)<mark style="color:$primary;">)</mark>
 
-* 기립 후 10분 이내 HR이 성인에서 ≥30회/분, 12\~19세에서 ≥40회/분 지속적으로 증가(일시적 상승은 해당하지 않음; 1분 이상 간격의 2회 이상 측정에서 확인 <mark style="color:$info;">\[CMAJ 2022]</mark>)
+* 다음을 모두 충족할 때 진단 <mark style="color:$info;">\[CMAJ 2022]</mark>
+  * 기립 후 10분 이내 HR이 ≥30회/분(12\~19세에서 ≥40회/분) 지속적으로 증가
+    * 일시적 상승은 해당하지 않음; 1분 이상 간격의 2회 이상 측정에서 확인
   * 유의한 기립성 저혈압(기립 후 3분 이내 지속적 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 감소) 없음
   * 기립 시 악화되고 누우면 호전되는 두근거림·어지럼·피로·brain fog 등 기립불내성 증상이 ≥3개월 지속
-* 빈혈·탈수·발열·갑상선항진증·약물 등 이차성 동빈맥 원인을 배제
+  * 빈혈·탈수·발열·갑상선항진증·약물 등 이차성 동빈맥 원인으로 설명되지 않음
 
 ### <mark style="color:orange;">비심장 원인</mark>
 
@@ -86,23 +104,33 @@ HR ≥150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 * 과호흡, hand tingling, 과민 반응 시 불안, 공황장애 의심
 
 {% hint style="info" %}
-심장성 원인 평가와 불안·공황 평가는 병행하는 것이 원칙이며, 부정맥·구조적 심질환이 완전히 배제되어야만 불안을 고려할 수 있는 것은 아님; 기질적 심장 질환이 뚜렷하지 않은 경우 심장 감각 과민 상태로 설명할 수 있음 - 다만 이는 별도의 진단 요건(과도한 사고·불안·행동, 지속성 등)이 충족될 때 신체증상장애로 진단하며, 정상 심장검사 소견만으로 진단할 수 없음; "심장에 이상이 없다"는 단순 부정보다 "심장이 예민해진 상태"임을 설명하면 환자 수용도가 높아짐
+심장성 원인 평가와 불안·공황 평가는 병행하는 것이 원칙이며, 부정맥·구조적 심질환이 완전히 배제되어야만 불안을 고려할 수 있는 것은 아님.\
+기질적 심장 질환이 뚜렷하지 않은 경우 심장 감각 과민 상태로 설명할 수 있음 - 다만 이는 별도의 진단 요건(과도한 사고·불안·행동, 지속성 등)이 충족될 때 신체증상장애로 진단하며, 정상 심장검사 소견만으로 진단할 수 없음.\
+"심장에 이상이 없다"는 단순 부정보다 "심장이 예민해진 상태"라는 설명이 환자 수용도가 높음
 {% endhint %}
 
 #### <mark style="color:$primary;">대사·전신성 이상</mark>
 
-* 빈혈 : 두근거림의 흔한 전신성 원인
-  * CBC로 확인하며 빈혈의 중증도와 발생 속도에 따라 증상 가능성이 증가
-* 전해질 이상 : 저칼륨혈증, 저마그네슘혈증은 부정맥의 흔한 유발 원인
-  * 이뇨제 복용 환자에서 특히 확인 필요
-* 갑상선중독증(thyrotoxicosis)·갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
-  * 폐경기 혈관운동증상과 두근거림이 동반될 수 있으나, 새로 발생하거나 지속되는 불규칙한 두근거림은 연령만으로 폐경 증상으로 단정하지 말고 부정맥 등 심장 원인을 감별
-  * 체중 감소, 미세한 손 떨림(fine tremor), 심부건반사 항진 → 갑상선항진증
-  * 두통·발한·두근거림, 발작성 또는 지속성 고혈압, 창백·불안 → 갈색세포종(pheochromocytoma), 부신경절종(paraganglioma)
+<mark style="color:cyan;">**빈혈**</mark>&#x20;
+
+* 두근거림의 흔한 전신성 원인
+* CBC로 확인하며 빈혈의 중증도와 발생 속도에 따라 증상 가능성이 증가
+
+<mark style="color:cyan;">**전해질 이상**</mark>&#x20;
+
+* 저칼륨혈증, 저마그네슘혈증은 부정맥의 흔한 유발 원인
+* 이뇨제 복용 환자에서 특히 확인 필요
+
+<mark style="color:cyan;">**갑상선중독증(thyrotoxicosis)·갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군**</mark>
+
+* 폐경기증후군 : 혈관운동증상과 두근거림이 동반될 수 있으나, 새로 발생하거나 지속되는 불규칙한 두근거림은 연령만으로 폐경 증상으로 단정하지 말고 부정맥 등 심장 원인을 감별
+* 갑상선항진증 : 체중 감소, 미세한 손 떨림(fine tremor), 심부건반사 항진
+* 갈색세포종(pheochromocytoma), 부신경절종(paraganglioma) : 두통·발한·두근거림, 발작성 또는 지속성 고혈압, 창백·불안
 
 #### <mark style="color:$primary;">수면무호흡증(OSA)</mark>
 
-* 야간 두근거림, 심방세동의 독립적 위험인자; 코골이·주간 과다졸음·비만 동반 시 의심
+* 야간 두근거림, 심방세동의 독립적 위험인자
+* 코골이, 주간 과다졸음, 비만 동반 시 의심
 
 #### <mark style="color:$primary;">약물</mark>
 
@@ -167,9 +195,9 @@ HR ≥150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 
 <table data-search="false"><thead><tr><th width="108">항목</th><th>PSVT</th><th>AF</th><th>불안·과민</th></tr></thead><tbody><tr><td><strong>시작·종료</strong></td><td>갑작스럽게 시작·종료</td><td>비교적 갑작스럽지만 지속적 (발작성 AF는 갑자기 종료 가능)</td><td>대개 서서히 시작하나 급성 불안·공황은 갑자기 시작 가능</td></tr><tr><td><strong>리듬</strong></td><td>매우 규칙적</td><td>완전히 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td><strong>심박수(회/분)</strong></td><td>150~220</td><td>90~170 (variable)</td><td>80~130</td></tr><tr><td><strong>환자 표현</strong></td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td><strong>Neck pounding</strong></td><td>AVNRT 등에서 규칙적이고 현저할 수 있음</td><td>드묾</td><td>드묾 (완전 배제 불가)</td></tr><tr><td><strong>유발 요인</strong></td><td>대개 spontaneous하나 운동·카페인·수면 부족 등이 촉발할 수 있음</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td><strong>ECG</strong></td><td>narrow regular tachycardia</td><td>P파 소실, 불규칙 RR</td><td>정상 동율동 또는 동빈맥</td></tr></tbody></table>
 
-_PSVT=Paroxysmal Supraventricular Tachycardia(주로 AVNRT·orthodromic AVRT), AVNRT=Atrioventricular Nodal Reentrant Tachycardia_
-
-_✽ 위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준은 아님. 고령자·AV node 차단제 복용자에서는 PSVT가 150회/분 미만일 수 있고, AF는 170회/분을 넘을 수 있으며, 공황·탈수·갑상선항진증에서는 130회/분을 넘을 수 있음_
+> _PSVT=Paroxysmal Supraventricular Tachycardia(주로 AVNRT·orthodromic AVRT), AVNRT=Atrioventricular Nodal Reentrant Tachycardia_
+>
+> _위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준은 아님. 고령자·AV node 차단제 복용자에서는 PSVT가 150회/분 미만일 수 있고, AF는 170회/분을 넘을 수 있으며, 공황·탈수·갑상선항진증에서는 130회/분을 넘을 수 있음_
 
 ### <mark style="color:orange;">저위험으로 경과 관찰이 가능한 경우</mark>
 
@@ -178,7 +206,8 @@ _✽ 위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준
   * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아닌 경우
   * 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없는 경우
 * 증상이 반복·지속되어 수면을 방해하거나 양상이 변하면 증상 빈도에 맞춘 장기 심전도 모니터링으로 재평가
-* Couplet은 추가 평가가 필요한 복잡성 소견이나 그것만으로 PVC 유발 심근병증을 시사하지는 않음; 다형성·NSVT·운동 관련 악화·실신·기저 심질환이 동반되면 '당일\~수일 내 평가' 이상으로 판단
+* Couplet은 추가 평가가 필요한 복잡성 소견이나 그것만으로 PVC 유발 심근병증을 시사하지는 않음
+  * 다형성·NSVT·운동 관련 악화·실신·기저 심질환이 동반되면 '당일\~수일 내 평가' 이상으로 판단
 
 ### <mark style="color:orange;">빈번한 PAC/PVC - burden 확인이 필요한 경우</mark>
 
@@ -252,7 +281,6 @@ flowchart TD
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
-
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -427,7 +455,7 @@ flowchart TD
 * [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
 * [Sheldon RS, et al. 2015 Heart Rhythm Society Expert Consensus Statement on POTS, IST, and Vasovagal Syncope. Heart Rhythm. 2015;12(6):e41-e63.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/) - IST·POTS의 정의와 이차 원인 평가
 * [Raj SR, et al. Diagnosis and management of postural orthostatic tachycardia syndrome. CMAJ. 2022;194(10):E378-E385.](https://doi.org/10.1503/cmaj.211373) - POTS 진단 기준과 기립 심박수 측정 조건
-* [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736(15)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
+* [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736\(15\)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
