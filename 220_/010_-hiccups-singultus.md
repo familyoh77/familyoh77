@@ -19,7 +19,7 @@
 
 * 불명. 흔히 명백한 유발 요인 없이 발생
 * 과식, 탄산음료 섭취 등에 따른 위 팽창
-* <mark style="background-color:yellow;">뜨겁거나 차가운 음식·음료, 급하게 먹거나 마시기, 음주</mark>
+* 뜨겁거나 차가운 음식·음료, 급하게 먹거나 마시기, 음주
 * GERD(위식도역류질환) : 지속성 딸꾹질의 흔한 원인 중 하나
 * 48시간 이상 지속되는 딸꾹질 : 기저질환(중추신경계, 종격동, 위장관, 대사 이상 등) 또는 약물 관련 가능성이 있어 평가 필요
 * 수면 중에도 지속되는 딸꾹질 : 기질적 원인 가능성을 높이는 단서이지만, 특정 병변 위치를 단독으로 진단하지는 못함
@@ -43,20 +43,20 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반  `중추신경계 질환`
-* 흉통·호흡곤란·발한 동반  `심혈관 응급 질환`
+* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반 `중추신경계 질환`
+* 흉통·호흡곤란·발한 동반 `심혈관 응급 질환`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * **(당일)** 지속적 구토, 경구 섭취 곤란, 탈수·심한 쇠약 또는 흡인 위험
 * 48시간 이상 지속
-* 수면 중에도 지속되거나 수면을 심하게 방해하는 경우  `기질적 원인`
-* 발열, 복통, 황달 동반  `횡격막하 농양`  `담도계 질환`
-* 체중 감소 또는 연하곤란 동반  `식도암`  `종격동 종양`
+* 수면 중에도 지속되거나 수면을 심하게 방해하는 경우 `기질적 원인`
+* 발열, 복통, 황달 동반 `횡격막하 농양` `담도계 질환`
+* 체중 감소 또는 연하곤란 동반 `식도암` `종격동 종양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 이미 적절한 원인 평가와 치료를 받았고 상위 위험징후가 없는 상태에서 1개월 이상 지속되는 난치성 딸꾹질  `종격동 병변`  `식도 병변`  `중추신경계 병변`
+* 이미 적절한 원인 평가와 치료를 받았고 상위 위험징후가 없는 상태에서 1개월 이상 지속되는 난치성 딸꾹질 `종격동 병변` `식도 병변` `중추신경계 병변`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -167,7 +167,7 @@ flowchart TD
 
 **복부 팽만 회피**
 
-* <mark style="background-color:yellow;">과식을 피하고, 탄산음료 등 위 팽창을 유발하는 음료를 줄이며 천천히 섭취</mark>
+* 과식을 피하고, 탄산음료 등 위 팽창을 유발하는 음료를 줄이며 천천히 섭취
 
 **호흡·자세 조절**
 
@@ -229,12 +229,12 @@ flowchart TD
   * 중증 간장애 : 50% 감량
 * 딸꾹질에서는 단기간 사용하며, 최대 권장 치료기간은 5일
 * 금기
-  * <mark style="background-color:yellow;">병용금기</mark> : domperidone(DUR), levodopa·도파민 작용제
+  * 병용 금기 : domperidone(DUR), levodopa·도파민 작용제
   * 질환 : 위장관 출혈·기계적 폐색·천공, 갈색세포종, 뇌전증, 파킨슨병
   * 병력 : metoclopramide 또는 신경이완제 유발 지연성 운동이상증
 * 주의
   * EPS : 지연성 운동이상증, 급성 dystonia 등; 고령자에서는 EPS·섬망 위험이 더 높음
-  * <mark style="background-color:yellow;">병용 시 위험 증가 : chlorpromazine, haloperidol 등 다른 dopamine antagonist(EPS·NMS)</mark>
+  * 병용 시 위험 증가 : chlorpromazine, haloperidol 등 다른 dopamine antagonist(EPS·NMS)
 
 **Domperidone**
 
@@ -242,8 +242,8 @@ flowchart TD
 * 필요한 경우 10 ㎎ tid 이하, 최대 30 ㎎/일 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">돔피돈</mark>](https://health.kr/drug/A11A0570A0382)<mark style="color:blue;">]</mark>
 * 가능한 한 짧게 사용하며, 일반적으로 1주일을 초과하지 않음
 * 금기
-  * <mark style="background-color:yellow;">병용금기 :</mark> QT 연장 약물(예: chlorpromazine), 강력한 CYP3A4 억제제(예: clarithromycin, ketoconazole·itraconazole, ritonavir), metoclopramide
-  * <mark style="background-color:yellow;">심장 질환 :</mark> 기존 QT 연장, 중대한 전해질 이상, 울혈성 심부전, 서맥
+  * 병용 금기 : QT 연장 약물(예: chlorpromazine), 강력한 CYP3A4 억제제(예: clarithromycin, ketoconazole·itraconazole, ritonavir), metoclopramide
+  * 심장 질환 : 기존 QT 연장, 중대한 전해질 이상, 울혈성 심부전, 서맥
   * 기타 : 위장관 출혈·기계적 폐색·천공, 프로락틴분비종양, 중등도\~중증 간장애
 * 신중 투여
   * QTc 연장·심실성 부정맥 위험 : 고령자, 기타 심장질환
@@ -333,7 +333,7 @@ flowchart TD
 >
 > 약제 정보: [맥페란정·메토클로프라미드 3.84 ㎎](https://health.kr/drug/A11A0570A0089)
 >
-> _✽ 5일 이내 단기간 사용. domperidone과는 병용금기이며, <mark style="background-color:yellow;">다른 dopamine antagonist와 병용 시 EPS·NMS 위험 증가</mark>_
+> ✽ 5일 이내 단기간 사용. domperidone과는 병용금기이며, 다른 dopamine antagonist와 병용 시 EPS·NMS 위험 증가
 
 > **처방례 4.** _(후순위 - persistent/intractable hiccup에서 선호 약제가 불충분하거나 사용하기 어려운 경우)_
 >
@@ -343,7 +343,7 @@ flowchart TD
 >
 > 약제 정보: [명인클로르프로마진염산염정·50 ㎎](https://www.health.kr/drug/A11A0920A0028)
 >
-> _✽ 50 ㎎ 당의정의 반정 조제는 분할 적합성을 약사와 확인. 저혈압·진정·추체외로 증상에 주의. domperidone·haloperidol과는 병용금기이며, <mark style="background-color:yellow;">metoclopramide와 병용 시 EPS·NMS 위험 증가</mark>_
+> ✽ 50 ㎎ 당의정의 반정 조제는 분할 적합성을 약사와 확인. 저혈압·진정·추체외로 증상에 주의. domperidone·haloperidol과는 병용금기이며, metoclopramide와 병용 시 EPS·NMS 위험 증가
 
 ***
 
@@ -410,7 +410,7 @@ flowchart TD
 #### <mark style="color:$primary;">딸꾹질이란 무엇인가요?</mark>
 
 * 횡격막(가슴과 배 사이 근육)이 갑자기 수축하면서 성대가 닫혀 "딸꾹" 소리가 나는 현상입니다
-* 급하게 먹거나 마시기, 탄산음료, 과식, <mark style="background-color:yellow;">뜨겁거나 차가운 음식·음료, 음주</mark> 등이 흔한 원인입니다
+* 급하게 먹거나 마시기, 탄산음료, 과식, 뜨겁거나 차가운 음식·음료, 음주 등이 흔한 원인입니다
 * 대부분 48시간 이내 자연히 멈추며, 48시간 이상 지속되면 기저질환 평가가 필요합니다
 
 #### <mark style="color:$primary;">딸꾹질 멈추는 방법</mark>
