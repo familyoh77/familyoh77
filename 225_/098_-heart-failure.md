@@ -75,7 +75,7 @@ _✽심부전 증상 : 호흡 곤란(dyspnea), 피로(fatigue), 운동 내성 �
 * 유전성 심근병증 환자의 1촌 가족 → 심장초음파·ECG 및 필요 시 유전상담·검사  [가족 선별]
 * 적절한 치료 후에도 낮은 LVEF·증상 지속 → ICD/CRT 적응증 평가  [기기 치료]
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:green;">진단</mark><a href="#Dx" id="Dx"></a>
 
 ### <mark style="color:orange;">환자 초기 평가</mark>
 
