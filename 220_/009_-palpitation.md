@@ -40,7 +40,7 @@
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 새로 발생하거나, 빈도 또는지속시간이 증가하는 반복성 두근거림 `발작성 부정맥`
+* 새로 발생하거나, 빈도 또는 지속시간이 증가하는 반복성 두근거림 `발작성 부정맥`
 * PVC burden ≥10%의 빈번한 PVC `PVC 유발 심근병증`
 
 ## <mark style="color:green;">원인</mark>
@@ -149,24 +149,6 @@
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">두근거림 표현형 분류</mark>
-
-<table><thead><tr><th width="290">표현형</th><th>시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td><strong>빠르고 규칙적, 갑자기 시작·종료</strong></td><td>PSVT, VT도 감별</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>완전 불규칙</strong></td><td>AF, 가변 전도 AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td><strong>건너뜀·쿵 느낌 (flip-flop)</strong></td><td>PAC/PVC</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>서서히 시작, 점진적 빈맥</strong></td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td><strong>기립 시 심해짐 + 피로·brain fog</strong></td><td>POTS</td><td>기립 전후 HR·BP 측정</td></tr><tr><td><strong>정상 범위의 맥박인데 두근거림 느낌</strong></td><td>불안·과민, PAC/PVC 등</td><td>증상-리듬 상관관계 확인</td></tr></tbody></table>
-
-* "두근거림이 갑자기 시작해서 갑자기 끝나나요?" → 예 → PSVT 가능성
-* "맥이 규칙적인가요, 불규칙한가요?" → 불규칙 → AF 가능성
-* "어지럼이나 실신이 동반되나요?" → 예 → 고위험 부정맥 배제 필요
-
-{% hint style="info" %}
-**증상-맥박 불일치 확인 (Pulse-Symptom Correlation)**
-
-두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림.
-
-* 증상 중 평균 심박수가 정상 범위여도 PAC/PVC 또는 짧은 간헐성 부정맥을 배제할 수 없음 → 반복 증상이 있으면 증상 시 ECG 또는 ambulatory ECG로 symptom-rhythm correlation 확인
-* 증상 중 맥박수가 뚜렷하게 빠르거나 불규칙하고 원인이 불명확 → 간헐적 부정맥 감별 → 증상 빈도에 맞춘 장기 심전도 모니터링 적극 고려
-* 평소와 같은 증상이 나타난 동안 기록한 심전도에서 부정맥이 확인되지 않고 구조적 심장 질환도 뚜렷하지 않다면 불안·cardiac hypervigilance 등 비심장성 원인의 비중을 높여 고려; 다만 심장성 평가를 완전히 종결한 뒤에만 비심장성 원인을 논의할 수 있는 것은 아니며, 두 갈래 평가는 병행하는 것이 원칙
-{% endhint %}
-
 ### <mark style="color:orange;">초기 평가</mark>
 
 * 병력 청취 : 발생 양상(규칙/불규칙), 지속 시간, 유발·완화 요인(운동·식사·음주·스트레스), 동반 증상(흉통·실신·호흡 곤란)
@@ -184,6 +166,16 @@
 
 ### <mark style="color:orange;">장기 심전도 모니터링</mark>
 
+{% hint style="info" %}
+**증상-맥박 불일치 확인 (Pulse-Symptom Correlation)**
+
+두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 심박수와 리듬을 확인하는 것이 핵심임. 환자에게 증상 발생 시 요골동맥을 짚어 맥박수와 규칙성을 확인하거나, 스마트워치·휴대형 ECG 등으로 기록하도록 교육할 수 있음. 다만 wearable의 알림·자동 판정은 참고 자료이며, 진단은 임상의가 기록된 ECG 파형을 직접 확인하여 내림.
+
+* 증상 중 평균 심박수가 정상 범위여도 PAC/PVC 또는 짧은 간헐성 부정맥을 배제할 수 없음 → 반복 증상이 있으면 증상 시 ECG 또는 ambulatory ECG로 symptom-rhythm correlation 확인
+* 증상 중 맥박수가 뚜렷하게 빠르거나 불규칙하고 원인이 불명확 → 간헐적 부정맥 감별 → 증상 빈도에 맞춘 장기 심전도 모니터링 적극 고려
+* 평소와 같은 증상이 나타난 동안 기록한 심전도에서 부정맥이 확인되지 않고 구조적 심장 질환도 뚜렷하지 않다면 불안·cardiac hypervigilance 등 비심장성 원인의 비중을 높여 고려; 다만 심장성 평가를 완전히 종결한 뒤에만 비심장성 원인을 논의할 수 있는 것은 아니며, 두 갈래 평가는 병행하는 것이 원칙
+{% endhint %}
+
 * 증상 빈도에 따라 권장 검사
 
 <table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
@@ -192,6 +184,14 @@
   * 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 위양성(false positive) 주의
   * 기록된 ECG는 임상의가 파형의 질과 리듬을 직접 확인하면 진단에 활용할 수 있으며, 판독이 불확실하면 12-lead ECG 또는 추가 모니터링 시행
 * 증상 기록지(Symptom Diary) : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
+
+### <mark style="color:orange;">두근거림 표현형 분류</mark>
+
+<table><thead><tr><th width="290">표현형</th><th>시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td><strong>빠르고 규칙적, 갑자기 시작·종료</strong></td><td>PSVT, VT도 감별</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>완전 불규칙</strong></td><td>AF, 가변 전도 AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td><strong>건너뜀·쿵 느낌 (flip-flop)</strong></td><td>PAC/PVC</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>서서히 시작, 점진적 빈맥</strong></td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td><strong>기립 시 심해짐 + 피로·brain fog</strong></td><td>POTS</td><td>기립 전후 HR·BP 측정</td></tr><tr><td><strong>정상 범위의 맥박인데 두근거림 느낌</strong></td><td>불안·과민, PAC/PVC 등</td><td>증상-리듬 상관관계 확인</td></tr></tbody></table>
+
+* "두근거림이 갑자기 시작해서 갑자기 끝나나요?" → 예 → PSVT 가능성
+* "맥이 규칙적인가요, 불규칙한가요?" → 불규칙 → AF 가능성
+* "어지럼이나 실신이 동반되나요?" → 예 → 고위험 부정맥 배제 필요
 
 ### <mark style="color:orange;">PSVT vs AF vs 불안·과민 감별</mark>
 
