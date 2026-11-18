@@ -304,7 +304,7 @@ flowchart TD
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** _(선호 약제 - 신기능 정상, CNS 부작용 위험 낮은 경우)_
+> **처방례 1. 선호 약제 - 신기능 정상, CNS 부작용 위험 낮은 경우**
 >
 > ```
 > 프렉스정5㎎ 1T tid → 3~5일 후 반응과 내약성을 보며 10 ㎎ tid까지 증량 가능
@@ -314,7 +314,7 @@ flowchart TD
 >
 > _✽ baclofen 단독 투여. 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작하며, eGFR ＜30 ㎖/min/1.73㎡ 또는 투석 환자에서는 사용을 피함_
 
-> **처방례 2.** _(선호 대안 - 신경인성 원인 의심 또는 baclofen 부작용 우려 시)_
+> **처방례 2. 선호 대안 - 신경인성 원인 의심 또는 baclofen 부작용 우려 시**
 >
 > ```
 > 뉴론틴캡슐300㎎ 1C hs → 반응과 내약성을 보며 점진적으로 증량
@@ -324,7 +324,7 @@ flowchart TD
 >
 > _✽ gabapentin 단독 투여. 신기능에 따라 감량 및 투여 간격 조정_
 
-> **처방례 3.** _(위장관 유발 요인 - 위배출 지연·구역 등이 동반된 경우)_
+> **처방례 3. 위장관 유발 요인 - 위배출 지연·구역 등이 동반된 경우**
 >
 > ```
 > 맥페란정 1T tid 식전 → 필요시 2T tid까지 조정
@@ -333,9 +333,9 @@ flowchart TD
 >
 > 약제 정보: [맥페란정·메토클로프라미드 3.84 ㎎](https://health.kr/drug/A11A0570A0089)
 >
-> ✽ 5일 이내 단기간 사용. domperidone과는 병용금기이며, 다른 dopamine antagonist와 병용 시 EPS·NMS 위험 증가
+> _✽ 5일 이내 단기간 사용. domperidone과는 병용금기이며, 다른 dopamine antagonist와 병용 시 EPS·NMS 위험 증가_
 
-> **처방례 4.** _(후순위 - persistent/intractable hiccup에서 선호 약제가 불충분하거나 사용하기 어려운 경우)_
+> **처방례 4. 후순위 - persistent/intractable hiccup에서 선호 약제가 불충분하거나 사용하기 어려운 경우**
 >
 > ```
 > 명인클로르프로마진염산염정50㎎ ½T tid → 반응과 내약성에 따라 조정
@@ -343,7 +343,7 @@ flowchart TD
 >
 > 약제 정보: [명인클로르프로마진염산염정·50 ㎎](https://www.health.kr/drug/A11A0920A0028)
 >
-> ✽ 50 ㎎ 당의정의 반정 조제는 분할 적합성을 약사와 확인. 저혈압·진정·추체외로 증상에 주의. domperidone·haloperidol과는 병용금기이며, metoclopramide와 병용 시 EPS·NMS 위험 증가
+> _✽ 50 ㎎ 당의정의 반정 조제는 분할 적합성을 약사와 확인. 저혈압·진정·추체외로 증상에 주의. domperidone·haloperidol과는 병용금기이며, metoclopramide와 병용 시 EPS·NMS 위험 증가_
 
 ***
 
