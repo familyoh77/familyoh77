@@ -2,13 +2,19 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 부종 : capillary hemodynamics 변화(모세혈관 정수압↑, 혈장 교질삼투압↓, 투과성↑), 림프 배액 장애 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
-* 전신 부종은 심장(정맥 울혈)·간(문맥압항진, 유효동맥혈량 감소 및 Na 정체)·신장(Na 정체)·저알부민 상태 등을 우선 감별
-* 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 감별
-* 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)이 원인 감별의 핵심
-* 새로 발생한 원인 불명의 편측 하지 부종에서는 통증·압통 여부와 관계없이 DVT 가능성을 평가하며, Wells score를 이용해 D-dimer 및 압박 초음파 시행 여부를 결정
-  * 활성 암은 중요한 DVT 위험인자이며 Wells score에서 +1점으로 반영. 암 환자에서 임상적 의심이 높거나 D-dimer 해석이 어려운 경우에는 영상검사를 고려
-* 이뇨제는 안정된 말초 부종만으로는 서둘러 투여하지 않으며, 만성 정맥부전·림프부종·lipedema 등 전신 volume overload가 없는 경우에는 권장되지 않음
+* 부종 : 간질(interstitium)에 체액이 과잉 축적된 상태로 다음의 기전들이 관여함
+  * capillary hemodynamics 변화 : 모세혈관 정수압↑, 혈장 교질삼투압↓
+  * 모세혈관 투과성↑
+  * 림프 배액 장애
+  * 신장의 Na·수분 정체 증가
+* 감별 대상
+  * 전신 부종 : 심장(정맥 울혈), 간(문맥압항진, 유효동맥혈량 감소 및 Na 정체), 신장(Na 정체), 저알부민혈증
+  * 국소 부종 : DVT, 정맥 부전, 림프부종, 봉와직염
+* 원인 감별 포인트 : 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)
+* 새로 발생한 원인 불명의 편측 하지 부종에서는 통증·압통 여부와 관계없이 DVT 가능성을 평가하며, Wells score를 근거로 D-dimer 및 압박 초음파 시행 여부를 결정
+  * 활성 암은 중요한 DVT 위험인자이며 Wells score에서 +1점으로 반영
+  * 암 환자에서 임상적 의심이 높거나 D-dimer 해석이 어려운 경우에는 영상검사를 고려
+* 이뇨제는 안정된 말초 부종만으로는 서둘러 투여하지 않으며, 전신 volume overload가 없는 만성 정맥부전·림프부종·lipedema 등에서는 권장되지 않음
 
 ## <mark style="color:green;">원인</mark>
 
@@ -85,29 +91,29 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래  `폐부종`
-* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우  `PE`
-* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란  `기도 침범 혈관부종`
-* 간경화·문맥압항진이 의심되는 환자의 토혈·흑변 또는 활동성 위장관 출혈, 특히 저혈압·빈맥·실신/의식 변화 동반  `정맥류 출혈`
-* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상  `phlegmasia cerulea dolens`  `사지 허혈`
-* 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견  `괴사성 연조직감염`
+* 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래 `폐부종`
+* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우 `PE`
+* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란 `기도 침범 혈관부종`
+* 간경화·문맥압항진이 의심되는 환자의 토혈·흑변 또는 활동성 위장관 출혈, 특히 저혈압·빈맥·실신/의식 변화 동반 `정맥류 출혈`
+* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상 `phlegmasia cerulea dolens` `사지 허혈`
+* 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견 `괴사성 연조직감염`
 * 임신 20주 이후 또는 산후 6주 이내 수축기 BP ≥160 ㎜Hg 또는 이완기 BP ≥110 ㎜Hg, 경련, 의식 변화, 호흡 곤란·폐부종 또는 지속되는 심한 두통·시야 이상·심한 우상복부/심와부 통증 등 중증 자간전증/자간증 의심 소견
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 새로 발생한 원인 불명의 편측 하지 부종, 특히 전체 하지 부종·종아리 둘레 차이·통증·압통·열감 또는 DVT 위험인자 동반  `DVT`
-* 황달 또는 새로 발생하거나 급격히 증가한 복수  `비대상성 간질환`
-* 심장 질환 병력이 있는 환자에서 급격히 악화되는 부종 또는 빠른 체중 증가  `비대상성 심부전`
-* 임신 20주 이후 또는 산후 6주 이내 새 고혈압 또는 갑작스러운 얼굴·손 부종이 있으나 위의 중증 의심 소견은 없음  `자간전증`
-* 급격한 소변량 감소와 빠른 체중 증가, 전신 부종 또는 신기능 악화 의심 소견  `AKI`  `급성 사구체신염`
-* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종  `봉와직염`  `감염성 원인`
+* 새로 발생한 원인 불명의 편측 하지 부종, 특히 전체 하지 부종·종아리 둘레 차이·통증·압통·열감 또는 DVT 위험인자 동반 `DVT`
+* 황달 또는 새로 발생하거나 급격히 증가한 복수 `비대상성 간질환`
+* 심장 질환 병력이 있는 환자에서 급격히 악화되는 부종 또는 빠른 체중 증가 `비대상성 심부전`
+* 임신 20주 이후 또는 산후 6주 이내 새 고혈압 또는 갑작스러운 얼굴·손 부종이 있으나 위의 중증 의심 소견은 없음 `자간전증`
+* 급격한 소변량 감소와 빠른 체중 증가, 전신 부종 또는 신기능 악화 의심 소견 `AKI` `급성 사구체신염`
+* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종 `봉와직염` `감염성 원인`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 심잡음, 부정맥 등 심장 이상 소견을 동반한 부종  `판막질환`  `심부전`
+* 심잡음, 부정맥 등 심장 이상 소견을 동반한 부종 `판막질환` `심부전`
 * 만성으로 원인이 확인된 정맥부전·림프부종·근골격계 질환 등에서 새 위험 징후 없이 지속되는 통증성 부종
-* 보행 또는 일상 활동에 지장을 줄 정도로 진행하는 부종  `림프부종`  `만성 정맥부전`
-* 급격한 소변량 감소 없이 반복되는 거품뇨 또는 신장질환 의심 소견  `신증후군`  `CKD`
+* 보행 또는 일상 활동에 지장을 줄 정도로 진행하는 부종 `림프부종` `만성 정맥부전`
+* 급격한 소변량 감소 없이 반복되는 거품뇨 또는 신장질환 의심 소견 `신증후군` `CKD`
 * 원인 교정 및 압박·거상 등 표준 치료에 4\~6주간 반응이 없는 만성 부종
 
 ## <mark style="color:green;">진단</mark>
@@ -193,105 +199,31 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 ***
 
 ```mermaid
-flowchart TD
-    SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells score 평가"]
-    B -- "DVT unlikely ≤1" --> C["<u>고감도 D-dimer</u><br/>• 결과 가능하면 4시간 이내"]
-    C -- "음성" --> E["<u>임시 항응고 중단</u><br/>• DVT 가능성 낮음·다른 원인 평가"]
-    C -- "양성" --> D1["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
-    C -- "D-dimer 결과 4시간 내 불가" --> I1["<u>임시 치료용량 항응고</u><br/>• 금기 평가 후 시행<br/>• D-dimer 결과 확보 후 경로 적용"]
-    I1 --> C
-    B -- "DVT likely ≥2" --> D2["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
-    D1 -- "음성" --> E
-    D1 -- "CUS 결과 4시간 내 불가" --> I3["금기 평가 후 임시 치료용량 항응고"]
-    I3 --> D4["<u>Proximal CUS</u><br/>• 24시간 이내"]
-    D4 -- "양성" --> G0
-    D4 -- "음성" --> E
-    D1 -- "양성" --> G0["<u>DVT 진단</u><br/>• 항응고 치료"]
-    D2 -- "양성" --> G["<u>DVT 진단</u><br/>• 항응고 치료"]
-    D2 -- "CUS 결과 4시간 내 불가" --> I2["<u>임시 치료용량 항응고</u><br/>• D-dimer 채혈 + 금기 평가 후 시행"]
-    I2 --> D3["<u>Proximal CUS</u><br/>• 24시간 이내"]
-    D3 -- "양성" --> G
-    D3 -- "음성" --> DD["D-dimer"]
-    D2 -- "음성" --> DD
-    DD -- "양성" --> R["<u>6~8일 후 proximal CUS 반복</u><br/>• 임시 항응고 중이었다면 중단"]
-    R -- "양성" --> G
-    R -- "음성" --> E0
-    E -- "gross swelling 또는 iliac/pelvic obstruction 의심" --> H["CT/MR venography 고려"]
-    DD -- "음성" --> E0["<u>임시 항응고 중단</u><br/>• DVT 가능성 낮음·다른 원인 평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class SG1 start
-    class B,C,D1,D2,D3,D4,DD,R question
-    class E,H,E0 evaluation
-    class I1,I2,I3,G0,G treatment
 ```
 
-<p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong></p>
+> _CUS=compression ultrasonography, DVT=deep venous thrombosis_
+>
+> _새 호흡곤란·흉통·실신 또는 사지 허혈이 있으면 이 경로에 앞서 응급 평가. 이 알고리듬의 항응고 중단은 DVT 검사 대기 중 시작한 임시 치료에 한하며, 기존의 다른 적응증에 따른 항응고는 임의 중단하지 않음._
+>
+> _임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용_
 
-_※ 새 호흡곤란·흉통·실신 또는 사지 허혈이 있으면 이 경로에 앞서 응급 평가. 이 알고리듬의 항응고 중단은 DVT 검사 대기 중 시작한 임시 치료에 한하며, 기존의 다른 적응증에 따른 항응고는 임의 중단하지 않음._
-
-_※ 임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용_
-
-<p align="center"><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em><br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
+<p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em><br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
 
 ***
 
 ```mermaid
-flowchart TD
-    SG2["지속성·만성 편측 하지 부종"] --> B2["<u>병력·진찰</u><br/>• 피부 변화·발등 침범·Stemmer sign"]
-    B2 --> C2["우선 의심 원인"]
-    C2 -- "만성 정맥부전" --> D2["<u>Venous duplex US</u><br/>• reflux·obstruction 평가"]
-    C2 -- "림프부종" --> E2["<u>대부분 임상진단</u><br/>• CDT·압박치료 평가"]
-    C2 -- "근위부 폐쇄·종괴 의심" --> F2["복부·골반 CT/MR venography"]
-    C2 -- "그 밖의 원인" --> G2["종양·외상·감염·CRPS·Baker cyst 등 평가"]
-    E2 -- "진단 불확실 또는 수술 계획" --> H2["Lymphoscintigraphy 또는<br/>전문 림프영상 고려"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class SG2 start
-    class C2 question
-    class B2,D2,F2,G2,H2 evaluation
-    class E2 treatment
 ```
 
-<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong></p>
+> _CDT=complete decongestive therapy_
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">CDT=complete decongestive therapy</mark></em></p>
+<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em><br></p>
 
 ***
 
 ```mermaid
-flowchart TD
-    SG3["양측 하지 부종 또는<br/>전신 부종"]
-    SG3 --> A3["<u>발생 속도·체중 변화·약물</u><br/>• 심폐·간·신장 증상 평가"]
-    A3 --> B3["<u>기본검사</u><br/>• Cr/eGFR·전해질·LFT/albumin·TSH<br/>• UA+단백뇨·BNP/NT-proBNP"]
-    B3 --> C3["주요 임상 양상"]
-    C3 -- "호흡곤란·orthopnea JVP 상승" --> D3a["<u>심부전·폐부종 평가</u><br/>• ECG·CXR·심초음파"]
-    C3 -- "거품뇨·안면 부종 단백뇨" --> D3b["신장질환·신증후군 평가"]
-    C3 -- "복수·황달 만성 간질환" --> D3c["<u>간질환 평가</u><br/>• 신규 복수는 진단적 복수천자"]
-    C3 -- "전신 울혈 없음" --> D3d["약물·정맥부전·림프부종·lipedema·의존성 부종 평가"]
-    D3d -- "비만·코골이·주간졸림 폐고혈압/우심부전 의심" --> E3["OSA 및 심폐 평가 고려"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    class SG3 start
-    class C3 question
-    class A3,B3,D3a,D3b,D3c,D3d,E3 evaluation
 ```
 
-<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em></p>
+<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em></p>
 
 ***
 
@@ -340,40 +272,9 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    ST["부종 환자"] --> A["이뇨제가 필요한가?"]
-    A -- "폐부종 또는 전신 울혈이 확인된 volume overload" --> B["이뇨제 사용"]
-    A -- "정맥부전·림프부종 lipedema" --> Z["<u>비약물 치료</u><br/>• 원인에 따른 압박·거상·운동"]
-    B --> C["원인 분류"]
-    C --> HF["심부전 HF"]
-    C --> CI["간경화 + 복수"]
-    C --> NS["신증후군"]
-    HF --> HF1["<u>Loop diuretic</u><br/>• furosemide 20~40 ㎎ PO에서 개별화<br/>• 목표: 울혈 해소·euvolemia"]
-    HF1 -- "반응 불충분" --> HF2["<u>원인·복약·Na 섭취·신기능 재평가</u><br/>• loop 용량 조절 또는 면밀한 모니터링하에 thiazide계 병용"]
-    HF1 -- "SGLT2i 시작/병용" --> HF3["<u>용적 상태 재평가</u><br/>• euvolemia·저혈압·용적고갈 위험 시 loop 감량 고려"]
-    CI --> CI1["<u>간경화 + 복수</u><br/>• 첫 grade 2 복수: spironolactone 단독 가능<br/>• 재발성/신속한 이뇨 필요: spironolactone 100 + furosemide 40 ㎎"]
-    CI1 -- "긴장성 복수" --> CI2["<u>Large-volume paracentesis</u><br/>• 적응증에 따른 albumin"]
-    CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
-    NS --> NS1["<u>Loop diuretic 용량 개별화</u><br/>• 저알부민혈증·흡수 저하·신기능에 따라 고용량이 필요할 수 있음"]
-    NS1 -- "반응 불충분" --> NS2["IV loop 전환 또는 Sequential blockade"]
-    NS2 -- "선별된 중증 저알부민혈증 전문의 판단; routine use 아님" --> NS3["Albumin + loop 고려"]
-    NS1 -- "intravascular depletion 주의" --> NS_w["<u>겉 부종 vs 속 hypovolemia</u><br/>• AKI 위험 모니터링"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    classDef followup fill:#e8eaf6,stroke:#7986cb
-    class ST start
-    class A,C question
-    class HF2,HF3,NS_w evaluation
-    class B,Z,HF1,CI1,CI2,CI3,NS1,NS2,NS3 treatment
-    class HF,CI,NS followup
 ```
 
-<p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (AASLD·EASL 복수 관리 지침 및 심부전 이뇨제 관리 원칙 참조)</mark></em></p>
+<p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (AASLD·EASL 복수 관리 지침 및 심부전 이뇨제 관리 원칙 참조)</mark></em></p>
 
 ***
 
@@ -551,7 +452,6 @@ flowchart TD
 
 * [ACOG. Preeclampsia and High Blood Pressure During Pregnancy.](https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy) - 임신·산후의 중증 두통·시야 이상·상복부 통증과 긴급 평가
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-
 
 ***
 
