@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 발열 : 일상적 변화 이상의 체온 상승
-* 발열의 위해 : 열이 O<sub>2</sub> 소모량·CO<sub>2</sub> 발생량·심박출량을 증가시킴
+* 발열의 위해 : <mark style="background-color:$danger;">O<sub>2</sub> 소모량과 CO<sub>2</sub> 생성량을 늘리고 심혈관계 부담을 높일 수 있음</mark> <mark style="color:$info;background-color:$danger;">\[Am J Respir Crit Care Med 1995]</mark>
   * 현저하게 높은 체온은 빈혈, 심/폐질환, 대사 질환(예: 당뇨병) 등 만성 질환의 상태를 악화시킬 수 있음
 * 체온은 측정 부위, 연령, 시간대, 측정기기 및 개인에 따라 달라짐
   * 일중 변동 : 하루 중 약 0.5℃ 내외로 변동; 대개 새벽에 가장 낮고 늦은 오후\~초저녁에 가장 높음
@@ -22,7 +22,7 @@
 * 소아의 체온 측정법은 연령과 적용 지침에 따라 다름
   * 생후 ＜4주 : 겨드랑이 전자체온계 사용 권고
   * 4주\~5세 : 겨드랑이 또는 적절한 고막체온계를 고려
-  * ≤5세에서는 구강·직장 체온 측정을 routine으로 권하지 않음
+  * <mark style="background-color:$danger;">NICE는 0\~5세 소아에서 구강·직장 체온 측정을 일상적으로 권하지 않음</mark> <mark style="color:$info;background-color:$danger;">\[NICE NG143]</mark>
   * 체온 기록 시 측정 부위와 기기를 함께 기록
   * 생후 ≤90일 영아의 위험 분류 경로는 주로 직장 체온 ≥38.0℃를 기준으로 함 (☞ 생후 90일 이하 영아의 발열)
 * 다음과 같은 특수 상황에는 일반 외래의 부위별 기준과 구분되는 별도의 조작적 정의를 적용
@@ -43,8 +43,8 @@
 * 이장열(remittent fever) : 일중 변동 폭이 비교적 크지만 정상 체온까지 내려가지는 않는 발열
 * 소모열(hectic 또는 septic fever) : 하루 중 최고 체온과 최저 체온의 차이가 매우 큰 발열
 * 간헐열(intermittent fever) : 하루 중 체온이 정상 범위로 돌아오는 때가 있는 발열
-* 재귀열(relapsing fever) : 수일간의 무열기를 사이에 두고 발열이 반복되는 양상 (예: 삼일열말라리아)
-* 이중 매일열(double quotidian fever) : 하루에 체온이 두 차례 뚜렷하게 치솟는 발열 (예: 성인형 스틸병)
+* 재귀열(relapsing fever) : <mark style="background-color:$danger;">한 질환의 경과에서 무열기를 사이에 두고 발열이 다시 나타나는 양상 (예: 삼일열말라리아의 재발)</mark>
+* 이중 매일열(double quotidian fever) : <mark style="background-color:$danger;">하루에 체온이 두 차례 뚜렷하게 치솟는 양상으로, 성인형 스틸병에서 볼 수 있음</mark>
 * 이상성 발열(biphasic fever) : 한 질환의 경과 중 열이 일시적으로 가라앉았다가 다시 오르는 양상  (예: 황열, 뎅기열, 렙토스피라증, 일부 엔테로바이러스 감염)
 * 주기열(periodic fever) : 발열이 비교적 일정한 간격으로 반복되는 양상 (예: [PFAPA syndrome](../222_/054_-stomatitis.md#pfapa))
 
@@ -58,9 +58,9 @@
 * 감염 환자에서 해열제를 일률적으로 투여해 예후가 개선된다는 근거는 확립되지 않음 <mark style="color:$info;">\[BMJ 2022, SSC 2026]</mark>
   * 해열제의 주목적은 통증·보챔 등 불편감 완화임. 체온 수치를 낮추기 위한 일률적 투여는 피함 <mark style="color:$info;">\[NICE NG143]</mark>
   * 해열제 투여 후 체온이 내려가거나 전신 상태가 일시적으로 좋아져도 그 반응만으로 중증 세균 감염을 배제하지 않음 <mark style="color:$info;">\[NICE NG143]</mark>
-* 열성경련 : 전신성으로 나타나고, 15분 미만에 끝나며, 24시간 이내에 반복되지 않는 단순 열성경련 자체가 뇌의 구조적 손상이나 장기적인 인지·발달 장애를 일으킨다는 근거는 없음
+* 열성경련 : <mark style="background-color:$danger;">중추신경계 감염·대사 이상 또는 무열성 발작 병력이 없는 생후 6\~60개월 소아에서 발열과 함께 전신성 발작이 15분 미만에 끝나고 24시간 이내 반복되지 않으면 단순 열성경련에 해당함. 단순 열성경련 자체가 뇌의 구조적 손상이나 장기적인 인지·발달 장애를 일으킨다는 근거는 없음</mark> <mark style="color:$info;background-color:$danger;">\[Pediatrics 2008, N Engl J Med 1998]</mark>
   * 경련이 5분 이상 지속되면 경련중첩증에 준해 응급 치료를 시작 <mark style="color:$info;">\[ILAE 2015]</mark>
-  * 장시간 지속되는 열성경련지속상태는 별도로 평가함
+  * <mark style="background-color:$danger;">장시간 지속되는 열성경련지속상태는 별도로 평가함. 30분 이상 지속된 열성경련지속상태를 추적한 연구에서는 일부 소아에서 해마 손상과 해마경화가 관찰됨</mark> <mark style="color:$info;background-color:$danger;">\[Epilepsia 2024]</mark>
 
 ## <mark style="color:green;">원인</mark>
 
@@ -81,7 +81,7 @@
 * 약물 중단 후 대개 48\~72시간 내 소실되지만 약물·기전에 따라 더 오래 지속될 수 있음
 * 발열에도 불구하고 환자 컨디션이 비교적 양호한 경우가 있지만, 항상 나타나는 특징은 아님
 * 발열 정도에 비해 심박수 증가가 적은 '상대적 서맥'(Faget sign)이 관찰되기도 함
-  * 다만상대적 서맥의 판정 기준은 일정하지 않고 진단적 민감도·특이도가 확립되지 않았음
+  * <mark style="background-color:$danger;">다만 상대적 서맥의 판정 기준은 일정하지 않고</mark> 진단적 민감도·특이도가 확립되지 않았음
   * 장티푸스·브루셀라·레지오넬라 등 일부 감염병에서도 나타나므로 보조적 단서로만 해석
 * 백혈구는 정상·증가·감소 모두 가능하며 호산구 증가증이 동반될 수 있으나 빈도와 정의가 연구마다 다양함
 * 발진, 점막 병변, 안면부종, 림프절병증, 간·신장 손상 또는 현저한 호산구 증가가 동반되면 단순 약물열로 간주하지 말고 DRESS, SJS/TEN 등 중증 약물이상반응을 우선 감별
@@ -95,15 +95,16 @@
 
 <mark style="color:cyan;">**약물성 고체온증**</mark>
 
-* 항콜린제·교감신경흥분제에 의한 고체온증 및 serotonin syndrome, neuroleptic malignant syndrome, 악성 고열증(malignant hyperthermia; 흡입마취제·succinylcholine) 등에서는 시상하부 set-point 상승 없이 체온이 오름
+* 항콜린제·교감신경흥분제에 의한 고체온증 및 serotonin syndrome, neuroleptic malignant syndrome, 악성 고열증(malignant hyperthermia; <mark style="background-color:$danger;">휘발성 흡입마취제·succinylcholine</mark>) 등에서는 시상하부 set-point 상승 없이 체온이 오름
 * 약물열과 다른 기전이며, 해열제의 효과를 기대할 수 없음
 * 응급 평가, 원인 약물 중단 및 증후군별 치료(냉각 포함)를 시행
+  * <mark style="background-color:$danger;">마취 관련 악성 고열증이 의심되면 유발 약제를 즉시 중단하고 dantrolene을 신속히 투여</mark> <mark style="color:$info;background-color:$danger;">\[MHAUS]</mark>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 전신 상태가 양호해 보일지라도 생후 ≤28일 영아에서 ≥38.0℃ 또는 ＜36.0℃ `침습성 세균 감염`
+* <mark style="background-color:$danger;">전신 상태가 양호해 보일지라도 생후 ≤28일 영아의 체온이 ≥38.0℃ 또는 ＜36.0℃</mark> `침습성 세균 감염`
 * 의식 변화 `패혈증` `수막염·뇌염`
 * 저혈압·빈맥 등 쇼크 소견(구토·설사 등 원인 불문) `패혈성 쇼크` `저혈량성 쇼크`
 * 심한 호흡 곤란 또는 빈호흡 `중증 폐렴` `패혈증`
@@ -114,21 +115,23 @@
 * 빠르게 진행·확산하는 비창백성 점상출혈·자반, 전신 상태와 무관한 2 ㎜를 넘는 비창백성 출혈성 자반, 또는 비창백성 발진에 전신 상태 불량 동반 `수막구균혈증`
 * 항암 치료 중 ANC ＜500/㎣이거나 48시간 내 ＜500/㎣로 감소가 예상되는 환자의 발열(전신 상태가 양호해 보여도 해당) `호중구감소성 발열`
 * 열과 함께 점막 침범, 광범위 수포 또는 표피박리 `SJS/TEN`
-* 약물 과민반응 의심 환자에서 저혈압·호흡곤란·빠르게 진행하는 간·신장 손상 등 중증 장기 침범 `중증 DRESS`
+* <mark style="background-color:$danger;">의심 약물 노출 후 수분\~수시간 내 발생한 기관지경련·후두 증상 또는 저혈압</mark> `아나필락시스` <mark style="color:$info;background-color:$danger;">\[WAO 2020]</mark>
+* <mark style="background-color:$danger;">약물 과민반응이 의심되며 빠르게 진행하는 간·신장 손상 등 중증 장기 침범</mark> `중증 DRESS`
+* <mark style="background-color:$danger;">영유아의 담즙성(짙은 녹색) 구토</mark> `장폐색` <mark style="color:$info;background-color:$danger;">\[RCH 구토 지침]</mark>
 * 경구 수분 보충이 불가능한 중증 탈수
 * 처짐·수유 불량·호흡곤란·피부색 변화 등 전신 상태가 불량한 생후 ≤90일 영아(체온이 기준 범위에 들지 않아도 해당) `침습성 세균 감염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
 * 발열과 새로 발생한 심한 두통이 있으나 경부 강직·광선공포·의식 변화 등 수막염을 시사하는 소견이 뚜렷하지 않음 `수막염` `뇌염`&#x20;
-* 즉각 조치 해당소견 없이 전신 상태가 양호한 원인 불명의 비창백성 점상출혈 `수막구균혈증` `혈소판감소증`
+* <mark style="background-color:$danger;">즉각 조치에 해당하는 소견 없이</mark> 전신 상태가 양호한 원인 불명의 비창백성 점상출혈 `수막구균혈증` `혈소판감소증`
 * 광범위 발진과 안면부종, 호산구증가·이형림프구, 림프절병증 또는 간·신장 기능 이상 동반(중증 장기 침범·혈역학적 불안정이 없어도 해당) `DRESS`
-* 구토·설사와 함께 탈수 진행, 담즙성 구토, 혈변 또는 심한 지속성 복통(쇼크·의식 변화·복막자극징후가 동반되면 즉각 조치 대상) `급성 복증` `침습성 장염`
-* 전신 상태가 양호해 보이는 생후 29\~60일 영아에서 ≥38.0℃ 또는 ＜36.0℃ `침습성 세균 감염`
-* 생후 61\~90일 영아에서 ≥38.0℃ 또는 ＜36.0℃ `요로감염` `침습성 세균 감염`
-* 생후 3\~6개월 영아에서 ≥39.0℃ `중증 감염`
+* <mark style="background-color:$danger;">구토·설사와 함께 탈수 진행, 혈변 또는 심한 지속성 복통</mark>(쇼크·의식 변화·복막자극징후가 동반되면 즉각 조치 대상) `급성 복증` `침습성 장염`
+* 전신 상태가 양호해 보이는 <mark style="background-color:$danger;">생후 29\~60일 영아의 체온이 ≥38.0℃ 또는 ＜36.0℃</mark> `침습성 세균 감염`
+* <mark style="background-color:$danger;">생후 61\~90일 영아의 체온이 ≥38.0℃ 또는 ＜36.0℃</mark> `요로감염` `침습성 세균 감염`
+* <mark style="background-color:$danger;">생후 3\~6개월 영아의 체온이 ≥39.0℃</mark> `중증 감염`
 * 중증 면역저하자의 발열 `기회감염`
-* 소아에서 5일 이상 지속되는 발열 `가와사키병` `잠복 세균 감염`&#x20;
+* <mark style="background-color:$danger;">소아에서 5일 이상 지속되는 발열(발진·결막충혈 등 주요 소견이 없거나 이미 사라졌어도 해당)</mark> `가와사키병(불완전형 포함)` <mark style="color:$info;background-color:$danger;">\[NICE NG143]</mark>
 * SARS-CoV-2 감염·노출 후 수주 내 발생한 발열과 위장관 증상, 결막충혈·발진 등 점막피부 소견 또는 심혈관 이상 동반 `MIS-C`
 * 최근 12개월 이내 해외 말라리아 유행 지역 여행력 또는 국내 말라리아 위험지역의 거주·방문·군 복무력과 함께 발생한 발열 `말라리아`
 * 열대·아열대 지역에서 귀국 후 14일 이내 발열 `뎅기열`
@@ -181,7 +184,7 @@
 #### <mark style="color:$primary;">특수 상황별 추가 검사</mark>
 
 * 말라리아 노출력이 있는 경우(해외 유행 지역 여행 또는 국내 위험지역 거주·방문·군 복무) : 말라리아 도말검사(후도말·박도말) ± 신속항원검사; 첫 도말이 음성이어도 의심이 높으면 12\~24시간 간격으로 총 3세트까지 반복
-* 뎅기열 노출력이 있는 경우 : 발병 0\~7일에는 NAAT 또는 NS1과 IgM을 함께 고려하고, 7일 이후에는 IgM 중심으로 검사
+* 뎅기열 노출력이 있는 경우 : <mark style="background-color:$danger;">증상 발생 후 0\~7일에는 NAAT와 IgM 또는 NS1 항원검사와 IgM을 함께 시행. 8일째부터는 IgM을 우선 검사</mark> <mark style="color:$info;background-color:$danger;">\[CDC 뎅기열 검사 지침]</mark>
 * 진드기 노출 병력
   * 쯔쯔가무시증 : 유행 시기·야외 활동·가피·발진을 종합하고 급성기에는 PCR을 고려
     * 항체는 발병 초기 음성일 수 있어 회복기 혈청 또는 진단 확인에 활용
@@ -201,7 +204,7 @@
 
 ### <mark style="color:orange;">열 패턴에서 참고할 수 있는 고전적 연관성</mark>
 
-<table><thead><tr><th width="361">패턴</th><th>참고할 수 있는 연관 질환</th></tr></thead><tbody><tr><td><strong>상대적 서맥 (Faget sign)</strong></td><td>약물열, 장티푸스, 브루셀라, 레지오넬라</td></tr><tr><td><strong>Biphasic (2회 발열기)</strong></td><td>뎅기열, 황열, enterovirus, leptospirosis</td></tr><tr><td><strong>야간 발열 (nocturnal)</strong></td><td>TB, 림프종</td></tr><tr><td><strong>Relapsing (발열-정상 반복)</strong></td><td>재귀열(<em>Borrelia</em>); 말라리아·브루셀라증 등에서도 가능</td></tr><tr><td><strong>Double quotidian (일 2회 정점)</strong></td><td>성인형 스틸병</td></tr><tr><td><strong>Pel-Ebstein fever (수일 발열 후 수일 정상 반복)</strong></td><td>호지킨 림프종과의 역사적 연관성; 드물고 진단적 신뢰도가 낮음</td></tr></tbody></table>
+<table><thead><tr><th width="361">패턴</th><th>참고할 수 있는 연관 질환</th></tr></thead><tbody><tr><td><strong>상대적 서맥 (Faget sign)</strong></td><td>약물열, 장티푸스, 브루셀라, 레지오넬라</td></tr><tr><td><strong>Biphasic (2회 발열기)</strong></td><td><mark style="background-color:$danger;">뎅기열, 황열, 일부 엔테로바이러스 감염, 렙토스피라증</mark></td></tr><tr><td><strong>야간 발열 (nocturnal)</strong></td><td>TB, 림프종</td></tr><tr><td><strong>Relapsing (발열-정상 반복)</strong></td><td><mark style="background-color:$danger;">삼일열말라리아의 재발</mark></td></tr><tr><td><strong>Double quotidian (일 2회 정점)</strong></td><td><mark style="background-color:$danger;">성인형 스틸병에서 볼 수 있음</mark></td></tr><tr><td><strong>Pel-Ebstein fever (수일 발열 후 수일 정상 반복)</strong></td><td>호지킨 림프종과의 역사적 연관성; 드물고 진단적 신뢰도가 낮음</td></tr></tbody></table>
 
 * 열 패턴은 특이도가 낮고 해열제·항생제 사용 등에 의해 변형될 수 있으므로, 단독 진단 근거로 사용하지 않고 병력·노출·진찰 및 검사 소견과 함께 보조적으로만 해석
 
@@ -222,17 +225,17 @@
 
 ## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
-<table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>정상 면역 성인에서 반복적으로 확인되는 체온 ≥38.3℃, 기간 ≥3주, 적절한 최소 표준 진단평가 후에도 원인 불명</td><td>입원 당시 감염이 존재하거나 잠복 중이지 않았던 환자에서 반복적으로 체온 ≥38.3℃가 확인되고, 최소 3일간의 적절한 평가(미생물 배양을 최소 2일간 관찰하는 것을 포함) 후에도 원인 불명</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위성/허위성 발열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
+<table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th><mark style="background-color:$danger;">원내 발생 불명열 (nosocomial FUO)</mark></th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>정상 면역 성인에서 반복적으로 확인되는 체온 ≥38.3℃, 기간 ≥3주, 적절한 최소 표준 진단평가 후에도 원인 불명</td><td>입원 당시 감염이 존재하거나 잠복 중이지 않았던 환자에서 반복적으로 체온 ≥38.3℃가 확인되고, 최소 3일간의 적절한 평가(미생물 배양을 최소 2일간 관찰하는 것을 포함) 후에도 원인 불명</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td><mark style="background-color:$danger;">감염, 비감염성 염증질환, 악성 종양</mark></td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
 {% hint style="info" %}
 **고전적 불명열의 진단 기준 변화** : Petersdorf & Beeson(1961)의 전통적 정의는 '≥3주 지속, 반복적으로 ≥38.3℃, 입원 1주 평가 후에도 원인 불명'이었고, Durack & Street(1991)는 이를 외래 방문 또는 입원 기간을 이용한 기준으로 수정함. 최근에는 특정 입원 기간보다 적절한 최소 표준 진단평가를 완료했음에도 원인이 밝혀지지 않았는지를 더 중시. 다만 ≥3주 지속 기준은 여전히 고전적 FUO의 기본 틀로 사용하며, 1주 집중 평가 기준 등은 대안적·역사적 기준으로 이해
 
-Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함되며, 이 챕터에서는 고전적·병원성 FUO만 다룸
+Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함되며, 이 챕터에서는 <mark style="background-color:$danger;">고전적·원내 발생 불명열만 다룸</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">원인</mark>
 
-* 주요 범주 : 감염, 비감염성 염증질환(자가면역/자가염증), 악성 종양, 기타(약물열·혈전색전성 질환 등), 미진단
+* 주요 범주 : 감염, 비감염성 염증질환(자가면역/자가염증), 악성 종양, <mark style="background-color:$danger;">기타(약물열·혈전색전성 질환·인위성 발열 등)</mark>, 미진단
 * 원인 분포는 지역·연령·referral setting·진단 기술에 따라 크게 달라지므로 고정된 백분율보다 임상 단서에 따른 단계적 접근이 중요
 
 #### <mark style="color:$primary;">검사</mark>
@@ -260,7 +263,7 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
   * 안정적이고 바이러스 감염이 의심되며 세균 감염 근거가 부족한 경우에는 관찰 가능
   * PCT·CRP 등 biomarker의 단일 cut-off만으로 항생제 시작 또는 보류를 결정하지 않음
 * 해열제 : 체온 수치 자체보다 통증·보챔 등 불편감(distress)이 있는 환자에서 투여 고려
-  * 목적은 증상 완화와 대사 부담 감소이며, 감염 예후 개선 효과는 명확하지 않음
+  * <mark style="background-color:$danger;">주목적은 불편감 완화임. 감염 예후 개선을 위한 일률적 투여의 이익은 확립되지 않음</mark> <mark style="color:$info;background-color:$danger;">\[NICE NG143, BMJ 2022, SSC 2026]</mark>
   * 열성경련 예방 목적으로 해열제를 사용하지 않음 <mark style="color:$info;">\[NICE NG143]</mark>
 * 소위 shotgun approach(불필요한 경험적 다제 투여)는 증상/징후를 모호하게 하여 진단을 어렵게 하고 의도하지 않은 문제를 일으킬 수 있으므로 삼가야 함
 
@@ -310,7 +313,7 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
 * Warfarin 병용 : 수일 이상 규칙적으로 복용하면 INR 상승 가능성이 있어 INR을 확인하고 필요시 추적 간격을 조정; 특히 2 g/d 이상 반복 투여 시 유의 <mark style="color:$info;">\[Eur J Clin Pharmacol 2011]</mark>
 * 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d. 체중 기준 계산량이 성인 1회 최대량 1,000 ㎎·1일 최대량 4 g을 넘지 않도록 함
   * 세토펜현탁액(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
-  * 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; 생후 ＜4개월에는 허가 용량이 없으므로 연령·체중·진단을 확인하여 개별 판단
+  * 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; <mark style="background-color:$danger;">생후 ＜4개월은 허가 용량표에 제시되지 않으므로 연령·체중·진단을 확인하여 개별 판단</mark>
 
 #### <mark style="color:$primary;">Ibuprofen</mark>
 
@@ -422,7 +425,22 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Geneva II, et al. Normal Body Temperature: A Systematic Review. Open Forum Infect Dis. 2019;6(4):ofz032.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/) - 측정 부위·연령 등에 따른 체온 차이와 정상 체온 해석
+* [<mark style="background-color:$danger;">Manthous CA, et al. Effect of cooling on oxygen consumption in febrile critically ill patients. Am J Respir Crit Care Med. 1995;151(1):10-14.</mark>](https://doi.org/10.1164/ajrccm.151.1.7812538) <mark style="background-color:$danger;">- 발열 중환자에서 체온과 산소 소모량·이산화탄소 생성량의 관계</mark>
+* [<mark style="background-color:$danger;">High KP, et al. Clinical Practice Guideline for the Evaluation of Fever and Infection in Older Adult Residents of Long-Term Care Facilities: 2008 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;48(2):149-171.</mark>](https://doi.org/10.1086/595683) <mark style="background-color:$danger;">- 장기요양시설 고령자의 발열 기준 및 평소 체온 대비 상승폭</mark>
+* [<mark style="background-color:$danger;">Yamaya M, et al. Effects of high temperature on pandemic and seasonal human influenza viral replication and infection-induced damage in primary human tracheal epithelial cell cultures. Heliyon. 2019;5(2):e01149.</mark>](https://doi.org/10.1016/j.heliyon.2019.e01149) <mark style="background-color:$danger;">- 사람 기관 상피세포 배양에서 발열 범위 온도와 인플루엔자 바이러스 증식</mark>
+* [<mark style="background-color:$danger;">Chen Q, et al. Fever-range thermal stress promotes lymphocyte trafficking across high endothelial venules via an interleukin 6 trans-signaling mechanism. Nat Immunol. 2006;7(12):1299-1308.</mark>](https://doi.org/10.1038/ni1406) <mark style="background-color:$danger;">- 동물 실험에서 발열 범위 온도와 림프구 이동</mark>
+* [<mark style="background-color:$danger;">Verbeek NE, et al. Seizure precipitants in Dravet syndrome: What events and activities are specifically provocative compared with other epilepsies? Epilepsy Behav. 2015;47:39-44.</mark>](https://doi.org/10.1016/j.yebeh.2015.05.008) <mark style="background-color:$danger;">- 드라베 증후군의 발작 유발 요인</mark>
+* [<mark style="background-color:$danger;">Sullivan JE, Farrar HC. Fever and antipyretic use in children. Pediatrics. 2011;127(3):580-587.</mark>](https://doi.org/10.1542/peds.2010-3852) <mark style="background-color:$danger;">- 소아에서 발열과 고체온증의 구분 및 해열제 사용 목적</mark>
+* [<mark style="background-color:$danger;">Holgersson J, et al. Fever therapy in febrile adults: systematic review with meta-analyses and trial sequential analyses. BMJ. 2022;378:e069620.</mark>](https://doi.org/10.1136/bmj-2021-069620) <mark style="background-color:$danger;">- 발열 성인의 해열 치료와 사망·중대한 이상사건</mark>
 * [NICE. Fever in under 5s: assessment and initial management. NICE guideline NG143. 2019; updated 2021.](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations) - 5세 미만 발열의 위험 분류·검사·해열제와 재진 안내
+* [<mark style="background-color:$danger;">American Academy of Pediatrics. Febrile seizures: clinical practice guideline for the long-term management of the child with simple febrile seizures. Pediatrics. 2008;121(6):1281-1286.</mark>](https://doi.org/10.1542/peds.2008-0939) <mark style="background-color:$danger;">- 단순 열성경련의 정의 및 구조적 뇌 손상에 관한 근거</mark>
+* [<mark style="background-color:$danger;">Verity CM, Greenwood R, Golding J. Long-term intellectual and behavioral outcomes of children with febrile convulsions. N Engl J Med. 1998;338(24):1723-1728.</mark>](https://doi.org/10.1056/NEJM199806113382403) <mark style="background-color:$danger;">- 열성경련을 경험한 소아의 장기 인지·학업·행동 추적</mark>
+* [<mark style="background-color:$danger;">Trinka E, et al. A definition and classification of status epilepticus: Report of the ILAE Task Force on Classification of Status Epilepticus. Epilepsia. 2015;56(10):1515-1523.</mark>](https://doi.org/10.1111/epi.13121) <mark style="background-color:$danger;">- 전신 강직간대경련에서 응급 치료를 시작하는 5분 기준</mark>
+* [<mark style="background-color:$danger;">Lewis DV, et al. Hippocampal sclerosis and temporal lobe epilepsy following febrile status epilepticus: The FEBSTAT study. Epilepsia. 2024;65(6):1568-1580.</mark>](https://doi.org/10.1111/epi.17979) <mark style="background-color:$danger;">- 열성경련지속상태 후 해마 손상과 장기 추적</mark>
+* [<mark style="background-color:$danger;">Malignant Hyperthermia Association of the United States. Managing a crisis.</mark>](https://www.mhaus.org/healthcare-professionals/managing-a-crisis/) <mark style="background-color:$danger;">- 악성 고열증 초기 대응과 dantrolene 투여</mark>
+* [<mark style="background-color:$danger;">Cardona V, et al. World Allergy Organization anaphylaxis guidance 2020. World Allergy Organ J. 2020;13(10):100472.</mark>](https://doi.org/10.1016/j.waojou.2020.100472) <mark style="background-color:$danger;">- 아나필락시스의 임상 진단 기준</mark>
+* [<mark style="background-color:$danger;">Royal Children’s Hospital Melbourne. Clinical Practice Guidelines: Vomiting.</mark>](https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/) <mark style="background-color:$danger;">- 소아 담즙성 구토의 응급 평가</mark>
+* [<mark style="background-color:$danger;">Centers for Disease Control and Prevention. Clinical Testing Guidance for Dengue.</mark>](https://www.cdc.gov/dengue/hcp/diagnosis-testing/index.html) <mark style="background-color:$danger;">- 증상 발생 시점에 따른 뎅기열 검사 조합</mark>
 * [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분
 * [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60\~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
 * [O'Grady NP, et al. Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU. Crit Care Med. 2023;51(11):1570-1586.](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) - 성인 ICU의 새로운 발열·체온 측정과 표적 검사; 일반 외래에 일괄 적용하지 않음
@@ -465,12 +483,14 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
 #### <mark style="color:$primary;">이럴 때는 즉시/당일 병원을 방문하세요</mark>
 
 * 처음 발생한 경련은 신속히 의료평가를 받으십시오. 경련이 5분 이상 지속되거나 반복되거나 호흡이 불편하면 즉시 119를 호출하십시오
-* 목이 뻣뻣해지는 경우
+* <mark style="background-color:$danger;">열이 나면서 목이 뻣뻣해지면 즉시 응급실을 방문하십시오</mark>
 * 눌러도 사라지지 않는 반점이 빠르게 퍼지거나 자주색 멍 같은 반점이 생기면 즉시 응급실을 방문하십시오
-* 심한 두통, 가슴 통증, 호흡 곤란, 의식 변화가 동반되는 경우
+* <mark style="background-color:$danger;">심한 두통, 가슴 통증, 호흡 곤란 또는 의식 변화가 동반되면 즉시 응급실을 방문하십시오</mark>
 * 생후 28일 이하 아기의 체온이 38.0℃ 이상이거나 36.0℃ 미만이면 전신 상태가 양호해 보여도 즉시 응급실을 방문하십시오
 * 생후 29\~60일 아기의 체온이 38.0℃ 이상이거나 36.0℃ 미만이면 전신 상태가 양호해 보여도 지체 없이 소아 진료가 가능한 기관을 방문하십시오
-* 생후 61\~90일 아기의 체온이 38.0℃ 이상이거나 36.0℃ 미만이면 당일 진료를 받으십시오. 잘 먹지 못하거나 처지고, 호흡이 힘들거나 피부색이 나빠지는 등 전신 상태가 좋지 않으면 즉시 응급실을 방문하십시오
+* 생후 61\~90일 아기의 체온이 38.0℃ 이상이거나 36.0℃ 미만이면 당일 진료를 받으십시오
+* <mark style="background-color:$danger;">생후 90일 이하 아기가 잘 먹지 못하거나 많이 처지고, 숨쉬기 힘들거나 피부색이 나빠지면 체온과 관계없이 즉시 응급실을 방문하십시오</mark>
+* <mark style="background-color:$danger;">아이가 짙은 녹색 구토를 하면 즉시 응급실을 방문하십시오</mark>
 * 생후 3\~6개월 아기의 체온이 39℃ 이상이면 당일 진료를 받으십시오
 * 어린이의 열이 5일 이상 계속되면 다른 증상이 없어도 당일 진료를 받으십시오
 * 항암 치료 중이거나 면역억제 치료로 감염 위험이 높은 분이 열이 나면 몸 상태가 괜찮아 보여도 즉시 진료를 받으십시오
