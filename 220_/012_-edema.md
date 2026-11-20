@@ -245,29 +245,31 @@
 flowchart TD
 SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells score 평가"]
 B -- "≤1점<br/>DVT unlikely" --> C["<u>고감도 D-dimer</u><br/>• 결과 가능하면 4시간 이내"]
-C -- "음성" --> E["<u>DVT 가능성 낮음</u><br/>• 임시 항응고제 투여 중이면 중단<br/>• 다른 원인 평가"]
-C -- "양성" --> D1["<u>Proximal CUS</u><br/>• 가능하면 <br/>4시간 이내"]
-C -- "D-dimer 결과 4시간 내 불가" --> I1["D-dimer 채혈 후 금기 평가 및<br/>항응고제 임시 투여(치료 용량)"]
+C -- "음성" --> E["<u>DVT 가능성 낮음</u><br/>• 임시 항응고제 <br/>투여 중이면 중단<br/>• 다른 원인 평가"]
+
+C -- "D-dimer 결과 <br/>4시간 내 불가" --> I1["D-dimer 채혈 후 <br/>금기 평가 및<br/>항응고제 임시 투여<br/>(치료 용량)"]
 I1 -- "D-dimer 음성" --> E
-I1 -- "D-dimer 양성" --> D1
+I1 -- "D-dimer 양성" --> D1["<u>Proximal CUS</u><br/>• 가능하면 <br/>4시간 이내"]
+C -- "양성" --> D1
+
 B -- "≥2점<br/>DVT likely" --> D2["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
 D1 -- "음성" --> E
-D1 -- "CUS 결과 4시간 내 불가" --> I3["금기 평가 후<br/>항응고제 임시 투여(치료 용량)<br/>• 이미 투여 중이면<br/>CUS 결과 확인까지 유지"]
+D1 -- "CUS 결과 <br/>4시간 내 불가" --> I3["금기 평가 후<br/>항응고제 임시 투여<br/>(치료 용량)<br/>• 이미 투여 중이면<br/>CUS 결과 확인까지 유지"]
 I3 --> D4["<u>Proximal CUS</u><br/>• 24시간 이내"]
 D4 -- "양성" --> G0
 D4 -- "음성" --> E
 D1 -- "양성" --> G0["<u>DVT 진단</u><br/>• 항응고 치료"]
 D2 -- "양성" --> G["<u>DVT 진단</u><br/>• 항응고 치료"]
-D2 -- "CUS 결과 4시간 내 불가" --> I2["D-dimer 채혈 + <br/>금기 평가 후<br/>항응고제 임시 투여<br/>(치료 용량)"]
+D2 -- "CUS 결과 <br/>4시간 내 불가" --> I2["D-dimer 채혈 + <br/>금기 평가 후<br/>항응고제 임시 투여<br/>(치료 용량)"]
 I2 --> D3["<u>Proximal CUS</u><br/>• 24시간 이내"]
 D3 -- "양성" --> G
-D3 -- "음성" --> DD["D-dimer 검사 또는 이미 채혈한 결과 확인"]
+D3 -- "음성" --> DD["D-dimer 검사 또는 <br/>이미 채혈한 결과 확인"]
 D2 -- "음성" --> DD
 DD -- "양성" --> R["<u>6~8일 후 <br/>proximal CUS 반복</u><br/>• 임시 항응고제 <br/>투여 중이었다면 <br/>중단"]
 R -- "양성" --> G
 R -- "음성" --> E0
 E -- "광범위한 부종 지속 또는 장골정맥·골반 내 폐쇄 의심" --> H["CT/MR venography 고려"]
-DD -- "음성" --> E0["<u>DVT 가능성 낮음</u><br/>• 임시 항응고제 투여 중이면 중단<br/>• 다른 원인 평가"]
+DD -- "음성" --> E0["<u>DVT 가능성 낮음</u><br/>• 임시 항응고제 <br/>투여 중이면 중단<br/>• 다른 원인 평가"]
 E0 -- "광범위한 부종 지속 또는 장골정맥·골반 내 폐쇄 의심" --> H
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef question fill:#fff9c4,stroke:#ffe082
@@ -337,7 +339,7 @@ flowchart TD
 
 > _급성 폐부종 의심, 심한 호흡곤란·저산소증 또는 혈역학적 불안정이 있으면 이 경로에 앞서 응급 평가 및 안정화를 시행_
 
-<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Patel et al. 2022, ESC 2026, KASL 2026)</mark></em></p>
+<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Patel H, et al. Am Fam Physician 2022; ESC 2026; KASL 2026)</mark></em></p>
 
 ***
 
@@ -355,7 +357,7 @@ flowchart TD
 * 원인 약물의 감량 또는 중단/교체를 우선 고려
 * DHP-CCB 유발 발목 부종
   * 모세혈관 내 압력 변화가 주기전이므로, 전신 체액 과부하가 없다면 이뇨제로 교정하려 하지 않음
-  * 혈압 적응증이 있으면 ACE 억제제/ARB 병용으로 부종이 감소할 수 있음
+  * 혈압 적응증이 있으면 ACE 억제제 또는 ARB 병용으로 부종이 감소할 수 있음
   * 약물 교체 : lercanidipine 등 일부 newer/lipophilic DHP-CCB로 전환을 고려할 수 있음
 
 #### <mark style="color:$primary;">이뇨제 투여 지침</mark>
@@ -406,32 +408,31 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    ST["부종 환자"] --> A["급성 폐부종, 저산소증 동반 울혈<br/>또는 혈역학적 불안정?"]
-    A -- "예" --> EM["즉시 응급 평가·안정화"]
-    A -- "아니오" --> P["진행성 cardiorenal syndrome?"]
+    ST["부종 환자"] --> A["급성 폐부종, 저산소증 동반 <br/>울혈 또는 혈역학적 불안정?"]
+    A -- "예" --> EM["즉시 응급 평가·<br/>안정화"]
+    A -- "아니오" --> P["진행성 cardiorenal <br/>syndrome?"]
     P -- "예" --> R["신속한 평가 및<br/>입원 또는 전문의 의뢰"]
-    P -- "아니오" --> B["전신 체액 과부하·울혈,<br/>간경변성 복수 또는 신증후군성 부종?"]
-    B -- "아니오" --> Z["<u>원인별 평가·치료</u><br/>• 정맥부전·림프부종·lipedema 등<br/>• 적응증에 따라 압박·거상·운동"]
-    B -- "예" --> C["원인 분류"]
+    P -- "아니오" --> B["전신 체액 과부하·울혈,<br/>간경변성 복수 또는 <br/>신증후군성 부종?"]
+    B -- "아니오" --> Z["<u>원인별 평가·치료</u><br/>•정맥부전·림프부종·<br/>lipedema 등 • 적응증에 <br/>따라 압박·거상·운동"]
+    B -- "예" ---> C["원인 분류"]
     C --> HF["심부전"]
-    C --> RK["CKD·AKI에 의한 체액 과부하"]
-    C --> CI["간경변성 복수"]
-    C --> NS["신증후군 · 아래 도식 참조"]
-    HF --> HF1["<u>Loop 이뇨제</u><br/>• 안정 외래 환자의 경구 시작 예<br/>furosemide 20~40 ㎎ qAM<br/>• 울혈 해소를 목표로 용량 조절"]
-    RK --> RK1["<u>Loop 이뇨제</u><br/>• 신기능·체액 상태에 따라 개별화"]
-    HF1 -- "반응 불충분" --> H2["원인·복약·Na 섭취·신기능 재평가<br/>및 loop 용량 조절"]
-    RK1 -- "AKI에서 체액 과부하·폐부종,<br/>고K혈증 또는 대사성 산증이<br/>치료에도 조절되지 않음" --> RRT["신대체요법 가능 기관에<br/>즉시 의뢰"]
-    RK1 -- "그 밖의 경우 반응 불충분" --> H2
-    H2 -- "충분히 조절해도 울혈 지속" --> H3["Thiazide계 병용 고려<br/>• 혈압·신기능·전해질 추적"]
-    HF1 -- "SGLT2i 시작 또는 병용" --> HF3["혈압·울혈·용적 상태 조기 재평가"]
-    HF3 -- "저혈압 또는 용적 고갈 위험" --> HF4["Loop 용량 감량 고려"]
+    C --> RK["CKD·AKI에 의한 <br/>체액 과부하"]
+    C ---> CI["간경변성 복수"]
+    C --> NS["신증후군<br/>(다음 도식 참조)"]
+    HF --> HF1["<u>Loop 이뇨제</u><br/>• 안정 외래 환자의 <br/>경구 시작 예<br/>furosemide <br/>20~40 ㎎ qAM<br/>• 울혈 해소를 목표로 <br/>용량 조절"]
+    RK --> RK1["<u>Loop 이뇨제</u><br/>• 신기능·체액 상태에 <br/>따라 개별화"]
+    HF1 -- "반응 불충분" --> H2["원인·복약·Na 섭취·<br/>신기능 재평가 및 <br/>loop 용량 조절"]
+    RK1 -- "AKI에서 체액 과부하·폐부종,<br/>고K혈증 또는 대사성 산증이<br/>치료에도 조절되지 않음" --> RRT["신대체요법 <br/>가능 기관에<br/>즉시 의뢰"]
+    RK1 -- "그 밖의 경우 <br/>반응 불충분" --> H2
+    H2 -- "충분히 조절해도 <br/>울혈 지속" --> H3["Thiazide계 병용 고려<br/>• 혈압·신기능·전해질 추적"]
+    HF1 -- "SGLT2i <br/>시작 또는 병용" --> HF3["혈압·울혈·<br/>용적 상태 <br/>조기 재평가"]
+    HF3 -- "저혈압 또는 <br/>용적 고갈 위험" --> HF4["Loop 용량 <br/>감량 고려"]
     CI --> CI0["긴장성 복수?"]
-    CI0 -- "예" --> CI2["신속히 의뢰하여 대량 복수천자<br/>• 한 번에 5 L를 초과하여 제거하면<br/>제거한 복수 총량 1 L당<br/>albumin 6~8 g 정주"]
-    CI0 -- "아니오" --> CI1["<u>복수 이뇨제 선택</u><br/>• 첫 grade 2 복수: spironolactone 단독 가능<br/>• 재발성 또는 신속한 이뇨 필요 시 병합 고려<br/>• 병합 시작 예: spironolactone 100 ㎎/d<br/>+ furosemide 40 ㎎/d"]
-    CI1 -- "단독요법 반응 불충분" --> CI4["Furosemide 추가 고려"]
-    CI1 -- "고K혈증 발생" --> CI5["K·신기능 재평가<br/>• Spironolactone 감량·중단 또는<br/>furosemide 추가 여부 결정<br/>• 중증이면 spironolactone 중단 및 신속 평가"]
-    CI1 -- "통증성 여성형유방증·유방통으로 지속 곤란" --> CI3["Amiloride 대체를 전문의와 상의"]
-
+    CI0 -- "예" ---> CI2["신속히 의뢰하여 <br/>대량 복수천자<br/>• 한 번에 5 L 초과 <br/>제거 시 제거한 <br/>복수 총량 1 L당<br/>albumin 6~8 g 정주"]
+    CI0 -- "아니오" ---> CI1["<u>복수 이뇨제 선택</u><br/>• 첫 grade 2 복수: <br/>spironolactone <br/>단독 가능<br/>• 재발성 또는 신속한 <br/>이뇨 필요 시 병합 고려<br/>• 병합 시작 예: <br/>spironolactone <br/>100 ㎎/d + <br/>furosemide 40 ㎎/d"]
+    CI1 -- "단독요법 <br/>반응 불충분" --> CI4["Furosemide <br/>추가 고려"]
+    CI1 -- "고K혈증 발생" --> CI5["K·신기능 재평가<br/>• Spironolactone <br/>감량·중단 또는<br/>furosemide <br/>추가 여부 결정<br/>• 중증이면 <br/>spironolactone <br/>중단 및 신속 평가"]
+    CI1 -- "통증성 여성형유방증·<br/>유방통으로 지속 곤란" --> CI3["Amiloride 대체를 <br/>전문의와 상의"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
@@ -446,22 +447,22 @@ flowchart TD
     class HF,RK,CI,NS followup
 ```
 
-> _SGLT2i=SGLT2 억제제. 심부전의 LVEF 분류, 표현형별 예후 개선 치료 및 동반 질환 관리는 ☞ [심부전](../225_/098_-heart-failure.md) 참조_
+> _SGLT2i=SGLT2 억제제. 심부전의 LVEF 분류, 표현형별 예후 개선 치료 및 동반 질환 관리는 ☞_ [_심부전_](../225_/098_-heart-failure.md) _참조_
 
-<p align="center"><strong>부종의 원인별 이뇨제 선택 및 저항성 대응 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2026, KASL 2026, AASLD 2021, EASL 2018, KDIGO 2021, UK Kidney Association 2023)</mark></em></p>
+<p align="center"><strong>부종의 원인별 이뇨제 선택 및 저항성 대응 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2026; KASL 2026; AASLD 2021;</mark></em> <br><em><mark style="color:$info;">EASL 2018; KDIGO 2021; UK Kidney Association 2023)</mark></em></p>
 
 ***
 
 ```mermaid
 flowchart TD
     NS["신증후군성 부종"] --> NS1["유효 순환 혈액량·신기능 평가<br/>후 loop 이뇨제 조절"]
-    NS1 --> Q1["초기 이뇨 반응은?"]
-    Q1 -- "충분" --> F["부종·체중·혈압·신기능·전해질 추적<br/>• 부종 조절 후 최소 유효 용량으로 조절"]
-    Q1 -- "불충분" --> NS2["이뇨 반응 저하 원인 재평가<br/>• 정주 loop 전환 고려<br/>• 필요시 순차적 nephron 차단"]
+    NS1 --> Q1["초기 이뇨 반응?"]
+    Q1 -- "충분" --> F["부종·체중·혈압·<br/>신기능·전해질 추적<br/>• 부종 조절 후 <br/>최소 유효 용량으로 조절"]
+    Q1 -- "불충분" --> NS2["이뇨 반응 저하 원인 재평가<br/>• 정주 loop 전환 고려<br/>• 필요시 순차적 <br/>nephron 차단"]
     NS2 -- "정주 치료 후" --> Q2["충분한 용량의 정주 이뇨제에 반응하는가?"]
     Q2 -- "충분" --> F
-    Q2 -- "불충분 · 혈청 albumin ＜2.0 g/㎗" --> ALB["정주 이뇨제 최대 용량에도 반응하지 않는<br/>선별 입원 환자에서 전문의 판단하에<br/>albumin 정주와 loop 병용 고려"]
-    Q2 -- "불충분 · 혈청 albumin ≥2.0 g/㎗" --> R["신장내과 협진으로 이뇨 저항성 원인과 치료 전략 재평가"]
+    Q2 -- "불충분 · <br/>혈청 albumin ＜2.0 g/㎗" --> ALB["정주 이뇨제 최대 용량에도 <br/>반응하지 않는<br/>선별 입원 환자에서 <br/>전문의 판단하에<br/>albumin 정주와 <br/>loop 병용 고려"]
+    Q2 -- "불충분 · <br/>혈청 albumin ≥2.0 g/㎗" --> R["신장내과 협진으로 <br/>이뇨 저항성 원인과 <br/>치료 전략 재평가"]
     ALB --> F
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
@@ -546,13 +547,14 @@ flowchart TD
   * 심부전·신부전·간경변·저알부민혈증에 의한 부종에는 치료 효과가 입증되지 않았고 권장되지 않음
 * 부종의 원인 감별 없이 건강보조제를 복용하면 근본 치료가 지연될 수 있음
 
-<table><thead><tr><th width="158">성분</th><th width="148">적용 부종 유형</th><th>근거 수준</th><th>허가 제품 예 및 주요 주의사항</th></tr></thead><tbody><tr><td><strong>MPFF (micronized purified flavonoid fraction)</strong></td><td>증상이 있는 하지정맥류</td><td>조건부·중등도 (SVS/AVF/AVLS 2023: Grade 2B);<br>ESVS 2022는 개별 약제의 근거를 전제로 venoactive drugs를 Class IIa, Level A로 고려</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A2261A0497"><mark style="color:blue;">베니톨</mark></a><mark style="color:blue;">]</mark><br>MPFF 500 ㎎</td></tr><tr><td><strong>Diosmin 단일성분</strong></td><td>정맥성 증상</td><td>제제별 근거가 이질적이며 MPFF의 Grade 2B를 그대로 적용할 수 없음</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2017032200005"><mark style="color:blue;">치센</mark></a><mark style="color:blue;">]</mark><br>diosmin 300 ㎎</td></tr><tr><td><strong>Red vine leaf extract<br>(포도엽 건조엑스)</strong></td><td>정맥 관련 통증·무거움·부종감</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AOOOOO9611"><mark style="color:blue;">안탁스</mark></a><mark style="color:blue;">]</mark><br>포도엽 건조엑스 180 ㎎</td></tr><tr><td><strong>HCSE (horse chestnut seed extract)</strong></td><td>정맥 관련 증상</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2017030700001"><mark style="color:blue;">베노스타신</mark></a><mark style="color:blue;">]</mark><br>표준화 경구 추출물. 생종자·비표준화 제품은 독성 우려</td></tr></tbody></table>
+<table><thead><tr><th width="158">성분</th><th width="148">적용 부종 유형</th><th>근거 수준</th><th>허가 제품 예 및 주요 주의사항</th></tr></thead><tbody><tr><td><strong>MPFF (micronized purified flavonoid fraction)</strong></td><td>증상이 있는 하지정맥류</td><td>조건부·중등도 (SVS/AVF/AVLS 2023: Grade 2B);<br>ESVS 2022는 개별 약제의 근거를 전제로 venoactive drugs를 Class IIa, Level A로 고려</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11A2261A0497"><mark style="color:blue;">베니톨</mark></a><mark style="color:blue;">]</mark><br>MPFF 500 ㎎</td></tr><tr><td><strong>Diosmin 단일성분</strong></td><td>정맥성 증상</td><td>제제별 근거가 이질적이며 MPFF의 Grade 2B를 그대로 적용할 수 없음</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2017032200005"><mark style="color:blue;">치센</mark></a><mark style="color:blue;">]</mark><br>diosmin 300 ㎎</td></tr><tr><td><strong>Red vine leaf extract</strong><br><strong>(포도엽 건조엑스)</strong></td><td>정맥 관련 통증·무거움·부종감</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AOOOOO9611"><mark style="color:blue;">안탁스</mark></a><mark style="color:blue;">]*</mark><br>포도엽 건조엑스 180 ㎎</td></tr><tr><td><strong>HCSE (horse chestnut seed extract)</strong></td><td>정맥 관련 증상</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td><mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2017030700001"><mark style="color:blue;">베노스타신</mark></a><mark style="color:blue;">]</mark><br>표준화 경구 추출물. 생종자·비표준화 제품은 독성 우려</td></tr></tbody></table>
 
 > _SVS/AVF/AVLS 2023 권고는 중재 대상이 아니거나, 중재를 기다리거나, 중재 후에도 증상이 남은 하지정맥류 환자를 대상으로 함_
+>
+> _\*<mark style="color:blue;">안탁스</mark> 허가 내용 : 적응증-만성 정맥부전에 의한 하지 부종·중압감·통증; 1일 1회 2캡슐 아침 식전 복용._\
+> _약 6주 투여 후에도 개선이 없으면 중단하고 원인을 재평가하며, 복용기간은 3개월을 넘기지 않음._\
+> _소아·청소년에게는 투여하지 않음._
 
-* 만성 정맥부전에 의한 하지 부종·중압감·통증 : vitis vinifera leaf dry extract(포도엽 건조엑스) 360 ㎎(2캡슐) 아침 식전 <mark style="color:blue;">\[안탁스]</mark>
-  * 약 6주 투여 후에도 개선이 없으면 중단하고 원인을 재평가하며, 복용기간은 3개월을 넘기지 않음
-  * 소아·청소년에게는 투여하지 않음
 * 포도씨 OPC, 민들레 등은 부종 치료 효과를 뒷받침하는 임상 근거가 부족하여 권고하지 않음
 
 ***
