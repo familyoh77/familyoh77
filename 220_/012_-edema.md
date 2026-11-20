@@ -12,11 +12,11 @@
   * 국소 부종 : DVT, 정맥 부전, 림프부종, 봉와직염
 * 원인 감별 포인트 : 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)
 * 새로 발생한 원인 불명의 편측 하지 부종에서는 통증·압통 여부와 관계없이 DVT 가능성을 평가
-  * Wells score를 근거로 D-dimer 및 압박 초음파 시행 여부를 결정
+  * Wells score(☞ 진단 > 검사)를 근거로 D-dimer 및 압박 초음파 시행 여부를 결정
   * 활성 암은 중요한 DVT 위험인자이며 Wells score에서 +1점으로 반영
   * 암 환자에서 임상적 의심이 높거나 D-dimer 해석이 어려운 경우에는 영상검사를 고려
-* 이뇨제는 안정된 말초 부종만으로는 서둘러 투여하지 않음
-  * 전신 volume overload가 없는 만성 정맥부전·림프부종·lipedema 등에서는 권장되지 않음
+* 이뇨제는 전신 Na·수분 저류 또는 울혈이 확인된 경우에 사용하며, 말초 부종만으로 투여하지 않음
+  * 전신 volume overload가 없는 만성 정맥부전·림프부종·lipedema 등에서는 권장하지 않음
 
 ## <mark style="color:green;">원인</mark>
 
@@ -24,23 +24,22 @@
 
 #### <mark style="color:$primary;">심부전</mark>
 
-* 동반 소견 : 운동 시 호흡 곤란, orthopnea, 돌발성 야간 호흡 곤란, 경정맥압 상승 등
+* 동반 소견 : 운동 시 호흡 곤란, orthopnea, 돌발성 야간 호흡 곤란, 경정맥압 상승
   * 진행된 저심박출·저관류 상태에서는 말초 청색증, 사지 냉증이 동반될 수 있음
 * 검사 : BNP/NT-proBNP, ECG, 흉부 X선 및 심초음파를 임상 상황에 따라 시행
-  * 저Na혈증·신기능 저하·간 효소 상승은 진행된 울혈에서 동반될 수 있으나 비특이적
+  * 저Na혈증, 신기능 저하, 간 효소 상승은 진행된 울혈에서 동반될 수 있으나 비특이적
 
 #### <mark style="color:$primary;">간경화</mark>
 
-* 원인 간질환 병력(예: MASLD, 바이러스성 간염, 알코올 관련 간질환 등)을 확인
-* 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angioma, 여성형유방증)
+* 원인 간질환 병력을 확인(예: MASLD, 바이러스성 간염, 알코올 관련 간질환)
+* 동반 소견 : 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angioma, 여성형유방증 등 간질환 소견
   * 진행된 비대상성 간경화에서는 저혈압이 동반될 수 있음
-* 말초 부종 자체로 호흡 곤란이 발생하는 경우는 드묾
-  * 호흡 곤란이 있으면 대량 복수·hepatic hydrothorax뿐 아니라 hepatopulmonary syndrome, portopulmonary hypertension 및 동반 심폐질환을 평가
+* 호흡 곤란이 있으면 대량 복수·hepatic hydrothorax뿐 아니라 hepatopulmonary syndrome, portopulmonary hypertension 및 동반 심폐질환을 평가
 * 검사 : CBC, AST/ALT, ALP/GGT, bilirubin, albumin, PT/INR, Cr/eGFR 및 Na/K를 평가
-  * 진행된 간질환에서는 저알부민혈증·응고 이상·저Na혈증 등이 동반될 수 있음
+  * 진행된 간질환에서는 저알부민혈증, 응고 이상, 저Na혈증 등이 동반될 수 있음
   * K는 질환 상태와 이뇨제에 따라 감소하거나 증가할 수 있음
 
-#### <mark style="color:$primary;">CKD / AKI</mark>
+#### <mark style="color:$primary;">CKD/AKI</mark>
 
 * 기전 : Na/H₂O retention에 의한 volume overload
 * 동반 소견 : 양측 하지 또는 전신 부종, 체중 증가, 혈압↑
@@ -48,7 +47,7 @@
 * 검사 : Cr/eGFR, BUN, K, bicarbonate, urinalysis 및 단백뇨 평가
   * 진행된 CKD에서는 대사성 산증·빈혈 등이 동반될 수 있음
 
-#### <mark style="color:$primary;">신증후군 (Nephrotic syndrome)</mark>
+#### <mark style="color:$primary;">신증후군</mark>
 
 * 기전 : 저알부민혈증에 따른 혈장 교질삼투압 저하와 신장의 일차적 또는 이차적 Na 정체가 함께 관여 → 안면(periorbital) 및 전신 부종
 * 동반 소견 : 거품뇨, 아침 안면 부종, 고콜레스테롤혈증, 현미경혈뇨
@@ -62,39 +61,39 @@
 * 폐쇄수면무호흡증 : 비만, 폐고혈압 또는 우심부전이 동반된 경우 하지 부종과 연관될 수 있음
   * OSA 자체를 부종의 직접 원인으로 단정하지는 않음
 * protein-losing enteropathy, 심한 영양실조 : 단백질 저하/합성↓
-* 임신, 월경 전 : 체액 증가
+* 월경 전, 임신 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
 ### <mark style="color:orange;">국소 부종</mark>
 
 * 원인 : 봉와직염, 정맥부전, 외상, DVT, iliac vein obstruction, 림프부종
-  * lipedema : 주로 양측 하지에 대칭성으로 나타나는 피하지방 축적 질환으로, 상지를 침범할 수도 있음
-    * 부종 질환은 아니나 하지 부종과 감별이 필요하여 함께 다룸
-* 만성 하지 부종(편측 또는 양측)은 흔히 정맥부전과 관련
-* DVT 후 지속되는 하지 부종은 대개 post-thrombotic syndrome에 의한 만성 정맥부전으로, 림프부종과 구별함
-* DVT 위험인자 : 활성 암, DVT/PE 과거력, 최근 수술·외상·입원 또는 활동 제한, 임신·산후, estrogen 사용, 혈전성향증, 고령·비만 등
-  * 정맥류는 위험인자로 거론되나 Wells score 항목은 아님
+  * lipedema : 주로 양측 하지에 대칭성으로 나타나는 피하지방 축적 질환으로, 상지를 침범할 수도 있음; 부종 질환은 아니지만 하지 부종, 특히 림프부종과의 감별이 필요함
+* 정맥부전 : 만성 하지 부종(편측 또는 양측)의 흔한 원인
+* DVT : DVT 후 지속되는 하지 부종은 대개 post-thrombotic syndrome에 의한 만성 정맥부전으로, 림프부종과 구별함
+  * DVT 위험인자 : 활성 암, DVT/PE 과거력, 최근 수술·외상·입원 또는 활동 제한, 임신·산후, estrogen 사용, 혈전성향증, 고령·비만 등
+    * 정맥류는 DVT의위험인자로 거론되지만, Wells score의 항목은 아님
 
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : 기립 시 모세혈관 여과 증가, 이차성 RAAS 활성화 및 Na 정체 등이 관여할 수 있음
-  * re-feeding(급속한 다이어트 후 식사 증량), 만성 이뇨제 사용 및 중단도 부종을 유발하거나 악화시킬 수 있음
-* 얼굴, 손, 사지 부종
-* 활동 후 저녁에 악화되고 취침 후 아침에 호전되는 것이 전형적
-  * 아침 안면 부종이 심한 경우는 신성 부종을 먼저 감별
-* 주로 가임기 여성에서 흔하며 남성에서는 드묾
+* 부종 부위 : 얼굴, 손, 사지
+* 일중 변동 : 기립·활동 후 하지 부종과 체중 증가가 심해지고 야간 휴식 후 감소하는 경향
+  * 아침에는 안면·손 부종이 나타날 수 있음
+  * 지속적이거나 현저한 아침 안면 부종은 신장질환·저알부민혈증을 먼저 감별
+* 대상 : 가임기 여성에서 흔하며 남성에서는 드묾
   * 월경 전에 악화될 수 있으나 월경 주기와 무관하게 지속되는 것이 특징
-* 관련 인자 : 비만, 섭식 장애, 반복적인 체중 감량, 만성 이뇨제·하제 사용 등
+* 관련 인자 : 비만, 섭식 장애, 반복적인 체중 감량, 만성 이뇨제·하제 사용
+  * re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 사용 및 중단도 부종을 유발하거나 악화시킬 수 있음
   * 정서적 문제의 동반 여부는 개별적으로 평가하되 부종의 원인으로 단정하지 않음
 * 진단 : 다른 원인 배제
-  * 심장, 간, 신장 질환 없음
+  * 심장·간·신장 질환, 정맥/림프질환 및 약물 유발 부종이 없음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래 `폐부종`
-* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우 `PE`
+* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥 `PE`
 * 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란 `기도 침범 혈관부종`
 * 간경화·문맥압항진이 의심되는 환자의 토혈·흑변 또는 활동성 위장관 출혈, 특히 저혈압·빈맥·실신/의식 변화 동반 `정맥류 출혈`
 * 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상 `phlegmasia cerulea dolens` `사지 허혈`
@@ -120,52 +119,48 @@
 
 ## <mark style="color:green;">진단</mark>
 
-**빠른 감별 진단 프레임워크**
-
-1. 새로 발생한 원인 불명의 편측 부종 → 통증 유무와 관계없이 DVT 평가
-2. 호흡 곤란 동반 → 심부전·폐부종, PE 및 신부전성 volume overload 우선 감별
-3. 아침 안면 부종 → 신장질환·신증후군 및 저알부민혈증 우선 평가
-4. 복수 + 하지 부종 → 간경화, 우심부전 및 악성종양 등 감별
-5. 만성 + 피부 변화 → 정맥/림프 부전 우선 고려
-6. 약물 시작 후 → 약물 유발 부종 우선 고려
-
 ### <mark style="color:orange;">감별</mark>
+
+#### <mark style="color:$primary;">**소견별 우선 감별**</mark>
+
+* 새로 발생한 원인 불명의 편측 부종 → DVT (통증 유무와 관계없음)
+* 호흡 곤란 동반 → 심부전·폐부종, PE, 신부전성 volume overload, 폐질환
+* 아침 안면 부종 → 신장질환·신증후군, 저알부민혈증
+* 복수 + 하지 부종 → 간경화, 우심부전, 악성종양, 결핵, 췌장질환 등
+* 만성 + 피부 변화 → 정맥/림프 부전
+* 약물 시작 후 → 약물 유발 부종
 
 #### <mark style="color:$primary;">발생 부위</mark>
 
-* 말초 부종만 존재 → 국소 정맥/림프 질환을 우선 고려하되 약물 유발 부종과 초기 전신질환도 고려
+* 말초 부종만 존재 → 국소 정맥/림프 질환을 우선 고려하되, 약물 유발 부종과 초기 전신질환도 고려
 * 전신성(특히 눈꺼풀, 안면), 자고 일어난 아침에 심함 → 신성 부종 또는 저알부민혈증 우선 고려
 * 오래 서 있거나 앉아 있을수록 악화되고 거상 시 호전되는 하지 부종 → 만성 정맥부전/의존성 부종 우선 고려
 * 양측 dependent edema + 호흡 곤란·orthopnea·경정맥 확장 등 전신 울혈 소견 → 심부전 고려
 
-<mark style="color:cyan;">**Unilateral predominance**</mark>
+<mark style="color:cyan;">**편측 우세 (Unilateral predominance)**</mark>
 
 * 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
 
-<mark style="color:cyan;">**Bilateral predominance**</mark>
+<mark style="color:cyan;">**양측 우세 (Bilateral predominance)**</mark>
 
-* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
+* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves병(pretibial myxedema), 약물 유발 부종
 * 말초 pitting edema 유발 약물
-  * CCB(특히 dihydropyridine계; pre-capillary dilation에 의한 ankle edema)
+  * CCB : 특히 dihydropyridine계; pre-capillary dilation에 의한 ankle edema
   * pregabalin/gabapentin
-  * NSAID(Na 재흡수 증가)
-  * 호르몬제(예: steroid, estrogen, progesterone, testosterone)
-  * thiazolidinedione(Na 재흡수 증가)
+  * NSAID : Na 재흡수 증가
+  * 호르몬제 : 예: steroid, estrogen, progesterone, testosterone
+  * thiazolidinedione : Na 재흡수 증가
   * α-차단제
   * 항암제
-  * minoxidil(혈관 확장)
-  * 인슐린(초기 투여 시 Na 정체 유발)
-* 혈관부종(angioedema) 유발 약물: ACE inhibitor가 대표적 원인
-  * ARB에서도 드물게 발생 가능
-  * 얼굴·입술·혀 부종이 발생하면 기도 침범 여부를 즉시 평가
-* DHP-CCB 유발 발목 부종 : 용량 감량 또는 중단/교체를 우선 고려
-  * 혈압 적응증이 있으면 ACEi/ARB 병용으로 부종이 감소할 수 있음
-  * DHP-CCB 부종은 혈관 확장에 따른 모세혈관 내 압력 변화가 주기전이므로, 전신 volume overload가 없다면 이뇨제로 교정하려 하지 않음
-  * 약물 교체 : lercanidipine 등 일부 newer/lipophilic DHP CCB로 전환을 고려할 수 있음
+  * minoxidil : 혈관 확장
+  * 인슐린 : 초기 투여 시 Na 정체 유발
+* 혈관부종(angioedema) 유발 약물
+  * ACE 억제제가 대표적 약물; ARB에서도 드물게 발생 가능
+  * 복용 초기뿐 아니라 장기 복용 중에도 발생할 수 있음
 
 #### <mark style="color:$primary;">원인별 부종의 특징 비교</mark>
 
-<table><thead><tr><th width="96">구분</th><th>심부전</th><th>신증후군</th><th>간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치);<br>ascending edema</td><td>안면(눈가) 및 전신;<br>periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>일중 체중 변동, 기립 후 악화, 월경 전 악화 가능</td></tr></tbody></table>
+<table><thead><tr><th width="110">구분</th><th>주요 부위</th><th>심화 시간</th><th>동반 증상</th></tr></thead><tbody><tr><td><strong>심부전</strong></td><td>하지(심장보다 낮은 위치);<br>ascending edema</td><td>저녁(활동 후)</td><td>호흡 곤란, 경정맥 확장, orthopnea</td></tr><tr><td><strong>신증후군</strong></td><td>안면(눈가) 및 전신;<br>periorbital edema</td><td>아침(기상 직후)</td><td>거품뇨, 단백뇨, 저알부민혈증</td></tr><tr><td><strong>간경화</strong></td><td>복수 + 하지</td><td>비교적 일정</td><td>황달, 손바닥 홍반, 여성형유방증</td></tr><tr><td><strong>특발성 부종</strong></td><td>안면, 손, 하지</td><td>하지 부종·체중 증가는 저녁에 심함;<br>아침 안면·손 부종 가능</td><td>일중 체중 변동, 기립 후 악화, 월경 전 악화 가능</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">만성 하지 부종의 특징 비교</mark>
 
@@ -173,9 +168,7 @@
 
 > _\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음._
 >
-> _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장시간 기립·근육펌프 저하 등에 의한 의존성 부종이 포함되지만 병태생리는 서로 다르므로 임상 소견과 전신 울혈 여부를 함께 평가한다._
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Rakel Textbook of Family Medicine 9th ed. 2016. Table 27-23 등)</mark></em></p>
+> _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장시간 기립·근육펌프 저하 등에 의한 의존성 부종이 포함되지만 병태생리는 서로 다르므로 임상 소견과 전신 울혈 여부를 함께 평가_
 
 #### <mark style="color:$primary;">국소 상태</mark>
 
@@ -196,7 +189,6 @@
 * 신경병증성 당뇨발 궤양 → 발바닥 등 압박 부위에 흔하며 감각 저하로 통증이 적을 수 있음
   * 동맥성·정맥성 궤양과 감별
 * 반대측보다 종아리 둘레가 ≥3 ㎝ 크면 DVT Wells score +1점에 해당하나, 단독으로 DVT를 진단하지 않음
-  * tibial tuberosity의 10 ㎝ 하방에서 양측을 동일한 자세로 측정
 * 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
@@ -209,12 +201,11 @@
 
 * 초음파, D-dimer 검사: 새로 발생한 원인 불명의 편측 하지 부종에서 DVT 감별을 위하여 시행
   * Wells score ≤1 (DVT unlikely)에서는 고감도 D-dimer를 이용한 배제 전략을 적용할 수 있음
-  * Wells ≥2 (DVT likely)에서는 pretest probability가 높으므로 D-dimer 단독 배제 전략을 사용하지 않고 proximal CUS를 우선 시행
+  * Wells ≥2 (DVT likely)에서는 pretest probability가 높으므로 D-dimer 단독 배제 전략을 사용하지 않고 근위부 압박 초음파 검사(proximal CUS)를 우선 시행
   * 50세 초과에서는 검사법에 적합한 age-adjusted D-dimer cutoff 사용을 고려
-* Ankle-brachial pressure index : 만성 정맥 부전과 동맥 질환 감별
-  * 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함
-  * 혈관 석회화로 ABI가 비압박성(noncompressible) 또는 높게 측정되면 toe-brachial index(TBI; ≤0.70 시 이상)와 파형검사로 보완하고, 필요시 추가 혈관검사 또는 혈관 전문 평가를 고려.
-    * 발등동맥·후경골동맥 맥박 촉진만으로 PAD를 배제하거나 압박치료의 안전성을 판단하지 않음
+* Ankle-brachial pressure index : 만성 정맥부전과 동맥 질환 감별, 압박치료 전 동맥 순환 평가
+  * PAD 증상(파행·안정 시 통증), 위험인자(당뇨병·흡연·고령), 하지 궤양이 있거나 고압력 압박을 계획할 때 측정
+  * 측정이 어려우면 맥박 촉진만으로 판단하지 말고 혈관검사가 가능한 기관에 의뢰
 * 원인 불명의 양측 하지 또는 전신 부종에서는 병력·진찰과 임상 가능성에 따라 다음 검사를 선택하여 시행
   * BMP/electrolytes
   * BUN/Cr/eGFR
@@ -224,27 +215,62 @@
   * urinalysis + urine protein/Cr ratio(또는 uACR)
   * 임상 상황에 따라 CBC 추가
   * BNP/NT-proBNP는 비만에서 예상보다 낮고 CKD·고령·AF에서는 높을 수 있으므로 임상 소견과 함께 해석
-* [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) : DVT 임상 가능성 평가
-  * 배점 : 다음 항목들에 대하여 각 +1점
-    1. 활성 암(치료 중, 최근 6개월 이내 치료 또는 완화치료)
-    2. 최근 3일 이상 침상 안정 또는 12주 이내 전신·부위마취가 필요했던 주요 수술
-    3. 종아리 둘레가 반대측보다 ≥3 ㎝
-    4. collateral(비정맥류) 표재 정맥
-    5. 증상측 하지 전체 부종
-    6. 심부정맥 경로를 따라 국소 압통
-    7. 증상측 다리에 국한된 pitting edema
-    8. 하지 마비·불완전마비 또는 최근 석고 고정
-    9. 확인된 DVT 과거력
-  * 다음 항목에 대하여 −2점
-    * 10\. DVT만큼 가능성 있는 다른 진단
+* Wells score : DVT 임상 가능성 평가 (☞ [계산기](https://www.mdcalc.com/calc/362/wells-criteria-dvt))
+  *   배점 : 다음 항목들에 대하여 각 +1점
+
+      1. 활성 암(치료 중, 최근 6개월 이내 치료 또는 완화치료)
+      2. 최근 3일 이상 침상 안정 또는 12주 이내 전신·부위마취가 필요했던 주요 수술
+      3. 종아리 둘레가 반대측보다 ≥3 ㎝
+         * tibial tuberosity의 10 ㎝ 하방에서 양측을 동일한 자세로 측정
+      4. collateral(비정맥류) 표재 정맥
+      5. 증상측 하지 전체 부종
+      6. 심부정맥 경로를 따라 국소 압통
+      7. 증상측 다리에 국한된 pitting edema
+      8. 하지 마비·불완전마비 또는 최근 석고 고정
+      9. 확인된 DVT 과거력
+
+      10\. DVT만큼 가능성 있는 다른 진단 (이 항목은 −2점 배점)
   * 판정
-    * ≤1점=DVT unlikely
-    * ≥2점=DVT likely
+    * ≤1점=DVT unlikely; ≥2점=DVT likely
     * Wells score는 임상 판단을 보조하는 도구이며, 임신·산후 및 일부 특수 환자군에서는 별도의 진단 경로와 전문 평가가 필요함
 
 ***
 
 ```mermaid
+flowchart TD
+SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells score 평가"]
+B -- "≤1점<br/>DVT unlikely" --> C["<u>고감도 D-dimer</u><br/>• 결과 가능하면 4시간 이내"]
+C -- "음성" --> E["<u>임시 항응고제 중단</u><br/>• DVT 가능성 낮음·<br/>다른 원인 평가"]
+C -- "양성" --> D1["<u>Proximal CUS</u><br/>• 가능하면 <br/>4시간 이내"]
+C -- "D-dimer 결과 4시간 내 불가" --> I1["금기 평가 후 <br/>항응고제 임시 투여<br/>(치료 용량)<br/>• D-dimer 결과 <br/>확보 후 경로 적용"]
+I1 --> C
+B -- "≥2점<br/>DVT likely" --> D2["<u>Proximal CUS</u><br/>• 가능하면 4시간 이내"]
+D1 -- "음성" --> E
+D1 -- "CUS 결과 4시간 내 불가" --> I3["금기 평가 후 <br/>항응고제 임시 투여<br/>(치료 용량)"]
+I3 --> D4["<u>Proximal CUS</u><br/>• 24시간 이내"]
+D4 -- "양성" --> G0
+D4 -- "음성" --> E
+D1 -- "양성" --> G0["<u>DVT 진단</u><br/>• 항응고 치료"]
+D2 -- "양성" --> G["<u>DVT 진단</u><br/>• 항응고 치료"]
+D2 -- "CUS 결과 4시간 내 불가" --> I2["D-dimer 채혈 + <br/>금기 평가 후<br/>항응고제 임시 투여<br/>(치료 용량)"]
+I2 --> D3["<u>Proximal CUS</u><br/>• 24시간 이내"]
+D3 -- "양성" --> G
+D3 -- "음성" --> DD["D-dimer"]
+D2 -- "음성" --> DD
+DD -- "양성" --> R["<u>6~8일 후 <br/>proximal CUS 반복</u><br/>• 임시 항응고제 <br/>투여 중이었다면 <br/>중단"]
+R -- "양성" --> G
+R -- "음성" --> E0
+E -- "gross swelling <br/>또는 iliac/pelvic <br/>obstruction <br/>의심" --> H["CT/MR venography 고려"]
+DD -- "음성" --> E0["<u>임시 항응고제 중단</u><br/>• DVT 가능성 낮음·<br/>다른 원인 평가"]
+E0 -- "gross swelling <br/>또는 iliac/pelvic <br/>obstruction <br/>의심" --> H
+classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef question fill:#fff9c4,stroke:#ffe082
+classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+classDef treatment fill:#e3f2fd,stroke:#64b5f6
+class SG1 start
+class B,C,D1,D2,D3,D4,DD,R question
+class E,H,E0 evaluation
+class I1,I2,I3,G0,G treatment
 ```
 
 > _CUS=compression ultrasonography, DVT=deep venous thrombosis_
@@ -258,6 +284,22 @@
 ***
 
 ```mermaid
+flowchart TD
+    SG2["지속성·만성 편측 하지 부종"] --> B2["<u>병력·진찰</u><br/>• 피부 변화·발등 침범·<br/>Stemmer sign"]
+    B2 --> C2["우선 의심 원인"]
+    C2 -- "만성 정맥부전" --> D2["<u>Venous duplex US</u><br/>• reflux·obstruction 평가"]
+    C2 -- "림프부종" --> E2["<u>대부분 임상진단</u><br/>• CDT·압박치료 평가"]
+    C2 -- "근위부 폐쇄·종괴 의심" --> F2["복부·골반 CT/<br/>MR venography"]
+    C2 -- "그 밖의 원인" --> G2["종양·외상·감염·CRPS·<br/>Baker cyst 등 평가"]
+    E2 -- "진단 불확실 또는 <br/>수술 계획" --> H2["Lymphoscintigraphy 또는<br/>전문 림프영상 고려"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class SG2 start
+    class C2 question
+    class B2,D2,F2,G2,H2 evaluation
+    class E2 treatment
 ```
 
 > _CDT=complete decongestive therapy_
@@ -267,6 +309,22 @@
 ***
 
 ```mermaid
+flowchart TD
+    SG3["양측 하지 부종 또는<br/>전신 부종"]
+    SG3 --> A3["<u>발생 속도·체중 변화·약물</u><br/>• 심폐·간·신장 증상 평가"]
+    A3 --> B3["<u>기본검사</u><br/>• Cr/eGFR·전해질·<br/>LFT/albumin·TSH<br/>• UA+단백뇨·<br/>BNP/NT-proBNP"]
+    B3 --> C3["주요 임상 양상"]
+    C3 -- "호흡곤란·<br/>orthopnea JVP 상승" --> D3a["<u>심부전·폐부종 평가</u><br/>• ECG·CXR·심초음파"]
+    C3 -- "거품뇨·<br/>안면 부종 단백뇨" --> D3b["신장질환·<br/>신증후군 평가"]
+    C3 -- "복수·황달 <br/>만성 간질환" --> D3c["<u>간질환 평가</u><br/>• 신규 복수는 <br/>진단적 복수천자"]
+    C3 -- "전신 울혈 없음" --> D3d["약물·정맥부전·<br/>림프부종·lipedema·<br/>의존성 부종 평가"]
+    D3d -- "비만·코골이·주간졸림 <br/>폐고혈압/우심부전 의심" --> E3["OSA 및 심폐 평가 고려"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    class SG3 start
+    class C3 question
+    class A3,B3,D3a,D3b,D3c,D3d,E3 evaluation
 ```
 
 <p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em></p>
@@ -291,6 +349,14 @@
   * DVT에는 적응증에 따라 항응고 치료를 시행하고
   * 이뇨제는 전신성 Na·수분 저류 또는 울혈이 확인된 경우에 사용
 * 피부 관리 주의 (피부 손상 및 venous ulcer 예방)
+
+#### <mark style="color:$primary;">**약물 유발 부종**</mark>
+
+* 원인 약물의 감량 또는 중단/교체를 우선 고려
+* DHP-CCB 유발 발목 부종
+  * 모세혈관 내 압력 변화가 주기전이므로, 전신 volume overload가 없다면 이뇨제로 교정하려 하지 않음
+  * 혈압 적응증이 있으면 ACE 억제제/ARB 병용으로 부종이 감소할 수 있음
+  * 약물 교체 : lercanidipine 등 일부 newer/lipophilic DHP-CCB로 전환을 고려할 수 있음
 
 #### <mark style="color:$primary;">이뇨제 투여 지침</mark>
 
@@ -522,7 +588,6 @@
 * [European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol. 2018;69(2):406-460.](https://doi.org/10.1016/j.jhep.2018.03.024) - 첫 발생·재발성 복수의 이뇨제 시작 전략
 * [De Maeseneer MG, et al. European Society for Vascular Surgery (ESVS) 2022 Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs. Eur J Vasc Endovasc Surg. 2022;63(2):184-267.](https://pubmed.ncbi.nlm.nih.gov/35027279/) - 만성 정맥질환의 압박·중재와 venoactive drug의 적용
 * [Gloviczki P, et al. The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Part II. J Vasc Surg Venous Lymphat Disord. 2024;12(1):101670.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/) - 압박 치료·정맥순환개선제의 약제별 권고 수준; MPFF와 단일 diosmin의 근거 구분
-* Rakel RE, Rakel DP, eds. Textbook of Family Medicine. 9th ed. Elsevier; 2016. - 본문 감별 표 출처(Table 27-23)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
