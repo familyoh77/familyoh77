@@ -60,7 +60,8 @@
 * 알레르기, 두드러기, 혈관부종 : 모세혈관 투과성 증가
 * 폐쇄수면무호흡증 : 비만, 폐고혈압 또는 우심부전이 동반된 경우 하지 부종과 연관될 수 있음
   * OSA 자체를 부종의 직접 원인으로 단정하지는 않음
-* protein-losing enteropathy, 심한 영양실조 : 단백질 저하/합성↓
+* protein-losing enteropathy : 장관 단백 소실에 의한 저알부민혈증
+* 심한 영양실조 : 섭취 부족에 의한 저알부민혈증
 * 월경 전, 임신 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
@@ -71,7 +72,7 @@
 * 정맥부전 : 만성 하지 부종(편측 또는 양측)의 흔한 원인
 * DVT : DVT 후 지속되는 하지 부종은 대개 post-thrombotic syndrome에 의한 만성 정맥부전으로, 림프부종과 구별함
   * DVT 위험인자 : 활성 암, DVT/PE 과거력, 최근 수술·외상·입원 또는 활동 제한, 임신·산후, estrogen 사용, 혈전성향증, 고령·비만 등
-    * 정맥류는 DVT의위험인자로 거론되지만, Wells score의 항목은 아님
+    * 정맥류는 DVT의 위험인자로 거론되지만, Wells score의 항목은 아님
 
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
@@ -121,9 +122,9 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-#### <mark style="color:$primary;">**소견별 우선 감별**</mark>
+#### <mark style="color:$primary;">소견별 우선 감별</mark>
 
-* 새로 발생한 원인 불명의 편측 부종 → DVT (통증 유무와 관계없음)
+* 새로 발생한 원인 불명의 편측 하지 부종 → DVT (통증 유무와 관계없음)
 * 호흡 곤란 동반 → 심부전·폐부종, PE, 신부전성 volume overload, 폐질환
 * 아침 안면 부종 → 신장질환·신증후군, 저알부민혈증
 * 복수 + 하지 부종 → 간경화, 우심부전, 악성종양, 결핵, 췌장질환 등
@@ -139,7 +140,7 @@
 
 <mark style="color:cyan;">**편측 우세 (Unilateral predominance)**</mark>
 
-* 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
+* 원인 : 정맥부전, DVT, 림프부종, 종양, complex regional pain syndrome
 
 <mark style="color:cyan;">**양측 우세 (Bilateral predominance)**</mark>
 
@@ -164,7 +165,7 @@
 
 #### <mark style="color:$primary;">만성 하지 부종의 특징 비교</mark>
 
-<table><thead><tr><th width="118">항목</th><th>Systemic / Dependent</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>초기 pitting;<br>진행 시 brawny*</td><td>초기 pitting;<br>진행 시 non-pitting·섬유화</td><td>대개 뚜렷한 pitting 없음;<br>정맥·림프질환 동반 시 pitting 가능</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>호전</td><td>뚜렷하게 호전될 수 있음</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>주로 발목·하퇴;<br>진행 시 발에도 부종 가능</td><td>광범위, 원위부가 보다 심함 (발등 침범이 흔하며 Stemmer sign이 양성일 수 있음)</td><td>하지, 발목 (발 제외: cuff sign);<br>양측 대칭</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>대개 정상;<br>진행 시 결절성 지방조직·피부 표면 변화 가능</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>통증·무거움·조임이 흔함</td><td>대개 무통성 또는 중압감;<br>현저한 통증 시 다른 원인 평가</td><td>둔한 통증, 피부 과민, 압통 + 멍 잘 듦</td></tr><tr><td><strong>양측</strong></td><td>대개 양측</td><td>양측 또는 편측;<br>비대칭 가능</td><td>편측 또는 양측</td><td>대개 양측 대칭</td></tr></tbody></table>
+<table><thead><tr><th width="118">항목</th><th>Systemic / Dependent</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>초기 pitting;<br>진행 시 brawny*</td><td>초기 pitting;<br>진행 시 non-pitting·섬유화</td><td>대개 뚜렷한 pitting 없음;<br>정맥·림프질환 동반 시 pitting 가능</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>호전</td><td>뚜렷하게 호전될 수 있음</td><td>초기에는 호전 가능;<br>진행하면 효과 제한적</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>주로 발목·하퇴;<br>진행 시 발에도 부종 가능</td><td>광범위, 원위부가 보다 심함 (발등 침범이 흔하며 Stemmer sign이 양성일 수 있음)</td><td>하지, 발목 (발 제외: cuff sign);<br>양측 대칭</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>대개 정상;<br>진행 시 결절성 지방조직·피부 표면 변화 가능</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>통증·무거움·조임이 흔함</td><td>대개 무통성 또는 중압감;<br>현저한 통증 시 다른 원인 평가</td><td>둔한 통증, 피부 과민, 압통 + 멍 잘 듦</td></tr><tr><td><strong>양측</strong></td><td>대개 양측</td><td>양측 또는 편측;<br>비대칭 가능</td><td>편측 또는 양측</td><td>대개 양측 대칭</td></tr></tbody></table>
 
 > _\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음._
 >
@@ -177,13 +178,13 @@
 * pitting edema : pretibial area(정강이뼈 앞), 발등, medial malleolus(안쪽 복사뼈) 부위를 엄지손가락으로 5초 이상 압박 후 함몰 여부 확인
   * DVT, 정맥 부전, 림프부종 초기에서 양성
 
-<table><thead><tr><th width="79.3157958984375">등급</th><th width="122.26312255859375">함몰 깊이</th><th width="108.89471435546875">회복 시간</th><th>임상 소견</th></tr></thead><tbody><tr><td>1+</td><td>2 ㎜ 이하</td><td>즉시</td><td>경미한 부종</td></tr><tr><td>2+</td><td>2~4 ㎜</td><td>15초 이내</td><td>중등도; 하지 윤곽 유지</td></tr><tr><td>3+</td><td>4~6 ㎜</td><td>1분 이내</td><td>심한 부종; 하지 윤곽 변형</td></tr><tr><td>4+</td><td>6~8 ㎜ 이상</td><td>2분 이상</td><td>매우 심한 부종; 현저한 하지 변형</td></tr></tbody></table>
+<table><thead><tr><th width="79.3157958984375">등급</th><th width="122.26312255859375">함몰 깊이</th><th width="108.89471435546875">회복 시간</th><th>임상 소견</th></tr></thead><tbody><tr><td>1+</td><td>2 ㎜ 이하</td><td>즉시</td><td>경미한 부종</td></tr><tr><td>2+</td><td>＞2~4 ㎜</td><td>15초 이내</td><td>중등도; 하지 윤곽 유지</td></tr><tr><td>3+</td><td>＞4~6 ㎜</td><td>1분 이내</td><td>심한 부종; 하지 윤곽 변형</td></tr><tr><td>4+</td><td>＞6 ㎜</td><td>2분 이상</td><td>매우 심한 부종; 현저한 하지 변형</td></tr></tbody></table>
 
 > _위 수치는 임상에서 사용하는 여러 관행 중 하나이며 보편적으로 표준화된 절단값은 아님. Pitting edema 1+\~4+ 등급은 관찰자 간 재현성이 제한적이므로 추적 시 동일한 부위·자세·압박시간으로 평가하고, 같은 조건의 체중·발목/종아리 둘레와 피부 상태를 함께 기록하는 것이 좋음_
 
 * non-pitting edema : 림프부종 후기(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로, 림프부종을 지지하나 단독 확진 소견은 아님
-  * 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (민감도 92%, 특이도 57%) <mark style="color:$info;">\[Plast Reconstr Surg Glob Open 2019]</mark>
+  * 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 <mark style="color:$info;">\[Plast Reconstr Surg Glob Open 2019]</mark>
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 신경병증성 당뇨발 궤양 → 발바닥 등 압박 부위에 흔하며 감각 저하로 통증이 적을 수 있음
@@ -192,19 +193,15 @@
 * 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
-#### <mark style="color:$primary;">동반 증상</mark>
-
-* 호흡 곤란 → 심부전·폐부종뿐 아니라 PE, 신부전성 volume overload 및 폐질환 등을 함께 감별
-* 복수 → 간경화 외에 심부전, 악성종양, 결핵, 췌장질환 등도 감별
-
 ### <mark style="color:orange;">검사</mark>
 
 * 초음파, D-dimer 검사: 새로 발생한 원인 불명의 편측 하지 부종에서 DVT 감별을 위하여 시행
   * Wells score ≤1 (DVT unlikely)에서는 고감도 D-dimer를 이용한 배제 전략을 적용할 수 있음
   * Wells ≥2 (DVT likely)에서는 pretest probability가 높으므로 D-dimer 단독 배제 전략을 사용하지 않고 근위부 압박 초음파 검사(proximal CUS)를 우선 시행
   * 50세 초과에서는 검사법에 적합한 age-adjusted D-dimer cutoff 사용을 고려
-* Ankle-brachial pressure index : 만성 정맥부전과 동맥 질환 감별, 압박치료 전 동맥 순환 평가
+* ABI(ankle-brachial index) : 말초동맥질환 평가 및 압박치료 전 동맥 순환 확인
   * PAD 증상(파행·안정 시 통증), 위험인자(당뇨병·흡연·고령), 하지 궤양이 있거나 고압력 압박을 계획할 때 측정
+  * 혈관이 비압박성이거나 ABI가 비정상적으로 높으면 TBI 및 파형검사로 보완
   * 측정이 어려우면 맥박 촉진만으로 판단하지 말고 혈관검사가 가능한 기관에 의뢰
 * 원인 불명의 양측 하지 또는 전신 부종에서는 병력·진찰과 임상 가능성에 따라 다음 검사를 선택하여 시행
   * BMP/electrolytes
@@ -229,7 +226,7 @@
       8. 하지 마비·불완전마비 또는 최근 석고 고정
       9. 확인된 DVT 과거력
 
-      10\. DVT만큼 가능성 있는 다른 진단 (이 항목은 −2점 배점)
+  * −2점 : DVT만큼 또는 그보다 가능성이 높은 다른 진단
   * 판정
     * ≤1점=DVT unlikely; ≥2점=DVT likely
     * Wells score는 임상 판단을 보조하는 도구이며, 임신·산후 및 일부 특수 환자군에서는 별도의 진단 경로와 전문 평가가 필요함
@@ -255,7 +252,7 @@ D2 -- "양성" --> G["<u>DVT 진단</u><br/>• 항응고 치료"]
 D2 -- "CUS 결과 4시간 내 불가" --> I2["D-dimer 채혈 + <br/>금기 평가 후<br/>항응고제 임시 투여<br/>(치료 용량)"]
 I2 --> D3["<u>Proximal CUS</u><br/>• 24시간 이내"]
 D3 -- "양성" --> G
-D3 -- "음성" --> DD["D-dimer"]
+D3 -- "음성" --> DD["<u>D-dimer</u><br/>• 이미 채혈했으면 결과 확인"]
 D2 -- "음성" --> DD
 DD -- "양성" --> R["<u>6~8일 후 <br/>proximal CUS 반복</u><br/>• 임시 항응고제 <br/>투여 중이었다면 <br/>중단"]
 R -- "양성" --> G
@@ -277,7 +274,7 @@ class I1,I2,I3,G0,G treatment
 >
 > _새 호흡곤란·흉통·실신 또는 사지 허혈이 있으면 이 경로에 앞서 응급 평가. 이 알고리듬의 항응고 중단은 DVT 검사 대기 중 시작한 임시 치료에 한하며, 기존의 다른 적응증에 따른 항응고는 임의 중단하지 않음._
 >
-> _임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용_
+> _항응고제 임시 투여(치료 용량) 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 기초 혈액검사 결과는 항응고제 임시 투여 시작 후 24시간 이내에 확인하고 필요시 치료에 반영. 출혈 위험·금기와 임신 여부를 확인하고, 진료 환경과 환자별 위험에 따라 적용_
 
 <p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em><br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
 
@@ -312,11 +309,11 @@ flowchart TD
 flowchart TD
     SG3["양측 하지 부종 또는<br/>전신 부종"]
     SG3 --> A3["<u>발생 속도·체중 변화·약물</u><br/>• 심폐·간·신장 증상 평가"]
-    A3 --> B3["<u>기본검사</u><br/>• Cr/eGFR·전해질·<br/>LFT/albumin·TSH<br/>• UA+단백뇨·<br/>BNP/NT-proBNP"]
+    A3 --> B3["<u>임상 상황에 따른 기본검사</u><br/>• Cr/eGFR·전해질·<br/>LFT/albumin·TSH<br/>• UA+단백뇨·<br/>BNP/NT-proBNP"]
     B3 --> C3["주요 임상 양상"]
-    C3 -- "호흡곤란·<br/>orthopnea JVP 상승" --> D3a["<u>심부전·폐부종 평가</u><br/>• ECG·CXR·심초음파"]
-    C3 -- "거품뇨·<br/>안면 부종 단백뇨" --> D3b["신장질환·<br/>신증후군 평가"]
-    C3 -- "복수·황달 <br/>만성 간질환" --> D3c["<u>간질환 평가</u><br/>• 신규 복수는 <br/>진단적 복수천자"]
+    C3 -- "호흡곤란·<br/>orthopnea·JVP 상승" --> D3a["<u>심부전·폐부종 평가</u><br/>• ECG·CXR·심초음파"]
+    C3 -- "거품뇨·<br/>안면 부종·단백뇨" --> D3b["신장질환·<br/>신증후군 평가"]
+    C3 -- "복수·황달·<br/>만성 간질환" --> D3c["<u>간질환 평가</u><br/>• 신규 복수는 <br/>진단적 복수천자"]
     C3 -- "전신 울혈 없음" --> D3d["약물·정맥부전·<br/>림프부종·lipedema·<br/>의존성 부종 평가"]
     D3d -- "비만·코골이·주간졸림 <br/>폐고혈압/우심부전 의심" --> E3["OSA 및 심폐 평가 고려"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
@@ -326,6 +323,8 @@ flowchart TD
     class C3 question
     class A3,B3,D3a,D3b,D3c,D3d,E3 evaluation
 ```
+
+> _급성 폐부종 의심, 저산소증 또는 혈역학적 불안정이 있으면 이 경로에 앞서 응급 평가 및 안정화를 시행_
 
 <p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESVS 2022, ESC 2026, AASLD 2021 등)</mark></em></p>
 
@@ -350,7 +349,7 @@ flowchart TD
   * 이뇨제는 전신성 Na·수분 저류 또는 울혈이 확인된 경우에 사용
 * 피부 관리 주의 (피부 손상 및 venous ulcer 예방)
 
-#### <mark style="color:$primary;">**약물 유발 부종**</mark>
+#### <mark style="color:$primary;">약물 유발 부종</mark>
 
 * 원인 약물의 감량 또는 중단/교체를 우선 고려
 * DHP-CCB 유발 발목 부종
@@ -582,7 +581,7 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline NG158. 2020; updated 2023.](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations) - 2-level Wells·D-dimer·초음파 경로와 검사 지연 시 임시 항응고; 본문 알고리듬 출처
-* [Goss JA, Greene AK. Sensitivity and Specificity of the Stemmer Sign for Lymphedema: A Clinical Lymphoscintigraphic Study. Plast Reconstr Surg Glob Open. 2019;7(6):e2295.](https://doi.org/10.1097/GOX.0000000000002295) - Stemmer sign의 민감도·특이도와 위양성·위음성의 한계
+* [Goss JA, Greene AK. Sensitivity and Specificity of the Stemmer Sign for Lymphedema: A Clinical Lymphoscintigraphic Study. Plast Reconstr Surg Glob Open. 2019;7(6):e2295.](https://doi.org/10.1097/GOX.0000000000002295) - Stemmer sign의 위양성·위음성 한계
 * [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
 * [Biggins SW, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74(2):1014-1048.](https://doi.org/10.1002/hep.31884) - 간경화성 복수의 이뇨제·체중·신기능·전해질 관리
 * [European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol. 2018;69(2):406-460.](https://doi.org/10.1016/j.jhep.2018.03.024) - 첫 발생·재발성 복수의 이뇨제 시작 전략
