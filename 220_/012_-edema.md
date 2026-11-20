@@ -213,19 +213,17 @@
   * 임상 상황에 따라 CBC 추가
   * BNP/NT-proBNP는 비만에서 예상보다 낮고 CKD·고령·AF에서는 높을 수 있으므로 임상 소견과 함께 해석
 * Wells score : DVT 임상 가능성 평가 (☞ [계산기](https://www.mdcalc.com/calc/362/wells-criteria-dvt))
-  *   배점 : 다음 항목들에 대하여 각 +1점
-
-      1. 활성 암(치료 중, 최근 6개월 이내 치료 또는 완화치료)
-      2. 최근 3일 이상 침상 안정 또는 12주 이내 전신·부위마취가 필요했던 주요 수술
-      3. 종아리 둘레가 반대측보다 ≥3 ㎝
-         * tibial tuberosity의 10 ㎝ 하방에서 양측을 동일한 자세로 측정
-      4. collateral(비정맥류) 표재 정맥
-      5. 증상측 하지 전체 부종
-      6. 심부정맥 경로를 따라 국소 압통
-      7. 증상측 다리에 국한된 pitting edema
-      8. 하지 마비·불완전마비 또는 최근 석고 고정
-      9. 확인된 DVT 과거력
-
+  * 배점 : 다음 항목들에 대하여 각 +1점
+    1. 활성 암(치료 중, 최근 6개월 이내 치료 또는 완화치료)
+    2. 최근 3일 이상 침상 안정 또는 12주 이내 전신·부위마취가 필요했던 주요 수술
+    3. 종아리 둘레가 반대측보다 ≥3 ㎝
+       * tibial tuberosity의 10 ㎝ 하방에서 양측을 동일한 자세로 측정
+    4. collateral(비정맥류) 표재 정맥
+    5. 증상측 하지 전체 부종
+    6. 심부정맥 경로를 따라 국소 압통
+    7. 증상측 다리에 국한된 pitting edema
+    8. 하지 마비·불완전마비 또는 최근 석고 고정
+    9. 확인된 DVT 과거력
   * −2점 : DVT만큼 또는 그보다 가능성이 높은 다른 진단
   * 판정
     * ≤1점=DVT unlikely; ≥2점=DVT likely
@@ -335,17 +333,17 @@ flowchart TD
 {% hint style="danger" %}
 **놓치지 말아야 할 부종 원인 Top 5**
 
-1. DVT - 새로 발생한 원인 불명의 편측 하지 부종(압통이 없어도 가능) → Wells score 평가 후 D-dimer/CUS 경로 적용
-2. 비대상성 심부전 - 호흡 곤란·orthopnea·전신 울혈 동반 부종
-3. 신증후군 - 아침 안면 부종 + 거품뇨 + 저알부민
-4. 간경화 + 복수 - 복부 팽만 + 황달
-5. 약물 유발 부종 - 최근 시작된 CCB·NSAID·TZD·gabapentin 등
+1. **DVT** - 새로 발생한 원인 불명의 편측 하지 부종(압통이 없어도 가능) → Wells score 평가 후 D-dimer/CUS 경로 적용
+2. **비대상성 심부전** - 호흡 곤란·orthopnea·전신 울혈 동반 부종
+3. **신증후군** - 아침 안면 부종 + 거품뇨 + 저알부민
+4. **간경화 + 복수** - 복부 팽만 + 황달
+5. **약물 유발 부종** - 최근 시작된 CCB·NSAID·TZD·gabapentin 등
 {% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 원인 질환을 우선 치료함.
-  * DVT에는 적응증에 따라 항응고 치료를 시행하고
+* 원인 질환을 우선 치료함
+  * DVT에는 적응증에 따라 항응고 치료를 시행
   * 이뇨제는 전신성 Na·수분 저류 또는 울혈이 확인된 경우에 사용
 * 피부 관리 주의 (피부 손상 및 venous ulcer 예방)
 
@@ -359,40 +357,111 @@ flowchart TD
 
 #### <mark style="color:$primary;">이뇨제 투여 지침</mark>
 
-* 안정된 말초 부종만으로 이뇨제를 서둘러 투여하지 않음.
-  * 폐부종·저산소증을 동반한 울혈, 진행성 cardiorenal syndrome, 긴장성 복수 등은 신속한 평가와 입원 또는 전문의 의뢰가 필요
-* 주의 : 간경화성 복수·신증후군 등에서는 겉으로 부종이 심해도 유효 순환 혈액량이 감소해 있을 수 있어 과도한 이뇨에 의한 저혈압·AKI에 주의
-  * 만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
-* 심부전·신장질환 등 전신 volume overload : loop diuretics(예: furosemide, bumetanide, torsemide)를 주로 사용
-* 간경화성 복수 : aldosterone antagonist가 치료의 중심이며, 시작 전략은 아래 간경화 항목과 같이 환자 상태와 지침에 따라 단독 또는 loop 병합을 선택
-  * AASLD는 spironolactone 100 ㎎ + furosemide 40 ㎎ 병합 시작을 선호
-  * EASL은 첫 발생 grade 2 복수에서 spironolactone 단독 시작 후 반응 불충분 또는 고K혈증 시 furosemide 추가를 권고하며
-    * 재발성 복수에는 병합요법 권고
-  * 긴장성/grade 3 복수에서는 단순 이뇨제 증량보다 large-volume paracentesis와 적응증에 따른 albumin 투여를 우선 고려
-  * 이뇨 중 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 ㎏/d, 말초 부종이 있으면 ≤1 ㎏/d를 목표로 하며
-    * 저Na혈증·AKI·저혈압·간성뇌증 발생 시 감량·중단하고 재평가
-  * 5 L를 초과하여 복수를 제거하는 large-volume paracentesis에서는 일반적으로 제거한 복수 1 L당 albumin 6\~8 g 투여
-* furosemide
-  * 야간 투여 시 수면 장애 초래 가능
-  * 경구 초기 20\~40 ㎎ qAM에서 반응에 따라 조절
-  * 정주 투여는 급성기·전문의 관리하에 용량·속도를 별도 결정 [라식스](https://www.health.kr/drug/A11A0740A0095)
-  * 반응 불충분 시 원인, 복약 순응도, Na 섭취, 신기능 및 흡수 장애를 재평가한 뒤 용량을 조절
-  * 허가사항상 중증 부종에서 PO 600 ㎎/d까지 기술되어 있으나 일반적인 외래 상한이 아님
-  * 80 ㎎/d를 장기간 초과하면 면밀한 임상·검사실 모니터링이 필요함.
-  * 고용량 경구 또는 정주 치료는 전문의·급성기 관리 영역으로 봄
-  * 신부전 또는 신증후군 시 고용량 필요
-  * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
-* 이뇨제 저항성 시 순차적 nephron 차단 전략
-  * loop 이뇨제 단독으로 반응이 불충분한 저항성 울혈에서 thiazide계 이뇨제 등을 병용할 수 있음
-  * 투여 시점과 용량은 환자별로 조절하며, 저Na·저K·저Mg혈증, 저혈압 및 신기능 악화 위험이 크므로 전문의 판단 또는 단기간 내 검사실 추적이 가능한 상황에서 시행
-* 저알부민 상태에서의 이뇨제 저항성
-  * 중증 저알부민혈증 및 유효 순환혈액량 감소가 있는 일부 입원 환자에서 전문의 판단하에 albumin 정주 + loop 이뇨제를 고려할 수 있으나 routine use는 권장되지 않음
-  * 간경화에서는 단순 저알부민혈증 자체가 albumin 투여 적응증은 아니며, large-volume paracentesis 등 별도 적응증에 따라 사용
-* 신증후군성 부종은 신기능·유효순환혈액량·저알부민혈증 정도에 따라 이뇨제 용량·전략이 크게 달라지므로, 일률적인 외래 처방례를 제시하지 않고 개별화하여 접근함
+<mark style="color:cyan;">**사용 원칙**</mark>
+
+* 말초 부종 환자에서는 전신 체액 과부하 또는 울혈 여부를 먼저 평가함
+  * 전신 체액 과부하가 없는 만성 정맥부전 등의 부종에는 이뇨제를 권하지 않음
+* 급성 폐부종 또는 저산소증이 동반된 울혈은 즉시 응급 평가
+* 진행성 cardiorenal syndrome 또는 긴장성 복수는 신속히 평가하여 입원 또는 전문의 의뢰
+* 간경화성 복수·신증후군에서는 부종이 심해도 유효 순환 혈액량이 감소해 있을 수 있으므로, 과도한 이뇨에 따른 저혈압 및 AKI에 주의
+
+<mark style="color:cyan;">**질환/상황별 선택**</mark>
+
+* 심부전·신장질환에 의한 전신 체액 과부하에는 loop 이뇨제(예: furosemide, torsemide)를 주로 사용
+* 간경화성 복수의 이뇨제 치료는 aldosterone antagonist가 중심임 <mark style="color:$info;">\[KASL 2026, AASLD 2021, EASL 2018]</mark>
+  * 첫 발생 grade 2 복수에서는 spironolactone 단독으로 시작할 수 있으며, 반응이 불충분하면 furosemide 추가를 고려
+  * 재발성 복수 또는 신속한 이뇨가 필요한 경우에는 처음부터 병합을 고려함. 병합 시작의 대표 용량은 spironolactone 100 ㎎/d + furosemide 40 ㎎/d
+  * 치료 중 고K혈증이 발생하면 K 수치와 신기능을 재평가하여 spironolactone 감량·중단 또는 furosemide 추가 여부를 결정함. 중증 고K혈증에서는 spironolactone을 중단하고 신속히 평가
+  * 이뇨 중 체중 감소 속도는 말초 부종이 없으면 0.5 ㎏/d, 있으면 1 ㎏/d를 넘지 않도록 함
+    * 저Na혈증·AKI·저혈압·간성뇌증 발생 시 이뇨제를 감량하거나 중단하고 재평가
+  * 긴장성 복수에서는 대량 복수천자(large-volume paracentesis, LVP)를 1차 치료로 시행
+    * LVP 시 제거한 복수 총량 1 L당 albumin 6\~8 g을 정주
+    * 단순 저알부민혈증 자체는 albumin 투여 적응증이 아님
+* 신증후군성 부종에서는 신기능·유효 순환 혈액량·저알부민혈증 정도에 따라 이뇨제 용량과 투여 방법을 개별화함
+
+<mark style="color:cyan;">**이뇨제 저항성**</mark>
+
+* 순차적 nephron 차단 : loop 이뇨제 용량을 충분히 조절했는데도 울혈이 지속되면 thiazide계 이뇨제 등을 병용할 수 있음
+  * 저Na·저K·저Mg혈증, 저혈압 및 신기능 악화 위험이 있으므로 전문의 판단하에 시행하거나 단기간 내 검사실 추적이 가능한 경우에 시행
+* 충분한 정주 이뇨제에도 반응하지 않는 일부 입원 신증후군 환자에서 중증 저알부민혈증이 동반되면, 전문의 판단하에 albumin 정주와 loop 이뇨제 병용을 고려할 수 있음. 일률적 병용은 권하지 않음
+
+<mark style="color:cyan;">**약제별 용법**</mark>
+
+* furosemide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">라식스</mark>](https://www.health.kr/drug/A11A0740A0095)<mark style="color:blue;">]</mark>
+  * 체액 과부하 또는 울혈이 확인된 안정 외래 환자의 경구 시작 예 : 20\~40 ㎎ qAM. 반응에 따라 조절하며, 야간 투여 시 야간뇨로 수면이 방해될 수 있음
+  * 중증 부종에서 경구 600 ㎎/d까지 허가되어 있으나, 일반적인 외래 상한은 아님. 고용량 경구 또는 정주 치료는 전문의·급성기 관리하에 결정
+  * 시작·증량 후 혈압·체중·신기능·전해질을 추적하며, 고용량에서는 더 면밀히 관찰
+  * 반응이 불충분하면 원인, 복약 순응도, Na 섭취, 신기능 및 흡수 장애를 재평가
+  * 심부전에서는 저관류 징후를 모니터링하면서 사용
+* spironolactone <mark style="color:blue;">\[</mark>[<mark style="color:blue;">알닥톤</mark>](https://www.health.kr/drug/A11AOOOOO3515)<mark style="color:blue;">]</mark>
+  * 간경화성 복수에서는 50\~100 ㎎/d로 시작하고 반응과 내약성에 따라 3\~5일 간격으로 증량함(최대 400 ㎎/d). 병합 시 furosemide는 최대 160 ㎎/d
+  * 시작·증량 후 체중·혈압·Cr·Na·K를 확인하여 용량을 조절
+  * 통증성 여성형유방증·유방통으로 지속하기 어려우면 amiloride 대체를 전문의와 상의
+  * 특발성 부종에서의 용법·주의사항은 「특발성 부종증후군, 하지 부종 > 이뇨제」 참조
 
 ***
 
 ```mermaid
+flowchart TD
+    ST["부종 환자"] --> A["급성 폐부종 또는<br/>저산소증이 동반된 울혈?"]
+    A -- "예" --> EM["즉시 응급 평가"]
+    A -- "아니오" --> P["진행성 cardiorenal syndrome?"]
+    P -- "예" --> R["신속한 평가 및<br/>입원 또는 전문의 의뢰"]
+    P -- "아니오" --> B["전신 체액 과부하·울혈<br/>또는 간경화성 복수?"]
+    B -- "아니오" --> Z["<u>원인별 평가·치료</u><br/>• 정맥부전·림프부종·lipedema 등<br/>• 적응증에 따라 압박·거상·운동"]
+    B -- "예" --> C["원인 분류"]
+    C --> HF["심부전"]
+    C --> RK["신장질환에 의한 체액 과부하<br/>(신증후군은 별도 경로)"]
+    C --> CI["간경화성 복수"]
+    C --> NS["신증후군"]
+    HF --> HF1["<u>Loop 이뇨제</u><br/>• 안정 외래 환자의 경구 시작 예<br/>furosemide 20~40 ㎎ qAM<br/>• 울혈 해소를 목표로 용량 조절"]
+    RK --> RK1["<u>Loop 이뇨제</u><br/>• 신기능·체액 상태에 따라 개별화"]
+    HF1 -- "반응 불충분" --> H2["원인·복약·Na 섭취·신기능 재평가<br/>및 loop 용량 조절"]
+    RK1 -- "반응 불충분" --> H2
+    H2 -- "충분히 조절해도 울혈 지속" --> H3["Thiazide계 병용 고려<br/>• 혈압·신기능·전해질 추적"]
+    HF1 -- "SGLT2i 시작 또는 병용" --> HF3["혈압·울혈·용적 상태 재평가<br/>• 저혈압 또는 용적 고갈 위험 시<br/>loop 감량 고려"]
+    CI --> CI0["긴장성 복수?"]
+    CI0 -- "예" --> CI2["<u>대량 복수천자(LVP) 우선</u><br/>• 제거한 복수 총량 1 L당<br/>albumin 6~8 g 정주"]
+    CI0 -- "아니오" --> CI1["<u>복수 이뇨제 선택</u><br/>• 첫 grade 2 복수: spironolactone 단독 가능<br/>• 재발성 또는 신속한 이뇨 필요 시 병합 고려<br/>• 병합 시작 예: spironolactone 100 ㎎/d<br/>+ furosemide 40 ㎎/d"]
+    CI1 -- "단독요법 반응 불충분" --> CI4["Furosemide 추가 고려"]
+    CI1 -- "고K혈증 발생" --> CI5["K·신기능 재평가<br/>• Spironolactone 감량·중단 또는<br/>furosemide 추가 여부 결정<br/>• 중증이면 spironolactone 중단 및 신속 평가"]
+    CI1 -- "통증성 여성형유방증·유방통으로 지속 곤란" --> CI3["Amiloride 대체를 전문의와 상의"]
+    
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    class ST start
+    class A,P,B,C,CI0 question
+    class EM emergency
+    class R,H2,HF3,CI5 evaluation
+    class Z,HF1,RK1,H3,CI1,CI2,CI3,CI4 treatment
+    class HF,RK,CI,NS followup
+
+```
+
+```mermaid
+flowchart TD
+    NS["신증후군성 부종"] --> NS1["유효 순환 혈액량·신기능을 평가하고 loop 이뇨제 조절"]
+    NS1 --> Q1["초기 이뇨 반응은?"]
+    Q1 -- "충분" --> F["부종·체중·혈압·신기능·전해질 추적"]
+    Q1 -- "불충분" --> NS2["정주 loop 이뇨제로 전환하고 필요시 순차적 nephron 차단 고려"]
+    NS2 --> Q2["충분한 정주 이뇨 후 반응은?"]
+    Q2 -- "충분" --> F
+    Q2 -- "불충분 · 중증 저알부민혈증 동반" --> ALB["일부 입원 환자에서 전문의 판단하에 albumin과 loop 이뇨제 병용 고려"]
+    Q2 -- "불충분 · 중증 저알부민혈증 없음" --> R["이뇨 저항성 원인과 치료 전략 재평가"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    classDef followup fill:#e8eaf6,stroke:#7986cb
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    class NS start
+    class Q1,Q2 question
+    class NS1,NS2,ALB treatment
+    class F followup
+    class R evaluation
 ```
 
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (AASLD·EASL 복수 관리 지침 및 심부전 이뇨제 관리 원칙 참조)</mark></em></p>
@@ -421,10 +490,10 @@ flowchart TD
 ### <mark style="color:orange;">특발성 부종증후군, 하지 부종</mark>
 
 * 다음 순서로 접근함
-  * ① 심장·간·신장 질환, 정맥/림프질환 및 약물 유발 부종 배제
-  * ② 불필요한 기존 이뇨제의 감독하 감량·중단
-  * ③ 염분 과잉·섭식 장애·장시간 기립 등 생활 요인 교정
-  * ④ 지속되는 선별 환자에서만 제한적으로 약물 고려
+  1. 심장·간·신장 질환, 정맥/림프질환 및 약물 유발 부종 배제
+  2. 불필요한 기존 이뇨제의 감독하 감량·중단
+  3. 염분 과잉·섭식 장애·장시간 기립 등 생활 요인 교정
+  4. 지속되는 선별 환자에서만 제한적으로 약물 고려
 * 이미 이뇨제를 사용하고 있는 경우에는 심장·간·신장 질환 등 지속 적응증이 없음을 확인한 후 의사의 감독 아래 감량·중단(diuretic withdrawal)을 우선 고려함
   * 중단 후 2\~4주 동안 반동 부종을 관찰하고 필요시 저염식 병행
 * 이뇨제 유발 부종 악순환 : 만성 이뇨제 사용 → RAAS 활성화 → aldosterone↑ → Na 정체 → 이뇨제 중단 시 반동 부종(rebound edema)
@@ -432,16 +501,16 @@ flowchart TD
 
 #### <mark style="color:$primary;">이뇨제</mark>
 
-* [이뇨제](../225_/095_-hypertension.md#diuretics)가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여
+* 이뇨제가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여
 * 야간뇨를 피하기 위해 아침 또는 이른 오후에 투여
-* spironolactone 50\~100 ㎎/d에서 시작하여 최소 유효 용량 사용 [알닥톤](https://www.health.kr/drug/A11AOOOOO3515)
-  * (특발성 부종에 대한 근거가 제한적인 경험적 사용이며 장기 투여를 피함)
+* spironolactone 50\~100 ㎎/d에서 시작하여 최소 유효 용량 사용 <mark style="color:blue;">\[알닥톤]</mark>
+  * 특발성 부종에 대한 근거가 제한적인 경험적 사용이며 장기 투여를 피함
   * 시작 전 K, Cr/eGFR 및 혈압을 확인
   * 시작 또는 증량 후 통상 1주 이내 재검한 뒤 환자 위험도에 따라 주기적으로 추적
   * K 보충제·다른 K 보존성 이뇨제와는 병용하지 않음.
   * ACE 억제제/ARB·NSAID 병용 및 CKD·고령에서는 고K혈증 위험에 특히 주의
   * 고K혈증·무뇨·급성 신부전·중증 신기능 장애에서는 투여하지 않음
-  * 필요시 hydrochlorothiazide 12.5\~25 ㎎ [다이크로짇](https://health.kr/drug/A11A0450A0076) qAM을 선택적으로 병용할 수 있음
+  * 필요시 hydrochlorothiazide 12.5\~25 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">다이크로짇</mark>](https://health.kr/drug/A11A0450A0076)] qAM을 선택적으로 병용할 수 있음
     * 저Na·저K혈증과 체액고갈 위험이 있어 조기에 전해질·신기능을 추적
 
 #### <mark style="color:$primary;">기타</mark>
@@ -450,8 +519,9 @@ flowchart TD
   * 단, 심부전에 의한 부종 환자는 누운 자세로 인한 정맥 환류량 증가가 호흡 곤란을 악화시킬 수 있으므로 주의
 * 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
-* 저염식과 수분 조절은 심부전·신장질환·간경화 등 Na·수분 저류성 부종에서 원인 질환과 혈청 Na·용적 상태에 맞게 적용
-  * 단순 정맥부전·림프부종·lipedema의 핵심 치료로 일률 적용하지 않음
+* 저염식 : 과도한 염분 섭취를 피함
+  * 심부전·신장질환·간경화 등 Na·수분 저류성 부종에서는 원인 질환과 혈청 Na·용적 상태에 맞게 저염식·수분 조절을 적용
+  * 정맥부전·림프부종·lipedema는 Na·수분 저류가 주원인이 아니므로 저염식·수분 제한만으로는 호전을 기대하기 어려움; 압박·거상·운동이 주 치료
 * 적정 체중 유지, 섭식 장애 교정
 * 동반된 우울·불안 또는 섭식 장애 등이 있으면 별도로 평가·치료
 * 걷기 : 종아리 근육이 수축되며 정맥 회귀가 증가됨
@@ -462,16 +532,20 @@ flowchart TD
 * 하지 압박 : 깨어 있을 때 압박 스타킹 착용; 취침 시에는 착용하지 않음
   * 1차 선택 : 일반적으로 AD type 스타킹(발목\~무릎 아래)
     * AG type(발목\~허벅지) : 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용
-      * 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과 위험
-  * ABI ＜0.6, ankle pressure ＜60 ㎜Hg 또는 toe pressure ＜30 ㎜Hg이면 sustained compression은 일반적으로 피하고 혈관 전문 평가를 고려
-    * ABI 0.6\~0.8에서는 동맥 관류를 확인한 뒤 저압력 압박을 전문가 판단하에 신중히 적용
+      * 순응도가 낮고, 무릎 뒤나 허벅지 윗부분에서 접히거나 말리면 그 부위가 띠처럼 조여 정맥 환류를 오히려 막을 수 있음
+  * 압박 전 동맥 순환 확인 : PAD 증상(파행·안정 시 통증), 위험인자(당뇨병·흡연·고령) 또는 하지 궤양이 있으면 압박 전에 ABI를 측정하거나 혈관검사가 가능한 기관에 의뢰
+    * ABI ＜0.8이면 압박을 시작하지 않고 혈관 전문 평가를 의뢰
+    * ABI ＜0.6이면 sustained compression은 일반적으로 금기
+    * ABI ＞1.3이면 혈관 석회화로 실제보다 높게 측정되었을 수 있어 신뢰하기 어려우므로 압박 전 혈관 전문 평가를 의뢰
+  * 압박 전 동맥 순환 확인 : PAD 증상(파행·안정 시 통증), 위험인자(당뇨병·흡연·고령) 또는 하지 궤양이 있으면 압박 전에 ABI를 측정하거나 혈관검사가 가능한 기관에 의뢰
+    * ABI ＜0.8이면 압박을 시작하지 않고 혈관 전문 평가를 의뢰
+    * ABI ＜0.6이면 sustained compression은 일반적으로 금기
   * 심부전 : NYHA IV에서는 sustained compression을 피함
   * NYHA III에서는 routine 사용을 권하지 않으며 명확한 적응증이 있을 때 임상·혈역학적 모니터링하에 선택적으로 적용
-  * 취침 시에는 일반적으로 압박 스타킹을 착용하지 않음
-  * ABI ＞1.3 : 혈관 석회화(calcification)로 위양성 가능 → 압박 적용 전 toe-brachial index(TBI) 또는 혈관외과 평가 필요
   * 주의 : 중증 말초신경병증(peripheral neuropathy) 환자는 압박에 의한 피부 손상을 감지하지 못할 수 있으므로 신중히 적용하고 정기적으로 피부 상태를 확인
-* 경증 정맥성 부종에는 일반적으로 20\~30 ㎜Hg를 고려
-  * 정맥성 궤양은 동맥 순환이 충분한지 확인한 후 발목 목표압 약 40 ㎜Hg의 다층·비탄력 붕대 또는 조절형 압박기구를 우선 고려
+* 경증 정맥성 부종 : 발목 압력 20\~30 ㎜Hg의 압박 스타킹을 선택
+  * 제품 포장에 표시된 압력(㎜Hg)을 확인하여 처방·안내
+* 정맥성 궤양 : 동맥 순환을 확인한 후 다층·비탄력 붕대 등 고압력 압박(발목 약 40 ㎜Hg)이 필요하므로, 상처 관리가 가능한 기관에 의뢰를 고려
 * 추가 VTE 위험인자가 없는 저위험 장거리 여행자에게 압박 스타킹을 routine으로 권하지 않음
   * 과거 VTE, 최근 수술, 활동성 암, 임신·산후 또는 복합 위험인자가 있는 경우 개별 위험 평가 후 무릎 아래 graduated compression stockings를 고려
 * 림프부종의 초기 집중 치료기(reductive phase)에는 숙련된 치료자가 complete decongestive therapy의 일부로 다층압박붕대를 환자 상태에 맞게 적용
