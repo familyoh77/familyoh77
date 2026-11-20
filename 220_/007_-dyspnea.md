@@ -178,7 +178,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * 높은 사전확률 : D-dimer로 영상검사를 지연시키지 않고 바로 CTPA(CT Pulmonary Angiography) 등 영상검사 진행
   * 임신부 : 일반 Wells·PERC를 그대로 적용하지 않고 임신부에 검증된 별도 진단 경로 적용
 * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음
-* 연령 보정 : ≥50세에서는 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
+* 연령 보정 : 50세 초과에서는 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
 * 단위 확인 : 검사실마다 FEU(fibrinogen equivalent unit) 또는 DDU(D-dimer unit) 기준이 다름
 
 <mark style="color:cyan;">**선택적 추가 검사**</mark>
