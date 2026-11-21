@@ -4,7 +4,7 @@
 
 * 피로 : 육체적·정신적 활력이 떨어져 기진맥진하고, 활동을 시작하거나 유지하기 어려우며 쉽게 지치는 증상
   * 졸림(sleepiness)이나 객관적 근력 저하(weakness)와 구별
-* 1차 진료에서 매우 흔한 증상이지만 원인이 명확하지 않은 경우가 많으며, 심리적·생활 습관적 요인부터 내과적 기질 질환까지 원인 범위가 넓음
+* 1차 진료에서 매우 흔한 증상이지만 원인이 명확하지 않은 경우가 많으며, 심리적·생활 습관적 요인부터 내과적 기질질환까지 원인 범위가 넓음
 * 이 챕터에서는 지속 기간을 급성(＜1개월), 아급성(1\~6개월), 만성(＞6개월)으로 구분하여 기술함. 기간 구분은 문헌마다 다름
   * 아급성·만성 피로에서는 우울·불안, 갑상선 질환, 빈혈, 수면 장애, 악성 종양 등을 감별해야 함
   * '만성 피로'라는 증상과 '[근육통성뇌척수염/만성피로증후군](../230_/194_-cfs.md)(ME/CFS)'이라는 질환은 구별해야 함. ME/CFS는 활동 후 증상 악화(PEM)와 비회복성 수면에 인지장애 또는 기립불내성이 동반될 때 의심
@@ -32,22 +32,23 @@
 * 임신 : 가임기 여성에서 반드시 고려해야 할 생리적 원인; 초기 임신에서 피로가 흔함
 * 만성피로증후군(ME/CFS)
 * 심장/호흡기 : CHF, COPD, 폐쇄수면무호흡증
-* 내분비/대사 : 갑상선저하증/항진증, 부신피질기능저하증(Addison's disease; Na↓·K↑·색소침착 동반 시 의심), 당뇨병(조절되지 않는 고혈당, 저혈당 반복), 만성 신/간질환, Na↓, Ca↑
+* 내분비/대사 : 갑상선저하증/항진증, 부신피질기능저하증(원발성인 Addison's disease에서는 Na↓·K↑·색소침착이 동반될 수 있음), 당뇨병(조절되지 않는 고혈당, 저혈당 반복), 만성 신/간질환, Na↓, Ca↑
 * 혈액/종양 : 빈혈(철결핍성·만성 질환성·거대적아구성), 악성 종양
 * 감염 : 단핵구증후군, 바이러스 간염, HIV 감염, 아급성 심내막염, 결핵, Long COVID\*
 
-> _\*Post-COVID condition : SARS-CoV-2 감염이 의심되었거나 확인된 사람에서 COVID-19 발병 후 통상 3개월 무렵에도 존재하며 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군. 급성기부터 지속되거나 회복 후 새로 나타날 수 있음. 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함 (_[_<mark style="background-color:yellow;">WHO 사례 정의</mark>_](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1)_)_
+> _\*Post-COVID condition : SARS-CoV-2 감염이 의심되었거나 확인된 사람에서 COVID-19 발병 후 통상 3개월 무렵에도 존재하며 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군. 급성기부터 지속되거나 회복 후 새로 나타날 수 있음. 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함 (_[_WHO 사례 정의_](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1)_)_
 
 * 자율신경 이상([POTS](../221_/030_-autonomic-dysfunction.md)) : Long COVID 이후 피로와 함께 기립성 증상이 동반되면 적극 고려
-  * 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm)이 있고 유의한 기립성 저혈압(수축기 ≥20 또는 이완기 ≥10 ㎜Hg 감소)은 없음
+  * 누워서 5\~10분 안정 후 측정한 심박수를 기준으로, 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm)이 있고 유의한 기립성 저혈압(수축기 ≥20 또는 이완기 ≥10 ㎜Hg 감소)은 없음
   * 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심
 * 신경계 질환·후유증 : 다발경화증, 파킨슨병, 뇌졸중 후 피로
 * 류마티스 : 섬유근육통, polymyalgia rheumatica
-* 정신 : 우울장애, 불안장애, 신체증상장애 등. 검사상 원인이 확인되지 않았다는 이유만으로 신체증상장애를 진단하지 않으며, 증상에 대한 과도한 사고·감정·행동 등 별도의 진단기준을 평가
+* 정신 : 우울장애, 불안장애, 신체증상장애 등. 검사상 원인이 확인되지 않았다는 이유만으로 신체증상장애를 진단하지 않으며, 증상에 대한 과도한 사고·감정·행동 등 별도의 진단 기준을 평가
 * 약물/치료
   * 중추신경 진정/억제 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, 마약성 진통제(opioids), 항콜린제
   * 심혈관/체액·전해질 : β-차단제, 이뇨제(탈수·기립성 저혈압·저Na/저K)
-  * 대사·영양소 결핍 유발 : statin(근육통 동반 여부 확인), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍)
+  * 근육 증상 : statin(근육통·근력 저하 동반 여부 확인)
+  * 대사·영양소 결핍 유발 : PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍)
   * 항암 치료 관련 : 세포독성 항암제·일부 표적치료제·면역관문억제제
 
 {% hint style="info" %}
@@ -111,24 +112,23 @@
 * Mood-driven fatigue → depression / anxiety
 * 약물 관련 피로 → 진정성 약물·β-차단제 등
 * Medical fatigue → anemia / thyroid / chronic disease
-* 활동후 증상 악화(Post-exertional malaise, PEM) → ME/CFS / PEM이 동반된 Long COVID
+* 활동 후 증상 악화(Post-exertional malaise, PEM) → ME/CFS / PEM이 동반된 Long COVID
 * Lifestyle fatigue → stress / overwork / inactivity
 * 분류는 문진을 돕는 틀이며 서로 배타적이지 않음. 여러 원인이 공존할 수 있음
 
 **Step 4 : 병력·진찰과 임상 단서에 따라 표적 검사 ± 선택적 baseline 검사**
 
-**Step 5&#x20;**<mark style="background-color:yellow;">**:**</mark>**&#x20;평가 시점과 추적 간격 결정**
+**Step 5 : 평가 시점과 추적 간격 결정**
 
-* 진행성 연하곤란, 설명되지 않는 폐경 후 출혈·체중 감소 등 조기 평가 소견이 있으면 필요한 검사·의뢰를 신속히 진행
+* 진행성 연하곤란, 폐경 후 질 출혈, 설명할 수 없는 체중 감소 등 조기 평가 소견이 있으면 필요한 검사·의뢰를 신속히 진행
 * 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 추적
 
 #### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
 
-| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)<br></p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table data-header-hidden><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</td><td><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</td></tr></tbody></table>
 
 * **언제 가장 피곤합니까?**
-  * 아침부터 피곤 → 비회복성 수면, 수면부족·불면·OSA, 기분 증상 등을 함께 평가
+  * 아침부터 피곤 → 비회복성 수면, 수면 부족·불면·OSA, 기분 증상 등을 함께 평가
     * 시간대만으로 우울증을 판정하지 않음
   * 활동 중 숨참·흉통·어지럼과 함께 악화 → 심폐질환·빈혈 등을 평가
   * 하루 종일 피곤 → 비특이적 소견이며 기질질환, 수면, 약물, 기분 문제, ME/CFS 등을 병력과 진찰로 감별
@@ -162,32 +162,33 @@
 * 선택적 검사 고려 상황 : 다음 중 하나 이상이면 증상 기간과 관계없이 임상 단서에 맞는 검사를 고려
   1. 일상·업무에 영향을 주는 기능 저하 동반
   2. 당뇨, CKD 등 만성질환 위험군 동반
-  3. 병력·진찰상 기질 질환의 단서가 있거나 원인이 불명확함
+  3. 병력·진찰상 기질질환의 단서가 있거나 원인이 불명확함
   4. 추적 관찰이 어렵거나 검사 결과가 즉시 치료·처방 결정에 영향을 줌
 
 <mark style="color:cyan;">**지속적·설명되지 않는 피로 또는 ME/CFS 의심 시 추가 고려**</mark>
 
-* 임상상에 따라 추가 고려 : CBC with differential, ESR/CRP, 전해질·Ca·P, 혈당, 신·간기능, TSH ± free T4, 철분(ferritin/serum iron/TIBC 또는 transferrin/TSAT), U/A
+* 임상상에 따라 추가 고려 : CBC with differential, ESR/CRP, 전해질·Ca·P, 혈당, 신·간기능, TSH ± free T4, iron studies(ferritin/serum iron/TIBC 또는 transferrin/TSAT), U/A
 * celiac disease 선별 : 위장관 증상·철결핍 등 단서가 있으면 고려하며, ME/CFS가 의심되면 위장관 증상이 없어도 NICE NG206 초기 감별검사 목록에 따라 고려
-* CK : 근육통·객관적 근력저하·statin 복용 등 임상 단서가 있으면 고려하며, NICE ME/CFS 초기 평가 목록에도 포함됨
-* Vit B12, 엽산, Vit D(25(OH)D), ANA, 흉부 X선, 수면검사(HSAT/PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
-  * 이종항체검사 : 감염단핵구증 의심 시 시행. 발병 초기에는 위음성이 나올 수 있어 임상 의심이 높으면 EBV 특이항체 검사 고려
+* CK : 근육통·객관적 근력 저하·statin 복용 등 임상 단서가 있으면 고려하며, NICE ME/CFS 초기 평가 목록에도 포함됨
+* Vit B12, 엽산, Vit D(25(OH)D), ANA, 흉부 X선, 가정 수면무호흡검사(HSAT) 또는 수면다원검사(PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
+  * 이종항체검사 : 감염단핵구증이 의심되는 청소년·성인에서 초기 검사로 고려. 어린 소아나 발병 초기에는 위음성이 흔하므로 임상 의심이 높으면 EBV 특이항체 검사 고려
 * CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석
   * 거대적아구성 빈혈에서는 Vit B12·엽산을 평가
   * B12 결핍은 빈혈·거대적혈구증 없이 신경 증상으로 나타날 수도 있음
 * ESR·CRP는 염증 여부를 판단하는 보조지표이며 만성질환빈혈을 단독으로 진단하지 못함
 * 철결핍빈혈·소화기 출혈 단서가 있으면 원인 평가와 필요시 내시경을 계획
   * 분변 잠혈검사/FIT 음성만으로 출혈이나 소화기 악성종양을 배제하지 않음
-* [<mark style="background-color:yellow;">철결핍</mark>](../230_/193_-iron-def-anemia.md) 평가 : 성인(월경 중인 사람·임신부 포함)에서 ferritin ≤30 ng/㎖이면 철결핍을 시사 <mark style="color:$info;">\[ASH 2026]</mark>
-  * 과다월경·철결핍 관련 증상 등이 있는 월경군과 빈혈이 동반된 임신부에서는 ferritin ≤50 ng/㎖를 진단·치료 결정에 사용할 수 있음 <mark style="color:$info;">\[ASH 2026]</mark>
+* [철결핍](../230_/193_-iron-def-anemia.md) 평가 : 성인(월경 중인 사람·임신부 포함)에서 ferritin ≤30 ng/㎖이면 철결핍을 시사 <mark style="color:$info;">\[ASH 2026]</mark>
+  * 철결핍 관련 증상·징후나 지속적인 위험 인자가 있는 비월경·비임신 성인, 과다월경·철결핍 관련 증상 등이 있는 월경군, 빈혈이 동반된 임신부에서는 ferritin ≤50 ng/㎖를 진단·치료 결정에 사용할 수 있음 <mark style="color:$info;">\[ASH 2026]</mark>
   * 빈혈 환자의 위장관 평가 지침에서 사용하는 철결핍 진단 기준은 ferritin ＜45 ng/㎖ <mark style="color:$info;">\[AGA 2020]</mark>
   * Ferritin은 급성기 반응물질이므로 염증 시 정상 또는 상승할 수 있어 CRP와 TSAT를 함께 해석하며, CKD·심부전·IBD 등에서는 질환별 기준을 적용
   * 염증성 빈혈이 있는 성인에서는 ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">\[ASH 2026]</mark>
 * IDWA(빈혈 없는 철결핍) : Hb가 정상이어도 ferritin ≤30 ng/㎖이면 철결핍을 고려
-  * Ferritin이 30 ng/㎖ 초과 50 ng/㎖ 이하이면 위 고위험군에 해당하는지 확인하고, 출혈 위험·식이·TSAT·염증 여부를 함께 판단
+  * Ferritin이 30 ng/㎖ 초과 50 ng/㎖ 이하이면 철결핍을 시사하는 증상·징후, 과다월경 등 출혈 위험, 식이, TSAT 및 염증 여부를 함께 판단
 * 갑상선 : 뇌하수체 질환(두통·시야장애 등) 또는 이차성 갑상선기능저하증이 의심되면 TSH가 정상이어도 free T4를 함께 측정
   * 정상 TSH의 비특이적 피로만을 이유로 Anti-TPO Ab를 일률적으로 추가하지 않음
-* 부신기능저하증 의심 시 : 상태가 안정적인 환자에서 체중 감소, 저혈압/기립성 증상, 식욕저하·구역, 저Na/고K, 색소침착, 최근 장기 glucocorticoid 사용·중단 등의 단서가 있으면 8\~9 AM serum cortisol ± ACTH 시행
+* 부신기능저하증 의심 시 : 상태가 안정적인 환자에서 체중 감소, 저혈압/기립성 증상, 식욕저하·구역, 저Na/고K, 색소침착 등의 단서가 있으면 8\~9 AM serum cortisol ± ACTH 시행
+  * 생리적 용량 이상의 glucocorticoid를 복용 중이면 일률적으로 검사하지 않으며, 감량·중단 중에는 약제 종류와 마지막 투여 시점을 고려하여 검사 시기를 정함
   * 부신위기가 의심되면 오전 채혈이나 검사 결과를 기다리지 않고 즉시 hydrocortisone 100 ㎎을 정맥 또는 근육주사하고 응급 이송. 가능하면 투여 전 cortisol·ACTH 검체를 채취하되 결과를 기다리지 않음
 * Vit D : 골질환·흡수장애·저칼슘혈증 등 결핍 위험 또는 임상적 적응증이 있을 때 선택적으로 측정하고 확인된 결핍은 교정
   * 피로 개선만을 목적으로 특정 25(OH)D 목표농도(예: ≥30 ng/㎖)를 설정하지 않음
@@ -204,13 +205,13 @@
   * 임상 면담으로 증상 기간·기능 저하·주요우울장애 진단 기준을 확인하고 양극성장애, 물질·약물 및 신체질환을 감별한 뒤 중증도와 환자 선호에 따라 상담·정신치료·약물치료 등을 결정
 * PHQ-9 9번 문항이 양성이면 총점과 관계없이 자살 사고의 구체성·계획·수단·의도와 보호 요인을 평가
 
-#### <mark style="color:$primary;">**피로 평가 척도**</mark>
+#### <mark style="color:$primary;">피로 평가 척도</mark>
 
 <mark style="color:cyan;">**FSS (Fatigue Severity Scale)**</mark>
 
 * 피로 상태를 평가하고 치료 효과를 추적하는 데 활용
 * 9개 항목에 대해 지난 1주간의 상태를 1점(전혀 동의하지 않음)\~7점(매우 동의함)으로 평가하고 평균을 계산
-  * FSS는 저작권이 있는 척도로 본문에서는 점수 해석만 요약함(☞ [계산기](https://www.mdapp.co/fatigue-severity-scale-fss-calculator-372/))
+  * FSS는 저작권이 있는 척도로 본문에서는 점수 해석만 요약함 (☞ [계산기](https://www.mdapp.co/fatigue-severity-scale-fss-calculator-372/))
 * 평균 ≥4점은 연구와 일부 임상에서 흔히 사용하는 참고 기준이지만 질환·집단에 따라 최적 cutoff가 다르며, FSS만으로 원인 질환을 진단하지 않음
 
 <mark style="color:cyan;">**전반적 피로 강도 (숫자 평가 척도, NRS)**</mark>
@@ -228,25 +229,25 @@
 * 판정
   * 0\~2점 : 저위험
   * 3\~4점 : 중간 위험 - 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정
-  * ≥5점 : 고위험 - HSAT(가정 수면무호흡검사)/PSG(수면다원검사) 등 객관적 검사 적극 고려
-  * STOP 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목은 원저 기준 ＞40 ㎝(성별 구분 없음)이며, 설문 판본에 따라 ‘40 ㎝ 이상’으로 표기하기도 함
+  * ≥5점 : 고위험 - HSAT/PSG 등 객관적 검사 적극 고려
+  * STOP 4개 항목 중 2개 이상에 해당하면서 남성, BMI ＞35 ㎏/㎡, 목둘레 ＞40 ㎝ 중 하나 이상에 해당하면 고위험으로 분류할 수 있음. 목둘레 항목은 원저 기준 ＞40 ㎝(성별 구분 없음)이며, 설문 판본에 따라 '40 ㎝ 이상'으로 표기하기도 함
 * 중요한 심폐질환이나 저환기가 의심되는 등 HSAT가 적합하지 않은 경우에는 처음부터 PSG로 평가
   * HSAT가 음성·불확실하거나 기술적으로 불충분하면 PSG로 평가 <mark style="color:$info;">\[AASM 2017]</mark>
 
 <mark style="color:cyan;">**ESS (엡워스졸림척도)**</mark>
 
-* 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능(☞ [한국형 자가평가](https://www.sleep.or.kr/html/?pmode=sleepiness))
-* STOP-BANG와 ESS는 선별 도구이며 확진 검사가 아님
+* 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능 (☞ [한국형 자가평가](https://www.sleep.or.kr/html/?pmode=sleepiness))
+* STOP-BANG과 ESS는 선별 도구이며 확진 검사가 아님
 
 #### <mark style="color:$primary;">만성피로증후군(ME/CFS) 감별</mark>
 
 * 기능 저하와 피로에 아래 핵심 증상이 동반되면 기간이 짧더라도 ME/CFS를 의심하고 평가·증상 관리를 시작함
-* 다음은 NAM/IOM 2015 진단기준의 요약이며, 의심 시점과 확정 진단의 기간 요건을 구별해야 함
+* 다음은 NAM/IOM 2015 진단 기준의 요약이며, 의심 시점과 확정 진단의 기간 요건을 구별해야 함
 
 **필수 3항목**
 
 1. 기능 저하 동반 피로 : 질병 발생 전보다 직업·교육·사회·개인 활동 능력이 상당히 감소한 상태가 6개월을 초과하여 지속되며, 새로 발생했거나 발병 시점이 명확하고 지속적인 과도한 활동으로 설명되지 않으며 휴식으로 실질적으로 호전되지 않음
-2. 활동 후 증상 악화(PEM, Post-Exertional Malaise) : 신체적·인지적·정서적 활동 후 수 시간\~수일 뒤 증상이 악화하고 회복이 지연됨 - 단순 피로와 ME/CFS를 구분하는 가장 중요한 특징
+2. 활동 후 증상 악화(PEM, Post-Exertional Malaise) : 신체적·인지적·정서적 활동 후 흔히 수 시간\~수일 뒤 증상이 악화하고 회복이 지연됨 - 단순 피로와 ME/CFS를 구분하는 가장 중요한 특징
 3. 비회복성 수면 : 충분히 자도 개운하지 않음
 
 **다음 중 1개 이상**
@@ -263,10 +264,10 @@
 
 #### <mark style="color:$primary;">ME/CFS vs 우울증 vs OSA 감별표</mark>
 
-<table data-search="false"><thead><tr><th width="118">항목</th><th>ME/CFS</th><th>우울증</th><th>OSA</th></tr></thead><tbody><tr><td><strong>핵심 특징</strong></td><td>PEM(활동 후 지연성 증상 악화)</td><td>우울감 또는 흥미·즐거움 저하</td><td>코골이·목격된 무호흡·주간 졸림</td></tr><tr><td><strong>피로 패턴</strong></td><td>활동 후 수 시간~수일 뒤 악화</td><td>개인별·일중 변동 가능</td><td>아침 피로 또는 낮 졸림</td></tr><tr><td><strong>휴식 후 회복</strong></td><td>실질적 회복 없음</td><td>일정하지 않음</td><td>충분한 수면시간에도 지속 가능</td></tr><tr><td><strong>수면</strong></td><td>비회복성 수면</td><td>불면·과다수면 혼재</td><td>수면 중 호흡장애·분절</td></tr><tr><td><strong>주간 졸림</strong></td><td>동반될 수 있으나 피로와 구분 필요</td><td>동반 가능</td><td>흔하지만 없을 수도 있음</td></tr><tr><td><strong>활동 반응</strong></td><td>PEM 발생 가능</td><td>개인별 차이; 일부에서 활동 후 기분 개선</td><td>일정하지 않음</td></tr><tr><td><strong>기분 증상</strong></td><td>이차적 우울 동반 가능</td><td>핵심 증상</td><td>이차적 우울 동반 가능</td></tr><tr><td><strong>인지 기능</strong></td><td>brain fog 흔함</td><td>집중력·사고력 저하 가능</td><td>수면 분절·졸림에 따른 저하 가능</td></tr><tr><td><strong>자율신경 증상</strong></td><td>Orthostatic intolerance 흔함; 일부에서 POTS 동반</td><td>전형적이지 않음</td><td>전형적이지 않음</td></tr><tr><td><strong>동반 힌트</strong></td><td>Long COVID 등 감염 후 발병 가능</td><td>스트레스·삶의 사건</td><td>비만·큰 목둘레·고혈압</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="118">항목</th><th>ME/CFS</th><th>우울증</th><th>OSA</th></tr></thead><tbody><tr><td><strong>핵심 특징</strong></td><td>PEM(활동 후 증상 악화)</td><td>우울감 또는 흥미·즐거움 저하</td><td>코골이·목격된 무호흡·주간 졸림</td></tr><tr><td><strong>피로 패턴</strong></td><td>활동 후 흔히 수 시간~수일 뒤 악화</td><td>개인별·일중 변동 가능</td><td>아침 피로 또는 낮 졸림</td></tr><tr><td><strong>휴식 후 회복</strong></td><td>실질적 회복 없음</td><td>일정하지 않음</td><td>충분한 수면시간에도 지속 가능</td></tr><tr><td><strong>수면</strong></td><td>비회복성 수면</td><td>불면·과다수면 혼재</td><td>수면 중 호흡장애·분절</td></tr><tr><td><strong>주간 졸림</strong></td><td>동반될 수 있으나 피로와 구분 필요</td><td>동반 가능</td><td>흔하지만 없을 수도 있음</td></tr><tr><td><strong>활동 반응</strong></td><td>가벼운 활동으로도 PEM이 유발될 수 있음</td><td>개인별 차이; 일부에서 활동 후 기분 개선</td><td>일정하지 않음</td></tr><tr><td><strong>기분 증상</strong></td><td>이차적 우울 동반 가능</td><td>핵심 증상</td><td>이차적 우울 동반 가능</td></tr><tr><td><strong>인지 기능</strong></td><td>brain fog 흔함</td><td>집중력·사고력 저하 가능</td><td>수면 분절·졸림에 따른 저하 가능</td></tr><tr><td><strong>자율신경 증상</strong></td><td>Orthostatic intolerance 흔함; 일부에서 POTS 동반</td><td>전형적이지 않음</td><td>전형적이지 않음</td></tr><tr><td><strong>동반 힌트</strong></td><td>코로나19 등 감염 후 발병 가능</td><td>스트레스·삶의 사건</td><td>비만·큰 목둘레·고혈압</td></tr></tbody></table>
 
 > _각 특징은 가능성을 높이는 단서이며 단독 감별·진단 기준이 아님._\
-> _&#x4D;E/CFS, 우울증, OSA는 서로 동반될 수 있음_
+> _ME/CFS, 우울증, OSA는 서로 동반될 수 있음._
 
 {% hint style="danger" %}
 **흔한 진단 오류 (Pitfalls)**
@@ -290,7 +291,7 @@ flowchart TD
     D -- "아니오" --> F["<u>피로·졸림·객관적 <br/>근력 저하 구분</u><br/>• 수면·기분·약물·<br/>기질질환 단서 확인"]
     F --> L["조기 평가 소견?<br/>• 암 의심 단서 등"]
     L -- "예" --> M["신속 검사·의뢰"]
-    L -- "아니오" --> G["활동 후 지연된 <br/>증상 악화·PEM?"]
+    L -- "아니오" --> G["활동 후 증상 악화(PEM)?"]
     G -- "예" --> H["<u>ME/CFS·<br/>Long COVID 평가</u><br/>• 표적 검사·감별<br/>• 고정 증량 운동 회피·<br/>에너지 관리"]
     G -- "아니오" --> J["<u>병력·진찰에 따른 <br/>표적 검사</u><br/>± 선택적 baseline 검사"]
     J --> I["원인에 맞춘 치료·생활 조정"]
@@ -309,9 +310,9 @@ flowchart TD
     class K followup
 ```
 
-> _ME/CFS·Long COVID 의심 환자도 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 재평가. 추적 중 새 위험징후가 발생하거나 증상이 악화하면 평가 시점을 앞당김_
+<p align="center"><strong>피로 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG206·NG12; CDC NAM/IOM 2015;</mark></em> <br><em><mark style="color:$info;">Latimer KM, et al. Am Fam Physician 2023)</mark></em></p>
 
-<p align="center"><strong>피로 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG206·NG12; CDC NAM/IOM 2015;</mark></em> <br><em><mark style="color:$info;">Latimer KM et al. Am Fam Physician 2023)</mark></em></p>
+> _ME/CFS·Long COVID 의심 환자도 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 재평가. 추적 중 새 위험징후가 발생하거나 증상이 악화하면 평가 시점을 앞당김_
 
 ***
 
@@ -320,6 +321,7 @@ flowchart TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료 : 확인된 원인 질환은 해당 지침에 따라 치료
+  * 우울장애·불안장애가 진단되면 해당 챕터에 따라 치료
   * 진정성 약물이 피로에 기여하는지 확인
   * 벤조디아제핀 등 금단 위험이 있는 약제는 처방의와 상의하여 필요시 단계적으로 감량하고, 환자에게 임의로 중단하지 않도록 안내
 * 자살 위험 : 위험이 높으면 환자를 혼자 두지 않고 가능한 범위에서 위해수단 접근을 차단하며 119·112 또는 응급실로 연계
@@ -327,7 +329,6 @@ flowchart TD
 * 환자·가족 교육 : 가능한 원인과 예상 경과, 증상 악화 시 재진 기준을 설명하고 필요시 가족 상담
 * 수면·활동·증상 일지 : 1\~2주간 수면 시간·활동·증상을 기록
   * 활동 당일뿐 아니라 이후 48시간 이상의 변화를 확인
-* 우울장애·불안장애가 진단되면 해당 챕터에 따라 치료
 * 원인이 불명확한 경우 : 수면 환경을 개선하고 통증·영양 문제를 관리
   * 인지행동치료 : 불면·우울·불안에는 각각의 적응증에 따라 고려
     * ME/CFS 환자가 원하면 증상 관리와 일상 기능을 돕는 방법으로 제안할 수 있으나 완치 치료는 아님
@@ -336,12 +337,12 @@ flowchart TD
   * 지속 → 놓친 원인과 수면·기분·복용 약물을 재평가하고 필요시 표적 검사
   * 악화 또는 새 위험징후 발생 → 평가 시점을 앞당기고 응급도를 다시 판단
 
-## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 * 활동 전 PEM(활동 후 증상 악화) 여부를 확인
   * PEM이 없고 급성·중증 질환이 배제된 경우 : 현재 체력과 동반 질환에 맞추어 유산소·근력 활동을 낮은 강도부터 점진적으로 시행
   * PEM이 있거나 ME/CFS가 의심되는 경우
-    * Pacing : 신체·인지 활동과 휴식을 견딜 수 있는 범위에서 조절하여 PEM를 줄임
+    * Pacing : 신체·인지 활동과 휴식을 견딜 수 있는 범위에서 조절하여 PEM을 줄임
     * 정해진 단계에 따라 활동량을 늘리는 GET(Graded Exercise Therapy)은 시행하지 않음
       * 신체 활동을 늘리고 싶다면 증상이 악화되지 않는 수준에서 시작하고, 이후 증상과 회복에 따라 활동량을 유연하게 조절
 * 금연
@@ -350,7 +351,7 @@ flowchart TD
   * 불면증이나 불안을 악화시킬 수 있으므로 개인의 취침 시간·민감도를 고려하여 대체로 취침 6시간 전부터 피하고, 과다 섭취 중이면 단계적으로 감량
 * 적절한 체중 유지
 * 규칙적이고 충분한 수면 : 성인은 대체로 하루 7\~9시간 수면, 개인차 고려
-  * 일반적인 불면/수면위생 지도에서는 필요시 낮잠을 20\~30분 이내로 하고 늦은 오후 낮잠은 피함(단, ME/CFS에서는 개별화)
+  * 일반 수면위생 지도에서는 필요시 낮잠을 20\~30분 이내로 하고 늦은 오후 낮잠은 피함. 만성 불면증에서는 낮잠을 피함(단, ME/CFS에서는 개별화)
 * 균형 있는 식사 : 충분한 열량·단백질과 비타민·미네랄을 섭취하고 과도한 식이 제한을 피함
   * 질환별 영양 제한은 따로 적용하며 피로만을 이유로 지방 섭취를 일률적으로 제한하지 않음
 * 업무량 조절 및 효율적인 시간 계획으로 휴식 시간을 늘림
@@ -360,7 +361,7 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-* **SSRI** : 피로 자체의 치료제가 아님  (☞ [우울증](../221_/027_-depression.md))
+* **SSRI** : 피로 자체의 치료제가 아님 (☞ [우울증](../221_/027_-depression.md))
   * 주요우울장애 또는 불안장애가 진단되고 약물치료의 적응증이 있을 때 해당 지침에 따라 선택
   * 초기 졸림·피로 또는 불면 등 이상반응을 추적
 * **철분제** : 철결핍성 빈혈이 확인되면 출혈·흡수장애 등 원인 교정과 함께 보충 (☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
@@ -381,7 +382,7 @@ flowchart TD
 * **CoQ10, L-carnitine** : 비특이적 피로·ME/CFS에 대한 근거가 불충분하여 routine으로 권하지 않음
 * **식욕 자극제** : 원인 불명의 체중 감소나 피로 자체에는 사용하지 않음 (☞ [체중 감소](013_-weight-loss.md))
   * 원인 평가와 영양 중재를 우선
-  * 암 악액질이나 특정 완화의료 상황 등 명확한 적응증에서 기대효과와 혈전·부종·부신억제 등의 위해를 비교하여 선택&#x20;
+  * 암 악액질이나 특정 완화의료 상황 등 명확한 적응증에서 기대효과와 혈전·부종·부신억제 등의 위해를 비교하여 선택
 
 ***
 
@@ -405,7 +406,7 @@ flowchart TD
 >
 > 약제 정보: [팩타민디쓰리정25000IU·25,000 IU](https://www.health.kr/drug/2019071000005)
 >
-> _✽<mark style="background-color:yellow;">허가사항에 따른</mark> 성인 비타민 D 결핍치료 용량. 유지요법 시작 후 약 3\~4개월에 25(OH)D를 확인하여 조정. 피로 개선만을 위한 특정 목표농도 설정은 권하지 않음._
+> _✽허가사항에 따른 성인 비타민 D 결핍치료 용량. 유지요법 시작 후 약 3\~4개월에 25(OH)D를 확인하여 조정. 피로 개선만을 위한 특정 목표농도 설정은 권하지 않음._
 
 > **처방례 2. Vit D 결핍 - 흡수장애 등으로 주사제가 필요한 성인**
 >
@@ -418,7 +419,7 @@ flowchart TD
 >
 > _✽바이타디주(콜레칼시페롤 5 ㎎/㎖ = 200,000 IU/㎖)의 앰플 용량과 처방된 실제 투여량(㎖)을 각각 확인. 주요 금기에는 신장애, 고칼슘혈증·고칼슘뇨증, 칼슘결석 또는 그 병력·위험, 병상에서 움직일 수 없는 환자, 사르코이드증 등이 포함됨. 성인은 투여 후 3개월 이내에 효과·내약성을 평가하고 25(OH)D와 혈청 Ca를 확인하여 재투여 여부를 결정. 연간 총량은 600,000 IU 이하. 경구 치료를 우선하며 이 처방례는 흡수장애 등 경구 치료가 어려운 경우에 한함._
 
-> **처방례 3. 철결핍성 빈혈 동반 피로** (☞ 철결핍빈혈 [<mark style="background-color:yellow;">처방례</mark>](../230_/193_-iron-def-anemia.md) 참조)
+> **처방례 3. 철결핍성 빈혈 동반 피로** (☞ 철결핍빈혈 [처방례](../230_/193_-iron-def-anemia.md) 참조)
 >
 > ```
 > 훼로바-유서방정(철 80 ㎎/T) 1T qd 식후
@@ -427,7 +428,7 @@ flowchart TD
 >
 > 약제 정보: [훼로바-유서방정·원소철 80 ㎎](https://health.kr/drug/A11AHHHHH0249)
 >
-> _✽훼로바-유서방정을 사용할 때의 허가 용법 예. BSG 지침은 일반 경구 철분제를 1일 1회 사용하는 것을 1차로 제시함._
+> _✽훼로바-유서방정을 사용할 때의 허가 용법 예. BSG 지침은 일반 경구 철염 제제(황산·푸마르산·글루콘산제일철) 1일 1회를 초기 치료로 권고하며, 서방형 철분제는 권고하지 않음._
 
 > **관련 처방례**
 >
@@ -456,7 +457,7 @@ flowchart TD
 > * 철분제 때문에 변이 짙은 녹색이나 검게 보일 수 있습니다.
 > * 끈적하고 윤기 있는 타르 같은 검은 변이 새로 나오거나 피를 토하면 다른 증상이 없어도 당일 응급실에서 평가받으십시오. 출혈이 많거나 멈추지 않거나 어지럼·식은땀·실신이 함께 있으면 즉시 응급실로 가십시오.
 > * Hb가 정상화된 후에도 저장 철을 보충하기 위해 보통 약 3개월 더 복용하며, 검사 결과와 출혈 여부에 따라 담당 의사가 기간을 조정합니다.
-> * 철분제는 어린이가 닿지 않는 곳에 보관하십시오. 어린이가 실수로 많이 먹었거나 복용량을 알 수 없으면 즉시 응급 도움을 받으십시오.
+> * 철분제는 어린이가 닿지 않는 곳에 보관하십시오. 어린이가 철분제를 실수로 먹었다면 증상이 없어도 즉시 의료진이나 응급센터에 연락해 복용량과 필요한 조치를 확인하십시오.
 
 > **비타민 B12 보충**
 >
@@ -479,20 +480,20 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Latimer KM, et al. Fatigue in Adults: Evaluation and Management. Am Fam Physician. 2023;108(1):58-69.](https://www.aafp.org/pubs/afp/issues/2023/0700/fatigue-adults.html) - 일차의료의 피로 감별, 병력·진찰에 따른 검사와 원인 치료
-* Centers for Disease Control and Prevention. [IOM 2015 Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html); [Diagnosing ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis/index.html); [Evaluation of ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis-testing/evaluation-of-me-cfs.html). - NAM/IOM 진단 기준, 의심·확정 시점과 감별 검사; 운동 후 증상 악화(PEM) 평가
+* Centers for Disease Control and Prevention. [IOM 2015 Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html); [Diagnosing ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis/index.html); [Evaluation of ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis-testing/evaluation-of-me-cfs.html). - NAM/IOM 진단 기준, 의심·확정 시점과 감별 검사; 활동 후 증상 악화(PEM) 평가
 * [NICE. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) - ME/CFS 의심·진단 기간 요건, 에너지 관리와 고정 증량 운동의 제한; NAM/IOM 기준과 구분
 * [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8515119/) - 철결핍·철결핍빈혈의 원인 평가와 보충·반응 추적
-* \[ASH 2026] [Powers JM, et al. American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv. 2026;10(21):7353-7374.](https://doi.org/10.1182/bloodadvances.2025015950) - 대상별 ferritin 기준 및 염증이 있는 경우의 해석
-* \[AGA 2020] [Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020;159(3):1085-1094.](https://gastro.org/clinical-guidance/gastrointestinal-evaluation-of-iron-deficiency-anemia/) - 빈혈 환자의 철결핍 진단과 위장관 평가
-* \[NICE NG12] [NICE. Suspected cancer: recognition and referral. NICE guideline NG12.](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer) - 성인의 지속적 피로에서 백혈병 감별을 위한 신속 CBC(권고 1.10.1)
-* \[AASM 2017] [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea. J Clin Sleep Med. 2017;13(3):479-504.](https://pubmed.ncbi.nlm.nih.gov/28162150/) - HSAT와 PSG의 선택 및 HSAT 음성·불충분 시 후속 검사
-* \[ASCO-SIO 2024] [Bower JE, et al. Management of Fatigue in Adult Survivors of Cancer: ASCO-Society for Integrative Oncology Guideline Update. J Clin Oncol. 2024;42(20):2456-2487.](https://doi.org/10.1200/JCO.24.00541) - 암 관련 피로의 비약물 치료와 psychostimulant의 일률적 사용 제한; 일반 피로·ME/CFS와 구분
+* [Powers JM, et al. American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv. 2026;10(21):7353-7374.](https://doi.org/10.1182/bloodadvances.2025015950) - 대상별 ferritin 기준 및 염증이 있는 경우의 해석
+* [Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020;159(3):1085-1094.](https://gastro.org/clinical-guidance/gastrointestinal-evaluation-of-iron-deficiency-anemia/) - 빈혈 환자의 철결핍 진단과 위장관 평가
+* [NICE. Suspected cancer: recognition and referral. NICE guideline NG12. 2015 (2026 개정).](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer) - 성인의 지속적 피로에서 백혈병 감별을 위한 신속 CBC(권고 1.10.1)
+* [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea. J Clin Sleep Med. 2017;13(3):479-504.](https://pubmed.ncbi.nlm.nih.gov/28162150/) - HSAT와 PSG의 선택 및 HSAT 음성·불충분 시 후속 검사
+* [Bower JE, et al. Management of Fatigue in Adult Survivors of Cancer: ASCO-Society for Integrative Oncology Guideline Update. J Clin Oncol. 2024;42(20):2456-2487.](https://doi.org/10.1200/JCO.24.00541) - 암 관련 피로의 비약물 치료와 psychostimulant의 일률적 사용 제한; 일반 피로·ME/CFS와 구분
 * [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NG239. 2024.](https://www.nice.org.uk/guidance/ng239/chapter/recommendations) - 빈혈 없는 B12 결핍과 신경 증상 동반 시 신속한 보충
 * [World Health Organization. A clinical case definition of post COVID-19 condition by a Delphi consensus. 2021.](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1) - Post COVID-19 condition의 정의와 지속 피로·활동 후 증상 악화를 동반하는 코로나19 후유증의 감별
-* [NICE. Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. Clinical guideline CG95.](https://www.nice.org.uk/guidance/cg95) - ACS 의심 시 최근 흉통 시점(12시간 이내, 12\~72시간)과 ECG에 따른 응급·당일 평가 기준
+* [NICE. Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. Clinical guideline CG95. 2010 (2016 개정).](https://www.nice.org.uk/guidance/cg95) - ACS 의심 시 최근 흉통 시점(12시간 이내, 12\~72시간)과 ECG에 따른 응급·당일 평가 기준
 * [Laine L, et al. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. Am J Gastroenterol. 2021;116(5):899-917.](https://pubmed.ncbi.nlm.nih.gov/33929377/) - 급성 상부위장관 출혈의 응급 평가와 위험도 분류
 * [NICE. Adrenal insufficiency: identification and management. NICE guideline NG243. 2024.](https://www.nice.org.uk/guidance/ng243/chapter/recommendations) - 부신위기 의심 소견과 즉각적인 hydrocortisone 치료
-* [NICE. Suspected sepsis in people aged 16 or over: recognition, assessment and early management. NICE guideline NG253.](https://www.nice.org.uk/guidance/ng253) - 감염 의심 환자의 패혈증 위험도와 응급 평가 소견
+* [NICE. Suspected sepsis in people aged 16 or over: recognition, assessment and early management. NICE guideline NG253. 2025.](https://www.nice.org.uk/guidance/ng253) - 감염 의심 환자의 패혈증 위험도와 응급 평가 소견
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -530,10 +531,10 @@ flowchart TD
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **규칙적인 수면** : 매일 비슷한 시간에 자고 일어나십시오. 성인은 대체로 하루 7\~9시간의 수면이 필요하지만 개인차가 있습니다. 일반적인 불면에서는 낮잠이 필요하면 20\~30분 이내로 하고 늦은 오후는 피하십시오. ME/CFS에서는 에너지 관리 계획에 따라 조절하십시오
+* **규칙적인 수면** : 매일 비슷한 시간에 자고 일어나십시오. 성인은 대체로 하루 7\~9시간의 수면이 필요하지만 개인차가 있습니다. 낮잠이 필요하면 20\~30분 이내로 하고 늦은 오후는 피하십시오. 불면증이 오래되었다면 낮잠을 피하는 것이 좋습니다. ME/CFS에서는 에너지 관리 계획에 따라 조절하십시오
 * **신체 활동** : 가벼운 활동 후 흔히 수 시간\~수일 뒤 증상이 악화되는지 먼저 확인하십시오. 그런 증상(PEM)이 없고 의료진이 운동을 제한할 급성·중증 질환이 없다고 판단했다면 현재 체력에 맞추어 낮은 강도부터 서서히 늘리십시오. **ME/CFS가 의심되면 정해진 운동량을 억지로 늘리지 말고** 주치의와 활동 계획을 상의하십시오
 * **균형 잡힌 식사** : 충분한 열량과 단백질을 섭취하고, 비타민과 미네랄을 골고루 섭취할 수 있도록 균형 있게 드십시오
-* **카페인·음주 절제** : 카페인은 개인의 취침시간과 민감도를 고려하여 대체로 취침 6시간 전부터 피하십시오. 카페인에 지나치게 의존하면 효과가 줄고 효과가 사라질 때 피로가 나타날 수 있습니다. 음주는 수면의 질을 떨어뜨립니다
+* **카페인·음주 절제** : 카페인은 개인의 취침 시간과 민감도를 고려하여 대체로 취침 6시간 전부터 피하십시오. 카페인에 지나치게 의존하면 효과가 줄고 효과가 사라질 때 피로가 나타날 수 있습니다. 음주는 수면의 질을 떨어뜨립니다
 * **스트레스 관리** : 이완 운동, 복식 호흡, 취미 활동 등을 통해 정신적 피로를 줄이십시오
 * **업무량 조절** : 무리한 일정을 피하고 충분한 휴식 시간을 확보하십시오
 
@@ -546,7 +547,7 @@ flowchart TD
 * 많은 양의 토혈·혈변·객혈, 멈추지 않는 출혈, 또는 출혈과 함께 어지럼·식은땀·실신이 있는 경우
 * 기침할 때 피가 나오면서 숨이 차거나 숨쉬기 어려운 경우
 * 부신기능저하증이 있거나, 스테로이드를 오래 복용 중이거나 장기 복용 후 최근 중단했거나, 면역항암제 치료를 받은 사람에게 쓰러질 듯한 어지럼, 반복 구토 또는 의식 변화가 생긴 경우
-* 감염이 의심되면서 갑자기 정신이 흐려지거나 숨이 매우 가쁘거나 쓰러질 듯 어지러운 경우. 열이 없어도 이런 증상이 있으면 응급 평가가 필요합니다.
+* 감염이 의심되면서 갑자기 정신이 흐려지거나 숨이 매우 가쁘거나 쓰러질 듯 어지러운 경우. 열이 없어도 이런 증상이 있으면 응급 평가가 필요합니다
 * 자살 계획·의도가 있거나 자해·자살 시도 직후, 스스로 안전을 유지하기 어려운 경우 - 혼자 있지 말고 **119·112 또는 응급실**에 즉시 도움을 요청하십시오. 상담전화 109가 응급 평가를 대신하지 않습니다
 {% endhint %}
 
