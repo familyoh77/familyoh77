@@ -5,20 +5,21 @@
 * 유의미한 체중 감소 : 일반적으로 6\~12개월 이내에 평소 체중의 5% 이상이 의도하지 않게 감소한 경우
 * 12개월 내 ≥10% 등 더 큰 감소량은 중증도·영양위험 평가의 추가 기준으로 사용될 수 있으나, 그 수준에 이를 때까지 평가를 미루지 않음
 * 연령 증가에 따른 평균 체중 변화가 있더라도, 임상적으로 의미 있는 비의도적 체중 감소를 정상 노화로 단정하지 않음
-* 고령에서의 의도하지 않은 체중 감소는 일상 생활 기능 저하, 중증 질환 증가, 고관절 골절 증가, 전체 사망률 증가와 관련됨
+* 고령에서의 의도하지 않은 체중 감소는 일상생활 기능 저하, 중증 질환 증가, 고관절 골절 증가, 전체 사망률 증가와 관련됨
 
 ## <mark style="color:green;">원인</mark>
 
-* 암(고령 환자 연구에서 약 16\~30%) : 혈변, 연하곤란, 지속되는 기침, 혈뇨 등 동반
-* 위장·구강 장애(고령 환자 연구에서 약 15%) : 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전
-* 심리·인지 문제(고령 환자 연구에서 약 15%) : 우울증, 치매, 편집증, 섭식장애
+고령 환자에서는 비악성 질환이 더 흔하지만 악성 종양이 최대 약 1/3을 차지하며, 초기 평가 후에도 6\~28%에서는 원인을 찾지 못함 <mark style="color:$info;">\[Am Fam Physician 2021]</mark>
+
+* 암 : 혈변, 연하곤란, 지속되는 기침, 혈뇨 등을 동반할 수 있음
+* 위장·구강 장애 : 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전
+* 심리·인지 문제 : 우울증, 치매, 편집증, 섭식장애
 * 내분비 장애 : 당뇨병, 갑상선기능항진증, 부신기능저하증
 * 만성 감염 : 결핵, HIV 등; 발열, 야간 발한, 림프절 비대 동반
 * 만성 장기질환 : 심부전, 만성폐쇄성폐질환, 만성콩팥병, 만성 간질환 등
 * 약물 부작용 : metformin, GLP-1 계열(GLP-1 수용체 작용제·tirzepatide), SGLT2 억제제, digoxin, cholinesterase 억제제, SSRIs, opioids 등 (☞ 아래 「체중 감소와 관련된 부작용이 있는 약물들」)
 * 사회적 문제 : 알코올 사용 장애, 사회적 고립, 식사 접근성 저하(이동 불편·장보기 어려움), 경제적 문제(식비 부족), 돌봄 공백(caregiver 부재)
 * 섭식·영양 문제 : 과도한 식이 제한, 음식 불안정성(food insecurity)
-* 원인 미상 : 고령 환자 연구에서는 검사에도 불구하고 약 25%에서 원인을 찾지 못함
 
 <mark style="color:cyan;">**체중 감소와 관련된 부작용이 있는 약물들**</mark>
 
@@ -39,7 +40,7 @@
 
 * 심한 영양실조와 의식 변화·실신 또는 활력징후 불안정(저혈압, 심한 서맥/빈맥, 저체온) `중증 영양실조`
 * 중증 저혈당, 중증 Na·K·P·Mg 이상, 중증 고칼슘혈증, 전해질 이상에 의한 의식 변화·경련, 부정맥 또는 급성 심부전·호흡부전 `중증 대사 이상` `중증 영양실조`
-* 영양 공급 시작·증량 후 발생한 K·P·Mg 저하, 부정맥, 심부전 또는 의식 변화 `재급식 증후군`
+* 영양 공급 시작·증량 후 K·P·Mg 중 하나 이상의 중증 저하, 새 부정맥, 급성 심부전 또는 의식 변화 `재급식 증후군`
 * 심한 탈수 또는 음식·수분을 거의 섭취할 수 없는 상태 `중증 탈수`
 * 섭식장애 등 정신질환에 의한 진행성 체중 감소와 의학적 불안정, 자살 위험 또는 급성 정신과적 위험
 
@@ -51,7 +52,7 @@
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 60세 이상에서 6개월 내 평소 체중의 ＞5% 원인 불명 감소 `악성 종양`
-* 성인의 원인 불명 식욕부진(별도 연령 하한 없음) `악성 종양`
+* 연령과 관계없이 성인의 원인 불명 식욕부진 `악성 종양`
 * 체중 감소와 연하곤란·혈변·지속 기침·혈뇨 등 장기 특이 증상 동반 `악성 종양`
 * 섭취량 감소와 근육량·근력 저하 `영양불량` `근감소증`
 
@@ -110,7 +111,7 @@
 
 * 1단계 평가에서 원인 질환이 의심되는 이상 소견이 있거나, 검사 결과가 정상이더라도 아래 진행형/고위험 기준에 해당하면 원인에 따른 확장 검사·의뢰를 진행
 
-<table><thead><tr><th width="141">구분</th><th>기준</th><th>대응</th></tr></thead><tbody><tr><td><strong>안정형 (Stable)</strong></td><td>전신 상태가 안정적이며 아래 진행형/고위험 기준에 해당하지 않음</td><td>1~3개월 내 재평가 후 경과에 따라 3~6개월까지 관찰; 매주 체중 측정 교육; 증상 변화 시 즉시 재평가</td></tr><tr><td><strong>진행형/고위험 (Progressive/</strong><br><strong>High risk)</strong></td><td>지속·가속되는 체중 감소, 최근 기능 저하, Red Flags, 이상 진찰·검사 소견, NICE NG12 암 의심 조기 평가 기준<mark style="background-color:red;">에 해당</mark></td><td>원인 평가의 필요성과 긴급도에 따라 확장 검사·의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="141">구분</th><th>기준</th><th>대응</th></tr></thead><tbody><tr><td><strong>안정형 (Stable)</strong></td><td>전신 상태가 안정적이며 아래 진행형/고위험 기준에 해당하지 않음</td><td>1~3개월 내 재평가 후 경과에 따라 3~6개월까지 관찰; 매주 체중 측정 교육; 증상 변화 시 즉시 재평가</td></tr><tr><td><strong>진행형/고위험 (Progressive/</strong><br><strong>High risk)</strong></td><td>지속·가속되는 체중 감소, 최근 기능 저하, Red Flags, 이상 진찰·검사 소견, NICE NG12 암 의심 조기 평가 기준에 해당</td><td>원인 평가의 필요성과 긴급도에 따라 확장 검사·의뢰</td></tr></tbody></table>
 
 * CT(흉부·복부·골반) : 진행성 체중 감소, 기능 저하, 이상 진찰/검사 소견 또는 특정 질환의 임상적 의심이 있을 때 고려
   * 아무 단서가 없는 안정형 환자에서 전신 CT를 일률적으로 시행하지 않음
@@ -149,9 +150,9 @@
   * 식욕부진 : 폐암·식도암·위암·대장암·췌장암·방광암·신장암 등
 * 다음과 같은 site-specific 증상·징후가 동반되면 해당 암종에 대한 진단적 평가를 우선
 
-<table data-search="false"><thead><tr><th>동반 증상·징후</th><th>우선 고려할 암종/평가</th></tr></thead><tbody><tr><td>연하 곤란</td><td>식도암, 위암</td></tr><tr><td>상복부 종괴, 조기 포만감, 지속되는 오심</td><td>위암·췌장암 등 상부 위장관/췌담도 질환 평가</td></tr><tr><td>직장 출혈, 지속되는 배변 습관 변화</td><td>대장암</td></tr><tr><td>객혈, 지속되는 기침, 쉰 목소리</td><td>폐암</td></tr><tr><td>육안적 또는 원인 불명 혈뇨</td><td>신장암, 방광암</td></tr><tr><td>폐경 후 질 출혈</td><td>자궁내막암</td></tr><tr><td>유방 종괴, 피부 함몰 등 유방 이상</td><td>유방암</td></tr><tr><td>지속되는 비통증성 림프절 비대</td><td>림프종, 전이암</td></tr><tr><td>60세 이상에서 체중 감소와 설사·등 통증·복통·구역·구토·변비 또는 신규 당뇨 중 하나 이상</td><td>췌장암 평가를 위한 긴급 CT 고려(NICE 기준 2주 이내; CT 불가 시 초음파)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>동반 증상·징후</th><th>우선 고려할 암종/평가</th></tr></thead><tbody><tr><td>연하곤란</td><td>식도암, 위암</td></tr><tr><td>상복부 종괴, 조기 포만감, 지속되는 오심</td><td>위암·췌장암 등 상부 위장관/췌담도 질환 평가</td></tr><tr><td>직장 출혈, 지속되는 배변 습관 변화</td><td>대장암</td></tr><tr><td>객혈, 지속되는 기침</td><td>폐암</td></tr><tr><td>지속되는 원인 불명의 쉰 목소리</td><td>후두암(45세 이상에서 NICE 암 의심 경로 의뢰 고려). 폐암도 감별</td></tr><tr><td>육안적 또는 원인 불명 혈뇨</td><td>신장암, 방광암</td></tr><tr><td>폐경 후 질 출혈</td><td>자궁내막암</td></tr><tr><td>여성에서 복부 팽만, 조기 포만감 또는 식욕부진, 골반·복부 통증, 빈뇨 또는 요절박 중 하나 이상이 지속되거나 잦음</td><td>난소암 평가<br>40세 이상은 지속 증상 시 CA125 측정 후 연령별 기준에 따라 긴급 복부·골반 초음파<br>39세 이하는 지속 증상 시 긴급 복부·골반 초음파 고려</td></tr><tr><td>유방 종괴, 피부 함몰 등 유방 이상</td><td>유방암</td></tr><tr><td>지속되는 비통증성 림프절 비대</td><td>림프종, 전이암</td></tr><tr><td>60세 이상에서 체중 감소와 설사·등 통증·복통·구역·구토·변비 또는 신규 당뇨 중 하나 이상</td><td>췌장암 평가를 위한 긴급 CT 고려(NICE 기준 2주 이내; CT 불가 시 초음파)</td></tr></tbody></table>
 
-* 고령에서 체중 감소와 함께 기존 당뇨의 혈당 조절이 갑자기 악화되는 경우에도 췌장암을 포함한 원인 평가를 고려
+* 고령의 기존 당뇨병 환자에서 비의도적 체중 감소와 함께 혈당 조절이 뚜렷한 원인 없이 빠르게 악화되면 췌장암을 포함한 원인 평가를 고려 <mark style="color:$info;">\[Pancreatology 2022]</mark>
 
 <p align="center"><em><mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referral. NG12. Updated 15 April 2026.</mark></em></p>
 
@@ -225,9 +226,7 @@ flowchart TD
     class I followup
 ```
 
-<p align="center"><strong>감소 진단 및 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Gaddey HL &#x26; Holder KK. Am Fam Physician 2021;104(1):34-40;</mark></em><br><em><mark style="color:$info;">NICE NG12. Suspected cancer: recognition and referral. Updated 15 April 2026</mark></em>; <br><em><mark style="color:$info;">NICE CG32. Nutrition support for adults.)</mark></em></p>
+<p align="center"><strong>체중 감소 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Gaddey HL &#x26; Holder KK. Am Fam Physician 2021;104(1):34-40;</mark></em><br><em><mark style="color:$info;">NICE NG12. Suspected cancer: recognition and referral. Updated 15 April 2026;</mark></em><br><em><mark style="color:$info;">NICE CG32. Nutrition support for adults.)</mark></em></p>
 
 ***
 
@@ -245,17 +244,17 @@ flowchart TD
 * **경구영양보충식(ONS)**
   * 대상 : 영양 지원이 필요하고 안전하게 삼킬 수 있는 환자. 삼킴 장애가 의심되면 먼저 평가
   * 공급 방법 : 기존 섭취량과 에너지·단백질 부족분을 계산. 정상 식사를 방해하지 않도록 식간 또는 식후에 제공하고, 보충식 열량도 총 섭취량에 포함
-  * 제품 선택 : 영양적으로 균형 잡힌 제품을 선택하고 열량·단백질 함량과 질환 적합성을 확인. 예: <mark style="color:blue;">뉴케어</mark> (제품별 영양표시 확인)
+  * 제품 선택 : 영양적으로 균형 잡힌 제품을 선택하고 열량·단백질 함량과 질환 적합성을 확인. 예: <mark style="color:blue;">\[뉴케어]</mark> (제품별 영양표시 확인)
     * 일반 간식·에너지바는 음식 보강에 활용할 수 있으나, 영양적으로 균형 잡힌 ONS와 동일하게 취급하지 않음
   * 섭취량·내약성 : 처방량과 실제 섭취량을 구분하여 기록하고 식사량 감소 여부, 오심·복부팽만·설사 등 내약성과 맛·질감·용량에 대한 선호를 확인
   * 시작 후 1\~2주 : 섭취율·내약성과 식사량을 우선 확인
     * 이후 추적 : 체중·기능·임상적 이득에 따라 용량·제품·섭취 방법과 지속 필요성을 조정
       * 급성 악화 시에는 예정일보다 먼저 평가
-  * 고령자 ONS의 지침별 공급량 기준과 경장·정맥영양 평가 기준은 「[영양/식이 지침](../231_/217_-nutritiondiet-guideline.md)」챕터의 「고령자의 영양과 수분 관리」를 참조
-* 수분 섭취와 식사 지원  <mark style="color:$info;">\[Aktuel Ernahrungsmed 2025]</mark>
+  * 고령자 ONS의 지침별 공급량 기준과 경장·정맥영양 평가 기준은 「[영양/식이 지침](../231_/217_-nutritiondiet-guideline.md)」 챕터의 「고령자의 영양과 수분 관리」를 참조
+* 수분 섭취와 식사 지원 <mark style="color:$info;">\[Aktuel Ernahrungsmed 2025]</mark>
   * 고령자는 갈증을 느낄 때까지 기다리지 않도록 하고, 실제 음료 섭취량을 확인
   * 스스로 식사·음료를 준비하고 섭취할 수 있는지, 돌봄 지원이 있는지 확인
-  * 수분 목표와 탈수 평가는 영양/식이 지침, 정기 영양 선별은 고령 환자 진료 참조
+  * 수분 목표와 탈수 평가는 [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md), 정기 영양 선별은 [고령 환자 진료](../231_/215_-elderly.md) 참조
 * 운동 : 환자의 기능과 전신 상태에 맞춰 저항 운동과 유산소 운동을 시행
 * 약물 치료 고려
 
@@ -267,7 +266,7 @@ flowchart TD
 장기간 굶거나 영양실조 상태였던 환자에게 영양(특히 탄수화물)을 빠르게 공급하면 인(P), 칼륨(K), 마그네슘(Mg)이 급격히 감소하면서 심부전, 부정맥, 호흡부전, 신경학적 이상 등 치명적인 대사 이상이 발생할 수 있음
 {% endhint %}
 
-* 영양 공급 전에 진단 섹션「NICE CG32 재급식 고위험군」 기준으로 위험도를 확인
+* 영양 공급 전에 진단 섹션의 「NICE CG32 재급식 고위험군」 기준으로 위험도를 확인
 
 <mark style="color:cyan;">**시작 열량**</mark>
 
@@ -279,13 +278,13 @@ flowchart TD
 
 * 비타민 : 영양 공급 직전부터 첫 10일간 경구 thiamine 200\~300 ㎎/d와 비타민 B 복합제, 균형 잡힌 종합비타민 또는 미량원소 보충제를 투여. 필요시 정맥 비타민 B 제제를 사용
 * 전해질 : 급식 전 해당 전해질의 혈중 농도가 높지 않으면 영양 공급과 함께 K·P·Mg를 예방적으로 보충. 실제 투여량은 혈중 농도·신기능·투여 경로와 임상 상태에 따라 조정
-  * NICE 예상 요구량 : K 2\~4 mmol/㎏/d, phosphate 0.3\~0.6 mmol/㎏/d
-  * Mg 0.2 mmol/㎏/d IV 또는 0.4 mmol/㎏/d PO
+  * NICE 예상 요구량 : K 2\~4 mmol/㎏/d, phosphate 0.3\~0.6 mmol/㎏/d, Mg 0.2 mmol/㎏/d IV 또는 0.4 mmol/㎏/d PO
 
 <mark style="color:cyan;">**모니터링**</mark>
 
 * 급식 전 : Na·K·P·Mg, 신기능 및 혈당 확인
-* 급식 시작 후 : 재급식 위험이 있으면 초기 K·P·Mg를 매일 측정하고 상태가 불안정하면 더 자주 확인. 체액 균형·활력징후·임상 증상도 함께 추적
+* 급식 시작 후 : 재급식 위험이 있으면 초기 K·P·Mg를 매일 측정하고 상태가 불안정하면 더 자주 확인. Na·신기능·혈당도 임상 상태에 따라 추적하고, 체액 균형·활력징후·임상 증상을 함께 확인
+* 급식 시작 후 K·P·Mg가 낮아지면 보충하고 재측정. 감소 폭과 추세에 따라 증량을 늦추고, 급격히 떨어지거나 보충에도 교정이 어려우면 공급 열량을 줄임 <mark style="color:$info;">\[ASPEN 2020]</mark>
 * 심장리듬 : 극단적 고위험군 및 기존 또는 새로 발생한 부정맥이 있는 환자에서 지속적으로 모니터링
 * 즉시 응급 평가·의뢰 : 중증 전해질 이상·새로 발생한 부정맥·급성 심부전·신경학적 이상
 
@@ -304,8 +303,8 @@ flowchart TD
 <mark style="color:cyan;">**Mirtazapine**</mark>
 
 * 우울증 치료 적응증이 있으면서 식욕 저하·체중 감소 또는 불면이 동반된 환자에서 고려할 수 있음
-* 용량 : 일반적으로 15 ㎎ hs에서 시작하여 임상 반응과 내약성에 따라 우울증 치료 용량으로 조정 [레메론](https://www.health.kr/drug/A11ABBBBB1118)
-  * 고령·frailty 환자는 더 낮은 시작 용량을 고려할 수 있음
+* 용량 : 일반적으로 15 ㎎ hs에서 시작하여 임상 반응과 내약성에 따라 우울증 치료 용량으로 조정 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레메론</mark>](https://www.health.kr/drug/A11ABBBBB1118)<mark style="color:blue;">]</mark>
+  * 허가 초기 용량은 고령자도 15 ㎎/일이며, 쇠약한 환자에서는 내약성을 고려해 더 낮은 용량으로 시작할지 개별적으로 판단
 * 주의 : 주간 졸림, 어지럼, 낙상, 고령에서 혼돈 위험. 용량을 늘리면 진정·식욕 촉진 효과가 감소한다는 관계는 확립되지 않음
 * 허가·급여 : 허가 적응증은 주요 우울증이며 단순 식욕촉진 목적은 허가 적응증에 해당하지 않음. 최신 급여 기준 확인
 
@@ -315,7 +314,7 @@ flowchart TD
 
 <mark style="color:cyan;">**Low-dose olanzapine**</mark>
 
-* 진행암 환자의 식욕 및 체중 개선을 위해 저용량(2.5 ㎎/d) olanzapine 1일 1회를 고려할 수 있음 [자이프렉사](https://www.health.kr/drug/2024032800001)
+* 진행암 환자의 식욕 및 체중 개선을 위해 저용량(2.5 ㎎/d) olanzapine 1일 1회를 고려할 수 있음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자이프렉사</mark>](https://www.health.kr/drug/2024032800001)<mark style="color:blue;">]</mark>
   * 진정·대사 이상·고혈당·기립성 저혈압 등 부작용을 고려하여 용량 개별화
   * 근거 임상시험에서는 항암화학요법을 시작하는 국소 진행성 또는 전이성 위암·간담췌암·폐암 환자에게 2.5 ㎎을 1일 1회, 12주간 투여함. 반응·진정·대사 이상에 따라 지속 여부를 재평가
 * 처방 시 암성 악액질·식욕부진 목적 사용이 허가 외 사용임을 설명 (최신 허가·급여 기준 확인)
@@ -344,7 +343,7 @@ flowchart TD
 * metformin : 위장관 부작용·식욕저하와의 시간적 연관성을 확인하고 필요시 용량 감량 또는 대체 고려
 * SSRI : 약물 시작/증량과 체중 감소의 시간적 연관성을 확인하고 대체 약물의 적응증과 부작용을 비교하여 조정
 * digoxin, cholinesterase 억제제(donepezil·rivastigmine·galantamine), theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·체중감소의 원인이 될 수 있음
-  * Cholinesterase 억제제는 시작·증량과 섭취량·체중 변화의 연관성을 확인하고 인지·기능상 이득과 위해를 함께 평가하여 조정함. 임의로 중단하지 않으며 상세 관리는 「치매」(033장) 참조
+  * Cholinesterase 억제제는 시작·증량과 섭취량·체중 변화의 연관성을 확인하고 인지·기능상 이득과 위해를 함께 평가하여 조정함. 임의로 중단하지 않으며 상세 관리는 「[치매](../221_/033_-dementia.md)」(033장) 참조
 
 #### <mark style="color:$primary;">D. 식욕 유지형 체중 감소</mark>
 
@@ -361,7 +360,8 @@ flowchart TD
 * cyproheptadine 함유 복합제 : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">트레스탄</mark>](https://www.health.kr/drug/A11A1270A0019)<mark style="color:blue;">]</mark> (비급여)
   * 성분·함량 : cyproheptadine orotate 1.5 ㎎ + DL-carnitine HCl 150 ㎎ + L-lysine HCl 150 ㎎ + cyanocobalamin 1 ㎎/캡슐
   * 일부 환자에서 식욕 촉진 효과
-  * 금기 : 녹내장, 전립선비대증·요저류 소인, 중증 간·신부전, 일상생활에 타인의 도움이 필요한 쇠약 고령자
+  * 주요 금기 : 녹내장, 전립선비대증, 요저류 소인, 중증의 간부전 및 신부전, 일상생활에 타인의 도움이 필요한 쇠약 고령자
+    * 그 밖의 금기는 [허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400262) 참조
   * cyproheptadine : 강한 항콜린성 1세대 항히스타민제로 고령자에서는 원칙적으로 피하고, 특별한 사유가 있을 때만 제한적으로 고려 (Beers Criteria 해당 성분); confusion, 소변 저류 위험
   * MAO 억제제, 알코올 및 기타 중추신경억제제와 병용하지 않음
 * dronabinol : 미허가로 일반적으로 사용하지 않음
@@ -417,7 +417,7 @@ flowchart TD
 > * 체지방을 늘리는 효과는 있으나, 근육량 증가 효과는 제한적입니다. 가능하면 가벼운 근력 운동과 단백질 섭취를 함께 유지하십시오.
 > * 혈전(혈액 응고) 위험이 있으므로 한쪽 다리가 갑자기 붓고 아프면 즉시 진료받고, 갑작스러운 흉통·호흡곤란이 생기면 응급실을 방문하십시오.
 > * 혈당을 높일 수 있습니다. 당뇨가 있으신 분은 혈당 모니터링을 더 자주 하십시오.
-> * 장기 복용 시 쿠싱 증후군이나 부신 기능 저하가 나타날 수 있습니다. 임의로 갑자기 중단하지 말고 중단 방법을 의사와 상의하십시오. 심한 쇠약·어지럼·구토·저혈압이 생기면 즉시 진료받으십시오.
+> * 장기 복용 시 쿠싱 증후군이나 부신 기능 저하가 나타날 수 있습니다. 임의로 갑자기 중단하지 말고 중단 방법을 주치의와 상의하십시오. 심한 쇠약·어지럼·구토·저혈압이 생기면 즉시 진료받으십시오.
 
 > **식욕 촉진제 복합제 - cyproheptadine 등 (트레스탄캡슐)**
 >
@@ -441,7 +441,7 @@ flowchart TD
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 예정된 재진일 전이라도 체중이 계속 줄거나 식사량·기력이 뚜렷하게 감소하는 경우
-> * 혈변, 연하 곤란, 지속되는 기침, 혈뇨 등이 새로 생긴 경우
+> * 혈변, 삼키기 어려움, 지속되는 기침, 혈뇨 등이 새로 생긴 경우
 > * 약 복용 후에도 식욕이 전혀 개선되지 않는 경우
 
 ***
@@ -451,16 +451,18 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [NICE. Nutrition support for adults. CG32. Recommendations.](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) - 재급식 고위험 기준·초기 열량·thiamine·전해질 감시
+* [da Silva JSV, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. Nutr Clin Pract. 2020;35(2):178-195.](https://pubmed.ncbi.nlm.nih.gov/32115791/) - 재급식 후 전해질 저하의 감시와 대응
 * [American Geriatrics Society. 2023 updated AGS Beers Criteria. J Am Geriatr Soc. 2023;71:2052-2081.](https://doi.org/10.1111/jgs.18372) - megestrol 및 강한 항콜린성 약물의 고령자 회피 권고
 * [Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40.](https://www.aafp.org/afp/2021/0700/p34) - 고령자 비의도적 체중 감소의 원인·단계별 평가와 다학제 관리
-* \[NICE NG12] [NICE. Suspected cancer: recognition and referral. NICE guideline NG12. 2015; updated April 15, 2026.](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer) - 원인 불명 체중 감소·식욕부진의 암 평가와 연령·동반 소견별 의뢰 경로(1.13.2·1.13.3)
+* \[NICE NG12] [NICE. Suspected cancer: recognition and referral. NICE guideline NG12. 2015; updated April 15, 2026.](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer) - 원인 불명 체중 감소·식욕부진의 암 평가(1.13.2·1.13.3)와 연령·동반 소견별 검사·의뢰 경로
+* [Mueller AM, et al. Characterization of the deterioration of diabetes control in patients with a subsequent diagnosis of pancreatic cancer: A descriptive study. Pancreatology. 2022;22(3):387-395.](https://pubmed.ncbi.nlm.nih.gov/35314354/) - 췌장암 진단 전 기존 당뇨병 환자의 혈당 악화와 체중 감소
 * [Jensen GL, et al. GLIM consensus approach to diagnosis of malnutrition: A 5-year update. JPEN J Parenter Enteral Nutr. 2025;49(4):414-427.](https://doi.org/10.1002/jpen.2756) - 영양불량의 표현형·원인 기준과 염증·질병 부담의 평가
 * [Chen LK, et al. A focus shift from sarcopenia to muscle health in the Asian Working Group for Sarcopenia 2025 Consensus Update. Nat Aging. 2025;5(11):2164-2175.](https://pubmed.ncbi.nlm.nih.gov/41188603/) - 근감소증의 근육량·근력 기준과 신체수행능력의 역할
 * [Volkert D, et al. S3 guideline Clinical nutrition and hydration in older persons. Aktuel Ernahrungsmed. 2025;50:220-283.](https://doi.org/10.1055/a-2548-7209) - 고령자의 영양·수분 선별, 식사 지원·영양보충과 치료 목표
 * [Fearon K, et al. Definition and classification of cancer cachexia: an international consensus. Lancet Oncol. 2011;12(5):489-495.](https://pubmed.ncbi.nlm.nih.gov/21296615/) - 암성 악액질의 정의와 진단 기준
 * [Roeland EJ, et al. Management of Cancer Cachexia: ASCO Guideline. J Clin Oncol. 2020;38(21):2438-2453.](https://doi.org/10.1200/JCO.20.00611) - 암성 악액질의 영양·약물 치료 기본 지침
 * [Roeland EJ, et al. Cancer Cachexia: ASCO Guideline Rapid Recommendation Update. J Clin Oncol. 2023;41(25):4178-4179.](https://doi.org/10.1200/JCO.23.01280) - 저용량 olanzapine 권고 추가. 2020년 기본 지침과 함께 해석
-* [Sandhya L, et al. Randomized double-blind placebo-controlled study of olanzapine for chemotherapy-related anorexia. J Clin Oncol. 2023;41(14):2617-2627.](https://pubmed.ncbi.nlm.nih.gov/36977285/) - 항암화학요법 시작 시 저용량 olanzapine 2.5 ㎎/d의 식욕·체중 개선 효과
+* [Sandhya L, et al. Randomized Double-Blind Placebo-Controlled Study of Olanzapine for Chemotherapy-Related Anorexia in Patients With Locally Advanced or Metastatic Gastric, Hepatopancreaticobiliary, and Lung Cancer. J Clin Oncol. 2023;41(14):2617-2627.](https://pubmed.ncbi.nlm.nih.gov/36977285/) - 항암화학요법 시작 시 저용량 olanzapine 2.5 ㎎/d의 식욕·체중 개선 효과
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -490,7 +492,7 @@ flowchart TD
 * **칼로리 밀도 높이기** : 적은 양으로도 칼로리를 보충하려면 기호에 따라 견과류, 치즈, 올리브유 등을 식단에 추가하십시오. 부피가 작아 부담 없이 드실 수 있습니다
 * **식사 기록** : 매일 먹은 음식과 양을 기록하면 진료에 도움이 됩니다. 영양보충식을 드신다면 제품명·실제 먹은 양·불편한 증상도 함께 기록하십시오
 * **체중 측정** : 매주 **같은 시간(아침 공복, 소변 후), 같은 옷차림으로** 체중을 측정하여 변화를 추적하십시오
-* **식욕 저하 원인 관리** : 우울, 불안, 통증, 구강 문제가 식욕을 떨어뜨리는 경우가 많습니다. 해당 증상이 있으면 의사에게 알려 주십시오
+* **식욕 저하 원인 관리** : 우울, 불안, 통증, 구강 문제가 식욕을 떨어뜨리는 경우가 많습니다. 해당 증상이 있으면 주치의에게 알려 주십시오
 
 #### <mark style="color:$primary;">이럴 때는 빠른 시일 내 진료를 받으세요</mark>
 
@@ -504,4 +506,5 @@ flowchart TD
 
 * 의식이 흐려지거나 실신한 경우
 * 물도 마시기 어려울 정도의 심한 탈수 또는 반복 구토가 있는 경우
+* 심한 갈증과 잦은 소변에 구토나 복통이 동반되거나, 쉬고 있는데도 숨을 빠르고 깊게 쉬는 경우
 * 갑작스러운 흉통·호흡곤란, 많은 양의 출혈, 심한 쇠약이 동반되는 경우
