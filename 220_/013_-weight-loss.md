@@ -343,7 +343,7 @@ flowchart TD
 * metformin : 위장관 부작용·식욕저하와의 시간적 연관성을 확인하고 필요시 용량 감량 또는 대체 고려
 * SSRI : 약물 시작/증량과 체중 감소의 시간적 연관성을 확인하고 대체 약물의 적응증과 부작용을 비교하여 조정
 * digoxin, cholinesterase 억제제(donepezil·rivastigmine·galantamine), theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·체중감소의 원인이 될 수 있음
-  * Cholinesterase 억제제는 시작·증량과 섭취량·체중 변화의 연관성을 확인하고 인지·기능상 이득과 위해를 함께 평가하여 조정함. 임의로 중단하지 않으며 상세 관리는 「[치매](../221_/033_-dementia.md)」(033장) 참조
+  * Cholinesterase 억제제는 시작·증량과 섭취량·체중 변화의 연관성을 확인하고 인지·기능상 이득과 위해를 함께 평가하여 조정함. 임의로 중단하지 않으며 상세 관리는 「[치매](../221_/033_-dementia.md)」참조
 
 #### <mark style="color:$primary;">D. 식욕 유지형 체중 감소</mark>
 
