@@ -39,7 +39,7 @@
 
 **급여**
 
-* 누014 프로칼시토닌 정밀면역검사(정량) : 입원환자 중 전신성 염증반응증후군이 있거나 패혈증이 의심되는 환자, 폐렴 환자에서 세균 감염 진단 또는 항균제 치료 중단 결정을 위해 시행한 경우 급여 (폐렴 입원환자는 2024. 2.부터)
+* 누014나 프로칼시토닌 정밀면역검사(정량) : 입원환자 중 전신성 염증반응증후군 환자, 패혈증 의심 환자 또는 폐렴 환자에서 세균 감염 진단이나 항균제 치료 중단 여부를 결정하기 위해 시행하면 급여 <mark style="color:$info;">\[고시 제2024-18호]</mark>
 
 ***
 
@@ -238,7 +238,7 @@
 
 **무엇을 보는가**
 
-* 이종친화항체(heterophile antibody, Monospot) : 전염성 단핵구증에서 생기는 비특이 항체
+* 이종친화항체(heterophile antibody, Monospot) : 전염성 단핵구증에서 생기는 비특이 항체. EBV 감염 자체의 확인에는 EBV 특이 항체를 사용
 * EBV 특이 항체 : VCA IgM, VCA IgG, EBNA 항체의 조합으로 감염 시기를 판정
 
 **언제 시행하는가**
@@ -254,7 +254,7 @@
 
 <table><thead><tr><th width="120">VCA IgM</th><th width="120">VCA IgG</th><th width="120">EBNA</th><th>해석</th></tr></thead><tbody><tr><td><strong>+</strong></td><td>+ 또는 −</td><td>−</td><td>급성 일차 감염</td></tr><tr><td><strong>−</strong></td><td>+</td><td>+</td><td>과거 감염</td></tr><tr><td><strong>−</strong></td><td>−</td><td>−</td><td>감염된 적 없음 (초기 감염이면 재검)</td></tr></tbody></table>
 
-* EBNA 항체는 감염 후 수개월에 걸쳐 나타나므로, EBNA 양성이면 급성 일차 감염 가능성이 낮음
+* EBNA 항체는 대개 증상 시작 2\~4개월 후 나타남. VCA IgG만 양성이면 한 번의 검사로 감염 시기를 확정하기 어려우므로 발병 시점과 검체 채취일을 확인하고 필요 시 검사기관과 추가 검사 여부를 상의
 * 이형림프구 ＞10%는 EBV를 시사하지만 단독 확진 소견은 아님
 
 **위양성·위음성**
@@ -290,7 +290,7 @@
 
 **해석·절단값**
 
-<table><thead><tr><th width="250">상황</th><th>의미 있는 균수</th></tr></thead><tbody><tr><td><strong>무증상 세균뇨 - 여성 중간뇨</strong></td><td>같은 균 ≥10⁵ CFU/㎖ 연속 2회 (임신부 선별은 1회)</td></tr><tr><td><strong>무증상 세균뇨 - 남성 중간뇨</strong></td><td>≥10⁵ CFU/㎖ 1회</td></tr><tr><td><strong>도뇨 검체</strong></td><td>≥10² CFU/㎖</td></tr><tr><td><strong>증상성 방광염 - 여성</strong></td><td>전형적 증상·농뇨가 있으면 단일 요로병원균 ≥10² CFU/㎖도 의미 가능</td></tr><tr><td><strong>증상성 UTI - 남성</strong></td><td>≥10³ CFU/㎖를 증상과 함께 해석</td></tr><tr><td><strong>신우신염</strong></td><td>≥10⁴ CFU/㎖ (민감도 약 90~95%); ＜10⁵만으로 배제하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="250">상황</th><th>의미 있는 균수</th></tr></thead><tbody><tr><td><strong>무증상 세균뇨 - 여성 중간뇨</strong></td><td>같은 균 ≥10⁵ CFU/㎖ 연속 2회 (임신부 선별은 1회)</td></tr><tr><td><strong>무증상 세균뇨 - 남성 중간뇨</strong></td><td>≥10⁵ CFU/㎖ 1회</td></tr><tr><td><strong>도뇨관 관련 증상성 UTI</strong></td><td>맞는 증상이 있고 다른 원인이 없을 때 도뇨 검체에서 ≥10³ CFU/㎖</td></tr><tr><td><strong>유치 도뇨관의 무증상 세균뇨</strong></td><td>≥10⁵ CFU/㎖. 일시 도뇨나 새 도뇨관에서 10²~＜10⁵ CFU/㎖는 실제 세균뇨일 수 있으나, 무증상일 때 임상적 의미는 확립되지 않음</td></tr><tr><td><strong>증상성 방광염 - 여성</strong></td><td>전형적 증상·농뇨가 있으면 단일 요로병원균 ≥10² CFU/㎖도 의미 가능</td></tr><tr><td><strong>증상성 UTI - 남성</strong></td><td>≥10³ CFU/㎖를 증상과 함께 해석</td></tr><tr><td><strong>신우신염</strong></td><td>≥10⁴ CFU/㎖ (민감도 약 90~95%); ＜10⁵만으로 배제하지 않음</td></tr></tbody></table>
 
 * 농뇨 : ≥10 WBC/HPF
 * 혼합균 다수·편평상피세포 다수는 오염 - 적절히 재채취
@@ -314,7 +314,7 @@
 
 * NAAT(핵산증폭검사) : 임균·클라미디아의 우선 진단 검사; 트리코모나스에서도 가장 민감
 * _M. genitalium_ NAAT : 지속·재발 요도염·자궁경부염
-* HIV : 4세대 항원·항체 검사 → 반응성이면 확진 검사
+* HIV : 4세대 HIV-1/2 항원·항체 선별검사. 반응성이면 확인검사를 의뢰
 
 **언제 시행하는가**
 
@@ -340,7 +340,7 @@
 **해석·절단값**
 
 * 재검사 : 임질·클라미디아는 치료 약 3개월 후 재감염 검사; 임신 중 클라미디아는 치료 약 4주 후 완치 판정 NAAT
-* HIV : 최근 고위험 노출·급성 HIV 의심이면 HIV RNA와 반복 검사
+* HIV : 검사실 표준 알고리듬에서는 4세대 검사 반응성 → HIV-1/2 항체 감별검사 → 감별검사 음성·미결정이면 HIV-1 NAT. 확인검사와 신고 절차는 검사기관·보건당국 지침에 따름. 최근 고위험 노출·급성 HIV 의심이면 선별검사가 음성이어도 HIV RNA와 반복 검사 고려
 
 **위양성·위음성**
 
@@ -597,6 +597,9 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [CDC. Laboratory testing for Epstein-Barr virus (EBV). 2024.](https://www.cdc.gov/epstein-barr/php/laboratories/index.html)
+* [CDC/APHL. Recommended laboratory HIV testing algorithm for serum or plasma specimens.](https://stacks.cdc.gov/view/cdc/23446)
+* [Hooton TM, et al. Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults. Clin Infect Dis 2010;50:625-663.](https://doi.org/10.1086/650482)
 * American Thoracic Society. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2026;212(1):24-44.
 * Metlay JP, et al. Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med 2019;200(7):e45-e67.
 * NICE. Pneumonia: diagnosis and management (NG250). 2025.
@@ -614,3 +617,7 @@
 * CDC. Measles Surveillance Manual 2025; Laboratory Testing for Mumps.
 * Mitchell KB, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum. Breastfeed Med 2022.
 * 질병관리청. 예방접종 대상 감염병의 역학과 관리 / 성인 예방접종 안내서.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [건강보험심사평가원. 고시 제2024-18호. 누014나 프로칼시토닌 정밀면역검사(정량)의 급여기준(2024.2.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201&mtgMtrRegSno=0002&sno=3)

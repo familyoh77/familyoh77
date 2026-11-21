@@ -50,7 +50,7 @@
 
 **언제 시행하는가**
 
-* 반복 확인된 MH (RBC ≥3/HPF)에서 감염·월경·운동·결석 등 일시적 원인을 배제한 뒤
+* AUA/SUFU 2025에서는 적절히 채취한 소변 1회의 요침사에서 RBC ≥3/HPF이면 현미경적 혈뇨로 정의. 감염·월경 등 일시적 원인이 확인되면 원인 해소 후 재검해 지속 여부를 확인
 * 현재 진행 중인 육안혈뇨는 위험도 분류를 적용하지 않고 비뇨의학과 포괄 평가 (통증 유무와 무관)
 
 **검사 방법**
@@ -68,8 +68,8 @@
 * 중등도 : 방광경 + 신장·방광 초음파
 * 고위험 : 방광경 + 요로조영 CT(금기면 요로조영 MR; 둘 다 불가하면 역행성 신우조영술 + 비조영 영상 또는 초음파)
 * AUA/SUFU 2025 변경
-  * 여성은 ＜60세를 저위험, ≥60세를 중등도로 분류 (연령만으로 고위험이 되지 않음)
-  * 저위험은 6개월 내 재검을 우선하고, 지속되면 중등도·고위험으로 재분류
+  * 여성 연령 항목은 ＜60세가 저위험·무시할 만한 위험군 범위, ≥60세가 중등도 위험군 범위. 여성은 연령만으로 고위험이 되지 않으며 흡연력·적혈구 수·추가 위험인자를 함께 적용
+  * 저위험·무시할 만한 위험군은 즉시 영상·방광경을 시행하는 대신 6개월 이내 요검사를 반복. 혈뇨가 지속되면 재검 소견과 위험인자로 재분류
   * 서로 다른 판의 기준을 섞지 않음
 * 초기 평가 음성 : 국내 2023은 1년 이내 요검사·혈압·단백뇨·eGFR 추적 고려; 새 육안혈뇨나 뚜렷한 증가가 있으면 재평가
 
@@ -105,7 +105,7 @@
 
 * 시험지봉은 농도이므로 하루 배설량으로 환산할 수 없음 - 양성이면 UACR·UPCR로 확인
 * 정상 총단백 : UPCR 약 ＜150 ㎎/g 또는 24시간 ＜150 ㎎/day
-* 신증후군 범위 : UPCR ≥3,000\~3,500 ㎎/g 또는 24시간 ≥3.5 g + 저알부민혈증·부종
+* 성인 신증후군 범위 단백뇨 : 예를 들어 KDIGO 2021은 24시간 요단백 ＞3.5 g 또는 UPCR ≥3,000 ㎎/g으로 제시. 신증후군 진단에는 저알부민혈증 등 임상 소견을 함께 평가
 * UACR(알부민)과 UPCR(총단백)은 서로 바꾸어 쓰지 않음
 * 원인 검사 : 사구체 질환 의심 시 ANA·C3/C4, anti-PLA2R(막성신병증), ANCA·anti-GBM(급속진행); HBV·HCV·HIV; 단클론감마글로불린병증 의심 시 혈청 유리경쇄·단백전기영동·면역고정
 
@@ -208,7 +208,7 @@
 
 * 선별 : 무증상 남성에게 이득·위해를 설명한 뒤 공유 의사결정 (국내 국가검진 항목 아님)
   * AUA/SUO 2023(2026 개정) : 45\~50세에 기저 PSA, 고위험(흑인, 생식세포 변이, 강한 가족력)은 40\~45세부터; 50\~69세는 2\~4년마다
-  * ACS 2026 : 평균 위험 50\~69세 2년마다; 70\~74세 개별 결정; 75세 이상 또는 기대여명 ＜10년이면 권고하지 않음
+  * ACS 2026 : 평균 위험은 50\~69세에 2년마다. 흑인 남성은 45\~69세에 매년, 비흑인 남성 중 1촌 가족력이 있으면 45\~69세에 가족의 진단 나이·환자 수에 따라 1\~2년마다. 70\~74세는 개별 결정, 75세 이상 또는 기대여명 ＜10년이면 권고하지 않음
 * 진단 : 배뇨 증상(LUTS) 평가 중 결과가 치료를 바꿀 때, DRE 이상
 
 **검사 방법**
@@ -430,7 +430,8 @@
 
 * 자궁내막 생검 대상
   * 생식연령 : ＞45세 AUB는 1차 평가로; ≤45세라도 unopposed estrogen 노출(비만, PCOS), 지속성 AUB, 약물 치료 실패, 자궁내막암 고위험
-  * 폐경 후 출혈 : TVUS 자궁내막 두께 ≤4 ㎜이면 악성 가능성이 낮으나, 출혈이 지속·재발하면 조직검사
+  * 폐경 후 출혈 : ACOG 2026은 대부분에서 초기 평가에 TVUS와 자궁내막 조직검사를 함께 권고 <mark style="color:$info;">\[Obstet Gynecol 2026]</mark>
+  * 첫 1회 출혈이고 자궁내막 전체가 잘 보이며 두께 ≤4 ㎜인 저위험 환자는 TVUS 단독으로 시작할 수 있음. 신속한 재평가가 가능해야 하며, 출혈이 지속·재발하면 내막 두께와 관계없이 즉시 재평가
 * 생식연령에서는 자궁내막 두께가 주기에 따라 변하므로 폐경 후의 4 ㎜ 기준을 적용하지 않음
 * 전형적인 청소년 HMB는 구조적 원인이 드물어 영상을 일률적으로 하지 않음
 
@@ -446,6 +447,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [KDIGO. Clinical practice guideline for the management of glomerular diseases. 2021. Figure 4.](https://kdigo.org/wp-content/uploads/2021/10/KDIGO-2021-Guideline-for-the-Management-of-Glomerular-Diseases.pdf)
 * AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025. doi:10.1161/CIR.0000000000001356.
 * KDIGO. 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int 2024;105(4S):S117-S314.
 * KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138.
@@ -454,13 +456,13 @@
 * EAU Guidelines on Urolithiasis. 2026.
 * AUA Guideline: Medical Management of Kidney Stones. 2026.
 * Wei JT, et al. Early Detection of Prostate Cancer: AUA/SUO Guideline (2023; 2026 Amendment). J Urol.
-* American Cancer Society. Recommendations for Prostate Cancer Early Detection. 2026.
+* [American Cancer Society. Guideline for Prostate Cancer Early Detection. 2026.](https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/acs-recommendations.html)
 * Cameron AP, et al. The AUA/SUFU Guideline on the Diagnosis and Treatment of Idiopathic Overactive Bladder. J Urol 2024;212:11-20.
 * EAU Guidelines on Management of Non-neurogenic Male LUTS; Non-neurogenic Female LUTS. 2026.
 * ASRM Practice Committee. Current evaluation of amenorrhea: a committee opinion. Fertil Steril 2024.
 * Teede HJ, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of PCOS. J Clin Endocrinol Metab 2023;108:2447-2469.
 * NICE. Heavy menstrual bleeding: assessment and management (NG88). 2018, 2026 개정.
-* ACOG Committee Opinion No. 734. The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding. Obstet Gynecol 2018.
+* [ACOG. Updated guidance regarding the role of transvaginal ultrasonography in evaluating the endometrium of individuals with postmenopausal bleeding. Obstet Gynecol 2026.](https://doi.org/10.1097/AOG.0000000000006275)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 

@@ -206,13 +206,13 @@
 
 **해석·절단값**
 
-* 매우 낮음(−3, −2점)·낮음(−1, 0점) : 30일 중대 결과 약 0.4%
+* 매우 낮음(−3, −2점) : 30일 중대 결과 0.2%, 낮음(−1, 0점) : 0.7% <mark style="color:$info;">\[JAMA Intern Med 2020]</mark> - 캐나다 다기관 검증 자료
 * 중간(1\~3점) : 관찰·신속 추적 또는 입원을 임상적으로 결정
 * 높음(4, 5점)·매우 높음(≥6점) : 집중 평가와 입원 고려
 
 **위양성·위음성**
 
-* 2026년 미국 외부 검증(40세 이상)에서 예측력(AUROC 0.72)이 개발 연구보다 낮았고, ＜0점의 민감도는 91.9% - 저위험 점수만으로 퇴원을 결정하거나 중대 원인을 배제하지 않음
+* 2026년 미국 외부 검증(40세 이상 실신·실신 전 증상 환자)에서 예측력(AUROC 0.72)이 개발 연구보다 낮았고, ＜0점의 민감도는 91.9% - 저위험 점수만으로 퇴원을 결정하거나 중대 원인을 배제하지 않음
 * 40세 미만이나 다른 진료 환경에 그대로 일반화하지 않음
 
 ***
@@ -241,13 +241,10 @@
 
 * 급성 심근손상 : 적어도 1회 값이 성별 특이 99백분위수 URL을 넘고, 반복 측정에서 상승·하강(Δ)이 있음
 * 만성 심근손상 : 높지만 변화 없이 안정 (CKD, 심부전, 구조적 심질환)
-* 급성 심근경색 = 급성 심근손상 + 허혈 근거(허혈 증상, 새로운 허혈성 ECG 변화, 영상의 새로운 국소벽운동 이상, 관상동맥 병변)
+* 급성 심근경색 = 급성 심근손상 + 허혈 근거(허혈 증상, 새로운 허혈성 ECG 변화, 영상의 허혈 양상에 합당한 새로운 국소벽운동 이상, 관상동맥 혈전 등)
   * 2026 제5차 보편적 정의는 일차성·이차성·시술 관련 MI로 분류 (☞ 흉통)
-* 단일 측정 배제 : 다음 네 조건을 모두 충족할 때만 고려
-  1. 정상 ECG
-  2. ACS를 시사하는 증상
-  3. 증상 시작 후 3시간 이상 지나 도착
-  4. 첫 hs-cTn이 해당 assay의 검출한계 미만
+* 단일 채혈로 심근경색 배제 : 응급실의 검증된 진료 경로에서 허혈성 변화가 없는 ECG, 증상 시작부터 첫 채혈까지 3시간 이상, 첫 hs-cTn이 검사법별로 검증된 매우 낮은 절단값 미만인 조건을 모두 충족할 때 고려 <mark style="color:$info;">\[J Am Coll Cardiol 2022]</mark>
+  * 임상적 의심이 높거나 증상이 진행하면 반복 심전도·hs-cTn 및 추가 평가. 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제하지 않음
 * 그 밖에는 검증된 0/1시간 또는 0/2시간 프로토콜로 재측정하고 절대 변화량을 함께 판단 <mark style="color:$info;">\[ESC]</mark> - hs-cTn 재측정 간격 1\~2시간 <mark style="color:$info;">\[ACC/AHA 2025]</mark>
 
 **위양성·위음성**
@@ -797,7 +794,12 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* ESC. Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2021, 2026.
+* [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guideline for the management of patients with acute coronary syndromes. Circulation 2025.](https://doi.org/10.1161/CIR.0000000000001309)
+* [Kontos MC, et al. 2022 ACC expert consensus decision pathway on the evaluation and disposition of acute chest pain in the emergency department. J Am Coll Cardiol 2022;80:1925-1960.](https://doi.org/10.1016/j.jacc.2022.08.750)
+* [Validation of 2 syncope risk scores and comparison with physician risk estimation. JAMA Netw Open 2026.](https://pubmed.ncbi.nlm.nih.gov/42154462/)
+* [Thiruganasambandamoorthy V, et al. Multicenter emergency department validation of the Canadian Syncope Risk Score. JAMA Intern Med 2020;180:737-744.](https://doi.org/10.1001/jamainternmed.2020.0288)
+* ESC. Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2021.
+* [ESC. 2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.](https://doi.org/10.1093/eurheartj/ehag100)
 * 대한심부전학회. 2022 심부전 진료지침.
 * American Diabetes Association. Standards of Care in Diabetes - 2024. Diabetes Care 2024;47(Suppl 1).
 * Gornik HL, et al. 2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease. Circulation 2024;149(24):e1313-e1410.
@@ -807,8 +809,8 @@
 * Juraschek SP, et al. Orthostatic Hypotension in Adults With Hypertension: A Scientific Statement From the AHA. Hypertension 2024;81:e16-e30.
 * Wieling W, et al. Diagnosis and treatment of orthostatic hypotension. Lancet Neurol 2022;21:735-746.
 * Thijs RD, et al. Recommendations for tilt table testing and other provocative cardiovascular autonomic tests in conditions that may cause transient loss of consciousness. Clin Auton Res 2021;31:369-384.
-* Raj SR, et al. Canadian Cardiovascular Society Position Statement on Postural Orthostatic Tachycardia Syndrome (POTS). CMAJ 2022.
-* Thygesen K, et al. Fifth Universal Definition of Myocardial Infarction. 2026.
+* [Raj SR, et al. Diagnosis and management of postural orthostatic tachycardia syndrome. CMAJ 2022;194:E378-E385.](https://doi.org/10.1503/cmaj.211373)
+* [ESC/ACC/AHA/WHF. Fifth Universal Definition of Myocardial Infarction. Eur Heart J 2026.](https://doi.org/10.1093/eurheartj/ehag101)
 * ESC. Guidelines for the management of chronic coronary syndromes. Eur Heart J 2024. doi:10.1093/eurheartj/ehae177.
 * AHA/ACC. Guideline for the Evaluation and Diagnosis of Chest Pain. 2021. doi:10.1016/j.jacc.2021.07.053.
 * AHA/ACC/ESC/WHF. Second Universal Definition of Heart Failure. Eur Heart J 2026;47:4357-4374.
@@ -823,6 +825,6 @@
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 건강보험심사평가원. 고시 제2026-234호 - 누406 심장표지자 BNP·NT-proBNP 검사 급여기준(2026.11.12.; 급여대상은 제2018-254호와 동일, 분류·용어 표기만 변경).
+* [건강보험심사평가원. 고시 제2026-234호. 누406 심장표지자 BNP·NT-proBNP 검사 급여기준(2026.11.12. 시행).](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12345&brdScnBltNo=4&pgmid=HIRAA020002000100)
 * 건강보험심사평가원. 고시 제2022-26호 - 48시간 초과 홀터기록 급여기준.
 * 건강보험심사평가원. 고시 제2022-184호 - Rivaroxaban 등 NOAC의 비판막성 AF 급여기준.

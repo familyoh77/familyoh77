@@ -332,7 +332,11 @@
 **검사 방법**
 
 * 궐련, 궐련형 전자담배, 액상형 전자담배, 니코틴 파우치 등 모든 제품과 이중 사용을 확인
-* FTND 배점 : 기상 후 첫 흡연 5분 이내 3, 6\~30분 2, 31\~60분 1, ＞60분 0; 하루 ≤10개비 0, 11\~20 1, 21\~30 2, ≥31 3; 나머지 4문항 각 예 1점
+* FTND 배점
+  * 기상 후 첫 흡연 : ≤5분 3점, 6\~30분 2점, 31\~60분 1점, ＞60분 0점
+  * 하루 흡연량 : ≤10개비 0점, 11\~20개비 1점, 21\~30개비 2점, ≥31개비 3점
+  * 금연 장소에서 참기 어려움, 기상 후 첫 몇 시간에 더 자주 흡연, 몸이 아파 누워 있어도 흡연 : 각각 예 1점
+  * 가장 포기하기 어려운 담배 : 아침 첫 담배 1점, 그 외 0점
 
 **해석·절단값**
 
@@ -386,6 +390,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Heatherton TF, et al. The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire. Br J Addict 1991;86:1119-1127.](https://pubmed.ncbi.nlm.nih.gov/1932883/)
 * Levis B, et al. Accuracy of PHQ-9 for screening to detect major depression: individual participant data meta-analysis. BMJ 2019;365:l1476.
 * Levis B, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression. JAMA 2020;323:2290-2300.
 * Gierk B, et al. The Somatic Symptom Scale-8 (SSS-8). JAMA Intern Med 2014;174:399-407.

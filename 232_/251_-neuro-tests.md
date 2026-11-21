@@ -21,13 +21,13 @@
 
 > _Do TP, et al. Neurology 2019 (SNNOOP10)._
 
-* Ottawa SAH rule : 16세 이상, 의식 명료·신경학적 결손 없음, 1시간 이내 최고조에 이른 새로운 심한 비외상성 두통(발병 14일 이내)에서 적용
+* Ottawa SAH rule : 16세 이상, 의식 명료·새 국소 신경학적 결손 없음, 1시간 이내 최고조에 이른 새로운 심한 비외상성 두통이 발병 14일 이내에 내원한 경우에 적용. 유두부종, 알려진 뇌동맥류·SAH, 같은 양상·강도의 두통이 6개월 넘게 3회 이상 반복된 경우 등은 검증 대상에서 제외 <mark style="color:$info;">\[CMAJ 2017]</mark>
   * ① ≥40세 ② 목 통증·뻣뻣함 ③ 목격된 의식 소실 ④ 활동 중 발생 ⑤ 벼락두통 ⑥ 목 굴곡 제한 중 하나라도 있으면 SAH를 배제할 수 없음 - 즉시 비조영 뇌 CT
   * 민감도 100%, 특이도 약 15% - 배제(rule-out) 도구
 
 **해석·절단값**
 
-<table><thead><tr><th width="210">의심 상황</th><th>우선 검사</th></tr></thead><tbody><tr><td><strong>벼락두통 (SAH)</strong></td><td>비조영 뇌 CT - 발병 6시간 이내, 신경학적 결손 없음, 고품질 CT를 숙련자가 판독하여 음성이면 SAH 가능성 매우 낮음; 6시간 초과·새 신경학적 결손·CT 조건 불충분이면 요추천자 추가</td></tr><tr><td><strong>반복 벼락두통 (RCVS)</strong></td><td>CTA 또는 MRA - 초기 정상일 수 있어 추적 혈관영상</td></tr><tr><td><strong>CVST (임신·산후, 혈전 위험, 유두부종)</strong></td><td>CTV 또는 MRV</td></tr><tr><td><strong>종괴·후두와·뇌하수체·수막 병변</strong></td><td>MRI</td></tr><tr><td><strong>거대세포동맥염 (≥50세)</strong></td><td>ESR·CRP·CBC(혈소판) + 신속 의뢰 - 시각 증상이 있으면 검사 결과를 기다리지 않고 glucocorticoid</td></tr></tbody></table>
+<table><thead><tr><th width="210">의심 상황</th><th>우선 검사</th></tr></thead><tbody><tr><td><strong>벼락두통 (SAH)</strong></td><td>비조영 뇌 CT - 발병 6시간 이내, 신경학적 결손 없음, 고품질 CT를 숙련자가 판독하여 음성이면 SAH 가능성 매우 낮음; 6시간 초과 또는 새 신경학적 결손이 있으면 비조영 CT부터 시행하고, CT 음성이라도 SAH가 의심되면 요추천자 추가. 6시간 이내라도 촬영·판독 조건이 충족되지 않거나 의심이 지속되면 추가 평가</td></tr><tr><td><strong>반복 벼락두통 (RCVS)</strong></td><td>CTA 또는 MRA - 초기 정상일 수 있어 추적 혈관영상</td></tr><tr><td><strong>CVST (임신·산후, 혈전 위험, 유두부종)</strong></td><td>CTV 또는 MRV</td></tr><tr><td><strong>종괴·후두와·뇌하수체·수막 병변</strong></td><td>MRI</td></tr><tr><td><strong>거대세포동맥염 (≥50세)</strong></td><td>ESR·CRP·CBC(혈소판) + 신속 의뢰 - 시각 증상이 있으면 검사 결과를 기다리지 않고 glucocorticoid</td></tr></tbody></table>
 
 **위양성·위음성**
 
@@ -59,7 +59,7 @@
 
 **해석·절단값**
 
-<table><thead><tr><th width="160">소견</th><th width="260">말초성 패턴 (모두 충족)</th><th>중추성 또는 불확실 (하나라도)</th></tr></thead><tbody><tr><td><strong>Head impulse</strong></td><td>비정상 - 병변 쪽으로 교정성 단속운동</td><td>정상 (AVS에서 정상 HIT는 중추성 시사)</td></tr><tr><td><strong>안진</strong></td><td>방향고정성 수평(-회선성) 안진</td><td>주시 방향에 따라 바뀌는 안진, 수직·순수 회선성 안진</td></tr><tr><td><strong>Skew</strong></td><td>없음</td><td>수직 재정렬 있음</td></tr><tr><td><strong>청력</strong></td><td>새 일측 청력 저하 없음</td><td>새 일측 청력 저하 (AICA 경색 위험)</td></tr></tbody></table>
+<table><thead><tr><th width="160">소견</th><th width="260">말초성 패턴 (모두 충족)</th><th>중추성 또는 불확실 (하나라도)</th></tr></thead><tbody><tr><td><strong>Head impulse</strong></td><td>병변 쪽으로 머리를 돌릴 때 표적을 놓치고 반대 방향의 교정성 단속운동으로 표적을 다시 주시</td><td>정상 (AVS에서 정상 HIT는 중추성 시사)</td></tr><tr><td><strong>안진</strong></td><td>방향고정성 수평(-회선성) 안진</td><td>주시 방향에 따라 바뀌는 안진, 수직·순수 회선성 안진</td></tr><tr><td><strong>Skew</strong></td><td>없음</td><td>수직 재정렬 있음</td></tr><tr><td><strong>청력</strong></td><td>새 일측 청력 저하 없음</td><td>새 일측 청력 저하 (AICA 경색 위험)</td></tr></tbody></table>
 
 * 중추성·불확실 패턴이면 MRI(DWI) ± MRA와 신경과 평가
 
@@ -190,14 +190,15 @@
 
 **검사 방법**
 
-* CDR (한국판 확장판) : 기억력, 지남력, 판단력·문제해결, 사회 활동, 집안 생활·취미, 위생·몸치장의 6개 영역에 0·0.5·1·2·3·4·5점
+* CDR : 기억력, 지남력, 판단력·문제해결, 사회 활동, 집안 생활·취미, 위생·몸치장의 6개 영역을 평가. 표준판 영역점수는 0·0.5·1·2·3점(위생·몸치장에는 0.5점 없음)
 * GDS (Global Deterioration Scale) : 면담으로 1\~7단계 판정 - CDR보다 짧게 판단 가능
 
 **해석·절단값**
 
 * global CDR : 기억력 영역을 중심으로 한 채점 규칙으로 결정 (영역 점수의 합·평균이 아님)
-  * 0 치매 아님, 0.5 의심(최경도), 1 경증, 2 중등도, 3 중증, 4 매우 중증, 5 말기
-* CDR-SB : 6개 영역 점수의 합(0\~18점) - 경과 추적·임상시험 지표이며 단계 판정에 쓰지 않음
+  * 표준 global CDR : 0 정상, 0.5 매우 경미한 장애, 1 경증, 2 중등도, 3 중증
+  * 한국판 확장 global CDR : 4 매우 중증, 5 말기 단계를 추가
+* 표준판 CDR-SB : 6개 영역점수의 합(0\~18점). 경과 추적 등에 사용하며 global CDR 산출 규칙과 구분
   * 급여기준 등의 "CDR 2\~3"은 global CDR을 뜻함
 * GDS : 1 인지 장애 없음, 2 매우 경미, 3 경미, 4 중등도, 5 초기 중증, 6 중증, 7 후기 중증
 
@@ -225,11 +226,11 @@
 
 **검사 방법**
 
-* 진찰실 인지검사로 불분명하면 표준화 신경심리검사 → 불확실성이 남으면 FDG-PET, CSF, 아밀로이드 PET을 순차적으로
+* 임상 평가와 표준화 인지 평가 뒤에도 알츠하이머병 병리 확인이 진료에 영향을 주면, 전문진료에서 검사 목적에 따라 검증된 혈액 바이오마커, 뇌척수액 또는 아밀로이드 PET을 선택
 
 **해석·절단값**
 
-* 혈액 바이오마커 성능 기준 <mark style="color:$info;">\[Alzheimer's Association 2025]</mark>
+* 혈액 바이오마커의 사용 기준 : 객관적 인지장애가 있고 알츠하이머병이 의심되어 전문진료에서 평가받는 환자에게 성능이 검증된 검사법을 적용 <mark style="color:$info;">\[Alzheimer's Association 2025]</mark>
   * 민감도 ≥90%·특이도 ≥75% : 선별(triage)용 - 양성이면 PET·CSF로 확인
   * 민감도·특이도 모두 ≥90% : PET·CSF를 대체하는 확인 검사
 * 중간 결과나 임상상과 불일치하는 결과는 PET·CSF로 추가 평가
@@ -339,11 +340,15 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Edlow JA, et al. GRACE-3: Acute dizziness and vertigo in the emergency department. Acad Emerg Med 2023;30:442-486.](https://doi.org/10.1111/acem.14728)
+* [Hoh BL, et al. 2023 guideline for the management of patients with aneurysmal subarachnoid hemorrhage. Stroke 2023;54:e314-e370.](https://doi.org/10.1161/STR.0000000000000436)
+* [Washington University Knight ADRC. CDR Scoring Table.](https://knightadrc.wustl.edu/professionals-clinicians/cdr-dementia-staging-instrument/cdr-scoring-table/) / 나덕렬 등. 한국판 Expanded Clinical Dementia Rating(CDR) 척도의 타당도. 대한신경과학회지 2001;19:585-591.
+* [Perry JJ, et al. Validation of the Ottawa Subarachnoid Hemorrhage Rule in patients with acute headache. CMAJ 2017;189:E1379-E1385.](https://doi.org/10.1503/cmaj.170072)
 * Do TP, et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology 2019;92:134-144.
 * Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol 2026.
 * Bhattacharyya N, et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngol Head Neck Surg 2017;156(3 Suppl):S1-S47.
 * Johnston SC, et al. Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack. Lancet 2007;369:283-292.
 * K-MoCA 연령·교육수준별 규준 연구. Dement Neurocogn Disord 2026.
-* Alzheimer's Association. Clinical practice guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease. 2025.
+* [Palmqvist S, et al. Alzheimer's Association clinical practice guideline on use of blood-based biomarkers for suspected Alzheimer's disease within specialized care settings. Alzheimers Dement 2025.](https://pubmed.ncbi.nlm.nih.gov/40729527/)
 * Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord 2015;30:1591-1601.
 * AAOS. Management of Carpal Tunnel Syndrome Evidence-Based Clinical Practice Guideline. 2024.

@@ -238,7 +238,7 @@
 
 **해석·절단값**
 
-<table><thead><tr><th width="120">IWGDF/IDSA</th><th>기준</th></tr></thead><tbody><tr><td><strong>1 감염 없음</strong></td><td>감염 징후 없음</td></tr><tr><td><strong>2 경증</strong></td><td>국소 징후 ≥2개, 피부·피하조직만, 궤양 주위 발적 ≤2 ㎝</td></tr><tr><td><strong>3 중등증</strong></td><td>발적 ＞2 ㎝ 또는 피부·피하보다 깊은 조직(근막, 근육, 관절, 뼈) 침범, 전신 반응 없음</td></tr><tr><td><strong>4 중증</strong></td><td>전신염증반응 (체온 ＞38℃ 또는 ＜36℃, 맥박 ＞90, 호흡 ＞20 또는 PaCO₂ ＜32 ㎜Hg, WBC ＞12,000 또는 ＜4,000 또는 미성숙형 ≥10% 중 ≥2개)</td></tr></tbody></table>
+<table><thead><tr><th width="120">IWGDF/IDSA</th><th>기준</th></tr></thead><tbody><tr><td><strong>1 감염 없음</strong></td><td>감염 징후 없음</td></tr><tr><td><strong>2 경증</strong></td><td>다른 염증 원인 없이 국소 감염 징후 ≥2개(부종·경결, 상처 가장자리에서 ＞0.5~＜2 ㎝ 발적, 압통·통증, 열감, 농성 분비물). 피부·피하에 국한되고 중등도·중증 소견이 없음</td></tr><tr><td><strong>3 중등증</strong></td><td>상처 가장자리에서 발적 ≥2 ㎝ 또는 피부·피하보다 깊은 조직(근막, 근육, 관절, 뼈) 침범, 전신 반응 없음</td></tr><tr><td><strong>4 중증</strong></td><td>족부감염과 전신염증반응 기준 ≥2개. ① 체온 ＞38℃ 또는 ＜36℃ ② 맥박 ＞90회/분 ③ 호흡 ＞20회/분 또는 PaCO₂ ＜32 ㎜Hg ④ 백혈구 ＞12,000/㎕, ＜4,000/㎕ 또는 띠호중구 ＞10%</td></tr></tbody></table>
 
 > _골수염이 있으면 (O)를 덧붙임 (예 : 3(O))._
 

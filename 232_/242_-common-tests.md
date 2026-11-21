@@ -1,7 +1,7 @@
 # 공통 기본 검사 Common Laboratory Tests
 
 {% hint style="info" %}
-작성 예정 : CBC·백혈구 감별계산, ESR, 전해질·산염기(음이온 간격·요 전해질), 12유도 심전도, 흉부 X선
+작성 예정 : CBC·백혈구 감별계산, ESR, 전해질·산염기(음이온 간격·요 전해질), 12유도 심전도, 흉부 X선, SPEP·혈청 유리경쇄(sFLC)·면역고정, 비타민 B12·엽산
 {% endhint %}
 
 ## <mark style="color:green;">빈혈 평가 (CBC 지수·망상적혈구·말초혈액도말·용혈 검사)</mark>
@@ -58,18 +58,18 @@
 
 * 하지불안증후군 : 임상적으로 유의한 모든 RLS에서 ferritin과 TSAT 측정
 * 불면증·피로·산후 우울에서 빈혈·철결핍이 의심될 때, 탈모
-* 철결핍빈혈 의심과 원인 평가 (☞ 빈혈 챕터)
+* 철결핍빈혈 의심과 원인 평가 (☞ 빈혈 평가)
 
 **검사 방법**
 
-* 아침 공복 채혈; 철분 함유 음식·보충제는 최소 24시간 전부터 피함 <mark style="color:$info;">\[AASM 2025]</mark>, 경구 철분제는 48시간 전 중단 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
+* 하지불안증후군의 철 상태 검사 : 아침 채혈을 권장하고 철분 함유 음식·보충제는 최소 24시간 전부터 피함 <mark style="color:$info;">\[AASM 2025]</mark>. 경구 철분제 중단 시간은 적용 지침과 수탁 검사기관의 채혈 지침을 확인
 
 **해석·절단값**
 
 * RLS의 철 보충 기준 <mark style="color:$info;">\[AASM 2025]</mark>
   * ferritin ≤75 ng/㎖ 또는 TSAT ＜20% : 경구 또는 정맥 철분 고려
-  * ferritin 75\~100 ng/㎖ : 정맥 철분 고려
-  * ferritin ＞300 ng/㎖ 또는 TSAT ≥45% : 철 과부하 위험으로 정맥 철분 투여하지 않음
+  * 75 ＜ ferritin ≤100 ng/㎖에서 철분 보충이 필요하다면 정맥 철분을 고려
+* 정맥 철분 투여 전 철 과부하 가능성, ferritin 측정법과 사용하려는 치료 지침의 적용 기준을 확인
 * TSAT ≥45%가 반복되면 철분 투여를 보류하고 간질환·수혈력·가족력 평가, 필요하면 혈색소증 유전자 검사·전문의 의뢰
 * 철결핍빈혈 (성인)
   * ferritin ＜15 ng/㎖ 저장철 고갈을 강하게 시사, ＜30 ng/㎖ 철결핍 가능성 높음
@@ -80,7 +80,7 @@
 
 **위양성·위음성**
 
-* ferritin은 측정법에 따라 차이가 큼 - RLS Foundation 기준값 75/100/300 ng/㎖는 Roche 측정법에서 약 121/158/457 ng/㎖ <mark style="color:$info;">\[RLS Foundation 2026]</mark>
+* ferritin 결과의 측정법 간 차이 : 검체 116개를 비교한 연구에서 Beckman의 75·100·300 ng/㎖는 Roche의 약 121·158·457 ng/㎖에 해당. 이 연구의 환산값을 다른 시약·장비의 치료 기준으로 일반화하지 않음 <mark style="color:$info;">\[J Clin Sleep Med 2025]</mark>
 * 염증·감염·간질환·악성종양에서 ferritin 거짓 상승 - 이때는 TSAT ＜20%가 철 부족을 더 잘 반영
 * 최근 철분 복용·식사 후 채혈은 혈청 철·TSAT를 일시적으로 올림
 
@@ -283,7 +283,8 @@
 
 * ALT·AST : 간세포 손상 (ALT가 간 특이적, AST는 근육·적혈구에도 있음)
 * ALP·GGT : 담즙정체 (ALP는 뼈·태반에도 있어 GGT로 간 기원 확인)
-* 빌리루빈(총·직접), albumin, PT/INR, 혈소판 : 간 합성 기능과 문맥압항진 - 진행된 간질환의 지표
+* 빌리루빈(총·직접) : 빌리루빈 처리·배설 이상 평가. 간접형 증가는 용혈·포합 장애, 직접형 증가는 간세포 손상·담즙정체 등을 시사
+* albumin·PT/INR : 간 합성 기능의 간접 지표. 혈소판 감소는 진행된 간질환에서 문맥압항진의 단서
 
 **언제 시행하는가**
 
@@ -291,8 +292,8 @@
 
 **검사 방법**
 
-* 손상 양상 분류 : R = (ALT ÷ ALT 정상 상한) ÷ (ALP ÷ ALP 정상 상한)
-  * R ≥5 간세포형, R ≤2 담즙정체형, 2\~5 혼합형
+* 약물 유발 간손상 의심 시 손상 양상 분류 : R = (ALT ÷ ALT의 검사실 참고구간 상한) ÷ (ALP ÷ ALP의 검사실 참고구간 상한)
+  * R ≥5 간세포형, R ≤2 담즙정체형, 2 ＜ R ＜ 5 혼합형
 
 **해석·절단값**
 
@@ -315,6 +316,8 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Silber MH, et al. Serum ferritin measurements differ according to the assay used: implications for iron therapy in restless legs syndrome. J Clin Sleep Med 2025;21:65-67.](https://doi.org/10.5664/jcsm.11332)
+* [Fontana RJ, et al. AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury. Hepatology 2023;77:1036-1065.](https://doi.org/10.1002/hep.32689)
 * NICE. Suspected acute respiratory infection in over 16s: assessment at first presentation and initial management (NG237). 2023.
 * KDIGO. 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int 2024;105(4S):S117-S314.
 * Kwo PY, et al. ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries. Am J Gastroenterol 2017;112:18-35.

@@ -170,7 +170,7 @@
 
 **해석·절단값**
 
-* T-score (폐경 후 여성, ≥50세 남성) : ≥−1.0 정상, −1.0\~−2.5 골감소증, ≤−2.5 골다공증; ≤−2.5 + 취약 골절이면 중증
+* T-score (폐경 후 여성, ≥50세 남성) : ≥−1.0 정상, −2.5 ＜ T-score ＜ −1.0 골감소증, ≤−2.5 골다공증; ≤−2.5 + 취약 골절이면 중증
 * 유효한 요추(통합값, 최소 2개 척추)·대퇴경부·total hip 중 가장 낮은 T-score로 진단 - 개별 척추의 평균·최저값을 쓰지 않음
 * Z-score (폐경 전 여성, ＜50세 남성) : ≤−2.0이면 '연령 기대치보다 낮음' - BMD만으로 골다공증을 진단하지 않고 이차성 원인 평가
 * FRAX에는 대퇴경부 BMD를 입력
@@ -185,7 +185,7 @@
 
 **급여**
 
-* 골밀도검사는 연령·위험인자·추적 간격에 대한 급여 기준에 따름 (☞ 골다공증 챕터의 급여기준 링크)
+* 골밀도검사의 진단·추적 산정은 연령·위험인자·검사 간격에 대한 급여 기준에 따름
 
 ***
 
@@ -274,22 +274,22 @@
 
 **검사 방법**
 
-* 매년 최소 두 가지 이상을 시행 : 모노필라멘트(보호감각) + 진동·pinprick·온도·발목 반사 중 하나 이상
+* 원위 대칭성 다발신경병증 평가 : 병력과 온도 또는 pinprick 감각(소섬유), 128 Hz 진동 감각(대섬유)을 확인. 발 궤양·절단 위험 평가를 위해 10 g 모노필라멘트는 매년 별도로 시행 <mark style="color:$info;">\[ADA 2026]</mark>
 * 10 g 모노필라멘트
   * 눈을 감게 하고 필라멘트가 C자로 휠 때까지 피부에 수직으로 1\~2초 누름
-  * 궤양 위험 평가는 발바닥(엄지발가락·1·3·5 중족골두 등)에서, 굳은살·궤양·흉터 부위는 피함
+  * IWGDF 방법은 양발 각각 엄지발가락과 제1·5 중족골두의 발바닥 쪽을 검사. 굳은살·궤양·흉터는 피함. 부위마다 실제 접촉 2회와 모의 접촉 1회를 섞어 시행 <mark style="color:$info;">\[IWGDF 2023]</mark>
 * 128 Hz 소리굽쇠 : 엄지발가락 지간관절 등쪽 뼈 돌출부에 대고, 환자가 진동이 멈췄다고 할 때 검사자 손가락 관절로 옮겨 남은 진동 시간을 비교
 * Ipswich touch test : 검지 끝으로 양발 제1·3·5 발가락 끝 6곳을 1\~2초 가볍게 접촉 - 도구가 없을 때 유용
 * MNSI (Michigan Neuropathy Screening Instrument)
   * 설문 15문항 (4·10번은 점수에서 제외, 7·13번은 '아니오'가 1점 - 13점 만점)
-  * 진찰 : 발 외형, 궤양, 발목 반사, 엄지발가락 진동 감각, 모노필라멘트 - 좌우 각각 0\~1점(10점 만점)
+  * 진찰 : University of Michigan의 10점 서식은 발 외형·궤양과 발목 반사·엄지발가락 진동 감각·모노필라멘트의 양측 점수를 합산. 반사·감각의 중간 이상은 0.5점으로 채점
 
 **해석·절단값**
 
-* 모노필라멘트를 느끼지 못하는 부위가 있으면 보호감각 소실 - 당뇨발 고위험군으로 교육·발 관리·추적 강화
+* IWGDF 방법에서 한 부위의 세 질문 중 2개 이상을 틀리면 그 부위의 보호감각 소실. 보호감각 소실이 있으면 발 궤양 위험도를 평가하고 교육·발 관리·추적을 강화
 * Ipswich : 6곳 중 2곳 이상 느끼지 못하면 보호감각 소실 의심
 * 소리굽쇠 : 진동을 처음부터 느끼지 못하면 소실, 검사자보다 10초 이상 일찍 사라지면 감소
-* MNSI : 진찰 ＞2점이면 추가 평가; 설문은 ≥7점이 전통 기준이나 민감도가 낮아 ≥4점을 쓰기도 함
+* MNSI : 채점 판본과 검증 절단값을 함께 확인. 모노필라멘트를 제외한 8점 진찰판의 검증 절단값을 10점판에 그대로 적용하지 않음. 설문은 ≥7점이 전통 기준이며 ≥4점을 사용한 검증도 있음
 
 **위양성·위음성**
 
@@ -517,6 +517,11 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Herman WH, et al. Use of the Michigan Neuropathy Screening Instrument in the DCCT/EDIC cohort. Diabet Med 2012;29:937-944.](https://pubmed.ncbi.nlm.nih.gov/22417277/)
+* [Wolfe F, et al. 2016 revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum 2016;46:319-329.](https://doi.org/10.1016/j.semarthrit.2016.08.012)
+* [Aletaha D, et al. 2010 rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. Arthritis Rheum 2010;62:2569-2581.](https://doi.org/10.1002/art.27584)
+* [IWGDF. Practical guidelines on the prevention and management of diabetes-related foot disease. 2023.](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-Guidelines-2023.pdf)
+* [University of Michigan. Michigan Neuropathy Screening Instrument, 10점 진찰 서식.](https://medresearch.umich.edu/sites/default/files/2025-07/MNSI_patient.pdf)
 * American Diabetes Association. Standards of Care in Diabetes - 2026. Diabetes Care 2026;49(Suppl 1).
 * Richette P, et al. 2018 updated EULAR evidence-based recommendations for the diagnosis of gout. Ann Rheum Dis 2020;79:31-38.
 * EULAR recommendations for the use of imaging in crystal-induced arthropathies. 2023 (2024 출판).

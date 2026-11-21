@@ -34,7 +34,7 @@
   2. 전날 밤부터 금식하고 다음 날 오전에 포도당 75 g(물 300 ㎖)을 5분 안에 마심
   3. 마시기 시작한 때부터 2시간 후 채혈 (식후 2시간도 식사 시작부터 계산)
 * A1C : NGSP 인증·DCCT 추적성이 있는 표준화된 검사실 방법으로 측정
-* 혈당 검체는 채혈 후 바로 혈장을 분리하거나 해당작용 억제제(NaF 등) 튜브를 사용
+* 혈당 검체는 구연산 완충액 등 빠르게 작용하는 해당작용 억제제가 든 튜브로 채혈. 이 튜브를 사용할 수 없으면 채혈 즉시 얼음물에 넣고 15\~30분 이내 혈장을 분리. NaF 단독은 채혈 직후의 해당작용을 충분히 막지 못함 <mark style="color:$info;">\[Diabetes Care 2023]</mark>
 
 **해석·절단값**
 
@@ -157,8 +157,8 @@
   * 인슐린 사용자 : 정기적으로; CGM 없이 다회 인슐린 주사면 매 식전·취침 전과 필요 시 (하루 4회 이상)
   * 비인슐린 치료 T2DM : 일률적 매일 측정은 권고하지 않으며 혈당 변동이 크거나 치료 변경 시 선택적으로
 * CGM
-  * 인슐린 사용자, 저혈당 유발 약제 사용자, 혈당 변동·저혈당·A1C 불일치에서 관리에 도움이 되면 진단 시점부터 제안
-  * 다회 인슐린 주사·인슐린 펌프 사용 T2DM은 rtCGM 상시 사용; 기저 인슐린만 쓰는 T2DM도 고려 <mark style="color:$info;">\[ADA 2026]</mark>
+  * ADA 2026 : 인슐린 사용 환자(기저 인슐린만 사용하는 T2DM 포함), 저혈당을 일으킬 수 있는 비인슐린 약제 사용자, 그 밖에 CGM이 관리에 도움이 되는 환자에게 진단 시점부터 사용을 권고 <mark style="color:$info;">\[ADA 2026]</mark>
+  * 인슐린 사용 환자는 효과를 높이기 위해 가능한 한 매일 착용. 장치 선택은 알람 요구, 환자 선호와 사용 여건을 고려
   * 저혈당 무감지·야간 저혈당에서는 알람이 있는 rtCGM
   * A1C 신뢰도가 낮을 때(중증 빈혈, 진행된 CKD, 잦은 수혈) TIR·GMI를 보조 지표로
 * 당뇨병이 없는 사람의 웰니스·체중 관리 목적의 CGM은 근거가 부족 - 정상 혈당 변동 기준이 없어 '혈당 스파이크' 해석이 어렵고 불필요한 불안·식이 제한을 부를 수 있음
@@ -261,12 +261,12 @@
 
 <table><thead><tr><th width="150">구분</th><th width="200">DKA (세 요소 모두)</th><th>HHS (네 요소 모두)</th></tr></thead><tbody><tr><td><strong>혈당</strong></td><td>≥200 ㎎/㎗ 또는 기존 당뇨병 병력</td><td>≥600 ㎎/㎗</td></tr><tr><td><strong>케톤</strong></td><td>BHB ≥3.0 mmol/L 또는 소변 케톤 ≥2+</td><td>BHB ＜3.0 mmol/L 또는 소변 케톤 ＜2+</td></tr><tr><td><strong>산-염기</strong></td><td>정맥 pH ＜7.3 또는 HCO₃⁻ ＜18 mmol/L</td><td>pH ≥7.3 및 HCO₃⁻ ≥15 mmol/L</td></tr><tr><td><strong>삼투압</strong></td><td>-</td><td>유효 ＞300 또는 총 ＞320 mOsm/㎏</td></tr></tbody></table>
 
-* 두 기준을 함께 충족하면 DKA-HHS 중첩
+* HHS 수준의 고혈당·고삼투압에 유의한 케톤혈증(BHB ≥3.0 mmol/L 또는 소변 케톤 ≥2+)이나 산증(pH ＜7.3 또는 HCO₃⁻ ＜18 mmol/L)이 동반되면 DKA-HHS 중첩을 고려하고, 산증의 다른 원인도 평가
 * 회복 판정에도 소변 케톤보다 BHB를 사용
 
 **위양성·위음성**
 
-* 소변 케톤(nitroprusside법)은 acetoacetate만 검출 - BHB가 주인 초기 DKA를 과소평가하고, 치료 중 BHB가 acetoacetate로 바뀌면서 오히려 강양성이 지속됨
+* 소변 케톤(nitroprusside법)은 acetoacetate를 검출하고 BHB는 검출하지 못함. BHB가 주인 초기 DKA를 과소평가하고, 치료 중 BHB가 acetoacetate로 바뀌면서 양성이 지속될 수 있음
 * 기존 당뇨병 환자는 내원 혈당이 200 ㎎/㎗ 미만이어도 DKA 가능 (SGLT2 억제제, 임신, 금식)
 * 굶음 케톤증·알코올성 케토산증도 BHB가 오름 - 병력·혈당으로 구분
 * 음이온 간격은 보조 소견이며 BHB를 직접 측정할 수 있으면 필수 지표가 아님
@@ -381,9 +381,9 @@
 
 * TSH 참고구간은 검사실·측정법·나이를 우선 적용
   * 한국인 TSH 참고치 0.6\~6.8 mIU/L <mark style="color:$info;">\[대한갑상선학회 2023]</mark> - Roche 측정법 기준이며 다른 장비에서는 기관 검증 구간을 사용 (Roche 6.8은 Abbott 약 5.2에 해당)
-* 임신 중 TSH : 검사실의 임신 분기별 참고구간을 우선; 없으면 1분기 0.1\~4.0 mIU/L를 대안으로 사용 <mark style="color:$info;">\[ATA 2026]</mark>
+* 임신 중 TSH : 검사실의 임신 분기별 참고구간을 우선; 없으면 1·2분기에 0.1\~4.0 mIU/L를 대안으로 사용 <mark style="color:$info;">\[ATA 2026]</mark>
   * LT4 치료 중 임신부의 목표는 참고구간 안에서 TSH ＜2.5 mIU/L (진단용 구간과 구분)
-  * 임신 중 total T4는 TBG 증가로 16주 이후 비임신 참고치의 약 1.5배가 정상
+  * 임신에 맞는 fT4 참고구간이 없어 total T4를 사용할 때는 TBG 증가를 감안해 임신 16주 이후 비임신 참고구간의 상·하한을 약 1.5배로 조정
 * T3만으로 갑상선저하증을 진단하거나 LT4 용량을 조절하지 않음
 * LT4 용량 변경·제제 변경 후 6(±2)주에 TSH 재검; 중추성 저하증은 TSH가 아닌 fT4로 조절
 
@@ -512,7 +512,7 @@
 
 **위양성·위음성**
 
-* FNA 양성이라도 높은의심 초음파 소견과 불일치하면 6\~12개월 내 재평가 (영상-병리 불일치)
+* FNA 세포검사가 양성 병변(Bethesda II)으로 판독되어도 높은의심 초음파 소견과 불일치하면 재평가 (영상-세포검사 불일치)
 * 여포선종과 여포암은 FNA로 구분하지 못함 - 수술 검체의 피막·혈관 침범으로 확정
 * BRAF 음성만으로 암을 배제하지 못함 (특히 여포형 병변)
 * 칼시토닌 위양성 : 흡연, PPI, 신기능 저하, 만성 갑상선염, 일부 신경내분비종양
@@ -580,7 +580,7 @@
 **해석·절단값**
 
 * 단위와 검사법(PRA 또는 DRC)에 따라 절단값이 다름 - 검사기관의 기준을 확인
-  * 흔히 쓰는 기준 : PAC(ng/㎗) ÷ PRA(ng/㎖/h) ≥20\~30, 그리고 레닌이 억제된 상태
+  * 예 : Endocrine Society 2025의 면역측정 PAC와 PRA 조합은 PRA ≤1 ng/㎖/h, PAC ≥10 ng/㎗, ARR ＞20을 함께 확인. DRC를 쓰거나 PAC를 LC-MS/MS로 측정하면 해당 검사법·단위의 기준을 적용
 * 선별 양성이면 확진 검사(식염 부하·captopril 억제 검사 등)와 병변 국소화(부신 CT, 부신정맥채혈)를 위해 고혈압 전문의·내분비내과 의뢰
 * 자발성 저칼륨혈증 + 레닌 측정 불가 수준 + PAC 뚜렷한 상승이면 확진 검사를 생략하기도 함
 
@@ -634,6 +634,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Sacks DB, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151-e199.](https://doi.org/10.2337/dci23-0036)
 * 대한고혈압학회. 고혈압 진료지침 2026.
 * AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025. doi:10.1161/CIR.0000000000001356.
 * Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025.
@@ -646,7 +647,7 @@
 * Society for Endocrinology. Guidance on the diagnosis and management of post-bariatric hypoglycaemia. 2024.
 * 대한갑상선학회. 2023 무증상갑상선기능저하증 진료 권고안. Int J Thyroidol 2023;16:32-50.
 * 대한갑상선학회. 2023 임신 중 및 산후 갑상선질환의 진단 및 치료 권고안 개정안. Int J Thyroidol 2023;16:51-88.
-* Korevaar TIM, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid 2026.
+* [Korevaar TIM, et al. American Thyroid Association 2026 guidelines for thyroid disease in preconception, pregnancy, and postpartum. Thyroid 2026.](https://doi.org/10.1177/10507256261445624)
 * Persani L, et al. 2018 European Thyroid Association Guidelines on the Diagnosis and Management of Central Hypothyroidism. Eur Thyroid J 2018;7:225-237.
 * Ross DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid 2016;26:1343-1421.
 * Li D, et al. AACC Guidance Document on Biotin Interference in Laboratory Tests. J Appl Lab Med 2020;5:575-587.

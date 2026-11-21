@@ -135,9 +135,9 @@
 
 **해석·절단값** <mark style="color:$info;">\[Lyon 2.0, 2024]</mark>
 
-* AET(PPI 중단 상태) : ＜4% 정상, 4\~6% 경계, ＞6% 비정상 - GERD 확진 근거
+* PPI 중단 상태의 AET : 24시간 카테터 검사에서 ＞6%는 GERD의 객관적 근거, 4\~6%는 경계. 장시간 무선 pH 검사에서는 AET ＞6%인 날이 ≥2일이면 GERD를 지지하고, 모든 날 AET ＜4%이며 증상 연관성이 음성이면 GERD를 배제하는 근거가 됨
 * 정상 AET + 증상-역류 연관성 양성 : 역류 과민
-* 정상 AET + 연관성 음성 : 기능성 가슴쓰림 - 다른 적응증이 없으면 산 억제제를 중단하고 neuromodulator·행동치료 중심
+* 생리적 AET와 음성 증상 연관성은 병적 역류 가능성을 낮춤. 기능성 가슴쓰림은 점막질환·주요 식도운동장애의 배제와 증상 기준을 함께 적용
 
 **위양성·위음성**
 
@@ -334,7 +334,7 @@
 
 **검사 방법**
 
-* 형태를 유지하지 못하는 대변만 검사; 최근 완하제 투여를 확인
+* CDI 의심 시 새로 발생한 설명되지 않는 무른 변이 24시간에 ≥3회일 때 비형성변 검체로 검사. 최근 완하제 투여를 확인 <mark style="color:$info;">\[Clin Infect Dis 2018]</mark>
 * _C. difficile_ 다단계 알고리듬 : GDH + toxin (± NAAT) 또는 NAAT + toxin
 * STEC 확진·강력 의심 : 설사 호전 후에도 HUS가 생길 수 있어 CBC(혈색소·혈소판)·전해질·BUN/Cr를 반복 추적
 * 패혈증·장티푸스 의심, 면역저하, 3개월 미만 영아 : 혈액 배양
@@ -343,7 +343,7 @@
 
 * _C. difficile_
 
-<table><thead><tr><th width="170">GDH / toxin</th><th>해석</th></tr></thead><tbody><tr><td><strong>+ / +</strong></td><td>CDI</td></tr><tr><td><strong>− / −</strong></td><td>CDI 가능성 낮음</td></tr><tr><td><strong>+ / − (불일치)</strong></td><td>NAAT로 판정; NAAT 양성·toxin 음성은 보균일 수 있어 임상상으로 치료 결정</td></tr></tbody></table>
+<table><thead><tr><th width="170">GDH / toxin</th><th>해석</th></tr></thead><tbody><tr><td><strong>+ / +</strong></td><td>CDI</td></tr><tr><td><strong>− / −</strong></td><td>CDI 가능성 낮음</td></tr><tr><td><strong>+ / − (불일치)</strong></td><td>NAAT로 보완. NAAT 양성·toxin 음성이면 보균과 감염을 임상상으로 구분</td></tr><tr><td><strong>− / + (불일치)</strong></td><td>검사기관에 판정·확인 절차를 문의하고, 필요하면 NAAT로 보완</td></tr></tbody></table>
 
 * 다중 PCR 양성 ≠ 원인균 - 무증상 보균·사멸균 핵산·복수 병원체 검출 가능, 임상상·역학력과 함께 해석
 * 세균이 검출되어 감수성 검사나 공중보건 조사가 필요하면 배양을 추가(reflex culture)
@@ -696,6 +696,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [McDonald LC, et al. IDSA/SHEA clinical practice guidelines for Clostridium difficile infection: 2017 update. Clin Infect Dis 2018;66:e1-e48.](https://doi.org/10.1093/cid/cix1085)
 * 대한소화기학회 등. 헬리코박터 파일로리 감염 진료 가이드라인. Korean J Gastroenterol 2026.
 * Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol 2024;119:1730-1753.
 * Malfertheiner P, et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut 2022;71:1724-1762.

@@ -27,8 +27,8 @@
 * 앉은 자세에서 코 집게를 하고 마우스피스를 입술로 단단히 문 상태로 시행
   1. 최대한 깊이 들이마심
   2. 멈추지 않고 최대한 빠르고 세게 내쉼
-  3. 더 나오지 않을 때까지 계속 내쉼 (성인은 대개 6초 이상)
-* 허용 가능한 시행을 3회 이상 얻고, 가장 좋은 두 시행의 FEV₁·FVC 차이가 150 ㎖ 이내인지 확인 <mark style="color:$info;">\[ATS/ERS 2019]</mark>
+  3. 강제호기 종료 기준에 닿을 때까지 계속 내쉼. FVC 종료 기준은 호기말 평탄부(마지막 1초 용적 변화 ≤25 ㎖), 호기 15초 도달, 또는 재현성 범위 안에서 충분한 FVC 확보 중 하나이며, 일률적인 최소 호기 시간은 두지 않음
+* 허용 가능한 측정을 각각 3회 이상 얻는 것이 목표. 각 지표에서 가장 큰 두 FEV₁ 및 FVC의 차이가 6세 초과에서 ≤150 ㎖인지 확인(6세 이하는 100 ㎖ 또는 최고값의 10% 중 큰 값) <mark style="color:$info;">\[ATS/ERS 2019]</mark>
 * 기관지확장제 반응 검사 : salbutamol 400 ㎍(MDI + spacer)을 흡입하고 10\~15분 뒤 재측정
 * 기관지확장제를 쓰고 있으면 검사 목적에 따라 중단 후 시행
   * SABA ≥4시간, formoterol·salmeterol 24시간, indacaterol·vilanterol 36시간, LAMA 36\~48시간 <mark style="color:$info;">\[GINA 2026]</mark>
@@ -133,14 +133,14 @@
 
 * 기저 폐활량측정 후, 희석액 → 점차 높은 농도의 메타콜린을 흡입하며 단계마다 FEV₁을 측정
 * FEV₁이 기저치보다 20% 이상 감소하면 중단하고 SABA를 흡입시켜 회복을 확인
-* 결과는 FEV₁을 20% 감소시킨 농도(PC20) 또는 누적 용량(PD20)으로 보고
+* 메타콜린 검사에서 FEV₁을 20% 감소시키는 전달 용량(PD20)을 보고하는 것이 표준. 농도(PC20)로 보고한 결과는 해당 장비·프로토콜의 기준으로 해석 <mark style="color:$info;">\[Eur Respir J 2017]</mark>
 * 시행하지 않는 경우 : 기저 FEV₁이 낮은 경우(예측치 ＜60% 또는 ＜1.5 L), 최근 3개월 이내 심근경색·뇌졸중, 조절되지 않는 고혈압, 대동맥류
 * 기관지확장제는 성분별 권장 시간 동안 중단 (☞ 폐활량측정 > 검사 방법)
 
 **해석·절단값**
 
 * 메타콜린 : FEV₁ ≥20% 감소이면 양성 <mark style="color:$info;">\[GINA 2026]</mark>
-  * PC20 ＞16 ㎎/㎖ 정상, 4\~16 ㎎/㎖ 경계, ＜4 ㎎/㎖ 기도 과민성 <mark style="color:$info;">\[ATS 1999]</mark>
+  * 과거 농도 기반 프로토콜의 예 : PC20 ＞16 ㎎/㎖ 정상, 4\~16 ㎎/㎖ 경계, ＜4 ㎎/㎖ 기도 과민성 <mark style="color:$info;">\[ATS 1999]</mark>
 * 만니톨·고장성 식염수·표준화된 과호흡 : FEV₁ ≥15% 감소이면 천식을 지지 (성인) <mark style="color:$info;">\[GINA 2026]</mark>
 * 운동 유발 : 성인 FEV₁이 기저치보다 ＞10% 및 ＞200 ㎖ 감소 <mark style="color:$info;">\[GINA 2026]</mark>
 * ICS를 쓰지 않는 증상 있는 환자에서 메타콜린 음성이면 현재 천식의 가능성이 낮음
@@ -195,12 +195,13 @@
 
 > _스테로이드를 쓰지 않는 비흡연자 기준 [ATS 2011]._
 
-* 천식 진단에 쓰는 기준값
+* 천식 의심 환자의 진단 경로별 기준
   * 천식을 시사하는 병력이 있을 때 성인 ≥50 ppb, 5\~16세 ≥35 ppb이면 천식으로 진단 <mark style="color:$info;">\[NICE NG245]</mark>
   * 스테로이드를 쓰지 않은 환자에서 ≥40 ppb이면 양성 - 양성이면 천식 가능성이 높으나 음성이라고 천식을 배제하지 못함 <mark style="color:$info;">\[대한결핵 및 호흡기학회 2020]</mark>
-  * 진단 기준값은 특이도를 높이려 높게 잡은 값이므로, 기준 미만이면 폐활량측정·기관지확장제 반응 등 다음 검사로 진행
+  * 전형적인 증상이 있으나 폐활량측정이나 PEF를 할 수 없거나 결과가 음성이면, 성인·청소년 ＞50 ppb, 소아 ＞35 ppb는 제2형 천식 진단을 지지. 낮은 FeNO로 천식을 배제하지 못함 <mark style="color:$info;">\[GINA 2026]</mark>
+  * 기준 미만이어도 천식이 의심되면 적용한 진단 경로에 따라 폐활량측정·기관지확장제 반응 등으로 평가
 * 만성 기침 : ＞25 ppb이면 ICS 반응 가능성을 시사하여 4주간 ICS 시험 치료를 고려 <mark style="color:$info;">\[BTS 2023]</mark>
-* 중증 천식 : ≥20 ppb를 T2 염증 지표로 사용 <mark style="color:$info;">\[GINA 2026]</mark>
+* 조절되지 않는 중증 천식에서 고용량 ICS 또는 경구 스테로이드 치료 중에도 FeNO ≥20 ppb이면 지속되는 제2형 염증을 시사 <mark style="color:$info;">\[GINA 2026]</mark>
 * 추적 시 의미 있는 변화 <mark style="color:$info;">\[ATS 2011]</mark>
   * 기저치 ＞50 ppb이면 20% 이상 변화
   * 기저치 ≤50 ppb이면 10 ppb 이상 변화
@@ -249,7 +250,8 @@
 **해석·절단값**
 
 * 천식
-  * 검사실 참고치 이상이면 천식 진단을 지지 <mark style="color:$info;">\[GINA 2026] [NICE NG245]</mark>
+  * BTS/NICE/SIGN : 성인 진단 경로에서 천식을 시사하는 병력과 혈중 호산구가 검사실 참고구간 상한을 넘으면 진단 근거로 사용 <mark style="color:$info;">\[NICE NG245]</mark>
+  * GINA : 전형적인 증상이 있으나 폐활량측정이나 PEF를 할 수 없거나 결과가 음성이면, 국가·지역 참고구간을 넘는 혈중 호산구는 제2형 천식 진단을 지지 <mark style="color:$info;">\[GINA 2026]</mark>
   * 중증 천식 : ≥150/㎕를 T2 염증 지표로 사용 <mark style="color:$info;">\[GINA 2026]</mark>
   * 생물학적 제제의 급여기준 절단값은 약제별로 다름 (☞ 천식)
 * COPD <mark style="color:$info;">\[GOLD 2026]</mark>
@@ -570,7 +572,7 @@
 
 * CURB-65 : 다음 항목마다 1점 (CRB-65는 BUN을 뺀 4항목)
   1. Confusion : 사람·장소·시간에 대한 새로운 착란
-  2. Urea : BUN ＞19 ㎎/㎗
+  2. Urea : 혈중 요소 ＞7 mmol/L (BUN으로 약 ＞19.6 ㎎/㎗)
   3. Respiratory rate ≥30회/분
   4. Blood pressure : SBP ＜90 또는 DBP ≤60 ㎜Hg
   5. 나이 ≥65세
@@ -664,6 +666,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Coates AL, et al. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests. Eur Respir J 2017;49:1601526.](https://doi.org/10.1183/13993003.01526-2016)
 * Dweik RA, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FeNO) for clinical applications. Am J Respir Crit Care Med 2011;184(5):602-615.
 * American Thoracic Society, European Respiratory Society. ATS/ERS recommendations for standardized procedures for the online and offline measurement of exhaled lower respiratory nitric oxide and nasal nitric oxide, 2005. Am J Respir Crit Care Med 2005;171(8):912-930.
 * NICE, BTS, SIGN. Asthma: diagnosis, monitoring and chronic asthma management (NG245). 2024.
@@ -683,4 +686,5 @@
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* [건강보험심사평가원. 고시 제2017-15호. 결핵균 특이항원 자극 인터페론-감마 검사 급여기준(2017.2.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170131&mtgMtrRegSno=0002&sno=2)
 * 국민건강보험공단. 국가폐암검진 대상 기준.

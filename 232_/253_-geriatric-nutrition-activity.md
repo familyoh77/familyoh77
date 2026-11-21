@@ -154,7 +154,7 @@
 
 **해석·절단값**
 
-* 65세 이상 선별 : 종아리 둘레 남 ＜34 ㎝, 여 ＜33 ㎝; SARC-F ≥4점; SARC-CalF ≥11점
+* 65세 이상 선별 : 종아리 둘레 남 ＜34 ㎝, 여 ＜33 ㎝, SARC-F ≥4점, SARC-CalF ≥11점
 * 확진 : 근육량 감소 + 악력 저하 (AWGS 2025, '중증 근감소증' 분류 삭제)
 * 악력 저하 + 근육량 측정 불가(지역사회) : possible sarcopenia
 
@@ -220,7 +220,7 @@
 
 **검사 방법**
 
-* Physical Activity Vital Sign 3문항 : 중강도 이상 운동의 주당 일수, 하루 평균 시간, 근력운동 주당 일수 - 일수 × 시간으로 주간 운동시간 추정
+* Physical Activity Vital Sign(PAVS) 기본 2문항 : 중강도 이상 운동의 주당 일수와 하루 평균 시간. 일수 × 시간으로 주간 운동시간을 추정하고, 근력운동 주당 일수는 필요 시 별도 질문
 * 말하기 검사·운동자각도(RPE)를 우선하고 심박수는 보조
 * 추정 최대심박수 220 - 나이 (개인 오차가 큼)
   * %HRmax : 목표심박수 = 최대심박수 × 강도
@@ -284,8 +284,10 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [American Physical Therapy Association. Physical Activity as a Vital Sign (PAVS).](https://www.apta.org/patient-care/evidence-based-practice-resources/test-measures/physical-activity-vital-sign)
 * 대한비만학회. 비만 진료지침 2024; Mokhlesi B, et al. Evaluation and Management of Obesity Hypoventilation Syndrome (ATS). Am J Respir Crit Care Med 2019.
-* Chen LK, et al. Asian Working Group for Sarcopenia 2025 Consensus. Nat Aging 2025; 대한근감소증학회. 한국근감소증진료지침 2023.
+* [Chen LK, et al. A focus shift from sarcopenia to muscle health in the Asian Working Group for Sarcopenia 2025 Consensus Update. Nat Aging 2025.](https://pubmed.ncbi.nlm.nih.gov/41188603/)
+* 대한근감소증학회. 한국근감소증진료지침 2023.
 * Tieges Z, et al. Diagnostic accuracy of the 4AT for delirium detection. Age Ageing 2021.
 * Montero-Odasso M, et al. World Guidelines for Falls Prevention and Management for Older Adults. Age Ageing 2022; NICE NG249 (2025); CDC STEADI.
 * AGS/NHTSA. Clinician's Guide to Assessing and Counseling Older Drivers, 4th ed. 2019.

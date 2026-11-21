@@ -104,7 +104,7 @@
 
 **해석·절단값**
 
-* 중등도 이상 비증식성 망막병증, 증식성 망막병증, 황반부종은 안과 치료 대상 - 진행 정도에 따라 의뢰 시점 결정
+* 중등도 이상 비증식성 망막병증, 모든 증식성 망막병증 또는 당뇨병성 황반부종은 신속하게 안과에 의뢰. 치료 적응증은 안과 평가로 결정 <mark style="color:$info;">\[Diabetes Care 2026]</mark>
 * 시력 저하·떠다니는 물체·시야 가림이 새로 생기면 선별 주기와 무관하게 신속 의뢰
 
 **위양성·위음성**
@@ -305,12 +305,12 @@
 
 * STOP-Bang : 0\~2점 저위험, 3\~4점 중간 위험, 5\~8점 고위험
 * 무호흡-저호흡 지수(AHI, 수면 1시간당 10초 이상 무호흡·저호흡 횟수) : 5\~14 경증, 15\~29 중등도, ≥30 중증
-* 주기성 사지운동지수(PLMI) ＞15회/시간 + 임상적 수면장애이면 주기성 사지운동장애
+* 성인의 주기성 사지운동장애 : PLMI ＞15회/시간에 임상적으로 유의한 수면장애 또는 주간 기능 저하가 동반되고, 하지불안증후군·치료하지 않은 OSA 등으로 더 잘 설명되지 않을 때 진단 <mark style="color:$info;">\[J Clin Sleep Med 2025]</mark>
 
 **위양성·위음성**
 
 * STOP-Bang은 민감도가 높고 특이도가 낮음 - 선별도구이며 확진은 PSG 또는 HSAT
-* HSAT는 실제 수면 시간이 아닌 기록 시간을 분모로 써서 AHI를 과소평가 - 음성이어도 의심이 높으면 PSG
+* 일반적인 HSAT는 수면시간 대신 모니터링 시간을 분모로 하는 호흡 사건 지수(REI)를 보고. PSG의 AHI보다 낮게 추정될 수 있음. 진단 목적의 단회 HSAT가 음성·불확정이거나 기술적으로 부적절하면 PSG 시행 <mark style="color:$info;">\[J Clin Sleep Med 2017]</mark>
 * 마른 체형·여성·젊은 환자의 OSA를 놓치기 쉬움
 
 **급여**
@@ -391,6 +391,8 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an AASM clinical practice guideline. J Clin Sleep Med 2025.](https://doi.org/10.5664/jcsm.11390)
+* [American Diabetes Association. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026. Diabetes Care 2026.](https://doi.org/10.2337/dc26-S012)
 * Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: AASM. J Clin Sleep Med 2017;13:479-504.
 * TFOS DEWS III: Diagnostic Methodology; Management and Therapy. Am J Ophthalmol 2025.
 * Lieberman AH, et al. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131:e964-e999.
