@@ -155,7 +155,7 @@
 
 <mark style="color:cyan;">**초기 검사**</mark>
 
-* CBC, 혈당 또는 HbA1c, creatinine/eGFR, 전해질·Ca, LFT, TSH, U/A&#x20;
+* CBC, 혈당 또는 HbA1c, creatinine/eGFR, 전해질·Ca, LFT, TSH, U/A
   * 병력·진찰과 동반 질환에 따라 선택하며 모든 항목이 필수인 것은 아님
 * 성인의 지속적 피로에서는 백혈병 감별을 위해 CBC를 48시간 이내 시행하는 것을 고려 <mark style="color:$info;">\[NICE NG12]</mark>
 * 임신 가능성·월경 지연이 있거나 임신 여부가 검사·치료 결정에 영향을 주는 경우 소변 hCG 검사 시행
@@ -182,7 +182,7 @@
   * 과다월경·철결핍 관련 증상 등이 있는 월경군과 빈혈이 동반된 임신부에서는 ferritin ≤50 ng/㎖를 진단·치료 결정에 사용할 수 있음 <mark style="color:$info;">\[ASH 2026]</mark>
   * 빈혈 환자의 위장관 평가 지침에서 사용하는 철결핍 진단 기준은 ferritin ＜45 ng/㎖ <mark style="color:$info;">\[AGA 2020]</mark>
   * Ferritin은 급성기 반응물질이므로 염증 시 정상 또는 상승할 수 있어 CRP와 TSAT를 함께 해석하며, CKD·심부전·IBD 등에서는 질환별 기준을 적용
-  * 염증이 동반된 성인에서는 ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">\[ASH 2026]</mark>
+  * 염증성 빈혈이 있는 성인에서는 ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">\[ASH 2026]</mark>
 * IDWA(빈혈 없는 철결핍) : Hb가 정상이어도 ferritin ≤30 ng/㎖이면 철결핍을 고려
   * Ferritin이 30 ng/㎖ 초과 50 ng/㎖ 이하이면 위 고위험군에 해당하는지 확인하고, 출혈 위험·식이·TSAT·염증 여부를 함께 판단
 * 갑상선 : 뇌하수체 질환(두통·시야장애 등) 또는 이차성 갑상선기능저하증이 의심되면 TSH가 정상이어도 free T4를 함께 측정
@@ -209,7 +209,7 @@
 <mark style="color:cyan;">**FSS (Fatigue Severity Scale)**</mark>
 
 * 피로 상태를 평가하고 치료 효과를 추적하는 데 활용
-* 9개 항목에 대해 지난 1주간의 상태를 1점(전혀 동의하지 않음)\~7점(매우 동의함)으로 평가하고 평균을 계산&#x20;
+* 9개 항목에 대해 지난 1주간의 상태를 1점(전혀 동의하지 않음)\~7점(매우 동의함)으로 평가하고 평균을 계산
   * FSS는 저작권이 있는 척도로 본문에서는 점수 해석만 요약함(☞ [계산기](https://www.mdapp.co/fatigue-severity-scale-fss-calculator-372/))
 * 평균 ≥4점은 연구와 일부 임상에서 흔히 사용하는 참고 기준이지만 질환·집단에 따라 최적 cutoff가 다르며, FSS만으로 원인 질환을 진단하지 않음
 
@@ -266,7 +266,7 @@
 <table data-search="false"><thead><tr><th width="118">항목</th><th>ME/CFS</th><th>우울증</th><th>OSA</th></tr></thead><tbody><tr><td><strong>핵심 특징</strong></td><td>PEM(활동 후 지연성 증상 악화)</td><td>우울감 또는 흥미·즐거움 저하</td><td>코골이·목격된 무호흡·주간 졸림</td></tr><tr><td><strong>피로 패턴</strong></td><td>활동 후 수 시간~수일 뒤 악화</td><td>개인별·일중 변동 가능</td><td>아침 피로 또는 낮 졸림</td></tr><tr><td><strong>휴식 후 회복</strong></td><td>실질적 회복 없음</td><td>일정하지 않음</td><td>충분한 수면시간에도 지속 가능</td></tr><tr><td><strong>수면</strong></td><td>비회복성 수면</td><td>불면·과다수면 혼재</td><td>수면 중 호흡장애·분절</td></tr><tr><td><strong>주간 졸림</strong></td><td>동반될 수 있으나 피로와 구분 필요</td><td>동반 가능</td><td>흔하지만 없을 수도 있음</td></tr><tr><td><strong>활동 반응</strong></td><td>PEM 발생 가능</td><td>개인별 차이; 일부에서 활동 후 기분 개선</td><td>일정하지 않음</td></tr><tr><td><strong>기분 증상</strong></td><td>이차적 우울 동반 가능</td><td>핵심 증상</td><td>이차적 우울 동반 가능</td></tr><tr><td><strong>인지 기능</strong></td><td>brain fog 흔함</td><td>집중력·사고력 저하 가능</td><td>수면 분절·졸림에 따른 저하 가능</td></tr><tr><td><strong>자율신경 증상</strong></td><td>Orthostatic intolerance 흔함; 일부에서 POTS 동반</td><td>전형적이지 않음</td><td>전형적이지 않음</td></tr><tr><td><strong>동반 힌트</strong></td><td>Long COVID 등 감염 후 발병 가능</td><td>스트레스·삶의 사건</td><td>비만·큰 목둘레·고혈압</td></tr></tbody></table>
 
 > _각 특징은 가능성을 높이는 단서이며 단독 감별·진단 기준이 아님._\
-> _ME/CFS, 우울증, OSA는 서로 동반될 수 있음_
+> _&#x4D;E/CFS, 우울증, OSA는 서로 동반될 수 있음_
 
 {% hint style="danger" %}
 **흔한 진단 오류 (Pitfalls)**
@@ -283,59 +283,35 @@
 
 ```mermaid
 flowchart TD
-
     A["피로"] --> B["즉각 조치 위험징후?"]
-
     B -- "예" --> C["즉시 <br/>응급 평가·이송"]
-
     B -- "아니오" --> D["당일 평가 <br/>위험징후?"]
-
     D -- "예" --> E["당일 <br/>원인 평가·의뢰"]
-
     D -- "아니오" --> F["<u>피로·졸림·객관적 <br/>근력 저하 구분</u><br/>• 수면·기분·약물·<br/>기질질환 단서 확인"]
-
     F --> L["조기 평가 소견?<br/>• 암 의심 단서 등"]
-
     L -- "예" --> M["신속 검사·의뢰"]
-
     L -- "아니오" --> G["활동 후 지연된 <br/>증상 악화·PEM?"]
-
     G -- "예" --> H["<u>ME/CFS·<br/>Long COVID 평가</u><br/>• 표적 검사·감별<br/>• 고정 증량 운동 회피·<br/>에너지 관리"]
-
     G -- "아니오" --> J["<u>병력·진찰에 따른 <br/>표적 검사</u><br/>± 선택적 baseline 검사"]
-
     J --> I["원인에 맞춘 치료·생활 조정"]
-
     I --> K["<u>중증도에 따라 2~4주 내 추적</u><br/>• 지속·악화 시 진단 재검토"]
-
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-
     classDef question fill:#fff9c4,stroke:#ffe082
-
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-
     classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
-
     classDef followup fill:#e8eaf6,stroke:#7986cb
-
     class A start
-
     class B,D,G,L question
-
     class C emergency
-
     class E,F,J,M evaluation
-
     class H,I treatment
-
     class K followup
 ```
 
 > _ME/CFS·Long COVID 의심 환자도 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 재평가. 추적 중 새 위험징후가 발생하거나 증상이 악화하면 평가 시점을 앞당김_
 
-<p align="center"><strong><mark style="background-color:red;">피로 평가 알고리듬</mark></strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG206·NG12; CDC NAM/IOM 2015; Latimer KM 2023 Am Fam Physician)</mark></em></p>
+<p align="center"><strong>피로 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG206·NG12; CDC NAM/IOM 2015;</mark></em> <br><em><mark style="color:$info;">Latimer KM et al. Am Fam Physician 2023)</mark></em></p>
 
 ***
 
@@ -343,49 +319,69 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* <mark style="background-color:red;">확인된 원인 질환은 해당 지침에 따라 치료. 진정성 약물이 피로에 기여하는지 확인하고, 벤조디아제핀 등 금단 위험이 있는 약제는 처방의와 상의하여 필요 시 단계적으로 감량. 환자에게 임의로 중단하지 않도록 안내</mark>
-* 자살 위험이 높으면 환자를 혼자 두지 않고 가능한 범위에서 위해수단 접근을 차단하며 119·112 또는 응급실로 연계; 자살예방상담전화 109는 응급 이송·평가를 대신하지 않음
-* <mark style="background-color:red;">가능한 원인과 예상 경과, 증상 악화 시 재진 기준을 설명</mark>
-* 가족 상담
-* 수면·활동·증상 일지 작성 : 1\~2주간 수면 시간, 활동과 증상을 기록하고 활동 당일뿐 아니라 이후 48시간 이상의 변화를 확인
-* 심리적 평가 : 'DEAD, TIRED' 항목 중 우울/불안 비중이 높다면 PHQ-9 등 선별검사 및 심리 상담을 초기부터 적극 고려
-* <mark style="background-color:red;">원인이 불명확한 경우 수면 환경을 개선하고 통증·영양 문제를 관리. 불면·우울·불안에는 각각의 적응증에 따라 인지행동치료를 고려. ME/CFS 환자가 원하면 증상 관리와 일상 기능을 돕는 방법으로 인지행동치료를 제안할 수 있음</mark>
-* 토혈 또는 새로 생긴 타르변으로 급성 상부위장관 출혈이 의심되면 활력징후가 안정적이어도 당일 응급실 등에서 신속히 평가
-* <mark style="background-color:red;">추적 : 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 재평가</mark>
+* 원인 치료 : 확인된 원인 질환은 해당 지침에 따라 치료
+  * 진정성 약물이 피로에 기여하는지 확인
+  * 벤조디아제핀 등 금단 위험이 있는 약제는 처방의와 상의하여 필요시 단계적으로 감량하고, 환자에게 임의로 중단하지 않도록 안내
+* 자살 위험 : 위험이 높으면 환자를 혼자 두지 않고 가능한 범위에서 위해수단 접근을 차단하며 119·112 또는 응급실로 연계
+  * 자살예방상담전화 109는 응급 이송·평가를 대신하지 않음
+* 환자·가족 교육 : 가능한 원인과 예상 경과, 증상 악화 시 재진 기준을 설명하고 필요시 가족 상담
+* 수면·활동·증상 일지 : 1\~2주간 수면 시간·활동·증상을 기록
+  * 활동 당일뿐 아니라 이후 48시간 이상의 변화를 확인
+* 우울장애·불안장애가 진단되면 해당 챕터에 따라 치료
+* 원인이 불명확한 경우 : 수면 환경을 개선하고 통증·영양 문제를 관리
+  * 인지행동치료 : 불면·우울·불안에는 각각의 적응증에 따라 고려
+    * ME/CFS 환자가 원하면 증상 관리와 일상 기능을 돕는 방법으로 제안할 수 있으나 완치 치료는 아님
+* 추적 : 즉각·당일·조기 평가 소견이 없으면 중증도·기능 저하에 따라 2\~4주 내 재평가
   * 호전 → 유지
-  * <mark style="background-color:red;">지속 → 놓친 원인과 수면·기분·복용 약물을 재평가하고 필요 시 표적 검사</mark>
-  * <mark style="background-color:red;">악화 또는 새 위험징후 발생 → 평가 시점을 앞당기고 응급도를 다시 판단</mark>
+  * 지속 → 놓친 원인과 수면·기분·복용 약물을 재평가하고 필요시 표적 검사
+  * 악화 또는 새 위험징후 발생 → 평가 시점을 앞당기고 응급도를 다시 판단
 
-## <mark style="color:green;background-color:red;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 활동 전 PEM 여부를 확인
-* **PEM이 없고 급성·중증 질환이 배제된 경우** : 현재 체력과 동반 질환에 맞추어 유산소·근력 활동을 낮은 강도부터 점진적으로 시행
-* **PEM이 있거나 ME/CFS가 의심되는 경우**
-  * <mark style="background-color:red;">Pacing : 신체·인지 활동과 휴식을 견딜 수 있는 범위에서 조절하여 활동 후 증상 악화(PEM)를 줄임</mark>
-  * <mark style="background-color:red;">정해진 단계에 따라 활동량을 늘리는 GET(Graded Exercise Therapy)은 시행하지 않음. 신체 활동을 늘리고 싶다면 증상이 악화되지 않는 수준에서 시작하고, 이후 증상과 회복에 따라 활동량을 유연하게 조절</mark>
+* 활동 전 PEM(활동 후 증상 악화) 여부를 확인
+  * PEM이 없고 급성·중증 질환이 배제된 경우 : 현재 체력과 동반 질환에 맞추어 유산소·근력 활동을 낮은 강도부터 점진적으로 시행
+  * PEM이 있거나 ME/CFS가 의심되는 경우
+    * Pacing : 신체·인지 활동과 휴식을 견딜 수 있는 범위에서 조절하여 PEM를 줄임
+    * 정해진 단계에 따라 활동량을 늘리는 GET(Graded Exercise Therapy)은 시행하지 않음
+      * 신체 활동을 늘리고 싶다면 증상이 악화되지 않는 수준에서 시작하고, 이후 증상과 회복에 따라 활동량을 유연하게 조절
 * 금연
 * 음주 제한
-* 카페인(커피) : 각성 효과는 있으나 휴식이나 수면을 대체할 수 없음; 불면증이나 불안을 악화시킬 수 있으므로 개인의 취침 시간·민감도를 고려하여 대체로 취침 6시간 전부터 피하고, 과다 섭취 중이면 단계적으로 감량
+* 카페인(커피) : 각성 효과는 있으나 휴식이나 수면을 대체할 수 없음
+  * 불면증이나 불안을 악화시킬 수 있으므로 개인의 취침 시간·민감도를 고려하여 대체로 취침 6시간 전부터 피하고, 과다 섭취 중이면 단계적으로 감량
 * 적절한 체중 유지
-* 규칙적이고 충분한 수면(성인은 대체로 하루 7\~9시간, 개인차 고려); 일반적인 불면/수면위생 지도에서는 필요시 낮잠을 20\~30분 이내로 하고 늦은 오후 낮잠은 피함(단, ME/CFS에서는 개별화)
-* 균형 있는 식사 : 충분한 열량·단백질과 비타민·미네랄을 섭취하고 과도한 식이 제한을 피함. 질환별 영양 제한은 따로 적용하며 피로만을 이유로 지방 섭취를 일률적으로 제한하지 않음
+* 규칙적이고 충분한 수면 : 성인은 대체로 하루 7\~9시간 수면, 개인차 고려
+  * 일반적인 불면/수면위생 지도에서는 필요시 낮잠을 20\~30분 이내로 하고 늦은 오후 낮잠은 피함(단, ME/CFS에서는 개별화)
+* 균형 있는 식사 : 충분한 열량·단백질과 비타민·미네랄을 섭취하고 과도한 식이 제한을 피함
+  * 질환별 영양 제한은 따로 적용하며 피로만을 이유로 지방 섭취를 일률적으로 제한하지 않음
 * 업무량 조절 및 효율적인 시간 계획으로 휴식 시간을 늘림
-* 스트레스 대처 : 매일 쉽게 할 수 있는 이완 운동, 긍정적인 경험에 대한 연상, 이완 호흡, 어려운 일이 생길 때는 친구나 가족들과 대화하고 도움을 요청
+* 스트레스 대처 : 매일 쉽게 할 수 있는 이완 운동, 긍정적인 경험에 대한 연상, 이완 호흡
+  * 어려운 일이 생길 때는 친구나 가족들과 대화하고 도움을 요청
 * 습관성 약물 사용을 피함
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-* **SSRI** : 피로 자체의 치료제가 아님. 주요우울장애 또는 불안장애가 진단되고 약물치료의 적응증이 있을 때 해당 지침에 따라 선택하며, 초기 졸림·피로 또는 불면 등 이상반응을 추적 (☞ [우울증](../221_/027_-depression.md))
-* **철분제** : 철결핍성 빈혈이 확인되면 출혈·흡수장애 등 원인 교정과 함께 보충. 경구 철분 시작 후 2\~4주에 Hb 반응을 확인하고, **Hb 정상화 후 약 3개월** 추가 투여하여 저장 철을 보충하며 ferritin·지속 출혈·내약성에 따라 조정. 빈혈 없는 철결핍도 확인되면 원인과 증상에 따라 보충을 고려하나 비특이적 피로만으로 경험적 투여하지 않음 (☞ [<mark style="background-color:yellow;">철결핍빈혈</mark>](../230_/193_-iron-def-anemia.md))
-* **Vit D** : 임상적 적응증에 따라 검사하여 결핍이 확인된 경우 교정. 피로 개선만을 목적으로 특정 혈중 목표농도를 설정하지 않으며, 결핍이 없는 환자에서 경험적 고용량 투여는 권하지 않음 (☞ [골다공증](../228_/149_-osteoporosis.md#vit-d))
-  * <mark style="background-color:yellow;">제품별 허가 용량</mark>과 환자의 연령·신기능·흡수장애 여부를 고려하여 경구 치료를 우선하고 필요시 추적 검사
-* **Vit B12** : PPI 장기 복용자·metformin 복용자·고령·비건 식이 환자에서 결핍을 확인한 뒤 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
-  * <mark style="background-color:red;">B12 결핍에 의한 거대적아구성 빈혈이 의심되고 신경학적 증상이 동반되면</mark> 가능하면 치료 전 검체를 채취하되 검사 결과를 기다리느라 B12 보충을 지연하지 않음 <mark style="color:$info;">\[NICE NG239]</mark>
-* **ME/CFS** : <mark style="background-color:yellow;">현재 승인된 ME/CFS 특이 약물치료는 없음</mark>. 통증·수면장애·기립불내성 등 가장 부담이 큰 증상을 우선하여 개별적으로 치료하되 약물 과민성과 PEM을 고려
-* **methylphenidate** : 암 관련 피로 또는 ME/CFS에서 일관된 효과가 입증되지 않아 routine 사용하지 않음. 암 관련 피로에서도 psychostimulant의 일률적 사용을 권하지 않으며<mark style="color:$info;">\[ASCO-SIO 2024]</mark>, 선택된 완화의료 상황 등에서 전문가 판단으로 제한적으로 고려
-  * 암 관련 피로·ME/CFS 치료에 methylphenidate를 사용하는 것은 허가 외 사용. 허가 여부와 급여 인정은 별개의 문제이며, 사용한다면 최신 급여기준·허가 외 사용 절차를 확인
+* **SSRI** : 피로 자체의 치료제가 아님  (☞ [우울증](../221_/027_-depression.md))
+  * 주요우울장애 또는 불안장애가 진단되고 약물치료의 적응증이 있을 때 해당 지침에 따라 선택
+  * 초기 졸림·피로 또는 불면 등 이상반응을 추적
+* **철분제** : 철결핍성 빈혈이 확인되면 출혈·흡수장애 등 원인 교정과 함께 보충 (☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
+  * 경구 철분 시작 후 2\~4주에 Hb 반응을 확인
+  * **Hb 정상화 후 약 3개월** 추가 투여하여 저장 철을 보충하며, ferritin·지속 출혈·내약성에 따라 조정
+  * 빈혈 없는 철결핍도 확인되면 원인과 증상에 따라 보충을 고려하나, 비특이적 피로만으로 경험적 투여하지 않음
+* **Vit D** : 임상적 적응증에 따라 검사하여 결핍이 확인된 경우 교정 (☞ [골다공증](../228_/149_-osteoporosis.md#vit-d))
+  * 제품별 허가 용량과 환자의 연령·신기능·흡수장애 여부를 고려하여 경구 치료를 우선하고 필요시 추적 검사
+  * 피로 개선만을 목적으로 특정 혈중 목표농도를 설정하지 않으며, 결핍이 없는 환자에서 경험적 고용량 투여는 권하지 않음
+* **Vit B12** : 결핍을 확인한 뒤 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
+  * 결핍 위험군 : PPI 장기 복용자, metformin 복용자, 고령, 비건 식이
+  * B12 결핍에 의한 거대적아구성 빈혈이 의심되고 신경학적 증상이 동반되면 가능하면 치료 전 검체를 채취하되, 검사 결과를 기다리느라 보충을 지연하지 않음 <mark style="color:$info;">\[NICE NG239]</mark>
+* **ME/CFS** : 현재 승인된 ME/CFS 특이 약물치료는 없음
+  * 통증·수면장애·기립불내성 등 가장 부담이 큰 증상을 우선하여 개별적으로 치료하되, 약물 과민성과 PEM을 고려
+* **methylphenidate** : 암 관련 피로 또는 ME/CFS에서 일관된 효과가 입증되지 않아 routine 사용하지 않음
+  * 암 관련 피로에서도 psychostimulant의 일률적 사용을 권하지 않으며, 선택된 완화의료 상황 등에서 전문가 판단으로 제한적으로 고려 <mark style="color:$info;">\[ASCO-SIO 2024]</mark>
+  * 암 관련 피로·ME/CFS 치료에 사용하는 것은 허가 외 사용이며, 허가 여부와 급여 인정은 별개임
 * **CoQ10, L-carnitine** : 비특이적 피로·ME/CFS에 대한 근거가 불충분하여 routine으로 권하지 않음
-* **식욕 자극제** : 원인 불명의 체중 감소나 피로 자체에는 사용하지 않음. 원인 평가와 영양 중재를 우선하고, 암 악액질이나 특정 완화의료 상황 등 명확한 적응증에서 기대효과와 혈전·부종·부신억제 등의 위해를 비교하여 선택 (☞ [체중 감소](013_-weight-loss.md))
+* **식욕 자극제** : 원인 불명의 체중 감소나 피로 자체에는 사용하지 않음 (☞ [체중 감소](013_-weight-loss.md))
+  * 원인 평가와 영양 중재를 우선
+  * 암 악액질이나 특정 완화의료 상황 등 명확한 적응증에서 기대효과와 혈전·부종·부신억제 등의 위해를 비교하여 선택&#x20;
 
 ***
 
@@ -435,8 +431,8 @@ flowchart TD
 
 > **관련 처방례**
 >
-> * **Vit B12 결핍 동반 피로 (PPI·metformin 장기 복용자, 고령, 비건 식이)**. B12 결핍의 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 <mark style="background-color:yellow;">선택</mark>. 구체적인 교정 요법은 ☞ [빈혈 - Vit B12 결핍](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency) <mark style="background-color:yellow;">처방례 참조</mark>
->   * _✽mecobalamin 500 μg 제제는 제품별 허가 효능이 B12 결핍 치료와 일치하지 않을 수 있으므로 원인 질환 챕터의 표준 보충요법을 <mark style="background-color:yellow;">적용</mark>_
+> * **Vit B12 결핍 동반 피로 (PPI·metformin 장기 복용자, 고령, 비건 식이)**. B12 결핍의 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택. 구체적인 교정 요법은 ☞ [빈혈 - Vit B12 결핍](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency) 처방례 참조
+>   * _✽mecobalamin 500 μg 제제는 제품별 허가 효능이 B12 결핍 치료와 일치하지 않을 수 있으므로 원인 질환 챕터의 표준 보충요법을 적용_
 > * **우울 동반 피로** (☞ 우울증 [처방례](../221_/027_-depression.md) 참조)
 
 ***
@@ -449,18 +445,18 @@ flowchart TD
 > * 지용성 비타민이므로 경구제는 식사와 함께 복용할 수 있습니다.
 > * 25,000 IU 고함량 정제는 매일 먹는 비타민이 아닙니다. 결핍 치료 시 매주, 유지요법 시 매월 등 처방된 간격을 정확히 지키십시오. 주사제와 경구제·건강보조제의 비타민 D를 임의로 중복하지 마십시오.
 > * 과다 복용 시 고칼슘혈증(구역, 구토, 변비, 피로 악화)이 생길 수 있으므로 임의로 용량을 늘리지 마십시오.
-> * <mark style="background-color:yellow;">재검 시점은 제제·용량과 임상 상황에 따라 담당 의사가 정합니다.</mark>
+> * 재검 시점은 제제·용량과 임상 상황에 따라 담당 의사가 정합니다.
 
 > **철분제 (**[**훼로바-유**](https://health.kr/drug/A11AHHHHH0249) **등)**
 >
-> * <mark style="background-color:yellow;">철분제는 제제별 허가 용법을 따르십시오. 일반적인 철분제는 위장 장애가 없으면 흡수를 고려해 식사와 떨어뜨려 복용할 수 있습니다.</mark>
-> * <mark style="background-color:yellow;">훼로바-유서방정은 식후에 복용하며, 씹거나 빨거나 부수지 말고 물과 함께 통째로 삼키십시오. 삼키기 어렵거나 사레가 잘 들리면 다른 제형을 상담하십시오.</mark>
-> * 훼로바-유서방정을 복용하는 동안에는 칼슘염·인산염 제제, 제산제, 경구 테트라사이클린계 항생제를 함께 복용하지 마십시오. <mark style="background-color:red;">이 약의 허가사항은 비스포스포네이트, 티록신(레보티록신), 세프디니르와 2\~3시간 이상 간격을 두도록 안내합니다. 함께 복용하는 약에서 더 긴 간격을 요구하면 그 간격을 따르십시오. 복용 중인 약이 있다면 먼저 의사나 약사에게 알리십시오.</mark>
+> * 철분제는 제제별 허가 용법을 따르십시오. 일반적인 철분제는 위장 장애가 없으면 흡수를 고려해 식사와 떨어뜨려 복용할 수 있습니다.
+> * 훼로바-유서방정은 식후에 복용하며, 씹거나 빨거나 부수지 말고 물과 함께 통째로 삼키십시오. 삼키기 어렵거나 사레가 잘 들리면 다른 제형을 상담하십시오.
+> * 훼로바-유서방정을 복용하는 동안에는 칼슘염·인산염 제제, 제산제, 경구 테트라사이클린계 항생제를 함께 복용하지 마십시오. 이 약의 허가사항은 비스포스포네이트, 티록신(레보티록신), 세프디니르와 2\~3시간 이상 간격을 두도록 안내합니다. 함께 복용하는 약에서 더 긴 간격을 요구하면 그 간격을 따르십시오. 복용 중인 약이 있다면 먼저 의사나 약사에게 알리십시오.
 > * 녹차·홍차 등 탄닌을 함유한 차와 우유·유제품은 복용 전후에 피하십시오. 비타민 C를 일률적으로 함께 복용할 필요는 없습니다.
 > * 철분제 때문에 변이 짙은 녹색이나 검게 보일 수 있습니다.
-> * <mark style="background-color:yellow;">끈적하고 윤기 있는 타르 같은 검은 변이 새로 나오거나 피를 토하면 다른 증상이 없어도 당일 응급실에서 평가받으십시오. 출혈이 많거나 멈추지 않거나 어지럼·식은땀·실신이 함께 있으면 즉시 응급실로 가십시오.</mark>
+> * 끈적하고 윤기 있는 타르 같은 검은 변이 새로 나오거나 피를 토하면 다른 증상이 없어도 당일 응급실에서 평가받으십시오. 출혈이 많거나 멈추지 않거나 어지럼·식은땀·실신이 함께 있으면 즉시 응급실로 가십시오.
 > * Hb가 정상화된 후에도 저장 철을 보충하기 위해 보통 약 3개월 더 복용하며, 검사 결과와 출혈 여부에 따라 담당 의사가 기간을 조정합니다.
-> * <mark style="background-color:red;">철분제는 어린이가 닿지 않는 곳에 보관하십시오. 어린이가 실수로 많이 먹었거나 복용량을 알 수 없으면 즉시 응급 도움을 받으십시오.</mark>
+> * 철분제는 어린이가 닿지 않는 곳에 보관하십시오. 어린이가 실수로 많이 먹었거나 복용량을 알 수 없으면 즉시 응급 도움을 받으십시오.
 
 > **비타민 B12 보충**
 >
@@ -492,11 +488,11 @@ flowchart TD
 * \[AASM 2017] [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea. J Clin Sleep Med. 2017;13(3):479-504.](https://pubmed.ncbi.nlm.nih.gov/28162150/) - HSAT와 PSG의 선택 및 HSAT 음성·불충분 시 후속 검사
 * \[ASCO-SIO 2024] [Bower JE, et al. Management of Fatigue in Adult Survivors of Cancer: ASCO-Society for Integrative Oncology Guideline Update. J Clin Oncol. 2024;42(20):2456-2487.](https://doi.org/10.1200/JCO.24.00541) - 암 관련 피로의 비약물 치료와 psychostimulant의 일률적 사용 제한; 일반 피로·ME/CFS와 구분
 * [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NG239. 2024.](https://www.nice.org.uk/guidance/ng239/chapter/recommendations) - 빈혈 없는 B12 결핍과 신경 증상 동반 시 신속한 보충
-* [<mark style="background-color:yellow;">World Health Organization. A clinical case definition of post COVID-19 condition by a Delphi consensus. 2021.</mark>](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1) <mark style="background-color:yellow;">- Post COVID-19 condition의 정의와 지속 피로·활동 후 증상 악화를 동반하는 코로나19 후유증의 감별</mark>
-* [<mark style="background-color:yellow;">NICE. Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. Clinical guideline CG95.</mark>](https://www.nice.org.uk/guidance/cg95) <mark style="background-color:yellow;">- ACS 의심 시 최근 흉통 시점(12시간 이내, 12\~72시간)과 ECG에 따른 응급·당일 평가 기준</mark>
-* [<mark style="background-color:red;">Laine L, et al. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. Am J Gastroenterol. 2021;116(5):899-917.</mark>](https://pubmed.ncbi.nlm.nih.gov/33929377/) <mark style="background-color:red;">- 급성 상부위장관 출혈의 응급 평가와 위험도 분류</mark>
-* [<mark style="background-color:red;">NICE. Adrenal insufficiency: identification and management. NICE guideline NG243. 2024.</mark>](https://www.nice.org.uk/guidance/ng243/chapter/recommendations) <mark style="background-color:red;">- 부신위기 의심 소견과 즉각적인 hydrocortisone 치료</mark>
-* [<mark style="background-color:red;">NICE. Suspected sepsis in people aged 16 or over: recognition, assessment and early management. NICE guideline NG253.</mark>](https://www.nice.org.uk/guidance/ng253) <mark style="background-color:red;">- 감염 의심 환자의 패혈증 위험도와 응급 평가 소견</mark>
+* [World Health Organization. A clinical case definition of post COVID-19 condition by a Delphi consensus. 2021.](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1) - Post COVID-19 condition의 정의와 지속 피로·활동 후 증상 악화를 동반하는 코로나19 후유증의 감별
+* [NICE. Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. Clinical guideline CG95.](https://www.nice.org.uk/guidance/cg95) - ACS 의심 시 최근 흉통 시점(12시간 이내, 12\~72시간)과 ECG에 따른 응급·당일 평가 기준
+* [Laine L, et al. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. Am J Gastroenterol. 2021;116(5):899-917.](https://pubmed.ncbi.nlm.nih.gov/33929377/) - 급성 상부위장관 출혈의 응급 평가와 위험도 분류
+* [NICE. Adrenal insufficiency: identification and management. NICE guideline NG243. 2024.](https://www.nice.org.uk/guidance/ng243/chapter/recommendations) - 부신위기 의심 소견과 즉각적인 hydrocortisone 치료
+* [NICE. Suspected sepsis in people aged 16 or over: recognition, assessment and early management. NICE guideline NG253.](https://www.nice.org.uk/guidance/ng253) - 감염 의심 환자의 패혈증 위험도와 응급 평가 소견
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -535,7 +531,7 @@ flowchart TD
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **규칙적인 수면** : 매일 비슷한 시간에 자고 일어나십시오. 성인은 대체로 하루 7\~9시간의 수면이 필요하지만 개인차가 있습니다. 일반적인 불면에서는 낮잠이 필요하면 20\~30분 이내로 하고 늦은 오후는 피하십시오. ME/CFS에서는 에너지 관리 계획에 따라 조절하십시오
-* **신체 활동** : 가벼운 활동 후 흔히 수 시간\~수일 뒤 증상이 악화되는지 먼저 확인하십시오. <mark style="background-color:red;">그런 증상(PEM)이 없고 의료진이 운동을 제한할 급성·중증 질환이 없다고 판단했다면</mark> 현재 체력에 맞추어 낮은 강도부터 서서히 늘리십시오. **ME/CFS가 의심되면 정해진 운동량을 억지로 늘리지 말고** 주치의와 활동 계획을 상의하십시오
+* **신체 활동** : 가벼운 활동 후 흔히 수 시간\~수일 뒤 증상이 악화되는지 먼저 확인하십시오. 그런 증상(PEM)이 없고 의료진이 운동을 제한할 급성·중증 질환이 없다고 판단했다면 현재 체력에 맞추어 낮은 강도부터 서서히 늘리십시오. **ME/CFS가 의심되면 정해진 운동량을 억지로 늘리지 말고** 주치의와 활동 계획을 상의하십시오
 * **균형 잡힌 식사** : 충분한 열량과 단백질을 섭취하고, 비타민과 미네랄을 골고루 섭취할 수 있도록 균형 있게 드십시오
 * **카페인·음주 절제** : 카페인은 개인의 취침시간과 민감도를 고려하여 대체로 취침 6시간 전부터 피하십시오. 카페인에 지나치게 의존하면 효과가 줄고 효과가 사라질 때 피로가 나타날 수 있습니다. 음주는 수면의 질을 떨어뜨립니다
 * **스트레스 관리** : 이완 운동, 복식 호흡, 취미 활동 등을 통해 정신적 피로를 줄이십시오
@@ -545,12 +541,12 @@ flowchart TD
 **이럴 때는 즉시 응급실 평가가 필요합니다**
 
 * 갑자기 발생한 마비·언어장애·의식 변화
-* <mark style="background-color:red;">갑자기 생긴 심한 가슴 통증·압박감이나 심한 숨참, 또는 쉬는 중에도 계속되거나 반복되는 가슴 통증·압박감</mark>
+* 갑자기 생긴 심한 가슴 통증·압박감이나 심한 숨참, 또는 쉬는 중에도 계속되거나 반복되는 가슴 통증·압박감
 * 가슴 통증·숨참·두근거림과 함께 실신했거나, 실신 후 의식·기운이 완전히 돌아오지 않는 경우
 * 많은 양의 토혈·혈변·객혈, 멈추지 않는 출혈, 또는 출혈과 함께 어지럼·식은땀·실신이 있는 경우
-* <mark style="background-color:yellow;">기침할 때 피가 나오면서</mark> 숨이 차거나 숨쉬기 어려운 경우
-* <mark style="background-color:red;">부신기능저하증이 있거나, 스테로이드를 오래 복용 중이거나 장기 복용 후 최근 중단했거나, 면역항암제 치료를 받은 사람에게 쓰러질 듯한 어지럼, 반복 구토 또는 의식 변화가 생긴 경우</mark>
-* <mark style="background-color:red;">감염이 의심되면서 갑자기 정신이 흐려지거나 숨이 매우 가쁘거나 쓰러질 듯 어지러운 경우. 열이 없어도 이런 증상이 있으면 응급 평가가 필요합니다.</mark>
+* 기침할 때 피가 나오면서 숨이 차거나 숨쉬기 어려운 경우
+* 부신기능저하증이 있거나, 스테로이드를 오래 복용 중이거나 장기 복용 후 최근 중단했거나, 면역항암제 치료를 받은 사람에게 쓰러질 듯한 어지럼, 반복 구토 또는 의식 변화가 생긴 경우
+* 감염이 의심되면서 갑자기 정신이 흐려지거나 숨이 매우 가쁘거나 쓰러질 듯 어지러운 경우. 열이 없어도 이런 증상이 있으면 응급 평가가 필요합니다.
 * 자살 계획·의도가 있거나 자해·자살 시도 직후, 스스로 안전을 유지하기 어려운 경우 - 혼자 있지 말고 **119·112 또는 응급실**에 즉시 도움을 요청하십시오. 상담전화 109가 응급 평가를 대신하지 않습니다
 {% endhint %}
 
@@ -558,12 +554,12 @@ flowchart TD
 **이럴 때는 진료가 필요합니다**
 
 * 구체적인 계획은 없더라도 자살사고가 들면 당일 의료진에게 알리십시오. 자살예방상담전화 109에서도 도움을 받을 수 있습니다
-* <mark style="background-color:yellow;">응급 증상은 없지만 다음과 같은 경우에는 당일 평가를 받으십시오</mark>
-  * <mark style="background-color:yellow;">새로 생기거나 빠르게 악화하는 운동 시 가슴 통증·숨참</mark>
-  * <mark style="background-color:yellow;">반복되는 실신</mark>
-  * <mark style="background-color:yellow;">고열과 함께 몹시 아파 보이는 경우</mark>
-  * <mark style="background-color:yellow;">소량의 피가 반복해서 가래에 섞이는 경우</mark>
-* <mark style="background-color:red;">피를 토했거나 끈적하고 윤기 있는 타르 같은 검은 변이 새로 나오면</mark> 다른 증상이 없어도 당일 응급실에서 평가받으십시오
+* 응급 증상은 없지만 다음과 같은 경우에는 당일 평가를 받으십시오
+  * 새로 생기거나 빠르게 악화하는 운동 시 가슴 통증·숨참
+  * 반복되는 실신
+  * 고열과 함께 몹시 아파 보이는 경우
+  * 소량의 피가 반복해서 가래에 섞이는 경우
+* 피를 토했거나 끈적하고 윤기 있는 타르 같은 검은 변이 새로 나오면 다른 증상이 없어도 당일 응급실에서 평가받으십시오
 * 충분히 쉬어도 피로가 4주 이상 지속되는 경우
 * 4주가 되지 않았더라도 일상생활에 뚜렷한 지장이 있거나 빠르게 악화하는 경우
 * 피로와 함께 체중 감소, 발열, 식은땀, 림프절 비대가 동반되는 경우
