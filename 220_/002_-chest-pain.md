@@ -141,7 +141,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**CDP(clinical decision pathway)** : 임상 위험도, ECG, 정해진 간격의 hs-cTn 반복 측정을 결합해 급성 흉통 환자를 위험도별로 분류하고 퇴원·추가 검사·입원을 결정하는 검증된 진료 경로.\
+**CDP(clinical decision pathway)** : 임상 위험도, ECG, <mark style="background-color:#ffd6d6;">hs-cTn 초회 수치와 필요시 정해진 간격의 반복 측정 결과</mark>를 결합해 급성 흉통 환자를 위험도별로 분류하고 퇴원·추가 검사·입원을 결정하는 검증된 진료 경로.\
 • 예: HEART Pathway, ESC 0/1h·0/2h 알고리듬\
 • 본문에서는 hs-cTn 판정 알고리듬(0/1h, 0/2h 등)과, 임상 위험도까지 포함한 진료 경로(HEART Pathway 등)를 모두 CDP로 지칭함
 {% endhint %}
@@ -239,7 +239,7 @@ flowchart TD
 
 <mark style="color:cyan;">**기본/핵심 검사**</mark>
 
-* 고감도 심장 트로포닌(hs-cTn) : ACS가 의심되는 경우 serial 측정
+* 고감도 심장 트로포닌(hs-cTn) : <mark style="background-color:#ffd6d6;">ACS가 의심되면 초회 측정 후 검증된 CDP에 따라 재측정 여부를 결정</mark>
 
 <mark style="color:cyan;">**임상 상황에 따라 선택**</mark>
 
@@ -270,8 +270,9 @@ flowchart TD
   * 시술 관련 MI : 심장 시술·수술의 합병증으로 시술 후 30일 이내 발생한 MI. 시술 합병증과 허혈성 심근손상의 객관적 근거로 확인하며, 단순한 시술 후 troponin 상승과 구분
     * 시술과 무관하게 발생한 MI는 30일 이내라도 일차성 또는 이차성 MI로 분류
 * 허혈 근거가 없는 급성 심근손상은 MI로 진단하지 않고 심근염, 패혈증, 폐색전증, 급성 심부전 등 원인 질환을 평가
-* ① 정상 ECG, ② ACS를 시사하는 증상 존재, ③ 증상이 응급실 도착 최소 3시간 전에 시작, ④ 초기 hs-cTn이 해당 assay의 검출한계(LoD) 미만 - 이 네 조건을 모두 충족하는 경우, 단일 측정으로 급성 MI 배제를 고려할 수 있음. 네 조건 중 하나라도 충족하지 않으면 해당 기관 assay에 대해 검증된 CDP를 따름
-  * 특히 증상 발생 후 3시간 미만에 도착한 early presenter는 단일 측정으로 배제하지 않음
+* <mark style="background-color:#ffd6d6;">단일 채혈로 급성 MI 배제를 고려하는 조건 : ACS가 의심되는 환자에게 응급실에서 검증된 CDP를 적용할 때, ① 12유도 ECG에 허혈성 변화가 없고, ② 증상 시작부터 첫 채혈까지 3시간 이상이며, ③ 초회 hs-cTn이 해당 검사법에서 검증된 매우 낮은 배제 절단값 미만인 경우</mark> <mark style="background-color:#ffd6d6;">\[J Am Coll Cardiol 2022]</mark>
+  * <mark style="background-color:#ffd6d6;">증상 시작부터 첫 채혈까지 3시간이 지나지 않았거나 증상 시작 시각이 불명확하면 검사기관의 검증된 CDP에 따라 hs-cTn을 반복 측정함</mark>
+  * <mark style="background-color:#ffd6d6;">허혈이 의심되는 증상이 지속·재발하거나 임상적 의심이 높으면 ECG와 hs-cTn을 반복 측정하고 추가 평가함. hs-cTn 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제할 수 없음</mark>
 * 초기 hs-cTn이 assay-specific rule-in threshold 이상이거나 재측정 시 Δ가 rule-in 기준을 넘으면 rule-in으로 판단하고, 허혈 증상·ECG 소견과 함께 급성 MI 여부를 판단
   * 배제·rule-in 어느 쪽에도 해당하지 않는 경계값(observe zone)이면 검증된 0/1h 또는 0/2h 등 assay-specific CDP에 따라 재측정하고 절대 변화량(Δ, absolute change)을 함께 판단
 
@@ -706,6 +707,7 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[2021 AHA/ACC] [Gulati M, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Circulation. 2021;144(22):e368-e454.](https://doi.org/10.1161/CIR.0000000000001029) - 흉통 표현·초기 ECG·troponin 평가와 위험도별 진단 경로; 본문 그림·표 출처
+* [<mark style="background-color:#ffd6d6;">Kontos MC, et al. 2022 ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department. J Am Coll Cardiol. 2022;80(20):1925-1960.</mark>](https://doi.org/10.1016/j.jacc.2022.08.750) - <mark style="background-color:#ffd6d6;">단일 채혈 급성 심근경색 배제 조건과 검사법별 절단값(§5.4.1)</mark>
 * \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치
 * \[2014 AHA/ACC NSTE-ACS Guideline] [Amsterdam EA, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. Circulation. 2014;130(25):e344-e426.](https://doi.org/10.1161/CIR.0000000000000134) - 코카인·메스암페타민 관련 흉통의 β차단제 주의
 * [Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). Circulation. 2018;138(20):e618-e651.](https://doi.org/10.1161/CIR.0000000000000617) - 후벽 유도 V7\~V9의 ST 상승 판정 기준과 연령 예외

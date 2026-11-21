@@ -2,9 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 두통은 1차 진료에서 가장 흔한 주소 중 하나로, 병력 청취 및 신체검사를 통해 경고 징후를 먼저 배제한 후 원인을 추정하고 관리
+* 두통은 1차 진료에서 가장 흔한 주소 중 하나로, 병력 청취와 진찰을 통해 2차 두통 가능성을 선별하고 필요한 검사·의뢰를 결정
 * 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
-* 두통 평가 시 SNNOOP10 계열의 경고 징후를 활용하여 2차 두통을 체계적으로 배제할 것을 권고
+* 두통 평가 시 SNNOOP10 계열의 경고 징후를 활용하여 2차 두통 가능성을 체계적으로 평가
 
 ### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
 
@@ -14,7 +14,7 @@
 * Tension-type headache (긴장형두통)
 * Trigeminal autonomic cephalalgias (삼차자율신경두통) - 군발두통(cluster headache), paroxysmal hemicrania, SUNCT/SUNA, hemicrania continua 등
 * Other primary headache disorders (기타 1차성 두통) - primary cough/exercise/sexual activity headache, primary thunderclap headache\*, hypnic headache, new daily persistent headache(NDPH) 등
-  * _\*primary thunderclap headache(벼락두통)는 SAH, RCVS, CVST, 뇌동맥박리, 뇌내출혈, pituitary apoplexy 등 이차성 원인을 충분히 배제한 후에 진단해야 함_
+  * _\*primary thunderclap headache(벼락두통)는 SAH, RCVS, CVST, 뇌동맥박리, 뇌내출혈, pituitary apoplexy 등 2차 원인을 충분히 배제한 후에 진단해야 함_
 
 <mark style="color:cyan;">**2차성 두통 (Secondary headache)**</mark>
 
@@ -27,7 +27,7 @@
 * 두개·경부·안구·이비인후·치아 등 인접 구조 질환 - 경추성두통, 부비동염, TMJ 장애, 녹내장 등
 * 정신질환에 기인한 두통 - 신체화장애, 정신병적 장애 등
 
-<mark style="color:cyan;">**두개신경통 및 안면통 (Painful cranial neuropathies and other facial pains)**</mark>
+<mark style="color:cyan;">**뇌신경의 통증성 병변과 기타 안면통 (Painful lesions of the cranial nerves and other facial pain)**</mark>
 
 * 삼차신경통, 설인신경통, 후두신경통 등
 
@@ -51,26 +51,30 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 벼락두통 : 갑작스럽게 시작하여 1분 미만에 최대 강도에 도달하는 심한 두통  `SAH` `RCVS`&#x20;
-* 발열과 함께 경부 강직, 의식 변화, 점상·자반성 발진, 면역저하 등이 동반되는 경우  `수막염` `뇌염`&#x20;
-* 새로 발생한 신경학적 결손(편마비, 언어 장애, 복시, 의식 저하 등)  `뇌졸중`
-* 밀폐 공간·연소기구 노출 후 두통, 특히 동거인의 동시 증상 : 즉시 현장을 벗어나 응급 평가  `일산화탄소 중독`
+* 벼락두통(1분 미만에 최대 강도) 또는 수 분 내 최고조에 이르는 새로운 중증 두통  `SAH` `RCVS`
+* 발열과 함께 경부 강직, 의식 변화, 점상·자반성 발진, 면역저하 등이 동반되거나 그 밖에 중추신경계 감염이 의심되는 두통  `수막염` `뇌염`
+* 갑자기 생긴 국소 신경학적 증상(편마비·감각 소실·실어증·복시 등) <mark style="background-color:yellow;">- 지속되거나 완전히 회복되었어도 해당</mark>  `뇌졸중` `TIA`
+* 새로 발생한 경련 또는 급성 혼돈·의식 저하  `뇌졸중` `뇌염`
+* 밀폐 공간에서 연소기구 등에 노출된 뒤 발생한 두통, 특히 동거인 등의 동시 증상  `일산화탄소 중독`
 * 눈의 심한 통증·시야 혼탁·충혈 동반  `급성 폐쇄각녹내장`&#x20;
 * 중등도\~중증 두부 외상 직후 발생하거나 외상 후 의식 변화·신경학적 이상과 함께 급격히 악화  `경막하혈종` `경막외혈종`
-* 임신 중 또는 산후 새로 발생한 심한 두통에 혈압 상승, 시각 증상, 경련, 의식 변화 또는 국소 신경학적 결손이 동반  `자간전증` `자간증` `뇌혈관질환`&#x20;
+* <mark style="background-color:yellow;">최근 두부 외상 후 지속되거나 악화되는 두통으로 처음 평가받는 경우</mark>  `경막하혈종` `경막외혈종`
+* <mark style="background-color:yellow;">항응고제·항혈소판제(아스피린 단독 제외) 복용 중 두부 외상</mark>  `경막하혈종` `경막외혈종`
+* 임신 중 또는 산후 새로 발생한 심한 두통, 갑작스러운 두통 또는 지속·악화되는 두통(임신 20주 이후·산후 6주 이내는 자간전증에 특히 유의)  `자간전증` `CVST` `RCVS`
 * ≥50세의 새로운 두통에 일시적 시력상실·복시 등 시각 증상이 동반  `거대세포동맥염`&#x20;
-* 처음부터 최대 강도로 시작하거나 갑작스럽게 발생한 음성 신경학적 증상(마비·감각 소실·실어증 등), 완전히 회복되지 않는 결손, 또는 60분을 초과하는 단일 비운동성 조짐  `뇌졸중` `TIA`
+* 새 두통 또는 경부통과 동반된 부분 Horner 증후군(눈꺼풀처짐·동공수축) 또는 국소 신경학적 증상  `경동맥 박리` `척추동맥 박리`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* ≥50세의 새로운 두통에 jaw claudication, 두피/측두동맥 압통 등이 동반 : **당일 평가·치료 결정**, 시각 증상이 생기면 즉시 응급 평가  `거대세포동맥염`
+* ≥50세의 새로운 두통에 턱 파행(jaw claudication), 두피 또는 측두동맥 압통 등이 동반 <mark style="background-color:yellow;">**(당일)**</mark>  `거대세포동맥염`
 * 기침·발살바 조작·운동·성행위 시 새로 유발되는 두통  `후두와 종괴` `Chiari 기형`
 * 뚜렷한 체위성 두통(기립 시 악화 또는 누울 때 현저히 악화)  `저뇌척수압` `두개내압 상승` `CVST`
 * 면역 저하 환자(HIV, 면역억제제·스테로이드 장기 복용 등)의 새로운 두통  `기회감염` `중추신경계 림프종`
-* 악성 종양 병력이 있는 환자의 새로 발생한 진행성 두통  `뇌전이` `암성 수막염`
-* 임신 중 또는 산후 새로 발생한 두통(상기 응급 위험 징후가 없는 경우)  `자간전증` `뇌혈관질환` `pituitary 병변`&#x20;
-* 두개내압 상승 의심(유두부종, 반복 구토 등) : **당일 긴급 평가**. 의식 변화·국소 신경학적 결손·급격한 악화가 있으면 즉시 응급 평가  `두개내압 상승` `두개내 종괴`
-* 새로 발생하거나 기존과 다른 양상의 조짐(위 즉각 조치 항목에 해당하지 않는 경우)  `뇌졸중` `TIA`&#x20;
+* 악성 종양 병력이 있는 환자의 새로운 두통 또는 기존 두통의 뚜렷한 변화  `뇌전이` `암성 수막염`
+* 임신 중 또는 산후 새로 발생한 그 밖의 두통 <mark style="background-color:yellow;">**(당일)**</mark>  `자간전증` `뇌혈관질환` `뇌하수체 병변`
+* 두개내압 상승 의심(유두부종, 반복 구토 등) <mark style="background-color:yellow;">**(당일)**</mark>  `IIH` `CVST` `두개내 종괴`
+* 처음 발생했거나 기존과 다른 양상의 조짐, 또는 단일 비운동성 조짐 증상이 60분을 초과한 경우 <mark style="background-color:yellow;">**(당일)**</mark>  `뇌졸중` `TIA`
+* <mark style="background-color:yellow;">두부 외상(경미한 외상 포함) 후 급성기 평가를 받았으나 수일\~수주에 걸쳐 두통이 악화되는 경우(특히 고령자·항응고제 복용자)</mark> <mark style="background-color:yellow;">**(당일)**</mark>  `만성 경막하혈종`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -80,22 +84,27 @@
 * 의도하지 않은 체중 감소 동반
 * 성격 변화 또는 새로 발생한 인지기능 장애
 * 적절한 기존 치료에도 반응하지 않음
-* 최근 두부 외상 후 지속되거나 악화되는 두통
 
 ## <mark style="color:green;">진단</mark>
 
-* 활력징후(혈압 포함), 신경학적 검사, 시력 검사(funduscopy 포함)
+* 활력징후(혈압 포함), 신경학적 진찰, 시력 및 안저검사
 
-### <mark style="color:orange;">검사</mark>
+### <mark style="color:orange;">검사</mark> <a id="headache-testing"></a>
 
 * 경고 징후 또는 기질적 문제가 의심되는 경우 원인과 임상 상황에 따라 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV), lumbar puncture를 선택
-  * 벼락두통 : 우선 비조영 뇌 CT로 SAH를 평가. 발병 6시간 이내 신경학적 결손이 없는 환자에서 최신 장비로 시행한 고품질 비조영 CT를 경험 있는 영상의학과 전문의가 판독하여 음성이면 SAH 가능성이 매우 낮음. 발병 6시간을 초과했거나 새 신경학적 결손이 있는 환자에서는 CT가 음성이어도 LP(요추천자)로 추가 평가. 6시간 이내라도 CT의 질·판독 조건이 불충분하거나 임상적 의심이 지속되면 추가 평가. CTA는 임상 상황과 기관 프로토콜에 따라 선택할 수 있으나, 우연히 발견된 미파열 동맥류로 인한 혼동 가능성을 고려
-  * 가역성 뇌혈관수축증후군(RCVS) 의심(반복되는 벼락두통 등) : CTA 또는 MRA로 뇌혈관 평가; 초기 혈관영상이 정상일 수 있어 필요 시 추적 검사
+  * 벼락두통 등 SAH가 의심되는 급성 중증 두통 : 우선 비조영 뇌 CT로 평가 <mark style="color:$info;">\[Stroke 2023]</mark>
+    * <mark style="background-color:yellow;">발병 ＜6시간에 내원, 새로운 신경학적 결손 없음, 고품질 비조영 뇌 CT를 신경영상 전문의가 판독해 음성 → 동맥류성 SAH 가능성이 매우 낮음</mark>
+    * <mark style="background-color:yellow;">발병 ≥6시간에 내원했거나 새로운 신경학적 결손이 있음 → CT가 음성이어도 금기를 확인하여 LP(요추천자)로 추가 평가</mark>
+    * <mark style="background-color:yellow;">＜6시간이라도 CT의 질·판독 조건이 불충분하거나 임상적 의심이 지속되면 추가 평가</mark>
+    * <mark style="background-color:yellow;">CTA는 임상 상황과 기관 프로토콜에 따라 선택하되, 우연히 발견된 미파열 동맥류에 유의</mark>
+  * 가역성 뇌혈관수축증후군(RCVS) 의심(반복되는 벼락두통 등) : CTA 또는 MRA로 뇌혈관 평가; 초기 혈관영상이 정상일 수 있어 필요시 추적 검사
+  * 경동맥·척추동맥 박리 의심 : 부분 Horner 증후군이나 국소 신경학적 증상이 동반되면 경부 CTA 또는 MRI/MRA로 긴급 평가. 경미한 경부 외상·경부 수기 이후 새로 생기거나 악화되는 두통·경부통에서도 박리 가능성을 고려 <mark style="color:$info;">\[Stroke 2024]</mark>
   * 뇌정맥동혈전증(CVST) 의심(임신·산후, 혈전 위험, 유두부종/두개내압상승 등) : CTV 또는 MRV로 정맥동 평가
   * MRI는 종괴, 후두와 병변, 뇌하수체 병변, 뇌막/염증성 병변 등 구조적 원인 평가에 유용
-  * 거대세포동맥염(GCA) 의심 : ESR/CRP와 CBC(혈소판 포함)를 측정하고 신속히 전문 진료 의뢰. 시각 증상이 있거나 임상적 의심이 높으면 확진검사를 기다리며 glucocorticoid 치료를 지연하지 않음
+  * 거대세포동맥염(GCA) 의심 : ESR/CRP와 CBC(혈소판 포함)를 측정하고 신속히 전문 진료 의뢰. 시각 증상이 있거나 임상적 의심이 높으면 <mark style="background-color:yellow;">확진검사 결과를 기다리느라 스테로이드 치료를 지연하지 않음</mark>
 * 긴장형두통, 편두통, 군발두통, 또는 약물과용두통으로 이미 진단된 환자에서 단순히 안심시킬 목적의 뇌영상 검사는 권고하지 않음 <mark style="color:$info;">\[한국정신신체의학회 2019; NICE CG150]</mark>
-* 신경학적 검사에서 이상이 없는 새로이 진단된 편두통이나 긴장형두통 환자, 또는 만성적으로 안정된 두통 환자에 대한 영상 검사는 적절하지 않음 <mark style="color:$info;">\[ACR AC 2022]</mark>
+* 경고 징후가 없고 신경학적 검사가 정상인 전형적 편두통·긴장형두통에서는 뇌영상 검사를 일상적으로 시행하지 않음. 경고 징후 없이 안정된 만성 두통에도 같은 원칙을 적용 <mark style="color:$info;">\[ACR AC 2022; Public Health Wkly Rep 2025]</mark>
+* 첫 군발기에는 2차 원인을 확인하기 위한 뇌 MRI 필요성을 신경과와 상의 <mark style="color:$info;">\[NICE CG150; ACR AC 2022]</mark>
 
 ### <mark style="color:orange;">환자 자가 평가</mark>
 
@@ -103,17 +112,17 @@
 
 <mark style="color:cyan;">**두통 일기**</mark>
 
-* 다음 사항을 (8주간) 기록 (매일 취침 전); '대한두통학회 두통일기' 모바일 앱 활용
+* 다음 사항을 최소 8주간 기록(매일 취침 전). 대한두통학회 두통일기 모바일 앱 활용
   1. 두통의 빈도, 지속 시간 및 강도
   2. 연관되어 나타나는 증상들
-  3. 두통 완화를 위해 복용한 모든 약물
+  3. 두통 완화를 위해 복용한 모든 약물(처방약·일반의약품 포함)
   4. 가능한 유발 요인들
   5. 두통과 월경의 연관성
 
 <mark style="color:cyan;">**HIT-6 (Headache Impact Test, 두통 영향 평가)**</mark>
 
 * 통증, 사회 기능, 역할 기능, 인지 기능, 심리적 고통, 활력도를 평가하는 6가지 문항 (☞ [한국어판 HIT-6 연구](https://www.jkna.org/upload/pdf/200901001.pdf))
-* 각 답변에 따라 점수를 배정하여 합산(최저 36점\~최고 78점)
+* 응답(한 번도 없음·드물게·때때로·매우 자주·항상)에 각각 6·8·10·11·13점을 배정하여 합산(최저 36점\~최고 78점)
   * 36\~49점 : 영향이 없거나 경미
   * 50\~55점 : 중등도 영향
   * 56\~59점 : 상당한 영향
@@ -122,85 +131,89 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th>두통 특성</th><th>우선 고려 진단</th></tr></thead><tbody><tr><td>양측·압박감, 경증~중등도, 구역·구토 없음</td><td>긴장형두통</td></tr><tr><td>편측 또는 양측·박동성, 구역/빛·소리공포, 4~72시간</td><td>편두통</td></tr><tr><td>≥15일/월, ＞3개월 지속</td><td>만성 두통 - 만성편두통·만성긴장형두통·MOH 감별</td></tr><tr><td>편측·극심, 눈 주변, 눈물/콧물, 15~180분</td><td>군발두통</td></tr><tr><td>단측, 경부 움직임으로 유발, ROM 감소</td><td>경추성두통</td></tr><tr><td>갑작스럽게 시작하여 1분 미만에 최고조</td><td>벼락두통 → SAH/RCVS 등 즉각 응급 평가</td></tr><tr><td>발열과 경부 강직·의식 변화·점상 또는 자반성 발진 등</td><td>수막염·뇌염 → 즉각 응급</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>두통 특성</th><th>우선 고려 진단</th></tr></thead><tbody><tr><td><strong>양측·압박감, 경증~중등도, 구역·구토 없음(삽화형)</strong></td><td>긴장형두통</td></tr><tr><td><strong>편측 또는 양측·박동성, 구역·구토 또는 빛공포와 소리공포, 4~72시간</strong></td><td>편두통</td></tr><tr><td><strong>≥15일/월, ＞3개월 지속</strong></td><td>만성 두통 - 만성편두통·만성긴장형두통·MOH 감별</td></tr><tr><td><strong>편측·극심, 눈 주변, 동측 자율신경 증상 또는 안절부절못함·초조, 15~180분</strong></td><td>군발두통</td></tr><tr><td><strong>편측, 경부 움직임으로 유발, ROM 감소</strong></td><td>경추성두통</td></tr><tr><td><strong>갑작스럽게 시작하여 수 분 내 최고조에 이르는 새로운 중증 두통</strong></td><td><mark style="background-color:yellow;">SAH·RCVS 등 → 즉각 응급 평가</mark></td></tr><tr><td><strong>발열과 경부 강직·의식 변화·점상 또는 자반성 발진 등</strong></td><td><mark style="background-color:yellow;">수막염·뇌염 → 즉각 응급 평가</mark></td></tr></tbody></table>
 
-<table><thead><tr><th width="105">두통 특성</th><th>긴장형두통</th><th>편두통</th><th>군발두통</th></tr></thead><tbody><tr><td><strong>통증 부위</strong>¹⁾</td><td>양측</td><td>편측 또는 양측</td><td>엄격한 편측 안와·안와상부 및/또는 측두부</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감/조임(비박동성)</td><td>박동성</td><td>극심한 piercing/burning; 초조(agitation) 동반</td></tr><tr><td><strong>통증 세기</strong></td><td>경증~중등증</td><td>중등증 이상</td><td>중증 이상</td></tr><tr><td><strong>생활에 미치는 영향</strong></td><td>일상 신체 활동에 의해 악화되지 않음</td><td>일상 신체 활동에 의하여 악화되거나 활동을 회피하게 됨</td><td>초조 또는 동요</td></tr><tr><td><strong>기타 증상</strong></td><td>구역·구토 없음; photophobia 또는 phonophobia 중 하나는 동반 가능</td><td>빛 &#x26;/or 소리에 대한 과민, 구역 &#x26;/or 구토, 조짐(aura)²⁾: 완전히 가역적인 시각·감각·언어 등의 증상으로, 대개 점진적으로 발생하며 각 비운동 조짐 증상은 보통 5~60분 지속</td><td>두통이 발생한 쪽에서 •결막충혈 &#x26;/or 눈물 •코막힘 &#x26;/or 콧물 •눈꺼풀부종 •이마와 얼굴의 땀 •동공수축 &#x26;/or 눈꺼풀 처짐</td></tr><tr><td><strong>두통 지속 시간</strong></td><td>30분~7일</td><td>4~72시간</td><td>치료하지 않았을 때 15~180분</td></tr></tbody></table>
+<table><thead><tr><th width="105">두통 특성</th><th>긴장형두통</th><th>편두통</th><th>군발두통</th></tr></thead><tbody><tr><td><strong>통증 부위</strong>¹⁾</td><td>양측</td><td>편측 또는 양측</td><td>엄격한 편측 안와·안와상부 및/또는 측두부</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감/조임(비박동성)</td><td>박동성</td><td>찌르거나 타는 듯한 통증</td></tr><tr><td><strong>통증 세기</strong></td><td>경증~중등증</td><td>중등증 이상</td><td>중증 이상</td></tr><tr><td><strong>생활에 미치는 영향</strong></td><td>일상 신체 활동에 의해 악화되지 않음</td><td>일상 신체 활동에 의하여 악화되거나 활동을 회피하게 됨</td><td>초조 또는 동요</td></tr><tr><td><strong>기타 증상</strong></td><td>삽화형은 구역·구토 없음. 빛공포 또는 소리공포 중 하나는 동반 가능. 만성형은 빛공포·소리공포·경한 구역 중 최대 하나를 동반할 수 있으며, 중등도 이상의 구역이나 구토는 없음</td><td>구역 &#x26;/or 구토, 또는 빛공포와 소리공포 모두. 조짐(aura)²⁾: 완전히 가역적인 시각·감각·언어 등의 증상으로, 대개 점진적으로 발생하며 각 비운동 조짐 증상은 보통 5~60분 지속</td><td>동측 자율신경 증상 &#x26;/or 안절부절못함·초조. 자율신경 증상에는 •결막충혈 &#x26;/or 눈물 •코막힘 &#x26;/or 콧물 •눈꺼풀부종 •이마와 얼굴의 땀 •동공수축 &#x26;/or 눈꺼풀 처짐</td></tr><tr><td><strong>두통 지속 시간</strong></td><td>30분~7일(삽화형). 만성형은 수시간~수일 또는 지속적</td><td>4~72시간(치료하지 않았거나 치료 실패 시, 18세 미만 2~72시간)</td><td>치료하지 않았을 때 15~180분</td></tr></tbody></table>
 
 **두통 또는 발작 빈도**
 
-* 긴장형 두통 : 삽화긴장형 두통 - ＜15일/월
-  * 만성긴장형 두통<sup>3)</sup> - ≥15일/월, ＞3개월
-* 편두통 : 삽화편두통 (조짐or무조짐) - ＜15일/월
-  * 만성편두통 : ≥15일/월 & ＞3개월 지속, 그중 ≥8일/월은 편두통 특징을 충족
-* 군발두통 : 삽화군발두통 - 1번/2일\~8번/일<sup>4)</sup>, 군발기 사이 관해기<sup>5)</sup> ≥3개월; 만성군발두통 - 1년 이상 지속하면서 관해기가 없거나 각 관해기가 ＜3개월
+* 긴장형두통 : 삽화긴장형두통 - ＜15일/월
+  * 만성긴장형두통<sup>3)</sup> - ≥15일/월, ＞3개월
+* 편두통 : 삽화편두통(조짐 또는 무조짐) - ＜15일/월
+  * 만성편두통<sup>3)</sup> : 두통 ≥15일/월이 ＞3개월 지속되고, 그중 ≥8일/월은 편두통 기준에 해당
+* 군발두통 : 군발기 중 발작 빈도 2일에 1회\~1일 8회<sup>4)</sup>
+  * <mark style="background-color:yellow;">삽화군발두통 - 치료하지 않았을 때 7일\~1년 지속되는 군발기가 ≥2회, 군발기 사이 관해기</mark><sup>5)</sup><mark style="background-color:yellow;"> ≥3개월</mark>
+  * <mark style="background-color:yellow;">만성군발두통 - 관해기 없이 ≥1년 발작이 반복되거나 관해기가 ＜3개월</mark>
 
 > ¹⁾_머리, 얼굴, 또는 목에서도 두통을 느낄 수 있음._\
-> ²⁾_조짐편두통은 ICHD-3의 6가지 시간적·임상적 특성 중 3가지 이상을 충족해야 하며, 여러 증상이 연속되면 총 지속시간은 60분을 넘을 수 있고 운동 증상은 최대 72시간 지속될 수 있음._ [_편두통_](016_-migraine.md) _참조_\
-> ³⁾_만성 두통에서는 편두통 특징이 나타나는 날의 빈도와 양상을 확인하여 '만성편두통'과 '만성긴장형두통'을 구분하고, 약물과용 여부도 함께 평가._ [_만성 두통_](018_-chronic-headache.md) _및 편두통 참조_\
-> ⁴⁾_1회의 군발기(삽화성 군발두통이 일어나 지속되는 기간) 중 재발성 두통의 빈도_\
+> ²⁾_조짐편두통은 ICHD-3의 6가지 시간적·임상적 특성 중 3가지 이상을 충족해야 하며, 여러 증상이 연속되면 총 지속시간은 60분을 넘을 수 있고 운동 조짐은 대개 72시간 이내에 소실됨._ [_편두통_](016_-migraine.md) _참조_\
+> ³⁾_만성 두통에서는 월 편두통일수와 약물과용을 함께 평가. 만성편두통의 월 ≥8일에는 무조짐편두통의 통증·동반 증상 기준이나 조짐 기준을 충족하는 날, 또는 두통 시작 시 환자가 편두통으로 판단했고 트립탄이나 맥각유도체로 완화된 날을 포함. 만성편두통과 MOH의 진단기준을 모두 충족하면 두 진단을 함께 기록._ [_만성 두통_](018_-chronic-headache.md) _및 편두통 참조_\
+> ⁴⁾_삽화형과 만성형에 공통 적용하는 군발기 중 발작 빈도_\
 > ⁵⁾_군발기들 사이의 무통증 기간_
 
 ***
 
-* 급성 녹내장 : 눈의 통증, 시야 혼탁, 구역/구토, 빛 주위 halo; 안과 응급
+* <mark style="background-color:yellow;">급성 폐쇄각녹내장</mark> : 눈의 통증, 시야 혼탁, 구역/구토, 빛 주위 halo; 안과 응급
 * 지주막하출혈 : 폭발적인 심한 두통(벼락두통); 수 분에 걸쳐 최고조에 이른 급성 중증 두통도 평가 대상
 
 {% hint style="info" %}
-**Ottawa SAH Clinical Decision Rule** : SAH 추가 검사 필요성을 판단하는 선별 도구 (검증 연구에서 민감도 100%, 특이도 약 14~16%; 모든 임상 상황에서 완전한 배제를 보장하지 않음)
+**Ottawa SAH Clinical Decision Rule** : SAH 추가 검사 필요성을 판단하는 선별 도구(검증 연구에서 민감도 100%, 특이도 13.6%) <mark style="color:$info;">\[CMAJ 2017]</mark>
 
 * 적용 대상 : ≥16세, 의식 명료(GCS 15) 및 신경학적 결손 없음, 새로운 중증 비외상성 두통, 발생 1시간 이내에 최대 강도 도달, 발병 14일 이내 내원
-* 적용 제외 : 새로운 신경학적 결손·유두부종, 이전 동맥류·SAH·뇌종양·수두증 또는 뇌실 단락술 병력, 최근 7일 내 직접 두부 외상, 만성 반복성 두통(＞6개월 동안 동일한 성격과 강도의 두통이 3회 이상)
-* Rule : 적용 대상에 해당되면서 다음 중 하나라도 있으면 SAH를 배제할 수 없는 고위험군 → 즉시 비조영 뇌 CT로 평가 : ① ≥40세, ② 경부 통증 또는 뻣뻣함, ③ 관찰된 의식 소실, ④ 신체 활동 중 발생, ⑤ 벼락두통, ⑥ 신체검사상 목 굴절 제한
-* CT 음성 후 추가 검사는 발병 시점·CT 질·임상 의심도에 따라 결정하며, 발병 6시간을 초과했거나 새 신경학적 결손이 있으면 CT 음성 후 LP로 추가 평가하고, 그 외에도 의심이 지속되면 추가 검사. CTA는 임상 상황과 기관 프로토콜에 따라 선택하되 우연히 발견된 미파열 동맥류로 인한 혼동 가능성에 유의&#x20;
+* 적용 제외 : 새로운 신경학적 결손·유두부종, 이전 동맥류·SAH·뇌종양·수두증 또는 뇌실 단락술 병력, 최근 7일 내 직접 두부 외상, 만성 반복성 두통(＞6개월 동안 동일한 성격과 강도의 두통이 3회 이상), 같은 두통으로 이미 CT와 LP를 모두 시행받고 재내원한 경우
+* Rule : 적용 대상 중 다음 하나라도 있으면 SAH 추가 검사(비조영 뇌 CT부터)가 필요 : ① ≥40세, ② 경부 통증 또는 뻣뻣함, ③ 관찰된 의식 소실, ④ 신체 활동 중 발생, ⑤ 벼락두통(즉시 최고 강도에 도달), ⑥ 신체검사상 목 굴곡 제한
+* CT 음성 후 추가 검사는 [검사](#headache-testing) 항목의 SAH 의심 급성 중증 두통 기준을 따름
 {% endhint %}
 
 * 급·만성 경막하혈종 : 외상 경력; 의식 변화, 신경학적 장애
-* Encephalitis : 신경학적 이상, 혼동, 의식 변화
-* Meningitis : 발열, 경부 강직, 뇌막 자극 증상
-* Intracranial neoplasm : 점진적 악화, 새로운 신경학적 이상, 인지·성격 변화, 경련, 유두부종; 기상 시 또는 누운 자세에서 두드러질 수 있으나 비특이적
-* Temporal arteritis(거대세포동맥염) : ≥50세, 두피 or 측두동맥 압통, 턱 파행(jaw claudication; 씹을 때 턱 통증), 시각 변화; 일시적 시력 상실(amaurosis fugax) 여부를 반드시 확인 - 치료 지연 시 영구 실명 위험
-* Temporomandibular joint disorder : TMJ 통증 및 압통; 저작 시 악화
-* Trigeminal neuralgia : 삼차신경 분포에서 수초\~2분간 지속되는 전기충격 같은 발작성 통증; 세수·말하기·씹기·가벼운 접촉 등 무해한 자극으로 유발
-* 고혈압 응급(hypertensive emergency) : SBP ≥180 ㎜Hg or DBP ≥120 ㎜Hg에 end-organ damage(뇌병증, 망막병증, 신부전, 심부전 등) 동반 시 두통 발생 가능; 단순 수치만으로 두통 원인을 단정하지 않도록 주의
+* <mark style="background-color:yellow;">뇌염(Encephalitis)</mark> : 신경학적 이상, 혼동, 의식 변화
+* <mark style="background-color:yellow;">수막염(Meningitis)</mark> : 발열, 경부 강직, 뇌막 자극 증상
+* <mark style="background-color:yellow;">두개내 종양(Intracranial neoplasm)</mark> : 점진적 악화, 새로운 신경학적 이상, 인지·성격 변화, 경련, 유두부종; 기상 시 또는 누운 자세에서 두드러질 수 있으나 비특이적
+* <mark style="background-color:yellow;">거대세포동맥염(측두동맥염)</mark> : ≥50세, 두피 <mark style="background-color:yellow;">또는</mark> 측두동맥 압통, 턱 파행(jaw claudication; 씹을 때 턱 통증), 시각 변화; 일시적 시력 상실(amaurosis fugax) 여부를 반드시 확인 - 치료 지연 시 영구 실명 위험
+* <mark style="background-color:yellow;">측두하악관절(TMJ) 장애</mark> : TMJ 통증 및 압통; 저작 시 악화
+* <mark style="background-color:yellow;">삼차신경통(Trigeminal neuralgia)</mark> : 삼차신경 분포에서 수초\~2분간 지속되는 전기충격 같은 발작성 통증; 세수·말하기·씹기·가벼운 접촉 등 무해한 자극으로 유발
+* 고혈압 응급(hypertensive emergency) : 심한 혈압 상승(수축기혈압 ＞180 ㎜Hg 또는 이완기혈압 ＞120 ㎜Hg)에 급성 표적장기 손상(고혈압성 뇌병증, 급성 신손상, 급성 심부전·폐부종 등)이 동반된 경우. 혈압 수치만으로 두통의 원인을 단정하지 않음 <mark style="color:$info;">\[AHA/ACC 2025]</mark>
 * 일산화탄소 중독 : 난방기 사용 또는 밀폐 공간 노출, 동거인·동일 공간 인원의 동시 두통·오심·어지럼, 실외에서 호전되는 양상 확인; 일반 맥박산소측정기는 CO 중독 배제에 부적합
 * [경추성두통](019_-cervicogenic-headache.md)(Cervicogenic headache) : 주로 후두부, 때로 vertex 두통; 목의 움직임으로 악화; cervical spondylosis·관절 병변·근육 병변 등이 원인
 * 부비동염 : 화농성 비루·코막힘·후각저하·안면 압박감과 객관적 비부비동염 소견 및 두통의 시간적 연관성을 확인
-* 유두부종(Papilledema) : funduscopy에서 시신경 유두 경계 불명확·융기 확인 시 뇌압 상승 시사
+* 유두부종(Papilledema) : <mark style="background-color:yellow;">안저검사</mark>에서 시신경 유두 경계 불명확·융기 확인 시 뇌압 상승 시사
   * 특발성 두개내 고혈압(IIH), 두개내 종양, 수두증, 뇌정맥동혈전증 감별 → 긴급 뇌영상검사(MRV 또는 CTV 포함)로 종괴·수두증·뇌정맥동혈전증을 배제하고, 금기가 없고 IIH가 의심되면 LP로 개방압과 뇌척수액 성상 확인
 
 #### <mark style="color:$primary;">두통의 2차 원인 감별을 위한 SNNOOP10 계열 Red Flags</mark> <a id="snnoop10"></a>
 
-<table data-search="false"><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td>S</td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td>N1</td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td>N2</td><td>Neurologic deficit/dysfunction</td><td>의식 저하를 포함한 국소 신경학적 이상</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td>O1</td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, pituitary apoplexy</td></tr><tr><td>O2</td><td>Older age</td><td>고령에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td>P1</td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td>P2</td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td>P3</td><td>Precipitated by sneezing, coughing, or exercise</td><td>기침, 재채기, 운동으로 유발</td><td>두개내/후두와 종괴, Chiari malformation</td></tr><tr><td>P4</td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td>IIH, 두개내 종양, 수두증</td></tr><tr><td>P5</td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td>P6</td><td>Pregnancy/postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, pituitary 병변</td></tr><tr><td>P7</td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장, 삼차자율신경두통(TACs)</td></tr><tr><td>P8</td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하혈종, 경막외혈종, 외상후두통</td></tr><tr><td>P9</td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td>P10</td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td><strong>S</strong></td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td><strong>N1</strong></td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td><strong>N2</strong></td><td>Neurologic deficit/dysfunction</td><td>국소 신경학적 이상 또는 의식 저하</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td><strong>O1</strong></td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, 뇌하수체졸중</td></tr><tr><td><strong>O2</strong></td><td>Older age</td><td>고령에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td><strong>P1</strong></td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td><strong>P2</strong></td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td><strong>P3</strong></td><td>Precipitated by sneezing, coughing, or exercise</td><td>기침, 재채기, 운동으로 유발</td><td>두개내/후두와 종괴, Chiari malformation</td></tr><tr><td><strong>P4</strong></td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td>IIH, 두개내 종양, 수두증</td></tr><tr><td><strong>P5</strong></td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td><strong>P6</strong></td><td>Pregnancy/postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, <mark style="background-color:yellow;">뇌하수체 병변</mark></td></tr><tr><td><strong>P7</strong></td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장 등 안과 질환, 해면정맥동·뇌하수체 주변·후두와 병변, <mark style="background-color:yellow;">Tolosa-Hunt</mark> 증후군</td></tr><tr><td><strong>P8</strong></td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하혈종, 경막외혈종, 외상후두통</td></tr><tr><td><strong>P9</strong></td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td><strong>P10</strong></td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
+
+<mark style="background-color:yellow;">P7 소견은 1차성 삼차자율신경두통(TACs)에서도 나타나므로, TACs로 판단하기 전에 표의 2차 원인을 먼저 감별.</mark>
 
 > _<mark style="color:$info;">RCVS=reversible cerebral vasoconstriction syndrome; CVST=cerebral venous sinus thrombosis; IIH=idiopathic intracranial hypertension; MOH=medication overuse headache; TACs=trigeminal autonomic cephalalgias</mark>_
 >
-> _<mark style="color:$info;">✽SNNOOP10 원저 \[Neurology 2019]는 '고령'의 기준을 65세 초과로 제시하나, 거대세포동맥염의 분류기준은 진단 시 ≥50세이므로 상단 Red Flags에 따라 ≥50세 신규 두통도 주의 깊게 평가할 것을 권고</mark>_
+> _<mark style="color:$info;">✽SNNOOP10 원저 \[Neurology 2019]의 고령 신규 두통 기준은 표 1에서 50세 초과, 본문에서 65세 초과로 제시됨. 이 장에서는 거대세포동맥염을 고려하여 ≥50세에서 새로 발생한 두통도 평가함</mark>_
 
-**RCVS(가역적 뇌혈관수축증후군) 주의**
+**RCVS(가역성 뇌혈관수축증후군) 주의**
 
 * 벼락두통이 수일\~수주에 걸쳐 반복되는 경우 RCVS를 적극 고려
 * SAH와 임상 양상이 유사하며, 초기 CT·요추천자가 음성인 경우가 많으나 일부에서는 convexity SAH가 동반될 수 있어 음성 결과만으로 배제하지 않도록 주의
 * 반복적 벼락두통이 있으면 MRA 또는 CTA로 뇌혈관 수축 패턴을 확인하고, 초기 정상이더라도 추적 검사가 필요
-* 출산 후, 세로토닌 작용제(트립탄·SSRI), 코카인 또는 교감신경작용성 비충혈제거제(예: pseudoephedrine) 등은 연관된 유발 요인으로 보고
+* 출산 후, 세로토닌성 약물(트립탄·SSRI·SNRI), 코카인 또는 교감신경작용성 비충혈제거제(예: pseudoephedrine) 등은 연관된 유발 요인으로 보고
 * RCVS가 의심되면 해당 약물을 중단·회피
 
 ***
 
 ```mermaid
 flowchart TD
-    A["두통 환자: 병력·활력징후·신경학적 검사·안저검사"] --> B{"즉각 조치 위험 징후?"}
+    A["두통 환자: 병력·활력징후·신경학적 진찰·시력·안저검사"] --> B["즉각 조치 위험 징후?"]
     B -- "예" --> C["즉시 응급 평가·원인별 검사와 치료"]
-    B -- "아니요" --> D{"당일~수일 내 평가 또는 조기 평가 징후?"}
+    B -- "아니요" --> D["당일~수일 내 평가 또는 조기 평가 징후?"]
     D -- "예" --> E["위험도에 맞춰 검사·전문 진료"]
     D -- "아니요" --> F["두통 양상·빈도·급성기 약물 사용일수 확인"]
-    E --> G{"이차성 원인이 배제되었는가?"}
+    E --> G["2차 두통 원인이 배제되었는가?"]
     G -- "아니요" --> H["원인별 평가·치료 지속"]
     G -- "예" --> F
     F --> I["편두통·긴장형두통·군발두통 등 분류"]
     I --> J["급성기 치료·예방치료 검토·약물과용 평가"]
-    J --> K["두통 일기로 추적; 양상 변화 시 재평가"]
-    classDef start fill:#eee,stroke:#888,stroke-width:2px;
-    classDef decision fill:#fff3cd,stroke:#d6a400;
+    J --> K["두통 일기로 추적<br/>양상 변화 시 재평가"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef decision fill:#fff9c4,stroke:#ffe082;
     classDef emergency fill:#f8d7da,stroke:#dc3545;
     classDef care fill:#d9eaff,stroke:#3973ac;
     class A start;
@@ -209,7 +222,7 @@ flowchart TD
     class E,F,H,I,J,K care;
 ```
 
-저자 재구성(참고 문헌: ICHD-3; NICE CG150; AHA/ASA 2023; SNNOOP10 2019).
+<p align="center"><strong>두통 환자의 초기 평가 및 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; NICE CG150; Hoh BL, et al. Stroke 2023; Do TP, et al. Neurology 2019)</mark></em></p>
 
 ***
 
@@ -217,28 +230,38 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
-* 이 챕터는 두통의 초기 분류와 이차성 원인 배제를 중심으로 하며, 일차성 두통의 상세 약물 선택은 각 질환별 챕터를 참조
+* 이 챕터는 두통의 초기 분류와 2차 두통 가능성 평가를 중심으로 하며, 1차성 두통의 상세 약물 선택은 각 질환별 챕터를 참조
   * [편두통](016_-migraine.md)
   * [긴장형두통](017_-tension-type-headache.md)
   * [만성 두통 및 약물과용두통](018_-chronic-headache.md)
   * [경추성두통](019_-cervicogenic-headache.md)
 * 급성기 치료는 가능한 한 두통 초기에 시행하고, 반복적 진통제 사용 시 약물과용두통(MOH) 위험을 항상 확인
 * MOH 진단의 핵심 : 기존 두통 환자에서 두통이 ≥15일/월이고, 급성기/증상완화 약물의 규정된 과용이 ＞3개월 지속
-  * 단순 진통제·NSAIDs 등 non-opioid analgesic : ≥15일/월. Acetaminophen·aspirin·NSAID는 한 약물군으로 합산
-  * triptan·ergotamine·opioid·복합진통제 또는 서로 다른 급성기 약물군의 합산 과용 : ≥10일/월. 같은 날 여러 약을 복용했으면 전체 사용일수에서는 1일로 계산
-* 환자 교육 시에는 경계값을 넘지 않도록 단순 진통제·NSAIDs는 월 15일 미만, triptan·복합진통제는 월 10일 미만으로 사용하도록 설명
+  * 단순 진통제·NSAIDs 등 non-opioid analgesic : ≥15일/월. <mark style="background-color:yellow;">acetaminophen</mark>·aspirin·NSAID는 한 약물군으로 합산
+  * triptan·ergotamine·opioid·복합진통제는 각각 ≥10일/월. 서로 다른 계열의 급성기 약물은 각 약물군의 개별 과용 기준에 미달하더라도 합산 ≥10일/월이면 과용에 해당. 같은 날 여러 약을 복용했으면 전체 사용일수는 1일로 계산
+* <mark style="background-color:yellow;">환자 교육 시 사용일수 상한</mark>
+  * <mark style="background-color:yellow;">단순 진통제·NSAIDs만 복용 : 합산 월 15일 미만</mark>
+  * <mark style="background-color:yellow;">triptan·복합진통제 또는 여러 계열의 급성기 약물 사용 : 합산 월 10일 미만</mark>
 
 ### <mark style="color:orange;">군발두통 치료 요약</mark> <a id="cluster-treatment"></a>
 
 * 군발두통은 통증이 매우 심하고 발작 빈도가 높아 진단 시 신경과/두통 전문진료를 고려
-* 급성 발작 : 100% 산소(저장백이 달린 비재호흡 마스크, ≥12 L/min, 15~20분) 또는 sumatriptan 6 ㎎ SC 중 하나를 1차 치료로 선택. 피하주사 제형의 실제 공급 여부는 처방 전 확인
-* 예방 : verapamil [일성이솦틴](https://www.health.kr/drug/A11A1130B0002)이 대표적 1차 예방약(국내 허가 외 사용; 급여 여부 별도 확인); 시작 전 및 증량 과정의 심전도 모니터링과 단계적 증량이 필요하므로 전문진료 권장
-* verapamil 효과가 나타나기 전(대개 2~3주)에는 대후두신경 스테로이드 차단술(GON block) 또는 단기 경구 스테로이드(prednisolone 등)를 이행기 치료로 병행할 수 있음
-* 세부 치료는 환자 특성·금기·국내 허가/급여를 확인하여 결정
+* 급성 발작 : <mark style="background-color:yellow;">다음 중 하나를 1차 치료로 선택</mark> <mark style="color:$info;">\[Eur J Neurol 2023; Headache Pain Res 2026]</mark>
+  * 100% 산소(저장백이 달린 비재호흡 마스크, ≥12 L/min, 15\~20분)
+  * sumatriptan 6 ㎎ SC(국내 유통 확인 안 됨)
+  * <mark style="background-color:yellow;">대한두통학회는 비강분무 트립탄(zolmitriptan·sumatriptan)과 경구 zolmitriptan도 권고하나, 피하·비강 트립탄은 이용이 제한됨</mark>
+  * <mark style="background-color:yellow;">피하·비강 제형을 쓸 수 없으면 경구 zolmitriptan</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">조믹</mark>](https://www.health.kr/drug/A11AMMMMM2196)<mark style="color:blue;">]</mark> 2.5 ㎎<mark style="background-color:yellow;">을 고려할 수 있음(군발두통에는 허가 외 사용)</mark>
+* 예방 : verapamil <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이솦틴</mark>](https://www.health.kr/drug/A11A1130B0002)<mark style="color:blue;">]</mark>이 대표적 1차 예방약 <mark style="color:$info;">\[Eur J Neurol 2023; Headache Pain Res 2026]</mark>
+  * <mark style="background-color:yellow;">허가 외 사용이며, 군발두통 예방의 급여 여부는 별도 확인</mark>
+  * <mark style="background-color:yellow;">시작 전·매 증량 후·유지 용량 도달 후 정기적으로 심전도 추적이 필요하므로 전문진료 권장</mark>
+* verapamil 효과가 나타나기 전(대개 2\~3주)에는 대후두신경 스테로이드 차단술(GON block) 또는 단기 경구 스테로이드(prednisolone 등)를 이행기 치료로 병행할 수 있음
+* <mark style="background-color:yellow;">삽화군발두통 예방 : 전문진료에서 galcanezumab을 고려할 수 있음(강한 권고, 중간 근거수준)</mark> <mark style="color:$info;">\[Headache Pain Res 2026]</mark>
+  * <mark style="background-color:yellow;">군발두통 적응증이 있던 100 ㎎/㎖ 제형은 허가 취하되었고, 120 ㎎/㎖ 제형의 허가 적응증은 편두통 예방임</mark> <mark style="color:$info;">\[의약품안전나라]</mark>
+* 세부 치료는 환자 특성·금기·허가·급여를 고려하여 결정
 
 ### <mark style="color:orange;">예방치료 적응증</mark>
 
-* 주로 편두통에서 다음과 같은 경우 예방치료를 고려하며, 단일 수치보다 두통 빈도·기능장애·급성기 치료 반응·환자 선호를 종합한다.
+* 주로 편두통에서 다음과 같은 경우 예방치료를 고려하며, 단일 수치보다 두통 빈도·기능장애·급성기 치료 반응·환자 선호를 <mark style="background-color:yellow;">종합</mark>
   * 빈번한 두통(예: 편두통 ≥4일/월)
   * 두통으로 인한 기능 장애가 중등도 이상이거나 일상생활이 현저히 제한됨
   * 급성기 치료 반응이 불충분하거나 금기/부작용이 있음
@@ -264,22 +287,22 @@ flowchart TD
 > 발작 시작 시 15~20분간 흡입
 > ```
 >
-> _✽산소 요법은 부작용이 적은 군발두통 급성기 1차 치료임. 산소 사용 중 흡연·화기 접근을 금지. 일반 저유량 비강 캐뉼라는 이 요법을 대체하지 못함_
+> _✽산소 요법은 부작용이 적은 군발두통 급성기 1차 치료임. 산소 사용 중 흡연·화기 접근을 금지. 일반 저유량 비강 캐뉼라는 이 요법을 대체하지 못함. 군발두통만으로는 가정용 산소치료 기기 대여 요양비가 적용되지 않음(2026년 11월 확인)_
 
 > **처방례 2. 군발두통 예방**
 >
 > ```
-> 일성이솦틴정80㎎  1회 1T  1일 3회로 시작
-> ※ 저혈압·서맥 위험 등에 따라 더 낮은 시작 용량을 선택
+> 일성이솦틴정 80 ㎎  1회 1T  1일 3회로 시작
+> ※ 수축기혈압 ＜90 ㎜Hg이면 투여하지 않으며, 서맥·전도 이상 위험은 시작 전 평가. 고령 등에서는 더 낮은 시작 용량 고려
 > ※ 반응·내약성에 따라 보수적 증량 예로 2주 간격으로 1일 총량을 80 ㎎씩 증량
 > ※ 유지 용량 예: 240~480 ㎎/일, 분할 투여
-> ※ 투여 시작 전 및 증량 과정마다 심전도 확인(PR 간격 연장·방실차단 여부)
-> ※ 고용량이 필요한 경우가 흔하므로 신경과/두통클리닉 협진 하에 증량 권장
+> ※ 투여 시작 전, 매 증량 후, 유지 용량 도달 후 정기적으로 심전도 확인(PR 간격 연장·방실차단 여부)
+> ※ 고용량이 필요한 경우 신경과·두통클리닉 전문의와 협진하여 증량
 > ```
 >
-> 약제 정보: [일성이솦틴정·80 ㎎](https://www.health.kr/drug/A11A1130B0002)
+> 약제 정보: [<mark style="background-color:yellow;">일성이솦틴정 80 ㎎</mark>](https://www.health.kr/drug/A11A1130B0002)
 >
-> _✽verapamil의 군발두통 예방은 국내 허가 외 사용이며 급여 여부를 별도 확인. 중증 심부전, 유의한 저혈압, 동기능부전 또는 2·3도 방실차단(인공심박동기 없는 경우) 등 금기를 확인. β차단제 등 심박수·전도에 영향을 주는 병용약을 검토하고, 임의 증량·중단하지 않도록 교육_
+> _✽verapamil의 군발두통 예방은 허가 외 사용이며 급여 여부를 별도 확인. 중증 울혈성 심부전, 저혈압, 동기능부전·동방차단·2·3도 방실차단(인공심박동기 없는 경우), 부전도로를 동반한 심방세동·심방조동(예: WPW), ivabradine 병용 등 금기를 확인. β차단제 등 심박수·전도에 영향을 주는 병용약을 검토하고, 임의 증량·중단하지 않도록 교육_
 
 ***
 
@@ -288,7 +311,7 @@ flowchart TD
 > **급성기 진통제 사용 원칙**
 >
 > * 두통 초기에 복용해야 효과적이며, 두통이 심해진 후에는 효과가 떨어질 수 있음을 설명
-> * 단순 진통제·NSAIDs는 월 15일 미만, triptan·복합진통제는 월 10일 미만으로 제한하도록 교육
+> * 단순 진통제·NSAIDs만 복용하면 합산 월 15일 미만, triptan·복합진통제 또는 여러 계열의 급성기 약물을 사용하는 경우 합산 월 10일 미만으로 교육
 > * 급성기 약물이 주 2일을 넘겨 반복적으로 필요하면 예방치료 필요성을 검토
 > * 진통제 사용일수가 늘거나 두통이 ≥15일/월로 증가하면 약물과용두통(MOH) 여부를 반드시 재평가
 
@@ -296,14 +319,15 @@ flowchart TD
 >
 > * 편두통 예방약은 즉효성 약물이 아니므로 충분한 용량으로 2\~3개월 이상 복용한 후 효과를 판단하도록 설명
 > * 효과가 있다고 느껴도 임의로 중단하지 않도록 안내
-> * verapamil은 시작 전 및 증량 과정의 심전도 검사 일정을 안내. 실신·심한 어지럼·현저한 서맥이 생기면 즉시 평가; 변비·발목부종도 확인
+> * verapamil은 시작 전·매 증량 후 및 유지 용량 도달 후의 정기 심전도 검사 일정을 안내. 실신·심한 어지럼·현저한 서맥이 생기면 즉시 평가하고, 변비·발목부종도 확인
 > * 산소 치료 중 흡연과 화기 접근을 금지
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 갑자기 시작하여 **1분 미만에 최고조에 이르는 심한 두통**이 새로 발생한 경우 - 즉시 응급실
-> * **발열·경부강직·의식 변화**, 새로운 신경학적 결손(마비, 언어 장애, 복시 등)이 동반되는 경우 - 즉시 응급실
-> * 기존 치료에 반응하지 않거나 두통 양상이 뚜렷이 변화하는 경우 - 외래 재평가
+> * 새로 발생한 두통이 **갑자기 시작해 수 분 안에 매우 심해지는 경우** - 즉시 응급실
+> * 두통과 함께 발열·목 뻣뻣함·의식 변화 등 수막염 의심 증상이 나타나는 경우 - 즉시 응급실
+> * 갑자기 한쪽 팔다리 힘이 빠지거나, 말하기 어렵거나, 물체가 두 개로 보이는 경우(잠시 후 좋아졌어도 해당) - 즉시 응급실
+> * 응급 신호가 없더라도 기존 치료에 반응하지 않거나 두통 양상이 뚜렷이 변화하는 경우 - 외래 재평가
 
 ***
 
@@ -312,22 +336,29 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
-* \[한국정신신체의학회 2019] 한국정신신체의학회. 두통 진료지침. 2019. - 원발두통 진단 후 뇌영상 검사 등 13개 핵심질문의 국내 권고
-* \[NICE CG150] [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
+* \[한국정신신체의학회 2019] [한국정신신체의학회. 두통 진료지침. 2019.](https://www.guideline.or.kr/guide/view.php?cate=A&number=1082) - 1차 두통의 진단·영상검사 등을 다룬 13개 핵심질문
+* \[NICE CG150] [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated June 3, 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
 * \[ACR AC 2022] [Utukuri PS, et al. ACR Appropriateness Criteria® Headache: 2022 Update. J Am Coll Radiol. 2023;20(5S):S70-S93.](https://doi.org/10.1016/j.jacr.2023.02.018) - 신경학적 이상이 없는 원발두통의 영상검사 비권고와 2차 두통 의심 시 영상 선택
 * [Do TP, et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology. 2019;92(3):134-144.](https://doi.org/10.1212/WNL.0000000000006697) - 2차 두통의 경고 징후와 평가
-* [Jung JS, Oh SW, Jang J. 2017년 근거기반 임상영상 가이드라인에서 연구된 두통 환자 진단을 위한 한국형 영상 검사 권고안. J Korean Soc Radiol. 2019;80(5):880-895.](https://doi.org/10.3348/jksr.2019.80.5.880) - 국내 두통 영상검사 권고안
+* [Jung JS, et al. 2017년 근거기반 임상영상 가이드라인에서 연구된 두통 환자 진단을 위한 한국형 영상 검사 권고안. J Korean Soc Radiol. 2019;80(5):880-895.](https://doi.org/10.3348/jksr.2019.80.5.880) - 두통 영상검사 권고안
+* [Choi CH. Development of the 2024 Korean Guidelines for the Justification of Patient Imaging. Public Health Wkly Rep. 2025;18(46):1835-1852.](https://doi.org/10.56786/PHWR.2025.18.46.1) - 벼락두통, 임신·산후 두통과 편두통·긴장형두통의 영상검사 권고
 * [Chu MK, et al. Validity and Reliability Assessment of Korean Headache Impact Test-6 (HIT-6). J Korean Neurol Assoc. 2009;27(1):1-6.](https://www.jkna.org/upload/pdf/200901001.pdf) - 한국어판 HIT-6의 타당도·신뢰도
-
-* [May A, et al. European Academy of Neurology guidelines on the treatment of cluster headache. 2023.](https://doi.org/10.1111/ene.15956)
-* [대한두통학회. 군발두통치료 진료지침. 2025.](https://www.headache.or.kr/bbs/board.php?bo_table=3_5_1_1&wr_id=5)
-* [Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage. Stroke. 2023;54:e314-e370.](https://doi.org/10.1161/STR.0000000000000436)
-* [Perry JJ, et al. Validation of the Ottawa Subarachnoid Hemorrhage Rule in patients with acute headache. CMAJ. 2017;189:E1379-E1385.](https://doi.org/10.1503/cmaj.170072)
+* [May A, et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023;30(10):2955-2979.](https://doi.org/10.1111/ene.15956) - 고유량 산소, 트립탄과 예방치료·심전도 추적
+* [대한두통학회. 군발두통치료 진료지침. 2025년 6월 19일 발간.](https://www.headache.or.kr/bbs/board.php?bo_table=3_5_1_1&wr_id=5) - 군발두통 급성기 및 예방치료의 학회 권고
+* [Kim BS, et al. Guideline for the Treatment of Cluster Headache: A Clinical Practice Guideline from the Korean Headache Society. Headache Pain Res. 2026;27(2):124-144.](https://www.e-hpr.org/journal/view.php?number=949) - 제형별 트립탄 권고·이용 제한과 예방치료 근거
+* [Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage. Stroke. 2023;54:e314-e370.](https://doi.org/10.1161/STR.0000000000000436) - 발병 시점과 신경학적 소견에 따른 CT·LP 검사 경로
+* [Perry JJ, et al. Validation of the Ottawa Subarachnoid Hemorrhage Rule in patients with acute headache. CMAJ. 2017;189:E1379-E1385.](https://doi.org/10.1503/cmaj.170072) - Ottawa SAH Rule 적용 대상과 전향적 검증 결과
+* [NICE. Head injury: assessment and early management. NG232. 2023.](https://www.nice.org.uk/guidance/ng232/chapter/recommendations) - 두부 외상 후 응급실 의뢰 기준
+* [NICE. Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NG240. 2024.](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations) - 수막염의 임상 경고 징후와 응급 의뢰
+* [ACOG. Headaches in Pregnancy and Postpartum. Obstet Gynecol. 2022;139(5):944-972.](https://doi.org/10.1097/AOG.0000000000004766) - 임신·산후의 2차 두통 평가
+* [Amin HP, et al. Diagnosis, Workup, Risk Reduction of Transient Ischemic Attack in the Emergency Department Setting. Stroke. 2023;54(3):e109-e121.](https://doi.org/10.1161/STR.0000000000000418) - 증상이 회복된 환자의 TIA 응급 평가
+* [Yaghi S, et al. Treatment and Outcomes of Cervical Artery Dissection in Adults. Stroke. 2024;55(3):e91-e106.](https://doi.org/10.1161/STR.0000000000000457) - 경부동맥 박리 의심 소견과 혈관영상
+* [Jones DW, et al. 2025 AHA/ACC High Blood Pressure Guideline.<mark style="background-color:yellow;"> Circulation. 2025.</mark>](https://doi.org/10.1161/CIR.0000000000001356) - 고혈압 응급과 급성 표적장기 손상
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* [국민건강보험공단. 산소치료(가정용·휴대용) 기기 대여료.](https://www.nhis.or.kr/static/html/wbma/c/wbmac0207.html) - 가정용 산소치료 기기 대여 요양비 적용 기준
 
 ***
 
@@ -336,29 +367,36 @@ flowchart TD
 {% hint style="info" %}
 **두통, 언제 걱정해야 할까요?**
 
-대부분의 반복성 두통은 편두통이나 긴장형두통 같은 일차성 두통이지만, 일부는 즉각적인 치료가 필요한 위험 신호일 수 있습니다.
+대부분의 반복성 두통은 편두통이나 긴장형두통 같은 1차성 두통이지만, 일부는 즉각적인 치료가 필요한 위험 신호일 수 있습니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">즉시 응급실로 가야 하는 두통</mark>
 
-* 갑자기 시작하여 **1분 미만에 최고조에 이르는 매우 심한 두통**
-* 두통과 함께 발열·목 뻣뻣함·의식 저하·팔다리 마비·언어 장애·복시가 동반되는 경우
-* 두부 외상 후 의식 변화, 반복 구토, 팔다리 힘 빠짐과 함께 두통이 악화되는 경우
+* 갑자기 시작해 **수 분 안에 매우 심해지는** 새로운 두통
+* 두통과 함께 열이 나면서 목이 뻣뻣하거나 의식이 흐려지는 경우
+* 갑자기 한쪽 팔다리에 힘이 빠지거나, 말이 어눌해지거나, 물체가 두 개로 보이는 경우(잠시 후 좋아졌어도 해당)
+* 두통과 함께 새로 경련이 생기거나 갑자기 심하게 혼란스러워지는 경우
+* <mark style="background-color:yellow;">새로 생긴 두통이나 목 통증과 함께 한쪽 눈꺼풀이 처지거나 한쪽 동공이 작아진 경우</mark>
+* 머리를 다친 뒤 두통이 계속되거나 심해지는 경우
+* 머리를 다친 뒤 의식이 흐려지거나, 반복해서 토하거나, 팔다리에 힘이 빠지는 경우
+* <mark style="background-color:yellow;">아스피린 외에 피를 묽게 하는 약(항응고제·항혈소판제)을 복용하는 사람이 머리를 다친 경우</mark>
 * 심한 눈 통증과 충혈·시야 흐림이 함께 발생하는 경우
-* 임신 중·출산 후 새로 생긴 심한 두통에 시야 이상·경련·혈압 상승 등이 동반되는 경우
-* 50세 이후 새 두통에 일시적 시력 상실·복시가 동반되는 경우
-* 난방기·연소기구를 사용하는 공간에서 여러 사람이 동시에 두통·구역을 느끼는 경우: 즉시 밖으로 나와 119에 연락하십시오.
+* 임신 중 또는 출산 후 새로 생긴 심한 두통, 갑작스러운 두통, 또는 계속되거나 악화되는 두통
+* 50세 이상에서 새로 생긴 두통과 함께 잠시 시력을 잃거나 물체가 두 개로 보이는 경우
+* 난방기·연소기구 사용 중 두통이나 어지럼, 메스꺼움이 생기면 즉시 밖으로 나와 119에 연락하십시오. 같은 공간에 있던 사람에게 비슷한 증상이 있으면 특히 의심합니다.
 
 #### <mark style="color:$primary;">빠른 진료가 필요한 경우</mark>
 
-* 50세 이후 새 두통과 함께 씹을 때 턱이 아프거나 두피가 아프면 당일 진료를 받으십시오.
-* 임신 중·출산 후 새 두통, 점점 심해지거나 기존과 달라진 두통은 빠르게 진료를 받으십시오.
+* 50세 이상에서 새 두통과 함께 씹을 때 턱이 아프거나 두피가 아프면 당일 진료를 받으십시오.
+* 임신 중 또는 출산 후 새로 생긴 그 밖의 두통은 당일 진료를 받으십시오.
+* 두통이 점점 심해지거나 기존과 다른 양상으로 바뀌면 빠르게 진료를 받으십시오.
 
 #### <mark style="color:$primary;">진통제 복용 시 꼭 지켜주세요</mark>
 
 * 진통제는 두통이 시작된 초기에 복용하는 것이 효과적입니다.
-* 단순 진통제·소염진통제는 **한 달 15일 미만**, 트립탄이나 복합진통제는 **한 달 10일 미만**으로 사용하십시오.
-* 급성기 약물이 주 2일을 넘겨 반복적으로 필요하면 예방치료가 필요한지 담당 의사와 상의하십시오.
+* 단순 진통제·소염진통제만 복용한다면 합산 **한 달 15일 미만**, 트립탄이나 복합진통제는 **한 달 10일 미만**으로 사용하십시오.
+* 트립탄과 단순 진통제처럼 서로 다른 계열의 두통약을 함께 쓰거나 번갈아 먹는 경우, 복용한 날을 모두 합해 한 달 10일 미만으로 하십시오. 같은 날 여러 약을 먹어도 하루로 셉니다.
+* <mark style="background-color:yellow;">두통약을 일주일에 2일 넘게 반복해서 먹어야 한다면</mark> 예방치료가 필요한지 주치의와 상의하십시오.
 * 진통제를 자주 복용할수록 두통이 더 잦아지는 **약물과용두통**이 생길 수 있습니다. 복용일수가 늘면 진료 시 반드시 알려주십시오.
 
 #### <mark style="color:$primary;">두통을 줄이는 생활 습관</mark>
