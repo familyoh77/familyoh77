@@ -90,7 +90,20 @@
 
 ### <mark style="color:orange;">검사</mark> <a href="#headache-testing" id="headache-testing"></a>
 
-* 경고 징후 또는 기질적 문제가 의심되는 경우 원인과 임상 상황에 따라 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV), lumbar puncture를 선택
+#### <mark style="color:$primary;"><mark style="background-color:yellow;">실험실 검사</mark></mark>
+
+* <mark style="background-color:yellow;">경고 징후가 없는 전형적 1차성 두통에서는 일상적인 혈액검사가 필요하지 않음</mark>
+* <mark style="background-color:yellow;">2차 원인이 의심되면 원인에 따라 선택</mark>
+  * 거대세포동맥염(GCA) 의심 : ESR/CRP와 CBC(혈소판 포함)를 측정하고 신속히 전문 진료 의뢰
+    * 시각 증상이 있거나 임상적 의심이 높으면 확진검사 결과를 기다리지 않고 당일 치료가 가능한 기관으로 의뢰
+  * <mark style="background-color:yellow;">중추신경계 감염 의심 : CBC, CRP, 혈액배양. 금기를 확인한 후 LP로 뇌척수액 검사(세포수·단백·당·그람염색·배양)</mark>
+  * <mark style="background-color:yellow;">일산화탄소 중독 의심 : 혈중 carboxyhemoglobin(COHb) 측정. 일반 맥박산소측정기로는 배제할 수 없음</mark>
+  * <mark style="background-color:yellow;">임신 20주 이후·산후의 자간전증 의심 : 소변 단백, CBC(혈소판), 간기능, 크레아티닌</mark>
+  * <mark style="background-color:yellow;">갑상선기능저하증 등 전신 질환 의심 : 해당 검사</mark>
+
+#### <mark style="color:$primary;"><mark style="background-color:yellow;">영상 검사</mark></mark>
+
+* 경고 징후 또는 기질적 문제가 의심되는 경우 원인과 임상 상황에 따라 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV)<mark style="background-color:yellow;">을</mark> 선택
   * SAH가 의심되는 급성 중증 두통(벼락두통 등) : 우선 비조영 뇌 CT로 평가 <mark style="color:$info;">\[Stroke 2023]</mark>
     * 다음에 모두 해당 시 동맥류성 SAH 가능성이 매우 낮음 : ① 발병 ＜6시간에 내원, ② 새로운 신경학적 결손 없음, ③ 고품질 비조영 뇌 CT를 신경영상 전문의가 판독해 음성
       * ＜6시간이라도 CT의 질·판독 조건이 불충분하거나 임상적 의심이 지속되면 추가 평가
@@ -102,8 +115,6 @@
     * 경미한 경부 외상·경부 수기 이후 새로 생기거나 악화되는 두통·경부통에서도 박리 가능성을 고려 <mark style="color:$info;">\[Stroke 2024]</mark>
   * 뇌정맥동혈전증(CVST) 의심(임신·산후, 혈전 위험, 유두부종/두개내압상승 등) : CTV 또는 MRV로 정맥동 평가
   * 구조적 병변 의심(종괴, 후두와·뇌하수체 병변, 뇌막/염증성 병변 등) : MRI로 평가
-  * 거대세포동맥염(GCA) 의심 : ESR/CRP와 CBC(혈소판 포함)를 측정하고 신속히 전문 진료 의뢰
-    * 시각 증상이 있거나 임상적 의심이 높으면 확진검사 결과를 기다리지 않고 당일 치료가 가능한 기관으로 의뢰
 * 긴장형두통, 편두통, 군발두통, 또는 약물과용두통으로 이미 진단된 환자에서 단순히 안심시킬 목적의 뇌영상 검사는 권고하지 않음 <mark style="color:$info;">\[한국정신신체의학회 2019; NICE CG150]</mark>
 * 경고 징후가 없고 신경학적 검사가 정상인 전형적 편두통·긴장형두통에서는 뇌영상 검사를 일상적으로 시행하지 않음. 경고 징후 없이 안정된 만성 두통에도 같은 원칙을 적용 <mark style="color:$info;">\[ACR AC 2022; Public Health Wkly Rep 2025]</mark>
 * 첫 군발기에는 2차 원인을 확인하기 위한 뇌 MRI 필요성을 신경과와 상의 <mark style="color:$info;">\[NICE CG150; ACR AC 2022]</mark>
