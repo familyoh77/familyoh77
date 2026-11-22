@@ -186,6 +186,7 @@
 **급여**
 
 * 골밀도검사의 진단·추적 산정은 연령·위험인자·검사 간격에 대한 급여 기준에 따름
+  * 다334 : 여성 ≥65세, 남성 ≥70세 및 고시상 위험 조건 등이 대상. 성인 진단 시 기본 1회이며 추적은 통상 1년 이상, 정상은 2년 간격. 소아, 약제 등 세부 적용과 예외는 고시를 확인
 
 ***
 
@@ -275,6 +276,7 @@
 **검사 방법**
 
 * 원위 대칭성 다발신경병증 평가 : 병력과 온도 또는 pinprick 감각(소섬유), 128 Hz 진동 감각(대섬유)을 확인. 발 궤양·절단 위험 평가를 위해 10 g 모노필라멘트는 매년 별도로 시행 <mark style="color:$info;">\[ADA 2026]</mark>
+* 발 궤양·절단 위험 평가 : 10 g 모노필라멘트 또는 Ipswich touch test에 진동·온도·바늘찌름 중 하나 이상을 함께 검사. 피부·발 변형·발 맥박도 확인 <mark style="color:$info;">[Diabetes Care 2026]</mark>
 * 10 g 모노필라멘트
   * 눈을 감게 하고 필라멘트가 C자로 휠 때까지 피부에 수직으로 1\~2초 누름
   * IWGDF 방법은 양발 각각 엄지발가락과 제1·5 중족골두의 발바닥 쪽을 검사. 굳은살·궤양·흉터는 피함. 부위마다 실제 접촉 2회와 모의 접촉 1회를 섞어 시행 <mark style="color:$info;">\[IWGDF 2023]</mark>
@@ -513,10 +515,41 @@
 
 ***
 
+## <mark style="color:green;">비타민 D·골대사 표지자 검사 (25(OH)D·P1NP·CTX)</mark>
+
+**무엇을 보는가**
+
+* 25(OH)D는 비타민 D 상태, P1NP(PINP)는 골형성, β-CTX-I는 골흡수를 보여 주는 대표 지표
+
+**언제 시행하는가**
+
+* 골연화증·흡수장애·칼슘 또는 인 대사 이상, 골다공증의 이차성 원인 평가 등 적응증이 있을 때 25(OH)D를 고려. 일반 건강 성인의 일률적 선별은 권하지 않음
+* P1NP·CTX는 골다공증 치료 전 기저값과 치료 반응·복약 여부를 평가하는 보조 검사
+
+**검사 방법·해석**
+
+* 저장 상태 평가에는 일반적으로 25(OH)D를 사용. 1,25(OH)₂D는 활성형이며 특수 대사 질환의 평가에 선택적으로 사용
+* 골표지자 비교는 같은 방법·검사실과 비슷한 채혈 조건을 사용. CTX는 식사와 일중 변동의 영향을 받아 아침 공복 검체가 적합
+* 단일 수치만으로 골다공증을 진단하거나 치료 효과를 판정하지 않음. DXA와 골절 위험, 이전 값과 변화 폭을 함께 해석
+
+**위양성·위음성**
+
+* 최근 골절·골 질환·신기능 저하는 골표지자에 영향을 줌. 진행 CKD에서 CTX 및 일부 P1NP 측정법은 신장 제거의 영향을 받음
+
+**급여**
+
+* 비타민 D 검사 고시 제2026-196호는 검사법별 조항을 구분. 누490다의 25-OH-vitamin D(total) 항목과 누490라 간이검사는 각각의 대상·횟수를 적용
+* 골다공증 치료 평가 목적의 골형성·골흡수 표지자는 각각 1종, 치료 전 1회 및 치료 후 효과판정 연 2회 범위에서 고시 조건을 확인
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Endocrine Society. Vitamin D for the Prevention of Disease, 2024.](https://support.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease)
+* [ESCEO/IOF/IFCC consensus on bone turnover markers, 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064614/)
+* [ADA. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026. Diabetes Care 2026.](https://doi.org/10.2337/dc26-S012)
 * [Herman WH, et al. Use of the Michigan Neuropathy Screening Instrument in the DCCT/EDIC cohort. Diabet Med 2012;29:937-944.](https://pubmed.ncbi.nlm.nih.gov/22417277/)
 * [Wolfe F, et al. 2016 revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum 2016;46:319-329.](https://doi.org/10.1016/j.semarthrit.2016.08.012)
 * [Aletaha D, et al. 2010 rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. Arthritis Rheum 2010;62:2569-2581.](https://doi.org/10.1002/art.27584)
@@ -531,3 +564,9 @@
 * US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures. JAMA 2025.
 * NICE. Low back pain and sciatica in over 16s: assessment and management (NG59). 2016, 2020 개정.
 * ACR Appropriateness Criteria: Low Back Pain; Acute Hip Pain; Chronic Ankle Pain.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [건강보험심사평가원. 비타민 D 검사 급여기준, 고시 제2026-196호(2026.10.1.).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20261001&mtgMtrRegSno=0002&sno=1)
+* [건강보험심사평가원. 비타민 D 간이검사 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20261001&mtgMtrRegSno=0003&sno=1)
+* [건강보험심사평가원 검사료 기준집. 골밀도검사·골다공증 생화학적 골표지자.](https://www.hira.or.kr/ebooksc/2025/10/BZ202510212390104.pdf)

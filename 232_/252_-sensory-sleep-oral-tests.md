@@ -93,7 +93,7 @@
 
 **언제 시행하는가**
 
-<table><thead><tr><th width="190">대상</th><th width="200">첫 검사</th><th>추적 주기</th></tr></thead><tbody><tr><td><strong>T1DM</strong></td><td>진단 후 5년 이내</td><td>망막병증 없고 혈당 안정 : 1~2년<br>망막병증 있음 : 최소 매년 또는 중증도에 따라 더 자주</td></tr><tr><td><strong>T2DM</strong></td><td>진단 즉시</td><td>T1DM과 같음</td></tr><tr><td><strong>임신 전 T1DM·T2DM</strong></td><td>임신 전 또는 임신 1분기</td><td>임신 중 각 분기와 산후 1년까지 중증도에 따라; 단순 GDM은 일률적 검사 불필요</td></tr></tbody></table>
+<table><thead><tr><th width="190">대상</th><th width="200">첫 검사</th><th>추적 주기</th></tr></thead><tbody><tr><td><strong>T1DM</strong></td><td>진단 후 5년 이내</td><td>망막병증 없고 혈당 안정 : 1~2년<br>망막병증 있음 : 최소 매년 또는 중증도에 따라 더 자주</td></tr><tr><td><strong>T2DM</strong></td><td>진단 즉시</td><td>T1DM과 같음</td></tr><tr><td><strong>임신 전 T1DM·T2DM</strong></td><td>임신 전 및 임신 1분기</td><td>임신 중 각 분기와 산후 1년까지 중증도에 따라; 단순 GDM은 일률적 검사 불필요</td></tr></tbody></table>
 
 **검사 방법**
 
@@ -304,6 +304,7 @@
 **해석·절단값**
 
 * STOP-Bang : 0\~2점 저위험, 3\~4점 중간 위험, 5\~8점 고위험
+  * 3~4점에서 STOP 항목 ≥2개에 남성, BMI ＞35 ㎏/㎡, 목둘레 ＞40 ㎝ 중 하나가 동반되면 고위험으로 재분류할 수 있음 <mark style="color:$info;">[Chest 2016]</mark>
 * 무호흡-저호흡 지수(AHI, 수면 1시간당 10초 이상 무호흡·저호흡 횟수) : 5\~14 경증, 15\~29 중등도, ≥30 중증
 * 성인의 주기성 사지운동장애 : PLMI ＞15회/시간에 임상적으로 유의한 수면장애 또는 주간 기능 저하가 동반되고, 하지불안증후군·치료하지 않은 OSA 등으로 더 잘 설명되지 않을 때 진단 <mark style="color:$info;">\[J Clin Sleep Med 2025]</mark>
 
@@ -391,6 +392,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Chung F, et al. STOP-Bang Questionnaire: A Practical Approach to Screen for Obstructive Sleep Apnea. Chest 2016.](https://journal.chestnet.org/article/S0012-3692%2815%2900018-5/fulltext)
 * [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an AASM clinical practice guideline. J Clin Sleep Med 2025.](https://doi.org/10.5664/jcsm.11390)
 * [American Diabetes Association. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026. Diabetes Care 2026.](https://doi.org/10.2337/dc26-S012)
 * Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: AASM. J Clin Sleep Med 2017;13:479-504.

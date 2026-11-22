@@ -1,7 +1,8 @@
 # 노인·영양·신체활동 평가 Geriatric, Nutrition & Physical Activity Assessment
 
 {% hint style="info" %}
-작성 예정 : 연하 기능 선별(☞ 삼킴곤란 선별·연하 검사), 요실금·배뇨 일지, 노인학대 선별, GLIM 기준 상세, NRS-2002
+작성 예정 : 노인학대 선별, NRS-2002
+* 연하 선별은 소화기·간 검사, 배뇨일지는 신장·비뇨생식기 검사에 수록
 {% endhint %}
 
 ## <mark style="color:green;">일상생활 기능과 허약 평가 (ADL·IADL·FRAIL scale·Clinical Frailty Scale)</mark>
@@ -157,6 +158,7 @@
 * 65세 이상 선별 : 종아리 둘레 남 ＜34 ㎝, 여 ＜33 ㎝, SARC-F ≥4점, SARC-CalF ≥11점
 * 확진 : 근육량 감소 + 악력 저하 (AWGS 2025, '중증 근감소증' 분류 삭제)
 * 악력 저하 + 근육량 측정 불가(지역사회) : possible sarcopenia
+* 선별 양성이나 악력이 정상이면 근감소증 위험(at risk)으로 추적. 악력이 낮지만 실제 측정한 근육량이 정상인 경우에는 다른 근력 저하 원인을 평가
 
 <table><thead><tr><th width="150">확진 지표</th><th width="120">50~64세 남</th><th width="120">50~64세 여</th><th width="120">≥65세 남</th><th>≥65세 여</th></tr></thead><tbody><tr><td><strong>악력</strong></td><td>＜34 ㎏</td><td>＜20 ㎏</td><td>＜28 ㎏</td><td>＜18 ㎏</td></tr><tr><td><strong>DXA ASM/신장²</strong></td><td>＜7.2 ㎏/㎡</td><td>＜5.5 ㎏/㎡</td><td>＜7.0 ㎏/㎡</td><td>＜5.4 ㎏/㎡</td></tr><tr><td><strong>BIA ASM/신장²</strong></td><td>＜7.6 ㎏/㎡</td><td>＜5.7 ㎏/㎡</td><td>＜7.0 ㎏/㎡</td><td>＜5.7 ㎏/㎡</td></tr><tr><td><strong>DXA ASM/BMI</strong></td><td>＜0.80</td><td>＜0.55</td><td>＜0.73</td><td>＜0.52</td></tr><tr><td><strong>BIA ASM/BMI</strong></td><td>＜0.90</td><td>＜0.63</td><td>＜0.83</td><td>＜0.57</td></tr></tbody></table>
 
@@ -197,6 +199,7 @@
 
 * MNA-SF : 12\~14 정상, 8\~11 영양불량 위험, 0\~7 영양불량 - ≤11점이면 종합 영양평가와 원인 평가
 * 직접 측정 혈청 삼투질농도 ＞300 mOsm/㎏ : 고장성 탈수 시사
+* 직접 측정이 어렵다면 고령자에서 검증된 계산식 1.86 × (Na + K) + 1.15 × glucose + urea + 14(모두 mmol/L)를 초기 선별에 활용할 수 있음. ＞295 mOsm/L이면 직접 측정·임상 평가 고려. 정상 삼투질농도에서도 등장성 체액량 감소는 가능 <mark style="color:$info;">[ESPEN 2022]</mark>
 
 **위양성·위음성**
 
@@ -230,6 +233,7 @@
 
 * 좌식 ≤1.5 MET, 저강도 1.6\~2.9, 중강도 3.0\~5.9(말은 할 수 있으나 노래는 어려움), 고강도 ≥6.0
 * HHS 상대적 노력도 0\~10 척도와 Borg 6\~20·CR10 척도의 수치를 섞지 않음
+  * HHS 0~10 상대적 노력도는 중강도 약 5~6, 고강도 약 7~8부터. 고강도에서는 몇 마디마다 호흡을 위해 멈추게 됨
 
 **위양성·위음성**
 
@@ -280,10 +284,39 @@
 
 ***
 
+## <mark style="color:green;">영양불량 진단 (GLIM)</mark>
+
+**무엇을 보는가**
+
+* 영양 선별 후 실제 조직·체중 감소와 이를 설명하는 섭취·흡수 저하 또는 염증을 함께 평가하는 진단 틀
+
+**언제 시행하는가**
+
+* 검증된 영양 선별에서 위험이 있거나 비의도적 체중 감소·섭취 감소·근육 소실로 영양불량이 의심될 때
+
+**검사 방법**
+
+* 표현형 기준 : 비의도적 체중 감소, 낮은 BMI, 근육량 감소
+* 원인 기준 : 섭취 감소 또는 동화·흡수 저하, 질병 부담 또는 염증
+* 체중 변화의 기간·정도, 실제 섭취량과 기간, 흡수 장애와 염증 관련 질환을 확인. 근육량은 가능하면 검증된 방법과 인구집단별 절단값을 적용
+
+**해석·절단값**
+
+* 표현형 기준 ≥1개와 원인 기준 ≥1개가 함께 있으면 진단. 체중 감소 기준의 예는 최근 6개월 ＞5% 또는 6개월을 넘는 기간 ＞10%
+* 중증도는 체중 감소·BMI·근육량의 표현형 기준에 따라 분류하며, 적용한 측정법과 기준을 기록
+
+**위양성·위음성**
+
+* 체액 과다·복수로 체중 감소가 가려질 수 있음. 비만이 있어도 적용 가능. 혈청 albumin 단독으로 영양불량을 확정하지 않음
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [GLIM consensus approach to diagnosis of malnutrition: a 5-year update. Clin Nutr 2025.](https://doi.org/10.1016/j.clnu.2025.03.018)
+* [ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr 2022.](https://congress.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf)
 * [American Physical Therapy Association. Physical Activity as a Vital Sign (PAVS).](https://www.apta.org/patient-care/evidence-based-practice-resources/test-measures/physical-activity-vital-sign)
 * 대한비만학회. 비만 진료지침 2024; Mokhlesi B, et al. Evaluation and Management of Obesity Hypoventilation Syndrome (ATS). Am J Respir Crit Care Med 2019.
 * [Chen LK, et al. A focus shift from sarcopenia to muscle health in the Asian Working Group for Sarcopenia 2025 Consensus Update. Nat Aging 2025.](https://pubmed.ncbi.nlm.nih.gov/41188603/)

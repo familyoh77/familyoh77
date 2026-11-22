@@ -46,7 +46,7 @@
 
 > _GOLD grade는 기류 폐쇄 정도와 예후 평가용이며 약물 선택은 증상·악화 병력·혈중 호산구로 결정 (☞ COPD)._
 
-* 천식 : 기관지확장제 반응 양성 <mark style="color:$info;">\[GINA 2026]</mark>
+* 천식 : 기관지확장제 반응 양성 (GINA 초진 진단 기준: 성인 ≥18세, 소아·청소년 6~17세) <mark style="color:$info;">\[GINA 2026]</mark>
   * 성인 : FEV₁ 또는 FVC가 기저치 대비 ≥12% 및 ≥200 ㎖ 증가 (≥15% 및 ≥400 ㎖이면 진단 확신이 더 높음)
   * 소아·청소년 : FEV₁이 예측치 대비 ≥12% 증가
   * 반응이 없다고 천식을 배제하지 않음 - 증상이 없을 때는 폐기능이 정상일 수 있음
@@ -143,6 +143,7 @@
   * 과거 농도 기반 프로토콜의 예 : PC20 ＞16 ㎎/㎖ 정상, 4\~16 ㎎/㎖ 경계, ＜4 ㎎/㎖ 기도 과민성 <mark style="color:$info;">\[ATS 1999]</mark>
 * 만니톨·고장성 식염수·표준화된 과호흡 : FEV₁ ≥15% 감소이면 천식을 지지 (성인) <mark style="color:$info;">\[GINA 2026]</mark>
 * 운동 유발 : 성인 FEV₁이 기저치보다 ＞10% 및 ＞200 ㎖ 감소 <mark style="color:$info;">\[GINA 2026]</mark>
+  * 6~17세 : 운동 후 FEV₁이 예측치 대비 ＞12% 또는 PEF가 ＞15% 감소하면 천식 진단을 지지 <mark style="color:$info;">[GINA 2026]</mark>
 * ICS를 쓰지 않는 증상 있는 환자에서 메타콜린 음성이면 현재 천식의 가능성이 낮음
 
 **위양성·위음성**
@@ -231,6 +232,7 @@
 
 * CBC 백혈구 감별계산의 호산구 절대수 (cells/㎕)
 * 기도질환에서 2형(T2) 염증의 혈액 지표
+  * 성인 만성기침 : 혈중 호산구 ≥0.3×10⁹/L는 호산구성 기도 염증 및 ICS 반응 가능성을 평가하는 보조 지표 <mark style="color:$info;">[Thorax 2023]</mark>
   * 천식 : 진단 보조, 중증 천식의 표현형 평가와 생물학적 제제 선택
   * COPD : ICS가 악화를 줄일 가능성 예측
 
@@ -301,8 +303,8 @@
 * 질환별 중증도 기준의 예
   * 천식 악화 : 실내공기 ＜92%이면 중증 <mark style="color:$info;">\[GINA 2026]</mark>
   * COVID-19 : 실내공기 ≤94% 또는 기저치보다 의미 있는 저하는 중증 진행 기준 (☞ 코로나19)
-* 장기산소요법 평가 : 안정기 실내공기에서 반복 확인된 SpO₂ ≤88% (또는 PaO₂ ≤55 ㎜Hg) <mark style="color:$info;">\[ATS 2020]</mark>
-  * COPD에서 SpO₂ 89%(PaO₂ 56\~59 ㎜Hg)이면서 부종, Hct ≥55% 또는 ECG상 P pulmonale가 있는 경우도 평가 대상
+* 장기산소요법 평가 (ATS 2020의 안정기 기준) : 실내공기에서 반복 확인된 SpO₂ ≤88% (또는 PaO₂ ≤55 ㎜Hg) <mark style="color:$info;">\[ATS 2020]</mark>
+  * COPD에서 (PaO₂ 56~59 ㎜Hg 또는 SpO₂ 89%)에 부종, Hct ≥55%, ECG상 P pulmonale 중 하나 이상이 동반된 경우도 평가 대상
   * 급성 악화 중 한 번 측정한 값으로 결정하지 않음
 * COPD 등 기저 저산소증 환자는 절대값보다 평소 기저치와의 차이를 봄
 
@@ -364,6 +366,7 @@
 
 * 30 m 직선 복도를 왕복하며 6분 동안 뛰지 않고 최대한 빨리 걸음; 정해진 격려 문구만 사용 <mark style="color:$info;">\[ERS/ATS 2014]</mark>
 * 시작 전·종료 후 SpO₂, 심박수, 호흡곤란·피로(Borg 척도)를 기록; 필요하면 쉬어도 되며 시간은 계속 잼
+* 보행 중에는 SpO₂를 연속 측정하고 검사 중 최저값을 따로 기록 <mark style="color:$info;">[ERS/ATS 2014]</mark>
 * 시행하지 않는 경우 : 최근 1개월 이내 불안정 협심증·심근경색 등
 * 흉통, 견딜 수 없는 호흡곤란, 비틀거림, 심한 탈포화가 생기면 중단
 
@@ -497,11 +500,12 @@
 
 **해석·절단값**
 
-<table><thead><tr><th width="160">검사</th><th>양성 기준</th></tr></thead><tbody><tr><td><strong>TST</strong></td><td>경결 ≥10 ㎜ (HIV 감염인 ≥5 ㎜); 수포·괴사 동반은 크기와 관계없이 강양성</td></tr><tr><td><strong>QuantiFERON</strong></td><td>Nil ≤8.0 IU/㎖이면서 TB1−Nil 또는 TB2−Nil ≥0.35 IU/㎖이고 Nil 값의 ≥25%; Nil ＞8.0 IU/㎖이면 미결정</td></tr><tr><td><strong>T-SPOT</strong></td><td>검사실·제조사 판정 기준(양성·음성·경계·무효)</td></tr></tbody></table>
+<table><thead><tr><th width="160">검사</th><th>양성 기준</th></tr></thead><tbody><tr><td><strong>TST</strong></td><td>경결 ≥10 ㎜ (HIV 감염인 ≥5 ㎜); 경결 ≥15 ㎜ 또는 수포·괴사 동반은 강양성</td></tr><tr><td><strong>QuantiFERON</strong></td><td>Nil ≤8.0 IU/㎖이면서 TB1−Nil 또는 TB2−Nil ≥0.35 IU/㎖이고 Nil 값의 ≥25%; Nil ＞8.0 IU/㎖이면 미결정</td></tr><tr><td><strong>T-SPOT</strong></td><td>검사실·제조사 판정 기준(양성·음성·경계·무효)</td></tr></tbody></table>
 
 * 접촉자의 TST 양전 : 마지막 접촉 후 8주 이상 지나 시행한 2차 TST에서 <mark style="color:$info;">\[결핵 진료지침 2024]</mark>
   * 5세 이상 정상 면역 : ≥10 ㎜이면서 1차보다 ≥6 ㎜ 증가
   * 5세 미만 또는 면역저하자 : 1차보다 ≥6 ㎜ 증가
+  * BCG 미접종 접촉자는 2차 검사에서 1차 결과와 무관하게 경결 ≥5 ㎜이면 양성(양전) 판정 <mark style="color:$info;">[질병관리청 2026]</mark>
 * IGRA 미결정 결과는 음성으로 해석하지 않고 재검하거나 다른 검사를 고려
 * 양성이면 활동성 결핵을 배제(증상·흉부 X선·필요시 객담 검사)한 뒤 LTBI 치료를 결정
 
@@ -582,7 +586,8 @@
 
 <table><thead><tr><th width="120">점수</th><th width="160">30일 사망 위험</th><th>치료 장소 <mark style="color:$info;">[NICE NG250]</mark></th></tr></thead><tbody><tr><td><strong>CRB-65 0</strong></td><td>낮음 (＜1%)</td><td>일차진료에서 치료</td></tr><tr><td><strong>CRB-65 1~2</strong></td><td>중간 (1~10%)</td><td>1점은 산소화·경구 섭취·돌봄 여건을 보고 외래 또는 의뢰 판단, 2점 이상은 병원 의뢰</td></tr><tr><td><strong>CRB-65 3~4</strong></td><td>높음 (＞10%)</td><td>긴급 입원 평가</td></tr><tr><td><strong>CURB-65 0~1</strong></td><td>낮음 (＜3%)</td><td>대체로 외래 치료</td></tr><tr><td><strong>CURB-65 2</strong></td><td>중간 (3~15%)</td><td>단기 입원·당일 응급진료 등 입원 고려</td></tr><tr><td><strong>CURB-65 ≥3</strong></td><td>높음 (＞15%)</td><td>입원, 필요시 중환자 치료 평가</td></tr></tbody></table>
 
-* PSI : Class I\~II(≤70점) 외래 치료 가능, Class III(71\~90점) 관찰·단기 입원 또는 선별적 외래, Class IV\~V(≥91점) 입원
+* PSI : Class I(초기 임상 선별)·Class II(≤70점) 외래 치료 가능, Class III(71\~90점) 관찰·단기 입원 또는 선별적 외래, Class IV\~V(≥91점) 입원
+* ATS/IDSA 중증 CAP 기준 : 주 기준 1개 또는 부 기준 ≥3개이면 중환자 치료 필요성을 평가. CURB-65·PSI의 입원 판단과 적용 목적을 구분
   * 외래 치료가 가능한 저위험군을 더 많이 골라내지만 계산이 복잡함 - 외래에서는 CRB-65로 먼저 선별
 
 **위양성·위음성**
@@ -666,6 +671,8 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [British Thoracic Society Clinical Statement on chronic cough in adults. Thorax 2023.](https://thorax.bmj.com/content/78/Suppl_6/s3)
+* [Metlay JP, et al. ATS/IDSA Guideline for Community-acquired Pneumonia. Am J Respir Crit Care Med 2019.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6812437/)
 * [Coates AL, et al. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests. Eur Respir J 2017;49:1601526.](https://doi.org/10.1183/13993003.01526-2016)
 * Dweik RA, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FeNO) for clinical applications. Am J Respir Crit Care Med 2011;184(5):602-615.
 * American Thoracic Society, European Respiratory Society. ATS/ERS recommendations for standardized procedures for the online and offline measurement of exhaled lower respiratory nitric oxide and nasal nitric oxide, 2005. Am J Respir Crit Care Med 2005;171(8):912-930.

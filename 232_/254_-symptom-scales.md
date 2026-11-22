@@ -362,7 +362,7 @@
 **언제 시행하는가**
 
 * 지속되는 피로로 기능이 떨어진 환자의 경과 추적
-* 활동 후 악화(PEM)·비회복성 수면·인지장애가 동반된 장기 피로
+* 활동 후 증상 악화(PEM)와 함께 기능이 저하되는 장기 피로에서 ME/CFS 평가
 
 **검사 방법**
 
@@ -374,7 +374,7 @@
 **해석·절단값**
 
 * NAM/IOM 2015 : 6개월 초과 기능 저하 + 피로, PEM, 비회복성 수면 모두 + 인지장애 또는 기립불내성 중 ≥1 - 증상이 최소 절반의 시간 동안 중등도 이상이 아니면 재고
-* NICE NG206 : 3개월, 쇠약성 피로·PEM·비회복성 수면·인지장애가 모두 지속 (기립불내성은 필수 아님); 성인 6주, 소아·청소년 4주 지속 시 의심
+* NICE NG206 : 3개월 지속되는 기능 저하와 쇠약성 피로·PEM·비회복성 수면 또는 수면장애·인지장애를 확인하고 다른 원인을 평가. 성인은 6주, 소아·청소년은 4주 지속 시 의심
 * 두 기준은 기간과 구성이 달라 섞어 적용하지 않음
 
 **위양성·위음성**
@@ -386,10 +386,36 @@
 
 ***
 
+## <mark style="color:green;">월경전 증상 일일 기록 (DRSP)</mark>
+
+**무엇을 보는가**
+
+* 전향적 일일 기록으로 월경 주기별 증상과 기능 제한이 반복되는지 평가. PMS·PMDD와 기존 질환의 월경 전 악화를 감별하는 데 도움
+
+**언제 시행하는가**
+
+* 월경 전 반복되는 정서·신체 증상이 일상생활에 영향을 미치거나 증상 시점이 불명확할 때
+
+**검사 방법**
+
+* 검증된 판본으로 최소 두 번의 연속된 월경 주기 전체를 매일 기록. 월경 시작일, 증상과 일상생활 영향, 복용약을 함께 기록
+  * 치료 시작일·용량 변경일도 기록. 진료상 필요한 안전 평가나 치료를 일지 완료까지 미루지 않음
+
+**해석·절단값**
+
+* 월경 전 악화, 월경 시작 후 완화, 월경 직후 증상이 적은 구간, 두 주기에서의 반복성과 기능 저하를 평가. PMDD는 일일 기록에 더해 임상 진단 기준을 적용
+
+**위양성·위음성**
+
+* 후향적 기억, 기록 누락, 불규칙 주기와 호르몬 사용은 해석에 영향. 주기 전반에 증상이 존재하면 기저 질환과 월경 전 악화를 함께 평가
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [ACOG Clinical Practice Guideline. Management of Premenstrual Disorders. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders)
 * [Heatherton TF, et al. The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire. Br J Addict 1991;86:1119-1127.](https://pubmed.ncbi.nlm.nih.gov/1932883/)
 * Levis B, et al. Accuracy of PHQ-9 for screening to detect major depression: individual participant data meta-analysis. BMJ 2019;365:l1476.
 * Levis B, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression. JAMA 2020;323:2290-2300.

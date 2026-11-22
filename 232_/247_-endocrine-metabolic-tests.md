@@ -41,6 +41,7 @@
 <table><thead><tr><th width="150">판정</th><th width="180">공복 혈당</th><th width="200">75 g OGTT 2시간</th><th>A1C</th></tr></thead><tbody><tr><td><strong>정상</strong></td><td>＜100 ㎎/㎗</td><td>＜140 ㎎/㎗</td><td>＜5.7%</td></tr><tr><td><strong>당뇨병전단계</strong></td><td>100~125 ㎎/㎗ (공복혈당장애)</td><td>140~199 ㎎/㎗ (내당능장애)</td><td>5.7~6.4%</td></tr><tr><td><strong>당뇨병</strong></td><td>≥126 ㎎/㎗</td><td>≥200 ㎎/㎗</td><td>≥6.5%</td></tr></tbody></table>
 
 * 고혈당의 전형적 증상(다뇨·다음·설명되지 않는 체중 감소) + 무작위 혈장 포도당 ≥200 ㎎/㎗이면 한 번으로 진단
+* 명백한 고혈당 위기가 있으면 확인을 위한 재검으로 진단과 처치를 지연하지 않음
 * 그 밖에는 두 번째 비정상 결과로 확인
   * 같은 검체 또는 같은 시점의 서로 다른 두 검사가 모두 기준 이상이면 진단
   * 같은 검사가 서로 다른 시점에 두 번 기준 이상이면 진단
@@ -101,8 +102,8 @@
 
 **급여**
 
-* A1C는 급여
-* 당화알부민은 2020년 7월부터 급여 (산정 횟수 기준이 있음)
+* A1C(누306) : 당뇨병 진단·추적 관찰 목적의 인정 한도는 연 6회. 임상적 검사 주기는 치료와 조절 상태에 따라 별도로 결정
+* 당화알부민(누309) : A1C로 혈당 조절 상태 파악이 어려우면서 고시상 조건에 해당할 때 연 2회 인정. 초과 시 본인부담률 90% 적용. 산정 기간은 매년 1월~12월 기준. Fructosamine의 세부 기준은 미확인
 
 ***
 
@@ -115,7 +116,8 @@
 **언제 시행하는가**
 
 * 첫 산전 진찰 : 모든 임신부에서 공복혈당·무작위 혈당 또는 A1C
-  * 일반 당뇨병 기준을 넘으면 임신 전부터 있던 명백한 당뇨병으로 분류
+  * 일반 당뇨병 기준을 적용. 명백한 고혈당이 없으면 두 번째 비정상 결과로 확인하며, 무증상에서 무작위 혈장 포도당 ≥200 ㎎/㎗ 단독으로 확진하지 않음
+  * 임신 24~28주의 75 g OGTT 절단값은 임신 초기 진단에 그대로 적용하지 않음
 * 임신 24\~28주 : 당뇨병·임신당뇨병이 없던 모든 임신부에서 1단계 또는 2단계 방법으로 검사
   * 임신 초기 검사가 정상이어도 24\~28주 검사를 따로 시행
 
@@ -177,7 +179,8 @@
 
 <table><thead><tr><th width="210">CGM 지표</th><th width="200">일반 성인 목표</th><th>고령·저혈당 고위험군</th></tr></thead><tbody><tr><td><strong>TIR 70~180 ㎎/㎗</strong></td><td>＞70%</td><td>＞50%</td></tr><tr><td><strong>TBR ＜70 ㎎/㎗</strong></td><td>＜4%</td><td>＜1%</td></tr><tr><td><strong>TBR ＜54 ㎎/㎗</strong></td><td>＜1%</td><td>-</td></tr><tr><td><strong>TAR ＞180 ㎎/㎗</strong></td><td>＜25%</td><td>-</td></tr><tr><td><strong>TAR ＞250 ㎎/㎗</strong></td><td>＜5%</td><td>＜10%</td></tr></tbody></table>
 
-* GMI(glucose management indicator) : CGM 평균 혈당으로 계산한 추정 A1C - 실제 A1C와 차이가 있을 수 있음
+* 인슐린 펌프·AID 시작 여부를 판단할 때 임상 적응증과 기기별 허가·급여 요건을 구분. C-peptide는 당뇨병 유형의 감별에 활용
+* GMI(glucose management indicator) : CGM 평균 혈당으로 계산한 지표. 같은 기간에도 검사실 A1C와 일치하지 않을 수 있으며 A1C 진단 절단값을 적용하지 않음
 * 임신 T1DM : 목표 범위 63\~140 ㎎/㎗, TIR ＞70%, TBR(＜63) ＜4% - GDM·T2DM 임신부에게 일률 적용하지 않음
 
 **위양성·위음성**
@@ -218,14 +221,14 @@
 **해석·절단값**
 
 * 자가항체 양성 : 자가면역성 T1DM을 강하게 지지
-  * islet 자가항체 ≥2개 양성 + 정상 혈당이면 Stage 1, 이상 혈당이면 Stage 2 T1DM (무증상 단계) - 전문 평가로 의뢰
-* C-peptide (동시 혈당이 72 ㎎/㎗ 이상인 비공복 검체 기준)
+  * 확인된 췌도 자가항체가 2개 이상이고 정상 혈당이면 Stage 1. 자가항체 양성에서 이상혈당이 있으면 Stage 2 여부를 전문기관에서 평가. 양성이면 먼저 임상적 T1DM(Stage 3)에 해당하는지 확인 <mark style="color:$info;">[Diabetes Care 2026]</mark>
+* C-peptide : 인슐린 치료 중 유형이 불확실할 때 동시 혈당과 함께 해석
 
 <table><thead><tr><th width="190">C-peptide</th><th>해석</th></tr></thead><tbody><tr><td><strong>＜200 pmol/L</strong> (＜0.6 ng/㎖)</td><td>심한 인슐린 결핍 - T1DM 지지</td></tr><tr><td><strong>200~＜600 pmol/L</strong></td><td>불확정 - 추적 재평가</td></tr><tr><td><strong>≥600 pmol/L</strong> (≥1.8 ng/㎖)</td><td>T2DM을 강하게 지지</td></tr></tbody></table>
 
 > _1 ng/㎖ ≒ 331 pmol/L. 국내 연구의 공복 C-peptide 200/330 pmol/L 절단값은 보조적으로 참고하되 위 구간과 섞어 확진하지 않음._
 
-* C-peptide ＜600 pmol/L인데 동시 혈당 ＜72 ㎎/㎗이거나 공복 검체이면 적절한 조건에서 재검
+* ADA 2026 분류 알고리듬 : ≥600 pmol/L이면 채혈 조건의 영향이 작음. ＜600 pmol/L인데 동시 혈당 ＜70 ㎎/㎗ 또는 공복 가능성이 있으면 재검을 고려. 매우 낮은 값(예: ＜80 pmol/L)은 통상 재검 불필요. 인슐린 중단을 검토하는 경우 중단 전에 심한 인슐린 결핍 여부를 확인 <mark style="color:$info;">[Diabetes Care 2026]</mark>
 
 **위양성·위음성**
 
@@ -261,8 +264,9 @@
 
 <table><thead><tr><th width="150">구분</th><th width="200">DKA (세 요소 모두)</th><th>HHS (네 요소 모두)</th></tr></thead><tbody><tr><td><strong>혈당</strong></td><td>≥200 ㎎/㎗ 또는 기존 당뇨병 병력</td><td>≥600 ㎎/㎗</td></tr><tr><td><strong>케톤</strong></td><td>BHB ≥3.0 mmol/L 또는 소변 케톤 ≥2+</td><td>BHB ＜3.0 mmol/L 또는 소변 케톤 ＜2+</td></tr><tr><td><strong>산-염기</strong></td><td>정맥 pH ＜7.3 또는 HCO₃⁻ ＜18 mmol/L</td><td>pH ≥7.3 및 HCO₃⁻ ≥15 mmol/L</td></tr><tr><td><strong>삼투압</strong></td><td>-</td><td>유효 ＞300 또는 총 ＞320 mOsm/㎏</td></tr></tbody></table>
 
-* HHS 수준의 고혈당·고삼투압에 유의한 케톤혈증(BHB ≥3.0 mmol/L 또는 소변 케톤 ≥2+)이나 산증(pH ＜7.3 또는 HCO₃⁻ ＜18 mmol/L)이 동반되면 DKA-HHS 중첩을 고려하고, 산증의 다른 원인도 평가
-* 회복 판정에도 소변 케톤보다 BHB를 사용
+* HHS 수준의 고혈당·고삼투압에서 유의한 케톤혈증과 산증이 함께 확인되면 DKA-HHS 중첩을 평가. HHS의 진단 기준인 HCO₃⁻ ≥15 mmol/L와 HHS 인슐린 치료 경로에서 쓰는 ≥18 mmol/L를 구분. 유의한 케톤혈증 없이 HCO₃⁻가 15~17이면 산증의 다른 원인과 중첩 가능성을 평가
+* DKA 해소 : 혈중 BHB ＜0.6 mmol/L이면서 산증이 해소(정맥 pH ≥7.3 또는 HCO₃⁻ ≥18 mmol/L). 소변 케톤은 해소 판정에 사용하지 않음
+* HHS 회복은 삼투압 ＜300 mOsm/㎏, 혈당 ＜250 ㎎/㎗, 소변량 ＞0.5 ㎖/㎏/h 및 인지·순환 상태 회복을 종합
 
 **위양성·위음성**
 
@@ -294,6 +298,7 @@
   * 공복·야간 저혈당 : 감독하 최대 72시간 금식검사
   * 비수술성 식후 저혈당 : 증상을 일으키는 혼합식으로 최대 5시간 관찰하는 혼합식 검사(MMTT)
 * 위 수술 후 저혈당(PBH) : 전형적 병력과 자발적 저혈당 당시 Whipple triad로 진단 - OGTT·MMTT를 일률적인 확진검사로 쓰지 않음 <mark style="color:$info;">\[Society for Endocrinology 2024]</mark>
+  * 정맥 혈장 포도당이 우선. 정맥 채혈이 현실적으로 어려우면 낮은 범위에서 검증된 혈당계의 반복 모세혈당과 전형적 병력을 함께 고려할 수 있음. CGM은 경향 관찰에 보조적으로 활용 <mark style="color:$info;">[Endocr Connect 2024]</mark>
 * 영상검사(CT·MRI·EUS)는 내인성 고인슐린혈증을 생화학적으로 확인한 뒤 insulinoma 국소화를 위해 시행
 
 **해석·절단값** <mark style="color:$info;">\[Endocrine Society 2009]</mark>
@@ -337,7 +342,7 @@
 
 * 다음 5개 중 3개 이상 (NCEP-ATP III 개정·2009 통합 기준 + 대한비만학회 허리둘레 기준)
 
-<table><thead><tr><th width="160">항목</th><th>기준</th></tr></thead><tbody><tr><td><strong>복부비만</strong></td><td>허리둘레 남 ≥90 ㎝, 여 ≥85 ㎝</td></tr><tr><td><strong>중성지방</strong></td><td>≥150 ㎎/㎗ 또는 이에 대한 약물 치료</td></tr><tr><td><strong>HDL-C</strong></td><td>남 ＜40 ㎎/㎗, 여 ＜50 ㎎/㎗ 또는 이에 대한 약물 치료</td></tr><tr><td><strong>혈압</strong></td><td>≥130/85 ㎜Hg 또는 강압제 복용</td></tr><tr><td><strong>공복혈당</strong></td><td>≥100 ㎎/㎗ 또는 혈당강하제 복용</td></tr></tbody></table>
+<table><thead><tr><th width="160">항목</th><th>기준</th></tr></thead><tbody><tr><td><strong>복부비만</strong></td><td>허리둘레 남 ≥90 ㎝, 여 ≥85 ㎝</td></tr><tr><td><strong>중성지방</strong></td><td>≥150 ㎎/㎗ 또는 이에 대한 약물 치료</td></tr><tr><td><strong>HDL-C</strong></td><td>남 ＜40 ㎎/㎗, 여 ＜50 ㎎/㎗ 또는 이에 대한 약물 치료</td></tr><tr><td><strong>혈압</strong></td><td>SBP ≥130 또는 DBP ≥85 ㎜Hg 또는 강압제 복용</td></tr><tr><td><strong>공복혈당</strong></td><td>≥100 ㎎/㎗ 또는 혈당강하제 복용</td></tr></tbody></table>
 
 * 복부비만은 필수 조건이 아니며 BMI가 정상이어도 진단 가능
 * 혈압·혈당 기준은 대사증후군 구성요소 기준이며 고혈압·당뇨병의 진단·치료 시작 기준과 다름
@@ -382,6 +387,7 @@
 * TSH 참고구간은 검사실·측정법·나이를 우선 적용
   * 한국인 TSH 참고치 0.6\~6.8 mIU/L <mark style="color:$info;">\[대한갑상선학회 2023]</mark> - Roche 측정법 기준이며 다른 장비에서는 기관 검증 구간을 사용 (Roche 6.8은 Abbott 약 5.2에 해당)
 * 임신 중 TSH : 검사실의 임신 분기별 참고구간을 우선; 없으면 1·2분기에 0.1\~4.0 mIU/L를 대안으로 사용 <mark style="color:$info;">\[ATA 2026]</mark>
+  * 비임신 TSH 상한이 4.5 mIU/L보다 뚜렷이 높은 검사실은 임신 전반기 상한을 약 0.5 mIU/L 낮추는 방법도 고려. ATA 2026의 1·2분기 대체 구간과 대한갑상선학회 2023의 임신 초기 기준을 적용 지침과 함께 표시
   * LT4 치료 중 임신부의 목표는 참고구간 안에서 TSH ＜2.5 mIU/L (진단용 구간과 구분)
   * 임신에 맞는 fT4 참고구간이 없어 total T4를 사용할 때는 TBG 증가를 감안해 임신 16주 이후 비임신 참고구간의 상·하한을 약 1.5배로 조정
 * T3만으로 갑상선저하증을 진단하거나 LT4 용량을 조절하지 않음
@@ -426,6 +432,7 @@
 * TPO Ab 양성 무증상 갑상선저하증은 현성으로 진행할 위험이 높음 (전체 연간 진행률 약 2\~4%)
 * TRAb 양성 + 갑상선중독증이면 Graves병 - 원인이 분명하면 섭취율·스캔을 생략할 수 있음
 * 항갑상선제 중단 시점에 TRAb가 계속 양성이면 재발 위험이 높음
+  * Graves병 임신부는 치료력과 현재 항갑상선제 사용 여부에 따라 첫 검사 시점과 추적을 결정. 첫 분기에 검사한 항갑상선제 미복용 임신부에서 TRAb 또는 TSI가 검사실 상한의 3배를 초과하면 18~22주 및 30~34주에 재측정하고 태아 감시를 병행 <mark style="color:$info;">[ATA 2026]</mark>
 
 **위양성·위음성**
 
@@ -462,6 +469,8 @@
 <table><thead><tr><th width="120">K-TIRADS</th><th width="300">소견</th><th width="100">암 위험도</th><th>생검(FNA/CNB) 기준</th></tr></thead><tbody><tr><td><strong>5 높은의심</strong></td><td>암 의심 소견이 있는 저에코 고형결절</td><td>＞60%</td><td>＞1 ㎝</td></tr><tr><td><strong>4 중간의심</strong></td><td>암 의심 소견 없는 저에코 고형결절; 암 의심 소견이 있는 부분낭성·등/고에코 결절; 완전 석회화 결절</td><td>10~40%</td><td>＞1~1.5 ㎝</td></tr><tr><td><strong>3 낮은의심</strong></td><td>암 의심 소견 없는 부분낭성 또는 등/고에코 결절</td><td>3~10%</td><td>＞2 ㎝</td></tr><tr><td><strong>2 양성</strong></td><td>해면모양, comet-tail 동반 부분낭성, 순수낭종</td><td>＜3%</td><td>원칙적으로 대상 아님</td></tr></tbody></table>
 
 > _K-TIRADS 2021 기준. 림프절전이·갑상선외침범·원격전이·수질암 의심 등 불량 예후 인자가 있으면 크기와 무관하게 생검._
+* K-TIRADS 4 : 특별한 위험 소견이 없으면 ＞1.5 ㎝를 적용하고, 소견·위치·임상 위험에 따라 ＞1~1.5 ㎝ 범위에서 결정
+* K-TIRADS 5의 ＞0.5~1 ㎝ 결절은 기관 또는 반회후두신경 주행 부위에 붙어 있는 등 고위험 위치에서 생검을 권고. 그 밖의 작은 결절은 추적 또는 선택적 생검을 고려
 
 * 저에코 고형결절은 암 의심 소견이 없어도 K-TIRADS 4 - '고형·저에코'를 양성 소견으로 해석하지 않음
 * 스캔 : 초음파 결절과 일치하는 열결절은 원칙적으로 FNA 대상이 아니며 갑상선항진증으로 치료; 냉결절은 스캔만으로 악성 위험을 판단하지 않고 K-TIRADS를 따름
@@ -485,6 +494,7 @@
 
 * FNA : 결절 세포의 병리 진단 - 2023 Bethesda 체계(제3판) 6개 범주로 보고
 * 중심바늘생검(CNB) : 조직 구조를 볼 수 있는 보완 검사 (대한갑상선학회 별도 6범주)
+  * 아래 FNA Bethesda의 악성 위험률은 CNB 범주에 그대로 적용하지 않음
 * 분자표지자검사 : BRAF<sup>V600E</sup>, RAS, TERT 프로모터, NGS 다유전자 패널
 * 혈청 칼시토닌 : 갑상선수질암 표지자
 
@@ -506,6 +516,7 @@
 <table><thead><tr><th width="170">Bethesda 범주</th><th width="130">성인 암 위험도</th><th>주된 후속 조치</th></tr></thead><tbody><tr><td><strong>I 비진단적</strong></td><td>13%</td><td>초음파 유도 재검 (높은의심은 대개 6개월, 낮은·중간의심은 12개월 이내)</td></tr><tr><td><strong>II 양성</strong></td><td>4%</td><td>초음파 추적 (장기 추적 기반 악성 위험은 약 1~2%)</td></tr><tr><td><strong>III 비정형 AUS</strong></td><td>22%</td><td>반복 FNA/CNB 또는 분자검사 후 추적 또는 수술 결정</td></tr><tr><td><strong>IV 여포종양</strong></td><td>30%</td><td>진단적 엽절제 우선 고려</td></tr><tr><td><strong>V 악성의심</strong></td><td>74%</td><td>수술 평가; 저위험 미세유두암 의심은 적극적 관찰 고려</td></tr><tr><td><strong>VI 악성</strong></td><td>97%</td><td>종양별 치료; 저위험 미세유두암은 적극적 관찰 고려</td></tr></tbody></table>
 
 > _Bethesda 2023의 NIFTP 포함 수술 표본 평균. 소아는 미결정 범주의 악성 비율이 더 높음._
+* 비진단적 FNA 재검은 초음파 위험도에 따라 계획. 악성이 의심되면 더 일찍 평가하며 일률적으로 3개월을 기다리지 않음
 
 * BRAF<sup>V600E</sup> 양성은 유두암 특이도가 매우 높음; RAS 양성은 NIFTP·양성 종양에서도 나와 단독으로 암 확진이 아님; TERT 동반은 불량 예후 표지
 * 칼시토닌 ＞100 pg/㎖는 수질암을 강하게 시사; 경도 상승은 재검과 교란 요인 확인 후 해석
@@ -513,7 +524,7 @@
 **위양성·위음성**
 
 * FNA 세포검사가 양성 병변(Bethesda II)으로 판독되어도 높은의심 초음파 소견과 불일치하면 재평가 (영상-세포검사 불일치)
-* 여포선종과 여포암은 FNA로 구분하지 못함 - 수술 검체의 피막·혈관 침범으로 확정
+* 여포선종과 여포암은 FNA나 CNB로 확정 감별하기 어려움 - 수술 검체의 피막·혈관 침범으로 확정
 * BRAF 음성만으로 암을 배제하지 못함 (특히 여포형 병변)
 * 칼시토닌 위양성 : 흡연, PPI, 신기능 저하, 만성 갑상선염, 일부 신경내분비종양
 
@@ -574,14 +585,15 @@
 * 오전, 기상 후 2시간 이상 활동한 뒤 5\~15분 앉은 자세에서 채혈
 * 저칼륨혈증을 먼저 교정하고 염분 섭취를 제한하지 않음
 * 대부분의 강압제는 유지한 채 초기 선별 가능
-  * MRA는 안전하게 중단할 수 있으면 통상 4주 이상 중단
+  * Endocrine Society 2025의 최소 중단 전략에서는 안전하게 조정 가능한 경우 MRA·ENaC 억제제를 4주 중단
   * 결과가 임상상과 맞지 않으면 간섭 약물을 조정한 뒤 재검 - 강압이 필요하면 verapamil 서방형·hydralazine·α-차단제로 대체
+  * 의심이 높은 환자의 음성 결과나 β차단제 등으로 레닌이 억제된 상태의 경계 양성은 간섭 요인을 교정하고 재검 고려
 
 **해석·절단값**
 
 * 단위와 검사법(PRA 또는 DRC)에 따라 절단값이 다름 - 검사기관의 기준을 확인
   * 예 : Endocrine Society 2025의 면역측정 PAC와 PRA 조합은 PRA ≤1 ng/㎖/h, PAC ≥10 ng/㎗, ARR ＞20을 함께 확인. DRC를 쓰거나 PAC를 LC-MS/MS로 측정하면 해당 검사법·단위의 기준을 적용
-* 선별 양성이면 확진 검사(식염 부하·captopril 억제 검사 등)와 병변 국소화(부신 CT, 부신정맥채혈)를 위해 고혈압 전문의·내분비내과 의뢰
+* 선별 양성이면 전문의에게 의뢰. 검사 결과와 수술 의향을 바탕으로 알도스테론 억제 검사 및 병변 국소화 검사(부신 CT·부신정맥채혈)의 필요성을 판단
 * 자발성 저칼륨혈증 + 레닌 측정 불가 수준 + PAC 뚜렷한 상승이면 확진 검사를 생략하기도 함
 
 **위양성·위음성**
@@ -612,13 +624,14 @@
 
 **검사 방법**
 
-* 정맥혈; 월경이 있으면 가능하면 월경 주기 초기(2\~5일)에 채혈
+* 정맥혈. POI 평가를 위한 FSH는 특정 월경 주기에 맞춰 채혈할 필요가 없음
 * 복합 호르몬 피임제·고용량 progestogen 사용 중에는 해석이 어려움 - 약제를 검토
 
 **해석·절단값**
 
 * POI : 40세 미만 + 4개월 이상의 무월경 또는 불규칙 월경 + FSH ＞25 IU/L <mark style="color:$info;">\[국제 POI 가이드라인 2024]</mark>
   * 결과가 불확실할 때만 4\~6주 후 재검 - 모든 환자에서 2회 상승이 필수는 아님
+  * 먼저 임신을 배제하고 호르몬제 복용을 확인. 낮은 estradiol은 보조 소견이며 필수 기준이 아님
   * 진단 시 TSH와 골밀도(DXA)를 평가하고, 비의인성 POI는 염색체·FMR1 전변이 검사와 유전상담을 전문의와 진행
 * 폐경 이행기에는 FSH가 주기마다 크게 변동 - 정상 FSH 한 번으로 폐경 이행을 배제하지 않음
 
@@ -634,6 +647,7 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [ESHRE/ASRM/IMS and collaborators. International Guideline on Premature Ovarian Insufficiency. 2024.](https://www.eshre.eu/-/media/sitecore-files/Guidelines/POI/2024/INTERNATIONAL-GUIDELINE-ON-POI-2024.pdf)
 * [Sacks DB, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151-e199.](https://doi.org/10.2337/dci23-0036)
 * 대한고혈압학회. 고혈압 진료지침 2026.
 * AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025. doi:10.1161/CIR.0000000000001356.
@@ -655,11 +669,12 @@
 * 대한갑상선영상의학회. 2021 Korean Thyroid Imaging Reporting and Data System and Imaging-Based Management of Thyroid Nodules. Korean J Radiol 2021;22:2094-2123.
 * Ali SZ, et al. The 2023 Bethesda System for Reporting Thyroid Cytopathology. Thyroid 2023;33:1039-1044.
 * Moorthy R, et al. Evaluation and Management of Thyroid Nodules: BTA/BAETS Joint Consensus Statement. Clin Endocrinol (Oxf) 2026;104:682-692.
-* ESHRE/ASRM/CRE-WHiRL/IMS. Evidence-based guideline: premature ovarian insufficiency. 2024.
 * 대한폐경학회. The 2025 Menopausal Hormone Therapy Guidelines. J Menopausal Med 2025.
 * NICE. Menopause: identification and management (NG23). 2026 개정.
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
+* [건강보험심사평가원. 검사료 기준집, A1C·당화알부민.](https://www.hira.or.kr/ebooksc/2025/10/BZ202510212390104.pdf)
+* [당화알부민 산정 기간 행정해석(2023.1.1. 적용).](https://www.hira.or.kr/bbsDummy.do?brdBltNo=10029&brdScnBltNo=4&pgmid=HIRAA020002000100)
 * 보건복지부. 2026년 제15차 건강보험정책심의위원회 - 중증 2형 당뇨병의 연속혈당측정기·인슐린자동주입기 지원 확대(2026년 12월 시행 예정).
 * 건강보험심사평가원. 갑상선 기능검사의 급여기준, 미량알부민 검사의 급여기준 (심사사례 자료집).

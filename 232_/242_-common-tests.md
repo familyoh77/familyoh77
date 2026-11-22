@@ -1,7 +1,7 @@
 # 공통 기본 검사 Common Laboratory Tests
 
 {% hint style="info" %}
-작성 예정 : CBC·백혈구 감별계산, ESR, 전해질·산염기(음이온 간격·요 전해질), 12유도 심전도, 흉부 X선, SPEP·혈청 유리경쇄(sFLC)·면역고정, 비타민 B12·엽산
+작성 예정 : CBC·백혈구 감별계산, ESR, 전해질·산염기(음이온 간격·요 전해질), 흉부 X선, 비타민 B12·엽산
 {% endhint %}
 
 ## <mark style="color:green;">빈혈 평가 (CBC 지수·망상적혈구·말초혈액도말·용혈 검사)</mark>
@@ -72,7 +72,9 @@
 * 정맥 철분 투여 전 철 과부하 가능성, ferritin 측정법과 사용하려는 치료 지침의 적용 기준을 확인
 * TSAT ≥45%가 반복되면 철분 투여를 보류하고 간질환·수혈력·가족력 평가, 필요하면 혈색소증 유전자 검사·전문의 의뢰
 * 철결핍빈혈 (성인)
-  * ferritin ＜15 ng/㎖ 저장철 고갈을 강하게 시사, ＜30 ng/㎖ 철결핍 가능성 높음
+  * ASH 2026 : 성인(월경군·임신군 포함)에서 ferritin ≤30 ng/㎖를 철결핍 기준으로 사용. 철결핍 위험이 높은 일부 성인과 빈혈이 있는 임신부에서는 ≤50 ng/㎖도 고려함
+  * ferritin ＜15 ng/㎖는 철 저장량 고갈을 강하게 시사
+  * 염증성 빈혈 성인은 ferritin·TSAT를 함께 측정. Ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">[Blood Adv 2026]</mark>
   * 빈혈 성인의 위장관 평가 맥락에서 AGA는 ＜45 ng/㎖를 진단 절단값으로 권고 <mark style="color:$info;">\[Gastroenterology 2020]</mark> - 비빈혈성 철결핍·소아·임신·CKD에 일률 적용하지 않음
   * 철분제 시작 전에 가능하면 ferritin을 채혈
 * 심부전 : TSAT ＜20% 중심의 철결핍 정의를 지지, ferritin도 함께 측정하여 저장철·과부하 평가 <mark style="color:$info;">\[ESC 2026]</mark>
@@ -131,14 +133,14 @@
 
 * 항응고 시작 전 기초 검사 : CBC, Cr·CrCl, 간기능, 체중
 * warfarin : 시작·용량 변경·상호작용 약물 추가 후, 안정화 후 흔히 약 4주 간격
-* DOAC : 정기 INR은 필요 없으나 정기 추적은 필요
+* DOAC : 시작 전 CBC·혈청 Cr·Cockcroft–Gault CrCl·간기능·체중 확인. 이후 같은 항목과 출혈, 복용 여부, 병용약을 재평가하며 정기 INR 측정은 불필요
 
 **검사 방법**
 
 * DOAC 추적 간격 <mark style="color:$info;">\[Europace 2021]</mark>
   * 안정된 환자 : CBC·CrCl·간기능 최소 연 1회
   * ≥75세(특히 dabigatran)·허약 : 약 4개월마다
-  * CrCl ≤60 ㎖/min : 신기능 재검 간격 'CrCl ÷ 10 개월' 이내 (예 : CrCl 40이면 4개월)
+  * CrCl ≤60 ㎖/min : 신기능 재검 간격 CrCl ÷ 10개월 이내 (예 : CrCl 40이면 4개월). 고령·허약 기준도 해당하면 더 짧은 간격을 선택
   * 탈수·감염·급성 신손상, 출혈, 새 상호작용 약물 : 예정일을 기다리지 않고 재평가
 
 **해석·절단값**
@@ -153,6 +155,7 @@
 * DOAC 용량은 eGFR이 아니라 CrCl 기준 - 두 값을 바꿔 쓰지 않음 (☞ 신기능 지표)
 * 근육량이 적은 고령자는 크레아티닌 기반 신기능이 과대평가될 수 있음
 * 일반 PT/INR·aPTT로 DOAC 효과를 정량하지 않음; UFH에는 INR을 쓰지 않음
+* 중증 출혈이나 응급 시술 등에서 DOAC 농도가 판단을 바꿀 때는 마지막 복용 시각과 신기능을 확인. 약제별 검사(예 : Xa 억제제에 대한 해당 약제 보정 anti-Xa, dabigatran에 대한 희석 thrombin time)는 검사실·전문의와 협의
 
 ***
 
@@ -214,6 +217,7 @@
 * eGFR : 검사실이 CKD-EPI 2021(인종 항목 제외) 식으로 자동 보고하는 경우가 많음
 * CrCl (Cockcroft-Gault) = (140 − 나이) × 체중(㎏) ÷ (72 × Cr ㎎/㎗) × (여성 0.85) - 단위 ㎖/min, 체표면적 보정 없음
 * eGFRcr-cys : 크레아티닌과 cystatin C를 함께 쓴 식이 가장 정확
+  * 체격이 매우 크거나 작은 환자에서 약제 용량 기준이 비보정 GFR(㎖/min)이면 eGFR × 체표면적(㎡) ÷ 1.73으로 환산할 수 있음. 이는 Cockcroft–Gault CrCl과 별개
 
 **해석·절단값**
 
@@ -223,10 +227,11 @@
 
 **위양성·위음성**
 
-* 급성 신손상, 탈수 등 신기능이 변하는 중에는 eGFR이 부정확 - 안정 상태에서 재검
+* 급성 신손상·탈수 등 혈청 Cr이 빠르게 변하면 eGFR과 추정 CrCl이 부정확할 수 있음. 시간에 따른 Cr·요량·체액 상태를 함께 평가하고 안정 후 재검
 * 크레아티닌 : 근육량, 고기 섭취, cimetidine·trimethoprim(세뇨관 분비 억제)의 영향
 * cystatin C : 갑상선기능 이상, 고용량 스테로이드, 염증·비만의 영향
 * Cockcroft-Gault는 비만에서 실제 체중을 쓰면 과대평가, 고령·저체중에서는 오차가 큼
+  * 부종·극단 체격·근감소에서는 해당 약제와 적응증에 맞는 체중 적용법을 검토하고, 임의로 한 종류의 보정체중을 모든 약에 적용하지 않음. 판단이 달라질 때 검증된 eGFRcr-cys 또는 측정 GFR을 고려
 
 **급여**
 
@@ -312,11 +317,79 @@
 
 ***
 
+## <mark style="color:green;">단클론감마병증 검사 (SPEP·면역고정·혈청 유리경쇄)</mark>
+
+**무엇을 보는가**
+
+* 혈청 단백전기영동(SPEP) : 단클론 단백의 존재와 양을 확인. 면역고정(IFE)은 소량의 단클론 단백을 검출하고 종류를 확인
+* 혈청 유리경쇄(sFLC) : κ·λ의 절대값과 비율로 유리경쇄만 분비하는 질환의 가능성을 평가
+
+**언제 시행하는가**
+
+* 지속되는 빈혈·신기능 저하·고칼슘혈증·뼈 통증 또는 원인 불명 단백뇨·신경병증에서 단클론감마병증이 의심될 때
+* AL 아밀로이드증 의심, 특히 심장 침범이 의심될 때
+
+**검사 방법·해석**
+
+* 다발골수종 의심 시 SPEP와 sFLC를 함께 검사하고 SPEP가 비정상이면 혈청 IFE로 확인. 임상적 의심이 높으면 단일 음성 검사로 배제하지 않고 전문 평가
+* AL 아밀로이드증 의심 시 **혈청 IFE·소변 IFE·sFLC와 κ/λ 비율을 처음부터 함께** 검사. SPEP에서 M-spike가 안 보이는 경우에도 평가
+* 단클론 단백이 확인되면 혈구·혈청 Ca·신기능, 기타 장기 손상과 함께 해석하고 혈액내과 평가 고려
+
+**검사 결과에 영향을 주는 요인**
+
+* 신기능 저하·다클론성 염증은 sFLC를 올릴 수 있음. κ/λ 비율은 검사법과 eGFR에 맞는 참고범위를 확인
+* 혈청 단클론 단백의 존재만으로 장기 손상의 원인을 확정하기 어려움. 특히 아밀로이드증의 유형 확인에는 전문 평가가 필요
+
+**급여**
+
+* 검사 조합과 적응증별 세부 기준은 미확인
+
+***
+
+## <mark style="color:green;">12유도 심전도 (ECG·전극 위치·QTc)</mark>
+
+**무엇을 보는가**
+
+* 심박수·리듬·전도, 허혈을 시사하는 ST·T 변화, QT 간격을 평가
+
+**언제 시행하는가**
+
+* 급성 흉통·실신·두근거림, 새로 발견된 불규칙 맥박, 전해질 이상, 심질환 및 QT 연장 약제 위험에 따라 시행
+* 성인 심장정지에서 자발순환 회복 후에는 가능한 한 신속히 12유도를 기록. 소생 중 리듬 확인·제세동과 시점을 구분 <mark style="color:$info;">[AHA 2025]</mark>
+
+**검사 방법**
+
+* 표준 기록은 10개 전극으로 12유도를 얻으며 보통 25 ㎜/s·10 ㎜/mV를 사용. 전극 위치·속도·감도를 확인하고, 이전 심전도를 비교
+* V1·V2는 제4늑간 흉골 우·좌연, V4는 제5늑간 좌측 쇄골중앙선, V3는 V2와 V4 사이. V5와 V6는 V4와 같은 수평 높이의 전·중액와선
+
+**해석·절단값**
+
+* 심박수·리듬 → P파·PR → QRS 폭·축 → ST·T → QTc 순으로 확인. QTc는 심박수 보정법이 무엇인지 확인하고 자동 판독이 의심스러우면 직접 확인
+* QT가 길어 보이면 측정·보정법과 병용약, K·Mg·Ca, 서맥을 확인하고 이전 기록과 비교
+  * QT 연장 약제 사용 중 QTc ＞500 ms 또는 기저 대비 ≥60 ms 증가 시 측정값을 확인하고 약물·전해질·증상 및 추가 평가 필요성을 신속히 검토 <mark style="color:$info;">[Circulation 2020]</mark>
+
+**위양성·위음성**
+
+* 전극 오부착·떨림·기저선 흔들림은 부정맥이나 ST 변화를 흉내 낼 수 있음. 첫 ECG가 정상이어도 진행 중인 허혈이나 간헐적 부정맥을 배제하기 어려워 상황에 따라 반복 측정·장기 기록을 선택
+* 급성 관상동맥증후군이 의심되면 정상 ECG나 검사 결과 대기로 이송을 늦추지 않음
+
+**급여**
+
+* 기록 유형·적응증별 세부 산정 기준은 미확인
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [AHA scientific statement. Drug-Induced Arrhythmias. Circulation 2020.](https://doi.org/10.1161/CIR.0000000000000905)
+* [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram. Circulation 2007.](https://doi.org/10.1161/CIRCULATIONAHA.106.180200)
+* [AHA 2025 Guidelines for CPR and ECC, Part 11: Post–Cardiac Arrest Care.](https://doi.org/10.1161/CIR.0000000000001375)
+* [NICE NG35. Myeloma: diagnosis and management.](https://www.nice.org.uk/guidance/ng35/chapter/recommendations)
+* [ASH 2026 Guidelines on Diagnosis of Light Chain Amyloidosis. Blood Adv 2026.](https://doi.org/10.1182/bloodadvances.2025017073)
 * [Silber MH, et al. Serum ferritin measurements differ according to the assay used: implications for iron therapy in restless legs syndrome. J Clin Sleep Med 2025;21:65-67.](https://doi.org/10.5664/jcsm.11332)
+* [American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv 2026.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13743953/)
 * [Fontana RJ, et al. AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury. Hepatology 2023;77:1036-1065.](https://doi.org/10.1002/hep.32689)
 * NICE. Suspected acute respiratory infection in over 16s: assessment at first presentation and initial management (NG237). 2023.
 * KDIGO. 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int 2024;105(4S):S117-S314.

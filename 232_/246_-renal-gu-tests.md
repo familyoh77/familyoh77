@@ -1,7 +1,7 @@
 # 신장·비뇨생식기 검사 Renal & Genitourinary Tests
 
 {% hint style="info" %}
-작성 예정 : 자궁경부암 검진(세포검사·HPV), 정액검사, 남성 성선기능 검사(testosterone)
+작성 예정 : 남성 성기능 설문(IIEF-5·PEDT)
 {% endhint %}
 
 ## <mark style="color:green;">소변 알부민/크레아티닌 비 UACR</mark>
@@ -14,14 +14,15 @@
 **언제 시행하는가**
 
 * 고혈압의 기본 검사 <mark style="color:$info;">\[ACC/AHA 2025]</mark>
+* 심부전의 초기 평가 : eGFR과 함께 CKD·심혈관 위험 및 신보호 치료 판단에 활용 <mark style="color:$info;">[ESC 2026]</mark>
 * 당뇨병 : T2DM은 진단 시부터, T1DM은 진단 5년 후부터 매년
 * 대사증후군의 기본 평가
 * CKD 진단·병기, RAS 차단제·SGLT2 억제제·finerenone 적응증 판단과 치료 반응 추적
 
 **검사 방법**
 
-* 아침 첫 소변이 가장 좋으며 무작위 소변도 가능
-* 비정상이면 3\~6개월 사이 2\~3회 중 2회 이상 비정상일 때 지속성 알부민뇨로 판정
+* 아침 첫 중간뇨를 우선. 임의뇨 UACR가 ≥30 ㎎/g이면 아침 첫 중간뇨로 확인
+* 일시적 상승 요인을 배제하고 재검. 당뇨병에서는 통상 3~6개월 내 3개 검체 중 2개 이상 이상을 확인. CKD 진단에는 신장 이상이 ≥3개월 지속된 근거가 필요
 
 **해석·절단값**
 
@@ -34,11 +35,11 @@
 * 일시적 증가 : 격한 운동, 발열·감염, 요로감염, 월경, 심한 고혈당·고혈압, 심부전 악화 - 회복 후 재검
 * 근육량이 적은 사람(크레아티닌 낮음)은 비가 높게, 근육량이 많은 사람은 낮게 나옴
 * 시험지봉 단백뇨는 알부민 30\~299 ㎎/g 범위를 놓침
-* UACR가 매우 높거나(예: ＞500 ㎎/g) 비알부민 단백뇨(경쇄 등)가 의심되면 UPCR를 함께 측정
+* 신증후군 범위 총단백 정량 또는 비알부민 단백뇨가 의심되면 UPCR를 함께 측정. 경쇄가 의심되면 단클론 단백 검사도 고려
 
 **급여**
 
-* 미세알부민 정량검사는 급여
+* 미량알부민 정량검사(고시 명칭)는 고시상 대상·조건에 따라 요양급여를 산정. 219의 근거 고시는 요일반검사에서 요단백이 검출되지 않고 당뇨병성 신증이 의심되거나 추가 위험인자가 있는 고혈압 등 특정 상황을 명시. 임상적 CKD 선별과 청구의 적응증을 구분하며 최신 세부 문구는 미확인
 
 ***
 
@@ -70,6 +71,8 @@
 * AUA/SUFU 2025 변경
   * 여성 연령 항목은 ＜60세가 저위험·무시할 만한 위험군 범위, ≥60세가 중등도 위험군 범위. 여성은 연령만으로 고위험이 되지 않으며 흡연력·적혈구 수·추가 위험인자를 함께 적용
   * 저위험·무시할 만한 위험군은 즉시 영상·방광경을 시행하는 대신 6개월 이내 요검사를 반복. 혈뇨가 지속되면 재검 소견과 위험인자로 재분류
+  * 중등도 위험군에서 설명을 듣고 방광경을 원하지 않으면 검증된 요종양표지자 또는 요세포검사로 결정을 보조할 수 있음. 신장·방광 초음파는 시행하며 방광경을 보류했다면 12개월 내 요검사, 지속 혈뇨이면 방광경 평가
+  * 감염·비악성 원인 해소 후 현미경 요검사를 반복. AUA/SUFU의 실무 범위는 대략 3주 이후에서 3개월 이내
   * 서로 다른 판의 기준을 섞지 않음
 * 초기 평가 음성 : 국내 2023은 1년 이내 요검사·혈압·단백뇨·eGFR 추적 고려; 새 육안혈뇨나 뚜렷한 증가가 있으면 재평가
 
@@ -77,6 +80,7 @@
 
 * 시험지봉 잠혈만으로 MH를 진단하지 않음 - 현미경 확인
 * 항응고제·항혈소판제 복용 중의 혈뇨도 같은 기준으로 원인 평가
+* 사구체성 단서가 있어도 암 위험에 따른 비뇨의학과 평가를 별도로 판단. 육안혈뇨 자체가 UACR·UPCR을 높일 수 있어 임상상과 불일치하면 가라앉은 뒤 확인
 * 초음파·CT가 정상이어도 방광경을 대신하지 못하고, 비조영 CT·초음파만으로 상부요로 요로상피 평가가 끝났다고 보지 않음
 * 소변 세포검사는 저등급 종양에 민감도가 낮아 고위험군에서 방광경을 대체하지 않음
 
@@ -140,6 +144,7 @@
 **해석·절단값**
 
 * AKI (다음 중 하나) <mark style="color:$info;">\[KDIGO 2012]</mark> : 48시간 이내 Cr ≥0.3 ㎎/㎗ 상승, 7일 이내 기저치의 ≥1.5배, 요량 ＜0.5 ㎖/㎏/h가 6시간 이상
+  * AKI 후에는 경과에 따라 Cr·K·요량을 조기 재평가하고 3개월에 새 CKD 또는 기존 CKD 악화 여부를 확인. KDIGO 2026 개정안은 공개 검토 후 출판 준비 단계이므로 확정된 2012 기준을 사용
 
 <table><thead><tr><th width="100">AKI 병기</th><th width="330">혈청 Cr</th><th>요량 (㎖/㎏/h)</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>기저치의 1.5~＜2.0배 또는 ≥0.3 ㎎/㎗ 상승</td><td>＜0.5가 6~＜12시간</td></tr><tr><td><strong>2</strong></td><td>기저치의 2.0~＜3.0배</td><td>＜0.5가 ≥12시간</td></tr><tr><td><strong>3</strong></td><td>기저치의 ≥3배, Cr ≥4.0 ㎎/㎗, 또는 신대체요법 시작</td><td>＜0.3이 ≥24시간 또는 무뇨 ≥12시간</td></tr></tbody></table>
 
@@ -151,7 +156,12 @@
 
 * 예상 변동을 넘는 변화 : 추적 eGFR ＞20% 변화, 혈역학적 약물 시작 후 eGFR ＞30% 감소, UACR ≥2배 증가 - 원인 평가
 * KFRE 5년 위험 3\~5%는 신장내과 의뢰를 결정하는 보조 기준
+  * G3~G5에서 나이·성별·eGFR·UACR를 이용한 계산을 적용. 2년 위험 ＞10%는 다학제 진료, ＞40%는 신대체요법 교육·준비의 보조 기준 <mark style="color:$info;">[KDIGO 2024]</mark>
 * 초음파 : 작은 신장·피질 위축은 만성성을 지지하나, 정상·큰 신장이 CKD를 배제하지는 않음
+  * AKI에서 감염성 폐쇄가 의심되면 즉시 영상·응급 평가(예: NICE 경로는 6시간 이내 초음파), 폐쇄 위험 또는 원인 불명이면 긴급 초음파(24시간 이내). 초기 폐쇄에서 수신증이 보이지 않을 수 있음
+  * FeNa·FeUrea는 혈역학적 원인과 세뇨관 손상의 감별을 돕는 지표로, CKD·이뇨제 사용·패혈증에서는 수치만으로 원인이나 수액 필요성을 판단하지 않음
+* CKD 빈혈 평가 : 이환 초기에 CBC·망상적혈구·ferritin·TSAT를 함께 확인. KDIGO 2026의 정기 평가 간격은 G3 최소 연 1회, G4 연 2회, G5·투석 3개월마다이며 증상이나 치료에 따라 앞당김. 진단 검사와 철분 투여 절단값은 각각 적용 <mark style="color:$info;">[KDIGO 2026]</mark>
+* CKD-MBD : 성인 G3a부터 Ca·P·PTH·ALP를 추적하고 CKD 병기·추세·치료에 따라 간격을 정함. Ca·P·PTH의 연속 변화와 임상상을 함께 해석 <mark style="color:$info;">[KDIGO 2017]</mark>
 
 **위양성·위음성**
 
@@ -181,6 +191,7 @@
 * 기본 : 소변검사(혈뇨·pH·농뇨) ± 배양, Cr/eGFR, 전해질, Ca(알부민과 함께), 요산; 고칼슘혈증이면 PTH
 * 배출·제거된 결석은 확보하여 적외선 분광법 또는 X선 회절법으로 분석
 * 24시간 소변 : 급성 발작 후 최소 20일(가능하면 약 3개월), 평소 식이·수분 상태에서; 연속 2회(EAU; AUA 2026은 1회 이상 허용) - 요량, Cr, pH, Ca, Na, K, 요산, 옥살산, 구연산
+  * 요 Cr로 채집 완전성을 점검. 소아·25세 이하 또는 반복·양측성 결석과 강한 가족력 등에서 유전성 원인이 의심되면 별도 전문 평가 고려
 
 **해석·절단값**
 
@@ -226,6 +237,7 @@
 * 새로 상승하면 반복 측정으로 확인한 뒤 위험도 계산·바이오마커·전립선 MRI로 생검 필요성 판단 (비뇨의학과)
 * 5ARI(finasteride·dutasteride) 복용 6\~12개월 후에는 PSA가 약 50% 감소 - 측정값을 2배로 보정하여 해석하고, 복용 중 상승은 의미 있게 봄
 * PSA 상승 속도만으로 생검을 결정하지 않음
+* MRI 음성이어도 임상적으로 유의한 암 위험이 남을 수 있음. PSA 밀도(혈청 PSA ÷ 전립선 용적), 직장수지검사·가족력·이전 생검 결과를 고려하여 비뇨의학과에서 판단
 
 **위양성·위음성**
 
@@ -292,6 +304,7 @@
 * 배뇨일지 : 최소 3일; 야간 요량에는 첫 아침 배뇨량을 포함하고 취침 직전 배뇨량은 제외 (첫 아침 배뇨는 야간뇨 횟수에서는 제외)
 * PVR : 배뇨 직후 지체 없이 방광 초음파·방광 스캔
 * 요속검사 : 가능하면 배뇨량 ≥150 ㎖에서, 비대표적이면 반복
+* 배뇨일지에서는 깨어 있는 시간과 수면 시간을 나누고 야간 각성·배뇨 시각을 기록. 야간다뇨, 24시간 다뇨, 방광용적 저하를 구분하는 데 활용
 * 기침 유발검사 : 방광이 적당히 찬 상태에서 기침과 동시에 요도로 새는지 관찰; 누운 자세 음성이면 선 자세로 반복
 
 **해석·절단값**
@@ -300,6 +313,7 @@
 * 야간다뇨 : 야간 요량/24시간 요량 ＞20%(젊은 성인), ＞33%(65세 초과)
 * PVR : 모든 환자에 적용할 단일 절단값은 없음 - 반복값·배뇨량·증상·추세로 판단
   * EAU 남성 LUTS : PVR ＞150 ㎖에서는 항무스카린제 단독 또는 α-차단제 병용을 권고하지 않음
+  * EAU 여성 LUTS는 초기 PVR 측정을 권고하고 AUA/SUFU OAB는 배출 증상 등을 고려한 선택적 측정을 허용. 위 남성 기준은 약제 선택 기준이며 여성의 배출 장애 판정에는 적용하지 않음
 * 낮은 Qmax는 폐색뿐 아니라 배뇨근 저활동에서도 나타남 - Qmax만으로 폐색을 확정하지 않음 (필요하면 요역동학검사)
 
 **위양성·위음성**
@@ -332,6 +346,7 @@
 * 만성 세균성 전립선염 : VB1·VB2보다 EPS·VB3에서 같은 세균이 의미 있게 많음
 * CP/CPPS : 병원성 세균의 일관된 증거 없음 (염증세포는 있을 수 있음)
 * 증상 평가는 NIH-CPSI
+  * NIH-CPSI는 통증·배뇨 증상·삶의 질을 정량해 경과를 비교하며 감염의 증거는 배양·임상 소견으로 판단
 
 **위양성·위음성**
 
@@ -390,12 +405,14 @@
 * 고안드로겐혈증 의심 : total testosterone(가능하면 LC-MS/MS) ± SHBG로 계산한 free testosterone, DHEA-S, 아침 17-OHP(비전형 선천성 부신과형성)
 * 복합 경구피임제는 SHBG를 올리고 androgen을 낮춤 - 생화학 확인이 꼭 필요하면 처방의와 상의하여 최소 3개월 중단 (급속 남성화·종양 의심은 기다리지 않음)
 * 골반 초음파를 초기 평가에서 우선 고려
+* 가임기 급성 복통에서 hCG는 임신 여부를 확인하는 검사. 임신 반응이 양성이고 질식 초음파에서 임신 위치가 확인되지 않으면 위치 미상 임신으로 평가. 안정 환자에서 정량 혈청 β-hCG를 약 48시간 간격으로 재측정하고 질식 초음파로 추적하며 증상·진찰 소견을 함께 해석 <mark style="color:$info;">[NICE NG126]</mark>
 
 **해석·절단값**
 
-<table><thead><tr><th width="270">소견</th><th>시사</th></tr></thead><tbody><tr><td><strong>FSH 상승 (＞25 IU/L), E2 낮음</strong></td><td>조기 난소기능부전(40세 미만) 또는 폐경; 1차성 무월경 + 2차 성징 미발달이면 Turner 증후군 등 - karyotype</td></tr><tr><td><strong>FSH·LH 낮음 또는 낮은 정상, E2 낮음</strong></td><td>기능성 시상하부성 무월경(배제 진단), 중추성 성선저하</td></tr><tr><td><strong>FSH 정상, LH 상승 가능 + 고안드로겐 소견</strong></td><td>다낭난소증후군(PCOS) - LH/FSH 비는 진단 기준이 아님</td></tr><tr><td><strong>prolactin 상승</strong></td><td>약물(항정신병제, metoclopramide 등), 갑상선저하증, 신기능 저하, 뇌하수체 선종 - 경도 상승은 재검·macroprolactin 확인</td></tr><tr><td><strong>TSH 이상</strong></td><td>갑상선 질환 - free T4 추가</td></tr></tbody></table>
+<table><thead><tr><th width="270">소견</th><th>시사</th></tr></thead><tbody><tr><td><strong>FSH 상승 (＞25 IU/L), 낮은 E2는 보조 소견</strong></td><td>조기 난소기능부전(40세 미만) 또는 폐경; 1차성 무월경 + 2차 성징 미발달이면 Turner 증후군 등 - karyotype</td></tr><tr><td><strong>FSH·LH 낮음 또는 낮은 정상, E2 낮음</strong></td><td>기능성 시상하부성 무월경(배제 진단), 중추성 성선저하</td></tr><tr><td><strong>FSH 정상, LH 상승 가능 + 고안드로겐 소견</strong></td><td>다낭난소증후군(PCOS) - LH/FSH 비는 진단 기준이 아님</td></tr><tr><td><strong>prolactin 상승</strong></td><td>약물(항정신병제, metoclopramide 등), 갑상선저하증, 신기능 저하, 뇌하수체 선종 - 경도 상승은 재검·macroprolactin 확인</td></tr><tr><td><strong>TSH 이상</strong></td><td>갑상선 질환 - free T4 추가</td></tr></tbody></table>
 
 * 뇌하수체 MRI : 설명되지 않는 지속성 진성 prolactin 상승, 두통·시야 이상, 다른 뇌하수체 호르몬 이상
+  * 경도 prolactin 상승은 검사실 기준을 적용해 재검하고 약물·채혈 스트레스·갑상선·신기능을 확인. 증상과 맞지 않는 지속적 상승은 macroprolactin을 확인한 뒤 영상의 필요성을 판단
 
 **위양성·위음성**
 
@@ -433,6 +450,8 @@
   * 폐경 후 출혈 : ACOG 2026은 대부분에서 초기 평가에 TVUS와 자궁내막 조직검사를 함께 권고 <mark style="color:$info;">\[Obstet Gynecol 2026]</mark>
   * 첫 1회 출혈이고 자궁내막 전체가 잘 보이며 두께 ≤4 ㎜인 저위험 환자는 TVUS 단독으로 시작할 수 있음. 신속한 재평가가 가능해야 하며, 출혈이 지속·재발하면 내막 두께와 관계없이 즉시 재평가
 * 생식연령에서는 자궁내막 두께가 주기에 따라 변하므로 폐경 후의 4 ㎜ 기준을 적용하지 않음
+* 자궁내막이 충분히 보이지 않거나 국소·비균질 병변이 있거나 맹검 검체가 불충분한 경우에는 필요한 조직 평가를 계획. 지속·재발 출혈, 국소 병변에서는 자궁경 표적 생검을 고려. Tamoxifen 복용 중 출혈은 두께만으로 평가를 마치지 않음 <mark style="color:$info;">[AAGL–ESGE–GCH 2026]</mark>
+* 출혈 없는 폐경 여성의 우연한 내막 비후는 모양·암 위험인자에 따라 판단. PMB 기준 4 ㎜는 증상이 있는 상황의 기준
 * 전형적인 청소년 HMB는 구조적 원인이 드물어 영상을 일률적으로 하지 않음
 
 **위양성·위음성**
@@ -443,10 +462,117 @@
 
 ***
 
+## <mark style="color:green;">자궁경부암 선별검사 (세포검사·고위험 HPV)</mark>
+
+**무엇을 보는가**
+
+* 자궁경부 세포검사는 세포 이상을, 고위험 HPV 검사는 암 관련 유형의 감염을 확인. 검사법·과거 결과에 따라 이형성의 위험을 추정
+
+**언제 시행하는가**
+
+* 한국 국가암검진사업은 20세 이상 여성에서 2년에 한 번 자궁경부 세포검사
+* 면역저하·고도 병변 치료력·자궁경부 수술력이 있으면 일반 검진 간격과 별도의 추적이 필요함. 성교 후 반복 출혈·육안 병변 등은 진단 평가 대상
+
+**검사 방법**
+
+* 자궁경부에서 세포 검체를 채취하고, HPV 검사는 검증된 검체·검사법을 사용. 이전 결과·치료력과 금번 검사가 단독 선별인지, 병합 또는 반사 검사인지 기록
+
+**해석·절단값**
+
+* 고위험 HPV 검출만으로 암을 진단하지 않음. HPV 유형, 세포검사, 과거 병력에 따라 재검 또는 질확대경·조직검사를 의뢰
+* 비정형·고도 세포 이상 또는 HPV 16·18 검출은 적용 지침의 위험도 경로에 따라 평가
+
+**위양성·위음성**
+
+* 일시적 HPV 감염, 검체 부적합, 출혈·염증에 의한 판독 제한을 고려. 음성 선별검사로 증상이나 육안 병변을 평가하는 절차를 대체하지 않음
+
+**급여**
+
+* 국가암검진에서 자궁경부 세포검사를 시행. HPV 검사 비용은 목적·항목별 별도 조건이며 현행 세부 적용은 미확인
+
+***
+
+## <mark style="color:green;">남성 성선기능 검사 (총 testosterone·유리 testosterone·LH·FSH)</mark>
+
+**무엇을 보는가**
+
+* 총 testosterone으로 안드로겐 상태를 평가. LH·FSH는 반복 저하가 확인된 환자에서 고환성인지 중추성인지 분류하는 데 도움
+
+**언제 시행하는가**
+
+* 성욕 저하·자발 발기 감소·불임 등의 증상 또는 징후가 있을 때. 발기부전 초기 평가에서 대사 위험과 함께 고려
+
+**검사 방법**
+
+* 다른 날 두 번 아침 공복 총 testosterone을 측정. 야간근무자는 수면·각성 주기를 고려하고, 급성 질환이나 심한 수면 부족이 해소된 뒤 확인
+* 경계값이거나 SHBG 이상이 의심되면 SHBG·albumin 기반 계산 유리 testosterone 또는 신뢰할 수 있는 유리 testosterone 방법을 고려
+
+**해석·절단값**
+
+* 합당한 증상·징후와 반복해서 낮은 수치가 함께 있을 때 진단. AUA의 총 testosterone ＜300 ng/㎗는 보조 절단값이며 사용한 검사법의 참고구간을 함께 확인
+* 낮은 testosterone과 LH·FSH 상승은 원발성, 낮거나 부적절하게 정상인 LH·FSH는 중추성 원인을 시사. 중추성 소견이면 필요에 따라 prolactin과 다른 뇌하수체 축을 평가
+
+**위양성·위음성**
+
+* 비만·당뇨병·갑상선 질환 등은 SHBG를 변화시켜 총 농도와 유리 분획의 해석을 다르게 할 수 있음. 단회 저하만으로 확진하지 않음
+
+**급여**
+
+* 적응증과 검사 조합별 세부 인정 기준은 미확인
+
+***
+
+## <mark style="color:green;">정액검사 (남성 불임·정관절제술 후 확인, PVSA)</mark>
+
+**무엇을 보는가**
+
+* 가임력 평가에서 정액량·정자 농도·총수·운동성·형태를 확인. 정관절제술 후 정액검사(PVSA)는 잔존 정자와 운동성을 확인하여 피임 성공 여부를 판단
+
+**언제 시행하는가**
+
+* 남성 요인 불임, 사정 장애에 따른 불임 의심, 정관절제술 후 피임 성공 확인
+
+**검사 방법**
+
+* 가임력 평가 : 검사기관의 채취·운송 지침을 우선하며, 일반적으로 2~7일 금욕 후 전체 검체를 채취하고 금욕 기간·채취 시각·검체 손실 여부를 기록
+* PVSA : CDC는 수술 후 8~16주 검사를 권고. 수술기관과 검사실이 지정한 검체·운송·판정 기준을 따름
+
+**해석·절단값**
+
+* 가임력은 여러 지표와 양측의 생식력을 종합하여 판단. WHO 참고 하한만으로 불임을 확진하거나 배제하지 않으며, 비정상 결과는 새 검체로 확인
+* 정액량이 적고 역행성 사정이 의심되면 사정 직후 요검체의 정자를 정액량·병력과 함께 평가. 소량의 정자 검출만으로 확진하지 않음
+* PVSA는 수술기관의 판정 기준에 따라 무정자증 또는 허용 범위 내 비운동성 정자가 확인될 때까지 다른 피임을 유지. 운동성 정자가 남아 있거나 허용 기준을 넘으면 재검 및 비뇨의학과 평가
+
+**위양성·위음성**
+
+* 검체 일부 손실, 발열 후 일시적 변화, 운송 지연·온도 변동은 검사값에 영향. PVSA와 가임력용 기준을 구분
+
+**급여**
+
+* 목적별 세부 산정 기준은 미확인
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [NICE NG148. Acute kidney injury, 1.4.5–1.4.6.](https://www.nice.org.uk/guidance/ng148/chapter/Recommendations)
+* [KDIGO 2017 CKD-MBD Guideline Update.](https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2017-CKD-MBD-Guideline.pdf)
+* [ASRM. Current evaluation of amenorrhea, 2024.](https://www.asrm.org/practice-guidance/practice-committee-documents/current-evaluation-of-amenorrhea)
+* [WHO laboratory manual for the examination and processing of human semen, 6th ed. 2021.](https://www.who.int/publications/i/item/9789240030787)
+* [CDC U.S. Selected Practice Recommendations. Permanent contraception, 2024.](https://www.cdc.gov/contraception/hcp/usspr/permanent-contraception.html)
+* [Endocrine Society. Testosterone Therapy in Men with Hypogonadism. J Clin Endocrinol Metab 2018.](https://doi.org/10.1210/jc.2018-00229)
+* [AUA. Evaluation and Management of Testosterone Deficiency.](https://www.auanet.org/documents/Guidelines/PDF/Testosterone-Deficiency-JU.pdf)
+* [보건복지부. 국가암검진사업.](https://www.mohw.go.kr/menu.es?mid=a10706050300)
+* [CDC. Screening for Cervical Cancer.](https://www.cdc.gov/cervical-cancer/screening/index.html)
+* [KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in CKD, Fig. 5.](https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2026-Anemia-in-CKD-Guideline.pdf)
+* [KDIGO. Acute Kidney Injury and Acute Kidney Disease 지침 상태.](https://kdigo.org/guidelines/acute-kidney-injury/)
+* [AUA/SUFU. Microhematuria Guideline 및 위험도 경로 2025.](https://www.auanet.org/guidelines-and-quality/guidelines/microhematuria)
+* [EAU. Non-neurogenic Female LUTS, Diagnosis.](https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/diagnosis)
+* [AAGL–ESGE–GCH. Visually directed hysteroscopic biopsy guideline. 2026.](https://pubmed.ncbi.nlm.nih.gov/42522756/)
+* [NICE NG126. Ectopic pregnancy and miscarriage: diagnosis and initial management.](https://www.nice.org.uk/guidance/ng126/chapter/recommendations)
+* [ESC. Guidelines for the management of heart failure. Eur Heart J 2026.](https://doi.org/10.1093/eurheartj/ehag100)
 * [KDIGO. Clinical practice guideline for the management of glomerular diseases. 2021. Figure 4.](https://kdigo.org/wp-content/uploads/2021/10/KDIGO-2021-Guideline-for-the-Management-of-Glomerular-Diseases.pdf)
 * AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025. doi:10.1161/CIR.0000000000001356.
 * KDIGO. 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int 2024;105(4S):S117-S314.

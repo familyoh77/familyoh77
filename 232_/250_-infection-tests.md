@@ -1,7 +1,7 @@
 # 감염 검사 Infection Tests
 
 {% hint style="info" %}
-작성 예정 : 말라리아·뎅기·쯔쯔가무시·SFTS 검사, β-D-glucan·galactomannan, FDG-PET/CT, 패혈증 선별 점수(SIRS·qSOFA·NEWS2), 영아 발열 위험 분류(PECARN·Step-by-Step)
+작성 예정 : 말라리아·뎅기·쯔쯔가무시·SFTS 검사, β-D-glucan·galactomannan, FDG-PET/CT, 패혈증 선별 점수(SIRS·qSOFA·NEWS2)
 {% endhint %}
 
 ## <mark style="color:green;">프로칼시토닌 Procalcitonin, PCT</mark>
@@ -31,6 +31,7 @@
   * ＞0.5 ng/㎖ : 세균 감염 가능성 높음
 * 항생제 중단 : 최고치보다 80% 이상 감소하거나 기준 미만(하기도감염 ≤0.25, 패혈증 ≤0.5 ng/㎖)으로 떨어지면 임상적 호전과 함께 중단 고려
 * PCT ＞0.25 ng/㎖를 세균성 폐렴 확진 기준으로 쓰지 않음 (☞ 호흡기 질환의 임상적 진단 > 흔한 진단 오류)
+* 생후 90일 이하의 발열 영아는 연령과 임상 상태에 맞춘 별도 위험 분류를 적용. PCT 기준은 사용하는 규칙에 따라 PECARN ≤0.5, Step-by-Step ＜0.5 ng/㎖로 다름 <mark style="color:$info;">[CPS]</mark>
 
 **위양성·위음성**
 
@@ -104,10 +105,11 @@
 
 **해석·절단값**
 
-* McIsaac : 0\~1점 저위험, 2\~3점 중간위험, 4\~5점 고위험 <mark style="color:$info;">\[IDSA 2025]</mark>
+* McIsaac : ≤1점 저위험, 2\~3점 중간위험, 4\~5점 고위험 <mark style="color:$info;">\[IDSA 2025]</mark>
 * 성인(19세 이상) 국내 전략 <mark style="color:$info;">\[질병관리청 2026]</mark>
   * ＜3점 : 일반적으로 검사·항생제 없이 대증 치료
   * ≥3점 : RADT 시행, 양성이면 항생제; 검사를 할 수 없으면 경험적 항생제 고려
+* 밀접 접촉, 류마티스열 병력 또는 합병증 의심은 점수와 별도로 평가
 * 소아·청소년에는 성인의 '＜3점 무검사' 전략과 '검사 불가 시 경험적 치료' 전략을 그대로 적용하지 않음
 * FeverPAIN (검사 없이 쓰는 NICE 전략) : 0\~1점 항생제 없음, 2\~3점 항생제 없음 또는 지연 처방, 4\~5점 즉시 또는 지연 처방
 
@@ -155,7 +157,7 @@
 
 **급여**
 
-* 신속항원검사 또는 PCR로 인플루엔자 양성이 확인되면 유행주의보 발령 여부와 관계없이 항바이러스제(oseltamivir 등)가 급여 적용됨; 유행주의보 기간에는 고위험군에게 검사 없이 임상 증상만으로 처방해도 급여 (☞ 인플루엔자)
+* 검사 행위의 세부 급여는 미확인. 항바이러스제는 양성 결과와 현행 약제별 급여 조건을 함께 충족할 때 인정. 유행주의보 기간의 고위험군 예외는 해당 절기 고시와 약제별 기준을 확인
 
 ***
 
@@ -216,6 +218,7 @@
   * 비인두 도말 : 증상 발생 3주 이내 <mark style="color:$info;">\[질병관리청 2026]</mark>
   * 비인두 흡인물·가래 : 증상 발생 2주 이내 <mark style="color:$info;">\[질병관리청 2026]</mark>
   * 배양은 첫 2주가 가장 적합
+  * PCR 민감도는 기침이 시작된 첫 3주에 가장 높고 3~4주를 지나면 감소. 검체 채취 권고 시점과 음성 결과의 한계를 구분
 * 항생제 투여 5일 이후의 PCR은 통상 권장하지 않음 <mark style="color:$info;">\[CDC]</mark>
 
 **해석·절단값**
@@ -292,13 +295,14 @@
 
 <table><thead><tr><th width="250">상황</th><th>의미 있는 균수</th></tr></thead><tbody><tr><td><strong>무증상 세균뇨 - 여성 중간뇨</strong></td><td>같은 균 ≥10⁵ CFU/㎖ 연속 2회 (임신부 선별은 1회)</td></tr><tr><td><strong>무증상 세균뇨 - 남성 중간뇨</strong></td><td>≥10⁵ CFU/㎖ 1회</td></tr><tr><td><strong>도뇨관 관련 증상성 UTI</strong></td><td>맞는 증상이 있고 다른 원인이 없을 때 도뇨 검체에서 ≥10³ CFU/㎖</td></tr><tr><td><strong>유치 도뇨관의 무증상 세균뇨</strong></td><td>≥10⁵ CFU/㎖. 일시 도뇨나 새 도뇨관에서 10²~＜10⁵ CFU/㎖는 실제 세균뇨일 수 있으나, 무증상일 때 임상적 의미는 확립되지 않음</td></tr><tr><td><strong>증상성 방광염 - 여성</strong></td><td>전형적 증상·농뇨가 있으면 단일 요로병원균 ≥10² CFU/㎖도 의미 가능</td></tr><tr><td><strong>증상성 UTI - 남성</strong></td><td>≥10³ CFU/㎖를 증상과 함께 해석</td></tr><tr><td><strong>신우신염</strong></td><td>≥10⁴ CFU/㎖ (민감도 약 90~95%); ＜10⁵만으로 배제하지 않음</td></tr></tbody></table>
 
-* 농뇨 : ≥10 WBC/HPF
+* 농뇨 절단값은 검체 처리와 검사법에 따라 다름. 요침사에서는 보통 ＞5~10 WBC/HPF를 참고. 농뇨의 존재나 절단값 충족만으로 증상성 UTI를 진단하지 않음
 * 혼합균 다수·편평상피세포 다수는 오염 - 적절히 재채취
+* 임신부 산전 선별의 중간뇨 배양은 1회 기준. 임신 중 GBS 세균뇨는 균수와 증상에 따른 산전 치료 판단과 분만 중 예방 항생제 적응증을 별도로 확인
 
 **위양성·위음성**
 
 * 농뇨·세균뇨·냄새·혼탁만으로 증상성 UTI를 확정하지 않음
-* 무증상 세균뇨는 고령자·도뇨관 환자에서 흔하며 치료 대상이 아님
+* 고령자·도뇨관 환자의 무증상 세균뇨는 흔하며 일률적 치료가 필요하지 않음. 임신과 점막 손상이 예상되는 비뇨기 시술 전은 별도 경로
 * 선행 항생제, 잦은 배뇨(희석·짧은 체류)는 균수를 낮춤
 * 일반 배양은 임질·클라미디아·결핵을 검출하지 못함 - 무균성 농뇨면 NAAT·결핵 검사 고려
 
@@ -331,15 +335,19 @@
 
 * 노출 부위(요도·질·자궁경부·인두·직장)에 따라 검체 선택 - 성정체성·성적 지향만으로 정하지 않음
   * 남성 : 첫 소변 (중간뇨 배양 검체와 구분)
+  * 무증상 인두 클라미디아의 일률적 선별은 권고되지 않음. 검사 부위와 검체는 노출력 및 대상 감염에 따라 결정
   * 여성 : 질 면봉이 우선 (검증된 자가 채취 가능)
   * 인두·직장 : 해당 검체가 검증된 검사인지 확인
 * 임질 치료 실패·내성 의심 : 재치료 전 배양·감수성
+* 임균 NAAT는 감수성을 알려주지 않음. 인두 NAAT 완치 판정 양성은 가능한 경우 재치료 전에 배양으로 확인하고 분리 균주의 감수성을 평가
 * 생식기 궤양 : 매독 혈청검사 + 병변 HSV NAAT 또는 배양
 * 최근 노출 후 창기간이면 병원체별 적정 시점에 반복 검사
 
 **해석·절단값**
 
-* 재검사 : 임질·클라미디아는 치료 약 3개월 후 재감염 검사; 임신 중 클라미디아는 치료 약 4주 후 완치 판정 NAAT
+* 재감염 검사 : 임질·클라미디아 및 여성 트리코모나스 감염은 치료 약 3개월 후 시행
+* 완치 판정 검사(CDC 기준) : 인두 임질은 치료 7~14일 후 배양 또는 NAAT. 7일에 가까운 NAAT는 잔류 핵산 위양성 가능성이 높음. 임신 중 클라미디아는 치료 완료 약 4주 후 NAAT. 권장 요법을 마친 요로생식기·직장의 단순 임질에서는 일률적 완치 검사가 필요하지 않으며 검사 지역·임신·증상·내성 위험에 따라 별도 경로 확인
+  * 국내 성매개감염 지침 2023 : 임신 중 임질은 완치 판정 검사를 시행. NAAT로 완치 판정 시 치료 종료 3주 이후가 원칙이므로, 인두 감염의 7~14일 검사에는 배양을 우선 사용. CDC의 인두 NAAT 시점과 구분
 * HIV : 검사실 표준 알고리듬에서는 4세대 검사 반응성 → HIV-1/2 항체 감별검사 → 감별검사 음성·미결정이면 HIV-1 NAT. 확인검사와 신고 절차는 검사기관·보건당국 지침에 따름. 최근 고위험 노출·급성 HIV 의심이면 선별검사가 음성이어도 HIV RNA와 반복 검사 고려
 
 **위양성·위음성**
@@ -383,6 +391,7 @@
 * 전대 현상(prozone) : 2기 매독처럼 항체가가 매우 높으면 희석하지 않은 검체에서 RPR/VDRL 위음성 - 증상이 뚜렷하면 희석 재검
 * 초기 1기 매독은 두 검사 모두 음성일 수 있음 - 병변 직접 검사(암시야 현미경, NAAT) 또는 재검
 * CSF-VDRL은 특이도가 높고 민감도가 낮아 음성으로 신경매독을 배제하지 않음
+  * 신경계 소견과 혈청 반응성을 바탕으로 CSF 검사를 선택하고, 혈액 혼입 없는 CSF-VDRL 양성, CSF 세포수·단백 및 임상상을 함께 해석. 안·귀 증상은 신속히 전문 평가
 
 ***
 
@@ -410,11 +419,12 @@
 
 <table><thead><tr><th width="140">질환</th><th width="120">pH</th><th>주요 소견</th></tr></thead><tbody><tr><td><strong>세균성 질증</strong></td><td>＞4.5</td><td>Amsel 4개 중 ≥3개 : ① 균질한 회백색 분비물 ② clue cell ≥20% ③ pH ＞4.5 ④ whiff 양성; 또는 Nugent 7~10점</td></tr><tr><td><strong>칸디다증</strong></td><td>＜4.5 (정상)</td><td>KOH에서 출아효모·가성균사; 덩어리진 분비물, 가려움</td></tr><tr><td><strong>트리코모나스증</strong></td><td>흔히 ＞4.5</td><td>NAAT 양성; 습식 도말의 움직이는 원충(민감도 낮음)</td></tr><tr><td><strong>위축성·염증성 질염</strong></td><td>상승</td><td>방기저세포, 백혈구 증가, 유산균 감소</td></tr></tbody></table>
 
-* Nugent 점수(그람염색) : 0\~3 정상, 4\~6 중간형, 7\~10 BV - 연구용 참고 표준
+* Nugent 점수(그람염색) : 0~3 정상, 4~6 중간형, 7~10 BV. 검사실 판정의 참고 표준이며 BV NAAT는 주로 증상이 있는 환자에서 해석
 
 **위양성·위음성**
 
 * KOH 현미경의 칸디다 민감도는 약 50% - 의심되면 배양
+* 무증상 Candida 검출은 집락화 가능성이 있음. 지속·재발하는 트리코모나스 감염에서 NAAT로 평가할 때는 잔류 핵산에 의한 양성을 줄이기 위해 치료 완료 최소 3주 뒤 시행
 * 폐경·수유기 등 저에스트로겐 상태는 pH를 올림 - pH 단독 진단 불가
 * _Gardnerella_ 단독 PCR 양성은 BV 확진이 아님; _M. hominis_·_Ureaplasma_ 검출만으로 질염 원인으로 단정하지 않음
 * 자궁경부 세포검사(Pap)에서 우연히 보고된 트리코모나스는 민감한 검사로 확인 후 치료
@@ -575,14 +585,14 @@
 **검사 방법**
 
 * B형간염 접종 전 감염·면역 확인 : HBsAg + anti-HBs (± anti-HBc) (☞ B형간염 혈청검사)
-* 고위험군 접종 후 : 3차 접종 1\~2개월 후 anti-HBs
-* HBsAg 양성·미상 산모의 영아 : 기초접종 후 생후 9\~15개월에 HBsAg·anti-HBs 정량 (생후 9개월 이전에는 검사하지 않음)
+* 항체 확인이 필요한 고위험군 : 해당 기초 접종의 마지막 접종 1~2개월 후 anti-HBs. 영아 주산기 노출은 아래의 별도 일정 적용
+* B형간염 주산기감염 예방사업의 영아 : 기초접종 후 생후 9~15개월에 HBsAg와 정량 anti-HBs. 생후 9개월 전은 검사하지 않음. 산모 HBsAg가 미상이면 결과와 노출 경로를 확인하여 산과·소아청소년과 지침 적용
 
 **해석·절단값**
 
 * anti-HBs ≥10 mIU/㎖ : 반응 - 정상 면역자는 이후 항체가가 떨어져도 정기 추가접종하지 않음
-* ＜10 mIU/㎖ : 1회 추가 접종 후 1개월 뒤 재검, 여전히 ＜10이면 남은 접종을 마치고 1\~2개월 후 anti-HBs·HBsAg - 두 차례 완전 접종 후에도 ＜10이면 비반응자로 교육, 노출 시 HBIG
-* 혈액투석 등 지속 고위험군 : 정기적으로 anti-HBs를 확인하고 ＜10이면 추가 접종
+* ＜10 mIU/㎖ : 의료인과 주산기 노출 영아는 노출 여부·접종력·HBsAg에 따라 각각의 재접종·재검 경로를 적용. 두 차례 완전 접종 후에도 미반응인 의료인의 노출 후 처치는 노출원의 HBsAg와 접종반응 기록을 확인
+* 혈액투석 환자 : anti-HBs를 통상 매년 확인하고 ＜10 mIU/㎖이면 추가 접종. 다른 면역저하 환자는 위험에 따라 주기를 결정
 * 풍진 면역의 증거 : 풍진 IgG 양성 또는 생후 12개월 이후 유효한 접종 기록 - 과거 접종했어도 항체 음성인 가임기 여성은 1회 추가 접종 후 재검하지 않음 (총 3회 한도)
 
 **위양성·위음성**
@@ -593,10 +603,41 @@
 
 ***
 
+## <mark style="color:green;">발열 영아 위험 분류 (PECARN·Step-by-Step)</mark>
+
+**무엇을 보는가**
+
+* 발열 영아에서 균혈증 또는 세균성 수막염 등 침습성 세균 감염의 위험을 층화
+
+**언제 시행하는가**
+
+* 생후 90일 이하, 신뢰할 수 있는 체온이 ≥38.0 ℃인 양호한 전신 상태의 영아를 연령별 병원 경로에 따라 평가. 아파 보이는 영아나 고위험 병력이 있는 영아는 점수와 무관하게 신속히 평가
+
+**검사 방법**
+
+* 병원에서 연령·전신 상태·병력을 확인하고, 적절히 채취한 소변검사와 혈액 염증표지자를 정해진 규칙에 따라 해석
+
+**해석·절단값** <mark style="color:$info;">[CPS 발열 영아 지침]</mark>
+
+* PECARN (이 책의 적용 예: 생후 29~60일) : 소변 백혈구에스테라제·nitrite 음성 및 WBC ≤5/HPF, ANC ≤4,000/㎕, PCT ≤0.5 ng/㎖를 모두 충족하면 저위험
+* Step-by-Step : 양호한 전신 상태, 생후 22~90일, 소변 백혈구 음성, PCT ＜0.5 ng/㎖, CRP ≤20 ㎎/L, ANC ≤10,000/㎕를 모두 충족하면 저위험
+* 저위험으로 분류되어도 연령·소변검사·추적 가능성에 따라 추가 검사와 관찰을 결정
+
+**위양성·위음성**
+
+* 규칙의 항목과 절단값을 섞거나 PCT 단독으로 배제하지 않음. PCT를 이용할 수 없으면 해당 기관의 별도 경로를 적용
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [질병관리청·대한감염학회 등. 성매개감염 진료지침 2023, 임균감염의 추적 관찰.](https://www.daedeok.go.kr/board/binary/CHC_000005/2085881.pdf)
+* [CDC. Sexually Transmitted Infections Treatment Guidelines.](https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf)
+* [질병관리청. 2026년 국가예방접종 지침, B형간염 주산기감염 예방사업.](https://www.kdca.go.kr/bbs/kdca/55/306843/download.do)
+* [CDC. STI Treatment Guidelines, Hepatitis B.](https://www.cdc.gov/std/treatment-guidelines/hbv.htm)
+* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. Table 1.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days)
 * [CDC. Laboratory testing for Epstein-Barr virus (EBV). 2024.](https://www.cdc.gov/epstein-barr/php/laboratories/index.html)
 * [CDC/APHL. Recommended laboratory HIV testing algorithm for serum or plasma specimens.](https://stacks.cdc.gov/view/cdc/23446)
 * [Hooton TM, et al. Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults. Clin Infect Dis 2010;50:625-663.](https://doi.org/10.1086/650482)
@@ -612,7 +653,6 @@
 * Nicolle LE, et al. Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by IDSA. Clin Infect Dis 2019;68:e83-e110.
 * EAU Guidelines on Urological Infections. 2026.
 * Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep 2021;70(4):1-187.
-* 질병관리청·대한감염학회 등. 성매개감염 진료지침. 2023.
 * 질병관리청. 홍역 대응 지침 2026; 2026년도 예방접종대상감염병 관리 지침(유행성이하선염); 2026년도 엔테로바이러스감염증·수족구병 관리지침.
 * CDC. Measles Surveillance Manual 2025; Laboratory Testing for Mumps.
 * Mitchell KB, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum. Breastfeed Med 2022.

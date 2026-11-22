@@ -28,6 +28,7 @@
 * 청진법 : 손목 맥박이 사라진 뒤 20\~30 ㎜Hg 더 올리고 초당 2 ㎜Hg 정도로 감압; Korotkoff 1기를 SBP, 5기를 DBP로 하여 2 ㎜Hg 단위로 기록
 * 1\~2분 간격으로 2회 측정하여 평균 (부정맥이 있으면 3회 이상)
 * 첫 방문에는 양팔을 모두 재고 높은 쪽을 기준으로 함; 이후에는 높은 쪽 팔에서 측정
+  * 양팔 차이가 일관되게 ＞10 ㎜Hg이면 이후 높은 쪽 팔에서 측정
 * 진료실에서는 청진법보다 검증된 자동 혈압계를 우선 사용 <mark style="color:$info;">\[ACC/AHA 2025]</mark>
 * AOBP : 의료진이 없는 별도의 방에서 5분 휴식 후 1분 간격으로 3회 자동 측정하여 평균
 
@@ -35,7 +36,7 @@
 
 * 혈압 분류 <mark style="color:$info;">\[대한고혈압학회 2026]</mark>
 
-<table><thead><tr><th width="150">분류</th><th width="130">SBP (㎜Hg)</th><th width="80"></th><th>DBP (㎜Hg)</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>＜120</td><td>그리고</td><td>＜80</td></tr><tr><td><strong>주의 혈압</strong></td><td>120~129</td><td>그리고</td><td>＜80</td></tr><tr><td><strong>고혈압 전단계</strong></td><td>130~139</td><td>또는</td><td>80~89</td></tr><tr><td><strong>고혈압 1기</strong></td><td>140~159</td><td>또는</td><td>90~99</td></tr><tr><td><strong>고혈압 2기</strong></td><td>≥160</td><td>또는</td><td>≥100</td></tr><tr><td><strong>수축기단독고혈압</strong></td><td>≥140</td><td>그리고</td><td>＜90</td></tr></tbody></table>
+<table><thead><tr><th width="150">분류</th><th width="130">SBP (㎜Hg)</th><th width="80"></th><th>DBP (㎜Hg)</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>＜120</td><td>그리고</td><td>＜80</td></tr><tr><td><strong>주의 혈압</strong></td><td>120~129</td><td>그리고</td><td>＜80</td></tr><tr><td><strong>고혈압 전단계</strong></td><td>130~139</td><td>또는</td><td>80~89</td></tr><tr><td><strong>고혈압 1기</strong></td><td>140~159</td><td>또는</td><td>90~99</td></tr><tr><td><strong>고혈압 2기</strong></td><td>≥160</td><td>또는</td><td>≥100</td></tr><tr><td><strong>수축기단독고혈압</strong></td><td>≥140</td><td>그리고</td><td>＜90</td></tr><tr><td><strong>이완기단독고혈압</strong></td><td>＜140</td><td>그리고</td><td>≥90</td></tr></tbody></table>
 
 > _SBP와 DBP가 서로 다른 범주에 속하면 높은 범주를 적용._
 
@@ -47,7 +48,7 @@
 
 * 실제보다 높게 측정 : 팔 둘레에 비해 작은 커프, 등받이 없는 의자(DBP 약 6 ㎜Hg), 다리를 꼰 자세(SBP 2\~8 ㎜Hg), 팔을 지지하지 않거나 심장보다 낮은 위치, 측정 중 대화, 백의 효과
 * 실제보다 낮게 측정 : 큰 커프, 가면 고혈압(진료실에서만 정상)
-* 누운 자세는 앉은 자세보다 SBP가 약 8 ㎜Hg 높음
+* 앙와위 SBP는 좌위보다 3~10 ㎜Hg 높게 보고됨. 기립 시 변화는 실제 측정값으로 판단 <mark style="color:$info;">[Hypertension 2019]</mark>
 
 ***
 
@@ -79,6 +80,7 @@
   * 수면·기상·복약 시각을 기록하고 실제 수면 구간으로 주간·야간을 나눔
   * 유효 측정이 계획의 70% 이상, 주간 20회·야간 7회 이상이어야 판정 가능 - 부족하면 재검
 * 커프 없는 혈압계(반지형·스마트워치 등) : 진료실 밖 혈압의 보조 수단으로만 활용; 진단·치료 결정은 검증된 커프형 혈압계 기준 <mark style="color:$info;">\[대한고혈압학회 2026]</mark>
+  * AHA/ACC 2025는 정확도 검증의 한계로 커프리스 혈압계를 혈압 측정에 사용하지 않도록 권고
 
 **해석·절단값**
 
@@ -98,7 +100,7 @@
 
 **급여**
 
-* 24시간 활동혈압 측정은 급여 행위 (반지형 활동혈압계 포함)
+* 24시간 활동혈압 측정은 요양급여 행위. 해당 커프리스 혈압계의 품목별 적용 범위와 산정 조건은 미확인
 
 ***
 
@@ -123,13 +125,16 @@
 
 * 3분에 정상이나 증상이 계속되면 5\~10분 이상 연장하여 지연형 OH 평가
 * 기립 직후(15초 이내) 급격히 떨어졌다 회복되는 초기형 OH는 일반 커프 측정으로 잡기 어려움 - 필요하면 연속 혈압 측정
+  * 혈압 회복 지연 : 기립 직후 하강한 혈압이 약 30초에도 충분히 회복되지 않는 양상. 1·3분 커프 측정 사이에 놓칠 수 있음
 * 앉은 자세에서 시작한 검사가 음성이어도 의심되면 누운 자세에서 재검
 
 **해석·절단값**
 
 * 고전적 OH : 기립 3분 이내 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 지속 감소
+  * 앙와위 고혈압에서는 SBP ≥30 ㎜Hg 감소 기준을 고려할 수 있으며 실제 기립혈압과 증상도 함께 평가
   * 1분에 이미 기준을 충족하면 3분까지 기다릴 필요 없음
-* 신경인성 OH 시사 : 기립 시 심박수 증가가 작음 - ΔHR/ΔSBP ＜0.5 회/분/㎜Hg
+* 초기형 OH : 기립 15초 이내 SBP ＞40 또는 DBP ＞20 ㎜Hg 일시적 감소. 객관적 확인에는 능동 기립 중 연속 혈압을 측정
+* 신경인성 OH 시사 : ΔHR/ΔSBP ＜0.5 회/분/㎜Hg. ΔSBP는 양의 혈압 감소량으로 계산하며 β차단제, 심방세동, 서맥성 부정맥, 심박동기 등이 있으면 심박 반응의 해석에 주의
 * POTS : 다음을 모두 충족 <mark style="color:$info;">\[CMAJ 2022]</mark>
   1. 누운 자세 기준값보다 기립 10분 이내 심박수가 ≥30회/분(12\~19세 ≥40회/분) 지속 증가 - 1분 이상 간격으로 2회 이상 확인
   2. 유의한 OH 없음
@@ -140,8 +145,38 @@
 
 * 위음성 : 오후·식전 검사(증상은 아침·식후에 심함), 충분히 누워 있지 않음, 3분에서 중단(지연형 OH 놓침)
   * 전형적 병력이 있으면 아침·식후·증상 시간에 반복하거나 가정혈압·ABPM과 자세·증상 일지를 활용
+  * ABPM은 증상과 일중 혈압 변동을 대조하는 데 유용하며 초기형 OH의 확인에는 기립 중 연속 측정이 필요
 * 위양성(POTS) : 탈수, 장기간 침상 안정 후 탈조건화, 불안
 * 혈압 하강이 확인되어도 실신의 유일한 원인으로 단정하지 않으며, 운동 중·누운 자세 실신 등 심장성 위험 소견은 따로 평가
+
+***
+
+## <mark style="color:green;">식후 저혈압 평가 (식전·식후 반복 혈압과 ABPM)</mark>
+
+**무엇을 보는가**
+
+* 식후 내장 혈류가 늘면서 혈압을 유지하지 못하는 경우를 확인. 고령, 당뇨병, 자율신경부전에서 흔함
+
+**언제 시행하는가**
+
+* 식후 어지럼·졸림·전실신·낙상이 반복되고 식사와 증상의 시간적 관련성이 의심될 때
+
+**검사 방법**
+
+* 5분 이상 안정 후 식전 혈압·맥박을 기록하고 동일한 자세에서 식후 2시간 이내 반복 측정. 예: 30·60·90·120분. 식사·약 복용·자세·증상의 시각을 함께 적음
+* 진료실에서 포착되지 않으면 24시간 활동혈압과 식사·자세·증상 일지를 대조
+
+**해석·절단값**
+
+* 통상 식후 2시간 내 SBP가 식전 대비 ≥20 ㎜Hg 떨어지는 경우를 사용. 식전 SBP ≥100 ㎜Hg인 환자의 식후 SBP ＜90 ㎜Hg도 판단에 참고. 식사 종류·측정 간격·자세를 함께 기록
+
+**위양성·위음성**
+
+* 증상만으로 진단하기 어려우며 저혈당·부정맥·기립성 저혈압·삼킴 실신을 감별. 혈압 하강이 짧으면 간헐적 측정에서 놓칠 수 있음
+
+**급여**
+
+* 식후 반복 측정과 ABPM의 세부 산정 기준은 미확인
 
 ***
 
@@ -250,7 +285,7 @@
 **위양성·위음성**
 
 * ACS 없이 높은 경우(심근경색이 아닌 심근손상) : CKD, 심부전, 심근염, 폐색전증, 패혈증, 빈맥성 부정맥, 대동맥 박리, 뇌졸중, 격한 운동, 심독성 항암치료
-* 위음성 : 증상 시작 직후(3시간 미만) 단일 측정
+* 위음성 : 증상 시작 후 3시간 미만 또는 발병 시점이 불명확한 상태에서의 단일 측정. 해당 응급실 경로에 따라 반복 평가
 * 단일 URL을 쓰면 여성에서 심근손상·MI가 과소 진단될 수 있음
 * assay마다 절단값이 달라 다른 검사기관·검사법의 값을 직접 비교하지 않음
 
@@ -367,7 +402,8 @@
 * 증상 발생 시점에 기록된 리듬으로 판단 - 증상 중 정상 동율동이면 부정맥에 의한 증상일 가능성이 낮음
 * AF 진단 : 12유도 ECG 전체 또는 의료진이 판독한 단일 유도 기록에서 30초 이상 AF 확인 <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
   * 스마트워치의 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 임상의가 파형을 직접 확인
-  * 삽입형 기기의 AHRE는 임상적 AF와 같게 취급하지 않음
+  * ESC 2024는 보행 ECG의 최소 진단 지속시간을 임상 맥락에 따라 해석함. 단일 유도 30초는 항응고 시작 기준으로 사용하지 않음
+  * 삽입형 기기의 AHRE는 저장된 전기도로 확인하고, 지속시간·뇌졸중 위험·출혈 위험을 종합하여 판단
 * PVC burden ≥10%이면서 설명되지 않는 EF 저하가 있으면 PVC 유발 심근병증을 고려
 
 **위양성·위음성**
@@ -407,6 +443,7 @@
   * HFrEF : LVEF ＜50% (이전의 HFmrEF 41\~49%는 HFrEF에 포함)
   * HFpEF : LVEF ≥50% + 구조적 이상·이완기 기능 이상·충만압 상승의 객관적 근거
   * HFimpEF : 이전 HFrEF에서 LVEF가 호전된 경과 - 새로운 HFpEF로 재분류하지 않음
+    * ESC 2026 실무 기준 : 이전 HFrEF에서 LVEF가 절대 ≥10%p 증가하여 ＞40%가 된 경우. 이전·현재 LVEF와 변화 폭을 기록
 * HFpEF를 지지하는 소견
 
 <table><thead><tr><th width="160">영역</th><th>소견</th></tr></thead><tbody><tr><td><strong>구조</strong></td><td>LAVI ＞34 ㎖/㎡ (동율동), ＞40 ㎖/㎡ (AF); LVMI ≥95 g/㎡(여)·≥115 g/㎡(남) 또는 상대벽두께 ＞0.42</td></tr><tr><td><strong>이완기 기능·충만압</strong></td><td>안정 시 E/e′ ＞9 (≥15는 특이도 높음), TR 속도 ＞2.8 m/s 또는 PASP ＞35 ㎜Hg</td></tr></tbody></table>
@@ -421,6 +458,33 @@
 **급여**
 
 * 심장 질환이 있거나 의심되어 시행하면 급여 - 진단 1회, 경과관찰은 LVEF 40% 미만 심부전·국소벽운동장애를 동반한 급성 심근경색·중등도 이상 판막기능이상 등에서 연 1회; 횟수를 넘으면 본인부담 80%의 선별급여
+
+***
+
+## <mark style="color:green;">심장 아밀로이드증 검사 (AL 선별·뼈스캔·심장 MRI)</mark>
+
+**무엇을 보는가**
+
+* 단클론 단백 검사로 AL형 가능성을 평가. 심장 영상으로 침범 소견과 ATTR형 가능성을 판단
+
+**언제 시행하는가**
+
+* 설명되지 않는 좌심실 벽 비후와 심부전, 심초음파의 벽 두께에 비해 낮은 ECG 전압, 양측 수근관증후군 또는 자율신경 증상 등에서 의심
+
+**검사 방법·해석**
+
+* 혈청·소변 면역고정과 혈청 유리경쇄 및 κ/λ 비율을 함께 의뢰. 단클론 단백 검사는 가능한 한 먼저 또는 뼈스캔과 병행
+* PYP·DPD·HMDP 뼈스캔은 SPECT로 실제 심근 섭취를 확인. 단클론 검사 모두 음성이고 전형적인 영상 소견과 명확한 심근 섭취(등급 2~3)가 있으면 전문기관에서 ATTR형의 비침습적 진단 경로를 적용
+* 단클론 검사 이상이 있으면 뼈스캔 양성이라도 AL형 또는 ATTR형을 단정하기 어려워 조직 검사와 아밀로이드 유형 확인을 전문기관에서 고려
+* 심장 MRI는 침범을 뒷받침하고 감별을 돕지만, AL과 ATTR 유형의 확정은 위 경로에 따름
+
+**위양성·위음성**
+
+* 혈액풀 잔류를 심근 섭취로 오인할 수 있음. 심장 아밀로이드증이 강하게 의심되면 음성·불확정 뼈스캔 후에도 추가 평가
+
+**급여**
+
+* 검사 조합과 적응증별 세부 기준은 미확인
 
 ***
 
@@ -496,6 +560,32 @@
 
 ***
 
+## <mark style="color:green;">관상동맥 기능검사 (ANOCA/INOCA·CFR·IMR·아세틸콜린 유발검사)</mark>
+
+**무엇을 보는가**
+
+* 관상동맥 혈류예비력(CFR)·미세혈관저항지수(IMR)는 관상 미세순환 기능을 평가. 아세틸콜린 유발검사는 심외막 관상동맥 연축과 미세혈관 연축 감별에 사용
+
+**언제 시행하는가**
+
+* 폐쇄성 관상동맥질환이 확인되지 않았으나 적절한 치료에도 협심증 증상이 지속되고 삶의 질이 떨어지는 환자에서 전문기관 평가를 고려 <mark style="color:$info;">[ESC 2024]</mark>
+
+**검사 방법·해석**
+
+* PET 또는 스트레스 심장 MRI로 혈류예비력·관류를 평가할 수 있음. 침습적 검사는 관상동맥조영술과 함께 전문기관에서 시행
+* CFR 감소·IMR 상승은 미세혈관 기능장애를 지지. 수치와 기준은 측정법·진료 경로에 따라 적용
+* 아세틸콜린 검사에서 전형적 증상과 허혈성 ECG 변화가 재현되고 심외막 연축이 동반되는지에 따라 연축 유형을 분류
+
+**위양성·위음성**
+
+* 정상 CCTA 또는 비폐쇄성 관상동맥조영술만으로 미세혈관 기능장애·연축을 배제하기 어려움. 한 환자에서 여러 기전이 공존할 수 있음
+
+**급여**
+
+* 검사법별 시행기관·급여 기준은 미확인
+
+***
+
 ## <mark style="color:green;">지질 검사 (LDL 계산·non-HDL·ApoB)</mark>
 
 **무엇을 보는가**
@@ -518,7 +608,7 @@
 * 치료 결정 전 서로 다른 시점에 2회 이상 측정 (ACS 등 즉시 치료가 필요하면 기다리지 않음)
 * LDL-C 산출
   * Friedewald : LDL-C = TC − HDL-C − (TG ÷ 5); TG ≥400 ㎎/㎗에서는 쓰지 않음
-  * Martin-Hopkins·Sampson(NIH) 식이 Friedewald보다 정확 - TG가 높거나 LDL-C가 낮을 때 유리
+  * ACC/AHA 2026은 Friedewald 식보다 Martin/Hopkins 또는 Sampson/NIH 식을 우선 권고. TG가 높을 때에는 일반형·확장형을 구분하고 검사실의 검증 범위를 확인
   * TG가 매우 높으면 직접 측정도 부정확할 수 있음; 추적 시 산출 방법을 같게 유지하고 함께 기록
 
 **해석·절단값**
@@ -573,11 +663,12 @@
 
 **무엇을 보는가**
 
-* 1차 예방에서 ASCVD 위험을 추정하여 지질강하제·강압 치료의 목표와 강도를 정하는 도구
+* 1차 예방의 심혈관 위험 평가. 강압 치료와 지질강하 치료에서 계산기가 산출하는 결과와 적용 기준을 구분
 * 지침마다 체계가 다름
   * 한국지질·동맥경화학회 : 동반 질환(관상동맥질환·비심장성 혈관질환·당뇨병)과 LDL-C를 제외한 주요 위험인자 개수로 분류
   * ESC/EAS : SCORE2·SCORE2-OP (10년 치명적·비치명적 심혈관 사건)
-  * ACC/AHA 2026 : PREVENT-ASCVD 방정식 (30\~79세; 이전 Pooled Cohort Equations를 대체)
+  * 고혈압 : AHA/ACC 2025는 PREVENT-CVD의 10년 총 심혈관질환 위험도 사용
+  * 이상지질혈증 : ACC/AHA 2026은 PREVENT-ASCVD의 10년 죽상경화성 심혈관질환 위험도 사용 (30~79세, LDL-C 70~189 ㎎/㎗, ASCVD 및 무증상 죽상경화증이 없는 1차 예방 대상)
 
 **언제 시행하는가**
 
@@ -599,6 +690,7 @@
 * 국내 분류 : 위험인자 2개 이상 중등도위험군, 1개 이하 저위험군
   * 위험강화인자(Lp(a) ≥50 ㎎/㎗, hsCRP ≥2 ㎎/L, ApoB 상승, 만성 염증질환, 조기폐경, 전자간증 병력, 수면무호흡증 등)가 있으면 치료목표 강화를 고려
 * PREVENT-ASCVD 10년 위험 : ＜3% 저위험, 3\~＜5% 경계, 5\~＜10% 중등도, ≥10% 고위험 <mark style="color:$info;">\[ACC/AHA 2026]</mark>
+* PREVENT-CVD 10년 총 심혈관질환 위험 ≥7.5% : 알려진 CVD·당뇨병·CKD가 없는 미국 지침 1기 고혈압(130~139 또는 80~89 ㎜Hg)의 약물치료 판단에 사용 <mark style="color:$info;">[AHA/ACC 2025]</mark>
 
 **위양성·위음성**
 
@@ -622,7 +714,7 @@
 
 * 5개 범주에서 해당하는 가장 높은 점수 하나씩만 골라 합산 (같은 범주는 중복 합산하지 않음)
 
-<table><thead><tr><th width="130">범주</th><th width="380">항목</th><th>점수</th></tr></thead><tbody><tr><td><strong>가족력</strong></td><td>1촌의 조기 관상동맥·혈관질환(남 ＜55세, 여 ＜60세) 또는 LDL-C ＞95백분위수</td><td>1</td></tr><tr><td><strong>가족력</strong></td><td>1촌의 건황색종·각막환 또는 18세 미만 자녀의 LDL-C ＞95백분위수</td><td>2</td></tr><tr><td><strong>본인 병력</strong></td><td>조기 관상동맥질환</td><td>2</td></tr><tr><td><strong>본인 병력</strong></td><td>조기 뇌혈관·말초혈관질환</td><td>1</td></tr><tr><td><strong>신체 소견</strong></td><td>건황색종 / 45세 미만 각막환</td><td>6 / 4</td></tr><tr><td><strong>치료 전 LDL-C (㎎/㎗)</strong></td><td>＞325 / 251~325 / 191~250 / 155~190</td><td>8 / 5 / 3 / 1</td></tr><tr><td><strong>유전자 검사</strong></td><td>LDLR·APOB·PCSK9 병원성 변이</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="130">범주</th><th width="380">항목</th><th>점수</th></tr></thead><tbody><tr><td><strong>가족력</strong></td><td>1촌의 조기 관상동맥·혈관질환(남 ＜55세, 여 ＜60세) 또는 LDL-C ＞95백분위수</td><td>1</td></tr><tr><td><strong>가족력</strong></td><td>1촌의 건황색종·각막환 또는 18세 미만 자녀의 LDL-C ＞95백분위수</td><td>2</td></tr><tr><td><strong>본인 병력</strong></td><td>조기 관상동맥질환(남 ＜55세, 여 ＜60세)</td><td>2</td></tr><tr><td><strong>본인 병력</strong></td><td>조기 뇌혈관·말초혈관질환</td><td>1</td></tr><tr><td><strong>신체 소견</strong></td><td>건황색종 / 45세 미만 각막환</td><td>6 / 4</td></tr><tr><td><strong>치료 전 LDL-C (㎎/㎗)</strong></td><td>＞325 / 251~325 / 191~250 / 155~190</td><td>8 / 5 / 3 / 1</td></tr><tr><td><strong>유전자 검사</strong></td><td>LDLR·APOB·PCSK9 병원성 변이</td><td>8</td></tr></tbody></table>
 
 **해석·절단값**
 
@@ -691,7 +783,7 @@
   * 발가락 수축기압 ＜30 ㎜Hg은 궤양 치유가 어려울 가능성을 시사
 * 압박 치료 전 판단 (☞ 부종)
   * ABI ＜0.8이면 압박을 시작하지 않고 혈관 전문 평가를 의뢰 (전문가 판단하에 압력을 낮춘 압박을 적용하기도 함)
-  * ABI ＜0.6이면 지속적 압박은 일반적으로 금기
+  * 활동성 정맥성 하지 궤양에서 ABI ＜0.6, 발목 수축기압 ＜60 ㎜Hg 또는 발가락 수축기압 ＜30 ㎜Hg이면 지속적 압박을 권고하지 않음 <mark style="color:$info;">[ESVS 2022]</mark>
   * ABI ＞1.3이면 석회화로 실제보다 높게 측정되었을 수 있어 압박 전 혈관 전문 평가를 의뢰
   * 압박 치료 문헌의 상한(1.3)은 PAD 진단 지침의 비압박성 기준(1.40)과 다름
 
@@ -766,7 +858,7 @@
 
 <table><thead><tr><th width="210">CHA₂DS₂-VASc 항목</th><th width="70">점수</th><th>내용</th></tr></thead><tbody><tr><td><strong>C 심부전</strong></td><td>1</td><td>임상적 심부전 또는 유의한 좌심실 기능 저하 (국내 지침은 비후성 심근병증 포함)</td></tr><tr><td><strong>H 고혈압</strong></td><td>1</td><td>고혈압 또는 강압제 복용</td></tr><tr><td><strong>A₂ 나이 ≥75세</strong></td><td>2</td><td></td></tr><tr><td><strong>D 당뇨병</strong></td><td>1</td><td></td></tr><tr><td><strong>S₂ 뇌졸중</strong></td><td>2</td><td>뇌졸중·TIA·전신 혈전색전증 과거력</td></tr><tr><td><strong>V 혈관질환</strong></td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 죽상경화반</td></tr><tr><td><strong>A 나이 65~74세</strong></td><td>1</td><td></td></tr><tr><td><strong>Sc 여성</strong></td><td>1</td><td>CHA₂DS₂-VA에서는 제외</td></tr></tbody></table>
 
-<table><thead><tr><th width="210">HAS-BLED 항목</th><th width="70">점수</th><th>내용</th></tr></thead><tbody><tr><td><strong>H 고혈압</strong></td><td>1</td><td>조절되지 않는 고혈압 (수축기 ＞160 ㎜Hg)</td></tr><tr><td><strong>A 신·간기능 이상</strong></td><td>각 1</td><td>신기능 : 투석·신이식·Cr ＞2.26 ㎎/㎗; 간기능 : 간경변 또는 빌리루빈 ＞정상상한 2배이면서 AST/ALT/ALP ＞정상상한 3배</td></tr><tr><td><strong>S 뇌졸중</strong></td><td>1</td><td>뇌졸중 과거력</td></tr><tr><td><strong>B 출혈</strong></td><td>1</td><td>출혈 병력 또는 출혈 소인</td></tr><tr><td><strong>L 불안정한 INR</strong></td><td>1</td><td>와파린 복용 시 TTR ＜60%</td></tr><tr><td><strong>E 고령</strong></td><td>1</td><td>65세 이상</td></tr><tr><td><strong>D 약물·음주</strong></td><td>각 1</td><td>항혈소판제·NSAID 병용, 과음</td></tr></tbody></table>
+<table><thead><tr><th width="210">HAS-BLED 항목</th><th width="70">점수</th><th>내용</th></tr></thead><tbody><tr><td><strong>H 고혈압</strong></td><td>1</td><td>조절되지 않는 고혈압 (수축기 ＞160 ㎜Hg)</td></tr><tr><td><strong>A 신·간기능 이상</strong></td><td>각 1</td><td>신기능 : 투석·신이식·Cr ＞2.26 ㎎/㎗; 간기능 : 간경변 또는 빌리루빈 ＞정상상한 2배이면서 AST/ALT/ALP ＞정상상한 3배</td></tr><tr><td><strong>S 뇌졸중</strong></td><td>1</td><td>뇌졸중 과거력</td></tr><tr><td><strong>B 출혈</strong></td><td>1</td><td>출혈 병력 또는 출혈 소인</td></tr><tr><td><strong>L 불안정한 INR</strong></td><td>1</td><td>와파린 복용 시 TTR ＜60%</td></tr><tr><td><strong>E 고령</strong></td><td>1</td><td>대한부정맥학회 2024 : ≥65세 또는 취약한 환자. 원래 HAS-BLED 도구 : ＞65세</td></tr><tr><td><strong>D 약물·음주</strong></td><td>각 1</td><td>항혈소판제·NSAID 병용, 과음(사용한 판본의 정의 적용)</td></tr></tbody></table>
 
 **해석·절단값**
 
@@ -794,6 +886,9 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [대한부정맥학회 2024 심방세동 일반 치료 지침, 표 10.](https://www.k-hrs.org/assets/file/01_2024_Korean_Arrhythmia_Society_General_Guidelines.pdf)
+* [ACC Expert Consensus Decision Pathway on Cardiac Amyloidosis. J Am Coll Cardiol 2023.](https://doi.org/10.1016/j.jacc.2022.11.022)
+* [ASH 2026 Guidelines on Diagnosis of Light Chain Amyloidosis. Blood Adv 2026.](https://doi.org/10.1182/bloodadvances.2025017073)
 * [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guideline for the management of patients with acute coronary syndromes. Circulation 2025.](https://doi.org/10.1161/CIR.0000000000001309)
 * [Kontos MC, et al. 2022 ACC expert consensus decision pathway on the evaluation and disposition of acute chest pain in the emergency department. J Am Coll Cardiol 2022;80:1925-1960.](https://doi.org/10.1016/j.jacc.2022.08.750)
 * [Validation of 2 syncope risk scores and comparison with physician risk estimation. JAMA Netw Open 2026.](https://pubmed.ncbi.nlm.nih.gov/42154462/)
@@ -813,6 +908,11 @@
 * [ESC/ACC/AHA/WHF. Fifth Universal Definition of Myocardial Infarction. Eur Heart J 2026.](https://doi.org/10.1093/eurheartj/ehag101)
 * ESC. Guidelines for the management of chronic coronary syndromes. Eur Heart J 2024. doi:10.1093/eurheartj/ehae177.
 * AHA/ACC. Guideline for the Evaluation and Diagnosis of Chest Pain. 2021. doi:10.1016/j.jacc.2021.07.053.
+* [Kontos MC, et al. ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department. J Am Coll Cardiol 2022.](https://doi.org/10.1016/j.jacc.2022.08.750)
+* [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.](https://doi.org/10.1093/eurheartj/ehag100)
+* [AHA. Measurement of Blood Pressure in Humans. Hypertension 2019.](https://doi.org/10.1161/HYP.0000000000000087)
+* [ESVS. Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs. Eur J Vasc Endovasc Surg 2022.](https://doi.org/10.1016/j.ejvs.2021.12.024)
+* [Lee CJ, et al. 2022 Consensus Statement on the Management of Familial Hypercholesterolemia in Korea. J Lipid Atheroscler 2022.](https://doi.org/10.12997/jla.2022.11.3.213)
 * AHA/ACC/ESC/WHF. Second Universal Definition of Heart Failure. Eur Heart J 2026;47:4357-4374.
 * ACC. Management of Heart Failure With Preserved Ejection Fraction: 2026 ACC Expert Consensus Decision Pathway. J Am Coll Cardiol 2026.
 * 한국지질·동맥경화학회. 이상지질혈증 진료지침 2026.
