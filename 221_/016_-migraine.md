@@ -189,26 +189,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 ***
 
 ```mermaid
-flowchart TD
-    A["반복성 두통 또는 조짐 증상"] --> B["Red Flags·<br/>비전형적 신경학적 소견?"]
-    B -- "예" --> C["위험도에 맞는 긴급 평가·<br/>이차성 원인 배제"]
-    B -- "아니요" --> D["ICHD-3 무조짐·조짐 <br/>기준을 각각 평가"]
-    D --> E["무조짐 발작 ≥5회 또는 <br/>조짐 발작 ≥2회와 해당 기준 <br/>충족?"]
-    E -- "아니요" --> F["개연편두통·다른 두통 <br/>또는 조짐 원인 평가"]
-    E -- "예" --> G["무조짐편두통·조짐편두통 중 <br/>해당 진단을 기록"]
-    G --> H["두통 ≥15일/월이 ＞3개월, <br/>그중 ICHD-3 기준 C에 <br/>해당하는 날 ≥8일/월?"]
-    H -- "예" --> I["만성편두통"]
-    H -- "아니요" --> J["삽화편두통 또는 <br/>다른 만성 두통 감별"]
-    I --> K["급성기 약물 사용일수·<br/>MOH 동반 평가"]
-    J --> K
-    K --> L["급성기 치료·<br/>예방치료 계획 및 추적"]
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class B,E,H question
-    class C emergency
-    class D,F,G,I,J,K,L care
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+flow
 ```
 
 > _두통 없는 조짐도 가능하며, 조짐은 무조짐편두통의 통증 기준 충족 여부와 독립적으로 판단. 기준 C에 해당하는 날은 편두통 특징이 있는 날 또는 발작 시작 시 편두통으로 판단해 triptan·ergotamine으로 호전된 날_
@@ -346,27 +327,7 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    A["진단된 급성 편두통 발작"] --> B["두통 초기에 치료; <br/>금기·최근 복용약 확인"]
-    B --> C["심한 구토·경구 섭취 곤란?"]
-    C -- "예" --> D["항구토제·비경구 치료 <br/>또는 의뢰"]
-    C -- "아니요" --> E["경증이며 기능장애가 <br/>크지 않은가?"]
-    E -- "예" --> F["NSAID 또는 <br/>acetaminophen"]
-    E -- "아니요" --> G["Triptan 사용 가능? <br/>금기·불내약 없음"]
-    F --> H["충분한 반응?"]
-    H -- "예" --> I["동일 전략 유지·<br/>사용일수 추적"]
-    H -- "아니요" --> G
-    G -- "예" --> K["Triptan; <br/>필요시 NSAID 병용"]
-    G -- "아니요" --> J["Gepant 또는 <br/>lasmiditan 고려"]
-    K --> L["Triptan 반응?"]
-    L -- "충분한 호전" --> M["동일 전략 유지·<br/>사용일수 추적"]
-    L -- "호전 후 재발" --> N["제품별 최소 간격·<br/>하루 최대량 내 재투여"]
-    L -- "반응 부족" --> O["제품별 재투여 허용 여부 확인; 대체 급성기 치료 및 <br/>다음 발작의 약제·제형 조정"]
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class C,E,G,H,L question
-    class B,D,F,I,J,K,M,N,O care
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+flow
 ```
 
 <p align="center"><strong>급성 편두통 약물 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : IHS 2024 급성기 치료 권고; 제품별 허가사항)</mark></em></p>
