@@ -5,49 +5,49 @@
 * 반복적인 발작성 두통을 특징으로 하는 만성 신경계 질환
   * 두통 발작은 전형적으로 편측성·박동성의 중등도\~중증 통증이 성인에서 4\~72시간 지속되며 구역·구토 또는 빛공포증·소리공포증을 동반
   * 환자의 약 25\~30%에서 시각·감각 등의 조짐(aura)이 두통 전이나 두통 중에 나타나며, 두통 없이 조짐만 생길 수도 있음
-  * 두통이 ＞3개월, ≥15일/월(그중 ≥8일/월 편두통 특징) 지속되면 만성편두통으로 구분
-* 편두통은 전 세계 질병부담연구에서 장애생존연수(years lived with disability, YLD) 기준 주요 원인 중 하나로, 1차 진료에서 저평가·저치료되는 경향이 있음
-* 국내 1년 유병률 : 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%) <mark style="color:$info;">\[J Clin Neurol 2012]</mark>, 2018 Korean Sleep-Headache Survey 5.2% <mark style="color:$info;">\[J Clin Neurol 2021]</mark>; 여성에서 약 3배 흔함
-* 발작 빈도는 1년에 1회\~1주에 수회로 다양함; 만성편두통에서는 월 두통일수가 15일 이상
+  * 만성 편두통 : 월 두통일수가 ≥15일이고, 그중 ≥8일에 편두통 특징을 보이는 양상이 ＞3개월 지속
+* 발작 빈도는 1년에 1회\~1주에 수회로 다양함
   * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
+* 국내 1년 유병률 : 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%) <mark style="color:$info;">\[J Clin Neurol 2012]</mark>, 2018 Korean Sleep-Headache Survey 5.2% <mark style="color:$info;">\[J Clin Neurol 2021]</mark>; 여성에서 약 3배 흔함
+* 편두통은 전 세계 질병부담연구에서 장애생존연수(years lived with disability, YLD) 기준의 주요 원인으로, 1차 진료에서 저평가·저치료되는 경향이 있음
 
 ### <mark style="color:orange;">분류</mark> <mark style="color:$info;">\[ICHD-3]</mark>
 
-1. 1.1 Migraine without aura
-2. 1.2 Migraine with aura
-   * 1.2.1 Migraine with typical aura
-     * 1.2.1.1 Typical aura with headache
-     * 1.2.1.2 Typical aura without headache
-   * 1.2.2 Migraine with brainstem aura
-   * 1.2.3 Hemiplegic migraine
-     * 1.2.3.1 Familial hemiplegic migraine
-     * 1.2.3.2 Sporadic hemiplegic migraine
-   * 1.2.4 Retinal migraine
-3. 1.3 Chronic migraine
-4. 1.4 Complications of migraine
-5. 1.5 Probable migraine
-6. 1.6 Episodic syndromes that may be associated with migraine
-   * 1.6.1 Recurrent gastrointestinal disturbance
-     * 1.6.1.1 Cyclic vomiting syndrome
-     * 1.6.1.2 Abdominal migraine
-   * 1.6.2 Benign paroxysmal vertigo
-   * 1.6.3 Benign paroxysmal torticollis
-
-* 월경편두통(Menstrual migraine; ICHD-3 부록 진단) : 월경 시작일을 day 1로 할 때(day 0은 없음) day -2\~+3에 최소 3주기 중 2주기 이상 발생
+* 1.1 Migraine without aura
+* 1.2 Migraine with aura
+  * 1.2.1 Migraine with typical aura
+    * 1.2.1.1 Typical aura with headache
+    * 1.2.1.2 Typical aura without headache
+  * 1.2.2 Migraine with brainstem aura
+  * 1.2.3 Hemiplegic migraine
+    * 1.2.3.1 Familial hemiplegic migraine
+    * 1.2.3.2 Sporadic hemiplegic migraine
+  * 1.2.4 Retinal migraine
+* 1.3 Chronic migraine
+* 1.4 Complications of migraine
+* 1.5 Probable migraine
+* 1.6 Episodic syndromes that may be associated with migraine
+  * 1.6.1 Recurrent gastrointestinal disturbance
+    * 1.6.1.1 Cyclic vomiting syndrome
+    * 1.6.1.2 Abdominal migraine
+  * 1.6.2 Benign paroxysmal vertigo
+  * 1.6.3 Benign paroxysmal torticollis
+* 월경편두통(Menstrual migraine; ICHD-3 부록 진단) : 월경 시작일을 day 1로 할 때(day 0은 없음) day -2\~+3에, 최소 3주기 중 2주기 이상 발생
   * 순수 월경편두통(pure menstrual migraine) : 이 기간에만 편두통이 발생
   * 월경 관련 편두통(menstrually-related migraine) : 이 기간 외에도 편두통이 발생
-* Status migrainosus(편두통지속상태) : 이전 발작과 유사하나 72시간을 초과해 지속되고 통증 또는 동반 증상이 일상 기능을 현저히 저해하는 편두통 발작; 수면·약물로 인한 12시간 이내의 일시적 호전은 허용
+  * cf. 비월경 편두통(non-menstrual migraine) : 월경 전후 기간과의 연관이 위 기준을 충족하지 않음; 구별은 최소 3주기 연속 전향적 두통 일기로 판단
+* Status migrainosus(편두통지속상태) : 이전 발작과 유사하지만 72시간을 초과해 지속되고 통증 또는 동반 증상이 일상 기능을 현저히 저해하는 편두통 발작; 수면·약물로 인한 12시간 이내의 일시적 호전은 허용
 
 ## <mark style="color:green;">원인</mark>
 
 * 편두통은 trigeminovascular system의 활성화와 CGRP 신호, 뇌간·시상·피질을 포함한 통증 조절 네트워크의 기능 이상이 관여하는 신경계 질환으로 이해됨
 * 조짐(aura)에는 cortical spreading depolarization이 중요한 기전으로 관여
-* 1차적인 혈관 문제는 원인으로 고려되지 않음
+* 1차적인 혈관 문제는 원인으로 고려하지 않음
 
 ### <mark style="color:orange;">위험 인자</mark>
 
 * 가족력 : 환자의 약 50\~70%에서 편두통의 가족력이 있음
-* 여성 (20\~50대에서 호발)
+* 여성(20\~50대에서 호발)
 
 ### <mark style="color:orange;">유발 인자</mark>
 
@@ -70,12 +70,12 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 두통 발작은 치료하지 않거나 치료가 제대로 되지 않았을 때 보통 4\~72시간 지속
+* 두통 발작은 치료하지 않거나 치료가 제대로 되지 않았을 때는 보통 4\~72시간 지속
 * 주로 편측성·박동성이고 중등도\~중증이며 일상적 신체 활동으로 악화되지만, 양측성(30\~40%)·비박동성(40%)도 흔함
 * 동반 증상 : 구역, 구토, 빛공포증, 소리공포증, 어지럼증, 근육 압통, 감정 변화 등
 * 편두통 발작은 '전구기 → 조짐(일부 환자) → 두통기 → 후구기'의 시간적 단계로 나타날 수 있음
   * 전구기(prodrome) : 두통 발생 수 시간\~최대 48시간 전(조짐편두통에서는 aura 이전)에 피로, 하품, 집중력 저하, 목 경직/통증, 기분 변화, 특정 음식에 대한 갈망 등이 나타날 수 있음
-  * 조짐(aura) : 편두통 환자의 약 25\~30%에서 발생; 시각·감각·언어 등 완전히 가역적인 국소 신경학적 증상으로 보통 5\~60분 지속하며, 운동 증상은 최대 72시간까지 지속 가능
+  * 조짐(aura) : 시각·감각·언어 등 완전히 가역적인 국소 신경학적 증상으로 보통 5\~60분 지속하며, 운동 증상은 최대 72시간까지 지속 가능; 편두통 환자의 약 25\~30%에서 발생
   * 후구기(postdrome) : 두통이 소실된 뒤 최대 48시간 동안 피로, 집중력 저하, 기분 변화, 목 경직/통증 등이 지속될 수 있음
 
 {% hint style="info" %}
@@ -84,7 +84,8 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
 
-* 일반적인 두통의 경고 징후(SNNOOP10)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
+* 일반적인 두통의 [두통 Red Flags](015_-headache.md#red-flags), 이차성 두통을 선별하는 일반적인 경고 징후는 [SNNOOP10](015_-headache.md#snnoop10) 참조(☞ 두통)
+* 아래는 편두통에 특이적인 위험 신호임
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -96,8 +97,8 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 평소와 확연히 다른 두통 양상 또는 급격한 악화 `이차성 두통`
 * **(당일)** 서서히 퍼졌다가 완전히 회복된 첫 시각·감각 조짐 `조짐편두통`
+* 평소와 확연히 다른 두통 양상 또는 급격한 악화 `이차성 두통`
 * 평소와 다른 양상의 조짐 `조짐편두통` `이차성 두통`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -120,70 +121,54 @@
 
 #### <mark style="color:$primary;">Migraine without aura (무조짐편두통)</mark>
 
-A. 아래 진단 기준 B\~D를 충족하는 발작이 최소한 5번 발생¹⁾
+* A. 아래 진단 기준 B\~D를 충족하는 발작이 최소한 5번 발생¹⁾
+* B. 두통 발작이 (치료하지 않거나 치료가 제대로 되지 않았을 때) 4\~72시간 지속²⁾³⁾
+* C. 다음 네 가지 두통의 특성 중 ≥2가지 해당
+  1. 편측 위치
+  2. 박동 양상
+  3. 중등증 또는 중증의 통증 강도
+  4. 일상적 신체 활동(예: 걷기, 계단 오르기)에 의해 악화되거나 신체 활동을 피하게 됨
+* D. 두통이 있는 동안 다음 중 ≥1가지 해당
+  1. 구역 &/or 구토
+  2. 빛공포증 & 소리공포증
+* E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-B. 두통 발작이 (치료하지 않거나 치료가 제대로 되지 않았을 때) 4\~72시간 지속²⁾³⁾
-
-C. 다음 네 가지 두통의 특성 중 ≥2가지 해당
-
-1. 편측 위치
-2. 박동 양상
-3. 중등증 또는 중증의 통증 강도
-4. 일상적 신체 활동(예: 걷기, 계단 오르기)에 의해 악화되거나 신체 활동을 피하게 됨
-
-D. 두통이 있는 동안 다음 중 ≥1가지 해당
-
-1. 구역 &/or 구토
-2. 빛공포증 & 소리공포증
-
-E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
-
-> ¹⁾_무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
-> ²⁾_편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_\
-> ³⁾_18세 미만에서는 발작 지속시간 2\~72시간_
+> ¹⁾ _무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
+> ²⁾ _편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_\
+> ³⁾ _18세 미만에서는 발작 지속시간 2\~72시간_
 
 #### <mark style="color:$primary;">Migraine with aura (조짐편두통)</mark>
 
-A. 아래 진단 기준 B와 C를 충족하는 발작이 최소한 2번 발생
+* A. 아래 진단 기준 B와 C를 충족하는 발작이 최소한 2번 발생
+* B. 완전히 가역적인 다음의 조짐 증상 중 ≥1가지 해당
+  1. 시각
+  2. 감각
+  3. 말(speech) &/or 언어(language)
+  4. 운동(motor)
+  5. 뇌간
+  6. 망막
+* C. 다음의 여섯 가지 특징 중 ≥3가지 해당
+  1. 최소 한 가지 조짐 증상이 ≥5분에 걸쳐 서서히 퍼짐
+  2. ≥2가지의 증상이 연속해서 발생
+  3. 각 조짐 증상은 5\~60분 지속¹⁾
+  4. 최소한 한 가지 조짐 증상은 편측 발생²⁾
+  5. 최소한 한 가지 조짐 증상은 양성 증상³⁾
+  6. 조짐과 함께 두통이 나타나거나 조짐이 끝난 뒤 60분 이내에 두통이 발생
+* D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-B. 완전히 가역적인 다음의 조짐 증상 중 ≥1가지 해당
-
-1. 시각
-2. 감각
-3. 말(speech) &/or 언어(language)
-4. 운동(motor)
-5. 뇌간
-6. 망막
-
-C. 다음의 여섯 가지 특징 중 ≥3가지 해당
-
-1. 최소 한 가지 조짐 증상이 ≥5분에 걸쳐 서서히 퍼짐
-2. ≥2가지의 증상이 연속해서 발생
-3. 각 조짐 증상은 5\~60분 지속¹⁾
-4. 최소한 한 가지 조짐 증상은 편측 발생²⁾
-5. 최소한 한 가지 조짐 증상은 양성 증상³⁾
-6. 조짐과 함께 두통이 나타나거나 조짐이 끝난 뒤 60분 이내에 두통이 발생
-
-D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
-
-> ¹⁾_예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-> ²⁾_실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-> ³⁾_섬광과 따끔거림은 조짐의 양성 증상임_
+> ¹⁾ _예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
+> ²⁾ _실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+> ³⁾ _섬광과 따끔거림은 조짐의 양성 증상임_
 
 #### <mark style="color:$primary;">Chronic migraine (만성편두통)</mark> <a href="#chronic-migraine" id="chronic-migraine"></a>
 
-A. ＞3개월 동안 ≥15일/월의 두통(migraine- or tension type-like)이 발생하고 B & C를 충족시킴
-
-B. 무조짐편두통의 B\~D &/or 조짐편두통의 B & C에 해당되는 발작이 최소한 5번 발생
-
-C. 다음 중 어느 하나가 ＞3개월 동안 ≥8일/월 발생
-
-1. 무조짐편두통 진단 기준의 C & D
-2. 조짐편두통의 진단 기준의 B & C
-3. 증상이 시작될 때 환자가 편두통이라고 믿으며 triptan 또는 ergotamine으로 호전됨
-
-D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
-
+* A. ＞3개월 동안 ≥15일/월의 두통(migraine- or tension type-like)이 발생하고 B & C를 충족시킴
+* B. 무조짐편두통의 B\~D &/or 조짐편두통의 B & C에 해당되는 발작이 최소한 5번 발생
+* C. 다음 중 어느 하나가 ＞3개월 동안 ≥8일/월 발생
+  1. 무조짐편두통 진단 기준의 C & D
+  2. 조짐편두통의 진단 기준의 B & C
+  3. 증상이 시작될 때 환자가 편두통이라고 믿으며 triptan 또는 ergotamine으로 호전됨
+* D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 만성편두통과 약물과용두통(MOH)의 진단 기준을 모두 충족하면 두 진단을 함께 내림
 
 ***

@@ -5,7 +5,7 @@
 * 두통은 눈확귀길선(orbitomeatal line) &/or 목덜미능선(nuchal ridge) 위쪽의 머리에 생기는 통증이며, 그 아래 얼굴의 통증은 안면통으로 구분 <mark style="color:$info;">\[ICHD-3]</mark>
 * 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
 * 병력 청취와 진찰을 통해 2차 두통 가능성을 선별하고 필요한 검사·의뢰를 결정하는 것이 긴요
-* 두통 평가 시 SNNOOP10 계열의 경고 징후를 활용하여 2차 두통 가능성을 체계적으로 평가
+* 두통 평가 시 SNNOOP10 경고 징후를 활용하여 2차 두통 가능성을 체계적으로 평가
 
 ### <mark style="color:orange;">분류</mark> <mark style="color:$info;">\[</mark>[<mark style="color:$info;">ICHD-3</mark>](https://ichd-3.org/)<mark style="color:$info;">]</mark>
 
@@ -191,7 +191,7 @@
 * 유두부종(Papilledema) : 안저검사에서 시신경 유두 경계 불명확·융기 확인 시 뇌압 상승 시사
   * 특발성 두개내 고혈압(IIH), 두개내 종양, 수두증, 뇌정맥동혈전증 감별 → 긴급 뇌영상검사(MRV 또는 CTV 포함)로 종괴·수두증·뇌정맥동혈전증을 배제하고, 금기가 없고 IIH가 의심되면 LP로 개방압과 뇌척수액 성상 확인
 
-#### <mark style="color:$primary;">두통의 2차 원인 감별을 위한 SNNOOP10 계열 Red Flags</mark> <a href="#snnoop10" id="snnoop10"></a>
+#### <mark style="color:$primary;">**2차 두통 선별을 위한 SNNOOP10 경고 징후**</mark> <a href="#snnoop10" id="snnoop10"></a>
 
 <table data-search="false"><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td><strong>S</strong></td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td><strong>N1</strong></td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td><strong>N2</strong></td><td>Neurologic deficit/dysfunction</td><td>국소 신경학적 이상 또는 의식 저하</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td><strong>O1</strong></td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, 뇌하수체졸중</td></tr><tr><td><strong>O2</strong></td><td>Older age</td><td>고령⁶⁾에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td><strong>P1</strong></td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td><strong>P2</strong></td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td><strong>P3</strong></td><td>Precipitated by sneezing, coughing, or exercise</td><td>기침, 재채기, 운동으로 유발</td><td>두개내/후두와 종괴, Chiari malformation</td></tr><tr><td><strong>P4</strong></td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td>IIH, 두개내 종양, 수두증</td></tr><tr><td><strong>P5</strong></td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td><strong>P6</strong></td><td>Pregnancy/postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, 뇌하수체 병변</td></tr><tr><td><strong>P7</strong>⁷⁾</td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장 등 안과 질환, 해면정맥동·뇌하수체 주변·후두와 병변, Tolosa-Hunt 증후군</td></tr><tr><td><strong>P8</strong></td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하혈종, 경막외혈종, 외상후두통</td></tr><tr><td><strong>P9</strong></td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td><strong>P10</strong></td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
 
