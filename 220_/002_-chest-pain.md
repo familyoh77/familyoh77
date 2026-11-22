@@ -270,7 +270,7 @@ flowchart TD
   * 시술 관련 MI : 심장 시술·수술의 합병증으로 시술 후 30일 이내 발생한 MI. 시술 합병증과 허혈성 심근손상의 객관적 근거로 확인하며, 단순한 시술 후 troponin 상승과 구분
     * 시술과 무관하게 발생한 MI는 30일 이내라도 일차성 또는 이차성 MI로 분류
 * 허혈 근거가 없는 급성 심근손상은 MI로 진단하지 않고 심근염, 패혈증, 폐색전증, 급성 심부전 등 원인 질환을 평가
-* <mark style="background-color:#ffd6d6;">단일 채혈로 급성 MI 배제를 고려하는 조건 : ACS가 의심되는 환자에게 응급실에서 검증된 CDP를 적용할 때, ① 12유도 ECG에 허혈성 변화가 없고, ② 증상 시작부터 첫 채혈까지 3시간 이상이며, ③ 초회 hs-cTn이 해당 검사법에서 검증된 매우 낮은 배제 절단값 미만인 경우</mark> <mark style="background-color:#ffd6d6;">\[J Am Coll Cardiol 2022]</mark>
+* <mark style="background-color:#ffd6d6;">단일 채혈로 급성 MI 배제를 고려하는 조건 : ACS가 의심되는 환자에게 응급실에서 검증된 CDP를 적용할 때, ① 12유도 ECG에 허혈성 변화가 없고, ② 증상 시작부터 첫 채혈까지 3시간 이상이며, ③ 초회 hs-cTn이 해당 검사법에서 검증된 매우 낮은 배제 절단값 미만인 경우</mark> <mark style="background-color:#ffd6d6;">\[J Am Coll Cardiol 2022] \[Circulation 2025]</mark>
   * <mark style="background-color:#ffd6d6;">증상 시작부터 첫 채혈까지 3시간이 지나지 않았거나 증상 시작 시각이 불명확하면 검사기관의 검증된 CDP에 따라 hs-cTn을 반복 측정함</mark>
   * <mark style="background-color:#ffd6d6;">허혈이 의심되는 증상이 지속·재발하거나 임상적 의심이 높으면 ECG와 hs-cTn을 반복 측정하고 추가 평가함. hs-cTn 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제할 수 없음</mark>
 * 초기 hs-cTn이 assay-specific rule-in threshold 이상이거나 재측정 시 Δ가 rule-in 기준을 넘으면 rule-in으로 판단하고, 허혈 증상·ECG 소견과 함께 급성 MI 여부를 판단
@@ -708,7 +708,7 @@ flowchart TD
 
 * \[2021 AHA/ACC] [Gulati M, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Circulation. 2021;144(22):e368-e454.](https://doi.org/10.1161/CIR.0000000000001029) - 흉통 표현·초기 ECG·troponin 평가와 위험도별 진단 경로; 본문 그림·표 출처
 * [<mark style="background-color:#ffd6d6;">Kontos MC, et al. 2022 ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department. J Am Coll Cardiol. 2022;80(20):1925-1960.</mark>](https://doi.org/10.1016/j.jacc.2022.08.750) - <mark style="background-color:#ffd6d6;">단일 채혈 급성 심근경색 배제 조건과 검사법별 절단값(§5.4.1)</mark>
-* \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치
+* \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치 <mark style="background-color:#ffd6d6;">· 단일 hs-cTn을 사용하는 검증된 진료 경로에서 증상 시작 후 최소 3시간이 지난 시점에 채혈하는 근거</mark>
 * \[2014 AHA/ACC NSTE-ACS Guideline] [Amsterdam EA, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. Circulation. 2014;130(25):e344-e426.](https://doi.org/10.1161/CIR.0000000000000134) - 코카인·메스암페타민 관련 흉통의 β차단제 주의
 * [Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). Circulation. 2018;138(20):e618-e651.](https://doi.org/10.1161/CIR.0000000000000617) - 후벽 유도 V7\~V9의 ST 상승 판정 기준과 연령 예외
 * [Mills NL, et al. Fifth Universal Definition of Myocardial Infarction (2026). J Am Coll Cardiol. 2026;88(11):1314-1368.](https://doi.org/10.1016/j.jacc.2026.07.025) - 심근손상·심근경색의 정의, 일차성·이차성·시술 관련 MI 분류, 성별 특이 troponin 기준과 MINOCA 작업 진단
