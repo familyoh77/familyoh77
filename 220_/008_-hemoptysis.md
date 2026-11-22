@@ -14,7 +14,7 @@
 * 기도 폐쇄에 의한 질식(asphyxia), 가스교환 장애 또는 혈역학적 불안정을 초래하는 생명위협성 객혈(출혈량 무관)
 * 다량 또는 빠른 출혈(예: ＞150 ㎖/24h 또는 ≥100 ㎖/h; 통일된 기준은 없음)
 * 안정 시 지속되는 빈호흡(＞30회/분)
-* 새로 발생한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 또는 산소 투여가 필요한 경우) `급성 호흡 부전`
+* 새로 발생한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 또는 산소 투여가 필요한 경우)  `급성 호흡 부전`
 * 안정 시 호흡곤란
 * 호흡음 감소(혈괴에 의한 기도 폐쇄 의심)
 * 저혈압 또는 수액·승압제 투여가 필요한 혈역학적 불안정
@@ -28,15 +28,15 @@
 * 새로 발생한 원인 불명 객혈·혈담
 * Hb ＜8 g/㎗이면서 즉각 조치 기준에 해당하지 않는 경우
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
-* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡곤란 `심부전`
-* 활동성 결핵을 의심하는 객혈(노출력, 지속 기침, 발열·야간 발한·체중 감소 등) `폐결핵`
+* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡곤란  `심부전`
+* 활동성 결핵을 의심하는 객혈(노출력, 지속 기침, 발열·야간 발한·체중 감소 등)  `폐결핵`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 원인 불명 체중 감소, 피로, 전신 권태감 `폐암`
-* ＞40세이면서 ＞30갑년 흡연력이 있는 객혈 `폐암`
+* 원인 불명 체중 감소, 피로, 전신 권태감  `폐암`
+* ＞40세이면서 ＞30갑년 흡연력이 있는 객혈  `폐암`
   * 위 기준에 해당하지 않더라도 반복 객혈, 원인 불명 체중 감소, 흉부 X선 이상이 있으면 폐암 가능성을 고려
-* 소량이라도 반복되는 객혈 `폐암`
+* 소량이라도 반복되는 객혈  `폐암`
 
 ## <mark style="color:green;">원인 및 감별</mark>
 
@@ -96,21 +96,27 @@
     * 폐암 위험인자 두 가지를 모두 충족(＞40세 및 ＞30갑년 흡연력)
     * 중등도 객혈(＞30 ㎖/24h)
     * 객혈 반복
-* 조영증강 CT 또는 CTA : 원인, 출혈 위치 및 책임 혈관 평가에 유용
-  * 반복·중등도 이상 객혈 또는 BAE를 고려하는 경우 우선 선택
+* 조영증강 흉부 CT : 원인·출혈 위치 평가의 기본 검사
+* 객혈용 CTA : 혈관성 출혈이 의심되거나 색전술을 고려할 때 우선 - 기관지동맥·비기관지 체순환 동맥·폐동맥 평가
 * 기관지내시경 검사 : CT에서 원인이 불명확하거나 출혈이 지속되는 경우, 또는 기도 내 혈액·혈괴 제거, 출혈 부위 직접 확인·지혈 등 즉각적인 기도 조작이 필요한 경우 시행
   * 안정된 환자 : CT/CTA로 원인 및 책임 혈관을 먼저 평가하는 것이 우선
   * 활동성 출혈 또는 기도 내 혈괴로 즉각적인 기도 조작이 필요한 경우 : 기관지내시경이 CT보다 우선될 수 있으며, 기도 확보·혈괴 제거·출혈 위치 확인에 사용 (활동성 출혈 중 또는 중단 후 24\~48시간 이내 시행 시 출혈 부위 확인율이 높음)
-* 가래 검사 : 결핵 의심 시 공기매개 격리 후 객담 항산균(AFB) 도말·배양 및 결핵균 핵산증폭검사(NAAT). 그 외 세균성 감염 의심 시 일반 가래 배양
+* 가래 검사
+  * 결핵 의심 시 : 공기매개 격리 후 객담 항산균(AFB) 도말·배양 및 결핵균 핵산증폭검사(NAAT)
+    * 초기 도말·NAAT가 음성이어도 임상적 의심이 높으면 배양 결과와 임상 소견을 바탕으로 평가를 이어감
+  * 일반 객담 그람염색·배양 : 기관지확장증의 감염성 악화, 중증 폐렴 등 결과가 항생제 선택에 영향을 줄 때 시행
 * 응고 검사 : coagulopathy 병력, 항응고제 사용 중인 경우 고려
 * 중등도 이상 또는 지속 출혈 시 추가 검사
   * 활력징후 및 연속 SpO₂ 모니터링
   * CBC(혈소판 포함), PT/INR, aPTT, 전해질, BUN/Cr(조영제 및 DOAC 축적 평가), 간기능
     * DOAC 복용 환자에서는 정상 PT/aPTT만으로 잔존 항응고 효과를 배제할 수 없음에 유의
-  * 혈액형 검사 및 type & screen/crossmatch
+  * 수혈 가능성이 있으면 혈액형 검사·항체 선별검사, 필요시 교차시험
+  * 생명위협성 출혈 또는 혈역학적 불안정 시 fibrinogen 추가
   * 호흡부전 시 동맥혈가스검사(ABGA)
-* 폐색전증 의심 시 : 임상확률에 따른 D-dimer·CT 폐동맥조영술(CTPA) 등 별도 진단 경로 적용
-* 미만성 폐포출혈/폐-신 증후군 의심 시 : U/A, Cr, ANCA, anti-GBM Ab 등 추가 평가 및 긴급 의뢰
+* 폐색전증 의심 시 : 객혈은 PERC 양성 항목이므로 PERC로 배제하지 않음
+  * 사전확률 낮음·중간은 D-dimer, 높음은 CTPA 등 영상검사로 평가 (☞ [호흡곤란](007_-dyspnea.md))
+* 미만성 폐포출혈/폐-신 증후군 의심 시 : 요검사·요침사(변형 적혈구·적혈구 원주), Cr, ANCA, anti-GBM Ab
+  * 임상적 의심이 높으면 ANCA·anti-GBM 결과를 기다리지 않고 긴급 의뢰
 
 ***
 
@@ -123,7 +129,7 @@ flowchart TD
     B -- "구역·구토 선행" --> D["위장관 출혈 평가"]
     B -- "객혈 또는 불명" --> G["<u>병력·진찰, 흉부 X선·CBC</u><br/>• 필요시 응고검사·결핵검사"]
     G --> H["CT 적응증,<br/>고위험 혈관성 원인 의심<br/>또는 출혈 지속·재발?"]
-    H -- "예" --> I["<u>조영증강 CT 또는 CTA</u><br/>• 필요시 기관지내시경"]
+    H -- "예" --> I["<u>조영증강 흉부 CT</u><br/>• 혈관성 원인 의심·<br/>색전술 평가 시 CTA<br/>• 필요시 기관지내시경"]
     H -- "아니오" --> J["<u>추정 원인 치료 및 추적</u><br/>• TXA는 선택적 지혈 보조"]
     I --> K["평가 결과 및 경과?"]
     K -- "출혈 증가 또는<br/>즉각 조치 소견" --> F
@@ -189,7 +195,7 @@ flowchart TD
 
 <table><thead><tr><th width="80">위험도</th><th>기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>life-threatening hemoptysis, 빠르게 지속·증가하는 출혈, 기도·가스교환·혈역학을 위협하는 출혈 또는 Red Flags의 즉각 조치 기준에 해당하는 경우</td><td>즉시 응급실 의뢰, 기도 평가 및 필요시 확보; CTA/기관지내시경 및 BAE 가능 기관으로 전원</td></tr><tr><td><strong>중위험</strong></td><td>즉각 조치 기준에 해당하지 않으나 Red Flags의 당일 평가 항목, 암 의심, 반복 객혈, 흉부 X선 이상 또는 항응고제 사용 중 지속·반복 출혈·Hb 감소</td><td>당일 평가 항목은 당일 평가, 그 외는 수일 내 전문과 의뢰; 결핵 의심 시 감염관리</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 극소량, 명확한 URI 상황, 위험인자 없음</td><td>흉부 X선 평가 후 외래 경과 관찰; 지속·반복 시 CT</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020;</mark></em><br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023;</mark></em><br><em><mark style="color:$info;">ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants 2020 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em><br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em><br><em><mark style="color:$info;">ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants 2020 등)</mark></em></p>
 
 #### <mark style="color:$primary;">확정적 지혈 치료</mark>
 
@@ -272,7 +278,7 @@ flowchart TD
 >
 > ```
 > ※ 역전제·비특이적 지혈제는 생명위협성 출혈 또는 초기 조치에도 조절되지 않는 중증 출혈에서
->    잔존 항응고 효과 등을 고려하여 해당전문의가 결정
+>    잔존 항응고 효과 등을 고려하여 해당 전문의가 결정
 >
 > [와파린]
 > ※ 판단 기준 : 출혈 중증도, INR, 혈전색전 위험을 함께 평가
@@ -297,9 +303,9 @@ flowchart TD
 >
 > 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드주사제</mark>](https://health.kr/drug/2016030700001)<mark style="color:blue;">]</mark> 2.5 g/50 ㎖
 >
-> _✽ warfarin 관련 중증 출혈에서 역전이 필요한 경우 4F-PCC가 우선 권고됨. 확보 여부는 이송 기관에 확인하고 사용 불가 시 FFP + IV vitamin K를 대안으로 사용; 제제 확보·역전제 투여 때문에 응급 이송을 지연하지 않음_
+> _✽ warfarin 관련 중증 출혈에서 IV vitamin K와 함께, 역전이 필요한 경우 4F-PCC가 우선 권고됨. 확보 여부는 이송 기관에 확인하고 사용 불가 시 FFP를 대안으로 사용; 제제 확보·역전제 투여 때문에 응급 이송을 지연하지 않음_
 >
-> _✽ andexanet alfa는 안전성 문제(혈전색전증·혈전 관련 사망 증가)로 2025년 12월 미국에서 판매 중단되었고 국내에는 공급되지 않음; aPCC(FEIBA)의 DOAC 역전 목적 사용은 허가 외 사용_
+> _✽ andexanet alfa는 안전성 문제(혈전색전증·혈전 관련 사망 증가)로 2025년 12월 미국에서 판매 종료되었고 국내에는 공급되지 않음; aPCC(FEIBA)의 DOAC 역전 목적 사용은 허가 외 사용_
 
 > **처방례 4. tranexamic acid 흡입 (nebulizer)**
 >
@@ -340,7 +346,7 @@ flowchart TD
 > **항응고제 사용 중 객혈**
 >
 > * 출혈 중증도와 혈전색전 위험을 함께 평가하여 중단 여부를 개별적으로 결정합니다. 임의로 자가 중단하지 않도록 안내합니다
-> * major/life-threatening bleeding이면 즉시 중단하고 역전 치료가 가능한 기관으로 응급 전원합니다. 역전제 사용 여부는 잔존 항응고 효과와 초기 조치에 대한 반응 등을 고려하여 결정합니다(andexanet alfa는 미국에서 안전성 문제로 판매가 중단되었으며 국내에는 승인·공급되지 않음)
+> * major/life-threatening bleeding이면 즉시 중단하고 역전 치료가 가능한 기관으로 응급 전원합니다. 역전제 사용 여부는 잔존 항응고 효과와 초기 조치에 대한 반응 등을 고려하여 결정합니다(andexanet alfa는 미국에서 안전성 문제로 판매가 종료되었으며 국내에는 승인·공급되지 않음)
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -358,7 +364,7 @@ flowchart TD
 * [Olsen KM, et al. ACR Appropriateness Criteria® Hemoptysis. J Am Coll Radiol. 2020;17(5S):S148-S159.](https://pubmed.ncbi.nlm.nih.gov/32370959/) - 객혈의 중증도·재발에 따른 영상검사와 색전술 평가
 * [Singhal R, et al. Society of Chest Imaging and Interventions Consensus Guidelines for the Interventional Radiology Management of Hemoptysis. Indian J Radiol Imaging. 2023;33(3):361-372.](https://doi.org/10.1055/s-0043-1762552) - 생명위협 객혈의 기도·순환 안정, 출혈 위치 확인과 기관지동맥색전술
 * [Tomaselli GF, et al. 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants. J Am Coll Cardiol. 2020;76(5):594-622.](https://pubmed.ncbi.nlm.nih.gov/32680646/) - 항응고제 관련 중증 출혈의 약물 중단·역전·재개 판단; 이후 안전성 정보와 함께 해석
-* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 중단 관련 자료
+* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 종료 관련 자료
 * [Agrawal A, et al. Efficacy and safety of tranexamic acid nebulization to control bleeding of hemoptysis: The TXA-NEB randomized controlled clinical trial. Indian J Pharmacol. 2025;57(6):392-400.](https://pubmed.ncbi.nlm.nih.gov/41221568/) - 비생명위협성 객혈에서 500 ㎎/5 ㎖ q8h, 2일 보조치료 연구
 * [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://academic.oup.com/eurheartj/article/42/36/3599/6358045) - 급성 심부전에서 혈압에 따른 혈관확장제 선택
 * [Steffel J, et al. 2021 European Heart Rhythm Association Practical Guide on the Use of Non-Vitamin K Antagonist Oral Anticoagulants in Patients with Atrial Fibrillation. Europace. 2021;23(10):1612-1676.](https://academic.oup.com/europace/article/23/10/1612/6247378) - DOAC의 신기능·CrCl 평가

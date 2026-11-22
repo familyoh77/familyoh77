@@ -65,7 +65,7 @@
 
 ### <mark style="color:orange;">임상 단서에 따른 원인 접근</mark>
 
-<table data-search="false"><thead><tr><th width="94">임상 범주</th><th>핵심 단서</th><th>동반 증상</th><th>주요 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>위장관</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>복부 팽만, 구역</td><td>GERD, gastric distension, 위배출 지연</td><td>생활 교정 ± PPI; 위배출 지연·구역 시 metoclopramide 고려</td></tr><tr><td><strong>신경계</strong></td><td>지속적 딸꾹질 + 신경학적 단서</td><td>심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화</td><td>brainstem lesion, stroke, 기타 CNS disease</td><td>급성 신경학적 결손·뇌졸중 의심 시 즉시 응급 이송; 그 외 Brain MRI 등 신경계 원인 평가 + 필요시 대증치료</td></tr><tr><td><strong>약물 관련</strong></td><td>약물 시작·증량·변경·재투여와 시간적 연관</td><td>대개 비특이</td><td>스테로이드, benzodiazepine, propofol, opioid 등</td><td>원인 약물 확인 후 중단·감량·교체 가능성 검토</td></tr><tr><td><strong>흉부</strong></td><td>기침, 흉통, 호흡곤란</td><td>발열 가능</td><td>pneumonia, MI, mediastinal/other mass</td><td>CXR ± ECG/CT 등 원인 평가</td></tr><tr><td><strong>대사/전신</strong></td><td>전신 상태 변화</td><td>쇠약, confusion, 탈수</td><td>uremia, electrolyte imbalance, metabolic disorder</td><td>기본 혈액검사 및 원인 교정</td></tr><tr><td><strong>수술/시술 관련</strong></td><td>수술·내시경·마취 직후 발생</td><td>원인 시술에 따라 다양</td><td>vagal/phrenic irritation, 마취 관련 약물</td><td>원인 확인 + 대증치료</td></tr><tr><td><strong>기능성/심인성 가능성</strong></td><td>기질적 원인을 충분히 배제한 뒤 스트레스와 명확한 시간적 연관</td><td>불안, 스트레스</td><td>functional/psychogenic</td><td>reassurance; 필요한 경우 제한적 단기 보조치료</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="94">임상 범주</th><th>핵심 단서</th><th>동반 증상</th><th>주요 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>위장관</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>복부 팽만, 구역</td><td>GERD, gastric distension, 위배출 지연</td><td>생활 교정 ± PPI; 위배출 지연·구역 시 metoclopramide 고려</td></tr><tr><td><strong>신경계</strong></td><td>지속적 딸꾹질 + 신경학적 단서</td><td>심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화</td><td>brainstem lesion, stroke, 기타 CNS disease</td><td>급성 신경학적 결손·뇌졸중 의심 시 즉시 응급 이송; 그 외 Brain MRI 등 신경계 원인 평가 + 필요시 대증치료</td></tr><tr><td><strong>약물 관련</strong></td><td>약물 시작·증량·변경·재투여와 시간적 연관</td><td>대개 비특이</td><td>스테로이드, benzodiazepine, propofol, opioid 등</td><td>원인 약물 확인 후 중단·감량·교체 가능성 검토</td></tr><tr><td><strong>흉부</strong></td><td>기침, 흉통, 호흡곤란</td><td>발열 가능</td><td>pneumonia, MI, mediastinal/other mass</td><td>ACS 의심 시 즉시 응급 이송(이송을 지연하지 않는 범위에서 12유도 ECG)<br/>그 외 CXR ± CT 등 원인 평가</td></tr><tr><td><strong>대사/전신</strong></td><td>전신 상태 변화</td><td>쇠약, confusion, 탈수</td><td>uremia, electrolyte imbalance, metabolic disorder</td><td>기본 혈액검사 및 원인 교정</td></tr><tr><td><strong>수술/시술 관련</strong></td><td>수술·내시경·마취 직후 발생</td><td>원인 시술에 따라 다양</td><td>vagal/phrenic irritation, 마취 관련 약물</td><td>원인 확인 + 대증치료</td></tr><tr><td><strong>기능성/심인성 가능성</strong></td><td>기질적 원인을 충분히 배제한 뒤 스트레스와 명확한 시간적 연관</td><td>불안, 스트레스</td><td>functional/psychogenic</td><td>reassurance; 필요한 경우 제한적 단기 보조치료</td></tr></tbody></table>
 
 * 수면 중 지속 여부는 기질적 원인 가능성을 판단하는 보조 단서이며, 단독으로 중추성 원인을 진단하거나 병변 위치를 특정하지는 못함
 * 식후 악화·속쓰림 → 위장관 원인 평가
@@ -81,18 +81,20 @@
 * 기본 검사 : CBC, 전해질(Na, K, Ca ± Mg, HCO₃), 혈당, BUN/Cr ± LFT
 * 흉부 X선(CXR) : 원인 불명 지속성 딸꾹질의 기본 검사
 * ECG : 원인 불명 지속성 딸꾹질의 기본 검사
-  * 심혈관 증상 동반, QT 연장 위험 평가, dopamine antagonist(metoclopramide, chlorpromazine 등) 사용 예정 시 특히 중요
+  * QT 연장 위험 약제(metoclopramide, domperidone, chlorpromazine 등)를 고려할 때는 투여 전 QTc, K·Mg·Ca 및 병용약 확인. 심혈관 증상 동반 시 특히 중요
 * 기본 평가에서 원인이 불명확하거나 임상 단서가 있는 경우 선택적 추가 검사
   * Brain MRI : 신경학적 소견이 있거나 기본 평가 후에도 설명되지 않는 지속성·난치성 사례
   * 흉부/복부 CT : 흉부·복부 증상 또는 종격동·복강 내 병변 의심 시
-  * 상부 소화기 내시경/pH 검사 : 연하곤란, 체중 감소, 역류 증상 또는 경험적 치료 실패 시
+  * 상부 소화기 내시경 : 연하곤란·원인 불명 체중 감소 등 경고 징후가 있거나 경험적 PPI 치료에 반응하지 않을 때
+  * 보행 역류 모니터링(pH 검사) : 내시경으로 GERD가 확인되지 않았으나 역류가 의심되거나, 확인된 GERD에서 최적 치료에도 증상이 지속될 때
 
 ### <mark style="color:orange;">동반 증상별 추가 검사</mark>
 
 **흉부 증상(흉통, 호흡곤란, 발열) 동반 시**
 
-* 흉부 X선, ECG
-* CBC, CRP
+* ACS 의심 소견 : 즉시 응급 이송
+  * 이송을 지연하지 않는 범위에서 12유도 ECG 시행
+* 안정된 환자 : 흉부 X선, ECG, CBC, CRP
 * 필요시 심장표지자 및 흉부 CT 등 원인별 검사
 
 **신경학적 증상(심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화) 동반 시**
@@ -104,7 +106,7 @@
 
 **복부 증상(복통, 구역/구토, 황달, 체중 감소) 동반 시**
 
-* LFT, lipase, BUN/Cr 등
+* LFT, BUN/Cr 등(췌장염이 의심되면 lipase 추가)
 * 복부 초음파 또는 복부 CT
 * 적응증이 있으면 상부 소화기 내시경
 
@@ -121,16 +123,16 @@
 flowchart TD
     A["딸꾹질"] --> B["즉각 조치 위험징후?"]
     B -- "예" --> C["즉시 원인 평가·<br/>응급 이송"]
-    B -- "아니오" --> D["48시간 이상 또는<br/>섭취·수면에 심한 지장?"]
+    B -- "아니오" --> D["48시간 이상 지속 또는<br/>당일~수일 내 평가 소견?"]
     D -- "아니오" --> E["안전한 비약물 방법·<br/>생활 교정"]
     D -- "예" --> F["<u>병력·진찰·약물 검토</u><br/>• 필요한 혈액검사·CXR·ECG"]
     F --> G["원인 또는 임상 단서?"]
     G -- "있음" --> H["<u>원인별 검사·치료</u><br/>• 원인 약물 조정 검토"]
-    G -- "없음" --> I["baclofen 또는 <br/>gabapentin 고려"]
+    G -- "없음" --> I["신기능 확인 후<br/>baclofen 또는 gabapentin 고려"]
     H --> J["충분한 호전?"]
     I --> J
     J -- "예" --> K["최소 유효 치료 후 <br/>추적"]
-    J -- "아니오" --> L["<u>원인·용량·내약성 재평가</u><br/>• 대안 약제 또는 전문과 의뢰"]
+    J -- "아니오" --> L["<u>원인·용량·내약성 재평가</u><br/>• 단서에 따라 추가 검사·<br/>전문과 의뢰<br/>• 대안 약제"]
     E --> M["지속·악화·새 위험징후 시 <br/>재평가"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
@@ -204,8 +206,9 @@ flowchart TD
 * [5](https://health.kr/drug/A11A1291A0307)\~[10 ㎎](https://www.health.kr/drug/A11A1291A0306) tid <mark style="color:blue;">\[프렉스]</mark>
 * 고령자·인지저하 환자 : 5 ㎎ qd 또는 bid 등 저용량으로 시작하여 3\~5일 간격으로 점진적 증량
 * 신기능 저하 : 축적에 따른 신경독성 위험
-  * eGFR 30\~60 ㎖/min/1.73㎡ : 저용량으로 시작하여 감량 투여
+  * eGFR 30\~60 ㎖/min/1.73㎡ (65세 미만) : 저용량으로 시작하여 감량 투여
   * eGFR ＜30 ㎖/min/1.73㎡ 또는 투석 환자 : 사용을 피함
+  * 65세 이상 : eGFR ＜60 ㎖/min/1.73㎡이면 사용을 피함 <mark style="color:$info;">\[AGS Beers 2023]</mark>
 * 반응이 불충분한 불응성 사례에서는 최대 [20 ㎎](https://health.kr/drug/A11A1291A0301) tid(60 ㎎/일)까지 증량을 고려할 수 있음(근거 수준 IV/C) <mark style="color:$info;">\[ESMO 2020]</mark>
   * 진정·어지럼 등 부작용을 면밀히 관찰
 * 장기간 사용 후에는 갑작스러운 중단을 피하고 서서히 감량
@@ -312,7 +315,7 @@ flowchart TD
 >
 > 약제 정보: [프렉스정·5 ㎎](https://health.kr/drug/A11A1291A0307)
 >
-> _✽ baclofen 단독 투여. 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작하며, eGFR ＜30 ㎖/min/1.73㎡ 또는 투석 환자에서는 사용을 피함_
+> _✽ baclofen 단독 투여. 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작하며, eGFR ＜30 ㎖/min/1.73㎡ 또는 투석 환자, 65세 이상에서 eGFR ＜60 ㎖/min/1.73㎡이면 사용을 피함_
 
 > **처방례 2. 선호 대안 - 신경인성 원인 의심 또는 baclofen 부작용 우려 시**
 >
@@ -392,6 +395,7 @@ flowchart TD
 * [Santini D, et al. Management of orphan symptoms: ESMO Clinical Practice Guidelines for diagnosis and treatment. ESMO Open. 2020;5(6):e000933.](https://doi.org/10.1136/esmoopen-2020-000933) - 암·완화의료에서 딸꾹질 치료와 약제 선택; 일반 환자에 적용할 때 대상 차이 고려
 * [Adam E. A Systematic Review of the Effectiveness of Oral Baclofen in the Management of Hiccups in Adult Palliative Care Patients. J Pain Palliat Care Pharmacother. 2020;34(1):43-54.](https://pubmed.ncbi.nlm.nih.gov/31910072/) - baclofen의 완화의료 근거와 권고를 제한하는 연구의 한계
 * [Moretto EN, et al. Interventions for treating persistent and intractable hiccups in adults. Cochrane Database Syst Rev. 2013;(1):CD008768.](https://pubmed.ncbi.nlm.nih.gov/23440833/) - 약물·비약물 치료의 고품질 비교 연구 부족을 확인하는 자료
+* [American Geriatrics Society 2023 Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081.](https://doi.org/10.1111/jgs.18372) - 표 6의 고령자 baclofen 신기능 기준
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 

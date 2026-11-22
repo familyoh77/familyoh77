@@ -144,7 +144,8 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 
 <mark style="color:cyan;">**기본 패널**</mark> (외래 초기 평가)
 
-* SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
+* SpO₂, 흉부 X선, ECG, CBC, basic chemistry panel
+* 선택 : 빈혈이 있으면 철결핍 평가, 감염·염증이 의심되고 결과가 판단에 도움이 되면 CRP
 
 <mark style="color:cyan;">**BNP/NT-proBNP**</mark>
 
@@ -178,7 +179,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * 높은 사전확률 : D-dimer로 영상검사를 지연시키지 않고 바로 CTPA(CT Pulmonary Angiography) 등 영상검사 진행
   * 임신부 : 일반 Wells·PERC를 그대로 적용하지 않고 임신부에 검증된 별도 진단 경로 적용
 * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음
-* 연령 보정 : 50세 초과에서는 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
+* 연령 보정 : 사전확률이 낮거나 중간인 50세 초과 환자에서 D-dimer를 시행할 때 [연령 보정 D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte)(age × 10 ㎍/L, FEU 기준)를 적용하여 불필요한 CTPA를 줄일 수 있음
 * 단위 확인 : 검사실마다 FEU(fibrinogen equivalent unit) 또는 DDU(D-dimer unit) 기준이 다름
 
 <mark style="color:cyan;">**선택적 추가 검사**</mark>
@@ -195,18 +196,18 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
 * **PFT(폐기능 검사)** : 만성 호흡곤란에서 우선 고려
   * 폐쇄성 패턴 : 천식·COPD
   * 제한성 패턴(의심) : 스피로메트리에서 FVC 저하 + FEV₁/FVC 보존
-    * 제한성 장애를 "의심"할 뿐이며, TLC 감소로 확진
+    * 제한성 장애를 "의심"할 뿐이며, TLC가 정상하한(LLN) 미만이면 확진
     * 관련 질환 : 간질성 폐질환·비만·흉막 질환 등
-* **ABG(동맥혈 가스 분석)** : 다음 경우 시행
-  * 중증 또는 CO₂ retention 의심
-  * Kussmaul 호흡 + DKA/패혈증/신부전 감별
-    * glucose·ketone을 함께 확인
+* **혈액가스 분석**
+  * 동맥혈가스(ABG) : 중증 호흡 부전, CO₂ retention 의심 등 동맥 산소화나 PaCO₂ 평가가 필요할 때
+  * Kussmaul 호흡 등으로 DKA가 의심되면 혈당·전해질·혈중 β-hydroxybutyrate·정맥혈가스(VBG) 확인
+    * 패혈증·신부전 감별도 함께 고려
 * **CT, cardiac stress tests** : 임상적 판단에 따라 선택
 
 <mark style="color:cyan;">**상황별 추가 평가**</mark>
 
 * 만성 원인불명 호흡곤란
-  * 기관지 확장제 반응을 포함한 스피로메트리 → 폐용적 → DLCO
+  * 기관지 확장제 반응을 포함한 스피로메트리 후, 소견과 의심 질환에 따라 폐용적·DLCO 추가
   * TSH, 빈혈 의심 시 철결핍 평가 병행
 * 운동 시 증상
   * 보행 중 SpO₂ 변화 또는 6분 보행검사
@@ -335,6 +336,7 @@ SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰�
   * SpO₂·활력징후를 확인하고 흉통·심계항진·PE 위험인자·비정상 진찰 소견 등에 따라 ECG, CXR, D-dimer 등을 선택
 * **정상 SpO₂에 안심** : SpO₂는 산소화 지표이지 환기 상태가 아님
   * PE 초기·대사성 산증은 SpO₂ 정상 가능하며, RR(호흡수)를 더 중요하게 간주
+  * 일산화탄소 노출이 의심되면 정상 SpO₂로 배제할 수 없으므로 즉시 응급 평가하고 혈액 CO-oximetry로 COHb 확인
 * **cardiac asthma 오진** : wheeze → 천식으로만 해석하지 말 것
   * orthopnea·leg edema 동반 시 BNP 또는 폐 초음파(B-line) 확인
 * **신경근육 원인 간과** : GBS·MG·ALS는 초기 폐 청진·SpO₂가 정상일 수 있음
@@ -355,7 +357,7 @@ flowchart TD
     F --> G["주요 원인 단서?"]
     G -- "심장·혈관" ---> H["심부전·ACS 또는 <br/>PE 의심?"]
     H -- "심부전·ACS" --> H2["<u>심부전·ACS</u><br/>• ACS·급성 비보상 심부전 <br/>의심: 응급 평가·이송<br/>• 안정된 심부전 의심:<br/>BNP/NT-proBNP·<br/>심장 초음파·전문 평가"]
-    H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
+    H -- "PE" --> J["<u>검증된 <br/>사전확률 경로</u><br/>• 저위험·PERC 음성: <br/>검사 없이 배제<br/>• 그 외 낮음·중간: <br/>D-dimer<br/>• 높음: 영상검사, <br/>불안정 시 즉시 이송"]
     G -- "기관지·폐" ---> I["기도 악화 또는 <br/>기흉·감염 의심?"]
     I -- "천식·COPD 악화" --> I2["<u>SABA ± <br/>ipratropium</u><br/>• 중증도에 따라 <br/>스테로이드·이송"]
     I -- "기흉·감염" --> N["<u>흉부 X선·POCUS <br/>등 원인 평가</u><br/>• 상태에 따라 <br/>응급 처치·이송"]
@@ -401,7 +403,7 @@ flowchart TD
 * 산소 공급 : 저산소혈증이 있을 때 질환별 SpO₂ 목표에 맞춰 투여
 * 저산소혈증이 있는 일반 급성 환자 : SpO₂ 목표 94\~98% <mark style="color:$info;">\[BTS 2017]</mark>
   * 질환별 목표를 우선 적용
-* 천식 급성 악화 : 산소가 필요하면 SpO₂ 92\~95% 목표 <mark style="color:$info;">\[GINA 2026]</mark>
+* 천식 급성 악화(성인·청소년 및 6\~11세) : 산소가 필요하면 SpO₂ 92\~95% 목표 <mark style="color:$info;">\[GINA 2026]</mark>
   * 임신부는 태아 산소화를 고려한 개별 목표 적용
 * CO₂ retention risk 환자 : ABG 확인 전 SpO₂ 잠정 목표 88\~92%
   * 해당 질환 : COPD(특히 고탄산혈증 병력), 신경근육 질환·고도 비만 등

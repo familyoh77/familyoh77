@@ -154,6 +154,7 @@
 * 병력 청취 : 발생 양상(규칙/불규칙), 지속 시간, 유발·완화 요인(운동·식사·음주·스트레스), 동반 증상(흉통·실신·호흡 곤란)
 * 신체 검진 : 맥박(rate·rhythm), 혈압, 갑상선 촉진, 심잡음
 * 기본 검사 : 12-lead ECG는 기본 시행
+  * QT 연장 약제 복용 중이면 QTc 확인 - QTc ＞500 ms 또는 기저치보다 ≥60 ms 증가하면 측정값을 재확인하고, 병용약·K·Mg·Ca 및 증상을 신속히 평가
   * CBC, 전해질(K, Mg)·신기능, TSH, 혈당 등은 병력·진찰 및 의심 원인에 따라 선택
 * 심초음파(ECHO) : 구조적 심장 질환이 의심되는 경우 시행
   * 심잡음 청취, 비정상 ECG(좌심실 비대, ST 변화, pre-excitation 등), 심부전·심근병증·판막 질환 의심 → 심초음파 적극 시행
@@ -178,7 +179,7 @@
 
 * 증상 빈도에 따라 권장 검사
 
-<table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록; 환자 작동형은 의식이 유지되고 증상이 기록할 만큼 지속될 때 적합</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="299">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter 검사</td></tr><tr><td><strong>수일 ~ 수주</strong></td><td>패치형 장기 심전도(예: 메모패치) - 수일~14일 연속 기록</td></tr><tr><td><strong>수주 ~ 수개월</strong></td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록; 환자 작동형은 의식이 유지되고 증상이 기록할 만큼 지속될 때 적합</td></tr><tr><td><strong>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</strong></td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
 
 * 스마트워치 ECG : 환자가 증상 발생 시 직접 기록한 ECG를 외래에서 활용 가능
   * 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 위양성 주의
@@ -187,7 +188,7 @@
 
 ### <mark style="color:orange;">두근거림 표현형 분류</mark>
 
-<table><thead><tr><th width="290">표현형</th><th>시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td><strong>빠르고 규칙적, 갑자기 시작·종료</strong></td><td>PSVT, VT도 감별</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>완전 불규칙</strong></td><td>AF, 가변 전도 AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td><strong>건너뜀·쿵 느낌 (flip-flop)</strong></td><td>PAC/PVC</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>서서히 시작, 점진적 빈맥</strong></td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td><strong>기립 시 심해짐 + 피로·brain fog</strong></td><td>POTS</td><td>기립 전후 HR·BP 측정</td></tr><tr><td><strong>정상 범위의 맥박인데 두근거림 느낌</strong></td><td>불안·과민, PAC/PVC 등</td><td>증상-리듬 상관관계 확인</td></tr></tbody></table>
+<table><thead><tr><th width="290">표현형</th><th>시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td><strong>빠르고 규칙적, 갑자기 시작·종료</strong></td><td>PSVT, VT도 감별</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>완전 불규칙</strong></td><td>AF, 가변 전도 AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td><strong>건너뜀·쿵 느낌 (flip-flop)</strong></td><td>PAC/PVC</td><td>ECG, Holter/이벤트 기록</td></tr><tr><td><strong>서서히 시작, 점진적 빈맥</strong></td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td><strong>기립 시 심해짐 + 피로·brain fog</strong></td><td>POTS</td><td>10분 능동 기립 검사(HR·BP)</td></tr><tr><td><strong>정상 범위의 맥박인데 두근거림 느낌</strong></td><td>불안·과민, PAC/PVC 등</td><td>증상-리듬 상관관계 확인</td></tr></tbody></table>
 
 * "두근거림이 갑자기 시작해서 갑자기 끝나나요?" → 예 → PSVT 가능성
 * "맥이 규칙적인가요, 불규칙한가요?" → 불규칙 → AF 가능성
@@ -213,7 +214,7 @@
 
 ### <mark style="color:orange;">빈번한 PAC/PVC - burden 확인이 필요한 경우</mark>
 
-* 단독·산발적 PAC/PVC는 대개 양성이나, 다음 상황에서는 단순 안심 대상으로 분류하지 말고 Holter로 burden을 정량화하고 심초음파·심장내과 평가를 고려
+* 단독·산발적 PAC/PVC는 대개 양성이나, 다음 상황에서는 단순 안심 대상으로 분류하지 말고 Holter 등 연속 심전도로 burden을 정량화하고 심초음파·심장내과 평가를 고려
   * 반복적 또는 매우 빈번한 PVC
   * 다형성 PVC, 쌍발 PVC, NSVT(non-sustained VT)
   * 운동 시 증가하는 양상
@@ -224,6 +225,7 @@
 ### <mark style="color:orange;">심방세동(AF) 의심 시</mark>
 
 * AF는 임상의가 ECG tracing을 직접 확인하여 진단
+  * 확진 : 표준 12-lead ECG 기록 전체에서 AF가 확인되거나, 판독 가능한 단일 유도 ECG에서 AF가 30초 이상 지속 <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
 * 전형적 ECG 소견 : 뚜렷하고 규칙적으로 반복되는 P파가 없고, 방실전도가 유지될 때 RR 간격이 불규칙함
   * 가변 방실전도를 동반한 심방조동 등 유사 리듬과 감별
 * 새로 진단된 AF
@@ -248,17 +250,20 @@ flowchart TD
     Start["두근거림 환자"] --> EmergencyQ["즉각 조치 소견 또는<br/>확인된 고위험 리듬·<br/>wide-QRS 빈맥?"]
     EmergencyQ -- "예" --> Emergency["<u>기도·호흡·순환 평가 <br/>및 응급 이송</u><br/>• 빈맥성 부정맥으로 <br/>인한 불안정 시 <br/>응급 전기 치료 평가"]
     EmergencyQ -- "아니오" --> Assess["<u>병력·진찰·ECG</u><br/>• 필요시 장기 심전도로 <br/>증상·리듬 확인"]
-    Assess -- "고위험 소견 확인" --> Emergency
-    Assess -- "고위험 소견 없음" ---> Rhythm["확인된 리듬·표현형?"]
+    Assess -- "즉각 조치 소견 확인" --> Emergency
+    Assess -- "당일~수일 내 평가 소견" --> Urgent["<u>당일~수일 평가·의뢰 계획</u><br/>• 심초음파·<br/>심장내과 의뢰 등"]
+    Assess -- "해당 없음" ---> Rhythm["확인된 리듬·표현형?"]
+    Urgent --> Rhythm
     Rhythm -- "규칙적 narrow-QRS SVT" --> Vagal["<u>안정 시 <br/>modified Valsalva</u><br/>• 실패·지속 시 감시하에 <br/>치료 가능한 기관으로 이송<br/>• 재발성 증상은 <br/>절제술 포함 전문 평가"]
     Rhythm -- "AF" --> PreEx["Pre-excitation?"]
     PreEx -- "예" --> WPW["<u>즉시 응급 이송</u><br/>• AV node 차단제·<br/>IV amiodarone 금기"]
     PreEx -- "아니오" ---> EF["LVEF 및 임상 상태?"]
     EF -- "≤40%, 안정" --> AFhf["<u>심부전 상태·혈압에 <br/>따라 β-차단제 <br/>및/또는 digoxin</u><br/>• non-DHP CCB <br/>사용 안 함"]
     EF -- "＞40%, 안정" --> AFnormal["<u>β-차단제 또는 <br/>diltiazem·<br/>verapamil</u><br/>• 폐질환·서맥·<br/>전도장애 등 고려"]
+    EF -- "미확인" --> EFunk["<u>심부전 소견·기왕력·<br/>기존 검사 확인</u><br/>• 심초음파·전문 평가<br/>• 좌심실 수축기능 저하 의심 시<br/>diltiazem·verapamil 피함"]
     PreEx -. "병행" .-> Stroke["뇌졸중 위험·항응고 여부 및<br/>조기 리듬 조절 적합성 평가"]
     Rhythm -- "PAC·PVC" --> Burden["빈번·복잡성 <br/>또는 구조적 심질환·<br/>EF 저하?"]
-    Burden -- "예" --> Refer["<u>Holter로 <br/>burden 정량화</u><br/>• 심초음파·<br/>심장내과 평가"]
+    Burden -- "예" --> Refer["<u>Holter 등 연속 심전도로<br/>burden 정량화</u><br/>• 심초음파·<br/>심장내과 평가"]
     Burden -- "아니오" --> Reassure["<u>설명·유발 인자 조절</u><br/>• 증상 지속 시 <br/>저용량 β-차단제 고려"]
     Rhythm -- "동빈맥" --> Sinus["<u>빈혈·갑상선·탈수·<br/>감염 등 원인 교정</u><br/>• 지속 시 IST·<br/>POTS 등 감별"]
     Rhythm -- "부정맥 미확인" --> Other["<u>부정맥 의심이 남고 <br/>리듬 확인이 필요하면 <br/>추가 모니터링</u><br/>• 불안·과민 평가 병행<br/>• 불안장애 확진 시 <br/>CBT·SSRI 등 고려"]
@@ -270,7 +275,7 @@ flowchart TD
     class Start start
     class EmergencyQ,Rhythm,PreEx,EF,Burden question
     class Emergency,WPW emergency
-    class Assess,Stroke,Refer,Other evaluation
+    class Assess,Urgent,EFunk,Stroke,Refer,Other evaluation
     class Vagal,AFhf,AFnormal,Reassure,Sinus treatment
 ```
 
@@ -279,8 +284,6 @@ flowchart TD
 > _AF/LVEF ≤40% 분기의 β-차단제 및/또는 digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전은 LVEF와 관계없이 즉각 조치 대상으로 별도 접근._
 >
 > _뇌졸중 위험·항응고 필요성 및 조기 리듬 조절 적합성은 LVEF 확인 여부와 관계없이 평가. 응급 소견이 있으면 안정화와 이송을 우선._
->
-> _LVEF 미확인 시 심부전 소견·기왕력과 기존 검사를 확인하고, 좌심실 수축기능 저하가 의심되면 diltiazem·verapamil을 피하며 심초음파·전문 평가로 연결._
 >
 > _혈역학적 불안정을 일으킨 빈맥성 부정맥은 응급 동기화 심율동전환의 대상이며, 지속성 다형성 VT에는 즉시 비동기화 전기충격을 적용._
 >
@@ -472,6 +475,7 @@ flowchart TD
 * [Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J. 2020;41(5):655-720.](https://doi.org/10.1093/eurheartj/ehz467) - AVNRT·AVRT의 급성·장기 치료, pre-excitation의 약물 제한과 절제술
 * [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024;45(36):3314-3414.](https://doi.org/10.1093/eurheartj/ehae176) - AF 심박수 조절·뇌졸중 예방과 CHA₂DS₂-VA; 2023 미국 지침의 점수 체계와 구분
 * [Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation. 2024;149(1):e1-e156.](https://doi.org/10.1161/CIR.0000000000001193) - AF 진단·심박수 조절·항응고와 CHA₂DS₂-VASc의 적용; 지침명은 2023, 출판은 2024년
+* [대한부정맥학회. 부정맥 진료지침 (Ⅰ). 2024. 제1부 심방세동 일반 치료 진료지침.](https://www.k-hrs.org/assets/file/01_2024_Korean_Arrhythmia_Society_General_Guidelines.pdf) - 표준 12유도 및 단일 유도 심전도의 AF 확진 기준
 * [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
 * [National Institute for Health and Care Excellence. Generalised anxiety disorder and panic disorder in adults: management (CG113). 2011, updated 2020.](https://www.nice.org.uk/guidance/cg113) - 범불안장애의 일차 치료와 벤조디아제핀의 급성 위기 단기 사용 제한
 * [Sheldon RS, et al. 2015 Heart Rhythm Society Expert Consensus Statement on POTS, IST, and Vasovagal Syncope. Heart Rhythm. 2015;12(6):e41-e63.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/) - IST·POTS의 정의와 이차 원인 평가
