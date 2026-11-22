@@ -459,6 +459,7 @@ flowchart TD
 * 대상 : opioid-tolerant 환자의 지속적인 중등도\~중증 만성 통증에 한하여 사용
   * opioid-naïve 환자 및 급성/간헐적 통증에는 사용하지 않음
 * 용법 : [12](https://health.kr/drug/A11AOOOOO9759), [25](https://www.health.kr/drug/A11AOOOOO6981), [50](https://health.kr/drug/A11AOOOOO6983), [100](https://www.health.kr/drug/A11AKP08G0495) ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">듀로제식디트랜스 패취</mark>](https://www.health.kr/drug/A11AOOOOO9759)<mark style="color:blue;">]</mark>
+  * <mark style="background-color:yellow;">초회 용량은 기존 opioid의 실제 24시간 사용량과 내약성을 확인한 뒤 해당 제품 허가사항의 전환표에 따라 결정</mark>
 * 발열, 외부 열 노출 시 흡수가 증가할 수 있음; 패취 부위에 온찜질·전기장판 등 직접적인 열 노출을 피함
   * 발열 시 사용 여부와 호흡·의식 상태를 확인하고 필요시 용량 조정
 * fluconazole은 fentanyl 제거를 지연시켜 호흡억제 위험을 높일 수 있으므로 병용 전 대안·용량 및 감시 계획을 확인
@@ -547,7 +548,7 @@ flowchart TD
 
 * 아래는 비암성 통증 치료에 대한 원칙임. 난치성 [만성기침](006_-cough.md)의 저용량 서방형 morphine, 난치성 [하지불안증후군](../221_/036_-restless-legs-syndrome.md)의 저용량 opioid는 전문진료에서 별도 적응증·근거·제형을 확인하는 허가 외 사용으로 해당 장의 권고를 따름
   * 각 적응증의 용량·투여 시간을 통증 치료에 그대로 적용하거나, 통증장의 속효성 제제 선행 원칙을 다른 적응증에 일률적으로 적용하지 않음
-* 비암성 통증에서 서방형/지속형 제제로 전환할 때는 최소 1주일 동안 매일 일정 용량의 속효성 경구 opioid를 투여받은 환자에게만 고려
+* <mark style="background-color:yellow;">비암성 통증에서 서방형/지속형 제제로 전환할 때는 최소 1주일 동안 매일 일정 용량의 속효성 경구 opioid를 투여받은 환자에게만 고려. fentanyl 패취로 전환할 때는 기존 opioid의 실제 24시간 사용량과 내약성을 확인하고, 해당 패취 허가사항의 전환표에 따라 초회 용량을 결정</mark>
 
 <mark style="color:cyan;">**감량/중단**</mark>
 

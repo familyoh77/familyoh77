@@ -27,7 +27,7 @@
 * 발열·패혈증 소견과 요로폐쇄 동반 `감염성 요로폐쇄`
 * 급성 하복부·서혜부 통증과 음낭 압통·종창 또는 고환 위치 이상 `고환염전`
 * 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈 `위장관 출혈`
-* 복통·요통을 동반한 박동성 복부 종괴 (특히 고령·흡연·죽상동맥경화 환자) `증상성 복부대동맥류(abdominal aortic aneurysm, AAA)·파열 의심`
+* <mark style="background-color:yellow;">복통 또는 요통과 함께 박동성 복부 종괴가 만져지거나, 갑작스러운 복통 또는 요통에 저혈압 또는 실신이 동반되거나, 알려진 복부대동맥류 환자에서 새 복통 또는 요통이 발생한 경우(박동성 종괴가 없어도 해당). 고령·흡연력은 의심을 높이는 단서</mark> `증상성 복부대동맥류(AAA)·파열 의심`
 * 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈 `자궁외임신 파열`
 * 갑작스러운 극심한 복통 ("내 인생 최악의 통증") `혈관 사고(AAA, 대동맥 박리)` `천공` `장간막 허혈`
 * 갑작스러운 상복부·복부 통증 + 흉통 또는 등 통증 + 사지 간 맥박·혈압 차이 또는 신경학적 증상 동반 `대동맥 박리`
@@ -377,7 +377,7 @@ flowchart TD
   * 서혜부·대퇴부·제대 등 탈장 가능 부위를 반드시 진찰
   * 성인 소장 폐쇄의 가장 흔한 원인(약 60\~70%)은 수술 후 유착이므로 복부 수술력 확인이 중요
 * GI 천공 : 갑작스러운 심한 복통
-* 복부대동맥류(AAA) 파열 : 갑작스러운 심한 복통 또는 요통, 박동성 복부 종괴, 혈압 저하
+* <mark style="background-color:yellow;">복부대동맥류(AAA) 파열 : 갑작스러운 심한 복통 또는 요통에 저혈압, 실신 또는 박동성 복부 종괴가 동반될 수 있음. 알려진 AAA 환자의 새 복통·요통에서도 의심</mark>
   * 고령, 흡연력, 죽상동맥경화 병력이 있는 환자에서 강하게 의심
   * 흡연은 AAA의 발생·성장·파열 위험을 높이며, AAA가 있는 여성은 남성보다 파열 위험이 높음
   * 박동성 종괴가 촉지되지 않아도 배제되지 않으며, 즉각 응급 조치 필요
@@ -441,7 +441,7 @@ flowchart TD
 
 **Step 3. 치명적·시간 민감성 질환 우선 배제**
 
-<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td><strong>AAA 파열</strong></td><td>고령·흡연·박동성 종괴·저혈압</td></tr><tr><td><strong>대동맥 박리</strong></td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td><strong>장간막 허혈</strong></td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td><strong>GI 천공</strong></td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td><strong>교액성 장폐쇄</strong></td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td><strong>자궁외임신 파열</strong></td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td><strong>Acute MI</strong></td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td><strong>AAA 파열</strong></td><td><mark style="background-color:yellow;">갑작스러운 복통·요통, 저혈압·실신, 알려진 AAA. 고령·흡연력에서 의심하며 박동성 종괴가 없어도 배제할 수 없음</mark></td></tr><tr><td><strong>대동맥 박리</strong></td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td><strong>장간막 허혈</strong></td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td><strong>GI 천공</strong></td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td><strong>교액성 장폐쇄</strong></td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td><strong>자궁외임신 파열</strong></td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td><strong>Acute MI</strong></td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
 
 > _위는 대표적 예시이며 전체 목록이 아님._\
 > _&#xB09C;소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 감별 섹션 참조_
@@ -695,6 +695,7 @@ flowchart TD
 * [CDC. Confirming an Etiology in Foodborne Outbreaks.](https://www.cdc.gov/foodborne-outbreaks/php/confirming-cause/index.html) - 원인균별 잠복기와 임상 증상
 * Royal Children's Hospital Melbourne. Clinical Practice Guidelines: [Abdominal pain - acute](https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/); [Vomiting](https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/) - 소아 급성 복통과 담즙성 구토의 응급 평가
 * [NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126).](https://www.nice.org.uk/guidance/ng126) - 임신 위치 미상 추적 평가
+* <mark style="background-color:yellow;">[NICE. Abdominal aortic aneurysm: diagnosis and management. NG156. 2020.](https://www.nice.org.uk/guidance/ng156/chapter/recommendations) - 증상성 또는 파열성 복부대동맥류의 의심 소견과 응급 의뢰</mark>
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 

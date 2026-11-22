@@ -263,6 +263,7 @@ flowchart TD
   * 노인·저혈압·낙상 위험 환자
   * 파킨슨병·Lewy body dementia : 증상 악화 가능
   * 병용 시 위험 증가 : 다른 dopamine antagonist(EPS·NMS), QT 연장 약물(부정맥)
+  * <mark style="background-color:yellow;">50 ㎎ 당의정의 분할 적합성이 확인되지 않으면 반정으로 처방하지 않음. 계획한 1회 용량에 맞는 제형을 확인하여 선택</mark>
 
 #### <mark style="color:$primary;">제한적·저근거 대안</mark>
 
@@ -338,16 +339,6 @@ flowchart TD
 >
 > _✽ 5일 이내 단기간 사용. domperidone과는 병용금기이며, 다른 dopamine antagonist와 병용 시 EPS·NMS 위험 증가_
 
-> **처방례 4. 후순위 - persistent/intractable hiccup에서 선호 약제가 불충분하거나 사용하기 어려운 경우**
->
-> ```
-> 명인클로르프로마진염산염정50㎎ ½T tid → 반응과 내약성에 따라 조정
-> ```
->
-> 약제 정보: [명인클로르프로마진염산염정·50 ㎎](https://www.health.kr/drug/A11A0920A0028)
->
-> _✽ 50 ㎎ 당의정의 반정 조제는 분할 적합성을 약사와 확인. 저혈압·진정·추체외로 증상에 주의. domperidone·haloperidol과는 병용금기이며, metoclopramide와 병용 시 EPS·NMS 위험 증가_
-
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
@@ -400,6 +391,7 @@ flowchart TD
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* <mark style="background-color:yellow;">[U.S. Food and Drug Administration. Tablet Splitting.](https://www.fda.gov/drugs/buying-using-medicine-safely/tablet-splitting) - 품목별 정제 분할 정보와 분할 적합성의 확인</mark>
 
 ***
 
