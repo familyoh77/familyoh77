@@ -207,7 +207,7 @@ flow
 * 생활 습관 개선 : 수면 환경 개선, 규칙적 생활(수면, 식사, 운동, 스트레칭 등)
 * 행동 치료 : 이완 훈련, 인지행동 요법, 바이오피드백
 
-## <mark style="color:green;">급성 편두통의 약물 치료</mark>
+## <mark style="color:green;">급성기 약물 치료</mark>
 
 * 급성기 치료 전략 (stratified approach)
   * 경증 : NSAID 또는 acetaminophen 1차 사용
@@ -286,13 +286,6 @@ flow
 * 주의/금기 : 고혈압, 심혈관·말초혈관 질환, 간/신 장애, 패혈증, 임신, 수유부, triptan과 서로 24시간 이내 병용, 강력한 CYP3A4 억제제 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 필요시 30분마다 1정 추가(최대 6정/발작·10정/주) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">크래밍</mark>](https://www.health.kr/drug/A11AEEEEE0589)<mark style="color:blue;">]</mark>
 
-### <mark style="color:orange;">급성기·예방 약제의 CYP3A4 상호작용</mark>
-
-* Rimegepant : 강력한 CYP3A4 억제제(예: clarithromycin, itraconazole)와 병용을 피하고, 중등도 CYP3A4 억제제 또는 강력한 P-gp 억제제 병용 시 48시간 이내 추가 복용을 피함. 강력한·중등도 CYP3A 유도제와의 병용을 피함
-* Atogepant : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd로 감량
-* Triptans : eletriptan은 강력한 CYP3A4 억제제(ketoconazole, itraconazole, clarithromycin, ritonavir, nefazodone 등) 투여 중 및 투여 중단 후 최소 72시간 이내 병용 금기(유통 제품 없으나 안전성 정보로 기재)
-* Ergotamine 계열 : 강력한 CYP3A4 억제제와 병용 금기(혈관 수축 부작용·맥각 중독 위험)
-
 ### <mark style="color:orange;">항구토제</mark>
 
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
@@ -302,12 +295,6 @@ flow
 * metoclopramide : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">맥페란</mark>](https://www.health.kr/drug/A11A0570A0089)<mark style="color:blue;">]</mark> 1정은 metoclopramide 3.84 ㎎. 이 정제를 사용하는 구역 완화 예시는 1회 1\~2정이며, 문헌의 10 ㎎을 1정으로 표기하지 않음. 1일 최대 3회, 재투여 간격 ≥6시간, 최대 5일. 허가사항의 1일 최대량(염산메토클로프라미드로서 30 ㎎ 또는 0.5 ㎎/㎏ 중 낮은 용량)을 확인하고 신·간기능에 따라 감량
 * domperidone : 발작 시 10 ㎎ 1회 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">돔피돈</mark>](https://health.kr/drug/A11A0570A0382)<mark style="color:blue;">]</mark>; 최대 30 ㎎/일, 통상 1주 이내 사용
   * QT 연장, 유의한 전해질 이상, 심부전 등 심장 기저질환, 중등도\~중증 간장애, QT 연장 약물·강력한 CYP3A4 억제제 병용은 금기. Metoclopramide와 병용하지 않음
-
-### <mark style="color:orange;">스테로이드</mark>
-
-* 일률적인 사용은 하지 않음; 주로 응급실에서 주사로 투여
-* dexamethasone : 급성 통증 완화가 아닌 두통 재발(recurrence) 예방 목적으로 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">제일덱사메타손주사액</mark>](https://www.health.kr/drug/A11A0490A0019)<mark style="color:blue;">]</mark>
-  * 위약 대비 재발 위험을 유의미하게 줄인다는 근거 있음
 
 ***
 
@@ -319,7 +306,7 @@ flow
 
 ***
 
-## <mark style="color:green;">편두통의 예방적 약물 치료</mark>
+## <mark style="color:green;">예방 약물 치료</mark>
 
 ### <mark style="color:orange;">예방 치료 대상</mark>
 
@@ -342,7 +329,7 @@ flow
 
 _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations. AAN/AHS. 2026._
 
-### <mark style="color:orange;">기존 경구 예방약</mark>
+### <mark style="color:orange;">경구 예방약</mark>
 
 * 중등도 이상의 효과 근거가 있는 기존 경구 예방약 : propranolol, topiramate, valproate; amitriptyline·metoprolol·flunarizine은 삽화성 편두통에서 낮은 확실성의 근거 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * valproate는 강력한 기형 유발 위험으로 가임 가능 여성에서는 예방약 선택 시 원칙적으로 제외하고, 다른 예방약 실패 시에도 우선 다른 계열로 대체를 고려
@@ -392,7 +379,32 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
   * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
   * 주의/금기 : 우울 증상 또는 그 병력, 파킨슨병, 추체외로 증상
 
-### <mark style="color:orange;">CGRP 표적 예방치료 및 기타 예방 치료</mark>
+#### <mark style="color:$primary;">항고혈압제 (ARB·ACE 억제제)</mark>
+
+* 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
+  * 대한두통학회는 candesartan(근거수준 I, 약한 찬성)과 lisinopril(근거수준 IV, 약한 찬성)을 고려할 수 있는 약제로 제시하고 nifedipine·telmisartan은 권고하지 않아 지침 간 차이가 있음 <mark style="color:$info;">\[Headache Pain Res 2025]</mark>
+  * AAN/AHS 2026의 체계적 고찰은 2024년 6월까지의 연구를 바탕으로 함. 이후 발표된 삽화편두통 무작위시험에서 candesartan 16 ㎎/d가 위약보다 월 편두통일수를 유의하게 줄였음 <mark style="color:$info;">\[Lancet Neurol 2025]</mark>; 국내 지침과 동반 고혈압을 종합하여 선택
+* candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아타칸</mark>](https://www.health.kr/drug/A11ABBBBB1383)<mark style="color:blue;">]</mark>
+  * 부작용 : 저혈압, 고칼륨혈증, 신기능 악화
+  * 주의/금기 : 임신, 중증 신기능 저하 또는 고칼륨혈증 위험 환자에서 신중 사용
+* lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">제스트릴</mark>](https://www.health.kr/drug/A11A3060A0278)<mark style="color:blue;">]</mark>
+  * 부작용 : 어지럼증, 두통, 기침, 피로, 저혈압
+  * 주의/금기 : 과거 ACE inhibitor 관련 혈관 부종, 유전성/특발성 혈관 부종, 임신
+
+#### <mark style="color:$primary;">Gabapentinoid</mark>
+
+* gabapentin : 삽화편두통 예방에 사용하지 않을 것을 제안(근거수준 II, 약한 반대) <mark style="color:$info;">\[Headache Pain Res 2025]</mark>
+
+#### <mark style="color:$primary;">기타</mark>
+
+* 아래 약제는 편두통 예방에 대한 근거가 제한적이고 대부분 허가 외 사용이므로 routine으로 권고하지 않음
+* tizanidine(근이완) : 문헌의 편두통 예방 연구 용량 4\~24 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark> (허가 외 사용; 근연축 허가 용량 1\~2 ㎎ tid와 구분). 일반 처방의 증량 목표로 일률 적용하지 않으며 전문진료에서 판단; ciprofloxacin·fluvoxamine 병용 금기 및 저혈압·진정·간기능 이상에 주의(☞ [통증](../220_/001_-pain.md)·[경추성두통](019_-cervicogenic-headache.md)·[불안장애](025_-anxiety-disorder.md) 참조)
+* memantine(NMDA 수용체 길항제) : 5\~20 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에빅사</mark>](https://www.health.kr/drug/A11AOOOOO2372)<mark style="color:blue;">]</mark>; 편두통 예방은 허가 외이며 근거가 제한적임. 5 ㎎/d부터 통상 1주 간격으로 5 ㎎/d씩 점진 증량하는 안전성 원칙을 참고하되 전문의가 개별화하고, CrCl별 감량을 적용(☞ [통증](../220_/001_-pain.md) 참조)
+* cyproheptadine(항히스타민) : 4\~8 ㎎ tid
+* zonisamide(항전간) : 50\~100 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">엑세그란</mark>](https://www.health.kr/drug/A11A0150A0558)<mark style="color:blue;">]</mark>
+* 대체 요법(근거 제한적) : Mg 600 ㎎/d, riboflavin 400 ㎎/d, feverfew(MIG-99) 6.25 ㎎ tid, coenzyme Q10 100 ㎎ tid
+
+### <mark style="color:orange;">CGRP 표적 예방치료</mark>
 
 #### <mark style="color:$primary;">표적 치료제 (Anti-CGRP monoclonal antibody)</mark>
 
@@ -429,7 +441,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * atogepant <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아큅타</mark>](https://www.health.kr/drug/2023111600013)<mark style="color:blue;">]</mark> : 예방 60 ㎎ qd (삽화성·만성편두통 모두 적응); 급성기 용법은 상단 「Gepants」 참조
   * 국내 최초 경구 CGRP 예방치료제로 2023년 11월 식약처 허가, 2026년 11월 급성치료 적응증 추가(비급여)
 
-#### <mark style="color:$primary;">OnabotulinumtoxinA</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">보톡스</mark>](https://www.health.kr/drug/A11AKP08G2664)<mark style="color:blue;">]</mark>
+### <mark style="color:orange;">OnabotulinumtoxinA</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">보톡스</mark>](https://www.health.kr/drug/A11AKP08G2664)<mark style="color:blue;">]</mark>
 
 * 만성편두통 예방에 사용; 위약 대비 편두통 발생 약 2일/월 감소 효과
 * 155 U (5 U씩 31군데 근육 주사)
@@ -439,45 +451,29 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * 주의 : 신경근육 질환(예: 중증 근무력증), 근이완제·aminoglycoside 등 신경근 전달을 방해하는 약제 병용
   * 임신·수유는 자료가 제한적이므로 위험-편익을 개별 평가
 
-#### <mark style="color:$primary;">항고혈압제</mark>
+### <mark style="color:orange;">특수 상황</mark>
 
-* 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
-  * 대한두통학회는 candesartan(근거수준 I, 약한 찬성)과 lisinopril(근거수준 IV, 약한 찬성)을 고려할 수 있는 약제로 제시하고 nifedipine·telmisartan은 권고하지 않아 지침 간 차이가 있음 <mark style="color:$info;">\[Headache Pain Res 2025]</mark>
-  * AAN/AHS 2026의 체계적 고찰은 2024년 6월까지의 연구를 바탕으로 함. 이후 발표된 삽화편두통 무작위시험에서 candesartan 16 ㎎/d가 위약보다 월 편두통일수를 유의하게 줄였음 <mark style="color:$info;">\[Lancet Neurol 2025]</mark>; 국내 지침과 동반 고혈압을 종합하여 선택
-* candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아타칸</mark>](https://www.health.kr/drug/A11ABBBBB1383)<mark style="color:blue;">]</mark>
-  * 부작용 : 저혈압, 고칼륨혈증, 신기능 악화
-  * 주의/금기 : 임신, 중증 신기능 저하 또는 고칼륨혈증 위험 환자에서 신중 사용
-* lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">제스트릴</mark>](https://www.health.kr/drug/A11A3060A0278)<mark style="color:blue;">]</mark>
-  * 부작용 : 어지럼증, 두통, 기침, 피로, 저혈압
-  * 주의/금기 : 과거 ACE inhibitor 관련 혈관 부종, 유전성/특발성 혈관 부종, 임신
-
-#### <mark style="color:$primary;">Gabapentinoid</mark>
-
-* gabapentin : 삽화편두통 예방에 사용하지 않을 것을 제안(근거수준 II, 약한 반대) <mark style="color:$info;">\[Headache Pain Res 2025]</mark>
-
-#### <mark style="color:$primary;">기타</mark>
-
-* 아래 약제는 편두통 예방에 대한 근거가 제한적이고 대부분 허가 외 사용이므로 routine으로 권고하지 않음
-* tizanidine(근이완) : 문헌의 편두통 예방 연구 용량 4\~24 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark> (허가 외 사용; 근연축 허가 용량 1\~2 ㎎ tid와 구분). 일반 처방의 증량 목표로 일률 적용하지 않으며 전문진료에서 판단; ciprofloxacin·fluvoxamine 병용 금기 및 저혈압·진정·간기능 이상에 주의(☞ [통증](../220_/001_-pain.md)·[경추성두통](019_-cervicogenic-headache.md)·[불안장애](025_-anxiety-disorder.md) 참조)
-* memantine(NMDA 수용체 길항제) : 5\~20 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에빅사</mark>](https://www.health.kr/drug/A11AOOOOO2372)<mark style="color:blue;">]</mark>; 편두통 예방은 허가 외이며 근거가 제한적임. 5 ㎎/d부터 통상 1주 간격으로 5 ㎎/d씩 점진 증량하는 안전성 원칙을 참고하되 전문의가 개별화하고, CrCl별 감량을 적용(☞ [통증](../220_/001_-pain.md) 참조)
-* cyproheptadine(항히스타민) : 4\~8 ㎎ tid
-* zonisamide(항전간) : 50\~100 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">엑세그란</mark>](https://www.health.kr/drug/A11A0150A0558)<mark style="color:blue;">]</mark>
-* 대체 요법(근거 제한적) : Mg 600 ㎎/d, riboflavin 400 ㎎/d, feverfew(MIG-99) 6.25 ㎎ tid, coenzyme Q10 100 ㎎ tid
-
-### <mark style="color:orange;">월경편두통 예방</mark>
+#### <mark style="color:$primary;">월경편두통 예방</mark>
 
 * 월경 주기가 규칙적인 경우 월경 시작 2일 전부터 월경 시작일을 제1일로 하여 제3일까지(총 5일) 단기 예방 요법 고려
 * frovatriptan 2.5 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미가드</mark>](https://www.health.kr/drug/2009071505961)<mark style="color:blue;">]</mark> : 반감기가 길어 단기 예방에 적합; 대표 연구에서는 예상 발작 2일 전부터 6일간 투여 (허가 외 사용)
 * naratriptan 1 ㎎ bid : 근거 연구에서 사용된 대안 용량이나 유통 제형은 2.5 ㎎ 정으로 처방 실행에 제한이 있음(허가 외 사용)
 * NSAID(예: naproxen 500 ㎎ bid)도 단기 예방에 사용 가능(편두통 예방은 허가 외 사용; 위장관·신장·심혈관 위험 평가)
 
-### <mark style="color:orange;">조짐편두통과 호르몬 피임</mark>
+#### <mark style="color:$primary;">조짐편두통과 호르몬 피임</mark>
 
 * 조짐편두통에서는 허혈성 뇌졸중 위험을 고려하여 estrogen 함유 복합호르몬피임제(복합경구피임제·패치·질링)를 원칙적으로 피함
 * 흡연, 고혈압, 고령 등 혈관 위험인자가 있으면 위험이 더욱 증가할 수 있음
 * Progestin-only 또는 비호르몬 피임법을 고려하고, 호르몬 피임 중 새 조짐이 발생하거나 양상이 변하면 즉시 재평가
 
-## <mark style="color:green;">Status Migrainosus의 약물 치료</mark>
+## <mark style="color:green;">급성기·예방 약제의 CYP3A4 상호작용</mark>
+
+* Rimegepant : 강력한 CYP3A4 억제제(예: clarithromycin, itraconazole)와 병용을 피하고, 중등도 CYP3A4 억제제 또는 강력한 P-gp 억제제 병용 시 48시간 이내 추가 복용을 피함. 강력한·중등도 CYP3A 유도제와의 병용을 피함
+* Atogepant : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd로 감량
+* Triptans : eletriptan은 강력한 CYP3A4 억제제(ketoconazole, itraconazole, clarithromycin, ritonavir, nefazodone 등) 투여 중 및 투여 중단 후 최소 72시간 이내 병용 금기(유통 제품 없으나 안전성 정보로 기재)
+* Ergotamine 계열 : 강력한 CYP3A4 억제제와 병용 금기(혈관 수축 부작용·맥각 중독 위험)
+
+## <mark style="color:green;">편두통지속상태와 응급실 치료</mark>
 
 * 이전 발작과 유사하나 72시간을 초과해 지속되고 일상 기능을 현저히 저해하는 편두통 발작(정의는 「분류」 참조); 탈수·전해질 불균형 동반 가능
   * 약물과용두통 기준도 충족하면 해당 편두통 아형과 MOH를 함께 진단하고, 편두통지속상태를 별도로 진단하지 않음
@@ -490,7 +486,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * IV valproate 500\~1,000 ㎎(Level C) : 난치성 또는 다른 1차 응급치료가 적절하지 않은 경우 대안으로 고려(주사제 유통 확인 안 됨)
   * 근거 수준은 prochlorperazine·metoclopramide·ketorolac보다 낮음
   * 서서히 정맥 투여
-* dexamethasone 10 ㎎ IV : 응급실 치료 후 재발 예방 목적으로 추가(Level B); 급성 두통 완화 목적은 Level C <mark style="color:blue;">\[제일덱사메타손주사액]</mark>
+* dexamethasone 10 ㎎ IV : 응급실 치료 후 재발 예방 목적으로 추가(Level B); 급성 두통 완화 목적은 Level C <mark style="color:blue;">\[</mark>[<mark style="color:blue;">제일덱사메타손주사액</mark>](https://www.health.kr/drug/A11A0490A0019)<mark style="color:blue;">]</mark>
   * 제품 함량은 덱사메타손포스페이트이나트륨 5 ㎎/㎖이므로 문헌의 dexamethasone 용량과 제품의 염 함량 기준을 구분하여 투여량 산정
 * Greater occipital nerve block : 원 지침에서는 적절한 경우 제공해야 하는(Level A) 권고이나, 숙련도와 진료 환경을 고려해 전문 치료로 구분 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * Dihydroergotamine IV : 난치성 경우 고려할 수 있으나 주사제 유통 확인 안 됨; triptan 투여 후 24시간 이내 사용 금기
