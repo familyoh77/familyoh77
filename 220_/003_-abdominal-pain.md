@@ -64,7 +64,7 @@
 * 가임기 여성에서 자궁외임신 배제 : 소변 또는 혈청 β-hCG
   * β-hCG 양성 시 단일 β-hCG 수치나 조기 초음파 음성만으로는 자궁외임신이 배제되지 않으므로, 임신 위치가 미상(pregnancy of unknown location)인 경우 정량 β-hCG 추이·경질초음파 추적 필요
 
-#### <mark style="color:$primary;">실험실 검사</mark>
+#### <mark style="color:$primary;">실험실검사</mark>
 
 **기본**
 
@@ -95,11 +95,11 @@
 * 초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않음. 증상 발생 시각·임상적 의심도와 검증된 hs-cTn 배제 경로에 따라 판단하며, 필요시 반복 검사 <mark style="color:$info;">\[ACC/AHA 등 2025]</mark>
 * 외래에서 검사 결과를 기다리느라 응급 이송을 지연하지 않음
 
-#### <mark style="color:$primary;">영상 검사</mark> <a href="#abdominal-imaging" id="abdominal-imaging"></a>
+#### <mark style="color:$primary;">영상검사</mark> <a href="#abdominal-imaging" id="abdominal-imaging"></a>
 
 * 복부 X선 : 장폐쇄 또는 천공이 의심되는 일부 상황에서 보조적으로 사용할 수 있으나, 민감도가 낮아 CT를 대체하지 못함
 * 복부 초음파(US) : 담낭·담도·신장·부속기 평가; 임신·소아에서 1차 선택
-* 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령, 전신상태 이상, 혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상 검사
+* 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령, 전신상태 이상, 혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상검사
   * 충수염·게실염·폐쇄·천공 등 광범위한 원인을 평가할 수 있음
   * 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CT 혈관조영술(CT angiography, CTA) protocol을 선택
 * MRI : 방사선 노출을 피해야 하는 임신·소아에서 초음파로 진단이 불명확한 충수염 평가에 유용
@@ -251,7 +251,7 @@ flowchart TD
     K -- "예" --> S["추가 PE 검사 불필요·<br/>다른 원인 평가"]
     K -- "아니오 또는 <br/>미적용" --> L["D-dimer 검사"]
     J -- "중간" --> L
-    J -- "높음" --> R["즉시 CTPA 등 <br/>영상 검사"]
+    J -- "높음" --> R["즉시 CTPA 등 <br/>영상검사"]
     L --> T["D-dimer 양성?"]
     T -- "예" --> R
     T -- "아니오" --> U["PE 배제·<br/>다른 원인 평가"]
@@ -406,7 +406,7 @@ flowchart TD
 * 통증 강도가 낮고 증상이 경미하게 발현되어 진단이 지연되고 심각한 질환을 과소평가하기 쉬움
 * 발열·백혈구 증가·복부 강직 등이 뚜렷하지 않은 경우가 많음
 * 충수염 천공, 장 폐쇄, 장간막 허혈 등의 지연 진단이 흔함
-* 고령자의 진단 불명 급성 복통에서는 영상 검사 및 관찰의 역치를 낮춤
+* 고령자의 진단 불명 급성 복통에서는 영상검사 및 관찰의 역치를 낮춤
   * 진단이 불확실하면 serial abdominal exam(반복 신체 검진)으로 증상·소견의 변화를 추적하는 것이 단일 시점 검진보다 유용
   * 외래 귀가 시 명확한 지침 제공 및 조기 재평가
 * 심방세동·동맥경화 병력이 있는 경우 장간막 허혈 강하게 의심
@@ -436,7 +436,7 @@ flowchart TD
 
 **Step 2. Red flag 및 고위험군 확인**
 
-* 고령(특히 65세 이상), frailty, 심방세동·혈관 질환, 당뇨·CKD·면역 저하 등은 중증 질환의 비전형적 발현 위험을 높이는 risk modifier이므로 영상 검사·관찰 역치를 낮춤
+* 고령(특히 65세 이상), frailty, 심방세동·혈관 질환, 당뇨·CKD·면역 저하 등은 중증 질환의 비전형적 발현 위험을 높이는 risk modifier이므로 영상검사·관찰 역치를 낮춤
 * 임신 가능성이 있는 가임기 여성은 β-hCG 확인
 
 **Step 3. 치명적·시간 민감성 질환 우선 배제**
@@ -448,7 +448,7 @@ flowchart TD
 
 **Step 4. 통증 패턴 + 위치 기반 감별 → 검사 선택**
 
-* [통증 패턴 인식](003_-abdominal-pain.md#pain-patterns), [영상 검사](003_-abdominal-pain.md#abdominal-imaging) 참조
+* [통증 패턴 인식](003_-abdominal-pain.md#pain-patterns), [영상검사](003_-abdominal-pain.md#abdominal-imaging) 참조
 
 **Step 5. 조치 방향 결정**
 
@@ -541,7 +541,7 @@ flowchart TD
 
 **고령자 복통 과소평가**
 
-* 통증·발열·진찰 소견이 경미해도 중증 질환 가능성을 고려하여 영상 검사·관찰 역치를 낮춤
+* 통증·발열·진찰 소견이 경미해도 중증 질환 가능성을 고려하여 영상검사·관찰 역치를 낮춤
 
 **통증을 참으면 진단에 도움이 된다는 오해**
 
@@ -670,7 +670,7 @@ flowchart TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* [Scheirey CD, et al. ACR Appropriateness Criteria® Acute Nonlocalized Abdominal Pain. J Am Coll Radiol. 2018;15(11S):S217-S231.](https://pubmed.ncbi.nlm.nih.gov/30392591/) - 성인 비국소성 급성 복통의 영상 검사 선택; 소아·국소 복통은 해당 기준과 구분
+* [Scheirey CD, et al. ACR Appropriateness Criteria® Acute Nonlocalized Abdominal Pain. J Am Coll Radiol. 2018;15(11S):S217-S231.](https://pubmed.ncbi.nlm.nih.gov/30392591/) - 성인 비국소성 급성 복통의 영상검사 선택; 소아·국소 복통은 해당 기준과 구분
 * \[ACG 2026] [Peery AF, et al. ACG Clinical Guideline: Colonic Diverticulitis. Am J Gastroenterol. 2026;121(7):1549-1561.](https://doi.org/10.14309/ajg.0000000000004047) - 저위험 비복잡 게실염의 항생제 선택적 사용과 회복 후 대장내시경
 * [Lee JG, et al. Evidence-based clinical practice guidelines for diagnosis and medical management of acute colonic diverticulitis developed by the Korean Association for the Study of Intestinal Diseases (KASID). Intest Res. 2026;24(3):428-463.](https://doi.org/10.5217/ir.2025.00299) - 게실염의 진단·내과적 치료; 환자 위험도에 따른 항생제·입원 판단
 * \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 관리, 조기 경구 섭취와 합병증 평가
@@ -680,18 +680,18 @@ flowchart TD
 * [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처
 * [Rome Foundation. Rome V Criteria.](https://theromefoundation.org/rome-v-criteria/) - IBS의 반복성 복통 또는 불편감과 간헐성·기간 기준
 * [Bala M, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022;17:54.](https://doi.org/10.1186/s13017-022-00443-x) - 의심 시 지체 없는 CTA
-* [American College of Radiology. ACR Appropriateness Criteria® Right Upper Quadrant Pain. Revised 2022.](https://acsearch.acr.org/docs/69474/Narrative/) - 담낭·담도 의심 시 영상 검사
-* [American College of Radiology. ACR Appropriateness Criteria® Right Lower Quadrant Pain. Revised 2022.](https://acsearch.acr.org/docs/69357/Narrative/) - 성인 충수염 의심 시 영상 검사
+* [American College of Radiology. ACR Appropriateness Criteria® Right Upper Quadrant Pain. Revised 2022.](https://acsearch.acr.org/docs/69474/Narrative/) - 담낭·담도 의심 시 영상검사
+* [American College of Radiology. ACR Appropriateness Criteria® Right Lower Quadrant Pain. Revised 2022.](https://acsearch.acr.org/docs/69357/Narrative/) - 성인 충수염 의심 시 영상검사
 * [American College of Radiology. ACR Appropriateness Criteria® Acute Pelvic Pain in the Reproductive Age Group. Revised 2023.](https://acsearch.acr.org/docs/69503/Narrative/) - 임신 여부·부인과 원인에 따른 골반 초음파
-* \[ACR 2025] [Expert Panel on Gastrointestinal Imaging; Soleimani S, et al. ACR Appropriateness Criteria® Acute Left Upper Quadrant Pain. J Am Coll Radiol. 2025;22(11S):S481-S491.](https://doi.org/10.1016/j.jacr.2025.08.046) - 좌상복부 통증의 영상 검사
+* \[ACR 2025] [Expert Panel on Gastrointestinal Imaging; Soleimani S, et al. ACR Appropriateness Criteria® Acute Left Upper Quadrant Pain. J Am Coll Radiol. 2025;22(11S):S481-S491.](https://doi.org/10.1016/j.jacr.2025.08.046) - 좌상복부 통증의 영상검사
 * \[ACC/AHA 등 2025] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. J Am Coll Cardiol. 2025;85(22):2135-2237.](https://doi.org/10.1016/j.jacc.2024.11.009) - ECG·hs-cTn의 신속한 평가와 반복 검사
-* \[AHA/ACC 등 2026] [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. J Am Coll Cardiol. 2026;87(13):1626-1710.](https://doi.org/10.1016/j.jacc.2025.11.005) - 사전확률·PERC·D-dimer·영상 검사 경로
+* \[AHA/ACC 등 2026] [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. J Am Coll Cardiol. 2026;87(13):1626-1710.](https://doi.org/10.1016/j.jacc.2025.11.005) - 사전확률·PERC·D-dimer·영상검사 경로
 * \[TG18] [Kiriyama S, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholangitis (with videos). J Hepatobiliary Pancreat Sci. 2018;25(1):17-30.](https://doi.org/10.1002/jhbp.512) - 담관염의 진단과 중증도
 * \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - PID의 진찰 소견과 경험적 치료 기준
 * \[ADA/EASD 등 2024] [Umpierrez GE, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.](https://doi.org/10.2337/dci24-0032) - 혈중 β-hydroxybutyrate·산염기 평가
 * [Corsetti M, et al. Bowel Disorders. Gastroenterology. 2026;170(6):1261-1282.](https://doi.org/10.1053/j.gastro.2026.02.003) - Rome V 장질환 기준
 * [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones. J Hepatol. 2016;65:146-181.](https://easl.eu/wp-content/uploads/2018/10/Gallstones-English-report.pdf) - 담도 산통과 담낭염의 임상 양상
-* [European Association of Urology. EAU Guidelines on Urolithiasis.](https://uroweb.org/guidelines/urolithiasis/chapter/guidelines) - 결석 영상 검사·산통·감염성 요로폐쇄
+* [European Association of Urology. EAU Guidelines on Urolithiasis.](https://uroweb.org/guidelines/urolithiasis/chapter/guidelines) - 결석 영상검사·산통·감염성 요로폐쇄
 * [CDC. Confirming an Etiology in Foodborne Outbreaks.](https://www.cdc.gov/foodborne-outbreaks/php/confirming-cause/index.html) - 원인균별 잠복기와 임상 증상
 * Royal Children's Hospital Melbourne. Clinical Practice Guidelines: [Abdominal pain - acute](https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/); [Vomiting](https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/) - 소아 급성 복통과 담즙성 구토의 응급 평가
 * [NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126).](https://www.nice.org.uk/guidance/ng126) - 임신 위치 미상 추적 평가

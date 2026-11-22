@@ -313,7 +313,7 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
   * U/A 및 필요시 소변 배양
   * HIV 1/2 선별검사
   * 결핵 피부반응검사 또는 interferon-γ release assay
-* 영상 검사
+* 영상검사
   * 기본 : 복부 초음파와 흉부 PA·측면 X선, 또는 흉부·복부·골반 CT
   * FDG-PET/CT : 최소 표준 진단평가 후에도 원인이 불명이고 염증 소견이 지속될 때, 이용 가능성과 임상 단서를 고려하여 시행
 * 추가 검사 : CPK, LDH, protein electrophoresis와 기타 혈청·영상·조직 검사는 일률적인 기본검사가 아니라 임상 단서에 따라 선택 <mark style="color:$info;">\[Clin Infect Dis 2026]</mark>

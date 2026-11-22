@@ -113,7 +113,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 병력 청취, 진찰, vital sign(pulse oximetry 포함), ECG·실험실·영상 검사
+* 병력 청취, 진찰, vital sign(pulse oximetry 포함), ECG·실험실·영상검사
 
 ### <mark style="color:orange;">급성 흉통의 초기 접근</mark>
 
@@ -255,7 +255,7 @@ flowchart TD
 
 ***
 
-#### <mark style="color:$primary;">실험실 검사</mark> <a href="#lab" id="lab"></a>
+#### <mark style="color:$primary;">실험실검사</mark> <a href="#lab" id="lab"></a>
 
 <mark style="color:cyan;">**기본/핵심 검사**</mark>
 
@@ -302,7 +302,7 @@ flowchart TD
 >
 > _Assay별 cut-off가 다르므로 검사기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 제조사의 rule-out/rule-in 기준값을 확인하여 적용_
 
-#### <mark style="color:$primary;">영상 검사</mark>
+#### <mark style="color:$primary;">영상검사</mark>
 
 <table data-search="false"><thead><tr><th width="201.21051025390625">임상 상황</th><th width="545.26318359375">권고 검사</th></tr></thead><tbody><tr><td><strong>급성 흉통</strong></td><td>흉부 X선: 폐렴, 기흉, 흉수, 폐울혈, 늑골 골절 및 종격동 이상 등 다른 심폐·흉곽 원인 평가에 유용. 단, 정상 소견으로 AAS 또는 PE를 배제할 수 없음</td></tr><tr><td><strong>저위험 급성 흉통</strong></td><td>검증된 CDP에서 30일 사망/MACE(major adverse cardiovascular events) 위험 ＜1%이면 입원 또는 긴급 심장검사 없이 퇴원 및 외래 추적 고려</td></tr><tr><td><strong>중등도 위험 급성 흉통</strong>*</td><td>TTE로 심실 기능, 국소벽운동 이상, 판막 기능 및 심낭삼출 평가; CAD 기왕력이 없고 ACS 평가가 음성 또는 불확실한 경우 CCTA 또는 적절한 부하검사</td></tr><tr><td><strong>고위험 급성 흉통</strong></td><td>ACS가 의심되는 환자에서 새 허혈성 ECG 변화, troponin으로 확인된 급성 심근손상, 혈역학적 불안정, 새 중등도~중증 좌심실 기능저하, 중등도~중증 허혈 또는 고위험 CDP 소견이 있으면 침습적 관상동맥 조영술 권고</td></tr><tr><td><strong>CAD 기왕력(-), 저위험 안정형 흉통</strong></td><td>검사 없이 임상 추적 가능; 검사 필요시 CAC score 또는 운동부하 ECG 고려</td></tr><tr><td><strong>CAD 기왕력(-), 중등도~고위험 안정형 흉통</strong></td><td>CCTA 또는 부하영상검사</td></tr><tr><td><strong>CCTA에서 중등도/경계성 협착이 확인된 경우</strong></td><td>FFR-CT (혈류예비분획-CT) 또는 부하영상검사 고려</td></tr></tbody></table>
 
@@ -312,7 +312,7 @@ flowchart TD
 >
 > _CCTA와 부하검사는 모두 적절한 초기 검사 선택지가 될 수 있으며, CCTA를 일률적인 1차 검사로 고정하지 않음._
 
-**이전 영상 검사의 유효 기간**
+**이전 영상검사의 유효 기간**
 
 * 증상이 변하지 않은 환자에서 최근 정상 검사 결과가 있다면 불필요한 재검사를 피할 수 있음. 단, 증상의 빈도·양상·안정성이 변화했다면 유효 기간 내라도 재평가가 필요
 * 정상 관상동맥 조영술(협착 없음) 시 2년. 단, 침습적 조영술만으로 비폐쇄성 플라크가 없음을 확정하지 않음
