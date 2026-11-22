@@ -257,13 +257,13 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 * 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진
   * electronystagmography, vestibular-evoked myogenic potentials
 * 수기 검사 : Dix-Hallpike test, Supine roll test, Test of skew
-* 영상 검사 : 비조영 뇌 CT는 후순환 허혈성 뇌졸중 진단 민감도가 낮음
+* 영상검사 : 비조영 뇌 CT는 후순환 허혈성 뇌졸중 진단 민감도가 낮음
   * 중추성 HINTS, 애매한 검사 또는 중추성 원인 의심 시 MRI(DWI)±MRA 시행
   * 초기 DWI 음성도 후순환 소경색을 완전히 배제하지 못하므로 임상 의심이 지속되면 신경과 평가·반복 영상 고려
   * 전형적 BPPV 등 명확한 말초성 어지럼에서는 routine 촬영 불필요
   * 후순환 TIA·동맥박리 또는 대혈관 병변이 의심되면 두개내·경부 후순환을 포함한 CTA/MRA 고려
   * carotid Doppler는 후순환성 어지럼의 일반 선별검사가 아님
-* 실험실 검사 : 일률적인 실험실 검사는 필요 없음
+* 실험실검사 : 일률적인 실험실검사는 필요 없음
   * 당뇨 환자에서 혈당 등 검사 고려
 * 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려
 
