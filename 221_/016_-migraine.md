@@ -246,7 +246,7 @@ flowchart TD
 
 ### <mark style="color:orange;">진통제</mark>
 
-* 제품별 금기 확인 : 공통적으로 중증 간장애·신장애에서는 사용을 피함(☞ [통증](../220_/001_-pain.md) 참조)&#x20;
+* 제품별 금기 확인 : 공통적으로 중증 간장애·신장애에서는 사용을 피함(☞ [통증](../220_/001_-pain.md) 참조)
   * NSAID : 위장관 궤양·출혈 또는 그 병력에서 금기; PPI 병용으로 금기가 해소되지는 않음
   * acetaminophen : 일부 품목은 TCA 복용 환자 투여 금기가 있으므로 amitriptyline·nortriptyline 예방요법 중에는 확인
 * 초기 치료에 반응이 불충분하면 triptan 등 다른 계열 전환 필요성을 재평가
@@ -293,7 +293,7 @@ flowchart TD
 * 약물과용두통(MOH) 위험은 낮은 것으로 보이나 장기·고빈도 사용 자료가 제한적이므로 허가된 용법을 준수
 * 부작용 : 구역, 복통/소화불량(rimegepant), 변비·피로/졸림(atogepant)
   * 과민반응, 고혈압 및 Raynaud 현상에 주의
-* rimegepant : 75 ㎎ 구강붕해정 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">너텍</mark>](https://www.health.kr/drug/2025032500010)<mark style="color:blue;">]</mark>(비급여) - 급성기 1정(최대 75 ㎎/24시간); 삽화성 편두통 예방은 75 ㎎ 격일 복용&#x20;
+* rimegepant : 75 ㎎ 구강붕해정 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">너텍</mark>](https://www.health.kr/drug/2025032500010)<mark style="color:blue;">]</mark>(비급여) - 급성기 1정(최대 75 ㎎/24시간); 삽화성 편두통 예방은 75 ㎎ 격일 복용
   * 중증 간장애, 말기 신질환(CLcr ＜15 ㎖/min)에서는 사용을 피함
   * 급성치료 시 30일 동안 18회 초과 투여의 안전성은 확립되지 않음
 * atogepant : 60 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아큅타</mark>](https://www.health.kr/drug/2023111600013)<mark style="color:blue;">]</mark>(비급여) - 급성기 필요시 1정, 1일 최대 60 ㎎ (2026년 11월 급성치료 적응증 추가)
@@ -327,8 +327,8 @@ flowchart TD
   * 모든 환자에게 일률적으로 병용하지 않음
 * 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의), 추체외로 증상(EPS; 급성 근긴장이상·정좌불능증 - 특히 고용량·젊은 여성에서; 장기 사용 시 지연성 운동장애 위험)
 * metoclopramide : 1회 1\~2정 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">맥페란</mark>](https://www.health.kr/drug/A11A0570A0089)<mark style="color:blue;">]</mark>; 1일 최대 3회, 재투여 간격 ≥6시간, 최대 5일
-  * 1정에는 metoclopramide 3.84 ㎎이 들어 있음
-  * 허가 용법상 1일 최대 권장량은 염산메토클로프라미드 기준 30 ㎎ 또는 0.5 ㎎/㎏ 중 낮은 용량. 신·간기능에 따라 감량
+  * <mark style="color:blue;">맥페란</mark> 1정에는 metoclopramide 3.84 ㎎이 들어 있음
+  * 1일 최대 권장량은 metoclopramide 25.4 ㎎ (6T)이며, 체중 60 ㎏ 미만에서는 체중 기준 상한이 더 낮아지므로 감량; 신·간기능에 따라 감량
 * domperidone : 발작 시 10 ㎎ 1회 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">돔피돈</mark>](https://health.kr/drug/A11A0570A0382)<mark style="color:blue;">]</mark>; 최대 30 ㎎/일, 통상 1주 이내 사용
   * QT 연장, 유의한 전해질 이상, 심부전 등 심장 기저질환, 중등도\~중증 간장애, QT 연장 약물·강력한 CYP3A4 억제제 병용은 금기. metoclopramide와 병용하지 않음
 
@@ -429,7 +429,7 @@ flowchart TD
   * 주의/금기 : 고령, BPH, 녹내장, 발작, 심장 질환
   * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0032)<mark style="color:blue;">]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의: 편두통 예방 급여 인정 대상 제외)
 * venlafaxine XR : 37.5\~150 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이팩사 XR</mark>](https://www.health.kr/drug/A11ADDDDD0700)<mark style="color:blue;">]</mark>
-  * 부작용 : 구역, 혈압 상승&#x20;
+  * 부작용 : 구역, 혈압 상승
     * 조절되지 않는 고혈압은 먼저 조절하고, 투여 중 혈압 모니터링
 
 #### <mark style="color:$primary;">칼슘통로차단제</mark>
@@ -519,7 +519,7 @@ flowchart TD
 #### <mark style="color:$primary;">월경편두통 예방</mark>
 
 * 표준 급성기 치료로 충분히 조절되지 않고 월경 주기가 규칙적이어서 발작 시기를 예측할 수 있는 경우, 월경 시작 2일 전부터 월경 시작일을 제1일로 하여 제3일까지(총 5일) 단기 예방 요법 고려
-* frovatriptan : 반감기가 길어 단기 예방에 적합; 대표 연구에서는 예상 발작 2일 전부터 6일간 투여&#x20;
+* frovatriptan : 반감기가 길어 단기 예방에 적합; 대표 연구에서는 예상 발작 2일 전부터 6일간 투여
   * 2.5 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미가드</mark>](https://www.health.kr/drug/2009071505961)<mark style="color:blue;">]</mark> (허가 외 사용)
 * naratriptan : 1 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">나라믹</mark>](https://www.health.kr/drug/A11AJJJJJ0032)<mark style="color:blue;">]</mark> (허가 외 사용)
   * 근거 연구에서 사용된 대안 용량이지만 유통 제형은 2.5 ㎎ 정으로 처방 실행에 제한이 있음
