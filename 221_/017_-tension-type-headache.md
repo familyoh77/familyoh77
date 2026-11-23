@@ -11,7 +11,7 @@
   * 유병률 : 전 세계 추정치 약 26% <mark style="color:$info;">\[J Headache Pain 2022]</mark>
   * 삽화형 유병률은 중년 이후 감소하는 경향을 보이며, 만성형 유병률과 연령의 관련성은 연구마다 일관되지 않음
   * 질병부담 : 두통질환 전체의 YLD(years lived with disability)는 15\~49세에서 특히 큼 <mark style="color:$info;">\[J Headache Pain 2024]</mark>
-* 두통일기(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용
+* [두통일기](015_-headache.md#headache-diary)(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용
   * 진단 목적으로 사용할 때는 최소 8주간 기록 <mark style="color:$info;">\[NICE CG150]</mark>
 
 ### <mark style="color:orange;">분류</mark> <mark style="color:$info;">\[ICHD-3]</mark>
@@ -32,7 +32,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
 
-☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
+☞ [두통 Red Flags](015_-headache.md#red-flags)
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
@@ -98,7 +98,7 @@
 
 ### <mark style="color:orange;">Chronic tension-type headache (만성긴장형두통)</mark>
 
-* A. 아래의 진단 기준 B\~D를 충족하는 두통이 ＞3개월 동안 월평균 ≥15일, 연간 ≥180일에 해당(연간 환산값; 진단에 1년 관찰은 필요하지 않음)
+* A. 진단 기준 B\~D를 충족하는 두통이 ＞3개월 동안 월평균 ≥15일, 연간 ≥180일에 해당(연간 환산값; 진단에 1년 관찰은 필요하지 않음)
 * B. 지속 시간 : 수 시간\~수 일, 또는 지속(unremitting)
 * C. 다음 네 가지 두통의 특성 중 ≥2가지 해당
   1. 양측
@@ -110,9 +110,9 @@
   2. 중등도 이상의 구역이나 구토는 없음
 * E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음¹⁾⁻³⁾
 
-> ¹⁾_한 달에 25일간 두통이 있는 어떤 환자에서 8일은 편두통에 부합되고 17일은 긴장형두통에 부합된다면 이 환자는 두 진단 기준 모두에 해당되지만 만성편두통으로만 진단함_\
+> ¹⁾_한 달에 25일간 두통이 있고, 그중 8일은 편두통에, 17일은 긴장형두통에 부합하는 양상이 ＞3개월 지속되어 두 진단 기준을 모두 충족하면 만성편두통으로만 진단함_\
 > ²⁾_진단 기준 A\~E를 만족하는 두통이 처음 발생 시점을 뚜렷이 기억하고, 발생 24시간 이내부터 매일 중단 없이 지속되어 ＞3개월이 되었다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류_\
-> ³⁾_약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용 중단 후 두통 양상과 빈도를 재평가하여 진단을 조정하며, 만성 두통 지속만으로 금단 치료의 실패를 단정하지 않음(☞ 만성 두통 및 약물과용두통 참조)_
+> ³⁾_약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용 중단 후 두통 양상과 빈도를 재평가하여 진단을 조정하며, 만성 두통 지속만으로 금단 치료의 실패를 단정하지 않음(☞ [만성 두통 및 약물과용두통](018_-chronic-headache.md))_
 
 ### <mark style="color:orange;">긴장형두통 vs 편두통 감별</mark>
 
@@ -122,7 +122,7 @@
 
 ### <mark style="color:orange;">긴장형두통 vs 경추성두통(CGH) 감별</mark>
 
-<table data-search="false"><thead><tr><th width="124">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td><strong>분류</strong></td><td>원발성 두통</td><td>2차성 두통(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td><strong>통증 부위</strong></td><td>대개 양측성(전두부·측두부·후두부)</td><td>편측·side-locked 경향이 흔하며 양측성도 가능</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td><strong>발생 기전</strong></td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td><strong>유발 요인</strong></td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td><strong>경추 가동 범위</strong></td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td><strong>동반 증상</strong></td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td><strong>진찰 소견</strong></td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td><strong>진단 단서</strong></td><td>ICHD-3 임상 기준에 따른 진단</td><td>경추·경부 병변의 근거와 인과성 소견 ≥2가지¹⁾</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="124">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td><strong>분류</strong></td><td>원발성 두통</td><td>이차성 두통(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td><strong>통증 부위</strong></td><td>대개 양측성(전두부·측두부·후두부)</td><td>편측·side-locked 경향이 흔하며 양측성도 가능</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td><strong>발생 기전</strong></td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td><strong>유발 요인</strong></td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td><strong>경추 가동 범위</strong></td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td><strong>동반 증상</strong></td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td><strong>진찰 소견</strong></td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td><strong>진단 단서</strong></td><td>ICHD-3 임상 기준에 따른 진단</td><td>경추·경부 병변의 근거와 인과성 소견 ≥2가지¹⁾</td></tr></tbody></table>
 
 > ¹⁾_두통을 유발할 수 있는 경추·경부 병변의 임상 또는 영상 근거가 있고, 다음 중 ≥2가지로 인과관계를 확인_\
 > _&#x2460; 병변 발생과 두통 시작의 시간적 연관_\
@@ -130,18 +130,18 @@
 > _&#x2462; 경추 가동범위 감소와 유발검사에서 두통의 뚜렷한 악화_\
 > _&#x2463; 경추 구조 또는 그 지배 신경의 진단적 차단술 후 두통 소실_
 
-☞ [경추성두통](019_-cervicogenic-headache.md) 참조
+☞ [경추성두통](019_-cervicogenic-headache.md)
 
 ### <mark style="color:orange;">진찰 및 검사</mark>
 
-* 진단은 ICHD-3 임상 기준에 따르며, 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
+* 진단은 ICHD-3 임상 기준에 따르며, 이차성 두통을 시사하는 소견이 없고 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
 * 영상검사
   * 긴장형두통으로 진단된 환자에게 안심 목적만으로 뇌영상검사를 시행하지 않음 <mark style="color:$info;">\[NICE CG150]</mark>
-  * Red Flags, 비전형적 양상, 신경학적 이상 소견이 있으면 이차성 두통 평가를 위해 시행(☞ [두통](015_-headache.md))
+  * 이차성 두통이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ [두통](015_-headache.md))
 * 혈액검사 : 이차성 원인이 의심될 때 선택적으로 시행
-  * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP
+  * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP·CBC(혈소판 포함). 시각 증상이 있거나 임상적 의심이 높으면 결과를 기다리지 않고 긴급 의뢰
 * 경추 영상 : 경추성두통이 의심될 때 고려. 단, 경추의 퇴행성 변화는 무증상 성인에서도 흔하므로 영상 소견만으로 인과관계를 판단하지 않음
-* 수면검사 : 아침 두통에 코골이·목격된 무호흡·주간졸림이 동반되면 고려(☞ 아래「동반 질환 고려」)
+* 수면검사 : 아침 두통에 코골이·목격된 무호흡·주간졸림이 동반되면 고려(☞ 아래 「동반 질환 고려」)
 
 #### <mark style="color:$primary;">두개 주위 근육 촉진(Pericranial Palpation)</mark>
 
@@ -159,7 +159,7 @@
 flowchart TD
     A["긴장형 양상의 두통"] --> B["이차성 두통을 시사하는 소견?"]
     B -- "예" --> C["위험도에 따른 평가 및 <br/>이차성 원인 감별"]
-    B -- "아니요" --> D["두통 일기로 빈도·양상과 <br/>편두통 동반 여부 확인"]
+    B -- "아니요" --> D["두통일기로 빈도·양상과 <br/>편두통 동반 여부 확인"]
     D --> E["월평균 ≥15일의 두통이 <br/>＞3개월 지속?"]
     E -- "아니요" --> F["삽화긴장형두통 <br/>기준 충족?"]
     F -- "예" --> G["삽화긴장형두통: <br/>비-약물 치료·<br/>필요시 급성기 진통제"]
@@ -203,7 +203,7 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* [두통일기](015_-headache.md#headache-diary) 작성: 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
+* [두통일기](015_-headache.md#headache-diary) 작성 : 두통 양상·빈도와 진통제 사용 일수, 유발 요인과의 연관성을 확인
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
 * 규칙적 유산소 운동 및 점진적 근력 강화 운동을 환자의 체력과 동반 질환에 맞추어 시행
 * 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료 고려
@@ -221,20 +221,20 @@ flowchart TD
 
 ### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
-* ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 \[[부루펜정 400 ㎎](https://www.health.kr/drug/A11A0500A0131)]
-  * 급성 TTH에 ibuprofen 400 ㎎을 제안<mark style="color:$info;">(약한권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
+* ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">부루펜</mark>](https://www.health.kr/drug/A11A0500A0131)<mark style="color:blue;">]</mark>
+  * 급성 TTH에 ibuprofen 400 ㎎을 제안 <mark style="color:$info;">(약한 권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
   * 반복 복용 시 NSAID의 최소 유효용량·최단기간 원칙 적용
-* naproxen : 250\~500 ㎎ 필요시 \[[낙센정 250 ㎎](https://www.health.kr/drug/A11A0120A0286)] 또는 naproxen sodium 275\~550 ㎎ 필요시 \[[아나프록스정 275 ㎎](https://www.health.kr/drug/A11ABBBBB2070)]
+* naproxen : 250\~500 ㎎ 필요시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 또는 naproxen sodium 275\~550 ㎎ 필요시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아나프록스</mark>](https://www.health.kr/drug/A11ABBBBB2070)<mark style="color:blue;">]</mark>
   * 낙센정·아나프록스정의 두통 관련 허가 적응증은 편두통이며, 긴장형두통 치료는 허가 외 사용
-* acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 \[[타이레놀정 500 ㎎](https://www.health.kr/drug/2021082400002)]
-  * 급성 TTH에 acetaminophen 1,000 ㎎을 제안<mark style="color:$info;">(약한권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
+* acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>
+  * 급성 TTH에 acetaminophen 1,000 ㎎을 제안 <mark style="color:$info;">(약한 권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
   * 용량 : 속방형 1회 최대 1,000 ㎎, 반복 시 4\~6시간 간격, 1일 최대 4 g
     * 반복·장기 사용 시 1일 3 g 이하를 보수적으로 권장
     * 연령·체중·간질환·음주 등을 고려하여 용량 결정
-    * acetaminophen 함유 감기약·진통제와 중복 복용을 피함(☞ [통증](../220_/001_-pain.md) 참조)
-  * 금기(타이레놀정) : 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용, 음주
+    * acetaminophen 함유 감기약·진통제와 중복 복용을 피함(☞ [통증](../220_/001_-pain.md))
+  * 주요 금기(타이레놀정) : 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용, 음주
     * NSAID를 사용하기 어려워 대체하는 경우에도 품목별 금기를 먼저 확인
-* aspirin : 500\~1,000 ㎎ 필요시 \[[바이엘아스피린정 500 ㎎](https://www.health.kr/drug/A11A1380A0008)]
+* aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">바이엘아스피린</mark>](https://www.health.kr/drug/A11A1380A0008)<mark style="color:blue;">]</mark>
   * 이 품목은 만 15세 미만 금기. NICE는 라이증후군 위험을 고려해 만 16세 미만 환자의 긴장형두통에 사용하지 않도록 권고 <mark style="color:$info;">\[NICE CG150]</mark>
 
 ### <mark style="color:orange;">2차 선택 - 급성기</mark>
@@ -243,7 +243,7 @@ flowchart TD
 
 * 효과는 있으나 1차로 권장되지 않음. 비마약성 진통제 단독 사용보다 약물과용 위험이 높으므로 사용을 최소화
 * 연구 조합 : acetaminophen 500 ㎎ + aspirin 500 ㎎ + caffeine 130 ㎎ (1회 총용량)
-  * 비슷한 비율의 제품 : [스피다정](https://health.kr/drug/2025082600001) 1정 = acetaminophen 250 ㎎ + aspirin 250 ㎎ + caffeine 50 ㎎; 허가 용법은 1회 1정으로 연구 용량의 절반이며, 만 15세 미만 금기
+  * 시판 복합제 예 : <mark style="color:blue;">\[</mark>[<mark style="color:blue;">스피다</mark>](https://health.kr/drug/2025082600001)<mark style="color:blue;">]</mark> 1정은 acetaminophen 250 ㎎, aspirin 250 ㎎, caffeine 50 ㎎을 함유. 품목 용법은 1회 1정이며 만 15세 미만 금기
 * 복합진통제를 ≥10일/월, ＞3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
 
 ### <mark style="color:orange;">급성기에 권장하지 않는 치료</mark>
@@ -261,8 +261,8 @@ flowchart TD
 
 #### <mark style="color:$primary;">1차 - amitriptyline</mark>
 
-* 만성긴장형두통 예방약 중 amitriptyline의 근거가 가장 확립되어 있음 <mark style="color:$info;">(약한권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
-* amitriptyline : [10 ㎎](https://www.health.kr/drug/A11A0570B0082)/d 취침 시 시작 → [25 ㎎](https://www.health.kr/drug/A11A0570A0148)\~75 ㎎/d까지 내약성에 따라 점진 증량 \[에트라빌]
+* 만성긴장형두통 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 예방약으로 제안 <mark style="color:$info;">(약한 권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
+* amitriptyline : [10 ㎎](https://www.health.kr/drug/A11A0570B0082)/d 취침 시 시작 → [25 ㎎](https://www.health.kr/drug/A11A0570A0148)\~75 ㎎/d까지 내약성에 따라 점진 증량 <mark style="color:blue;">\[에트라빌]</mark>
   * 100 ㎎/d에서 4주·8주 두통 일수 감소가 보고되었으나 근거 확실성이 낮고 이상반응 우려가 있어 일상적인 증량은 권장하지 않음 <mark style="color:$info;">\[Ann Med 2026]</mark>
   * 반응 불충분 : 내약 가능한 유지용량으로 약 1\~2개월 사용 후에도 반응이 불충분하면 진단, 복약 순응도, MOH를 재평가하고 신경과 의뢰 고려
   * 부작용 : 구갈, 졸림, 변비, 체중 증가 등; 고령자에서는 섬망·낙상·요폐 위험도 고려
@@ -270,12 +270,12 @@ flowchart TD
 
 #### <mark style="color:$primary;">대안 - 기타 항우울제</mark>
 
-* nortriptyline : [10](https://www.health.kr/drug/A11A1130A0032)\~50 ㎎/d 취침 시 \[[센시발 25 ㎎](https://www.health.kr/drug/A11A1130A0033)]
+* nortriptyline : [10](https://www.health.kr/drug/A11A1130A0032)\~50 ㎎/d 취침 시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0033)<mark style="color:blue;">]</mark>
   * amitriptyline의 항콜린 부작용이 문제될 때 전환을 고려. TTH 직접 근거가 amitriptyline보다 제한적이며 항콜린 부작용은 남을 수 있음
-* mirtazapine : [15 ㎎](https://www.health.kr/drug/A11ABBBBB1118)/d 취침 시 시작 → 필요시 [30 ㎎](https://www.health.kr/drug/A11AKP08K0193)/d  \[레메론]
+* mirtazapine : [15 ㎎](https://www.health.kr/drug/A11ABBBBB1118)/d 취침 시 시작 → 필요시 [30 ㎎](https://www.health.kr/drug/A11AKP08K0193)/d <mark style="color:blue;">\[레메론]</mark>
   * amitriptyline 내약성이 좋지 않은 경우 대안
   * TTH 예방 효과 근거는 주로 30 ㎎/d 연구에 기반
-* venlafaxine XR : [37.5](https://www.health.kr/drug/A11ADDDDD0700)\~[75 ㎎](https://www.health.kr/drug/A11ABBBBB1493)/d로 시작 → 내약성에 따라 점진 증량 \[이팩사엑스알서방캡슐]
+* venlafaxine XR : [37.5](https://www.health.kr/drug/A11ADDDDD0700)\~[75 ㎎](https://www.health.kr/drug/A11ABBBBB1493)/d로 시작 → 내약성에 따라 점진 증량 <mark style="color:blue;">\[이팩사 XR]</mark>
   * TTH 예방 효과 근거는 주로 150 ㎎/d 연구에 기반
   * 우울·불안 동반 시 선택을 고려하며 혈압 모니터링
   * NSAID를 병용하면 위장관 출혈 위험이 증가할 수 있으므로 궤양·출혈 병력과 항혈소판제·항응고제 복용 여부 확인
@@ -285,11 +285,11 @@ flowchart TD
 #### <mark style="color:$primary;">근거가 제한되거나 권장되지 않는 예방 치료</mark>
 
 * Trigger-point injection(lidocaine ± corticosteroid) : 근막통 치료로 선택적으로 시행되기도 하나 TTH 자체의 표준 예방치료로 확립되지 않음
-* Botulinum toxin : 일부 연구에서 효과 신호가 있으나 근거의 질과 결과의 일관성이 부족하여 만성긴장형두통 예방 목적으로 사용하지 않을 것을 권고 <mark style="color:$info;">(약한권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
+* Botulinum toxin : 일부 연구에서 효과 신호가 있으나 근거의 질과 결과의 일관성이 부족하여 만성긴장형두통 예방 목적으로 사용하지 않을 것을 권고 <mark style="color:$info;">(약한 권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
 * 근이완제(cyclobenzaprine, tizanidine 등) : TTH의 표준 예방치료로 권장되지 않음
   * 1차 진료에서 eperisone, afloqualone 등이 경부·어깨 근긴장을 이유로 병용되는 경우가 있으나, 긴장형두통 자체의 치료 효과를 뒷받침하는 근거는 부족하며 표준 치료로 권장되지 않음
   * 동반된 별도의 경부 근골격계 질환에 대한 적응증과 TTH 치료 적응증을 구분하여 처방
-* topiramate, valproate, riboflavin 등은 순수 TTH의 표준 예방치료가 아님. 편두통이 별도로 공존하는 경우에는 편두통 적응증에 따라 선택<mark style="background-color:yellow;">(☞</mark> [<mark style="background-color:yellow;">편두통</mark>](016_-migraine.md) <mark style="background-color:yellow;">참조)</mark>
+* topiramate, valproate, riboflavin 등은 순수 TTH의 표준 예방치료가 아님. 편두통이 별도로 공존하는 경우에는 편두통 적응증에 따라 선택(☞ [편두통](016_-migraine.md))
 
 ### <mark style="color:orange;">동반 질환 고려</mark>
 
@@ -323,13 +323,13 @@ flowchart TD
 >
 > ```
 > 타이레놀정500㎎  1회 2T  두통 시작 시 필요시
-> ※ 반복 시 최소 6시간 간격, 1일 최대 4 g. 반복·장기 사용에서는 통상 3 g/d 이하 권장
+> ※ 반복 시 4~6시간 간격, 1일 최대 4 g. 반복·장기 사용에서는 통상 3 g/d 이하 권장
 > ※ 연령·체중·간질환·음주 여부와 품목별 투여 금기를 확인. acetaminophen 함유 감기약·진통제와 중복 복용을 피함
 > ```
 >
 > 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽NSAID 사용이 어려운 환자 중 타이레놀정 자체의 금기에 해당하지 않는 경우에 고려. 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, TCA 복용 등에서는 투여하지 않으며, 위장관 출혈·신기능 저하의 원인과 중증도를 먼저 평가함. <mark style="background-color:yellow;">warfarin</mark> 복용 중 수일 이상 반복 사용하면 INR 상승 가능성을 고려(☞_ [_통증_](../220_/001_-pain.md) _참조)_
+> _✽NSAID 사용이 어려운 환자 중 타이레놀정 자체의 금기에 해당하지 않는 경우에 고려. 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, TCA 복용 등에서는 투여하지 않으며, 위장관 출혈·신기능 저하의 원인과 중증도를 먼저 평가함. warfarin 복용 중 수일 이상 반복 사용하면 INR 상승 가능성을 고려(☞_ [_통증_](../220_/001_-pain.md)_)_
 
 > **처방례 3. 만성, 예방 - 일반**
 >
@@ -344,7 +344,7 @@ flowchart TD
 >
 > 약제 정보: [에트라빌정·10 ㎎](https://www.health.kr/drug/A11A0570B0082) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070) · [센시발정·10 ㎎](https://www.health.kr/drug/A11A1130A0032)
 >
-> _✽만성긴장형두통 예방의 1차 선택; TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 돌발 두통에 naproxen sodium을 필요시 사용하기 전 품목별 금기를 확인(긴장형두통에 허가 외 사용). TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않음. 아나프록스와 다른 NSAID의 중복도 피함(☞_ [_통증_](../220_/001_-pain.md) _참조)_
+> _✽만성긴장형두통 예방의 1차 선택; TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 돌발 두통에 naproxen sodium을 필요시 사용하기 전 품목별 금기를 확인(긴장형두통에 허가 외 사용). TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않음. 아나프록스와 다른 NSAID의 중복도 피함(☞_ [_통증_](../220_/001_-pain.md)_)_
 
 > **처방례 4. 만성, 예방 - amitriptyline 부작용으로 전환 시**
 >
@@ -369,13 +369,13 @@ flowchart TD
 >
 > 약제 정보: [이팩사엑스알서방캡슐·37.5 ㎎](https://www.health.kr/drug/A11ADDDDD0700) · [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽우울·불안이 동반된 만성긴장형두통에서 amitriptyline 대신 고려할 수 있는 선택지. TTH 예방 근거는 주로 150 ㎎/d 연구에 기반. <mark style="background-color:yellow;">venlafaxine</mark>과 NSAID 병용 시 위장관 출혈 위험이 증가할 수 있어 이 예시에서는 acetaminophen을 선택_
+> _✽우울·불안이 동반된 만성긴장형두통에서 amitriptyline 대신 고려할 수 있는 선택지. TTH 예방 근거는 주로 150 ㎎/d 연구에 기반. venlafaxine과 NSAID 병용 시 위장관 출혈 위험이 증가할 수 있어 이 예시에서는 acetaminophen을 선택_
 
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **급성기 진통제(부루펜·타이레놀·낙센 등)**
+> **급성기 진통제(부루펜·타이레놀·아나프록스 등)**
 >
 > * 두통이 시작될 때 처방된 약을 복용하십시오. 소염진통제는 위장 불편을 줄이기 위해 식후에 복용할 수 있지만 음식이 궤양·출혈을 예방하지는 않습니다.
 > * 에트라빌·센시발 등 삼환계 항우울제를 복용 중이거나, 위궤양·십이지장궤양 또는 심한 신장·간 질환이 있거나 아스피린·소염진통제로 천식 발작이 있었던 경우에는 타이레놀을 복용하지 말고 의료진과 상의하십시오.
@@ -406,7 +406,7 @@ flowchart TD
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * \[VA/DoD 2023] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Headache. 2023.](https://www.healthquality.va.gov/guidelines/Pain/headache/index.asp) - 긴장형두통의 급성·예방 치료와 권고 강도
-* <mark style="background-color:yellow;">\[NICE CG150]</mark> [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통일기와 감별, 급성기 치료, 만성긴장형두통의 침 치료
+* \[NICE CG150] [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통일기와 감별, 급성기 치료, 만성긴장형두통의 침 치료
 * \[J Headache Pain 2022] [Stovner LJ, et al. The global prevalence of headache: an update, with analysis of the influences of methodological factors on prevalence estimates. J Headache Pain. 2022;23(1):34.](https://doi.org/10.1186/s10194-022-01402-2) - 긴장형두통 유병률 추정치
 * \[J Headache Pain 2024] [Steiner TJ, et al. GBD2021: headache disorders and global lost health – a focus on children, and a view forward. J Headache Pain. 2024;25:91.](https://doi.org/10.1186/s10194-024-01795-2) - 연령별 두통질환 부담
 * \[Ann Med 2026] [Tao QF, et al. Comparative effects of pharmacological interventions in the prophylactic treatment of tension-type headache: systematic review and network meta-analysis. Ann Med. 2026;58(1):2616972.](https://doi.org/10.1080/07853890.2026.2616972) - amitriptyline 100 ㎎/d의 효과와 근거의 확실성
@@ -454,7 +454,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">이럴 때는 진료가 필요합니다</mark>
 
-* **즉시 응급실 방문** : 갑자기 매우 심한 두통이나 평소와 전혀 다른 심한 두통이 생긴 경우. 두통과 함께 팔다리 힘 빠짐, 말하기 어려움, 의식 변화, 갑작스러운 시력 저하나 물체가 둘로 보이는 증상, 발열과 목 뻣뻣함이 나타난 경우에도 즉시 방문하십시오.
+* **즉시 응급실 방문** : 갑자기 매우 심한 두통이나 평소와 전혀 다른 심한 두통이 생긴 경우. 두통과 함께 팔다리 힘 빠짐, 말하기 어려움, 의식 변화, 갑작스러운 시력 저하나 물체가 둘로 보이는 증상, 발열과 목 뻣뻣함이 나타난 경우에도 즉시 방문하십시오. 임신 중이거나 출산 후에 새로 생긴 두통이 계속되거나 심해질 때, 또는 두통과 함께 측정한 혈압이 높거나 시야 이상·경련이 나타날 때도 즉시 방문하십시오.
 * **당일 진료** : 임신 중이거나 출산 후에 두통이 새로 생긴 경우. 50세 이상에서 새 두통과 함께 씹을 때 턱이 아프거나 두피를 누를 때 아픈 경우도 해당합니다.
 * **재진** : 두통의 빈도나 강도가 점점 증가하거나 기존과 양상이 달라지는 경우, 또는 진통제가 주 2일을 넘겨 반복적으로 필요한 경우
 
