@@ -1,4 +1,4 @@
-# 긴장형두통 Tension-type Headache, TTH
+# 긴장형두통 Tension-type Headache
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -14,7 +14,7 @@
 * <mark style="background-color:yellow;">두통 일기(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용</mark>
   * <mark style="background-color:yellow;">진단 목적으로 사용할 때는 최소 8주간 기록</mark> <mark style="color:$info;">\[NICE CG150]</mark>
 
-### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
+### <mark style="color:orange;">분류</mark> <mark style="color:$info;">\[ICHD-3]</mark>
 
 1. 2.1 Infrequent episodic TTH
    1. 2.1.1 associated with pericranial tenderness
@@ -36,25 +36,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 벼락두통  `지주막하출혈`
-* 두통과 함께 새 마비·언어 장애·의식 변화  `뇌졸중` `두개내 병변`
-* 발열과 경부 강직  `수막염`
-* ≥50세의 새 두통에 일시적 시력상실 또는 복시 동반  `거대세포동맥염`
-* <mark style="background-color:yellow;">임신 중 또는 산후의 새 두통이 다음 중 하나에 해당</mark>  `자간전증` `뇌정맥동혈전증` `가역성 뇌혈관수축증후군`
+* 벼락두통 `지주막하출혈`
+* 두통과 함께 새 마비·언어 장애·의식 변화 `뇌졸중` `두개내 병변`
+* 발열과 경부 강직 `수막염`
+* ≥50세의 새 두통에 일시적 시력상실 또는 복시 동반 `거대세포동맥염`
+* <mark style="background-color:yellow;">임신 중 또는 산후의 새 두통이 다음 중 하나에 해당</mark> `자간전증` `뇌정맥동혈전증` `가역성 뇌혈관수축증후군`
   * <mark style="background-color:yellow;">심하거나 갑작스러운 두통, 지속·악화되는 두통</mark>
   * <mark style="background-color:yellow;">혈압 상승·시각 이상·경련 동반</mark>
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 임신 중 또는 산후 새로 발생한 두통  `자간전증` `뇌혈관질환` `뇌하수체 병변`
-* **(당일)** ≥50세의 새 두통에 턱 파행 또는 두피·측두동맥 압통 동반  `거대세포동맥염`
-* 새로 발생하거나 진행하는 두통  `이차성 두통`
-* 암·면역저하 등 위험 배경이 있는 새 두통  `두개내 전이` `중추신경계 감염`
+* **(당일)** 임신 중 또는 산후 새로 발생한 두통 `자간전증` `뇌혈관질환` `뇌하수체 병변`
+* **(당일)** ≥50세의 새 두통에 턱 파행 또는 두피·측두동맥 압통 동반 `거대세포동맥염`
+* 새로 발생하거나 진행하는 두통 `이차성 두통`
+* 암·면역저하 등 위험 배경이 있는 새 두통 `두개내 전이` `중추신경계 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 급성기 진통제가 주 2일을 넘겨 반복적으로 필요하거나 사용 일수가 증가  `약물과용두통`
-* <mark style="background-color:yellow;">예방 치료를</mark> 내약 가능한 유지용량에 도달한 뒤 약 1\~2개월 사용했음에도 의미 있는 호전이 없음  `다른 두통 진단` `약물과용두통`
+* 급성기 진통제가 주 2일을 넘겨 반복적으로 필요하거나 사용 일수가 증가 `약물과용두통`
+* <mark style="background-color:yellow;">예방 치료를</mark> 내약 가능한 유지용량에 도달한 뒤 약 1\~2개월 사용했음에도 의미 있는 호전이 없음 `다른 두통 진단` `약물과용두통`
 
 ## <mark style="color:green;">원인</mark>
 
@@ -152,29 +152,9 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 ***
 
 ```mermaid
-flowchart TD
-    A["긴장형 양상의 두통"] --> B["이차성 두통을 시사하는 소견?"]
-    B -- "예" --> C["위험도에 따른 평가 및 이차성 원인 감별"]
-    B -- "아니요" --> D["두통 일기로 빈도·양상과 편두통 동반 여부 확인"]
-    D --> E["월평균 ≥15일의 두통이 ＞3개월 지속?"]
-    E -- "아니요" --> F["삽화긴장형두통 기준 충족?"]
-    F -- "예" --> G["삽화긴장형두통: 비-약물 치료·필요시 급성기 진통제"]
-    F -- "아니요" --> L["개연 긴장형두통 또는 다른 두통 진단 검토"]
-    E -- "예" --> H["만성편두통 또는 신생매일지속두통 기준 충족?"]
-    H -- "예" --> I["해당 진단 경로로 분기"]
-    H -- "아니요" --> J["만성긴장형두통 기준 충족?"]
-    J -- "예" --> K["만성긴장형두통: 비-약물 치료·amitriptyline 등 예방약"]
-    J -- "아니요" --> L
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class B,E,F,H,J question
-    class C emergency
-    class D,G,I,K,L care
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
-<p align="center"><strong><mark style="background-color:yellow;">긴장형 양상의 두통 평가 및 치료 알고리듬</mark></strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; VA/DoD 2023; NICE CG150)</mark></em></p>
+<p align="center"><mark style="background-color:yellow;"><strong>긴장형 양상의 두통 평가 및 치료 알고리듬</strong></mark><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; VA/DoD 2023; NICE CG150)</mark></em></p>
 
 * 두통 일기로 추적하고, 급성기 약물 사용이 잦아지거나 일상생활에 지장이 크면 예방치료를 검토
 * <mark style="background-color:yellow;">만성 두통에서는 약물과용 여부를 평가하고, 기존 두통 진단과 약물과용두통의 기준을 모두 충족하면 둘 다 진단</mark> ☞ [만성 두통 및 약물과용두통](018_-chronic-headache.md) 참조
@@ -202,7 +182,7 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 두통 일기 : 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
+* 두통 일기 : 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)'
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
 * 규칙적 유산소 운동 및 점진적 근력 강화 운동을 환자의 체력과 동반 질환에 맞추어 시행
 * 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료 고려
@@ -328,7 +308,7 @@ flowchart TD
 >
 > 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽NSAID 사용이 어려운 환자 중 타이레놀정 자체의 금기에 해당하지 않는 경우에 고려. 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, TCA 복용 등에서는 투여하지 않으며, 위장관 출혈·신기능 저하의 원인과 중증도를 먼저 평가함. <mark style="background-color:yellow;">warfarin</mark> 복용 중 수일 이상 반복 사용하면 INR 상승 가능성을 고려(☞ [통증](../220_/001_-pain.md) 참조)_
+> _✽NSAID 사용이 어려운 환자 중 타이레놀정 자체의 금기에 해당하지 않는 경우에 고려. 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, TCA 복용 등에서는 투여하지 않으며, 위장관 출혈·신기능 저하의 원인과 중증도를 먼저 평가함. <mark style="background-color:yellow;">warfarin</mark> 복용 중 수일 이상 반복 사용하면 INR 상승 가능성을 고려(☞_ [_통증_](../220_/001_-pain.md) _참조)_
 
 > **처방례 3. 만성, 예방 - 일반**
 >
@@ -343,7 +323,7 @@ flowchart TD
 >
 > 약제 정보: [에트라빌정·10 ㎎](https://www.health.kr/drug/A11A0570B0082) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070) · [센시발정·10 ㎎](https://www.health.kr/drug/A11A1130A0032)
 >
-> _✽만성긴장형두통 예방의 1차 선택; TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 돌발 두통에 naproxen sodium을 필요시 사용하기 전 품목별 금기를 확인(긴장형두통에 허가 외 사용). TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않음. 아나프록스와 다른 NSAID의 중복도 피함(☞ [통증](../220_/001_-pain.md) 참조)_
+> _✽만성긴장형두통 예방의 1차 선택; TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으며, 돌발 두통에 naproxen sodium을 필요시 사용하기 전 품목별 금기를 확인(긴장형두통에 허가 외 사용). TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않음. 아나프록스와 다른 NSAID의 중복도 피함(☞_ [_통증_](../220_/001_-pain.md) _참조)_
 
 > **처방례 4. 만성, 예방 - amitriptyline 부작용으로 전환 시**
 >
