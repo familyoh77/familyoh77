@@ -5,7 +5,7 @@
 * 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
 * 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심임
 * 고령(특히 당뇨병·신부전) 환자는 통증·발열·복부 강직 등이 경미하게 발현될 수 있어 중증 질환을 간과하기 쉬우므로 비전형적 증상에도 악성·혈관 질환 가능성을 항상 염두에 두어야 함
-* 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 임신 여부를 우선 확인하고 β-hCG를 시행
+* 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통에서는 소변 또는 혈청 hCG로 임신 여부를 우선 확인
   * 임신이 확인되면 자궁외임신을 반드시 배제
 * 복용 중인 약물을 반드시 확인
   * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
@@ -27,7 +27,7 @@
 * 발열·패혈증 소견과 요로폐쇄 동반 `감염성 요로폐쇄`
 * 급성 하복부·서혜부 통증과 음낭 압통·종창 또는 고환 위치 이상 `고환염전`
 * 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈 `위장관 출혈`
-* <mark style="background-color:yellow;">복통 또는 요통과 함께 박동성 복부 종괴가 만져지거나, 갑작스러운 복통 또는 요통에 저혈압 또는 실신이 동반되거나, 알려진 복부대동맥류 환자에서 새 복통 또는 요통이 발생한 경우(박동성 종괴가 없어도 해당). 고령·흡연력은 의심을 높이는 단서</mark> `증상성 복부대동맥류(AAA)·파열 의심`
+* 복통 또는 요통과 함께 박동성 복부 종괴가 만져지거나, 갑작스러운 복통 또는 요통에 저혈압 또는 실신이 동반되거나, 알려진 복부대동맥류 환자에서 새 복통 또는 요통이 발생한 경우(박동성 종괴가 없어도 해당). 고령·흡연력은 의심을 높이는 단서 `증상성 복부대동맥류(AAA)·파열 의심`
 * 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈 `자궁외임신 파열`
 * 갑작스러운 극심한 복통 ("내 인생 최악의 통증") `혈관 사고(AAA, 대동맥 박리)` `천공` `장간막 허혈`
 * 갑작스러운 상복부·복부 통증 + 흉통 또는 등 통증 + 사지 간 맥박·혈압 차이 또는 신경학적 증상 동반 `대동맥 박리`
@@ -61,23 +61,26 @@
 ## <mark style="color:green;">진단</mark> <a href="#abdominal-diagnosis" id="abdominal-diagnosis"></a>
 
 * 진찰, 활력징후, 병력 청취
-* 가임기 여성에서 자궁외임신 배제 : 소변 또는 혈청 β-hCG
-  * β-hCG 양성 시 단일 β-hCG 수치나 조기 초음파 음성만으로는 자궁외임신이 배제되지 않으므로, 임신 위치가 미상(pregnancy of unknown location)인 경우 정량 β-hCG 추이·경질초음파 추적 필요
+* 임신 가능성이 있는 가임기 여성의 급성 하복부·골반통 : 소변 또는 혈청 hCG로 임신 여부를 확인
+  * 소변 검사가 음성이어도 임신이 의심되면 정량 혈청 β-hCG 시행
+  * hCG 양성이면 경질초음파로 임신 위치를 확인함. 단일 β-hCG 수치나 조기 초음파 음성만으로는 자궁외임신이 배제되지 않으므로, 임신 위치 미상(pregnancy of unknown location)이고 안정적이면 정량 β-hCG(약 48시간 간격)와 경질초음파로 추적
+  * 통증·출혈이 악화되거나 혈역학적으로 불안정하면 추적 검사보다 응급 평가가 우선
 
 #### <mark style="color:$primary;">실험실검사</mark>
 
 **기본**
 
-* CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase, UA
+* CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), UA. 상복부 통증 등 췌장염이 의심되면 lipase
 * 미분화 급성 복통의 초기 평가로 흔히 함께 시행하나, 병력·통증 위치·임상 가설에 따라 항목 조정 가능
 * 간기능 : RUQ 통증·황달·담도 질환 의심 시 특히 유용
 * lipase : 상복부 통증 등 췌장염 의심 시 amylase보다 우선 시행 - 진단 정확도가 높고 상승이 더 오래 지속되어(lipase 약 8\~14일, amylase 약 3\~5일) 증상 발생 후 수일이 지나 내원한 경우에도 유용
   * 임상적으로 췌장염이 의심되면 증상 발생 시점과 관계없이 검사
+  * 합당한 통증과 효소 기준을 모두 충족하면 진단 확인 목적의 CT는 대개 필요하지 않으며, 담석성 원인은 복부 초음파로 평가
 * UA : 요로 증상·옆구리 통증 또는 임신 관련 감별 시
 
 **추가 고려**
 
-* β-hCG : 임신 가능성이 있는 가임기 여성
+* hCG : 임신 가능성이 있는 가임기 여성
 * CRP/ESR : 염증 정도 평가
 * coagulation : 출혈 의심
 * lactate : 장간막 허혈 의심 - 초기에는 정상일 수 있으므로 음성이어도 배제 불가
@@ -102,7 +105,7 @@
 * 복부-골반 CT : 성인의 미분화 급성 복통, 특히 고령, 전신상태 이상, 혈관 위험 또는 중증 질환이 의심되는 경우 중요한 초기 영상검사
   * 충수염·게실염·폐쇄·천공 등 광범위한 원인을 평가할 수 있음
   * 장간막 허혈·AAA 등 혈관질환이 의심되면 적절한 CT 혈관조영술(CT angiography, CTA) protocol을 선택
-* MRI : 방사선 노출을 피해야 하는 임신·소아에서 초음파로 진단이 불명확한 충수염 평가에 유용
+* MRI : 초음파가 비진단적이고 충수염 의심이 지속되면 임신부는 비조영 MRI, 소아는 MRI 또는 CT를 고려
   * 담도계 평가에서는 MRCP가 담관·췌관을 비침습적으로 시각화하여 담석·협착 감별에 도움
 * 부인과 초음파 : 자궁외임신, 난소 병변 의심 시 (경질초음파가 우선)
 * POCUS (point-of-care US; 현장진단초음파) : AAA 선별, 담낭 평가, 수신증(hydronephrosis) 확인에 유용
@@ -111,7 +114,7 @@
 
 * 연령, 임신 여부, 통증 위치, 의심 질환에 따라 US 또는 MRI를 우선 선택할 수 있음
 
-<table data-search="false"><thead><tr><th width="207">임상 상황</th><th width="150"></th><th>권장 영상</th></tr></thead><tbody><tr><td colspan="2"><strong>RUQ 통증</strong> (담낭·담도 의심)</td><td>초음파 우선</td></tr><tr><td colspan="2"><strong>LLQ 통증</strong> (게실염 의심)</td><td>CT</td></tr><tr><td colspan="2"><strong>옆구리 통증</strong> (요로 결석 의심) - 성인</td><td>비조영 CT (가장 정확); 임신에서는 초음파 우선</td></tr><tr><td rowspan="2"><strong>충수염</strong> 의심</td><td>성인</td><td>CT abdomen/pelvis with IV contrast 우선 (조영제 금기 등 상황에 따라 protocol 조정)</td></tr><tr><td>소아·임신</td><td>초음파 우선; 불명확 시 MRI 고려</td></tr><tr><td colspan="2"><strong>골반 통증</strong> (부인과 의심)</td><td>경질초음파</td></tr><tr><td colspan="2"><strong>미분화 급성 복통</strong> (고령·혈관 위험·diffuse pain)</td><td>CT</td></tr><tr><td rowspan="2"><strong>AAA</strong> 의심</td><td>혈역학적 불안정</td><td>지체하지 말고 즉시 수술/혈관외과 협진 및 응급 이송; bedside POCUS는 신속한 확인 용도로만 활용</td></tr><tr><td>혈역학적 안정</td><td>CT angiography</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="207">임상 상황</th><th width="150"></th><th>권장 영상</th></tr></thead><tbody><tr><td colspan="2"><strong>RUQ 통증</strong> (담낭·담도 의심)</td><td>초음파 우선</td></tr><tr><td colspan="2"><strong>LLQ 통증</strong> (게실염 의심)</td><td>CT</td></tr><tr><td colspan="2"><strong>옆구리 통증</strong> (요로 결석 의심) - 성인</td><td>비조영 CT (가장 정확); 임신에서는 초음파 우선</td></tr><tr><td rowspan="3"><strong>충수염</strong> 의심</td><td>비임신 성인</td><td>CT abdomen/pelvis with IV contrast 우선 (조영제 금기 등 상황에 따라 protocol 조정)</td></tr><tr><td>소아</td><td>초음파 우선. 비진단적이고 의심이 지속되면 MRI 또는 CT</td></tr><tr><td>임신</td><td>초음파 우선. 비진단적이면 비조영 MRI</td></tr><tr><td colspan="2"><strong>골반 통증</strong> (부인과 의심)</td><td>경질초음파</td></tr><tr><td colspan="2"><strong>미분화 급성 복통</strong> (고령·혈관 위험·diffuse pain)</td><td>CT</td></tr><tr><td colspan="2"><strong>급성 장간막 허혈</strong> 의심</td><td>lactate 결과를 기다리지 않고 응급 CTA</td></tr><tr><td rowspan="2"><strong>AAA</strong> 의심</td><td>혈역학적 불안정</td><td>지체하지 말고 즉시 수술/혈관외과 협진 및 응급 이송; bedside POCUS는 신속한 확인 용도로만 활용</td></tr><tr><td>혈역학적 안정</td><td>CT angiography</td></tr></tbody></table>
 
 ## <mark style="color:green;">감별</mark> <a href="#differential-diagnosis" id="differential-diagnosis"></a>
 
@@ -225,7 +228,7 @@ flowchart TD
     D -- "예" --> E["RUQ 초음파 우선"]
     E --> F["담낭염·담도폐쇄 소견?"]
     F -- "예" --> G["원인별 치료·<br/>외과/소화기 의뢰"]
-    F -- "아니오" --> H["<u>추가 영상 고려</u><br/>• 지속 증상 또는 진단 불명확<br/>• CT 또는 MRCP 고려"]
+    F -- "아니오" --> H["<u>추가 영상</u><br/>• 담관 결석·폐쇄 의심: <br/>MRCP 또는 EUS<br/>• 합병증·다른 원인 의심: <br/>조영 CT"]
     D -- "아니오" --> I["호흡기 증상·저산소증·<br/>흉막성 통증? → ★"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
@@ -271,7 +274,8 @@ flowchart TD
 >
 > _초기 정상 ECG·첫 hs-cTn만으로 ACS를 배제하지 않으며, 검증된 배제 경로와 필요시 반복 검사를 적용함._\
 > _&#x50;E의 낮음·중간·높음은 임상 사전확률을 뜻함; PERC는 적용 가능한 저위험 성인에서 사용하고, D-dimer는 검사법·연령 및 선택한 진단 경로에 맞는 기준값을 적용함._\
-> _&#x43;TPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함_
+> _&#x43;TPA가 부적절한 경우에는 V/Q 검사 등 대체 영상을 고려함._\
+> _담관염이 강하게 의심되거나 패혈증 소견이 있으면 추가 영상 때문에 응급 의뢰와 처치를 지연하지 않음_
 
 <p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Right Upper Quadrant Pain 2022;</mark></em><br><em><mark style="color:$info;">ACC/AHA 등 ACS 2025; AHA/ACC 등 PE 2026)</mark></em></p>
 
@@ -319,12 +323,15 @@ flowchart TD
     A["하복부 복통"] --> U["불안정·복막염·<br/>급성 염전 의심?"]
     U -- "예" --> V["즉각 응급 평가·이송"]
     U -- "아니오" --> B["임신 가능성이 있는가?"]
-    B -- "예" --> C["β-hCG"]
-    C -- "양성" --> E["<u>자궁외임신 우선 배제</u><br/>• 경질초음파 ± <br/>산부인과 응급 평가"]
-    C -- "음성" --> G
+    B -- "예" --> C["소변 또는 혈청 hCG"]
+    C -- "양성" --> E["<u>자궁외임신 우선 배제</u><br/>• 경질초음파로 임신 위치 확인<br/>• 불안정·악화 시 <br/>산부인과 응급 평가"]
+    C -- "음성·<br/>임신 가능성 낮음" --> G
+    C -- "소변 음성·<br/>임신 의심 지속" --> C2["정량 혈청 β-hCG"]
+    C2 -- "양성" --> E
+    C2 -- "음성" --> G
     B -- "아니오" ---> G["통증 위치·동반 증상 평가"]
     G --> H["RLQ 우세"]
-    H --> I["<u>충수염 의심</u><br/>• 성인: IV contrast CT <br/>우선 고려<br/>• 소아·임신: US 우선, <br/>불명확 시 MRI"]
+    H --> I["<u>충수염 의심</u><br/>• 비임신 성인: IV contrast CT 우선<br/>• 소아: US 우선, 비진단적이고 <br/>의심 지속 시 MRI 또는 CT<br/>• 임신: US 우선, 비진단적이면 <br/>비조영 MRI"]
     G --> J["LLQ 우세"]
     J --> K["게실염 의심"]
     K --> L["CT로 진단·합병증 확인"]
@@ -348,7 +355,7 @@ flowchart TD
     class A start
     class U,B,M question
     class V,E,R,T emergency
-    class C,G,I,L,P,Q,X evaluation
+    class C,C2,G,I,L,P,Q,X evaluation
     class N,W treatment
     class H,J,K,O,S followup
 ```
@@ -377,7 +384,7 @@ flowchart TD
   * 서혜부·대퇴부·제대 등 탈장 가능 부위를 반드시 진찰
   * 성인 소장 폐쇄의 가장 흔한 원인(약 60\~70%)은 수술 후 유착이므로 복부 수술력 확인이 중요
 * GI 천공 : 갑작스러운 심한 복통
-* <mark style="background-color:yellow;">복부대동맥류(AAA) 파열 : 갑작스러운 심한 복통 또는 요통에 저혈압, 실신 또는 박동성 복부 종괴가 동반될 수 있음. 알려진 AAA 환자의 새 복통·요통에서도 의심</mark>
+* 복부대동맥류(AAA) 파열 : 갑작스러운 심한 복통 또는 요통에 저혈압, 실신 또는 박동성 복부 종괴가 동반될 수 있음. 알려진 AAA 환자의 새 복통·요통에서도 의심
   * 고령, 흡연력, 죽상동맥경화 병력이 있는 환자에서 강하게 의심
   * 흡연은 AAA의 발생·성장·파열 위험을 높이며, AAA가 있는 여성은 남성보다 파열 위험이 높음
   * 박동성 종괴가 촉지되지 않아도 배제되지 않으며, 즉각 응급 조치 필요
@@ -437,11 +444,11 @@ flowchart TD
 **Step 2. Red flag 및 고위험군 확인**
 
 * 고령(특히 65세 이상), frailty, 심방세동·혈관 질환, 당뇨·CKD·면역 저하 등은 중증 질환의 비전형적 발현 위험을 높이는 risk modifier이므로 영상검사·관찰 역치를 낮춤
-* 임신 가능성이 있는 가임기 여성은 β-hCG 확인
+* 임신 가능성이 있는 가임기 여성은 hCG 확인
 
 **Step 3. 치명적·시간 민감성 질환 우선 배제**
 
-<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td><strong>AAA 파열</strong></td><td><mark style="background-color:yellow;">갑작스러운 복통·요통, 저혈압·실신, 알려진 AAA. 고령·흡연력에서 의심하며 박동성 종괴가 없어도 배제할 수 없음</mark></td></tr><tr><td><strong>대동맥 박리</strong></td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td><strong>장간막 허혈</strong></td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td><strong>GI 천공</strong></td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td><strong>교액성 장폐쇄</strong></td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td><strong>자궁외임신 파열</strong></td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td><strong>Acute MI</strong></td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td><strong>AAA 파열</strong></td><td>갑작스러운 복통·요통, 저혈압·실신, 알려진 AAA. 고령·흡연력에서 의심하며 박동성 종괴가 없어도 배제할 수 없음</td></tr><tr><td><strong>대동맥 박리</strong></td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td><strong>장간막 허혈</strong></td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td><strong>GI 천공</strong></td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td><strong>교액성 장폐쇄</strong></td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td><strong>자궁외임신 파열</strong></td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td><strong>Acute MI</strong></td><td>상복부 통증·심혈관 위험인자·ECG 변화(초기에는 없을 수 있음)</td></tr></tbody></table>
 
 > _위는 대표적 예시이며 전체 목록이 아님._\
 > _&#xB09C;소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 감별 섹션 참조_
@@ -695,7 +702,7 @@ flowchart TD
 * [CDC. Confirming an Etiology in Foodborne Outbreaks.](https://www.cdc.gov/foodborne-outbreaks/php/confirming-cause/index.html) - 원인균별 잠복기와 임상 증상
 * Royal Children's Hospital Melbourne. Clinical Practice Guidelines: [Abdominal pain - acute](https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/); [Vomiting](https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/) - 소아 급성 복통과 담즙성 구토의 응급 평가
 * [NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126).](https://www.nice.org.uk/guidance/ng126) - 임신 위치 미상 추적 평가
-* <mark style="background-color:yellow;">[NICE. Abdominal aortic aneurysm: diagnosis and management. NG156. 2020.](https://www.nice.org.uk/guidance/ng156/chapter/recommendations) - 증상성 또는 파열성 복부대동맥류의 의심 소견과 응급 의뢰</mark>
+* [NICE. Abdominal aortic aneurysm: diagnosis and management. NG156. 2020.](https://www.nice.org.uk/guidance/ng156/chapter/recommendations) - 증상성 또는 파열성 복부대동맥류의 의심 소견과 응급 의뢰
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 

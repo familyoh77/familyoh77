@@ -97,12 +97,12 @@
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* <mark style="background-color:yellow;">ACS가 의심되지만 즉시 이송 사유가 없고 현재 흉통이 소실된 환자에서, 최근 12시간 이내 흉통이 있었으나 안정 시 12유도 ECG가 정상이거나 마지막 흉통이 12\~72시간 전</mark> `ACS`
-* <mark style="background-color:yellow;">새로 발생하거나 악화된 휴식 시·야간 흉통 또는 더 적은 활동에서 생기는 진행성 흉통은, 현재 소실되었더라도 ACS가 의심되면 위 시간·ECG 기준을 적용</mark> `ACS`
+* ACS가 의심되지만 즉시 이송 사유가 없고 현재 흉통이 소실된 환자에서, 최근 12시간 이내 흉통이 있었으나 안정 시 12유도 ECG가 정상이거나 마지막 흉통이 12\~72시간 전 `ACS`
+* 새로 발생하거나 악화된 휴식 시·야간 흉통 또는 더 적은 활동에서 생기는 진행성 흉통은, 현재 소실되었더라도 ACS가 의심되면 위 시간·ECG 기준을 적용 `ACS`
   * 야간 흉통 단독은 GERD·관상동맥연축 등에서도 발생할 수 있으므로 전체 임상 맥락과 함께 판단
 * 심낭삼출 위험 인자(악성 종양·투석·최근 심장 수술·심낭염 등)가 있는 환자의 새 흉통·호흡곤란으로, 혈역학적으로 안정적이고 심낭압전을 시사하는 소견이 없음 `심낭삼출`
   * 혈역학적으로 안정적이라는 이유만으로 압전을 배제하지 않으며, 심낭압전이 의심되면 **즉각 조치**
-* <mark style="background-color:yellow;">최근 평가 후에도 원인 불명의 흉통이 반복되거나 양상이 변한 환자에서 현재 흉통이 소실되고 즉시 이송 사유가 없으면 임상 맥락에 따라 평가. ACS 의심 시 위 시간·ECG 기준을 적용</mark> `ACS`
+* 최근 평가 후에도 원인 불명의 흉통이 반복되거나 양상이 변한 환자에서 현재 흉통이 소실되고 즉시 이송 사유가 없으면 임상 맥락에 따라 평가. ACS 의심 시 위 시간·ECG 기준을 적용 `ACS`
   * 현재 지속·반복되는 허혈 의심 통증 또는 임상적으로 AAS가 의심되는 경우는 **즉각 조치**
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -120,16 +120,16 @@
 {% hint style="danger" %}
 **1차 진료 Triage - 먼저 확인할 3가지**
 
-1. <mark style="background-color:yellow;">즉시 이송이 필요한 원인이 의심되는가? - 대동맥 박리, 급성 PE, 긴장성 기흉, 식도 파열, 심낭압전 또는 Red Flags의 ACS 즉각 조치 기준</mark>
-2. <mark style="background-color:yellow;">고위험 ECG 소견이 있는가? - 허혈성 ST-T 변화, 새로운 LBBB에서 급성 허혈 의심, 혈역학적 이상을 동반하는 지속성 빈맥·서맥 등</mark>
+1. 즉시 이송이 필요한 원인이 의심되는가? - 대동맥 박리, 즉시 이송이 필요한 PE 의심(혈역학적 불안정·심한 저산소혈증·Wells ＞4점 등), 긴장성 기흉, 식도 파열, 심낭압전 또는 Red Flags의 ACS 즉각 조치 기준
+2. 고위험 ECG 소견이 있는가? - 허혈성 ST-T 변화, 새로운 LBBB에서 급성 허혈 의심, 혈역학적 이상을 동반하는 지속성 빈맥·서맥 등
 3. 급성·진행성 증상 또는 고위험 임상 소견이 있는가? - 현재 지속되거나 반복되는 휴식 시 흉통 또는 진행성 흉통, 허혈성 ECG 변화, 혈역학적 이상 등
 
 **위 3가지 중 하나라도 YES → 즉시 응급실 이송**
 
-* <mark style="background-color:yellow;">응급 이송이 필요하면 외래 hs-cTn이나 추가 검사 결과를 기다리지 않음. ECG는 이송을 지연시키지 않는 범위에서 시행</mark>
-* <mark style="background-color:yellow;">ACS가 의심되고 즉시 이송 사유가 없으며 현재 무통인 경우, 최근 12시간 이내 흉통 후 안정 시 12유도 ECG가 정상이거나 마지막 흉통이 12\~72시간 전이면 연속 ECG·hs-cTn 평가가 가능한 병원으로 당일 직접 의뢰. 최근 12시간 이내 흉통에서 ECG가 비정상이거나 시행할 수 없으면 현재 무통이어도 즉시 이송 <mark style="color:$info;">\[NICE CG95]</mark></mark>
-* <mark style="background-color:yellow;">마지막 흉통이 72시간을 넘었고 현재 무통이며 합병증이 없으나 최근 ACS가 의심되면, 임상 소견에 따라 병원 의뢰 시급성을 결정. 최근 ACS가 확인되었거나 의심되는 환자에게 흉통이 다시 발생하면 즉시 이송 <mark style="color:$info;">\[NICE CG95]</mark></mark>
-* <mark style="background-color:yellow;">알려진 CAD나 다수 심혈관 위험인자가 있으면 ACS 가능성을 높게 보되, 이송 시급성은 증상의 급성도·안정성과 ECG 등 객관적 소견을 종합해 결정</mark>
+* 응급 이송이 필요하면 외래 hs-cTn이나 추가 검사 결과를 기다리지 않음. ECG는 이송을 지연시키지 않는 범위에서 시행
+* ACS가 의심되고 즉시 이송 사유가 없으며 현재 무통인 경우, 최근 12시간 이내 흉통 후 안정 시 12유도 ECG가 정상이거나 마지막 흉통이 12\~72시간 전이면 연속 ECG·hs-cTn 평가가 가능한 병원으로 당일 직접 의뢰. 최근 12시간 이내 흉통에서 ECG가 비정상이거나 시행할 수 없으면 현재 무통이어도 즉시 이송 <mark style="color:$info;">\[NICE CG95]</mark>
+* 마지막 흉통이 72시간을 넘었고 현재 무통이며 합병증이 없으나 최근 ACS가 의심되면, 임상 소견에 따라 병원 의뢰 시급성을 결정. 최근 ACS가 확인되었거나 의심되는 환자에게 흉통이 다시 발생하면 즉시 이송 <mark style="color:$info;">\[NICE CG95]</mark>
+* 알려진 CAD나 다수 심혈관 위험인자가 있으면 ACS 가능성을 높게 보되, 이송 시급성은 증상의 급성도·안정성과 ECG 등 객관적 소견을 종합해 결정
 {% endhint %}
 
 {% hint style="warning" %}
@@ -156,7 +156,7 @@ flowchart TD
     A["급성 흉통?"] -- "예" --> B["병력 청취 + 신체 검진 <br/> 활력징후 평가"]
     A -- "아니오" --> Z["안정형 흉통 평가"]
     B --> L["혈역학적 불안정 또는 <br/>응급 이송이 필요한 <br/>생명 위협 원인 의심?"]
-    L -- "예" --> R["<u>응급 처치와 이송 동시 진행</u><br/>• 즉각 조치에 해당하는 ACS<br/>• AAS·PE·긴장성 기흉<br/>• 심낭압전·식도 파열"]
+    L -- "예" --> R["<u>응급 처치와 이송 동시 진행</u><br/>• 즉각 조치에 해당하는 ACS<br/>• AAS·즉시 이송이 필요한 PE 의심<br/>• 긴장성 기흉·심낭압전·식도 파열"]
     L -- "아니오" --> C["진료 장소?"]
     C -- "외래" --> O["<u>외래 평가</u><br/>• 가능하면 10분 이내 ECG<br/>• 즉각 조치 기준 해당?"]
     C -- "응급실" --> T["ECG + <br/>hs-cTn 기반 CDP"]
@@ -185,19 +185,9 @@ flowchart TD
     class R,D,G,H,I emergency
     class B,Z,T,E,J,K,K1,X evaluation
     class W treatment
-
-
-    style K1 fill:#fff59d
-    style L fill:#fff59d
-    style O fill:#fff59d
-    style R fill:#fff59d
-    style U fill:#fff59d
-    style V fill:#fff59d
-    style W fill:#fff59d
-    style X fill:#fff59d
 ```
 
-<p align="center"><strong>급성 흉통의 초기 접근 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025; <mark style="background-color:yellow;">NICE CG95</mark>)</mark></em></p>
+<p align="center"><strong>급성 흉통의 초기 접근 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025; NICE CG95)</mark></em></p>
 
 ***
 
@@ -206,7 +196,8 @@ flowchart TD
 #### <mark style="color:$primary;">ECG 검사</mark>
 
 * 급성 흉통 환자에서 ECG는 처치 방향을 결정하는 핵심 도구임
-* 12-Lead ECG : 명백한 비심장성 원인이 확인되지 않은 안정형 흉통 및 모든 급성 흉통 환자에서 시행. 외래에서 ECG를 시행할 수 없고 심장 원인을 배제하기 어려우면 응급실 의뢰
+* 12-Lead ECG : 명백한 비심장성 원인이 확인되지 않은 안정형 흉통 및 모든 급성 흉통 환자에서 시행. 응급 이송이 필요하면 ECG는 이송을 지연시키지 않는 범위에서 시행
+  * 외래에서 ECG를 시행할 수 없을 때 : ACS가 의심되면서 현재 흉통이 지속되거나, 최근 12시간 이내 흉통이 있었으면 즉시 이송. 마지막 흉통이 12\~72시간 전이면 당일 병원 의뢰 (☞ 위 1차 진료 Triage)
 * 'Door-to-ECG 10분' : 내원 후 10분 이내 시행 및 판독하는 것이 긴요 <mark style="color:$info;">\[2021 AHA/ACC]</mark>
 
 **ECG 평가의 핵심**
@@ -227,7 +218,7 @@ flowchart TD
     C -- "광범위 ST 상승 ± PR 하강 <br/>(심낭염 시사)" --> G["<u>STEMI 우선 감별</u><br/>• 이전·serial ECG<br/>• hs-cTn ± TTE"]
     C -- "ST 하강 또는 <br/>새로운 T파 역전" --> H["<u>NSTE-ACS 의심</u><br/>• 병원 내 응급 ACS 평가<br/>• V1~V3 ST 하강이 가장 <br/>뚜렷하면 V7~V9 기록"]
     H -- "V7~V9 후벽 STEMI<br/>기준 충족 (아래 주석)" --> N
-    C -- "비진단적 또는 <br/>정상 ECG" --> E["<u>ECG 반복 시행</u><br/>• 증상 지속 또는 <br/>트로포닌 양성 시<br/>• 후벽 MI 의심 시 V7~V9"]
+    C -- "비진단적 또는 <br/>정상 ECG" --> E["<u>ECG 반복 시행</u><br/>• 증상 지속·재발 또는 <br/>ACS 의심이 높을 때<br/>(hs-cTn 결과를 기다리지 않음)<br/>• hs-cTn 상승 시에도 반복<br/>• 후벽 MI 의심 시 V7~V9"]
     C -- "새로운 부정맥" --> M["부정맥별 <br/>가이드라인 따름"]
     G --> Q["STEMI 확인?"]
     Q -- "예" --> N1["STEMI <br/>가이드라인 따름"]
@@ -244,14 +235,11 @@ flowchart TD
     class N,N1,H emergency
     class B,G,E,T,P evaluation
     class M treatment
-    style A fill:#fff59d
-    style B fill:#fff59d
-    style H fill:#fff59d
 ```
 
 > _후벽 STEMI 판정 기준 : V7\~V9 ST 상승 ≥0.5 ㎜ (40세 미만 남성은 ≥1 ㎜); 출처: Fourth UDMI 2018_
 
-<p align="center"><strong><mark style="background-color:yellow;">병원 내 ECG 소견에 따른 처치 알고리듬</mark></strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 4; ACC/AHA ACS 2025)</mark></em></p>
+<p align="center"><strong>병원 내 ECG 소견에 따른 처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 4; ACC/AHA ACS 2025)</mark></em></p>
 
 ***
 
@@ -294,7 +282,8 @@ flowchart TD
   * 증상 시작부터 첫 채혈까지 3시간이 지나지 않았거나 증상 시작 시각이 불명확하면 검사기관의 검증된 CDP에 따라 hs-cTn을 반복 측정함
   * 허혈이 의심되는 증상이 지속·재발하거나 임상적 의심이 높으면 ECG와 hs-cTn을 반복 측정하고 추가 평가함. hs-cTn 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제할 수 없음
 * 초기 hs-cTn이 assay-specific rule-in threshold 이상이거나 재측정 시 Δ가 rule-in 기준을 넘으면 rule-in으로 판단하고, 허혈 증상·ECG 소견과 함께 급성 MI 여부를 판단
-  * 배제·rule-in 어느 쪽에도 해당하지 않는 경계값(observe zone)이면 검증된 0/1h 또는 0/2h 등 assay-specific CDP에 따라 재측정하고 절대 변화량(Δ, absolute change)을 함께 판단
+  * 초회 결과로 배제·rule-in이 결정되지 않으면 검증된 0/1h 또는 0/2h 등 assay-specific CDP에 따라 재측정하고 절대 변화량(Δ, absolute change)을 함께 판단
+    * 재측정 후에도 배제·rule-in 어느 쪽에도 해당하지 않는 관찰군(observe zone)은 기관 경로에 따라 추가 채혈(예: ESC 경로에서 첫 채혈 후 3시간)과 심초음파 등 추가 평가
 
 <table><thead><tr><th width="200">알고리듬</th><th width="160">재측정 시점</th><th>특징</th></tr></thead><tbody><tr><td><strong>AHA/ACC 권고 간격</strong></td><td>•hs-cTn: 1~2시간<br>•기존 cTn: 3~6시간</td><td>2025 ACS 지침의 초기 검사가 비진단적일 때 반복 측정 간격; 2021 흉통 지침은 hs-cTn 1~3시간 제시. 최초 채혈(time zero) 후 기관 assay에 맞춘 CDP 적용</td></tr><tr><td><strong>ESC</strong> 0/1h</td><td>0시간, 1시간</td><td>빠르고 광범위하게 검증됨; assay별 고유 cut-off와 절대 변화량 기준 필요</td></tr><tr><td><strong>ESC</strong> 0/2h (<strong>대안</strong>)</td><td>0시간, 2시간</td><td>0/1h 시행이 어려운 상황의 검증된 대안; assay별 기준 적용</td></tr><tr><td><strong>기타 검증된 hs-cTn CDP</strong></td><td>기관·assay별</td><td>0/1h, 0/2h 등 검증된 프로토콜을 임상 위험도 평가와 함께 적용</td></tr><tr><td>0/3h (<strong>전통적</strong>)</td><td>0시간, 3시간</td><td>현재는 검증된 hs-cTn 신속 CDP가 선호되며, 해당 프로토콜을 사용할 수 없는 일부 상황에서 고려</td></tr></tbody></table>
 
@@ -407,7 +396,7 @@ flowchart TD
 
 <table data-search="false"><thead><tr><th width="494.5263671875">소견</th><th width="54.17181396484375">배점</th><th>판정</th></tr></thead><tbody><tr><td>임상적 DVT 소견: 심부정맥 주행을 따른 압통 및 편측 하지 종창</td><td>3</td><td rowspan="7"><p>▶폐색전증 가능성 :<br>＞6점=가능성 높음,<br>2~6점=중등도,<br>＜2점=낮음 ☞ <a href="https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism">계산기</a></p><p><br>2단계 분류(현재 진단 알고리듬에서 주로 사용): Wells ≤4점 = PE unlikely → D-dimer로 배제 시도, Wells ＞4점 = PE likely → 즉시 영상검사(CTPA)</p></td></tr><tr><td>PE보다 더 가능성 높은 다른 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>현재 치료 중, 최근 6개월 이내 치료했거나 완화치료 중인 악성 종양 (+)</td><td>1</td></tr></tbody></table>
 
-* PE unlikely 등 비고위험 환자에서 50세 초과이면 연령 보정 D-dimer 기준(나이×10 ng/㎖, FEU) 또는 검증된 YEARS 경로를 사용할 수 있으며, 서로 다른 경로의 기준값을 섞지 않음. 검사실 단위와 assay별 기준을 확인
+* PE unlikely 등 비고위험 환자의 D-dimer 기준 : 50세 초과에서는 연령 보정 기준(나이×10 ng/㎖, FEU)을 적용할 수 있음. YEARS 경로를 사용하면 연령과 관계없이 해당 경로의 기준(YEARS 항목 0개 ＜1,000, ≥1개 ＜500 ng/㎖ FEU)을 적용하며, 서로 다른 경로의 기준값을 섞지 않음. 검사실 단위와 assay별 기준을 확인
 * 위 3단계 분류(＜2, 2\~6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리듬에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4\~6점 환자에서 평가가 지연될 수 있음
 
 <mark style="color:cyan;">**PERC Rule for Pulmonary Embolism**</mark>
@@ -579,7 +568,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">생명 위협 급성 흉통 감별</mark>
 
-<table><thead><tr><th width="144">질환</th><th width="172">통증/시작</th><th>주요 단서</th><th>초기 대응</th></tr></thead><tbody><tr><td><strong>ACS</strong></td><td>압박·조임·무거움; 수분에 걸쳐 증가 가능</td><td>팔·턱·등 방사, 발한, 오심, 호흡곤란; ECG 허혈 변화 또는 hs-cTn 동적 상승</td><td><mark style="background-color:yellow;">즉각 조치 기준에 해당하면 즉시 이송. 외래 hs-cTn 결과를 기다리지 않으며 가능하면 이송 전 ECG를 시행. STEMI이면 재관류 가능 병원으로 직접 이송.<br/>즉시 이송 사유가 없고 현재 무통이며 시간·ECG 기준을 충족하면 연속 ECG·hs-cTn 평가 가능 병원으로 당일 직접 의뢰</mark></td></tr><tr><td><strong>AAS</strong></td><td>갑자기 최대 강도; 찢어지거나 칼로 베는 듯한 통증</td><td>등·복부로 이동, pulse/BP 비대칭, 새 AR 잡음, 신경학적 결손</td><td>즉각 이송; 고위험이면 D-dimer로 CTA를 지연하지 않음</td></tr><tr><td><strong>Pulmonary embolism</strong></td><td>갑작스러운 pleuritic pain ± pressure</td><td>호흡곤란, 빈맥, 저산소, DVT 소견, 최근 수술·고정</td><td>혈역학 평가; 사전확률에 따라 PERC/D-dimer/CTPA 전략</td></tr><tr><td><strong>Tension pneumothorax</strong></td><td>갑작스러운 편측 pleuritic pain</td><td>심한 호흡곤란, 편측 호흡음 감소/소실, 저혈압; 기관 변위는 후기 소견</td><td>임상적으로 의심되면 즉시 감압 후 흉관 삽입으로 연결</td></tr><tr><td><strong>Cardiac tamponade</strong></td><td>흉통 또는 흉부 불편감 + 호흡곤란</td><td>저혈압·빈맥·JVP 상승, muffled heart sound, pulsus paradoxus, 심초음파 소견</td><td>즉각 응급 평가·이송; 혈역학적 불안정 시 긴급 배액 필요</td></tr><tr><td><strong>Esophageal rupture</strong></td><td>심한 구토/구역질 후 갑작스러운 흉통</td><td>피하기종, 호흡곤란, 발열/패혈증, 쇼크</td><td>금식, 즉각 응급 이송 및 외과적 평가</td></tr></tbody></table>
+<table><thead><tr><th width="144">질환</th><th width="172">통증/시작</th><th>주요 단서</th><th>초기 대응</th></tr></thead><tbody><tr><td><strong>ACS</strong></td><td>압박·조임·무거움; 수분에 걸쳐 증가 가능</td><td>팔·턱·등 방사, 발한, 오심, 호흡곤란; ECG 허혈 변화 또는 hs-cTn 동적 상승</td><td>즉각 조치 기준에 해당하면 즉시 이송. 외래 hs-cTn 결과를 기다리지 않으며 가능하면 이송 전 ECG를 시행. STEMI이면 재관류 가능 병원으로 직접 이송.<br/>즉시 이송 사유가 없고 현재 무통이며 시간·ECG 기준을 충족하면 연속 ECG·hs-cTn 평가 가능 병원으로 당일 직접 의뢰</td></tr><tr><td><strong>AAS</strong></td><td>갑자기 최대 강도; 찢어지거나 칼로 베는 듯한 통증</td><td>등·복부로 이동, pulse/BP 비대칭, 새 AR 잡음, 신경학적 결손</td><td>즉각 이송; 고위험이면 D-dimer로 CTA를 지연하지 않음</td></tr><tr><td><strong>Pulmonary embolism</strong></td><td>갑작스러운 pleuritic pain ± pressure</td><td>호흡곤란, 빈맥, 저산소, DVT 소견, 최근 수술·고정</td><td>혈역학 평가; 사전확률에 따라 PERC/D-dimer/CTPA 전략</td></tr><tr><td><strong>Tension pneumothorax</strong></td><td>갑작스러운 편측 pleuritic pain</td><td>심한 호흡곤란, 편측 호흡음 감소/소실, 저혈압; 기관 변위는 후기 소견</td><td>임상적으로 의심되면 즉시 감압 후 흉관 삽입으로 연결</td></tr><tr><td><strong>Cardiac tamponade</strong></td><td>흉통 또는 흉부 불편감 + 호흡곤란</td><td>저혈압·빈맥·JVP 상승, muffled heart sound, pulsus paradoxus, 심초음파 소견</td><td>즉각 응급 평가·이송; 혈역학적 불안정 시 긴급 배액 필요</td></tr><tr><td><strong>Esophageal rupture</strong></td><td>심한 구토/구역질 후 갑작스러운 흉통</td><td>피하기종, 호흡곤란, 발열/패혈증, 쇼크</td><td>금식, 즉각 응급 이송 및 외과적 평가</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ACS 의심 시 처치</mark>
 
@@ -588,12 +577,12 @@ flowchart TD
   * 예: [바이엘아스피린정 500 ㎎](https://www.health.kr/drug/A11A1380A0008)(비장용정) 0.5정(허가 외)
   * 해당 500 ㎎ 제품의 허가사항에는 ACS 항혈소판 부하 적응증이 없어 허가 외 사용에 해당하나, 국제 지침상 비장용 aspirin 162\~325 ㎎ 부하는 표준 초기 처치임
   * 금기 : 아스피린/살리실산제에 대한 중증 과민반응, 아스피린-악화 호흡기질환(AERD) 병력, 활동성 중대 출혈 (단순 기관지천식·비강폴립 병력 자체가 모두 절대금기는 아니며, AERD를 의심하게 하는 단서로 평가)
-* <mark style="background-color:yellow;">nitroglycerin : 2025 ACC/AHA ACS 지침의 증상 완화 선택지. 혈역학적으로 안정적이고 금기가 없는 환자에서 적용하며 아래 제품별 허가사항을 확인</mark>
-* <mark style="background-color:yellow;">국제 지침의 설하 제형 용법 : 0.3 또는 0.4 ㎎을 필요시 5분 간격으로 최대 3회</mark>
-  * <mark style="background-color:yellow;">설하정 : [명문니트로글리세린설하정 0.6 ㎎](https://www.health.kr/drug/A11ABBBBB0474)은 협심증 발작에 사용하며, 이 제품의 허가사항에서 급성 심근경색은 금기</mark>
-  * <mark style="background-color:yellow;">구강분무제 : [니트로링구알스프레이](https://www.health.kr/drug/A11AGGGGA2468)는 1회 분무량 0.4 ㎎인 협심증 발작 치료·예방 제형이며, 이 제품의 허가사항에서도 급성 심근경색은 금기</mark>
-  * <mark style="background-color:yellow;">주사제는 급성 심근경색에 수반되는 울혈성 심부전 및 불안정형·불응성 협심증 등 제품 허가 적응증에 따라 사용</mark>
-  * <mark style="background-color:yellow;">ACS에서 회피할 상황 : 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(아바나필 12시간 이내, 실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), riociguat 병용, 우심실 경색 의심</mark>
+* nitroglycerin : 2025 ACC/AHA ACS 지침의 증상 완화 선택지. 혈역학적으로 안정적이고 금기가 없는 환자에서 적용하며 아래 제품별 허가사항을 확인
+* 국제 지침의 설하 제형 용법 : 0.3 또는 0.4 ㎎을 필요시 5분 간격으로 최대 3회
+  * 설하정 : [명문니트로글리세린설하정 0.6 ㎎](https://www.health.kr/drug/A11ABBBBB0474)은 협심증 발작에 사용하며, 이 제품의 허가사항에서 급성 심근경색은 금기
+  * 구강분무제 : [니트로링구알스프레이](https://www.health.kr/drug/A11AGGGGA2468)는 1회 분무량 0.4 ㎎인 협심증 발작 치료·예방 제형이며, 이 제품의 허가사항에서도 급성 심근경색은 금기
+  * 주사제는 급성 심근경색에 수반되는 울혈성 심부전 및 불안정형·불응성 협심증 등 제품 허가 적응증에 따라 사용
+  * ACS에서 회피할 상황 : 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(아바나필 12시간 이내, 실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), riociguat 병용, 우심실 경색 의심
     * 기저치보다 수축기혈압이 ＞30 ㎜Hg 감소한 경우도 회피
   * 주의 : 중증 대동맥판 협착증, 폐쇄성 비후성 심근병증에서는 심한 저혈압·유출로 폐쇄 악화 위험이 있어 신중 투여
 * 산소 : 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여
@@ -639,18 +628,18 @@ flowchart TD
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **<mark style="background-color:yellow;">처방례 1. ACS 의심 환자 중 즉시 이송 대상의 초기 처치</mark>**
+> **처방례 1. ACS 의심 환자 중 즉시 이송 대상의 초기 처치**
 >
-> **<mark style="background-color:yellow;">즉시 응급 이송을 먼저 준비하고, 이송을 늦추지 않는 범위에서 초기 처치를 병행합니다.</mark>**
+> **즉시 응급 이송을 먼저 준비하고, 이송을 늦추지 않는 범위에서 초기 처치를 병행합니다.**
 >
 > ```
 > 바이엘아스피린정 500 ㎎ 0.5T 1회 씹어서 복용
 >   ※ 비장용정 우선 사용 (저용량 장용정은 통째로 삼키면 흡수가 지연됨)
 > ```
 >
-> 약제 정보: <mark style="background-color:yellow;">[바이엘아스피린정 500 ㎎](https://www.health.kr/drug/A11A1380A0008)</mark>
+> 약제 정보: [바이엘아스피린정 500 ㎎](https://www.health.kr/drug/A11A1380A0008)
 >
-> _<mark style="background-color:yellow;">✽ 아스피린 부하의 허가 외 사용 근거와 질산염의 제형별 허가·금기 사항은 위 `ACS 의심 시 처치` 참조</mark>_
+> _✽ 아스피린 부하의 허가 외 사용 근거와 질산염의 제형별 허가·금기 사항은 위 `ACS 의심 시 처치` 참조_
 >
 > _✽ Aspirin 250 ㎎(500 ㎎ 비장용정 0.5T)은 권장 부하량 162\~325 ㎎ 범위에 해당함. 500 ㎎ 1정을 대체 부하량으로 안내하지 않으며, 분할·투여는 의료진이 확인함. 대동맥 박리 의심 또는 활동성 중대 출혈이 있으면 투여하지 않고 즉시 이송_
 
