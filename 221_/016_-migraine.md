@@ -327,7 +327,7 @@ flowchart TD
   * 모든 환자에게 일률적으로 병용하지 않음
 * 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의), 추체외로 증상(EPS; 급성 근긴장이상·정좌불능증 - 특히 고용량·젊은 여성에서; 장기 사용 시 지연성 운동장애 위험)
 * metoclopramide : 1회 1\~2정 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">맥페란</mark>](https://www.health.kr/drug/A11A0570A0089)<mark style="color:blue;">]</mark>; 1일 최대 3회, 재투여 간격 ≥6시간, 최대 5일
-  * <mark style="color:blue;">맥페란</mark> 1정에는 metoclopramide 3.84 ㎎(염산메토클로프라미드 5 ㎎)이 들어 있음
+  * <mark style="color:blue;">맥페란</mark> 1정에는 염산메토클로프라미드 5 ㎎(metoclopramide 3.84 ㎎)이 들어 있음
   * 1일 최대 6정(염산염 30 ㎎); 체중 60 ㎏ 미만에서는 체중 기준 상한(염산염 0.5 ㎎/㎏)이 더 낮아지므로 감량; 신·간기능에 따라 감량
 * domperidone : 발작 시 10 ㎎ 1회 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">돔피돈</mark>](https://health.kr/drug/A11A0570A0382)<mark style="color:blue;">]</mark>; 최대 30 ㎎/일, 통상 1주 이내 사용
   * QT 연장, 유의한 전해질 이상, 심부전 등 심장 기저질환, 중등도\~중증 간장애, QT 연장 약물·강력한 CYP3A4 억제제 병용은 금기. metoclopramide와 병용하지 않음
@@ -350,7 +350,7 @@ flowchart TD
     K --> L["Triptan 반응?"]
     L -- "충분한 호전" --> M["동일 전략 유지·<br/>사용일수 추적"]
     L -- "호전 후 재발" --> N["제품별 최소 간격·<br/>하루 최대량 내 재투여"]
-    L -- "반응 부족" --> O["제품별 재투여 허용 여부 확인; 대체 급성기 치료 및 <br/>다음 발작의 약제·제형 조정"]
+    L -- "반응 부족" --> O["제품별 재투여 허용 여부 <br/>확인; 대체 급성기 치료 및 <br/>다음 발작의 약제·제형 조정"]
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef care fill:#d9eaff,stroke:#3973ac
     class C,E,G,H,L question
