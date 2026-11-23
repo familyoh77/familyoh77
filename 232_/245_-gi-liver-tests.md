@@ -1,7 +1,7 @@
 # 소화기·간 검사 Gastrointestinal & Liver Tests
 
 {% hint style="info" %}
-작성 예정 : 담도·췌장 영상(초음파·MRCP·EUS), 대장내시경 적응증·추적 간격
+작성 예정 : 대장내시경 일반 적응증·용종 절제 후 추적 간격
 {% endhint %}
 
 ## <mark style="color:green;">상부위장관 내시경 (적응증·생검)</mark>
@@ -17,6 +17,7 @@
   * 증상·의심 질환에 맞는 상부위장관 경고 징후 (체중 감소, 진행성 삼킴곤란·삼킴 통증, 지속 구토, 위장관 출혈, 철결핍빈혈, 만져지는 종괴 등)
   * 40세 이상에서 새로 생긴 소화불량
   * 원인 불명 철결핍빈혈 - 성인 남성·폐경 후 여성은 하부위장관 평가도 함께
+  * 구취만으로 상부위장관 내시경 또는 헬리코박터 검사를 일률적으로 시행하지 않음
   * 적절한 경험적 치료에도 지속되는 증상
   * 식도성 삼킴곤란 - PPI 반응만으로 내시경을 생략하지 않음
 * 40세 미만이고 경고 징후가 없는 소화불량 : _H. pylori_ 검사-치료 전략 또는 제한된 기간의 경험적 치료 가능
@@ -118,6 +119,11 @@
 * 바륨 식도조영 : 협착·고리·게실·열공 탈장 등 해부학적 이상, 이완불능증의 식도 배출 지연(timed barium esophagram)
 
 **언제 시행하는가**
+
+* 흉통에서는 먼저 심장 원인을 평가. 충분한 심장 평가를 마친 뒤 가슴쓰림 없이 흉통이 지속되고 GERD가 의심되면 내시경·보행 역류검사 등 객관적 검사를 고려
+* 내시경 등으로 구조적 원인을 배제한 뒤에도 증상이 지속되고 식도 운동장애가 의심되면 고해상도 식도내압검사(HRM)를 고려
+* Zenker 게실이 의심되면 투시하 바륨 식도조영(바륨 삼킴검사)을 우선 고려
+
 
 * 역류 모니터링
   * 내시경에 GERD 근거가 없으면서 PPI 반응이 불충분하거나 장기 치료가 필요할 때
@@ -242,7 +248,7 @@
 
 ***
 
-## <mark style="color:green;">분변잠혈검사 (정량 면역화학검사 FIT)</mark>
+## <mark style="color:green;">분변잠혈검사 (정량 면역화학검사 FIT)</mark> <a href="#fit-testing" id="fit-testing"></a>
 
 **무엇을 보는가**
 
@@ -254,8 +260,13 @@
 
 * 무증상 대장암 검진 : 국가암검진은 50세 이상에서 1년마다 분변잠혈검사, 양성이면 대장내시경 <mark style="color:$info;">\[국가암검진 2026]</mark>
   * 제5차 암관리종합계획(2026\~2030)은 2028년을 목표로 45\~74세의 10년 간격 대장내시경을 1차 검진으로 도입하는 방안을 추진
-* 증상 환자의 우선순위 판단 : 영국 NICE는 대장암 가능성이 있는 증상 환자에서 f-Hb ≥10 ㎍/g이면 신속 의뢰 경로로 보냄 - 국내 진료 기준과는 구분
-* 혈변·철결핍빈혈·체중 감소 등 경고 징후가 있으면 FIT 결과와 관계없이 대장내시경 - FIT으로 진단 평가를 대신하지 않음
+* 증상 환자 : 정량 FIT은 진단적 의뢰의 우선순위를 정하는 보조 검사. 영국 NICE NG12·DG56의 대상은 다음과 같음
+  * 연령 조건 없이 성인의 복부 종괴·배변 습관 변화·철결핍빈혈
+  * ≥40세에서 원인 불명 체중 감소와 복통이 함께 있는 경우
+  * ＜50세에서 직장출혈에 원인 불명 복통 또는 체중 감소가 동반된 경우
+  * ≥50세에서 원인 불명 직장출혈·복통·체중 감소 중 하나가 있는 경우
+  * ≥60세에서 철결핍 여부와 관계없이 빈혈이 있는 경우
+* 직장 종괴, 원인 불명 항문 종괴 또는 항문 궤양은 FIT을 기다리지 않고 의뢰 평가. 복부 종괴 등 암 의심이 강하면 기준 미만·검체 미제출에도 진단적 평가·의뢰를 지연하지 않음
 
 **검사 방법**
 
@@ -265,7 +276,8 @@
 
 **해석·절단값**
 
-* 양성 기준은 검사 키트·기관(국가검진 판정 기준)에 따름
+* 증상 환자의 NICE 신속 의뢰 절단값 : ≥10 ㎍ Hb/g 대변. 그 미만이거나 검체를 내지 않으면 추적 책임과 재평가 시점을 정하고, 지속·악화 시 재평가
+* 국가암검진 FIT 절단값은 키트와 검사기관 기준을 따름. 예를 들어 국내 검진 연구의 OC-Sensor DIANA는 ≥100 ng Hb/㎖ 완충액(해당 장비에서 20 ㎍ Hb/g 대변)을 사용. 이 수치·단위를 NICE 의뢰 기준이나 다른 장비에 그대로 적용하지 않음
 * 국가검진 양성이면 대장내시경. 증상 환자의 양성은 해당 진료 경로에 따라 의뢰하며, 치핵 등 다른 출혈원만으로 평가를 미루지 않음
 * 음성이어도 경고 징후가 있으면 평가를 생략하지 않음
 
@@ -381,7 +393,7 @@
 
 **검사 방법**
 
-<table><thead><tr><th width="190">검사</th><th width="260">대상</th><th>방법·주의</th></tr></thead><tbody><tr><td><strong>anti-tTG IgA + total IgA</strong></td><td>셀리악병 (국내 드묾) - 흡수장애·철결핍빈혈 동반, IBS-D·기능성 설사로 진단하려는 경우</td><td>글루텐 섭취를 유지한 상태에서 검사; IgA 결핍이면 IgG-DGP 또는 IgG-tTG. 성인은 원칙적으로 십이지장 생검으로 확진</td></tr><tr><td><strong>대변 전해질 (Na·K)</strong></td><td>원인 불명 다량 수양성 설사</td><td>대변 삼투압 간격 = 290 − 2 × (Na + K)</td></tr><tr><td><strong>fecal elastase-1</strong></td><td>지방변·체중 감소·영양 결핍 또는 췌장 외분비 기능부전(EPI) 위험</td><td>반고형변 이상에서 검사 (수양변은 희석으로 거짓 저하)</td></tr><tr><td><strong>SeHCAT·혈청 C4</strong></td><td>담즙산 설사 (회장 절제·담낭 절제 후, 기능성 설사·IBS-D)</td><td>전문기관 의뢰; 검사가 어려우면 소화기내과에서 담즙산 결합제 치료 시험</td></tr><tr><td><strong>수소·메탄 호기검사</strong></td><td>유당·과당 흡수장애; 해부학적 이상·수술력·운동장애가 있는 SIBO 의심</td><td>정확도가 제한적이어서 단독으로 진단하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="190">검사</th><th width="260">대상</th><th>방법·주의</th></tr></thead><tbody><tr><td><strong>anti-tTG IgA + total IgA</strong></td><td>셀리악병 의심 - 흡수장애·철결핍빈혈, IBS-D·기능성 설사 감별, 설명되지 않는 지속적 피로·ME/CFS 의심</td><td>글루텐 섭취를 유지한 상태에서 검사; IgA 결핍이면 IgG-DGP 또는 IgG-tTG. 성인은 원칙적으로 십이지장 생검으로 확진</td></tr><tr><td><strong>대변 전해질 (Na·K)</strong></td><td>원인 불명 다량 수양성 설사</td><td>대변 삼투압 간격 = 290 − 2 × (Na + K)</td></tr><tr><td><strong>fecal elastase-1</strong></td><td>지방변·체중 감소·영양 결핍 또는 췌장 외분비 기능부전(EPI) 위험</td><td>반고형 또는 고형변에서 검사 (수양변은 희석으로 거짓 저하)</td></tr><tr><td><strong>SeHCAT·혈청 C4</strong></td><td>담즙산 설사 (회장 절제·담낭 절제 후, 기능성 설사·IBS-D)</td><td>전문기관 의뢰; 검사가 어려우면 소화기내과에서 담즙산 결합제 치료 시험</td></tr><tr><td><strong>수소·메탄 호기검사</strong></td><td>유당·과당 흡수장애; 해부학적 이상·수술력·운동장애가 있는 SIBO 의심</td><td>정확도가 제한적이어서 단독으로 진단하지 않음</td></tr></tbody></table>
 
 **해석·절단값**
 
@@ -460,7 +472,7 @@
 * 성인에서는 AIR 또는 AAS(Adult Appendicitis Score)가 Alvarado보다 위험층화에 적합
 * 영상 선택
 
-<table><thead><tr><th width="160">대상</th><th>우선 영상</th></tr></thead><tbody><tr><td><strong>비임신 성인</strong></td><td>복부·골반 CT (일반적으로 조영증강; 저선량 프로토콜 가능) - 민감도·특이도 약 95%</td></tr><tr><td><strong>소아</strong></td><td>초음파 → 비진단적이고 의심이 지속되면 MRI 또는 CT</td></tr><tr><td><strong>임신부</strong></td><td>초음파 → 비진단적이면 MRI (접근성이 좋으면 처음부터 MRI)</td></tr></tbody></table>
+<table><thead><tr><th width="160">대상</th><th>우선 영상</th></tr></thead><tbody><tr><td><strong>비임신 성인</strong></td><td>복부·골반 CT (일반적으로 조영증강; 저선량 프로토콜 가능) - 민감도·특이도 약 95%</td></tr><tr><td><strong>소아</strong></td><td>초음파 → 비진단적이고 의심이 지속되면 MRI 또는 CT</td></tr><tr><td><strong>임신부</strong></td><td>초음파 → 비진단적이면 비조영 MRI (접근성이 좋으면 처음부터 비조영 MRI를 선택할 수 있음)</td></tr></tbody></table>
 
 * 초음파 핵심 소견 : 압박되지 않는 직경 ＞6 ㎜ 충수, 벽 비후, 주위 지방 고에코·액체, 충혈, 충수결석(appendicolith)
 
@@ -496,7 +508,8 @@
   1. 급성 췌장염에 합당한 복통
   2. 혈청 lipase 또는 amylase ≥정상 상한의 3배
   3. 영상(CT·MRI·초음파)의 특징적 소견
-* 위 1·2를 충족하면 진단을 위해 CT를 할 필요는 없음 - 원인(담석) 확인을 위해 복부 초음파
+* 위 1·2를 충족하면 진단 확인 목적의 CT는 대개 필요하지 않으며, 담석성 원인은 복부 초음파로 평가
+* 진단이 불명확하거나 입원 후 48~72시간 동안 임상적으로 호전되지 않으면 CT 등 영상으로 원인·합병증을 평가 <mark style="color:$info;">[ACG 2024]</mark>
 * 수치의 크기는 중증도·예후와 관련이 없고, 반복 측정으로 경과를 판단하지 않음
 * 원인 평가 : 간기능(ALT ＞150 U/L은 담석성 시사), TG(≥1,000 ㎎/㎗), Ca
 
@@ -726,9 +739,72 @@
 
 ***
 
+## <mark style="color:green;">진단적 복수천자 (SAAG·복수 총단백·PMN·배양)</mark> <a href="#diagnostic-paracentesis" id="diagnostic-paracentesis"></a>
+
+**언제 시행하는가**
+
+* 새로 확인된 grade ≥2 복수, 복수 악화로 입원, 복수 감염 또는 간경변 관련 합병증(급성 신손상·간성뇌증·정맥류 출혈 등)이 의심될 때 <mark style="color:$info;">[KASL 2026]</mark>
+
+**검사 방법**
+
+* 복수 세포수·분획, albumin, 총단백을 보내고 같은 날 혈청 albumin을 채혈. 감염이 의심되면 항생제 투여 전 병상에서 복수를 호기성·혐기성 혈액배양병에 직접 접종
+
+**해석·절단값**
+
+* SAAG = 혈청 albumin − 복수 albumin. ≥1.1 g/㎗이면 문맥고혈압을 시사
+* SAAG ≥1.1 g/㎗와 복수 총단백 ≥2.5 g/㎗가 함께 나타나면 심장성 복수 등을 고려. 간경변 복수는 총단백이 낮은 경우가 흔함
+* 복수 PMN ≥250/㎣이면 배양 결과를 기다리지 않고 자발성 세균성 복막염(SBP)으로 평가·치료. 복강 내 감염원이 의심되면 이차성 복막염도 평가
+
+***
+
+## <mark style="color:green;">담도·췌장 영상 (초음파·CT·MRCP·EUS·ERCP)</mark> <a href="#biliary-pancreatic-imaging" id="biliary-pancreatic-imaging"></a>
+
+**검사 순서**
+
+* 담석·담낭염·담도 폐쇄가 의심되면 간담도 혈액검사와 복부 초음파가 우선
+* 초음파 후에도 총담관 결석·폐쇄 가능성이 중간 정도이면 MRCP 또는 EUS로 확인. 합병증 또는 다른 원인이 의심되면 조영 CT를 선택
+* 급성 담관염, 영상에서 확인된 총담관 결석, 또는 총 bilirubin ＞4 ㎎/㎗와 총담관 확장이 동반된 고위험 소견에서는 치료 목적의 ERCP를 고려. 담관염·패혈증 의심 시 추가 영상으로 응급 의뢰와 처치를 지연하지 않음 <mark style="color:$info;">[ASGE 2019]</mark>
+* 급성 췌장염은 복부 초음파로 담석성 원인을 평가. 진단 불명확 또는 입원 후 48~72시간 동안 호전이 없을 때 영상으로 합병증·다른 원인을 평가 <mark style="color:$info;">[ACG 2024]</mark>
+* 췌장암 의심(NICE NG12) : ≥40세 황달은 신속 의뢰. ≥60세에서 체중 감소에 설사·등 통증·복통·구역·구토·변비·새로 발생한 당뇨병 중 하나가 동반되면 신속 CT를 고려(영국 기준 2주 이내). CT 접근이 어려우면 신속 초음파를 고려
+
+***
+
+## <mark style="color:green;">급성 복통의 CT와 CT 혈관조영 (복부 CT·CTA)</mark> <a href="#acute-abdominal-ct-cta" id="acute-abdominal-ct-cta"></a>
+
+**검사 순서**
+
+* 비임신 성인의 미분화 급성 복통에서 중증 복강 내 원인이 의심되고 부위별 우선 검사가 정해지지 않으면 정맥조영 복부·골반 CT를 고려
+* 급성 장간막 허혈이 의심되면 lactate 결과를 기다리지 않고 응급 CTA를 시행. 정상 lactate로 초기 허혈을 배제할 수 없음
+* 우측 결장에 국한된 허혈성 결장염이 의심되거나 급성 장간막 허혈을 배제하기 어렵다면 다중시기 CTA로 장간막 혈관과 장벽을 평가
+
+***
+
+## <mark style="color:green;">급성 게실염의 영상과 회복 후 대장내시경</mark> <a href="#diverticulitis-imaging-colonoscopy" id="diverticulitis-imaging-colonoscopy"></a>
+
+**검사 순서**
+
+* 첫 발생이거나 진단이 불명확한 급성 게실염, 중증 소견 또는 합병증이 의심되는 경우에는 보통 정맥조영 복부·골반 CT로 확인. 농양·천공·폐색 여부를 함께 평가
+* 급성 염증이 가라앉은 뒤 복잡성 게실염에서는 대장내시경으로 악성 병변을 감별. 단순 게실염에서는 경고 소견이 있거나 대장암 검진이 최신 상태가 아닐 때 고려 <mark style="color:$info;">[ACG 2026]</mark>
+* 시점은 일반적으로 급성 발병 후 6~8주 또는 증상이 완전히 해소된 뒤 중 더 늦은 때. 최근 고품질 대장내시경 결과와 경고 소견에 따라 조정 <mark style="color:$info;">[AGA 2021]</mark>
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG12. Suspected cancer: recognition and referral.](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer)
+* [NICE DG56. Quantitative FIT for symptomatic colorectal cancer referral.](https://www.nice.org.uk/guidance/dg56/chapter/1-Recommendations)
+* [Quality Metrics of a FIT-Based Colorectal Cancer Screening Program in Korea.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5832343/)
+* [KASL. Clinical practice guidelines for liver cirrhosis: ascites and related complications 2026.](https://doi.org/10.3350/cmh.2026.0281)
+* [ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis. 2019.](https://doi.org/10.1016/j.gie.2018.10.001)
+* [ACG Clinical Guideline: Management of Acute Pancreatitis. 2024.](https://doi.org/10.14309/ajg.0000000000002645)
+* [ACG Clinical Guideline: Colonic Diverticulitis. 2026.](https://doi.org/10.14309/ajg.0000000000004047)
+* [AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis. 2021.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7878331/)
+* [WSES. Acute mesenteric ischemia: updated guidelines. 2022.](https://doi.org/10.1186/s13017-022-00443-x)
+* [ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia. 2015.](https://doi.org/10.1038/ajg.2014.395)
+* [ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. 2022.](https://doi.org/10.14309/ajg.0000000000001538)
+* [ESGE Guideline. Endoscopic management of gastrointestinal motility disorders, part 2. 2020.](https://doi.org/10.1055/a-1171-3174)
 
 * [Andersson RE, et al. Validation of the Appendicitis Inflammatory Response (AIR) Score. World J Surg 2021.](https://doi.org/10.1007/s00268-021-06042-2)
 * [Laine L, et al. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. Am J Gastroenterol 2021.](https://pubmed.ncbi.nlm.nih.gov/33929377/)

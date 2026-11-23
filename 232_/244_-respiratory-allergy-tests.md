@@ -1,7 +1,7 @@
 # 호흡기·알레르기 검사 Respiratory & Allergy Tests
 
 {% hint style="info" %}
-작성 예정 : ABGA·VBG, 객담 그람염색·배양, 폐용적·DLCO, FVC·NIF/MIP(신경근육 질환), COAT
+작성 예정 : ABGA·VBG, 객담 그람염색·배양, 폐용적·DLCO, FVC·NIF/MIP(신경근육 질환), COAT, 객혈의 흉부 CT·CTA 및 기관지내시경
 {% endhint %}
 
 ## <mark style="color:green;">폐활량측정 Spirometry</mark>
@@ -11,7 +11,7 @@
 * 최대로 들이마신 뒤 최대한 빠르고 세게 내쉰 공기의 양과 속도
   * FVC(강제폐활량), FEV₁(1초 강제날숨량), FEV₁/FVC
 * 폐쇄성 기류 제한(FEV₁/FVC 감소)과 그 가역성·지속성을 객관적으로 확인하는 기본 검사
-* FVC가 감소하고 FEV₁/FVC가 정상이면 제한성 장애를 의심할 수 있으나, 확진은 폐용적 검사(TLC)로 함
+* FVC가 감소하고 FEV₁/FVC가 보존되면 제한성 환기장애를 의심. 폐용적 검사에서 TLC가 정상하한(LLN) 미만일 때 확인 <mark style="color:$info;">\[ERS/ATS 2022]</mark>
 
 **언제 시행하는가**
 
@@ -201,7 +201,7 @@
   * 스테로이드를 쓰지 않은 환자에서 ≥40 ppb이면 양성 - 양성이면 천식 가능성이 높으나 음성이라고 천식을 배제하지 못함 <mark style="color:$info;">\[대한결핵 및 호흡기학회 2020]</mark>
   * 전형적인 증상이 있으나 폐활량측정이나 PEF를 할 수 없거나 결과가 음성이면, 성인·청소년 ＞50 ppb, 소아 ＞35 ppb는 제2형 천식 진단을 지지. 낮은 FeNO로 천식을 배제하지 못함 <mark style="color:$info;">\[GINA 2026]</mark>
   * 기준 미만이어도 천식이 의심되면 적용한 진단 경로에 따라 폐활량측정·기관지확장제 반응 등으로 평가
-* 만성 기침 : ＞25 ppb이면 ICS 반응 가능성을 시사하여 4주간 ICS 시험 치료를 고려 <mark style="color:$info;">\[BTS 2023]</mark>
+* 성인 만성기침 : ＞25 ppb이면 호산구성 기도 염증·ICS 반응 가능성을 시사하여 4주간 ICS 시험 치료를 고려. 혈중 호산구 절대수 ≥0.3×10⁹/L도 임상 소견과 함께 보조 지표로 활용 <mark style="color:$info;">\[BTS 2023]</mark>
 * 조절되지 않는 중증 천식에서 고용량 ICS 또는 경구 스테로이드 치료 중에도 FeNO ≥20 ppb이면 지속되는 제2형 염증을 시사 <mark style="color:$info;">\[GINA 2026]</mark>
 * 추적 시 의미 있는 변화 <mark style="color:$info;">\[ATS 2011]</mark>
   * 기저치 ＞50 ppb이면 20% 이상 변화
@@ -430,6 +430,7 @@
 
 * 뚜렷한 원인 없이 2주 이상 기침·가래가 지속될 때
 * 흉부 영상에서 결핵이 의심될 때 (과거 사진과 비교)
+* 객혈·결핵 접촉력·면역억제 등으로 활동성 폐결핵 의심이 높으면 기침 기간이 짧거나 흉부 X선이 정상이어도 객담 검사 고려
 * 결핵을 놓치기 쉬운 상황 : 같은 부위 반복 폐렴, 퀴놀론 사용 후 일시 호전, 고령자의 무열성 결핵, 당뇨병의 비전형 영상, 면역억제 중 악화
 * 퀴놀론계 항생제 사용 전 결핵 가능성이 있으면 먼저 객담 검사
 * NAAT는 결핵이 의심되는 환자에서 시행 - 의심되지 않으면 위양성을 고려해 시행하지 않음
@@ -681,6 +682,7 @@
 * Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax 2023;78(Suppl 6):s3-s19.
 * Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention. 2026.
 * 한국보건의료연구원. 의료기술재평가보고서 - 호기산화질소 측정(NECA-R-24-001-30). 2025.
+* [Stanojevic S, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J. 2022;60:2101499.](https://doi.org/10.1183/13993003.01499-2021)
 * Graham BL, et al. Standardization of Spirometry 2019 Update. An Official American Thoracic Society and European Respiratory Society Technical Statement. Am J Respir Crit Care Med 2019;200(8):e70-e88.
 * Global Initiative for Chronic Obstructive Lung Disease. Global Strategy for the Diagnosis, Management, and Prevention of COPD. 2026.
 * US Preventive Services Task Force. Screening for Chronic Obstructive Pulmonary Disease. JAMA 2022;327(18):1806-1811.

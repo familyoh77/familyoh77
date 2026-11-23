@@ -1,7 +1,7 @@
 # 심혈관 검사 Cardiovascular Tests
 
 {% hint style="info" %}
-작성 예정 : D-dimer, Wells score(PE·DVT), PERC·YEARS, sPESI, HEART score, Marburg Heart Score·INTERCHEST, ADD-RS
+작성 예정 : 운동부하 심전도(운동 유발 부정맥·증상 재현)
 {% endhint %}
 
 ## <mark style="color:green;">진료실 혈압 측정</mark>
@@ -104,7 +104,7 @@
 
 ***
 
-## <mark style="color:green;">능동 기립 검사 Active Stand Test (기립성 저혈압·POTS)</mark>
+## <mark style="color:green;">능동 기립 검사 Active Stand Test (기립성 저혈압·POTS)</mark> <a href="#active-stand-test" id="active-stand-test"></a>
 
 **무엇을 보는가**
 
@@ -120,7 +120,7 @@
 **검사 방법**
 
 1. 누운 자세에서 5분 이상(POTS 평가는 5\~10분) 안정 후 혈압·맥박 측정
-2. 일어서서 1분, 3분에 혈압·맥박과 증상을 기록 (POTS 의심 시 10분까지)
+2. 기립성 저혈압 평가는 기립 1·3분에, POTS 의심 시에는 기립 1·3·5·8·10분에 혈압·맥박과 증상을 기록
 3. 같은 팔·적절한 커프를 쓰고 기립 시에도 팔을 심장 높이로 지지; 낙상 위험이 있으면 곁에서 보조
 
 * 3분에 정상이나 증상이 계속되면 5\~10분 이상 연장하여 지연형 OH 평가
@@ -252,7 +252,7 @@
 
 ***
 
-## <mark style="color:green;">고감도 심장 트로포닌 hs-cTn</mark>
+## <mark style="color:green;">고감도 심장 트로포닌 hs-cTn</mark> <a href="#high-sensitivity-troponin" id="high-sensitivity-troponin"></a>
 
 **무엇을 보는가**
 
@@ -278,14 +278,18 @@
 * 만성 심근손상 : 높지만 변화 없이 안정 (CKD, 심부전, 구조적 심질환)
 * 급성 심근경색 = 급성 심근손상 + 허혈 근거(허혈 증상, 새로운 허혈성 ECG 변화, 영상의 허혈 양상에 합당한 새로운 국소벽운동 이상, 관상동맥 혈전 등)
   * 2026 제5차 보편적 정의는 일차성·이차성·시술 관련 MI로 분류 (☞ 흉통)
-* 단일 채혈로 심근경색 배제 : 응급실의 검증된 진료 경로에서 허혈성 변화가 없는 ECG, 증상 시작부터 첫 채혈까지 3시간 이상, 첫 hs-cTn이 검사법별로 검증된 매우 낮은 절단값 미만인 조건을 모두 충족할 때 고려 <mark style="color:$info;">\[J Am Coll Cardiol 2022]</mark>
+* 응급실의 단일 채혈 배제 경로 : 시간 기준과 절단값을 해당 경로에 맞춰 적용
+  * 2021 AHA/ACC 흉통 지침 : 급성 흉통 환자에서 ECG가 정상이고, ACS를 시사하는 증상이 응급실 도착 최소 3시간 전에 시작했으며, 첫 hs-cTn이 검사법의 검출한계(LoD) 미만이면 단일 측정으로 심근손상 배제를 고려 <mark style="color:$info;">\[AHA/ACC 2021]</mark>
+  * 2022 ACC 응급실 진료 경로의 0시간 심근경색 배제 : 허혈성 변화가 없는 ECG, 증상 시작부터 첫 채혈까지 3시간 이상, 첫 hs-cTn이 검사법별로 검증된 매우 낮은 절단값 미만인 조건을 함께 적용 <mark style="color:$info;">\[J Am Coll Cardiol 2022]</mark>
   * 임상적 의심이 높거나 증상이 진행하면 반복 심전도·hs-cTn 및 추가 평가. 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제하지 않음
 * 그 밖에는 검증된 0/1시간 또는 0/2시간 프로토콜로 재측정하고 절대 변화량을 함께 판단 <mark style="color:$info;">\[ESC]</mark> - hs-cTn 재측정 간격 1\~2시간 <mark style="color:$info;">\[ACC/AHA 2025]</mark>
+  * 초회 결과로 배제·rule-in이 결정되지 않으면 조기 재측정. 99백분위수 URL은 심근손상 판단에 사용하며, 신속 경로의 기저값·절대 변화량 절단값은 해당 검사법으로 검증된 값을 적용
+  * 재측정 뒤에도 배제·rule-in에 해당하지 않는 관찰군(observe zone)은 기관 경로에 따라 추가 채혈(예: ESC 3시간, ACC 3~6시간)과 심초음파 등 추가 평가
 
 **위양성·위음성**
 
 * ACS 없이 높은 경우(심근경색이 아닌 심근손상) : CKD, 심부전, 심근염, 폐색전증, 패혈증, 빈맥성 부정맥, 대동맥 박리, 뇌졸중, 격한 운동, 심독성 항암치료
-* 위음성 : 증상 시작 후 3시간 미만 또는 발병 시점이 불명확한 상태에서의 단일 측정. 해당 응급실 경로에 따라 반복 평가
+* 위음성 : 증상 시작 시점이 불명확하거나 해당 경로의 3시간 조건(응급실 도착 전 또는 첫 채혈 전)을 충족하지 않으면 단일 측정으로 배제하기 어려움. 해당 응급실 경로에 따라 반복 평가
 * 단일 URL을 쓰면 여성에서 심근손상·MI가 과소 진단될 수 있음
 * assay마다 절단값이 달라 다른 검사기관·검사법의 값을 직접 비교하지 않음
 
@@ -378,7 +382,8 @@
 * 기기 종류
   * Holter : 유선 전극으로 24\~48시간 연속 기록
   * 패치형 장기 심전도 : 가슴에 붙이는 무선 패치로 수일\~14일 연속 기록
-  * 이벤트·외부 루프 기록기, 환자 작동형 휴대 ECG : 증상이 있을 때 기록
+  * 이벤트·외부 루프 기록기 : 기기에 따라 환자가 작동하거나 부정맥을 자동 감지해 저장
+  * 환자 작동형 휴대 ECG : 증상 중 환자가 직접 심전도를 기록
   * 이식형 루프 기록기(ILR) : 피하 삽입, 수년 기록
   * 스마트워치 ECG : 환자가 증상 시 직접 기록하는 단일 유도 ECG
 
@@ -393,14 +398,14 @@
 
 * 증상 빈도에 맞춰 기기를 선택
 
-<table><thead><tr><th width="190">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter</td></tr><tr><td><strong>수일~수주</strong></td><td>패치형 장기 심전도 (수일~14일)</td></tr><tr><td><strong>수주~수개월</strong></td><td>이벤트·외부 루프 기록기 또는 환자 작동형 휴대 ECG (의식이 유지되고 증상이 기록할 만큼 지속될 때)</td></tr><tr><td><strong>수개월에 1회 이하, 실신·고위험 부정맥 의심</strong></td><td>이식형 루프 기록기 - 상급병원 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="190">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td><strong>매일</strong></td><td>24~48시간 Holter</td></tr><tr><td><strong>수일~수주</strong></td><td>패치형 장기 심전도 (수일~14일)</td></tr><tr><td><strong>수주~수개월</strong></td><td>이벤트·외부 루프 기록기 또는 휴대 ECG. 환자 작동형 기기는 의식이 유지되고 증상이 기록할 만큼 지속될 때 적합</td></tr><tr><td><strong>수개월에 1회 이하, 실신·고위험 부정맥 의심</strong></td><td>이식형 루프 기록기 - 상급병원 의뢰</td></tr></tbody></table>
 
 * 착용 중 증상이 있으면 버튼을 누르고, 증상 일지에 시각·활동(운동·식사·음주)·감정 상태를 함께 기록
 
 **해석·절단값**
 
 * 증상 발생 시점에 기록된 리듬으로 판단 - 증상 중 정상 동율동이면 부정맥에 의한 증상일 가능성이 낮음
-* AF 진단 : 12유도 ECG 전체 또는 의료진이 판독한 단일 유도 기록에서 30초 이상 AF 확인 <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
+* AF 진단 : 임상의가 표준 12유도 ECG 기록 전체에서 AF를 확인하거나, 판독 가능한 단일 유도 ECG에서 AF가 30초 이상 지속됨을 확인 <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
   * 스마트워치의 불규칙 맥박 알림·자동 판정만으로 AF를 진단하지 않음 - 임상의가 파형을 직접 확인
   * ESC 2024는 보행 ECG의 최소 진단 지속시간을 임상 맥락에 따라 해석함. 단일 유도 30초는 항응고 시작 기준으로 사용하지 않음
   * 삽입형 기기의 AHRE는 저장된 전기도로 확인하고, 지속시간·뇌졸중 위험·출혈 위험을 종합하여 판단
@@ -414,7 +419,11 @@
 
 **급여**
 
-* 48시간을 넘는 홀터기록(48시간 초과 7일 이내, 7일 초과 14일 이내)은 부정맥 증상이 있거나 심전도에 부정맥이 기록되어 장시간 모니터링이 필요한 경우, 반복 실신의 원인을 찾는 경우에 급여 <mark style="color:$info;">\[고시 제2022-26호]</mark>; 본인부담률 80%의 선별급여
+* 48시간 초과 홀터기록(48시간 초과 7일 이내 또는 7일 초과 14일 이내)은 해당 적응증에서 본인부담률 80%의 선별급여 <mark style="color:$info;">\[고시 제2026-166호]</mark>
+  * 부정맥 증상이나 ECG상 부정맥으로 장기 기록이 필요한 경우, 반복 실신의 원인 평가, 부정맥 시술·약물 치료 후 재발 평가, 뇌졸중 후 AF 진단, 선천성 심장질환 수술 후 부정맥 의심 증상
+  * 선천성 심장질환은 해당 산정특례 상병 기준을 확인. 의사 처방과 요양기관 내 의사 판독, 전 검사 기간의 연속 기록 및 판독소견서 작성·보관이 필요
+* 이식형 사건 기록기 삽입술(나725-3가)은 다른 검사로 원인이 밝혀지지 않은 재발성 실신·두근거림에 급여. 구조적 심장질환이 있으면 1회 실신도 인정 <mark style="color:$info;">\[고시 제2026-234호]</mark>
+  * AF가 의심되는 원인 불명 뇌졸중은 비열공성 경색, 비침습적 ECG 검사에서 AF 미확인, 의미 있는 원인 혈관 협착·폐색 없음, 전문의 평가에서 기타 색전 원인 없음의 조건을 충족할 때 인정
 
 ***
 
@@ -545,7 +554,7 @@
 
 * CACS (Agatston) : 0점은 단기 위험이 매우 낮음, 1\~99점 경도, 100\~399점 중등도, ≥400점 중증 석회화(고위험)
   * 고혈압에서 CACS ＞400은 무증상 장기손상에 해당 <mark style="color:$info;">\[대한고혈압학회]</mark>
-* CCTA에서 40\~90%의 중간 협착은 기능적 영상검사 또는 FFR-CT로 의미를 평가
+* CCTA에서 주요 관상동맥의 근위부·중간부 40~90% 협착은 FFR-CT로 병변 특이 허혈을 평가할 수 있으며, 환자와 검사 여건에 따라 기능적 영상검사를 선택
 * 이전 검사가 정상이고 증상이 변하지 않았다면 재검을 피할 수 있음 - 정상 CCTA·정상 관상동맥조영술 2년, 적절한 정상 부하 검사 1년 (☞ 흉통)
 
 **위양성·위음성**
@@ -785,7 +794,7 @@
   * ABI ＜0.8이면 압박을 시작하지 않고 혈관 전문 평가를 의뢰 (전문가 판단하에 압력을 낮춘 압박을 적용하기도 함)
   * 활동성 정맥성 하지 궤양에서 ABI ＜0.6, 발목 수축기압 ＜60 ㎜Hg 또는 발가락 수축기압 ＜30 ㎜Hg이면 지속적 압박을 권고하지 않음 <mark style="color:$info;">[ESVS 2022]</mark>
   * ABI ＞1.3이면 석회화로 실제보다 높게 측정되었을 수 있어 압박 전 혈관 전문 평가를 의뢰
-  * 압박 치료 문헌의 상한(1.3)은 PAD 진단 지침의 비압박성 기준(1.40)과 다름
+  * ABI ＞1.40은 ACC/AHA의 비압박성 분류 기준. 압박 전에는 ABI ＞1.3에서도 TBI·파형검사 등으로 혈류를 확인
 
 **위양성·위음성**
 
@@ -882,11 +891,87 @@
 
 ***
 
+## <mark style="color:green;">폐색전증 검사 경로 (Wells·PERC·D-dimer·YEARS·sPESI)</mark> <a href="#pe-diagnostic-pathways" id="pe-diagnostic-pathways"></a>
+
+**검사 순서**
+
+* 혈역학적 불안정·저산소혈증 또는 높은 임상 가능성에서는 응급 병원 평가. 안정적이고 PE를 의심할 때는 사전확률부터 평가
+* PE Wells 2단계 : DVT 임상 징후 3점, PE가 다른 진단보다 가능성이 높음 3점, 맥박 ＞100회/분 1.5점, 3일 이상 부동 또는 최근 4주 수술 1.5점, DVT·PE 병력 1.5점, 객혈 1점, 활동성 암 1점
+  * ＞4점(PE likely) : 보통 CTPA 우선. 조영제 금기·중증 신장애 등에서는 적합한 경우 V/Q 검사
+  * ≤4점(PE unlikely) : 검증된 D-dimer 경로를 적용. 양성이면 영상검사
+* PERC : 임상 판단상 매우 낮은 위험(예: ＜15%)의 안정 환자에서만 적용. 나이 ＜50세, 맥박 ＜100회/분, 실내 공기 SpO₂ ≥95%, 편측 하지 부종·객혈·최근 4주 수술/입원 필요 외상·DVT/PE 병력·외인성 에스트로겐이 모두 없으면 추가 검사를 생략할 수 있음
+
+**해석·절단값**
+
+* 표준 D-dimer : ＜500 ng/㎖ FEU. 연령 보정 경로에서 50세 초과이면 ＜나이 × 10 ng/㎖ FEU를 사용 가능
+* YEARS : DVT 임상 징후·객혈·PE가 가장 가능성 높은 진단 중 0개이면 ＜1,000, ≥1개이면 ＜500 ng/㎖ FEU에서 배제. 연령과 관계없이 YEARS 기준을 적용하고 연령 보정 기준과 혼용하지 않음
+* 위 수치는 FEU 기준. DDU 또는 다른 단위로 보고하면 검사실의 방법·단위·검증된 절단값을 확인. D-dimer 상승만으로 진단할 수 없으며, 높은 사전확률에서 배제 검사로 사용하지 않음
+* sPESI는 PE 확진 후 예후 평가. 나이 ＞80세, 암, 만성 심폐질환, 맥박 ≥110회/분, SBP ＜100 ㎜Hg, SpO₂ ＜90% 각각 1점. 0점이면 임상 상태·출혈 위험·Hestia·추적 여건과 함께 외래 치료 가능성을 검토
+
+***
+
+## <mark style="color:green;">하지 정맥 평가 (DVT Wells·정맥 duplex·근위부 폐쇄)</mark> <a href="#venous-duplex-dvt" id="venous-duplex-dvt"></a>
+
+**검사 순서**
+
+* 급성 편측 부종·통증에서 DVT Wells 2단계 ≥2점이면 근위부 압박초음파를 우선. 초음파 음성·D-dimer 양성인 경우에는 이 경로에서 6~8일 뒤 근위부 초음파를 반복
+* DVT Wells ≤1점이면 D-dimer를 우선. 양성이면 초음파. 신속한 검사가 여의치 않으면 해당 기관의 의뢰·검사 지연 시 처치 경로를 따름 <mark style="color:$info;">[NICE NG158]</mark>
+* DVT Wells 배점 : 치료 중·최근 6개월 내 치료·완화치료 중인 암, 하지 마비·불완전마비 또는 최근 석고 고정, 3일 이상 침상 안정 또는 최근 12주 이내 전신·부위 마취가 필요했던 대수술, 심부정맥 주행을 따른 국소 압통, 하지 전체 부종, 반대쪽보다 종아리 둘레 ≥3 ㎝(경골조면 아래 10 ㎝에서 측정), 증상 다리에 국한된 함요 부종, 비정맥류성 표재 측부정맥, 과거 DVT는 각각 1점. 다른 진단이 DVT만큼 또는 그보다 가능성이 높으면 −2점
+* 만성 편측 부종에서 장골정맥·하대정맥 등 근위부 폐쇄가 의심되면 가능한 기관에서 복부·골반 정맥 duplex를 추가. 영상이 불충분하거나 중재 계획에 필요하면 CT/MR venography. 골반 종괴가 의심되면 별도로 원인에 맞는 영상을 선택 <mark style="color:$info;">[ESVS 2022]</mark>
+
+***
+
+## <mark style="color:green;">흉통 위험 평가 (HEART·Marburg Heart Score·INTERCHEST)</mark> <a href="#chest-pain-scores" id="chest-pain-scores"></a>
+
+**언제 시행하는가**
+
+* HEART : 응급실에서 ACS 의심 환자의 병력·ECG·연령·위험인자·troponin을 각각 0~2점으로 평가
+  * 0~3점은 저위험 참고값. 기관의 검증된 임상 경로에서 비허혈성 ECG와 필요한 반복 troponin 등을 함께 확인하여 처분을 결정
+  * 원점수의 troponin 배점 : 검사법 정상 상한(ULN) 이하 0점, ULN 초과~3배 이하 1점, ＞3배 2점. 기관별 hs-cTn 기반 경로의 기준을 적용
+  * 새 허혈성 ECG 변화나 임상 고위험 소견이 있으면 점수로 응급 ACS 평가를 늦추지 않음
+* Marburg Heart Score·INTERCHEST : 1차 진료 흉통 환자의 관상동맥질환 가능성을 추정하는 도구
+  * Marburg Heart Score ≤2점은 낮은 가능성, ≥3점이면 추가 평가를 고려
+    * 각 1점 : 남성 ≥55세 또는 여성 ≥65세, 혈관질환 병력, 압박으로 통증이 재현되지 않음, 운동 시 악화, 환자가 심장 원인이라고 생각함
+  * INTERCHEST ＜2점은 낮은 가능성, ≥2점이면 추가 평가를 고려
+    * 각 +1점 : 남성 ≥55세 또는 여성 ≥65세, 관상동맥질환 병력, 운동 관련 통증, 압박감, 의료진이 초기에 중대한 질환을 의심. 흉벽 압박으로 통증이 재현되면 −1점
+* ACS 또는 다른 응급 원인이 의심될 때에는 점수 산출로 이송·응급 평가를 지연하지 않음
+
+***
+
+## <mark style="color:green;">급성 대동맥증후군 평가 (ADD-RS·D-dimer·CTA)</mark> <a href="#acute-aortic-syndrome" id="acute-aortic-syndrome"></a>
+
+**검사 순서**
+
+* ADD-RS : 고위험 병력·고위험 통증 특징·고위험 진찰 소견 세 범주에서 하나 이상의 해당 소견이 있는 범주마다 1점(0~3점)
+  * 병력 : Marfan 증후군 등 결합조직질환, 대동맥질환 가족력, 알려진 대동맥판질환 또는 흉부 대동맥류, 최근 대동맥 시술
+  * 통증 : 흉부·등·복부 통증이 갑자기 시작되거나, 강도가 매우 심하거나, 찢어지는 양상
+  * 진찰 : 맥박 결손 또는 양팔 수축기혈압 차이, 통증을 동반한 국소 신경학적 결손 또는 새 대동맥판 역류 잡음, 저혈압·쇼크
+* ADD-RS 0~1점인 안정 환자 중 임상 의심이 낮은 경우에는 검증된 경로에서 D-dimer ＜500 ng/㎖ FEU를 함께 이용할 수 있음. PE의 연령 보정이나 YEARS 기준은 적용하지 않음
+* ADD-RS ≥2점 또는 임상 의심이 높으면 D-dimer 결과를 기다리지 않고 응급 대동맥 CTA. 불안정해 CT 이동이 곤란하면 전문팀이 병상 TEE를 고려
+* 정상 흉부 X선 또는 D-dimer 단독으로 배제하지 않음
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* [대한부정맥학회 2024 심방세동 일반 치료 지침, 표 10.](https://www.k-hrs.org/assets/file/01_2024_Korean_Arrhythmia_Society_General_Guidelines.pdf)
+* [Bösner S, et al. Ruling out coronary artery disease in primary care. CMAJ 2010.](https://doi.org/10.1503/cmaj.100212)
+* [Aerts M, et al. INTERCHEST clinical prediction rule for coronary artery disease in primary care. J Clin Epidemiol 2017.](https://doi.org/10.1016/j.jclinepi.2016.09.011)
+* [Backus BE, et al. A prospective validation of the HEART score. Int J Cardiol 2013.](https://doi.org/10.1016/j.ijcard.2013.01.255)
+* [2022 ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department.](https://doi.org/10.1016/j.jacc.2022.08.750)
+* [2023 ESC Guidelines for the management of acute coronary syndromes.](https://doi.org/10.1093/eurheartj/ehad191)
+
+* [NICE NG158. Venous thromboembolic diseases: diagnosis and management.](https://www.nice.org.uk/guidance/ng158/chapter/recommendations)
+* [2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism.](https://doi.org/10.1161/CIR.0000000000001415)
+* [van der Hulle T, et al. YEARS prospective multicentre cohort study. Lancet 2017.](https://doi.org/10.1016/S0140-6736(17)30885-1)
+* [ESVS 2022 Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs.](https://doi.org/10.1016/j.ejvs.2021.12.024)
+* [2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.](https://doi.org/10.1093/eurheartj/ehae179)
+* [Nazerian P, et al. ADvISED. Circulation 2018.](https://pubmed.ncbi.nlm.nih.gov/29030346/)
+* [Harskamp RE, et al. Chest pain in general practice: a systematic review of prediction rules. BMJ Open 2019.](https://doi.org/10.1136/bmjopen-2018-027081)
+
+* [대한부정맥학회. 부정맥 진료지침 (Ⅰ). 2024. 제1부 심방세동 일반 치료 진료지침.](https://www.k-hrs.org/assets/file/01_2024_Korean_Arrhythmia_Society_General_Guidelines.pdf) - 심전도 확진 기준·표 10
+* [Steinberg JS, et al. 2017 ISHNE-HRS expert consensus statement on ambulatory ECG and external cardiac monitoring/telemetry.](https://doi.org/10.1016/j.hrthm.2017.03.038) - 장기 심전도 기기 선택과 기록 방식
 * [ACC Expert Consensus Decision Pathway on Cardiac Amyloidosis. J Am Coll Cardiol 2023.](https://doi.org/10.1016/j.jacc.2022.11.022)
 * [ASH 2026 Guidelines on Diagnosis of Light Chain Amyloidosis. Blood Adv 2026.](https://doi.org/10.1182/bloodadvances.2025017073)
 * [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guideline for the management of patients with acute coronary syndromes. Circulation 2025.](https://doi.org/10.1161/CIR.0000000000001309)
@@ -925,6 +1010,7 @@
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [건강보험심사평가원. 고시 제2026-234호. 누406 심장표지자 BNP·NT-proBNP 검사 급여기준(2026.11.12. 시행).](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12345&brdScnBltNo=4&pgmid=HIRAA020002000100)
-* 건강보험심사평가원. 고시 제2022-26호 - 48시간 초과 홀터기록 급여기준.
+* [건강보험심사평가원. 고시 제2026-234호. 누406 심장표지자 BNP·NT-proBNP 검사 급여기준(2026.11.12. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20261112&mtgMtrRegSno=0012&sno=1)
+* [건강보험심사평가원. 고시 제2026-166호. 48시간 초과 홀터기록 검사 급여기준(2026.8.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801&mtgMtrRegSno=0001&sno=3)
+* [건강보험심사평가원. 고시 제2026-234호. 나725-3가 이식형 사건 기록기 삽입술 급여기준(2026.11.12. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20261112&mtgMtrRegSno=0011&sno=1)
 * 건강보험심사평가원. 고시 제2022-184호 - Rivaroxaban 등 NOAC의 비판막성 AF 급여기준.

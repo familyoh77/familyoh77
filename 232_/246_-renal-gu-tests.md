@@ -86,7 +86,7 @@
 
 ***
 
-## <mark style="color:green;">단백뇨 정량 (시험지봉 환산·UPCR·24시간 소변 단백)</mark>
+## <mark style="color:green;">단백뇨 정량 (시험지봉 환산·UPCR·24시간 소변 단백)</mark> <a href="#proteinuria-testing" id="proteinuria-testing"></a>
 
 **무엇을 보는가**
 
@@ -111,6 +111,8 @@
 * 정상 총단백 : UPCR 약 ＜150 ㎎/g 또는 24시간 ＜150 ㎎/day
 * 성인 신증후군 범위 단백뇨 : 예를 들어 KDIGO 2021은 24시간 요단백 ＞3.5 g 또는 UPCR ≥3,000 ㎎/g으로 제시. 신증후군 진단에는 저알부민혈증 등 임상 소견을 함께 평가
 * UACR(알부민)과 UPCR(총단백)은 서로 바꾸어 쓰지 않음
+* 임신성 고혈압질환의 유의한 단백뇨(NICE NG133) : UPCR ≥30 ㎎/mmol 또는 UACR ≥8 ㎎/mmol. 단백뇨 결과는 혈압·장기 침범 등 임상 소견과 함께 해석하며, 진단이 불확실하면 새 임의뇨 검체로 재검을 고려
+  * 임신의 단백뇨 절단값과 신증후군 절단값의 목적·단위가 다르므로 보고 단위를 확인
 * 원인 검사 : 사구체 질환 의심 시 ANA·C3/C4, anti-PLA2R(막성신병증), ANCA·anti-GBM(급속진행); HBV·HCV·HIV; 단클론감마글로불린병증 의심 시 혈청 유리경쇄·단백전기영동·면역고정
 
 **위양성·위음성**
@@ -139,6 +141,7 @@
 **검사 방법**
 
 * 안정된 새 eGFR ＜60은 대개 2주 이내 재검하여 급성 저하를 배제하고, 3개월 이상 지속으로 만성성 확인 - AKI 의심이면 당일 평가
+* AKI가 의심되면 기저 Cr과 현재 Cr을 비교하고 당일 요량·전해질·요검사를 평가. eGFR은 신기능이 안정된 상태에서 해석
 * 요로 폐쇄 위험(고령 남성, 전립선비대, 신경인성 방광, 골반 종양)이나 원인 불명 AKI는 방광 스캔·신장 초음파
 
 **해석·절단값**
@@ -312,6 +315,7 @@
 * 다뇨 : 24시간 요량 ＞40 ㎖/㎏
 * 야간다뇨 : 야간 요량/24시간 요량 ＞20%(젊은 성인), ＞33%(65세 초과)
 * PVR : 모든 환자에 적용할 단일 절단값은 없음 - 반복값·배뇨량·증상·추세로 판단
+  * 마미증후군이 의심되면 PVR은 보조 소견으로만 활용. 낮은 PVR로 배제하지 않으며 측정이나 결과를 기다리느라 응급 MRI 의뢰를 지연하지 않음 (☞ [마미증후군 평가](248_-msk-physical-exam.md#cauda-equina))
   * EAU 남성 LUTS : PVR ＞150 ㎖에서는 항무스카린제 단독 또는 α-차단제 병용을 권고하지 않음
   * EAU 여성 LUTS는 초기 PVR 측정을 권고하고 AUA/SUFU OAB는 배출 증상 등을 고려한 선택적 측정을 허용. 위 남성 기준은 약제 선택 기준이며 여성의 배출 장애 판정에는 적용하지 않음
 * 낮은 Qmax는 폐색뿐 아니라 배뇨근 저활동에서도 나타남 - Qmax만으로 폐색을 확정하지 않음 (필요하면 요역동학검사)
@@ -553,9 +557,43 @@
 
 ***
 
+## <mark style="color:green;">급성 골반통 검사 (hCG·경질초음파·도플러)</mark> <a href="#acute-pelvic-pain" id="acute-pelvic-pain"></a>
+
+**검사 순서**
+
+* 임신 가능성이 있으면 소변 또는 혈청 hCG로 임신 여부를 확인. 소변 음성이어도 임신이 의심되면 정량 혈청 β-hCG를 측정
+* hCG 양성이면 경질초음파로 임신 위치를 확인. 단일 hCG 수치나 조기 초음파 음성만으로 자궁외임신을 배제할 수 없음
+* 임신 위치 미상(PUL)이고 안정적이면 정량 β-hCG를 약 48시간 간격으로 측정하고 경질초음파를 반복. 통증·출혈 악화, 실신, 혈역학적 불안정은 추적 검사보다 응급 평가 우선 <mark style="color:$info;">[NICE NG126]</mark>
+* 갑작스런 편측 통증·구역·구토로 난소염전이 의심되면 경질 또는 경복부 초음파와 도플러를 사용. 혈류가 보여도 염전을 배제할 수 없으며 임상적으로 의심되면 신속히 산부인과 응급 평가
+
+***
+
+## <mark style="color:green;">난소암 의심 환자의 검사 (CA125·복부 및 골반 초음파)</mark> <a href="#ovarian-cancer-ca125" id="ovarian-cancer-ca125"></a>
+
+**언제 시행하는가**
+
+* 지속되거나 자주 반복되는 복부 팽만·조기 포만감 또는 식욕저하·골반이나 복부 통증·빈뇨나 요절박이 있을 때. 진찰에서 복수 또는 자궁근종으로 설명되지 않는 골반·복부 종괴가 있으면 검사 결과를 기다리지 않고 신속 의뢰
+* NICE NG12 2026 : 40세 미만에서 지속 증상이 있으면 CA125 단독으로 판단하지 않으며, 신속 복부·골반 초음파를 고려. ≥40세에서 지속 증상이 있으면 CA125 측정
+
+**해석·절단값**
+
+* 다음 기준을 충족하면 신속 복부·골반 초음파를 시행. 무증상 선별의 절단값으로 사용하지 않음
+
+<table><thead><tr><th>연령 (세)</th><th>CA125 (IU/㎖)</th></tr></thead><tbody><tr><td>40~49</td><td>≥35</td></tr><tr><td>50~59</td><td>≥31</td></tr><tr><td>60~69</td><td>≥24</td></tr><tr><td>70~79</td><td>≥25</td></tr><tr><td>≥80</td><td>≥31</td></tr></tbody></table>
+
+* 초음파에서 난소암이 의심되면 부인종양 진료로 신속 의뢰. 기준 미만이거나 초음파가 정상이면 다른 원인을 평가하고 증상이 지속·악화될 때 재평가
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG133. Hypertension in pregnancy: diagnosis and management. 1.2 Assessment of proteinuria.](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
+* [NICE NG126. Ectopic pregnancy and miscarriage: diagnosis and initial management.](https://www.nice.org.uk/guidance/ng126/chapter/recommendations)
+* [ACR Appropriateness Criteria. Acute Pelvic Pain in the Reproductive Age Group.](https://acsearch.acr.org/docs/69503/Narrative/)
+* [ACOG Committee Opinion 783. Adnexal torsion in adolescents.](https://pubmed.ncbi.nlm.nih.gov/31348225/)
+* [NICE NG12. Suspected cancer: recognition and referral. 1.5 Ovarian cancer (2026).](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer)
 
 * [NICE NG148. Acute kidney injury, 1.4.5–1.4.6.](https://www.nice.org.uk/guidance/ng148/chapter/Recommendations)
 * [KDIGO 2017 CKD-MBD Guideline Update.](https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2017-CKD-MBD-Guideline.pdf)

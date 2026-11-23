@@ -133,7 +133,7 @@
 
 ***
 
-## <mark style="color:green;">근감소증 평가 (종아리 둘레·SARC-F·악력·근육량, AWGS 2025)</mark>
+## <mark style="color:green;">근감소증 평가 (종아리 둘레·SARC-F·악력·근육량, AWGS 2025)</mark> <a href="#sarcopenia-assessment" id="sarcopenia-assessment"></a>
 
 **무엇을 보는가**
 
@@ -143,12 +143,14 @@
 
 **언제 시행하는가**
 
-* 65세 이상, 특히 심부전, COPD, 당뇨병, CKD, 반복 낙상, 비의도적 체중 감소, 입원·급성 질환 후 기능 저하
+* 65세 이상과 근감소증이 의심되는 50~64세(AWGS 2025). 특히 비의도적 체중 감소, 반복 낙상, 심부전·COPD·당뇨병·CKD 또는 입원·급성 질환 후 기능 저하가 있을 때
 * 주요 입원·새 질환 후 재평가; 근감소증 위험(at risk)은 연 1회 악력 재평가
 
 **검사 방법**
 
-* 선별 양성 → 악력 → 악력 저하 시 근육량
+* 비의도적 체중 감소 등 근감소증을 시사하는 소견이 있으면 종아리 둘레와 관계없이 악력을 먼저 측정
+* 임상 단서가 뚜렷하지 않으면 종아리 둘레·SARC-F 등으로 위험을 선별하고 양성이면 악력을 측정
+* 악력이 낮으면 가능한 경우 BIA·DXA 등으로 근육량을 평가
 * 악력 : 기계식 또는 유압식 악력계로 양손 각각 2\~3회, 최대값 사용 - 자세·장비 표준화
 * SARC-F : 근력(약 4.5 ㎏ 들어 나르기), 보행, 의자 이동, 계단 오르기, 낙상 각 0\~2점 (총 0\~10) - 타당화된 판본 그대로
 * Finger-ring test : 양손 엄지·검지 고리로 비우세측 종아리 최대 둘레를 감쌈 - 고리가 벌어지면 낮은 위험, 딱 맞으면 위험 증가, 틈이 남으면 더 높은 위험
@@ -175,7 +177,7 @@
 
 ***
 
-## <mark style="color:green;">영양불량 위험 선별과 탈수 평가 (MNA-SF·혈청 삼투질농도)</mark>
+## <mark style="color:green;">영양불량 위험 선별과 탈수 평가 (MNA-SF·혈청 삼투질농도)</mark> <a href="#nutrition-screening" id="nutrition-screening"></a>
 
 **무엇을 보는가**
 
@@ -311,9 +313,27 @@
 
 ***
 
+## <mark style="color:green;">재급식증후군 (급식 전 위험 선별·재개 후 전해질 검사)</mark> <a href="#refeeding-syndrome" id="refeeding-syndrome"></a>
+
+**급식 전 위험 선별 (NICE CG32)**
+
+* 다음 중 하나면 고위험 : BMI ＜16 ㎏/㎡, 최근 3~6개월 비의도적 체중 감소 ＞15%, 10일 넘게 거의 섭취하지 못함, 재급식 전 K·P·Mg 중 하나 이상 낮음
+* 또는 다음 중 둘 이상이면 고위험 : BMI ＜18.5 ㎏/㎡, 최근 3~6개월 비의도적 체중 감소 ＞10%, 5일 넘게 거의 섭취하지 못함, 알코올 남용력 또는 insulin·항암제·제산제·이뇨제 사용력
+* 고위험 환자는 급식 전에 혈청 P·K·Mg와 혈당·신기능 등을 확인하고, 재개 후 집중 추적을 계획. 기저 전해질이 정상이어도 위험할 수 있음
+
+**급식 재개 후 진단 (ASPEN 2020)**
+
+* 급식 재개 또는 열량 공급 시작 후 5일 이내 P·K·Mg 중 하나 이상이 기저치보다 10~20% 감소하면 경증, 20~30% 감소하면 중등증, ＞30% 감소하거나 전해질 감소 또는 thiamine 결핍에 따른 장기 기능 이상이 생기면 중증을 시사
+* 고위험군은 재개 초기에 P·K·Mg를 반복 측정하고 체액 상태, 부정맥, 호흡 증상, 신경 증상을 함께 확인
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE CG32. Nutrition support for adults. Box 1: high risk of refeeding problems.](https://www.nice.org.uk/guidance/cg32/chapter/recommendations)
+* [da Silva JSV, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. Nutr Clin Pract 2020.](https://doi.org/10.1002/ncp.10474)
 
 * [GLIM consensus approach to diagnosis of malnutrition: a 5-year update. Clin Nutr 2025.](https://doi.org/10.1016/j.clnu.2025.03.018)
 * [ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr 2022.](https://congress.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf)

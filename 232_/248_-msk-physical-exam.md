@@ -1,7 +1,7 @@
 # 근골격 검사와 신체 진찰 Musculoskeletal Tests & Physical Examination
 
 {% hint style="info" %}
-작성 예정 : 근육효소(CK·aldolase)와 근염 항체, 혈관염 검사(ANCA), pitting edema 등급, Stemmer sign, Carnett's sign, Murphy's sign, Levine's sign
+작성 예정 : 근육효소(CK·aldolase)와 근염 항체, 혈관염 검사(ANCA), pitting edema 등급, Stemmer sign, Levine's sign
 {% endhint %}
 
 ## <mark style="color:green;">관절액 검사 (세포수·그람염색·배양·결정)</mark>
@@ -515,7 +515,7 @@
 
 ***
 
-## <mark style="color:green;">비타민 D·골대사 표지자 검사 (25(OH)D·P1NP·CTX)</mark>
+## <mark style="color:green;">비타민 D·골대사 표지자 검사 (25(OH)D·P1NP·CTX)</mark> <a href="#vitamin-d-bone-markers" id="vitamin-d-bone-markers"></a>
 
 **무엇을 보는가**
 
@@ -524,6 +524,7 @@
 **언제 시행하는가**
 
 * 골연화증·흡수장애·칼슘 또는 인 대사 이상, 골다공증의 이차성 원인 평가 등 적응증이 있을 때 25(OH)D를 고려. 일반 건강 성인의 일률적 선별은 권하지 않음
+* 만성 통증 자체만으로 25(OH)D를 일률적으로 검사하지 않음. 결핍 위험이나 골질환 등 검사 적응증이 있는지 평가
 * P1NP·CTX는 골다공증 치료 전 기저값과 치료 반응·복약 여부를 평가하는 보조 검사
 
 **검사 방법·해석**
@@ -543,9 +544,33 @@
 
 ***
 
+## <mark style="color:green;">마미증후군 평가 (응급 요추 MRI·잔뇨량)</mark> <a href="#cauda-equina" id="cauda-equina"></a>
+
+**검사 순서**
+
+* 새 배뇨·배변 장애, 안장 부위 감각 변화, 양측 하지 신경 증상·진행하는 근력 저하 등으로 마미증후군이 의심되면 직장수지검사·PVR을 기다리지 않고 응급 요추 MRI가 가능한 기관으로 즉시 의뢰
+* 배뇨 직후 PVR은 보조 소견. 전향 연구(Katzouraki 등, 2020)는 ≥200 ㎖를 사용했고, GIRFT 2026 경로는 ＞200 ㎖가 의심을 높이는 소견으로 제시
+* PVR이 낮거나 항문괄약근 긴장이 정상이어도 배제할 수 없음. 단일 진찰·PVR 수치로 응급 MRI 의뢰 여부를 결정하지 않음
+
+***
+
+## <mark style="color:green;">복통 진찰 (Carnett 징후·Murphy 징후)</mark> <a href="#carnett-murphy" id="carnett-murphy"></a>
+
+**검사 방법·해석**
+
+* Carnett 징후 : 최대 압통 부위를 누른 채 머리와 어깨를 들거나 다리를 들어 복벽을 긴장시킴. 압통이 같거나 심해지면 복벽 기원을 시사하나, 양성이라도 복강 내 질환을 배제할 수 없음
+* 진찰 Murphy 징후 : 우측 늑골연 아래를 누른 채 깊게 들이마실 때 통증으로 흡기를 멈추면 양성. 담낭염이 의심될 때 음성이어도 배제할 수 없음
+* 초음파 Murphy 징후 : 초음파로 확인한 담낭 바로 위에서 탐촉자로 누를 때 국소 압통이 가장 심한 소견. 담석·벽 비후·담낭 주위 액체, 혈액검사와 함께 해석
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [Katzouraki G, et al. Bladder scanning and post-void residual measurement in suspected cauda equina syndrome. Bone Joint J 2020.](https://pubmed.ncbi.nlm.nih.gov/32475252/)
+* [GIRFT. National Suspected Cauda Equina Syndrome Pathway. March 2026.](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)
+* [Acute abdominal pain in adults: evaluation and diagnosis. Am Fam Physician 2023.](https://www.aafp.org/afp/2023/0600/acute-abdominal-pain-adults)
 
 * [Endocrine Society. Vitamin D for the Prevention of Disease, 2024.](https://support.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease)
 * [ESCEO/IOF/IFCC consensus on bone turnover markers, 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064614/)

@@ -1,9 +1,5 @@
 # 감각·수면·구강 검사 Sensory, Sleep & Oral Tests
 
-{% hint style="info" %}
-작성 예정 : 후각기능검사(KVSS II·YOF), 미각검사, 구취 관능검사, VSC 측정기
-{% endhint %}
-
 ## <mark style="color:green;">진료실 안과 기본 검사 (시력·동공·형광 염색·Seidel·눈꺼풀 뒤집기·안압)</mark>
 
 **무엇을 보는가**
@@ -195,11 +191,13 @@
 * 만성 비부비동염(CRS) 의심 : 객관적 염증 증거가 필요할 때 - 증상만으로 진단하지 않음
 * 알레르기비염 등이 비전형적이거나 치료에 반응하지 않을 때, 비용종·종양 의심
 * 일측성 반복 코피, 패킹·소작 후 반복 출혈
+* 편측 혈성·악취성 비루, 지속하는 편측 비폐색 등은 이비인후과 내시경 평가. CT는 의심되는 부비동 병변·합병증과 전문 진찰 소견에 따라 선택
 * 합병증 없는 급성 비부비동염(ARS)에는 CT를 하지 않음
 
 **검사 방법**
 
 * 비강 내시경 : 국소 마취·혈관수축제 분무 후 시행 (이비인후과)
+* 같은 방문에서 후각 기능 검사를 함께 시행하면 비강 국소마취제·혈관수축제 분무 전에 후각을 검사
 * CT : 비조영 부비동 CT; 치성 원인이 의심되면 dental CT/CBCT
 
 **해석·절단값**
@@ -292,7 +290,8 @@
 * 코골이, 목격된 무호흡, 주간 졸림, 비만, 치료 저항성 고혈압·AF·심부전·뇌졸중
 * 불면 환자에서 진단이 불확실하거나 치료 반응이 없고 다른 수면장애가 의심될 때 PSG
 * 하지불안증후군은 대부분 임상 진단 - OSA 동반 의심·비전형 증상일 때만 PSG
-* HSAT : 중등도 이상 OSA 가능성이 높고 동반 질환(중등도 이상 심폐질환, 신경근육 질환, 다른 수면장애)이 없는 성인
+* HSAT : 중등도 이상 OSA 가능성이 높고 검사에 영향을 주는 동반 질환이 없는 성인
+* 처음부터 검사실 PSG : 중요한 심폐질환, 신경근육질환에 따른 호흡근 약화 의심, 각성 시 저환기 또는 수면 관련 저환기 의심, 만성 opioid 사용, 뇌졸중 병력, 심한 불면 <mark style="color:$info;">[J Clin Sleep Med 2017]</mark>
 
 **검사 방법**
 
@@ -352,7 +351,7 @@
 
 ***
 
-## <mark style="color:green;">구강건조 평가와 타액분비량 검사 (Fox 4문항·CODS·sialometry)</mark>
+## <mark style="color:green;">구강건조 평가와 타액분비량 검사 (Fox 4문항·CODS·sialometry)</mark> <a href="#xerostomia-sialometry" id="xerostomia-sialometry"></a>
 
 **무엇을 보는가**
 
@@ -361,6 +360,7 @@
 **언제 시행하는가**
 
 * 입마름, 마른 음식을 삼키기 어려움, 구강작열감, 다발성 치경부 우식, 반복 구강 칸디다증
+* Fox 4문항은 환자가 느끼는 증상, CODS는 구강 진찰 소견, sialometry는 실제 타액 분비량을 평가
 * 안구건조·침샘 종창·관절통 동반 시 쇼그렌병 평가
 
 **검사 방법**
@@ -388,9 +388,66 @@
 
 ***
 
+## <mark style="color:green;">후각 기능 검사 (KVSS II·YOF)</mark> <a href="#olfactory-function-testing" id="olfactory-function-testing"></a>
+
+**언제 시행하는가**
+
+* 지속되는 후각 저하·상실, 주관적 증상과 실제 기능의 차이, 치료 전후 기능 변화 평가. 편측 증상이면 필요에 따라 좌·우를 각각 검사
+* 같은 방문에 비내시경이 있으면 국소마취제·혈관수축제 분무 전에 측정. 부비동 질환이 의심되면 부비동 CT, 설명되지 않는 편측성·진행성 장애 또는 신경학적 단서가 있으면 전문 평가 후 MRI 등을 선택. 전형적인 감염 후 고립성 후각 저하에 영상이 일률적으로 필요하지는 않음
+
+**검사 방법·해석**
+
+* 냄새 역치(T)·변별(D)·동정(I)의 TDI 합계로 기록. KVSS II는 최대 48점, YOF는 최대 36점으로 서로 환산하지 않음
+* 문헌상 적용 기준은 다음과 같음 <mark style="color:$info;">[Clin Exp Otorhinolaryngol 2020]</mark>
+
+<table><thead><tr><th>검사·기준</th><th>후각상실</th><th>저후각</th><th>정상 범위</th></tr></thead><tbody><tr><td>KVSS II 기존 분류</td><td>≤20</td><td>20.25~27</td><td>≥27.25</td></tr><tr><td>KVSS II Ha 등 2020 재분석</td><td>≤20</td><td>20 ＜ TDI ≤25.5</td><td>＞25.5</td></tr><tr><td>YOF Ha 등 2020</td><td>≤14.5</td><td>14.5 ＜ TDI ≤21</td><td>＞21</td></tr></tbody></table>
+
+* 판정에는 검사법·장비와 적용 기준을 명시. 추적은 같은 도구·검사 조건으로 비교
+
+***
+
+## <mark style="color:green;">미각 기능 검사 (taste strips·전기미각검사)</mark> <a href="#gustatory-function-testing" id="gustatory-function-testing"></a>
+
+**언제 시행하는가**
+
+* 단맛·짠맛·신맛·쓴맛 자체가 약해지거나 변했는지 확인. 음식 풍미만 줄었다면 후비강 후각(retronasal olfaction)과 비강 원인도 평가
+* 간이검사에서 이상이 있거나 증상이 지속되어 정량·편측 평가가 필요하면 전문검사 의뢰
+
+**검사 방법·해석**
+
+* Taste strips : 농도가 다른 기본 맛 자극으로 화학적 미각을 평가. 표준화된 키트와 시행법으로 전체 또는 편측 점수를 기록
+* 전기미각검사 : 혀 부위별로 전류 자극을 인지하는 역치를 측정해 편측 이상을 평가. 개별 기본 맛을 구별하는 능력은 taste strips 등 화학적 검사로 평가
+* 절단값은 키트·연령·부위 기준을 따르며, 구강건조·치과 문제·약물과 후각 저하를 함께 평가
+
+***
+
+## <mark style="color:green;">구취 검사 (관능검사·휘발성 황화합물 VSC)</mark> <a href="#halitosis-organoleptic-vsc" id="halitosis-organoleptic-vsc"></a>
+
+**언제 시행하는가**
+
+* 구취 호소 환자는 병력·구강 검진·관능검사로 초기 평가. VSC 측정은 치료 전후 비교 등 필요에 따라 보조로 시행
+
+**검사 방법**
+
+* 검사기관 지침에 따라 준비하고 재평가도 같은 시간대·조건에서 시행. 최근 3주 이내 항생제 사용을 해석·일정에 반영하되 검사 목적으로 필요한 항생제를 중단하지 않음
+  * Zaitsu 등 2011의 준비 예 : 마늘·양파 등 향이 강한 음식은 48시간, 음주·흡연은 12시간 전부터 피함
+  * 2014 국제 컨센서스의 준비 예 : 첫 검사 전 24시간 동안 혀 세척을 피함. 제한 시간은 기관·프로토콜별로 다를 수 있음
+* 관능검사 : 훈련된 검사자가 입과 코의 날숨을 각각 평가해 냄새 강도를 0~5로 기록. 0은 감지되지 않음, 5는 매우 강함. ≥2는 명확히 감지되는 구취의 참고 기준. 의뢰는 냄새 부위·동반 증상·진찰 소견을 함께 판단
+* Halimeter : 주로 황화수소(H₂S)에 민감하고 methyl mercaptan(CH₃SH) 및 dimethyl sulfide(DMS) 측정에 한계
+* OralChroma : 소형 가스 크로마토그래피로 H₂S·CH₃SH·DMS를 분리 측정. 낮은 VSC 수치로 관능검사에서 확인된 구취를 배제하지 않음
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [Ha JG, et al. Development of a Korean Culture-Friendly Olfactory Function Test and Optimization of a Diagnostic Cutoff Value. Clin Exp Otorhinolaryngol 2020.](https://doi.org/10.21053/ceo.2020.00864)
+* [Whitcroft KL, et al. Position paper on olfactory dysfunction: 2023. Rhinology.](https://doi.org/10.4193/Rhin22.483)
+* [Landis BN, et al. Taste Strips: a rapid, lateralized, gustatory bedside identification test. J Neurol 2009.](https://doi.org/10.1007/s00415-009-0088-y)
+* [Seemann R, et al. Halitosis management by the general dental practitioner: results of an international consensus workshop. J Breath Res 2014.](https://doi.org/10.1088/1752-7155/8/1/017101)
+* [Zaitsu T, et al. Social anxiety disorder in genuine halitosis patients. Health Qual Life Outcomes 2011.](https://doi.org/10.1186/1477-7525-9-94)
+* [Vandekerckhove B, et al. Clinical reliability of non-organoleptic oral malodour measurements. J Clin Periodontol 2009.](https://doi.org/10.1111/j.1600-051X.2009.01473.X)
 
 * [Chung F, et al. STOP-Bang Questionnaire: A Practical Approach to Screen for Obstructive Sleep Apnea. Chest 2016.](https://journal.chestnet.org/article/S0012-3692%2815%2900018-5/fulltext)
 * [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an AASM clinical practice guideline. J Clin Sleep Med 2025.](https://doi.org/10.5664/jcsm.11390)

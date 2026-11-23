@@ -1,7 +1,7 @@
 # 공통 기본 검사 Common Laboratory Tests
 
 {% hint style="info" %}
-작성 예정 : CBC·백혈구 감별계산, ESR, 전해질·산염기(음이온 간격·요 전해질), 흉부 X선, 비타민 B12·엽산
+작성 예정 : ESR, 전해질·산염기(음이온 간격·요 전해질), 엽산
 {% endhint %}
 
 ## <mark style="color:green;">빈혈 평가 (CBC 지수·망상적혈구·말초혈액도말·용혈 검사)</mark>
@@ -71,10 +71,10 @@
   * 75 ＜ ferritin ≤100 ng/㎖에서 철분 보충이 필요하다면 정맥 철분을 고려
 * 정맥 철분 투여 전 철 과부하 가능성, ferritin 측정법과 사용하려는 치료 지침의 적용 기준을 확인
 * TSAT ≥45%가 반복되면 철분 투여를 보류하고 간질환·수혈력·가족력 평가, 필요하면 혈색소증 유전자 검사·전문의 의뢰
-* 철결핍빈혈 (성인)
-  * ASH 2026 : 성인(월경군·임신군 포함)에서 ferritin ≤30 ng/㎖를 철결핍 기준으로 사용. 철결핍 위험이 높은 일부 성인과 빈혈이 있는 임신부에서는 ≤50 ng/㎖도 고려함
+* 성인 철결핍
+  * ASH 2026 : 일반 성인·월경 중인 사람·임신부에서 ferritin ≤30 ng/㎖를 적용. 지속적인 철결핍 위험이나 관련 증상이 있는 성인, 과다월경 등 출혈 위험이 있는 월경군, 빈혈이 있는 임신부에서는 ≤50 ng/㎖를 고려
   * ferritin ＜15 ng/㎖는 철 저장량 고갈을 강하게 시사
-  * 염증성 빈혈 성인은 ferritin·TSAT를 함께 측정. Ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">[Blood Adv 2026]</mark>
+  * 염증이 있는 성인은 ferritin·TSAT를 함께 측정. Ferritin ＜100 ng/㎖ 또는 TSAT ＜20%이면 철결핍을 고려 <mark style="color:$info;">[Blood Adv 2026]</mark>
   * 빈혈 성인의 위장관 평가 맥락에서 AGA는 ＜45 ng/㎖를 진단 절단값으로 권고 <mark style="color:$info;">\[Gastroenterology 2020]</mark> - 비빈혈성 철결핍·소아·임신·CKD에 일률 적용하지 않음
   * 철분제 시작 전에 가능하면 ferritin을 채혈
 * 심부전 : TSAT ＜20% 중심의 철결핍 정의를 지지, ferritin도 함께 측정하여 저장철·과부하 평가 <mark style="color:$info;">\[ESC 2026]</mark>
@@ -153,6 +153,7 @@
 **위양성·위음성**
 
 * DOAC 용량은 eGFR이 아니라 CrCl 기준 - 두 값을 바꿔 쓰지 않음 (☞ 신기능 지표)
+* Warfarin 복용자가 acetaminophen ≥2 g/d를 3일 이상 연속 복용할 경우 시작 3~5일 후 INR 확인을 고려 <mark style="color:$info;">[Blood 2011]</mark>
 * 근육량이 적은 고령자는 크레아티닌 기반 신기능이 과대평가될 수 있음
 * 일반 PT/INR·aPTT로 DOAC 효과를 정량하지 않음; UFH에는 INR을 쓰지 않음
 * 중증 출혈이나 응급 시술 등에서 DOAC 농도가 판단을 바꿀 때는 마지막 복용 시각과 신기능을 확인. 약제별 검사(예 : Xa 억제제에 대한 해당 약제 보정 anti-Xa, dabigatran에 대한 희석 thrombin time)는 검사실·전문의와 협의
@@ -224,6 +225,8 @@
 * CKD : eGFR ＜60 ㎖/min/1.73㎡ 또는 알부민뇨 등 신손상 표지가 3개월 이상 지속
 * GFR 병기 : G1 ≥90, G2 60\~89, G3a 45\~59, G3b 30\~44, G4 15\~29, G5 ＜15
 * 약물 용량은 해당 약의 허가 기준(eGFR인지 CrCl인지)을 확인 - NOAC은 CrCl 기준
+  * Gabapentin·pregabalin은 Cockcroft–Gault CrCl(㎖/min)과 해당 품목 허가사항에 따라 용량을 조절
+  * 신손상 위험이 있으면 전신 NSAID 시작 전에 Cr/eGFR·K를 확인하고, ACE 억제제·ARB 및 이뇨제 병용 등 고위험군은 시작 후 1~2주 이내 재검을 고려. eGFR ＜30 ㎖/min/1.73㎡에서는 전신 NSAID를 원칙적으로 피하고 품목별 금기는 허가사항 확인
 
 **위양성·위음성**
 
@@ -317,7 +320,7 @@
 
 ***
 
-## <mark style="color:green;">단클론감마병증 검사 (SPEP·면역고정·혈청 유리경쇄)</mark>
+## <mark style="color:green;">단클론감마병증 검사 (SPEP·면역고정·혈청 유리경쇄)</mark> <a href="#monoclonal-gammopathy-tests" id="monoclonal-gammopathy-tests"></a>
 
 **무엇을 보는가**
 
@@ -331,7 +334,7 @@
 
 **검사 방법·해석**
 
-* 다발골수종 의심 시 SPEP와 sFLC를 함께 검사하고 SPEP가 비정상이면 혈청 IFE로 확인. 임상적 의심이 높으면 단일 음성 검사로 배제하지 않고 전문 평가
+* 다발골수종 의심 시 SPEP와 sFLC를 함께 검사하고 SPEP 또는 sFLC κ/λ 비율이 비정상이면 혈청 IFE로 확인. 임상적 의심이 높으면 단일 음성 검사로 배제하지 않고 전문 평가
 * AL 아밀로이드증 의심 시 **혈청 IFE·소변 IFE·sFLC와 κ/λ 비율을 처음부터 함께** 검사. SPEP에서 M-spike가 안 보이는 경우에도 평가
 * 단클론 단백이 확인되면 혈구·혈청 Ca·신기능, 기타 장기 손상과 함께 해석하고 혈액내과 평가 고려
 
@@ -355,6 +358,8 @@
 **언제 시행하는가**
 
 * 급성 흉통·실신·두근거림, 새로 발견된 불규칙 맥박, 전해질 이상, 심질환 및 QT 연장 약제 위험에 따라 시행
+* 급성 관상동맥증후군(ACS)이 의심되면 의료기관 도착 후 10분 이내 12유도 ECG를 기록·판독. 외래에서는 응급 이송을 지연시키지 않는 범위에서 기록
+  * 첫 ECG가 정상·비진단적이어도 증상이 지속·재발하거나 ACS 의심이 높으면 hs-cTn 결과를 기다리지 않고 반복. V1~V3의 ST 하강 등 후벽 경색이 의심되면 후벽 유도 V7~V9를 추가
 * 성인 심장정지에서 자발순환 회복 후에는 가능한 한 신속히 12유도를 기록. 소생 중 리듬 확인·제세동과 시점을 구분 <mark style="color:$info;">[AHA 2025]</mark>
 
 **검사 방법**
@@ -379,9 +384,73 @@
 
 ***
 
+## <mark style="color:green;">전혈구검사와 백혈구 감별계산 (CBC·diff)</mark> <a href="#cbc-differential" id="cbc-differential"></a>
+
+**언제 시행하는가**
+
+* 빈혈·감염·혈액질환 또는 출혈이 의심되거나 약물의 골수억제를 추적할 때
+* 지속적 피로가 있는 성인에서 백혈병 등 감별을 위해 48시간 이내 CBC를 고려 <mark style="color:$info;">[NICE NG12 1.10.1]</mark>
+
+**검사 방법·해석**
+
+* EDTA 전혈에서 Hb·MCV, 백혈구 수와 감별, 혈소판을 측정. 감별은 백분율과 절대수치를 함께 보며, 이전 결과와 비교
+* 설명되지 않는 혈구 감소·증가, 여러 계열 이상, 미성숙 세포 경고가 있으면 신속히 재확인하고 말초혈액도말 및 전문 평가를 고려. 발열을 동반한 중증 호중구감소 등 응급 소견은 재검을 기다리지 않음
+
+***
+
+## <mark style="color:green;">비타민 B12 검사 (총 B12·활성 B12·MMA)</mark> <a href="#b12-testing" id="b12-testing"></a>
+
+**언제 시행하는가**
+
+* 거대적혈구증·빈혈, 설명되지 않는 감각이상·보행장애·인지 변화가 있거나 흡수장애, 위·회장 수술, 제한식 등 결핍 위험이 있을 때. 빈혈이나 거대적혈구증 없이 신경 증상으로 나타날 수 있음
+
+**검사 방법·해석**
+
+* 보충 시작 전 총 B12 또는 활성 B12(holotranscobalamin)로 시작. 임신 중에는 활성 B12를 우선 <mark style="color:$info;">[NICE NG239]</mark>
+* NICE NG239의 초기 기준 : 총 B12 ＜180 ng/L 또는 활성 B12 ＜25 pmol/L는 결핍, 총 B12 180~350 ng/L 또는 활성 B12 25~70 pmol/L는 경계. 검증된 검사실별 기준이 있으면 이를 적용
+* 경계 결과이면서 증상·징후가 있으면 혈청 methylmalonic acid(MMA)를 고려. 신기능 저하는 MMA를 높일 수 있어 검사실 기준과 신기능을 함께 확인
+* 거대적아구성 빈혈과 신경 증상이 함께 의심되면 결과를 기다리며 B12 보충을 지연하지 않음
+
+***
+
+## <mark style="color:green;">흉부 X선</mark> <a href="#chest-radiography" id="chest-radiography"></a>
+
+**언제 시행하는가**
+
+* 급성 흉통·호흡곤란에서 기흉, 폐렴, 흉수, 폐울혈 등 흉부 원인이 의심될 때. 가능하면 서서 PA·측면 촬영, 이동이 어렵다면 이동식 AP 촬영
+
+**검사 방법·해석**
+
+* 폐야·흉막·심장 크기·종격동을 확인하고 이전 영상과 비교. 정상이더라도 PE나 급성 대동맥증후군을 배제할 수 없으므로 임상적 의심에 맞춰 평가
+* 이송이 필요한 환자에서는 촬영으로 이송을 늦추지 않음
+
+***
+
+## <mark style="color:green;">혈청 아연</mark> <a href="#serum-zinc" id="serum-zinc"></a>
+
+**언제 시행하는가**
+
+* 지속하는 미각 이상에 섭취 부족·흡수장애·영양불량 등 결핍 위험이 있거나 결핍 소견이 동반될 때
+
+**검사 방법·해석**
+
+* 검사실 지침에 따라 가급적 오전 공복에 미량원소 전용 용기로 채혈하고 용혈·검체 오염에 유의. 최근 식사·보충제와 채혈 시각을 확인
+* 염증·감염이나 저알부민혈증에서도 낮아질 수 있으므로 CRP·albumin 및 임상상과 함께 해석. 장기간 고용량 아연 보충 시 구리 결핍에 유의
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [ASH 2026. Clinical practice guidelines on diagnosis of iron deficiency.](https://doi.org/10.1182/bloodadvances.2025015950)
+* [NICE NG12. Suspected cancer: recognition and referral.](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer)
+* [NICE NG239. Vitamin B12 deficiency in over 16s: diagnosis and management.](https://www.nice.org.uk/guidance/ng239/chapter/Recommendations)
+* [Gulati M, et al. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain.](https://doi.org/10.1161/CIR.0000000000001029)
+* [Lopes RD, et al. Warfarin and acetaminophen interaction. Blood 2011.](https://pubmed.ncbi.nlm.nih.gov/21911832/)
+* [Mayo Clinic Laboratories. Zinc, Serum.](https://www.mayocliniclabs.com/test-catalog/overview/7735)
+* [NICE NG35. Myeloma: diagnosis and management.](https://www.nice.org.uk/guidance/ng35/chapter/recommendations)
+* [Specialist Pharmacy Service. NSAIDs monitoring.](https://www.sps.nhs.uk/monitorings/nsaids-monitoring/)
 
 * [AHA scientific statement. Drug-Induced Arrhythmias. Circulation 2020.](https://doi.org/10.1161/CIR.0000000000000905)
 * [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram. Circulation 2007.](https://doi.org/10.1161/CIRCULATIONAHA.106.180200)

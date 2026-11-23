@@ -1,7 +1,7 @@
 # 신경 검사 Neurological Tests
 
 {% hint style="info" %}
-작성 예정 : 뇌파(EEG), 요추천자·뇌척수액 검사
+작성 예정 : 요추천자·뇌척수액 검사
 {% endhint %}
 
 ## <mark style="color:green;">두통의 영상 검사 적응증 (SNNOOP10·Ottawa SAH rule)</mark>
@@ -336,9 +336,38 @@
 
 ***
 
+## <mark style="color:green;">뇌파 검사 (EEG·국소발작 의심)</mark> <a href="#eeg-focal-seizures" id="eeg-focal-seizures"></a>
+
+**언제 시행하는가**
+
+* 같은 냄새가 짧게 반복되거나 멍해짐·반응 저하·자동증을 동반하면 환각취를 동반한 국소발작을 의심하여 신경과 평가와 EEG를 고려. 환각취만으로 일률적으로 EEG를 시행하지 않음
+
+**검사 순서·해석**
+
+* 첫 발작 후 EEG가 필요하면 가능한 빨리 시행(이상적으로 72시간 이내). 발작 양상·목격자 진술 및 적응증에 따른 뇌 영상과 함께 해석
+* 정상 일상 뇌파로 뇌전증을 배제할 수 없음. 의심이 지속되면 수면박탈 EEG, 보행 EEG 또는 비디오 EEG를 선택 <mark style="color:$info;">[NICE NG217]</mark>
+
+***
+
+## <mark style="color:green;">뇌척수액 누출 검사 (비루·이루의 β₂-transferrin)</mark> <a href="#csf-leak-beta2-transferrin" id="csf-leak-beta2-transferrin"></a>
+
+**언제 시행하는가**
+
+* 외상·비강 또는 두개저 수술 후 또는 자발성으로 편측에 지속되는 맑은 수양성 비루나 이루가 나타날 때 뇌척수액 누출을 의심
+
+**검사 순서·해석**
+
+* 누출 분비물을 검사실 지침에 따라 채취하여 β₂-transferrin을 측정. 양성이면 뇌척수액 누출을 지지. 검체가 적거나 간헐적으로 누출되면 음성이어도 임상 의심에 따라 추가 평가
+* 누출 부위는 필요에 따라 고해상도 두개저 CT나 MR cisternography 등으로 확인. 급성 외상이나 수막염이 의심되면 분비물 검사나 결과를 기다리지 않고 응급 평가
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG217. Epilepsies in children, young people and adults: diagnosis and assessment.](https://www.nice.org.uk/guidance/ng217/chapter/1-Diagnosis-and-assessment-of-epilepsy)
+* [ARUP Consult. Cerebrospinal Fluid Leak: Beta-2 Transferrin.](https://arupconsult.com/content/csf-leak-beta-2-transferrin)
 
 * [Edlow JA, et al. GRACE-3: Acute dizziness and vertigo in the emergency department. Acad Emerg Med 2023;30:442-486.](https://doi.org/10.1111/acem.14728)
 * [Hoh BL, et al. 2023 guideline for the management of patients with aneurysmal subarachnoid hemorrhage. Stroke 2023;54:e314-e370.](https://doi.org/10.1161/STR.0000000000000436)

@@ -1,7 +1,7 @@
 # 감염 검사 Infection Tests
 
 {% hint style="info" %}
-작성 예정 : 말라리아·뎅기·쯔쯔가무시·SFTS 검사, β-D-glucan·galactomannan, FDG-PET/CT, 패혈증 선별 점수(SIRS·qSOFA·NEWS2)
+작성 예정 : 말라리아·뎅기·쯔쯔가무시·SFTS 검사, β-D-glucan·galactomannan, FDG-PET/CT, 패혈증 선별과 초기 검사(SIRS·qSOFA·NEWS2·혈중 젖산), 혈액배양
 {% endhint %}
 
 ## <mark style="color:green;">프로칼시토닌 Procalcitonin, PCT</mark>
@@ -16,9 +16,10 @@
 **언제 시행하는가**
 
 * 입원 폐렴 환자에서 항생제 치료 반응 평가와 중단 판단
-* 패혈증 의심 환자의 세균 감염 평가와 항생제 중단 판단
+* 성인 패혈증 의심 시 항생제 시작은 임상 평가로 결정하며 PCT 결과를 기다리지 않음 <mark style="color:$info;">\[SSC 2026]</mark>
+* 성인 패혈증·패혈성 쇼크에서 감염원 조절이 충분하고 적정 치료 기간이 불명확하면 PCT 추세와 임상 소견을 함께 보아 항생제 중단을 판단 <mark style="color:$info;">\[SSC 2026]</mark>
 * 생후 90일 이하 영아 발열의 위험 분류 (☞ 발열)
-* 항생제 시작 여부를 PCT 단독으로 결정하지 않음 <mark style="color:$info;">\[ATS/IDSA 2019]</mark>
+* 임상적으로 의심되고 영상으로 확인된 성인 지역사회획득폐렴은 초기 PCT 수치와 관계없이 경험적 항생제를 시작 <mark style="color:$info;">\[ATS/IDSA 2019]</mark>
 
 **검사 방법**
 
@@ -29,13 +30,16 @@
 * 하기도감염에서 흔히 쓰는 기준 (임상 판단 보조)
   * ＜0.25 ng/㎖ : 세균 감염 가능성 낮음
   * ＞0.5 ng/㎖ : 세균 감염 가능성 높음
-* 항생제 중단 : 최고치보다 80% 이상 감소하거나 기준 미만(하기도감염 ≤0.25, 패혈증 ≤0.5 ng/㎖)으로 떨어지면 임상적 호전과 함께 중단 고려
+* 항생제 중단 보조 기준의 연구 예
+  * 성인 중환자의 감염 치료에서 PCT가 최고치보다 ≥80% 감소하거나 ≤0.5 ng/㎖에 도달했을 때 중단을 검토한 프로토콜 <mark style="color:$info;">\[Lancet Infect Dis 2016]</mark>
+  * 하기도감염에서 ≤0.25 ng/㎖를 사용한 프로토콜도 있음 <mark style="color:$info;">\[JAMA 2009]</mark>
+  * 환자군·프로토콜마다 기준이 다르며 감염원 조절, 임상 경과, 감염별 권장 치료 기간과 함께 해석
 * PCT ＞0.25 ng/㎖를 세균성 폐렴 확진 기준으로 쓰지 않음 (☞ 호흡기 질환의 임상적 진단 > 흔한 진단 오류)
 * 생후 90일 이하의 발열 영아는 연령과 임상 상태에 맞춘 별도 위험 분류를 적용. PCT 기준은 사용하는 규칙에 따라 PECARN ≤0.5, Step-by-Step ＜0.5 ng/㎖로 다름 <mark style="color:$info;">[CPS]</mark>
 
 **위양성·위음성**
 
-* 감염 없이 높은 경우 : 큰 수술·외상·화상, 심인성 쇼크, 신생아(생후 48시간), CKD·투석, 갑상선 수질암·소세포폐암, 말라리아
+* 감염 없이 높은 경우 : 큰 수술·외상·화상, 심인성 쇼크, 신생아(생후 48시간), 신기능 저하(특히 eGFR ＜30 또는 투석), 갑상선 수질암·소세포폐암, 말라리아
 * 세균 감염인데 낮은 경우 : 감염 초기, 국소 감염(농양·농흉), 비정형 병원체(_Mycoplasma_ 등)
 
 **급여**
@@ -248,10 +252,13 @@
 
 * 심한 삼출성 편도염 + 두드러진 피로 + 후경부 림프절병증·비장비대가 있을 때 (주로 청소년·청년)
 * 전염성 단핵구증 확인이 amoxicillin 사용·운동 제한 등 처치를 바꿀 때
+* 전염성 단핵구증을 시사하는 다른 임상 소견 없이 피로만 지속되는 경우에는 EBV 검사를 일률적으로 시행하지 않음
 
 **검사 방법**
 
 * 정맥혈 검사; CBC(이형림프구)와 간효소를 함께 확인
+* 전형적인 청소년·성인에서는 CBC와 이종친화항체를 초기 검사로 사용할 수 있음 <mark style="color:$info;">[Am Fam Physician 2023]</mark>
+* 발병 첫 주, 어린 소아(특히 5세 미만), 비전형 사례, 이종친화항체 음성이지만 의심이 높은 경우에는 VCA IgM/IgG·EBNA 등 EBV 특이항체로 평가. CDC는 일반적인 EBV 확인용으로 Monospot을 권하지 않음
 
 **해석·절단값**
 
@@ -611,21 +618,22 @@
 
 **언제 시행하는가**
 
-* 생후 90일 이하, 신뢰할 수 있는 체온이 ≥38.0 ℃인 양호한 전신 상태의 영아를 연령별 병원 경로에 따라 평가. 아파 보이는 영아나 고위험 병력이 있는 영아는 점수와 무관하게 신속히 평가
+* 생후 90일 이하에서 가정 또는 의료기관에서 확인된 직장 체온이 ≥38.0℃이고 전신 상태가 양호한 영아를 연령별 병원 경로에 따라 평가. 가정에서 측정한 발열도 고려하며 겨드랑이 측정값을 규칙에 그대로 대입하지 않음. 아파 보이는 영아나 고위험 병력이 있는 영아는 점수와 무관하게 신속히 평가
 
 **검사 방법**
 
-* 병원에서 연령·전신 상태·병력을 확인하고, 적절히 채취한 소변검사와 혈액 염증표지자를 정해진 규칙에 따라 해석
+* 병원에서 연령·전신 상태·병력을 확인하고, 소변검사와 혈액 염증표지자를 정해진 규칙에 따라 해석
+* 소변배양 검체는 도뇨 또는 치골상부 방광천자를 우선하며 청결 채취도 가능. 소변백 검체는 배양용으로 사용하지 않음 <mark style="color:$info;">\[CPS 2026]</mark>
 
 **해석·절단값** <mark style="color:$info;">[CPS 발열 영아 지침]</mark>
 
-* PECARN (이 책의 적용 예: 생후 29~60일) : 소변 백혈구에스테라제·nitrite 음성 및 WBC ≤5/HPF, ANC ≤4,000/㎕, PCT ≤0.5 ng/㎖를 모두 충족하면 저위험
+* PECARN (이 책의 적용 예: 생후 29~60일) : 백혈구 에스테라제·아질산염 음성 및 요침사 백혈구 ≤5/HPF, ANC ≤4,000/㎕, PCT ≤0.5 ng/㎖를 모두 충족하면 저위험
 * Step-by-Step : 양호한 전신 상태, 생후 22~90일, 소변 백혈구 음성, PCT ＜0.5 ng/㎖, CRP ≤20 ㎎/L, ANC ≤10,000/㎕를 모두 충족하면 저위험
 * 저위험으로 분류되어도 연령·소변검사·추적 가능성에 따라 추가 검사와 관찰을 결정
 
 **위양성·위음성**
 
-* 규칙의 항목과 절단값을 섞거나 PCT 단독으로 배제하지 않음. PCT를 이용할 수 없으면 해당 기관의 별도 경로를 적용
+* 규칙의 항목과 절단값을 섞거나 PCT 단독으로 배제하지 않음. PCT를 시행할 수 없으면 해당 기관의 PCT 미사용 경로를 적용하며 PECARN·Step-by-Step의 PCT 항목에 CRP를 대신 넣지 않음
 
 ***
 
@@ -633,11 +641,18 @@
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* [Infectious Mononucleosis: Rapid Evidence Review. Am Fam Physician 2023.](https://www.aafp.org/pubs/afp/issues/2023/0100/infectious-mononucleosis.html)
+* [CDC. Laboratory Testing for Epstein-Barr Virus.](https://www.cdc.gov/epstein-barr/php/laboratories/index.html)
+
 * [질병관리청·대한감염학회 등. 성매개감염 진료지침 2023, 임균감염의 추적 관찰.](https://www.daedeok.go.kr/board/binary/CHC_000005/2085881.pdf)
 * [CDC. Sexually Transmitted Infections Treatment Guidelines.](https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf)
 * [질병관리청. 2026년 국가예방접종 지침, B형간염 주산기감염 예방사업.](https://www.kdca.go.kr/bbs/kdca/55/306843/download.do)
 * [CDC. STI Treatment Guidelines, Hepatitis B.](https://www.cdc.gov/std/treatment-guidelines/hbv.htm)
-* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. Table 1.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days)
+* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. Updated 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 위험 분류 표 1과 체온·소변 검체 기준
+* [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54:725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 항생제 시작·중단 판단에서 PCT의 역할
+* [de Jong E, et al. Procalcitonin guidance in critically ill patients (SAPS). Lancet Infect Dis. 2016;16:819-827.](https://doi.org/10.1016/S1473-3099%2816%2900053-0)
+* [Schuetz P, et al. Procalcitonin-based guidelines for lower respiratory tract infections (ProHOSP). JAMA. 2009;302:1059-1066.](https://doi.org/10.1001/jama.2009.1297)
+* [Quantifying the relationship between renal function and procalcitonin. Open Forum Infect Dis. 2025;12:ofaf654.](https://doi.org/10.1093/ofid/ofaf654)
 * [CDC. Laboratory testing for Epstein-Barr virus (EBV). 2024.](https://www.cdc.gov/epstein-barr/php/laboratories/index.html)
 * [CDC/APHL. Recommended laboratory HIV testing algorithm for serum or plasma specimens.](https://stacks.cdc.gov/view/cdc/23446)
 * [Hooton TM, et al. Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults. Clin Infect Dis 2010;50:625-663.](https://doi.org/10.1086/650482)

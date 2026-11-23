@@ -1,7 +1,7 @@
 # 증상 척도·선별 설문 Symptom Scales & Screening Questionnaires
 
 {% hint style="info" %}
-작성 예정 : NRS·VAS, DN4·painDETECT, FSS, K-ESS 외 수면 척도는 감각·수면 검사 참조
+수면 관련 척도는 [감각·수면·구강 검사](252_-sensory-sleep-oral-tests.md) 참조
 {% endhint %}
 
 ## <mark style="color:green;">우울 선별 척도 (PHQ-2·PHQ-9·노인우울척도 GDS)</mark>
@@ -352,11 +352,12 @@
 
 ***
 
-## <mark style="color:green;">피로 척도와 ME/CFS 진단 기준 (Chalder Fatigue Scale·NAM 2015·NICE)</mark>
+## <mark style="color:green;">피로 척도와 ME/CFS 진단 기준 (Chalder Fatigue Scale·FSS·NRS·NAM 2015·NICE)</mark> <a href="#fatigue-scales-me-cfs" id="fatigue-scales-me-cfs"></a>
 
 **무엇을 보는가**
 
 * Chalder Fatigue Scale(CFQ-11) : 신체 피로 7문항 + 정신 피로 4문항의 정도와 변화
+* Fatigue Severity Scale(FSS)와 피로 NRS : 피로의 영향과 주관적 강도를 추적
 * NAM/IOM 2015·NICE NG206 : 근육통성뇌척수염/만성피로증후군(ME/CFS) 임상 진단 기준
 
 **언제 시행하는가**
@@ -367,14 +368,16 @@
 **검사 방법**
 
 * CFQ-11 : 지난 1개월을 평소와 비교해 각 0\~3점 (Likert 총점 0\~33) - 장기 환자는 발병 전 상태를 기준으로; 저작권 척도이므로 검증된 판본을 일관되게 사용
-* PEM 확인 : 1\~2주간 활동과 활동 후 48시간 이상의 증상을 함께 기록
-* 기본 검사(환자별 우선순위) : CBC 감별, ESR·CRP, 전해질·Ca·P, 혈당·A1C, LFT, 신기능, TSH·free T4, 철 검사, 소변검사; 단서에 따라 셀리악 선별, CK, B12·엽산·Vit D
-* 기립불내성 의심 : 10분 능동 기립 검사 또는 NASA lean test (☞ 능동 기립 검사) - 중증 환자는 PEM·실신 위험에 주의
+* FSS : 지난 1주 기준 9문항, 각 1~7점의 평균. 평균 ≥4점은 임상적으로 의미 있는 피로의 참고값이며 질환 진단에는 사용하지 않음
+* 피로 NRS : 0(피로 없음)~10(상상할 수 있는 가장 심한 피로). 회상 기간을 정해 기록하고 같은 기간·질문으로 추적
+* PEM 확인 : 1~2주간 활동 당일과 이후 며칠간의 증상을 기록. 활동 시점, 증상 악화까지 걸린 시간, 회복까지 걸린 시간을 확인
+* 기본 감별검사(NICE NG206) : CBC, ESR 또는 혈장점도, CRP, 전해질·신기능, 간기능, 갑상선기능, Ca·P, HbA1c, ferritin, 요검사, 셀리악 선별, CK. B12·엽산·비타민 D 등은 임상 판단에 따라 추가
+* 기립불내성 의심 : 10분 능동 기립 검사 또는 NASA lean test (☞ [능동 기립 검사](243_-cardiovascular-tests.md#active-stand-test)) - 중증 환자는 PEM·실신 위험에 주의
 
 **해석·절단값**
 
 * NAM/IOM 2015 : 6개월 초과 기능 저하 + 피로, PEM, 비회복성 수면 모두 + 인지장애 또는 기립불내성 중 ≥1 - 증상이 최소 절반의 시간 동안 중등도 이상이 아니면 재고
-* NICE NG206 : 3개월 지속되는 기능 저하와 쇠약성 피로·PEM·비회복성 수면 또는 수면장애·인지장애를 확인하고 다른 원인을 평가. 성인은 6주, 소아·청소년은 4주 지속 시 의심
+* NICE NG206 : ① 쇠약성 피로 ② PEM ③ 비회복성 수면 또는 수면장애 ④ 인지장애의 4가지 증상을 모두 충족하고 이전보다 기능이 저하되며 다른 원인으로 설명되지 않아야 함. 성인 6주, 소아·청소년 4주 지속 시 의심하고, 3개월 지속 시 진단
 * 두 기준은 기간과 구성이 달라 섞어 적용하지 않음
 
 **위양성·위음성**
@@ -411,9 +414,36 @@
 
 ***
 
+## <mark style="color:green;">통증 강도와 기능 평가 (NRS·VAS·PEG)</mark> <a href="#pain-intensity-function" id="pain-intensity-function"></a>
+
+**검사 방법·해석**
+
+* 통증 NRS : 통증 없음(0)부터 상상할 수 있는 가장 심한 통증(10)까지 환자가 숫자로 표시. 현재·평균·최악 통증 중 무엇을 묻는지와 회상 기간을 기록
+* VAS : 양 끝에 통증 없음과 가장 심한 통증을 표시한 눈금 없는 100 ㎜ 선에 환자가 표시. 통증 없음 쪽 끝에서 표시점까지의 거리를 ㎜로 기록
+* PEG : 지난 1주의 평균 통증, 삶의 즐거움 방해, 일반 활동 방해를 각각 0~10점으로 평정해 평균을 구함. 치료 전후 통증과 기능 변화를 같은 척도·회상 기간으로 평가 <mark style="color:$info;">[J Gen Intern Med 2009]</mark>
+
+***
+
+## <mark style="color:green;">신경병증성 통증 선별 (DN4·painDETECT)</mark> <a href="#neuropathic-pain-screening" id="neuropathic-pain-screening"></a>
+
+**검사 방법·해석**
+
+* DN4 : 증상 7항목과 감각·이질통 진찰 3항목을 각각 0 또는 1점으로 평가. 총 ≥4/10점이면 신경병증성 요소를 시사
+* painDETECT : 원 척도에서 ≤12점은 가능성 낮음, 13~18점은 불확실, ≥19점은 가능성 높음. 검증된 언어판과 채점법을 사용
+* 선별 결과는 통증의 신경해부학적 분포·감각 소견·원인 질환과 함께 해석
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG206. ME/CFS: diagnosis and management.](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)
+* [Krupp LB, et al. The Fatigue Severity Scale. Arch Neurol 1989.](https://pubmed.ncbi.nlm.nih.gov/2803071/)
+* [Hawker GA, et al. Measures of adult pain. Arthritis Care Res 2011.](https://doi.org/10.1002/acr.20543)
+* [Krebs EE, et al. Development and initial validation of the PEG. J Gen Intern Med 2009.](https://doi.org/10.1007/s11606-009-0981-1)
+* [Bouhassira D, et al. Development of the DN4. Pain 2005.](https://pubmed.ncbi.nlm.nih.gov/15733628/)
+* [Freynhagen R, et al. painDETECT. Curr Med Res Opin 2006.](https://pubmed.ncbi.nlm.nih.gov/17022849/)
 
 * [ACOG Clinical Practice Guideline. Management of Premenstrual Disorders. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders)
 * [Heatherton TF, et al. The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire. Br J Addict 1991;86:1119-1127.](https://pubmed.ncbi.nlm.nih.gov/1932883/)

@@ -1,7 +1,7 @@
 # 내분비·대사 검사 Endocrine & Metabolic Tests
 
 {% hint style="info" %}
-작성 예정 : 25(OH)D, 부신기능 평가(오전 cortisol·ACTH 자극검사)
+비타민 D 검사 : [25(OH)D·골대사 표지자](248_-msk-physical-exam.md#vitamin-d-bone-markers) 참조
 {% endhint %}
 
 ## <mark style="color:green;">당뇨병 선별·진단 검사 (공복혈당·75 g OGTT·A1C)</mark>
@@ -643,9 +643,42 @@
 
 ***
 
+## <mark style="color:green;">부신기능저하증 검사 (오전 cortisol·ACTH·자극검사)</mark> <a href="#adrenal-insufficiency-testing" id="adrenal-insufficiency-testing"></a>
+
+**언제 시행하는가**
+
+* 설명되지 않는 체중 감소·피로에 저혈압·기립 증상·저Na·저혈당이 동반될 때. 고K·피부 착색은 원발성의 단서. 장기간 glucocorticoid 투여·중단, 뇌하수체 질환 병력을 확인
+* 부신위기가 의심되면 가능할 때 치료 전에 cortisol과 ACTH를 채혈하되, 채혈이나 결과를 기다리지 않고 hydrocortisone·수액 등 응급 처치 및 이송
+
+**검사 순서·해석**
+
+* 안정 상태에서 오전 8~9시 혈청 cortisol을 측정. 원발성 부신기능저하증이 의심되면 같은 채혈에서 혈장 ACTH를 함께 측정. 낮은 cortisol에 높은 ACTH는 원발성, ACTH가 낮거나 부적절하게 정상이면 중추성 가능성
+* NICE NG243의 현대 면역측정법 참고 범위(≥16세) : cortisol ＜150 nmol/L이면 부신기능저하증 가능성으로 전문 평가. 150~300이면 재검 또는 전문 평가, ＞300이면 가능성이 매우 낮음. 검사법과 임상 상황에 따른 기준을 확인
+* 진단이 불확실하면 전문 평가에서 표준 250 ㎍ ACTH 자극검사를 시행해 30분 또는 60분 반응을 검사법별 기준으로 해석. 최근 발생한 중추성 부신기능저하에서는 정상 반응이 가능
+* 최근 glucocorticoid 사용과 경구 estrogen, 임신, 중증 질환으로 인한 cortisol 결합단백 변화를 확인
+
+***
+
+## <mark style="color:green;">트리메틸아민뇨증 검사 (소변 TMA·TMAO)</mark> <a href="#trimethylaminuria-testing" id="trimethylaminuria-testing"></a>
+
+**언제 시행하는가**
+
+* 숨뿐 아니라 땀·소변에서도 반복되는 생선 냄새와 같은 특징이 있을 때 대사 전문기관에서 검사. 구취만 있는 환자는 구강·비강 원인을 먼저 평가
+
+**검사 방법·해석**
+
+* 식이 제한으로 인한 위음성을 줄이기 위해 검사기관 지침에 따라 평소 식이에서 소변 trimethylamine(TMA)과 trimethylamine N-oxide(TMAO)를 가급적 두 차례 측정. 미산화 TMA가 총 TMA의 10%를 넘으면 이상을 시사
+* 간·신장 질환 등 이차성 원인을 평가하고 원발성이 의심되면 FMO3 유전자 검사로 확인
+
+***
+
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE NG243. Adrenal insufficiency: identification and management.](https://www.nice.org.uk/guidance/ng243/chapter/recommendations)
+* [Endocrine Society. Diagnosis and Treatment of Primary Adrenal Insufficiency. 2016.](https://doi.org/10.1210/jc.2015-1710)
+* [GeneReviews. Primary Trimethylaminuria.](https://www.ncbi.nlm.nih.gov/books/NBK1103/)
 
 * [ESHRE/ASRM/IMS and collaborators. International Guideline on Premature Ovarian Insufficiency. 2024.](https://www.eshre.eu/-/media/sitecore-files/Guidelines/POI/2024/INTERNATIONAL-GUIDELINE-ON-POI-2024.pdf)
 * [Sacks DB, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151-e199.](https://doi.org/10.2337/dci23-0036)
