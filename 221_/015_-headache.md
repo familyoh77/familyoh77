@@ -120,18 +120,21 @@
 * 경고 징후가 없고 신경학적 검사가 정상인 전형적 편두통·긴장형두통에서는 뇌영상검사를 일상적으로 시행하지 않음. 경고 징후 없이 안정된 만성 두통에도 같은 원칙을 적용 <mark style="color:$info;">\[ACR AC 2022; Public Health Wkly Rep 2025]</mark>
 * 첫 군발기에는 2차 원인을 확인하기 위한 뇌 MRI 필요성을 신경과와 상의 <mark style="color:$info;">\[NICE CG150; ACR AC 2022]</mark>
 
-### <mark style="color:orange;">환자 자가 평가</mark><a href="#headache diary" id="headache diary"></a>
+### <mark style="color:orange;">환자 자가 평가</mark> <a href="#headache-diary" id="headache-diary"></a>
 
 * 두통의 원인 진단 및 치료 효과 모니터링을 위하여 고려
 
 <mark style="color:cyan;">**두통일기**</mark>
 
-* 다음 사항을 최소 8주간 매일 취침 전 기록. 모바일 앱 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)' 활용 가능
+* 진단 목적으로 다음 사항을 최소 8주간 기록; 치료 중에도 반응 평가를 위해 계속 기록 <mark style="color:$info;">\[NICE CG150]</mark>
   1. 두통의 빈도, 지속 시간 및 강도
   2. 연관되어 나타나는 증상들
   3. 두통 완화를 위해 복용한 모든 약물(처방약·일반의약품 포함)
   4. 가능한 유발 요인들
   5. 두통과 월경의 연관성
+* 모바일 앱 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)' 활용 가능(☞ [안내 영상](https://www.youtube.com/watch?v=8ATnCgbL2Wg))
+  * 위 항목 외에 통증의 위치·양상, 조짐 유무와 전구 증상, 약의 효과, 일상·사회·직장 생활의 지장 정도도 기록
+  * 두통 일수, 약 복용 일수, 주요 유발 요인을 1·3·6개월 단위로 확인할 수 있어 약물과용 감시와 치료 반응 평가에 유용
 
 <mark style="color:cyan;">**HIT-6 (Headache Impact Test, 두통 영향 평가)**</mark>
 

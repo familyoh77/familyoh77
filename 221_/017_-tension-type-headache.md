@@ -182,7 +182,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 두통일기 : 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)'
+* [두통일기](015_-headache.md#headache-diary) 작성: 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
 * 규칙적 유산소 운동 및 점진적 근력 강화 운동을 환자의 체력과 동반 질환에 맞추어 시행
 * 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료 고려
