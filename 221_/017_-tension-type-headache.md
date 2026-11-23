@@ -11,7 +11,7 @@
   * <mark style="background-color:yellow;">유병률 : 전 세계 추정치 약 26%</mark> <mark style="color:$info;">\[J Headache Pain 2022]</mark>
   * 삽화형 유병률은 중년 이후 감소하는 경향을 보이며, 만성형 유병률과 연령의 관련성은 연구마다 일관되지 않음
   * <mark style="background-color:yellow;">질병부담 : 두통질환 전체의 YLD(years lived with disability)는 15\~49세에서 특히 큼</mark> <mark style="color:$info;">\[J Headache Pain 2024]</mark>
-* <mark style="background-color:yellow;">두통 일기(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용</mark>
+* <mark style="background-color:yellow;">두통일기(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용</mark>
   * <mark style="background-color:yellow;">진단 목적으로 사용할 때는 최소 8주간 기록</mark> <mark style="color:$info;">\[NICE CG150]</mark>
 
 ### <mark style="color:orange;">분류</mark> <mark style="color:$info;">\[ICHD-3]</mark>
@@ -67,7 +67,7 @@
 
 ### <mark style="color:orange;">흔한 유발·악화 및 연관 요인</mark>
 
-* 정신적 스트레스 : 흔한 유발·악화 요인이며 개인별 연관성을 두통 일기로 확인
+* 정신적 스트레스 : 흔한 유발·악화 요인이며 개인별 연관성을 두통일기로 확인
 * 불안·우울 : 만성 TTH와 흔히 동반되며 두통 부담과 치료 반응에 영향을 줄 수 있음
 * 수면 장애 : 수면 부족·불규칙한 수면과 두통 빈도 증가가 연관될 수 있음
 * 장시간 고정 자세 / 경부·어깨 부담 : 두개 주위 근육 압통과 연관될 수 있으나 TTH의 단일 구조적 원인으로 단정하지 않음
@@ -147,7 +147,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 <table data-search="false"><thead><tr><th width="120">구분</th><th>긴장형두통(TTH)</th><th>편두통(Migraine)</th></tr></thead><tbody><tr><td>통증 부위</td><td>대개 양측성</td><td>편측성이 흔하나 양측도 가능</td></tr><tr><td>통증 양상</td><td>압박감, 조이는 느낌(Band-like, 비박동성)</td><td>박동성이 흔함</td></tr><tr><td>통증 강도</td><td>경증~중등증</td><td>중등증~중증이 흔함</td></tr><tr><td>신체 활동</td><td>일상적 신체 활동으로 악화되지 않음</td><td>일상적 신체 활동으로 악화되는 경우가 흔함</td></tr><tr><td>구역/구토</td><td>삽화형에서는 없음; 만성형은 경미한 구역이 하나의 동반 증상으로 가능</td><td>구역 및/또는 구토가 흔함</td></tr><tr><td>빛·소리 공포</td><td>둘 다 없거나 하나만 존재</td><td>빛공포증과 소리공포증이 함께 흔함</td></tr><tr><td>조짐</td><td>없음</td><td>일부 환자에서 시각·감각·언어 조짐 동반</td></tr><tr><td>지속 시간</td><td>삽화형 30분~7일; 만성형은 수시간~수일 또는 지속</td><td>치료하지 않거나 치료가 실패한 성인에서 대개 4~72시간</td></tr><tr><td>흔한 유발·악화 요인</td><td>스트레스, 수면 장애, 지속 자세 부담 등과 연관 가능</td><td>호르몬 변화, 수면 변화, 스트레스, 감각 자극 등 개인별 유발 요인</td></tr></tbody></table>
 
-* 혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공존할 수 있으므로, 두통 일기로 각각의 두통 양상과 빈도를 구분하여 진단
+* 혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공존할 수 있으므로, 두통일기로 각각의 두통 양상과 빈도를 구분하여 진단
 
 ***
 
@@ -156,7 +156,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 <p align="center"><mark style="background-color:yellow;"><strong>긴장형 양상의 두통 평가 및 치료 알고리듬</strong></mark><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; VA/DoD 2023; NICE CG150)</mark></em></p>
 
-* 두통 일기로 추적하고, 급성기 약물 사용이 잦아지거나 일상생활에 지장이 크면 예방치료를 검토
+* 두통일기로 추적하고, 급성기 약물 사용이 잦아지거나 일상생활에 지장이 크면 예방치료를 검토
 * <mark style="background-color:yellow;">만성 두통에서는 약물과용 여부를 평가하고, 기존 두통 진단과 약물과용두통의 기준을 모두 충족하면 둘 다 진단</mark> ☞ [만성 두통 및 약물과용두통](018_-chronic-headache.md) 참조
 
 ***
@@ -182,7 +182,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
-* 두통 일기 : 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)'
+* 두통일기 : 두통 일수, 지속 시간과 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)'
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
 * 규칙적 유산소 운동 및 점진적 근력 강화 운동을 환자의 체력과 동반 질환에 맞추어 시행
 * 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료 고려
@@ -197,7 +197,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * 편두통 특이 치료제는 순수 TTH의 표준 치료가 아님
   * CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통 치료제로 사용되며 순수 긴장형두통에는 효과가 입증되지 않음
-  * Triptan : 긴장형두통의 급성 치료로 권장되지 않음. 두통 양상이 편두통 기준에 부합하는지 임상 특징과 두통 일기로 별도 평가
+  * Triptan : 긴장형두통의 급성 치료로 권장되지 않음. 두통 양상이 편두통 기준에 부합하는지 임상 특징과 두통일기로 별도 평가
 
 ### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
@@ -385,7 +385,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * \[VA/DoD 2023] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Headache. 2023.](https://www.healthquality.va.gov/guidelines/Pain/headache/index.asp) - 긴장형두통의 급성·예방 치료와 권고 강도
-* <mark style="background-color:yellow;">\[NICE CG150]</mark> [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 일기와 감별, 급성기 치료, 만성긴장형두통의 침 치료
+* <mark style="background-color:yellow;">\[NICE CG150]</mark> [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통일기와 감별, 급성기 치료, 만성긴장형두통의 침 치료
 * \[J Headache Pain 2022] [Stovner LJ, et al. The global prevalence of headache: an update, with analysis of the influences of methodological factors on prevalence estimates. J Headache Pain. 2022;23(1):34.](https://doi.org/10.1186/s10194-022-01402-2) - 긴장형두통 유병률 추정치
 * \[J Headache Pain 2024] [Steiner TJ, et al. GBD2021: headache disorders and global lost health – a focus on children, and a view forward. J Headache Pain. 2024;25:91.](https://doi.org/10.1186/s10194-024-01795-2) - 연령별 두통질환 부담
 * \[Ann Med 2026] [Tao QF, et al. Comparative effects of pharmacological interventions in the prophylactic treatment of tension-type headache: systematic review and network meta-analysis. Ann Med. 2026;58(1):2616972.](https://doi.org/10.1080/07853890.2026.2616972) - amitriptyline 100 ㎎/d의 효과와 근거의 확실성

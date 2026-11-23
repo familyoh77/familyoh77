@@ -43,7 +43,7 @@
 * 탈수
 
 {% hint style="info" %}
-유발 인자는 개인차가 크므로 일률적으로 제한하기보다 두통 일기로 실제 연관성을 확인. 특히 식품은 두통과의 일관된 인과성이 확립되지 않은 경우가 많음
+유발 인자는 개인차가 크므로 일률적으로 제한하기보다 두통일기로 실제 연관성을 확인. 특히 식품은 두통과의 일관된 인과성이 확립되지 않은 경우가 많음
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
@@ -120,11 +120,11 @@
 * 경고 징후가 없고 신경학적 검사가 정상인 전형적 편두통·긴장형두통에서는 뇌영상검사를 일상적으로 시행하지 않음. 경고 징후 없이 안정된 만성 두통에도 같은 원칙을 적용 <mark style="color:$info;">\[ACR AC 2022; Public Health Wkly Rep 2025]</mark>
 * 첫 군발기에는 2차 원인을 확인하기 위한 뇌 MRI 필요성을 신경과와 상의 <mark style="color:$info;">\[NICE CG150; ACR AC 2022]</mark>
 
-### <mark style="color:orange;">환자 자가 평가</mark>
+### <mark style="color:orange;">환자 자가 평가</mark><a href="#headache diary" id="headache diary"></a>
 
 * 두통의 원인 진단 및 치료 효과 모니터링을 위하여 고려
 
-<mark style="color:cyan;">**두통 일기**</mark>
+<mark style="color:cyan;">**두통일기**</mark>
 
 * 다음 사항을 최소 8주간 매일 취침 전 기록. 모바일 앱 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)' 활용 가능
   1. 두통의 빈도, 지속 시간 및 강도
@@ -223,7 +223,7 @@ flowchart TD
     G -- "예" --> F
     F --> I["편두통·긴장형두통·군발두통 <br/>등 분류"]
     I --> J["급성기 치료·예방치료 검토·<br/>약물과용 평가"]
-    J --> K["두통 일기로 추적<br/>양상 변화 시 재평가"]
+    J --> K["두통일기로 추적<br/>양상 변화 시 재평가"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
     classDef decision fill:#fff9c4,stroke:#ffe082;
     classDef emergency fill:#f8d7da,stroke:#dc3545;
@@ -419,5 +419,5 @@ flowchart TD
 * 규칙적인 수면과 식사 시간을 유지하고 끼니를 거르지 마십시오.
 * 탈수를 피하고, 카페인은 과도하게 섭취하거나 갑자기 끊지 말고 일정한 섭취 패턴을 유지하십시오.
 * 규칙적인 유산소 운동과 목·어깨 스트레칭을 시행하십시오.
-* 두통의 빈도, 지속 시간, 동반 증상, 약물 사용일수, 가능한 유발요인을 **두통 일기**에 기록하십시오.
+* 두통의 빈도, 지속 시간, 동반 증상, 약물 사용일수, 가능한 유발요인을 **두통일기**에 기록하십시오.
 * 군발두통으로 진단받은 환자는 **군발기(cluster period) 동안 알코올이 발작을 유발할 수 있으므로 피하는 것이 좋습니다.**
