@@ -16,7 +16,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 유두부종·반복 구토·진행성 시력 증상 `두개내압 상승 의심`&#x20;
+* **(당일)** 유두부종·반복 구토·진행성 시력 증상 `두개내압 상승 의심`
 * 암·면역저하 환자의 신규 또는 진행성 두통 `2차성 두통 의심`
 * 임신·산후의 신규 또는 진행성 두통 `2차성 두통 의심`
 
@@ -34,7 +34,8 @@
 * 기존 두통질환이 있고 ≥15일/월 두통이 있으면서 급성기·대증 두통약을 약제군별 기준 이상으로 ＞3개월 사용 → 약물과용두통
 * 심한 두통, 편측, 눈물/콧물, 시계 같은 규칙성, 군집성 발생, 치료하지 않을 때 보통 15\~180분 → [군발두통](015_-headache.md#cluster-treatment)
 * 경부 외상력, 목 움직임으로 유발 → [경추성두통](019_-cervicogenic-headache.md)
-* 일시적 시각장애, 박동성 이명, 복시, 유두부종 → <mark style="background-color:yellow;">[특발성 두개내고혈압](#iih)</mark> 의심. 유두부종이 확인되면 당일 의뢰하여 시기능을 평가하고 뇌영상과 MRV 또는 CTV로 두개내 종괴·뇌정맥혈전증을 배제(비만 여성에서 흔하지만 인구학적 특징만으로 판단하지 않음)
+* 일시적 시각장애, 박동성 이명, 복시, 유두부종 → [특발성 두개내고혈압](018_-chronic-headache.md#iih) 의심
+  * 유두부종이 확인되면 당일 의뢰하여 시기능을 평가하고 뇌영상과 MRV 또는 CTV로 두개내 종괴·뇌정맥혈전증을 배제(비만 여성에서 흔하지만 인구학적 특징만으로 판단하지 않음)
 * 불안, 우울 동반 → 정신과적 동반 질환(comorbidity)으로 병행 관리; 2차성 두통 가능성도 배제
 * 경추/턱관절 움직임 제한 또는 통증 → 경추성두통, 턱관절 이상
 * 두통의 2차 원인 감별을 위한 [SNNOOP10](015_-headache.md#snnoop10)
@@ -48,15 +49,13 @@
 
 <p align="center"><strong>만성 매일두통 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; EAN MOH 2020)</mark></em></p>
 
-
-
 ***
 
 ## <mark style="color:green;">1차성 두통</mark>
 
 ### <mark style="color:orange;">장시간 지속 또는 지속성 두통의 감별</mark>
 
-* 종류 : <mark style="background-color:yellow;">[Chronic migraine](016_-migraine.md#chronic-migraine)</mark>, <mark style="background-color:yellow;">[Chronic tension-type headache](017_-tension-type-headache.md)</mark>, New daily persistent headache, Hemicrania continua
+* 종류 : [<mark style="background-color:yellow;">Chronic migraine</mark>](016_-migraine.md#chronic-migraine), [<mark style="background-color:yellow;">Chronic tension-type headache</mark>](017_-tension-type-headache.md), New daily persistent headache, Hemicrania continua
 
 #### <mark style="color:$primary;">신생매일지속두통 (New daily persistent headache, NDPH)</mark>
 
@@ -109,7 +108,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">주로 짧은 발작을 보이는 두통의 감별</mark>
 
-* 종류 : <mark style="background-color:yellow;">[Chronic cluster headache](015_-headache.md#cluster-treatment)</mark>, Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
+* 종류 : [<mark style="background-color:yellow;">Chronic cluster headache</mark>](015_-headache.md#cluster-treatment), Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
   * <mark style="background-color:yellow;">Primary stabbing headache와 SUNCT/SUNA는 이 챕터에서 다루지 않음</mark>
 
 {% hint style="info" %}
@@ -278,7 +277,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
   * <mark style="background-color:yellow;">MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려</mark>
   * onabotulinumtoxinA \[[보톡스주 100 U](https://www.health.kr/drug/A11AKP08G2664)] : 155 U를 31곳에 근육주사, 12주 간격
   * <mark style="background-color:yellow;">gepant는 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않아 기존 진통제·triptan 과용 환자에서 유용할 수 있으나 장기 자료는 제한적</mark>
-  * <mark style="background-color:yellow;">실제 사용 순서는 허가사항과 급여 기준에 따라 달라지며, 약제별 용법·허가·급여 기준은 [016 편두통](016_-migraine.md)의 「CGRP 표적 예방치료」 참조</mark>
+  * <mark style="background-color:yellow;">실제 사용 순서는 허가사항과 급여 기준에 따라 달라지며, 약제별 용법·허가·급여 기준은</mark> [<mark style="background-color:yellow;">016 편두통</mark>](016_-migraine.md)<mark style="background-color:yellow;">의 「CGRP 표적 예방치료」 참조</mark>
 
 <mark style="color:cyan;">**추적 관찰**</mark>
 
