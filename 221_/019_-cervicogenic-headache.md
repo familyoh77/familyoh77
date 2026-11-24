@@ -1,4 +1,4 @@
-# 경추성두통 Cervicogenic Headache
+# 경추성 두통 Cervicogenic headache
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -52,27 +52,27 @@
 * 비박동성이 흔하지만 통증 양상만으로 편두통과 구별할 수 없음
 * 구역, 구토, 빛공포증·소리공포증 같은 편두통 양상이 나타날 수 있어 동반 증상의 유무만으로 감별하지 않음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark> <a id="red-flags"></a>
+### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
 
-<mark style="background-color:yellow;">(☞ [두통 Red Flags](015_-headache.md#red-flags))</mark>
+<mark style="background-color:yellow;">(☞</mark> [<mark style="background-color:yellow;">두통 Red Flags</mark>](015_-headache.md#red-flags)<mark style="background-color:yellow;">)</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 생긴 두통 또는 경부통에 동반된 부분 호너증후군(안검하수·축동)  `경동맥 박리`
-* 새로 생긴 두통 또는 경부통에 동반된 복시·구음장애·연하곤란·운동실조 또는 편측 신경학적 결손  `경동맥 박리` `척추동맥 박리` `뇌혈관질환`
-* <mark style="background-color:yellow;">최근 경부 외상·경부 수기조작 후 새로 생긴 편측 두통 또는 경부통, 또는 갑자기 시작된 평소와 다른 편측 두통·경부통</mark>  `경동맥 박리` `척추동맥 박리`
-* 급성 또는 빠르게 진행하는 근력저하, 새로 생긴 보행장애 또는 대소변 장애  `척수 압박`
-* 심한 새 두통에 고열, 수막자극징후 또는 의식 변화가 동반되거나, 면역저하 상태에서 심한 두통 또는 경부통 발생  `수막염` `경막외농양`
-* 외상 후 경추 정중선 압통 또는 신경학적 이상, 고에너지 외상 후 심한 경부통  `경추 골절`
-* 50세 이상에서 새 두통과 시력저하·복시·일시적 단안 시력 소실(일과성 흑암시)이 동반  `거대세포동맥염`
-* 류마티스관절염 환자의 새 상부 경부통·두통에 신경학적 결손 또는 척수증 징후  `환축추 불안정성` `척수 압박`
+* 새로 생긴 두통 또는 경부통에 동반된 부분 호너증후군(안검하수·축동) `경동맥 박리`
+* 새로 생긴 두통 또는 경부통에 동반된 복시·구음장애·연하곤란·운동실조 또는 편측 신경학적 결손 `경동맥 박리` `척추동맥 박리` `뇌혈관질환`
+* <mark style="background-color:yellow;">최근 경부 외상·경부 수기조작 후 새로 생긴 편측 두통 또는 경부통, 또는 갑자기 시작된 평소와 다른 편측 두통·경부통</mark> `경동맥 박리` `척추동맥 박리`
+* 급성 또는 빠르게 진행하는 근력저하, 새로 생긴 보행장애 또는 대소변 장애 `척수 압박`
+* 심한 새 두통에 고열, 수막자극징후 또는 의식 변화가 동반되거나, 면역저하 상태에서 심한 두통 또는 경부통 발생 `수막염` `경막외농양`
+* 외상 후 경추 정중선 압통 또는 신경학적 이상, 고에너지 외상 후 심한 경부통 `경추 골절`
+* 50세 이상에서 새 두통과 시력저하·복시·일시적 단안 시력 소실(일과성 흑암시)이 동반 `거대세포동맥염`
+* 류마티스관절염 환자의 새 상부 경부통·두통에 신경학적 결손 또는 척수증 징후 `환축추 불안정성` `척수 압박`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 서서히 진행하는 손의 미세운동 저하·감각이상, 반사항진·병적반사 또는 보행 불안정  `경추척수증`
-* <mark style="background-color:yellow;">경부통·두통에 발열·체중감소·지속적인 야간통이 동반되거나 암·감염 과거력이 있음</mark>  `척추 감염` `전이암`
-* **(당일)** 50세 이상에서 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상이 동반  `거대세포동맥염`
-* 류마티스관절염 환자의 새 상부 경부통·두통  `환축추 불안정성`
+* 서서히 진행하는 손의 미세운동 저하·감각이상, 반사항진·병적반사 또는 보행 불안정 `경추척수증`
+* <mark style="background-color:yellow;">경부통·두통에 발열·체중감소·지속적인 야간통이 동반되거나 암·감염 과거력이 있음</mark> `척추 감염` `전이암`
+* **(당일)** 50세 이상에서 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상이 동반 `거대세포동맥염`
+* 류마티스관절염 환자의 새 상부 경부통·두통 `환축추 불안정성`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -88,7 +88,7 @@
 * 진단적 차단은 원인 경추 구조물 또는 그 신경 지배를 정확히 표적으로 해야 하며, 대후두신경차단 반응만으로 경추성두통을 확진하거나 다른 두통 질환과 구별할 수 없음
 * ICHD-3의 경추 병변 증거와 인과관계 기준을 적용하고 다른 두통 질환으로 더 잘 설명되지 않는지 확인; ICHD-3 기준을 모두 충족하기 전에는 경추성두통으로 확진하지 않음
 
-### <mark style="color:orange;">진단 기준 </mark><mark style="color:$info;">\[ICHD-3]</mark>
+### <mark style="color:orange;">진단 기준</mark> <mark style="color:$info;">\[ICHD-3]</mark>
 
 A. 아래 진단 기준 C를 충족하는 두통
 
@@ -154,37 +154,6 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ***
 
 ```mermaid
-flowchart TD
-    A["경추 원인이 의심되는 두통"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
-    B -- "예" --> C["즉각 조치"]
-    B -- "아니요" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
-    D -- "예" --> E["당일~수일 내 평가"]
-    D -- "아니요" --> F["두통 유형·신경학적 진찰·ICHD-3 평가"]
-    F --> G["경추 병변 증거·인과관계 ≥2개,<br/>다른 진단으로 더 잘 설명되지 않음?"]
-    G -- "예" --> I["교육·능동적 운동·필요시 관절가동술"]
-    G -- "아니요, 경추 원인 의심 지속" --> G2["교육·운동 시험 치료<br/>두통과 경추 소견의 동반 호전을 추적해<br/>2~4주에 ICHD-3 재평가"]
-    G -- "아니요, 다른 두통 의심" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
-    I --> J["2~4주 재평가에서 호전?"]
-    J -- "예" --> K["단계적 운동·생활관리 유지"]
-    J -- "아니요" --> L["진단·순응도·위험 징후 재평가"]
-    L -- "새 위험 징후" --> B2["Red Flags 경로로 다시 평가"]
-    L -- "위험 징후 없음" --> M0["예후차단 전 보존치료를 충분히 시행?<br/>약 6주를 기준으로 개별화"]
-    M0 -- "아니요" --> K2["보존치료 지속·경과 재평가"]
-    M0 -- "예" --> M["기능장애 지속 및<br/>후관절성 통증 의심?"]
-    M -- "아니요" --> H2["다른 두통·통증원 재평가"]
-    M -- "예" --> N["전문의 의뢰·영상 유도 TON block 또는 MBB"]
-    N --> O["시술기관의 양성 예후차단 기준 충족?"]
-    O -- "예" --> P["이익·위험을 상의하여 RF 고려"]
-    O -- "아니요" --> Q["RF 보류·다른 통증원 재평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class A start
-    class B,D,G,J,M0,M,O question
-    class C,B2 emergency
-    class E,F,G2,H,I,K,K2,L,H2,N,P,Q care
 ```
 
 > _거대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._
@@ -193,7 +162,7 @@ flowchart TD
 >
 > _양성 예후차단 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분._
 
-<p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025; Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
+<p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025;</mark></em> <br><em><mark style="color:$info;">Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
 
 ***
 
@@ -243,12 +212,12 @@ flowchart TD
 ### <mark style="color:orange;">Acetaminophen 또는 NSAID</mark>
 
 * 급성 악화 시 최소 유효용량을 최단 기간 사용
-* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark></mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
   * 4 g/d는 일반적인 처방 목표가 아니라 선택된 성인의 절대 상한이며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장. 간질환·과음·저체중·고령·영양불량 등 위험 요인이 있으면 더 낮은 상한과 투여 간격을 개별화
   * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(☞ [통증](../220_/001_-pain.md))
   * Warfarin 복용 환자가 acetaminophen을 수일간 반복 복용하면 INR가 상승할 수 있으므로 용량·기간과 INR 추적 필요성을 개별적으로 판단
-* naproxen : 250\~500 ㎎ bid prn <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 250 ㎎ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> 500 ㎎</mark>
-* ibuprofen : <mark style="background-color:yellow;">[200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark></mark>
+* naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">250 ㎎ ·</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">500 ㎎</mark>
+* ibuprofen : [<mark style="background-color:yellow;">200</mark>](https://www.health.kr/drug/A11A0500A0097)<mark style="background-color:yellow;">\~</mark>[<mark style="background-color:yellow;">400</mark>](https://www.health.kr/drug/A11A0500A0131) <mark style="background-color:yellow;">㎎ tid prn</mark> <mark style="color:blue;">\[부루펜]</mark>
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
 * acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark>
   * <mark style="background-color:yellow;">카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임</mark>
@@ -256,12 +225,12 @@ flowchart TD
 ### <mark style="color:orange;">근이완제</mark>
 
 * 통증성 근연축이 뚜렷할 때 단기간 선택
-* eperisone : 50 ㎎ tid 식후 <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">에릭슨</mark>](https://www.health.kr/drug/A11AOOOOO3867)<mark style="color:blue;">]</mark></mark>. 중증 근무력증에서는 금기. 드물게 쇼크·아나필락시스 및 중증피부반응 가능
-* tizanidine : 허가 용법은 1회 1\~2 ㎎, 1일 3회 식후 <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark></mark>. 졸음·저혈압·서맥 및 간기능 이상에 주의. 현저한 간기능 장애 환자 및 강력한 CYP1A2 억제제(fluvoxamine·ciprofloxacin 등) 병용은 금기
+* eperisone : 50 ㎎ tid 식후 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에릭슨</mark>](https://www.health.kr/drug/A11AOOOOO3867)<mark style="color:blue;">]</mark>. 중증 근무력증에서는 금기. 드물게 쇼크·아나필락시스 및 중증피부반응 가능
+* tizanidine : 허가 용법은 1회 1\~2 ㎎, 1일 3회 식후 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark>. 졸음·저혈압·서맥 및 간기능 이상에 주의. 현저한 간기능 장애 환자 및 강력한 CYP1A2 억제제(fluvoxamine·ciprofloxacin 등) 병용은 금기
   * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 허가 외 용법
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
-  * 속방정 10 ㎎ tid <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://www.health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> (2026년 11월 현재 장기 품절, 2027년 1월 이후 공급 예상)</mark>
-  * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark></mark>
+  * 속방정 10 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://www.health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">(2026년 11월 현재 장기 품절, 2027년 1월 이후 공급 예상)</mark>
+  * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark>
   * ER 제제는 고령자·간장애 환자에게 투여하지 않음. 속방정도 DUR상 65세 이상 연령금기가 있으므로 고령자의 대체 제형으로 사용하지 않음
   * MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증에서도 금기
 * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
@@ -348,7 +317,7 @@ flowchart TD
 >
 > 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽다른 단일제·복합제의 acetaminophen을 합산하여 성인 총량 4 g/d를 넘지 않도록 함. 반복·장기 사용에서는 통상 3 g/d 이하를 권장하며 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정함. 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 확인함. NSAID 금기 환자에서는 acetaminophen 투여 적합성을 별도로 판단함. Warfarin 복용 환자가 수일간 반복 복용하면 INR 변화를 고려함(☞ [통증](../220_/001_-pain.md))._
+> _✽다른 단일제·복합제의 acetaminophen을 합산하여 성인 총량 4 g/d를 넘지 않도록 함. 반복·장기 사용에서는 통상 3 g/d 이하를 권장하며 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정함. 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 확인함. NSAID 금기 환자에서는 acetaminophen 투여 적합성을 별도로 판단함. Warfarin 복용 환자가 수일간 반복 복용하면 INR 변화를 고려함(☞_ [_통증_](../220_/001_-pain.md)_)._
 
 > **처방례 2. Eperisone 대신 cyclobenzaprine을 선택하는 경우**
 >
@@ -439,9 +408,8 @@ flowchart TD
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항과 심사지침. 제9장 처치 및 수술료 등.](https://www.hira.or.kr/ebooksc/2024/08/BZ202408190383445.pdf) - 경피적 척추 고주파 열응고술(자482-1), 보건복지부 고시 제2020-19호
-* [건강보험심사평가원. Pregabalin 일반형 경구제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0013&sno=6) - 신경병증성 통증 등 인정 범위
-* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239&tp=notice) - 시클펜정 공급 예상 시점
-
+* [건강보험심사평가원. Pregabalin 일반형 경구제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) - 신경병증성 통증 등 인정 범위
+* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239\&tp=notice) - 시클펜정 공급 예상 시점
 
 ***
 
