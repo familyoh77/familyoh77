@@ -149,7 +149,7 @@
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
-* <mark style="background-color:yellow;">항암 치료 중 호중구감소성 감염이 의심되면 ANC 결과를 기다리지 않고 응급 평가·치료가 가능한 병원으로 즉시 의뢰 <mark style="color:$info;">\[NICE CG151]</mark></mark>
+* <mark style="background-color:yellow;">항암 치료 중 호중구감소성 감염이 의심되면 ANC 결과를 기다리지 않고 응급 평가·치료가 가능한 병원으로 즉시 의뢰</mark> <mark style="background-color:yellow;"></mark><mark style="color:$info;"><mark style="background-color:yellow;">\[NICE CG151]<mark style="background-color:yellow;"></mark>
 
 ***
 
@@ -183,7 +183,7 @@ flowchart TD
     style C fill:#fff59d
 ```
 
-<p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·<mark style="background-color:yellow;">CG151</mark>, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+<p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·</mark><mark style="background-color:yellow;"><mark style="color:$info;">CG151</mark></mark><mark style="color:$info;">, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
 
 ***
 
@@ -583,7 +583,7 @@ flowchart TD
 * [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
 * [Weiss SL, et al. Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026. Pediatr Crit Care Med. 2026;27(4):379-434.](https://doi.org/10.1097/PCC.0000000000003927) - 소아 패혈증·패혈성 쇼크의 초기 평가·치료 및 항균제 투여 시점
 * [Taplitz RA, et al. Outpatient Management of Fever and Neutropenia in Adults Treated for Malignancy: ASCO/IDSA Clinical Practice Guideline Update. J Clin Oncol. 2018;36(14):1443-1453.](https://doi.org/10.1200/JCO.2017.77.6211) - 항암 치료를 받는 성인의 호중구감소성 발열 및 초기 경험적 항균제 투여 시점
-* <mark style="background-color:yellow;">[NICE. Neutropenic sepsis: prevention and management in people with cancer. CG151. 2012.](https://www.nice.org.uk/guidance/cg151/chapter/recommendations) - 항암 치료 중 호중구감소성 패혈증이 의심될 때의 즉시 의뢰와 치료</mark>
+* [<mark style="background-color:yellow;">NICE. Neutropenic sepsis: prevention and management in people with cancer. CG151. 2012.</mark>](https://www.nice.org.uk/guidance/cg151/chapter/recommendations) <mark style="background-color:yellow;">- 항암 치료 중 호중구감소성 패혈증이 의심될 때의 즉시 의뢰와 치료</mark>
 * [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
 * [Barletta JF, et al. Society of Critical Care Medicine guidelines for the treatment of heat stroke. Crit Care Med. 2025;53(2):e490-e500.](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke) - 열사병의 적극적 냉각·초기 치료; 감염성 발열의 해열과 구분
 * [Rogal SS, et al. AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022;76(3):819-853.](https://doi.org/10.1002/hep.32378) - 간경변에서 acetaminophen의 통상 최대 2 g/d 사용; 수록 제품의 심한 간장애 금기와 구분
