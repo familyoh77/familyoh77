@@ -115,7 +115,7 @@
 * 감염이 의심되며 새로 발생한 장기기능장애(핍뇨, 저산소증, 혼돈 등) 또는 말초 저관류 소견(모세혈관 재충전 지연, 얼룩덜룩한 피부, 차가운 사지) `패혈증`
 * 발열과 경부 강직·광선공포·심한 두통 등으로 세균성 수막염이 의심되거나, 의식 변화·경련 또는 새로운 국소신경학적 결손이 동반 `세균성 수막염` `뇌염`
 * 빠르게 진행·확산하는 비창백성 점상출혈·자반, 전신 상태와 무관한 2 ㎜를 넘는 비창백성 출혈성 자반, 또는 비창백성 발진에 전신 상태 불량 동반 `수막구균혈증`
-* <mark style="background-color:yellow;">골수억제 항암 치료 중 발열 또는 감염을 의심할 만한 새로운 전신 상태 악화(ANC 미확인 포함)</mark> `호중구감소성 발열` `호중구감소성 패혈증`
+* 골수억제 항암 치료 중 발열 또는 감염을 의심할 만한 새로운 전신 상태 악화(ANC 미확인 포함) `호중구감소성 발열` `호중구감소성 패혈증`
 * 열과 함께 점막 침범, 광범위 수포 또는 표피박리 `SJS/TEN`
 * 의심 약물 노출 후 수분\~수시간 내 발생한 기관지경련·후두 증상 또는 저혈압 `아나필락시스` <mark style="color:$info;">\[WAO 2020]</mark>
 * 약물 과민반응이 의심되며 빠르게 진행하는 간·신장 손상 등 중증 장기 침범 `중증 DRESS`
@@ -149,7 +149,11 @@
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
-* <mark style="background-color:yellow;">항암 치료 중 호중구감소성 감염이 의심되면 ANC 결과를 기다리지 않고 응급 평가·치료가 가능한 병원으로 즉시 의뢰 <mark style="color:$info;">\[NICE CG151]</mark></mark>
+<<<<<<< HEAD
+* 항암 치료 중 호중구감소성 감염이 의심되면 ANC 결과를 기다리지 않고 응급 평가·치료가 가능한 병원으로 즉시 의뢰 <mark style="color:$info;">\[NICE CG151]</mark>
+=======
+* <mark style="background-color:yellow;">항암 치료 중 호중구감소성 감염이 의심되면 ANC 결과를 기다리지 않고 응급 평가·치료가 가능한 병원으로 즉시 의뢰</mark> <mark style="background-color:yellow;"></mark><mark style="color:$info;"><mark style="background-color:yellow;">\[NICE CG151]<mark style="background-color:yellow;"></mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 
 ***
 
@@ -183,7 +187,11 @@ flowchart TD
     style C fill:#fff59d
 ```
 
-<p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·<mark style="background-color:yellow;">CG151</mark>, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+<<<<<<< HEAD
+<p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·CG151, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+=======
+<p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·</mark><mark style="background-color:yellow;"><mark style="color:$info;">CG151</mark></mark><mark style="color:$info;">, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 
 ***
 
@@ -191,7 +199,7 @@ flowchart TD
 
 * 임상적으로 안정한 저위험 환자에서 명백한 급성 바이러스 감염 임상상이라면 보통 검사는 불필요함
 * 발열 기간이 짧더라도 호중구감소성 발열 의심, 혈역학적 불안정, 중증 국소 감염 등 즉각 조치 소견이 있으면 즉시 평가
-  * <mark style="background-color:yellow;">호중구감소성 발열의 진단에 사용하는 ANC 기준은 ＜500/㎣이거나 48시간 내 ＜500/㎣로 감소할 것으로 예상되는 경우임. 발열 기준은 위 체온 측정 절 참조</mark>
+  * 호중구감소성 발열의 진단에 사용하는 ANC 기준은 ＜500/㎣이거나 48시간 내 ＜500/㎣로 감소할 것으로 예상되는 경우임. 발열 기준은 위 체온 측정 절 참조
   * 상태가 안정된 영아·면역저하자·쇠약한 고령자 등 고위험군은 연령별 평가 경로와 Red Flags 등급에 따라 평가
 
 #### <mark style="color:$primary;">임상 적응증에 따라 고려할 혈액 검사</mark>
@@ -337,7 +345,7 @@ Durack & Street 분류에는 호중구감소성 FUO와 HIV 관련 FUO도 포함�
 
 * 성인 패혈성 쇼크(의심 포함) 또는 쇼크가 없는 probable/definite sepsis에서는 즉시 시작(인지 후 이상적으로 1시간 이내) <mark style="color:$info;">\[SSC 2026]</mark>
 * 성인 possible sepsis without shock : 감염 가능성을 신속히 재평가하고, 임상적으로 세균 감염 가능성이 지속되면 최초 의심 후 3시간 이내 항생제 시작 <mark style="color:$info;">\[SSC 2026]</mark>
-  * <mark style="background-color:yellow;">3시간은 최초 의심 시점부터의 항생제 투여 목표임. 외래에서 신속한 평가와 면밀한 관찰이 불가능하면 지체 없이 병원으로 의뢰</mark>
+  * 3시간은 최초 의심 시점부터의 항생제 투여 목표임. 외래에서 신속한 평가와 면밀한 관찰이 불가능하면 지체 없이 병원으로 의뢰
 * 항암 치료를 받는 성인의 호중구감소성 발열에서는 내원 후 초기 분류(triage)부터 1시간 이내에 첫 경험적 항균제를 투여 <mark style="color:$info;">\[ASCO/IDSA 2018]</mark>
 * 기타 중증 세균 감염에서는 임상적으로 신속히 시작
 * 안정적이고 바이러스 감염이 의심되며 세균 감염 근거가 부족한 경우에는 관찰 가능
@@ -583,7 +591,11 @@ flowchart TD
 * [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
 * [Weiss SL, et al. Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026. Pediatr Crit Care Med. 2026;27(4):379-434.](https://doi.org/10.1097/PCC.0000000000003927) - 소아 패혈증·패혈성 쇼크의 초기 평가·치료 및 항균제 투여 시점
 * [Taplitz RA, et al. Outpatient Management of Fever and Neutropenia in Adults Treated for Malignancy: ASCO/IDSA Clinical Practice Guideline Update. J Clin Oncol. 2018;36(14):1443-1453.](https://doi.org/10.1200/JCO.2017.77.6211) - 항암 치료를 받는 성인의 호중구감소성 발열 및 초기 경험적 항균제 투여 시점
-* <mark style="background-color:yellow;">[NICE. Neutropenic sepsis: prevention and management in people with cancer. CG151. 2012.](https://www.nice.org.uk/guidance/cg151/chapter/recommendations) - 항암 치료 중 호중구감소성 패혈증이 의심될 때의 즉시 의뢰와 치료</mark>
+<<<<<<< HEAD
+* [NICE. Neutropenic sepsis: prevention and management in people with cancer. CG151. 2012.](https://www.nice.org.uk/guidance/cg151/chapter/recommendations) - 항암 치료 중 호중구감소성 패혈증이 의심될 때의 즉시 의뢰와 치료
+=======
+* [<mark style="background-color:yellow;">NICE. Neutropenic sepsis: prevention and management in people with cancer. CG151. 2012.</mark>](https://www.nice.org.uk/guidance/cg151/chapter/recommendations) <mark style="background-color:yellow;">- 항암 치료 중 호중구감소성 패혈증이 의심될 때의 즉시 의뢰와 치료</mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 * [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
 * [Barletta JF, et al. Society of Critical Care Medicine guidelines for the treatment of heat stroke. Crit Care Med. 2025;53(2):e490-e500.](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke) - 열사병의 적극적 냉각·초기 치료; 감염성 발열의 해열과 구분
 * [Rogal SS, et al. AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022;76(3):819-853.](https://doi.org/10.1002/hep.32378) - 간경변에서 acetaminophen의 통상 최대 2 g/d 사용; 수록 제품의 심한 간장애 금기와 구분
@@ -632,8 +644,8 @@ flowchart TD
 * 아이가 짙은 녹색 구토를 하면 즉시 응급실을 방문하십시오
 * 생후 3\~6개월 아기의 체온이 39℃ 이상이면 당일 진료를 받으십시오
 * 어린이의 열이 5일 이상 계속되면 다른 증상이 없어도 당일 진료를 받으십시오
-* <mark style="background-color:yellow;">항암 치료 중 열이 나거나 오한·심한 처짐 등 몸 상태가 갑자기 나빠지면 즉시 항암 치료팀에 연락하거나 응급실로 가십시오. 열이 없거나 혈액검사 결과를 아직 모르는 경우에도 지체하지 마십시오</mark>
-* <mark style="background-color:yellow;">그 밖에 면역억제 치료로 감염 위험이 높은 분은 열이 나면 몸 상태가 괜찮아 보여도 즉시 진료를 받으십시오</mark>
+* 항암 치료 중 열이 나거나 오한·심한 처짐 등 몸 상태가 갑자기 나빠지면 즉시 항암 치료팀에 연락하거나 응급실로 가십시오. 열이 없거나 혈액검사 결과를 아직 모르는 경우에도 지체하지 마십시오
+* 그 밖에 면역억제 치료로 감염 위험이 높은 분은 열이 나면 몸 상태가 괜찮아 보여도 즉시 진료를 받으십시오
 * 최근 1년 이내 해외 말라리아 유행 지역을 여행했거나 국내 말라리아 위험지역에 거주·방문·군 복무한 뒤 오한이 없더라도 열이 나면 당일 진료를 받으십시오. 진드기에 물렸을 가능성이 있는 야외 활동 후 열이 나도 당일 진료를 받으십시오
 
 #### <mark style="color:$primary;">이럴 때는 다시 진료를 받으세요</mark>

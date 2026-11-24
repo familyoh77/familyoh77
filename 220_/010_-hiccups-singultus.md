@@ -263,7 +263,7 @@ flowchart TD
   * 노인·저혈압·낙상 위험 환자
   * 파킨슨병·Lewy body dementia : 증상 악화 가능
   * 병용 시 위험 증가 : 다른 dopamine antagonist(EPS·NMS), QT 연장 약물(부정맥)
-  * <mark style="background-color:yellow;">50 ㎎ 당의정의 분할 적합성이 확인되지 않으면 반정으로 처방하지 않음. 계획한 1회 용량에 맞는 제형을 확인하여 선택</mark>
+  * 50 ㎎ 당의정의 분할 적합성이 확인되지 않으면 반정으로 처방하지 않음. 계획한 1회 용량에 맞는 제형을 확인하여 선택
 
 #### <mark style="color:$primary;">제한적·저근거 대안</mark>
 
@@ -391,7 +391,7 @@ flowchart TD
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
-* <mark style="background-color:yellow;">[U.S. Food and Drug Administration. Tablet Splitting.](https://www.fda.gov/drugs/buying-using-medicine-safely/tablet-splitting) - 품목별 정제 분할 정보와 분할 적합성의 확인</mark>
+* [U.S. Food and Drug Administration. Tablet Splitting.](https://www.fda.gov/drugs/buying-using-medicine-safely/tablet-splitting) - 품목별 정제 분할 정보와 분할 적합성의 확인
 
 ***
 

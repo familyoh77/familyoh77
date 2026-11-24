@@ -14,7 +14,7 @@
 * 기도 폐쇄에 의한 질식(asphyxia), 가스교환 장애 또는 혈역학적 불안정을 초래하는 생명위협성 객혈(출혈량 무관)
 * 다량 또는 빠른 출혈(예: ＞150 ㎖/24h 또는 ≥100 ㎖/h; 통일된 기준은 없음)
 * 안정 시 지속되는 빈호흡(＞30회/분)
-* 새로 발생한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 또는 산소 투여가 필요한 경우)  `급성 호흡 부전`
+* 새로 발생한 저산소혈증 또는 빠르게 하강하는 SpO₂(실내공기 ＜90%, 또는 산소 투여가 필요한 경우) `급성 호흡 부전`
 * 안정 시 호흡곤란
 * 호흡음 감소(혈괴에 의한 기도 폐쇄 의심)
 * 저혈압 또는 수액·승압제 투여가 필요한 혈역학적 불안정
@@ -28,15 +28,15 @@
 * 새로 발생한 원인 불명 객혈·혈담
 * Hb ＜8 g/㎗이면서 즉각 조치 기준에 해당하지 않는 경우
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
-* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡곤란  `심부전`
-* 활동성 결핵을 의심하는 객혈(노출력, 지속 기침, 발열·야간 발한·체중 감소 등)  `폐결핵`
+* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡곤란 `심부전`
+* 활동성 결핵을 의심하는 객혈(노출력, 지속 기침, 발열·야간 발한·체중 감소 등) `폐결핵`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 원인 불명 체중 감소, 피로, 전신 권태감  `폐암`
-* ＞40세이면서 ＞30갑년 흡연력이 있는 객혈  `폐암`
+* 원인 불명 체중 감소, 피로, 전신 권태감 `폐암`
+* ＞40세이면서 ＞30갑년 흡연력이 있는 객혈 `폐암`
   * 위 기준에 해당하지 않더라도 반복 객혈, 원인 불명 체중 감소, 흉부 X선 이상이 있으면 폐암 가능성을 고려
-* 소량이라도 반복되는 객혈  `폐암`
+* 소량이라도 반복되는 객혈 `폐암`
 
 ## <mark style="color:green;">원인 및 감별</mark>
 
@@ -175,12 +175,17 @@ flowchart TD
   * 항응고제 관련 : 마지막 복용·투여 시간·신기능·출혈 중증도·혈전색전 위험을 함께 평가하여 중단 및 reversal 필요성 결정 (☞ 처방례 3)
   * 심부전 : 울혈 시 이뇨제 투여 (☞ [호흡곤란](007_-dyspnea.md#management))
     * nitrate는 혈압이 충분히 유지되는 경우(특히 고혈압성 급성 폐부종) 선택적으로 고려
+<<<<<<< HEAD
+* 소량\~중등도 객혈의 선택적 지혈 보조 : tranexamic acid
+  * 경구 : 원인·출혈 중증도 및 혈전색전증 등 금기를 평가한 뒤 필요한 경우에만 단기 지혈 보조로 고려. 제품의 일반 허가 용법은 1일 750\~2,000 ㎎을 3\~4회 분할 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">트란사민</mark>](https://www.health.kr/drug/2020102900016)<mark style="color:blue;">]</mark>
+=======
 * <mark style="background-color:yellow;">소량\~중등도 객혈의 선택적 지혈 보조 : tranexamic acid</mark>
-  * <mark style="background-color:yellow;">경구 : 원인·출혈 중증도 및 혈전색전증 등 금기를 평가한 뒤 필요한 경우에만 단기 지혈 보조로 고려. 제품의 일반 허가 용법은 1일 750\~2,000 ㎎을 3\~4회 분할 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">트란사민</mark>](https://www.health.kr/drug/2020102900016)<mark style="color:blue;">]</mark></mark>
+  * <mark style="background-color:yellow;">경구 : 원인·출혈 중증도 및 혈전색전증 등 금기를 평가한 뒤 필요한 경우에만 단기 지혈 보조로 고려. 제품의 일반 허가 용법은 1일 750\~2,000 ㎎을 3\~4회 분할 투여</mark> <mark style="background-color:yellow;"></mark><mark style="color:blue;"><mark style="background-color:yellow;">\[<mark style="background-color:yellow;"></mark>[<mark style="color:blue;"><mark style="background-color:yellow;">트란사민<mark style="background-color:yellow;"></mark>](https://www.health.kr/drug/2020102900016)<mark style="color:blue;"><mark style="background-color:yellow;">]<mark style="background-color:yellow;"></mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
     * 금기 : 활동성 혈전색전증, 중증 신부전, 트롬빈 투여 중인 환자, 이 약 또는 구성성분에 대한 과민반응
     * 신중 투여 : 혈전증 병력 또는 고위험 상태(DVT·PE 병력 등), 신부전(혈중농도 상승 가능)
     * 혈뇨, 특히 상부요로 출혈 시 혈괴에 의한 요로폐쇄 가능성 고려
-    * <mark style="background-color:yellow;">안정된 외래 객혈에서 경구 TXA의 일률적 사용을 뒷받침하는 근거는 부족함. TXA-NEB는 정맥 TXA를 포함한 표준치료에 흡입제를 추가한 시험임</mark>
+    * 안정된 외래 객혈에서 경구 TXA의 일률적 사용을 뒷받침하는 근거는 부족함. TXA-NEB는 정맥 TXA를 포함한 표준치료에 흡입제를 추가한 시험임
   * 흡입 : 허가 외 사용으로 의료기관에서 선택적으로 시행 (☞ 처방례 4)
     * 용법 : 주사용 제제 500 ㎎/5 ㎖를 nebulizer로 q8h (일부 RCT 근거; TXA-NEB 2025에서는 2일)
     * 시행 전 사용 제제·무균 조제·희석·장비 적합성과 기관 protocol 확인
@@ -240,7 +245,11 @@ flowchart TD
 ## <mark style="color:purple;">처방례</mark>
 
 {% hint style="warning" %}
-<mark style="background-color:yellow;">**경구 TXA의 선택적 사용** : 먼저 객혈의 원인과 중증도를 평가하고 활동성 혈전색전증·중증 신부전 등 금기와 혈전 병력을 확인함. 필요시 경구 TXA를 단기 지혈 보조로 별도 고려함(☞ 약물 치료). 결핵·종양 등 원인 평가를 지연하지 않음.</mark>
+<<<<<<< HEAD
+**경구 TXA의 선택적 사용** : 먼저 객혈의 원인과 중증도를 평가하고 활동성 혈전색전증·중증 신부전 등 금기와 혈전 병력을 확인함. 필요시 경구 TXA를 단기 지혈 보조로 별도 고려함(☞ 약물 치료). 결핵·종양 등 원인 평가를 지연하지 않음.
+=======
+<mark style="background-color:yellow;">**경구 TXA의 선택적 사용**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">: 먼저 객혈의 원인과 중증도를 평가하고 활동성 혈전색전증·중증 신부전 등 금기와 혈전 병력을 확인함. 필요시 경구 TXA를 단기 지혈 보조로 별도 고려함(☞ 약물 치료). 결핵·종양 등 원인 평가를 지연하지 않음.</mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 {% endhint %}
 
 > **처방례 1. 소량 객혈 - 지역사회획득폐렴(CAP)이 임상적으로 의심되는 경우**
@@ -249,9 +258,13 @@ flowchart TD
 > 오구멘틴정 625 ㎎ 1T tid × 7일 (amoxicillin 500 ㎎ + clavulanate 125 ㎎, CAP 치료)
 > ```
 >
-> 약제 정보: <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">오구멘틴정</mark>](https://www.health.kr/drug/A11A1130A0289)<mark style="color:blue;">]</mark> 625 ㎎</mark>
+<<<<<<< HEAD
+> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">오구멘틴정</mark>](https://www.health.kr/drug/A11A1130A0289)<mark style="color:blue;">]</mark> 625 ㎎
+=======
+> 약제 정보: <mark style="color:blue;"><mark style="background-color:yellow;">\[<mark style="background-color:yellow;"></mark>[<mark style="color:blue;"><mark style="background-color:yellow;">오구멘틴정<mark style="background-color:yellow;"></mark>](https://www.health.kr/drug/A11A1130A0289)<mark style="color:blue;"><mark style="background-color:yellow;">]<mark style="background-color:yellow;"></mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">625 ㎎</mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 >
-> _<mark style="background-color:yellow;">✽ 외래 치료가 가능한 안정된 CAP 예시. 항생제는 식사 시작 시 복용하고 48\~72시간 내 반응·임상 안정성을 재평가하여 기간을 조정</mark>_
+> _✽ 외래 치료가 가능한 안정된 CAP 예시. 항생제는 식사 시작 시 복용하고 48\~72시간 내 반응·임상 안정성을 재평가하여 기간을 조정_
 >
 > _✽ 항생제는 중증도·동반질환·비정형 병원체 가능성과 지역 내성 양상에 따라 선택함. 2018 성인 지역사회획득폐렴 지침은 β-lactam 단독요법을 인정하며, 비정형 폐렴이 의심되면 macrolide 병용을 고려함 (☞_ [_폐렴_](../223_/068_-pneumonia.md)_)_
 >
@@ -263,7 +276,11 @@ flowchart TD
 > 레보투스정 60 ㎎ 1T tid, 적어도 6시간 간격 (필요시, 단기간)
 > ```
 >
-> 약제 정보: <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">레보투스정</mark>](https://www.health.kr/drug/A11APPPPP1200)<mark style="color:blue;">]</mark> 60 ㎎</mark>
+<<<<<<< HEAD
+> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레보투스정</mark>](https://www.health.kr/drug/A11APPPPP1200)<mark style="color:blue;">]</mark> 60 ㎎
+=======
+> 약제 정보: <mark style="color:blue;"><mark style="background-color:yellow;">\[<mark style="background-color:yellow;"></mark>[<mark style="color:blue;"><mark style="background-color:yellow;">레보투스정<mark style="background-color:yellow;"></mark>](https://www.health.kr/drug/A11APPPPP1200)<mark style="color:blue;"><mark style="background-color:yellow;">]<mark style="background-color:yellow;"></mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">60 ㎎</mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 >
 > _✽ 진해제가 필요한 경우에만 선택하며 객혈의 확정적 지혈 치료가 아님. 가래가 많거나 점액섬모 청소기능이 저하된 경우, 중증 간장애에서는 레보드로프로피진을 사용하지 않음. 통상 24\~48시간 이내 경과를 확인하고, 악화·객혈 증가 시 즉시 진료_
 >
@@ -325,7 +342,7 @@ flowchart TD
 
 > **tranexamic acid (트란사민) - 경구/흡입**
 >
-> * <mark style="background-color:yellow;">경구는 출혈 원인·중증도와 금기를 평가한 뒤 의료진이 선택한 경우에만 단기 지혈 보조로 사용합니다. 결핵·종양 등 원인 평가를 지연시키지 않아야 합니다</mark>
+> * 경구는 출혈 원인·중증도와 금기를 평가한 뒤 의료진이 선택한 경우에만 단기 지혈 보조로 사용합니다. 결핵·종양 등 원인 평가를 지연시키지 않아야 합니다
 > * 활동성 혈전색전증·중증 신부전 환자 및 트롬빈 투여 중인 환자에게는 투여하지 않으며, DVT·PE 병력·고위험 상태에서는 신중히 투여합니다
 > * 혈뇨, 특히 상부요로 출혈에서는 혈괴에 의한 요로폐쇄 가능성을 설명합니다
 > * 흡입(nebulizer) 투여는 허가 외 사용(off-label)이며 천식·COPD 환자에서 기관지 경련 가능성을 사전에 설명합니다
@@ -361,7 +378,11 @@ flowchart TD
 * [Tomaselli GF, et al. 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants. J Am Coll Cardiol. 2020;76(5):594-622.](https://pubmed.ncbi.nlm.nih.gov/32680646/) - 항응고제 관련 중증 출혈의 약물 중단·역전·재개 판단; 이후 안전성 정보와 함께 해석
 * [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 종료 관련 자료
 * [Agrawal A, et al. Efficacy and safety of tranexamic acid nebulization to control bleeding of hemoptysis: The TXA-NEB randomized controlled clinical trial. Indian J Pharmacol. 2025;57(6):392-400.](https://pubmed.ncbi.nlm.nih.gov/41221568/) - 비생명위협성 객혈에서 500 ㎎/5 ㎖ q8h, 2일 보조치료 연구
-* <mark style="background-color:yellow;">[Prutsky G, et al. Antifibrinolytic therapy to reduce haemoptysis from any cause. Cochrane Database Syst Rev. 2012;(4):CD008711.](https://doi.org/10.1002/14651858.CD008711.pub2) - 경구·정맥 항섬유소용해제의 객혈 치료 근거에 대한 검토</mark>
+<<<<<<< HEAD
+* [Prutsky G, et al. Antifibrinolytic therapy to reduce haemoptysis from any cause. Cochrane Database Syst Rev. 2012;(4):CD008711.](https://doi.org/10.1002/14651858.CD008711.pub2) - 경구·정맥 항섬유소용해제의 객혈 치료 근거에 대한 검토
+=======
+* [<mark style="background-color:yellow;">Prutsky G, et al. Antifibrinolytic therapy to reduce haemoptysis from any cause. Cochrane Database Syst Rev. 2012;(4):CD008711.</mark>](https://doi.org/10.1002/14651858.CD008711.pub2) <mark style="background-color:yellow;">- 경구·정맥 항섬유소용해제의 객혈 치료 근거에 대한 검토</mark>
+>>>>>>> 0aef5a1005b6b1fcee231eef4b673bdaeda05c4f
 * [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://academic.oup.com/eurheartj/article/42/36/3599/6358045) - 급성 심부전에서 혈압에 따른 혈관확장제 선택
 * [Steffel J, et al. 2021 European Heart Rhythm Association Practical Guide on the Use of Non-Vitamin K Antagonist Oral Anticoagulants in Patients with Atrial Fibrillation. Europace. 2021;23(10):1612-1676.](https://academic.oup.com/europace/article/23/10/1612/6247378) - DOAC의 신기능·CrCl 평가
 * [Lee MS, et al. Guideline for Antibiotic Use in Adults with Community-acquired Pneumonia. Infect Chemother. 2018;50(2):160-198.](https://doi.org/10.3947/ic.2018.50.2.160) - 외래 CAP의 경험적 항생제 선택
