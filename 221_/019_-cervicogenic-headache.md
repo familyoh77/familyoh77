@@ -1,12 +1,12 @@
-# 경추성 두통 Cervicogenic headache
+# 경추성두통 Cervicogenic Headache
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 이차성 두통
+* 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 <mark style="background-color:yellow;">2차성 두통</mark>
 * ICHD 기준을 적용한 유병률 자료는 매우 제한적임 <mark style="color:$info;">\[Cephalalgia 2025]</mark>
-  * <mark style="background-color:yellow;">2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음</mark>
-  * <mark style="background-color:yellow;">일반 인구 대상 연구 1건에서 유병률 3.9%, 두통 전문 외래 연구에서 통합 상대빈도 약 3.1%</mark>
-  * <mark style="background-color:yellow;">연구 수가 적고 선택·측정 편향 가능성이 있어 해석에 주의</mark>
+  * 2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음
+  * 일반 인구 대상 연구 1건에서 유병률 3.9%, 두통 전문 외래 연구에서 통합 상대빈도 약 3.1%
+  * 연구 수가 적고 선택·측정 편향 가능성이 있어 해석에 주의
 * 진단에는 단순한 퇴행성 영상 소견이 아니라, 두통을 유발할 수 있는 병변과 두통 사이의 인과관계가 필요함
   * 편두통·긴장형두통에서도 목 통증, 경부 압통 및 운동 제한이 흔하므로 이러한 소견만으로 경추성두통을 진단하지 않음
 * 편두통 등 다른 두통 질환과 경추성두통을 함께 진단하려면 각각의 진단 기준을 독립적으로 충족해야 함
@@ -20,7 +20,7 @@
 
 * 경추 관절·추간판 질환, 염증성 또는 구조적 병변
 * 장시간의 고정된 자세, 반복적인 경부 작업 및 부적절한 작업 환경은 경부 근골격 증상을 악화시킬 수 있으나, 경추성두통의 확립된 독립 위험인자로 단정하지 않음
-* 편타손상 당시 목 통증 또는 두통이 있었고 손상 후 7일 이내 두통이 시작되는 등 ICHD-3 기준을 충족하면 <mark style="background-color:yellow;">경추성두통보다</mark> 편타손상 기인 급성 또는 지속성 두통으로 우선 분류 <mark style="color:$info;">\[ICHD-3]</mark>
+* 편타손상 당시 목 통증 또는 두통이 있었고 손상 후 7일 이내 두통이 시작되는 등 ICHD-3 기준을 충족하면 경추성두통보다 편타손상 기인 급성 또는 지속성 두통으로 우선 분류 <mark style="color:$info;">\[ICHD-3]</mark>
 * 두통 전문 외래 연구에서 여성 환자의 비율이 높게 보고되지만 근거 연구가 적어 성별을 확립된 위험인자로 제시하기 어려움
 
 #### <mark style="color:$primary;">주요 원인 구조물</mark>
@@ -40,7 +40,7 @@
 * 더 아래 후관절 : 하부 경부·견갑대·어깨 방향의 통증 비중이 커짐
 
 {% hint style="info" %}
-<mark style="background-color:yellow;">위의 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성됨. 관절별 통증 영역은 서로 겹치므로 통증 위치만으로 원인 관절을 확정하거나 차단 표적을 결정하지 않음</mark>
+위의 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성됨. 관절별 통증 영역은 서로 겹치므로 통증 위치만으로 원인 관절을 확정하거나 차단 표적을 결정하지 않음
 {% endhint %}
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -54,13 +54,13 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
 
-<mark style="background-color:yellow;">(☞</mark> [<mark style="background-color:yellow;">두통 Red Flags</mark>](015_-headache.md#red-flags)<mark style="background-color:yellow;">)</mark>
+(☞ [두통 Red Flags](015_-headache.md#red-flags))
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 새로 생긴 두통 또는 경부통에 동반된 부분 호너증후군(안검하수·축동) `경동맥 박리`
 * 새로 생긴 두통 또는 경부통에 동반된 복시·구음장애·연하곤란·운동실조 또는 편측 신경학적 결손 `경동맥 박리` `척추동맥 박리` `뇌혈관질환`
-* <mark style="background-color:yellow;">최근 경부 외상·경부 수기조작 후 새로 생긴 편측 두통 또는 경부통, 또는 갑자기 시작된 평소와 다른 편측 두통·경부통</mark> `경동맥 박리` `척추동맥 박리`
+* 최근 경부 외상·경부 수기조작 후 새로 생긴 편측 두통 또는 경부통, 또는 갑자기 시작된 평소와 다른 편측 두통·경부통 `경동맥 박리` `척추동맥 박리`
 * 급성 또는 빠르게 진행하는 근력저하, 새로 생긴 보행장애 또는 대소변 장애 `척수 압박`
 * 심한 새 두통에 고열, 수막자극징후 또는 의식 변화가 동반되거나, 면역저하 상태에서 심한 두통 또는 경부통 발생 `수막염` `경막외농양`
 * 외상 후 경추 정중선 압통 또는 신경학적 이상, 고에너지 외상 후 심한 경부통 `경추 골절`
@@ -70,7 +70,7 @@
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 서서히 진행하는 손의 미세운동 저하·감각이상, 반사항진·병적반사 또는 보행 불안정 `경추척수증`
-* <mark style="background-color:yellow;">경부통·두통에 발열·체중감소·지속적인 야간통이 동반되거나 암·감염 과거력이 있음</mark> `척추 감염` `전이암`
+* 경부통·두통에 발열·체중감소·지속적인 야간통이 동반되거나 암·감염 과거력이 있음 `척추 감염` `전이암`
 * **(당일)** 50세 이상에서 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상이 동반 `거대세포동맥염`
 * 류마티스관절염 환자의 새 상부 경부통·두통 `환축추 불안정성`
 
@@ -114,15 +114,15 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-* 편두통의 경부 증상, 긴장형두통 및 경부 근막통증
+* <mark style="background-color:yellow;">[편두통](016_-migraine.md)</mark>의 경부 증상, <mark style="background-color:yellow;">[긴장형두통](017_-tension-type-headache.md)</mark> 및 경부 근막통증
 * 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상, 해당 신경의 국소마취 차단으로 일시적 완화
 * 상부 경추 신경근병증
-* 지속반두통(hemicrania continua), 돌발반두통(paroxysmal hemicrania)
-* 턱관절질환(TMD), 인두뒤건염, 두개경부 근긴장이상
+* <mark style="background-color:yellow;">[지속반두통](018_-chronic-headache.md#hemicrania-continua)</mark>(hemicrania continua), <mark style="background-color:yellow;">[돌발반두통](018_-chronic-headache.md#short-lasting-headache)</mark>(paroxysmal hemicrania)
+* <mark style="background-color:yellow;">턱관절 장애(TMD)</mark>, 인두뒤건염, 두개경부 근긴장이상
 * 급성 또는 지속성 편타손상 기인 두통
 * 경부동맥 박리(경동맥·척추동맥), 거대세포동맥염
 * 수막염·경추 감염, 종양, 류마티스관절염의 환축추 불안정성, Chiari I 기형
-* <mark style="background-color:yellow;">폐쇄수면무호흡증(OSA) : 아침 두통에 비만·심한 코골이·목격된 무호흡·주간 졸림 또는 저항성 고혈압이 동반되면 STOP-Bang 등으로 위험을 평가하고 수면검사 고려</mark>
+* 폐쇄수면무호흡증(OSA) : 아침 두통에 비만·심한 코골이·목격된 무호흡·주간 졸림 또는 저항성 고혈압이 동반되면 STOP-Bang 등으로 위험을 평가하고 수면검사 고려
 
 ### <mark style="color:orange;">신체검사</mark>
 
@@ -139,17 +139,17 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">검사</mark>
 
 * 전형적이고 안정적인 증상, 정상 신경학적 진찰 및 Red Flag가 없는 경우 진단을 위한 일률적 영상검사는 필요하지 않음
-  * 증상이 지속되거나 <mark style="background-color:yellow;">예상 경과와 다르거나</mark> 구조적 병변이 의심되면 비조영 경추 MRI를 선택적으로 고려할 수 있으나 경추성두통의 확진 검사는 아님
+  * 증상이 지속되거나 예상 경과와 다르거나 구조적 병변이 의심되면 비조영 경추 MRI를 선택적으로 고려할 수 있으나 경추성두통의 확진 검사는 아님
 * 경추 MRI : 진행성 신경학적 이상, 척수증·신경근병증, 염증성 질환 또는 수술 가능한 구조적 병변 의심 시
   * 감염·종양이 의심되면 일반적으로 조영 전·후 경추 MRI를 우선 고려
 * 경추 CT : 급성 외상에서 영상검사가 필요하면 골절 평가에 비조영 경추 CT
 * CTA 또는 MRI/MRA : 경부동맥 박리(경동맥·척추동맥)가 의심되면 외래 검사를 기다리지 말고 응급실로 의뢰하여 임상 상황에 따라 시행
-* ESR·CRP·CBC : 50세 이상 새 두통과 턱파행·두피 압통·전신 증상 등으로 거대세포동맥염이 의심될 때 <mark style="background-color:yellow;">당일 긴급 평가</mark> <mark style="color:$info;">\[Rheumatology (Oxford) 2020]</mark>
-  * <mark style="background-color:yellow;">정상 염증 수치만으로 완전히 배제되지 않음</mark>
-  * <mark style="background-color:yellow;">시각 증상이 있으면 응급 평가·치료</mark>
-  * <mark style="background-color:yellow;">시각 증상이 없더라도 임상적으로 강하게 의심되면 확진검사 결과를 기다리지 않고 고용량 스테로이드 치료를 시작</mark>
+* ESR·CRP·CBC : 50세 이상 새 두통과 턱파행·두피 압통·전신 증상 등으로 거대세포동맥염이 의심될 때 당일 긴급 평가 <mark style="color:$info;">\[Rheumatology (Oxford) 2020]</mark>
+  * 정상 염증 수치만으로 완전히 배제되지 않음
+  * 시각 증상이 있으면 응급 평가·치료
+  * 시각 증상이 없더라도 임상적으로 강하게 의심되면 확진검사 결과를 기다리지 않고 고용량 스테로이드 치료를 시작
 * 단순 X선·MRI·CT는 경추성두통의 확진 검사가 아니며 영상-임상 불일치에 주의
-* 원인 후관절이 의심되고 고주파 치료 등을 고려할 때에는 영상 유도 진단적 medial branch 또는 third occipital nerve block을 <mark style="background-color:yellow;">통증중재 전문의</mark>에게 의뢰
+* 원인 후관절이 의심되고 고주파 치료 등을 고려할 때에는 영상 유도 진단적 medial branch 또는 third occipital nerve block을 통증중재 전문의에게 의뢰
 
 ***
 
@@ -183,7 +183,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 심부 경부 굴곡근의 저부하 지구력 운동과 경추 안정화 운동
 * 견갑대 근지구력·안정화 운동 및 필요한 경우 흉추 운동
 * 환자의 기능장애에 맞춘 상부 경추 관절가동술(mobilization), SNAGs 등
-* 2026년 네트워크 메타분석에서도 복합 비-약물 치료가 단일 치료나 <mark style="background-color:yellow;">약물 치료</mark>보다 단기적으로 유리했으나, 중재별 연구 규모·진단 기준·치료 구성의 이질성이 커 특정 조합을 표준 치료로 단정하기는 어려움 <mark style="color:$info;">\[Eur J Pain 2026]</mark>
+* 2026년 네트워크 메타분석에서도 복합 비-약물 치료가 단일 치료나 약물 치료보다 단기적으로 유리했으나, 중재별 연구 규모·진단 기준·치료 구성의 이질성이 커 특정 조합을 표준 치료로 단정하기는 어려움 <mark style="color:$info;">\[Eur J Pain 2026]</mark>
 * 건침(dry needling)은 숙련된 치료자가 복합 비-약물 치료의 보조요법으로 선택할 수 있으나 근거는 주로 단기 효과에 한정되며 핵심 치료인 능동적 운동을 대체하지 않음
 * 온열·냉찜질은 환자 선호에 따라 단기 증상 완화에 사용할 수 있음. TENS의 경추성두통에 대한 직접 근거는 부족하며 선택적으로 시험할 수 있음
 
@@ -191,10 +191,10 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 * 저속 관절가동술과 상부 경추 고속저진폭 조작(manipulation)을 구분
 * Hautant·Underberg 등 VBI positional test는 혈관병리 위험을 신뢰성 있게 배제하지 못하므로 선별검사로 권고하지 않음
-* <mark style="background-color:yellow;">조작 전 병력과 신경학적 진찰로 다음을 평가</mark>
-  * <mark style="background-color:yellow;">최근 갑작스럽거나 평소와 다른 두통·경부통</mark>
-  * <mark style="background-color:yellow;">부분 호너증후군, 복시·구음장애·연하곤란·운동실조 등 뇌신경 증상</mark>
-  * <mark style="background-color:yellow;">최근 외상·감염, 혈관·결합조직질환 위험</mark>
+* 조작 전 병력과 신경학적 진찰로 다음을 평가
+  * 최근 갑작스럽거나 평소와 다른 두통·경부통
+  * 부분 호너증후군, 복시·구음장애·연하곤란·운동실조 등 뇌신경 증상
+  * 최근 외상·감염, 혈관·결합조직질환 위험
 * 경부 혈관병리가 의심되면 조작을 시행하지 말고 즉시 응급 평가
 * 고속 경추 조작은 적절한 훈련을 받은 전문가가 이익과 드문 중대한 위험을 설명하고 환자와 상의하여 선택
 
@@ -212,15 +212,15 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">Acetaminophen 또는 NSAID</mark>
 
 * 급성 악화 시 최소 유효용량을 최단 기간 사용
-* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn<mark style="background-color:yellow;">(허가 용법은 4\~6시간 간격이나 이 장에서는 보수적으로 적용)</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
   * 4 g/d는 일반적인 처방 목표가 아니라 선택된 성인의 절대 상한이며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장. 간질환·과음·저체중·고령·영양불량 등 위험 요인이 있으면 더 낮은 상한과 투여 간격을 개별화
   * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(☞ [통증](../220_/001_-pain.md))
   * Warfarin 복용 환자가 acetaminophen을 수일간 반복 복용하면 INR가 상승할 수 있으므로 용량·기간과 INR 추적 필요성을 개별적으로 판단
-* naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">250 ㎎ ·</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">500 ㎎</mark>
-* ibuprofen : [<mark style="background-color:yellow;">200</mark>](https://www.health.kr/drug/A11A0500A0097)<mark style="background-color:yellow;">\~</mark>[<mark style="background-color:yellow;">400</mark>](https://www.health.kr/drug/A11A0500A0131) <mark style="background-color:yellow;">㎎ tid prn</mark> <mark style="color:blue;">\[부루펜]</mark>
+* naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 250 ㎎ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> 500 ㎎
+* ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
-* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark>
-  * <mark style="background-color:yellow;">카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임</mark>
+* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:yellow;">(☞ [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh))</mark>
+  * 카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -229,7 +229,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * tizanidine : 허가 용법은 1회 1\~2 ㎎, 1일 3회 식후 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark>. 졸음·저혈압·서맥 및 간기능 이상에 주의. 현저한 간기능 장애 환자 및 강력한 CYP1A2 억제제(fluvoxamine·ciprofloxacin 등) 병용은 금기
   * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 허가 외 용법
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
-  * 속방정 10 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://www.health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> <mark style="background-color:yellow;">(2026년 11월 현재 장기 품절, 2027년 1월 이후 공급 예상)</mark>
+  * 속방정 10 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://www.health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> (2026년 11월 현재 장기 품절, 2027년 1월 이후 공급 예상)
   * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark>
   * ER 제제는 고령자·간장애 환자에게 투여하지 않음. 속방정도 DUR상 65세 이상 연령금기가 있으므로 고령자의 대체 제형으로 사용하지 않음
   * MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증에서도 금기
@@ -306,7 +306,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 >
 > 약제 정보: [낙센정·250 ㎎](https://www.health.kr/drug/A11A0120A0286) · [에릭슨정·50 ㎎](https://www.health.kr/drug/A11AOOOOO3867)
 >
-> _✽NSAID는 최소 유효용량·최단기간 사용(통상 5\~7일 이내 반응 평가). <mark style="background-color:yellow;">Eperisone은</mark> 단기간 사용하고 발진·두드러기·호흡곤란·어지럼과 저혈압 발생 시 즉시 중단·평가._
+> _✽NSAID는 최소 유효용량·최단기간 사용(통상 5\~7일 이내 반응 평가). Eperisone은 단기간 사용하고 발진·두드러기·호흡곤란·어지럼과 저혈압 발생 시 즉시 중단·평가._
 
 > **처방례 1-1. NSAID 사용이 적절하지 않은 경우**
 >
@@ -357,7 +357,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 > **아세트아미노펜**
 >
-> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. 최소 6시간 간격을 지키고, 위 처방례에서는 하루 3,000 ㎎을 넘지 마십시오.
+> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. <mark style="background-color:yellow;">위 처방례에서는 최소 6시간 간격을 지키고 하루 3,000 ㎎을 넘지 마십시오.</mark>
 > * 에트라빌·센시발을 복용 중이면 타이레놀을 임의로 추가하지 말고 병용 금기를 확인하십시오.
 > * 처방되거나 제품에 표시된 용량을 넘지 말고, 간질환이 있거나 술을 자주 마시는 경우에는 복용 전에 의료진과 상의하십시오.
 
@@ -365,7 +365,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 >
 > * 필요한 기간에만 최소 용량으로 복용하십시오.
 > * 검은 변·토혈, 심한 복통, 소변량 감소, 부종 또는 호흡곤란이 나타나면 복용을 중단하고 진료받으십시오.
-> * 진통제를 자주 복용하면 오히려 두통이 잦아질 수 있습니다. 종류가 다른 단순진통제나 소염진통제를 번갈아 복용해도 복용한 날을 모두 합쳐 한 달에 15일 이상이 되지 않도록 하십시오. <mark style="background-color:yellow;">카페인이 든 복합진통제는 한 달에 10일 이상 복용하지 마십시오.</mark>
+> * 진통제를 자주 복용하면 오히려 두통이 잦아질 수 있습니다. 종류가 다른 단순진통제나 소염진통제를 번갈아 복용해도 복용한 날을 모두 합쳐 한 달에 15일 이상이 되지 않도록 하십시오. 카페인이 든 복합진통제는 한 달에 10일 이상 복용하지 마십시오.
 
 > **근이완제**
 >
@@ -385,7 +385,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 > * 갑자기 평소와 다른 심한 두통·목 통증, 눈꺼풀처짐·동공 크기 차이, 복시·말 어눌함·삼킴곤란·비틀거림이 생기면 즉시 응급실로 가십시오.
 > * 팔다리 힘 빠짐, 감각 이상, 보행 장애 또는 대소변 장애가 새로 생기면 즉시 응급실로 가십시오.
 > * 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않으면 즉시 응급실로 가십시오.
-> * 2\~4주간 적절한 치료에도 호전이 없거나 점차 악화되면 <mark style="background-color:yellow;">다시 진료를 받으십시오.</mark>
+> * 2\~4주간 적절한 치료에도 호전이 없거나 점차 악화되면 다시 진료를 받으십시오.
 
 ***
 
@@ -423,7 +423,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">경추성두통이란 무엇인가요?</mark>
 
-* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 이차성 두통입니다.
+* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 <mark style="background-color:yellow;">2차성 두통</mark>입니다.
 * 한쪽에 나타나는 경우가 많고 목을 움직이거나 특정 자세를 오래 유지할 때 평소 두통이 악화될 수 있습니다.
 * 목 통증과 영상검사의 퇴행성 변화만으로 진단하지 않으며, 목의 병변과 두통 사이의 연관성을 확인해야 합니다.
 
@@ -452,9 +452,10 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 갑자기 평소와 다른 심한 두통·목 통증이 생긴 경우
 * 눈꺼풀처짐·동공 크기 차이, 복시, 말 어눌함, 삼킴곤란 또는 비틀거림이 생긴 경우
 * 팔다리 힘 빠짐·감각 이상·보행 장애·대소변 장애가 새로 생긴 경우
-* <mark style="background-color:yellow;">심한 새 두통과 함께 고열·목 경직·의식 저하가 있는 경우</mark>
-* <mark style="background-color:yellow;">면역력이 떨어진 상태에서 심한 두통이나 목 통증이 생긴 경우</mark>
+* 심한 새 두통과 함께 고열·목 경직·의식 저하가 있는 경우
+* 면역력이 떨어진 상태에서 심한 두통이나 목 통증이 생긴 경우
 * 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않는 경우
 * 외상 후 심한 두통이나 목 통증이 생긴 경우
+* <mark style="background-color:yellow;">목을 다치거나 목 교정·도수치료를 받은 뒤 한쪽 두통이나 목 통증이 새로 생긴 경우</mark>
 
 ***
