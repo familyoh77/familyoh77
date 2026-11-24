@@ -3,7 +3,10 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 이차성 두통
-* ICHD-3 기준을 적용한 유병률 자료는 매우 제한적임. 2025년 체계적 문헌고찰에서 적격 연구는 3건뿐이었으며, 일반 인구 대상 연구 1건에서 유병률 3.9%, 두통 전문 외래 연구에서 통합 상대빈도 약 3.1%가 보고됨. 연구 수가 적고 선택·측정 편향 가능성이 있어 해석에 주의하며 추가 연구가 필요
+* ICHD 기준을 적용한 유병률 자료는 매우 제한적임 <mark style="color:$info;">\[Cephalalgia 2025]</mark>
+  * <mark style="background-color:yellow;">2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음</mark>
+  * <mark style="background-color:yellow;">일반 인구 대상 연구 1건에서 유병률 3.9%, 두통 전문 외래 연구에서 통합 상대빈도 약 3.1%</mark>
+  * <mark style="background-color:yellow;">연구 수가 적고 선택·측정 편향 가능성이 있어 해석에 주의</mark>
 * 진단에는 단순한 퇴행성 영상 소견이 아니라, 두통을 유발할 수 있는 병변과 두통 사이의 인과관계가 필요함
   * 편두통·긴장형두통에서도 목 통증, 경부 압통 및 운동 제한이 흔하므로 이러한 소견만으로 경추성두통을 진단하지 않음
 * 편두통 등 다른 두통 질환과 경추성두통을 함께 진단하려면 각각의 진단 기준을 독립적으로 충족해야 함
@@ -17,8 +20,8 @@
 
 * 경추 관절·추간판 질환, 염증성 또는 구조적 병변
 * 장시간의 고정된 자세, 반복적인 경부 작업 및 부적절한 작업 환경은 경부 근골격 증상을 악화시킬 수 있으나, 경추성두통의 확립된 독립 위험인자로 단정하지 않음
-* 편타손상 등 외상과 시간적으로 연관되어 발생한 두통은 경추성두통보다 ICHD-3의 두경부 외상 또는 손상에 기인한 두통으로 우선 분류
-* 여성 환자의 비율이 높게 보고되지만 근거 연구가 적어 여성에서 4배 호발하는 확립된 위험인자로 제시하기 어려움
+* 편타손상 당시 목 통증 또는 두통이 있었고 손상 후 7일 이내 두통이 시작되는 등 ICHD-3 기준을 충족하면 <mark style="background-color:yellow;">경추성두통보다</mark> 편타손상 기인 급성 또는 지속성 두통으로 우선 분류 <mark style="color:$info;">\[ICHD-3]</mark>
+* 두통 전문 외래 연구에서 여성 환자의 비율이 높게 보고되지만 근거 연구가 적어 성별을 확립된 위험인자로 제시하기 어려움
 
 #### <mark style="color:$primary;">주요 원인 구조물</mark>
 
@@ -37,7 +40,7 @@
 * 더 아래 후관절 : 하부 경부·견갑대·어깨 방향의 통증 비중이 커짐
 
 {% hint style="info" %}
-위의 각 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성되었고, 각 관절이 담당하는 통증 지도가 서로 배타적인 별개의 영역으로 나뉘어 있는 게 아니라 서로 겹치므로 통증 위치만으로 원인 관절을 확정하거나 차단 표적을 결정하지 않음
+<mark style="background-color:yellow;">위의 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성됨. 관절별 통증 영역은 서로 겹치므로 통증 위치만으로 원인 관절을 확정하거나 차단 표적을 결정하지 않음</mark>
 {% endhint %}
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -51,22 +54,24 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark> <a id="red-flags"></a>
 
-☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
+<mark style="background-color:yellow;">(☞ [두통 Red Flags](015_-headache.md#red-flags))</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스럽거나 평소와 전혀 다른 편측 경부통·두통, 안검하수·축동, 복시·구음장애·연하곤란·운동실조·편측 신경학적 결손  `경추동맥 박리` `뇌혈관질환`
-* 의식 변화, 급성 근력저하, 새로운 보행장애 또는 대소변 장애  `척수 압박`
-* 고열·수막자극징후, 면역저하 상태에서 발생한 심한 두통·경부통  `수막염` `경막외농양`
-* 고에너지 외상 후 심한 경부통, 정중선 압통 또는 신경학적 이상  `경추 골절`
-* 50세 이상에서 새 두통과 시력저하·복시·일과성 흑암시가 동반  `거대세포동맥염`
-* 류마티스관절염 환자의 새 상부 경부통·두통에 신경학적 결손 또는 척수증 징후  `신경 압박`
+* 새로 생긴 두통 또는 경부통에 동반된 부분 호너증후군(안검하수·축동)  `경동맥 박리`
+* 새로 생긴 두통 또는 경부통에 동반된 복시·구음장애·연하곤란·운동실조 또는 편측 신경학적 결손  `경동맥 박리` `척추동맥 박리` `뇌혈관질환`
+* <mark style="background-color:yellow;">최근 경부 외상·경부 수기조작 후 새로 생긴 편측 두통 또는 경부통, 또는 갑자기 시작된 평소와 다른 편측 두통·경부통</mark>  `경동맥 박리` `척추동맥 박리`
+* 급성 또는 빠르게 진행하는 근력저하, 새로 생긴 보행장애 또는 대소변 장애  `척수 압박`
+* 심한 새 두통에 고열, 수막자극징후 또는 의식 변화가 동반되거나, 면역저하 상태에서 심한 두통 또는 경부통 발생  `수막염` `경막외농양`
+* 외상 후 경추 정중선 압통 또는 신경학적 이상, 고에너지 외상 후 심한 경부통  `경추 골절`
+* 50세 이상에서 새 두통과 시력저하·복시·일시적 단안 시력 소실(일과성 흑암시)이 동반  `거대세포동맥염`
+* 류마티스관절염 환자의 새 상부 경부통·두통에 신경학적 결손 또는 척수증 징후  `환축추 불안정성` `척수 압박`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 진행하는 근력저하·감각이상, 반사항진, 손의 미세운동 저하 또는 보행 불안정  `경추척수증`
-* 발열, 체중감소, 지속적인 야간통, 암·감염 과거력  `척추 감염` `전이암`
-* 50세 이상 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상 : **당일 평가·치료 결정**, 시각 증상이 생기면 즉시 응급 평가  `거대세포동맥염`
+* 서서히 진행하는 손의 미세운동 저하·감각이상, 반사항진·병적반사 또는 보행 불안정  `경추척수증`
+* <mark style="background-color:yellow;">경부통·두통에 발열·체중감소·지속적인 야간통이 동반되거나 암·감염 과거력이 있음</mark>  `척추 감염` `전이암`
+* **(당일)** 50세 이상에서 새 두통과 두피 압통·턱파행·전신증상·류마티스성 다발근통 증상이 동반  `거대세포동맥염`
 * 류마티스관절염 환자의 새 상부 경부통·두통  `환축추 불안정성`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -110,23 +115,23 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">주요 감별</mark>
 
 * 편두통의 경부 증상, 긴장형두통 및 경부 근막통증
-* 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상
+* 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상, 해당 신경의 국소마취 차단으로 일시적 완화
 * 상부 경추 신경근병증
 * 지속반두통(hemicrania continua), 돌발반두통(paroxysmal hemicrania)
-* 측두하악장애, 인두뒤건염, 두개경부 근긴장이상
+* 턱관절질환(TMD), 인두뒤건염, 두개경부 근긴장이상
 * 급성 또는 지속성 편타손상 기인 두통
-* 경추동맥 박리, 거대세포동맥염
+* 경부동맥 박리(경동맥·척추동맥), 거대세포동맥염
 * 수막염·경추 감염, 종양, 류마티스관절염의 환축추 불안정성, Chiari I 기형
-* 비만, 심한 코골이, 목격된 무호흡, 주간 졸림 또는 저항성 고혈압과 아침 두통이 동반되면 STOP-Bang 등으로 폐쇄성수면무호흡 위험을 평가하고 수면검사 고려
+* <mark style="background-color:yellow;">폐쇄수면무호흡증(OSA) : 아침 두통에 비만·심한 코골이·목격된 무호흡·주간 졸림 또는 저항성 고혈압이 동반되면 STOP-Bang 등으로 위험을 평가하고 수면검사 고려</mark>
 
-### <mark style="color:orange;">이학적 검사</mark>
+### <mark style="color:orange;">신체검사</mark>
 
 * 경추 능동 운동 범위, 평소 두통의 재현 여부, 신경학적 진찰, 보행·협응, 상지 신경근·척수증 징후를 평가
-* Cervical flexion-rotation test(FRT) : 주로 C1~2 회전 제한을 평가
-  * 급성 외상·환축추 불안정성·척수증·경추동맥 병리 등이 의심되면 유발 검사를 시행하지 말고 먼저 원인을 평가
+* Cervical flexion-rotation test(FRT) : 주로 C1\~2 회전 제한을 평가
+  * 급성 외상·환축추 불안정성·척수증·경부동맥 병리 등이 의심되면 유발 검사를 시행하지 말고 먼저 원인을 평가
   * 환자를 앙와위로 눕히고 경추를 충분히 굴곡시킨 상태에서 수동적으로 좌우 회전시킴
   * 경추 굴곡은 중·하부 경추의 회전 기여를 줄여 상부 경추, 특히 C1\~2 회전을 상대적으로 강조하기 위한 것이며 C1\~2만을 완전히 분리하는 검사는 아님
-  * 증상 측 회전각 약 32° 이하가 C1\~2 기능 장애를 시사하는 절단값으로 제안되었으나, 일반 두통 환자에게 보편적으로 적용되는 확정 기준은 아님
+  * 증상 측 회전각 약 32° 이하가 C1\~2 기능 장애를 시사하는 절단값으로 제안되었으나, 일반 두통 환자에게 보편적으로 적용되는 확정 기준은 아님 <mark style="color:$info;">\[Man Ther 2007]</mark>
   * 과거 숙련 검사자·선택 표본에서 높은 민감도·특이도가 보고되었지만 최근 검토에서는 위양성과 연구 편향 가능성이 확인됨
   * 단독 확진 검사가 아니며 편두통이나 하부 경추 통증에서도 제한될 수 있으므로 병력·다른 검사와 종합
 * 경추척수증이 의심되면 반사항진, 병적반사, 손의 미세운동 및 보행을 포함하여 평가
@@ -134,47 +139,61 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">검사</mark>
 
 * 전형적이고 안정적인 증상, 정상 신경학적 진찰 및 Red Flag가 없는 경우 진단을 위한 일률적 영상검사는 필요하지 않음
-  * 증상이 지속되거나 경과가 비전형적이거나 구조적 병변이 의심되면 비조영 경추 MRI를 선택적으로 고려할 수 있으나 경추성두통의 확진 검사는 아님
+  * 증상이 지속되거나 <mark style="background-color:yellow;">예상 경과와 다르거나</mark> 구조적 병변이 의심되면 비조영 경추 MRI를 선택적으로 고려할 수 있으나 경추성두통의 확진 검사는 아님
 * 경추 MRI : 진행성 신경학적 이상, 척수증·신경근병증, 염증성 질환 또는 수술 가능한 구조적 병변 의심 시
   * 감염·종양이 의심되면 일반적으로 조영 전·후 경추 MRI를 우선 고려
-* 경추 CT : 급성 외상에서 골절 평가 또는 골성 병변의 세부 평가
-* CTA 또는 MRI/MRA : 경추동맥 박리가 의심되면 외래 검사를 기다리지 말고 응급실로 의뢰하여 임상 상황에 따라 시행
-* ESR·CRP·CBC : 50세 이상 새 두통과 턱파행·두피 압통·전신 증상 등으로 거대세포동맥염이 의심될 때. 당일 긴급 평가하며, 정상 염증 수치만으로 완전히 배제되지 않음. 시각 증상이 있으면 응급 평가·치료하고, 시각 증상이 없더라도 임상적으로 강하게 의심되면 확진검사 결과를 기다리지 않고 glucocorticoid 치료 시작을 판단
+* 경추 CT : 급성 외상에서 영상검사가 필요하면 골절 평가에 비조영 경추 CT
+* CTA 또는 MRI/MRA : 경부동맥 박리(경동맥·척추동맥)가 의심되면 외래 검사를 기다리지 말고 응급실로 의뢰하여 임상 상황에 따라 시행
+* ESR·CRP·CBC : 50세 이상 새 두통과 턱파행·두피 압통·전신 증상 등으로 거대세포동맥염이 의심될 때 <mark style="background-color:yellow;">당일 긴급 평가</mark> <mark style="color:$info;">\[Rheumatology (Oxford) 2020]</mark>
+  * <mark style="background-color:yellow;">정상 염증 수치만으로 완전히 배제되지 않음</mark>
+  * <mark style="background-color:yellow;">시각 증상이 있으면 응급 평가·치료</mark>
+  * <mark style="background-color:yellow;">시각 증상이 없더라도 임상적으로 강하게 의심되면 확진검사 결과를 기다리지 않고 고용량 스테로이드 치료를 시작</mark>
 * 단순 X선·MRI·CT는 경추성두통의 확진 검사가 아니며 영상-임상 불일치에 주의
-* 원인 후관절이 의심되고 고주파 치료 등을 고려할 때에는 영상 유도 진단적 medial branch 또는 third occipital nerve block을 통증 중재 전문의에게 의뢰
+* 원인 후관절이 의심되고 고주파 치료 등을 고려할 때에는 영상 유도 진단적 medial branch 또는 third occipital nerve block을 <mark style="background-color:yellow;">통증중재 전문의</mark>에게 의뢰
 
 ***
 
 ```mermaid
 flowchart TD
-    A["경부통 동반 두통"] --> B{"즉각 조치 위험 징후?"}
-    B -- "예" --> C["즉시 응급 평가·이송"]
-    B -- "아니요" --> D{"신속 평가가 필요한 위험 징후?"}
-    D -- "예" --> E["당일~수일 내 원인 평가·신속 의뢰"]
+    A["경추 원인이 의심되는 두통"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    B -- "예" --> C["즉각 조치"]
+    B -- "아니요" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
+    D -- "예" --> E["당일~수일 내 평가"]
     D -- "아니요" --> F["두통 유형·신경학적 진찰·ICHD-3 평가"]
-    F --> G{"병변 증거·인과관계 ≥2개·다른 진단 배제?"}
-    G -- "아니요" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
+    F --> G["경추 병변 증거·인과관계 ≥2개,<br/>다른 진단으로 더 잘 설명되지 않음?"]
     G -- "예" --> I["교육·능동적 운동·필요시 관절가동술"]
-    I --> J{"보존치료 후 호전?"}
+    G -- "아니요, 경추 원인 의심 지속" --> G2["교육·운동 시험 치료<br/>두통과 경추 소견의 동반 호전을 추적해<br/>2~4주에 ICHD-3 재평가"]
+    G -- "아니요, 다른 두통 의심" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
+    I --> J["2~4주 재평가에서 호전?"]
     J -- "예" --> K["단계적 운동·생활관리 유지"]
     J -- "아니요" --> L["진단·순응도·위험 징후 재평가"]
-    L --> M{"지속적 기능장애·후관절성 통증 의심?"}
-    M -- "아니요" --> H
-    M -- "예" --> N["전문의 의뢰·영상 유도 TON 또는 MBB"]
-    N --> O{"기관별 양성 예후차단 기준 충족?"}
+    L -- "새 위험 징후" --> B2["Red Flags 경로로 다시 평가"]
+    L -- "위험 징후 없음" --> M0["예후차단 전 보존치료를 충분히 시행?<br/>약 6주를 기준으로 개별화"]
+    M0 -- "아니요" --> K2["보존치료 지속·경과 재평가"]
+    M0 -- "예" --> M["기능장애 지속 및<br/>후관절성 통증 의심?"]
+    M -- "아니요" --> H2["다른 두통·통증원 재평가"]
+    M -- "예" --> N["전문의 의뢰·영상 유도 TON block 또는 MBB"]
+    N --> O["시술기관의 양성 예후차단 기준 충족?"]
     O -- "예" --> P["이익·위험을 상의하여 RF 고려"]
-    O -- "아니요" --> L
-    classDef start fill:#eee,stroke:#888,stroke-width:2px;
-    classDef decision fill:#fff3cd,stroke:#d6a400;
-    classDef emergency fill:#f8d7da,stroke:#dc3545;
-    classDef care fill:#d9eaff,stroke:#3973ac;
-    class A start;
-    class B,D,G,J,M,O decision;
-    class C emergency;
-    class E,F,H,I,K,L,N,P care;
+    O -- "아니요" --> Q["RF 보류·다른 통증원 재평가"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#f8d7da,stroke:#dc3545
+    classDef care fill:#d9eaff,stroke:#3973ac
+    class A start
+    class B,D,G,J,M0,M,O question
+    class C,B2 emergency
+    class E,F,G2,H,I,K,K2,L,H2,N,P,Q care
 ```
 
-TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequency neurotomy. 예후차단의 양성 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분. 저자 재구성(참고 문헌: ICHD-3; ACR 2024 Update; Hurley et al., 2022; Koonalinthip et al., 2026).
+> _거대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._
+>
+> _TON = third occipital nerve; MBB = medial branch block; RF = radiofrequency neurotomy._
+>
+> _양성 예후차단 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분._
+
+<p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025; Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
 
 ***
 
@@ -182,12 +201,12 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
-* 교육, 능동적 운동, 필요 시 관절가동술을 조합한 개별화된 비약물치료를 우선 권고
+* 교육, 능동적 운동, 필요시 관절가동술을 조합한 개별화된 비-약물 치료를 우선 권고
 * 수동치료는 단독 반복치료보다 운동 참여와 기능 회복을 돕는 보조수단으로 사용
 * 약물은 경부 통증·근연축 또는 동반 질환의 단기 증상 조절에 사용하며 경추성두통 자체에 대한 직접 근거는 제한적
 * 시술은 보존치료에 반응하지 않고 원인 구조물이 임상적으로 좁혀진 환자에서 전문의가 선택
 
-## <mark style="color:green;">비약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
+## <mark style="color:green;">비-약물 치료 및 예방</mark> <a href="#non-drug-treatment" id="non-drug-treatment"></a>
 
 #### <mark style="color:$primary;">교육·운동·물리치료</mark>
 
@@ -195,16 +214,19 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 * 심부 경부 굴곡근의 저부하 지구력 운동과 경추 안정화 운동
 * 견갑대 근지구력·안정화 운동 및 필요한 경우 흉추 운동
 * 환자의 기능장애에 맞춘 상부 경추 관절가동술(mobilization), SNAGs 등
-* 2026년 네트워크 메타분석에서도 복합 비약물치료가 단일 치료나 약물치료보다 단기적으로 유리했으나, 중재별 연구 규모·진단 기준·치료 구성의 이질성이 커 특정 조합을 표준 치료로 단정하기는 어려움
-* 건침(dry needling)은 숙련된 치료자가 복합 비약물치료의 보조요법으로 선택할 수 있으나 근거는 주로 단기 효과에 한정되며 핵심 치료인 능동적 운동을 대체하지 않음
+* 2026년 네트워크 메타분석에서도 복합 비-약물 치료가 단일 치료나 <mark style="background-color:yellow;">약물 치료</mark>보다 단기적으로 유리했으나, 중재별 연구 규모·진단 기준·치료 구성의 이질성이 커 특정 조합을 표준 치료로 단정하기는 어려움 <mark style="color:$info;">\[Eur J Pain 2026]</mark>
+* 건침(dry needling)은 숙련된 치료자가 복합 비-약물 치료의 보조요법으로 선택할 수 있으나 근거는 주로 단기 효과에 한정되며 핵심 치료인 능동적 운동을 대체하지 않음
 * 온열·냉찜질은 환자 선호에 따라 단기 증상 완화에 사용할 수 있음. TENS의 경추성두통에 대한 직접 근거는 부족하며 선택적으로 시험할 수 있음
 
 #### <mark style="color:$primary;">경추 고속 수기조작 안전</mark>
 
 * 저속 관절가동술과 상부 경추 고속저진폭 조작(manipulation)을 구분
 * Hautant·Underberg 등 VBI positional test는 혈관병리 위험을 신뢰성 있게 배제하지 못하므로 선별검사로 권고하지 않음
-* 최근 갑작스럽거나 평소와 다른 두통·경부통, 부분 호너증후군, 복시·구음장애·연하곤란·운동실조·뇌신경 증상, 최근 외상·감염 및 혈관·결합조직질환 위험을 병력과 신경학적 진찰로 평가
-* 경추 혈관병리가 의심되면 조작을 시행하지 말고 즉시 응급 평가
+* <mark style="background-color:yellow;">조작 전 병력과 신경학적 진찰로 다음을 평가</mark>
+  * <mark style="background-color:yellow;">최근 갑작스럽거나 평소와 다른 두통·경부통</mark>
+  * <mark style="background-color:yellow;">부분 호너증후군, 복시·구음장애·연하곤란·운동실조 등 뇌신경 증상</mark>
+  * <mark style="background-color:yellow;">최근 외상·감염, 혈관·결합조직질환 위험</mark>
+* 경부 혈관병리가 의심되면 조작을 시행하지 말고 즉시 응급 평가
 * 고속 경추 조작은 적절한 훈련을 받은 전문가가 이익과 드문 중대한 위험을 설명하고 환자와 상의하여 선택
 
 #### <mark style="color:$primary;">생활 습관</mark>
@@ -218,39 +240,40 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 
 * 비-약물 치료(운동·관절가동술 등)를 보조하는 수단으로, 급성 통증·근연축 조절에 국한하여 사용
 
-**Acetaminophen 또는 NSAID**
+### <mark style="color:orange;">Acetaminophen 또는 NSAID</mark>
 
 * 급성 악화 시 최소 유효용량을 최단 기간 사용
-* acetaminophen : 500\~1,000 ㎎ q6\~8h prn. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark></mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
   * 4 g/d는 일반적인 처방 목표가 아니라 선택된 성인의 절대 상한이며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장. 간질환·과음·저체중·고령·영양불량 등 위험 요인이 있으면 더 낮은 상한과 투여 간격을 개별화
-  * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(001 참조)
+  * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(☞ [통증](../220_/001_-pain.md))
   * Warfarin 복용 환자가 acetaminophen을 수일간 반복 복용하면 INR가 상승할 수 있으므로 용량·기간과 INR 추적 필요성을 개별적으로 판단
-* naproxen : 250\~500 ㎎ bid prn [낙센](https://www.health.kr/drug/A11A0120A0286)
-* ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~400 ㎎ tid prn [부루펜](https://www.health.kr/drug/A11A0500A0131)
+* naproxen : 250\~500 ㎎ bid prn <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 250 ㎎ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> 500 ㎎</mark>
+* ibuprofen : <mark style="background-color:yellow;">[200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark></mark>
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
-* 단순진통제·NSAID를 월 ≥15일, 3개월 넘게 사용하면 약물과용두통의 원인이 될 수 있으므로 반복·장기 사용을 피함
+* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark>
+  * <mark style="background-color:yellow;">카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임</mark>
 
-**근이완제**
+### <mark style="color:orange;">근이완제</mark>
 
 * 통증성 근연축이 뚜렷할 때 단기간 선택
-* eperisone : 50 ㎎ tid [에릭슨](https://www.health.kr/drug/A11AOOOOO3867); 중증 근무력증에서는 금기. 드물게 쇼크·아나필락시스 및 중증피부반응 가능
-* tizanidine : 국내 허가용법은 1회 1\~2 ㎎, 1일 3회 식후 [티자리드](https://www.health.kr/drug/2010030200003); 졸음·저혈압·서맥·간기능 이상에 주의. ciprofloxacin, fluvoxamine과 병용 금기
-  * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 국내 허가 외 용법
+* eperisone : 50 ㎎ tid 식후 <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">에릭슨</mark>](https://www.health.kr/drug/A11AOOOOO3867)<mark style="color:blue;">]</mark></mark>. 중증 근무력증에서는 금기. 드물게 쇼크·아나필락시스 및 중증피부반응 가능
+* tizanidine : 허가 용법은 1회 1\~2 ㎎, 1일 3회 식후 <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">솝튼</mark>](https://www.health.kr/drug/2011091400003)<mark style="color:blue;">]</mark></mark>. 졸음·저혈압·서맥 및 간기능 이상에 주의. 현저한 간기능 장애 환자 및 강력한 CYP1A2 억제제(fluvoxamine·ciprofloxacin 등) 병용은 금기
+  * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 허가 외 용법
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
-  * 속방정 10 ㎎ tid [시클펜](https://www.health.kr/drug/A11A2500B0047)
-  * ER 15 ㎎ qd, 필요 시 최대 30 ㎎ qd [본렉스이알](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)
-  * 국내 허가사항상 ER 제제는 고령자·간장애 환자에게 투여하지 않음 (혈장 농도·반감기가 유의하게 상승함); 속방정도 DUR상 65세 이상 연령금기가 있으므로 고령자의 대체 제형으로 사용하지 않음
+  * 속방정 10 ㎎ tid <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://www.health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> (2026년 11월 현재 장기 품절, 2027년 1월 이후 공급 예상)</mark>
+  * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="background-color:yellow;"><mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark></mark>
+  * ER 제제는 고령자·간장애 환자에게 투여하지 않음. 속방정도 DUR상 65세 이상 연령금기가 있으므로 고령자의 대체 제형으로 사용하지 않음
   * MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증에서도 금기
 * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
 
-**Amitriptyline, Gabapentinoid, SNRI**
+### <mark style="color:orange;">Amitriptyline, Gabapentinoid, SNRI</mark>
 
-* 동반 편두통·긴장형두통·우울·불면 또는 명확한 경추 신경근병증·신경병증성 통증이 있을 때 해당 진단과 적응증에 따라 선택
-* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. [타이레놀정500㎎](https://www.health.kr/drug/2021082400002) 등 TCA 복용 환자 투여 금기가 있는 acetaminophen 품목은 병용하지 않음(001 참조)
-* duloxetine의 국내 급여 여부는 구체적 신경병증성 통증 진단과 최신 급여기준에 따라 확인
+* 동반 편두통·긴장형두통·우울·불면 또는 별도로 확인된 신경병증성 통증이 있을 때 해당 진단과 적응증에 따라 선택
+* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. TCA 복용 환자에게 투여 금기인 acetaminophen 품목(예: 타이레놀정 500 ㎎)은 병용하지 않음
+* duloxetine (보험주의) : 진단별 급여기준 확인
 * 경추성두통 자체에 대한 근거가 약하므로 일률적으로 사용하지 않음
 
-**국소 NSAID 또는 lidocaine 패치**
+### <mark style="color:orange;">국소 NSAID 또는 lidocaine 패치</mark>
 
 * 국소 경부통에 선택적으로 고려할 수 있으나 경추성두통 자체의 근거는 부족하고 일부 사용은 허가 외일 수 있음
 
@@ -268,17 +291,20 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 
 #### <mark style="color:$primary;">후관절 진단차단과 고주파치료</mark>
 
+* 예후차단 전 약 6주의 보존치료를 시행하되 기간은 개별화 <mark style="color:$info;">\[Reg Anesth Pain Med 2022]</mark>
 * C2\~3 후관절 기원 통증에는 제3후두신경(third occipital nerve)을, C3\~4 이하 후관절에는 각 관절을 지배하는 위·아래 medial branch를 영상 유도하에 진단적으로 차단
-* 진단적 차단으로 의미 있는 일시적 통증 완화가 확인되고 보존치료에 반응하지 않을 때 radiofrequency neurotomy를 고려
-* 양성 차단의 통증 감소 기준과 차단 횟수는 지침·보험자·기관에 따라 다름
-  * 다학제 합의지침은 실제 임상에서 ≥50% 통증 감소를 양성 예후차단으로 보고 원칙적으로 단일 차단을 권고하나, 근거 확실성은 낮음\~중간 수준
-  * 일부 학회·보험자는 2회의 차단과 ≥80% 감소를 요구하므로 국내 기준과 시술기관 프로토콜 확인
+* 보존치료에 반응하지 않고 예후차단으로 의미 있는 일시적 통증 완화가 확인되면 radiofrequency neurotomy를 고려
+* 양성 예후차단의 통증 감소 기준과 차단 횟수는 지침·보험자·기관에 따라 다름
+  * 다학제 합의지침은 ≥50% 통증 감소를 양성 예후차단으로 보고 원칙적으로 단일 차단을 권고(근거 확실성 낮음\~중간) <mark style="color:$info;">\[Reg Anesth Pain Med 2022]</mark>
+  * 미국 일부 보험자는 2회 차단과 각 차단에서 ≥80% 통증 감소를 요구
+  * 건강보험 급여기준(자482-1, 고시 제2020-19호)에 따라 최초 시행 전 1주 간격으로 2회 이상 신경차단술을 시행하여 통증 경감 반응을 확인. 동일 부위 재시행은 최소 6개월 간격으로 하며, 재시행 전에도 1회 이상 신경차단술을 시행하여 반응을 확인
+  * 시술기관의 프로토콜과 적용되는 급여기준을 확인
 * 효과의 크기와 지속 기간은 환자와 연구에 따라 다르며 일정한 지속 기간을 예측할 수 없음
 
-#### <mark style="color:$primary;">환축관절(C1\~2) 주사</mark>
+#### <mark style="color:$primary;">외측 환축관절(C1\~2) 주사</mark>
 
-* 추골동맥, C2 신경절 및 척수막 구조와 인접한 고위험 시술
-* 통증중재 전문의가 투시 또는 CT 유도와 조영제 확인하에 시행하며 일반적인 촉지 기반 외래 주사로 시행하지 않음
+* 척추동맥, C2 신경절 및 척수막 구조와 인접한 고위험 시술
+* 통증중재 전문의가 실시간 투시 유도를 우선으로 시행. CT 유도를 선택하는 경우에도 관절 내 조영제 분포를 확인하고 혈관·지주막하 유입을 배제할 수 있어야 함. 촉지 기반 외래 주사로 시행하지 않음
 
 #### <mark style="color:$primary;">Botulinum toxin</mark>
 
@@ -294,7 +320,7 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 ## <mark style="color:red;">질병코드</mark>
 
 * G44.8 기타 명시된 두통증후군 Other specified headache syndromes
-* M54.2 경추통 Cervicalgia (경부 통증이 별도로 진단된 경우)
+* M54.2 경추통 Cervicalgia (경추통이 별도로 진단된 경우 부위별 세부코드 선택)
 * M50 경추간판장애 Cervical disc disorders (경추 추간판 병변이 확인되고 임상적으로 관련된 경우)
 * M47 척추증 Spondylosis (해당 경추증이 확인된 경우 세부코드 선택)
 
@@ -311,7 +337,7 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 >
 > 약제 정보: [낙센정·250 ㎎](https://www.health.kr/drug/A11A0120A0286) · [에릭슨정·50 ㎎](https://www.health.kr/drug/A11AOOOOO3867)
 >
-> _✽NSAID는 최소 유효용량·최단기간 사용(통상 5\~7일 이내 반응 평가). 에페리손은 단기간 사용하고 발진·두드러기·호흡곤란·어지럼과 저혈압 발생 시 즉시 중단·평가._
+> _✽NSAID는 최소 유효용량·최단기간 사용(통상 5\~7일 이내 반응 평가). <mark style="background-color:yellow;">Eperisone은</mark> 단기간 사용하고 발진·두드러기·호흡곤란·어지럼과 저혈압 발생 시 즉시 중단·평가._
 
 > **처방례 1-1. NSAID 사용이 적절하지 않은 경우**
 >
@@ -322,20 +348,20 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 >
 > 약제 정보: [타이레놀정·500 ㎎](https://www.health.kr/drug/2021082400002)
 >
-> _✽다른 단일제·복합제에 포함된 acetaminophen을 합산하여 성인 총량 4 g/d를 초과하지 않도록 하고, 반복·장기 사용에서는 통상 3 g/d 이하를 권장한다. 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정한다. 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인하며, NSAID 금기 환자의 자동 대체 처방으로 적용하지 않는다. Warfarin 복용 환자가 수일간 반복 복용하는 경우 INR 변화를 고려한다(001 참조)._
+> _✽다른 단일제·복합제의 acetaminophen을 합산하여 성인 총량 4 g/d를 넘지 않도록 함. 반복·장기 사용에서는 통상 3 g/d 이하를 권장하며 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정함. 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 확인함. NSAID 금기 환자에서는 acetaminophen 투여 적합성을 별도로 판단함. Warfarin 복용 환자가 수일간 반복 복용하면 INR 변화를 고려함(☞ [통증](../220_/001_-pain.md))._
 
-> **처방례 2. Cyclobenzaprine을 선택하는 경우**
+> **처방례 2. Eperisone 대신 cyclobenzaprine을 선택하는 경우**
 >
 > ```
 > 본렉스이알캡슐15㎎  1회 1C  1일 1회 일정한 시간
->   → 필요 시 최대 30 ㎎ qd
+>   → 필요시 최대 30 ㎎ qd
 > ```
 >
 > 약제 정보: [본렉스이알캡슐·15 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)
 >
-> _✽급성 통증성 근골격계 근연축에 한해 2\~3주 이내 사용한다. 고령자·간장애 환자는 국내 허가사항상 투여 금기이며, MAO억제제 투여 중·중단 후 14일 이내, 심근경색 회복기, 심차단·부정맥·울혈성심부전, 갑상선기능항진증 환자에서도 금기이다. 졸음·항콜린 부작용에 주의하고 세로토닌성 약물 병용 여부를 확인한다._
+> _✽급성 통증성 근골격계 근연축에 한해 2\~3주 이내 사용함. 고령자·간장애 환자, MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 심차단·심전도장애·부정맥·울혈성심부전, 갑상선기능항진증 환자에게는 투여하지 않음. 졸음·항콜린 부작용에 주의하고 세로토닌성 약물 병용 여부를 확인함._
 
-> **처방례 3. 경추 신경근병증 또는 신경병증성 통증이 명확히 동반된 경우**
+> **처방례 3. 별도로 확인된 신경병증성 통증을 치료하는 경우**
 >
 > ```
 > 리리카캡슐75㎎  1회 1C  1일 2회
@@ -344,18 +370,17 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 >
 > 약제 정보: [리리카캡슐·75 ㎎](https://www.health.kr/drug/A11AOOOOO8537)
 >
-> _✽경추성두통 단독에는 일률적으로 사용하지 않으며, 동반된 경추 신경근병증·신경병증성 통증이 명확할 때 선택한다. 어지럼·졸음을 확인하고 신기능에 따라 용량과 투여 간격을 조절한다. 내약성을 고려하여 75 ㎎ hs부터 시작하는 방법은 국내 허가 외 용법이다._
+> _✽경추성두통 단독이나 신경병증성 통증이 확인되지 않은 경추 신경근병증에는 일률적으로 사용하지 않음. (보험주의) 일반 경추 신경근병증에 동반된 신경병증성 통증은 별도 급여 인정 항목에 열거되어 있지 않으므로 급여기준을 확인함. 어지럼·졸음을 확인하고 신기능에 따라 용량·투여 간격을 조절함. 내약성을 고려해 75 ㎎ hs부터 시작하는 방법은 허가 외 용법임._
 
 > **시술 예시. 대후두신경차단술**
 >
 > ```
 > 대한리도카인염산염수화물1%주  1~2 ㎖, 편측 대후두신경차단
-> (lidocaine 10~20 ㎎ 상당)
 > ```
 >
 > 약제 정보: [대한리도카인염산염수화물1%주·10 ㎎/㎖](https://www.health.kr/drug/A11ABBBBB2757)
 >
-> _✽해부학과 국소마취제 최대용량을 숙지한 숙련 의료진이 흡인 후 소량씩 분할 주입하며 시술 후 이상반응을 관찰한다. 스테로이드는 일률적으로 혼합하지 않고 병용 필요성과 제제·용량은 개별 판단하며, 고정된 4\~6주 간격의 반복 처방으로 사용하지 않는다._
+> _✽해부학과 국소마취제 최대용량을 숙지한 의료진이 흡인 후 소량씩 분할 주입하고 시술 후 이상반응을 관찰함. 스테로이드 병용 필요성과 제제·용량은 개별 판단하며, 반복 여부와 간격은 이전 효과·이상반응·누적 노출에 따라 결정함._
 
 ***
 
@@ -371,7 +396,7 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 >
 > * 필요한 기간에만 최소 용량으로 복용하십시오.
 > * 검은 변·토혈, 심한 복통, 소변량 감소, 부종 또는 호흡곤란이 나타나면 복용을 중단하고 진료받으십시오.
-> * 진통제를 자주 복용하면 오히려 두통이 잦아질 수 있으므로 월 15일 이상 반복하지 마십시오.
+> * 진통제를 자주 복용하면 오히려 두통이 잦아질 수 있습니다. 종류가 다른 단순진통제나 소염진통제를 번갈아 복용해도 복용한 날을 모두 합쳐 한 달에 15일 이상이 되지 않도록 하십시오. <mark style="background-color:yellow;">카페인이 든 복합진통제는 한 달에 10일 이상 복용하지 마십시오.</mark>
 
 > **근이완제**
 >
@@ -386,11 +411,12 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 > * 졸음·어지럼이 생길 수 있으며, 중단할 때는 보통 최소 1주에 걸쳐 서서히 줄입니다. 신장기능에 따라 용량을 조절합니다.
 > * 오피오이드·수면제 등과 함께 사용하면 호흡억제 위험이 커질 수 있습니다. 심하게 처지거나 호흡이 느려지면 즉시 응급 진료를 받으십시오.
 
-> **언제 다시 진료받아야 하나요?**
+> **언제 다시 병원을 방문해야 하나요?**
 >
 > * 갑자기 평소와 다른 심한 두통·목 통증, 눈꺼풀처짐·동공 크기 차이, 복시·말 어눌함·삼킴곤란·비틀거림이 생기면 즉시 응급실로 가십시오.
-> * 팔다리 힘 빠짐, 감각 이상, 보행 장애 또는 대소변 장애가 새로 생기면 즉시 진료받으십시오.
-> * 2\~4주간 적절한 치료에도 호전이 없거나 점차 악화되면 진단을 재평가합니다.
+> * 팔다리 힘 빠짐, 감각 이상, 보행 장애 또는 대소변 장애가 새로 생기면 즉시 응급실로 가십시오.
+> * 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않으면 즉시 응급실로 가십시오.
+> * 2\~4주간 적절한 치료에도 호전이 없거나 점차 악화되면 <mark style="background-color:yellow;">다시 진료를 받으십시오.</mark>
 
 ***
 
@@ -402,12 +428,19 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 * [Robinson CL, et al. Prevalence and relative frequency of cervicogenic headache in population- and clinic-based studies: A systematic review and meta-analysis. Cephalalgia. 2025;45(3):3331024251322446.](https://doi.org/10.1177/03331024251322446) - 본문 유병률·상대빈도 수치와 연구 한계
 * [Eldaya RW, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. J Am Coll Radiol. 2025;22(5S):S136-S162.](https://doi.org/10.1016/j.jacr.2025.02.035) - 경부통·신경근병증 및 경추성두통 의심 시 영상검사 선택
 * [Hurley RW, et al. Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group. Reg Anesth Pain Med. 2022;47(1):3-59.](https://rapm.bmj.com/content/47/1/3) - 후관절 진단·예후 차단과 고주파치료의 환자 선택
-* [Koonalinthip N, et al. The Comparative Efficacy of Treatments for Cervicogenic Headache: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials. Eur J Pain. 2026;30(2):e70219.](https://doi.org/10.1002/ejp.70219) - 비약물·약물·중재 치료 비교와 근거의 이질성
+* [Koonalinthip N, et al. The Comparative Efficacy of Treatments for Cervicogenic Headache: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials. Eur J Pain. 2026;30(2):e70219.](https://doi.org/10.1002/ejp.70219) - 비-약물·약물·중재 치료 비교와 근거의 이질성
 * [Rushton A, et al. International Framework for Examination of the Cervical Region for Potential of Vascular Pathologies of the Neck Prior to Musculoskeletal Intervention: International IFOMPT Cervical Framework. J Orthop Sports Phys Ther. 2023;53(1):7-22.](https://pubmed.ncbi.nlm.nih.gov/36099171/) - 경추 수기치료 전 혈관병리 평가와 위치유발검사의 한계
+* [Ogince M, Hall T, Robinson K, Blackmore AM. The diagnostic validity of the cervical flexion-rotation test in C1/2-related cervicogenic headache. Man Ther. 2007;12(3):256-262.](https://pubmed.ncbi.nlm.nih.gov/17112768/) - FRT 절단값 및 진단 타당도
+* [Yaghi S, et al. Treatment and Outcomes of Cervical Artery Dissection in Adults: A Scientific Statement From the American Heart Association. Stroke. 2024;55(3):e91-e106.](https://doi.org/10.1161/STR.0000000000000457) - 경부동맥 박리의 임상 단서와 혈관영상
+* [Mackie SL, et al. British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis. Rheumatology (Oxford). 2020;59(3):e1-e23.](https://doi.org/10.1093/rheumatology/kez027) - 거대세포동맥염의 응급 평가 및 치료
+* [International Pain and Spine Intervention Society. Lateral Atlantoaxial Joint Access/Injection Safety Practices.](https://cdn.ymaws.com/www.ipsismed.org/resource/resmgr/safety/25/ipsis_safety_m2_4-facet-laaj.pdf) - 외측 환축관절 주사 영상 유도 및 안전
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항과 심사지침. 제9장 처치 및 수술료 등.](https://www.hira.or.kr/ebooksc/2024/08/BZ202408190383445.pdf) - 경피적 척추 고주파 열응고술(자482-1), 보건복지부 고시 제2020-19호
+* [건강보험심사평가원. Pregabalin 일반형 경구제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0013&sno=6) - 신경병증성 통증 등 인정 범위
+* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239&tp=notice) - 시클펜정 공급 예상 시점
 
 
 ***
@@ -431,7 +464,7 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 * 증상과 기능에 맞춘 경부·견갑대 운동, 교육 및 필요한 경우 관절가동술을 함께 시행합니다.
 * 약물은 급성 통증이나 근육 연축을 줄여 운동과 일상생활을 돕는 보조수단입니다.
 * 보존치료에 반응하지 않고 원인 관절이나 신경이 의심될 때 전문의가 진단차단·고주파치료 등의 필요성을 평가합니다.
-* C1\~2 관절 주사는 일반적인 촉지 기반 외래 주사가 아닙니다. 필요한 경우 숙련된 통증중재 전문의가 투시 또는 CT로 위치와 조영제 분포를 확인하며 시행합니다.
+* 외측 환축관절(C1\~2) 주사가 필요한 경우 통증중재 전문의가 실시간 투시 또는 적절한 CT 영상으로 위치와 조영제 분포를 확인하며 시행합니다.
 
 #### <mark style="color:$primary;">약 복용 시 주의사항</mark>
 
@@ -451,7 +484,9 @@ TON = third occipital nerve block; MBB = medial branch block; RF = radiofrequenc
 * 갑자기 평소와 다른 심한 두통·목 통증이 생긴 경우
 * 눈꺼풀처짐·동공 크기 차이, 복시, 말 어눌함, 삼킴곤란 또는 비틀거림이 생긴 경우
 * 팔다리 힘 빠짐·감각 이상·보행 장애·대소변 장애가 새로 생긴 경우
-* 고열과 목 경직·의식 변화가 동반되거나, 면역저하 상태에서 발열과 심한 두통·목 통증이 발생한 경우
-* 외상 후 심한 두통·목 통증이 생긴 경우
+* <mark style="background-color:yellow;">심한 새 두통과 함께 고열·목 경직·의식 저하가 있는 경우</mark>
+* <mark style="background-color:yellow;">면역력이 떨어진 상태에서 심한 두통이나 목 통증이 생긴 경우</mark>
+* 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않는 경우
+* 외상 후 심한 두통이나 목 통증이 생긴 경우
 
 ***
