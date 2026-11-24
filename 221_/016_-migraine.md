@@ -704,6 +704,7 @@ flowchart TD
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
+* <mark style="background-color:yellow;">[한국애브비. 아큅타정60밀리그램 제품설명서 (2026-11-05).](https://www.abbvie.co.kr/content/dam/abbvie-com2/kr/documents/products/hp-pi-aquipta-60mg-2026-11-05.pdf) - 급성치료·예방 용법 및 1일 최대량</mark>
 * [건강보험심사평가원. 삼환계 항우울제 급여기준. 고시 제2018-18호 (2018-02-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180201\&mtgMtrRegSno=0006\&sno=1) - amitriptyline의 편두통 예방 급여 인정 (확인일 2026-11-22)
 * [건강보험심사평가원. 편두통 치료제 급여기준. 고시 제2024-178호 (2024-09-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240901\&mtgMtrRegSno=0001\&sno=3) - 급성기 약제의 급여 대상과 용량 상한 (확인일 2026-11-22)
 * [건강보험심사평가원. Fremanezumab 주사제(아조비) 급여기준. 고시 제2024-130호 (2024-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) - 투여 대상·평가·기간 확인 (확인일 2026-11-22)
