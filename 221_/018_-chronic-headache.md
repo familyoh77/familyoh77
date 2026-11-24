@@ -6,23 +6,23 @@
 * 1차성 두통의 만성형, 신생매일지속두통 등의 기타 1차성 두통, 지속반두통 등의 삼차자율신경두통, 약물과용두통을 포함한 2차성 두통 등이 만성 두통의 범주에 해당
 * 1차 진료에서는 위험 신호를 확인하여 생명을 위협하는 원인 질환을 조기에 감별하는 것이 중요
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark> <a id="red-flags"></a>
+### <mark style="color:$danger;">🚩 Red Flags!</mark> <a href="#red-flags" id="red-flags"></a>
 
 ☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 벼락두통, 새 마비·언어 장애·의식 변화, 발열과 경부 강직, 급격한 시력 저하 등<mark style="background-color:yellow;">(기존 만성 두통이 있어도 해당)</mark>  `2차성 두통 의심`
+* 벼락두통, 새 마비·언어 장애·의식 변화, 발열과 경부 강직, 급격한 시력 저하 등 `2차성 두통 의심`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 유두부종·반복 구토·진행성 시력 증상 <mark style="background-color:yellow;">**(당일)**</mark>  `두개내압 상승 의심`
-* 암·면역저하 환자의 신규 또는 <mark style="background-color:yellow;">진행성 두통</mark>  `2차성 두통 의심`
-* 임신·산후의 신규 또는 <mark style="background-color:yellow;">진행성 두통</mark>  `2차성 두통 의심`
+* <mark style="background-color:yellow;">**(당일)**</mark> 유두부종·반복 구토·진행성 시력 증상 `두개내압 상승 의심`&#x20;
+* 암·면역저하 환자의 신규 또는 진행성 두통 `2차성 두통 의심`
+* 임신·산후의 신규 또는 진행성 두통 `2차성 두통 의심`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 두통 빈도·양상의 변화, 급성기 약물 사용 증가, 적절한 예방치료에도 지속되는 기능장애<mark style="background-color:yellow;">  `약물과용두통`</mark>
+* 두통 빈도·양상의 변화, 급성기 약물 사용 증가, 적절한 예방치료에도 지속되는 기능장애 `약물과용두통`
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -42,34 +42,13 @@
 ***
 
 ```mermaid
-flowchart TD
-    A["두통 ≥15일/월, ＞3개월"] --> B["Red Flags·최근 양상 변화?"]
-    B -- "예" --> C["위험도에 맞는 긴급 평가·2차성 원인 배제"]
-    B -- "아니요" --> D["약제군별 과용 평가; 충족 시 MOH를 함께 진단"]
-    D --> E["항상 편측 지속통과 자율신경 증상 또는 초조·움직임 악화?"]
-    E -- "예" --> F["지속반두통 고려<br/>구조적 병변 평가 및 전문진료에서 indomethacin 완전 반응 확인"]
-    E -- "아니요" --> G["시작이 명확하고 24시간 이내 중단 없는 매일두통?"]
-    G -- "예" --> H["NDPH 고려; 과용 동반 시 매일두통이 과용보다 선행했는지 확인"]
-    G -- "아니요" --> I["수면 중에만 발생하여 잠을 깨우는가?"]
-    I -- "예" --> J["수면두통 및 2차성 야간두통 감별"]
-    I -- "아니요" --> K["만성편두통·만성긴장형두통 등 감별"]
-    F --> L["원인별 예방치료·과용 관리·두통일기 추적"]
-    H --> L
-    J --> L
-    K --> L
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
-    classDef decision fill:#fff9c4,stroke:#ffe082;
-    classDef emergency fill:#f8d7da,stroke:#dc3545;
-    classDef care fill:#d9eaff,stroke:#3973ac;
-    class A start;
-    class B,E,G,I decision;
-    class C emergency;
-    class D,F,H,J,K,L care;
 ```
+
+> _수면두통은 ＞3개월 동안 ≥10일/월이면 진단할 수 있으므로, 이 알고리듬의 시작 기준(≥15일/월)에 미치지 않는 환자에서도 고려_
 
 <p align="center"><strong>만성 매일두통 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; EAN MOH 2020)</mark></em></p>
 
-<mark style="background-color:yellow;">수면두통의 빈도 기준은 ＞3개월 동안 ≥10일/월이므로, 이 도표의 만성 매일두통 범위(≥15일/월)에 들지 않아도 수면두통을 평가</mark>
+
 
 ***
 
@@ -171,7 +150,7 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 * 감염 또는 항상성 장애에 기인한 두통 : 중추신경계감염, 폐쇄수면무호흡증, 저산소증·고탄산혈증 등
 * 두개·경부·안면 구조물의 질환에 기인한 두통·안면통 : 경추성두통, 턱관절질환, 안과·이비인후과·치과 질환 등 <mark style="color:$info;">\[ICHD-3]</mark>
 
-### <mark style="color:orange;">약물과용두통 (Medication overuse headache, MOH)</mark> <a id="medication-overuse-headache-moh"></a>
+### <mark style="color:orange;">약물과용두통 (Medication overuse headache, MOH)</mark> <a href="#medication-overuse-headache-moh" id="medication-overuse-headache-moh"></a>
 
 * 기존 두통질환이 있는 환자에서 ≥15일/월 두통이 있으면서, 급성기·대증 치료 약제를 ＞3개월 동안 다음 기준 이상 과용하면 약물과용두통을 고려
   * 다음 약제를 한 달에 ≥10일 복용 : triptan, opioid, ergotamine, 복합진통제
@@ -223,12 +202,12 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 * 1차 치료 : indomethacin
   * <mark style="background-color:yellow;">완전 반응 자체가 진단 기준(criterion D)이므로 진단적 치료를 겸함</mark>
-  * <mark style="background-color:yellow;">25 ㎎ tid부터 시작하여 내약성을 확인하며 증량하되, 진단에 충분한 용량에 도달하기 전에는 무반응으로 판단하지 않음</mark> \[[인도메타캡슐 25 ㎎](https://www.health.kr/drug/2011080300001)\]
+  * <mark style="background-color:yellow;">25 ㎎ tid부터 시작하여 내약성을 확인하며 증량하되, 진단에 충분한 용량에 도달하기 전에는 무반응으로 판단하지 않음</mark> \[[인도메타캡슐 25 ㎎](https://www.health.kr/drug/2011080300001)]
 * 투여 전후 위장관 출혈·궤양, 신기능, 혈압·심혈관 위험 및 병용약을 평가. PPI는 위장관 위험을 줄이지만 신장·심혈관 위험을 예방하지 않음
 * indomethacin 불내성 시 대안(모두 근거가 제한된 허가 외 사용)
-  * celecoxib : 200 ㎎ bid \[[쎄레브렉스캡슐 200 ㎎](https://www.health.kr/drug/A11ABBBBB1346)\] - 지속반두통에 대한 근거 제한적 허가 외 용량으로, 일반 골관절염 용량과 구분
+  * celecoxib : 200 ㎎ bid \[[쎄레브렉스캡슐 200 ㎎](https://www.health.kr/drug/A11ABBBBB1346)] - 지속반두통에 대한 근거 제한적 허가 외 용량으로, 일반 골관절염 용량과 구분
     * 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II\~IV 심부전, CrCl ＜30 ㎖/min, 활동성 궤양·출혈 등에서 <mark style="background-color:yellow;">투여금기</mark>. PPI를 병용해도 투여금기는 적용됨([001 통증](001_-pain.md) 참조)
-  * topiramate : 50\~100 ㎎/d \[[토파맥스정 25 ㎎](https://www.health.kr/drug/2020080600008)\] (임신 관련 주의는 신생매일지속두통 항목 참조)
+  * topiramate : 50\~100 ㎎/d \[[토파맥스정 25 ㎎](https://www.health.kr/drug/2020080600008)] (임신 관련 주의는 신생매일지속두통 항목 참조)
   * melatonin : 3\~10 ㎎ 취침 전 - 처방용 제품은 주로 2 ㎎ 서방형이므로 문헌의 용량·제형과 직접 대응하지 않음
 * 후두신경차단술(Occipital nerve block) : indomethacin 반응은 있으나 장기 복용이 어려운 경우 보조적 선택지로 고려 가능 (근거 제한적)
 
@@ -271,10 +250,10 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
     * <mark style="background-color:yellow;">가임기 여성 : topiramate는 매우 효과적인 피임법을 사용할 때만, divalproex는 임신예방프로그램 요건을 모두 충족할 때만 투여</mark>
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
 * <mark style="background-color:yellow;">amitriptyline</mark>·nortriptyline 등 TCA를 예방약으로 선택할 때 급성기 약제도 함께 검토
-  * \[[타이레놀정 500 ㎎](https://www.health.kr/drug/2021082400002)\] 등 <mark style="background-color:yellow;">TCA 복용 환자 투여금기가 있는 acetaminophen 품목은 병용하지 않음</mark>
+  * \[[타이레놀정 500 ㎎](https://www.health.kr/drug/2021082400002)] 등 <mark style="background-color:yellow;">TCA 복용 환자 투여금기가 있는 acetaminophen 품목은 병용하지 않음</mark>
   * <mark style="background-color:yellow;">대체 진통제도 자체 금기와 MOH 위험을 확인</mark>([001 통증](001_-pain.md) 참조)
-* 만성편두통 동반 시 근거가 있는 예방약을 우선 고려. <mark style="background-color:yellow;">예방약 선택은 아래 요약 및 [016 편두통](016_-migraine.md#chronic-migraine) 참조</mark> <mark style="color:$info;">\[AAN/AHS 2026]</mark>
-  * <mark style="background-color:yellow;">onabotulinumtoxinA</mark> \[[보톡스주 100 U](https://www.health.kr/drug/A11AKP08G2664)\] <mark style="background-color:yellow;">: 155 U를 31곳에 근육주사, 12주 간격</mark>
+* 만성편두통 동반 시 근거가 있는 예방약을 우선 고려. <mark style="background-color:yellow;">예방약 선택은 아래 요약 및</mark> [<mark style="background-color:yellow;">016 편두통</mark>](016_-migraine.md#chronic-migraine) <mark style="background-color:yellow;">참조</mark> <mark style="color:$info;">\[AAN/AHS 2026]</mark>
+  * <mark style="background-color:yellow;">onabotulinumtoxinA</mark> \[[보톡스주 100 U](https://www.health.kr/drug/A11AKP08G2664)] <mark style="background-color:yellow;">: 155 U를 31곳에 근육주사, 12주 간격</mark>
 
 <mark style="color:cyan;">**추적 관찰**</mark>
 
@@ -289,23 +268,11 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
 
-<table>
-  <thead>
-    <tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 현황</th></tr>
-  </thead>
-  <tbody>
-    <tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab [<a href="https://www.health.kr/drug/2019090900019">앰겔러티</a>]</td><td>120 ㎎/월 SC (초회 240 ㎎). 기준 충족 시 급여</td></tr>
-    <tr><td>Fremanezumab [<a href="https://www.health.kr/drug/2021072800006">아조비</a>]</td><td>225 ㎎/월 또는 675 ㎎/분기 SC. 기준 충족 시 급여</td></tr>
-    <tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC. 허가 확인 안 됨(2026년 11월 기준)</td></tr>
-    <tr><td>항체 주사제 (IV)</td><td>Eptinezumab [<a href="https://www.munyak.co.kr/product/detail/202601500">바이엡티</a>]</td><td>100 ㎎/12주 IV, 일부 환자는 300 ㎎/12주. 2026년 5월 허가</td></tr>
-    <tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant [<a href="https://www.health.kr/drug/2025032500010">너텍구강붕해정 75 ㎎</a>]</td><td>75 ㎎. 급성치료 및 삽화성 편두통 예방(격일 복용). 만성편두통 예방 적응증 없음. 2026년 9월 출시, 비급여</td></tr>
-    <tr><td>Atogepant [<a href="https://www.health.kr/drug/2023111600013">아큅타정 60 ㎎</a>]</td><td>삽화성·만성편두통 예방 60 ㎎ qd. 급성치료 60 ㎎ 필요시. <mark style="background-color:yellow;">1일 최대 60 ㎎(예방 목적으로 복용한 날은 급성치료로 추가 복용하지 않음).</mark><br>강력한 CYP3A4 억제제 또는 OATP 억제제 병용, 중증 신장애 또는 말기신질환 시 <a href="https://www.health.kr/drug/2023111600012">10 ㎎</a> qd. 비급여</td></tr>
-  </tbody>
-</table>
+<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab [<a href="https://www.health.kr/drug/2019090900019">앰겔러티</a>]</td><td>120 ㎎/월 SC (초회 240 ㎎). 기준 충족 시 급여</td></tr><tr><td>Fremanezumab [<a href="https://www.health.kr/drug/2021072800006">아조비</a>]</td><td>225 ㎎/월 또는 675 ㎎/분기 SC. 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC. 허가 확인 안 됨(2026년 11월 기준)</td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab [<a href="https://www.munyak.co.kr/product/detail/202601500">바이엡티</a>]</td><td>100 ㎎/12주 IV, 일부 환자는 300 ㎎/12주. 2026년 5월 허가</td></tr><tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant [<a href="https://www.health.kr/drug/2025032500010">너텍구강붕해정 75 ㎎</a>]</td><td>75 ㎎. 급성치료 및 삽화성 편두통 예방(격일 복용). 만성편두통 예방 적응증 없음. 2026년 9월 출시, 비급여</td></tr><tr><td>Atogepant [<a href="https://www.health.kr/drug/2023111600013">아큅타정 60 ㎎</a>]</td><td>삽화성·만성편두통 예방 60 ㎎ qd. 급성치료 60 ㎎ 필요시. <mark style="background-color:yellow;">1일 최대 60 ㎎(예방 목적으로 복용한 날은 급성치료로 추가 복용하지 않음).</mark><br>강력한 CYP3A4 억제제 또는 OATP 억제제 병용, 중증 신장애 또는 말기신질환 시 <a href="https://www.health.kr/drug/2023111600012">10 ㎎</a> qd. 비급여</td></tr></tbody></table>
 
 > ¹⁾_Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
 >
-> ※ [Fremanezumab 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701&sno=4&mtgMtrRegSno=0005) 및 [Galcanezumab 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701&mtgMtrRegSno=0006&sno=4)
+> ※ [Fremanezumab 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) 및 [Galcanezumab 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&mtgMtrRegSno=0006\&sno=4)
 >
 > * <mark style="background-color:yellow;">대상 : ICHD-3에 부합하는 만 18세 이상 만성편두통 환자로 다음을 모두 충족</mark>
 >   * <mark style="background-color:yellow;">① 최소 1년 이상 편두통 병력, 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일)</mark>
@@ -324,7 +291,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * G44.4 달리 분류되지 않은 약물유발 두통 Drug-induced headache, NEC
 * G44.8 기타 명시된 두통증후군 Other specified headache syndromes
 * G93.2 양성 두개내압상승 Benign intracranial hypertension
-* 편두통(G43 계열)은 <mark style="background-color:yellow;">[016 편두통](016_-migraine.md) 질병코드</mark> 참조
+* 편두통(G43 계열)은 [<mark style="background-color:yellow;">016 편두통</mark>](016_-migraine.md) <mark style="background-color:yellow;">질병코드</mark> 참조
 
 ***
 
@@ -360,7 +327,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 >
 > 약제 정보: [인도메타캡슐·25 ㎎](https://www.health.kr/drug/2011080300001) · [오메드정·20 ㎎](https://www.health.kr/drug/A11A1890A0146)
 >
-> _✽indomethacin 불내성 시 celecoxib 등 대안을 고려할 수 있으나, 대체약 반응은 hemicrania continua의 진단 기준을 대신하지 않음. Celecoxib를 고려할 때는 심혈관질환·NYHA II\~IV 심부전·중증 신장애·활동성 궤양·출혈 등 투여금기를 먼저 확인하고 대체 여부를 판단([001 통증](001_-pain.md) 참조)_
+> _✽indomethacin 불내성 시 celecoxib 등 대안을 고려할 수 있으나, 대체약 반응은 hemicrania continua의 진단 기준을 대신하지 않음. Celecoxib를 고려할 때는 심혈관질환·NYHA II\~IV 심부전·중증 신장애·활동성 궤양·출혈 등 투여금기를 먼저 확인하고 대체 여부를 판단(_[_001 통증_](001_-pain.md) _참조)_
 
 > **처방례 3. 수면두통 (Hypnic headache)**
 >
@@ -461,9 +428,8 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * [식품의약품안전처. 명인탄산리튬정150밀리그램 품목정보.](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetailCache?cacheSeq=201507389aupdateTs2026-09-19+13%3A58%3A35.0b) - 투여금기
 * [약학정보원. 데파코트서방정500㎎.](https://www.health.kr/drug/A11AOOOOO4807) 및 [토파맥스정25㎎.](https://www.health.kr/drug/2020080600008) - 편두통 예방 시 임신 관련 금기
 * [한국애브비. 아큅타정60밀리그램 제품설명서 (2026-11-05).](https://www.abbvie.co.kr/content/dam/abbvie-com2/kr/documents/products/hp-pi-aquipta-60mg-2026-11-05.pdf) - 급성치료·예방 용법 및 1일 최대량
-* [한국애브비. 보톡스주 제품설명서.](https://www.abbvie.co.kr/content/dam/abbvie-dotcom/kr/documents/Botox%20100U_KR%20label%28KR%29_web.pdf) - 만성편두통 예방 권장 용량
+* [한국애브비. 보톡스주 제품설명서.](https://www.abbvie.co.kr/content/dam/abbvie-dotcom/kr/documents/Botox%20100U_KR%20label\(KR\)_web.pdf) - 만성편두통 예방 권장 용량
 * [건강보험심사평가원. 아조비·앰겔러티 급여기준 개정 안내.](https://www.hira.or.kr/bbs/157/2024/07/BZ202407030196952.pdf) - 보건복지부 고시 제2024-130호 (2024-07-01 시행)
-
 
 ***
 
@@ -484,8 +450,8 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 * 두통을 가라앉히려고 진통제를 자주 먹다 보면 약물이 두통의 악화·만성화에 기여하여 악순환이 생길 수 있습니다.
 * <mark style="background-color:yellow;">한 달에 15일 이상 두통이 있으면서 두통약을 다음 빈도로 3개월 넘게 복용하면 약물과용두통일 수 있습니다.</mark>
-  * <mark style="background-color:yellow;">트립탄·오피오이드·카페인 복합제 : **한 달 10일 이상**</mark>
-  * <mark style="background-color:yellow;">단순 진통제 : **한 달 15일 이상**</mark>
+  * <mark style="background-color:yellow;">트립탄·오피오이드·카페인 복합제 :</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**한 달 10일 이상**</mark>
+  * <mark style="background-color:yellow;">단순 진통제 :</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**한 달 15일 이상**</mark>
 * 치료의 핵심은 과용 약물을 줄이거나 중단하고, 필요한 경우 예방 치료를 함께 시행하는 것입니다. 중단 초기에는 수일간 두통이 더 심해질 수 있으며 호전 속도는 개인마다 다릅니다.
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
@@ -496,7 +462,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **<mark style="background-color:yellow;">두통일기</mark> 작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. 기록 항목은 [015 두통](015_-headache.md)을 참조하십시오.
+* <mark style="background-color:yellow;">**두통일기**</mark>**&#x20;작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. 기록 항목은 [015 두통](015_-headache.md)을 참조하십시오.
 * **규칙적인 생활** : 수면·식사·기상 시간을 일정하게 유지하십시오.
 * **카페인 조절** : 과도한 섭취는 줄이되, 매일 많이 섭취했다면 갑자기 끊을 때 금단 두통이 생길 수 있어 서서히 줄이십시오. 수면두통으로 취침 전 카페인을 처방받았다면 <mark style="background-color:yellow;">주치의의</mark> 지시를 따르십시오.
 
