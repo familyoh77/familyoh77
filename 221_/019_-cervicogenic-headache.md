@@ -1,4 +1,4 @@
-# 경추성두통 Cervicogenic Headache
+# 경추성 두통 Cervicogenic headache
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -114,10 +114,10 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-* <mark style="background-color:yellow;">[편두통](016_-migraine.md)</mark>의 경부 증상, <mark style="background-color:yellow;">[긴장형두통](017_-tension-type-headache.md)</mark> 및 경부 근막통증
+* [<mark style="background-color:yellow;">편두통</mark>](016_-migraine.md)의 경부 증상, [<mark style="background-color:yellow;">긴장형두통</mark>](017_-tension-type-headache.md) 및 경부 근막통증
 * 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상, 해당 신경의 국소마취 차단으로 일시적 완화
 * 상부 경추 신경근병증
-* <mark style="background-color:yellow;">[지속반두통](018_-chronic-headache.md#hemicrania-continua)</mark>(hemicrania continua), <mark style="background-color:yellow;">[돌발반두통](018_-chronic-headache.md#short-lasting-headache)</mark>(paroxysmal hemicrania)
+* [<mark style="background-color:yellow;">지속반두통</mark>](018_-chronic-headache.md#hemicrania-continua)(hemicrania continua), [<mark style="background-color:yellow;">돌발반두통</mark>](018_-chronic-headache.md#short-lasting-headache)(paroxysmal hemicrania)
 * <mark style="background-color:yellow;">턱관절 장애(TMD)</mark>, 인두뒤건염, 두개경부 근긴장이상
 * 급성 또는 지속성 편타손상 기인 두통
 * 경부동맥 박리(경동맥·척추동맥), 거대세포동맥염
@@ -154,6 +154,36 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ***
 
 ```mermaid
+flowchart TD
+    A["경추 원인이 의심되는 두통"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    B -- "예" --> C["즉각 조치"]
+    B -- "아니요" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
+    D -- "예" --> E["당일~수일 내 평가"]
+    D -- "아니요" --> F["두통 유형·신경학적 진찰·ICHD-3 평가"]
+    F --> G["경추 병변 증거·인과관계 ≥2개,<br/>다른 진단으로 더 잘 설명되지 않음?"]
+    G -- "예" --> I["교육·능동적 운동·필요시 관절가동술"]
+    G -- "아니요, 경추 원인 의심 지속" --> G2["교육·운동 시험 치료<br/>두통과 경추 소견의 동반 호전을 추적해<br/>2~4주에 ICHD-3 재평가"]
+    G -- "아니요, 다른 두통 의심" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
+    I --> J["2~4주 재평가에서 호전?"]
+    J -- "예" --> K["단계적 운동·생활관리 유지"]
+    J -- "아니요" --> L["진단·순응도·위험 징후 재평가"]
+    L -- "새 위험 징후" --> B2["Red Flags 경로로 다시 평가"]
+    L -- "위험 징후 없음" --> M0["예후차단 전 보존치료를 충분히 시행?<br/>약 6주를 기준으로 개별화"]
+    M0 -- "아니요" --> K2["보존치료 지속·경과 재평가"]
+    M0 -- "예" --> M["기능장애 지속 및<br/>후관절성 통증 의심?"]
+    M -- "아니요" --> H2["다른 두통·통증원 재평가"]
+    M -- "예" --> N["전문의 의뢰·영상 유도 TON block 또는 MBB"]
+    N --> O["시술기관의 양성 예후차단 기준 충족?"]
+    O -- "예" --> P["이익·위험을 상의하여 RF 고려"]
+    O -- "아니요" --> Q["RF 보류·다른 통증원 재평가"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#f8d7da,stroke:#dc3545
+    classDef care fill:#d9eaff,stroke:#3973ac
+    class A start
+    class B,D,G,J,M0,M,O question
+    class C,B2 emergency
+    class E,F,G2,H,I,K,K2,L,H2,N,P,Q care
 ```
 
 > _거대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._
@@ -162,7 +192,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 >
 > _양성 예후차단 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분._
 
-<p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025;</mark></em> <br><em><mark style="color:$info;">Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
+<p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025;</mark></em><br><em><mark style="color:$info;">Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
 
 ***
 
@@ -219,7 +249,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 250 ㎎ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> 500 ㎎
 * ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
-* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:yellow;">(☞ [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh))</mark>
+* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:yellow;">(☞</mark> [<mark style="background-color:yellow;">약물과용두통</mark>](018_-chronic-headache.md#medication-overuse-headache-moh)<mark style="background-color:yellow;">)</mark>
   * 카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임
 
 ### <mark style="color:orange;">근이완제</mark>
