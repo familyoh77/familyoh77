@@ -8,7 +8,7 @@
   * 동반 소견 : 두부/경부/어깨 근육 경직·압통, 피로, 과민, 집중력 저하가 나타날 수 있음
 * 역학
   * 원발성 두통의 가장 흔한 형태임
-  * 유병률 : 전 세계 추정치 약 26% <mark style="color:$info;">\[J Headache Pain 2022]</mark>
+  * 유병률 : 최근 1년 이하 기간 유병률의 전 세계 추정치 약 26% <mark style="color:$info;">\[J Headache Pain 2022]</mark>
   * 삽화형 유병률은 중년 이후 감소하는 경향을 보이며, 만성형 유병률과 연령의 관련성은 연구마다 일관되지 않음
   * 질병부담 : 두통질환 전체의 YLD(years lived with disability)는 15\~49세에서 특히 큼 <mark style="color:$info;">\[J Headache Pain 2024]</mark>
 * [두통일기](015_-headache.md#headache-diary)(headache diary) : 초진 시 작성을 권고하고 1개월 후 첫 재평가에 활용
@@ -228,12 +228,16 @@ flowchart TD
   * 낙센정·아나프록스정의 두통 관련 허가 적응증은 편두통이며, 긴장형두통 치료는 허가 외 사용
 * acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>
   * 급성 TTH에 acetaminophen 1,000 ㎎을 제안 <mark style="color:$info;">(약한 권고)</mark> <mark style="color:$info;">\[VA/DoD 2023]</mark>
+  * 효과
+    * 고빈도삽화긴장형두통에서 acetaminophen 1,000 ㎎의 위약 대비 이득은 작음(2시간 무통 도달 NNT 22, 95% CI 15\~40) <mark style="color:$info;">\[Cochrane 2016]</mark>
+    * ibuprofen 400 ㎎과의 직접 비교에서는 2시간 무통 도달률에 통계적으로 유의한 차이가 확인되지 않았으며, 근거의 확실성은 낮음 <mark style="color:$info;">\[Cochrane 2016]</mark>
+    * 이 장의 처방례에서는 NSAID 사용에 제약이 없으면 ibuprofen을 먼저 고려하고, NSAID 사용이 어려우면 품목별 금기를 확인한 뒤 acetaminophen을 대안으로 선택
   * 용량 : 속방형 1회 최대 1,000 ㎎, 반복 시 4\~6시간 간격, 1일 최대 4 g
     * 반복·장기 사용 시 1일 3 g 이하를 보수적으로 권장
     * 연령·체중·간질환·음주 등을 고려하여 용량 결정
     * acetaminophen 함유 감기약·진통제와 중복 복용을 피함(☞ [통증](../220_/001_-pain.md))
-  * 주요 금기(타이레놀정) : 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용, 음주
-    * NSAID를 사용하기 어려워 대체하는 경우에도 품목별 금기를 먼저 확인
+* 주요 금기(타이레놀정) : 소화성궤양, 심한 신장애·심한 간장애, 아스피린 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용, 음주
+  * NSAID를 사용하기 어려워 대체하는 경우에도 품목별 금기를 먼저 확인
 * aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">바이엘아스피린</mark>](https://www.health.kr/drug/A11A1380A0008)<mark style="color:blue;">]</mark>
   * 이 품목은 만 15세 미만 금기. NICE는 라이증후군 위험을 고려해 만 16세 미만 환자의 긴장형두통에 사용하지 않도록 권고 <mark style="color:$info;">\[NICE CG150]</mark>
 
@@ -249,6 +253,8 @@ flowchart TD
 ### <mark style="color:orange;">급성기에 권장하지 않는 치료</mark>
 
 * Opioid / tramadol : 약물과용두통·의존·두통 만성화 위험이 있어 긴장형두통 급성 치료에 사용하지 않음
+  * tramadol/acetaminophen 저용량 복합제(예: [<mark style="color:blue;">울트라셋세미</mark>](https://health.kr/drug/2022032300004))도 같음
+  * 예방약(TCA, venlafaxine, mirtazapine) 복용 중에는 세로토닌 증후군과 경련 위험도 있음
 
 ### <mark style="color:orange;">예방 치료</mark>
 
