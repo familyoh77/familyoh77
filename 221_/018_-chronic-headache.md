@@ -498,7 +498,7 @@ class L followup;
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **두통일기 작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. 모바일 앱 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)'(☞ [안내 영상](https://www.youtube.com/watch?v=8ATnCgbL2Wg))를 활용해도 좋습니다.
+* **두통일기 작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. 모바일 앱 '[대한두통학회 두통일기](https://play.google.com/store/apps/details?id=com.m2comm.headache)와 [안내 영상](https://www.youtube.com/watch?v=8ATnCgbL2Wg)'을 활용해도 좋습니다.
 * **규칙적인 생활** : 수면·식사·기상 시간을 일정하게 유지하십시오.
 * **카페인 조절** : 과도한 섭취는 줄이되, 매일 많이 섭취했다면 갑자기 끊을 때 금단 두통이 생길 수 있어 서서히 줄이십시오. 수면두통으로 취침 전 카페인을 처방받았다면 주치의의 지시를 따르십시오.
 
