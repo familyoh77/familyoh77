@@ -519,10 +519,10 @@ flowchart TD
 
 ### <mark style="color:orange;">적응증에 따른 항우울제 사용</mark>
 
-* 동반 주요우울장애·불안장애 : SSRI 또는 SNRI를 해당 진단의 권고에 따라 고려 (예: escitalopram <mark style="color:blue;">[렉사프로](https://www.health.kr/drug/A11AOOOOO5474)</mark>) (☞ [우울증](027_-depression.md), [불안장애](025_-anxiety-disorder.md))
+* 동반 주요우울장애·불안장애 : SSRI 또는 SNRI를 해당 진단의 권고에 따라 고려 (예: escitalopram [<mark style="color:blue;">렉사프로</mark>](https://www.health.kr/drug/A11AOOOOO5474)) (☞ [우울증](027_-depression.md), [불안장애](025_-anxiety-disorder.md))
 * 질병불안장애 : CBT가 우선이며, 중증 건강불안 또는 동반 우울·불안에는 SSRI를 고려할 수 있으나 국내 해당 적응증 미승인
 * 통증 우세형 : 먼저 통증 질환을 진단하고 비약물치료를 포함한 질환별 치료 시행
-  * duloxetine <mark style="color:blue;">[마이셀타](https://health.kr/drug/2014050900005)</mark>·TCA 등은 해당 통증 적응증과 금기·부작용을 확인한 경우에만 고려
+  * duloxetine [듀로셉톨](https://www.health.kr/drug/2014063000024)·TCA 등은 해당 통증 적응증과 금기·부작용을 확인한 경우에만 고려
   * Duloxetine의 국내 금기 : 간질환, 중증 신장애(CrCl ＜30 ㎖/min)·투석이 필요한 말기 신질환, 조절되지 않는 고혈압·협우각 녹내장 및 MAOI 관련 병용·휴약기간 금기. 다른 SNRI/SSRI 전체에 일률 적용하지 않으며, TCA도 amitriptyline 등 제품별 금기를 확인(001·027 참조)
   * TCA는 통증 적응증이 없으면 허가 외 사용임
 * 시작 전 양극성장애·조증/경조증 병력, 자살 위험, 출혈 위험, 저나트륨혈증 위험, 상호작용을 평가
@@ -584,8 +584,8 @@ flowchart TD
 > **처방례 2.** duloxetine 허가 통증 적응증 또는 우울·불안장애가 동반된 경우
 >
 > ```
-> 마이셀타캡슐 30 ㎎/C  1C  qd  1~2주
-> 이후 마이셀타캡슐 60 ㎎/C  1C  qd
+> 듀로셉톨캡슐 30 ㎎/C  1C  qd  1~2주
+> 이후 듀로셉캡슐 60 ㎎/C  1C  qd
 > ※ 식사와 관계없이 복용 가능; 구역이 있으면 식후 복용 고려
 > ※ 장용캡슐은 통째로 삼키며 씹거나 부수거나 열어 과립을 흩어 복용하지 않음
 > ※ 혈압은 시작 전·치료 중 확인; 통증 적응증의 통상 목표는 60 ㎎/d이며 추가 증량을 일률 권고하지 않음
@@ -594,7 +594,7 @@ flowchart TD
 > ※ 갑자기 중단하지 않고 임상상태에 따라 점진적으로 감량
 > ```
 >
-> 약제 정보: [마이셀타캡슐·30 ㎎](https://health.kr/drug/2014050900005) · [마이셀타캡슐·60 ㎎](https://health.kr/drug/2014050900006)
+> 약제 정보: [듀로셉톨·30 ㎎](https://www.health.kr/drug/2014063000024) · [듀로셉톨·60 ㎎](https://www.health.kr/drug/2014063000024)
 
 ***
 
@@ -608,7 +608,7 @@ flowchart TD
 > * 복용 초기에 **불안 증가·초조·안절부절못함(jitteriness/activation)** 이 나타날 수 있습니다. 심한 정좌불능, 잠을 거의 자지 않아도 피곤하지 않은 상태, 충동성 또는 자살사고가 생기면 즉시 담당 의사에게 알리십시오.
 > * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
 > * 술은 졸림·어지럼과 약물 부작용을 늘릴 수 있으므로 피하십시오. 어지럽거나 졸리면 운전·기계조작을 하지 마십시오.
-> * 마이셀타는 장용캡슐이므로 통째로 삼키십시오. 씹거나 부수거나 캡슐을 열어 나누어 먹지 마십시오.
+> * 듀로셉톨은 장용캡슐이므로 통째로 삼키십시오. 씹거나 부수거나 캡슐을 열어 나누어 먹지 마십시오.
 > * 복용을 잊으면 생각난 때 복용하되 다음 복용 시간이 가까우면 건너뛰십시오. 한 번에 두 배로 먹지 마십시오.
 > * 고열·심한 발한과 함께 혼동·떨림·근육 경직이 생기면 세로토닌 독성 가능성이 있으므로 복용을 보류하고 즉시 응급 평가를 받으십시오.
 > * 진통소염제(NSAID)·아스피린·항응고제와 함께 복용하면 출혈 위험이 증가하므로 복용 중인 약을 모두 알려 주십시오.
@@ -635,19 +635,17 @@ flowchart TD
 * \[Psychol Med 2020] [Toussaint A, et al. Detecting DSM-5 somatic symptom disorder: criterion validity of the Patient Health Questionnaire-15 (PHQ-15) and the Somatic Symptom Scale-8 (SSS-8) in combination with the Somatic Symptom Disorder - B Criteria Scale (SSD-12). Psychol Med. 2020;50(2):324-333.](https://doi.org/10.1017/S003329171900014X) - SSD-12 선별 절단점
 * \[K-SSD-12, Psychiatry Investig 2024] [Jung S, et al. Reliability and Validity of the Korean Version of the Somatic Symptom Disorder-B Criteria Scale in a Clinical Population. Psychiatry Investig. 2024;21(2):165-173.](https://doi.org/10.30773/pi.2023.0352) - 한국어판 SSD-12의 신뢰도·타당도와 임상 평가 적용
 * [Kurlansik SL, Maffei MS. Somatic Symptom Disorder. Am Fam Physician. 2016;93(1):49-54.](https://www.aafp.org/pubs/afp/issues/2016/0101/p49.html) - 일차의료의 SSD 평가와 관리
-* [Henningsen P, Zipfel S, Herzog W. Management of functional somatic syndromes. Lancet. 2007;369(9565):946-955.](https://doi.org/10.1016/S0140-6736(07)60159-7) - 기능성 신체증후군의 관리 원칙
+* [Henningsen P, Zipfel S, Herzog W. Management of functional somatic syndromes. Lancet. 2007;369(9565):946-955.](https://doi.org/10.1016/S0140-6736\(07\)60159-7) - 기능성 신체증후군의 관리 원칙
 * [Henningsen P. Management of somatic symptom disorder. Dialogues Clin Neurosci. 2018;20(1):23-31.](https://doi.org/10.31887/DCNS.2018.20.1/phenningsen) - 신체증상장애의 진단 설명·단계적 치료와 일차의료·전문 진료 협력에 관한 리뷰
 * \[Cochrane 2014] [Kleinstäuber M, et al. Pharmacological interventions for somatoform disorders in adults. Cochrane Database Syst Rev. 2014;(11):CD010628.](https://doi.org/10.1002/14651858.CD010628.pub2) - 신체형장애 약물 연구의 효과·근거 한계; 과거 진단 범주와 현재 SSD의 차이 고려
 * \[AAN 2026] [Tolchin B, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2026;106(1):e214466.](https://doi.org/10.1212/WNL.0000000000214466) - 기능성 발작의 진단 설명·치료와 불필요한 항발작약 사용 제한; 모든 FND에 일괄 적용하지 않음
-* \[Lancet Neurol 2024] [Nielsen G, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. Lancet Neurol. 2024;23(7):675-686.](https://doi.org/10.1016/S1474-4422(24)00135-2) - 기능성 운동장애의 전문 물리치료 효과와 1차·2차 결과의 구분
-* \[Lancet Psychiatry 2020] [Goldstein LH, et al. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. Lancet Psychiatry. 2020;7(6):491-505.](https://doi.org/10.1016/S2215-0366(20)30128-0) - 해리성·기능성 발작의 CBT 효과와 1차 발작빈도 결과의 한계
-
+* \[Lancet Neurol 2024] [Nielsen G, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. Lancet Neurol. 2024;23(7):675-686.](https://doi.org/10.1016/S1474-4422\(24\)00135-2) - 기능성 운동장애의 전문 물리치료 효과와 1차·2차 결과의 구분
+* \[Lancet Psychiatry 2020] [Goldstein LH, et al. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. Lancet Psychiatry. 2020;7(6):491-505.](https://doi.org/10.1016/S2215-0366\(20\)30128-0) - 해리성·기능성 발작의 CBT 효과와 1차 발작빈도 결과의 한계
 * [Brigo F, et al. Tongue biting in epileptic seizures and psychogenic events. Epilepsy Behav. 2012;25(2):251-255.](https://doi.org/10.1016/j.yebeh.2012.06.020) - 혀 측면 교상의 감별 의미
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 동반 우울·불안·통증에 사용하는 약물의 적응증·안전성과 SSD/FND 자체에 대한 허가 여부; duloxetine의 간·신장애 등 금기와 MAOI 관련 휴약기간 확인
-
 
 ***
 

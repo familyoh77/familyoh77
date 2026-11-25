@@ -257,8 +257,8 @@ class L care;
 ### <mark style="color:orange;">진통제</mark>
 
 * 제품별 금기 확인 : 공통적으로 중증 간장애·신장애에서는 사용을 피함(☞ [통증](../220_/001_-pain.md) 참조)
-  * NSAID : 위장관 궤양·출혈 또는 그 병력에서 금기; PPI 병용으로 금기가 해소되지는 않음
-  * acetaminophen : 일부 품목은 TCA 복용 환자 투여 금기가 있으므로 amitriptyline, nortriptyline 예방요법 중에는 확인
+  * NSAID : 위장관 궤양·출혈 또는 그 병력이 있으면 제품별 금기·주의사항 확인. 투여 금기인 경우 PPI를 병용해도 투여하지 않음
+  * acetaminophen : 소화성궤양·TCA·바르비탈계 약물 복용 환자에게 투여 금기. amitriptyline, nortriptyline 투여 중에는 다른 진통제 선택
 * 일반 진통제를 발작 초기에 충분한 용량으로 써도 반응이 불충분한 발작이 반복되면 triptan 등 다른 계열로 전환 고려
 * ibuprofen : 1회 400 ㎎부터 시작 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">부루펜</mark>](https://www.health.kr/drug/A11A0500A0131)<mark style="color:blue;">]</mark>
   * 국제 지침 기준 용량은 1회 400\~800 ㎎이나, 부루펜 허가 용량은 1회 200\~400 ㎎ tid\~qid
@@ -266,7 +266,7 @@ class L care;
 * naproxen sodium : 편두통 용법은 초회 825 ㎎, 필요시 초회 투여 30분 후 275\~550 ㎎ 추가, 1일 최대 1,375 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아나프록스 275 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB2070)<mark style="color:blue;">]</mark>
 * aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">바이엘아스피린 500 ㎎</mark>](https://www.health.kr/drug/A11A1380A0008)<mark style="color:blue;">]</mark>
 * dexketoprofen : 25 ㎎ (경구 단일제 유통 확인 안 됨)
-* acetaminophen : 두통 시작 시 속방형 1,000 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>; 반복 시 최소 6시간 간격(허가 용법은 4\~6시간 간격).&#x20;
+* acetaminophen : 두통 시작 시 속방형 1,000 ㎎ <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>; 반복 시 최소 6시간 간격(허가 용법은 4\~6시간 간격).
   * acetaminophen은 감기약 등 복합제에도 흔히 들어 있으므로 모든 공급원을 합산해 1일 최대 4 g, 반복·장기 사용 시 통상 3 g 이하를 권장; 간질환·상습 음주·저체중 등 위험요인에 따라 감량
   * NSAID보다 효과가 적다는 보고가 있음
   * 서방형 : 650 ㎎ 2정(1,300 ㎎) q8h·최대 6정/24시간 (급성 발작 치료에는 속방형이 적합)
@@ -406,7 +406,7 @@ flowchart TD
 * 대부분의 예방약은 권장 내약 용량에서 최소 8\~12주 투여 후 효과 판정 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * 8주째 반응이 불충분하면 최대 내약 용량 또는 근거가 있는 최대 용량까지 최적화
 * onabotulinumtoxinA는 권장 용량으로 24주 후 효과 판정 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
-* 예방 치료가 효과적인 경우 최소 6개월 치료 후 감량·중단의 이득과 재발 위험을 환자와 논의&#x20;
+* 예방 치료가 효과적인 경우 최소 6개월 치료 후 감량·중단의 이득과 재발 위험을 환자와 논의
   * → 재발 시 증량 또는 재개 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 
 ### <mark style="color:orange;">경구 예방약</mark>
@@ -451,7 +451,7 @@ flowchart TD
 * amitriptyline : 10\~50 ㎎/d hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark>
   * 부작용 : 졸음, 입마름, 변비, 소변 저류, 심장 전도 장애, 체중 증가
   * 주의/금기 : 고령, BPH, 녹내장, 발작, 심장 질환
-  * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0032)<mark style="color:blue;">]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함&#x20;
+  * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0032)<mark style="color:blue;">]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함
 * venlafaxine XR : 37.5\~150 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">이팩사 XR</mark>](https://www.health.kr/drug/A11ADDDDD0700)<mark style="color:blue;">]</mark>
   * 부작용 : 구역, 혈압 상승
     * 조절되지 않는 고혈압은 먼저 조절하고, 투여 중 혈압 모니터링

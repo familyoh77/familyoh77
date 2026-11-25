@@ -56,26 +56,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급속히 진행하는 혀·구강저 부종, 호흡곤란, 협착음, 침 흘림, 청색증  `기도폐쇄` `아나필락시스` `혈관부종`
-* 고열·독성 외관과 함께 구강저 종창, 혀의 상방 변위, 개구장애, 연하곤란  `심부경부감염` `Ludwig angina`
-* 갑자기 발생한 편측 얼굴 감각 저하, 구음장애·편측 마비·의식 변화 등 급성 신경학적 이상  `뇌졸중`
-* 최근 약물 시작 후 발열·급속한 피부발진·피부박리와 구강·안구 등 다발성 점막 미란이 동반되거나 안구 통증·시력 변화가 있음  `Stevens-Johnson 증후군` `독성 표피괴사용해`
-* 50세 이상에서 새로 발생한 혀 통증과 씹을 때 턱·혀 파행, 새로운 두통, 측두동맥 압통, 시력 변화  `거대세포동맥염`
+* 급속히 진행하는 혀·구강저 부종, 호흡곤란, 협착음, 침 흘림, 청색증 `기도폐쇄` `아나필락시스` `혈관부종`
+* 고열·독성 외관과 함께 구강저 종창, 혀의 상방 변위, 개구장애, 연하곤란 `심부경부감염` `Ludwig angina`
+* 갑자기 발생한 편측 얼굴 감각 저하, 구음장애·편측 마비·의식 변화 등 급성 신경학적 이상 `뇌졸중`
+* 최근 약물 시작 후 발열·급속한 피부발진·피부박리와 구강·안구 등 다발성 점막 미란이 동반되거나 안구 통증·시력 변화가 있음 `Stevens-Johnson 증후군` `독성 표피괴사용해`
+* 50세 이상에서 새로 발생한 혀 통증과 씹을 때 턱·혀 파행, 새로운 두통, 측두동맥 압통, 시력 변화 `거대세포동맥염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 지속·진행하는 연하곤란 또는 연하통, 설명되지 않는 체중 감소, 경부 종괴  `두경부암`
-* 기간과 무관하게 경결·종괴·쉽게 출혈하는 병변·의심스러운 적백색 변화  `구강암` `구강 잠재적 악성 질환`
-* 원인 불명 궤양 또는 백색·붉은 병변이 2주 이상 지속  `구강암` `구강 편평태선`
-* 수일\~수주에 걸쳐 새로 발생·진행한 편측 혀 통증과 안면·혀 감각 저하, 뇌신경 이상  `삼차신경병증` `신경 침범 종양`
-* 지속되는 구강 수포·미란, 피부·안구 병변 동반  `자가면역 수포성 질환`
+* 지속·진행하는 연하곤란 또는 연하통, 설명되지 않는 체중 감소, 경부 종괴 `두경부암`
+* 기간과 무관하게 경결·종괴·쉽게 출혈하는 병변·의심스러운 적백색 변화 `구강암` `구강 잠재적 악성 질환`
+* 원인 불명 궤양 또는 백색·붉은 병변이 2주 이상 지속 `구강암` `구강 편평태선`
+* 수일\~수주에 걸쳐 새로 발생·진행한 편측 혀 통증과 안면·혀 감각 저하, 뇌신경 이상 `삼차신경병증` `신경 침범 종양`
+* 지속되는 구강 수포·미란, 피부·안구 병변 동반 `자가면역 수포성 질환`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 닦이는 백태, 국소 홍반·유두 위축  `구강 칸디다증`
-* 적절한 평가·치료에도 증상이 지속되거나 진단이 불확실함  `놓친 국소·전신 원인` `난치성 BMS`
-* 중등도 이상의 불안·우울, 수면장애 또는 현저한 일상기능 저하  `우울장애` `불안장애` `불면증`
-* 약물 시작·증량과 시간적으로 관련된 증상 발생  `약물 유발 구강 작열감`
+* 닦이는 백태, 국소 홍반·유두 위축 `구강 칸디다증`
+* 적절한 평가·치료에도 증상이 지속되거나 진단이 불확실함 `놓친 국소·전신 원인` `난치성 BMS`
+* 중등도 이상의 불안·우울, 수면장애 또는 현저한 일상기능 저하 `우울장애` `불안장애` `불면증`
+* 약물 시작·증량과 시간적으로 관련된 증상 발생 `약물 유발 구강 작열감`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -119,7 +119,7 @@
 
 <mark style="color:cyan;">**확장 검사**</mark> <mark style="color:cyan;">(의심 질환에 따라)</mark>
 
-* ANA, anti-SSA/SSB : 객관적 입마름·안구건조, 타액선 종대 등 Sjögren 증후군 의심 시&#x20;
+* ANA, anti-SSA/SSB : 객관적 입마름·안구건조, 타액선 종대 등 Sjögren 증후군 의심 시
 * [Sialometry](056_-dry-mouth.md#undefined-6) : 객관적 타액 감소 확인 필요시
   * 비자극 전타액 ≤0.1 ㎖/min, 자극 전타액 ≤0.5\~0.7 ㎖/min이면 저하
 * 구강 도말·배양 : 임상적으로 칸디다증이 의심되거나 치료 반응이 불분명할 때
@@ -192,7 +192,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 
 ### <mark style="color:orange;">치료 근거 요약</mark>
 
-<table><thead><tr><th width="206">치료</th><th>근거</th><th>임상적 위치</th></tr></thead><tbody><tr><td>clonazepam<br>(국소 또는 전신)</td><td>메타분석에서 위약 대비 통증 감소 가능성, 중등도 확실성; 국소 투여의 직접 RCT 근거가 비교적 많음</td><td>위험·허가 외 사용을 설명한 후 고려; 고령자·낙상 위험 환자 주의</td></tr><tr><td>pregabalin / <br>photobiomodulation</td><td>효과 신호가 있으나 낮음 또는 매우 낮은 확실성</td><td>초기 치료 불충분 시 개별적으로 고려</td></tr><tr><td>gabapentin / CBT / capsaicin</td><td>소규모 연구의 제한적 근거</td><td>환자 특성·선호에 따라 보조적으로 고려</td></tr><tr><td>항우울제 / α-lipoic acid</td><td>결과 불일치 또는 근거 불충분</td><td>공존 질환 또는 충분한 설명 후 선택적 사용</td></tr></tbody></table>
+<table><thead><tr><th width="206">치료</th><th>근거</th><th>임상적 위치</th></tr></thead><tbody><tr><td>clonazepam<br>(국소 또는 전신)</td><td>메타분석에서 위약 대비 통증 감소 가능성, 중등도 확실성; 국소 투여의 직접 RCT 근거가 비교적 많음</td><td>위험·허가 외 사용을 설명한 후 고려; 고령자·낙상 위험 환자 주의</td></tr><tr><td>pregabalin /<br>photobiomodulation</td><td>효과 신호가 있으나 낮음 또는 매우 낮은 확실성</td><td>초기 치료 불충분 시 개별적으로 고려</td></tr><tr><td>gabapentin / CBT / capsaicin</td><td>소규모 연구의 제한적 근거</td><td>환자 특성·선호에 따라 보조적으로 고려</td></tr><tr><td>항우울제 / α-lipoic acid</td><td>결과 불일치 또는 근거 불충분</td><td>공존 질환 또는 충분한 설명 후 선택적 사용</td></tr></tbody></table>
 
 * 근거 확실성은 네트워크 메타분석 기준 <mark style="color:$info;">\[J Dent Res 2023]</mark>
 
@@ -223,7 +223,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 **국소 적용 (swish-and-spit)**
 
 * 대표 RCT 용법 : 1 ㎎ 정제 1정을 입 안에서 천천히 녹여 침을 통증 부위에 3분간 머금은 뒤 뱉음 × tid, 14일 <mark style="color:$info;">\[Pain 2004]</mark>
-  * 국내 적용 : 0.5 ㎎ 정제 2정(총 1 ㎎)을 같은 방법으로 사용 <mark style="color:blue;">\[[리보트릴](https://www.health.kr/drug/A11ABBBBB1153)]</mark>
+  * 국내 적용 : 0.5 ㎎ 정제 2정(총 1 ㎎)을 같은 방법으로 사용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리보트릴</mark>](https://www.health.kr/drug/A11ABBBBB1153)<mark style="color:blue;">]</mark>
 * 정제를 물에 녹여 가글하는 방법은 용량·희석량·농도에 따라 노출이 달라질 수 있으며, 위 정제 용해 RCT와 동일하게 검증된 용법으로 간주하지 않음
 * 뱉어도 구강 점막을 통해 전신 흡수될 수 있으므로 졸림·어지럼·운전·낙상·의존 위험을 안내
 * 1\~2주 후 통증 변화를 평가할 수 있으나, 반응 여부는 진단이나 신경병증 기전을 확정하지 않음
@@ -247,7 +247,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 #### <mark style="color:$primary;">SNRI</mark>
 
 * BMS 자체에 대한 근거는 제한적; 주요우울장애·범불안장애·당뇨병성 말초신경병증성 통증 등 별도로 진단한 허가 적응증이 동반될 때 고려. 다른 신경병증성 통증에 대한 사용은 별도의 허가 외 사용임을 구분 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#serotonin-norepinephrine-reuptake-inhibitor-snri))
-* duloxetine 30 ㎎ qd 시작 → 내약성과 적응증에 따라 60 ㎎ qd <mark style="color:blue;">\[[마이셀타](https://health.kr/drug/2014050900005)]</mark>
+* duloxetine 30 ㎎ qd 시작 → 내약성과 적응증에 따라 60 ㎎ qd <mark style="color:blue;">\[</mark>[듀로셉톨](https://www.health.kr/drug/2014063000024)<mark style="color:blue;">]</mark>
   * 오심·입마름·불면 또는 졸림, 혈압 상승 등에 주의하고 중단 시 tapering
 * 금기 : 간질환, CrCl ＜30 ㎖/min인 중증 신장애·투석이 필요한 말기 신질환, 조절되지 않는 고혈압, 조절되지 않는 협우각 녹내장, MAO 억제제 병용 등
 * MAO 억제제 중단 후 14일 이내 duloxetine 투여 및 duloxetine 중단 후 5일 이내 MAO 억제제 투여 금기
@@ -256,22 +256,22 @@ class C,D,F,H,I,Q,T,U,V,X sky
 #### <mark style="color:$primary;">TCA</mark>
 
 * BMS 자체에 대한 근거는 불충분하며 통증·수면장애를 고려해 선택적으로 사용
-* amitriptyline 10\~[25](https://www.health.kr/drug/A11A0570A0148) ㎎ hs <mark style="color:blue;">\[[에트라빌](https://www.health.kr/drug/A11A0570B0082)]</mark> 또는 nortriptyline 10\~[25](https://health.kr/drug/A11A1130A0033) ㎎ hs <mark style="color:blue;">\[[센시발](https://www.health.kr/drug/A11A1130A0032)]</mark>
+* amitriptyline 10\~[25](https://www.health.kr/drug/A11A0570A0148) ㎎ hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">에트라빌</mark>](https://www.health.kr/drug/A11A0570B0082)<mark style="color:blue;">]</mark> 또는 nortriptyline 10\~[25](https://health.kr/drug/A11A1130A0033) ㎎ hs <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0032)<mark style="color:blue;">]</mark>
 * 항콜린성 입마름·변비·요폐·인지저하와 기립저혈압이 기존 증상 및 낙상 위험을 악화시킬 수 있어 고령자에서 특히 주의
 * Amitriptyline(에트라빌)은 국내 허가상 녹내장, 전립선비대 등 배뇨장애, 부정맥, 심근경색 회복 초기, 급성 섬망, MAOI 투여 중인 환자 등에서 금기. TCA 과민증·기타 제품 금기도 확인하며, nortriptyline 등 다른 TCA에는 각 제품의 허가사항을 적용(001·027 참조). 입마름에 대한 단순 주의와 투여 금기를 구분
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
 * 제한적 근거 하에 clonazepam 불내성·불충분 반응 등에서 고려
-* gabapentin 100\~[300](https://www.health.kr/drug/A11ABBBBB1034) ㎎ hs 시작, 서서히 증량 <mark style="color:blue;">\[[뉴론틴](https://www.health.kr/drug/A11ABBBBB1033)]</mark> (☞ [통증](../220_/001_-pain.md#gabapentinoid-a2d-ligands))
-* pregabalin 25\~[75](https://www.health.kr/drug/A11AOOOOO8537) ㎎ hs 또는 bid로 시작하여 개별 증량 <mark style="color:blue;">\[[리리카](https://health.kr/drug/2018022700007)]</mark>
+* gabapentin 100\~[300](https://www.health.kr/drug/A11ABBBBB1034) ㎎ hs 시작, 서서히 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">뉴론틴</mark>](https://www.health.kr/drug/A11ABBBBB1033)<mark style="color:blue;">]</mark> (☞ [통증](../220_/001_-pain.md#gabapentinoid-a2d-ligands))
+* pregabalin 25\~[75](https://www.health.kr/drug/A11AOOOOO8537) ㎎ hs 또는 bid로 시작하여 개별 증량 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://health.kr/drug/2018022700007)<mark style="color:blue;">]</mark>
 * 어지럼·졸림·말초부종·낙상에 주의하고 신기능에 따라 감량
 * clonazepam·opioid 등 중추신경 억제제와 병용 시 호흡억제 위험, 고령자·호흡기 질환자에서 특히 주의
 
 #### <mark style="color:$primary;">α-Lipoic acid</mark>
 
 * 항산화·신경염증 억제 기전
-* 600 ㎎/day가 주로 연구되었으나 RCT와 메타분석 결과가 불일치하고 근거의 질이 낮음 <mark style="color:blue;">\[[치옥타시드](https://www.health.kr/drug/A11AMMMMM1077)]</mark>
+* 600 ㎎/day가 주로 연구되었으나 RCT와 메타분석 결과가 불일치하고 근거의 질이 낮음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">치옥타시드</mark>](https://www.health.kr/drug/A11AMMMMM1077)<mark style="color:blue;">]</mark>
 * 충분한 설명 후 선택적으로 단독 시도할 수 있으나 clonazepam과의 일률적 초기 병합은 권하지 않음; 위장관 증상·두통에 주의
 * 국내 제품 용법 : 성인 600 ㎎ qd, 충분한 물과 함께 아침식사 약 30분 전 복용
 * 철분·마그네슘 제제 및 우유 등 금속 함유 제품과 동시 복용하지 않음; 아침에 복용했다면 철분·마그네슘 제제는 점심이나 저녁에 복용
@@ -334,6 +334,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 > ```
 > 리보트릴 0.5 ㎎/T  2T  tid  × 14일 (구강 국소 적용 후 뱉음)
 > ```
+>
 > 약제 정보: [리보트릴·0.5 ㎎](https://www.health.kr/drug/A11ABBBBB1153)
 >
 > _✽원시험은 1 ㎎ 정제 1정을 사용했으며, 위 처방은 국내 0.5 ㎎ 정제 2정으로 총량을 맞춘 적용 예임. 입 안에서 천천히 녹여 침을 통증 부위에 3분간 머금은 뒤 반드시 뱉음. 물 5\~10 ㎖에 희석하는 방법과 동일한 근거가 아님. 국소·전신 투여 공통 금기와 호흡억제 위험을 검토하고 1\~2주 후 통증·부작용을 평가; 뱉어도 전신 흡수·졸림·의존 가능성이 있음을 설명_
@@ -343,6 +344,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 > ```
 > 리보트릴 0.5 ㎎/T  0.5~1T  hs
 > ```
+>
 > 약제 정보: [리보트릴·0.5 ㎎](https://www.health.kr/drug/A11ABBBBB1153)
 >
 > _✽국소 투여보다 효과적이라는 근거는 없음. 중증 간장애·호흡부전 등 국내 금기를 확인하고, 수면무호흡증에서는 대체 치료를 우선 검토. 고령자·낙상 위험 환자는 특히 주의하며 최소 용량·단기간 사용. Opioid와 병용은 대체 치료가 없는 경우에 한해 제한하고 알코올 병용 회피_
@@ -350,9 +352,10 @@ class C,D,F,H,I,Q,T,U,V,X sky
 > **처방례 3.** 주요우울장애·범불안장애·당뇨병성 말초신경병증성 통증 등 독립 적응증 동반
 >
 > ```
-> 마이셀타 30 ㎎/캡슐  1캡슐  qd (초기 1~2주) → 필요시 60 ㎎으로 증량
+> 듀로셉톨 30 ㎎/캡슐  1캡슐  qd (초기 1~2주) → 필요시 60 ㎎으로 증량
 > ```
-> 약제 정보: [마이셀타·30 ㎎](https://health.kr/drug/2014050900005)
+>
+> 약제 정보: [듀로셉톨·30 ㎎](https://www.health.kr/drug/2014063000024)
 >
 > _✽BMS만을 위한 표준 1차 처방이 아님. 독립 적응증·내약성에 따라 용량과 증량 시점을 결정. 간질환, CrCl ＜30 ㎖/min·투석, 조절되지 않는 고혈압, 조절되지 않는 협우각 녹내장, MAO 억제제 관련 금기를 확인. 오심·입마름·혈압·중단 증후군 등을 관찰_
 
@@ -361,6 +364,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 > ```
 > 뉴론틴 100 ㎎/캡슐  1캡슐  hs
 > ```
+>
 > 약제 정보: [뉴론틴·100 ㎎](https://www.health.kr/drug/A11ABBBBB1033)
 >
 > _✽반응과 내약성에 따라 서서히 증량. 신기능에 따라 감량하고 졸림·어지럼·낙상에 주의. Clonazepam·opioid 등 진정제 병용 시 호흡억제 위험을 확인하고, 정기 복용 후 중단은 최소 1주 이상에 걸쳐 감량하는 등 개별 계획을 따름_
@@ -385,7 +389,7 @@ class C,D,F,H,I,Q,T,U,V,X sky
 > * 위장 불편·두통이 생길 수 있고, 당뇨병 약과 함께 사용하면 혈당이 더 낮아질 수 있습니다
 > * **당뇨병이 없어도 드물게 저혈당이 생길 수 있습니다.** 식은땀·떨림·어지럼·혼동 등이 생기면 복용을 중단하고 신속히 진료받으십시오. 의식이 떨어지거나 경련하면 즉시 119에 도움을 요청하십시오
 
-> **마이셀타(duloxetine) 복용 안내**
+> **듀로셉톨(duloxetine) 복용 안내**
 >
 > * 의사가 별도로 진단한 우울장애·범불안장애·당뇨병성 신경통 등을 함께 치료하기 위해 선택할 수 있습니다
 > * 간질환·심한 신장질환·투석 여부와 복용 중인 약을 처방 전에 알려주십시오
@@ -440,7 +444,6 @@ class C,D,F,H,I,Q,T,U,V,X sky
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; amitriptyline의 제품별 금기와 국소 clonazepam을 포함한 허가 외 사용의 안전성 확인
-
 * [FDA. Gabapentin·pregabalin: Serious Breathing Problems. 2019.](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication) - 중추신경 억제제 병용 및 호흡억제 위험.
 * [Mackie SL, et al. BSR guideline on diagnosis and treatment of giant cell arteritis. Rheumatology. 2020;59(3):e1-e23.](https://doi.org/10.1093/rheumatology/kez672) - 턱·혀 파행과 시각 증상, 신속 평가.
 
