@@ -46,7 +46,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 임신 중 또는 산후 새로 발생한 <mark style="background-color:red;">그 밖의</mark> 두통 `자간전증` `뇌혈관질환` `뇌하수체 병변`
+* **(당일)** 임신 중 또는 산후 새로 발생한 두통 중 즉각 조치 항목에 해당하지 않는 경우 `자간전증` `뇌혈관질환` `뇌하수체 병변`
 * **(당일)** ≥50세의 새 두통에 턱 파행 또는 두피·측두동맥 압통 동반 `거대세포동맥염`
 * 새로 발생하거나 진행하는 두통 <mark style="background-color:red;">`2차성 두통`</mark>
 * 암·면역저하 등 위험 배경이 있는 새 두통 `두개내 전이` `중추신경계 감염`
@@ -135,12 +135,12 @@
 ### <mark style="color:orange;">진찰 및 검사</mark>
 
 * 진단은 ICHD-3 임상 기준에 따르며, <mark style="background-color:red;">2차성 두통</mark>을 시사하는 소견이 없고 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
+* 혈액검사 : <mark style="background-color:red;">2차성</mark> 원인이 의심될 때 선택적으로 시행
+  * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP·CBC(혈소판 포함). 시각 증상이 있거나 임상적 의심이 높으면 결과를 기다리지 않고 긴급 의뢰
 * 영상검사
   * 긴장형두통으로 진단된 환자에게 안심 목적만으로 뇌영상검사를 시행하지 않음 <mark style="color:$info;">\[NICE CG150]</mark>
   * <mark style="background-color:red;">2차성 두통</mark>이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ [<mark style="background-color:red;">두통 - 검사</mark>](015_-headache.md#headache-testing))
-* 혈액검사 : <mark style="background-color:red;">2차성</mark> 원인이 의심될 때 선택적으로 시행
-  * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP·CBC(혈소판 포함). 시각 증상이 있거나 임상적 의심이 높으면 결과를 기다리지 않고 긴급 의뢰
-* 경추 영상 : 경추성두통이 의심될 때 고려. 단, 경추의 퇴행성 변화는 무증상 성인에서도 흔하므로 영상 소견만으로 인과관계를 판단하지 않음
+  * 경추 영상 : 경추성두통이 의심될 때 고려. 단, 경추의 퇴행성 변화는 무증상 성인에서도 흔하므로 영상 소견만으로 인과관계를 판단하지 않음
 * 수면검사 : 아침 두통에 코골이·목격된 무호흡·주간졸림이 동반되면 고려(☞ 아래 「동반 질환 고려」)
 
 #### <mark style="color:$primary;">두개 주위 근육 촉진(Pericranial Palpation)</mark>
@@ -171,14 +171,13 @@ flowchart TD
     J -- "아니요" --> L
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
-classDef priority fill:#fff3e0,stroke:#e99b45;
+classDef caution fill:#fdebd0,stroke:#e67e22
 classDef care fill:#e3f2ff,stroke:#2196f3;
 classDef followup fill:#d0e8ff,stroke:#1a6abf;
-
 class A start;
 class B,E,F,H,J decision;
-class C priority;
-class I,L followup;
+class C,L caution;
+class I followup;
 class G,K care;
 ```
 
@@ -277,10 +276,11 @@ class G,K care;
   * 반응 불충분 : 내약 가능한 유지용량으로 약 1\~2개월 사용 후에도 반응이 불충분하면 진단, 복약 순응도, MOH를 재평가하고 신경과 의뢰 고려
   * 부작용 : 구갈, 졸림, 변비, 체중 증가 등; 고령자에서는 섬망·낙상·요폐 위험도 고려
   * TCA는 과량 복용 시 치명적일 수 있으므로 자살 위험이 있는 환자에서는 약제 선택과 처방량을 신중히 결정 <mark style="color:$info;">\[VA/DoD 2023]</mark>
+* amitriptyline을 포함하여 아래 항우울제 모두 긴장형두통 예방 목적 사용은 허가 외 사용임
 
 #### <mark style="color:$primary;">대안 - 기타 항우울제</mark>
 
-* nortriptyline : [10](https://www.health.kr/drug/A11A1130A0032)\~50 ㎎/d 취침 시 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">센시발</mark>](https://www.health.kr/drug/A11A1130A0033)<mark style="color:blue;">]</mark>
+* nortriptyline : [10](https://www.health.kr/drug/A11A1130A0032)\~[25 ㎎](https://www.health.kr/drug/A11A1130A0033)/d 취침 시 <mark style="color:blue;">\[센시발]</mark>
   * amitriptyline의 항콜린 부작용이 문제될 때 전환을 고려. TTH 직접 근거가 amitriptyline보다 제한적이며 항콜린 부작용은 남을 수 있음
 * mirtazapine : [15 ㎎](https://www.health.kr/drug/A11ABBBBB1118)/d 취침 시 시작 → 필요시 [30 ㎎](https://www.health.kr/drug/A11AKP08K0193)/d <mark style="color:blue;">\[레메론]</mark>
   * amitriptyline 내약성이 좋지 않은 경우 대안
@@ -290,7 +290,6 @@ class G,K care;
   * 우울·불안 동반 시 선택을 고려하며 혈압 모니터링
   * NSAID를 병용하면 위장관 출혈 위험이 증가할 수 있으므로 궤양·출혈 병력과 항혈소판제·항응고제 복용 여부 확인
 * SSRI는 TCA에 비해 TTH 예방 근거가 부족하며, 동반 우울·불안 치료 목적으로는 활용 가능
-* 위 항우울제의 긴장형두통 예방 목적 사용은 허가 외 사용
 
 #### <mark style="color:$primary;">근거가 제한되거나 권장되지 않는 예방 치료</mark>
 
