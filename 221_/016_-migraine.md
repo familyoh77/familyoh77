@@ -188,14 +188,16 @@ flowchart TD
     I --> K["급성기 약물 사용일수·<br/>MOH 동반 평가"]
     J --> K
     K --> L["급성기 치료·<br/>예방치료 계획 및 추적"]
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class B,E,H question
-    class C emergency
-    class D,F,G,I,J,K,L care
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-
+classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+classDef decision fill:#fff9c4,stroke:#ffe082;
+classDef emergency fill:#f8d7da,stroke:#dc3545;
+classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+classDef care fill:#d9eaff,stroke:#3973ac;
+class A start;
+class B,E,H decision;
+class C emergency;
+class D,F,G,I,J,K assessment;
+class L care;
 ```
 
 > _두통 없는 조짐도 가능하며, 조짐은 무조짐편두통의 통증 기준 충족 여부와 독립적으로 판단. 기준 C에 해당하는 날은 편두통 특징이 있는 날 또는 발작 시작 시 편두통으로 판단해 triptan·ergotamine으로 호전된 날_
@@ -208,7 +210,7 @@ flowchart TD
 
 * 유사한 양상으로 내원할 수 있는 질환, 특히 놓치면 위험한 <mark style="background-color:red;">2차성 두통</mark>과의 감별이 중요
 
-<table><thead><tr><th width="145">질환</th><th>편두통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>긴장형두통</strong></td><td>양측성·압박성, 일상 활동에 의한 악화 없음, 구역/구토 드묾</td><td>통증 강도 경함, 구역 동반 적음</td></tr><tr><td><strong><mark style="background-color:red;"><a href="015_-headache.md#cluster-treatment">군발두통</a></mark></strong></td><td>편측 안와/측두부 극심한 통증, <mark style="background-color:red;">동측 자율신경 증상(눈물, 코막힘) 또는 안절부절못함·초조</mark>, 15~180분의 짧은 발작</td><td>발작이 훨씬 짧고 반복적(1일 수회), 초조·안절부절 양상</td></tr><tr><td><strong>지주막하출혈(SAH)</strong></td><td>돌발적 "벼락두통"(thunderclap), 생애 최악의 두통</td><td>1분 미만에 최고 강도 도달(벼락두통) → 즉시 영상검사. 수 분에 걸쳐 최고조에 이른 급성 중증 두통도 SAH 평가 대상</td></tr><tr><td><strong>거대세포동맥염(GCA)</strong></td><td>새로 발생한 두통(주로 ≥50세), 측두동맥 압통, 턱파행</td><td>ESR/CRP 상승, 시력 저하 위험 → 즉시 스테로이드 및 안과/류마티스내과 의뢰</td></tr><tr><td><strong>뇌졸중 / TIA</strong></td><td>국소 신경학적 결손이 조짐과 유사하게 나타날 수 있음</td><td>단일 비운동성 조짐 ＞60분, 갑작스러운 음성 증상, 새 운동 조짐, 불완전 회복 → 영상검사</td></tr><tr><td><strong><mark style="background-color:red;"><a href="018_-chronic-headache.md#medication-overuse-headache-moh">약물과용두통(MOH)</a></mark></strong></td><td>기존 편두통 환자에서 두통이 매일 또는 거의 매일 발생</td><td>진통제·트립탄 사용일수 증가 병력</td></tr></tbody></table>
+<table><thead><tr><th width="145">질환</th><th>편두통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>긴장형두통</strong></td><td>양측성·압박성, 일상 활동에 의한 악화 없음, 구역/구토 드묾</td><td>통증 강도 경함, 구역 동반 적음</td></tr><tr><td><a href="015_-headache.md#cluster-treatment"><mark style="background-color:red;"><strong>군발두통</strong></mark></a></td><td>편측 안와/측두부 극심한 통증, <mark style="background-color:red;">동측 자율신경 증상(눈물, 코막힘) 또는 안절부절못함·초조</mark>, 15~180분의 짧은 발작</td><td>발작이 훨씬 짧고 반복적(1일 수회), 초조·안절부절 양상</td></tr><tr><td><strong>지주막하출혈(SAH)</strong></td><td>돌발적 "벼락두통"(thunderclap), 생애 최악의 두통</td><td>1분 미만에 최고 강도 도달(벼락두통) → 즉시 영상검사. 수 분에 걸쳐 최고조에 이른 급성 중증 두통도 SAH 평가 대상</td></tr><tr><td><strong>거대세포동맥염(GCA)</strong></td><td>새로 발생한 두통(주로 ≥50세), 측두동맥 압통, 턱파행</td><td>ESR/CRP 상승, 시력 저하 위험 → 즉시 스테로이드 및 안과/류마티스내과 의뢰</td></tr><tr><td><strong>뇌졸중 / TIA</strong></td><td>국소 신경학적 결손이 조짐과 유사하게 나타날 수 있음</td><td>단일 비운동성 조짐 ＞60분, 갑작스러운 음성 증상, 새 운동 조짐, 불완전 회복 → 영상검사</td></tr><tr><td><a href="018_-chronic-headache.md#medication-overuse-headache-moh"><mark style="background-color:red;"><strong>약물과용두통(MOH)</strong></mark></a></td><td>기존 편두통 환자에서 두통이 매일 또는 거의 매일 발생</td><td>진통제·트립탄 사용일수 증가 병력</td></tr></tbody></table>
 
 ***
 

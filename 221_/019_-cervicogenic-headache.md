@@ -154,36 +154,64 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ***
 
 ```mermaid
+---
+title: 그림 1. 경추성 두통 진단
+---
 flowchart TD
     A["경추 원인이 의심되는 두통"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
     B -- "예" --> C["즉각 조치"]
     B -- "아니요" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
     D -- "예" --> E["당일~수일 내 평가"]
     D -- "아니요" --> F["두통 유형·신경학적 진찰·ICHD-3 평가"]
-    F --> G["경추 병변 증거·인과관계 ≥2개,<br/>다른 진단으로 더 잘 설명되지 않음?"]
-    G -- "예" --> I["교육·능동적 운동·필요시 관절가동술"]
-    G -- "아니요, 경추 원인 의심 지속" --> G2["교육·운동 시험 치료<br/>두통과 경추 소견의 동반 호전을 추적해<br/>2~4주에 ICHD-3 재평가"]
+    F --> G["경추 병변 증거·인과관계 ≥2개, 다른 진단으로 더 잘 설명되지 않음?"]
+    G -- "예" --> T["보존치료 시작 → 그림 2"]
+    G -- "아니요, 경추 원인 의심 지속" --> G2["교육·운동 시험 치료 후 두통과 경추 소견의 동반 호전을 추적해 2~4주에 ICHD-3 재평가"]
     G -- "아니요, 다른 두통 의심" --> H["편두통·긴장형두통·후두신경통 등 재평가"]
-    I --> J["2~4주 재평가에서 호전?"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef decision fill:#fff9c4,stroke:#ffe082;
+    classDef emergency fill:#f8d7da,stroke:#dc3545;
+    classDef priority fill:#fff3e0,stroke:#e99b45;
+    classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+    classDef care fill:#d9eaff,stroke:#3973ac;
+
+    class A start;
+    class B,D,G decision;
+    class C emergency;
+    class E priority;
+    class F,G2,H assessment;
+    class T care;
+```
+
+```mermaid
+---
+title: 그림 2. 경추성 두통 보존치료와 시술 평가
+---
+flowchart TD
+    I["교육·능동적 운동·필요시 관절가동술"] --> J["2~4주 재평가에서 호전?"]
     J -- "예" --> K["단계적 운동·생활관리 유지"]
     J -- "아니요" --> L["진단·순응도·위험 징후 재평가"]
-    L -- "새 위험 징후" --> B2["Red Flags 경로로 다시 평가"]
-    L -- "위험 징후 없음" --> M0["예후차단 전 보존치료를 충분히 시행?<br/>약 6주를 기준으로 개별화"]
+    L -- "새 위험 징후" --> B2["그림 1의 Red Flags 경로로 돌아가 재평가"]
+    L -- "위험 징후 없음" --> M0["예후차단 전 보존치료를 충분히 시행? (약 6주를 기준으로 개별화)"]
     M0 -- "아니요" --> K2["보존치료 지속·경과 재평가"]
-    M0 -- "예" --> M["기능장애 지속 및<br/>후관절성 통증 의심?"]
+    M0 -- "예" --> M["기능장애가 지속되고 후관절성 통증이 의심되는가?"]
     M -- "아니요" --> H2["다른 두통·통증원 재평가"]
     M -- "예" --> N["전문의 의뢰·영상 유도 TON block 또는 MBB"]
     N --> O["시술기관의 양성 예후차단 기준 충족?"]
     O -- "예" --> P["이익·위험을 상의하여 RF 고려"]
     O -- "아니요" --> Q["RF 보류·다른 통증원 재평가"]
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class A start
-    class B,D,G,J,M0,M,O question
-    class C,B2 emergency
-    class E,F,G2,H,I,K,K2,L,H2,N,P,Q care
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef decision fill:#fff9c4,stroke:#ffe082;
+    classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+    classDef care fill:#d9eaff,stroke:#3973ac;
+    classDef followup fill:#e8f5e9,stroke:#66a36f;
+
+    class I start;
+    class J,M0,M,O decision;
+    class L,B2,K2,H2,Q assessment;
+    class N,P care;
+    class K followup;
 ```
 
 > _거대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._

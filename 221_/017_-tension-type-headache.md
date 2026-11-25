@@ -137,7 +137,7 @@
 * 진단은 ICHD-3 임상 기준에 따르며, <mark style="background-color:red;">2차성 두통</mark>을 시사하는 소견이 없고 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
 * 영상검사
   * 긴장형두통으로 진단된 환자에게 안심 목적만으로 뇌영상검사를 시행하지 않음 <mark style="color:$info;">\[NICE CG150]</mark>
-  * <mark style="background-color:red;">2차성 두통</mark>이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ <mark style="background-color:red;">[두통 - 검사](015_-headache.md#headache-testing)</mark>)
+  * <mark style="background-color:red;">2차성 두통</mark>이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ [<mark style="background-color:red;">두통 - 검사</mark>](015_-headache.md#headache-testing))
 * 혈액검사 : <mark style="background-color:red;">2차성</mark> 원인이 의심될 때 선택적으로 시행
   * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP·CBC(혈소판 포함). 시각 증상이 있거나 임상적 의심이 높으면 결과를 기다리지 않고 긴급 의뢰
 * 경추 영상 : 경추성두통이 의심될 때 고려. 단, 경추의 퇴행성 변화는 무증상 성인에서도 흔하므로 영상 소견만으로 인과관계를 판단하지 않음
@@ -169,13 +169,17 @@ flowchart TD
     H -- "아니요" --> J["만성긴장형두통 <br/>기준 충족?"]
     J -- "예" --> K["만성긴장형두통: <br/>비-약물 치료·<br/>amitriptyline 등 예방약"]
     J -- "아니요" --> L
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#f8d7da,stroke:#dc3545
-    classDef care fill:#d9eaff,stroke:#3973ac
-    class B,E,F,H,J question
-    class C emergency
-    class D,G,I,K,L care
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+
+classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+classDef decision fill:#fff9c4,stroke:#ffe082;
+classDef priority fill:#fff3e0,stroke:#e99b45;
+classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+classDef care fill:#d9eaff,stroke:#3973ac;
+class A start;
+class B,E,F,H,J decision;
+class C priority;
+class D,I,L assessment;
+class G,K care;
 ```
 
 <p align="center"><strong>긴장형 양상의 두통 평가 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; VA/DoD 2023; NICE CG150)</mark></em></p>
@@ -433,7 +437,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">긴장형두통이란 무엇인가요?</mark>
 
-* 긴장형두통은 대표적인 **<mark style="background-color:red;">1차성 두통</mark>**으로, 머리를 띠로 조이는 듯한 압박감이나 조이는 느낌이 특징적입니다.
+* 긴장형두통은 대표적인 \*\*<mark style="background-color:red;">1차성 두통</mark>\*\*으로, 머리를 띠로 조이는 듯한 압박감이나 조이는 느낌이 특징적입니다.
 * 보통 양쪽 머리에서 느껴지며 경증\~중등증인 경우가 많습니다.
 * 삽화형에서는 구역·구토가 없고, 걷기나 계단 오르기 같은 일상적 활동으로 심해지지 않는 것이 특징입니다.
 

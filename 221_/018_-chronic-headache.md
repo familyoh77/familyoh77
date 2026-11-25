@@ -32,8 +32,8 @@
 * 발열, 체중 감소, 악성 종양 과거력 → 전신적 질환, 2차성 두통
 * ≥15일/월 중 ≥8일/월 편두통형 두통(환자가 두통 시작 시점부터 편두통으로 인식하고 트립탄 또는 에르고트계 약물로 호전된 날 포함) → [만성편두통](016_-migraine.md#chronic-migraine)
 * ≥15일/월이면서 만성편두통 기준을 충족하지 않고 긴장형두통 양상이 우세 → [긴장형두통](017_-tension-type-headache.md)의 만성형
-* 시작 시점을 명확히 기억하고, 발생 후 24시간 이내에 지속적이고 중단 없는 매일두통으로 전환 → <mark style="background-color:red;">[신생매일지속두통](018_-chronic-headache.md#ndph)</mark>
-* 기존 두통질환이 있고 ≥15일/월 두통이 있으면서 급성기·대증 두통약을 약제군별 기준 이상으로 ＞3개월 사용 → <mark style="background-color:red;">[약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)</mark>
+* 시작 시점을 명확히 기억하고, 발생 후 24시간 이내에 지속적이고 중단 없는 매일두통으로 전환 → [<mark style="background-color:red;">신생매일지속두통</mark>](018_-chronic-headache.md#ndph)
+* 기존 두통질환이 있고 ≥15일/월 두통이 있으면서 급성기·대증 두통약을 약제군별 기준 이상으로 ＞3개월 사용 → [<mark style="background-color:red;">약물과용두통</mark>](018_-chronic-headache.md#medication-overuse-headache-moh)
 * 심한 두통, 편측, 눈물/콧물, 시계 같은 규칙성, 군집성 발생, 치료하지 않을 때 보통 15\~180분 → [군발두통](015_-headache.md#cluster-treatment)
 * 목 움직임·지속 자세로 평소 두통이 유발되거나 악화되고 경추 운동 범위가 감소 → [경추성두통](019_-cervicogenic-headache.md) 의심
 * 경부 외상(편타손상) 후 새로 시작 → 외상 후 두통 의심(☞ [경추성두통](019_-cervicogenic-headache.md))
@@ -61,14 +61,17 @@ flowchart TD
     H --> L
     J --> L
     K --> L
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
-    classDef decision fill:#fff9c4,stroke:#ffe082;
-    classDef emergency fill:#f8d7da,stroke:#dc3545;
-    classDef care fill:#d9eaff,stroke:#3973ac;
-    class A start;
-    class B,E,G,I decision;
-    class C emergency;
-    class D,F,H,J,K,L care;
+
+classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+classDef decision fill:#fff9c4,stroke:#ffe082;
+classDef priority fill:#fff3e0,stroke:#e99b45;
+classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+classDef care fill:#d9eaff,stroke:#3973ac;
+class A start;
+class B,E,G,I decision;
+class C priority;
+class D,F,H,J,K assessment;
+class L care;
 ```
 
 > _수면두통은 ＞3개월 동안 ≥10일/월이면 진단할 수 있으므로, 이 알고리듬의 시작 기준(≥15일/월)에 미치지 않는 환자에서도 고려_
@@ -240,7 +243,7 @@ flowchart TD
   * 투여 전후 위장관 출혈·궤양, 신기능, 혈압·심혈관 위험 및 병용약을 평가. PPI는 위장관 위험을 줄이지만 신장·심혈관 위험을 예방하지 않음
 * indomethacin 불내성 시 대안(모두 근거가 제한된 허가 외 사용)
   * celecoxib : 200 ㎎ bid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">쎄레브렉스 200 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB1346)<mark style="color:blue;">]</mark> - 지속반두통에는 근거가 제한된 허가 외 사용이며, 골관절염 권장량(200 ㎎/일)보다 높음
-    * <mark style="color:blue;">쎄레브렉스</mark>는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II\~IV 심부전, CrCl ＜30 ㎖/min, 활동성 궤양·출혈 등에서 투여금기. PPI를 병용해도 투여금기는 적용됨(☞ <mark style="background-color:red;">[통증](../220_/001_-pain.md)</mark>)
+    * <mark style="color:blue;">쎄레브렉스</mark>는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환, NYHA II\~IV 심부전, CrCl ＜30 ㎖/min, 활동성 궤양·출혈 등에서 투여금기. PPI를 병용해도 투여금기는 적용됨(☞ [<mark style="background-color:red;">통증</mark>](../220_/001_-pain.md))
   * topiramate : 50\~100 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">토파맥스 25 ㎎</mark>](https://www.health.kr/drug/2020080600008)<mark style="color:blue;">]</mark> (임신 관련 주의는 신생매일지속두통 항목 참조)
   * melatonin : 3\~10 ㎎ 취침 전 - 처방용 제품은 주로 2 ㎎ 서방형이므로 문헌의 용량·제형과 직접 대응하지 않음
 * 후두신경차단술(Occipital nerve block) : indomethacin 반응은 있으나 장기 복용이 어려운 경우 보조적 선택지로 고려 가능 (근거 제한적)
@@ -296,7 +299,7 @@ flowchart TD
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
 * amitriptyline·nortriptyline 등 TCA를 예방약으로 선택할 때 급성기 약제도 함께 검토
   * <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark> 등 TCA 복용 환자 투여금기가 있는 acetaminophen 품목은 병용하지 않음
-  * 대체 진통제도 자체 금기와 MOH 위험을 확인(☞ <mark style="background-color:red;">[통증](../220_/001_-pain.md)</mark>)
+  * 대체 진통제도 자체 금기와 MOH 위험을 확인(☞ [<mark style="background-color:red;">통증</mark>](../220_/001_-pain.md))
 * 만성편두통 동반 시 근거가 있는 예방약을 우선 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * AAN/AHS는 만성편두통 예방약으로 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate를 제시
   * MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려
@@ -407,7 +410,7 @@ flowchart TD
 > **약물과용두통(MOH) - 진통제 중단 안내**
 >
 > * 현재 두통이 자주 나타나고 진통제를 반복 복용하고 있다면, 약물이 두통의 악화·만성화에 기여할 수 있습니다.
-> * 특히 **약국에서 처방 없이 구입할 수 있는 카페인 함유 <mark style="background-color:red;">복합진통제</mark>**(게보린정, 펜잘큐정 등)는 효과가 빠르게 느껴져 자주 복용하게 되지만, MOH를 일으키는 주요 원인입니다.
+> * 특히 **약국에서 처방 없이 구입할 수 있는 카페인 함유&#x20;**<mark style="background-color:red;">**복합진통제**</mark>(게보린정, 펜잘큐정 등)는 효과가 빠르게 느껴져 자주 복용하게 되지만, MOH를 일으키는 주요 원인입니다.
 > * **복용 중인 진통제(특히 카페인 복합제·트립탄·오피오이드)를 줄이거나 중단하고 기저 두통에 맞는 예방치료를 병행**하는 것이 중요합니다. 재발 예방을 위해 급성기 두통약은 가급적 주 2일 이하로 사용하십시오.
 > * 중단 후 **2\~10일간 두통·구역·수면장애가 일시적으로 악화될 수 있습니다.** 호전 속도는 개인마다 다르며, 견디기 어렵거나 탈수가 생기면 진료를 받으십시오.
 > * 팔다리 마비·언어 장애·시야 이상 등 새로운 신경 증상이 생기면 즉시 응급실을 방문하십시오.
@@ -482,7 +485,7 @@ flowchart TD
 * 한 달에 15일 이상 두통이 있으면서 두통약을 다음 빈도로 3개월 넘게 복용하면 약물과용두통일 수 있습니다.
   * 트립탄·오피오이드·카페인 복합제 : **한 달 10일 이상**
   * <mark style="background-color:red;">단순진통제</mark> : **한 달 15일 이상**
-  * <mark style="background-color:red;">종류가 다른 두통약을 번갈아 또는 함께 먹은 경우 : 복용한 날을 모두 합해 **한 달 10일 이상**(같은 날 여러 약을 먹어도 하루로 셈)</mark>
+  * <mark style="background-color:red;">종류가 다른 두통약을 번갈아 또는 함께 먹은 경우 : 복용한 날을 모두 합해</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**한 달 10일 이상**</mark><mark style="background-color:red;">(같은 날 여러 약을 먹어도 하루로 셈)</mark>
 * 치료의 핵심은 과용 약물을 줄이거나 중단하고, 필요한 경우 예방 치료를 함께 시행하는 것입니다. 중단 초기에는 수일간 두통이 더 심해질 수 있으며 호전 속도는 개인마다 다릅니다.
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
@@ -493,7 +496,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **두통일기 작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. <mark style="background-color:red;">[두통일기 기록 항목](015_-headache.md#headache-diary)을 참조하십시오.</mark>
+* **두통일기 작성** : 두통이 언제, 얼마나 자주, 어떤 상황에서 발생하는지와 약 이름·복용 날짜를 기록하십시오. [<mark style="background-color:red;">두통일기 기록 항목</mark>](015_-headache.md#headache-diary)<mark style="background-color:red;">을 참조하십시오.</mark>
 * **규칙적인 생활** : 수면·식사·기상 시간을 일정하게 유지하십시오.
 * **카페인 조절** : 과도한 섭취는 줄이되, 매일 많이 섭취했다면 갑자기 끊을 때 금단 두통이 생길 수 있어 서서히 줄이십시오. 수면두통으로 취침 전 카페인을 처방받았다면 주치의의 지시를 따르십시오.
 

@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 두통은 눈확귀길선(orbitomeatal line) &/or 목덜미능선(nuchal ridge) 위쪽의 머리에 생기는 통증이며, 그 아래 얼굴의 통증은 안면통으로 구분 <mark style="color:$info;">\[ICHD-3]</mark>
-* 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
+* 재발성 두통의 가장 흔한 형태는 편두통과 긴장형두통이며, 종종 약물과용두통도 해당됨
 * 병력 청취와 진찰을 통해 2차성 두통 가능성을 선별하고 필요한 검사·의뢰를 결정하는 것이 긴요
 * 두통 평가 시 [SNNOOP10](015_-headache.md#snnoop10) 경고 징후를 활용하여 2차성 두통 가능성을 체계적으로 평가
 
@@ -117,7 +117,7 @@
 
 #### <mark style="color:$primary;">영상검사</mark>
 
-* 경고 징후 또는 기질적 문제가 의심되는 경우 원인과 임상 상황에 따라 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV)을 선택 (☞ 검사 방법별 특징은 [영상검사](../232_/251_-neuro-tests.md#brain-imaging-selection) 참조)
+* 경고 징후 또는 기질적 문제가 의심되는 경우 원인과 임상 상황에 따라 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV)을 선택 (☞ 검사 방법별 특징은 [영상검사](../232_/251_-neuro-tests.md#brain-imaging-selection) 챕터참조)
 * SAH가 의심되는 급성 중증 두통(벼락두통 등) : 우선 비조영 뇌 CT로 평가 <mark style="color:$info;">\[Stroke 2023]</mark>
   * 다음에 모두 해당 시 동맥류성 SAH 가능성이 매우 낮음 : ① 발병 후 ＜6시간에 촬영한 고품질 비조영 뇌 CT를 신경영상 전문의가 판독해 음성, ② 새로운 신경학적 결손 없음
     * 발병 후 ＜6시간에 촬영했더라도 CT의 질·판독 조건이 불충분하거나 임상적 의심이 지속되면 추가 평가
@@ -148,18 +148,18 @@
   * 만성군발두통 - 발작이 ≥1년 반복되며, 관해기가 없거나 각 관해기가 ＜3개월
 
 > _¹⁾정의상 두통은 머리의 통증이지만, 일부 두통 질환에서는 통증이 얼굴이나 목까지 퍼질 수 있음._\
-> _&#xB2;⁾조짐편두통은 ICHD-3의 6가지 시간적·임상적 특성 중 3가지 이상을 충족해야 하며, 여러 증상이 연속되면 총 지속시간은 60분을 넘을 수 있고 운동 조짐은 대개 72시간 이내에 소실됨._ [_편두통_](016_-migraine.md) _참조_\
+> _&#xB2;⁾조짐편두통은 ICHD-3의 6가지 시간적·임상적 특성 중 3가지 이상을 충족해야 하며, 여러 증상이 연속되면 총 지속시간은 60분을 넘을 수 있고 운동 조짐은 대개 72시간 이내에 소실됨._ _편두통_ _참조_\
 > _&#xB3;⁾만성 두통에서는 월 편두통일수와 약물과용을 함께 평가. 만성편두통의 월 ≥8일에는 무조짐편두통의 통증·동반 증상 기준이나 조짐 기준을 충족하는 날, 또는 두통 시작 시 환자가 편두통으로 판단했고 트립탄이나 맥각유도체로 완화된 날을 포함. 만성편두통과 MOH의 진단기준을 모두 충족하면 두 진단을 함께 기록._ _만성 두통_ _및 편두통 챕터 참조_\
 > _&#x2074;⁾삽화형과 만성형에 공통 적용하는 군발기 중 발작 빈도_\
 > _&#x2075;⁾군발기들 사이의 무통증 기간_
 
 #### <mark style="color:$primary;">2차성 두통 선별을 위한 SNNOOP10 경고 징후</mark> <a href="#snnoop10" id="snnoop10"></a>
 
-<table data-search="false"><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td><strong>S</strong></td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td><strong>N1</strong></td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td><strong>N2</strong></td><td>Neurologic deficit/dysfunction</td><td>국소 신경학적 이상 또는 의식 저하</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td><strong>O1</strong></td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, 뇌하수체졸중</td></tr><tr><td><strong>O2</strong></td><td>Older age</td><td>고령⁶⁾에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td><strong>P1</strong></td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td><strong>P2</strong></td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td><strong>P3</strong></td><td>Precipitated by sneezing, coughing, or exercise</td><td>기침, 재채기, 운동으로 유발</td><td>두개내/후두와 종괴, Chiari malformation</td></tr><tr><td><strong>P4</strong></td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td><a href="018_-chronic-headache.md#iih">IIH</a>, 두개내 종양, 수두증, 뇌정맥동혈전증</td></tr><tr><td><strong>P5</strong></td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td><strong>P6</strong></td><td>Pregnancy/<br>Postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, 뇌하수체 병변</td></tr><tr><td><strong>P7</strong>⁷⁾</td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장 등 안과 질환, 해면정맥동·뇌하수체 주변·후두와 병변, Tolosa-Hunt 증후군</td></tr><tr><td><strong>P8</strong></td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하혈종, 경막외혈종, 외상후두통</td></tr><tr><td><strong>P9</strong></td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td><strong>P10</strong></td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td><strong>S</strong></td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td><strong>N1</strong></td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td><strong>N2</strong></td><td>Neurologic deficit/dysfunction</td><td>국소 신경학적 이상 또는 의식 저하</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td><strong>O1</strong></td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, 뇌하수체졸중</td></tr><tr><td><strong>O2</strong></td><td>Older age</td><td>고령⁶⁾에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td><strong>P1</strong></td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td><strong>P2</strong></td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td><strong>P3</strong></td><td>Precipitated by sneezing, coughing, or exercise</td><td>기침, 재채기, 운동으로 유발</td><td>두개내/후두와 종괴, Chiari malformation</td></tr><tr><td><strong>P4</strong></td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td>IIH, 두개내 종양, 수두증, 뇌정맥동혈전증</td></tr><tr><td><strong>P5</strong></td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td><strong>P6</strong></td><td>Pregnancy/<br>Postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, 뇌하수체 병변</td></tr><tr><td><strong>P7</strong>⁷⁾</td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장 등 안과 질환, 해면정맥동·뇌하수체 주변·후두와 병변, Tolosa-Hunt 증후군</td></tr><tr><td><strong>P8</strong></td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하혈종, 경막외혈종, 외상후두통</td></tr><tr><td><strong>P9</strong></td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td><strong>P10</strong></td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
 
 > _<mark style="color:$info;">RCVS=reversible cerebral vasoconstriction syndrome; CVST=cerebral venous sinus thrombosis; IIH=idiopathic intracranial hypertension; MOH=medication overuse headache; TACs=trigeminal autonomic cephalalgias</mark>_
 >
-> _⁶⁾<mark style="color:$info;">SNNOOP10 원저 \[Neurology 2019]의 고령 신규 두통 기준은 표 1에서 50세 초과, 본문에서 65세 초과로 제시됨. 이 장에서는 거대세포동맥염을 고려하여 50세 이상에서 새로 발생한 두통도 평가함</mark>_
+> _⁶⁾<mark style="color:$info;">SNNOOP10 원저 \[Neurology 2019]의 고령 신규 두통 기준은 표 1에서</mark>_ ＞_<mark style="color:$info;">50세, 본문에서</mark>_ ＞_<mark style="color:$info;">65세 로 제시됨. 이 장에서는 거대세포동맥염을 고려하여</mark>_ ≥_<mark style="color:$info;">50세에서 새로 발생한 두통도 평가함</mark>_
 >
 > _⁷⁾<mark style="color:$info;">P7 소견은 1차성 삼차자율신경두통(TACs)에서도 나타나므로, TACs로 판단하기 전에 표의 2차 원인을 먼저 감별</mark>_
 
@@ -194,7 +194,7 @@
   * 혈압 수치만으로 두통의 원인을 단정하지 않음 <mark style="color:$info;">\[AHA/ACC 2025]</mark>
 * 일산화탄소 중독 : 난방기 사용 또는 밀폐 공간 노출, 동거인·동일 공간 인원의 동시 두통·오심·어지럼
   * 실외에서 호전되는 양상 확인. 일반 맥박산소측정기는 CO 중독 배제에 부적합
-* [경추성두통](019_-cervicogenic-headache.md)(Cervicogenic headache) : 목 또는 후두부에서 시작해 전두·측두·안와부로 퍼질 수 있으며, 목 움직임이나 지속 자세로 악화되고 경추 운동 범위가 감소할 수 있음
+* 경추성두통(Cervicogenic headache) : 목 또는 후두부에서 시작해 전두·측두·안와부로 퍼질 수 있으며, 목 움직임이나 지속 자세로 악화되고 경추 운동 범위가 감소할 수 있음
   * 경추 병변과 두통 사이의 인과관계를 확인하며, 영상의 퇴행성 변화만으로 진단하지 않음
 * 부비동염 : 화농성 비루·코막힘·후각저하·안면 압박감과 객관적 비부비동염 소견 및 두통의 시간적 연관성을 확인
 * 유두부종(Papilledema) : 안저검사에서 시신경 유두 경계 불명확·융기 확인 시 뇌압 상승 시사
@@ -239,14 +239,21 @@ flowchart TD
     F --> I["편두통·긴장형두통·군발두통 <br/>등 분류"]
     I --> J["급성기 치료·예방치료 검토·<br/>약물과용 평가"]
     J --> K["두통일기로 추적<br/>양상 변화 시 재평가"]
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
-    classDef decision fill:#fff9c4,stroke:#ffe082;
-    classDef emergency fill:#f8d7da,stroke:#dc3545;
-    classDef care fill:#d9eaff,stroke:#3973ac;
-    class A start;
-    class B,D,G decision;
-    class C emergency;
-    class E,F,H,I,J,K care;
+
+classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+classDef decision fill:#fff9c4,stroke:#ffe082;
+classDef emergency fill:#f8d7da,stroke:#dc3545;
+classDef priority fill:#fff3e0,stroke:#e99b45;
+classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+classDef care fill:#d9eaff,stroke:#3973ac;
+classDef followup fill:#e8f5e9,stroke:#66a36f;
+class A start;
+class B,D,G decision;
+class C emergency;
+class E priority;
+class F,I assessment;
+class H,J care;
+class K followup;
 ```
 
 <p align="center"><strong>두통 환자의 초기 평가 및 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; NICE CG150; Hoh BL, et al. Stroke 2023;</mark></em><br><em><mark style="color:$info;">Do TP, et al. Neurology 2019)</mark></em></p>
