@@ -18,15 +18,15 @@
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * **(당일)** 유두부종·반복 구토·진행성 시력 증상 `두개내압 상승 의심`
-* 암·면역저하 환자의 신규 또는 진행성 두통 `2차성 두통 의심`
-* **(당일)** <mark style="background-color:red;">임신·산후의 그 밖의 새 두통</mark> `2차성 두통 의심`
+* **(당일)** 임신 중 또는 산후 새로 발생한 두통 중 즉각 조치 항목에 해당하지 않는 경우 `2차성 두통 의심`
+* 암·면역저하 환자의 신규 또는 진행성 두통 `2차성 두통 의심`&#x20;
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 두통 빈도·양상의 변화, 적절한 예방치료에도 지속되는 기능장애
 * 급성기 약물 사용 증가 `약물과용두통`
 
-### <mark style="color:orange;">감별</mark>
+## <mark style="color:green;">감별</mark>
 
 * 최근 시작, 최근 변화, 증상 진행 → 2차성 두통
 * 발열, 체중 감소, 악성 종양 과거력 → 전신적 질환, 2차성 두통
@@ -49,11 +49,11 @@
 flowchart TD
     A["두통 ≥15일/월, ＞3개월"] --> B["Red Flags·최근 양상 변화?"]
     B -- "예" --> C["<u>위험도에 따른 평가</u><br/>• 2차성 원인 배제"]
-    B -- "아니요" --> D["<u>약제군별 과용 평가</u><br/>• MOH 진단 기준 충족 시 함께 진단"]
+    B -- "아니요" --> D["<u>약제군별 과용 평가</u><br/>• MOH 진단 기준 충족 시 <br/>함께 진단"]
     D --> E["항상 편측인 지속통에<br/>자율신경 증상·초조·움직일 때 통증 악화 중<br/>하나가 동반되는가?"]
-    E -- "예" --> F["<u>지속반두통 고려</u><br/>• 구조적 병변 평가<br/>• 전문진료에서 indomethacin<br/>완전 반응 확인"]
+    E -- "예" --> F["<u>지속반두통 고려</u><br/>• 구조적 병변 평가<br/>• 전문진료에서 <br/>indomethacin<br/>완전 반응 확인"]
     E -- "아니요" --> G["시작 시점이 명확하고<br/>24시간 이내에 중단 없는 <br/>매일두통으로 전환됐는가?"]
-    G -- "예" --> H["<u>NDPH 고려</u><br/>• 과용 동반 시 매일두통이<br/>약물과용보다 먼저 시작됐는지 확인"]
+    G -- "예" --> H["<u>NDPH 고려</u><br/>• 과용 동반 시 <br/>매일두통이<br/>약물과용보다 먼저 <br/>시작됐는지 확인"]
     G -- "아니요" --> I["수면 중에만 발생하여 <br/>잠을 깨우는가?"]
     I -- "예" --> J["<u>수면두통 감별</u><br/>• 2차성 야간두통 <br/>평가"]
     I -- "아니요" --> K["<u>만성편두통·<br/>만성긴장형두통 등 <br/>감별</u>"]
@@ -63,13 +63,12 @@ flowchart TD
     K --> L
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
-classDef priority fill:#fff3e0,stroke:#e99b45;
+classDef caution fill:#fdebd0,stroke:#e67e22
 classDef care fill:#e3f2ff,stroke:#2196f3;
 classDef followup fill:#d0e8ff,stroke:#1a6abf;
-
 class A start;
 class B,E,G,I decision;
-class C priority;
+class C caution;
 class F,H,J,K care;
 class L followup;
 ```
@@ -225,8 +224,8 @@ class L followup;
 
 * 양질의 무작위시험 근거가 부족하고 치료 반응이 제한적인 경우가 많음
 * 편두통형 또는 긴장형 양상에 따라 해당 예방치료를 준용하는 phenotype-guided 치료가 일반적임
-* 편두통형 : amitriptyline, topiramate, divalproex 등
-* 긴장형 : amitriptyline, nortriptyline, mirtazapine 등
+* [편두통형](016_-migraine.md#management) : amitriptyline, topiramate, divalproex 등
+* [긴장형](017_-tension-type-headache.md#management) : amitriptyline, nortriptyline, mirtazapine 등
 * 위 약제의 NDPH 치료는 허가 외 사용임
 * topiramate·divalproex는 임부에게 투여하지 않음
   * 가임기 여성 : topiramate는 매우 효과적인 피임법을 사용할 때만, divalproex는 임신예방프로그램 요건을 모두 충족할 때만 투여
@@ -237,6 +236,7 @@ class L followup;
 
 ### <mark style="color:orange;">지속반두통 (Hemicrania continua)</mark>
 
+* 아래 약제는 모두 지속반두통에 대한 허가 외 사용임
 * 1차 치료 : indomethacin <mark style="color:$info;">\[ICHD-3; Cephalalgia 2023]</mark>
   * 치료 용량에서 두통이 완전히 소실되는 반응 자체가 진단 기준(criterion D)이므로 진단적 치료를 겸함
   * 25 ㎎ tid부터 시작하여 내약성을 확인하며 증량하되, 진단에 충분한 용량에 도달하기 전에는 무반응으로 판단하지 않음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">인도메타 25 ㎎</mark>](https://www.health.kr/drug/2011080300001)<mark style="color:blue;">]</mark>
@@ -250,12 +250,13 @@ class L followup;
 
 ### <mark style="color:orange;">수면두통 (Hypnic headache)</mark>
 
+* 아래 치료는 모두 수면두통에 대한 허가 외 사용이며, 특히 lithium은 고령자에서 내약성과 상호작용을 면밀히 평가
 * 1차 치료 : 취침 전 caffeine 40\~60 ㎎ 등 저용량으로 시도
   * 커피의 카페인 함량은 종류·용량에 따라 달라 고정 용량으로 간주하지 않음
   * 불면·야간뇨가 악화될 수 있음
   * 근거는 주로 증례·관찰연구 수준
 * 대안
-  * lithium carbonate : <mark style="color:blue;">\[탄산리튬]</mark> [150 ㎎](https://www.health.kr/drug/2015102800003)\~[300 ㎎](https://www.health.kr/drug/A11A0920A0030) 취침 전
+  * lithium carbonate : <mark style="color:blue;">\[탄산리튬]</mark> [150 ㎎](https://www.health.kr/drug/2015102800003)\~[300 ㎎](https://www.health.kr/drug/A11A0920A0030) 취침 전 (허가 외 사용)
     * 투여금기 : 신장애, 심혈관질환, 쇠약·탈수, 나트륨 섭취 제한, 티아지드계 이뇨제 복용 등
     * 투여 전 신기능·갑상선기능·전해질·칼슘 확인. 고령자에서 필요시 ECG 확인
     * 시작·용량 변경 약 1주 후 혈중농도를 확인(마지막 복용 약 12시간 후 채혈)하고 안정될 때까지 추적. 유지 중 혈중농도는 약 월 1회 측정하고 신기능·갑상선기능·칼슘은 정기 추적
@@ -263,7 +264,6 @@ class L followup;
     * sumatriptan·chlorthalidone·spironolactone은 lithium과 DUR 병용금기
   * indomethacin : 25\~50 ㎎ 취침 전
   * melatonin : 3\~5 ㎎ 취침 전
-* 위 치료는 모두 수면두통에 대한 허가 외 사용이며, 특히 lithium은 고령자에서 내약성과 상호작용을 면밀히 평가
 
 ### <mark style="color:orange;">약물과용두통 (MOH)</mark>
 
@@ -359,6 +359,8 @@ class L followup;
 >
 > 약제 정보: [인도메타캡슐·25 ㎎](https://www.health.kr/drug/2011080300001) · [오메드정·20 ㎎](https://www.health.kr/drug/A11A1890A0146)
 >
+> _✽지속반두통에 대한 위 약제 치료는 허가 외 사용임_
+>
 > _✽indomethacin 불내성 시 celecoxib 등 대안을 고려할 수 있으나, 대체약 반응은 hemicrania continua의 진단 기준을 대신하지 않음. celecoxib를 고려할 때는 심혈관질환·NYHA II\~IV 심부전·중증 신장애·활동성 궤양·출혈 등 투여금기를 먼저 확인하고 대체 여부를 판단(☞_ [_통증_](../220_/001_-pain.md)_)_
 
 > **처방례 3. 수면두통 (Hypnic headache)**
@@ -377,7 +379,7 @@ class L followup;
 >
 > 약제 정보: [명인탄산리튬정·150 ㎎](https://www.health.kr/drug/2015102800003) · [명인탄산리튬정·300 ㎎](https://www.health.kr/drug/A11A0920A0030) · [인도메타캡슐·25 ㎎](https://www.health.kr/drug/2011080300001)
 >
-> _✽수면두통 치료는 허가 외 사용이며 근거는 주로 증례·관찰연구 수준_
+> _✽수면두통에 대한 위 약제 치료는 허가 외 사용이며, 근거는 주로 증례·관찰연구 수준_
 
 > **처방례 4. 약물과용두통 (MOH) - 약물 중단 + 예방 치료**
 >
