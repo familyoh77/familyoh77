@@ -4,6 +4,25 @@
 작성 예정 : 요추천자·뇌척수액 검사
 {% endhint %}
 
+## <mark style="color:green;">뇌영상 선택 (CT·CTA·MRI·MRA·CTV·MRV)</mark> <a href="#brain-imaging-selection" id="brain-imaging-selection"></a>
+
+**무엇을 보는가**
+
+<table><thead><tr><th width="150">검사</th><th width="460">주로 확인하는 것</th></tr></thead><tbody><tr><td><strong>비조영 뇌 CT</strong></td><td>급성 두개내출혈, 두개골 골절, 뇌압박·수두증. 촬영이 빠르며 급성 출혈과 두부 외상 평가에 우선</td></tr><tr><td><strong>CTA (CT 혈관조영)</strong></td><td>요오드 조영제로 두개내·경부 동맥을 평가. 큰혈관 폐색·협착, 동맥류, 경부 동맥박리 의심 시 사용</td></tr><tr><td><strong>뇌 MRI</strong></td><td>뇌 실질 평가. DWI는 급성 허혈, FLAIR는 백질·부종, GRE/SWI는 혈액분해산물 평가에 유용. 급성 허혈은 보통 비조영 MRI로 평가하고, 종양·감염·수막 병변이 의심되면 조영 전후 MRI를 고려</td></tr><tr><td><strong>MRA (MR 혈관조영)</strong></td><td>동맥 평가. 뇌 MRI와 함께 시행할 수 있고, 두개내 MRA는 비조영 TOF 기법을 흔히 사용. 경부 혈관은 의심 병변에 맞춰 촬영 범위·조영 여부를 정함</td></tr><tr><td><strong>CTV / MRV (정맥조영)</strong></td><td>뇌정맥·정맥동 혈전증이 의심될 때 선택. CTV는 빠르게 시행할 수 있고, MRI와 MRV를 함께 시행하면 정맥과 뇌 실질을 함께 평가</td></tr></tbody></table>
+
+**언제 시행하는가**
+
+<table><thead><tr><th width="210">임상 상황</th><th width="470">우선 검사와 다음 단계</th></tr></thead><tbody><tr><td><strong>급성 국소 신경학적 결손이 지속</strong></td><td>뇌졸중 응급 경로에서 비조영 뇌 CT로 출혈을 먼저 확인. 큰혈관 폐색이 의심되면 두부·경부 CTA를 신속히 추가. 혈전제거술 대상 선별에 필요한 혈관영상은 신기능 검사 결과를 기다리며 늦추지 않음. 지체 없이 시행 가능한 기관에서는 MRI/MRA 경로도 가능. 정맥혈전용해 대상이면 추가 혈관영상·관류영상 때문에 치료를 늦추지 않음 <mark style="color:$info;">[AHA/ASA 2026]</mark></td></tr><tr><td><strong>증상이 소실된 TIA 의심</strong></td><td>가능하면 증상 시작 24시간 이내에 뇌 MRI(DWI 포함)로 경색 여부를 확인하고, 두개내·경부 동맥을 CTA 또는 MRA로 신속히 평가. MRI가 바로 어렵다면 비조영 CT와 두부·경부 CTA를 먼저 시행할 수 있음 <mark style="color:$info;">[AHA 2023]</mark></td></tr><tr><td><strong>벼락두통 / 지주막하출혈 의심</strong></td><td>비조영 뇌 CT 우선. 음성이면 발병부터 촬영까지 시간·새 신경학적 결손·판독 조건에 따라 요추천자 등 추가 평가. 지주막하출혈이 확인되면 원인 동맥류를 찾기 위해 CTA를 시행하고, CTA 음성·불확실인데 동맥류성 출혈이 계속 의심되면 전문팀에서 카테터 혈관조영(DSA)을 시행 <mark style="color:$info;">[AHA/ASA 2023]</mark></td></tr><tr><td><strong>경부 동맥박리 의심</strong></td><td>새 편측 두통·목 통증에 부분 Horner 증후군이나 허혈 증상이 동반되면 두부·경부 CTA 또는 MRI/MRA로 신속히 평가. CTA 음성이어도 의심이 높으면 지방억제 T1 영상을 포함한 MRI/MRA로 혈관벽 혈종을 확인할 수 있음 <mark style="color:$info;">[AHA 경부 동맥박리 2024]</mark></td></tr><tr><td><strong>뇌정맥동혈전증 의심</strong></td><td>산욕기·혈전 위험·유두부종 등이 단서이면 CTV 또는 MRI/MRV. 일반 비조영 CT가 정상이더라도 의심이 지속되면 정맥영상을 시행 <mark style="color:$info;">[AHA 뇌정맥혈전증 2024]</mark></td></tr><tr><td><strong>급성 지속성 어지럼</strong></td><td>훈련된 검사자의 HINTS가 중추성·불확실하면 뇌 MRI(DWI 포함)와 MRA로 평가. 뚜렷한 국소 결손 또는 큰혈관 폐색이 의심되면 뇌졸중 응급 경로를 우선. 유발 요인 없는 일과성 어지럼에서 TIA가 의심되면 두부·경부 CTA 또는 MRA. 전형적 BPPV에서 영상검사는 통상 필요하지 않음 <mark style="color:$info;">[GRACE-3 2023]</mark></td></tr><tr><td><strong>급성 두부 외상에서 영상 적응증에 해당</strong></td><td>비조영 뇌 CT 우선. CT로 설명되지 않는 신경학적 이상이 지속되면 MRI를 고려 <mark style="color:$info;">[ACR Head Trauma 2021]</mark></td></tr><tr><td><strong>진행성 두통 또는 구조 병변 의심</strong></td><td>응급 출혈 소견 없이 종괴·후두와·뇌하수체·수막 병변을 의심하면 뇌 MRI 우선. 의심 병변에 따라 조영 및 전용 촬영을 선택 <mark style="color:$info;">[ACR Headache 2022]</mark></td></tr></tbody></table>
+
+**검사 방법·해석**
+
+* CTA와 MRA 중 선택할 때는 검사까지 걸리는 시간, 요오드 조영제 과민반응 병력·신기능, MRI 적합성·움직임을 고려. 비조영 TOF MRA에서는 느린 혈류로 협착이 실제보다 심해 보일 수 있음
+* CT 또는 MRI 관류영상은 발병 시각이 불명확하거나 늦게 내원한 환자에서 재관류치료 대상 선정에 도움이 될 때 뇌졸중팀이 선택
+* 비조영 CT가 정상이어도 초기 허혈, 특히 뇌간·소뇌 경색을 배제하기 어려움. 초기 MRI DWI가 음성이어도 중추성 소견이 지속되면 신경과 평가와 반복 영상을 고려
+* 응급 이송이 필요한 상황에서는 외래 영상 예약이나 촬영으로 이송을 지연하지 않음
+
+***
+
 ## <mark style="color:green;">두통의 영상 검사 적응증 (SNNOOP10·Ottawa SAH rule)</mark>
 
 **무엇을 보는가**
@@ -12,7 +31,7 @@
 
 **언제 시행하는가**
 
-* SNNOOP10 경고 징후가 있을 때 원인과 상황에 맞춰 CT, MRI, 혈관영상(CTA/MRA, CTV/MRV), 요추천자를 선택
+* SNNOOP10 경고 징후가 있을 때 원인과 상황에 맞춰 영상검사나 요추천자를 선택 (☞ [뇌영상 선택](#brain-imaging-selection))
 * 신경학적 검사가 정상인 새로 진단된 편두통·긴장형두통, 만성적으로 안정된 두통에서 안심 목적의 영상검사는 권고하지 않음 <mark style="color:$info;">\[ACR AC 2022; NICE CG150]</mark>
 
 **검사 방법**
@@ -61,7 +80,7 @@
 
 <table><thead><tr><th width="160">소견</th><th width="260">말초성 패턴 (모두 충족)</th><th>중추성 또는 불확실 (하나라도)</th></tr></thead><tbody><tr><td><strong>Head impulse</strong></td><td>병변 쪽으로 머리를 돌릴 때 표적을 놓치고 반대 방향의 교정성 단속운동으로 표적을 다시 주시</td><td>정상 (AVS에서 정상 HIT는 중추성 시사)</td></tr><tr><td><strong>안진</strong></td><td>방향고정성 수평(-회선성) 안진</td><td>주시 방향에 따라 바뀌는 안진, 수직·순수 회선성 안진</td></tr><tr><td><strong>Skew</strong></td><td>없음</td><td>수직 재정렬 있음</td></tr><tr><td><strong>청력</strong></td><td>새 일측 청력 저하 없음</td><td>새 일측 청력 저하 (AICA 경색 위험)</td></tr></tbody></table>
 
-* 중추성·불확실 패턴이면 MRI(DWI) ± MRA와 신경과 평가
+* 중추성·불확실 패턴이면 뇌 MRI(DWI 포함)와 MRA 및 신경과 평가 (☞ [뇌영상 선택](#brain-imaging-selection))
 
 **위양성·위음성**
 
@@ -121,7 +140,7 @@
 **검사 방법**
 
 * 영상 : 가능한 즉시, 원칙적으로 응급실 퇴실 전에 뇌영상과 두개내·두개외 혈관영상
-  * MRI DWI(가능하면 24시간 이내)가 작은 경색에 가장 민감; CT/CTA는 출혈 배제와 대동맥궁\~두정부 혈관 평가
+  * 가능하면 증상 시작 24시간 이내에 뇌 MRI(DWI 포함). 두개내·경부 동맥은 CTA 또는 MRA로 신속히 평가하며, MRI를 바로 시행하기 어려우면 비조영 CT와 두부·경부 CTA를 먼저 시행할 수 있음 (☞ [뇌영상 선택](#brain-imaging-selection))
 * 심장 : 12유도 ECG와 심전도 감시; 원인 불명·색전성 양상이면 장기 심전도 모니터링, 심초음파 (18\~60세는 거품 조영으로 PFO)
 * 혈액 : CBC, 전해질, Cr/eGFR, 혈당·A1C, 지질, ALT, PT/INR·aPTT; 50세 이상 일과성 단안 시력 상실 + 새 두통·턱 파행이면 ESR·CRP
 
@@ -365,6 +384,13 @@
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### <mark style="color:orange;">임상 근거</mark>
+
+* [AHA/ASA. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke. Stroke 2026.](https://doi.org/10.1161/STR.0000000000000513)
+* [Amin HP, et al. Diagnosis, Workup, Risk Reduction of Transient Ischemic Attack in the Emergency Department Setting. Stroke 2023.](https://doi.org/10.1161/STR.0000000000000418)
+* [Yaghi S, et al. Treatment and Outcomes of Cervical Artery Dissection in Adults. Stroke 2024.](https://doi.org/10.1161/STR.0000000000000457)
+* [AHA. Diagnosis and Management of Cerebral Venous Thrombosis. 2024.](https://professional.heart.org/en/science-news/diagnosis-and-management-of-cerebral-venous-thrombosis)
+* [ACR Appropriateness Criteria. Headache. 2022.](https://acsearch.acr.org/docs/69482/Narrative/)
+* [ACR Appropriateness Criteria. Head Trauma. 2021.](https://doi.org/10.1016/j.jacr.2021.01.006)
 
 * [NICE NG217. Epilepsies in children, young people and adults: diagnosis and assessment.](https://www.nice.org.uk/guidance/ng217/chapter/1-Diagnosis-and-assessment-of-epilepsy)
 * [ARUP Consult. Cerebrospinal Fluid Leak: Beta-2 Transferrin.](https://arupconsult.com/content/csf-leak-beta-2-transferrin)
