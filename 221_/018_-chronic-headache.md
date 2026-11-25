@@ -61,17 +61,17 @@ flowchart TD
     H --> L
     J --> L
     K --> L
-
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
 classDef priority fill:#fff3e0,stroke:#e99b45;
-classDef assessment fill:#f1f5f9,stroke:#94a3b8;
-classDef care fill:#d9eaff,stroke:#3973ac;
+classDef care fill:#e3f2ff,stroke:#2196f3;
+classDef followup fill:#d0e8ff,stroke:#1a6abf;
+
 class A start;
 class B,E,G,I decision;
 class C priority;
-class D,F,H,J,K assessment;
-class L care;
+class F,H,J,K care;
+class L followup;
 ```
 
 > _수면두통은 ＞3개월 동안 ≥10일/월이면 진단할 수 있으므로, 이 알고리듬의 시작 기준(≥15일/월)에 미치지 않는 환자에서도 고려_

@@ -244,14 +244,13 @@ classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
 classDef emergency fill:#f8d7da,stroke:#dc3545;
 classDef priority fill:#fff3e0,stroke:#e99b45;
-classDef assessment fill:#f1f5f9,stroke:#94a3b8;
-classDef care fill:#d9eaff,stroke:#3973ac;
-classDef followup fill:#e8f5e9,stroke:#66a36f;
+classDef diagnosis fill:#fde8f0,stroke:#e91e8c;
+classDef care fill:#e3f2ff,stroke:#2196f3;
+classDef followup fill:#d0e8ff,stroke:#1a6abf;
 class A start;
 class B,D,G decision;
 class C emergency;
 class E priority;
-class F,I assessment;
 class H,J care;
 class K followup;
 ```

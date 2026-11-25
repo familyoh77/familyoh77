@@ -169,16 +169,16 @@ flowchart TD
     H -- "아니요" --> J["만성긴장형두통 <br/>기준 충족?"]
     J -- "예" --> K["만성긴장형두통: <br/>비-약물 치료·<br/>amitriptyline 등 예방약"]
     J -- "아니요" --> L
-
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
 classDef priority fill:#fff3e0,stroke:#e99b45;
-classDef assessment fill:#f1f5f9,stroke:#94a3b8;
-classDef care fill:#d9eaff,stroke:#3973ac;
+classDef care fill:#e3f2ff,stroke:#2196f3;
+classDef followup fill:#d0e8ff,stroke:#1a6abf;
+
 class A start;
 class B,E,F,H,J decision;
 class C priority;
-class D,I,L assessment;
+class I,L followup;
 class G,K care;
 ```
 

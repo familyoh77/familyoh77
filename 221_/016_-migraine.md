@@ -188,15 +188,16 @@ flowchart TD
     I --> K["급성기 약물 사용일수·<br/>MOH 동반 평가"]
     J --> K
     K --> L["급성기 치료·<br/>예방치료 계획 및 추적"]
+
 classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
 classDef decision fill:#fff9c4,stroke:#ffe082;
 classDef emergency fill:#f8d7da,stroke:#dc3545;
-classDef assessment fill:#f1f5f9,stroke:#94a3b8;
+classDef diagnosis fill:#fde8f0,stroke:#e91e8c;
 classDef care fill:#d9eaff,stroke:#3973ac;
 class A start;
 class B,E,H decision;
 class C emergency;
-class D,F,G,I,J,K assessment;
+class I,J diagnosis;
 class L care;
 ```
 
