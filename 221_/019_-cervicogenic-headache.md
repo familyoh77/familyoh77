@@ -111,11 +111,11 @@
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-* [<mark style="background-color:red;">편두통</mark>](016_-migraine.md)의 경부 증상, [<mark style="background-color:red;">긴장형두통</mark>](017_-tension-type-headache.md) 및 경부 근막통증
+* [편두통](016_-migraine.md)의 경부 증상, [긴장형두통](017_-tension-type-headache.md) 및 경부 근막통증
 * 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상, 해당 신경의 국소마취 차단으로 일시적 완화
 * 상부 경추 신경근병증
-* [<mark style="background-color:red;">지속반두통</mark>](018_-chronic-headache.md#hemicrania-continua)(hemicrania continua), [<mark style="background-color:red;">돌발반두통</mark>](018_-chronic-headache.md#short-lasting-headache)(paroxysmal hemicrania)
-* <mark style="background-color:red;">턱관절 장애(TMD)</mark>, 인두뒤건염, 두개경부 근긴장이상
+* [지속반두통](018_-chronic-headache.md#hemicrania-continua)(hemicrania continua), [돌발반두통](018_-chronic-headache.md#short-lasting-headache)(paroxysmal hemicrania)
+* 턱관절 장애(TMD), 인두뒤건염, 두개경부 근긴장이상
 * 급성 또는 지속성 편타손상 기인 두통
 * 경부동맥 박리(경동맥·척추동맥), 거대세포동맥염
 * 수막염·경추 감염, 종양, 류마티스관절염의 환축추 불안정성, Chiari I 기형
@@ -189,8 +189,8 @@ flowchart TD
     M -- "아니요" --> H2["다른 두통·<br/>통증원 재평가"]
     M -- "예" --> N["전문의 의뢰·영상 유도 <br/>TON block 또는 MBB"]
     N --> O["시술기관의 양성 예후차단 <br/>기준 충족?"]
-    O -- "예" --> P["이익·위험을 ·<br/>상의하여 <br/>RF 고려"]
-    O -- "아니요" --> Q["RF 보류·<br/>다른 통증원 ·<br/>재평가"]
+    O -- "예" --> P["이익·위험을 <br/>상의하여 <br/>RF 고려"]
+    O -- "아니요" --> Q["RF 보류·<br/>다른 통증원 <br/>재평가"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
     classDef decision fill:#fff9c4,stroke:#ffe082;
 classDef care fill:#e3f2ff,stroke:#2196f3;
@@ -237,7 +237,7 @@ class B2,N,Q caution;
 * TENS의 경추성두통에 대한 직접 근거는 부족하며 선택적으로 시험할 수 있음
 
 {% hint style="warning" %}
-**경추 수기치료 전 확인** : 최근 갑작스럽거나 평소와 다른 두통·경부통, 부분 Horner 증후군, 복시·구음장애·연하곤란·운동실조, 최근 경부 외상·감염 또는 혈관·결합조직질환 위험이 있으면 수기치료를 시행하지 않고 경부동맥 박리를 먼저 평가함. Hautant·Underberg 등 위치유발검사로는 이 위험을 배제할 수 없음 <mark style="color:$info;">\[J Orthop Sports Phys Ther 2023]</mark>
+**경추 수기치료 전 확인** : 최근 갑작스럽거나 평소와 다른 두통·경부통, 부분 Horner 증후군, 복시·구음장애·연하곤란·운동실조가 있으면 수기치료를 보류하고 경부동맥 박리를 우선 평가. 최근 경부 외상·감염 및 혈관·결합조직질환 위험인자도 함께 확인. Hautant·Underberg 등 위치유발검사로 혈관병리를 배제할 수 없음 <mark style="color:$info;">\[J Orthop Sports Phys Ther 2023]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">생활 습관</mark>
@@ -250,7 +250,7 @@ class B2,N,Q caution;
 
 ## <mark style="color:green;">약물 치료</mark> <a href="#drug-treatment" id="drug-treatment"></a>
 
-* 비-약물 치료(운동·관절가동술 등)를 보조하는 수단으로, 급성 통증·근연축 조절에 국한하여 사용
+* 비-약물 치료를 보조하며, 급성 통증·근연축 또는 동반 질환에 따라 약제를 선택
 
 ### <mark style="color:orange;">Acetaminophen 또는 NSAID</mark>
 
@@ -262,7 +262,7 @@ class B2,N,Q caution;
   * acetaminophen은 감기약 등 복합제에도 흔히 들어 있으므로 모든 공급원을 합산해 1일 최대 4 g, 반복·장기 사용 시 통상 3 g 이하를 권장; 간질환·상습 음주·저체중 등 위험요인에 따라 감량(☞ [통증](../220_/001_-pain.md))
 * naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]\(</mark>250 ㎎) · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]\(</mark>500 ㎎)
 * ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
-* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:red;">(☞</mark> [<mark style="background-color:red;">약물과용두통</mark>](018_-chronic-headache.md#medication-overuse-headache-moh)<mark style="background-color:red;">)</mark>
+* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark>(☞ [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh))
   * 카페인 등을 함께 함유한 복합진통제를 월 ≥10일, 3개월 넘게 복용하면 약물과용에 해당됨
 
 ### <mark style="color:orange;">근이완제</mark>
@@ -285,8 +285,8 @@ class B2,N,Q caution;
 
 * 동반 편두통·긴장형두통·우울·불면 또는 별도로 확인된 신경병증성 통증이 있을 때 해당 진단과 적응증에 따라 선택
 * 경추성두통 자체에 대한 근거가 약하므로 일률적으로 사용하지 않음
-* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. acetaminophen와의 병용 금기
-* duloxetine \[[듀로셉톨](https://www.health.kr/drug/2014063000023)] (허가 외 사용)
+* TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. acetaminophen과의 병용 금기
+* duloxetine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">듀로셉톨</mark>](https://www.health.kr/drug/2014063000023)<mark style="color:blue;">]</mark> : 경추성두통 치료는 허가 외 사용. 동반 질환에 사용할 때는 해당 적응증·급여기준 확인
 
 ### <mark style="color:orange;">국소 NSAID 또는 lidocaine 패치</mark>
 
@@ -375,23 +375,13 @@ class B2,N,Q caution;
 >
 > _✽경추성두통 단독이나 신경병증성 통증이 확인되지 않은 경추 신경근병증에는 일률적으로 사용하지 않음. (보험주의) 일반 경추 신경근병증에 동반된 신경병증성 통증은 별도 급여 인정 항목에 열거되어 있지 않으므로 급여기준을 확인함. 어지럼·졸음을 확인하고 신기능에 따라 용량·투여 간격을 조절함. 내약성을 고려해 75 ㎎ hs부터 시작하는 방법은 허가 외 용법임._
 
-> **시술 예시. 대후두신경차단술**
->
-> ```
-> 대한리도카인염산염수화물1%주  1~2 ㎖, 편측 대후두신경차단
-> ```
->
-> 약제 정보: [대한리도카인염산염수화물1%주·10 ㎎/㎖](https://www.health.kr/drug/A11ABBBBB2757)
->
-> _✽해부학과 국소마취제 최대용량을 숙지한 의료진이 흡인 후 소량씩 분할 주입하고 시술 후 이상반응을 관찰함. 스테로이드 병용 필요성과 제제·용량은 개별 판단하며, 반복 여부와 간격은 이전 효과·이상반응·누적 노출에 따라 결정함._
-
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **아세트아미노펜**
 >
-> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. <mark style="background-color:red;">위 처방례에서는 최소 6시간 간격을 지키고 하루 3 g을 넘지 마십시오.</mark>
+> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. 위 처방례에서는 최소 6시간 간격을 지키고 하루 3 g을 넘지 마십시오.
 > * 에트라빌·센시발을 복용 중이면 타이레놀을 임의로 추가하지 말고 병용 금기를 확인하십시오.
 > * 처방되거나 제품에 표시된 용량을 넘지 말고, 간질환이 있거나 술을 자주 마시는 경우에는 복용 전에 의료진과 상의하십시오.
 
@@ -428,6 +418,7 @@ class B2,N,Q caution;
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
+* [Hagen K, et al. The epidemiology of headache disorders: a face-to-face interview of participants in HUNT4. J Headache Pain. 2018;19:25.](https://doi.org/10.1186/s10194-018-0854-2) - 지난 12개월 유병률의 원문 근거
 * [Robinson CL, et al. Prevalence and relative frequency of cervicogenic headache in population- and clinic-based studies: A systematic review and meta-analysis. Cephalalgia. 2025;45(3):3331024251322446.](https://doi.org/10.1177/03331024251322446) - 본문 유병률·상대빈도 수치와 연구 한계
 * [Eldaya RW, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. J Am Coll Radiol. 2025;22(5S):S136-S162.](https://doi.org/10.1016/j.jacr.2025.02.035) - 경부통·신경근병증 및 경추성두통 의심 시 영상검사 선택
 * [Hurley RW, et al. Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group. Reg Anesth Pain Med. 2022;47(1):3-59.](https://rapm.bmj.com/content/47/1/3) - 후관절 진단·예후 차단과 고주파치료의 환자 선택
@@ -457,7 +448,7 @@ class B2,N,Q caution;
 
 #### <mark style="color:$primary;">경추성두통이란 무엇인가요?</mark>
 
-* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 <mark style="background-color:red;">2차성 두통</mark>입니다.
+* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 2차성 두통입니다.
 * 한쪽에 나타나는 경우가 많고 목을 움직이거나 특정 자세를 오래 유지할 때 평소 두통이 악화될 수 있습니다.
 * 목 통증과 영상검사의 퇴행성 변화만으로 진단하지 않으며, 목의 병변과 두통 사이의 연관성을 확인해야 합니다.
 
@@ -490,6 +481,6 @@ class B2,N,Q caution;
 * 면역력이 떨어진 상태에서 심한 두통이나 목 통증이 생긴 경우
 * 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않는 경우
 * 외상 후 심한 두통이나 목 통증이 생긴 경우
-* <mark style="background-color:red;">목을 다치거나 목 교정·도수치료를 받은 뒤 한쪽 두통이나 목 통증이 새로 생긴 경우</mark>
+* 목을 다치거나 목 교정·도수치료를 받은 뒤 한쪽 두통이나 목 통증이 새로 생긴 경우
 
 ***
