@@ -7,7 +7,7 @@
   * 스트레스, 수면 장애, 두개·경부 근육의 통증 자극 등과 연관되어 유발·악화될 수 있음
   * 동반 소견 : 두부/경부/어깨 근육 경직·압통, 피로, 과민, 집중력 저하가 나타날 수 있음
 * 역학
-  * <mark style="background-color:red;">1차성 두통</mark>의 가장 흔한 형태임
+  * 1차성 두통의 가장 흔한 형태임
   * 유병률 : 최근 1년 이하 기간 유병률의 전 세계 추정치 약 26% <mark style="color:$info;">\[J Headache Pain 2022]</mark>
   * 삽화형 유병률은 중년 이후 감소하는 경향을 보이며, 만성형 유병률과 연령의 관련성은 연구마다 일관되지 않음
   * 질병부담 : 두통질환 전체의 YLD(years lived with disability)는 15\~49세에서 특히 큼 <mark style="color:$info;">\[J Headache Pain 2024]</mark>
@@ -48,7 +48,7 @@
 
 * **(당일)** 임신 중 또는 산후 새로 발생한 두통 중 즉각 조치 항목에 해당하지 않는 경우 `자간전증` `뇌혈관질환` `뇌하수체 병변`
 * **(당일)** ≥50세의 새 두통에 턱 파행 또는 두피·측두동맥 압통 동반 `거대세포동맥염`
-* 새로 발생하거나 진행하는 두통 <mark style="background-color:red;">`2차성 두통`</mark>
+* 새로 발생하거나 진행하는 두통 `2차성 두통`
 * 암·면역저하 등 위험 배경이 있는 새 두통 `두개내 전이` `중추신경계 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -122,7 +122,7 @@
 
 ### <mark style="color:orange;">긴장형두통 vs 경추성두통(CGH) 감별</mark>
 
-<table data-search="false"><thead><tr><th width="124">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td><strong>분류</strong></td><td><mark style="background-color:red;">1차성 두통</mark></td><td><mark style="background-color:red;">2차성 두통</mark>(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td><strong>통증 부위</strong></td><td>대개 양측성(전두부·측두부·후두부)</td><td>편측·side-locked 경향이 흔하며 양측성도 가능</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td><strong>발생 기전</strong></td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td><strong>유발 요인</strong></td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td><strong>경추 가동 범위</strong></td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td><strong>동반 증상</strong></td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td><strong>진찰 소견</strong></td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td><strong>진단 단서</strong></td><td>ICHD-3 임상 기준에 따른 진단</td><td>경추·경부 병변의 근거와 인과성 소견 ≥2가지¹⁾</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="124">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td><strong>분류</strong></td><td>1차성 두통</td><td>2차성 두통(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td><strong>통증 부위</strong></td><td>대개 양측성(전두부·측두부·후두부)</td><td>편측·side-locked 경향이 흔하며 양측성도 가능</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td><strong>발생 기전</strong></td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td><strong>유발 요인</strong></td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td><strong>경추 가동 범위</strong></td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td><strong>동반 증상</strong></td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td><strong>진찰 소견</strong></td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td><strong>진단 단서</strong></td><td>ICHD-3 임상 기준에 따른 진단</td><td>경추·경부 병변의 근거와 인과성 소견 ≥2가지¹⁾</td></tr></tbody></table>
 
 > ¹⁾_두통을 유발할 수 있는 경추·경부 병변의 임상 또는 영상 근거가 있고, 다음 중 ≥2가지로 인과관계를 확인_\
 > _&#x2460; 병변 발생과 두통 시작의 시간적 연관_\
@@ -134,12 +134,12 @@
 
 ### <mark style="color:orange;">진찰 및 검사</mark>
 
-* 진단은 ICHD-3 임상 기준에 따르며, <mark style="background-color:red;">2차성 두통</mark>을 시사하는 소견이 없고 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
-* 혈액검사 : <mark style="background-color:red;">2차성</mark> 원인이 의심될 때 선택적으로 시행
+* 진단은 ICHD-3 임상 기준에 따르며, 2차성 두통을 시사하는 소견이 없고 전형적인 양상과 정상 신경학적 진찰 소견이면 혈액검사·영상검사가 필요하지 않음
+* 혈액검사 : 2차성 원인이 의심될 때 선택적으로 시행
   * ≥50세의 새 두통에서 거대세포동맥염이 의심되면 ESR·CRP·CBC(혈소판 포함). 시각 증상이 있거나 임상적 의심이 높으면 결과를 기다리지 않고 긴급 의뢰
 * 영상검사
   * 긴장형두통으로 진단된 환자에게 안심 목적만으로 뇌영상검사를 시행하지 않음 <mark style="color:$info;">\[NICE CG150]</mark>
-  * <mark style="background-color:red;">2차성 두통</mark>이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ [<mark style="background-color:red;">두통 - 검사</mark>](015_-headache.md#headache-testing))
+  * 2차성 두통이 의심되면 원인과 긴급도에 따라 영상검사·혈액검사 또는 전문 진료 의뢰를 결정(☞ [두통 - 검사](015_-headache.md#headache-testing))
   * 경추 영상 : 경추성두통이 의심될 때 고려. 단, 경추의 퇴행성 변화는 무증상 성인에서도 흔하므로 영상 소견만으로 인과관계를 판단하지 않음
 * 수면검사 : 아침 두통에 코골이·목격된 무호흡·주간졸림이 동반되면 고려(☞ 아래 「동반 질환 고려」)
 
@@ -348,7 +348,7 @@ class G,K care;
 > ※ amitriptyline은 10 ㎎부터 시작하여 내약성에 따라 점진 증량
 > ※ 심근경색 회복 초기, 부정맥, 녹내장, 전립선비대 등 배뇨장애, MAO 억제제 복용 등 품목별 금기 확인
 > ※ 고령자에서는 항콜린 부작용, 섬망·낙상·요폐 위험 때문에 TCA 사용을 피하거나 더욱 신중하게 결정
-> ※ nortriptyline 10~50 ㎎/d 취침 시(센시발)로 전환을 고려할 수 있으나, 항콜린 부작용이 완전히 없어지는 것은 아님
+> ※ nortriptyline 10~25 ㎎/d 취침 시(센시발)로 전환을 고려할 수 있으나, 항콜린 부작용이 완전히 없어지는 것은 아님
 > ```
 >
 > 약제 정보: [에트라빌정·10 ㎎](https://www.health.kr/drug/A11A0570B0082) · [아나프록스정·275 ㎎](https://www.health.kr/drug/A11ABBBBB2070) · [센시발정·10 ㎎](https://www.health.kr/drug/A11A1130A0032)
@@ -416,6 +416,7 @@ class G,K care;
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * \[VA/DoD 2023] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Headache. 2023.](https://www.healthquality.va.gov/guidelines/Pain/headache/index.asp) - 긴장형두통의 급성·예방 치료와 권고 강도
 * \[NICE CG150] [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통일기와 감별, 급성기 치료, 만성긴장형두통의 침 치료
+* \[Cochrane 2016] [Stephens G, et al. Paracetamol (acetaminophen) for acute treatment of episodic tension-type headache in adults. Cochrane Database Syst Rev. 2016;6:CD011889.](https://doi.org/10.1002/14651858.CD011889.pub2) - acetaminophen의 위약 대비 효과와 ibuprofen 직접 비교
 * \[J Headache Pain 2022] [Stovner LJ, et al. The global prevalence of headache: an update, with analysis of the influences of methodological factors on prevalence estimates. J Headache Pain. 2022;23(1):34.](https://doi.org/10.1186/s10194-022-01402-2) - 긴장형두통 유병률 추정치
 * \[J Headache Pain 2024] [Steiner TJ, et al. GBD2021: headache disorders and global lost health – a focus on children, and a view forward. J Headache Pain. 2024;25:91.](https://doi.org/10.1186/s10194-024-01795-2) - 연령별 두통질환 부담
 * \[Ann Med 2026] [Tao QF, et al. Comparative effects of pharmacological interventions in the prophylactic treatment of tension-type headache: systematic review and network meta-analysis. Ann Med. 2026;58(1):2616972.](https://doi.org/10.1080/07853890.2026.2616972) - amitriptyline 100 ㎎/d의 효과와 근거의 확실성
@@ -436,7 +437,7 @@ class G,K care;
 
 #### <mark style="color:$primary;">긴장형두통이란 무엇인가요?</mark>
 
-* 긴장형두통은 대표적인 \*\*<mark style="background-color:red;">1차성 두통</mark>\*\*으로, 머리를 띠로 조이는 듯한 압박감이나 조이는 느낌이 특징적입니다.
+* 긴장형두통은 대표적인 **1차성 두통**으로, 머리를 띠로 조이는 듯한 압박감이나 조이는 느낌이 특징적입니다.
 * 보통 양쪽 머리에서 느껴지며 경증\~중등증인 경우가 많습니다.
 * 삽화형에서는 구역·구토가 없고, 걷기나 계단 오르기 같은 일상적 활동으로 심해지지 않는 것이 특징입니다.
 
