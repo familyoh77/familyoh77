@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 <mark style="background-color:yellow;">2차성 두통</mark>
+* 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 <mark style="background-color:red;">2차성 두통</mark>
 * ICHD 기준을 적용한 유병률 자료는 매우 제한적임 <mark style="color:$info;">\[Cephalalgia 2025]</mark>
   * 2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음
   * 일반 인구 대상 연구 1건에서 유병률 3.9%, 두통 전문 외래 연구에서 통합 상대빈도 약 3.1%
@@ -114,11 +114,11 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-* [<mark style="background-color:yellow;">편두통</mark>](016_-migraine.md)의 경부 증상, [<mark style="background-color:yellow;">긴장형두통</mark>](017_-tension-type-headache.md) 및 경부 근막통증
+* [<mark style="background-color:red;">편두통</mark>](016_-migraine.md)의 경부 증상, [<mark style="background-color:red;">긴장형두통</mark>](017_-tension-type-headache.md) 및 경부 근막통증
 * 후두신경통 : 대개 수초\~수분 지속되는 찌르거나 전기 오는 발작성 통증, 후두신경 분포의 압통·감각 이상, 해당 신경의 국소마취 차단으로 일시적 완화
 * 상부 경추 신경근병증
-* [<mark style="background-color:yellow;">지속반두통</mark>](018_-chronic-headache.md#hemicrania-continua)(hemicrania continua), [<mark style="background-color:yellow;">돌발반두통</mark>](018_-chronic-headache.md#short-lasting-headache)(paroxysmal hemicrania)
-* <mark style="background-color:yellow;">턱관절 장애(TMD)</mark>, 인두뒤건염, 두개경부 근긴장이상
+* [<mark style="background-color:red;">지속반두통</mark>](018_-chronic-headache.md#hemicrania-continua)(hemicrania continua), [<mark style="background-color:red;">돌발반두통</mark>](018_-chronic-headache.md#short-lasting-headache)(paroxysmal hemicrania)
+* <mark style="background-color:red;">턱관절 장애(TMD)</mark>, 인두뒤건염, 두개경부 근긴장이상
 * 급성 또는 지속성 편타손상 기인 두통
 * 경부동맥 박리(경동맥·척추동맥), 거대세포동맥염
 * 수막염·경추 감염, 종양, 류마티스관절염의 환축추 불안정성, Chiari I 기형
@@ -242,14 +242,14 @@ flowchart TD
 ### <mark style="color:orange;">Acetaminophen 또는 NSAID</mark>
 
 * 급성 악화 시 최소 유효용량을 최단 기간 사용
-* acetaminophen : 500\~1,000 ㎎ q6\~8h prn<mark style="background-color:yellow;">(허가 용법은 4\~6시간 간격이나 이 장에서는 보수적으로 적용)</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn<mark style="background-color:red;">(허가 용법은 4\~6시간 간격이나 이 장에서는 보수적으로 적용)</mark> <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>. 다른 복합제에 포함된 양을 합산하며 성인에서 모든 공급원의 총량이 4 g/d를 초과하지 않도록 함
   * 4 g/d는 일반적인 처방 목표가 아니라 선택된 성인의 절대 상한이며, 반복·장기 사용에서는 통상 3 g/d 이하를 보수적으로 권장. 간질환·과음·저체중·고령·영양불량 등 위험 요인이 있으면 더 낮은 상한과 투여 간격을 개별화
   * 소화성궤양·심한 신장애·심한 간장애·TCA 복용 등 제품별 투여 금기를 먼저 확인. NSAID 사용이 어렵다는 이유로 자동 대체하지 않으며, amitriptyline·nortriptyline 복용 중에는 해당 금기가 있는 acetaminophen 품목을 병용하지 않음(☞ [통증](../220_/001_-pain.md))
   * Warfarin 복용 환자가 acetaminophen을 수일간 반복 복용하면 INR가 상승할 수 있으므로 용량·기간과 INR 추적 필요성을 개별적으로 판단
 * naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]</mark> 250 ㎎ · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]</mark> 500 ㎎
 * ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
 * 위장관 출혈, 신장기능, 심혈관질환, 항응고제 병용 여부를 확인하고 반복·장기 사용을 피함
-* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:yellow;">(☞</mark> [<mark style="background-color:yellow;">약물과용두통</mark>](018_-chronic-headache.md#medication-overuse-headache-moh)<mark style="background-color:yellow;">)</mark>
+* acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark><mark style="background-color:red;">(☞</mark> [<mark style="background-color:red;">약물과용두통</mark>](018_-chronic-headache.md#medication-overuse-headache-moh)<mark style="background-color:red;">)</mark>
   * 카페인 등을 함께 함유한 복합진통제는 월 ≥10일 복용이 기준임
 
 ### <mark style="color:orange;">근이완제</mark>
@@ -387,7 +387,7 @@ flowchart TD
 
 > **아세트아미노펜**
 >
-> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. <mark style="background-color:yellow;">위 처방례에서는 최소 6시간 간격을 지키고 하루 3,000 ㎎을 넘지 마십시오.</mark>
+> * 감기약이나 복합진통제에도 같은 성분이 들어 있을 수 있으므로 모든 제품의 총량을 합산하십시오. <mark style="background-color:red;">위 처방례에서는 최소 6시간 간격을 지키고 하루 3,000 ㎎을 넘지 마십시오.</mark>
 > * 에트라빌·센시발을 복용 중이면 타이레놀을 임의로 추가하지 말고 병용 금기를 확인하십시오.
 > * 처방되거나 제품에 표시된 용량을 넘지 말고, 간질환이 있거나 술을 자주 마시는 경우에는 복용 전에 의료진과 상의하십시오.
 
@@ -453,7 +453,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">경추성두통이란 무엇인가요?</mark>
 
-* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 <mark style="background-color:yellow;">2차성 두통</mark>입니다.
+* 경추나 목 주변 조직의 질환에서 시작된 통증이 뒤통수·관자놀이·눈 주위 등으로 퍼지는 <mark style="background-color:red;">2차성 두통</mark>입니다.
 * 한쪽에 나타나는 경우가 많고 목을 움직이거나 특정 자세를 오래 유지할 때 평소 두통이 악화될 수 있습니다.
 * 목 통증과 영상검사의 퇴행성 변화만으로 진단하지 않으며, 목의 병변과 두통 사이의 연관성을 확인해야 합니다.
 
@@ -486,6 +486,6 @@ flowchart TD
 * 면역력이 떨어진 상태에서 심한 두통이나 목 통증이 생긴 경우
 * 50세 이상에서 새 두통과 함께 갑자기 시력이 떨어지거나 잠시 한쪽 눈이 보이지 않는 경우
 * 외상 후 심한 두통이나 목 통증이 생긴 경우
-* <mark style="background-color:yellow;">목을 다치거나 목 교정·도수치료를 받은 뒤 한쪽 두통이나 목 통증이 새로 생긴 경우</mark>
+* <mark style="background-color:red;">목을 다치거나 목 교정·도수치료를 받은 뒤 한쪽 두통이나 목 통증이 새로 생긴 경우</mark>
 
 ***
