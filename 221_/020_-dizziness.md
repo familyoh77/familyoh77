@@ -13,7 +13,7 @@
 
 * 증상 : 회전감(“방이 돈다”), 실제 움직임이 없는데 움직이는 듯한 느낌
 * 원인
-  * 말초성 : 대부분 차지; BPPV, AUVP(과거 전정신경염), 미로염, Ménière Dz
+  * 말초성 : vertigo 원인의 대부분을 차지; BPPV, AUVP(과거 전정신경염), 미로염, Ménière Dz
   * 중추성 : 소뇌종양, 뇌졸중/TIA, 편두통
 
 #### <mark style="color:$primary;">Disequilibrium</mark>
@@ -24,7 +24,8 @@
 #### <mark style="color:$primary;">Pre-syncope</mark>
 
 * 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각
-  * 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때 발생하면 부정맥 등 심장성 원인의 가능성이 증가)
+  * 보통 서 있거나 똑바로 앉아 있을 때 발생&#x20;
+    * 누워 있을 때 발생하면 부정맥 등 심장성 원인의 가능성이 증가
   * 지속 시간 : 수 초\~수 분
 * 원인 : 반사성(혈관미주신경성) 실신, 기립성 저혈압 및 유발 약물, 탈수·출혈, 부정맥, 대동맥판협착 등 구조적 심질환, 심근경색·관상동맥병
 
@@ -39,17 +40,18 @@
 
 ### <mark style="color:orange;">Timing-Triggers에 따른 분류</mark>
 
-* <mark style="background-color:red;">증상의 성격만으로는 원인을 감별하기 어려움</mark>
-  * <mark style="background-color:red;">어지럼의 여러 형태가 혼재하고, 환자는 회전감·붕 뜸·기절할 것 같음을 정확히 구분해 말하지 못하는 경우가 많음</mark>
-  * <mark style="background-color:red;">같은 환자도 질문 방식에 따라 다르게 답하므로 질적 증상 표현의 신뢰도가 낮음</mark>
-* "언제 시작됐고, 얼마나 지속되며, 무엇이 유발했는가"는 환자가 비교적 정확하게 기억하고 재현성도 높으므로 증상이 아니라 시간 패턴을 1차 분류축으로 하는 TiTrATE(Timing, Triggers, Targeted Examination)를 도입
-* "vertigo인가 disequilibrium인가"를 아는 것보다 "급성으로 시작해 지속되는가, 일과성 발작인가, 자세로 유발되는가"를 아는 것이 다음 검사와 치료를 결정하는 데 유용. 지속성 어지럼이 머리 움직임으로 심해지는 경우와, 증상이 없던 상태에서 움직임이 새 발작을 유발하는 경우를 구분함
+* 증상·징후 중심 분류만으로 원인을 감별하기 어려운 이유
+  * 어지럼의 여러 형태가 혼재하고, 환자는 회전감·붕 뜸·기절할 것 같음을 정확히 구분해 말하지 못하는 경우가 많음
+  * 같은 환자도 질문 방식에 따라 다르게 답하므로 질적 증상 표현의 신뢰도가 낮음
+* “언제 시작됐고, 얼마나 지속되며, 무엇이 유발했는가”에 대한 정보는 비교적 일관되게 얻을 수 있으므로, 시간 경과와 유발 요인을 1차 분류축으로 하는 TiTrATE(Timing, Triggers, Targeted Examination)를 활용
+  * “급성으로 시작해 지속되는가, 일과성 발작인가, 자세로 유발되는가”를 파악하면 다음 검사와 치료를 결정하는 데 유용
+  * 지속성 어지럼이 머리 움직임으로 심해지는 경우와, 증상이 없던 상태에서 움직임이 새 발작을 유발하는 경우를 구분함
 
 <table><thead><tr><th width="86">분류</th><th>특징</th><th>감별 요점; 의심 질환</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>자세·동작 의존적 기전을 우선 고려; <strong>BPPV, 기립성 저혈압</strong>. 해당 반고리관의 특징과 맞지 않는 체위안진에서는 중추성 원인 감별</td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 진단을 확인하고 정복술 등 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong></td><td>뚜렷한 유발 요인 없이 발생하는 일과성 발작(첫 단일 발작 포함). 진찰 시점에는 발작이 이미 소실된 경우가 흔함</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작의 지속시간·동반 증상과 표적 진찰을 바탕으로 평가. 의심 원인에 따라 발작일지, 심전도·홀터 검사, 청력검사, 혈당 검사 활용</td></tr><tr><td><strong>AVS</strong></td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>진찰 시 안진·HIT를 볼 수 있음; <strong>AUVP, 미로염, 후순환 뇌졸중</strong>, 약물·독소</td><td>중추성 위험 징후를 먼저 확인함. 안정 시 안진이 관찰되고 숙련된 검사자가 있는 경우 HINTS Plus 적용</td></tr></tbody></table>
 
-> _**t-EVS** = Triggered Episodic Vestibular Syndrome (유발성 삽화성 전정 증후군)_\
-> _**s-EVS** = Spontaneous Episodic Vestibular Syndrome (자발성 삽화성 전정 증후군)_\
-> _**AVS** = Acute Vestibular Syndrome (급성 전정 증후군)_
+> _t-EVS = Triggered Episodic Vestibular Syndrome (유발성 삽화성 전정 증후군)_\
+> _&#x73;-EVS = Spontaneous Episodic Vestibular Syndrome (자발성 삽화성 전정 증후군)_\
+> _&#x41;VS = Acute Vestibular Syndrome (급성 전정 증후군)_
 
 ## <mark style="color:green;">원인</mark>
 
@@ -170,7 +172,7 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 
 * 편두통과 관련하여 발생하는 어지럼증
   * 발작 중 두통이 없을 수 있으므로 두통 동반 여부만으로 배제하지 않음
-* 진단기준 (Bárány Society/IHS 2022)
+* 진단기준 <mark style="color:$info;">\[Bárány Society/IHS 2022]</mark>
   * 중등도\~중증 전정 증상이 5분\~72시간 지속되는 발작이 5회 이상
   * 현재 또는 과거의 전조성/무전조성 편두통 병력
   * 전정 발작의 50% 이상에서 다음 중 하나 이상 동반
@@ -356,21 +358,21 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 
 ### <mark style="color:orange;">감별</mark>
 
-**<mark style="background-color:red;">국소 신경학적 이상 또는 중추성 위험 소견을 동반한 급성 어지럼</mark>**
+<mark style="background-color:red;">**국소 신경학적 이상 또는 중추성 위험 소견을 동반한 급성 어지럼**</mark>
 
 * 예: 수직·순수 회선성·주시 방향변환성 안진, 새 국소 신경학적 이상, 심한 체간 불안정, AVS에 동반된 새 일측성 청력 저하
 * 당뇨가 있으면 저혈당 확인
 * 중추성 위험 소견이 있으면 BPPV·기립성 저혈압 소견의 동반 여부와 관계없이 <mark style="background-color:red;">뇌졸중 감별을 위해 즉시 의뢰함</mark>
   * <mark style="background-color:red;">저혈당이 확인되면 교정 후 재평가하고, 증상이 지속되면 같은 원칙을 따름</mark>
 
-**<mark style="background-color:red;">급성 전정 증상</mark>**
+<mark style="background-color:red;">**급성 전정 증상**</mark>
 
 * 예: 어지럼, 구역/구토, 보행 불안정
 * 먼저 중추성 위험 징후를 확인하고, 해당 소견이 있으면 즉시 의뢰함
-* 급성 지속성 증상은 위 [HINTS Plus](#hints-plus-exam) 항목의 순서를 따르며, HINTS Plus는 안정 시 안진이 있는 AVS에서 훈련된 검사자가 시행할 때만 적용함
+* 급성 지속성 증상은 위 [HINTS Plus](020_-dizziness.md#hints-plus-exam) 항목의 순서를 따르며, HINTS Plus는 안정 시 안진이 있는 AVS에서 훈련된 검사자가 시행할 때만 적용함
 * HINTS Plus를 적절히 수행·판독할 수 없고 BPPV 또는 기립성 저혈압으로 명확히 설명되지 않으면 즉시 의뢰
 
-**<mark style="background-color:red;">기능성 신경학적 장애 환자의 재발성 어지럼</mark>**
+<mark style="background-color:red;">**기능성 신경학적 장애 환자의 재발성 어지럼**</mark>
 
 * 이미 functional neurological disorder로 진단받은 경우 반복되는 어지럼증은 장애 증상일 수 있음
 * 새로운 증상이 발생하면 재평가 필요
@@ -482,11 +484,11 @@ flowchart TD
 
 #### <mark style="color:$primary;">Antihistamine</mark>
 
-* meclizine <mark style="color:blue;">[파비스염산메클리진](https://www.health.kr/drug/A11A2240B0022)</mark>
+* meclizine [<mark style="color:blue;">파비스염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)
   * 멀미에 의한 구역·구토·어지러움 : 25\~50 ㎎을 승차 1시간 전에 1회 투여하고, 여행 중 필요시 24시간마다 반복
   * 미로염·메니에르증후군·방사선·숙취에 의한 구역·구토·어지러움 : 1회 25 ㎎, 1일 2\~3회; 최대 75 ㎎/d
   * BPPV·AUVP 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
-* dimenhydrinate <mark style="color:blue;">[보나링에이](https://www.health.kr/drug/A11A0950A0043)</mark>
+* dimenhydrinate [<mark style="color:blue;">보나링에이</mark>](https://www.health.kr/drug/A11A0950A0043)
   * 임상적 단기 대증치료 시 25\~50 ㎎ bid\~qid
   * 품목 용법은 1회 50 ㎎, 1일 3\~4회이며 원칙적으로 1일 200 ㎎을 초과하지 않음
   * 협우각형 녹내장, 전립선비대 등 배뇨장애, 뇌전증 환자 및 MAO 억제제 투여 중인 환자에는 투여 금기
@@ -494,13 +496,13 @@ flowchart TD
 #### <mark style="color:$primary;">항콜린제</mark>
 
 * scopolamine 경피제 : 멀미에 적용
-  * 출발 최소 4시간 전에 귀 뒤에 1매 부착(72시간 동안 효과) <mark style="color:blue;">[키미테패취](https://www.health.kr/drug/A11A3180A0092)</mark>
+  * 출발 최소 4시간 전에 귀 뒤에 1매 부착(72시간 동안 효과) [<mark style="color:blue;">키미테패취</mark>](https://www.health.kr/drug/A11A3180A0092)
   * 성인용 제품은 만 16세 이상에서 사용. 과거 8\~15세용 어린이키미테패취는 2020년 7월 허가 유효기간 만료. 만 16세 미만에게 성인용 패취를 분할하거나 대신 사용하지 않음
 
 ### <mark style="color:orange;">항구토제</mark>
 
 * metoclopramide
-  * 염산메토클로프라미드 기준 1일 10\~30 ㎎을 2\~3회 분할, 식전 투여; 1일 최대 30 ㎎ 또는 0.5 ㎎/㎏ 중 작은 용량, 투여 간격 ≥6시간, 최대 5일 <mark style="color:blue;">[맥페란](https://www.health.kr/drug/A11A0570A0089)</mark>
+  * 염산메토클로프라미드 기준 1일 10\~30 ㎎을 2\~3회 분할, 식전 투여; 1일 최대 30 ㎎ 또는 0.5 ㎎/㎏ 중 작은 용량, 투여 간격 ≥6시간, 최대 5일 [<mark style="color:blue;">맥페란</mark>](https://www.health.kr/drug/A11A0570A0089)
   * 본문 용량은 염산염 기준이며, 맥페란정의 표시 함량은 1정당 메토클로프라미드 3.84 ㎎임
   * 신장애 : <mark style="background-color:red;">CrCl 15\~60 ㎖/min은 1일 용량 50% 감량, ≤15 ㎖/min은 75% 감량</mark>
   * <mark style="background-color:red;">중증 간장애 : 50% 감량</mark>
@@ -511,7 +513,7 @@ flowchart TD
 ### <mark style="color:orange;">이뇨제</mark>
 
 * hydrochlorothiazide : 메니에르병에서 선택적으로 고려(국내 허가 외 사용)
-  * 12.5\~25 ㎎ qd\~bid <mark style="color:blue;">[다이크로짇](https://www.health.kr/drug/A11A0450A0076)</mark>
+  * 12.5\~25 ㎎ qd\~bid [<mark style="color:blue;">다이크로짇</mark>](https://www.health.kr/drug/A11A0450A0076)
   * 예방 효과의 근거는 제한적이며 혈압·신기능·Na/K를 모니터링
 
 ### <mark style="color:orange;">혈관 위험인자 관리 및 근거 불충분 약제</mark>
@@ -519,8 +521,8 @@ flowchart TD
 * TIA·뇌졸중 등 혈관성 진단 또는 별도 적응증이 확인되면 해당 지침에 따라 혈압·지질을 관리하고 항혈전제를 사용
 * 어지럼증만을 이유로 항혈전제를 경험적으로 시작하지 않음
 * ginkgo biloba extract : 유효성에 대한 근거 부족; 일상적 처방 권장되지 않음
-  * <mark style="color:blue;">[기넥신에프 40 ㎎](https://www.health.kr/drug/A11ABBBBB1014)</mark> tid 또는 <mark style="color:blue;">[80 ㎎](https://www.health.kr/drug/A11A1890B0008)</mark> bid ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4&mtgHmeDd=20250301&sno=1&mtgMtrRegSno=0008))
-* kallidinogenase <mark style="color:blue;">[카레스](https://www.health.kr/drug/2013071600001)</mark> : 유효성에 대한 근거 부족
+  * [<mark style="color:blue;">기넥신에프 40 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB1014) tid 또는 [<mark style="color:blue;">80 ㎎</mark>](https://www.health.kr/drug/A11A1890B0008) bid ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4\&mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
+* kallidinogenase [<mark style="color:blue;">카레스</mark>](https://www.health.kr/drug/2013071600001) : 유효성에 대한 근거 부족
 
 {% hint style="danger" %}
 **Trimetazidine은 어지럼증에 사용하지 않음.** 국내에서 혈관성 어지럼·메니에르병성 어지럼·이명 적응증이 삭제되었으며 안정형 협심증의 2차 추가요법으로 제한됨. 파킨슨병·파킨슨증상·진전·하지불안증후군 등 운동장애와 중증 신장애에서는 금기이며, 복용 중 운동장애가 새로 나타나면 중단하고 재평가함.
@@ -530,7 +532,7 @@ flowchart TD
 
 * 적응증 : 메니에르병에 의한 어지럼, 이명, 청력 소실
 * 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
-* 용량 : 초기 16 ㎎ tid 식사와 함께 복용, 유지 24\~48 ㎎/d <mark style="color:blue;">[메네스에스](https://www.health.kr/drug/2016021600015)</mark>
+* 용량 : 초기 16 ㎎ tid 식사와 함께 복용, 유지 24\~48 ㎎/d [<mark style="color:blue;">메네스에스</mark>](https://www.health.kr/drug/2016021600015)
   * 부신종양·갈색세포종 환자에게 금기. 소화성 궤양(병력 포함)·천식 환자 또는 항히스타민제 병용 시 신중 투여
   * 일정 기간 시험적으로 투여하고 임상적 이득이 없으면 지속하지 않음
 * 고용량 144 ㎎/d까지 연구되었으나 BEMED 위약대조시험에서 48 ㎎/d와 144 ㎎/d 모두 발작 빈도·중증도·삶의 질을 유의하게 개선하지 못했으므로 일상적 고용량 증량은 권장하지 않음
@@ -708,7 +710,7 @@ flowchart TD
 > [대안] 맥페란정 3.84 ㎎/T  1T  tid prn  식전  (투여 간격 ≥6시간; 최대 5일)
 > ```
 >
-> 약제 정보: <mark style="color:blue;">[보나링에이정 50 ㎎](https://www.health.kr/drug/A11A0950A0043)</mark> · <mark style="color:blue;">[맥페란정 3.84 ㎎](https://www.health.kr/drug/A11A0570A0089)</mark>
+> 약제 정보: [<mark style="color:blue;">보나링에이정 50 ㎎</mark>](https://www.health.kr/drug/A11A0950A0043) · [<mark style="color:blue;">맥페란정 3.84 ㎎</mark>](https://www.health.kr/drug/A11A0570A0089)
 >
 > ✽ 항구토제는 한 가지부터 선택하며 불필요한 진정성 약물 병용을 피함. 맥페란은 파킨슨병·뇌전증 환자 및 levodopa·도파민효능제 병용 환자에게 금기.
 >
@@ -727,7 +729,7 @@ flowchart TD
 > 보나링에이정 50 ㎎/T  0.5~1T  bid prn  (최대 2~3일; 협우각형 녹내장·배뇨장애·뇌전증·MAO 억제제 병용 금기, 낙상 주의)
 > ```
 >
-> 약제 정보: <mark style="color:blue;">[보나링에이정 50 ㎎](https://www.health.kr/drug/A11A0950A0043)</mark>
+> 약제 정보: [<mark style="color:blue;">보나링에이정 50 ㎎</mark>](https://www.health.kr/drug/A11A0950A0043)
 >
 > ✽ 조기 활동과 전정재활이 핵심. 스테로이드는 진단이 확실하고 금기가 없는 환자에서 발현 3일 이내 shared decision으로 고려할 수 있으나 최적 용량·기간과 임상적 이득이 확립되지 않아 일률적 처방례로 제시하지 않음.
 
@@ -741,7 +743,7 @@ flowchart TD
 > 다이크로짇정 25 ㎎/T  1T  qd  (허가 외 사용; 아침 복용)
 > ```
 >
-> 약제 정보: <mark style="color:blue;">[메네스에스정 16 ㎎](https://www.health.kr/drug/2016021600015)</mark> · <mark style="color:blue;">[다이크로짇정 25 ㎎](https://www.health.kr/drug/A11A0450A0076)</mark>
+> 약제 정보: [<mark style="color:blue;">메네스에스정 16 ㎎</mark>](https://www.health.kr/drug/2016021600015) · [<mark style="color:blue;">다이크로짇정 25 ㎎</mark>](https://www.health.kr/drug/A11A0450A0076)
 >
 > ✽ Betahistine과 이뇨제 모두 근거가 제한적이므로 일률적으로 병용하지 않고 청력검사와 발작일지를 바탕으로 한 가지 치료의 효과·부작용을 먼저 재평가함. Hydrochlorothiazide 사용 시 혈압·신기능·Na/K를 확인하며, 병용은 단독요법 반응과 위험을 평가한 후 선택적으로 고려함.
 
@@ -755,7 +757,7 @@ flowchart TD
 > 이팩사엑스알서방캡슐 37.5 ㎎/C  1C  qd  조식 후  (내약 시 1~2주 후 75 ㎎ qd로 증량)
 > ```
 >
-> 약제 정보: <mark style="color:blue;">[렉사프로정 5 ㎎](https://www.health.kr/drug/A11AOOOOO5475)</mark> · <mark style="color:blue;">[렉사프로정 10 ㎎](https://www.health.kr/drug/A11AOOOOO5474)</mark> · <mark style="color:blue;">[이팩사엑스알서방캡슐 37.5 ㎎](https://www.health.kr/drug/A11ADDDDD0700)</mark> · <mark style="color:blue;">[이팩사엑스알서방캡슐 75 ㎎](https://www.health.kr/drug/A11ABBBBB1493)</mark>
+> 약제 정보: [<mark style="color:blue;">렉사프로정 5 ㎎</mark>](https://www.health.kr/drug/A11AOOOOO5475) · [<mark style="color:blue;">렉사프로정 10 ㎎</mark>](https://www.health.kr/drug/A11AOOOOO5474) · [<mark style="color:blue;">이팩사엑스알서방캡슐 37.5 ㎎</mark>](https://www.health.kr/drug/A11ADDDDD0700) · [<mark style="color:blue;">이팩사엑스알서방캡슐 75 ㎎</mark>](https://www.health.kr/drug/A11ABBBBB1493)
 >
 > ✽ SSRI/SNRI의 PPPD 사용은 국내 허가 외이며 효과를 입증한 위약대조 RCT는 없음. 전정재활·CBT와 함께 개별적으로 시도하고 반응·부작용 및 유지기간을 재평가함. Escitalopram은 초기 불안 악화·성기능 이상·저나트륨혈증·QT 연장, venlafaxine은 혈압 상승·오심·중단증후군에 주의하며 고령자는 더 낮은 용량에서 시작하는 것을 고려함.
 
@@ -855,7 +857,7 @@ flowchart TD
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [식품의약품안전처. 어린이키미테패취 품목정보.](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802486) - 허가 유효기간 만료 확인
-* [건강보험심사평가원. Ginkgo biloba extract 경구제 급여기준. 고시 제2025-34호 (2025-03-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4&mtgHmeDd=20250301&sno=1&mtgMtrRegSno=0008) - 허가 적응증과 급여 인정 범위의 구분 (확인일 2026-10-11)
+* [건강보험심사평가원. Ginkgo biloba extract 경구제 급여기준. 고시 제2025-34호 (2025-03-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4\&mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008) - 허가 적응증과 급여 인정 범위의 구분 (확인일 2026-10-11)
 
 ***
 
