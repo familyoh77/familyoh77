@@ -49,7 +49,7 @@
   * “급성으로 시작해 지속되는가, 일과성 발작인가, 자세로 유발되는가”를 파악하면 다음 검사와 치료를 결정하는 데 유용
   * 지속성 어지럼이 머리 움직임으로 심해지는 경우와, 증상이 없던 상태에서 움직임이 새 발작을 유발하는 경우를 구분함
 
-<table><thead><tr><th width="86">분류</th><th>특징</th><th>감별 요점; 의심 질환</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>자세·동작 의존적 기전을 우선 고려; <strong>BPPV, 기립성 저혈압</strong>. 해당 반고리관의 특징과 맞지 않는 체위안진에서는 중추성 원인 감별</td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 진단을 확인하고 정복술 등 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong></td><td>뚜렷한 유발 요인 없이 발생하는 일과성 발작(첫 단일 발작 포함). 진찰 시점에는 발작이 이미 소실된 경우가 흔함</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작의 지속시간·동반 증상과 표적 진찰을 바탕으로 평가. 의심 원인에 따라 발작일지, 심전도·홀터 검사, 청력검사, 혈당 검사 활용</td></tr><tr><td><strong>AVS</strong></td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>진찰 시 안진·HIT를 볼 수 있음; <strong>AUVP, 미로염, 후순환 뇌졸중</strong>, 약물·독소</td><td>중추성 위험 징후를 먼저 확인함. 안정 시 안진이 관찰되고 숙련된 검사자가 있는 경우 HINTS Plus 적용</td></tr></tbody></table>
+<table><thead><tr><th width="90">분류</th><th width="380">시간 경과·유발 특징</th><th>대표 원인</th></tr></thead><tbody><tr><td><strong>t-EVS</strong></td><td>특정 동작·자세 변화가 증상이 없던 상태에서 짧은 발작을 유발</td><td>BPPV, 기립성 저혈압</td></tr><tr><td><strong>s-EVS</strong></td><td>뚜렷한 유발 요인 없이 발생하는 일과성 발작(첫 발작 포함). 진찰 시점에는 이미 소실된 경우가 흔함</td><td>TIA, 부정맥, 전정편두통, 메니에르병, 저혈당, 공황발작</td></tr><tr><td><strong>AVS</strong></td><td>급성으로 발생하여 지속되는 어지럼(보통 24시간 이상). 진찰 시점에도 증상 존재</td><td>AUVP, 미로염, 후순환 뇌졸중, 약물·독소</td></tr></tbody></table>
 
 > _t-EVS = Triggered Episodic Vestibular Syndrome (유발성 삽화성 전정 증후군)_\
 > _&#x73;-EVS = Spontaneous Episodic Vestibular Syndrome (자발성 삽화성 전정 증후군)_\
@@ -57,10 +57,10 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 이 장의 ‘말초성’은 내이 전정기관·전정신경의 장애를 뜻하며, ‘중추성’은 중추 신경계와 관련된 원인을 뜻함
+* ‘말초성’은 내이 전정기관·전정신경의 장애를 뜻하며, ‘중추성’은 중추 신경계와 관련된 원인을 뜻함
 * ‘기타 어지럼 원인’에는 기능성 전정질환, 감각 통합·전신 요인, 약물 관련 원인 등을 함께 수록함. 원인에 따라 말초·중추 기전이 관여할 수 있으며, 응급 여부는 분류명과 별도로 판단함
 * 말초성 전정질환 : BPPV, AUVP, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 전정신경초종, 중이염
-* 중추성 질환 : 전정편두통, 뇌간·소뇌 뇌졸중/TIA, 소뇌·뇌간 종양, 다발성경화증 등
+* 중추성 질환 : 전정편두통, 뇌간·소뇌 뇌졸중/TIA, 소뇌·뇌간 종양, 다발성경화증
   * 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
 * 기타 어지럼 원인 : PPPD, 멀미, 말초신경병증, 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트 등
   * 고령 : 불안/우울, 균형 감각 손상, 심뇌혈관질환 과거력, 청력·시력 저하, 기립성 저혈압, 다제약물 등 여러 요인이 복합적으로 작용
@@ -171,7 +171,7 @@
 
 ## <mark style="color:green;">중추성 질환</mark>
 
-### <mark style="color:orange;">편두통성 어지럼증 (Vestibular migraine)</mark>
+### <mark style="color:orange;">전정편두통 (Vestibular migraine)</mark>
 
 * 편두통과 관련하여 발생하는 어지럼증
   * 발작 중 두통이 없을 수 있으므로 두통 동반 여부만으로 배제하지 않음
@@ -194,12 +194,22 @@
 
 ### <mark style="color:orange;">기타</mark>
 
-* 소뇌·뇌간 종양, meningioma 등 : 뇌간·소뇌 압박이나 침범으로 중추성 어지럼·불균형을 유발할 수 있음
 * Cerebrovascular disease : TIA, 뇌졸중
+* 소뇌·뇌간 종양, meningioma 등 : 뇌간·소뇌 압박이나 침범으로 중추성 어지럼·불균형을 유발할 수 있음
 * Multiple sclerosis : white matter의 demyelination
 * 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia
 
 ## <mark style="color:green;">기타 어지럼 원인</mark>
+
+### <mark style="color:orange;">멀미 (Motion sickness)</mark>
+
+* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ [멀미](024_-motion-sickness.md))
+* 원인 : 불명
+  * 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
+* 회전·직선·상하·수평 움직임 및 시각적 움직임 모두에서 발생할 수 있으며, 특히 저주파수 움직임에서 흔함
+  * 발생 정도는 움직임의 방향·주파수·가속도·노출 시간과 개인 감수성에 따라 달라짐
+* 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
+* 신경학적 이상, 청력 이상 : 없음
 
 ### <mark style="color:orange;">지속성 체위지각 어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
@@ -218,45 +228,56 @@
   * 임상적으로 유의한 고통 또는 기능장애
   * 다른 질환으로 더 잘 설명되지 않음
 
-### <mark style="color:orange;">멀미 (Motion sickness)</mark>
-
-* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ [멀미](024_-motion-sickness.md))
-* 원인 : 불명
-* 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
-* 회전·직선·상하·수평 움직임 및 시각적 움직임 모두에서 발생할 수 있으며, 특히 저주파수 움직임에서 흔함; 발생 정도는 움직임의 방향·주파수·가속도·노출 시간과 개인 감수성에 따라 달라짐
-* 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
-* 신경학적 이상, 청력 이상 : 없음
-
 ### <mark style="color:orange;">기타</mark>
 
 <mark style="color:cyan;">**Cervical dizziness**</mark>
 
-* 경부 병변과 현훈 사이의 인과관계 및 보편적 진단기준은 확립되지 않았으므로 배제진단으로만 고려
-* 목 움직임으로 유발되면 BPPV·전정편두통 등 흔한 원인을 먼저 평가
-  * 드문 회전성 척추동맥증후군은 신경학적 증상·혈관 위험에 따라 전문 평가
+* 원인·관련 요인 : 경부 고유감각 이상 등이 가설로 제시되었으나, 경부 병변과 어지럼 사이의 인과관계는 확립되지 않음
+* 어지럼 양상 : 목 움직임과 연관된 일과성 불안정감·비특이적 어지럼이 보고됨
+* 동반 소견 : 경부 통증·뻣뻣함
+  * 새로 발생한 경부·후두부 통증과 어지럼이 함께 있으면 척추동맥박리를 먼저 감별 (☞ Red Flags)
+* 평가·감별 : 보편적 진단기준이 없으므로 배제진단으로만 고려하며, 경부 소견만으로 원인을 단정하지 않음
+  * BPPV·전정편두통 등 흔한 원인을 먼저 평가
+  * 목을 특정 방향으로 돌릴 때마다 현훈·안진·시야 이상 등이 재현되면 드문 회전성 척추동맥증후군 등 혈관성 원인도 감별
 
 <mark style="color:cyan;">**말초신경병증**</mark>
 
-* disequilibrium; 하지(특히 발) 감각 저하
+* 원인·관련 요인 : 당뇨병, 만성적인 과음, 비타민 B12 결핍, 만성콩팥병, 약물(항암제 등), 유전성 질환 등. 원인을 확인하지 못하는 경우도 있음
+* 어지럼 양상 : 서거나 걸을 때 불안정한 disequilibrium 양상
+  * 위치감각 저하가 있으면 어두운 곳이나 눈을 감은 상태에서 불안정성이 심해질 수 있음
+* 동반 소견 : 하지(특히 발) 감각 저하·저림, 진동감각·위치감각 저하
+* 평가·감별 : Romberg 검사·진동감각·위치감각 검사로 확인하고, 혈당(HbA1c)·비타민 B12 등 원인 검사를 고려
 
 <mark style="color:cyan;">**약물 유발성**</mark>
 
-* 원인 약물 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
+* 원인 약물 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린·설포닐우레아(저혈당), 알코올
+* 기전 : 약물에 따라 진정·운동실조, 기립성 저혈압, 이독성, 저혈당 등을 통해 어지럼을 유발
+* 어지럼 양상 : 약물에 따라 멍함·불안정감, 기립 시 실신감 또는 현훈 등 다양
+* 평가·감별 : 약물의 시작·증량·병용과 증상 발생의 시간적 관련성을 확인하고, 기립성 저혈압·진정 작용·이독성·저혈당 등 가능한 기전을 평가
+  * 고령·다제약물 복용자에서 특히 흔함
 
-<mark style="color:cyan;">**Psychological**</mark>
+<mark style="color:cyan;">**심리·정신적 요인 (Psychological)**</mark>
 
-* 기분, 불안, 신체화 증상
+* 관련 질환·요인 : 불안장애, 공황장애, 우울장애 등. 스트레스가 증상을 유발하거나 악화시킬 수 있으나, 뚜렷한 스트레스 없이 발생하기도 함
+* 어지럼 양상 : 비특이적 어지럼·불안정감이 발작적으로 반복되거나 지속될 수 있음
+* 동반 소견 : 불안·우울·공황·신체화 증상
+* 평가·감별 : 불안·우울이 동반된다는 이유만으로 어지럼의 원인을 단정하지 않으며, 전정질환·PPPD의 공존 여부를 평가
 
-[<mark style="color:cyan;">**기립성 저혈압**</mark>](../225_/096_-orthostatic-hypotension.md)
+<mark style="color:cyan;">**기립성 저혈압**</mark>
 
-* presyncope
-* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg 감소. 맥박 반응은 원인에 따라 다르며 신경성 기립저혈압에서는 증가가 미미할 수 있음
+* 원인·관련 요인 : 탈수·출혈 등에 의한 순환혈액량 감소, 약물(이뇨제·혈관확장제·일부 향정신성 약물 등), 자율신경기능장애(당뇨병성 자율신경병증·파킨슨병 등)
+* 어지럼 양상 : 기립하거나 서 있는 동안 발생하는 실신감(presyncope)·불안정감. 앉거나 누우면 완화
+* 동반 소견 : 시야 흐림, 전신 무력감 등이 동반될 수 있음
+* 진단 : 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg의 지속적인 감소
+  * 혈압 저하와 증상의 관련성을 함께 평가
+  * 맥박 반응은 원인에 따라 다르며 신경성 기립성 저혈압에서는 증가가 미미할 수 있음
 
 <mark style="color:cyan;">**과호흡**</mark>
 
-* lightheadedness, 불안, 맥박 증가
-* 원인 질환과 위험 징후를 먼저 평가하고 천천히 규칙적으로 호흡하도록 안내
-* 종이봉투 재호흡은 저산소증 위험 때문에 시행하지 않음
+* 원인·관련 요인 : 불안·공황, 통증, 발열 등. 저산소증이나 대사산증에 대한 반응으로도 발생할 수 있으므로 심리적 원인으로 단정하지 않음
+* 어지럼 양상 : 과호흡과 함께 발생하는 lightheadedness·실신감
+* 동반 소견 : 빠르거나 깊은 호흡, 호흡곤란, 불안·두근거림, 입 주위·손발 저림, 심하면 손발 강직(수족연축)
+* 평가·감별 : 과호흡을 불안 때문으로 단정하지 않고 심폐질환·대사 이상 등 원인 질환과 위험 징후를 먼저 평가
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -290,6 +311,9 @@
 * 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진
   * electronystagmography, vestibular-evoked myogenic potentials
 * 수기 검사 : Dix-Hallpike test, Supine roll test, Head impulse test, Test of skew
+* 실험실검사 : 일률적인 실험실검사는 필요 없음
+  * 당뇨 환자에서 혈당 등 검사 고려
+* 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려
 * 영상검사 : 일차진료에서 뇌졸중·TIA 등 급성 중추성 원인이 의심되면 영상 확보를 기다리지 않고 뇌졸중 진료가 가능한 기관으로 즉시 이송함. 영상검사는 수용기관의 급성 뇌졸중 경로에 따름
   * 비조영 뇌 CT는 응급 경로에서 출혈 배제에 쓰이나 후순환 허혈을 배제하기에는 민감도가 낮음
   * 중추성 또는 판정이 불명확한 HINTS Plus, 그 밖의 후순환 허혈 의심 소견은 수용기관에서 MRI(DWI) 및 필요시 혈관영상으로 평가
@@ -297,9 +321,6 @@
   * 전형적 BPPV 등 명확한 말초성 어지럼에서는 routine 촬영 불필요
   * 후순환 TIA·동맥박리 또는 대혈관 병변이 의심되면 두개내·경부 후순환을 포함한 CTA/MRA 고려
   * carotid Doppler는 후순환성 어지럼의 일반 선별검사가 아님
-* 실험실검사 : 일률적인 실험실검사는 필요 없음
-  * 당뇨 환자에서 혈당 등 검사 고려
-* 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려
 
 #### <mark style="color:$primary;">Dix-Hallpike test</mark>
 
@@ -336,11 +357,11 @@
 
 #### <mark style="color:$primary;">기타</mark>
 
-* Test of skew : 양쪽 눈을 번갈아 cover & uncover 하며 안구의 수직 움직임을 관찰
+* [Test of skew](https://www.youtube.com/watch?v=CdnQNUarZr8\&t=1s) : 양쪽 눈을 번갈아 cover & uncover 하며 안구의 수직 움직임을 관찰
   * 양성 (수직 재정렬 움직임 발생) : 뇌간·소뇌 등 중추성 병변 의심
 * 누공 검사 : 통기 이경으로 고막에 음압/양압을 가해 안진과 현훈 유발
   * 양성 (증상 발생) : 외림프누공 의심
-* Vestibular function testing : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
+* [Vestibular function testing](https://my.clevelandclinic.org/health/diagnostics/21518-vestibular-test-battery) : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
 * vHIT(video Head Impulse Test) : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUVP·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
 
 #### <mark style="color:$primary;">HINTS Plus Exam</mark>
@@ -626,7 +647,7 @@ flowchart TD
 
 ### <mark style="color:orange;">기타</mark>
 
-* 전정편두통 : 아래 「질환별 치료 → 편두통성 어지럼증」 참조
+* 전정편두통 : 아래 「질환별 치료 → 전정편두통」 참조
 * SSRI/SNRI : PPPD에서 임상적으로 사용되지만 위약대조 RCT 근거는 없으며 국내 허가 외 사용. 동반 불안·우울, 증상 부담과 환자 선호를 고려하여 개별적으로 시도 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
 * steroid : 진단이 확실하고 금기가 없는 AUVP 환자에서 증상 발현 3일 이내 단기 투여를 shared decision으로 고려할 수 있으나, 증상 및 장기 전정기능 개선 근거는 불확실함
 
@@ -755,7 +776,7 @@ flowchart TD
   * 일정 기간 반응을 평가하고 유의한 이득이 없으면 지속하지 않음
 * 고실 내 스테로이드 주입술(Intratympanic steroid injection, ITSI) : 비침습적 치료에 반응하지 않는 활동성 메니에르병에서 이비인후과가 고려할 수 있는 선택지
 
-### <mark style="color:orange;">편두통성 어지럼증</mark>
+### <mark style="color:orange;">전정편두통</mark>
 
 * 두통 치료 원칙은 [편두통](016_-migraine.md#management) 참조. 급성 전정 증상에 대한 트립탄 효과의 근거는 제한적임 <mark style="color:$info;">\[JAMA Neurol 2025]</mark>
 
