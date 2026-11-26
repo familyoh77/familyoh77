@@ -5,7 +5,7 @@
 * 이 장에서 ‘어지럼’은 현훈, 불안정감, 실신감 등을 포괄하는 일반적인 표현으로 사용
 * 현훈(vertigo) : 실제 움직임이 없는데 자신이나 주변이 움직인다고 느끼거나, 실제 움직임을 왜곡하여 느끼는 증상. 회전감뿐 아니라 흔들림·기울어짐 등도 포함
 * 어지럼(dizziness, 좁은 의미) : 움직임의 착각 없이 공간적 방향감각이 흐트러지는 느낌. 진단기준에서 현훈과 구별하여 기술할 때는 이 의미로 사용 <mark style="color:$info;">\[J Vestib Res 2009]</mark>
-* 경고 증상이 있거나 중추성 원인이 의심되는 경우 이송 등 신속한 조치를 요함
+* 경고 증상의 긴급도에 따라 평가하며, 뇌졸중 등 응급 원인이 의심되면 이송 등 신속한 조치를 요함
 
 ### <mark style="color:orange;">증상/징후 중심 분류</mark>
 
@@ -16,7 +16,7 @@
 * 증상 : 회전감(“방이 돈다”), 실제 움직임이 없는데 움직이는 듯한 느낌
 * 원인
   * 말초성 : vertigo 원인의 대부분을 차지; BPPV, AUVP(과거 전정신경염), 미로염, Ménière Dz
-  * 중추성 : 소뇌종양, 뇌졸중/TIA, 편두통
+  * 중추성 : 소뇌종양, 뇌졸중/TIA, 전정편두통
 
 #### <mark style="color:$primary;">Disequilibrium</mark>
 
@@ -57,17 +57,19 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* Central : 편두통, 소뇌 종양, 뇌졸중/TIA, vestibular ischemia 등
+* 이 장의 ‘말초성’은 내이 전정기관·전정신경의 장애를 뜻하며, ‘중추성’은 중추 신경계와 관련된 원인을 뜻함
+* ‘기타 어지럼 원인’에는 기능성 전정질환, 감각 통합·전신 요인, 약물 관련 원인 등을 함께 수록함. 원인에 따라 말초·중추 기전이 관여할 수 있으며, 응급 여부는 분류명과 별도로 판단함
+* 말초성 전정질환 : BPPV, AUVP, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 전정신경초종, 중이염
+* 중추성 질환 : 전정편두통, 뇌간·소뇌 뇌졸중/TIA, 소뇌·뇌간 종양, 다발성경화증 등
   * 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
-* Peripheral : BPPV, AUVP, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
-* 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
+* 기타 어지럼 원인 : PPPD, 멀미, 말초신경병증, 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트 등
   * 고령 : 불안/우울, 균형 감각 손상, 심뇌혈관질환 과거력, 청력·시력 저하, 기립성 저혈압, 다제약물 등 여러 요인이 복합적으로 작용
 
 {% hint style="info" %}
 국내 의뢰 기반 어지럼 클리닉 연구에서 BPPV 24.1%, 정신과적 어지럼 또는 PPPD 20.8%, 혈관성 질환 12.9%, 전정편두통 10.2%, 메니에르병 7.2%, 전정신경염 5.4% 순이었으며, 19\~64세에서는 정신과적 어지럼 또는 PPPD(26.3%), ≥65세에서는 BPPV(28.2%)가 가장 흔한 원인으로 보고됨 <mark style="color:$info;">\[J Neurol 2020]</mark>
 {% endhint %}
 
-## <mark style="color:green;">말초성 질환</mark>
+## <mark style="color:green;">말초성 전정질환</mark>
 
 ### <mark style="color:orange;">양성발작성체위성어지럼증 (Benign paroxysmal positional vertigo, BPPV)</mark>
 
@@ -81,7 +83,7 @@
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
 * 위험인자 : 두부 외상, 내이 허혈, AUVP, 귀 수술, 우울, 움직이지 않는 생활
 * 발생 부위 : post. canal - 60\~90% ＞ lat.(horizontal) canal - 10\~30% ＞ ant.(sup.) canal - rare
-* 재발 : 회복 후에 재발이 흔하며, 추적 기간이 길수록 누적 재발률이 높아짐(치료 후 추적 연구에서 1년 재발률 10\~18%) <mark style="color:$info;">\[AAO-HNS 2017]</mark>
+* 재발 : 회복 후에도 재발이 흔하며, 추적 기간이 길수록 누적 재발률이 높아짐(치료 후 추적 연구에서 1년 재발률 10\~18%) <mark style="color:$info;">\[AAO-HNS 2017]</mark>
   * 재발 관련 요인 : 관찰연구에서 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성의 낮은 estradiol 등이 보고되었으나, 인과관계와 개별 환자에서의 예측력은 제한적임 <mark style="color:$info;">\[Front Neurol 2026, 2025, 2024]</mark>
 
 #### <mark style="color:$primary;">임상 양상</mark>
@@ -151,7 +153,6 @@
 
 ### <mark style="color:orange;">외림프누공 (Perilymphatic fistula)</mark>
 
-* 빈도 : 드문 질환. 진단의 불확실성으로 정확한 발생률·유병률은 확립되지 않음 <mark style="color:$info;">\[Front Neurol 2020]</mark>
 * 기전 : 난원창·정원창 등에 비정상적인 연결 또는 결손이 생겨 외림프가 내이에서 중이 쪽으로 누출되는 상태
 * 원인 : 머리·귀 외상, 압력 손상(잠수·비행·심한 힘주기·코 풀기·재채기 등), 귀 수술, 만성 중이염·진주종 등
 * 증상 : 갑자기 발생하는 난청, 현훈, 이명
@@ -164,6 +165,9 @@
   * 난청·이명·현훈이 동반될 수 있음
 * Otosclerosis : otic capsule의 비정상적 골재형성으로 등골 고정이 발생하는 질환
   * 전형적으로 전음성 난청과 이명이 주 증상이며 일부에서 어지럼 동반
+* Vestibular schwannoma(전정신경초종, acoustic neuroma) : 전정신경 기원의 종양
+  * 서서히 진행하는 일측 난청·이명·불균형이 흔하고 급성 회전성 현훈은 드묾
+  * 종양이 커져 뇌간·소뇌를 압박하면 중추성 소견이 동반될 수 있음
 
 ## <mark style="color:green;">중추성 질환</mark>
 
@@ -190,17 +194,19 @@
 
 ### <mark style="color:orange;">기타</mark>
 
-* Cerebellopontine angle tumor : vestibular schwannoma(acoustic neuroma), meningioma 등
-  * 서서히 진행하는 일측 난청·이명·불균형이 흔하고 급성 회전성 현훈은 드묾
+* 소뇌·뇌간 종양, meningioma 등 : 뇌간·소뇌 압박이나 침범으로 중추성 어지럼·불균형을 유발할 수 있음
 * Cerebrovascular disease : TIA, 뇌졸중
 * Multiple sclerosis : white matter의 demyelination
 * 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia
 
-## <mark style="color:green;">기타 질환</mark>
+## <mark style="color:green;">기타 어지럼 원인</mark>
 
 ### <mark style="color:orange;">지속성 체위지각 어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
 * 직립 자세, 움직임, 시각 자극으로 증상이 악화되는 만성 기능성 전정질환으로 ICD-11에 수록됨
+
+#### <mark style="color:$primary;">임상 양상</mark>
+
 * 진단 기준 <mark style="color:$info;">\[Bárány Society 2017]</mark> - 다음 기준을 모두 충족
   * 지속성 : 3개월 이상 대부분의 날 발생하는 어지럼, 불안정감(unsteadiness) 또는 비회전성 현훈
     * 증상은 수 시간에 걸쳐 지속되고 강도는 달라질 수 있으며, 하루 종일 지속될 필요는 없음
@@ -414,45 +420,110 @@
 
 ***
 
+* 아래 알고리듬은 급성 어지럼을 대상으로 함. 만성 어지럼은 경고 증상을 확인한 뒤 PPPD·약물·감각 저하 등 원인별로 평가함
+* 그림 1에서 초기 선별 후 증상 패턴에 따라 그림 2·3·4로 진행함. 평가 중 새 위험 소견이 발견되면 해당 그림의 응급 경로를 따름
+* 응급 이송 후에는 수용기관에서 의심 원인별 응급 평가를 시행함
+
 ```mermaid
 flowchart TD
-    A["급성 어지럼·현훈"] --> R["즉각 조치 소견?"]
+    A["그림 1. 급성 어지럼의 초기 평가"] --> R["Red Flags 즉각 조치 항목?"]
     R -- "예" --> U["즉시 응급 평가·이송"]
-    R -- "아니요" --> B["시간 경과·유발 인자"]
-    B -- "특정 자세에서 짧은 발작" --> C["유발 상황에 따라 체위검사 또는 기립혈압"]
-    C -- "후반고리관 BPPV" --> C2["Epley 정복술"]
-    C -- "BPPV 의심, Dix-Hallpike 수평안진 또는 무안진" --> C3["Supine roll test"]
-    C3 -- "수평반고리관형·환측 확인" --> C5["아형별 정복술"]
-    C3 -- "음성·불명확" --> C6["재평가·전문 의뢰"]
-    C -- "증상이 기립성 저혈압과 일치" --> C4["기립성 저혈압 치료"]
-    C -- "기립혈압으로 설명되지 않음" --> C6
-    C -- "중추성 안진 또는 새 신경학적 소견" --> U
-    B -- "자발성 일과성 발작, 첫 발작 포함" --> D["신경·청각·심혈관·혈당 평가"]
-    D -- "TIA·위험 부정맥 의심, 증상 소실 후 포함" --> U
-    D -- "말초성·기타 원인 확인" --> D2["원인별 치료·추적"]
-    D -- "응급 소견 없이 원인 불명" --> C6
-    B -- "급성 지속성" --> E["안정 시 안진·숙련 검사자 있음?"]
-    E -- "예" --> E2["HINTS Plus"]
-    E2 -- "모두 말초성·다른 위험 징후 없음" --> E3["AUVP 고려·조기 재활"]
-    E2 -- "중추성·불명확" --> U
-    E -- "아니요" --> E4["신경진찰·보행 평가"]
-    E4 -- "위험 소견 또는 원인 불명" --> U
-    E4 -- "다른 원인 명확" --> D2
-    U --> V["수용기관에서 의심 원인별 응급 평가"]
+    R -- "아니요" --> R2["Red Flags 당일 평가 항목?"]
+    R2 -- "예" --> S["당일 이비인후과·원인 평가"]
+    R2 -- "아니요" --> B["시간 경과·유발 요인"]
+    B -- "체위 변화·기립 유발 짧은 발작" --> G2["그림 2로"]
+    B -- "자발성 일과성 발작" --> G3["그림 3으로"]
+    B -- "급성 지속성" --> G4["그림 4로"]
 
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
     classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
     class A start
-    class R,B,E question
-    class U,V emergency
-    class C,C3,C6,D,E2,E4 evaluation
-    class C2,C4,C5,D2,E3 treatment
+    class R,R2,B question
+    class U emergency
+    class S,G2,G3,G4 evaluation
 ```
 
-<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Newman-Toker DE, Edlow JA. Neurol Clin 2015; Edlow JA, et al. Acad Emerg Med 2023; Sars C, et al. JAMA Neurol 2026)</mark></em></p>
+<p align="center"><strong>그림 1. 급성 어지럼의 초기 평가</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Newman-Toker DE, Edlow JA. Neurol Clin 2015; Edlow JA, et al. Acad Emerg Med 2023; Sars C, et al. JAMA Neurol 2026)</mark></em></p>
+
+* 적용 : 그림 1의 초기 선별 후, 체위 변화·기립으로 유발되는 짧은 발작
+* 최근 경부 외상·경추 불안정·경부동맥박리 의심 시 체위검사·정복술을 보류하는 등 위의 검사 안전성 원칙을 따름
+
+```mermaid
+flowchart TD
+    A["그림 2. 체위 변화·기립 유발 발작"] -- "머리 위치 변화" --> D["Dix-Hallpike test"]
+    A -- "기립" --> O["기립혈압·증상 평가"]
+    D -- "후반고리관 BPPV" --> T1["Epley 정복술"]
+    D -- "BPPV 의심, 수평안진·무안진" --> S["Supine roll test"]
+    S -- "수평반고리관형·환측 확인" --> T2["아형별 정복술"]
+    S -- "음성·불명확" --> R["재평가·전문 의뢰"]
+    D -- "그 밖의 불명확한 소견" --> R
+    D -- "중추성 안진·새 신경학적 소견" --> U["즉시 응급 평가·이송"]
+    O -- "기립성 저혈압과 일치" --> T3["기립성 저혈압 치료"]
+    O -- "설명되지 않음" --> R
+    O -- "새 위험 소견" --> U
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class D,O,S,R evaluation
+    class U emergency
+    class T1,T2,T3 treatment
+```
+
+<p align="center"><strong>그림 2. 체위 변화·기립으로 유발되는 짧은 발작의 평가</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Bhattacharyya N, et al. Otolaryngol Head Neck Surg 2017; Newman-Toker DE, Edlow JA. Neurol Clin 2015)</mark></em></p>
+
+* 적용 : 그림 1의 초기 선별 후, 뚜렷한 유발 요인 없는 일과성 발작(첫 발작 포함)
+* TIA·위험 부정맥이 의심되면 증상이 소실된 경우에도 응급 평가함
+
+```mermaid
+flowchart TD
+    A["그림 3. 자발성 일과성 발작"] --> D["신경·청각·심혈관·혈당 평가"]
+    D -- "TIA·위험 부정맥 의심" --> U["즉시 응급 평가·이송"]
+    D -- "비응급 원인 확인" --> T["원인별 치료·추적"]
+    D -- "응급 소견 없이 원인 불명" --> R["재평가·전문 의뢰"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class D,R evaluation
+    class U emergency
+    class T treatment
+```
+
+<p align="center"><strong>그림 3. 자발성 일과성 발작의 평가—첫 발작 포함</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Newman-Toker DE, Edlow JA. Neurol Clin 2015; Edlow JA, et al. Acad Emerg Med 2023)</mark></em></p>
+
+* 적용 : 그림 1의 초기 선별 후, 급성 지속성 어지럼. 24시간 경과를 기다리지 않고 평가함
+* HINTS Plus는 안정 시 안진이 관찰되는 AVS에서 훈련된 검사자가 시행할 때만 적용함
+
+```mermaid
+flowchart TD
+    A["그림 4. 급성 지속성 어지럼"] --> E["안정 시 안진·숙련 검사자 있음?"]
+    E -- "예" --> H["HINTS Plus"]
+    E -- "아니요" --> N["신경진찰·보행 평가"]
+    H -- "모두 말초성·다른 위험 징후 없음" --> T["AUVP 고려·조기 재활"]
+    H -- "중추성·판정 불명확" --> U["즉시 응급 평가·이송"]
+    N -- "위험 소견 또는 원인 불명" --> U
+    N -- "다른 원인 명확" --> T2["원인별 치료·추적"]
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+    class A start
+    class E question
+    class H,N evaluation
+    class U emergency
+    class T,T2 treatment
+```
+
+<p align="center"><strong>그림 4. 급성 지속성 어지럼의 평가</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Edlow JA, et al. Acad Emerg Med 2023; Sars C, et al. JAMA Neurol 2026)</mark></em></p>
 
 ***
 
@@ -498,7 +569,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">Antihistamine</mark>
 
-* meclizine [<mark style="color:blue;">파비스염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)
+* meclizine [<mark style="color:blue;">염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)
   * 멀미에 의한 구역·구토·어지러움 : 25\~50 ㎎을 승차 1시간 전에 1회 투여하고, 여행 중 필요시 24시간마다 반복
   * 미로염·메니에르증후군·방사선·숙취에 의한 구역·구토·어지러움 : 1회 25 ㎎, 1일 2\~3회; 최대 75 ㎎/d
   * BPPV·AUVP 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
@@ -843,6 +914,9 @@ flowchart TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* \[J Vestib Res 2009] [Bisdorff A, et al. Classification of vestibular symptoms: towards an international classification of vestibular disorders. J Vestib Res. 2009;19(1-2):1-13.](https://doi.org/10.3233/VES-2009-0343) - 현훈과 좁은 의미의 어지럼 등 전정 증상의 정의
+* [Cha YH, et al. Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society. J Vestib Res. 2021;31(5):327-344.](https://doi.org/10.3233/VES-200005) - 멀미·시각유발멀미의 정의와 진단 기준
+* [NIDCD. Vestibular Schwannoma (Acoustic Neuroma) and Neurofibromatosis.](https://www.nidcd.nih.gov/health/vestibular-schwannoma-acoustic-neuroma-and-neurofibromatosis) - 전정신경초종의 기원과 뇌간·소뇌 압박
 * [NICE. Hearing loss in adults: assessment and management (NG98).](https://www.nice.org.uk/guidance/ng98/chapter/recommendations) - 돌발성 청력 저하의 의뢰 시점
 * [Newman-Toker DE, Edlow JA. TiTrATE: A Novel, Evidence-Based Approach to Diagnosing Acute Dizziness and Vertigo. Neurol Clin. 2015;33(3):577-599.](https://doi.org/10.1016/j.ncl.2015.04.011) - 발생 시점·지속시간·유발 인자에 따른 분류와 표적 진찰
 * [Edlow JA, et al. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department. Acad Emerg Med. 2023;30(5):442-486.](https://doi.org/10.1111/acem.14728) - 시간 경과·유발 인자에 따른 어지럼 평가, HINTS와 영상검사
