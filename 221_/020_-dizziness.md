@@ -415,41 +415,6 @@
 ***
 
 ```mermaid
-flowchart TD
-    A["급성 어지럼·현훈"] --> R["즉각 조치 소견?"]
-    R -- "예" --> U["즉시 응급 평가·이송"]
-    R -- "아니요" --> B["시간 경과·유발 인자"]
-    B -- "특정 자세에서 짧은 발작" --> C["유발 상황에 따라 체위검사 또는 기립혈압"]
-    C -- "후반고리관 BPPV" --> C2["Epley 정복술"]
-    C -- "BPPV 의심, Dix-Hallpike 수평안진 또는 무안진" --> C3["Supine roll test"]
-    C3 -- "수평반고리관형·환측 확인" --> C5["아형별 정복술"]
-    C3 -- "음성·불명확" --> C6["재평가·전문 의뢰"]
-    C -- "증상이 기립성 저혈압과 일치" --> C4["기립성 저혈압 치료"]
-    C -- "기립혈압으로 설명되지 않음" --> C6
-    C -- "중추성 안진 또는 새 신경학적 소견" --> U
-    B -- "자발성 일과성 발작, 첫 발작 포함" --> D["신경·청각·심혈관·혈당 평가"]
-    D -- "TIA·위험 부정맥 의심, 증상 소실 후 포함" --> U
-    D -- "말초성·기타 원인 확인" --> D2["원인별 치료·추적"]
-    D -- "응급 소견 없이 원인 불명" --> C6
-    B -- "급성 지속성" --> E["안정 시 안진·숙련 검사자 있음?"]
-    E -- "예" --> E2["HINTS Plus"]
-    E2 -- "모두 말초성·다른 위험 징후 없음" --> E3["AUVP 고려·조기 재활"]
-    E2 -- "중추성·불명확" --> U
-    E -- "아니요" --> E4["신경진찰·보행 평가"]
-    E4 -- "위험 소견 또는 원인 불명" --> U
-    E4 -- "다른 원인 명확" --> D2
-    U --> V["수용기관에서 의심 원인별 응급 평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    class A start
-    class R,B,E question
-    class U,V emergency
-    class C,C3,C6,D,E2,E4 evaluation
-    class C2,C4,C5,D2,E3 treatment
 ```
 
 <p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Newman-Toker DE, Edlow JA. Neurol Clin 2015; Edlow JA, et al. Acad Emerg Med 2023; Sars C, et al. JAMA Neurol 2026)</mark></em></p>
