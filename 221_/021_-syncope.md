@@ -170,6 +170,32 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["TLOC·실신·전실신"] --> S["무반응·비정상 호흡·쇼크?"]
+    S -- "예" --> U["즉시 응급조치·119 이송"]
+    S -- "아니요" --> B["병력·활력징후·진찰·<br/>12유도 ECG"]
+    B --> C["시간 민감성 응급질환?"]
+    C -- "예" --> U
+    C -- "아니요" --> D["안정적 고위험 소견?"]
+    D -- "예" --> H["당일 응급 평가·<br/>ECG 감시"]
+    D -- "아니요" ---> E["초기 평가 결과"]
+    E -- "전형적 반사성" --> R["교육·<br/>유발요인 회피·<br/>맞압력 조작"]
+    E -- "증상 관련 기립저혈압" --> O["원인·약물 조정·<br/>비약물 치료"]
+    E -- "기립불내성·빈맥" --> P["10분 기립검사 <br/>등으로 <br/>POTS 감별"]
+    E -- "비실신성 의식장애" --> N["발작·대사·중독·<br/>외상 등 평가"]
+    E -- "원인 불명" --> F["위험도에 따라 <br/>관찰·외래 검사"]
+    H --> M["표적 검사·전문의 치료"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef treatment fill:#e3f2fd,stroke:#64b5f6
+classDef caution fill:#fdebd0,stroke:#e67e22
+class M,N,F caution
+    class A start
+    class S,C,D,E question
+    class U,H emergency
+    class R,O treatment
+
 ```
 
 > _시간 민감성 응급질환 : 고위험이 곧 심장성만을 의미하지는 않음. 폐색전증·대동맥박리·중증 출혈·지주막하출혈 등도 고려._
