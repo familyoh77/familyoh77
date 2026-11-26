@@ -425,7 +425,6 @@
 * 응급 이송 후에는 수용기관에서 의심 원인별 응급 평가를 시행함
 
 ```mermaid
-<<<<<<< HEAD
 flowchart TD
     A["그림 1. 급성 어지럼의 초기 평가"] --> R["Red Flags 즉각 조치 항목?"]
     R -- "예" --> U["즉시 응급 평가·이송"]
@@ -444,8 +443,6 @@ flowchart TD
     class R,R2,B question
     class U emergency
     class S,G2,G3,G4 evaluation
-=======
->>>>>>> 8cb6570d021bb21d31349773267b85a43021ad5b
 ```
 
 <p align="center"><strong>그림 1. 급성 어지럼의 초기 평가</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Newman-Toker DE, Edlow JA. Neurol Clin 2015; Edlow JA, et al. Acad Emerg Med 2023; Sars C, et al. JAMA Neurol 2026)</mark></em></p>
