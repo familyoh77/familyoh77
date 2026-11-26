@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* [실신](021_-syncope.md) : <mark style="background-color:yellow;">일시적인 전반적 뇌 저관류로 갑자기 발생하며, 지속 시간이 짧고 자발적·완전하게 회복되는 의식 소실</mark>
+* [실신](021_-syncope.md) : <mark style="background-color:red;">일시적인 전반적 뇌 저관류로 갑자기 발생하며, 지속 시간이 짧고 자발적·완전하게 회복되는 의식 소실</mark>
 * 반사성 실신 : 자율신경 반사에 의한 부적절한 혈관 확장(vasodepression) &/or 심한 서맥·무수축(cardioinhibition)으로 동맥압과 뇌 관류가 일시적으로 감소하여 발생하는 실신
 * 가장 흔한 형태는 혈관미주신경성 실신(vasovagal syncope, VVS)이며, 상황 실신과 경동맥동증후군(목동맥굴증후군, carotid sinus syndrome, CSS)도 포함됨
 * 뇌전증 발작, 심인성 가성실신(psychogenic pseudosyncope), 저혈당, 중독, 두부 외상 및 심장성 실신 등 다른 일시적 의식 소실 원인과 감별해야 함
@@ -43,8 +43,8 @@
 
 ### <mark style="color:orange;">전형적 유발 요인이나 전조가 뚜렷하지 않은 반사성 실신 (Non-classical forms)</mark>
 
-* <mark style="background-color:yellow;">뚜렷한 유발 인자나 전형적인 전조가 없을 수 있으므로, 다른 원인을 충분히 배제한 뒤 반사성 실신 가능성을 판단</mark>
-* <mark style="background-color:yellow;">기립경사검사 중 평소 증상과 이에 합당한 혈역학적 반응이 재현되면 진단을 뒷받침함</mark>
+* <mark style="background-color:red;">뚜렷한 유발 인자나 전형적인 전조가 없을 수 있으므로, 다른 원인을 충분히 배제한 뒤 반사성 실신 가능성을 판단</mark>
+* <mark style="background-color:red;">기립경사검사 중 평소 증상과 이에 합당한 혈역학적 반응이 재현되면 진단을 뒷받침함</mark>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -55,7 +55,7 @@
 * 회복 후에도 지속되는 의식 변화, 국소 신경학적 이상, 심한 두통  `뇌졸중` `지주막하출혈` `뇌전증 발작`
 * 지속적인 저혈압·서맥·빈맥 또는 활동성 출혈·심한 빈혈  `쇼크` `부정맥` `중증 출혈` `폐색전증`
 * 중증 두부 외상이나 기타 심각한 손상 동반  `두개내출혈`
-* <mark style="background-color:yellow;">현재 ECG에서 확인되거나 실신 당시 기록된 Mobitz II형 또는 3도 방실차단·지속성 심실빈맥(부정맥이 종료된 경우 포함), 또는 급성 심근허혈 소견</mark>  `부정맥성 실신` `급성 관상동맥증후군`
+* <mark style="background-color:red;">현재 ECG에서 확인되거나 실신 당시 기록된 Mobitz II형 또는 3도 방실차단·지속성 심실빈맥(부정맥이 종료된 경우 포함), 또는 급성 심근허혈 소견</mark>  `부정맥성 실신` `급성 관상동맥증후군`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
@@ -74,7 +74,7 @@
 * 전형적인 유발 상황과 전조가 있으며 실신이 반복되거나 일상생활·직업에 지장이 있는 경우  `재발성 반사성 실신`
 * 반사성 실신이 유력하며 전조가 짧아 안전한 자세를 취하기 어렵거나 외상 위험이 높거나 외상이 반복되는 경우  `재발성 반사성 실신`
 * 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심되는 경우  `약물 관련 저혈압`
-* <mark style="background-color:yellow;">기립불내성이 동반되거나 낙상이 반복되는 경우</mark>  `기립성 저혈압` `POTS`
+* <mark style="background-color:red;">기립불내성이 동반되거나 낙상이 반복되는 경우</mark>  `기립성 저혈압` `POTS`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -98,10 +98,10 @@
 * 운동부하검사 : 운동 중 또는 운동 직후 실신에서 고려. 초기 위험 평가 후 ECG·혈압 감시와 응급소생이 가능한 환경에서 시행
 * Implantable loop recorder(ILR) : 원인 불명의 재발성 실신에서 부정맥 가능성이 있고 기기 수명 내 재발 가능성이 높으면 조기에 고려
 * 표적 혈액검사 : 출혈 의심 시 CBC, 대사 이상 의심 시 혈당·전해질·신기능, 심근허혈 의심 시 troponin 등
-  * 폐색전증 의심 : <mark style="background-color:yellow;">임상 사전확률에 따라 단계적으로 평가</mark> <mark style="color:$info;">\[Circulation 2026]</mark>
-    * <mark style="background-color:yellow;">사전확률이 낮으면 PERC를 먼저 적용하고, 모두 충족하면 추가 검사 없이 배제</mark>
-    * <mark style="background-color:yellow;">PERC를 충족하지 못하거나 사전확률이 중간이면 D-dimer</mark>
-    * <mark style="background-color:yellow;">사전확률이 높으면 D-dimer 없이 영상 평가로 진행</mark>
+  * 폐색전증 의심 : <mark style="background-color:red;">임상 사전확률에 따라 단계적으로 평가</mark> <mark style="color:$info;">\[Circulation 2026]</mark>
+    * <mark style="background-color:red;">사전확률이 낮으면 PERC를 먼저 적용하고, 모두 충족하면 추가 검사 없이 배제</mark>
+    * <mark style="background-color:red;">PERC를 충족하지 못하거나 사전확률이 중간이면 D-dimer</mark>
+    * <mark style="background-color:red;">사전확률이 높으면 D-dimer 없이 영상 평가로 진행</mark>
 * 뇌 CT/MRI·EEG : 국소 신경학적 이상, 지속적 의식 변화, 두부 외상 또는 뇌전증 의심 등 별도 적응증이 있을 때 시행
   * 단순 실신에서는 routine 시행하지 않음
 * 경동맥 초음파 : 경동맥 질환 자체가 의심되거나 경동맥동 마사지 전 고도 협착 가능성을 평가해야 할 때 고려
@@ -111,7 +111,7 @@
 #### <mark style="color:$primary;">Head-up Tilt-table Test</mark>
 
 * 병력으로 반사성 실신이 의심되지만 확진되지 않은 경우, 지연성 기립성 저혈압·POTS 평가 또는 심인성 가성실신 감별에 고려
-* <mark style="background-color:yellow;">평소 증상과 이에 합당한 혈역학적 반응이 재현되면 진단을 뒷받침하며, 결과는 저혈압 감수성(hypotensive susceptibility)과 cardioinhibitory/vasodepressor 반응 유형을 확인하는 자료로 해석</mark>
+* <mark style="background-color:red;">평소 증상과 이에 합당한 혈역학적 반응이 재현되면 진단을 뒷받침하며, 결과는 저혈압 감수성(hypotensive susceptibility)과 cardioinhibitory/vasodepressor 반응 유형을 확인하는 자료로 해석</mark>
 * cardioinhibitory 양성 반응은 자발성 무수축 실신을 예측하는 데 도움이 되지만, vasodepressor·mixed 또는 음성 반응도 자발성 무수축을 배제하지 못함
 * 검사 결과가 치료 선택, 특히 심박동기 치료 가능성과 잔여 저혈압 성분 평가에 영향을 줄 때 유용
 
@@ -119,8 +119,8 @@
 
 * 적응 : 40세 초과에서 초기 평가 후에도 원인 불명이며 반사성 기전과 합당한 실신
 * 방법 : ECG와 beat-to-beat 혈압을 지속 감시하고 응급 대처가 가능한 환경에서 시행. 누운 자세에서 먼저 오른쪽·왼쪽을 검사한 뒤, 기립경사대로 세운 자세에서 오른쪽·왼쪽을 검사. 한쪽씩 약 10초간 자극하고, 매회 혈압·맥박이 기저 수준으로 회복된 뒤 다음 자극을 시행 <mark style="color:$info;">\[Europace 2024]</mark>
-* 경동맥동 과민반응(carotid sinus hypersensitivity) : ventricular pause ＞3초 <mark style="background-color:yellow;">&/or</mark> SBP ＞50 ㎜Hg 감소 <mark style="color:$info;">\[ESC 2018]</mark>
-* 경동맥동증후군(CSS) : 반사성 기전에 합당한 병력이 있고, 마사지 중 ventricular pause ＞3초 <mark style="background-color:yellow;">&/or</mark> SBP ＞50 ㎜Hg 감소와 함께 평소의 실신·전실신 증상이 재현된 경우
+* 경동맥동 과민반응(carotid sinus hypersensitivity) : ventricular pause ＞3초 <mark style="background-color:red;">&/or</mark> SBP ＞50 ㎜Hg 감소 <mark style="color:$info;">\[ESC 2018]</mark>
+* 경동맥동증후군(CSS) : 반사성 기전에 합당한 병력이 있고, 마사지 중 ventricular pause ＞3초 <mark style="background-color:red;">&/or</mark> SBP ＞50 ㎜Hg 감소와 함께 평소의 실신·전실신 증상이 재현된 경우
 * 금기 : 최근 3개월 이내 TIA·뇌졸중·심근경색 또는 확인된 고도 경동맥 협착 <mark style="color:$info;">\[Europace 2024]</mark>
   * 경동맥 잡음 자체는 절대 금기가 아니며, 잡음이 있거나 고도 협착이 의심되면 경동맥 초음파 등으로 먼저 평가
 
@@ -189,8 +189,8 @@ flowchart TD
 * 고혈압·심부전·신장질환 등 금기가 없는 재발성 VVS에서 수분 2\~3 L/d와 소금 총 6\~9 g/d를 개별적으로 고려. VVS 재발 예방에 대한 직접 근거는 제한적임 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
   * 소금 6\~9 g/d는 평소 식사를 포함한 하루 총 섭취량이며, 혈압과 동반 질환에 따라 개별화
 * 전조 증상이 시작되면 즉시 눕고 가능하면 다리를 올림. 누울 수 없으면 안전한 곳에 앉고, 안전한 자세를 취한 뒤 가능한 맞압력 조작을 시행
-* <mark style="background-color:yellow;">물 500 ㎖의 빠른 섭취는 효과가 즉시 나타나는 응급 대처가 아님</mark>
-  * <mark style="background-color:yellow;">예측 가능한 유발 상황 약 15\~30분 전 예방적 보조요법으로 고려할 수 있으며, 특히 기립성 저혈압이 동반된 환자에서 도움이 될 수 있으나 VVS 단독 재발 예방 근거는 제한적임</mark>
+* <mark style="background-color:red;">물 500 ㎖의 빠른 섭취는 효과가 즉시 나타나는 응급 대처가 아님</mark>
+  * <mark style="background-color:red;">예측 가능한 유발 상황 약 15\~30분 전 예방적 보조요법으로 고려할 수 있으며, 특히 기립성 저혈압이 동반된 환자에서 도움이 될 수 있으나 VVS 단독 재발 예방 근거는 제한적임</mark>
   * 전조 증상이 이미 시작되었다면 물을 마시는 것보다 즉시 안전한 자세를 취하는 것이 우선
 * 규칙적인 유산소·근력 운동을 권장. 맞압력 조작 중에는 정상 호흡을 유지하고 숨을 참아 힘주지 않음
 * tilt training은 꾸준히 지속할 수 있는, 동기가 강한 반복성 VVS 환자에서 선택적으로 시도할 수 있으나 순응도가 낮고 임상적 유효성 근거가 제한적
@@ -200,9 +200,9 @@ flowchart TD
   * 동반된 기립성 저혈압·기립불내성을 관리하는 데 필요한 경우에만 선택적으로 고려. 복부 바인더·허리 높이 압박의 VVS 재발 예방 효과는 아직 확립되지 않음
 * 채혈·주사는 가능하면 누운 자세에서 시행
 * 전조가 짧거나 없는 환자, 또는 실신이 반복되는 환자는 진단과 증상 조절 전까지 운전·고소 작업·수영 등 위험 활동을 피함
-* 운전 제한 : <mark style="background-color:yellow;">원인, 전조, 운전 중 발생 여부, 재발 위험과 개인·직업 운전 여부에 따라 제한 및 재개 시점을 개별 판단</mark>
-  * <mark style="background-color:yellow;">운전 중 실신했거나 전조 없이 실신이 반복되면 원인 평가와 증상 조절이 확인될 때까지 운전을 제한하고, 직업 운전자는 더 보수적으로 판단</mark>
-  * <mark style="background-color:yellow;">개인 운전자의 운전 재개 시점은 대한부정맥학회 지침 표 11을 참고</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
+* 운전 제한 : <mark style="background-color:red;">원인, 전조, 운전 중 발생 여부, 재발 위험과 개인·직업 운전 여부에 따라 제한 및 재개 시점을 개별 판단</mark>
+  * <mark style="background-color:red;">운전 중 실신했거나 전조 없이 실신이 반복되면 원인 평가와 증상 조절이 확인될 때까지 운전을 제한하고, 직업 운전자는 더 보수적으로 판단</mark>
+  * <mark style="background-color:red;">개인 운전자의 운전 재개 시점은 대한부정맥학회 지침 표 11을 참고</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
 * 보완/대체요법 : 보충제, 약초 및 동종요법이 반사성 실신 재발을 예방한다는 근거는 확립되지 않아 routine 권고하지 않음
 
 #### <mark style="color:$primary;">Counter-pressure Maneuver</mark>
@@ -222,7 +222,7 @@ flowchart TD
 #### <mark style="color:$primary;">Midodrine</mark>
 
 * 기립 유발 및 저혈압 우세형 VVS에서 가장 근거가 양호한 약물 중 하나
-* <mark style="background-color:yellow;">POST-4 RCT와 메타분석에서 재발성 VVS의 재발 감소가 확인됨</mark>. 비약물 치료에도 증상 부담이 큰 환자에서 선별적으로 고려 <mark style="color:$info;">\[Ann Intern Med 2021; Europace 2022]</mark>
+* <mark style="background-color:red;">POST-4 RCT와 메타분석에서 재발성 VVS의 재발 감소가 확인됨</mark>. 비약물 치료에도 증상 부담이 큰 환자에서 선별적으로 고려 <mark style="color:$info;">\[Ann Intern Med 2021; Europace 2022]</mark>
 * 허가 사항
   * 효능 : 저혈압(기립성·본태성·증후성) - VVS는 적응증으로 명시되어 있지 않음
   * 용법 : 성인 1회 2.5 ㎎, 1일 2\~3회. 증상과 혈압에 따라 최소 유효량 사용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미드론</mark>](https://www.health.kr/drug/A11A3180A0335)<mark style="color:blue;">]</mark>
@@ -257,9 +257,9 @@ flowchart TD
 
 * Norepinephrine transporter(NET) 억제제로, 실신 직전에 나타나는 반사성 서맥을 완화하여 심박출량과 혈압의 최종 하강을 막는 것이 주된 기전으로 제시됨. 초기 근거가 축적 중이나 아직 표준 치료로 자리잡지 않음
 * POST VI에서 기립경사검사로 유발된 실신이 감소함 <mark style="color:$info;">\[Europace 2019]</mark>
-* <mark style="background-color:yellow;">소규모 파일럿 RCT(n＝46)에서는 3개월에 실신·전실신 복합 종료점이 감소했으나, 실신 없는 생존기간은 군간 차이가 없었음(P＝0.903)</mark> <mark style="color:$info;">\[Int J Cardiol Heart Vasc 2021]</mark>
-  * <mark style="background-color:yellow;">실신 사건 수가 적어 실신 단독 예방 효과를 판단하기에는 한계가 있음</mark>
-  * <mark style="background-color:yellow;">기저 수축기 혈압 ＜110 ㎜Hg 하위군에서는 효과 가능성이 시사됨</mark>
+* <mark style="background-color:red;">소규모 파일럿 RCT(n＝46)에서는 3개월에 실신·전실신 복합 종료점이 감소했으나, 실신 없는 생존기간은 군간 차이가 없었음(P＝0.903)</mark> <mark style="color:$info;">\[Int J Cardiol Heart Vasc 2021]</mark>
+  * <mark style="background-color:red;">실신 사건 수가 적어 실신 단독 예방 효과를 판단하기에는 한계가 있음</mark>
+  * <mark style="background-color:red;">기저 수축기 혈압 ＜110 ㎜Hg 하위군에서는 효과 가능성이 시사됨</mark>
 * 심혈관계 부작용(혈압·맥박 상승) 고려해 routine 권고 약물이 아님
 * 허가 효능·효과는 ADHD이며 VVS에 대한 적응증은 없음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아토목신</mark>](https://www.health.kr/drug/2014031800001)<mark style="color:blue;">]</mark>
 
@@ -350,8 +350,8 @@ flowchart TD
 > * 복용 직후 장시간 눕는 상황을 피하고, 누운 자세와 선 자세의 혈압을 확인하십시오.
 > * 두피 가려움, 저림, 소름·입모, 배뇨 곤란이 나타날 수 있습니다. 증상이 심하면 진료받으십시오.
 > * 얼굴·입술·혀가 붓거나 숨이 차면 복용을 중단하고 즉시 119에 신고하거나 응급실로 가십시오.
-> * <mark style="background-color:yellow;">고혈압·심한 심장질환·배뇨장애 등에서는 복용하면 안 됩니다. 해당 질환이나 신장질환이 있으면 처방 전에 알리십시오.</mark>
-> * <mark style="background-color:yellow;">심한 두통·시야 흐림·흉통이 생기거나 소변이 나오지 않으면 복용을 보류하고 즉시 진료를 받으십시오.</mark>
+> * <mark style="background-color:red;">고혈압·심한 심장질환·배뇨장애 등에서는 복용하면 안 됩니다. 해당 질환이나 신장질환이 있으면 처방 전에 알리십시오.</mark>
+> * <mark style="background-color:red;">심한 두통·시야 흐림·흉통이 생기거나 소변이 나오지 않으면 복용을 보류하고 즉시 진료를 받으십시오.</mark>
 
 > **플로리네프 Fludrocortisone**
 >
@@ -395,7 +395,7 @@ flowchart TD
 * \[Europace 2024] [de Lange FJ, et al. Carotid sinus massage in clinical practice: the Six-Step-Method. Europace. 2024;26(11):euae266.](https://doi.org/10.1093/europace/euae266) - 경동맥동 마사지의 시행법과 금기
 * \[Ann Intern Med 2021] [Sheldon R, et al. Midodrine for the Prevention of Vasovagal Syncope: A Randomized Clinical Trial. Ann Intern Med. 2021;174(10):1349-1356.](https://doi.org/10.7326/M20-5415) - POST-4의 실신 재발 예방 효과
 * \[Europace 2022] [Lei LY, Raj SR, Sheldon RS. Midodrine for the prevention of vasovagal syncope: a systematic review and meta-analysis. Europace. 2022;24(7):1171-1178.](https://doi.org/10.1093/europace/euab323) - Midodrine 재발 예방 효과의 메타분석
-* <mark style="background-color:yellow;">\[J Am Coll Cardiol 2016]</mark> [Sheldon R, et al. Fludrocortisone for the Prevention of Vasovagal Syncope: A Randomized, Placebo-Controlled Trial. J Am Coll Cardiol. 2016;68(1):1-9.](https://doi.org/10.1016/j.jacc.2016.04.030) - POST-2; fludrocortisone의 1차 결과와 적용 한계
+* <mark style="background-color:red;">\[J Am Coll Cardiol 2016]</mark> [Sheldon R, et al. Fludrocortisone for the Prevention of Vasovagal Syncope: A Randomized, Placebo-Controlled Trial. J Am Coll Cardiol. 2016;68(1):1-9.](https://doi.org/10.1016/j.jacc.2016.04.030) - POST-2; fludrocortisone의 1차 결과와 적용 한계
 * \[Europace 2017] [Flevari P, et al. Fluoxetine vs. placebo for the treatment of recurrent vasovagal syncope with anxiety sensitivity. Europace. 2017;19(1):127-131.](https://doi.org/10.1093/europace/euw153) - 불안 민감성이 높은 재발성 VVS 환자의 소규모 RCT
 * \[Europace 2019] [Sheldon RS, et al. A proof of principle study of atomoxetine for the prevention of vasovagal syncope: the Prevention of Syncope Trial VI. Europace. 2019;21(11):1733-1741.](https://doi.org/10.1093/europace/euz250) - POST VI의 기립경사 유발 실신 결과
 * \[Int J Cardiol Heart Vasc 2021] [Tajdini M, et al. Atomoxetine as an adjunct to nonpharmacological treatments for preventing vasovagal attacks in patients with recurrent vasovagal syncope: A pilot randomized-controlled trial. Int J Cardiol Heart Vasc. 2021;34:100789.](https://doi.org/10.1016/j.ijcha.2021.100789) - Atomoxetine 소규모 파일럿 RCT의 실신·전실신 복합 종료점
@@ -403,7 +403,7 @@ flowchart TD
 * [Aksu T, et al. Cardioneuroablation for the treatment of reflex syncope and functional bradyarrhythmias: A Scientific Statement of EHRA/HRS/APHRS/LAHRS. Europace. 2024;26(8):euae206.](https://doi.org/10.1093/europace/euae206) - CNA의 근거 한계·환자 선택과 안전성
 * \[Circulation 2026] [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153:e977-e1051.](https://doi.org/10.1161/CIR.0000000000001415) - 폐색전증 사전확률에 따른 PERC·D-dimer·영상검사 적용
 * [Hewett Brumberg EK, et al. 2024 American Heart Association and American Red Cross Guidelines for First Aid. Circulation. 2024;150(24):e519-e579.](https://doi.org/10.1161/CIR.0000000000001281) - 전실신 시 자세와 맞압력 조작
-* <mark style="background-color:yellow;">질병관리청·대한심폐소생협회.</mark> [2025년 한국 심폐소생술 가이드라인.](https://www.kdca.go.kr/injury/biz/injury/recsroom/ruleNdManual/ruleNdManualView.do?no=213) - 일반인 구조자의 성인 심장정지 대응
+* <mark style="background-color:red;">질병관리청·대한심폐소생협회.</mark> [2025년 한국 심폐소생술 가이드라인.](https://www.kdca.go.kr/injury/biz/injury/recsroom/ruleNdManual/ruleNdManualView.do?no=213) - 일반인 구조자의 성인 심장정지 대응
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
