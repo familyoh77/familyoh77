@@ -143,14 +143,6 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
   * 신경학적 이상은 없음(수막염 제외)
 * 안진 : spontaneous, fine horizontal nystagmus. horizontal-torsional 병합도 가능
 
-{% hint style="info" %}
-- labyrinthitis : vertigo + 청력 저하 동반
-- AUVP : vertigo only, 청력 정상
-- 급성 어지럼 + 새로운 청력 저하 → labyrinthitis, AICA(anterior inferior cerebellar artery) 경색, 돌발성 감각신경성 난청, 외림프누공 감별
-- 급성전정증후군(AVS) + 새 일측성 청력 저하 → AICA 경색 감별을 위해 즉시 뇌졸중 평가. 청각 평가 병행
-- 지속성 AVS가 뚜렷하지 않고 돌발성 난청이 주 증상이며 외이·중이 원인으로 설명되지 않음 → 24시간 이내 이비인후과 평가
-{% endhint %}
-
 ### <mark style="color:orange;">외림프누공 (Perilymphatic fistula)</mark>
 
 * 기전 : 난원창·정원창 등에 비정상적인 연결 또는 결손이 생겨 외림프가 내이에서 중이 쪽으로 누출되는 상태
@@ -172,6 +164,9 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 
 * 편두통과 관련하여 발생하는 어지럼증
   * 발작 중 두통이 없을 수 있으므로 두통 동반 여부만으로 배제하지 않음
+
+#### <mark style="color:$primary;">임상 양상</mark>
+
 * 진단기준 <mark style="color:$info;">\[Bárány Society/IHS 2022]</mark>
   * 중등도\~중증 전정 증상이 5분\~72시간 지속되는 발작이 5회 이상
   * 현재 또는 과거의 전조성/무전조성 편두통 병력
@@ -183,7 +178,6 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
   * 이명·귀 충만감·변동성 청각 증상이 동반될 수 있음
   * 뚜렷한 진행성 일측 난청은 메니에르병 등 다른 질환을 우선 감별
 * 유발 요인 : 카페인, 알코올, 수면 부족, 호르몬 변화, 특정 음식(티라민 함유 식품), 시각적 자극(복잡한 패턴, 대형 스크린, 스크롤)
-* 치료 : 두통 치료 원칙은 [편두통](016_-migraine.md#management) 참조. 급성 전정 증상에 대한 트립탄 효과의 근거는 제한적임 <mark style="color:$info;">\[JAMA Neurol 2025]</mark>
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -381,6 +375,16 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 
 <table><thead><tr><th width="165">소견</th><th>말초성 패턴</th><th>중추성 위험 소견</th></tr></thead><tbody><tr><td>자발안진</td><td>방향고정성 수평-회선성</td><td>주시 방향에 따른 방향변환성, 수직 또는 순수 회선성</td></tr><tr><td>Head impulse</td><td>병변 측 교정성 단속운동</td><td>AVS에서 정상 반응. 단, 비정상 반응도 AICA 경색을 배제하지 못함</td></tr><tr><td>Skew</td><td>없음</td><td>수직 안구 재정렬</td></tr><tr><td>보행·체간</td><td>불안정할 수 있으나 대개 보조하여 보행 가능</td><td>부축 없이 앉거나 서기 어렵거나 보행 불가</td></tr><tr><td>청각</td><td>질환에 따라 난청·이명 동반 가능</td><td>AVS와 새 일측성 청력 저하가 동반되면 AICA 경색 위험 증가</td></tr><tr><td>기타 신경학적 소견</td><td>없음</td><td>복시, 구음·연하 장애, 편측 위약·감각저하, 사지실조 등</td></tr></tbody></table>
 
+{% hint style="info" %}
+**급성 어지럼과 새 청력 저하**
+
+- 미로염 : 현훈과 청력 저하가 함께 나타남
+- AUVP : 새로운 청력 저하·이명 등 급성 청각 증상이 없음
+- 급성 어지럼 + 새로운 청력 저하 → labyrinthitis, AICA(anterior inferior cerebellar artery) 경색, 돌발성 감각신경성 난청, 외림프누공 감별
+- 급성전정증후군(AVS) + 새 일측성 청력 저하 → AICA 경색 감별을 위해 즉시 뇌졸중 평가. 청각 평가 병행
+- 지속성 AVS가 뚜렷하지 않고 돌발성 난청이 주 증상이며 외이·중이 원인으로 설명되지 않음 → 24시간 이내 이비인후과 평가
+{% endhint %}
+
 > _<mark style="color:$info;">증상 강도·구역·청각 증상만으로 중추성과 말초성을 구분하지 않음.</mark>_\
 > _<mark style="color:$info;">HINTS Plus는 중추성 위험 징후를 먼저 확인한 뒤, 안정 시 안진이 있는 AVS에서 훈련된 검사자가 시행함. 말초성 패턴이라도 다른 중추성 위험 징후가 있으면 뇌졸중 평가가 필요함.</mark>_
 
@@ -541,7 +545,7 @@ flowchart TD
 
 ### <mark style="color:orange;">기타</mark>
 
-* 전정편두통 : 두통 치료 원칙은 위 「편두통성 어지럼증」 항목 참조. 급성 전정 증상에 대한 트립탄 효과의 근거는 제한적임
+* 전정편두통 : 아래 「질환별 치료 → 편두통성 어지럼증」 참조
 * SSRI/SNRI : PPPD에서 임상적으로 사용되지만 위약대조 RCT 근거는 없으며 국내 허가 외 사용. 동반 불안·우울, 증상 부담과 환자 선호를 고려하여 개별적으로 시도 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
 * steroid : 진단이 확실하고 금기가 없는 AUVP 환자에서 증상 발현 3일 이내 단기 투여를 shared decision으로 고려할 수 있으나, 증상 및 장기 전정기능 개선 근거는 불확실함
 
@@ -669,6 +673,10 @@ flowchart TD
   * 일부 지침에서 시험적 유지치료로 제시하지만 BEMED trial에서는 48 또는 144 ㎎/d 모두 위약 대비 발작 예방 효과가 확인되지 않음
   * 일정 기간 반응을 평가하고 유의한 이득이 없으면 지속하지 않음
 * 고실 내 스테로이드 주입술(Intratympanic steroid injection, ITSI) : 비침습적 치료에 반응하지 않는 활동성 메니에르병에서 이비인후과가 고려할 수 있는 선택지
+
+### <mark style="color:orange;">편두통성 어지럼증</mark>
+
+* 두통 치료 원칙은 [편두통](016_-migraine.md#management) 참조. 급성 전정 증상에 대한 트립탄 효과의 근거는 제한적임 <mark style="color:$info;">\[JAMA Neurol 2025]</mark>
 
 ### <mark style="color:orange;">지속성 체위지각 어지럼증 (PPPD)</mark>
 
