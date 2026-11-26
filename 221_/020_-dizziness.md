@@ -62,7 +62,7 @@
 * 말초성 전정질환 : BPPV, AUVP, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 전정신경초종, 중이염
 * 중추성 질환 : 전정편두통, 뇌간·소뇌 뇌졸중/TIA, 소뇌·뇌간 종양, 다발성경화증
   * 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
-* 기타 어지럼 원인 : PPPD, 멀미, 말초신경병증, 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트 등
+* 기타 어지럼 원인 : 멀미, PPPD, 말초신경병증, 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트 등
   * 고령 : 불안/우울, 균형 감각 손상, 심뇌혈관질환 과거력, 청력·시력 저하, 기립성 저혈압, 다제약물 등 여러 요인이 복합적으로 작용
 
 {% hint style="info" %}
@@ -307,10 +307,13 @@
 
 ## <mark style="color:green;">진단</mark>
 
+### <mark style="color:orange;">기본 평가</mark>
+
+* 병력 : 시간 경과·유발 요인·동반 증상·복용 약물을 확인하고, Red Flags에 따라 긴급도를 판단
 * 혈압 : 5분간 누운 뒤 혈압·맥박을 측정하고 기립 1분·3분에 재측정
-* 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진
-  * electronystagmography, vestibular-evoked myogenic potentials
-* 수기 검사 : Dix-Hallpike test, Supine roll test, Head impulse test, Test of skew
+* 신경학적 검사 : 국소 신경학적 이상, 안구운동·안진, 보행·체간 불안정 등을 평가
+* 귀·청력 검사 : 이경검사, 침상 청력 선별검사, 필요시 청력검사·Rinne test·Weber test
+* 침상검사는 시간 경과·유발 요인과 진찰 소견에 따라 선택함
 * 실험실검사 : 일률적인 실험실검사는 필요 없음
   * 당뇨 환자에서 혈당 등 검사 고려
 * 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려
@@ -321,6 +324,48 @@
   * 전형적 BPPV 등 명확한 말초성 어지럼에서는 routine 촬영 불필요
   * 후순환 TIA·동맥박리 또는 대혈관 병변이 의심되면 두개내·경부 후순환을 포함한 CTA/MRA 고려
   * carotid Doppler는 후순환성 어지럼의 일반 선별검사가 아님
+
+### <mark style="color:orange;">급성 지속성 어지럼의 침상 평가</mark>
+
+#### <mark style="color:$primary;">HINTS Plus Exam</mark>
+
+* 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
+* 급성 지속성 어지럼에서는 새 국소 신경학적 이상, 중추성 안진, 새 심한 두통·경부 통증, 심한 체간·보행 불안정 등 중추성 위험 징후를 먼저 확인함. 위험 징후가 있으면 HINTS 결과와 무관하게 뇌졸중 등 중추성 원인을 평가함
+* 중추성 위험 징후가 없고 진찰 당시 안정 시 안진이 관찰되는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
+  * 정면 주시 또는 좌우 주시에서 관찰되는 안정 시 안진을 확인함. 체위검사에서만 유발된 안진은 HINTS 적용 조건에 해당하지 않음
+  * 발작성·체위성 어지럼, 안정 시 안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
+* 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUVP를 시사
+  * Head Impulse Test (+) : 환측으로 머리 회전 시 교정성 단속운동(catch-up saccade) 관찰
+  * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
+  * Test of Skew (-) : 수직 안구 편위 없음
+  * New hearing loss (-) : 양측을 비교한 finger rub 등 침상 청력 선별검사에서 새 일측성 청력 저하 없음 → 말초성 판정 유지. 이상이 있으면 정식 청력검사를 병행
+* 중추성 또는 판정 불명확 패턴 : <mark style="background-color:red;">다음 중 하나라도 있거나 검사 결과가 불명확하면 뇌졸중 경로로 즉시 이송하고, 수용기관에서 MRI(DWI) 및 필요시 혈관영상으로 평가</mark>
+  * <mark style="background-color:red;">정상 Head impulse test</mark>
+  * <mark style="background-color:red;">수직·순수 회선성 또는 주시 방향에 따른 방향변환성 안진</mark>
+  * <mark style="background-color:red;">skew deviation</mark>
+  * <mark style="background-color:red;">새 일측성 청력 저하</mark>
+* 새 일측성 청력 저하는 HINTS에 추가하면 AICA 경색 탐지 민감도를 높이는 위험 신호이지만 단독 확진 소견은 아님
+  * 미로염·돌발성 감각신경성 난청 등 말초성 원인도 가능하므로 응급 뇌졸중 평가와 청각 평가를 병행
+* 안정 시 안진이 없는 AVS에서는 HINTS로 중추성 여부를 판정하지 않음. 새로 발생한 객관적 보행 장애가 있으면 뇌졸중 평가를 의뢰하고, 보행 이상이 뚜렷하지 않아도 다른 위험 징후와 임상 경과에 따라 평가함
+
+#### <mark style="color:$primary;">Head impulse test</mark>
+
+* 방법 ([Figure](https://www.nuemblog.com/blog/hints))
+  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측하지 못한 상태에서) 한쪽으로 빠르게 15° 돌림\
+    → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
+* 음성 (정상) : 시선이 표적에 고정됨. HINTS 적용 대상인 AVS에서는 정상 HIT가 중추성 원인을 시사할 수 있음
+* 양성 (비정상) : 시선이 머리 회전을 따라간 뒤 교정성 단속운동으로 표적에 돌아옴
+  * 회전시킨 쪽의 vestibulo-ocular reflex 결손을 시사
+  * 단, AICA 경색 등 중추성 병변에서도 비정상일 수 있으므로 HIT 단독으로 말초성 확정 불가
+
+#### <mark style="color:$primary;">Test of skew</mark>
+
+* 방법 ([시연](https://www.youtube.com/watch?v=CdnQNUarZr8\&t=1s)) : 양쪽 눈을 번갈아 cover & uncover 하며 안구의 수직 움직임을 관찰
+  * 양성 (수직 재정렬 움직임 발생) : 뇌간·소뇌 등 중추성 병변 의심
+
+<p align="center"><em><mark style="color:$info;">Ref. Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. 2026;83(11):1129-1134. doi:10.1001/jamaneurol.2026.2942.</mark></em></p>
+
+### <mark style="color:orange;">체위성 발작의 침상 평가</mark>
 
 #### <mark style="color:$primary;">Dix-Hallpike test</mark>
 
@@ -345,47 +390,24 @@
   * Apogeotropic형 : 일반적으로 안진이 더 약한 쪽이 환측
   * 안진 방향·강도가 불분명하면 bow-and-lean test 등 보조검사 또는 전문 평가 고려
 
-#### <mark style="color:$primary;">Head impulse test</mark>
+### <mark style="color:orange;">전정기능검사 (Vestibular function testing)</mark>
 
-* 방법 ([Figure](https://www.nuemblog.com/blog/hints))
-  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측하지 못한 상태에서) 한쪽으로 빠르게 15° 돌림\
-    → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
-* 음성 (정상) : 시선이 표적에 고정됨. HINTS 적용 대상인 AVS에서는 정상 HIT가 중추성 원인을 시사할 수 있음
-* 양성 (비정상) : 시선이 머리 회전을 따라간 뒤 교정성 단속운동으로 표적에 돌아옴
-  * 회전시킨 쪽의 vestibulo-ocular reflex 결손을 시사
-  * 단, AICA 경색 등 중추성 병변에서도 비정상일 수 있으므로 HIT 단독으로 말초성 확정 불가
+* 목적 : 전정기능 저하의 유무·병변 측·정도를 평가하고, 보상 상태와 재활 계획 수립에 참고
+* 시행 고려 : 병력·침상검사 후에도 진단이 불명확하거나, 일측·양측 전정기능 저하의 확인·정량화가 진료 방침 결정에 필요한 경우 전문 평가 의뢰
+* 검사 선택 : 임상적으로 확인하려는 문제에 따라 선택하며 모든 검사를 일률적으로 시행하지 않음. 전형적 BPPV에서는 대개 추가적인 전문 전정기능검사가 필요하지 않음 <mark style="color:$info;">\[Otolaryngol Clin North Am 2021, AAO-HNS 2017]</mark>
 
-#### <mark style="color:$primary;">기타</mark>
+<table><thead><tr><th width="230">검사</th><th>주요 평가 내용</th></tr></thead><tbody><tr><td><strong>비디오안진검사(VNG)·전기안진검사(ENG)</strong></td><td>안구운동과 자발·주시·체위안진 등을 기록·분석. 검사 구성에 온도안진검사가 포함될 수 있음</td></tr><tr><td><strong>온도안진검사(Caloric test)</strong></td><td>좌우 귀를 각각 자극하여 주로 수평반고리관의 저주파수 전정안반사 기능과 좌우 차이를 평가</td></tr><tr><td><strong>비디오두부충동검사(vHIT, video Head Impulse Test)</strong></td><td>각 반고리관의 고주파수 전정안반사 gain과 교정성 단속운동을 정량화. AUVP·양측전정기능저하의 확인·추적에 활용</td></tr><tr><td><strong>전정유발근전위검사(VEMP)</strong></td><td>이석기관 관련 반사 경로를 평가. cVEMP는 주로 구형낭, oVEMP는 주로 난형낭 기능을 반영</td></tr><tr><td><strong>회전의자검사(Rotary chair test)</strong></td><td>회전에 대한 전정안반사를 평가하며, 특히 양측 전정기능 저하의 확인과 잔존 기능 평가에 활용</td></tr></tbody></table>
 
-* [Test of skew](https://www.youtube.com/watch?v=CdnQNUarZr8\&t=1s) : 양쪽 눈을 번갈아 cover & uncover 하며 안구의 수직 움직임을 관찰
-  * 양성 (수직 재정렬 움직임 발생) : 뇌간·소뇌 등 중추성 병변 의심
-* 누공 검사 : 통기 이경으로 고막에 음압/양압을 가해 안진과 현훈 유발
+* 해석·주의 : 검사마다 평가하는 기능과 자극 주파수가 다르므로 결과가 일치하지 않을 수 있음. vHIT가 정상이더라도 온도안진검사에서 기능 저하가 확인될 수 있음 <mark style="color:$info;">\[J Neurol 2021]</mark>
+  * vHIT를 포함한 전정기능검사 결과만으로 급성 중추성 원인을 배제하지 않으며, 응급 평가나 필요한 뇌영상검사를 대체하지 않음
+* 검사 과정 안내 : [Vestibular function testing](https://my.clevelandclinic.org/health/diagnostics/21518-vestibular-test-battery)
+
+### <mark style="color:orange;">기타 선택적 검사</mark>
+
+#### <mark style="color:$primary;">누공 검사</mark>
+
+* 방법 : 통기 이경으로 고막에 음압/양압을 가해 안진과 현훈 유발
   * 양성 (증상 발생) : 외림프누공 의심
-* [Vestibular function testing](https://my.clevelandclinic.org/health/diagnostics/21518-vestibular-test-battery) : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
-* vHIT(video Head Impulse Test) : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUVP·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
-
-#### <mark style="color:$primary;">HINTS Plus Exam</mark>
-
-* 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
-* 급성 지속성 어지럼에서는 새 국소 신경학적 이상, 중추성 안진, 새 심한 두통·경부 통증, 심한 체간·보행 불안정 등 중추성 위험 징후를 먼저 확인함. 위험 징후가 있으면 HINTS 결과와 무관하게 뇌졸중 등 중추성 원인을 평가함
-* 중추성 위험 징후가 없고 진찰 당시 안정 시 안진이 관찰되는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
-  * 정면 주시 또는 좌우 주시에서 관찰되는 안정 시 안진을 확인함. 체위검사에서만 유발된 안진은 HINTS 적용 조건에 해당하지 않음
-  * 발작성·체위성 어지럼, 안정 시 안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
-* 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUVP를 시사
-  * Head Impulse Test (+) : 환측으로 머리 회전 시 교정성 단속운동(catch-up saccade) 관찰
-  * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
-  * Test of Skew (-) : 수직 안구 편위 없음
-  * New hearing loss (-) : 양측을 비교한 finger rub 등 침상 청력 선별검사에서 새 일측성 청력 저하 없음 → 말초성 판정 유지. 이상이 있으면 정식 청력검사를 병행
-* 중추성 또는 판정 불명확 패턴 : <mark style="background-color:red;">다음 중 하나라도 있거나 검사 결과가 불명확하면 뇌졸중 경로로 즉시 이송하고, 수용기관에서 MRI(DWI) 및 필요시 혈관영상으로 평가</mark>
-  * <mark style="background-color:red;">정상 Head impulse test</mark>
-  * <mark style="background-color:red;">수직·순수 회선성 또는 주시 방향에 따른 방향변환성 안진</mark>
-  * <mark style="background-color:red;">skew deviation</mark>
-  * <mark style="background-color:red;">새 일측성 청력 저하</mark>
-* 새 일측성 청력 저하는 HINTS에 추가하면 AICA 경색 탐지 민감도를 높이는 위험 신호이지만 단독 확진 소견은 아님
-  * 미로염·돌발성 감각신경성 난청 등 말초성 원인도 가능하므로 응급 뇌졸중 평가와 청각 평가를 병행
-* 안정 시 안진이 없는 AVS에서는 HINTS로 중추성 여부를 판정하지 않음. 새로 발생한 객관적 보행 장애가 있으면 뇌졸중 평가를 의뢰하고, 보행 이상이 뚜렷하지 않아도 다른 위험 징후와 임상 경과에 따라 평가함
-
-<p align="center"><em><mark style="color:$info;">Ref. Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. 2026;83(11):1129-1134. doi:10.1001/jamaneurol.2026.2942.</mark></em></p>
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -794,6 +816,11 @@ flowchart TD
 * 외상 후 진행성 난청, 지속되는 전정 증상 또는 보존치료 실패 시 이비인후과·이신경과 의뢰
   * 선택된 환자에서 시험적 고실개방술과 난원창·정원창 보강술을 고려
 
+### <mark style="color:orange;">과호흡</mark>
+
+* 원인 질환과 위험 징후를 평가한 뒤 천천히 규칙적으로 호흡하도록 안내
+* 종이봉투 재호흡은 저산소증 위험 때문에 시행하지 않음
+
 ***
 
 ## <mark style="color:red;">질병코드</mark>
@@ -941,6 +968,8 @@ flowchart TD
 * [NICE. Hearing loss in adults: assessment and management (NG98).](https://www.nice.org.uk/guidance/ng98/chapter/recommendations) - 돌발성 청력 저하의 의뢰 시점
 * [Newman-Toker DE, Edlow JA. TiTrATE: A Novel, Evidence-Based Approach to Diagnosing Acute Dizziness and Vertigo. Neurol Clin. 2015;33(3):577-599.](https://doi.org/10.1016/j.ncl.2015.04.011) - 발생 시점·지속시간·유발 인자에 따른 분류와 표적 진찰
 * [Edlow JA, et al. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department. Acad Emerg Med. 2023;30(5):442-486.](https://doi.org/10.1111/acem.14728) - 시간 경과·유발 인자에 따른 어지럼 평가, HINTS와 영상검사
+* \[Otolaryngol Clin North Am 2021] [Zuniga SA, Adams ME. Efficient Use of Vestibular Testing. Otolaryngol Clin North Am. 2021;54(5):875-891.](https://doi.org/10.1016/j.otc.2021.05.011) - 전정기능검사의 선택·적응증과 해석
+* \[J Neurol 2021] [Starkov D, et al. Diagnosing vestibular hypofunction: an update. J Neurol. 2021;268(1):377-385.](https://doi.org/10.1007/s00415-020-10139-4) - vHIT·온도안진검사·VEMP·회전의자검사의 평가 범위와 한계
 * [Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. 2026;83(11):1129-1134.](https://doi.org/10.1001/jamaneurol.2026.2942) - HINTS 적용 대상과 검사자 숙련도·해석의 한계
 * \[국제 전정장애 분류(ICVD)] [Strupp M, et al. Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria. Consensus document of the committee for the classification of vestibular disorders of the Bárány Society. J Vestib Res. 2022;32(5):389-406.](https://doi.org/10.3233/VES-220201) - AUVP 용어와 진단 기준
 * \[J Vestib Res 2025] [Sjögren J, et al. Acute unilateral vestibulopathy and corticosteroid treatment - A randomized placebo-controlled double-blind trial. J Vestib Res. 2025;35(2):91-101.](https://doi.org/10.1177/09574271241307649) - AUVP에서 스테로이드의 임상적 이득 평가
@@ -965,6 +994,8 @@ flowchart TD
 * [Adrion C, et al. Efficacy and safety of betahistine treatment in patients with Meniere's disease: primary results of a long term, multicentre, double blind, randomised, placebo controlled, dose defining trial (BEMED trial). BMJ. 2016;352:h6816.](https://doi.org/10.1136/bmj.h6816) - betahistine 48·144 ㎎/d의 발작 예방 효과 없음
 * \[Bárány Society 2017] [Staab JP, et al. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the Bárány Society. J Vestib Res. 2017;27(4):191-208.](https://doi.org/10.3233/VES-170622) - PPPD의 진단 기준과 감별
 * [Bukovsky D, et al. Evaluating the effect of antidepressants for persistent postural-perceptual dizziness: A systematic review. J Vestib Res. Published online September 1, 2026.](https://doi.org/10.1177/09574271261468395) - 항우울제 연구의 근거 한계와 위약대조시험의 필요성
+* [MSD Manual Professional Edition. Hyperventilation Syndrome.](https://www.msdmanuals.com/professional/pulmonary-disorders/symptoms-of-pulmonary-disorders/hyperventilation-syndrome) - 과호흡증후군의 감별과 호흡 지도
+* [MSD Manual Professional Edition. Respiratory Alkalosis.](https://www.msdmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/respiratory-alkalosis) - 과호흡의 원인과 종이봉투 재호흡의 위험
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
