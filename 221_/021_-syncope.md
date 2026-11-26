@@ -12,9 +12,9 @@
   * 환자의 ⅓ 이상에서 원인이 밝혀지지 않을 수 있음
 * TLOC(transient loss of consciousness) : '짧은 의식 소실 + 기억 상실 + 운동 조절 소실 + 무반응'의 네 가지 특징을 공유하는 상태들을 묶은 상위 범주
   * Syncope는 그중에서 원인이 '전반적 뇌 저관류(cerebral hypoperfusion)'인 하위 유형
-* non-syncope TLOC : <mark style="background-color:yellow;">TLOC 정의를 충족하지만 원인이 전반적 뇌 저관류가 아닌 상태</mark>
-  * <mark style="background-color:yellow;">뇌전증 발작, psychogenic pseudosyncope(심인성 가성실신) 등이 감별에 포함됨</mark>
-  * <mark style="background-color:yellow;">가성실신은 실제 의식 소실이 아닌 외관상 TLOC</mark>
+* non-syncope TLOC : <mark style="background-color:red;">TLOC 정의를 충족하지만 원인이 전반적 뇌 저관류가 아닌 상태</mark>
+  * <mark style="background-color:red;">뇌전증 발작, psychogenic pseudosyncope(심인성 가성실신) 등이 감별에 포함됨</mark>
+  * <mark style="background-color:red;">가성실신은 실제 의식 소실이 아닌 외관상 TLOC</mark>
 * 저혈당·저산소증·중독·대사 이상·두부 외상 등은 의식 소실을 유발할 수 있으나, 지속 시간이 길거나 회복이 불완전할 수 있어 TLOC 정의를 항상 충족하지는 않음 - 감별 대상으로 함께 고려
 
 ### <mark style="color:orange;">전실신 (Presyncope)</mark>
@@ -73,7 +73,7 @@
 
 * 원인
   * 부정맥/전도 장애(가장 흔한 심장 원인)
-  * 심혈관 구조 이상 : 급성 심근허혈·심근경색에 따른 부정맥 또는 혈역학적 장애, <mark style="background-color:yellow;">심근병증(비후성 심근병증 포함)</mark>, 대동맥협착증
+  * 심혈관 구조 이상 : 급성 심근허혈·심근경색에 따른 부정맥 또는 혈역학적 장애, <mark style="background-color:red;">심근병증(비후성 심근병증 포함)</mark>, 대동맥협착증
   * 기타 심폐질환 : 폐색전증, 폐동맥고혈압
 * 특징
   * 운동 중 또는 앉아 있거나 누운 상태에서 발생
@@ -97,8 +97,8 @@
 * 운동 중 또는 누운 자세에서 발생한 실신으로 완전히 회복되어 현재 안정적인 경우  `구조적 심질환` `부정맥`
 * 갑작스러운 심계항진 직후 실신  `부정맥성 실신`
 * 전구 증상 없이 또는 매우 짧은 전구 증상 후 발생한 실신이 구조적 심질환·관상동맥질환 또는 비정상 ECG와 동반  `부정맥성 실신`
-* 기저 구조적 심질환(심부전, <mark style="background-color:yellow;">심근병증</mark>, 판막질환), 관상동맥질환 또는 유전성 부정맥이 의심되는 젊은 나이의 급사·익사 가족력  `구조적 심질환` `유전성 부정맥`
-* 회복 후 활력징후가 안정된 상태에서 확인된 고위험 ECG : 심근허혈 소견, Mobitz II형 또는 3도 AV block, 생리적·약물성 원인으로 설명되지 않는 각성 시 지속 서맥 ＜40회/분 또는 ＞3초 동정지, 비지속성 VT 또는 기록상 확인된 지속성 VT, type 1 Brugada pattern, <mark style="background-color:yellow;">QTc ＞460 ㎳</mark>, 현저한 전도 장애·심실비후·병적 Q파 등  `부정맥성 실신` `유전성 부정맥`
+* 기저 구조적 심질환(심부전, <mark style="background-color:red;">심근병증</mark>, 판막질환), 관상동맥질환 또는 유전성 부정맥이 의심되는 젊은 나이의 급사·익사 가족력  `구조적 심질환` `유전성 부정맥`
+* 회복 후 활력징후가 안정된 상태에서 확인된 고위험 ECG : 심근허혈 소견, Mobitz II형 또는 3도 AV block, 생리적·약물성 원인으로 설명되지 않는 각성 시 지속 서맥 ＜40회/분 또는 ＞3초 동정지, 비지속성 VT 또는 기록상 확인된 지속성 VT, type 1 Brugada pattern, <mark style="background-color:red;">QTc ＞460 ㎳</mark>, 현저한 전도 장애·심실비후·병적 Q파 등  `부정맥성 실신` `유전성 부정맥`
   * Mobitz I형/현저한 1도 AV block, 경도 서맥(40\~50회/분), 발작성 SVT·AF, pre-excitation, short QT(≤340 ㎳), 비전형 Brugada pattern, ARVC 시사 소견(우측 흉부유도 음성 T파, epsilon파) 등은 부정맥성 실신에 합당한 병력이 동반되면 고위험으로 평가
   * ＞3초 pause는 젊은 운동선수, 수면 중 또는 심박수가 조절된 AF 등 생리적 예외를 고려
 * 증상 또는 임상 상태와 연관된 중증 빈혈·출혈이나 유의한 전해질 이상  `출혈` `전해질 이상`
@@ -114,19 +114,19 @@
 * 병력 청취 : 발생 상황, 전구 증상, 회복 과정, 목격자 진술, 복용 약물, 심장 질환 병력, 가족력
   * 가능하면 목격자 진술이나 스마트폰 영상을 확보. 고령자의 원인불명 낙상은 사건 기억상실로 실신이 숨겨질 수 있음
 * 신체 검진 : 활력징후, 맥박, 심장·신경학적 검진, 출혈·외상 징후
-  * <mark style="background-color:yellow;">기립 활력징후 : 환자가 안정되고 안전하게 기립할 수 있을 때 측정</mark>
-    * <mark style="background-color:yellow;">앙와위 5분 안정 후 혈압·맥박 측정 → 기립 1분·3분에 반복</mark>
-    * <mark style="background-color:yellow;">증상이나 delayed OH가 의심되면 10분 이상 연장 또는 기립경사검사 고려</mark>
+  * <mark style="background-color:red;">기립 활력징후 : 환자가 안정되고 안전하게 기립할 수 있을 때 측정</mark>
+    * <mark style="background-color:red;">앙와위 5분 안정 후 혈압·맥박 측정 → 기립 1분·3분에 반복</mark>
+    * <mark style="background-color:red;">증상이나 delayed OH가 의심되면 10분 이상 연장 또는 기립경사검사 고려</mark>
   * 일반 커프 혈압계의 기립 직후 측정만으로 initial OH를 진단하지 않음. 의심 시 연속 beat-to-beat 혈압 측정 필요
   * 양팔 혈압 차이가 크거나 대동맥박리·쇄골하동맥 질환이 의심될 때 양측 혈압 확인
   * 수축기 잡음 청취 시 HOCM(Valsalva 시 증강)·대동맥협착증 감별 고려
 * ECG : 모든 실신 환자에서 반드시 시행(Class I)
 
 {% hint style="info" %}
-**QTc 연장 확인 시 즉시 약물 검토** : 실신 환자에서 <mark style="background-color:yellow;">QTc ＞460 ㎳</mark>가 확인되면 반복 ECG, 전해질, <mark style="background-color:yellow;">콩팥기능</mark>, 가족력 및 다음 QT 연장 유발 약물을 함께 검토할 것. QTc ＞500 <mark style="background-color:yellow;">㎳</mark>는 torsades de pointes 위험이 더 높지만, QTc 수치만으로 선천성 long-QT syndrome을 확진하지 않음.
+**QTc 연장 확인 시 즉시 약물 검토** : 실신 환자에서 <mark style="background-color:red;">QTc ＞460 ㎳</mark>가 확인되면 반복 ECG, 전해질, <mark style="background-color:red;">콩팥기능</mark>, 가족력 및 다음 QT 연장 유발 약물을 함께 검토할 것. QTc ＞500 <mark style="background-color:red;">㎳</mark>는 torsades de pointes 위험이 더 높지만, QTc 수치만으로 선천성 long-QT syndrome을 확진하지 않음.
 
 * 항정신병약, 일부 macrolide·fluoroquinolone, class IA·III 항부정맥제, 일부 항구토제·항진균제·항우울제 등 약제별 위험도가 다름.
-* 2종 이상 병용, 고용량, 저칼륨·저마그네슘혈증, 서맥, <mark style="background-color:yellow;">콩팥·간기능</mark> 저하는 위험을 높일 수 있음. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org)에서 개별 약물의 Known/Possible/Conditional Risk 확인
+* 2종 이상 병용, 고용량, 저칼륨·저마그네슘혈증, 서맥, <mark style="background-color:red;">콩팥·간기능</mark> 저하는 위험을 높일 수 있음. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org)에서 개별 약물의 Known/Possible/Conditional Risk 확인
 {% endhint %}
 
 * _2024 대한부정맥학회, 2018 ESC 및 2017 ACC/AHA/HRS 지침 공통 원칙 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실검사 및 영상검사는 권고하지 않음_
@@ -179,7 +179,7 @@ flowchart TD
 * 증상 빈도에 따른 외래 심전도 모니터링
   * 실신·전실신이 주 1회 이상 : Holter monitoring 고려
   * 증상 간격이 약 4주 이내 : 외부형 사건기록기·patch monitor 고려
-  * <mark style="background-color:yellow;">드물지만 반복되는 원인 불명 실신 : 재발 양상·위험도와 부정맥 의심 정도에 따라 implantable loop recorder(ILR) 고려</mark>
+  * <mark style="background-color:red;">드물지만 반복되는 원인 불명 실신 : 재발 양상·위험도와 부정맥 의심 정도에 따라 implantable loop recorder(ILR) 고려</mark>
     * ILR은 장기 모니터링에 유용하며, 특히 부정맥이 의심되나 ECG·단기 모니터링에서 확인되지 않고 장치 배터리 수명 내 재발 가능성이 높은 경우 평가 초기 단계에서 고려 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220201\&sno=5\&mtgMtrRegSno=0002))
 * 심박동기·제세동기 기능 이상 또는 장치 관련 부정맥이 의심 → 장치 interrogation
 * 구조적 심질환 의심 → 심초음파
@@ -225,8 +225,8 @@ flowchart TD
     * 외래 단독 평가나 명백한 응급질환의 배제 도구는 아님
   * 2026년 미국 전향적 외부 검증은 40세 이상의 실신 또는 전실신 환자를 포함하였으며, CSRS의 30일 중대 결과 예측 AUROC는 0.72로 캐나다 연구보다 낮았음 <mark style="color:$info;">\[JAMA Netw Open 2026]</mark>
   * 이 연구에서 CSRS ＜0을 저위험 절단값으로 사용했을 때 중대 결과 검출 민감도는 91.9%, 음성예측도는 97.5%였음
-    * <mark style="background-color:yellow;">저위험 점수만으로 퇴원을 결정하거나 중대한 원인을 배제하지 않음</mark>
-    * <mark style="background-color:yellow;">40세 미만이나 연구와 다른 진료 환경에 결과를 그대로 일반화하지 않음</mark>
+    * <mark style="background-color:red;">저위험 점수만으로 퇴원을 결정하거나 중대한 원인을 배제하지 않음</mark>
+    * <mark style="background-color:red;">40세 미만이나 연구와 다른 진료 환경에 결과를 그대로 일반화하지 않음</mark>
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -262,7 +262,7 @@ flowchart TD
 * 운동 중 실신이면 비후성 심근병증, 대동맥 기시 관상동맥 이상(anomalous aortic origin of a coronary artery, AAOCA), 긴 QT 증후군, catecholaminergic polymorphic ventricular tachycardia 등을 고려하여 소아심장 전문 평가
   * 운동 중 실신이 발생한 소아·청소년은 심장성 원인이 배제되고 전문 평가가 완료될 때까지 경쟁 스포츠와 고강도 운동을 중단
   * 바이러스 전구 증상, 흉통, 호흡곤란, 운동능 저하와 함께 ECG·troponin 이상이 동반되면 급성 심근염(myocarditis)도 감별에 포함
-* 소아·청소년(12\~19세) POTS 심박수 기준(기립 10분 이내 <mark style="background-color:yellow;">≥40회/분</mark> 증가로 상향)은 POTS 항목 참조
+* 소아·청소년(12\~19세) POTS 심박수 기준(기립 10분 이내 <mark style="background-color:red;">≥40회/분</mark> 증가로 상향)은 POTS 항목 참조
 * 탈수·섭식장애·저혈당·빈혈, breath-holding spell(주로 6개월\~6세), 임신 가능성 등 연령별 감별을 추가
 
 ***
@@ -280,7 +280,7 @@ flowchart TD
   * 알파 차단제(tamsulosin, silodosin, alfuzosin 등)는 특히 시작·증량 시 기립성 저혈압 위험을 확인. 요로선택성이 높은 약제도 위험이 없지는 않으므로 증상과 혈압을 바탕으로 조정
 * 저위험 반사성 실신 : 교육 및 안심(Class I), 비약물 치료 우선
   * 전구 증상을 인지할 수 있는 반복성 저혈압형에서 [counter-pressure maneuver](022_-reflex-syncope.md#counter-pressure-maneuver)를 교육하고, 증상 부담이 큰 일부 환자는 비약물 치료 후 midodrine 등을 고려
-  * 반사성 실신 예방을 위한 midodrine은 <mark style="background-color:yellow;">허가 외 사용</mark>이며, 앙와위 고혈압·요저류 등의 위험과 제한적인 근거를 고려하여 선별적으로 사용
+  * 반사성 실신 예방을 위한 midodrine은 <mark style="background-color:red;">허가 외 사용</mark>이며, 앙와위 고혈압·요저류 등의 위험과 제한적인 근거를 고려하여 선별적으로 사용
   * Cardioneuroablation은 선별된 중증 재발성 cardioinhibitory reflex syncope에서 논의되는 시술로, 근거와 장기 안전성이 확립 중이므로 실신·부정맥 전문센터에서만 고려
 * 기립성 저혈압 실신 : 유발 약물 조정, 금기가 없을 때 수분·염분 섭취, 복대 또는 허리 높이 압박복을 우선 고려. 무릎 높이 압박스타킹만으로는 효과가 제한적
   * midodrine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미드론</mark>](https://www.health.kr/drug/A11A3180A0335)<mark style="color:blue;">]</mark>은 기립성·본태성·증후성 저혈압에 허가되어 있음
@@ -290,7 +290,7 @@ flowchart TD
   * 부정맥 확인 시 : 항부정맥제, ablation, pacemaker, ICD 등
   * 구조적 심질환 : 원인 질환 치료
 * 부상 예방 : 채혈 또는 주사 시 누워서 진행, 전조 증상 발생 시 앉거나 누움
-* 운전 : 원인·전구 증상·치료 여부·재발 위험과 개인/직업 운전 여부에 따라 제한을 개별화하고, <mark style="background-color:yellow;">현행 운전면허 관련 규정 확인</mark>. 원인 불명 또는 심장성 실신은 평가·치료 전 운전을 중단
+* 운전 : 원인·전구 증상·치료 여부·재발 위험과 개인/직업 운전 여부에 따라 제한을 개별화하고, <mark style="background-color:red;">현행 운전면허 관련 규정 확인</mark>. 원인 불명 또는 심장성 실신은 평가·치료 전 운전을 중단
 
 ***
 
@@ -323,11 +323,11 @@ flowchart TD
 > 약제 정보: [미드론정 2.5 ㎎](https://www.health.kr/drug/A11A3180A0335)
 >
 > * _✽ 깨어서 활동하는 낮 시간에 복용; 마지막 복용은 취침 최소 4시간 전이며, 낮 시간 복용 후에도 바로 눕지 않음. 앙와위 고혈압 주의_
-> * _✽ <mark style="background-color:yellow;">허가 외 사용 : 미드론은 저혈압에 허가되어 있으나</mark> 반사성 실신 예방은 허가 적응증이 아님_
+> * _✽ <mark style="background-color:red;">허가 외 사용 : 미드론은 저혈압에 허가되어 있으나</mark> 반사성 실신 예방은 허가 적응증이 아님_
 > * _✽ 비약물 치료(충분한 수분·염분 섭취, counter-pressure maneuver) 실패 후 2차 선택_
 > * _✽ 수분·염분 목표는 고혈압·심부전·콩팥병·간경변 여부를 고려해 개별화_
 > * _✽ 앙와위·기립 혈압과 요저류를 확인하고 반응에 따라 용량 조정_
-> * _✽ 고혈압·심한 심질환·배뇨장애 등 금기를 먼저 확인. <mark style="background-color:yellow;">자세한 처방은</mark> (☞ [반사성 실신](022_-reflex-syncope.md))_
+> * _✽ 고혈압·심한 심질환·배뇨장애 등 금기를 먼저 확인. <mark style="background-color:red;">자세한 처방은</mark> (☞ [반사성 실신](022_-reflex-syncope.md))_
 
 > **처방례 3.** 기립성 저혈압 - 만성(신경인성, 약물 조정 후에도 지속 시)
 >
@@ -339,10 +339,10 @@ flowchart TD
 > 약제 정보: [미드론정 2.5 ㎎](https://www.health.kr/drug/A11A3180A0335) · [플로리네프정 0.1 ㎎](https://www.health.kr/drug/A11ABBBBB1694)
 >
 > * _✽ 미드론은 깨어서 활동하는 낮 시간에 복용; 마지막 복용은 취침 최소 4시간 전. 앙와위 고혈압·요저류 주의_
-> * _✽ 플로리네프는 부종·체중 증가·저칼륨혈증·고혈압·심부전 악화를 모니터링. 기립성 저혈압 사용은 <mark style="background-color:yellow;">허가 외 사용</mark>이며 효과 근거의 확실성이 낮음_
+> * _✽ 플로리네프는 부종·체중 증가·저칼륨혈증·고혈압·심부전 악화를 모니터링. 기립성 저혈압 사용은 <mark style="background-color:red;">허가 외 사용</mark>이며 효과 근거의 확실성이 낮음_
 > * _✽ 두 약을 처음부터 병용하는 처방례가 아님. 한 약제로 시작해 반응·부작용을 평가하고, 병용은 전문적 판단하에 단계적으로 고려_
 > * _✽ 앙와위·기립 혈압, 체중·부종, 전해질·콩팥기능을 추적. 미드론은 고혈압·심한 심질환·배뇨장애 등 금기 환자에게 투여하지 않음. 플로리네프는 심부전에서 피하고, 중증 콩팥병·앙와위 고혈압에서는 특히 신중히 판단_
-> * _✽ 플로리네프 시작 또는 증량 후 약 1\~2주 내 혈압·체중·부종·<mark style="background-color:yellow;">혈청 K⁺/콩팥기능</mark> 첫 추적을 고려; 고령·심부전·콩팥병 또는 병용약물 위험이 있으면 더 일찍 평가_
+> * _✽ 플로리네프 시작 또는 증량 후 약 1\~2주 내 혈압·체중·부종·<mark style="background-color:red;">혈청 K⁺/콩팥기능</mark> 첫 추적을 고려; 고령·심부전·콩팥병 또는 병용약물 위험이 있으면 더 일찍 평가_
 > * _✽ 복대 또는 허리 높이 압박복, 침대 머리 쪽을 올려 두부 거상 취침, 소량 빈번한 식사를 병행_
 
 ***
@@ -355,8 +355,8 @@ flowchart TD
 > * 전조 증상(어지럼, 식은땀, 창백)이 느껴지면 즉시 앉거나 눕고 다리를 올리십시오.
 > * 회복 후 빠르게 일어나지 말고, 천천히 앉았다가 일어나는 습관을 들이십시오.
 > * 심부전·콩팥병 등으로 수분 제한이 필요하면 먼저 의료진과 상의하십시오.
-> * <mark style="background-color:yellow;">기립성 저혈압이 있으면 장시간 서 있기 등이 예상될 때 15\~30분 전에 물 500 ㎖를 빠르게 마시면 예방에 도움이 될 수 있습니다. 의식과 삼킴이 정상일 때만 마십시오.</mark>
-> * <mark style="background-color:yellow;">이미 전조 증상이 시작되었다면 물을 마시기보다 먼저 앉거나 눕고 맞압력 조작을 하십시오.</mark>
+> * <mark style="background-color:red;">기립성 저혈압이 있으면 장시간 서 있기 등이 예상될 때 15\~30분 전에 물 500 ㎖를 빠르게 마시면 예방에 도움이 될 수 있습니다. 의식과 삼킴이 정상일 때만 마십시오.</mark>
+> * <mark style="background-color:red;">이미 전조 증상이 시작되었다면 물을 마시기보다 먼저 앉거나 눕고 맞압력 조작을 하십시오.</mark>
 
 > **미드론(Midodrine) 복용 시 주의사항**
 >
@@ -368,7 +368,7 @@ flowchart TD
 > **플로리네프 복용 시 주의사항**
 >
 > * 아침에 하루 한 번 처방량을 복용하고 임의로 증량하거나 중단하지 마십시오.
-> * 혈압·체중·부종을 확인하고 혈액검사로 칼륨·<mark style="background-color:yellow;">콩팥기능</mark>을 추적합니다. 급격한 체중 증가·부종·숨참·심한 근육경련·두근거림이 생기면 진료를 받으십시오.
+> * 혈압·체중·부종을 확인하고 혈액검사로 칼륨·<mark style="background-color:red;">콩팥기능</mark>을 추적합니다. 급격한 체중 증가·부종·숨참·심한 근육경련·두근거림이 생기면 진료를 받으십시오.
 > * 플로리네프정은 밀폐하여 2\~8℃에서 냉장 보관하십시오.
 
 > **운전 및 위험 활동**
@@ -394,12 +394,12 @@ flowchart TD
 * \[Europace 2024] [de Lange FJ, et al. Carotid sinus massage in clinical practice: the Six-Step-Method. Europace. 2024;26(11):euae266.](https://doi.org/10.1093/europace/euae266) - 앙와위·기립 경동맥동 마사지의 단계별 시행법
 * [Möckel M, et al. The syncope core management process in the emergency department: a consensus statement of the EUSEM syncope group. Eur J Emerg Med. 2024;31(4):250-259.](https://doi.org/10.1097/MEJ.0000000000001146) - 응급실 실신 평가·처치 과정
 * \[JAMA Intern Med 2020] [Thiruganasambandamoorthy V, et al. Multicenter Emergency Department Validation of the Canadian Syncope Risk Score. JAMA Intern Med. 2020;180(5):737-744.](https://doi.org/10.1001/jamainternmed.2020.0288) - 캐나다 다기관 검증의 위험군별 30일 중대 결과
-* <mark style="background-color:yellow;">\[JAMA Netw Open 2026]</mark> [Suh EH, et al. Validation of 2 Syncope Risk Scores and Comparison With Physician Risk Estimation. JAMA Netw Open. 2026;9(5):e2617362.](https://doi.org/10.1001/jamanetworkopen.2026.17362) - 40세 이상 실신·전실신 환자의 미국 외부 검증과 점수의 한계
+* <mark style="background-color:red;">\[JAMA Netw Open 2026]</mark> [Suh EH, et al. Validation of 2 Syncope Risk Scores and Comparison With Physician Risk Estimation. JAMA Netw Open. 2026;9(5):e2617362.](https://doi.org/10.1001/jamanetworkopen.2026.17362) - 40세 이상 실신·전실신 환자의 미국 외부 검증과 점수의 한계
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* <mark style="background-color:yellow;">[식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
-* [건강보험심사평가원. 이식형 사건기록기 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220201\&sno=5\&mtgMtrRegSno=0002)<mark style="background-color:yellow;"> - 이식형 사건기록기(ILR) 급여 대상 확인</mark>
+* <mark style="background-color:red;">[식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
+* [건강보험심사평가원. 이식형 사건기록기 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220201\&sno=5\&mtgMtrRegSno=0002)<mark style="background-color:red;"> - 이식형 사건기록기(ILR) 급여 대상 확인</mark>
 * [CredibleMeds. QTDrugs Lists.](https://crediblemeds.org/) - QT 연장·torsades de pointes 위험의 Known/Possible/Conditional Risk 분류
 
 ***
@@ -423,7 +423,7 @@ flowchart TD
 * 실신과 함께 흉통·심한 두근거림·호흡곤란이 동반된 경우
 * 전조 증상 없이 갑자기 쓰러진 경우(회복했더라도 지체하지 말고 응급실에서 평가)
 * 운동 중 또는 누운 자세에서 실신이 발생한 경우
-* <mark style="background-color:yellow;">심장 질환이 있거나 젊은 나이에 갑자기 사망한 가족이 있는 사람이 실신한 경우</mark>
+* <mark style="background-color:red;">심장 질환이 있거나 젊은 나이에 갑자기 사망한 가족이 있는 사람이 실신한 경우</mark>
 * 의식이 빨리 완전히 회복되지 않거나, 한쪽 마비·말 어눌함·심한 두통·지속되는 혼돈이 있는 경우
 * 심한 출혈, 임신 중 출혈·복통, 큰 외상이 동반된 경우
 
@@ -431,7 +431,7 @@ flowchart TD
 
 * 반응과 정상 호흡을 확인하십시오. **반응이 없고 정상적으로 숨 쉬지 않으면 즉시 119에 신고하고, 자동심장충격기(AED)를 요청한 뒤 가슴압박 심폐소생술을 시작**하십시오.
 * 정상 호흡이 있고 곧 반응이 돌아오면 안전한 곳에 똑바로 눕히고 가능하면 다리를 올리며 계속 관찰하십시오. 정상 호흡은 있지만 반응이 없거나 구토하면 기도가 막히지 않도록 옆으로 돌려 회복자세를 취하십시오(큰 외상이 의심되면 불필요하게 움직이지 않음).
-* 완전히 깨어 삼킬 수 있기 전에는 물·음식·약을 주지 마십시오. <mark style="background-color:yellow;">회복이 지연되거나 위의 응급 징후가 있으면 119에 신고하십시오.</mark>
+* 완전히 깨어 삼킬 수 있기 전에는 물·음식·약을 주지 마십시오. <mark style="background-color:red;">회복이 지연되거나 위의 응급 징후가 있으면 119에 신고하십시오.</mark>
 
 #### <mark style="color:$primary;">실신 전조 증상이 느껴질 때</mark>
 
