@@ -116,7 +116,7 @@
 * 갑작스러운 심계항진 직후 실신 `부정맥성 실신`
 * 전구 증상 없이 또는 매우 짧은 전구 증상 후 발생한 실신이 구조적 심질환·관상동맥질환 또는 비정상 ECG와 동반 `부정맥성 실신`
 * 기저 구조적 심질환(심부전, <mark style="background-color:red;">심근병증</mark>, 판막질환), 관상동맥질환 또는 유전성 부정맥이 의심되는 젊은 나이의 급사·익사 가족력 `구조적 심질환` `유전성 부정맥`
-* 회복 후 활력징후가 안정된 상태에서 확인된 고위험 ECG :  `부정맥성 실신` `유전성 부정맥`
+* <mark style="background-color:yellow;">회복 후 활력징후가 안정된 상태에서 확인된 고위험 ECG 소견</mark> (☞ [고위험 ECG 소견](#high-risk-ecg)) `부정맥성 실신` `유전성 부정맥`
 * 증상 또는 임상 상태와 연관된 중증 빈혈·출혈이나 유의한 전해질 이상 `출혈` `전해질 이상`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -144,18 +144,21 @@
   * 양팔 혈압 차이가 크거나 대동맥박리·쇄골하동맥 질환이 의심될 때 양측 혈압 확인
   * 수축기 잡음 청취 시 HOCM(Valsalva 시 증강)·대동맥협착증 감별 고려
 * ECG : 모든 실신 환자에서 반드시 시행
-  * 고위험 ECG 소견 <mark style="color:$info;">\[ESC 2018]</mark>
-    * 허혈·구조 : 급성 심근허혈 소견, 각차단·심실내 전도 장애, 심실비후, 허혈성 심질환·심근병증에 합당한 Q파
-    * 서맥·전도 : Mobitz II형 또는 3도 AV block, 생리적·약물성 원인으로 설명되지 않는 각성 시 지속 서맥 ＜40회/분 또는 서맥성 AF ＜40회/분, ＞3초 동정지
-    * 빈맥 : 비지속성 VT 또는 기록상 확인된 지속성 VT
-    * 유전성 부정맥 : type 1 Brugada pattern, 반복 ECG에서 QTc ＞460 ㎳
-  * 부정맥성 실신에 합당한 병력이 동반되면 고위험으로 평가하는 소견
-    * Mobitz I형, PR이 현저히 연장된 1도 AV block
-    * 경도 서맥 또는 서맥성 AF(40\~50회/분)
-    * 발작성 SVT·AF, pre-excitation
-    * short QT(≤340 ㎳), 비전형 Brugada pattern
-    * ARVC 시사 소견(우측 흉부유도 음성 T파, epsilon파)
-  * ＞3초 pause는 젊은 운동선수, 수면 중, 심박수가 조절된 AF 등 생리적 예외를 고려
+
+#### <mark style="color:$primary;">고위험 ECG 소견</mark> <a href="#high-risk-ecg" id="high-risk-ecg"></a>
+
+* <mark style="background-color:yellow;">단독으로 고위험인 소견</mark> <mark style="color:$info;">\[ESC 2018]</mark>
+  * 허혈·구조 : 급성 심근허혈 소견, 각차단·심실내 전도 장애, 심실비후, 허혈성 심질환·심근병증에 합당한 Q파
+  * 서맥·전도 : Mobitz II형 또는 3도 AV block, 생리적·약물성 원인으로 설명되지 않는 각성 시 지속 서맥 ＜40회/분 또는 서맥성 AF ＜40회/분, ＞3초 동정지
+  * 빈맥 : 비지속성 VT 또는 기록상 확인된 지속성 VT
+  * 유전성 부정맥 : type 1 Brugada pattern, 반복 ECG에서 QTc ＞460 ㎳
+* 부정맥성 실신에 합당한 병력이 동반되면 고위험으로 평가하는 소견
+  * Mobitz I형, PR이 현저히 연장된 1도 AV block
+  * 경도 서맥 또는 서맥성 AF(40\~50회/분)
+  * 발작성 SVT·AF, pre-excitation
+  * short QT(≤340 ㎳), 비전형 Brugada pattern
+  * ARVC 시사 소견(우측 흉부유도 음성 T파, epsilon파)
+* ＞3초 pause는 젊은 운동선수, 수면 중, 심박수가 조절된 AF 등 생리적 예외를 고려
 
 {% hint style="info" %}
 **QTc 연장 확인 시 즉시 약물 검토** : 실신 환자에서 QTc ＞460 ㎳가 확인되면 반복 ECG, 전해질, 콩팥기능, 가족력 및 다음 QT 연장 유발 약물을 함께 검토할 것. QTc ＞500 ㎳는 torsades de pointes 위험이 더 높지만, QTc 수치만으로 선천성 long-QT syndrome을 확진하지 않음.
@@ -164,8 +167,6 @@
 * 2종 이상 병용, 고용량, 저칼륨·저마그네슘혈증, 서맥, 콩팥·간기능 저하는 위험을 높일 수 있음. \
   [CredibleMeds QTDrugs List](https://crediblemeds.org)에서 개별 약물의 Known/Possible/Conditional Risk 확인
 {% endhint %}
-
-* 2024 대한부정맥학회, 2018 ESC 및 2017 ACC/AHA/HRS 지침 공통 원칙 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실검사 및 영상검사는 권고하지 않음
 
 ***
 
