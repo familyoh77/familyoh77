@@ -51,7 +51,7 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 운동 중 또는 누운 자세에서 발생한 실신 - 현재 활력징후가 불안정하거나 증상 또는 위험 부정맥이 지속 `심장성 실신`
+* 운동 중 또는 누운 자세에서 발생한 실신 - 현재 활력징후가 불안정하거나 증상 또는 위험 부정맥이 지속 `심장성 실신`&#x20;
 * 실신과 동시에 발생한 흉통·호흡곤란·저산소증, 또는 실신 전후로 시작되어 회복 후에도 지속되는 심계항진 `급성 관상동맥증후군` `폐색전증` `부정맥`
 * 회복 후에도 지속되는 의식 변화, 국소 신경학적 이상, 심한 두통 `뇌졸중` `지주막하출혈` `뇌전증 발작`
 * 지속적인 저혈압·서맥·빈맥 또는 활동성 출혈·심한 빈혈 `쇼크` `부정맥` `중증 출혈` `폐색전증`
@@ -132,19 +132,20 @@
 
 ```mermaid
 flowchart TD
-    A["실신: 병력·진찰·활력징후·<br/>ECG"] --> B["Red Flags 즉각 조치 항목?"]
-    B -- "예" --> C["즉시 응급조치·이송<br>심장·뇌·출혈·<br/>외상 원인 평가"]
-    B -- "아니요" --> B2["Red Flags <br/>당일 평가 항목?"]
-    B2 -- "예" --> C2["당일 응급 평가·<br/>ECG 감시"]
+    A["실신: 병력·진찰·활력징후·ECG"] --> B["Red Flags 즉각 조치 항목?"]
+    B -- "예" --> C["즉시 응급조치·이송<br>심장·뇌·출혈·외상 원인 평가"]
+    B -- "아니요" --> B2["Red Flags 당일 평가 항목?"]
+    B2 -- "예" --> C2["당일 응급 평가·ECG 감시"]
     B2 -- "아니요" --> D["전형적 반사성 실신?"]
-    D -- "아니요" --> E["표적 검사·<br/>장기 ECG로 <br/>기전 확인"]
-    D -- "예" --> F["교육·유발요인 회피·<br/>맞압력 조작"]
+    D -- "아니요" --> E["표적 검사·장기 ECG로 기전 확인"]
+    D -- "예" --> F["교육·유발요인 회피·전조 시 맞압력 조작"]
     F --> G["중증 재발 지속?"]
     G -- "아니요" --> H["추적·안전 대책 유지"]
     G -- "예" --> I["확인된 우세 기전"]
-    I -- "저혈압" --> J["혈압강하약 조정·<br/>선별적 약물 치료"]
-    I -- "서맥·무수축" --> K["연령·기록 <br/>소견에 따라 <br/>pacing 평가"]
+    I -- "저혈압" --> J["혈압강하약 조정·선별적 약물 치료"]
+    I -- "서맥·무수축" --> K["연령·기록 소견에 따라 pacing 평가"]
     I -- "불명" --> E
+
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
@@ -204,8 +205,9 @@ flowchart TD
   * <mark style="background-color:red;">개인 운전자의 운전 재개 시점은 대한부정맥학회 지침 표 11을 참고</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
 * 보완/대체요법 : 보충제, 약초 및 동종요법이 반사성 실신 재발을 예방한다는 근거는 확립되지 않아 routine 권고하지 않음
 
-#### <mark style="color:$primary;">Counter-pressure Maneuver</mark>
+#### <mark style="color:$primary;">신체 맞압력 조작법 Physical Counter-pressure Maneuver (PCM)</mark> <a href="#counter-pressure-maneuver" id="counter-pressure-maneuver"></a>
 
+* <mark style="background-color:yellow;">전조 증상이 있을 때 다리·팔·복부 근육을 등척성으로 수축해 일시적으로 심박출량과 혈압을 올리는 방법</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
 * 전조 증상을 인지할 수 있는 VVS 환자에서 재발을 줄이는 데 유용함
 * 먼저 눕거나 앉아 안전을 확보한 뒤 시행. 기립 상태의 leg crossing·squatting은 균형을 유지할 수 있고 낙상 위험이 낮을 때만 시행
   * Leg crossing : 다리를 교차하고 다리·복부·엉덩이 근육에 강하게 힘을 줌
