@@ -51,7 +51,7 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 운동 중 또는 누운 자세에서 발생한 실신 - 현재 활력징후가 불안정하거나 증상 또는 위험 부정맥이 지속 `심장성 실신`&#x20;
+* 운동 중 또는 누운 자세에서 발생한 실신 - 현재 활력징후가 불안정하거나 증상 또는 위험 부정맥이 지속 `심장성 실신`
 * 실신과 동시에 발생한 흉통·호흡곤란·저산소증, 또는 실신 전후로 시작되어 회복 후에도 지속되는 심계항진 `급성 관상동맥증후군` `폐색전증` `부정맥`
 * 회복 후에도 지속되는 의식 변화, 국소 신경학적 이상, 심한 두통 `뇌졸중` `지주막하출혈` `뇌전증 발작`
 * 지속적인 저혈압·서맥·빈맥 또는 활동성 출혈·심한 빈혈 `쇼크` `부정맥` `중증 출혈` `폐색전증`
@@ -60,21 +60,21 @@
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 운동 중 또는 누운 자세에서 발생한 실신으로 완전히 회복되어 현재 안정적인 경우 `구조적 심질환` `부정맥`
+* 운동 중 또는 누운 자세에서 발생한 실신으로 완전히 회복되어 현재 안정적임 `구조적 심질환` `부정맥`
 * 알려진 구조적 심질환·심부전 또는 이전 심근경색 `구조적 심질환`
 * <mark style="background-color:yellow;">즉각 조치 항목 외의 고위험 ECG 소견</mark> (☞ [실신](021_-syncope.md#high-risk-ecg)) `부정맥성 실신` `유전성 부정맥`
 * 실신 직전 갑작스럽게 시작된 심계항진 `부정맥성 실신`
-* 구조적 심질환 또는 비정상 ECG가 있으면서 앉은 자세에서 실신했거나 전조가 없거나 매우 짧았던 경우 `부정맥성 실신`
+* 구조적 심질환 또는 비정상 ECG가 있으면서 앉은 자세에서 실신했거나 전조가 없거나 매우 짧았음 `부정맥성 실신`
 * 젊은 연령의 돌연사 가족력 또는 Long QT syndrome, Brugada syndrome, CPVT 등 유전성 부정맥 가족력 `유전성 부정맥`
-* 첫 실신이거나 이전과 양상이 달라졌으며 반사성 실신으로 확신하기 어려운 경우 `심장성 실신` `비실신성 TLOC`
-* 전조가 없거나 매우 짧은 중증·예측 불가능한 재발성 실신, 특히 외상이 발생했거나 외상 위험이 높은 경우 `부정맥성 실신` `심장억제형 반사성 실신`
+* 첫 실신이거나 이전과 양상이 달라졌으며 반사성 실신으로 확신하기 어려움 `심장성 실신` `비실신성 TLOC`
+* 전조가 없거나 매우 짧은 중증·예측 불가능한 재발성 실신, 특히 외상이 발생했거나 외상 위험이 높음 `부정맥성 실신` `심장억제형 반사성 실신`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 전형적인 유발 상황과 전조가 있으며 실신이 반복되거나 일상생활·직업에 지장이 있는 경우 `재발성 반사성 실신`
-* 반사성 실신이 유력하며 전조가 짧아 안전한 자세를 취하기 어렵거나 외상 위험이 높거나 외상이 반복되는 경우 `재발성 반사성 실신`
-* 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심되는 경우 `약물 관련 저혈압`
-* <mark style="background-color:red;">기립불내성이 동반되거나 낙상이 반복되는 경우</mark> `기립성 저혈압` `POTS`
+* 전형적인 유발 상황과 전조가 있으며 실신이 반복되거나 일상생활·직업에 지장이 있음 `재발성 반사성 실신`
+* 반사성 실신이 유력하며 전조가 짧아 안전한 자세를 취하기 어렵거나 외상 위험이 높거나 외상이 반복됨 `재발성 반사성 실신`
+* 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심됨 `약물 관련 저혈압`
+* <mark style="background-color:red;">기립불내성이 동반되거나 낙상이 반복됨</mark> `기립성 저혈압` `POTS`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -126,38 +126,11 @@
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 발생</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 직전 또는 동시에 시작한 지속적·규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상; tilt test 중 평소 삽화가 재현되는 동안 저혈압·서맥이 없음을 비디오와 연속 혈압·ECG로 확인; 뇌전증과 감별이 어려우면 비디오-EEG 동시 기록 고려; 정신건강의학과 협진 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td><strong>혈관미주신경성 실신</strong></td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td><strong>상황 실신</strong></td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 발생</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md"><strong>기립성 저혈압</strong></a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md"><strong>식후저혈압</strong></a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td><strong>심장성 실신</strong></td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td><strong>뇌전증 발작</strong></td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 직전 또는 동시에 시작한 지속적·규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td><strong>심인성 가성실신(PPS)</strong></td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상; tilt test 중 평소 삽화가 재현되는 동안 저혈압·서맥이 없음을 비디오와 연속 혈압·ECG로 확인; 뇌전증과 감별이 어려우면 비디오-EEG 동시 기록 고려; 정신건강의학과 협진 고려</td></tr></tbody></table>
 
 ***
 
 ```mermaid
-flowchart TD
-    A["실신: 병력·진찰·활력징후·ECG"] --> B["Red Flags 즉각 조치 항목?"]
-    B -- "예" --> C["즉시 응급조치·이송<br>심장·뇌·출혈·외상 원인 평가"]
-    B -- "아니요" --> B2["Red Flags 당일 평가 항목?"]
-    B2 -- "예" --> C2["당일 응급 평가·ECG 감시"]
-    B2 -- "아니요" --> D["전형적 반사성 실신?"]
-    D -- "아니요" --> E["표적 검사·장기 ECG로 기전 확인"]
-    D -- "예" --> F["교육·유발요인 회피·전조 시 맞압력 조작"]
-    F --> G["중증 재발 지속?"]
-    G -- "아니요" --> H["추적·안전 대책 유지"]
-    G -- "예" --> I["확인된 우세 기전"]
-    I -- "저혈압" --> J["혈압강하약 조정·선별적 약물 치료"]
-    I -- "서맥·무수축" --> K["연령·기록 소견에 따라 pacing 평가"]
-    I -- "불명" --> E
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef evaluation fill:#f1f8e9,stroke:#9ccc65
-    classDef treatment fill:#e3f2fd,stroke:#64b5f6
-    classDef followup fill:#e8eaf6,stroke:#7986cb
-    class A start
-    class B,B2,D,G,I question
-    class C,C2 emergency
-    class E,K evaluation
-    class F,J treatment
-    class H followup
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Brignole M, et al. Eur Heart J 2018; Glikson M, et al. Eur Heart J 2021)</mark></em></p>
@@ -188,7 +161,8 @@ flowchart TD
 * 유발 인자와 취약 조건을 파악하고 탈수·고온·혼잡한 환경·장시간 기립·과음을 피함
 * 고혈압·심부전·신장질환 등 금기가 없는 재발성 VVS에서 수분 2\~3 L/d와 소금 총 6\~9 g/d를 개별적으로 고려. VVS 재발 예방에 대한 직접 근거는 제한적임 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
   * 소금 6\~9 g/d는 평소 식사를 포함한 하루 총 섭취량이며, 혈압과 동반 질환에 따라 개별화
-* 전조 증상이 시작되면 즉시 눕고 가능하면 다리를 올림. 누울 수 없으면 안전한 곳에 앉고, 안전한 자세를 취한 뒤 가능한 맞압력 조작을 시행
+* 전조 증상이 시작되면 즉시 눕고 가능하면 다리를 올림
+  * 누울 수 없으면 안전한 곳에 앉고, 안전한 자세를 취한 뒤 가능한 맞압력 조작을 시행
 * <mark style="background-color:red;">물 500 ㎖의 빠른 섭취는 효과가 즉시 나타나는 응급 대처가 아님</mark>
   * <mark style="background-color:red;">예측 가능한 유발 상황 약 15\~30분 전 예방적 보조요법으로 고려할 수 있으며, 특히 기립성 저혈압이 동반된 환자에서 도움이 될 수 있으나 VVS 단독 재발 예방 근거는 제한적임</mark>
   * 전조 증상이 이미 시작되었다면 물을 마시는 것보다 즉시 안전한 자세를 취하는 것이 우선
@@ -200,14 +174,17 @@ flowchart TD
   * 동반된 기립성 저혈압·기립불내성을 관리하는 데 필요한 경우에만 선택적으로 고려. 복부 바인더·허리 높이 압박의 VVS 재발 예방 효과는 아직 확립되지 않음
 * 채혈·주사는 가능하면 누운 자세에서 시행
 * 전조가 짧거나 없는 환자, 또는 실신이 반복되는 환자는 진단과 증상 조절 전까지 운전·고소 작업·수영 등 위험 활동을 피함
-* 운전 제한 : <mark style="background-color:red;">원인, 전조, 운전 중 발생 여부, 재발 위험과 개인·직업 운전 여부에 따라 제한 및 재개 시점을 개별 판단</mark>
-  * <mark style="background-color:red;">운전 중 실신했거나 전조 없이 실신이 반복되면 원인 평가와 증상 조절이 확인될 때까지 운전을 제한하고, 직업 운전자는 더 보수적으로 판단</mark>
-  * <mark style="background-color:red;">개인 운전자의 운전 재개 시점은 대한부정맥학회 지침 표 11을 참고</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
 * 보완/대체요법 : 보충제, 약초 및 동종요법이 반사성 실신 재발을 예방한다는 근거는 확립되지 않아 routine 권고하지 않음
+* 운전 제한 : 원인, 전조, 운전 중 발생 여부, 재발 위험과 개인·직업 운전 여부에 따라 개별 판단
+  * 개인 운전자가 운전을 피해야 할 최소 무증상 기간은 아래 표와 같음 <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
+  * 직업 운전자는 더 엄격하게 판단하며, 지침에 별도 기간은 제시되어 있지 않음
+  * 운전 중 실신했거나 전조 없이 실신이 반복되면 원인 평가와 증상 조절이 확인될 때까지 운전을 제한
+
+<table data-search="false"><thead><tr><th>실신의 원인</th><th>조건</th><th>무증상 운전 중지 기간</th></tr></thead><tbody><tr><td rowspan="3"><strong>혈관미주신경성</strong></td><td>최근 1년간 실신 없음</td><td>제한 없음</td></tr><tr><td>연 1~6회</td><td>1개월</td></tr><tr><td>연 6회 초과</td><td>증상 조절 시까지 제한</td></tr><tr><td><strong>기침 유발성</strong></td><td>치료 전</td><td>제한</td></tr><tr><td></td><td>진해제 치료 후</td><td>1개월</td></tr><tr><td><strong>기타 상황 실신</strong></td><td>-</td><td>1개월</td></tr><tr><td rowspan="2"><strong>경동맥동증후군</strong></td><td>치료 전</td><td>제한</td></tr><tr><td>영구 심박동기 삽입 후</td><td>1주</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">신체 맞압력 조작법 Physical Counter-pressure Maneuver (PCM)</mark> <a href="#counter-pressure-maneuver" id="counter-pressure-maneuver"></a>
 
-* <mark style="background-color:yellow;">전조 증상이 있을 때 다리·팔·복부 근육을 등척성으로 수축해 일시적으로 심박출량과 혈압을 올리는 방법</mark> <mark style="color:$info;">\[대한부정맥학회 2024]</mark>
+* <mark style="background-color:yellow;">전조 증상이 있을 때 다리·팔·복부 근육을 등척성으로 수축해 일시적으로 심박출량과 혈압을 올리는 방법</mark>
 * 전조 증상을 인지할 수 있는 VVS 환자에서 재발을 줄이는 데 유용함
 * 먼저 눕거나 앉아 안전을 확보한 뒤 시행. 기립 상태의 leg crossing·squatting은 균형을 유지할 수 있고 낙상 위험이 낮을 때만 시행
   * Leg crossing : 다리를 교차하고 다리·복부·엉덩이 근육에 강하게 힘을 줌
@@ -223,12 +200,14 @@ flowchart TD
 #### <mark style="color:$primary;">Midodrine</mark>
 
 * 기립 유발 및 저혈압 우세형 VVS에서 가장 근거가 양호한 약물 중 하나
-* <mark style="background-color:red;">POST-4 RCT와 메타분석에서 재발성 VVS의 재발 감소가 확인됨</mark>. 비약물 치료에도 증상 부담이 큰 환자에서 선별적으로 고려 <mark style="color:$info;">\[Ann Intern Med 2021; Europace 2022]</mark>
+* <mark style="background-color:red;">POST-4 RCT와 메타분석에서 재발성 VVS의 재발 감소가 확인됨</mark>
+* 비약물 치료에도 증상 부담이 큰 환자에서 선별적으로 고려 <mark style="color:$info;">\[Ann Intern Med 2021; Europace 2022]</mark>
 * 허가 사항
   * 효능 : 저혈압(기립성·본태성·증후성) - VVS는 적응증으로 명시되어 있지 않음
   * 용법 : 성인 1회 2.5 ㎎, 1일 2\~3회. 증상과 혈압에 따라 최소 유효량 사용 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미드론</mark>](https://www.health.kr/drug/A11A3180A0335)<mark style="color:blue;">]</mark>
   * 누운 자세 고혈압을 줄이기 위해 늦어도 취침 4시간 전 복용
-* 누운 자세·기립 혈압, 배뇨 증상 및 신기능을 확인. 고혈압·심한 심질환·급성 신장염·갑상선기능항진증·크롬친화세포종·폐쇄우각형 녹내장·혈관경련/폐색·배뇨장애·빈맥성 부정맥 환자에게는 투여하지 않음
+* 누운 자세·기립 혈압, 배뇨 증상 및 신기능을 확인
+* 금기 : 고혈압, 심한 심질환, 급성 신장염, 갑상선기능항진증, 크롬친화세포종, 폐쇄우각형 녹내장, 혈관경련/폐색, 배뇨장애, 빈맥성 부정맥
 
 #### <mark style="color:$primary;">Fludrocortisone</mark>
 
@@ -240,9 +219,9 @@ flowchart TD
 
 #### <mark style="color:$primary;">β-blocker</mark>
 
-* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있으나(Class IIb) 근거는 일관되지 않음 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
-* 소아·청소년의 VVS에서는 유익성 없음(Class III: No Benefit) <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
-* ESC 2018은 β-blocker가 VVS 재발을 줄이는 데 효과적이지 않아 권고하지 않음(Class III, 근거수준 A)
+* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있으나 근거는 일관되지 않음 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
+* 소아·청소년의 VVS에서는 유익성 없음 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark>
+* ESC 2018은 β-blocker가 VVS 재발을 줄이는 데 효과적이지 않아 권고하지 않음
 * VVS는 허가 적응증에 명시되어 있지 않으며 routine 처방하지 않음
 
 #### <mark style="color:$primary;">SSRI</mark>
@@ -256,36 +235,27 @@ flowchart TD
 
 #### <mark style="color:$primary;">Atomoxetine</mark>
 
-* Norepinephrine transporter(NET) 억제제로, 실신 직전에 나타나는 반사성 서맥을 완화하여 심박출량과 혈압의 최종 하강을 막는 것이 주된 기전으로 제시됨. 초기 근거가 축적 중이나 아직 표준 치료로 자리잡지 않음
-* POST VI에서 기립경사검사로 유발된 실신이 감소함 <mark style="color:$info;">\[Europace 2019]</mark>
-* <mark style="background-color:red;">소규모 파일럿 RCT(n＝46)에서는 3개월에 실신·전실신 복합 종료점이 감소했으나, 실신 없는 생존기간은 군간 차이가 없었음(P＝0.903)</mark> <mark style="color:$info;">\[Int J Cardiol Heart Vasc 2021]</mark>
-  * <mark style="background-color:red;">실신 사건 수가 적어 실신 단독 예방 효과를 판단하기에는 한계가 있음</mark>
-  * <mark style="background-color:red;">기저 수축기 혈압 ＜110 ㎜Hg 하위군에서는 효과 가능성이 시사됨</mark>
-* 심혈관계 부작용(혈압·맥박 상승) 고려해 routine 권고 약물이 아님
-* 허가 효능·효과는 ADHD이며 VVS에 대한 적응증은 없음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아토목신</mark>](https://www.health.kr/drug/2014031800001)<mark style="color:blue;">]</mark>
+* norepinephrine transporter(NET) 억제제로, 반사성 서맥을 완화해 실신 직전의 혈압 하강을 막는 기전이 제시됨
+* 기립경사검사로 유발된 실신은 감소했으나 <mark style="color:$info;">\[Europace 2019]</mark>, 소규모 파일럿 RCT에서 실신 단독 예방 효과는 확인되지 않아 아직 표준 치료가 아님 <mark style="color:$info;">\[Int J Cardiol Heart Vasc 2021]</mark>
+* 혈압·맥박 상승 등 심혈관계 부작용을 고려해 routine 권고하지 않음
+* 허가 효능·효과는 ADHD이며 VVS 적응증은 없음 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아토목신</mark>](https://www.health.kr/drug/2014031800001)<mark style="color:blue;">]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 #### <mark style="color:$primary;">심박동기 Pacemaker</mark>
 
-* 심박동기는 일반적인 VVS 치료가 아니며 혈관 확장·저혈압을 직접 막지 못하지만, 서맥·무수축이 실신의 주된 기전으로 문서화된 고도 선별 환자에서는 근거 기반 기전 치료로 고려
-* 40세 초과의 중증·예측 불가능·재발성 반사성 실신에서 다음 중 하나가 확인되면 재발 감소를 위해 이중방 심박동기(dual-chamber pacemaker)를 권고(Class I, 근거수준 A) <mark style="color:$info;">\[ESC 2021]</mark>
-  * 자발성 증상 동반 무수축 휴지기 ＞3초 또는 무증상 휴지기 ＞6초(동정지 또는 방실차단)
-  * 심장억제형 CSS : CSM 중 ＞3초 무수축과 함께 평소 실신이 재현된 경우
-  * 기립경사검사 중 ＞3초 무수축과 함께 평소 실신이 재현된 경우
-* 약물치료 무반응은 적응증의 필수 조건이 아님
-* vasodepressor 우세형에서는 효과가 제한적임
-* Mixed CSS도 저혈압 성분이 클수록 pacing 후 재발 위험이 높으므로 개별 평가
-* 40세 이하에서는 근거가 부족하며 예외적인 환자에서 전문적으로 판단
+* 일반적인 VVS 치료가 아니며, 서맥·무수축이 실신의 주된 기전으로 확인된 고도 선별 환자에서만 고려
+* 40세 초과의 중증·예측 불가능·재발성 반사성 실신에서 다음 중 하나가 확인되면 dual-chamber pacemaker를 권고 <mark style="color:$info;">\[ESC 2021]</mark>
+  * 자발성 증상 동반 무수축 ＞3초 또는 무증상 무수축 ＞6초
+  * CSM 또는 기립경사검사 중 ＞3초 무수축과 함께 평소 실신이 재현
+* 혈관 확장·저혈압 성분이 큰 경우에는 효과가 제한적이며, 40세 이하에서는 근거가 부족
+* 위 조건이 의심되면 장기 ECG 모니터링이나 부정맥 전문의 평가로 의뢰
 
 #### <mark style="color:$primary;">Cardioneuroablation(CNA)</mark>
 
-* 심장 내재 자율신경계의 신경절총(ganglionated plexi, GPs)을 표적으로 고주파 절제하여 과도한 심장 미주신경 효과를 감소시키는 시술
-* 2024 EHRA/HRS/APHRS/LAHRS 과학선언이 발표되었으나 확립된 표준치료나 일반적 지침 적응증은 아님
-* 소규모 RCT는 sham-controlled가 아니며, 대규모 맹검 연구·장기 안전성 자료와 환자 선택·절제 부위·종료 기준의 표준화가 부족
-* 지속적인 심박수 증가·증상성 동성빈맥, 혈관 접근·심낭·전도계·관상동맥·횡격신경 손상 및 혈전색전 등 심방 절제술 관련 합병증 가능
-* 단순히 심박동기를 거부한다는 이유만으로 시행하지 않음. 중증·예측 불가능·재발성 실신이 지침 기반 비침습 치료에도 지속되고, 자발성 또는 tilt 유발 asystole이 문서화된 고도 선별 환자에서 고려하되, 저혈압 표현형과 교정 가능한 혈압 조절 문제를 먼저 평가·치료
-* 아직 강한 권고를 뒷받침할 근거가 부족하므로 경험 많은 전문센터의 임상시험 또는 충분한 공동의사결정하에 제한적으로 고려
+* 심장 주변 자율신경절을 고주파로 절제해 과도한 미주신경 반응을 줄이는 시술
+* 소규모 비맹검 연구 중심으로 근거와 장기 안전성이 확립되지 않아 표준 치료가 아님
+* 무수축이 확인된 중증 재발성 실신에서 전문센터의 판단하에 제한적으로 고려
 
 ***
 
