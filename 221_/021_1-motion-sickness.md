@@ -7,7 +7,7 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 예상된 감각 정보와 실제 전정·시각·고유감각 입력 사이의 불일치(sensory conflict 또는 neural mismatch)로 추정&#x20;
+* 예상된 감각 정보와 실제 전정·시각·고유감각 입력 사이의 불일치(sensory conflict 또는 neural mismatch)로 추정
 * muscarinic·histamine H1 경로가 주요 역할을 하며, substance P-NK-1 경로도 움직임 유발 구토에 관여하는 것으로 추정
 
 **멀미를 유발하는 자극**
@@ -81,7 +81,7 @@
 * 반복되는 이명·청력 변동, 편두통 양상 또는 체위성 어지럼 `전정편두통` `메니에르병` `BPPV`
 
 {% hint style="info" %}
-움직임 자극과 무관한 지속성 어지럼은 급성 전정 증후군(acute vestibular syndrome, AVS) 감별을 요함. \
+움직임 자극과 무관한 지속성 어지럼은 급성 전정 증후군(acute vestibular syndrome, AVS) 감별을 요함.\
 자발안진이 동반된 AVS에서는 훈련된 검사자가 HINTS Plus를 적용할 수 있으나, 단순 멀미나 자발안진이 없는 환자에게 적용하는 검사는 아님
 {% endhint %}
 
@@ -100,7 +100,7 @@
 * 다른 원인으로 설명되지 않음
 
 {% hint style="info" %}
-같거나 유사한 자극에 의해 **최소 5회 반복** 유발되고, 반복 노출에도 중증도가 의미 있게 감소하지 않으며, 활동 변경·회피 행동 또는 노출 전 예기적 혐오 정서 반응을 초래하고, 다른 질환으로 더 잘 설명되지 않으면 <mark style="background-color:yellow;">motion sickness disorder(**MSD**) 또는 **VIMSD**</mark>로 진단; **2\~4회**이면 **probable MSD/VIMSD**. 경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 MSD/VIMSD로 진단하지 않음 <mark style="color:$info;">\[Bárány Society 2021]</mark>
+같거나 유사한 자극에 의해 **최소 5회 반복** 유발되고, 반복 노출에도 중증도가 의미 있게 감소하지 않으며, 활동 변경·회피 행동 또는 노출 전 예기적 혐오 정서 반응을 초래하고, 다른 질환으로 더 잘 설명되지 않으면 <mark style="background-color:yellow;">motion sickness disorder(</mark><mark style="background-color:yellow;">**MSD**</mark><mark style="background-color:yellow;">) 또는</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VIMSD**</mark>로 진단; **2\~4회**이면 **probable MSD/VIMSD**. 경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 MSD/VIMSD로 진단하지 않음 <mark style="color:$info;">\[Bárány Society 2021]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -110,11 +110,11 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th width="153">질환</th><th>멀미와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>차량·화면 노출과 무관, 머리 위치 변화로 유발</td><td>1분 미만의 회전성 현훈; Dix-Hallpike·supine roll test</td></tr><tr><td><strong>전정편두통</strong></td><td>움직임 과민이 동반될 수 있으나 자발 발작이 있음</td><td>편두통 병력·특징과 함께 5분~72시간의 어지럼 발작</td></tr><tr><td><strong>메니에르병</strong></td><td>자극과 무관한 자발 현훈 발작</td><td>20분~12시간 현훈 + 변동성 저음역 난청·이명·이충만감</td></tr><tr><td><strong>급성단측전정병증(AUVP; 전정신경염)</strong></td><td>자극과 무관한 급성 지속성 현훈</td><td>수일간 지속, 자발안진, head impulse test 양성</td></tr><tr><td><strong>PPPD(지속성체위지각어지럼증)</strong></td><td>움직임 노출 여부와 관계없이 만성 지속</td><td>3개월 이상 대부분의 날에 증상; 직립·능동/수동 움직임·복잡한 시각 자극에서 악화</td></tr><tr><td><strong>MdDS<mark style="background-color:yellow;">*</mark></strong></td><td>움직임이 끝난 뒤 시작, 다시 움직이면 호전</td><td>하선·하기 후 48시간 이내 시작, 48시간 초과 지속</td></tr><tr><td><strong>일산화탄소 중독</strong></td><td>동승자 여러 명에게 동시 발생</td><td>두통 동반, 환경 확인, COHb 측정</td></tr><tr><td><strong>약물 부작용</strong></td><td>움직임과 무관</td><td>복용 시작·증량과의 시간적 연관</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="153">질환</th><th>멀미와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>차량·화면 노출과 무관, 머리 위치 변화로 유발</td><td>1분 미만의 회전성 현훈; Dix-Hallpike·supine roll test</td></tr><tr><td><strong>전정편두통</strong></td><td>움직임 과민이 동반될 수 있으나 자발 발작이 있음</td><td>편두통 병력·특징과 함께 5분~72시간의 어지럼 발작</td></tr><tr><td><strong>메니에르병</strong></td><td>자극과 무관한 자발 현훈 발작</td><td>20분~12시간 현훈 + 변동성 저음역 난청·이명·이충만감</td></tr><tr><td><strong>급성단측전정병증(AUVP; 전정신경염)</strong></td><td>자극과 무관한 급성 지속성 현훈</td><td>수일간 지속, 자발안진, head impulse test 양성</td></tr><tr><td><strong>PPPD(지속성체위지각어지럼증)</strong></td><td>움직임 노출 여부와 관계없이 만성 지속</td><td>3개월 이상 대부분의 날에 증상; 직립·능동/수동 움직임·복잡한 시각 자극에서 악화</td></tr><tr><td><strong>MdDS</strong><mark style="background-color:yellow;"><strong>*</strong></mark></td><td>움직임이 끝난 뒤 시작, 다시 움직이면 호전</td><td>하선·하기 후 48시간 이내 시작, 48시간 초과 지속</td></tr><tr><td><strong>일산화탄소 중독</strong></td><td>동승자 여러 명에게 동시 발생</td><td>두통 동반, 환경 확인, COHb 측정</td></tr><tr><td><strong>약물 부작용</strong></td><td>움직임과 무관</td><td>복용 시작·증량과의 시간적 연관</td></tr></tbody></table>
 
 > _☞_ [_어지럼증_](020_-dizziness.md)
 >
-> _\*MdDS(하선증후군) 진단 기준 : 배·비행기 등 수동 움직임 노출이 끝난 뒤 48시간 이내에 <mark style="background-color:yellow;">비회전성 흔들림(rocking, bobbing, swaying)</mark>이 시작되어 <mark style="background-color:yellow;">지속적으로 또는 하루 대부분 나타나고, </mark>48시간을 초과해 지속<mark style="background-color:yellow;">하며</mark>, 다시 수동 움직임에 노출되면 일시적으로 호전<mark style="background-color:yellow;">하고, 다른 질환으로 더 잘 설명되지 않음</mark>; 하선 직후 수시간 이내 사라지는 흔들림은 정상 반응이며 증후군이 아님_
+> _\*MdDS(하선증후군) 진단 기준 : 배·비행기 등 수동 움직임 노출이 끝난 뒤 48시간 이내에 <mark style="background-color:yellow;">비회전성 흔들림(rocking, bobbing, swaying)</mark>이 시작되어 <mark style="background-color:yellow;">지속적으로 또는 하루 대부분 나타나고,</mark> 48시간을 초과해 지속<mark style="background-color:yellow;">하며</mark>, 다시 수동 움직임에 노출되면 일시적으로 호전<mark style="background-color:yellow;">하고, 다른 질환으로 더 잘 설명되지 않음</mark>; 하선 직후 수시간 이내 사라지는 흔들림은 정상 반응이며 증후군이 아님_
 
 ***
 
@@ -124,7 +124,7 @@ flowchart TD
     B -- "예" --> U["즉각 조치: <br/>119·응급 평가"]
     B -- "아니요" --> C["Red Flags의 <br/>당일 평가 항목에 해당?"]
     C -- "예" --> V["당일 평가·치료"]
-    C -- "아니요" --> D["자극 중 발생·노출 지속 시 악화·<br/>종료 후 점차 소실?"]
+    C -- "아니요" --> D["자극 중 발생·<br/>노출 지속 시 악화·<br/>종료 후 점차 소실?"]
     D -- "아니요" --> E["전정·중추성 질환·<br/>MdDS·약물 감별"]
     D -- "예" --> F["멀미·VIMS: <br/>비약물 예방·점진적 적응"]
     F --> G["약물 예방 필요?"]
@@ -133,18 +133,15 @@ flowchart TD
     I -- "16세 이상·<br/>장기 중등도 이상 자극" --> K["scopolamine 패취 <br/>고려"]
     I -- "소아·임신·<br/>수유·고령" --> L["비약물 우선·<br/>제품별 적합성 평가"]
     G -- "아니요" ---> H["비약물 치료·<br/>추적"]
-
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
-    classDef urgent fill:#fff3e0,stroke:#fb8c00,stroke-width:2px
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
     classDef followup fill:#d0e8ff,stroke:#1a6abf
     classDef plain fill:#ECECFF,stroke:#9370DB
     class A start
     class B,C,D,G,I question
-    class U emergency
-    class V urgent
+    class U,V emergency
     class F,J,K treatment
     class H followup
     class E,L plain
@@ -230,7 +227,7 @@ flowchart TD
 * 제거 후 금단 증상 : 특히 3일 이상 사용한 뒤 제거하면 24시간 이상 지난 후 평형장애, 어지럼증, 구역·구토, 복통, 발한, 혼란, 근력저하, 서맥·저혈압 등이 나타날 수 있음
   * 제거 직후의 증상을 곧바로 금단으로 단정하지 말고 멀미 지속, 탈수 및 다른 전정질환을 감별
 * scopolamine 경피제 \[[<mark style="color:blue;">키미테패취</mark>](https://www.health.kr/drug/A11A3180A0092)<mark style="color:blue;">]</mark> (≥16세, 1.5 ㎎/매) (비급여); 1매로 72시간 효과 지속
-  * 출발 최소 4시간 전(허가 용법) 귀 뒤의 털 없는 건조한 피부에 1매 부착&#x20;
+  * 출발 최소 4시간 전(허가 용법) 귀 뒤의 털 없는 건조한 피부에 1매 부착
     * 작용 발현에 시간이 걸리므로 가능하면 전날 저녁 등 충분히 일찍 부착
   * 3일 이상 적용해야 할 경우 첫 번째 것을 제거하고 새 패취를 반대편 귀 뒤에 부착
   * 부착 직후에는 손을 비누로 씻고, 제거 후에는 손과 부착했던 피부를 비누로 씻음
@@ -337,8 +334,8 @@ flowchart TD
 
 > **멀미약은 미리 복용해야 효과가 있습니다**
 >
-> * 보나링에이는 출발 **30분\~1시간 전**, 메클리진<mark style="background-color:yellow;"> 단일제(파비스염산메클리진)</mark>는 **1시간 전**, 스코폴라민 패취는 **최소 4시간 전(가능하면 전날 저녁)에** 적용하십시오.
-> * <mark style="background-color:yellow;">이지롱내복액·노보민시럽은 출발 **30분 전**에 연령에 맞는 1회 용량을 복용하고, 필요시 **4시간 이상 간격으로 1일 3회까지** 복용하십시오.</mark>
+> * 보나링에이는 출발 **30분\~1시간 전**, 메클리진 <mark style="background-color:yellow;">단일제(파비스염산메클리진)</mark>는 **1시간 전**, 스코폴라민 패취는 **최소 4시간 전(가능하면 전날 저녁)에** 적용하십시오.
+> * <mark style="background-color:yellow;">이지롱내복액·노보민시럽은 출발</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**30분 전**</mark><mark style="background-color:yellow;">에 연령에 맞는 1회 용량을 복용하고, 필요시</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**4시간 이상 간격으로 1일 3회까지**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">복용하십시오.</mark>
 > * 멀미 증상이 시작된 후에는 약의 효과가 크게 줄어듭니다.
 > * 처음 사용하는 약은 여행일보다 충분히 앞선, 운전·위험 작업 계획이 없는 날 한 번 시험 사용하십시오. 시험용 약과 여행용 약을 중복 사용하지 말고 정해진 복용·교체 간격을 지키십시오.
 
@@ -359,7 +356,7 @@ flowchart TD
 > * **MRI 검사 전에는 패취를 제거하고 의료진에게 알리십시오.** 금속성 막 때문에 피부 화상이 생길 수 있습니다.
 > * 며칠간 사용한 뒤 제거하면 일반적으로 **24시간 이후**부터 어지럼증·구역 등 금단 증상이 나타날 수 있습니다. 증상이 심하면 진료를 받으십시오.
 
-> **이런 경우 복용을 피하거나 <mark style="background-color:yellow;">주치의</mark>와 상담하십시오**
+> **이런 경우 복용을 피하거나&#x20;**<mark style="background-color:yellow;">**주치의**</mark>**와 상담하십시오**
 >
 > * 키미테패취·파비스염산메클리진·보나링에이는 협우각형(폐쇄각) 녹내장 또는 전립선비대 등 배뇨장애가 있으면 사용하지 마십시오. 키미테패취는 서맥, 보나링에이는 <mark style="background-color:yellow;">뇌전증</mark>·MAO억제제 투여 환자에게도 금기입니다.
 > * 장폐색·정신병·기타 발작 병력이 있거나 다른 진정성·항콜린성 약을 복용하면 처방 전에 알리십시오.
@@ -380,9 +377,9 @@ flowchart TD
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* <mark style="background-color:yellow;">[식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
+* [<mark style="background-color:yellow;">식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.</mark>](https://nedrug.mfds.go.kr/index) <mark style="background-color:yellow;">- 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
 * [U.S. Food and Drug Administration. Novel Drug Approvals for 2025: Nereus (tradipitant), 2025-12-30.](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025) - 미국 승인일·성인 적응증 확인
-* <mark style="background-color:yellow;">[U.S. Food and Drug Administration. Nereus (tradipitant) capsules: Prescribing information. December 2025.](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220152Orig1s000lbl.pdf) - 구토 예방 효과·구역 평가변수 및 운전 관련 주의사항</mark>
+* [<mark style="background-color:yellow;">U.S. Food and Drug Administration. Nereus (tradipitant) capsules: Prescribing information. December 2025.</mark>](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220152Orig1s000lbl.pdf) <mark style="background-color:yellow;">- 구토 예방 효과·구역 평가변수 및 운전 관련 주의사항</mark>
 * [U.S. Food and Drug Administration. FDA adds warning about serious risk of heat-related complications with antinausea patch Transderm Scōp (scopolamine transdermal system). Drug Safety Communication. June 18, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-adds-warning-about-serious-risk-heat-related-complications-antinausea-patch-transderm-scop) - scopolamine 경피제의 고체온·열 관련 합병증 경고
 
 ***
@@ -421,7 +418,7 @@ flowchart TD
 * 성인용 스코폴라민 패취는 **만 16세 이상**에서만 사용하고, 16세 미만에게는 사용하지 마십시오. 패취를 자르지 마십시오.
 * MRI 검사 전에는 패취를 제거하고 의료진에게 알리십시오.
 * 폐쇄각녹내장·전립선비대 등 배뇨장애가 있으면 이 안내서의 키미테패취·파비스염산메클리진·보나링에이를 사용하지 마십시오. 다른 제품도 <mark style="background-color:yellow;">주치의</mark>·약사에게 확인하십시오.
-* <mark style="background-color:yellow;">**임신 중이거나 수유 중이면 멀미 패취를 사용하지 마시고**, 먹는 멀미약도 주치의와 상담 후 사용하십시오.</mark>
+* <mark style="background-color:yellow;">**임신 중이거나 수유 중이면 멀미 패취를 사용하지 마시고**</mark><mark style="background-color:yellow;">, 먹는 멀미약도 주치의와 상담 후 사용하십시오.</mark>
 
 #### <mark style="color:$primary;">이럴 때는 즉시 119 또는 응급실을 이용하세요</mark>
 
