@@ -38,7 +38,7 @@
 * 더 아래 후관절 : 하부 경부·견갑대·어깨 방향의 통증 비중이 커짐
 
 {% hint style="info" %}
-위의 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성됨. \
+위의 관절별 분포는 소수의 유발시험과 진단적 차단(국소마취제 주사) 양성 환자에서 작성됨.\
 관절별 통증 영역은 서로 겹치므로 통증 위치만으로 원인 관절을 확정하거나 차단 표적을 결정하지 않음
 {% endhint %}
 
@@ -204,8 +204,8 @@ class B2,N,Q caution;
 ```
 
 > _TON = third occipital nerve; MBB = medial branch block; RF = radiofrequency neurotomy._\
-> _거대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._\
-> _양성 예후차단 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분._
+> _&#xAC70;대세포동맥염이 의심되면 당일 평가(시각 증상이 있으면 즉각 조치)._\
+> _&#xC591;성 예후차단 기준은 ICHD-3의 진단차단에 의한 두통 소실 기준과 구분._
 
 <p align="center"><strong>경추성두통 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICHD-3; Eldaya RW, et al. J Am Coll Radiol 2025;</mark></em><br><em><mark style="color:$info;">Hurley RW, et al. Reg Anesth Pain Med 2022; Koonalinthip N, et al. Eur J Pain 2026)</mark></em></p>
 
@@ -258,7 +258,7 @@ class B2,N,Q caution;
 * 제품별 금기 확인 : 공통적으로 중증 간장애·신장애에서는 사용을 피함(☞ [통증](../220_/001_-pain.md) 참조)
   * NSAID : 위장관 궤양·출혈 또는 그 병력이 있으면 제품별 금기·주의사항 확인. 투여 금기인 경우 PPI를 병용해도 투여하지 않음
   * acetaminophen : 소화성궤양·TCA·바르비탈계 약물 복용 환자에게 투여 금기. amitriptyline, nortriptyline 투여 중에는 다른 진통제 선택
-* acetaminophen : 500\~1,000 ㎎ q6\~8h prn  <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>; 반복 시 최소 6시간 간격(허가 용법은 4\~6시간 간격)
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>; 반복 시 최소 6시간 간격(허가 용법은 4\~6시간 간격)
   * acetaminophen은 감기약 등 복합제에도 흔히 들어 있으므로 모든 공급원을 합산해 1일 최대 4 g, 반복·장기 사용 시 통상 3 g 이하를 권장; 간질환·상습 음주·저체중 등 위험요인에 따라 감량(☞ [통증](../220_/001_-pain.md))
 * naproxen : [250](https://www.health.kr/drug/A11A0120A0286)\~[500](https://www.health.kr/drug/A11A0120A0594) ㎎ bid prn <mark style="color:blue;">\[낙센]</mark>
 * ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
@@ -278,7 +278,7 @@ class B2,N,Q caution;
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
   * 속방정 10 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> (공급 미확인)
   * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark>
-  * 금기 : 65세 이상, MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증; 간장애 환자에서 피함&#x20;
+  * 금기 : 65세 이상, MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증; 간장애 환자에서 피함
   * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
 
 ### <mark style="color:orange;">Amitriptyline, Gabapentinoid, SNRI</mark>
@@ -438,7 +438,6 @@ class B2,N,Q caution;
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항과 심사지침. 제9장 처치 및 수술료 등.](https://www.hira.or.kr/ebooksc/2024/08/BZ202408190383445.pdf) - 경피적 척추 고주파 열응고술(자482-1), 보건복지부 고시 제2020-19호
 * [건강보험심사평가원. Pregabalin 일반형 경구제(리리카캡슐 등) 급여기준. 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) - 신경병증성 통증 등 인정 범위
-* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239\&tp=notice) - 시클펜정 공급 상태
 
 ***
 
