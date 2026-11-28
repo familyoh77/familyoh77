@@ -203,13 +203,12 @@
 
 ### <mark style="color:orange;">멀미 (Motion sickness)</mark>
 
-* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ [멀미](024_-motion-sickness.md))
-* 원인 : 불명
-  * 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
-* 회전·직선·상하·수평 움직임 및 시각적 움직임 모두에서 발생할 수 있으며, 특히 저주파수 움직임에서 흔함
-  * 발생 정도는 움직임의 방향·주파수·가속도·노출 시간과 개인 감수성에 따라 달라짐
-* 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
+* 실제 또는 시각적으로 인지된 움직임에 의해 유발되는 구역·구토, 자율신경 및 중추신경 증상의 복합 증후군 (☞ [멀미](021_1-motion-sickness.md))
+* 기전 : 예상된 감각 정보와 실제 전정·시각·고유감각 입력 사이의 불일치(sensory conflict)로 추정
+* 증상은 움직임 노출 중 발생하여 노출이 길어질수록 심해지고, 움직임이 끝나면 소실
 * 신경학적 이상, 청력 이상 : 없음
+  * 움직임 노출이 끝난 뒤에도 지속되거나 자극과 무관하게 발생하면 AVS 등 다른 원인을 감별
+* 움직임 종료 후 흔들림·출렁임이 48시간을 넘겨 지속되면 MdDS(하선증후군) 감별
 
 ### <mark style="color:orange;">지속성 체위지각 어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
@@ -268,7 +267,7 @@
 * 원인·관련 요인 : 탈수·출혈 등에 의한 순환혈액량 감소, 약물(이뇨제·혈관확장제·일부 향정신성 약물 등), 자율신경기능장애(당뇨병성 자율신경병증·파킨슨병 등)
 * 어지럼 양상 : 기립하거나 서 있는 동안 발생하는 실신감(presyncope)·불안정감. 앉거나 누우면 완화
 * 동반 소견 : 시야 흐림, 전신 무력감 등이 동반될 수 있음
-* 진단 : 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg의 지속적인 감소
+* 진단 : 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg의 지속적인 감소 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
   * 혈압 저하와 증상의 관련성을 함께 평가
   * 맥박 반응은 원인에 따라 다르며 신경성 기립성 저혈압에서는 증가가 미미할 수 있음
 
@@ -294,6 +293,7 @@
 * 두부 직접 충격 후 새 어지럼과 함께 의식소실·기억상실·지속되는 두통/구토, 항응고제 복용 또는 신경학적 이상이 있는 경우 `두개내출혈`
 * 발열과 함께 경부 강직·의식 변화·새로운 심한 두통 또는 패혈증 소견 `수막염` `패혈증`
 * 이통·이루·유양돌기 압통 등 귀 감염 소견과 함께 현훈·청력 저하 `세균성 미로염` `유양돌기염 합병증`
+* 같은 공간에 있던 여러 사람이 동시에 두통·구역·어지럼 호소  `일산화탄소 중독`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
@@ -473,7 +473,7 @@
 
 #### <mark style="color:$primary;">Vertigo 원인별 특징</mark>
 
-<table data-search="false"><thead><tr><th width="127">원인</th><th>Timing·trigger</th><th>핵심 소견</th><th>주요 검사·조치</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>자세로 유발되는 반복성 짧은 발작(대개 1분 미만)</td><td>청각·신경학적 이상 없음</td><td>Dix-Hallpike 또는 supine roll test; 정복술</td></tr><tr><td><strong>AUVP</strong></td><td>24시간 이상 지속되는 급성 현훈</td><td>방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음</td><td>적절한 대상에서 HINTS Plus; 조기 전정재활</td></tr><tr><td><strong>Ménière disease</strong></td><td><mark style="background-color:red;">20분~12시간</mark> 자발성 발작</td><td>변동성 환측 난청·이명·귀 충만감</td><td>청력검사; 전정편두통 감별</td></tr><tr><td><strong>Vestibular migraine</strong></td><td><mark style="background-color:red;">5분~72시간</mark> 반복 발작</td><td>50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능</td><td>임상 진단·다른 원인 배제</td></tr><tr><td><strong>PPPD</strong></td><td>3개월 이상 대부분의 날</td><td>직립·움직임·복잡한 시각 자극으로 악화</td><td>전정재활·CBT; 약물은 개별화</td></tr><tr><td><strong>후순환 TIA</strong></td><td>유발 요인 없는 일과성 발작(첫 발작 포함)</td><td>혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음</td><td>응급 신경학적 평가; 필요시 CTA/MRA</td></tr><tr><td><strong>뇌간·소뇌 뇌졸중</strong></td><td>급성 지속성 증상</td><td>중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능</td><td>뇌졸중 경로로 즉시 이송. 수용기관에서 MRI(DWI) 및 필요시 혈관영상으로 평가(초기 DWI 위음성 주의)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="127">원인</th><th>Timing·trigger</th><th>핵심 소견</th><th>주요 검사·조치</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>자세로 유발되는 반복성 짧은 발작(대개 1분 미만)</td><td>청각·신경학적 이상 없음</td><td>Dix-Hallpike 또는 supine roll test; 정복술</td></tr><tr><td><strong>AUVP</strong></td><td>24시간 이상 지속되는 급성 현훈</td><td>방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음</td><td>적절한 대상에서 HINTS Plus; 조기 전정재활</td></tr><tr><td><strong>Ménière disease</strong></td><td>20분~12시간 자발성 발작</td><td>변동성 환측 난청·이명·귀 충만감</td><td>청력검사; 전정편두통 감별</td></tr><tr><td><strong>Vestibular migraine</strong></td><td>5분~72시간 반복 발작</td><td>50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능</td><td>임상 진단·다른 원인 배제</td></tr><tr><td><strong>PPPD</strong></td><td>3개월 이상 대부분의 날</td><td>직립·움직임·복잡한 시각 자극으로 악화</td><td>전정재활·CBT; 약물은 개별화</td></tr><tr><td><strong>후순환 TIA</strong></td><td>유발 요인 없는 일과성 발작(첫 발작 포함)</td><td>혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음</td><td>응급 신경학적 평가; 필요시 CTA/MRA</td></tr><tr><td><strong>뇌간·소뇌 뇌졸중</strong></td><td>급성 지속성 증상</td><td>중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능</td><td>뇌졸중 경로로 즉시 이송. 수용기관에서 MRI(DWI) 및 필요시 혈관영상으로 평가(초기 DWI 위음성 주의)</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Bárány Society ICVD criteria; GRACE-3 acute dizziness guideline.</mark></em></p>
 
@@ -631,16 +631,15 @@ class E,N,H decision;
   * 미로염·메니에르증후군·방사선·숙취에 의한 구역·구토·어지러움 : 1회 25 ㎎, 1일 2\~3회; 최대 75 ㎎/d \[[<mark style="color:blue;">염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)<mark style="color:blue;">]</mark>
   * 멀미에 의한 구역·구토·어지러움 : 25\~50 ㎎을 승차 1시간 전에 1회 투여하고, 여행 중 필요시 24시간마다 반복
   * BPPV·AUVP 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
+  * 금기 : 12세 이하, 협우각형 녹내장, 전립선비대 등 배뇨장애
 * dimenhydrinate
   * 단기 대증치료 : 25\~50 ㎎ bid\~qid \[[<mark style="color:blue;">보나링에이</mark>](https://www.health.kr/drug/A11A0950A0043)<mark style="color:blue;">]</mark>
+  * 품목 용법은 1회 50 ㎎, 1일 3\~4회이며 원칙적으로 1일 200 ㎎을 초과하지 않음
   * 협우각형 녹내장, 전립선비대 등 배뇨장애, 뇌전증 환자 및 MAO 억제제 투여 중인 환자에는 투여 금기
 
 #### <mark style="color:$primary;">항콜린제</mark>
 
-* scopolamine 경피제 : 멀미에 적용
-  * 출발 최소 4시간 전에 귀 뒤에 1매 부착(72시간 동안 효과) \[[<mark style="color:blue;">키미테패취</mark>](https://www.health.kr/drug/A11A3180A0092)<mark style="color:blue;">]</mark>
-  * 성인용 제품은 만 16세 이상에서 사용
-    * 과거 8\~15세용 어린이키미테패취는 2020년 7월 허가 유효기간 만료. 만 16세 미만에게 성인용 패취를 분할하거나 대신 사용하지 않음
+* scopolamine 경피제 : 멀미 예방에 사용 \[[<mark style="color:blue;">키미테패취</mark>](https://www.health.kr/drug/A11A3180A0092)<mark style="color:blue;">]</mark> (☞ [멀미](021_1-motion-sickness.md))
 
 ### <mark style="color:orange;">항구토제</mark>
 
@@ -858,7 +857,7 @@ class E,N,H decision;
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 급성 말초성 어지럼증 - 심한 구역/구토의 단기 대증치료
+> **처방례 1. 급성 말초성 어지럼증 - 심한 구역/구토의 단기 대증치료**
 >
 > ```
 > 보나링에이정 50 ㎎/T  0.5~1T  bid~tid prn  (최대 2~3일; 협우각형 녹내장·배뇨장애·뇌전증·MAO 억제제 병용 금기, 낙상 주의)
@@ -871,18 +870,16 @@ class E,N,H decision;
 >
 > _✽ 중추성 원인이 배제되지 않은 급성 어지럼에 진정성 약물을 먼저 반복 투여하면 안진 진찰과 신경학적 평가가 어려워질 수 있음._
 
-> **처방례 2.** BPPV - 재발 예방 (정복술 후 혈청 25(OH)D ＜20 ng/㎖)
->
->
+> **처방례 2. BPPV - 재발 예방 (정복술 후 혈청 25(OH)D ＜20 ng/㎖)**
 >
 > ```
 > 비타민 D3 400 IU  1캡슐  bid
 > [필요시] 탄산칼슘 500 ㎎  bid  (1회 원소칼슘 200 ㎎; 식이섭취·골다공증·결석 위험 등을 고려)
 > ```
 >
-> ✽ _국내 허가·출시된 경구용 비타민 D 단일 의약품은 결핍 치료 및 예방 목적으로 1,000 IU 이상 함량으로 나옴. 400 IU 제품을 선택하려면 복합제 또는 건강식품으로 선택해야 함._
+> _✽ 허가·출시된 경구용 비타민 D 단일 의약품은 결핍 치료 및 예방 목적의 1,000 IU 이상 함량이므로, 400 IU 제품은 복합제 또는 건강기능식품에서 선택해야 함_
 
-> **처방례 3.** 급성단측전정병증 - 급성기
+> **처방례 3. 급성단측전정병증 - 급성기**
 >
 > ```
 > 보나링에이정 50 ㎎/T  0.5~1T  bid prn  (최대 2~3일; 협우각형 녹내장·배뇨장애·뇌전증·MAO 억제제 병용 금기, 낙상 주의)
@@ -892,7 +889,7 @@ class E,N,H decision;
 >
 > _✽ 조기 활동과 전정재활이 핵심. 스테로이드는 진단이 확실하고 금기가 없는 환자에서 발현 3일 이내 shared decision으로 고려할 수 있으나 최적 용량·기간과 임상적 이득이 확립되지 않아 일률적 처방례로 제시하지 않음._
 
-> **처방례 4.** 메니에르병 - 예방 (발작 간기)
+> **처방례 4. 메니에르병 - 예방 (발작 간기)**
 >
 > ```
 > [Option A]
@@ -906,7 +903,7 @@ class E,N,H decision;
 >
 > _✽ Betahistine과 이뇨제 모두 근거가 제한적이므로 일률적으로 병용하지 않고 청력검사와 발작일지를 바탕으로 한 가지 치료의 효과·부작용을 먼저 재평가함. Hydrochlorothiazide 사용 시 혈압·신기능·Na/K를 확인하며, 병용은 단독요법 반응과 위험을 평가한 후 선택적으로 고려함._
 
-> **처방례 5.** PPPD (지속성 체위지각 어지럼증)
+> **처방례 5. PPPD - 지속성 체위지각 어지럼증**
 >
 > ```
 > [Option A - SSRI]
@@ -944,7 +941,7 @@ class E,N,H decision;
 >
 > * 시술 직후 일시적인 어지럼이 생길 수 있으나 곧 가라앉습니다.
 > * 시술 후 특별한 자세 제한은 필요하지 않습니다. 다만 어지럼이 남아 있으면 운전·고소 작업을 피하고 낙상에 주의하십시오.
-> * <mark style="background-color:red;">혈액검사에서 비타민 D가 부족하면 재발 예방을 위해 보충제를 처방받으십시오.</mark>
+> * 혈액검사에서 비타민 D가 부족하면 재발 예방을 위해 보충제를 처방받으십시오.
 
 > **전정 재활 운동 (AUVP·PPPD)**
 >
@@ -975,7 +972,7 @@ class E,N,H decision;
 > * 가슴 통증이 있거나, 실신하거나, 의식이 흐려지는 경우 - 즉시 응급실
 > * 두근거림과 함께 쓰러질 것 같은 느낌이 드는 경우 - 즉시 응급실
 > * 어지럼이 계속되지는 않지만 한쪽 청력이 갑자기 떨어진 경우 - 24시간 이내 이비인후과 평가
-> * <mark style="background-color:red;">이석증은 치료 후(또는 경과 관찰 중) 1개월 이내에 다시 진료를 받아 증상이 없어졌는지 확인하십시오.</mark>
+> * 이석증은 치료 후(또는 경과 관찰 중) 1개월 이내에 다시 진료를 받아 증상이 없어졌는지 확인하십시오.
 > * 증상이 악화되거나 새로운 증상이 생기면 진료를 앞당기십시오.
 
 ***
@@ -985,7 +982,6 @@ class E,N,H decision;
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[J Vestib Res 2009] [Bisdorff A, et al. Classification of vestibular symptoms: towards an international classification of vestibular disorders. J Vestib Res. 2009;19(1-2):1-13.](https://doi.org/10.3233/VES-2009-0343) - 현훈과 좁은 의미의 어지럼 등 전정 증상의 정의
-* [Cha YH, et al. Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society. J Vestib Res. 2021;31(5):327-344.](https://doi.org/10.3233/VES-200005) - 멀미·시각유발멀미의 정의와 진단 기준
 * [NIDCD. Vestibular Schwannoma (Acoustic Neuroma) and Neurofibromatosis.](https://www.nidcd.nih.gov/health/vestibular-schwannoma-acoustic-neuroma-and-neurofibromatosis) - 전정신경초종의 기원과 뇌간·소뇌 압박
 * [NICE. Hearing loss in adults: assessment and management (NG98).](https://www.nice.org.uk/guidance/ng98/chapter/recommendations) - 돌발성 청력 저하의 의뢰 시점
 * [Newman-Toker DE, Edlow JA. TiTrATE: A Novel, Evidence-Based Approach to Diagnosing Acute Dizziness and Vertigo. Neurol Clin. 2015;33(3):577-599.](https://doi.org/10.1016/j.ncl.2015.04.011) - 발생 시점·지속시간·유발 인자에 따른 분류와 표적 진찰

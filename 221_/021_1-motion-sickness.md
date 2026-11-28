@@ -20,7 +20,7 @@
 * 연령 : 2세 미만에서는 드물고 7\~12세에 가장 흔하며 성인기 이후 감소하는 경향
 * 여성, 임신·월경 등 호르몬 요인
 * 편두통 병력, 특히 vestibular migraine
-* 기저질환 : <mark style="background-color:yellow;">현훈·전정 질환(메니에르병 등)</mark>
+* 기저질환 : 현훈·전정 질환(메니에르병 등)
 * 유전적 감수성
 
 **증상을 악화시키거나 촉발하는 수정 가능한 인자**
@@ -41,9 +41,9 @@
 * 항경련제 : valproate, carbamazepine; 어지럼증·구역 유발
 * 호르몬제 : 경구피임약·HRT; 일부에서 감수성 증가 가능
 * 항암제 : cisplatin, cyclophosphamide; 강력한 CTZ 자극
-* <mark style="background-color:yellow;">digoxin</mark> : 치료 범위에서도 구역 유발 가능
-* <mark style="background-color:yellow;">도파민 전구체·작용제</mark> : levodopa, bromocriptine; CTZ 도파민 수용체 자극
-* <mark style="background-color:yellow;">GLP-1 수용체 작용제 및 GIP/GLP-1 수용체 이중 작용제</mark> : semaglutide, tirzepatide 등; 위 배출 지연, 구역·구토 흔함
+* digoxin : 치료 범위에서도 구역 유발 가능
+* 도파민 전구체·작용제 : levodopa, bromocriptine; CTZ 도파민 수용체 자극
+* GLP-1 수용체 작용제 및 GIP/GLP-1 수용체 이중 작용제 : semaglutide, tirzepatide 등; 위 배출 지연, 구역·구토 흔함
 * 기타 : metformin, 철분제; 위장관 자극
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -58,11 +58,11 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 복시, 구음장애, 연하곤란, 사지 위약·감각 이상, 새로운 보행 불능·심한 몸통 실조 또는 의식 변화 동반 `뇌간·소뇌 경색/출혈`
-* 수직안진, 순수 회선안진 또는 주시 방향에 따라 방향이 바뀌는 안진 `중추성 어지럼`
-* 급성 지속성 어지럼과 새로운 한쪽 청력저하 동반 `AICA 영역 경색` `미로 경색`
-* 갑작스럽고 심한 두통(thunderclap 양상) 또는 새로운 경부통 동반 `지주막하출혈` `소뇌출혈` `척추동맥박리`
-* 고에너지 외상 후 심한 어지럼·반복 구토 `두개내 출혈` `측두골 골절`
+* 복시, 구음장애, 연하곤란, 사지 위약·감각 이상, 새로운 보행 불능·심한 몸통 실조 또는 의식 변화 동반 `뇌간·소뇌 뇌졸중`
+* 수직안진, 순수 회선안진 또는 주시 방향에 따라 방향이 바뀌는 안진 `소뇌·뇌간 병변`
+* 급성 지속성 어지럼과 새로운 한쪽 청력저하 동반 `AICA 경색` `미로 경색`
+* 갑작스럽고 심한 두통(thunderclap 양상) 또는 새로운 경부통 동반 `지주막하출혈` `소뇌출혈` `경부동맥박리(척추·내경동맥)`
+* 두부 직접 충격 후 어지럼과 함께 의식소실·기억상실·지속되는 두통/구토, 항응고제 복용 또는 신경학적 이상 `두개내출혈` `측두골 골절`
 * 같은 차량·선실·실내에 있던 여러 사람이 동시에 두통·구역·어지럼 호소 `일산화탄소 중독`
 * 항콜린성 멀미약(스코폴라민 패취 등) 사용 중 혼돈·환각·초조 또는 체온 상승·발한 감소 `항콜린 독성` `고체온`
 * 항콜린성 멀미약 사용 후 갑작스러운 안통·충혈·시력저하·빛 번짐 `급성 폐쇄각녹내장`
@@ -76,12 +76,12 @@
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 비약물·약물 예방에도 반복적으로 심한 증상이 발생하거나 일상·여행을 현저히 제한 `motion sickness disorder` `VIMSD`
+* 적절한 비약물·약물 예방에도 반복적으로 심한 증상이 발생하거나 일상·여행을 현저히 제한 `MSD` `VIMSD`
 * 움직임 종료 후 흔들림·출렁임이 48시간을 초과하여 지속 `MdDS`
 * 반복되는 이명·청력 변동, 편두통 양상 또는 체위성 어지럼 `전정편두통` `메니에르병` `BPPV`
 
 {% hint style="info" %}
-움직임 자극과 무관한 지속성 어지럼은 급성 전정 증후군(acute vestibular syndrome, AVS) 감별을 요함.\
+급성으로 시작되어 지속되는 어지럼이 움직임 자극과 무관하게 나타나면 급성 전정 증후군(acute vestibular syndrome, AVS) 감별을 요함.\
 자발안진이 동반된 AVS에서는 훈련된 검사자가 HINTS Plus를 적용할 수 있으나, 단순 멀미나 자발안진이 없는 환자에게 적용하는 검사는 아님
 {% endhint %}
 
@@ -100,7 +100,7 @@
 * 다른 원인으로 설명되지 않음
 
 {% hint style="info" %}
-같거나 유사한 자극에 의해 **최소 5회 반복** 유발되고, 반복 노출에도 중증도가 의미 있게 감소하지 않으며, 활동 변경·회피 행동 또는 노출 전 예기적 혐오 정서 반응을 초래하고, 다른 질환으로 더 잘 설명되지 않으면 <mark style="background-color:yellow;">motion sickness disorder(</mark><mark style="background-color:yellow;">**MSD**</mark><mark style="background-color:yellow;">) 또는</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**VIMSD**</mark>로 진단; **2\~4회**이면 **probable MSD/VIMSD**. 경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 MSD/VIMSD로 진단하지 않음 <mark style="color:$info;">\[Bárány Society 2021]</mark>
+같거나 유사한 자극에 의해 **최소 5회 반복** 유발되고, 반복 노출에도 중증도가 의미 있게 감소하지 않으며, 활동 변경·회피 행동 또는 노출 전 예기적 혐오 정서 반응을 초래하고, 다른 질환으로 더 잘 설명되지 않으면 motion sickness disorder(**MSD**) 또는 **VIMSD**로 진단; **2\~4회**이면 **probable MSD/VIMSD**. 경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 MSD/VIMSD로 진단하지 않음 <mark style="color:$info;">\[Bárány Society 2021]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -110,11 +110,11 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th width="153">질환</th><th>멀미와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>차량·화면 노출과 무관, 머리 위치 변화로 유발</td><td>1분 미만의 회전성 현훈; Dix-Hallpike·supine roll test</td></tr><tr><td><strong>전정편두통</strong></td><td>움직임 과민이 동반될 수 있으나 자발 발작이 있음</td><td>편두통 병력·특징과 함께 5분~72시간의 어지럼 발작</td></tr><tr><td><strong>메니에르병</strong></td><td>자극과 무관한 자발 현훈 발작</td><td>20분~12시간 현훈 + 변동성 저음역 난청·이명·이충만감</td></tr><tr><td><strong>급성단측전정병증(AUVP; 전정신경염)</strong></td><td>자극과 무관한 급성 지속성 현훈</td><td>수일간 지속, 자발안진, head impulse test 양성</td></tr><tr><td><strong>PPPD(지속성체위지각어지럼증)</strong></td><td>움직임 노출 여부와 관계없이 만성 지속</td><td>3개월 이상 대부분의 날에 증상; 직립·능동/수동 움직임·복잡한 시각 자극에서 악화</td></tr><tr><td><strong>MdDS</strong><mark style="background-color:yellow;"><strong>*</strong></mark></td><td>움직임이 끝난 뒤 시작, 다시 움직이면 호전</td><td>하선·하기 후 48시간 이내 시작, 48시간 초과 지속</td></tr><tr><td><strong>일산화탄소 중독</strong></td><td>동승자 여러 명에게 동시 발생</td><td>두통 동반, 환경 확인, COHb 측정</td></tr><tr><td><strong>약물 부작용</strong></td><td>움직임과 무관</td><td>복용 시작·증량과의 시간적 연관</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="153">질환</th><th>멀미와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>차량·화면 노출과 무관, 머리 위치 변화로 유발</td><td>1분 미만의 회전성 현훈; Dix-Hallpike·supine roll test</td></tr><tr><td><strong>전정편두통</strong></td><td>움직임 과민이 동반될 수 있으나 자발 발작이 있음</td><td>편두통 병력·특징과 함께 5분~72시간의 어지럼 발작</td></tr><tr><td><strong>메니에르병</strong></td><td>자극과 무관한 자발 현훈 발작</td><td>20분~12시간 현훈 + 변동성 저~중주파수 난청·이명·귀 충만감</td></tr><tr><td><strong>급성단측전정병증(AUVP; 전정신경염)</strong></td><td>자극과 무관한 급성 지속성 현훈</td><td>수일간 지속, 자발안진, head impulse test 양성</td></tr><tr><td><strong>PPPD(지속성 체위지각 어지럼증)</strong></td><td>움직임 노출 여부와 관계없이 만성 지속</td><td>3개월 이상 대부분의 날에 증상; 직립·능동/수동 움직임·복잡한 시각 자극에서 악화</td></tr><tr><td><strong>MdDS*</strong></td><td>움직임이 끝난 뒤 시작, 다시 움직이면 호전</td><td>하선·하기 후 48시간 이내 시작, 48시간 초과 지속</td></tr><tr><td><strong>일산화탄소 중독</strong></td><td>동승자 여러 명에게 동시 발생</td><td>두통 동반, 환경 확인, COHb 측정</td></tr><tr><td><strong>약물 부작용</strong></td><td>움직임과 무관</td><td>복용 시작·증량과의 시간적 연관</td></tr></tbody></table>
 
 > _☞_ [_어지럼증_](020_-dizziness.md)
 >
-> _\*MdDS(하선증후군) 진단 기준 : 배·비행기 등 수동 움직임 노출이 끝난 뒤 48시간 이내에 <mark style="background-color:yellow;">비회전성 흔들림(rocking, bobbing, swaying)</mark>이 시작되어 <mark style="background-color:yellow;">지속적으로 또는 하루 대부분 나타나고,</mark> 48시간을 초과해 지속<mark style="background-color:yellow;">하며</mark>, 다시 수동 움직임에 노출되면 일시적으로 호전<mark style="background-color:yellow;">하고, 다른 질환으로 더 잘 설명되지 않음</mark>; 하선 직후 수시간 이내 사라지는 흔들림은 정상 반응이며 증후군이 아님_
+> _\*MdDS(하선증후군) 진단 기준 : 배·비행기 등 수동 움직임 노출이 끝난 뒤 48시간 이내에 비회전성 흔들림(rocking, bobbing, swaying)이 시작되어 지속적으로 또는 하루 대부분 나타나고, 48시간을 초과해 지속하며, 다시 수동 움직임에 노출되면 일시적으로 호전하고, 다른 질환으로 더 잘 설명되지 않음; 하선 직후 수시간 이내 사라지는 흔들림은 정상 반응이며 증후군이 아님_
 
 ***
 
@@ -129,19 +129,21 @@ flowchart TD
     D -- "예" --> F["멀미·VIMS: <br/>비약물 예방·점진적 적응"]
     F --> G["약물 예방 필요?"]
     G -- "예" --> I["연령·금기·<br/>동반 질환 확인"]
-    I -- "성인·경도 또는 <br/>단기 자극" --> J["meclizine 또는 <br/>dimenhydrinate"]
+    I -- "성인·단기 경도~중등도<br/>또는 장기 경도 자극" --> J["meclizine 또는 <br/>dimenhydrinate"]
     I -- "16세 이상·<br/>장기 중등도 이상 자극" --> K["scopolamine 패취 <br/>고려"]
     I -- "소아·임신·<br/>수유·고령" --> L["비약물 우선·<br/>제품별 적합성 평가"]
     G -- "아니요" ---> H["비약물 치료·<br/>추적"]
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef emergency fill:#ffdddd,stroke:#d32f2f,stroke-width:2px
+    classDef urgent fill:#fff3e0,stroke:#fb8c00,stroke-width:2px
     classDef treatment fill:#e3f2fd,stroke:#64b5f6
     classDef followup fill:#d0e8ff,stroke:#1a6abf
     classDef plain fill:#ECECFF,stroke:#9370DB
     class A start
     class B,C,D,G,I question
-    class U,V emergency
+    class U emergency
+    class V urgent
     class F,J,K treatment
     class H followup
     class E,L plain
@@ -156,7 +158,7 @@ flowchart TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 예방이 핵심 : 약물·비약물 치료 모두 증상 발생 전에 시행할 때 효과가 가장 크며, 구역·구토가 시작된 후에는 효과가 현저히 감소함
-* 증상의 중증도, 노출 시간, 환자 연령, 기저질환에 따라 치료법 선택 (☞ 약물 치료)
+* 증상의 중증도, 노출 시간, 환자 연령, 기저질환에 따라 치료법 선택 (☞ [약물 치료](#drug-treatment))
 * 경증 : 비약물 치료 우선; 필요시 항히스타민제 선택
 * 구역·어지럼 유발 약물 복용 중인 경우 원인 여부를 평가하고 필요시 조정
 * 이미 발생한 멀미 : 눕히고 안심시킴, 수분·전해질 보충
@@ -172,7 +174,7 @@ flowchart TD
   * 배 : 선체 중앙부·수면에 가까우며 수평선이 보이는 자리
 * 등받이에 기대어 앉아 머리를 뒤쪽에 밀착하여 머리 움직임을 줄임
 * 소아는 멀미 예방보다 연령·체격에 맞는 카시트·부스터 및 뒷좌석 탑승 원칙을 우선하고, 가능한 범위에서 창밖 먼 곳을 보게 함
-* <mark style="background-color:yellow;">시각·전정 감각 불일치 줄이기</mark> : 움직이는 물체를 주시하지 않음, 수평선 보기, 먼 곳에 시선 고정, 움직이는 상태에서 독서하지 않음; 바깥 시야를 확보할 수 없으면 눈을 감고 있음
+* 시각·전정 감각 불일치 줄이기 : 움직이는 물체를 주시하지 않음, 수평선 보기, 먼 곳에 시선 고정, 움직이는 상태에서 독서하지 않음; 바깥 시야를 확보할 수 없으면 눈을 감고 있음
 * 식사 : 과식·기름진 음식은 피하고 필요시 가벼운 식사와 충분한 수분 섭취
   * 특정 식이의 예방 효과 근거는 제한적
 * 충분한 수면/휴식 : 수면 부족은 증상을 악화시킴
@@ -182,7 +184,7 @@ flowchart TD
 * 적응(habituation) : 멀미 유발 상황에 대한 노출을 점차 늘림
   * 약물보다 효과적인 장기 대책이지만 획득에 시간이 걸리고 자극 특이적이며, 효과 유지를 위해서는 주기적 재노출이 필요
 
-#### <mark style="color:$primary;">VIMS(시각 유발 멀미·디지털 멀미)</mark>
+#### <mark style="color:$primary;">VIMS(시각유발 멀미·디지털 멀미)</mark>
 
 * 증상이 시작되면 화면·VR 노출을 즉시 중단하고 완전히 회복한 뒤 다시 사용
 * 처음에는 짧게 사용하고 휴식 간격을 두면서 노출 시간을 서서히 늘림
@@ -200,9 +202,9 @@ flowchart TD
 * 투여 시점 : 증상 발생 전 투여; 약물별 허가 용법과 작용 발현시간을 따름
   * dimenhydrinate 단일제 : 출발 최소 30분 전(30\~60분 전)
   * meclizine 단일제 : 출발 최소 1시간 전
-  * <mark style="background-color:yellow;">복합 내복액(이지롱내복액·노보민시럽) : 출발 30분 전</mark>
+  * 복합 내복액(이지롱내복액·노보민시럽) : 출발 30분 전
   * <mark style="color:blue;">키미테패취</mark> : 출발 최소 4시간 전
-  * 작용 발현시간은 <mark style="background-color:yellow;">경구 dimenhydrinate·meclizine·promethazine 약 2시간, scopolamine 경피제는 1 ㎎ 제형 6\~8시간, 1.5 ㎎ 제형 12시간</mark>이므로 가능한 한 여유 있게 투여하고, 패취는 전날 저녁 부착도 고려 <mark style="color:$info;">\[CDC Yellow Book 2026]</mark>
+  * 작용 발현시간은 경구 dimenhydrinate·meclizine·promethazine 약 2시간, scopolamine 경피제는 1 ㎎ 제형 6\~8시간, 1.5 ㎎ 제형 12시간이므로 가능한 한 여유 있게 투여하고, 패취는 전날 저녁 부착도 고려 <mark style="color:$info;">\[CDC Yellow Book 2026]</mark>
   * 부작용 등을 고려하여 처음 쓰는 약은 출발일 이전에 시험 투여를 권고
 * 1차 선택 : 항콜린제(scopolamine), 1세대 항히스타민제 - 둘 사이의 우열은 확립되지 않음
 * 성인 약물 선택
@@ -222,7 +224,7 @@ flowchart TD
 
 * 금기 : 협우각형(폐쇄각) 녹내장, 서맥, 전립선비대 등 배뇨장애, 벨라돈나 알칼로이드 과민증
 * 주의 : 고령자, 간·신장 질환, 유문협착·장폐색, 발작·정신병 병력, 다른 항콜린제 병용
-* 부작용 : 입마름, 졸음, 시야 흐림·산동, 소변 저류; 혼돈·지남력 장애·환각
+* 부작용 : 입마름, 졸음, 시야 흐림·산동, 요저류; 혼돈·지남력 장애·환각
   * 혼돈·환각 부작용은 고령자·소아에서 위험 높으며, 발생 시 즉시 제거
 * 제거 후 금단 증상 : 특히 3일 이상 사용한 뒤 제거하면 24시간 이상 지난 후 평형장애, 어지럼증, 구역·구토, 복통, 발한, 혼란, 근력저하, 서맥·저혈압 등이 나타날 수 있음
   * 제거 직후의 증상을 곧바로 금단으로 단정하지 말고 멀미 지속, 탈수 및 다른 전정질환을 감별
@@ -232,29 +234,30 @@ flowchart TD
   * 3일 이상 적용해야 할 경우 첫 번째 것을 제거하고 새 패취를 반대편 귀 뒤에 부착
   * 부착 직후에는 손을 비누로 씻고, 제거 후에는 손과 부착했던 피부를 비누로 씻음
   * 사용한 패취는 접착면끼리 맞붙여 접어 어린이 손이 닿지 않게 폐기
-  * 고체온 : <mark style="background-color:yellow;">항콜린 작용으로 심부체온이 오르고 발한이 감소함. 사망 사례를 포함한 중증 고체온이 시판 후 보고되어 2025년 FDA 라벨에 경고 신설</mark>
-    * <mark style="background-color:yellow;">위험 증가 : 소아·고령자, 고온 환경, 전기담요·핫팩 등 외부 열원</mark>
+  * 고체온 : 항콜린 작용으로 심부체온이 오르고 발한이 감소함. 사망 사례를 포함한 중증 고체온이 시판 후 보고되어 2025년 FDA 라벨에 경고 신설
+    * 위험 증가 : 소아·고령자, 고온 환경, 전기담요·핫팩 등 외부 열원
     * 사용 중 전기담요, 핫팩 등 외부 발열 기구 사용 금지
     * 체온 상승 또는 더운 환경에서 땀이 나지 않으면 즉시 제거하고 진료
-    * 제거 후에도 <mark style="background-color:yellow;">체내에 남은 약물의 작용으로</mark> 증상이 수시간\~수일 지속될 수 있음
+    * 제거 후에도 체내에 남은 약물의 작용으로 증상이 수시간\~수일 지속될 수 있음
   * 금속성 지지체에 의한 피부 화상 위험이 있으므로 MRI 검사 전에 제거하고 의료진에게 사용 사실을 알림
 
 ### <mark style="color:orange;">항히스타민제</mark>
 
 * 항콜린 및 진정 작용이 있는 1세대 항히스타민제 선택
-  * <mark style="background-color:yellow;">2세대 항히스타민제</mark>(cetirizine, fexofenadine, loratadine 등)는 뇌 투과가 적고 항콜린 작용이 없어 멀미에 효과 없음
+  * 2세대 항히스타민제(cetirizine, fexofenadine, loratadine 등)는 뇌 투과가 적고 항콜린 작용이 거의 없어 멀미에 효과 없음
 * 공통 주의/부작용 : 졸림, 입마름, 시야 흐림, 배뇨 곤란 등 항콜린성 이상반응
   * 금기·허가 연령은 성분·제품별 허가사항을 확인
-* dimenhydrinate \[[<mark style="color:blue;">보나링에이</mark>](https://www.health.kr/drug/A11A0950A0043)<mark style="color:blue;">]</mark>
+* dimenhydrinate 단일제 \[[<mark style="color:blue;">보나링에이</mark>](https://www.health.kr/drug/A11A0950A0043)<mark style="color:blue;">]</mark>
   * 치료 - 50 ㎎ tid\~qid; 예방 - 여행 30\~60분 전 50\~100 ㎎ 1회
   * 원칙적으로 1일 200 ㎎을 초과하지 않음
-* meclizine <mark style="background-color:yellow;">단일제</mark> : 25\~50 ㎎ q24h, 여행 60분 전 복용(여행 중 24시간마다 반복 가능) \[[<mark style="color:blue;">파비스염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)<mark style="color:blue;">]</mark>
+  * 금기 : 협우각형 녹내장, 전립선비대 등 배뇨장애, 뇌전증, MAO 억제제 투여 중
+* meclizine 단일제 : 25\~50 ㎎ q24h, 여행 60분 전 복용(여행 중 24시간마다 반복 가능) \[[<mark style="color:blue;">파비스염산메클리진</mark>](https://www.health.kr/drug/A11A2240B0022)<mark style="color:blue;">]</mark>
   * 1일 1회 투여할 수 있으나 졸음·집중력 저하에 개인차가 있음
   * 금기 : 12세 이하, 협우각형 녹내장, 전립선비대 등 배뇨장애
-* <mark style="background-color:yellow;">시판 경구용 멀미약에는 카페인·pyridoxine 등이 포함된 복합제가 있으므로 성분 중복과 허가 연령을 확인 (비급여)</mark>
-  * <mark style="background-color:yellow;">dimenhydrinate 복합제</mark> \[[<mark style="color:blue;">이지롱내복액</mark>](https://www.health.kr/drug/A11A0710A0319)<mark style="color:blue;">]</mark><mark style="background-color:yellow;">(만 3세 이상, 연령별 용량)</mark>, <mark style="background-color:yellow;">meclizine 복합제</mark> \[[<mark style="color:blue;">노보민시럽</mark>](https://www.health.kr/drug/A11A3670B0115)<mark style="color:blue;">]</mark>(≥13세)
-  * <mark style="background-color:yellow;">복용 시점·간격이 단일제와 다름 : 출발 30분 전 복용, 필요시 4시간 이상 간격으로 1일 3회까지</mark>
-  * <mark style="background-color:yellow;">졸음으로 운전 등에 위험이 있고, 카페인 때문에 저녁 복용 시 불면·두근거림 가능</mark>
+* 시판 경구용 멀미약에는 카페인·pyridoxine 등이 포함된 복합제가 있으므로 성분 중복과 허가 연령을 확인 (비급여)
+  * dimenhydrinate 복합제 \[[<mark style="color:blue;">이지롱내복액</mark>](https://www.health.kr/drug/A11A0710A0319)<mark style="color:blue;">]</mark>(만 3세 이상, 연령별 용량), meclizine 복합제 \[[<mark style="color:blue;">노보민시럽</mark>](https://www.health.kr/drug/A11A3670B0115)<mark style="color:blue;">]</mark>(≥13세)
+  * 복용 시점·간격이 단일제와 다름 : 출발 30분 전 복용, 필요시 4시간 이상 간격으로 1일 3회까지
+  * 졸음으로 운전 등에 위험이 있고, 카페인 때문에 저녁 복용 시 불면·두근거림 가능
 
 ### <mark style="color:orange;">소아</mark>
 
@@ -262,10 +265,10 @@ flowchart TD
 * 연령별 사용 가능 약제 - 제품별 허가 연령·용량을 확인
   * 만 3세 이상 : dimenhydrinate 복합 내복액 <mark style="color:blue;">\[이지롱내복액]</mark> - 연령별 1회 용량을 출발 30분 전 복용, 필요시 4시간 이상 간격으로 1일 3회까지
   * 만 13세 이상 : meclizine <mark style="color:blue;">\[파비스염산메클리진]</mark>, <mark style="color:blue;">\[노보민시럽]</mark>
-* 소아용 스코폴라민 패취(<mark style="color:blue;">어린이키미테패취</mark>)는 <mark style="background-color:yellow;">허가 유효기간이 만료되어</mark> 현재 없음
+* 소아용 스코폴라민 패취(<mark style="color:blue;">어린이키미테패취</mark>)는 허가 유효기간이 만료되어 현재 없음
   * ＜16세에게 성인용 패취를 자르거나 임의로 사용하지 않음
 * 6\~12세에 dimenhydrinate 12\~25 ㎎(소아용 씹는 정제)을 여행 1\~2시간 전 투여 가능 <mark style="color:$info;">\[CDC Yellow Book 2026]</mark>; 보나링에이 50 ㎎을 분할하여 소아에게 투여하라는 의미는 아님
-* diphenhydramine은 진정과 역설적 흥분 위험이 있고 적응증은 불면증이며 ＜15세 금기이므로 소아 멀미약으로 사용하지 않음
+* 수면유도용 diphenhydramine 단일제는 일시적 불면증 완화에 사용하며 ＜15세 금기이고, 진정과 역설적 흥분 위험이 있으므로 소아 멀미약으로 사용하지 않음
 
 ### <mark style="color:orange;">임신·수유 중 멀미 치료</mark>
 
@@ -273,60 +276,72 @@ flowchart TD
   * P6 지압·생강은 효과가 일관되지 않음
 * 치료 약물
   * dimenhydrinate : 인체 임신 자료가 비교적 축적되어 있으므로 필요성에 따라 최소 유효용량으로 단기간 고려 <mark style="color:blue;">\[보나링에이]</mark>
-  * <mark style="background-color:yellow;">meclizine 단일제(파비스염산메클리진)는 임신 중이거나 임신했을 가능성이 있는 여성에게 금기</mark>
-* 수유 중에는 약제별 자료를 확인하고 최소 유효용량·단기간 사용을 원칙으로 <mark style="background-color:yellow;">함</mark>
-  * <mark style="background-color:yellow;">영아의 졸림·수유저하와 모유량 감소 가능성을 관찰</mark>
-  * <mark style="color:blue;">키미테패취</mark><mark style="background-color:yellow;">·</mark><mark style="color:blue;">이지롱내복액</mark><mark style="background-color:yellow;">은 수유부 금기</mark>
+  * meclizine 단일제(파비스염산메클리진)는 임신 중이거나 임신했을 가능성이 있는 여성에게 금기
+* 수유 중에는 약제별 자료를 확인하고 최소 유효용량·단기간 사용을 원칙으로 함
+  * 영아의 졸림·수유저하와 모유량 감소 가능성을 관찰
+  * <mark style="color:blue;">키미테패취</mark>와 복합 멀미약(<mark style="color:blue;">이지롱내복액</mark> 등)은 수유부 금기
 
 ### <mark style="color:orange;">NK-1 수용체 길항제 : tradipitant</mark>
 
-* NK-1 수용체 길항제로 성인의 움직임 유발 구토 예방 적응증으로 2025년 12월 FDA 승인(2025-12-30, 제품명 Nereus; 국내 미허가). 구토 예방 효과가 있으나 구역 단독 평가변수는 유의하지 않았고, 졸림 등으로 운전 능력을 저하시킬 수 있음
+* 성인의 움직임 유발 구토 예방 적응증으로 2025년 12월 30일 FDA 승인(제품명 Nereus; 미허가). 구토 예방 효과가 있으나 구역 단독 평가변수는 유의하지 않았고, 졸림 등으로 운전 능력을 저하시킬 수 있음
 
 ***
 
 ## <mark style="color:red;">질병코드</mark>
 
-* T75.3 멀미
+* T75.3 멀미 Motion sickness
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 경증 멀미 - 단기 여행, 항히스타민제
+> **처방례 1. 경증 멀미 - 단기 여행, 항히스타민제**
 >
 > ```
 > 보나링에이정 50 ㎎/T  1T  여행 30~60분 전 복용
-> ※ 치료 목적으로 반복 시 1회 50 ㎎ tid~qid, 원칙적으로 1일 최대 200 ㎎
-> ※ 졸음·입마름 주의, 음주·운전 금지; 협우각형 녹내장·전립선비대 등 배뇨장애·뇌전증 및 MAO억제제 투여 환자는 금기
 > ```
 >
-> 약제 정보: [보나링에이정 50 ㎎](https://www.health.kr/drug/A11A0950A0043)
+> _✽ 치료 목적으로 반복 시 1회 50 ㎎ tid~qid, 원칙적으로 1일 최대 200 ㎎_
+>
+> _✽ 졸음·입마름 주의, 음주·운전 금지; 협우각형 녹내장·전립선비대 등 배뇨장애·뇌전증 및 MAO억제제 투여 환자는 금기_
+>
+> 약제 정보: [<mark style="color:blue;">보나링에이정 50 ㎎</mark>](https://www.health.kr/drug/A11A0950A0043)
 
-> **처방례 2.** 경증 멀미 - 1일 1회 투여
+> **처방례 2. 경증 멀미 - 1일 1회 투여**
 >
 > ```
 > 파비스염산메클리진정 25 ㎎/T  1T  여행 60분 전 복용
-> ※ 1일 1회 투여로 편리(여행 중 24시간마다 반복 가능)
-> ※ 졸음·집중력 저하에 개인차가 있으므로 운전·위험 작업 및 음주 금지
-> ※ 12세 이하, 협우각형 녹내장, 배뇨장애 환자에게 투여하지 않음
 > ```
 >
-> 약제 정보: [파비스염산메클리진정 25 ㎎](https://www.health.kr/drug/A11A2240B0022)
+> _✽ 1일 1회 투여로 편리(여행 중 24시간마다 반복 가능)_
+>
+> _✽ 졸음·집중력 저하에 개인차가 있으므로 운전·위험 작업 및 음주 금지_
+>
+> _✽ 12세 이하, 협우각형 녹내장, 배뇨장애 환자에게 투여하지 않음_
+>
+> 약제 정보: [<mark style="color:blue;">파비스염산메클리진정 25 ㎎</mark>](https://www.health.kr/drug/A11A2240B0022)
 
-> **처방례 3.** 중등도\~중증 - 장기 여행 (3일 이내), 스코폴라민 패취
+> **처방례 3. 중등도\~중증 - 장기 여행 (3일 이내), 스코폴라민 패취**
 >
 > ```
 > 키미테패취 1.5 ㎎/P  1매  출발 최소 4시간 전(가능하면 전날 저녁) 귀 뒤 털 없는 건조한 피부에 부착 (약 72시간 유효)
-> ※ 만 16세 이상; 동시에 1매만 사용하며 절단하지 않음. 3일 이상 필요시 첫 번째 패취 제거 후 반대편 귀 뒤에 새 패취 부착
-> ※ 협우각형 녹내장·서맥·배뇨장애 환자에게 사용하지 않음
-> ※ 부착 직후 손을 씻고, 제거 후 손과 부착했던 피부를 비누로 씻음(눈에 닿으면 산동·시야 흐림)
-> ※ 고체온 경고 (FDA 라벨 2025) : 체온 상승·발한 감소 시 즉시 제거; 전기담요·핫팩 금지; 고령자·고온 환경 주의
-> ※ 혼돈·환각, 안통·시력저하, 배뇨 곤란 시 즉시 제거 후 진료
-> ※ MRI 검사 전 제거 (금속 지지체에 의한 부착 부위 화상 위험)
-> ※ 사용한 패취는 접착면끼리 접어 어린이 손이 닿지 않게 폐기
 > ```
 >
-> 약제 정보: [키미테패취 1.5 ㎎](https://www.health.kr/drug/A11A3180A0092)
+> _✽ 만 16세 이상; 동시에 1매만 사용하며 절단하지 않음. 3일 이상 필요시 첫 번째 패취 제거 후 반대편 귀 뒤에 새 패취 부착_
+>
+> _✽ 협우각형 녹내장·서맥·배뇨장애 환자에게 사용하지 않음_
+>
+> _✽ 부착 직후 손을 씻고, 제거 후 손과 부착했던 피부를 비누로 씻음(눈에 닿으면 산동·시야 흐림)_
+>
+> _✽ 고체온 경고 (FDA 라벨 2025) : 체온 상승·발한 감소 시 즉시 제거; 전기담요·핫팩 금지; 고령자·고온 환경 주의_
+>
+> _✽ 혼돈·환각, 안통·시력저하, 배뇨 곤란 시 즉시 제거 후 진료_
+>
+> _✽ MRI 검사 전 제거 (금속 지지체에 의한 부착 부위 화상 위험)_
+>
+> _✽ 사용한 패취는 접착면끼리 접어 어린이 손이 닿지 않게 폐기_
+>
+> 약제 정보: [<mark style="color:blue;">키미테패취 1.5 ㎎</mark>](https://www.health.kr/drug/A11A3180A0092)
 
 ***
 
@@ -334,8 +349,8 @@ flowchart TD
 
 > **멀미약은 미리 복용해야 효과가 있습니다**
 >
-> * 보나링에이는 출발 **30분\~1시간 전**, 메클리진 <mark style="background-color:yellow;">단일제(파비스염산메클리진)</mark>는 **1시간 전**, 스코폴라민 패취는 **최소 4시간 전(가능하면 전날 저녁)에** 적용하십시오.
-> * <mark style="background-color:yellow;">이지롱내복액·노보민시럽은 출발</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**30분 전**</mark><mark style="background-color:yellow;">에 연령에 맞는 1회 용량을 복용하고, 필요시</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**4시간 이상 간격으로 1일 3회까지**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">복용하십시오.</mark>
+> * 보나링에이는 출발 **30분\~1시간 전**, 메클리진 단일제(파비스염산메클리진)는 **1시간 전**, 스코폴라민 패취는 **최소 4시간 전(가능하면 전날 저녁)에** 적용하십시오.
+> * 이지롱내복액·노보민시럽은 출발 **30분 전**에 연령에 맞는 1회 용량을 복용하고, 필요시 **4시간 이상 간격으로 1일 3회까지** 복용하십시오.
 > * 멀미 증상이 시작된 후에는 약의 효과가 크게 줄어듭니다.
 > * 처음 사용하는 약은 여행일보다 충분히 앞선, 운전·위험 작업 계획이 없는 날 한 번 시험 사용하십시오. 시험용 약과 여행용 약을 중복 사용하지 말고 정해진 복용·교체 간격을 지키십시오.
 
@@ -351,17 +366,17 @@ flowchart TD
 > * **부착 후 반드시 손을 깨끗이 씻으십시오** - 손에 남은 약이 눈에 닿으면 동공 확대·시야 흐림이 생길 수 있습니다.
 > * 패취를 **떼어낸 뒤에도** 손과 붙였던 자리를 비누로 씻고, 사용한 패취는 접착면끼리 붙게 접어서 버리십시오.
 > * 패취를 자르거나 2장을 동시에 붙이지 마십시오.
-> * 열이 오르거나 더운 곳에서 땀이 나지 않으면 즉시 패취를 제거하고 <mark style="background-color:yellow;">주치의</mark>에게 알리십시오. 패취를 뗀 뒤에도 몸에 남은 약 때문에 증상이 한동안 지속될 수 있습니다.
+> * 열이 오르거나 더운 곳에서 땀이 나지 않으면 즉시 패취를 제거하고 주치의에게 알리십시오. 패취를 뗀 뒤에도 몸에 남은 약 때문에 증상이 한동안 지속될 수 있습니다.
 > * 패취 사용 중 **헛것이 보이거나 정신이 혼란스럽거나, 눈이 갑자기 아프고 흐려지거나, 소변이 잘 나오지 않으면** 즉시 패취를 떼고 진료를 받으십시오.
 > * **MRI 검사 전에는 패취를 제거하고 의료진에게 알리십시오.** 금속성 막 때문에 피부 화상이 생길 수 있습니다.
 > * 며칠간 사용한 뒤 제거하면 일반적으로 **24시간 이후**부터 어지럼증·구역 등 금단 증상이 나타날 수 있습니다. 증상이 심하면 진료를 받으십시오.
 
-> **이런 경우 복용을 피하거나&#x20;**<mark style="background-color:yellow;">**주치의**</mark>**와 상담하십시오**
+> **이런 경우 복용을 피하거나 주치의와 상담하십시오**
 >
-> * 키미테패취·파비스염산메클리진·보나링에이는 협우각형(폐쇄각) 녹내장 또는 전립선비대 등 배뇨장애가 있으면 사용하지 마십시오. 키미테패취는 서맥, 보나링에이는 <mark style="background-color:yellow;">뇌전증</mark>·MAO억제제 투여 환자에게도 금기입니다.
+> * 키미테패취·파비스염산메클리진·보나링에이는 협우각형(폐쇄각) 녹내장 또는 전립선비대 등 배뇨장애가 있으면 사용하지 마십시오. 키미테패취는 서맥, 보나링에이는 뇌전증·MAO억제제 투여 환자에게도 금기입니다.
 > * 장폐색·정신병·기타 발작 병력이 있거나 다른 진정성·항콜린성 약을 복용하면 처방 전에 알리십시오.
-> * **임부·수유부는 키미테패취를 사용하지 마십시오.** 메클리진(파비스염산메클리진)도 임신 중이거나 임신 가능성이 있으면 복용하지 마십시오.
-> * 그 밖에 임신·수유 중 멀미약이 꼭 필요하면 반드시 <mark style="background-color:yellow;">주치의</mark>와 상담하십시오. 가능하면 좌석 선택·시선 고정 등 비약물 요법을 먼저 시도하십시오.
+> * **임부·수유부는 키미테패취를 사용하지 마십시오.** 메클리진(파비스염산메클리진)도 임신 중이거나 임신했을 가능성이 있으면 복용하지 마십시오.
+> * 그 밖에 임신·수유 중 멀미약이 꼭 필요하면 반드시 주치의와 상담하십시오. 가능하면 좌석 선택·시선 고정 등 비약물 요법을 먼저 시도하십시오.
 > * **성인용 키미테패취는 만 16세 이상에서만 사용합니다.** 16세 미만에게는 사용하지 마시고, 패취를 자르지 마십시오.
 
 ***
@@ -372,14 +387,14 @@ flowchart TD
 
 * \[CDC Yellow Book 2026] [Golding JF. Motion Sickness. In: CDC Yellow Book 2026: Health Information for International Travel. Published April 23, 2025.](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/motion-sickness.html) - 비약물 예방·약제 선택과 투여 시점 (확인일 2026-10-11)
 * \[Bárány Society 2021] [Cha YH, et al. Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society. J Vestib Res. 2021;31(5):327-344.](https://doi.org/10.3233/VES-200005) - 멀미·시각유발 멀미 및 장애의 진단 기준
-* [Cha YH, et al. Mal de débarquement syndrome diagnostic criteria: Consensus document of the Classification Committee of the Bárány Society. J Vestib Res. 2020;30(5):285-293.](https://doi.org/10.3233/VES-200714) - <mark style="background-color:yellow;">MdDS의 진단 기준</mark>
+* [Cha YH, et al. Mal de débarquement syndrome diagnostic criteria: Consensus document of the Classification Committee of the Bárány Society. J Vestib Res. 2020;30(5):285-293.](https://doi.org/10.3233/VES-200714) - MdDS의 진단 기준
 * [Karrim N, et al. Antihistamines for motion sickness. Cochrane Database Syst Rev. 2022;10:CD012715.](https://doi.org/10.1002/14651858.CD012715.pub2) - 항히스타민제의 예방 효과와 졸음 등 이상반응
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [<mark style="background-color:yellow;">식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.</mark>](https://nedrug.mfds.go.kr/index) <mark style="background-color:yellow;">- 제품별 적응증·용법·금기 및 허가 상태 확인</mark>
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [U.S. Food and Drug Administration. Novel Drug Approvals for 2025: Nereus (tradipitant), 2025-12-30.](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025) - 미국 승인일·성인 적응증 확인
-* [<mark style="background-color:yellow;">U.S. Food and Drug Administration. Nereus (tradipitant) capsules: Prescribing information. December 2025.</mark>](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220152Orig1s000lbl.pdf) <mark style="background-color:yellow;">- 구토 예방 효과·구역 평가변수 및 운전 관련 주의사항</mark>
+* [U.S. Food and Drug Administration. Nereus (tradipitant) capsules: Prescribing information. December 2025.](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/220152Orig1s000lbl.pdf) - 구토 예방 효과·구역 평가변수 및 운전 관련 주의사항
 * [U.S. Food and Drug Administration. FDA adds warning about serious risk of heat-related complications with antinausea patch Transderm Scōp (scopolamine transdermal system). Drug Safety Communication. June 18, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-adds-warning-about-serious-risk-heat-related-complications-antinausea-patch-transderm-scop) - scopolamine 경피제의 고체온·열 관련 합병증 경고
 
 ***
@@ -417,8 +432,8 @@ flowchart TD
 * **스코폴라민 패취**를 붙인 후와 뗀 후에는 손을 깨끗이 씻으십시오. 손에 묻은 약이 눈에 닿으면 시야가 흐려집니다.
 * 성인용 스코폴라민 패취는 **만 16세 이상**에서만 사용하고, 16세 미만에게는 사용하지 마십시오. 패취를 자르지 마십시오.
 * MRI 검사 전에는 패취를 제거하고 의료진에게 알리십시오.
-* 폐쇄각녹내장·전립선비대 등 배뇨장애가 있으면 이 안내서의 키미테패취·파비스염산메클리진·보나링에이를 사용하지 마십시오. 다른 제품도 <mark style="background-color:yellow;">주치의</mark>·약사에게 확인하십시오.
-* <mark style="background-color:yellow;">**임신 중이거나 수유 중이면 멀미 패취를 사용하지 마시고**</mark><mark style="background-color:yellow;">, 먹는 멀미약도 주치의와 상담 후 사용하십시오.</mark>
+* 폐쇄각녹내장·전립선비대 등 배뇨장애가 있으면 이 안내서의 키미테패취·파비스염산메클리진·보나링에이를 사용하지 마십시오. 다른 제품도 주치의·약사에게 확인하십시오.
+* **임신 중이거나 수유 중이면 멀미 패취를 사용하지 마시고**, 먹는 멀미약도 주치의와 상담 후 사용하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 119 또는 응급실을 이용하세요</mark>
 
