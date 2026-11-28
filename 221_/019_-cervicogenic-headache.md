@@ -289,7 +289,7 @@ class B2,N,Q caution;
 * pregabalin : 정상 신기능에서 75 ㎎ bid로 시작 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://www.health.kr/drug/A11AOOOOO8537)<mark style="color:blue;">]</mark>
   * 별도로 확인된 신경병증성 통증이 동반된 경우 해당 적응증에 따라 고려하며, 경추성두통 자체에 일률적으로 사용하지 않음
   * 신기능·내약성에 따라 조절; 어지럼·졸음·말초부종에 주의
-  * (보험주의) 급여 인정 범위는 고시 제2019-191호 확인
+  * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) : 신경병증성 통증 등에 인정
 * duloxetine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">듀로셉톨</mark>](https://www.health.kr/drug/2014063000023)<mark style="color:blue;">]</mark> : 경추성두통 치료는 허가 외 사용. 동반 질환에 사용할 때는 해당 적응증·급여기준 확인
 
 ### <mark style="color:orange;">국소 NSAID 또는 lidocaine 패치</mark>
