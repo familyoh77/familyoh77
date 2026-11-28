@@ -506,7 +506,7 @@ flowchart TD
 #### <mark style="color:$primary;">스테로이드</mark>
 
 * 적용 원칙 : 이 장에서는 COPD·천식 급성 악화에 대한 사용을 제시함; 적응증 없이 일률 사용 금함
-* [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">소론도</mark>](https://www.health.kr/drug/a11a4290b0015)<mark style="color:blue;">]</mark> 5 ㎎
+* [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">소론도</mark>](https://www.health.kr/drug/A11A4290B0015)<mark style="color:blue;">]</mark> 5 ㎎
   * 투여 기간 : 5\~7일
 * [COPD](../223_/072_-copd.md) 급성 악화 : prednisone-equivalent 40 ㎎/d
   * 투여 기간 : 5일
@@ -649,7 +649,7 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[ESC 2021] [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://doi.org/10.1093/eurheartj/ehab368) - 외래 BNP/NT-proBNP 배제 기준 및 기존 진단 체계 확인 자료; 급성 rule-in 연령 구간은 2026년판 참조
-* \[ESC 2026] [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026;47(38):5346-5457.](https://doi.org/10.1093/eurheartj/ehag100) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
+* \[ESC 2026] [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026;47(38):5346-5457.](https://doi.org/10.1093/eurheartj/ehag100) - 급성·비급성 상황별 NT-proBNP 배제·rule-in 기준(연령 구간), 외래 신속 의뢰 기준과 급성 울혈 시 루프이뇨제 초기 용량
 * \[BTS 2017] [O'Driscoll BR, et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017;72(Suppl 1):ii1-ii90.](https://pubmed.ncbi.nlm.nih.gov/28507176/) - 저산소혈증·고탄산혈증 위험에 따른 산소 목표와 전달 장치 선택
 * \[ERS/ATS 2017] [Rochwerg B, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J. 2017;50(2):1602426.](https://doi.org/10.1183/13993003.02426-2016) - COPD 악화의 호흡성 산증과 급성 심인성 폐부종에서 NIV 적응증·환기 방식 확인
 * \[GOLD 2026] [Global Initiative for Chronic Obstructive Lung Disease. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease. 2026 Report.](https://goldcopd.org/2026-gold-report-and-pocket-guide/) - COPD 증상·악화 평가(ABE 분류)와 급성 악화 시 초기 관리

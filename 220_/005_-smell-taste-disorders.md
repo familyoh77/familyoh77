@@ -424,7 +424,7 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Whitcroft KL, et al. Position paper on olfactory dysfunction: 2023. Rhinology. 2023;61(33):1-108.](https://doi.org/10.4193/Rhin22.483) - 후각 장애의 분류·검사·감별과 후각훈련·약물 치료; 관리 알고리듬 재구성의 근거
-* [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
+* \[BMJ 2022] [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
 * [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2):94-104.](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
 * [Yeap ZH, et al. The APOLLO trial: a proof-of-concept study for vitamin A nasal drops in COVID-19-related postinfectious olfactory dysfunction. Chem Senses. 2026;51:bjag001.](https://doi.org/10.1093/chemse/bjag001) - 비강 vitamin A의 위약대조 시험 결과; 다른 감염 후 후각 장애에 일괄 적용하지 않음
 * [Farrell NF, et al. Stellate Ganglion Block for the Treatment of COVID-19-Induced Parosmia: A Randomized Clinical Trial. JAMA Otolaryngol Head Neck Surg. 2025;151(8):741-749.](https://doi.org/10.1001/jamaoto.2025.1304) - 위약 대비 유의한 개선 없음

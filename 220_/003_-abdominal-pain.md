@@ -624,7 +624,7 @@ flowchart TD
 >
 > 약제 정보: [트리돌주50밀리그램 50 ㎎/1 ㎖](https://www.health.kr/drug/A11A0450A0335)
 >
-> _✽ 급성 췌장염이 의심되면 응급실/입원 평가가 원칙이며, 위는 이송 전 1회성 통증 조절의 예시임_
+> _✽ 급성 췌장염이 의심되면 응급실/입원 평가가 원칙이며, 위는 이송 전 1회성 통증 조절의 예시임. 저혈량 시 수액 원칙(젖산링거액 우선, 임상 상태에 맞춘 조절, 심부전·CKD 등에서 volume overload 주의)도 같은 근거에 따름 <mark style="color:$info;">\[ACG 2024]</mark>_
 >
 > _✽ 급성 췌장염은 원칙적으로 NPO를 유지하는 질환이 아님 - 경증에서는 경구 섭취를 견딜 수 있으면 24\~48시간 이내 저지방 고형식으로 조기 경구 섭취를 시작하며, 중등도·중증에서는 경구 섭취 가능 여부에 따라 영양 공급 경로를 개별화 <mark style="color:$info;">\[ACG 2024]</mark>. 췌장염에서 opioid 사용은 과거 Oddi 괄약근 경련 우려로 기피했으나 임상적 근거는 불충분하며 적절한 통증 조절이 우선_
 
@@ -680,8 +680,8 @@ flowchart TD
 * [Scheirey CD, et al. ACR Appropriateness Criteria® Acute Nonlocalized Abdominal Pain. J Am Coll Radiol. 2018;15(11S):S217-S231.](https://pubmed.ncbi.nlm.nih.gov/30392591/) - 성인 비국소성 급성 복통의 영상검사 선택; 소아·국소 복통은 해당 기준과 구분
 * \[ACG 2026] [Peery AF, et al. ACG Clinical Guideline: Colonic Diverticulitis. Am J Gastroenterol. 2026;121(7):1549-1561.](https://doi.org/10.14309/ajg.0000000000004047) - 저위험 비복잡 게실염의 항생제 선택적 사용과 회복 후 대장내시경
 * [Lee JG, et al. Evidence-based clinical practice guidelines for diagnosis and medical management of acute colonic diverticulitis developed by the Korean Association for the Study of Intestinal Diseases (KASID). Intest Res. 2026;24(3):428-463.](https://doi.org/10.5217/ir.2025.00299) - 게실염의 진단·내과적 치료; 환자 위험도에 따른 항생제·입원 판단
-* \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 관리, 조기 경구 섭취와 합병증 평가
-* [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
+* \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 수액 치료(젖산링거액·volume overload 주의), 조기 경구 섭취와 합병증 평가
+* \[Cochrane 2011] [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
 * [UNSW Embryology. Gastrointestinal Tract Development.](https://embryology.med.unsw.edu.au/embryology/index.php/Gastrointestinal_Tract_Development) - 전장·중장·후장의 범위
 * [MSD Manual Professional Edition. Acute Abdominal Pain.](https://www.msdmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/acute-abdominal-pain) - 내장통의 위치(상복부·배꼽 주위·하복부)
 * [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처

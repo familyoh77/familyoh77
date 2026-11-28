@@ -473,10 +473,14 @@ flowchart TD
 
 #### <mark style="color:$primary;">백일해</mark>
 
-* [항생제 치료](../223_/066_-acute-bronchitis.md#pertussis) : azithromycin(1차); clarithromycin 또는 TMP-SMX 등을 대안으로 고려
-  * TMP-SMX는 생후 2개월 미만 영아 및 임신부에 금기
-  * 마크로라이드 내성이 의심되거나 확인되면 가능한 경우 배양·감수성검사를 시행하고, 사용 가능 연령·금기를 확인하여 TMP-SMX 등 대체 치료를 결정
-  * 항생제 치료 후 기침 지속만으로 내성을 판단하지 않음 <mark style="color:$info;">\[CDC]</mark>
+* [항생제 치료](../223_/066_-acute-bronchitis.md#pertussis) : 마크로라이드(azithromycin·clarithromycin 등)가 우선; TMP-SMX는 생후 2개월 이상에서 대안으로, 특히 마크로라이드 내성이 의심되거나 확인될 때 고려 <mark style="color:$info;">\[CDC]</mark>
+  * TMP-SMX는 생후 2개월 미만 영아에 금기이며, 핵황달 위험 때문에 임신부·수유부에게도 투여하지 않음 <mark style="color:$info;">\[CDC 2005]</mark>
+  * 생후 1개월 미만 : azithromycin이 우선 약제이나 비후성 유문협착증(IHPS) 발생 여부를 관찰함 <mark style="color:$info;">\[CDC]</mark>
+  * 임상적으로 백일해가 강하게 의심되거나, 중증 고위험군이거나, 고위험군과 접촉하는 경우에는 검사 결과를 기다리지 않고 치료를 시작하는 것을 적극 고려함 <mark style="color:$info;">\[CDC]</mark>
+    * 고위험군 : 영아, 신생아와 접촉할 임신 3삼분기 여성 등
+  * 최근(21일 이내) 마크로라이드 내성이 흔한 지역 여행력이 있으면 항생제 선택 시 고려하고, 가능하면 비인두 검체로 배양·내성검사를 의뢰함 <mark style="color:$info;">\[CDC]</mark>
+  * 내성이 확인되거나 기대한 임상적 호전이 없으면 사용 가능 연령·금기를 확인하여 TMP-SMX 등으로 변경을 고려함 <mark style="color:$info;">\[CDC]</mark>
+    * 백일해 기침은 적절한 치료 후에도 수주간 지속될 수 있으므로 기침 지속만으로 내성을 단정하지 않음
 * 초기(발병 1\~2주, 발작성 기침이 본격화되기 전) 치료는 증상 경감을 기대할 수 있음
   * 후기에는 기침 경과를 바꾸는 효과가 제한적이며, 감염성이 남아 있는 시기에는 전파 억제를 위해 치료함
 * 치료 시점
@@ -490,6 +494,7 @@ flowchart TD
   * 고위험군과 접촉할 사람 : 감염성 환자에게 노출된 후 21일 이내
     * 신생아에게 전파할 수 있는 임신 말기 여성, 고위험군을 돌보는 사람 등
   * 그 밖의 모든 일상 접촉자에게 일률적으로 시행하지는 않으며, 노출 후 21일간 증상 발생을 관찰 <mark style="color:$info;">\[CDC PEP]</mark>
+  * 국내 질병관리청은 예방접종 여부와 관계없이 밀접 접촉자에게 PEP를 권장하며, 학교 등 집단 상황에서 전체를 대상으로 일괄 시행하는 것은 권장하지 않음 <mark style="color:$info;">\[질병관리청 2026]</mark>
 * 격리·전파 예방 : 의심 단계부터 비말주의 적용
   * 적절한 항생제 치료 시작 후 5일이 지날 때까지 등교·등원·출근 제한
   * 치료하지 않은 경우에는 기침 시작 후 21일까지 제한
@@ -579,6 +584,7 @@ flowchart TD
   * CALM-1 : 50 ㎎ bid에서 12주째 24시간 기침 빈도 감소의 1차 평가변수를 충족
   * CALM-2 : 같은 용량에서 24주째 1차 평가변수를 충족하지 못함
   * 25 ㎎ bid는 두 연구 모두에서 1차 평가변수를 충족하지 못했으며, 주요 2차 평가변수도 두 연구에서 목표에 미치지 못함
+  * 이상반응의 빈도·중증도는 두 연구 모두 위약과 유사했음
   * GSK는 전체 결과를 근거로 2026년 7월 RCC 적응증 개발 중단을 발표
     * 과민대장증후군(IBS-D/IBS-M) 대상 제2b상 BALANCE 시험은 계속한다고 발표함 <mark style="color:$info;">\[GSK 2026-07-17]</mark>
 
@@ -605,7 +611,7 @@ flowchart TD
 >
 > _✽ 모든 약제를 일률적으로 병용하지 않고 증상에 따라 선택. 알레르기비염은 비내 스테로이드 중심으로 치료하고 항히스타민제가 필요하면_ [_2세대_](../231_/212_-antihistamines.md)_를 우선 고려; 항히스타민제의 비염 개선과 기침 자체의 개선 효과는 구분함. 페니라민은 녹내장·하부요로폐색 환자에서 사용하지 않으며 고령에서는 가급적 피함. 프리비투스와 병용하면 졸림·구갈이 증가할 수 있음. 현탁액은 흔들어 계량기로 복용_
 >
-> _✽ Codeine 함유 제제는 상기도기침증후군의 원인 치료가 아니며, 기침 완화를 위한 일상적 사용도 권장하지 않음. 난치성 만성기침(RCC)에 대한 근거는 codeine이 아니라 저용량 서방형 morphine에서 확립되어 있음(☞_ [_만성기침 치료 약제들 - 저용량 Opioid_](006_-cough.md#low-dose-opioid) _항목 참조); codeine을 RCC 치료 목적으로 권장하지 않음. 18세 미만 소아·청소년에서는 호흡 억제/부전 위험 때문에 기침 억제 목적의 codeine 함유 약물 사용을 피할 것을 권고함_ <mark style="color:$info;">\[대한결핵 및 호흡기학회 2020]</mark>
+> _✽ Codeine 함유 제제는 상기도기침증후군의 원인 치료가 아니며, 기침 완화를 위한 일상적 사용도 권장하지 않음. 난치성 만성기침(RCC)에 대한 근거는 codeine이 아니라 저용량 서방형 morphine에서 확립되어 있음(☞_ [_만성기침 치료 약제들 - 저용량 Opioid_](006_-cough.md#low-dose-opioid) _항목 참조); codeine을 RCC 치료 목적으로 권장하지 않음. 18세 미만 소아·청소년에서는 호흡 억제/부전 위험 때문에 기침 억제 목적의 codeine 함유 약물을 사용하지 않도록 권고함_ <mark style="color:$info;">\[대한결핵 및 호흡기학회 2020]</mark>_. 이와 별도로 제품별 허가 연령(dihydrocodeine 복합제 12세 미만 금기, codeine 단일제 진해 적응증 19세 이상)을 확인함 (☞ 핵심 복약 지도)_
 
 > **처방례 2. Tic cough / Somatic cough syndrome - 행동치료 중심**
 >
@@ -624,9 +630,9 @@ flowchart TD
 
 > **진해제 - 오피오이드계 진해제(codeine·dihydrocodeine 함유 제제)** (<mark style="color:blue;">\[</mark>[<mark style="color:blue;">코데닝</mark>](https://www.health.kr/drug/A11ABBBBB1574)<mark style="color:blue;">]</mark> 등) - 본 챕터에서는 일상적 기침 치료로 권장하지 않으나, 다른 적응증 등으로 이미 이 계열 약을 처방받은 경우 다음을 안내
 >
-> * **소아·청소년의 허용 연령은 성분·제품마다 다릅니다.**
->   * 코데닝 등 dihydrocodeine 복합제는 12세 미만에 금기이며, codeine 단일제의 진해 적응증은 19세 이상입니다
->   * 18세 미만의 기침 치료에 이 계열 약을 권하지 않습니다. 특히 18세 미만에서 비만·수면무호흡·중증 폐질환이 있으면 피합니다
+> * **소아·청소년에게는 두 가지 연령 기준이 함께 적용됩니다.**
+>   * 제품 허가 기준 : 코데닝 등 dihydrocodeine 복합제는 12세 미만에 금기이며, codeine 단일제의 진해 적응증은 19세 이상입니다
+>   * 진료 권고 기준 : 허가 연령에 해당하더라도 18세 미만의 기침 치료에는 이 계열 약을 권하지 않습니다. 비만·수면무호흡·중증 폐질환이 있으면 특히 피합니다
 >   * 호흡이 억제되는 위험한 부작용이 생길 수 있습니다
 > * 졸음, 어지럼이 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오
 > * 변비가 생기기 쉬우므로 충분한 수분 섭취와 식이 섬유 섭취를 늘리십시오
@@ -681,6 +687,8 @@ flowchart TD
 * [GSK. CALM-1·CALM-2 결과 및 camlipixant RCC 개발 중단 발표. 2026-07-17.](https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/) - 개발 중단 발표 원문
 * [Vertigan AE, et al. Somatic Cough Syndrome and Tic Cough in Adults and Children: CHEST Guideline and Expert Panel Report. Chest. 2015;148(1):24-31.](https://doi.org/10.1378/chest.15-0423) - Tic cough 및 somatic cough syndrome의 진단·치료 원칙
 * [CDC. Treatment of Pertussis. 2026-08-25.](https://www.cdc.gov/pertussis/hcp/clinical-care/index.html) - 백일해 항생제 선택과 치료 시점
+* [CDC. Antibiotic-resistant Bordetella pertussis.](https://www.cdc.gov/pertussis/hcp/antibiotic-resistance/) - 마크로라이드 내성 의심 시 검체 배양·내성검사와 TMP-SMX 대체 치료
+* [Tiwari T, et al. Recommended Antimicrobial Agents for the Treatment and Postexposure Prophylaxis of Pertussis: 2005 CDC Guidelines. MMWR Recomm Rep. 2005;54(RR-14).](https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5414a1.htm) - TMP-SMX의 영아·임신부·수유부 투여 제한
 * [CDC. Postexposure Antimicrobial Prophylaxis: Pertussis.](https://www.cdc.gov/pertussis/php/postexposure-prophylaxis/index.html) - PEP 대상과 21일 적용 기준
 * [질병관리청. 국가건강정보포털: 백일해. 2026-04-06 갱신.](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6676) - 신고 및 격리·접촉자 관리
 

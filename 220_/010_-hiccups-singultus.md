@@ -279,7 +279,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">항암치료 관련 dexamethasone-induced hiccup</mark>
 
-* dexamethasone이 원인으로 의심되면 항암치료 상황에서 methylprednisolone으로 스테로이드 rotation을 고려할 수 있음 (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎)
+* dexamethasone이 원인으로 의심되면 항암치료 상황에서 methylprednisolone으로 스테로이드 rotation을 고려할 수 있음 <mark style="color:$info;">\[Oncologist 2017]</mark> (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎)
 * 반드시 항암치료 담당의와 상의하여 다음 항암 주기의 항구토 regimen에서 동등 항염증 용량과 항구토 효과를 함께 고려해 조정하며, dexamethasone을 임의로 단순 중단하지 않음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -385,6 +385,7 @@ flowchart TD
 * [Steger M, et al. Systemic review: the pathogenesis and pharmacological treatment of hiccups. Aliment Pharmacol Ther. 2015;42(9):1037-1050.](https://pubmed.ncbi.nlm.nih.gov/26307025/) - 지속성·난치성 딸꾹질의 원인·약물 선택과 제한적인 치료 근거
 * [Santini D, et al. Management of orphan symptoms: ESMO Clinical Practice Guidelines for diagnosis and treatment. ESMO Open. 2020;5(6):e000933.](https://doi.org/10.1136/esmoopen-2020-000933) - 암·완화의료에서 딸꾹질 치료와 약제 선택; 일반 환자에 적용할 때 대상 차이 고려
 * [Adam E. A Systematic Review of the Effectiveness of Oral Baclofen in the Management of Hiccups in Adult Palliative Care Patients. J Pain Palliat Care Pharmacother. 2020;34(1):43-54.](https://pubmed.ncbi.nlm.nih.gov/31910072/) - baclofen의 완화의료 근거와 권고를 제한하는 연구의 한계
+* [Go SI, et al. Antiemetic Corticosteroid Rotation from Dexamethasone to Methylprednisolone to Prevent Dexamethasone-Induced Hiccup in Cancer Patients Treated with Chemotherapy: A Randomized, Single-Blind, Crossover Phase III Trial. Oncologist. 2017;22(11):1354-1361.](https://doi.org/10.1634/theoncologist.2017-0129) - 항암 항구토 요법에서 dexamethasone 유발 딸꾹질의 methylprednisolone rotation과 항구토 효과 유지
 * [Moretto EN, et al. Interventions for treating persistent and intractable hiccups in adults. Cochrane Database Syst Rev. 2013;(1):CD008768.](https://pubmed.ncbi.nlm.nih.gov/23440833/) - 약물·비약물 치료의 고품질 비교 연구 부족을 확인하는 자료
 * [American Geriatrics Society 2023 Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081.](https://doi.org/10.1111/jgs.18372) - 표 6의 고령자 baclofen 신기능 기준
 

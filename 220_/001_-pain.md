@@ -199,7 +199,7 @@ flowchart TD
 #### <mark style="color:$primary;">만성 통증 치료 원칙</mark>
 
 * 통증의 완전 제거보다 일상 기능 회복(보행, 수면, 사회 활동, 직업 복귀)을 치료 목표로 설정
-* 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료
+* 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료 <mark style="color:$info;">\[NICE NG193]</mark>
 * 적절한 오피오이드 사용 : 암성 통증 시 적극적 사용 권장; 비암성 통증에서는 신중히 선택, 다른 치료 먼저 시도
   * 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용
 * 생물심리사회적 모델 : 신체, 심리(우울, 불안, 파국화), 사회적 요인(직업, 가족 환경, 보상 문제)을 통합 고려
@@ -266,7 +266,7 @@ flowchart TD
 
 **통증 유형별 처방**
 
-<table data-search="false"><thead><tr><th width="148">유형</th><th>1차 선택</th><th>비고</th></tr></thead><tbody><tr><td><strong>Nociceptive</strong><br><strong>- 경증</strong></td><td>acetaminophen, 외용/경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td><strong>Nociceptive</strong><br><strong>- 중등증~중증</strong></td><td>원인 질환별 non-opioid 치료 우선; 선택적 단기 opioid</td><td>통증 강도만으로 결정하지 않으며 OA·만성 요통·만성 좌골신경통은 해당 지침 우선</td></tr><tr><td><strong>Neuropathic</strong></td><td>pregabalin/gabapentin, duloxetine 또는 저용량 TCA(amitriptyline) 중 선택</td><td>삼차신경통: carbamazepine; 좌골신경통·요추 신경근성 방사통은 질환별 권고 우선</td></tr><tr><td><strong>Nociplastic</strong></td><td>비약물(CBT·운동) 우선<br>•섬유근육통(FM): SNRI(duloxetine, milnacipran), 저용량 amitriptyline 또는 pregabalin 중 증상 양상에 따라 선택</td><td>NSAID 단독 효과 제한적. FM 약물은 약한 찬성 권고, amitriptyline은 허가 외 사용임; 다른 nociplastic 통증에는 질환별 근거 적용</td></tr><tr><td><strong>Mixed</strong></td><td>원인 질환별 근거에 따라 선택적 병용</td><td>각 요소의 적응증·효과·위험 확인; 좌골신경통·요추 신경근성 방사통에 자동 적용하지 않음</td></tr><tr><td><strong>염증성</strong></td><td>NSAID (선택제는 위험인자 고려)</td><td>-</td></tr><tr><td><strong>근육통</strong></td><td>NSAID ± 단기 근이완제</td><td>약제별 허가 투여기간 내 최단기간</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="148">유형</th><th>1차 선택</th><th>비고</th></tr></thead><tbody><tr><td><strong>Nociceptive</strong><br><strong>- 경증</strong></td><td>acetaminophen, 외용/경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td><strong>Nociceptive</strong><br><strong>- 중등증~중증</strong></td><td>원인 질환별 non-opioid 치료 우선; 선택적 단기 opioid</td><td>통증 강도만으로 결정하지 않으며 OA·만성 요통·만성 좌골신경통은 해당 지침 우선</td></tr><tr><td><strong>Neuropathic</strong></td><td>pregabalin/gabapentin, duloxetine 또는 저용량 TCA(amitriptyline) 중 선택</td><td>삼차신경통: carbamazepine; 좌골신경통·요추 신경근성 방사통은 질환별 권고 우선</td></tr><tr><td><strong>Nociplastic</strong></td><td>비약물(CBT·운동) 우선<br>•섬유근육통(FM): SNRI(duloxetine, milnacipran), 저용량 amitriptyline 또는 pregabalin 중 증상 양상에 따라 선택</td><td>NSAID 단독 효과 제한적. FM 약물은 약한 찬성 권고 <mark style="color:$info;">[EULAR 2017]</mark>, amitriptyline은 허가 외 사용임; 다른 nociplastic 통증에는 질환별 근거 적용</td></tr><tr><td><strong>Mixed</strong></td><td>원인 질환별 근거에 따라 선택적 병용</td><td>각 요소의 적응증·효과·위험 확인; 좌골신경통·요추 신경근성 방사통에 자동 적용하지 않음</td></tr><tr><td><strong>염증성</strong></td><td>NSAID (선택제는 위험인자 고려)</td><td>-</td></tr><tr><td><strong>근육통</strong></td><td>NSAID ± 단기 근이완제</td><td>약제별 허가 투여기간 내 최단기간</td></tr></tbody></table>
 
 * 환자의 위장관·심혈관·신장·간 위험을 함께 평가하여 선택(☞ [위험 요인별 진통제 선택](001_-pain.md#risk-based-analgesic-selection))
 
@@ -296,7 +296,7 @@ flowchart TD
 
 * **1st line**
   * gabapentinoid(pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선 고려) 중 하나를 선택
-  * 좌골신경통·요추 신경근성 방사통에는 일반 신경병증성 통증의 약물 권고를 그대로 적용하지 않음
+  * 좌골신경통·요추 신경근성 방사통에는 일반 신경병증성 통증의 약물 권고를 그대로 적용하지 않음 <mark style="color:$info;">\[NICE NG59]</mark>
     * OA 자체·섬유근육통·특발성 야간 다리 경련도 각각의 질환별 근거를 우선함
   * 수근관증후군(CTS)의 저림·통증에도 gabapentinoid를 일상적으로 권고하지 않음
     * 감압·야간 부목 등 원인 질환 치료를 우선하며, 별도 신경병증성 통증 질환이 동반된 경우에는 해당 질환의 적응증으로 판단함
@@ -495,7 +495,7 @@ flowchart TD
     class O followup
 ```
 
-<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한통증학회 아편유사제 처방지침 2024</mark></em><br><em><mark style="color:$info;">CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022, 등)</mark></em></p>
+<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한통증학회 아편유사제 처방지침 2024</mark></em><br><em><mark style="color:$info;">CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022 등)</mark></em></p>
 
 ***
 
@@ -625,7 +625,7 @@ flowchart TD
 * SSRI(fluoxetine 등)는 [섬유근육통](../228_/153_-fibromyalgia.md) 자체의 진통 목적으로 일상적으로 권고하지 않음
   * 동반 우울·불안 등 별도 적응증이 있으면 해당 질환의 허가 용법에 따라 선택함
 * tapentadol은 opioid계 이중기전 진통제(μ-opioid agonist + norepinephrine reuptake inhibition)로, 통상적 SNRI 항우울제와는 별도로 분류함 - ☞ 위 [Opioids > Tapentadol](001_-pain.md#tapentadol) 참조
-* [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울증 상병에 투여하는 경우의 기준이며, 상병·전문과에 따라 인정 기간 조건이 다르므로 고시 원문 확인; 통증 적응증은 각 허가·급여 조건을 구분하며, FM의 상세 조건은 [섬유근육통](../228_/153_-fibromyalgia.md) 참조
+* [SSRI 등 우울병 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : sertraline·paroxetine·fluoxetine·mirtazapine·citalopram·escitalopram을 우울증 상병에 투여하는 경우의 기준이며, 상병·전문과에 따라 인정 기간 조건이 다르므로 고시 원문 확인; duloxetine은 별도 기준(고시 제2016-263호 Duloxetine 경구제)을 적용하며, FM의 상세 조건은 [섬유근육통](../228_/153_-fibromyalgia.md) 참조
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
 
@@ -1053,7 +1053,9 @@ flowchart TD
 * [World Health Organization. WHO guidelines for the pharmacological and radiotherapeutic management of cancer pain in adults and adolescents. 2018.](https://www.who.int/publications/i/item/9789241550390) - 암성 통증의 진통제 선택과 보조 치료; WHO 진통 사다리의 암성 통증 적용 맥락
 * [NICE. Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain. NICE guideline NG193. 2021.](https://www.nice.org.uk/guidance/ng193/chapter/recommendations) - 만성 통증 평가와 만성 원발성 통증의 비약물·약물 치료; 원인 질환별 이차성 통증 치료와 구분
 * [Finnerup NB, et al. Pharmacotherapy for neuropathic pain in adults: a systematic review and meta-analysis. Lancet Neurol. 2015;14(2):162-173.](https://pubmed.ncbi.nlm.nih.gov/25575710/) - NeuPSIG의 신경병증성 통증 약제별 효과·권고와 근거 한계
-* [Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee. Arthritis Rheumatol. 2020;72(2):220-233.](https://doi.org/10.1002/art.41142) - 무릎 골관절염의 외용 NSAID 등 치료 선택; 지침명은 2019, 출판은 2020년
+* [Kim HJ, et al. Validation of the Korean Version of the DN4 Diagnostic Questionnaire for Neuropathic Pain in Patients with Lumbar or Lumbar-Radicular Pain. Yonsei Med J. 2016;57(2):449-454.](https://doi.org/10.3349/ymj.2016.57.2.449) - 한국어판 DN4의 검증과 4점 절단값; 요통·요추 방사통 환자 대상
+* [손은희, 김병준. 신경병통증의 임상 척도. 대한신경과학회지. 2021;39(2 Suppl):24-36.](https://doi.org/10.17340/jkna.2021.2.18) - 신경병증성 통증 선별 척도 종설; 한국어 painDETECT 설문지 수록
+* [Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee. Arthritis Rheumatol. 2020;72(2):220-233.](https://doi.org/10.1002/art.41142) - 2026 개정 이전 지침; 본문 OA 권고는 ACR 2026 기준. 지침명은 2019, 출판은 2020년
 * [Tawfik AG, et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46-62.](https://doi.org/10.1002/cpt.70054) - 본문 NSAID 비교표; NSAID별 위장관 출혈 위험 비교와 연구 간 이질성
 * [Castellsague J, et al. Individual NSAIDs and Upper Gastrointestinal Complications: A Systematic Review and Meta-Analysis of Observational Studies (the SOS Project). Drug Saf. 2012;35(12):1127-1146.](https://pubmed.ncbi.nlm.nih.gov/23137151/) - 본문 NSAID 비교표에서 2026년 리뷰에 포함되지 않은 약제의 과거 위험 추정 자료
 * [García Rodríguez LA, Tacconelli S, Patrignani P. Role of dose potency in the prediction of risk of myocardial infarction associated with nonsteroidal anti-inflammatory drugs in the general population. J Am Coll Cardiol. 2008;52(20):1628-1636.](https://doi.org/10.1016/j.jacc.2008.08.041) - 본문 COX 선택성 도표 출처
@@ -1070,9 +1072,9 @@ flowchart TD
 * [NICE. Low back pain and sciatica in over 16s. NG59.](https://www.nice.org.uk/guidance/ng59/chapter/recommendations) - 좌골신경통에 일반 신경병증성 약물 권고를 그대로 적용하지 않는 근거
 * [Joo MK, et al. Clinical Guidelines for Drug-Related Peptic Ulcer, 2020 Revised Edition. Gut Liver. 2020;14(6):707-726.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7667931/) - 고위험 장기 NSAID 사용자의 저용량 PPI 예방
 * [Nissen SE, et al. Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis. N Engl J Med. 2016;375:2519–2529.](https://doi.org/10.1056/NEJMoa1611593) - PRECISION의 연구 대상·비교 용량·비열등성 해석과 국내 금기의 구분
-* [Due Bruun K, et al. Naltrexone 6 mg once daily versus placebo in women with fibromyalgia. Lancet Rheumatol. 2024;6:e31–e39.](https://doi.org/10.1016/S2665-9913\(23\)00278-3)
-* [Rodríguez-Freire C, et al. INNOVA Study. Eur J Pain. 2026;30(6):e70321.](https://doi.org/10.1002/ejp.70321) - LDN의 위약 대비 통증 개선 우월성 미입증
-* [Macfarlane GJ, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76:318–328.](https://doi.org/10.1136/annrheumdis-2016-209724) - 운동·비약물치료 우선 및 증상별 선택적 약물치료의 약한 찬성 권고
+* [Due Bruun K, et al. Naltrexone 6 mg once daily versus placebo in women with fibromyalgia. Lancet Rheumatol. 2024;6:e31–e39.](https://doi.org/10.1016/S2665-9913\(23\)00278-3) - 섬유근육통 여성에서 LDN 6 ㎎/d 12주의 위약 대비 통증 개선 우월성 미입증
+* [Rodríguez-Freire C, et al. Efficacy of Low-Dose Naltrexone in Women With Fibromyalgia Syndrome: A 12-Month Randomised, Double-Blind, Placebo-Controlled Single-Centre Clinical Trial (INNOVA Study). Eur J Pain. 2026;30(6):e70321.](https://doi.org/10.1002/ejp.70321) - LDN의 위약 대비 통증 개선 우월성 미입증
+* \[EULAR 2017] [Macfarlane GJ, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76:318–328.](https://doi.org/10.1136/annrheumdis-2016-209724) - 운동·비약물치료 우선 및 증상별 선택적 약물치료의 약한 찬성 권고
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
@@ -1089,6 +1091,7 @@ flowchart TD
 * [HIRA. Duloxetine 경구제, 고시 제2016-263호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&mtgMtrRegSno=0003\&sno=1) - FM의 선행치료·반응 평가 및 병용 급여 제한
 * [HIRA. 진통·진양·수렴·소염 외용제, 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&mtgMtrRegSno=0031\&sno=1) - 외용제 임상 권고와 별개인 공개 급여기준
 * [HIRA. Amitriptyline·Nortriptyline 등, 고시 제2018-18호(2018-02-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180201\&mtgMtrRegSno=0006\&sno=1) - TCA의 섬유근육통 허가사항 초과 급여 및 2010 ACR·FIQ·pain VAS 조건
+* [HIRA. 프로톤 펌프 억제 경구제, 고시 제2022-268호(2022-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007) - NSAID 관련 PPI의 품목별 급여 조건; 고위험 NSAID 사용자의 임상적 예방 권고와 구분
 
 ***
 

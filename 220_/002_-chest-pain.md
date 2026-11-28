@@ -187,7 +187,7 @@ flowchart TD
     class W treatment
 ```
 
-<p align="center"><strong>급성 흉통의 초기 접근 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025; NICE CG95)</mark></em></p>
+<p align="center"><strong>급성 흉통의 초기 접근 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA/ACC Chest Pain 2021, Fig 7; ACC/AHA ACS 2025; NICE CG95)</mark></em></p>
 
 ***
 
@@ -239,7 +239,7 @@ flowchart TD
 
 > _후벽 STEMI 판정 기준 : V7\~V9 ST 상승 ≥0.5 ㎜ (40세 미만 남성은 ≥1 ㎜); 출처: Fourth UDMI 2018_
 
-<p align="center"><strong>병원 내 ECG 소견에 따른 처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: AHA/ACC Chest Pain 2021, Fig 4; ACC/AHA ACS 2025)</mark></em></p>
+<p align="center"><strong>병원 내 ECG 소견에 따른 처치 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA/ACC Chest Pain 2021, Fig 4; ACC/AHA ACS 2025)</mark></em></p>
 
 ***
 
@@ -278,7 +278,7 @@ flowchart TD
   * 시술 관련 MI : 심장 시술·수술의 합병증으로 시술 후 30일 이내 발생한 MI. 시술 합병증과 허혈성 심근손상의 객관적 근거로 확인하며, 단순한 시술 후 troponin 상승과 구분
     * 시술과 무관하게 발생한 MI는 30일 이내라도 일차성 또는 이차성 MI로 분류
 * 허혈 근거가 없는 급성 심근손상은 MI로 진단하지 않고 심근염, 패혈증, 폐색전증, 급성 심부전 등 원인 질환을 평가
-* 단일 채혈로 급성 MI 배제를 고려하는 조건 : ACS가 의심되는 환자에게 응급실에서 검증된 CDP를 적용할 때, ① 12유도 ECG에 허혈성 변화가 없고, ② 증상 시작부터 첫 채혈까지 3시간 이상이며, ③ 초회 hs-cTn이 해당 검사법에서 검증된 매우 낮은 배제 절단값 미만인 경우 <mark style="color:$info;">\[J Am Coll Cardiol 2022] \[Circulation 2025]</mark>
+* 단일 채혈로 급성 MI 배제를 고려하는 조건 : ACS가 의심되는 환자에게 응급실에서 검증된 CDP를 적용할 때, ① 12유도 ECG에 허혈성 변화가 없고, ② 증상 시작부터 첫 채혈까지 3시간 이상이며, ③ 초회 hs-cTn이 해당 검사법에서 검증된 매우 낮은 배제 절단값 미만인 경우 <mark style="color:$info;">\[2022 ACC ECDP] \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline]</mark>
   * 증상 시작부터 첫 채혈까지 3시간이 지나지 않았거나 증상 시작 시각이 불명확하면 검사기관의 검증된 CDP에 따라 hs-cTn을 반복 측정함
   * 허혈이 의심되는 증상이 지속·재발하거나 임상적 의심이 높으면 ECG와 hs-cTn을 반복 측정하고 추가 평가함. hs-cTn 단일 결과로 불안정 협심증이나 다른 응급 원인을 배제할 수 없음
 * 초기 hs-cTn이 assay-specific rule-in threshold 이상이거나 재측정 시 Δ가 rule-in 기준을 넘으면 rule-in으로 판단하고, 허혈 증상·ECG 소견과 함께 급성 MI 여부를 판단
@@ -290,6 +290,8 @@ flowchart TD
 > _AHA/ACC는 고정된 단일 알고리듬보다 검사기관의 hs-cTn assay에 대해 검증된 CDP 적용을 권장함._
 >
 > _Assay별 cut-off가 다르므로 검사기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 제조사의 rule-out/rule-in 기준값을 확인하여 적용_
+
+<p align="center"><em><mark style="color:$info;">Ref. 2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline; 2021 AHA/ACC Chest Pain Guideline; 2023 ESC ACS Guidelines</mark></em></p>
 
 #### <mark style="color:$primary;">영상검사</mark>
 
@@ -362,9 +364,13 @@ flowchart TD
 
 > _위 확률은 원 연구 Table 4의 개발·검증 코호트 완전자료를 합산하여 계산한 관찰값으로 모집단에 따라 달라질 수 있음. 원 연구의 주된 판정 경계는 ≤2점/≥3점이며, 문헌·임상 적용에 따라 0\~2점/3점/4\~5점 구분도 사용됨. MHS는 응급 ACS 배제 도구가 아니라 안정적인 외래 환자의 CAD 가능성 평가 보조 도구로 사용_
 
+<p align="center"><em><mark style="color:$info;">Ref. Bösner S, et al. CMAJ. 2010;182(12):1295-1300. Table 4</mark></em></p>
+
 <mark style="color:cyan;">**INTERCHEST Rule**</mark>
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th><th>판정</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td><td rowspan="6">▶CAD 가능성 :<br>＜2점 = 낮은 가능성,<br>≥2점 = 추가 평가가 필요한 군.<br>원 연구에서 관찰된 CAD 확률은 각각 2.1%, 43.0%이며 모집단에 따라 달라질 수 있음.<br>ACS의 응급 배제에는 사용하지 않음<br>☞ <a href="https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care">계산기</a></td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD 병력</td><td>+1</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. Aerts M, et al. J Clin Epidemiol. 2017;81:120-128.</mark></em></p>
 
 #### <mark style="color:$primary;">ACS 위험도 평가</mark>
 
@@ -376,6 +382,8 @@ flowchart TD
 <table data-search="false"><thead><tr><th width="113.57894897460938">항목</th><th width="50.4210205078125">점수</th><th width="594.0666809082031">기준</th></tr></thead><tbody><tr><td rowspan="3"><strong>H</strong>istory</td><td>2</td><td>ACS가 매우 의심되는 병력(highly suspicious)</td></tr><tr><td>1</td><td>ACS가 중등도로 의심되는 병력(moderately suspicious)</td></tr><tr><td>0</td><td>ACS가 거의 의심되지 않는 병력(slightly suspicious)</td></tr><tr><td rowspan="3"><strong>E</strong>CG</td><td>2</td><td>LBBB·LVH·digoxin에 의하지 않은 유의한 ST 편위(하강 또는 상승)</td></tr><tr><td>1</td><td>ST 편위 없는 LBBB, LVH, digoxin 효과, 또는 기존의 재분극 이상</td></tr><tr><td>0</td><td>정상</td></tr><tr><td rowspan="3"><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td>1</td><td>45~64세</td></tr><tr><td>0</td><td>＜45세</td></tr><tr><td rowspan="3"><strong>R</strong>isk factors</td><td>2</td><td>≥3개의 심혈관 위험인자* 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환 병력)</td></tr><tr><td>1</td><td>1~2개의 위험인자</td></tr><tr><td>0</td><td>위험인자 없음</td></tr><tr><td rowspan="3"><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td>1</td><td>ULN 초과~3배 이하</td></tr><tr><td>0</td><td>ULN 이하</td></tr></tbody></table>
 
 > _\*위험인자 : 고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI＞30, CAD 가족력_
+
+<p align="center"><em><mark style="color:$info;">Ref. Backus BE, et al. Int J Cardiol. 2013;168(3):2153-2158. (전향적 검증)</mark></em></p>
 
 ▶판정 : 0\~3점 = 낮은 위험을 시사, 4\~6점 = 중등도 위험, 7\~10점 = 높은 위험을 시사
 
@@ -396,6 +404,8 @@ flowchart TD
 
 <table data-search="false"><thead><tr><th width="494.5263671875">소견</th><th width="54.17181396484375">배점</th><th>판정</th></tr></thead><tbody><tr><td>임상적 DVT 소견: 심부정맥 주행을 따른 압통 및 편측 하지 종창</td><td>3</td><td rowspan="7"><p>▶폐색전증 가능성 :<br>＞6점=가능성 높음,<br>2~6점=중등도,<br>＜2점=낮음 ☞ <a href="https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism">계산기</a></p><p><br>2단계 분류(현재 진단 알고리듬에서 주로 사용): Wells ≤4점 = PE unlikely → D-dimer로 배제 시도, Wells ＞4점 = PE likely → 즉시 영상검사(CTPA)</p></td></tr><tr><td>PE보다 더 가능성 높은 다른 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>현재 치료 중, 최근 6개월 이내 치료했거나 완화치료 중인 악성 종양 (+)</td><td>1</td></tr></tbody></table>
 
+<p align="center"><em><mark style="color:$info;">Ref. Wells PS, et al. Thromb Haemost. 2000;83(3):416-420.</mark></em></p>
+
 * PE unlikely 등 비고위험 환자의 D-dimer 기준 : 50세 초과에서는 연령 보정 기준(나이×10 ng/㎖, FEU)을 적용할 수 있음. YEARS 경로를 사용하면 연령과 관계없이 해당 경로의 기준(YEARS 항목 0개 ＜1,000, ≥1개 ＜500 ng/㎖ FEU)을 적용하며, 서로 다른 경로의 기준값을 섞지 않음. 검사실 단위와 assay별 기준을 확인
 * 위 3단계 분류(＜2, 2\~6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리듬에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4\~6점 환자에서 평가가 지연될 수 있음
 
@@ -411,7 +421,7 @@ flowchart TD
 <mark style="color:cyan;">**PESI / sPESI**</mark>
 
 * PESI(Pulmonary Embolism Severity Index) / sPESI(simplified PESI)는 PE 확진 후 중증도·예후 평가 및 입원·외래 치료 결정에 사용하는 도구임
-* sPESI 항목(각 1점) : 나이 ＞80세, 암 병력, 만성 심폐질환, 맥박 ≥110회/분, 수축기 혈압 ＜100 ㎜Hg, SpO₂ ＜90% (☞ [sPESI 계산기](https://www.mdcalc.com/calc/1247/simplified-pesi-pulmonary-embolism-severity-index))
+* sPESI 항목(각 1점) : 나이 ＞80세, 암 병력, 만성 심폐질환, 맥박 ≥110회/분, 수축기 혈압 ＜100 ㎜Hg, SpO₂ ＜90% <mark style="color:$info;">\[Jiménez 2010]</mark> (☞ [sPESI 계산기](https://www.mdcalc.com/calc/1247/simplified-pesi-pulmonary-embolism-severity-index))
 * sPESI 0점 : 저위험(30일 사망률 약 1%) → 다른 조건을 충족하면 외래 치료 또는 조기 퇴원 고려 가능
 * sPESI ≥1점 : 저위험군으로 분류하지 않음 → 입원 및 추가 위험도 평가 고려
   * 단, sPESI ≥1점만으로 고위험 PE로 분류하지 않음. 고위험 PE는 혈역학적 불안정성이 핵심 기준임
@@ -441,7 +451,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">급성 대동맥증후군 (AAS)</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>갑자기 시작되어 즉시 최대 강도에 도달; 이후 통증이 완화되더라도 AAS를 배제할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 베는 듯한</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>갑자기 시작되어 즉시 최대 강도에 도달; 이후 통증이 완화되더라도 AAS를 배제할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 베는 듯한</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 새로 발생한 대동맥판 역류 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0~1점 + D-dimer ＜500 ng/㎖(FEU; 검사실 단위 확인) → 저위험 환자에서 AAS 배제를 보조할 수 있음 <mark style="color:$info;">[ADvISED 2018]</mark> (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline). PE의 연령 보정 D-dimer 기준은 AAS에 적용하지 않음</td></tr></tbody></table>
 
 > _Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥을 침범하지 않는 박리(대개 좌쇄골하동맥 원위부에서 시작하며, 대동맥궁 침범을 포함할 수 있음). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)._
 >
@@ -591,7 +601,7 @@ flowchart TD
   * 재관류 목표시간은 위 ECG 검사 참조
 
 {% hint style="warning" %}
-**코카인·암페타민 급성 중독이 동반된 흉통** : 빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 <mark style="color:$info;">\[2014 AHA/ACC NSTE-ACS Guideline]</mark>. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
+**코카인·메스암페타민 급성 중독이 동반된 흉통** : 다행감·빈맥·고혈압 등 급성 중독 징후가 있는 ACS 환자에서는 관상동맥 연축 악화 위험 때문에 β차단제를 투여하지 않음. Benzodiazepine 단독 또는 nitroglycerin 병용으로 고혈압·빈맥을 조절 <mark style="color:$info;">\[2014 AHA/ACC NSTE-ACS Guideline]</mark>. 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
 {% endhint %}
 
 #### <mark style="color:$primary;">PE 의심 시 처치</mark>
@@ -711,9 +721,10 @@ flowchart TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[2021 AHA/ACC] [Gulati M, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Circulation. 2021;144(22):e368-e454.](https://doi.org/10.1161/CIR.0000000000001029) - 흉통 표현·초기 ECG·troponin 평가와 위험도별 진단 경로; 본문 그림·표 출처
-* [Kontos MC, et al. 2022 ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department. J Am Coll Cardiol. 2022;80(20):1925-1960.](https://doi.org/10.1016/j.jacc.2022.08.750) - 단일 채혈 급성 심근경색 배제 조건과 검사법별 절단값(§5.4.1)
+* \[2022 ACC ECDP] [Kontos MC, et al. 2022 ACC Expert Consensus Decision Pathway on the Evaluation and Disposition of Acute Chest Pain in the Emergency Department. J Am Coll Cardiol. 2022;80(20):1925-1960.](https://doi.org/10.1016/j.jacc.2022.08.750) - 단일 채혈 급성 심근경색 배제 조건과 검사법별 절단값(§5.4.1)
 * \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치 · 단일 hs-cTn을 사용하는 검증된 진료 경로에서 증상 시작 후 최소 3시간이 지난 시점에 채혈하는 근거
 * \[2014 AHA/ACC NSTE-ACS Guideline] [Amsterdam EA, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. Circulation. 2014;130(25):e344-e426.](https://doi.org/10.1161/CIR.0000000000000134) - 코카인·메스암페타민 관련 흉통의 β차단제 주의
+* [Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023;44(38):3720-3826.](https://doi.org/10.1093/eurheartj/ehad191) - hs-cTn 0/1h·0/2h 알고리듬과 observe zone 추가 채혈; 검사법별 절단값은 보충자료 Table S4
 * [Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). Circulation. 2018;138(20):e618-e651.](https://doi.org/10.1161/CIR.0000000000000617) - 후벽 유도 V7\~V9의 ST 상승 판정 기준과 연령 예외
 * [Mills NL, et al. Fifth Universal Definition of Myocardial Infarction (2026). J Am Coll Cardiol. 2026;88(11):1314-1368.](https://doi.org/10.1016/j.jacc.2026.07.025) - 심근손상·심근경색의 정의, 일차성·이차성·시술 관련 MI 분류, 성별 특이 troponin 기준과 MINOCA 작업 진단
 * [Isselbacher EM, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482.](https://pubmed.ncbi.nlm.nih.gov/36322642/) - 급성 대동맥증후군의 위험 평가·확진 영상과 치료·이송 판단
@@ -722,9 +733,12 @@ flowchart TD
 * [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 전형적 가슴쓰림·역류 증상에서 PPI 경험적 치료와 반응 불충분 시 객관적 검사
 * [NICE. Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. CG95. 2010; updated 2016.](https://www.nice.org.uk/guidance/cg95/chapter/recommendations) - ACS 의심 시 응급 의뢰와 당일 병원 평가의 구분
 * [Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. Eur Heart J. 2024;45(36):3538-3700.](https://doi.org/10.1093/eurheartj/ehae179) - 급성 대동맥증후군의 진단과 anti-impulse 치료 목표
+* \[ADvISED 2018] [Nazerian P, et al. Diagnostic Accuracy of the Aortic Dissection Detection Risk Score Plus D-Dimer for Acute Aortic Syndromes: The ADvISED Prospective Multicenter Study. Circulation. 2018;137(3):250-258.](https://doi.org/10.1161/CIRCULATIONAHA.117.029457) - ADD-RS 0\~1점 + D-dimer 병합 배제 전략의 전향적 검증
 * [Bösner S, et al. Ruling out coronary artery disease in primary care: development and validation of a simple prediction rule. CMAJ. 2010;182(12):1295-1300.](https://doi.org/10.1503/cmaj.100212) - MHS의 배점·판정 경계 및 CAD 확률의 원자료(Table 4)
 * [Aerts M, et al.; International Working Group on Chest Pain in Primary Care (INTERCHEST). Pooled individual patient data from five countries were used to derive a clinical prediction rule for coronary artery disease in primary care. J Clin Epidemiol. 2017;81:120-128.](https://doi.org/10.1016/j.jclinepi.2016.09.011) - INTERCHEST의 배점·판정 경계와 CAD 확률
 * [Kline JA, et al. Prospective multicenter evaluation of the pulmonary embolism rule-out criteria. J Thromb Haemost. 2008;6(5):772-780.](https://doi.org/10.1111/j.1538-7836.2008.02944.x) - 임상적 저위험 판단과 PERC 적용 조건
+* [Wells PS, et al. Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer. Thromb Haemost. 2000;83(3):416-420.](https://doi.org/10.1055/s-0037-1613830) - Wells score의 배점과 사전확률 분류
+* \[Jiménez 2010] [Jiménez D, et al. Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism. Arch Intern Med. 2010;170(15):1383-1389.](https://doi.org/10.1001/archinternmed.2010.199) - sPESI 항목과 저위험 판정
 * [Backus BE, et al. A prospective validation of the HEART score for chest pain patients at the emergency department. Int J Cardiol. 2013;168(3):2153-2158.](https://doi.org/10.1016/j.ijcard.2013.01.255) - HEART score의 6주 MACE 전향적 검증
 * [Winzenberg T, et al. Musculoskeletal chest wall pain. Aust Fam Physician. 2015;44(8):540-544.](https://www.racgp.org.au/afp/2015/august/musculoskeletal-chest-wall-pain/) - 근골격성 흉통의 원인 감별과 개별화한 보존적 치료
 * Jameson JL, et al., eds. Harrison's Principles of Internal Medicine. 20th ed. McGraw-Hill; 2018. - 본문 감별 표 출처(Table 11-1)

@@ -189,7 +189,7 @@ flowchart TD
   * 객담·혈액 배출에 필요한 productive cough는 억제하지 않는 것이 원칙
   * 생명을 위협하거나 다량의 객혈 시에는 사용하지 않음 (기도 내 혈액 저류 → 질식 위험이 기침 자체보다 큼)
   * 성인의 소량 객혈 시에는 객담 배출이 원활한지 먼저 확인한 후 단기·제한적으로 고려
-  * 19세 미만 소아·청소년에서는 기침 억제 목적의 codeine을 사용하지 않음
+  * 18세 미만 소아·청소년에서는 기침 억제 목적의 codeine을 사용하지 않음(지침 권고); 제품별 허가 연령은 별도 확인 (☞ [기침](006_-cough.md) 핵심 복약 지도)
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적; 통상 24\~48시간 이내 경과 확인, 지속·재발하면 추가 영상검사·전문의 평가
 
 #### <mark style="color:$primary;">위험도 분류 및 처치 방향</mark>
@@ -220,8 +220,8 @@ flowchart TD
 * aPCC <mark style="color:blue;">\[</mark>[<mark style="color:blue;">훼이바</mark>](https://www.health.kr/drug/A11AOOOOO9849)<mark style="color:blue;">]</mark> : 허가 적응증은 응고인자 억제인자를 보유한 혈우병 환자의 출혈 관리
   * DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
   * 투여 후 약 6\~12시간 이내에는 전신 항섬유소용해제(TXA 등)를 사용하지 않음
-* dabigatran <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프라닥사</mark>](https://www.health.kr/drug/2011022100003)<mark style="color:blue;">]</mark> ↔ idarucizumab <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드</mark>](https://health.kr/drug/2016030700001)<mark style="color:blue;">]</mark>
-* rivaroxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자렐토</mark>](https://www.health.kr/drug/A11AKP09D0131)<mark style="color:blue;">]</mark>·apixaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">엘리퀴스</mark>](https://www.health.kr/drug/2011120100001)<mark style="color:blue;">]</mark>·edoxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">릭시아나</mark>](https://health.kr/drug/2015082600013)<mark style="color:blue;">]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
+* dabigatran <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프라닥사</mark>](https://www.health.kr/drug/2011022100003)<mark style="color:blue;">]</mark> ↔ idarucizumab <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드</mark>](https://www.health.kr/drug/2016030700001)<mark style="color:blue;">]</mark>
+* rivaroxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">자렐토</mark>](https://www.health.kr/drug/A11AKP09D0131)<mark style="color:blue;">]</mark>·apixaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">엘리퀴스</mark>](https://www.health.kr/drug/2011120100001)<mark style="color:blue;">]</mark>·edoxaban <mark style="color:blue;">\[</mark>[<mark style="color:blue;">릭시아나</mark>](https://www.health.kr/drug/2015082600013)<mark style="color:blue;">]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
   * rivaroxaban·apixaban의 특이 역전제였던 andexanet alfa는 미국 판매 종료, 국내 미공급 <mark style="color:$info;">\[FDA 2025]</mark>
   * Xa 억제제 관련 생명위협성 출혈에서는 전문의 및 기관 protocol에 따라 4F-PCC를 비특이적 지혈 대안으로 고려하며, 확보 여부 확인 때문에 응급 이송을 지연하지 않음
   * FFP와 vitamin K는 Xa 억제제의 역전 목적으로 사용하지 않음
@@ -296,7 +296,7 @@ flowchart TD
 > → 생명위협성 출혈 시 즉시 중단하고 protamine 고려 (LMWH는 부분적 중화만 가능)
 > ```
 >
-> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드주사제</mark>](https://health.kr/drug/2016030700001)<mark style="color:blue;">]</mark> 2.5 g/50 ㎖
+> 약제 정보: <mark style="color:blue;">\[</mark>[<mark style="color:blue;">프락스바인드주사제</mark>](https://www.health.kr/drug/2016030700001)<mark style="color:blue;">]</mark> 2.5 g/50 ㎖
 >
 > _✽ warfarin 관련 중증 출혈에서 IV vitamin K와 함께, 역전이 필요한 경우 4F-PCC가 우선 권고됨. 확보 여부는 이송 기관에 확인하고 사용 불가 시 FFP를 대안으로 사용; 제제 확보·역전제 투여 때문에 응급 이송을 지연하지 않음_
 >
@@ -311,11 +311,11 @@ flowchart TD
 > ※ 희석 여부(NS 혼합 등)는 제품 농도 및 기관별 protocol에 따름
 > ```
 >
-> _✽ 객혈에 대한 흡입 투여는 허가 외 사용(off-label); 비생명위협성 객혈에서 효과를 보고한 소규모 RCT들이 있으나 최적 용량·장기 안전성 근거는 제한적. 국소 지혈 보조를 기대할 때 고려하며, 생명을 위협하는 객혈에서는 기도 확보·CTA·기관지내시경·BAE를 지연해서는 안 됨_
+> _✽ 객혈에 대한 흡입 투여는 허가 외 사용(off-label); 비생명위협성 객혈에서 효과를 보고한 소규모 RCT들이 있으나 최적 용량·장기 안전성 근거는 제한적. 국소 지혈 보조를 기대할 때 고려하며, 생명을 위협하는 객혈에서는 기도 확보·CTA·기관지내시경·BAE를 지연해서는 안 됨. TXA-NEB에서 객혈 빈도·양의 감소는 전체 분석에서 1일째에만 유의하였고, 저자들은 확정적 시술 전 가교 치료(bridging therapy)로서의 역할을 제시함_
 >
 > _✽ TXA-NEB는 정맥 TXA를 포함한 표준치료에 흡입 TXA를 추가한 소규모 시험으로, 이 시험에서는 흡입 단독요법의 효과를 평가하지 않았음_
 >
-> _✽ TXA-NEB 시험은 항응고제·항혈소판제 복용 환자 및 신기능 저하 환자(혈청 Cr ＞1.5 ㎎/㎗) 등을 제외하였으므로, 해당 환자군에 효과·안전성을 일반화하는 데 제한이 있음_
+> _✽ TXA-NEB 시험은 항응고제·항혈소판제 복용 환자, 신기능 저하 환자(혈청 Cr ＞1.5 ㎎/㎗), 임신부, 경구피임약 복용자 등을 제외하였으므로, 해당 환자군에 효과·안전성을 일반화하는 데 제한이 있음_
 >
 > _✽ 천식·COPD 환자에서는 흡입 시 기관지 경련(bronchospasm) 가능성에 주의_
 
@@ -359,8 +359,8 @@ flowchart TD
 * [Olsen KM, et al. ACR Appropriateness Criteria® Hemoptysis. J Am Coll Radiol. 2020;17(5S):S148-S159.](https://pubmed.ncbi.nlm.nih.gov/32370959/) - 객혈의 중증도·재발에 따른 영상검사와 색전술 평가
 * [Singhal R, et al. Society of Chest Imaging and Interventions Consensus Guidelines for the Interventional Radiology Management of Hemoptysis. Indian J Radiol Imaging. 2023;33(3):361-372.](https://doi.org/10.1055/s-0043-1762552) - 생명위협 객혈의 기도·순환 안정, 출혈 위치 확인과 기관지동맥색전술
 * [Tomaselli GF, et al. 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants. J Am Coll Cardiol. 2020;76(5):594-622.](https://pubmed.ncbi.nlm.nih.gov/32680646/) - 항응고제 관련 중증 출혈의 약물 중단·역전·재개 판단; 이후 안전성 정보와 함께 해석
-* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 종료 관련 자료
-* [Agrawal A, et al. Efficacy and safety of tranexamic acid nebulization to control bleeding of hemoptysis: The TXA-NEB randomized controlled clinical trial. Indian J Pharmacol. 2025;57(6):392-400.](https://pubmed.ncbi.nlm.nih.gov/41221568/) - 비생명위협성 객혈에서 500 ㎎/5 ㎖ q8h, 2일 보조치료 연구
+* [U.S. Food and Drug Administration. Update on the Safety of Andexxa. December 18, 2025.](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/update-safety-andexxa) - 혈전색전증 안전성 문제와 미국 판매 종료 관련 자료
+* [Agrawal A, et al. Efficacy and safety of tranexamic acid nebulization to control bleeding of hemoptysis: The TXA-NEB randomized controlled clinical trial. Indian J Pharmacol. 2025;57(6):392-400.](https://pubmed.ncbi.nlm.nih.gov/41221568/) - 입원이 필요한 비대량(submassive) 객혈에서 정맥 TXA를 포함한 표준치료에 흡입 TXA 500 ㎎/5 ㎖ q8h, 2일을 추가한 연구
 * [Prutsky G, et al. Antifibrinolytic therapy to reduce haemoptysis from any cause. Cochrane Database Syst Rev. 2012;(4):CD008711.](https://doi.org/10.1002/14651858.CD008711.pub2) - 경구·정맥 항섬유소용해제의 객혈 치료 근거에 대한 검토
 * [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://academic.oup.com/eurheartj/article/42/36/3599/6358045) - 급성 심부전에서 혈압에 따른 혈관확장제 선택
 * [Steffel J, et al. 2021 European Heart Rhythm Association Practical Guide on the Use of Non-Vitamin K Antagonist Oral Anticoagulants in Patients with Atrial Fibrillation. Europace. 2021;23(10):1612-1676.](https://academic.oup.com/europace/article/23/10/1612/6247378) - DOAC의 신기능·CrCl 평가

@@ -290,9 +290,9 @@ class I1,I2,I3,G0,G treatment
 >
 > _D-dimer가 필요한 경우 항응고제 임시 투여 전에 채혈함. CBC, 신·간기능, PT, aPTT도 채혈하되 기초 혈액검사 결과를 기다리느라 치료를 지연하지 않음. 기초 혈액검사 결과는 항응고제 임시 투여 시작 후 24시간 이내에 확인하고 필요시 치료에 반영. 출혈 위험·금기와 임신 여부를 확인하고, 진료 환경과 환자별 위험에 따라 적용_
 >
-> _전체 하지 부종이 뚜렷하고 장골정맥·골반 내 혈전이 의심되면 첫 proximal CUS가 음성이어도 지체 없이 CT/MR venography 등 추가 영상을 고려_
+> _전체 하지 부종이 뚜렷하고 장골정맥·골반 내 혈전이 의심되면 첫 proximal CUS가 음성이어도 지체 없이 CT/MR venography 등 추가 영상을 고려. 이 단계는 NICE NG158 경로에 포함되지 않은 저자 보완 내용임_
 
-<p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020년 발행·2023년 개정)</mark></em></p>
+<p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020년 발행·2023년 개정; CT/MR venography 단계는 저자 보완)</mark></em></p>
 
 ***
 

@@ -178,9 +178,6 @@ flowchart TD
     class C emergency
     class C2,E,F,G,G2,J,K evaluation
     class I followup
-    style A fill:#fff59d
-    style B fill:#fff59d
-    style C fill:#fff59d
 ```
 
 <p align="center"><strong>발열의 초기 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143·CG151, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
@@ -375,9 +372,6 @@ flowchart TD
     class B,D,S,T question
     class C,E,SP,P,Q emergency
     class R evaluation
-    style A fill:#fff59d
-    style D fill:#fff59d
-    style R fill:#fff59d
 ```
 
 ```mermaid
