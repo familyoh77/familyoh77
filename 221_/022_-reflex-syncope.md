@@ -21,7 +21,7 @@
 
 ## <mark style="color:green;">종류</mark>
 
-#### <mark style="color:$primary;">혈관미주신경성 실신 Vasovagal Syncope (VVS), Neurocardiogenic Syncope</mark>
+#### <mark style="color:$primary;">혈관미주신경성 실신 (Vasovagal Syncope(VVS), Neurocardiogenic Syncope)</mark>
 
 * 가장 흔한 반사성 실신
 * 유발 인자 : 불쾌한 광경·소리·냄새, 공포, 통증, 채혈·주사 등 의료 시술, 장시간 기립, 고온·혼잡한 환경
@@ -29,7 +29,7 @@
 * 실신 후 피로·구역이 남을 수 있으며, 의식 소실 후 짧고 불규칙한 근간대성 움직임이 나타날 수 있음(convulsive syncope)
   * 지남력은 대개 신속히 회복함. 수 분 이상 지속되는 혼돈, 의식 소실 직전 또는 동시에 시작하는 지속적·규칙적 강직간대운동, 측면 혀 깨물기 등은 뇌전증 발작을 더 시사
 
-#### <mark style="color:$primary;">상황 실신 Situational Syncope</mark>
+#### <mark style="color:$primary;">상황 실신 (Situational Syncope)</mark>
 
 * 특정 행위 중 또는 직후에 발생하는 반사성 실신
 * 유발 인자 : 기침, 재채기, 큰 웃음, 배뇨, 배변, 삼킴·식도 자극, 내장 통증, 운동 직후, 부는 악기 연주, 역도 등
@@ -37,7 +37,7 @@
 * 같은 상황에서 반복된 병력이 진단에 도움을 주지만, 전조 증상은 짧거나 없을 수 있음
 * 기침 원인 치료, 배뇨 시 앉은 자세 등 유발 상황에 맞춘 대처를 병행
 
-#### <mark style="color:$primary;">경동맥동증후군 Carotid Sinus Syndrome (CSS)</mark>
+#### <mark style="color:$primary;">경동맥동증후군 (Carotid Sinus Syndrome, CSS)</mark>
 
 * 주로 40세 이후에서 발생하며 머리 회전, 면도, 목을 조이는 옷 등 경동맥동 압박과 연관될 수 있음
 * 진단을 위해서는 경동맥동 마사지 중 혈역학적 이상과 함께 평소의 실신·전실신 증상이 재현되어야 함
@@ -118,7 +118,7 @@
 * cardioinhibitory 양성 반응은 자발성 무수축 실신을 예측하는 데 도움이 되지만, vasodepressor·mixed 또는 음성 반응도 자발성 무수축을 배제하지 못함
 * 검사 결과가 치료 선택, 특히 심박동기 치료 가능성과 잔여 저혈압 성분 평가에 영향을 줄 때 유용
 
-#### <mark style="color:$primary;">경동맥동 마사지 Carotid Sinus Massage (CSM)</mark>
+#### <mark style="color:$primary;">경동맥동 마사지 (Carotid Sinus Massage, CSM)</mark>
 
 * 적응 : 40세 초과에서 초기 평가 후에도 원인 불명이며 반사성 기전과 합당한 실신
 * 방법 : ECG와 beat-to-beat 혈압을 지속 감시하고 응급 대처가 가능한 환경에서 시행. 누운자세에서 먼저 오른쪽·왼쪽을 검사한 뒤, 기립경사대로 세운 자세에서 오른쪽·왼쪽을 검사. 한쪽씩 약 10초간 자극하고, 매회 혈압·맥박이 기저 수준으로 회복된 뒤 다음 자극을 시행 <mark style="color:$info;">\[Europace 2024]</mark>
@@ -215,7 +215,7 @@ class H followup
 
 _표의 혈관미주신경성 실신 횟수 구분은 ACC/AHA/HRS 2017 Table 10을 따름._
 
-#### <mark style="color:$primary;">신체 맞압력 조작법 Physical Counter-pressure Maneuvers (PCM)</mark> <a href="#counter-pressure-maneuver" id="counter-pressure-maneuver"></a>
+#### <mark style="color:$primary;">신체 맞압력 조작법 (Physical Counter-pressure Maneuvers, PCM)</mark> <a href="#counter-pressure-maneuver" id="counter-pressure-maneuver"></a>
 
 * 전조 증상이 있을 때 다리·팔·복부 근육을 등척성으로 수축해 일시적으로 심박출량과 혈압을 올리는 방법
 * 전조를 인지할 수 있는 재발성 VVS 환자에서 실신 재발을 줄이는 데 유용함
