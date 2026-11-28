@@ -99,10 +99,11 @@
 * 단일 비운동성 조짐 증상이 60분을 초과하여 지속 `뇌졸중` `TIA`
 * 갑자기 발생한 편측 위약·감각 소실·언어장애·한쪽 눈 시력 소실 또는 완전히 회복되지 않는 결손 - 지속시간·증상 소실 여부와 무관 `뇌졸중` `TIA`
 * 처음 발생한 구음장애, 현훈, 이명, 청력저하, 복시, 운동실조, 의식저하 등 뇌간 증상 `뇌졸중` `뇌간조짐편두통`
-* Status migrainosus(＞72시간 지속) 중 탈수·전해질 불균형 동반
+* Status migrainosus(＞72시간 지속) 중 반복 구토로 수분·약물 복용이 어렵거나 탈수·전해질 불균형·저혈압 동반  `편두통지속상태`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
+* **(당일)** Status migrainosus(＞72시간 지속) - 수분·약물 복용 가능, 다른 위험 신호 없음  `편두통지속상태` `약물과용두통`
 * **(당일)** 서서히 퍼졌다가 완전히 회복된 첫 시각·감각 조짐 `조짐편두통`
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화 `2차성 두통`
 * 평소와 다른 양상의 조짐 `조짐편두통` `2차성 두통`
@@ -290,12 +291,12 @@ class L care;
   * SSRI/SNRI 병용 시 세로토닌 증후군 가능성은 매우 낮으나 증상 발생 시 주의 관찰
   * <mark style="color:blue;">이미그란</mark>(sumatriptan)은 허가사항상 SSRI·clomipramine·리튬 병용 금기임; 다른 triptan도 제품별로 확인 필요
 
-<table data-search="false"><thead><tr><th width="219">성분명 [상품명]</th><th width="367">용량·최소 재투여 간격 [허가 최대]</th><th>반감기 (h)</th></tr></thead><tbody><tr><td><strong>sumatriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11ABBBBB1485"><mark style="color:blue;">이미그란</mark></a><mark style="color:blue;">]</mark></td><td>50 ㎎; 최소 2시간 후 재투여 [300 ㎎/d]¹⁾⁴⁾</td><td>2</td></tr><tr><td><strong>rizatriptan</strong>²⁾</td><td>5~10 ㎎; 최소 2시간 후 재투여 [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td><strong>zolmitriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AMMMMM2196"><mark style="color:blue;">조믹</mark></a><mark style="color:blue;">]</mark></td><td>초회 2.5 ㎎, 효과가 부족하면 이후 발작에서 5 ㎎.<br>최소 2시간 후 재투여 [10 ㎎/d]⁴⁾</td><td>3</td></tr><tr><td><strong>almotriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AKP08C0251"><mark style="color:blue;">알모그란</mark></a><mark style="color:blue;">]</mark></td><td>12.5 ㎎; 최소 2시간 후 재투여 [25 ㎎/d]</td><td>3~4</td></tr><tr><td><strong>eletriptan</strong>²⁾</td><td>20~40 ㎎; 최소 2시간 후 재투여 [80 ㎎/d]</td><td>4</td></tr><tr><td><strong>naratriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AJJJJJ0032"><mark style="color:blue;">나라믹</mark></a><mark style="color:blue;">]</mark></td><td>2.5 ㎎; 최소 4시간 후 재투여 [5 ㎎/d]</td><td>6</td></tr><tr><td><strong>frovatriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2009071505961"><mark style="color:blue;">미가드</mark></a><mark style="color:blue;">]</mark></td><td>2.5 ㎎; 최소 2시간 후 재투여 [5 ㎎/d]</td><td>25</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="219">성분명 [상품명]</th><th width="367">용량·최소 재투여 간격 [허가 최대]</th><th>반감기 (h)</th></tr></thead><tbody><tr><td><strong>sumatriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11ABBBBB1485"><mark style="color:blue;">이미그란</mark></a><mark style="color:blue;">]</mark></td><td>50 ㎎; 최소 2시간 후 재투여 [300 ㎎/d]¹⁾²⁾</td><td>2</td></tr><tr><td><strong>rizatriptan</strong>³⁾</td><td>5~10 ㎎; 최소 2시간 후 재투여 [30 ㎎/d]⁴⁾</td><td>2~3</td></tr><tr><td><strong>zolmitriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AMMMMM2196"><mark style="color:blue;">조믹</mark></a><mark style="color:blue;">]</mark></td><td>초회 2.5 ㎎, 효과가 부족하면 이후 발작에서 5 ㎎.<br>최소 2시간 후 재투여 [10 ㎎/d]²⁾</td><td>3</td></tr><tr><td><strong>almotriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AKP08C0251"><mark style="color:blue;">알모그란</mark></a><mark style="color:blue;">]</mark></td><td>12.5 ㎎; 최소 2시간 후 재투여 [25 ㎎/d]</td><td>3~4</td></tr><tr><td><strong>eletriptan</strong>³⁾</td><td>20~40 ㎎; 최소 2시간 후 재투여 [80 ㎎/d]</td><td>4</td></tr><tr><td><strong>naratriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/A11AJJJJJ0032"><mark style="color:blue;">나라믹</mark></a><mark style="color:blue;">]</mark></td><td>2.5 ㎎; 최소 4시간 후 재투여 [5 ㎎/d]</td><td>6</td></tr><tr><td><strong>frovatriptan</strong> <mark style="color:blue;">[</mark><a href="https://www.health.kr/drug/2009071505961"><mark style="color:blue;">미가드</mark></a><mark style="color:blue;">]</mark></td><td>2.5 ㎎; 최소 2시간 후 재투여 [5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 > ¹⁾_sumatriptan 국내 및 유럽 허가 기준 최대 300 ㎎/d, 미국 FDA 허가 기준 최대 200 ㎎/d_\
-> ²⁾_rizatriptan, eletriptan : 유통 제품 없음_\
-> ³⁾_propranolol과 rizatriptan의 병용은 인데놀 허가사항상 금기. 해외 rizatriptan 감량 용법을 병용 허용으로 해석하지 않음_\
-> ⁴⁾_급여 인정 상한 : sumatriptan 단일제 200 ㎎/일, zolmitriptan 5 ㎎/일(고시 제2024-178호)_
+> ²⁾_급여 인정 상한 : sumatriptan 단일제 200 ㎎/일, zolmitriptan 5 ㎎/일(고시 제2024-178호)_\
+> ³⁾_rizatriptan, eletriptan : 유통 제품 없음_\
+> ⁴⁾_propranolol과 rizatriptan의 병용은 인데놀 허가사항상 금기. 해외 rizatriptan 감량 용법을 병용 허용으로 해석하지 않음_
 >
 > _✽ 용량과 재투여 간격은 허가사항을 우선 확인_
 
@@ -414,6 +415,7 @@ flowchart TD
 * 기존 경구 예방약 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * 근거 확실성 중등도 이상 : propranolol, topiramate, valproate
   * 삽화편두통에서 근거 확실성 낮음 : amitriptyline, metoprolol, flunarizine
+  * ARB·ACE 억제제 등 항고혈압제는 지침 간 근거 평가에 차이가 있어 아래 해당 항목 참조
 * valproate는 강력한 기형 유발 위험으로 가임기 여성에서는 피함
 
 #### <mark style="color:$primary;">β-차단제</mark>
@@ -467,7 +469,7 @@ flowchart TD
 #### <mark style="color:$primary;">항고혈압제 (ARB·ACE 억제제)</mark>
 
 * 편두통 예방은 모두 허가 외 사용
-* 삽화편두통 예방에 telmisartan, nifedipine, enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
+* 삽화편두통 예방에 telmisartan의 근거를 낮은 확실성으로 평가. 치료하지 않은 고혈압이 동반된 편두통 환자에게는 enalapril·nifedipine·telmisartan으로 두 질환을 함께 치료할 수 있음을 안내할 수 있음. 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * 대한두통학회는 candesartan(근거수준 I, 약한 찬성)과 lisinopril(근거수준 IV, 약한 찬성)을 고려할 수 있는 약제로 제시하고 nifedipine·telmisartan은 권고하지 않아 지침 간 차이가 있음 <mark style="color:$info;">\[Headache Pain Res 2025]</mark>
   * AAN/AHS 2026의 체계적 고찰은 2024년 6월까지의 연구를 바탕으로 함. 이후 발표된 삽화편두통 무작위시험에서 candesartan 16 ㎎/d가 위약보다 월 편두통일수를 유의하게 줄였음 <mark style="color:$info;">\[Lancet Neurol 2025]</mark>; 국내 지침과 동반 고혈압을 종합하여 선택
 * candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[</mark>[<mark style="color:blue;">아타칸</mark>](https://www.health.kr/drug/A11ABBBBB1383)<mark style="color:blue;">]</mark>
@@ -566,7 +568,8 @@ flowchart TD
 
 * 지속시간과 중증도를 제외하면 이전 발작과 전형적으로 유사하며, 72시간을 초과해 지속되고 통증 또는 동반 증상이 일상 기능을 현저히 저해하는 편두통 발작(정의는 위 「분류」 참조). 탈수·전해질 불균형 동반 가능
   * 약물과용두통 기준도 충족하면 해당 편두통 아형과 MOH를 함께 진단하고, 편두통지속상태를 별도로 진단하지 않음
-* 응급실 의뢰 고려
+* 72시간을 초과해 지속되면 당일 평가
+  * 반복 구토로 수분·약물 복용이 어렵거나 탈수·전해질 이상·저혈압이 동반된 경우, 또는 적절한 급성기 치료에도 통증이 조절되지 않으면 응급실 의뢰
 * 아래 비경구 치료 근거의 상당 부분은 status migrainosus만을 대상으로 한 연구가 아니라, 응급실에서 비경구 치료가 필요한 급성 편두통 전반의 연구에서 도출됨 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * IV 수액 : 탈수·경구 섭취 불량·저혈압이 있는 경우 0.9% 생리식염주사액 또는 하트만액 등 등장성 결정질액으로 교정; 모든 환자에게 일률적으로 투여하지 않음
 * IV metoclopramide(Level B) <mark style="color:blue;">\[</mark>[<mark style="color:blue;">맥페란주</mark>](https://www.health.kr/drug/A11A0570A0304)<mark style="color:blue;">]</mark>
@@ -655,7 +658,7 @@ flowchart TD
 >
 > 약제 정보: [에트라빌정·10 ㎎](https://www.health.kr/drug/A11A0570B0082)
 >
-> _✽저용량 취침 전 투여로 시작하며 졸림·입마름·변비·소변 저류 등 항콜린성 부작용에 주의. 고령자, BPH, 녹내장, 심장 전도장애 환자에서는 신중 사용; 우울증 동반 시 특히 유용할 수 있음. TCA 복용 중에는 타이레놀정500㎎ 등 해당 투여 금기가 있는 acetaminophen 품목을 병용하지 않고 돌발 두통의 급성기 약제를 별도로 선택_ (☞ [통증](../220_/001_-pain.md) 참조)
+> _✽저용량 취침 전 투여로 시작하며 졸림·입마름·변비·소변 저류 등 항콜린성 부작용에 주의. 고령자, BPH, 녹내장, 심장 전도장애 환자에서는 신중 사용; 우울증 동반 시 특히 유용할 수 있음. TCA 복용 중에는 acetaminophen을 병용하지 않고 돌발 두통의 급성기 약제를 별도로 선택_ (☞ [통증](../220_/001_-pain.md) 참조)
 
 ***
 
@@ -697,7 +700,8 @@ flowchart TD
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 편두통 발작이 72시간을 넘어 지속되는 경우
+> * 두통이 72시간을 넘게 지속되면 당일 진료를 받으십시오.
+> * 72시간이 되지 않았더라도 반복해서 토해 물이나 약을 먹지 못하거나, 의식이 흐려지면 즉시 응급실을 방문하십시오.
 > * 팔다리 마비·말 어눌함·언어 장애·한쪽 눈 시력 소실이 **갑자기** 생기면, 증상이 사라졌더라도 즉시 응급실을 방문하십시오.
 > * 새로 생긴 신경 증상이 완전히 회복되지 않은 경우에도 즉시 응급실을 방문하십시오.
 > * 처음 생겼거나 평소보다 심해진 마비·힘 빠짐은 조짐이라도 즉시 응급실을 방문하십시오.
@@ -757,6 +761,7 @@ flowchart TD
 
 * **두통이 시작될 때 바로** 복용하세요. 늦게 먹을수록 효과가 줄어듭니다.
 * 트립탄·복합진통제는 **한 달 10일 미만**, 단순진통제는 **한 달 15일 미만**으로 사용하세요.
+* 월 사용일수 제한 이내라도 두통약을 일주일에 2일 넘게 반복해서 먹어야 한다면 예방 치료가 필요한지 주치의와 상의하세요.
 * 예방약은 임의로 중단하지 말고 주치의와 상의하여 서서히 줄이십시오.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
@@ -773,7 +778,8 @@ flowchart TD
 * 처음 생겼거나 평소보다 심해진 마비·힘 빠짐은 조짐이라도 즉시 응급실로 가십시오.
 * 평소와 같은 조짐이라도 하나의 비운동성 조짐 증상이 1시간을 넘게 지속되면 즉시 응급실로 가십시오.
 * 위 응급 징후 없이, 처음 생기거나 평소와 다른 시각·감각 증상이 서서히 퍼졌다가 완전히 사라졌다면 당일 진료를 받으십시오.
-* 두통이 72시간을 넘게 지속되면 당일 진료를 받으십시오. 물을 못 마시거나 탈수·의식 변화가 있으면 즉시 응급실로 가십시오.
+* 두통이 72시간을 넘게 지속되면 당일 진료를 받으십시오.
+* 72시간이 되지 않았더라도 반복해서 토해 물이나 약을 먹지 못하거나, 의식이 흐려지면 즉시 응급실로 가십시오.
 * 평소와 전혀 다른 심한 두통이 갑자기 나타나면 즉시 응급실로 가십시오.
 
 ***

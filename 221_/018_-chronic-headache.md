@@ -298,7 +298,7 @@ class L followup;
     * 가임기 여성 : topiramate는 매우 효과적인 피임법을 사용할 때만, divalproex는 임신예방프로그램 요건을 모두 충족할 때만 투여
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
 * amitriptyline·nortriptyline 등 TCA를 예방약으로 선택할 때 급성기 약제도 함께 검토
-  * <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark> 등 TCA 복용 환자 투여금기가 있는 acetaminophen 품목은 병용하지 않음
+  * TCA 복용 환자에게 acetaminophen은 투여 금기이므로 병용하지 않음
   * 대체 진통제도 자체 금기와 MOH 위험을 확인(☞ [통증](../220_/001_-pain.md))
 * 만성편두통 동반 시 근거가 있는 예방약을 우선 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * AAN/AHS는 만성편두통 예방약으로 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate를 제시
@@ -318,7 +318,7 @@ class L followup;
 
 ## <mark style="color:red;">질병코드</mark>
 
-* G44.2 긴장형두통 Tension-type headache
+* G44.2 긴장형두통 Tension-type headache (만성긴장형두통 포함)
 * G44.3 만성 외상후 두통 Chronic post-traumatic headache
 * G44.4 달리 분류되지 않은 약물유발 두통 Drug-induced headache, NEC
 * G44.8 기타 명시된 두통증후군 Other specified headache syndromes

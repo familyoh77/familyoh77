@@ -4,9 +4,9 @@
 
 * 경추 또는 경부 연조직의 질환이나 병변에서 기원하는 2차성 두통
 * ICHD 기준을 적용한 유병률 자료는 매우 제한적임
-  * 2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음 \[Cephalalgia 2025]
-  * 노르웨이 일반 인구 연구 1건에서 지난 12개월 유병률은 3.9%였음 \[J Headache Pain 2018]
-  * 두통 전문 외래 연구 2건에서 두통으로 평가받은 성인 중 경추성두통의 비율은 통합 3.1%였음 \[Cephalalgia 2025]
+  * 2025년 체계적 문헌고찰의 적격 연구는 3건뿐이었음 <mark style="color:$info;">\[Cephalalgia 2025]</mark>
+  * 노르웨이 일반 인구 연구 1건에서 지난 12개월 유병률은 3.9%였음 <mark style="color:$info;">\[J Headache Pain 2018]</mark>
+  * 두통 전문 외래 연구 2건에서 두통으로 평가받은 성인 중 경추성두통의 비율은 통합 3.1%였음 <mark style="color:$info;">\[Cephalalgia 2025]</mark>
 * 진단에는 두통을 유발할 수 있는 경추·경부 병변과 두통 사이의 인과관계 확인이 중요
 * 보존치료 기간과 MRI·혈액검사·혈관영상의 선택은 의심 질환과 임상 경과에 따라 개별화
 
@@ -260,7 +260,7 @@ class B2,N,Q caution;
   * acetaminophen : 소화성궤양·TCA·바르비탈계 약물 복용 환자에게 투여 금기. amitriptyline, nortriptyline 투여 중에는 다른 진통제 선택
 * acetaminophen : 500\~1,000 ㎎ q6\~8h prn  <mark style="color:blue;">\[</mark>[<mark style="color:blue;">타이레놀 500 ㎎</mark>](https://www.health.kr/drug/2021082400002)<mark style="color:blue;">]</mark>; 반복 시 최소 6시간 간격(허가 용법은 4\~6시간 간격)
   * acetaminophen은 감기약 등 복합제에도 흔히 들어 있으므로 모든 공급원을 합산해 1일 최대 4 g, 반복·장기 사용 시 통상 3 g 이하를 권장; 간질환·상습 음주·저체중 등 위험요인에 따라 감량(☞ [통증](../220_/001_-pain.md))
-* naproxen : 250\~500 ㎎ bid prn <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센</mark>](https://www.health.kr/drug/A11A0120A0286)<mark style="color:blue;">]\(</mark>250 ㎎) · <mark style="color:blue;">\[</mark>[<mark style="color:blue;">낙센에프</mark>](https://www.health.kr/drug/A11A0120A0594)<mark style="color:blue;">]\(</mark>500 ㎎)
+* naproxen : [250](https://www.health.kr/drug/A11A0120A0286)\~[500](https://www.health.kr/drug/A11A0120A0594) ㎎ bid prn <mark style="color:blue;">\[낙센]</mark>
 * ibuprofen : [200](https://www.health.kr/drug/A11A0500A0097)\~[400](https://www.health.kr/drug/A11A0500A0131) ㎎ tid prn <mark style="color:blue;">\[부루펜]</mark>
 * acetaminophen·NSAID 등 비오피오이드 진통제의 복용일을 합산하여 월 ≥15일, 3개월 넘게 복용하면 약물과용두통의 원인이 될 수 있음. 번갈아 복용해도 총 복용일수로 세며, 같은 날 여러 약을 복용하면 하루로 셈 <mark style="color:$info;">\[ICHD-3]</mark>(☞ [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh))
   * 카페인 등을 함께 함유한 복합진통제를 월 ≥10일, 3개월 넘게 복용하면 약물과용에 해당됨
@@ -276,7 +276,7 @@ class B2,N,Q caution;
   * 현저한 간기능 장애 환자 및 강력한 CYP1A2 억제제(fluvoxamine·ciprofloxacin 등) 병용은 금기
   * 졸음·저혈압 위험을 고려하여 1\~2 ㎎ hs부터 시작하는 방법은 허가 외 용법임
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
-  * 속방정 10 ㎎ tid <mark style="color:blue;">\[시클펜]</mark> (2026년 11월 현재 장기 품절)
+  * 속방정 10 ㎎ tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">시클펜</mark>](https://health.kr/drug/A11A2500B0047)<mark style="color:blue;">]</mark> (공급 미확인)
   * ER 15 ㎎ qd, 필요시 최대 30 ㎎ qd <mark style="color:blue;">\[</mark>[<mark style="color:blue;">본렉스이알</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009071505791)<mark style="color:blue;">]</mark>
   * 금기 : 65세 이상, MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증; 간장애 환자에서 피함&#x20;
   * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
@@ -286,6 +286,10 @@ class B2,N,Q caution;
 * 동반 편두통·긴장형두통·우울·불면 또는 별도로 확인된 신경병증성 통증이 있을 때 해당 진단과 적응증에 따라 선택
 * 경추성두통 자체에 대한 근거가 약하므로 일률적으로 사용하지 않음
 * TCA 선택 시 급성기 진통제의 병용 금기를 함께 확인. acetaminophen과의 병용 금기
+* pregabalin : 정상 신기능에서 75 ㎎ bid로 시작 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">리리카</mark>](https://www.health.kr/drug/A11AOOOOO8537)<mark style="color:blue;">]</mark>
+  * 별도로 확인된 신경병증성 통증이 동반된 경우 해당 적응증에 따라 고려하며, 경추성두통 자체에 일률적으로 사용하지 않음
+  * 신기능·내약성에 따라 조절; 어지럼·졸음·말초부종에 주의
+  * (보험주의) 급여 인정 범위는 고시 제2019-191호 확인
 * duloxetine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">듀로셉톨</mark>](https://www.health.kr/drug/2014063000023)<mark style="color:blue;">]</mark> : 경추성두통 치료는 허가 외 사용. 동반 질환에 사용할 때는 해당 적응증·급여기준 확인
 
 ### <mark style="color:orange;">국소 NSAID 또는 lidocaine 패치</mark>
@@ -302,7 +306,7 @@ class B2,N,Q caution;
 #### <mark style="color:$primary;">후관절 진단차단과 고주파치료</mark>
 
 * 후관절을 지배하는 신경을 국소마취제로 차단하여 통증 반응을 평가하고, 의미 있는 완화가 확인되면 해당 신경의 고주파치료를 고려
-* 약 6주의 보존치료에도 통증·기능장애가 지속되고 후관절 기원 통증이 의심되면 통증중재 전문의에게 의뢰. 보존치료 기간은 개별화 \[Reg Anesth Pain Med 2022]
+* 약 6주의 보존치료에도 통증·기능장애가 지속되고 후관절 기원 통증이 의심되면 통증중재 전문의에게 의뢰. 보존치료 기간은 개별화 <mark style="color:$info;">\[Reg Anesth Pain Med 2022]</mark>
 
 #### <mark style="color:$primary;">외측 환축관절(C1\~2) 주사</mark>
 
@@ -426,15 +430,15 @@ class B2,N,Q caution;
 * [Rushton A, et al. International Framework for Examination of the Cervical Region for Potential of Vascular Pathologies of the Neck Prior to Musculoskeletal Intervention: International IFOMPT Cervical Framework. J Orthop Sports Phys Ther. 2023;53(1):7-22.](https://pubmed.ncbi.nlm.nih.gov/36099171/) - 경추 수기치료 전 혈관병리 평가와 위치유발검사의 한계
 * [Ogince M, Hall T, Robinson K, Blackmore AM. The diagnostic validity of the cervical flexion-rotation test in C1/2-related cervicogenic headache. Man Ther. 2007;12(3):256-262.](https://pubmed.ncbi.nlm.nih.gov/17112768/) - FRT 절단값 및 진단 타당도
 * [Yaghi S, et al. Treatment and Outcomes of Cervical Artery Dissection in Adults: A Scientific Statement From the American Heart Association. Stroke. 2024;55(3):e91-e106.](https://doi.org/10.1161/STR.0000000000000457) - 경부동맥 박리의 임상 단서와 혈관영상
-* [Mackie SL, et al. British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis. Rheumatology (Oxford). 2020;59(3):e1-e23.](https://doi.org/10.1093/rheumatology/kez027) - 거대세포동맥염의 응급 평가 및 치료
+* [Mackie SL, et al. British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis. Rheumatology (Oxford). 2020;59(3):e1-e23.](https://doi.org/10.1093/rheumatology/kez672) - 거대세포동맥염의 응급 평가 및 치료
 * [International Pain and Spine Intervention Society. Lateral Atlantoaxial Joint Access/Injection Safety Practices.](https://cdn.ymaws.com/www.ipsismed.org/resource/resmgr/safety/25/ipsis_safety_m2_4-facet-laaj.pdf) - 외측 환축관절 주사 영상 유도 및 안전
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항과 심사지침. 제9장 처치 및 수술료 등.](https://www.hira.or.kr/ebooksc/2024/08/BZ202408190383445.pdf) - 경피적 척추 고주파 열응고술(자482-1), 보건복지부 고시 제2020-19호
-* [건강보험심사평가원. Pregabalin 일반형 경구제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) - 신경병증성 통증 등 인정 범위
-* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239\&tp=notice) - 시클펜정 공급 예상 시점
+* [건강보험심사평가원. Pregabalin 일반형 경구제(리리카캡슐 등) 급여기준. 고시 제2019-191호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901\&mtgMtrRegSno=0013\&sno=6) - 신경병증성 통증 등 인정 범위
+* [강동경희대학교병원. 시클펜정 10 ㎎ 장기 품절 공지.](https://refer.khnmc.or.kr/ref_new/bbs_new/view.do?bid=31239\&tp=notice) - 시클펜정 공급 상태
 
 ***
 

@@ -302,7 +302,9 @@ class K followup;
   * 두통으로 인한 기능 장애가 중등도 이상이거나 일상생활이 현저히 제한됨
   * 급성기 치료 반응이 불충분하거나 금기/부작용이 있음
   * 급성기 약물 사용이 잦아 MOH 위험이 높거나 MOH가 반복됨
-* 예방치료 목표는 두통 빈도·강도와 기능장애를 의미 있게 감소시키는 것이며, 일반적으로 충분한 용량으로 2\~3개월 이상 사용 후 효과를 평가. 구체적인 예방 약제 선택은 각 질환별 챕터 참조
+* 예방치료 목표는 두통 빈도·강도와 기능장애를 의미 있게 감소시키는 것임
+  * 대부분의 편두통 예방약은 권장 내약 용량에 도달한 뒤 최소 8\~12주(약 2\~3개월) 투여 후 효과를 판정하며, onabotulinumtoxinA는 24주 후 판정 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
+  * 긴장형두통 등 다른 두통의 평가 시점과 구체적인 예방 약제 선택은 각 질환별 챕터 참조
 
 ***
 
@@ -353,7 +355,7 @@ class K followup;
 
 > **예방약 복용 안내**
 >
-> * 편두통 예방약은 즉효성 약물이 아니므로 충분한 용량으로 2\~3개월 이상 복용한 후 효과를 판단하도록 설명
+> * 편두통 예방약은 즉효성 약물이 아니므로 권장 용량에 도달한 뒤 8\~12주(약 2\~3개월) 이상 복용한 후 효과를 판단하도록 설명
 > * 효과가 있다고 느껴도 임의로 중단하지 않도록 안내
 > * verapamil은 시작 전·매 증량 후 및 유지 용량 도달 후의 정기 심전도 검사 일정을 안내. 실신·심한 어지럼·현저한 서맥이 생기면 즉시 평가하고, 변비·발목부종도 확인
 > * 산소 치료 중 흡연과 화기 접근을 금지
@@ -373,6 +375,7 @@ class K followup;
 
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * \[한국정신신체의학회 2019] [한국정신신체의학회. 두통 진료지침. 2019.](https://www.guideline.or.kr/guide/view.php?cate=A\&number=1082) - 1차 두통의 진단·영상검사 등을 다룬 13개 핵심질문
+* \[AAN/AHS 2026] [Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults: Practice Guideline Recommendations. Headache. 2026;66(9):2173-2184.](https://doi.org/10.1111/head.70199) - 편두통 예방약의 효과 판정 시점
 * \[NICE CG150] [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated June 3, 2025.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
 * \[ACR AC 2022] [Utukuri PS, et al. ACR Appropriateness Criteria® Headache: 2022 Update. J Am Coll Radiol. 2023;20(5S):S70-S93.](https://doi.org/10.1016/j.jacr.2023.02.018) - 신경학적 이상이 없는 1차성 두통의 영상검사 비권고와 2차성 두통 의심 시 영상 선택
 * [Do TP, et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology. 2019;92(3):134-144.](https://doi.org/10.1212/WNL.0000000000006697) - 2차성 두통의 경고 징후와 평가
